@@ -1,171 +1,165 @@
-## Th17 cells sense microbiome to promote depressive-like behaviors.
- 01.05.2023, _EM Medina-Rodriguez, J Watson, J Reyes, M Trivedi, E Beurel_
+## The structure of prevacuolar compartments in <em>Neurospora crassa</em> as observed with super-resolution microscopy 
 
-
-_Humans, Mice, Animals, Th17 Cells, Gastrointestinal Microbiome, Depression, Microbiota, Feces_
-Microbiome alterations have been associated with depression, and fecal transfer of depressed patients' microbiomes is sufficient to enhance despair behaviors in rodents. Yet little is known about the potential mechanisms, whereby microbes modulate depressive-like behaviors.
-
-[Source](https://doi.org/10.1186/s40168-022-01428-3)
-
-10.1186/s40168-022-01428-3
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282989)
 
 ---
 
-## Obese-associated gut microbes and derived phenolic metabolite as mediators of excessive motivation for food reward.
- 01.05.2023, _A de Wouters d'Oplinter, M Verce, SJP Huwart, J Lessard-Lord, C Depommier, M Van Hul, Y Desjardins, PD Cani, A Everard_
+## Phylogenetic trees of closely related bacterial species and subspecies based on frequencies of short nucleotide sequences.
+ 26.04.2023, _Y Nakano, Y Domon, K Yamagishi_
 
 
-_Mice, Animals, Motivation, Gastrointestinal Microbiome, Obesity, Food, Reward_
-Excessive hedonic consumption is one of the main drivers for weight gain. Identifying contributors of this dysregulation would help to tackle obesity. The gut microbiome is altered during obesity and regulates host metabolism including food intake.
+_Phylogeny, Base Sequence, Escherichia coli, RNA, Ribosomal, 16S, Biological Evolution, Bacteria, Shigella_
+Bacterial phylogenetic analyses are commonly performed to explore the evolutionary relationships among various bacterial species and genera based on their 16S rRNA gene sequences; however, these results are limited by mosaicism, intragenomic heterogeneity, and difficulties in distinguishing between related species. In this study, we aimed to perform genome-wide comparisons of different bacterial species, namely Escherichia coli, Shigella, Yersinia, Klebsiella, and Neisseria spp., based on their K-mer profiles to construct phylogenetic trees. Pentanucleotide frequency analyses (512 patterns of 5 nucleotides each) were performed to distinguish between highly similar species. Moreover, Escherichia albertii strains were clearly distinguished from E. coli and Shigella, despite being closely related to enterohemorrhagic E. coli in the phylogenetic tree. In addition, our phylogenetic tree of Ipomoea species based on pentamer frequency in chloroplast genomes was correlated with previously reported morphological similarities. Furthermore, a support vector machine clearly classified E. coli and Shigella genomes based on their pentanucleotide profiles. These results suggest that phylogenetic analyses based on penta- or hexamer profiles are a useful methodology for microbial phylogenetic studies. In addition, we introduced an R application, Phy5, which generates a phylogenetic tree based on genome-wide comparisons of pentamer profiles. The online version of Phy5 can be accessed at https://phy5.shinyapps.io/Phy5R/ and its command line version Phy5cli can be downloaded at https://github.com/YoshioNakano2021/phy5.
 
-[Source](https://doi.org/10.1186/s40168-023-01526-w)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268847)
 
-10.1186/s40168-023-01526-w
-
----
-
-## Alteration of taste perception, food neophobia and oral microbiota composition in children with food allergy.
- 02.05.2023, _E D'Auria, C Cattaneo, S Panelli, C Pozzi, M Acunzo, S Papaleo, F Comandatore, C Mameli, C Bandi, G Zuccotti, E Pagliarini_
-
-
-_Humans, Child, Taste Perception, Avoidant Restrictive Food Intake Disorder, Case-Control Studies, Taste, Food Hypersensitivity, Microbiota_
-Currently, the mechanisms underlying sensory perception and sensory performance in children with food allergies are far from being understood. As well, only recently, single research afforded the oral host-commensal milieu, addressing oral microbial communities in children with peanut allergies. To bridge the current gaps in knowledge both in the sensory and microbial fields, a psychophysiological case-control study was performed in allergic children (n = 29) and a healthy sex-age-matched control group (n = 30). Taste perception, food neophobia, and liking were compared in allergic and non-allergic children. The same subjects were characterized for their oral microbiota composition by addressing saliva to assess whether specific profiles were associated with the loss of oral tolerance in children with food allergies. Our study evidenced an impaired ability to correctly identify taste qualities in the allergic group compared to controls. These results were also consistent with anatomical data related to the fungiform papillae on the tongue, which are lower in number in the allergic group. Furthermore, distinct oral microbial profiles were associated with allergic disease, with significant down-representations of the phylum Firmicutes and of the genera Veillonella spp., Streptococcus spp., Prevotella spp., and Neisseria spp. For the first time, this study emphasizes the link between sensory perception and food allergy, which is a novel and whole-organism view of this pathology. Our data indicated that an impaired taste perception, as regards both functionality and physiologically, was associated with food allergy, which marginally influences the food neophobia attitude. It is also accompanied by compositional shifts in oral microbiota, which is, in turn, another actor of this complex interplay and is deeply interconnected with mucosal immunity. This multidisciplinary research will likely open exciting new approaches to therapeutic interventions.
-
-[Source](https://doi.org/10.1038/s41598-023-34113-y)
-
-10.1038/s41598-023-34113-y
+10.1371/journal.pone.0268847
 
 ---
 
-## Translocating <em>Lactobacillus</em> torments tumors via tryptophan catabolism
+## Unmasking the tissue-resident eukaryotic DNA virome in humans.
+ 28.04.2023, _L Pyöriä, D Pratas, M Toppinen, K Hedman, A Sajantila, MF Perdomo_
 
-[Source](https://www.cell.com/cell/fulltext/S0092-8674(23)00285-4)
 
----
+_Humans, DNA, Viral, Eukaryota, Virome, Viruses, Genome, Human, Organ Specificity_
+Little is known on the landscape of viruses that reside within our cells, nor on the interplay with the host imperative for their persistence. Yet, a lifetime of interactions conceivably have an imprint on our physiology and immune phenotype. In this work, we revealed the genetic make-up and unique composition of the known eukaryotic human DNA virome in nine organs (colon, liver, lung, heart, brain, kidney, skin, blood, hair) of 31 Finnish individuals. By integration of quantitative (qPCR) and qualitative (hybrid-capture sequencing) analysis, we identified the DNAs of 17 species, primarily herpes-, parvo-, papilloma- and anello-viruses (&gt;80% prevalence), typically persisting in low copies (mean 540 copies/ million cells). We assembled in total 70 viral genomes (&gt;90% breadth coverage), distinct in each of the individuals, and identified high sequence homology across the organs. Moreover, we detected variations in virome composition in two individuals with underlying malignant conditions. Our findings reveal unprecedented prevalences of viral DNAs in human organs and provide a fundamental ground for the investigation of disease correlates. Our results from post-mortem tissues call for investigation of the crosstalk between human DNA viruses, the host, and other microbes, as it predictably has a significant impact on our health.
 
-## Global trends in research related to the links between microbiota and antibiotics: a visualization study
+[Source](https://academic.oup.com/nar/article/51/7/3223/7084602?login=true)
 
-[Source](https://doi.org/10.1038/s41598-023-34187-8)
-
----
-
-## Modulation of antibiotic effects on microbial communities by resource competition
-
-[Source](https://doi.org/10.1038/s41467-023-37895-x)
+10.1093/nar/gkad199
 
 ---
 
-## Less is more: Antibiotics at the beginning of life
+## Predicting partner fitness based on spatial structuring in a light-driven microbial community
 
-[Source](https://doi.org/10.1038/s41467-023-38156-7)
-
----
-
-## The interaction between autophagy, <em>Helicobacter pylori</em>, and gut microbiota in gastric carcinogenesis
-
-[Source](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(23)00113-0)
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011045)
 
 ---
 
-## The orchestra of human bacteriome by hormones
+## Evaluation of alcohol-free mouthwash for studies of the oral microbiome.
+ 01.05.2023, _Y Yano, E Vogtmann, AH Shreves, SJ Weinstein, A Black, N Diaz-Mayoral, Y Wan, W Zhou, X Hua, CL Dagnall, A Hutchinson, K Jones, BD Hicks, K Wyatt, M Brotzman, N Gerlanc, WY Huang, PS Albert, N Wentzensen, CC Abnet_
 
-[Source](https://doi.org/10.1016/j.micpath.2023.106125)
 
----
+_Humans, Mouthwashes, RNA, Ribosomal, 16S, Microbiota, Ethanol, Bacteria_
+Oral bacteria play important roles in human health and disease. Oral samples collected using ethanol-containing mouthwash are widely used for oral microbiome studies. However, ethanol is flammable and not ideal for transportation/storage in large quantities, and some individuals may avoid ethanol due to the burning sensation or due to various personal, medical, religious, and/or cultural factors. Here, we compared ethanol-free and ethanol-containing mouthwashes using multiple microbiome metrics and assessed the stability of the mouthwash samples stored up to 10 days before processing. Forty volunteers provided oral wash samples collected using ethanol-free and ethanol-containing mouthwashes. From each sample, one aliquot was immediately frozen, one was stored at 4°C for 5 days and frozen, while the third aliquot was stored for 5 days at 4°C and 5 days at ambient temperature to mimic shipping delays and then frozen. DNA was extracted, the 16S rRNA gene V4 region was amplified and sequenced, and bioinformatic processing was performed using QIIME 2. Microbiome metrics measured in the two mouthwash types were very similar, with intraclass correlation coefficients (ICCs) for alpha and beta diversity metrics greater than 0.85. Relative abundances of some taxa were significantly different, but ICCs of the top four most abundant phyla and genera were high (&gt; 0.75) for the comparability of the mouthwashes. Stability during delayed processing was also high for both mouthwashes based on alpha and beta diversity measures and relative abundances of the top four phyla and genera (ICCs ≥ 0.90). These results demonstrate ethanol-free mouthwash performs similarly to ethanol-containing mouthwash for microbial analyses, and both mouthwashes are stable for at least 10 days without freezing prior to laboratory processing. Ethanol-free mouthwash is suitable for collecting and shipping oral wash samples, and these results have important implications for planning future epidemiologic studies of the oral microbiome.
 
-## Targeting the human gut microbiome with small-molecule inhibitors
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284956)
 
-[Source](https://doi.org/10.1038/s41570-023-00471-4)
-
----
-
-## A precision environmental health approach to prevention of human disease
-
-[Source](https://doi.org/10.1038/s41467-023-37626-2)
+10.1371/journal.pone.0284956
 
 ---
 
-## Emerging role of bacterial outer membrane vesicle in gastrointestinal tract
+## A systematically biosynthetic investigation of lactic acid bacteria reveals diverse antagonistic bacteriocins that potentially shape the human microbiome.
+ 29.04.2023, _D Zhang, J Zhang, S Kalimuthu, J Liu, ZM Song, BB He, P Cai, Z Zhong, C Feng, P Neelakantan, YX Li_
 
-[Source](https://doi.org/10.1186/s13099-023-00543-2)
 
----
+_Female, Humans, Bacteriocins, Lactobacillales, Microbiota, Metagenome, Anti-Bacterial Agents_
+Lactic acid bacteria (LAB) produce various bioactive secondary metabolites (SMs), which endow LAB with a protective role for the host. However, the biosynthetic potentials of LAB-derived SMs remain elusive, particularly in their diversity, abundance, and distribution in the human microbiome. Thus, it is still unknown to what extent LAB-derived SMs are involved in microbiome homeostasis.
 
-## The Gut Microbiota – Brain Axis: Potential Mechanism of Drug Addiction
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01540-y)
 
-[Source](https://doi.org/10.2174/1568026623666230418114133)
-
----
-
-## The effects of live and pasteurized <em>Akkermansia muciniphila</em> on DSS-induced ulcerative colitis, gut microbiota, and metabolomics in mice
-
-[Source](https://doi.org/10.1039/d2fo03493j)
+10.1186/s40168-023-01540-y
 
 ---
 
-## Inulin diet uncovers complex diet-microbiota-immune cell interactions remodeling the gut epithelium
+## Positive mood-related gut microbiota in a long-term closed environment: a multiomics study based on the “Lunar Palace 365” experiment
 
-[Source](https://doi.org/10.1186/s40168-023-01520-2)
-
----
-
-## Tumor-targeting engineered probiotic <em>Escherichia coli</em> Nissle 1917 inhibits colorectal tumorigenesis and modulates gut microbiota homeostasis in mice
-
-[Source](https://doi.org/10.1016/j.lfs.2023.121709)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01506-0)
 
 ---
 
-## Intestinal epigenotype of Atlantic salmon (<em>Salmo salar</em>) associates with tenacibaculosis and gut microbiota composition
+## <em>Wolbachia</em> infection in native populations of<em> Blattella germanica</em> and <em>Periplaneta americana</em>
 
-[Source](https://doi.org/10.1016/j.ygeno.2023.110629)
-
----
-
-## Environmental Effects on Bee Microbiota
-
-[Source](https://doi.org/10.1007/s00248-023-02226-6)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284704)
 
 ---
 
-## Illuminating the Oral Microbiome and its Host Interactions: Animal models of disease
+## Bacterial and fungal community composition and community-level physiological profiles in forest soils.
+ 27.04.2023, _T Kunito, S Hibino, H Sumi, K Sawada, HD Park, K Nagaoka_
 
-[Source](https://doi.org/10.1093/femsre/fuad018)
 
----
+_Mycobiome, Soil Microbiology, Soil, RNA, Ribosomal, 16S, Bacteria, Forests_
+We characterized the potential functioning and composition of the bacterial and fungal communities in the O and A horizons of forest soils using community-level physiological profile (CLPP) based on BIOLOG analysis, and polymerase chain reaction-denaturing gradient gel electrophoresis (PCR-DGGE) analysis of 16S and 18S rDNA fragments, respectively. In addition, relationships between the potential functioning and the community composition in each horizon, and between the O and A horizons, were assessed using Procrustes analysis. For the bacterial and fungal communities, the CLPP and DGGE profile were clearly separated between the O and A horizons in a principal coordinate analysis except for the fungal CLPP. No significant links for CLPP and DGGE profile between the O and A horizons were observed for either bacterial or fungal communities, suggesting that different factors had considerable influence on the microbial communities between the O and A horizons. Significant couplings between bacterial and fungal DGGE profiles (p &lt;0.05 for O horizon; p &lt;0.01 for A horizon), and between bacterial and fungal CLPPs (p = 0.001 for O horizon; p &lt;0.01 for A horizon), were observed in the O and A horizons, implying that common factors strongly influenced the bacterial and fungal communities in each horizon. Although a significant correlation was observed between bacterial community composition and the potential functioning in the A horizon (p &lt;0.01), such a correlation was not observed for the fungal community in the A horizon, and for the bacterial and fungal communities in the O horizon. This finding suggested that potential functioning, which would reflect only rapidly growing microorganisms, was not strongly associated with the composition of the entire microbial community. Further studies are needed to unravel the factors shaping the composition and functioning of microbial communities in forest soils.
 
-## How does plant sex alter microbiota assembly in dioecious plants?
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284817)
 
-[Source](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(23)00094-X)
-
----
-
-## Compositional Changes in Sediment Microbiota Are Associated with Seasonal Variation of the Water Column in High-Altitude Hyperarid Andean Lake Systems
-
-[Source](https://doi.org/10.1128/spectrum.05200-22)
+10.1371/journal.pone.0284817
 
 ---
 
-## Dynamics of microbial community composition during degradation of silks in burial environment.
- 01.05.2023, _B Wang, C Zhu, Y Hu, B Zhang, J Wang_
+## Predicting microbial community compositions in wastewater treatment plants using artificial neural networks.
+ 01.05.2023, _X Liu, Y Nie, XL Wu_
 
 
-The silk residues in the soil formed the unique niche, termed "silksphere." Here, we proposed a hypothesis that silksphere microbiota have great potential as a biomarker for unraveling the degradation of the ancient silk textiles with great archaeological and conservation values. To test our hypothesis, in this study, we monitored the dynamics of microbial community composition during silk degradation via both indoor soil microcosmos model and outdoor environment with amplicon sequencing against 16S and ITS gene. Microbial community divergence was evaluated with Welch two sample t-test, PCoA, negative binomial generalized log-linear model and clustering, etc. Community assembly mechanisms differences between silksphere and bulk soil microbiota were compared with dissimilarity-overlap curve (DOC) model, Neutral model and Null model. A well-established machine learning algorithm, random forest, was also applied to the screening of potential biomarkers of silk degradation. The results illustrated the ecological and microbial variability during the microbial degradation of silk. Vast majority of microbes populating the silksphere microbiota strongly diverged from those in bulk soil. Certain microbial flora can serve as an indicator of silk degradation, which would lead to a novel perspective to perform identification of archaeological silk residues in the field. To sum up, this study provides a new perspective to perform the identification of archaeological silk residue through the dynamics of microbial communities.
+_Wastewater, Sewage, Microbiota, Water Purification, Polyphosphates_
+Activated sludge (AS) of wastewater treatment plants (WWTPs) is one of the world's largest artificial microbial ecosystems and the microbial community of the AS system is closely related to WWTPs' performance. However, how to predict its community structure is still unclear.
 
-[Source](https://doi.org/10.1016/j.scitotenv.2023.163694)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01519-9)
 
-10.1016/j.scitotenv.2023.163694
+10.1186/s40168-023-01519-9
 
 ---
 
-## DeepMicroGen: a generative adversarial network based method for longitudinal microbiome data imputation.
- 26.04.2023, _JM Choi, M Ji, LT Watson, L Zhang_
+## Open ocean and coastal strains of the N2-fixing cyanobacterium UCYN-A have distinct transcriptomes.
+ 04.05.2023, _MDC Muñoz-Marín, JD Magasin, JP Zehr_
 
 
-The human microbiome which is linked to various diseases by growing evidence, has a profound impact on human health. Since changes in the composition of the microbiome across time are associated with disease and clinical outcomes, microbiome analysis should be performed in a longitudinal study. However, due to limited sample sizes and differing numbers of timepoints for different subjects, a significant amount of data cannot be utilized, directly affecting the quality of analysis results. Deep generative models have been proposed to address this lack of data issue. Specifically, a generative adversarial network (GAN) has been successfully utilized for data augmentation to improve prediction tasks. Recent studies have also shown improved performance of GAN-based models for missing value imputation in a multivariate time series dataset compared to traditional imputation methods.
+_Seawater, Transcriptome, Cyanobacteria, Nitrogen Fixation, Oceans and Seas, Nitrogen_
+Decades of research on marine N2 fixation focused on Trichodesmium, which are generally free-living cyanobacteria, but in recent years the endosymbiotic cyanobacterium Candidatus Atelocyanobacterium thalassa (UCYN-A) has received increasing attention. However, few studies have shed light on the influence of the host versus the habitat on UCYN-A N2 fixation and overall metabolism. Here we compared transcriptomes from natural populations of UCYN-A from oligotrophic open-ocean versus nutrient-rich coastal waters, using a microarray that targets the full genomes of UCYN-A1 and UCYN-A2 and known genes for UCYN-A3. We found that UCYN-A2, usually regarded as adapted to coastal environments, was transcriptionally very active in the open ocean and appeared to be less impacted by habitat change than UCYN-A1. Moreover, for genes with 24 h periodic expression we observed strong but inverse correlations among UCYN-A1, A2, and A3 to oxygen and chlorophyll, which suggests distinct host-symbiont relationships. Across habitats and sublineages, genes for N2 fixation and energy production had high transcript levels, and, intriguingly, were among the minority of genes that kept the same schedule of diel expression. This might indicate different regulatory mechanisms for genes that are critical to the symbiosis for the exchange of nitrogen for carbon from the host. Our results underscore the importance of N2 fixation in UCYN-A symbioses across habitats, with consequences for community interactions and global biogeochemical cycles.
 
-[Source](https://doi.org/10.1093/bioinformatics/btad286)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272674)
 
-10.1093/bioinformatics/btad286
+10.1371/journal.pone.0272674
+
+---
+
+## Meta-organism gene expression reveals that the impact of nitrate enrichment on coral larvae is mediated by their associated Symbiodiniaceae and prokaryotic assemblages.
+ 29.04.2023, _H Tong, F Zhang, J Sun, SE McIlroy, W Zhang, Y Wang, H Huang, G Zhou, PY Qian_
+
+
+_Animals, Anthozoa, Nitrates, Larva, Coral Reefs, Dinoflagellida, Symbiosis, Transcriptome_
+Coral meta-organisms consist of the coral, and its associated Symbiodiniaceae (dinoflagellate algae), bacteria, and other microbes. Corals can acquire photosynthates from Symbiodiniaceae, whilst Symbiodiniaceae uses metabolites from corals. Prokaryotic microbes provide Symbiodiniaceae with nutrients and support the resilience of corals as meta-organisms. Eutrophication is a major cause of coral reef degradation; however, its effects on the transcriptomic response of coral meta-organisms remain unclear, particularly for prokaryotic microbes associated with corals in the larval stage. To understand acclimation of the coral meta-organism to elevated nitrate conditions, we analyzed the physiological and transcriptomic responses of Pocillopora damicornis larvae, an ecologically important scleractinian coral, after 5 days of exposure to elevated nitrate levels (5, 10, 20, and 40 µM).
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01495-0)
+
+10.1186/s40168-023-01495-0
+
+---
+
+## Ten simple rules for working with other people's code.
+ 24.04.2023, _C Pilgrim, P Kent, K Hosseini, E Chalstrey_
+
+
+
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011031)
+
+10.1371/journal.pcbi.1011031
+
+---
+
+## Predicting microbe organisms using data of living micro forms of life and hybrid microbes classifier.
+ 24.04.2023, _A Raza, F Rustam, HUR Siddiqui, IT Diez, I Ashraf_
+
+
+_Humans, Algorithms, Seroepidemiologic Studies, Machine Learning_
+Microbe organisms make up approximately 60% of the earth's living matter and the human body is home to millions of microbe organisms. Microbes are microbial threats to health and may lead to several diseases in humans like toxoplasmosis and malaria. The microbiological toxoplasmosis disease in humans is widespread, with a seroprevalence of 3.6-84% in sub-Saharan Africa. This necessitates an automated approach for microbe organisms detection. The primary objective of this study is to predict microbe organisms in the human body. A novel hybrid microbes classifier (HMC) is proposed in this study which is based on a decision tree classifier and extra tree classifier using voting criteria. Experiments involve different machine learning and deep learning models for detecting ten different living microforms of life. Results suggest that the proposed HMC approach achieves a 98% accuracy score, 98% geometric mean score, 97% precision score, and 97% Cohen Kappa score. The proposed model outperforms employed models, as well as, existing state-of-the-art models. Moreover, the k-fold cross-validation corroborates the results as well. The research helps microbiologists identify the type of microbe organisms with high accuracy and prevents many diseases through early detection.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284522)
+
+10.1371/journal.pone.0284522
+
+---
+
+## iPHoP: An integrated machine learning framework to maximize host prediction for metagenome-derived viruses of archaea and bacteria.
+ 05.05.2023, _S Roux, AP Camargo, FH Coutinho, SM Dabdoub, BE Dutilh, S Nayfach, A Tritt_
+
+
+_Archaea, Metagenome, Viruses, Bacteria, Metagenomics, Machine Learning, Genome, Viral_
+The extraordinary diversity of viruses infecting bacteria and archaea is now primarily studied through metagenomics. While metagenomes enable high-throughput exploration of the viral sequence space, metagenome-derived sequences lack key information compared to isolated viruses, in particular host association. Different computational approaches are available to predict the host(s) of uncultivated viruses based on their genome sequences, but thus far individual approaches are limited either in precision or in recall, i.e., for a number of viruses they yield erroneous predictions or no prediction at all. Here, we describe iPHoP, a two-step framework that integrates multiple methods to reliably predict host taxonomy at the genus rank for a broad range of viruses infecting bacteria and archaea, while retaining a low false discovery rate. Based on a large dataset of metagenome-derived virus genomes from the IMG/VR database, we illustrate how iPHoP can provide extensive host prediction and guide further characterization of uncultivated viruses.
+
+[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002083)
+
+10.1371/journal.pbio.3002083
 
 ---
 
