@@ -74,16 +74,9 @@ Lactic acid bacteria (LAB) produce various bioactive secondary metabolites (SMs)
 
 ---
 
-## Bacterial and fungal community composition and community-level physiological profiles in forest soils.
- 27.04.2023, _T Kunito, S Hibino, H Sumi, K Sawada, HD Park, K Nagaoka_
-
-
-_Mycobiome, Soil Microbiology, Soil, RNA, Ribosomal, 16S, Bacteria, Forests_
-We characterized the potential functioning and composition of the bacterial and fungal communities in the O and A horizons of forest soils using community-level physiological profile (CLPP) based on BIOLOG analysis, and polymerase chain reaction-denaturing gradient gel electrophoresis (PCR-DGGE) analysis of 16S and 18S rDNA fragments, respectively. In addition, relationships between the potential functioning and the community composition in each horizon, and between the O and A horizons, were assessed using Procrustes analysis. For the bacterial and fungal communities, the CLPP and DGGE profile were clearly separated between the O and A horizons in a principal coordinate analysis except for the fungal CLPP. No significant links for CLPP and DGGE profile between the O and A horizons were observed for either bacterial or fungal communities, suggesting that different factors had considerable influence on the microbial communities between the O and A horizons. Significant couplings between bacterial and fungal DGGE profiles (p &lt;0.05 for O horizon; p &lt;0.01 for A horizon), and between bacterial and fungal CLPPs (p = 0.001 for O horizon; p &lt;0.01 for A horizon), were observed in the O and A horizons, implying that common factors strongly influenced the bacterial and fungal communities in each horizon. Although a significant correlation was observed between bacterial community composition and the potential functioning in the A horizon (p &lt;0.01), such a correlation was not observed for the fungal community in the A horizon, and for the bacterial and fungal communities in the O horizon. This finding suggested that potential functioning, which would reflect only rapidly growing microorganisms, was not strongly associated with the composition of the entire microbial community. Further studies are needed to unravel the factors shaping the composition and functioning of microbial communities in forest soils.
+## Bacterial and fungal community composition and community-level physiological profiles in forest soils
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284817)
-
-10.1371/journal.pone.0284817
 
 ---
 
