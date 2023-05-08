@@ -96,15 +96,15 @@ Psychiatric disorders are mental illnesses involving changes in mood, cognition 
 
 ---
 
-## Syngeneic mouse model of human HER2+ metastatic breast cancer for the evaluation of trastuzumab emtansine combined with oncolytic rhabdovirus.
- 08.05.2023, _Z Taha, MJF Crupi, N Alluqmani, F Fareez, K Ng, J Sobh, E Lee, A Chen, M Thomson, MM Spinelli, CS Ilkow, JC Bell, R Arulanandam, JS Diallo_
+## Perspectives of Rare Disease Experts on Newborn Genome Sequencing.
+ 08.05.2023, _NB Gold, SM Adelson, N Shah, S Williams, SL Bick, ES Zoltick, JI Gold, A Strong, R Ganetzky, AE Roberts, M Walker, AM Holtz, VG Sankaran, O Delmonte, W Tan, IA Holm, JR Thiagarajah, J Kamihara, J Comander, E Place, J Wiggs, RC Green_
 
 
-Established mouse models of HER2+ cancer are based on the over-expression of rodent Neu/Erbb2 homologues, which are incompatible with human HER2 (huHER2) targeted therapeutics. Additionally, the use of immune-deficient xenograft or transgenic models precludes assessment of native anti-tumour immune responses. These hurdles have been a challenge for our understanding of the immune mechanisms behind huHER2-targeting immunotherapies.
+Newborn genome sequencing (NBSeq) can detect infants at risk for treatable disorders currently undetected by conventional newborn screening. Despite broad stakeholder support for NBSeq, the perspectives of rare disease experts regarding which diseases should be screened have not been ascertained.
 
 [Source](https://doi.org/10.1136/gutjnl-2022-327952)
 
-10.3389/fimmu.2023.1181014
+10.1001/jamanetworkopen.2023.12231
 
 ---
 
