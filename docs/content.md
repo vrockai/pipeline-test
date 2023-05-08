@@ -1,7 +1,8 @@
 ## Microbial β-glucuronidases drive human periodontal disease etiology.
- 07.05.2023, _AD Lietzan, JB Simpson, WG Walton, PB Jariwala, Y Xu, MH Boynton, J Liu, MR Redinbo_
+ 08.05.2023, _AD Lietzan, JB Simpson, WG Walton, PB Jariwala, Y Xu, MH Boynton, J Liu, MR Redinbo_
 
 
+_Humans, Glucuronidase, Gastrointestinal Microbiome, Periodontal Diseases, Microbiota, Periodontitis, Enzyme Inhibitors_
 Periodontitis is a chronic inflammatory disease associated with persistent oral microbial dysbiosis. The human β-glucuronidase (GUS) degrades constituents of the periodontium and is used as a biomarker for periodontitis severity. However, the human microbiome also encodes GUS enzymes, and the role of these factors in periodontal disease is poorly understood. Here, we define the 53 unique GUSs in the human oral microbiome and examine diverse GUS orthologs from periodontitis-associated pathogens. Oral bacterial GUS enzymes are more efficient polysaccharide degraders and processers of biomarker substrates than the human enzyme, particularly at pHs associated with disease progression. Using a microbial GUS-selective inhibitor, we show that GUS activity is reduced in clinical samples obtained from individuals with untreated periodontitis and that the degree of inhibition correlates with disease severity. Together, these results establish oral GUS activity as a biomarker that captures both host and microbial contributions to periodontitis, facilitating more efficient clinical monitoring and treatment paradigms for this common inflammatory disease.
 
 [Source](https://doi.org/10.1126/sciadv.adg3390)
@@ -35,9 +36,10 @@ Although observational studies have identified relations between gut microbiota 
 ---
 
 ## Changes in the intestinal microbiota of children with hand, foot, and mouth disease under 3 years old.
- 07.05.2023, _SY Zhu, YZ Jiang, N Shen, M Li, HJ Yin, JB Qiao_
+ 08.05.2023, _SY Zhu, YZ Jiang, N Shen, M Li, HJ Yin, JB Qiao_
 
 
+_Infant, Humans, Child, Child, Preschool, Gastrointestinal Microbiome, Hand, Foot and Mouth Disease, Microbiota, Sequence Analysis, Feces, RNA, Ribosomal, 16S_
 This study aimed to clarify the characteristics of intestinal microbiota in children with hand, foot, and mouth disease (HFMD) under 3 years old. Fresh feces were collected from 54 children with HFMD and 30 healthy children. All of them were &lt;3 years old. Sequencing of the 16S rDNA amplicons was performed. Between the 2 groups, the richness, diversity, and structure of the intestinal microbiota were analyzed by α-diversity and β-diversity. Linear discriminant analysis and LEfSe analyses were used to compare different bacterial classifications. The sex and age of the children in the 2 groups were not statistically significant (P = .92 and P = .98, respectively). Compared to healthy children, the Shannon index, Ace index, and Chao index were lower in children with HFMD (P = .027, P = .012, and P = .012, respectively). Based on the weighted or unweighted UniFrac distance analysis, the structure of the intestinal microbiota in HFMD was also significantly changed (P = .002 and P &lt; .001, respectively). Linear discriminant analysis and LEfSe analysis showed that the changes of key bacteria were manifested as a decrease in Prevotella and Clostridium_XIVa (P &lt; .001 and P &lt; .001, respectively), while Escherichia and Bifidobacterium increased (P = .025 and P = .001, respectively). Children with HFMD under 3 years of age have intestinal microbiota disorder and show a decrease in diversity and richness. The decrease in the abundance of Prevotella and Clostridium, which can produce short-chain fatty acids, is also one of the characteristics of the change. These results can offer a theoretical foundation for the pathogenesis and microecological treatment of HFMD in infants.
 
 [Source](https://doi.org/10.1097/MD.0000000000033687)
@@ -47,9 +49,10 @@ This study aimed to clarify the characteristics of intestinal microbiota in chil
 ---
 
 ## Reduced microbial diversity of the nasopharyngeal microbiome in household contacts with latent tuberculosis infection.
- 07.05.2023, _C Ruiz-Tagle, JA Ugalde, R Naves, R Araos, P García, ME Balcells_
+ 08.05.2023, _C Ruiz-Tagle, JA Ugalde, R Naves, R Araos, P García, ME Balcells_
 
 
+_Humans, Latent Tuberculosis, Prospective Studies, RNA, Ribosomal, 16S, Tuberculosis, Interferon-gamma Release Tests, Mycobacterium tuberculosis, Microbiota_
 The upper respiratory tract is an obliged pathway for respiratory pathogens and a healthy microbiota may support the host's mucosal immunity preventing infection. We analyzed the nasopharyngeal microbiome in tuberculosis household contacts (HHCs) and its association with latent tuberculosis infection (TBI). A prospective cohort of HHCs was established and latent TBI status was assessed by serial interferon-γ release assay (IGRA). Nasopharyngeal swabs collected at baseline were processed for 16S rRNA gene sequencing. The 82 participants included in the analysis were classified as: (a) non-TBI [IGRA negative at baseline and follow-up, no active TB (n = 31)], (b) pre-TBI [IGRA negative at baseline but converted to IGRA positive or developed active TB at follow-up (n = 16)], and (c) TBI [IGRA positive at enrollment (n = 35)]. Predominant phyla were Actinobacteriota, Proteobacteria, Firmicutes and Bacteroidota. TBI group had a lower alpha diversity compared to non-TBI (padj = 0.04) and pre-TBI (padj = 0.04). Only TBI and non-TBI had beta diversity differences (padj = 0.035). Core microbiomes' had unique genera, and genus showed differential abundance among groups. HHCs with established latent TBI showed reduced nasopharyngeal microbial diversity with distinctive taxonomical composition. Whether a pre-existing microbiome feature favors, are a consequence, or protects against Mycobacterium tuberculosis needs further investigation.
 
 [Source](https://doi.org/10.1038/s41598-023-34052-8)
@@ -70,9 +73,10 @@ The upper respiratory tract is an obliged pathway for respiratory pathogens and 
 ---
 
 ## The saga of non-traditional risk factors continues with proteomics, microbiome, ozone, ketone bodies, and depression: let us rethink prevention.
- 06.05.2023, _F Crea_
+ 08.05.2023, _F Crea_
 
 
+_Humans, Ketone Bodies, Depression, Proteomics, Ozone, Risk Factors, Microbiota_
 
 [Source](https://doi.org/10.1093/eurheartj/ehad233)
 
@@ -92,15 +96,15 @@ Psychiatric disorders are mental illnesses involving changes in mood, cognition 
 
 ---
 
-## OX40 shapes an inflamed tumor immune microenvironment and predicts response to immunochemotherapy in diffuse large B-cell lymphoma.
- 07.05.2023, _Y Lu, Y Li, J Yu, S Meng, C Bi, Q Guan, L Li, L Qiu, Z Qian, S Zhou, W Gong, B Meng, X Ren, J Armitage, H Zhang, K Fu, X Wang_
+## Syngeneic mouse model of human HER2+ metastatic breast cancer for the evaluation of trastuzumab emtansine combined with oncolytic rhabdovirus.
+ 08.05.2023, _Z Taha, MJF Crupi, N Alluqmani, F Fareez, K Ng, J Sobh, E Lee, A Chen, M Thomson, MM Spinelli, CS Ilkow, JC Bell, R Arulanandam, JS Diallo_
 
 
-OX40 enhances the T-cell activation via costimulatory signaling. However, its molecular characteristics and value in predicting response to immunochemotherapy in DLBCL remain largely unexplored. Here, we performed an integrative analysis of sequencing and multiplex immunofluorescence staining, and discovered abnormally higher expression of OX40 in DLBCL patients. Elevated OX40 could activate T cells leading to a higher immune score for tumor immune microenvironment (TiME). OX40 upregulation simultaneously happened with immune-related genes including PD-1, CTLA4 and TIGIT et,al. Patients with high OX40 expression exhibited a lower Ann Arbor stage and IPI score and more easily achieved a complete response/partial response. The analysis of infiltrated T-cell subset revealed that patients with a greater number of CD4+/OX40+ or CD8+/OX40+ T cells had a longer OS. Our findings indicated that OX40 shapes an inflamed tumor immune microenvironment and predicts response to immunochemotherapy, providing insights for the application of OX40 agonist in DLBCL patients.
+Established mouse models of HER2+ cancer are based on the over-expression of rodent Neu/Erbb2 homologues, which are incompatible with human HER2 (huHER2) targeted therapeutics. Additionally, the use of immune-deficient xenograft or transgenic models precludes assessment of native anti-tumour immune responses. These hurdles have been a challenge for our understanding of the immune mechanisms behind huHER2-targeting immunotherapies.
 
 [Source](https://doi.org/10.1136/gutjnl-2022-327952)
 
-10.1016/j.clim.2023.109637
+10.3389/fimmu.2023.1181014
 
 ---
 
@@ -123,9 +127,10 @@ L-Fucose is one of the key metabolites in human-gut microbiome interactions. It 
 ---
 
 ## Vitamin K2 supplementation improves impaired glycemic homeostasis and insulin sensitivity for type 2 diabetes through gut microbiome and fecal metabolites.
- 07.05.2023, _Y Zhang, L Liu, C Wei, X Wang, R Li, X Xu, Y Zhang, G Geng, K Dang, Z Ming, X Tao, H Xu, X Yan, J Zhang, J Hu, Y Li_
+ 08.05.2023, _Y Zhang, L Liu, C Wei, X Wang, R Li, X Xu, Y Zhang, G Geng, K Dang, Z Ming, X Tao, H Xu, X Yan, J Zhang, J Hu, Y Li_
 
 
+_Mice, Animals, Humans, Gastrointestinal Microbiome, Insulin Resistance, Vitamin K 2, Diabetes Mellitus, Type 2, RNA, Ribosomal, 16S, Feces, Glucose, Obesity, Dietary Supplements, Homeostasis_
 There is insufficient evidence for the ability of vitamin K2 to improve type 2 diabetes mellitus symptoms by regulating gut microbial composition. Herein, we aimed to demonstrate the key role of the gut microbiota in the improvement of impaired glycemic homeostasis and insulin sensitivity by vitamin K2 intervention.
 
 [Source](https://doi.org/10.1186/s12916-023-02880-0)
@@ -147,9 +152,10 @@ Intermittent fasting (IF) has a protective role across a wide range of chronic d
 ---
 
 ## Gut microbiome of mealworms (Tenebrio molitor Larvae) show similar responses to polystyrene and corn straw diets.
- 07.05.2023, _T Mamtimin, H Han, A Khan, P Feng, Q Zhang, X Ma, Y Fang, P Liu, S Kulshrestha, T Shigaki, X Li_
+ 08.05.2023, _T Mamtimin, H Han, A Khan, P Feng, Q Zhang, X Ma, Y Fang, P Liu, S Kulshrestha, T Shigaki, X Li_
 
 
+_Animals, Polystyrenes, Tenebrio, Larva, Gastrointestinal Microbiome, Lignin, Zea mays, Escherichia coli, Plastics, Diet_
 Some insects can degrade both natural and synthetic plastic polymers, their host and gut microbes play crucial roles in this process. However, there is still a scientific gap in understanding how the insect adapted to the polystyrene (PS) diet from natural feed. In this study, we analyzed diet consumption, gut microbiota responses, and metabolic pathways of Tenebrio molitor larvae exposed to PS and corn straw (CS).
 
 [Source](https://doi.org/10.1186/s40168-023-01550-w)
