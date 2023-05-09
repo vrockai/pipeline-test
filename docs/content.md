@@ -96,15 +96,15 @@ Psychiatric disorders are mental illnesses involving changes in mood, cognition 
 
 ---
 
-## Perspectives of Rare Disease Experts on Newborn Genome Sequencing.
- 08.05.2023, _NB Gold, SM Adelson, N Shah, S Williams, SL Bick, ES Zoltick, JI Gold, A Strong, R Ganetzky, AE Roberts, M Walker, AM Holtz, VG Sankaran, O Delmonte, W Tan, IA Holm, JR Thiagarajah, J Kamihara, J Comander, E Place, J Wiggs, RC Green_
+## Exploration of Verticillins in High-Grade Serous Ovarian Cancer and Evaluation of Multiple Formulations in Preclinical In Vitro and In Vivo Models.
+ 08.05.2023, _EN Kaweesa, JM Bazioli, HC Pierre, DD Lantvit, SK Kulp, KL Hill, MA Phelps, CC Coss, JR Fuchs, CJ Pearce, NH Oberlies, JE Burdette_
 
 
-Newborn genome sequencing (NBSeq) can detect infants at risk for treatable disorders currently undetected by conventional newborn screening. Despite broad stakeholder support for NBSeq, the perspectives of rare disease experts regarding which diseases should be screened have not been ascertained.
+Verticillins are epipolythiodioxopiperazine alkaloids isolated from a fungus with nanomolar anti-tumor activity in high-grade serous ovarian cancer (HGSOC). HGSOC is the fifth leading cause of death in women, and natural products continue to be an inspiration for new drug entities to help tackle chemoresistance. Verticillin D was recently found in a new fungal strain and compared to verticillin A. Both compounds exhibited nanomolar cytotoxic activity against OVCAR4 and OVCAR8 HGSOC cell lines, significantly reduced 2D foci and 3D spheroids, and induced apoptosis. In addition, verticillin A and verticillin D reduced tumor burden in vivo using OVCAR8 xenografts in the peritoneal space as a model. Unfortunately, mice treated with verticillin D displayed signs of liver toxicity. Tolerability studies to optimize verticillin A formulation for in vivo delivery were performed and compared to a semi-synthetic succinate version of verticillin A to monitor bioavailability in athymic nude females. Formulation of verticillins achieved tolerable drug delivery. Thus, formulation studies are effective at improving tolerability and demonstrating efficacy for verticillins.
 
 [Source](https://doi.org/10.1136/gutjnl-2022-327952)
 
-10.1001/jamanetworkopen.2023.12231
+10.1021/acs.molpharmaceut.3c00069
 
 ---
 
