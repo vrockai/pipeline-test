@@ -102,15 +102,15 @@ The gut microbiome regulates emotional behavior, stress responses, and inflammat
 
 ---
 
-## Immunotherapy resistance driven by loss of NY-ESO-1 expression in response to transgenic adoptive cellular therapy with PD-1 blockade.
- 08.05.2023, _L Frankiw, A Singh, C Peters, B Comin-Anduix, B Berent-Maoz, M Macabali, K Shammaie, C Quiros, P Kaplan-Lefko, I Baselga Carretero, A Ribas, TS Nowicki_
+## Hypoimmune induced pluripotent stem cells survive long term in fully immunocompetent, allogeneic rhesus macaques.
+ 08.05.2023, _X Hu, K White, AG Olroyd, R DeJesus, AA Dominguez, WE Dowdle, AM Friera, C Young, F Wells, EY Chu, CE Ito, H Krishnapura, S Jain, R Ankala, TJ McGill, A Lin, K Egenberger, A Gagnon, J Michael Rukstalis, NJ Hogrebe, C Gattis, R Basco, JR Millman, P Kievit, MM Davis, LL Lanier, AJ Connolly, T Deuse, S Schrepfer_
 
 
-The tumor antigen NY-ESO-1 has been shown to be an effective target for transgenic adoptive cell therapy (ACT) for the treatment of sarcoma and melanoma. However, despite frequent early clinical responses, many patients ultimately develop progressive disease. Understanding the mechanisms underlying treatment resistance is crucial to improve future ACT protocols. Here, we describe a novel mechanism of treatment resistance in sarcoma involving loss of expression of NY-ESO-1 in response to transgenic ACT with dendritic cell (DC) vaccination and programmed cell death protein-1 (PD-1) blockade.
+Genetic engineering of allogeneic cell therapeutics that fully prevents rejection by a recipient's immune system would abolish the requirement for immunosuppressive drugs or encapsulation and support large-scale manufacturing of off-the-shelf cell products. Previously, we generated mouse and human hypoimmune pluripotent (HIP) stem cells by depleting HLA class I and II molecules and overexpressing CD47 (B2M-/-CIITA-/-CD47+). To determine whether this strategy is successful in non-human primates, we engineered rhesus macaque HIP cells and transplanted them intramuscularly into four allogeneic rhesus macaques. The HIP cells survived unrestricted for 16 weeks in fully immunocompetent allogeneic recipients and differentiated into several lineages, whereas allogeneic wild-type cells were vigorously rejected. We also differentiated human HIP cells into endocrinologically active pancreatic islet cells and showed that they survived in immunocompetent, allogeneic diabetic humanized mice for 4 weeks and ameliorated diabetes. HIP-edited primary rhesus macaque islets survived for 40 weeks in an allogeneic rhesus macaque recipient without immunosuppression, whereas unedited islets were quickly rejected.
 
 [Source](https://doi.org/10.1136/gutjnl-2022-327952)
 
-10.1136/jitc-2023-006930
+10.1038/s41587-023-01784-x
 
 ---
 
