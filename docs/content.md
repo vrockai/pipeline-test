@@ -84,27 +84,33 @@ _Humans, Ketone Bodies, Depression, Proteomics, Ozone, Risk Factors, Microbiota_
 
 ---
 
-## Stress, inflammation, microbiome and depression.
- 06.05.2023, _EM Medina-Rodriguez, AA Cruz, JC De Abreu, E Beurel_
+## Role of PPAR-allopregnanolone signaling in behavioral and inflammatory gut-brain axis communications.
+ 08.05.2023, _G Pinna_
 
 
-Psychiatric disorders are mental illnesses involving changes in mood, cognition and behavior. Their prevalence has rapidly increased in the last decades. One of the most prevalent psychiatric disorders is major depressive disorder (MDD), a debilitating disease lacking efficient treatments. Increasing evidence shows that microbial and immunological changes contribute to the pathophysiology of depression and both are modulated by stress. This bidirectional relationship constitutes the brain-gut axis involving various neuroendocrine, immunological, neuroenterocrine and autonomic pathways. The present review covers the most recent findings on the relationships between stress, the gut microbiome and the inflammatory response and their contribution to depression.
+The gut microbiome regulates emotional behavior, stress responses, and inflammatory processes by communicating with the brain. How and which neurobiological mediators underlie this communication remain poorly understood. Peroxisome proliferator-activated receptor (PPAR)-α, a transcription factor susceptible to epigenetic modifications, regulates pathophysiological functions, including metabolic syndrome, inflammation, and behavior. Mood disorders, inflammatory processes, and obesity are intertwined phenomena that associate with low blood concentrations of the anti-inflammatory and "endogenous tranquilizer" neurosteroid, allopregnanolone and poor PPAR-α function. Stress and consumption of obesogenic diets repress PPAR function in brain, enterocytes, lipocytes, and in immune modulatory cells favoring inflammation, lipogenesis, and mood instability. Conversely, micronutrients and modulators of PPAR-α function improve microbiome composition, dampen systemic inflammation and lipogenesis, and improve anxiety and depression. In rodent stress models of anxiety and depression, PPAR-activation normalizes both PPAR-α expression downregulation and decreased allopregnanolone content and ameliorates depressive-like behavior and fear responses. PPAR-α is known to regulate metabolic and inflammatory processes activated by short chain fatty acids, endocannabinoids, and congeners, such as N-palmitoylethanolamide, drugs that treat dyslipidemias; and micronutrients, including polyunsaturated fatty acids. Both PPAR-α and allopregnanolone are abundantly expressed in the colon and they exert potent anti-inflammatory actions by blocking toll-like receptor-4-NFkB pathway in peripheral immune cells, neurons, and glia. The perspective that PPAR-α regulation in the colon by gut microbiota or metabolites influences central allopregnanolone content after trafficking to the brain -thereby serving as a mediator of gut-brain axis communications- is examined.
 
 [Source](https://doi.org/10.1016/j.pbb.2023.173561)
 
-10.1016/j.pbb.2023.173561
+10.1016/j.biopsych.2023.04.025
 
 ---
 
-## Exploration of Verticillins in High-Grade Serous Ovarian Cancer and Evaluation of Multiple Formulations in Preclinical In Vitro and In Vivo Models.
- 08.05.2023, _EN Kaweesa, JM Bazioli, HC Pierre, DD Lantvit, SK Kulp, KL Hill, MA Phelps, CC Coss, JR Fuchs, CJ Pearce, NH Oberlies, JE Burdette_
+## Stress, inflammation, microbiome and depression
+
+[Source](https://doi.org/10.1016/j.pbb.2023.173561)
+
+---
+
+## Immunotherapy resistance driven by loss of NY-ESO-1 expression in response to transgenic adoptive cellular therapy with PD-1 blockade.
+ 08.05.2023, _L Frankiw, A Singh, C Peters, B Comin-Anduix, B Berent-Maoz, M Macabali, K Shammaie, C Quiros, P Kaplan-Lefko, I Baselga Carretero, A Ribas, TS Nowicki_
 
 
-Verticillins are epipolythiodioxopiperazine alkaloids isolated from a fungus with nanomolar anti-tumor activity in high-grade serous ovarian cancer (HGSOC). HGSOC is the fifth leading cause of death in women, and natural products continue to be an inspiration for new drug entities to help tackle chemoresistance. Verticillin D was recently found in a new fungal strain and compared to verticillin A. Both compounds exhibited nanomolar cytotoxic activity against OVCAR4 and OVCAR8 HGSOC cell lines, significantly reduced 2D foci and 3D spheroids, and induced apoptosis. In addition, verticillin A and verticillin D reduced tumor burden in vivo using OVCAR8 xenografts in the peritoneal space as a model. Unfortunately, mice treated with verticillin D displayed signs of liver toxicity. Tolerability studies to optimize verticillin A formulation for in vivo delivery were performed and compared to a semi-synthetic succinate version of verticillin A to monitor bioavailability in athymic nude females. Formulation of verticillins achieved tolerable drug delivery. Thus, formulation studies are effective at improving tolerability and demonstrating efficacy for verticillins.
+The tumor antigen NY-ESO-1 has been shown to be an effective target for transgenic adoptive cell therapy (ACT) for the treatment of sarcoma and melanoma. However, despite frequent early clinical responses, many patients ultimately develop progressive disease. Understanding the mechanisms underlying treatment resistance is crucial to improve future ACT protocols. Here, we describe a novel mechanism of treatment resistance in sarcoma involving loss of expression of NY-ESO-1 in response to transgenic ACT with dendritic cell (DC) vaccination and programmed cell death protein-1 (PD-1) blockade.
 
 [Source](https://doi.org/10.1136/gutjnl-2022-327952)
 
-10.1021/acs.molpharmaceut.3c00069
+10.1136/jitc-2023-006930
 
 ---
 
