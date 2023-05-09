@@ -1,5 +1,5 @@
 ## Microbial β-glucuronidases drive human periodontal disease etiology.
- 08.05.2023, _AD Lietzan, JB Simpson, WG Walton, PB Jariwala, Y Xu, MH Boynton, J Liu, MR Redinbo_
+ 09.05.2023, _AD Lietzan, JB Simpson, WG Walton, PB Jariwala, Y Xu, MH Boynton, J Liu, MR Redinbo_
 
 
 _Humans, Glucuronidase, Gastrointestinal Microbiome, Periodontal Diseases, Microbiota, Periodontitis, Enzyme Inhibitors_
@@ -102,15 +102,15 @@ The gut microbiome regulates emotional behavior, stress responses, and inflammat
 
 ---
 
-## Hypoimmune induced pluripotent stem cells survive long term in fully immunocompetent, allogeneic rhesus macaques.
- 08.05.2023, _X Hu, K White, AG Olroyd, R DeJesus, AA Dominguez, WE Dowdle, AM Friera, C Young, F Wells, EY Chu, CE Ito, H Krishnapura, S Jain, R Ankala, TJ McGill, A Lin, K Egenberger, A Gagnon, J Michael Rukstalis, NJ Hogrebe, C Gattis, R Basco, JR Millman, P Kievit, MM Davis, LL Lanier, AJ Connolly, T Deuse, S Schrepfer_
+## Identification and validation of miR-583 and mir-877-5p as biomarkers in patients with breast cancer: an integrated experimental and bioinformatics research.
+ 09.05.2023, _Z Foruzandeh, MR Alivand, M Ghiami-Rad, M Zaefizadeh, S Ghorbian_
 
 
-Genetic engineering of allogeneic cell therapeutics that fully prevents rejection by a recipient's immune system would abolish the requirement for immunosuppressive drugs or encapsulation and support large-scale manufacturing of off-the-shelf cell products. Previously, we generated mouse and human hypoimmune pluripotent (HIP) stem cells by depleting HLA class I and II molecules and overexpressing CD47 (B2M-/-CIITA-/-CD47+). To determine whether this strategy is successful in non-human primates, we engineered rhesus macaque HIP cells and transplanted them intramuscularly into four allogeneic rhesus macaques. The HIP cells survived unrestricted for 16 weeks in fully immunocompetent allogeneic recipients and differentiated into several lineages, whereas allogeneic wild-type cells were vigorously rejected. We also differentiated human HIP cells into endocrinologically active pancreatic islet cells and showed that they survived in immunocompetent, allogeneic diabetic humanized mice for 4 weeks and ameliorated diabetes. HIP-edited primary rhesus macaque islets survived for 40 weeks in an allogeneic rhesus macaque recipient without immunosuppression, whereas unedited islets were quickly rejected.
+Breast cancer (BC) is one of the most common cancers with a high mortality rate in women worldwide. The advantages of early cancer diagnosis are apparent, and it is a critical factor in increasing the patient's life and survival. According to mounting evidence, microRNAs (miRNAs) may be crucial regulators of critical biological processes. miRNA dysregulation has been linked to the beginning and progression of various human malignancies, including BC, and can operate as tumor suppressors or oncomiRs. This study aimed to identify novel miRNA biomarkers in BC tissues and non-tumor adjacent tissues of patients with BC. Microarray datasets GSE15852 and GSE42568 for differentially expressed genes (DEGs) and GSE45666, GSE57897, and GSE40525 for differentially expressed miRNAs (DEMs) retrieved from the Gene Expression Omnibus (GEO) database were analyzed using "R" software. A protein-protein interaction (PPI) network was created to identify the hub genes. MirNet, miRTarBase, and MirPathDB databases were used to predict DEMs targeted genes. Functional enrichment analysis was used to demonstrate the topmost classifications of molecular pathways. The prognostic capability of selected DEMs was evaluated through a Kaplan-Meier plot. Moreover, the specificity and sensitivity of detected miRNAs to discriminate BC from adjacent controls were assessed by area under the curve (AUC) using the ROC curve analysis. In the last phase of this study, gene expression on 100 BC tissues and 100 healthy adjacent tissues were analyzed and calculated by using the Real-Time PCR method.
 
 [Source](https://doi.org/10.1136/gutjnl-2022-327952)
 
-10.1038/s41587-023-01784-x
+10.1186/s13104-023-06343-w
 
 ---
 
@@ -158,7 +158,7 @@ Intermittent fasting (IF) has a protective role across a wide range of chronic d
 ---
 
 ## Gut microbiome of mealworms (Tenebrio molitor Larvae) show similar responses to polystyrene and corn straw diets.
- 08.05.2023, _T Mamtimin, H Han, A Khan, P Feng, Q Zhang, X Ma, Y Fang, P Liu, S Kulshrestha, T Shigaki, X Li_
+ 09.05.2023, _T Mamtimin, H Han, A Khan, P Feng, Q Zhang, X Ma, Y Fang, P Liu, S Kulshrestha, T Shigaki, X Li_
 
 
 _Animals, Polystyrenes, Tenebrio, Larva, Gastrointestinal Microbiome, Lignin, Zea mays, Escherichia coli, Plastics, Diet_
