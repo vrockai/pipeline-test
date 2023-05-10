@@ -102,15 +102,15 @@ The gut microbiome regulates emotional behavior, stress responses, and inflammat
 
 ---
 
-## Identification and validation of miR-583 and mir-877-5p as biomarkers in patients with breast cancer: an integrated experimental and bioinformatics research.
- 09.05.2023, _Z Foruzandeh, MR Alivand, M Ghiami-Rad, M Zaefizadeh, S Ghorbian_
+## Paraconulones A-G: Eremophilane Sesquiterpenoids from the Marine-Derived Fungus Paraconiothyrium sporulosum DL-16.
+ 09.05.2023, _B Sun, D Wang, J Ren, C Wang, P Yan, KR Gustafson, W Jiang_
 
 
-Breast cancer (BC) is one of the most common cancers with a high mortality rate in women worldwide. The advantages of early cancer diagnosis are apparent, and it is a critical factor in increasing the patient's life and survival. According to mounting evidence, microRNAs (miRNAs) may be crucial regulators of critical biological processes. miRNA dysregulation has been linked to the beginning and progression of various human malignancies, including BC, and can operate as tumor suppressors or oncomiRs. This study aimed to identify novel miRNA biomarkers in BC tissues and non-tumor adjacent tissues of patients with BC. Microarray datasets GSE15852 and GSE42568 for differentially expressed genes (DEGs) and GSE45666, GSE57897, and GSE40525 for differentially expressed miRNAs (DEMs) retrieved from the Gene Expression Omnibus (GEO) database were analyzed using "R" software. A protein-protein interaction (PPI) network was created to identify the hub genes. MirNet, miRTarBase, and MirPathDB databases were used to predict DEMs targeted genes. Functional enrichment analysis was used to demonstrate the topmost classifications of molecular pathways. The prognostic capability of selected DEMs was evaluated through a Kaplan-Meier plot. Moreover, the specificity and sensitivity of detected miRNAs to discriminate BC from adjacent controls were assessed by area under the curve (AUC) using the ROC curve analysis. In the last phase of this study, gene expression on 100 BC tissues and 100 healthy adjacent tissues were analyzed and calculated by using the Real-Time PCR method.
+Seven new eremophilane sesquiterpenoids, paraconulones A-G (1-7), along with three previously reported analogues, periconianone D (8), microsphaeropsisin (9), and 4-epi-microsphaeropsisin (10), were obtained from an EtOAc extract of the marine-derived fungus Paraconiothyrium sporulosum DL-16. The structures of these compounds were elucidated by extensive spectroscopic and spectrometric analyses, single-crystal X-ray diffraction, and computational studies. Compounds 1, 2, and 4 are the first examples of dimeric eremophilane sesquiterpenoids coupled through a C-C bond identified from microorganisms. Compounds 2-5, 7, and 10 showed inhibitory effects on lipopolysaccharide-induced NO production in BV2 cells, which were comparable to the positive control curcumin.
 
 [Source](https://doi.org/10.1136/gutjnl-2022-327952)
 
-10.1186/s13104-023-06343-w
+10.1021/acs.jnatprod.3c00221
 
 ---
 
