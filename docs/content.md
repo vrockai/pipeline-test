@@ -102,15 +102,15 @@ The gut microbiome regulates emotional behavior, stress responses, and inflammat
 
 ---
 
-## Paraconulones A-G: Eremophilane Sesquiterpenoids from the Marine-Derived Fungus Paraconiothyrium sporulosum DL-16.
- 09.05.2023, _B Sun, D Wang, J Ren, C Wang, P Yan, KR Gustafson, W Jiang_
+## Modulation of the oxidative damage, inflammation, and apoptosis-related genes by dicinnamoyl-L-tartaric acid in liver cancer.
+ 09.05.2023, _A Elmetwalli, SM Hashish, MG Hassan, MA El-Magd, SA El-Naggar, AM Tolba, AF Salama_
 
 
-Seven new eremophilane sesquiterpenoids, paraconulones A-G (1-7), along with three previously reported analogues, periconianone D (8), microsphaeropsisin (9), and 4-epi-microsphaeropsisin (10), were obtained from an EtOAc extract of the marine-derived fungus Paraconiothyrium sporulosum DL-16. The structures of these compounds were elucidated by extensive spectroscopic and spectrometric analyses, single-crystal X-ray diffraction, and computational studies. Compounds 1, 2, and 4 are the first examples of dimeric eremophilane sesquiterpenoids coupled through a C-C bond identified from microorganisms. Compounds 2-5, 7, and 10 showed inhibitory effects on lipopolysaccharide-induced NO production in BV2 cells, which were comparable to the positive control curcumin.
+Cancer cells can become resistant to existing treatments over time, so it is important to develop new treatments that target different pathways to stay ahead of this resistance. Many cancer treatments have severe side effects that can be debilitating and even life-threatening. Developing drugs that can effectively treat cancer while minimizing the risks of these side effects is essential for improving the quality of life of cancer patients. The study was designed to explore whether the combination of dicinnamoyl-L-tartaric (CLT) and sorafenib ((SOR), an anti-cancer drug)) could be used to treat hepatocellular carcinoma (HCC) in the animal model and to assess whether this combination would lead to changes in certain biomarkers associated with the tumour. In this study, 120 male mice were divided into 8 groups of 15 mice each. A number of biochemical parameters were measured, including liver functions, oxidative stress (malondialdehyde, (MDA); nitric oxide (NO)), and antioxidative activity (superoxide dismutase (SOD), and glutathione peroxidase (GPx)). Furthermore, the hepatic expressions of Bax, Beclin1, TNF-α, IL1β, and BCl-2 genes were evaluated by qRT-PCR. The combination of SOR and CLT was found to reduce the levels of liver enzymes, such as AST, ALT, ALP, and GGT, and reduce the pathological changes caused by DAB and PB. The upregulation of TNF-α, IL1β, and Bcl-2 genes suggests that the CLT was able to initiate an inflammatory response to combat the tumor, while the downregulation of the Bax and Beclin1 genes indicates that the CLT was able to reduce the risk of apoptosis in the liver. Furthermore, the combination therapy led to increased expression of cytokines, resulting in an enhanced anti-tumor effect.
 
 [Source](https://doi.org/10.1136/gutjnl-2022-327952)
 
-10.1021/acs.jnatprod.3c00221
+10.1007/s00210-023-02511-8
 
 ---
 
