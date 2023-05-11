@@ -11,9 +11,15 @@ Periodontitis is a chronic inflammatory disease associated with persistent oral 
 
 ---
 
-## Vaginal epithelial dysfunction is mediated by the microbiome, metabolome, and mTOR signaling
+## Vaginal epithelial dysfunction is mediated by the microbiome, metabolome, and mTOR signaling.
+ 07.05.2023, _AR Berard, DK Brubaker, K Birse, A Lamont, RD Mackelprang, L Noël-Romas, M Perner, X Hou, E Irungu, N Mugo, S Knodel, TR Muwonge, E Katabira, SM Hughes, C Levy, FL Calienes, DA Lauffenburger, JM Baeten, C Celum, F Hladik, J Lingappa, AD Burgener_
+
+
+Bacterial vaginosis (BV) is characterized by depletion of Lactobacillus and overgrowth of anaerobic and facultative bacteria, leading to increased mucosal inflammation, epithelial disruption, and poor reproductive health outcomes. However, the molecular mediators contributing to vaginal epithelial dysfunction are poorly understood. Here we utilize proteomic, transcriptomic, and metabolomic analyses to characterize biological features underlying BV in 405 African women and explore functional mechanisms in vitro. We identify five major vaginal microbiome groups: L. crispatus (21%), L. iners (18%), Lactobacillus (9%), Gardnerella (30%), and polymicrobial (22%). Using multi-omics we show that BV-associated epithelial disruption and mucosal inflammation link to the mammalian target of rapamycin (mTOR) pathway and associate with Gardnerella, M. mulieris, and specific metabolites including imidazole propionate. Experiments in vitro confirm that type strain G. vaginalis and M. mulieris supernatants and imidazole propionate directly affect epithelial barrier function and activation of mTOR pathways. These results find that the microbiome-mTOR axis is a central feature of epithelial dysfunction in BV.
 
 [Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00485-0)
+
+10.1016/j.celrep.2023.112474
 
 ---
 
@@ -96,15 +102,15 @@ Patients after liver transplantation are often impacted by mental and even neuro
 
 ---
 
-## Phage-display immunoprecipitation sequencing of the antibody epitope repertoire in inflammatory bowel disease reveals distinct antibody signatures.
- 10.05.2023, _AR Bourgonje, S Andreu-Sánchez, T Vogl, S Hu, A Vich Vila, R Gacesa, S Leviatan, A Kurilshikov, S Klompus, IN Kalka, HM van Dullemen, A Weinberger, MC Visschedijk, EAM Festen, KN Faber, C Wijmenga, G Dijkstra, E Segal, J Fu, A Zhernakova, RK Weersma_
+## Electronic cigarette, or vaping, product use-associated lung injury (EVALI) in a patient with testicular cancer: A case report.
+ 11.05.2023, _J Stein, HE Kay, J Sites, A Pirzadeh, BL Joyner, T Darville, MA Bjurlin, TL Rose, I Jaspers, MI Milowsky_
 
 
-Inflammatory bowel diseases (IBDs), e.g., Crohn's disease (CD) and ulcerative colitis (UC), are chronic immune-mediated inflammatory diseases. A comprehensive overview of an IBD-specific antibody epitope repertoire is, however, lacking. Using high-throughput phage-display immunoprecipitation sequencing (PhIP-Seq), we identified antibodies against 344,000 antimicrobial, immune, and food antigens in 497 individuals with IBD compared with 1,326 controls. IBD was characterized by 373 differentially abundant antibody responses (202 overrepresented and 171 underrepresented), with 17% shared by both IBDs, 55% unique to CD, and 28% unique to UC. Antibody reactivities against bacterial flagellins dominated in CD and were associated with ileal involvement, fibrostenotic disease, and anti-Saccharomyces cerevisiae antibody positivity, but not with fecal microbiome composition. Antibody epitope repertoires accurately discriminated CD from controls (area under the curve [AUC] = 0.89), and similar discrimination was achieved when using only ten antibodies (AUC = 0.87). Individuals with IBD thus show a distinct antibody repertoire against selected peptides, allowing clinical stratification and discovery of immunological targets.
+Electronic cigarette, or vaping, product use-associated lung injury (EVALI) is an increasingly recognized entity with the potential for severe pulmonary toxicity. We present the case of a young man first evaluated at a tertiary care center in the United States in 2019 with newly diagnosed testicular cancer with acute respiratory failure, which was initially attributed to possible metastatic disease but eventually determined to be related to EVALI. This case highlights the clinical features of EVALI, the potential diagnostic dilemma that can arise with EVALI when occurring in the setting of malignancy and the importance of inquiring about vaping use among patients with malignancy, especially in adolescents and young adults.
 
 [Source](https://doi.org/10.1136/gutjnl-2022-327952)
 
-10.1016/j.immuni.2023.04.017
+10.1177/03008916231172806
 
 ---
 
