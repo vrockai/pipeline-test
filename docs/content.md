@@ -102,15 +102,15 @@ Patients after liver transplantation are often impacted by mental and even neuro
 
 ---
 
-## Electronic cigarette, or vaping, product use-associated lung injury (EVALI) in a patient with testicular cancer: A case report.
- 11.05.2023, _J Stein, HE Kay, J Sites, A Pirzadeh, BL Joyner, T Darville, MA Bjurlin, TL Rose, I Jaspers, MI Milowsky_
+## PP2A modulation overcomes multidrug resistance in chronic lymphocytic leukemia via mPTP-dependent apoptosis.
+ 11.05.2023, _KD Jayappa, B Tran, VL Gordon, CG Morris, S Saha, CC Farrington, CM O'Connor, KP Zawacki, KM Isaac, M Kester, TP Bender, ME Williams, CA Portell, MJ Weber, G Narla_
 
 
-Electronic cigarette, or vaping, product use-associated lung injury (EVALI) is an increasingly recognized entity with the potential for severe pulmonary toxicity. We present the case of a young man first evaluated at a tertiary care center in the United States in 2019 with newly diagnosed testicular cancer with acute respiratory failure, which was initially attributed to possible metastatic disease but eventually determined to be related to EVALI. This case highlights the clinical features of EVALI, the potential diagnostic dilemma that can arise with EVALI when occurring in the setting of malignancy and the importance of inquiring about vaping use among patients with malignancy, especially in adolescents and young adults.
+Targeted therapies such as venetoclax (Bcl-2 inhibitor) have revolutionized the treatment of chronic lymphocytic leukemia (CLL). We previously reported that persister CLL cells in treated patients overexpress multiple anti-apoptotic proteins and display resistance to pro-apoptotic agents. Here, we demonstrated that multidrug resistant CLL cells in vivo exhibit apoptosis restriction at a premitochondrial level due to insufficient activation of the Bax and Bak proteins. Co-immunoprecipitation analyses with selective BH-domain antagonists revealed that the pleotropic pro-apoptotic protein (Bim) is prevented from activating Bax/Bak by "switching" interactions to other upregulated anti-apoptotic proteins (Mcl-1/Bcl-xL/Bcl-2). Hence, treatments that bypass Bax/Bak restriction are required to deplete these resistant cells in patients. Protein Phosphatase 2A (PP2A) contributes to oncogenesis and treatment resistance. We observed that a small molecule activator of PP2A (SMAP) induced cytotoxicity in multiple cancer cell lines and CLL samples, including multidrug resistant leukemia/lymphoma cells. The SMAP (DT-061) activated apoptosis in multidrug resistant CLL cells through induction of mitochondrial permeability transition pores (mPTP), independent of Bax/Bak. DT-061 inhibited the growth of wild type and Bax/Bak double knockout multidrug resistant CLL cells in a xenograft mouse model. Collectively, we discovered multidrug resistant CLL cells in patients, and validated a pharmacologically tractable pathway to deplete this reservoir.
 
 [Source](https://doi.org/10.1136/gutjnl-2022-327952)
 
-10.1177/03008916231172806
+10.1172/JCI155938
 
 ---
 
