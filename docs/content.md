@@ -84,15 +84,15 @@ _Humans, Ketone Bodies, Depression, Proteomics, Ozone, Risk Factors, Microbiota_
 
 ---
 
-## Role of PPAR-allopregnanolone signaling in behavioral and inflammatory gut-brain axis communications.
- 08.05.2023, _G Pinna_
+## Neuropsychiatric sequelae after liver transplantation and their possible mechanism via the microbiota-gut-liver-brain axis.
+ 10.05.2023, _W Jing, C Bi, Z Fang, C Qian, J Chen, J Yu, G Tian, M Ye, Z Liu_
 
 
-The gut microbiome regulates emotional behavior, stress responses, and inflammatory processes by communicating with the brain. How and which neurobiological mediators underlie this communication remain poorly understood. Peroxisome proliferator-activated receptor (PPAR)-α, a transcription factor susceptible to epigenetic modifications, regulates pathophysiological functions, including metabolic syndrome, inflammation, and behavior. Mood disorders, inflammatory processes, and obesity are intertwined phenomena that associate with low blood concentrations of the anti-inflammatory and "endogenous tranquilizer" neurosteroid, allopregnanolone and poor PPAR-α function. Stress and consumption of obesogenic diets repress PPAR function in brain, enterocytes, lipocytes, and in immune modulatory cells favoring inflammation, lipogenesis, and mood instability. Conversely, micronutrients and modulators of PPAR-α function improve microbiome composition, dampen systemic inflammation and lipogenesis, and improve anxiety and depression. In rodent stress models of anxiety and depression, PPAR-activation normalizes both PPAR-α expression downregulation and decreased allopregnanolone content and ameliorates depressive-like behavior and fear responses. PPAR-α is known to regulate metabolic and inflammatory processes activated by short chain fatty acids, endocannabinoids, and congeners, such as N-palmitoylethanolamide, drugs that treat dyslipidemias; and micronutrients, including polyunsaturated fatty acids. Both PPAR-α and allopregnanolone are abundantly expressed in the colon and they exert potent anti-inflammatory actions by blocking toll-like receptor-4-NFkB pathway in peripheral immune cells, neurons, and glia. The perspective that PPAR-α regulation in the colon by gut microbiota or metabolites influences central allopregnanolone content after trafficking to the brain -thereby serving as a mediator of gut-brain axis communications- is examined.
+Patients after liver transplantation are often impacted by mental and even neuropsychiatric disorders, including depression, sleep disorders, anxiety, and post-traumatic stress disorder. Neuropsychiatric sequelae have an adverse impact on rehabilitation and can even incapacitate people, reducing their quality of life. Despite screening tools and effective treatments, neuropsychiatric sequelae after liver transplantation (NSALT) have not been fully diagnosed and treated. Current research suggests that NSALT may be partly related to intestinal microbial variation, but the detailed mechanism remains unclear. In this review, we describe the clinical and diagnostic features, prevalence, prediction, clinical course and outcome, management, and treatment of NSALT; we also summarize their mechanisms through the microbiota-gut-liver-brain axis. Finally, we propose to improve NSALT on the basis of adjusting the gastrointestinal flora, immune inflammation or vagus nerve (VN), providing a novel strategy for clinical prevention and treatment.
 
 [Source](https://doi.org/10.1016/j.pbb.2023.173561)
 
-10.1016/j.biopsych.2023.04.025
+10.1016/j.biopha.2023.114855
 
 ---
 
@@ -102,15 +102,15 @@ The gut microbiome regulates emotional behavior, stress responses, and inflammat
 
 ---
 
-## The Role of Pro-Inflammatory Mediator Interleukin-32 in Osteoclast Differentiation.
- 10.05.2023, _T Nazir, N Taha, A Islam, I Rabbi, PA Shah_
+## The sympathetic nervous system is necessary for development of CD4+ T cell memory following Staphylococcus aureus infection.
+ 10.05.2023, _JM Reel, J Abbadi, AJ Bueno, K Cizio, R Pippin, DA Doyle, L Mortan, JL Bose, MA Cox_
 
 
-The recently explained cytokine, which is produced after the stimulation of interferon (IFN)-c, interleukin (IL)-2, and IL-18 is IL-32, has pro-inflammatory IFN-c, IL-2 and IL-18 are IL-32 mediator's properties that are generally entailed in many diseases, including infections, cancer, and chronic inflammation. After the initial statement in 2005, it promoted the osteoclast precursor's differentiation into TRAcP plus VNR plus multinucleated cells that express explicit osteoclast indicators. Furthermore, the loss of bone resorption might be accredited because of the collapse of the multinucleated cells, which are produced of the reaction to IL-32 to direct factoring that is ultimately essential for attaching the cells for bone resorption. Thus, in conclusion, IL-32, the pro-inflammatory mediator, has an important and indirect role in regulating osteoclast differentiation. In bone disorder's pathophysiology, critical role of IL-32 needs more scientific evidence to develop a rational treatment protocol. IL-32 can become a potent mediator of active osteoclast generation in the presence of receptor activator of NF-κB ligand (RANKL). This novel cytokine can introduce more favorable conditions for osteoclastogenesis in the rheumatic arthritis by increasing the RANKL and osteoprotegerin ratio in fibroblast-like synoviocytes.
+Lymph nodes and spleens are innervated by sympathetic nerve fibers that enter alongside arteries. Despite discovery of these nerve fibers nearly 40 years ago[1], the role of these nerves during response to infection remains poorly defined. We have found that chemical depletion of sympathetic nerve fibers compromises the ability of mice to develop protective immune memory to a Staphylococcus aureus infection. Innate control of the primary infection was not impacted by sympathectomy. Germinal center formation is also compromised in nerve-depleted animals, however protective antibody responses are still generated. Interestingly, protective CD4+ T cell memory fails to form in the absence of sympathetic nerves after S. aureus infection.
 
 [Source](https://doi.org/10.1136/gutjnl-2022-327952)
 
-10.4274/tjps.galenos.2022.69922
+10.1093/infdis/jiad154
 
 ---
 
