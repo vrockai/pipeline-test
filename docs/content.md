@@ -1,184 +1,395 @@
-## Microbial β-glucuronidases drive human periodontal disease etiology.
- 09.05.2023, _AD Lietzan, JB Simpson, WG Walton, PB Jariwala, Y Xu, MH Boynton, J Liu, MR Redinbo_
+## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
+ 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
 
 
-_Humans, Glucuronidase, Gastrointestinal Microbiome, Periodontal Diseases, Microbiota, Periodontitis, Enzyme Inhibitors_
-Periodontitis is a chronic inflammatory disease associated with persistent oral microbial dysbiosis. The human β-glucuronidase (GUS) degrades constituents of the periodontium and is used as a biomarker for periodontitis severity. However, the human microbiome also encodes GUS enzymes, and the role of these factors in periodontal disease is poorly understood. Here, we define the 53 unique GUSs in the human oral microbiome and examine diverse GUS orthologs from periodontitis-associated pathogens. Oral bacterial GUS enzymes are more efficient polysaccharide degraders and processers of biomarker substrates than the human enzyme, particularly at pHs associated with disease progression. Using a microbial GUS-selective inhibitor, we show that GUS activity is reduced in clinical samples obtained from individuals with untreated periodontitis and that the degree of inhibition correlates with disease severity. Together, these results establish oral GUS activity as a biomarker that captures both host and microbial contributions to periodontitis, facilitating more efficient clinical monitoring and treatment paradigms for this common inflammatory disease.
+_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
+This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
 
-[Source](https://doi.org/10.1126/sciadv.adg3390)
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
 
-10.1126/sciadv.adg3390
-
----
-
-## Vaginal epithelial dysfunction is mediated by the microbiome, metabolome, and mTOR signaling.
- 07.05.2023, _AR Berard, DK Brubaker, K Birse, A Lamont, RD Mackelprang, L Noël-Romas, M Perner, X Hou, E Irungu, N Mugo, S Knodel, TR Muwonge, E Katabira, SM Hughes, C Levy, FL Calienes, DA Lauffenburger, JM Baeten, C Celum, F Hladik, J Lingappa, AD Burgener_
-
-
-Bacterial vaginosis (BV) is characterized by depletion of Lactobacillus and overgrowth of anaerobic and facultative bacteria, leading to increased mucosal inflammation, epithelial disruption, and poor reproductive health outcomes. However, the molecular mediators contributing to vaginal epithelial dysfunction are poorly understood. Here we utilize proteomic, transcriptomic, and metabolomic analyses to characterize biological features underlying BV in 405 African women and explore functional mechanisms in vitro. We identify five major vaginal microbiome groups: L. crispatus (21%), L. iners (18%), Lactobacillus (9%), Gardnerella (30%), and polymicrobial (22%). Using multi-omics we show that BV-associated epithelial disruption and mucosal inflammation link to the mammalian target of rapamycin (mTOR) pathway and associate with Gardnerella, M. mulieris, and specific metabolites including imidazole propionate. Experiments in vitro confirm that type strain G. vaginalis and M. mulieris supernatants and imidazole propionate directly affect epithelial barrier function and activation of mTOR pathways. These results find that the microbiome-mTOR axis is a central feature of epithelial dysfunction in BV.
-
-[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00485-0)
-
-10.1016/j.celrep.2023.112474
+10.3390/ijerph19010099
 
 ---
 
-## Causal relationship between Gut Microbiota and Obstructive sleep apnea.
- 06.05.2023, _Y Wei, L Huang, C Liu, M Qi_
+## #MVIF
 
-
-Although observational studies have identified relations between gut microbiota and obstructive sleep apnea (OSA), their causal links remain elusive. Hence, we aimed to investigate this causal relation using the Mendelian randomization (MR) approach.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0167494323001309)
-
-10.1016/j.archger.2023.105052
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Changes in the intestinal microbiota of children with hand, foot, and mouth disease under 3 years old.
- 08.05.2023, _SY Zhu, YZ Jiang, N Shen, M Li, HJ Yin, JB Qiao_
+## https://t.co/cncTaOU5IS
 
-
-_Infant, Humans, Child, Child, Preschool, Gastrointestinal Microbiome, Hand, Foot and Mouth Disease, Microbiota, Sequence Analysis, Feces, RNA, Ribosomal, 16S_
-This study aimed to clarify the characteristics of intestinal microbiota in children with hand, foot, and mouth disease (HFMD) under 3 years old. Fresh feces were collected from 54 children with HFMD and 30 healthy children. All of them were &lt;3 years old. Sequencing of the 16S rDNA amplicons was performed. Between the 2 groups, the richness, diversity, and structure of the intestinal microbiota were analyzed by α-diversity and β-diversity. Linear discriminant analysis and LEfSe analyses were used to compare different bacterial classifications. The sex and age of the children in the 2 groups were not statistically significant (P = .92 and P = .98, respectively). Compared to healthy children, the Shannon index, Ace index, and Chao index were lower in children with HFMD (P = .027, P = .012, and P = .012, respectively). Based on the weighted or unweighted UniFrac distance analysis, the structure of the intestinal microbiota in HFMD was also significantly changed (P = .002 and P &lt; .001, respectively). Linear discriminant analysis and LEfSe analysis showed that the changes of key bacteria were manifested as a decrease in Prevotella and Clostridium_XIVa (P &lt; .001 and P &lt; .001, respectively), while Escherichia and Bifidobacterium increased (P = .025 and P = .001, respectively). Children with HFMD under 3 years of age have intestinal microbiota disorder and show a decrease in diversity and richness. The decrease in the abundance of Prevotella and Clostridium, which can produce short-chain fatty acids, is also one of the characteristics of the change. These results can offer a theoretical foundation for the pathogenesis and microecological treatment of HFMD in infants.
-
-[Source](https://doi.org/10.1097/MD.0000000000033687)
-
-10.1097/MD.0000000000033687
+[Source](https://t.co/cncTaOU5IS)
 
 ---
 
-## Reduced microbial diversity of the nasopharyngeal microbiome in household contacts with latent tuberculosis infection.
- 11.05.2023, _C Ruiz-Tagle, JA Ugalde, R Naves, R Araos, P García, ME Balcells_
+## @TheXavierLab
 
-
-_Humans, Latent Tuberculosis, Prospective Studies, RNA, Ribosomal, 16S, Tuberculosis, Interferon-gamma Release Tests, Mycobacterium tuberculosis, Microbiota_
-The upper respiratory tract is an obliged pathway for respiratory pathogens and a healthy microbiota may support the host's mucosal immunity preventing infection. We analyzed the nasopharyngeal microbiome in tuberculosis household contacts (HHCs) and its association with latent tuberculosis infection (TBI). A prospective cohort of HHCs was established and latent TBI status was assessed by serial interferon-γ release assay (IGRA). Nasopharyngeal swabs collected at baseline were processed for 16S rRNA gene sequencing. The 82 participants included in the analysis were classified as: (a) non-TBI [IGRA negative at baseline and follow-up, no active TB (n = 31)], (b) pre-TBI [IGRA negative at baseline but converted to IGRA positive or developed active TB at follow-up (n = 16)], and (c) TBI [IGRA positive at enrollment (n = 35)]. Predominant phyla were Actinobacteriota, Proteobacteria, Firmicutes and Bacteroidota. TBI group had a lower alpha diversity compared to non-TBI (padj = 0.04) and pre-TBI (padj = 0.04). Only TBI and non-TBI had beta diversity differences (padj = 0.035). Core microbiomes' had unique genera, and genus showed differential abundance among groups. HHCs with established latent TBI showed reduced nasopharyngeal microbial diversity with distinctive taxonomical composition. Whether a pre-existing microbiome feature favors, are a consequence, or protects against Mycobacterium tuberculosis needs further investigation.
-
-[Source](https://doi.org/10.1038/s41598-023-34052-8)
-
-10.1038/s41598-023-34052-8
+[Source](https://twitter.com/TheXavierLab?ref_src=twsrc%5Etfw)
 
 ---
 
-## Pitfalls in sampling and analyzing low-biomass human nasal microbiome samples.
- 07.05.2023, _P Pjevac, T Bartosik, S Schneider, J Eckl-Dorna_
+## @KateKennedy
 
-
-
-[Source](https://www.jacionline.org/article/S0091-6749(23)00459-1/fulltext)
-
-10.1016/j.jaci.2023.04.001
+[Source](https://twitter.com/KateKennedy?ref_src=twsrc%5Etfw)
 
 ---
 
-## The saga of non-traditional risk factors continues with proteomics, microbiome, ozone, ketone bodies, and depression: let us rethink prevention.
- 08.05.2023, _F Crea_
+## @McMasterU
 
-
-_Humans, Ketone Bodies, Depression, Proteomics, Ozone, Risk Factors, Microbiota_
-
-[Source](https://doi.org/10.1093/eurheartj/ehad233)
-
-10.1093/eurheartj/ehad233
+[Source](https://twitter.com/McMasterU?ref_src=twsrc%5Etfw)
 
 ---
 
-## Pulsatilla chinensis saponins ameliorated murine depression by inhibiting intestinal inflammation mediated IDO1 overexpression and rebalancing tryptophan metabolism.
- 11.05.2023, _T Wang, Y Song, Z Ai, Y Liu, H Li, W Xu, L Chen, G Zhu, M Yang, D Su_
+## @vkclab
 
-
-Current antidepressant therapy remains unsatisfactory due to the complex pathogenesis. Emerging evidence suggested that depression is associated with inflammatory bowel disease (IBD), intestinal inflammation is an increasingly accepted factor that influences depression, but the mechanism is unclear.
-
-[Source](https://doi.org/10.1016/j.pbb.2023.173561)
-
-10.1016/j.phymed.2023.154852
+[Source](https://twitter.com/vkclab?ref_src=twsrc%5Etfw)
 
 ---
 
-## Stress, inflammation, microbiome and depression
-
-[Source](https://doi.org/10.1016/j.pbb.2023.173561)
-
----
-
-## ALKBH5 Drives Immune Suppression via targeting AXIN2 to Promote Colorectal Cancer and is a Target for Boosting Immunotherapy.
- 11.05.2023, _J Zhai, H Chen, CC Wong, Y Peng, H Gou, J Zhang, Y Pan, D Chen, Y Lin, S Wang, W Kang, KF To, Z Chen, Y Nie, HH He, J Jao-Yiu Sung, J Yu_
+## A multidisciplinary comparison of transfusion and perioperative support for high-risk cardiac surgery at three large academic centres in North America.
+ 12.05.2023, _JW Jacobs, AW Shih, FW Lombard, J Bartoszko, D Mullane, C Cserti-Gadzewich, Q Eichbaum_
 
 
-Immune checkpoint blockade (ICB) therapy only benefits a small subset of colorectal cancer (CRC) patients and identification of CRC-intrinsic events modulating ICB efficacy is an unmet need. Here, we revealed AlkB Homolog 5 (ALKBH5), an RNA N6-methyladenosine (m6A) eraser, drives immunosuppression and is a molecular target to boost ICB therapy in CRC.
+Cardiac surgery is associated with numerous peri- and post-operative haemostatic complications and blood transfusion requirements. Complex procedures such as redo-sternotomy heart transplantation or type A aortic dissection repairs are at high-risk for severe coagulopathy and significant transfusion requirements. However, current practice guidelines do not specifically address high-risk surgeries, resulting in variable practice. To optimise outcomes, a multidisciplinary approach to blood transfusion and haemostasis is critical. How individual institutions construct these multidisciplinary teams, delegate responsibilities, and build procedures may differ depending on the institution and availability of resources. In this article, we compare how the transfusion medicine services support their cardiac surgery and transplant programs at three large medical centres-Vanderbilt University Medical Center (the largest heart transplant centre in the world by volume in 2021), Toronto General Hospital-University Health Network (a quaternary-care centre in Canada's most populous city, performing more &gt;20 heart transplants annually), and Vancouver General Hospital (a quaternary-care centre that performs numerous high-risk cardiac surgeries). This article discusses management from multiple perspectives, including the blood bank and perioperative environments, and highlights how institutions have evolved their programs in accordance with nation-specific policies and provisions.
 
-[Source](https://doi.org/10.1136/gutjnl-2022-327952)
+[Source](https://twitter.com/Yale?ref_src=twsrc%5Etfw)
 
-10.1053/j.gastro.2023.04.032
+10.1111/tme.12972
 
 ---
 
-## Fungi and cancer
+## @Yale
 
-[Source](https://doi.org/10.1136/gutjnl-2022-327952)
-
----
-
-## L-Fucose is involved in human-gut microbiome interactions.
- 06.05.2023, _J Kim, YS Jin, KH Kim_
-
-
-L-Fucose is one of the key metabolites in human-gut microbiome interactions. It is continuously synthesized by humans in the form of fucosylated glycans and fucosyl-oligosaccharides and delivered into the gut throughout their lifetime. Gut microorganisms metabolize L-fucose and produce short-chain fatty acids, which are absorbed by epithelial cells and used as energy sources or signaling molecules. Recent studies have revealed that the carbon flux in L-fucose metabolism by gut microorganisms is distinct from that in other sugar metabolisms because of cofactor imbalance and low efficiencies in energy synthesis of L-fucose metabolism. The large amounts of short-chain fatty acids produced during microbial L-fucose metabolism are used by epithelial cells to recover most of the energy used up during L-fucose synthesis. In this review, we present a detailed overview of microbial L-fucose metabolism and a potential solution for disease treatment and prevention using genetically engineered probiotics that modulate fucose metabolism. Our review contributes to the understanding of human-gut microbiome interactions through L-fucose metabolism. KEY POINTS: • Fucose-metabolizing microorganisms produce large amounts of short-chain fatty acids • Fucose metabolism differs from other sugar metabolisms by cofactor imbalance • Modulating fucose metabolism is the key to control host-gut microbiome interactions.
-
-[Source](https://doi.org/10.1007/s00253-023-12527-y)
-
-10.1007/s00253-023-12527-y
+[Source](https://twitter.com/Yale?ref_src=twsrc%5Etfw)
 
 ---
 
-## Vitamin K2 supplementation improves impaired glycemic homeostasis and insulin sensitivity for type 2 diabetes through gut microbiome and fecal metabolites.
- 08.05.2023, _Y Zhang, L Liu, C Wei, X Wang, R Li, X Xu, Y Zhang, G Geng, K Dang, Z Ming, X Tao, H Xu, X Yan, J Zhang, J Hu, Y Li_
+## Current practice of genomic profiling of patients with advanced solid tumours in Italy: the Italian Register of Actionable Mutations (RATIONAL) study.
+ 11.05.2023, _N Normanno, A De Luca, RE Abate, A Morabito, M Milella, F Tabbò, G Curigliano, C Masini, P Marchetti, G Pruneri, V Guarneri, GL Frassineti, G Fasola, V Adamo, B Daniele, R Berardi, F Feroce, E Maiello, C Pinto_
 
 
-_Mice, Animals, Humans, Gastrointestinal Microbiome, Insulin Resistance, Vitamin K 2, Diabetes Mellitus, Type 2, RNA, Ribosomal, 16S, Feces, Glucose, Obesity, Dietary Supplements, Homeostasis_
-There is insufficient evidence for the ability of vitamin K2 to improve type 2 diabetes mellitus symptoms by regulating gut microbial composition. Herein, we aimed to demonstrate the key role of the gut microbiota in the improvement of impaired glycemic homeostasis and insulin sensitivity by vitamin K2 intervention.
+The Italian Register of Actionable Mutations (RATIONAL) is a multicentric, observational study collecting next-generation sequencing (NGS)-based tumour profiling data of patients with advanced solid tumours.
 
-[Source](https://doi.org/10.1186/s12916-023-02880-0)
+[Source](https://twitter.com/QIAGEN?ref_src=twsrc%5Etfw)
 
-10.1186/s12916-023-02880-0
-
----
-
-## Intermittent fasting alleviates non-alcoholic steatohepatitis by regulating bile acid metabolism and promoting fecal bile acid excretion in high-fat and high-cholesterol diet fed mice.
- 06.05.2023, _X Lin, X Zhu, Y Xin, P Zhang, Y Xiao, T He, H Guo_
-
-
-Intermittent fasting (IF) has a protective role across a wide range of chronic disorders, including obesity, diabetes and cardiovascular disease, but its protection against non-alcoholic steatohepatitis (NASH) is still lacking. This study sought to investigate how IF alleviates NASH by regulating gut microbiota and bile acids (BAs) composition.
-
-[Source](https://doi.org/10.1002/mnfr.202200595)
-
-10.1002/mnfr.202200595
+10.1016/j.ejca.2023.03.027
 
 ---
 
-## Gut microbiome of mealworms (Tenebrio molitor Larvae) show similar responses to polystyrene and corn straw diets.
- 10.05.2023, _T Mamtimin, H Han, A Khan, P Feng, Q Zhang, X Ma, Y Fang, P Liu, S Kulshrestha, T Shigaki, X Li_
+## @QIAGEN
 
-
-_Animals, Polystyrenes, Tenebrio, Larva, Gastrointestinal Microbiome, Lignin, Zea mays, Escherichia coli, Plastics, Diet_
-Some insects can degrade both natural and synthetic plastic polymers, their host and gut microbes play crucial roles in this process. However, there is still a scientific gap in understanding how the insect adapted to the polystyrene (PS) diet from natural feed. In this study, we analyzed diet consumption, gut microbiota responses, and metabolic pathways of Tenebrio molitor larvae exposed to PS and corn straw (CS).
-
-[Source](https://doi.org/10.1186/s40168-023-01550-w)
-
-10.1186/s40168-023-01550-w
+[Source](https://twitter.com/QIAGEN?ref_src=twsrc%5Etfw)
 
 ---
 
-## The good, the bad, and the phosphate: regulation of beneficial and detrimental plant-microbe interactions by the plant phosphate status.
- 05.05.2023, _M Paries, C Gutjahr_
+## pic.twitter.com/BzaRYGLnPr
+
+[Source](https://t.co/BzaRYGLnPr)
+
+---
+
+## Halomonas dongshanensis sp. nov., isolated from the seawater of Dongshan Island.
+ 12.05.2023, _WZ Lin, LF Gong, Y Guo, RZ Liu, W Xu, QY Guan, CM Guo, ZK Lin, HY Meng, XY Chen_
 
 
-Phosphate (Pi ) is indispensable for life on this planet. However, for sessile land plants it is poorly accessible. Therefore, plants have developed a variety of strategies for enhanced acquisition and recycling of Pi . The mechanisms to cope with Pi limitation as well as direct uptake of Pi from the substrate via the root epidermis are regulated by a conserved Pi starvation response (PSR) system based on a family of key transcription factors (TFs) and their inhibitors. Furthermore, plants obtain Pi indirectly through symbiosis with mycorrhiza fungi, which employ their extensive hyphal network to drastically increase the soil volume that can be explored by plants for Pi . Besides mycorrhizal symbiosis, there is also a variety of other interactions with epiphytic, endophytic, and rhizospheric microbes that can indirectly or directly influence plant Pi uptake. It was recently discovered that the PSR pathway is involved in the regulation of genes that promote formation and maintenance of AM symbiosis. Furthermore, the PSR system influences plant immunity and can also be a target of microbial manipulation. It is known for decades that the nutritional status of plants influences the outcome of plant-microbe interactions. The first molecular explanations for these observations are now emerging.
+A taxonomic study was carried out on strain yzlin-01T, isolated from Dongshan Island seawater. The bacterium was Gram-stain-negative, catalase-positive, oxidase-negative, rod-shaped, and motile by polar flagella. Growth was observed at temperatures of 10-40 °C, at salinities of 0.5-18 %, and at pH of 6-10. Phylogenetic analysis based on 16S rRNA gene sequences indicated that strain yzlin-01T belonged to the genus Halomonas, with the highest sequence similarity to Halomonas malpeensis YU-PRIM-29T (96.7 %), followed by Halomonas johnsoniae T68687T (96.4 %) and Halomonas gomseomensis M12T (96.4 %), and other species of the genus Halomonas (93.4-96.3 %). The ANI and digital DNA-DNA hybridization estimate values between strain yzlin-01T and the closest type strain Halomonas malpeensis YU-PRIM-29T were 77.44 and 21.6 %, respectively. The principal fatty acids were summed feature 8 (consisting of C18 : 1  ω7c and/or C18 : 1  ω6c; 55.7 %), C16 : 0 (20.6 %), C12 : 0 3-OH (6.8 %), summed feature 3 (consisting of C16 : 1  ω7c and/or C16 : 1  ω6c; 5.1 %). The G+C content of the chromosomal DNA was 60.0 mol %. The respiratory quinone was identified as Q-9 (100 %). Phosphatidylethanolamine, phosphatidylglycerol, diphosphatidylglycerol, aminophospholipid, and three unidentified phospholipids were present. Combined genotypic and phenotypic data suggest that strain yzlin-01T represents a novel species within the genus Halomonas, for which the name Halomonas dongshanensis sp. nov. is proposed, with the type strain yzlin-01T (=GDMCC 1.3202T=KCTC 92467T).
 
-[Source](https://doi.org/10.1111/nph.18933)
+[Source](https://twitter.com/MicrobiomeVIF/status/1654707045063335936?ref_src=twsrc%5Etfw)
 
-10.1111/nph.18933
+10.1099/ijsem.0.005830
+
+---
+
+## May 6, 2023
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1654707045063335936?ref_src=twsrc%5Etfw)
+
+---
+
+## Single and combined effects of microplastics and cadmium on the sea cucumber Apostichopus japonicus.
+ 21.03.2023, _C Zhang, C Lin, L Li, M Mohsen, T Wang, X Wang, L Zhang, W Huang_
+
+
+_Animals, Cadmium, Stichopus, Microplastics, Sea Cucumbers, Plastics_
+Microplastic pollution of the ocean has received extensive attention as plastic pollution increases globally, but the potential ecological risks caused by microplastic interactions with trace metals still require further research. In this study, Apostichopus japonicus was used to explore the individual and combined toxicities of cadmium (Cd) and microplastics and their effects on growth, Cd tissue accumulation, digestive enzymes, and gut microbes. The body weight gain and specific growth rate of animals exposed to a combination of high concentrations of Cd and microplastics decreased. The addition of high concentrations of cadmium to the diet led to an increase in cadmium content in the respiratory tree, digestive tract and body wall. Amylase, lipase and trypsin decreased to different degrees in the group treated with high concentrations of Cd/microplastics. Firmicutes were significantly reduced across multiple treatment groups, with the order Lactobacillales being the most significantly affected. Cd is the pollutant causing the greatest negative impact, but the presence of microplastics undoubtedly increases its toxicity.
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0966842X23001208)
+
+10.1016/j.marenvres.2023.105927
+
+---
+
+## Ecology of the respiratory tract microbiome
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0966842X23001208)
+
+---
+
+## The cervical microbiota of Hispanics living in Puerto Rico is highly volatile and dominated by<em> Lactobacillus iners </em>regardless of HPV status
+
+[Source](https://www.biorxiv.org/content/biorxiv/early/2023/05/09/2023.05.05.539619.full.pdf)
+
+---
+
+## Key determinants of success in fecal microbiota transplantation: From microbiome to clinic.
+ 11.05.2023, _S Porcari, N Benech, M Valles-Colomer, N Segata, A Gasbarrini, G Cammarota, H Sokol, G Ianiro_
+
+
+Fecal microbiota transplantation (FMT) has achieved satisfactory results in preventing the recurrence of Clostridioides difficile infection, but these positive outcomes have only been partially replicated in other diseases. Several factors influence FMT success, including those related to donors and recipients (including diversity and specific composition of the gut microbiome, immune system, and host genetics) as well as to working protocols (fecal amount and number of infusions, route of delivery, and adjuvant treatments). Moreover, initial evidence suggests that the clinical success of FMT may be related to the degree of donor microbial engraftment. The application of cutting-edge technologies for microbiome assessment, along with changes in the current vision of fecal transplants, are expected to improve FMT protocols and outcomes. Here, we review the key determinants of FMT success and insights and strategies that will enable a close integration of lab-based and clinical approaches for increasing FMT success.
+
+[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00125-7)
+
+10.1016/j.chom.2023.03.020
+
+---
+
+## Profiling the human intestinal environment under physiological conditions.
+ 11.05.2023, _D Shalon, RN Culver, JA Grembi, J Folz, PV Treit, H Shi, FA Rosenberger, L Dethlefsen, X Meng, E Yaffe, A Aranda-Díaz, PE Geyer, JB Mueller-Reif, S Spencer, AD Patterson, G Triadafilopoulos, SP Holmes, M Mann, O Fiehn, DA Relman, KC Huang_
+
+
+The spatiotemporal structure of the human microbiome1,2, proteome3 and metabolome4,5 reflects and determines regional intestinal physiology and may have implications for disease6. Yet, little is known about the distribution of microorganisms, their environment and their biochemical activity in the gut because of reliance on stool samples and limited access to only some regions of the gut using endoscopy in fasting or sedated individuals7. To address these deficiencies, we developed an ingestible device that collects samples from multiple regions of the human intestinal tract during normal digestion. Collection of 240 intestinal samples from 15 healthy individuals using the device and subsequent multi-omics analyses identified significant differences between bacteria, phages, host proteins and metabolites in the intestines versus stool. Certain microbial taxa were differentially enriched and prophage induction was more prevalent in the intestines than in stool. The host proteome and bile acid profiles varied along the intestines and were highly distinct from those of stool. Correlations between gradients in bile acid concentrations and microbial abundance predicted species that altered the bile acid pool through deconjugation. Furthermore, microbially conjugated bile acid concentrations exhibited amino acid-dependent trends that were not apparent in stool. Overall, non-invasive, longitudinal profiling of microorganisms, proteins and bile acids along the intestinal tract under physiological conditions can help elucidate the roles of the gut microbiome and metabolome in human physiology and disease.
+
+[Source](https://www.nature.com/articles/s41586-023-05989-7)
+
+10.1038/s41586-023-05989-7
+
+---
+
+## Interaction between gut microbiota and sex hormones and their relation to sexual dimorphism in metabolic diseases.
+ 24.02.2023, _JA Santos-Marcos, M Mora-Ortiz, M Tena-Sempere, J Lopez-Miranda, A Camargo_
+
+
+_Humans, Male, Female, Sex Characteristics, Diabetes Mellitus, Type 2, Gastrointestinal Microbiome, Gonadal Steroid Hormones, Metabolic Syndrome, Obesity_
+Metabolic diseases, such as obesity, metabolic syndrome (MetS) and type 2 diabetes (T2D), are now a widespread pandemic in the developed world. These pathologies show sex differences in their development and prevalence, and sex steroids, mainly estrogen and testosterone, are thought to play a prominent role in this sexual dimorphism. The influence of sex hormones on these pathologies is not only reflected in differences between men and women, but also between women themselves, depending on the hormonal changes associated with the menopause. The observed sex differences in gut microbiota composition have led to multiple studies highlighting the interaction between steroid hormones and the gut microbiota and its influence on metabolic diseases, ultimately pointing to a new therapy for these diseases based on the manipulation of the gut microbiota. This review aims to shed light on the role of sexual hormones in sex differences in the development and prevalence of metabolic diseases, focusing on obesity, MetS and T2D. We focus also the interaction between sex hormones and the gut microbiota, and in particular the role of microbiota in aspects such as gut barrier integrity, inflammatory status, and the gut-brain axis, given the relevance of these factors in the development of metabolic diseases.
+
+[Source](https://bsd.biomedcentral.com/articles/10.1186/s13293-023-00490-2)
+
+10.1186/s13293-023-00490-2
+
+---
+
+## Persistent delay in maturation of the developing gut microbiota in infants with cystic fibrosis
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.05.02.539134v1)
+
+---
+
+## In vitro simulated digestion and fecal fermentation of exopolysaccharides from Lacticaseibacillus paracasei GL1.
+ 12.05.2023, _X Wang, J Tian, N Tang, X Zhang, L Xiao, M Xu, M Dong, W Li_
+
+
+The prebiotic properties of two purified fractions (GL1-E1 and GL1-E2) of exopolysaccharides (EPSs) from Lacticaseibacillus paracasei GL1 were investigated through in vitro fermentation of pure and human fecal cultures. The results indicated that the simulated digestion under saliva, gastric, and small intestinal conditions had no effect on GL1-E1 and GL1-E2. Additionally, GL1-E1 and GL1-E2 can be used as substrates for Lactobacillus and Lactococcus growth. It was also found that both were gradually degraded and utilized by the gut microbiota. As fermentation proceeded, the pH continued to decrease. Additionally, the total short-chain fatty acid (SCFA) production significantly increased, especially the major SCFA of formic, lactic, and acetic acid. Furthermore, GL1-E1 and GL1-E2 could significantly regulate the composition of the gut microbiota, by increasing the relative abundances of Bacteroides and Phascolarctobacterium, and decreasing the pathogenic bacteria Escherichia-Shigella, Klebsiella, and Fusobacterium. These results suggest that GL1-E1 and GL1-E2 have the potential to be developed as a prebiotic.
+
+[Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
+
+10.1039/d3fo00676j
+
+---
+
+## #microbiomes
+
+[Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## #africanmicrobiomes
+
+[Source](https://twitter.com/hashtag/africanmicrobiomes?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Health information use by patients with systemic lupus erythematosus (SLE) pre and during the COVID-19 pandemic.
+ 22.11.2022, _FS Cardwell, SJ Elliott, R Chin, Y St Pierre, MY Choi, MB Urowitz, G Ruiz-Irastorza, S Bernatsky, DJ Wallace, MA Petri, S Manzi, SC Bae, JM Shin, A Mak, J Cho, CA Peschken, R Ramsey-Goldman, PR Fortin, JG Hanly, BA Pons-Estel, R Nieto, AD Askanase, J Romero-Diaz, M Mosca, IN Bruce, L Rowbottom, L Mielczarek, K Tse, A Marion, JC Cáhiz-González, TG Cattoni, A Cornet, AE Clarke_
+
+
+_Male, Humans, Female, Middle Aged, COVID-19, Pandemics, Lupus Erythematosus, Systemic, Social Media, Mass Media_
+We conducted an international survey of patients with SLE to assess their access, preference and trust in various health information sources pre-COVID-19 and during the COVID-19 pandemic.
+
+[Source](https://twitter.com/NRF_News?ref_src=twsrc%5Etfw)
+
+10.1136/lupus-2022-000755
+
+---
+
+## @NRF_News
+
+[Source](https://twitter.com/NRF_News?ref_src=twsrc%5Etfw)
+
+---
+
+## @ResearchUP
+
+[Source](https://twitter.com/ResearchUP?ref_src=twsrc%5Etfw)
+
+---
+
+## @UPTuks
+
+[Source](https://twitter.com/UPTuks?ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/e3iVqB3DAc
+
+[Source](https://t.co/e3iVqB3DAc)
+
+---
+
+## Halomonas dongshanensis sp. nov., isolated from the seawater of Dongshan Island.
+ 12.05.2023, _WZ Lin, LF Gong, Y Guo, RZ Liu, W Xu, QY Guan, CM Guo, ZK Lin, HY Meng, XY Chen_
+
+
+A taxonomic study was carried out on strain yzlin-01T, isolated from Dongshan Island seawater. The bacterium was Gram-stain-negative, catalase-positive, oxidase-negative, rod-shaped, and motile by polar flagella. Growth was observed at temperatures of 10-40 °C, at salinities of 0.5-18 %, and at pH of 6-10. Phylogenetic analysis based on 16S rRNA gene sequences indicated that strain yzlin-01T belonged to the genus Halomonas, with the highest sequence similarity to Halomonas malpeensis YU-PRIM-29T (96.7 %), followed by Halomonas johnsoniae T68687T (96.4 %) and Halomonas gomseomensis M12T (96.4 %), and other species of the genus Halomonas (93.4-96.3 %). The ANI and digital DNA-DNA hybridization estimate values between strain yzlin-01T and the closest type strain Halomonas malpeensis YU-PRIM-29T were 77.44 and 21.6 %, respectively. The principal fatty acids were summed feature 8 (consisting of C18 : 1  ω7c and/or C18 : 1  ω6c; 55.7 %), C16 : 0 (20.6 %), C12 : 0 3-OH (6.8 %), summed feature 3 (consisting of C16 : 1  ω7c and/or C16 : 1  ω6c; 5.1 %). The G+C content of the chromosomal DNA was 60.0 mol %. The respiratory quinone was identified as Q-9 (100 %). Phosphatidylethanolamine, phosphatidylglycerol, diphosphatidylglycerol, aminophospholipid, and three unidentified phospholipids were present. Combined genotypic and phenotypic data suggest that strain yzlin-01T represents a novel species within the genus Halomonas, for which the name Halomonas dongshanensis sp. nov. is proposed, with the type strain yzlin-01T (=GDMCC 1.3202T=KCTC 92467T).
+
+[Source](https://twitter.com/Thuls_M/status/1656366392243810312?ref_src=twsrc%5Etfw)
+
+10.1099/ijsem.0.005830
+
+---
+
+## May 10, 2023
+
+[Source](https://twitter.com/Thuls_M/status/1656366392243810312?ref_src=twsrc%5Etfw)
+
+---
+
+## Integrated analysis of transcriptome and milk metagenome in subclinical mastitic and healthy cows.
+ 30.04.2022, _J Zhang, X Liu, T Usman, Y Tang, S Mi, W Li, M Yang, Y Yu_
+
+
+Abnormally increased somatic cell counts in milk is usually a sign of bovine subclinical mastitis. Mutual interaction between the host and its associated microbiota plays an important role in developing such diseases. The main objective of this study was to explore the difference between cows with elevated somatic cell counts and healthy cattle from the perspective of host-microbe interplay.
+
+[Source](https://www.biorxiv.org/content/biorxiv/early/2023/05/09/2023.05.09.539964.full.pdf)
+
+10.5713/ab.21.0495
+
+---
+
+## Metagenomic analysis of milk microbiota in the bovine subclinical mastitis 
+
+[Source](https://www.biorxiv.org/content/biorxiv/early/2023/05/09/2023.05.09.539964.full.pdf)
+
+---
+
+## MetaPhlAn 4 profiling of unknown species-level genome bins improves the characterization of diet-associated microbiome changes in mice.
+ 04.05.2023, _P Manghi, A Blanco-Míguez, S Manara, A NabiNejad, F Cumbo, F Beghini, F Armanini, D Golzato, KD Huang, AM Thomas, G Piccinno, M Punčochář, M Zolfo, TR Lesker, M Bredon, J Planchais, J Glodt, M Valles-Colomer, O Koren, E Pasolli, F Asnicar, T Strowig, H Sokol, N Segata_
+
+
+Mouse models are key tools for investigating host-microbiome interactions. However, shotgun metagenomics can only profile a limited fraction of the mouse gut microbiome. Here, we employ a metagenomic profiling method, MetaPhlAn 4, which exploits a large catalog of metagenome-assembled genomes (including 22,718 metagenome-assembled genomes from mice) to improve the profiling of the mouse gut microbiome. We combine 622 samples from eight public datasets and an additional cohort of 97 mouse microbiomes, and we assess the potential of MetaPhlAn 4 to better identify diet-related changes in the host microbiome using a meta-analysis approach. We find multiple, strong, and reproducible diet-related microbial biomarkers, largely increasing those identifiable by other available methods relying only on reference information. The strongest drivers of the diet-induced changes are uncharacterized and previously undetected taxa, confirming the importance of adopting metagenomic methods integrating metagenomic assemblies for comprehensive profiling.
+
+[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00475-8)
+
+10.1016/j.celrep.2023.112464
+
+---
+
+## @AitorBM
+
+[Source](https://twitter.com/AitorBM?ref_src=twsrc%5Etfw)
+
+---
+
+## @cibiocm
+
+[Source](https://twitter.com/cibiocm?ref_src=twsrc%5Etfw)
+
+---
+
+## @nsegata
+
+[Source](https://twitter.com/nsegata?ref_src=twsrc%5Etfw)
+
+---
+
+## @h_sokol
+
+[Source](https://twitter.com/h_sokol?ref_src=twsrc%5Etfw)
+
+---
+
+## @CellReports
+
+[Source](https://twitter.com/CellReports?ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/3VwygXfFI8
+
+[Source](https://t.co/3VwygXfFI8)
+
+---
+
+## Halomonas dongshanensis sp. nov., isolated from the seawater of Dongshan Island.
+ 12.05.2023, _WZ Lin, LF Gong, Y Guo, RZ Liu, W Xu, QY Guan, CM Guo, ZK Lin, HY Meng, XY Chen_
+
+
+A taxonomic study was carried out on strain yzlin-01T, isolated from Dongshan Island seawater. The bacterium was Gram-stain-negative, catalase-positive, oxidase-negative, rod-shaped, and motile by polar flagella. Growth was observed at temperatures of 10-40 °C, at salinities of 0.5-18 %, and at pH of 6-10. Phylogenetic analysis based on 16S rRNA gene sequences indicated that strain yzlin-01T belonged to the genus Halomonas, with the highest sequence similarity to Halomonas malpeensis YU-PRIM-29T (96.7 %), followed by Halomonas johnsoniae T68687T (96.4 %) and Halomonas gomseomensis M12T (96.4 %), and other species of the genus Halomonas (93.4-96.3 %). The ANI and digital DNA-DNA hybridization estimate values between strain yzlin-01T and the closest type strain Halomonas malpeensis YU-PRIM-29T were 77.44 and 21.6 %, respectively. The principal fatty acids were summed feature 8 (consisting of C18 : 1  ω7c and/or C18 : 1  ω6c; 55.7 %), C16 : 0 (20.6 %), C12 : 0 3-OH (6.8 %), summed feature 3 (consisting of C16 : 1  ω7c and/or C16 : 1  ω6c; 5.1 %). The G+C content of the chromosomal DNA was 60.0 mol %. The respiratory quinone was identified as Q-9 (100 %). Phosphatidylethanolamine, phosphatidylglycerol, diphosphatidylglycerol, aminophospholipid, and three unidentified phospholipids were present. Combined genotypic and phenotypic data suggest that strain yzlin-01T represents a novel species within the genus Halomonas, for which the name Halomonas dongshanensis sp. nov. is proposed, with the type strain yzlin-01T (=GDMCC 1.3202T=KCTC 92467T).
+
+[Source](https://twitter.com/paolo_manghi/status/1654882140402728961?ref_src=twsrc%5Etfw)
+
+10.1099/ijsem.0.005830
+
+---
+
+## May 6, 2023
+
+[Source](https://twitter.com/paolo_manghi/status/1654882140402728961?ref_src=twsrc%5Etfw)
+
+---
+
+## ResMiCo: Increasing the quality of metagenome-assembled genomes with deep learning.
+ 11.05.2023, _O Mineeva, D Danciu, B Schölkopf, RE Ley, G Rätsch, ND Youngblut_
+
+
+The number of published metagenome assemblies is rapidly growing due to advances in sequencing technologies. However, sequencing errors, variable coverage, repetitive genomic regions, and other factors can produce misassemblies, which are challenging to detect for taxonomically novel genomic data. Assembly errors can affect all downstream analyses of the assemblies. Accuracy for the state of the art in reference-free misassembly prediction does not exceed an AUPRC of 0.57, and it is not clear how well these models generalize to real-world data. Here, we present the Residual neural network for Misassembled Contig identification (ResMiCo), a deep learning approach for reference-free identification of misassembled contigs. To develop ResMiCo, we first generated a training dataset of unprecedented size and complexity that can be used for further benchmarking and developments in the field. Through rigorous validation, we show that ResMiCo is substantially more accurate than the state of the art, and the model is robust to novel taxonomic diversity and varying assembly methods. ResMiCo estimated 7% misassembled contigs per metagenome across multiple real-world datasets. We demonstrate how ResMiCo can be used to optimize metagenome assembly hyperparameters to improve accuracy, instead of optimizing solely for contiguity. The accuracy, robustness, and ease-of-use of ResMiCo make the tool suitable for general quality control of metagenome assemblies and assembly methodology optimization.
+
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011001)
+
+10.1371/journal.pcbi.1011001
+
+---
+
+## Catch me if you can: capturing microbial community transformation by extracellular DNA using Hi-C sequencing.
+ 08.05.2023, _D Calderón-Franco, MCM van Loosdrecht, T Abeel, DG Weissbrodt_
+
+
+The transformation of environmental microorganisms by extracellular DNA is an overlooked mechanism of horizontal gene transfer and evolution. It initiates the acquisition of exogenous genes and propagates antimicrobial resistance alongside vertical and conjugative transfers. We combined mixed-culture biotechnology and Hi-C sequencing to elucidate the transformation of wastewater microorganisms with a synthetic plasmid encoding GFP and kanamycin resistance genes, in the mixed culture of chemostats exposed to kanamycin at concentrations representing wastewater, gut and polluted environments (0.01-2.5-50-100 mg L-1). We found that the phylogenetically distant Gram-negative Runella (102 Hi-C links), Bosea (35), Gemmobacter (33) and Zoogloea (24) spp., and Gram-positive Microbacterium sp. (90) were transformed by the foreign plasmid, under high antibiotic exposure (50 mg L-1). In addition, the antibiotic pressure shifted the origin of aminoglycoside resistance genes from genomic DNA to mobile genetic elements on plasmids accumulating in microorganisms. These results reveal the power of Hi-C sequencing to catch and surveil the transfer of xenogenetic elements inside microbiomes.
+
+[Source](https://link.springer.com/article/10.1007/s10482-023-01834-z)
+
+10.1007/s10482-023-01834-z
+
+---
+
+## The microbiome of an outpatient rehabilitation clinic and predictors of contamination: A pilot study.
+ 11.05.2023, _G Brigando, C Sutton, O Uebelhor, N Pitsoulakis, M Pytynia, T Dillon, T Elliott-Burke, N Hubert, K Martinez-Guryn, C Bolch, MJ Ciancio, CC Evans_
+
+
+_Humans, Pilot Projects, RNA, Ribosomal, 16S, Outpatients, Ambulatory Care Facilities, Bacteria, Microbiota_
+Understanding sources of microbial contamination in outpatient rehabilitation (REHAB) clinics is important to patients and healthcare providers.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281299)
+
+10.1371/journal.pone.0281299
+
+---
+
+## @ewanbirney
+
+[Source](https://twitter.com/ewanbirney?ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/HSZtE6uP5k
+
+[Source](https://t.co/HSZtE6uP5k)
+
+---
+
+## May 8, 2023
+
+[Source](https://twitter.com/nightsciencepod/status/1655557548836093953?ref_src=twsrc%5Etfw)
 
 ---
 
