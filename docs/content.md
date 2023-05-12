@@ -84,15 +84,15 @@ _Humans, Ketone Bodies, Depression, Proteomics, Ozone, Risk Factors, Microbiota_
 
 ---
 
-## Neuropsychiatric sequelae after liver transplantation and their possible mechanism via the microbiota-gut-liver-brain axis.
- 10.05.2023, _W Jing, C Bi, Z Fang, C Qian, J Chen, J Yu, G Tian, M Ye, Z Liu_
+## Pulsatilla chinensis saponins ameliorated murine depression by inhibiting intestinal inflammation mediated IDO1 overexpression and rebalancing tryptophan metabolism.
+ 11.05.2023, _T Wang, Y Song, Z Ai, Y Liu, H Li, W Xu, L Chen, G Zhu, M Yang, D Su_
 
 
-Patients after liver transplantation are often impacted by mental and even neuropsychiatric disorders, including depression, sleep disorders, anxiety, and post-traumatic stress disorder. Neuropsychiatric sequelae have an adverse impact on rehabilitation and can even incapacitate people, reducing their quality of life. Despite screening tools and effective treatments, neuropsychiatric sequelae after liver transplantation (NSALT) have not been fully diagnosed and treated. Current research suggests that NSALT may be partly related to intestinal microbial variation, but the detailed mechanism remains unclear. In this review, we describe the clinical and diagnostic features, prevalence, prediction, clinical course and outcome, management, and treatment of NSALT; we also summarize their mechanisms through the microbiota-gut-liver-brain axis. Finally, we propose to improve NSALT on the basis of adjusting the gastrointestinal flora, immune inflammation or vagus nerve (VN), providing a novel strategy for clinical prevention and treatment.
+Current antidepressant therapy remains unsatisfactory due to the complex pathogenesis. Emerging evidence suggested that depression is associated with inflammatory bowel disease (IBD), intestinal inflammation is an increasingly accepted factor that influences depression, but the mechanism is unclear.
 
 [Source](https://doi.org/10.1016/j.pbb.2023.173561)
 
-10.1016/j.biopha.2023.114855
+10.1016/j.phymed.2023.154852
 
 ---
 
@@ -102,15 +102,15 @@ Patients after liver transplantation are often impacted by mental and even neuro
 
 ---
 
-## The calcium channel Orai1 is required for osteoblast development: Studies in a chimeric mouse with variable in vivo Runx-cre deletion of Orai-1.
- 11.05.2023, _LJ Robinson, J Soboloff, IL Tourkova, QC Larrouture, KM Onwuka, DJ Papachristou, S Gross, R Hooper, E Samakai, PF Worley, P Liu, J Tuckermann, MR Witt, HC Blair_
+## ALKBH5 Drives Immune Suppression via targeting AXIN2 to Promote Colorectal Cancer and is a Target for Boosting Immunotherapy.
+ 11.05.2023, _J Zhai, H Chen, CC Wong, Y Peng, H Gou, J Zhang, Y Pan, D Chen, Y Lin, S Wang, W Kang, KF To, Z Chen, Y Nie, HH He, J Jao-Yiu Sung, J Yu_
 
 
-The calcium-selective ion channel Orai1 has a complex role in bone homeostasis, with defects in both bone production and resorption detected in Orai1 germline knock-out mice. To determine whether Orai1 has a direct, cell-intrinsic role in osteoblast differentiation and function, we bred Orai1 flox/flox (Orai1fl/fl) mice with Runx2-cre mice to eliminate its expression in osteoprogenitor cells. Interestingly, Orai1 was expressed in a mosaic pattern in Orai1fl/fl-Runx2-cre bone. Specifically, antibody labeling for Orai1 in vertebral sections was uniform in wild type animals, but patchy regions in Orai1fl/fl-Runx2-cre bone revealed Orai1 loss while in other areas expression persisted. Nevertheless, by micro-CT, bones from Orai1fl/fl-Runx2-cre mice showed reduced bone mass overall, with impaired bone formation identified by dynamic histomorphometry. Cortical surfaces of Orai1fl/fl-Runx2-cre vertebrae however exhibited patchy defects. In cell culture, Orai1-negative osteoblasts showed profound reductions in store-operated Ca2+ entry, exhibited greatly decreased alkaline phosphatase activity, and had markedly impaired substrate mineralization. We conclude that defective bone formation observed in the absence of Orai1 reflects an intrinsic role for Orai1 in differentiating osteoblasts.
+Immune checkpoint blockade (ICB) therapy only benefits a small subset of colorectal cancer (CRC) patients and identification of CRC-intrinsic events modulating ICB efficacy is an unmet need. Here, we revealed AlkB Homolog 5 (ALKBH5), an RNA N6-methyladenosine (m6A) eraser, drives immunosuppression and is a molecular target to boost ICB therapy in CRC.
 
 [Source](https://doi.org/10.1136/gutjnl-2022-327952)
 
-10.1371/journal.pone.0264596
+10.1053/j.gastro.2023.04.032
 
 ---
 
