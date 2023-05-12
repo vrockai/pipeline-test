@@ -49,7 +49,7 @@ This study aimed to clarify the characteristics of intestinal microbiota in chil
 ---
 
 ## Reduced microbial diversity of the nasopharyngeal microbiome in household contacts with latent tuberculosis infection.
- 08.05.2023, _C Ruiz-Tagle, JA Ugalde, R Naves, R Araos, P García, ME Balcells_
+ 11.05.2023, _C Ruiz-Tagle, JA Ugalde, R Naves, R Araos, P García, ME Balcells_
 
 
 _Humans, Latent Tuberculosis, Prospective Studies, RNA, Ribosomal, 16S, Tuberculosis, Interferon-gamma Release Tests, Mycobacterium tuberculosis, Microbiota_
@@ -102,15 +102,15 @@ Patients after liver transplantation are often impacted by mental and even neuro
 
 ---
 
-## PP2A modulation overcomes multidrug resistance in chronic lymphocytic leukemia via mPTP-dependent apoptosis.
- 11.05.2023, _KD Jayappa, B Tran, VL Gordon, CG Morris, S Saha, CC Farrington, CM O'Connor, KP Zawacki, KM Isaac, M Kester, TP Bender, ME Williams, CA Portell, MJ Weber, G Narla_
+## The calcium channel Orai1 is required for osteoblast development: Studies in a chimeric mouse with variable in vivo Runx-cre deletion of Orai-1.
+ 11.05.2023, _LJ Robinson, J Soboloff, IL Tourkova, QC Larrouture, KM Onwuka, DJ Papachristou, S Gross, R Hooper, E Samakai, PF Worley, P Liu, J Tuckermann, MR Witt, HC Blair_
 
 
-Targeted therapies such as venetoclax (Bcl-2 inhibitor) have revolutionized the treatment of chronic lymphocytic leukemia (CLL). We previously reported that persister CLL cells in treated patients overexpress multiple anti-apoptotic proteins and display resistance to pro-apoptotic agents. Here, we demonstrated that multidrug resistant CLL cells in vivo exhibit apoptosis restriction at a premitochondrial level due to insufficient activation of the Bax and Bak proteins. Co-immunoprecipitation analyses with selective BH-domain antagonists revealed that the pleotropic pro-apoptotic protein (Bim) is prevented from activating Bax/Bak by "switching" interactions to other upregulated anti-apoptotic proteins (Mcl-1/Bcl-xL/Bcl-2). Hence, treatments that bypass Bax/Bak restriction are required to deplete these resistant cells in patients. Protein Phosphatase 2A (PP2A) contributes to oncogenesis and treatment resistance. We observed that a small molecule activator of PP2A (SMAP) induced cytotoxicity in multiple cancer cell lines and CLL samples, including multidrug resistant leukemia/lymphoma cells. The SMAP (DT-061) activated apoptosis in multidrug resistant CLL cells through induction of mitochondrial permeability transition pores (mPTP), independent of Bax/Bak. DT-061 inhibited the growth of wild type and Bax/Bak double knockout multidrug resistant CLL cells in a xenograft mouse model. Collectively, we discovered multidrug resistant CLL cells in patients, and validated a pharmacologically tractable pathway to deplete this reservoir.
+The calcium-selective ion channel Orai1 has a complex role in bone homeostasis, with defects in both bone production and resorption detected in Orai1 germline knock-out mice. To determine whether Orai1 has a direct, cell-intrinsic role in osteoblast differentiation and function, we bred Orai1 flox/flox (Orai1fl/fl) mice with Runx2-cre mice to eliminate its expression in osteoprogenitor cells. Interestingly, Orai1 was expressed in a mosaic pattern in Orai1fl/fl-Runx2-cre bone. Specifically, antibody labeling for Orai1 in vertebral sections was uniform in wild type animals, but patchy regions in Orai1fl/fl-Runx2-cre bone revealed Orai1 loss while in other areas expression persisted. Nevertheless, by micro-CT, bones from Orai1fl/fl-Runx2-cre mice showed reduced bone mass overall, with impaired bone formation identified by dynamic histomorphometry. Cortical surfaces of Orai1fl/fl-Runx2-cre vertebrae however exhibited patchy defects. In cell culture, Orai1-negative osteoblasts showed profound reductions in store-operated Ca2+ entry, exhibited greatly decreased alkaline phosphatase activity, and had markedly impaired substrate mineralization. We conclude that defective bone formation observed in the absence of Orai1 reflects an intrinsic role for Orai1 in differentiating osteoblasts.
 
 [Source](https://doi.org/10.1136/gutjnl-2022-327952)
 
-10.1172/JCI155938
+10.1371/journal.pone.0264596
 
 ---
 
