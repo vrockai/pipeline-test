@@ -47,15 +47,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## A multidisciplinary comparison of transfusion and perioperative support for high-risk cardiac surgery at three large academic centres in North America.
- 12.05.2023, _JW Jacobs, AW Shih, FW Lombard, J Bartoszko, D Mullane, C Cserti-Gadzewich, Q Eichbaum_
+## Clinical Assessment of Eye Movement Desensitization and Reprocessing in Memory Distress: Protocol for a Double-Blinded Randomized Controlled Trial.
+ 12.05.2023, _N Babaei, C Kerry, K Goode, K Dang, P Mirzadeh, M Pirbaglou, MA Kirk, P Ritvo_
 
 
-Cardiac surgery is associated with numerous peri- and post-operative haemostatic complications and blood transfusion requirements. Complex procedures such as redo-sternotomy heart transplantation or type A aortic dissection repairs are at high-risk for severe coagulopathy and significant transfusion requirements. However, current practice guidelines do not specifically address high-risk surgeries, resulting in variable practice. To optimise outcomes, a multidisciplinary approach to blood transfusion and haemostasis is critical. How individual institutions construct these multidisciplinary teams, delegate responsibilities, and build procedures may differ depending on the institution and availability of resources. In this article, we compare how the transfusion medicine services support their cardiac surgery and transplant programs at three large medical centres-Vanderbilt University Medical Center (the largest heart transplant centre in the world by volume in 2021), Toronto General Hospital-University Health Network (a quaternary-care centre in Canada's most populous city, performing more &gt;20 heart transplants annually), and Vancouver General Hospital (a quaternary-care centre that performs numerous high-risk cardiac surgeries). This article discusses management from multiple perspectives, including the blood bank and perioperative environments, and highlights how institutions have evolved their programs in accordance with nation-specific policies and provisions.
+Exposures to "traumatic" events are widespread and can cause posttraumatic stress disorder (PTSD). Cognitive behavioral therapy and eye movement desensitization and reprocessing (EMDR) are frequently used and validated behavioral PTSD treatments. Despite demonstrated effectiveness, highly upsetting memory reactions can be evoked, resulting in extensive distress and, sometimes, treatment dropout. In recent years, multiple treatment approaches have aimed at reducing such upsetting memory reactions to traumatic memories while therapeutic progress proceeds. One of these methods, the flash technique (FT), a modification of standard EMDR (S-EMDR), appears effective in distressing memory reduction. This study will examine FT-EMDR and S-EMDR efficacies when both methods are delivered via web-based video.
 
 [Source](https://twitter.com/Yale?ref_src=twsrc%5Etfw)
 
-10.1111/tme.12972
+10.2196/38552
 
 ---
 
@@ -89,15 +89,15 @@ The Italian Register of Actionable Mutations (RATIONAL) is a multicentric, obser
 
 ---
 
-## Halomonas dongshanensis sp. nov., isolated from the seawater of Dongshan Island.
- 12.05.2023, _WZ Lin, LF Gong, Y Guo, RZ Liu, W Xu, QY Guan, CM Guo, ZK Lin, HY Meng, XY Chen_
+## Association between Conversion to Shockable Rhythms and Survival with Favorable Neurological Outcomes for Out-of-Hospital Cardiac Arrests.
+ 12.05.2023, _AFW Ho, L Kai Yi, N Shahidah, S Fook-Chong, PP Pek, H Tanaka, SD Shin, PC Ko, B Yong-Qiang Tan, SL Lim, MH Ma, HW Ryoo, CH Lin, CW Kuo, K Kajino, MEH Ong_
 
 
-A taxonomic study was carried out on strain yzlin-01T, isolated from Dongshan Island seawater. The bacterium was Gram-stain-negative, catalase-positive, oxidase-negative, rod-shaped, and motile by polar flagella. Growth was observed at temperatures of 10-40 °C, at salinities of 0.5-18 %, and at pH of 6-10. Phylogenetic analysis based on 16S rRNA gene sequences indicated that strain yzlin-01T belonged to the genus Halomonas, with the highest sequence similarity to Halomonas malpeensis YU-PRIM-29T (96.7 %), followed by Halomonas johnsoniae T68687T (96.4 %) and Halomonas gomseomensis M12T (96.4 %), and other species of the genus Halomonas (93.4-96.3 %). The ANI and digital DNA-DNA hybridization estimate values between strain yzlin-01T and the closest type strain Halomonas malpeensis YU-PRIM-29T were 77.44 and 21.6 %, respectively. The principal fatty acids were summed feature 8 (consisting of C18 : 1  ω7c and/or C18 : 1  ω6c; 55.7 %), C16 : 0 (20.6 %), C12 : 0 3-OH (6.8 %), summed feature 3 (consisting of C16 : 1  ω7c and/or C16 : 1  ω6c; 5.1 %). The G+C content of the chromosomal DNA was 60.0 mol %. The respiratory quinone was identified as Q-9 (100 %). Phosphatidylethanolamine, phosphatidylglycerol, diphosphatidylglycerol, aminophospholipid, and three unidentified phospholipids were present. Combined genotypic and phenotypic data suggest that strain yzlin-01T represents a novel species within the genus Halomonas, for which the name Halomonas dongshanensis sp. nov. is proposed, with the type strain yzlin-01T (=GDMCC 1.3202T=KCTC 92467T).
+BackgroundThe initial cardiac rhythm in out-of-hospital cardiac arrest (OHCA) portends different prognoses and affects treatment decisions. Initial shockable rhythms are associated with good survival and neurological outcomes but there is conflicting evidence for those who initially present with non-shockable rhythms. The aim of this study is to evaluate if OHCA with conversion from non-shockable (i.e., asystole and pulseless electrical activity) rhythms to shockable rhythms compared to OHCA remaining in non-shockable rhythms is associated with better survival and neurological outcomes.MethodOHCA cases from the Pan-Asian Resuscitation Outcomes Study registry in 13 countries between January 2009 and February 2018 were retrospectively analyzed. Cases with missing initial rhythms, age &lt;18 years, presumed non-medical cause of arrest, and not conveyed by emergency medical services were excluded. Multivariable logistic regression analysis was performed to evaluate the relationship between initial and subsequent shockable rhythm, survival to discharge, and survival with favorable neurological outcomes (cerebral performance category 1 or 2).ResultsOf the 116,387 cases included. 11,153 (9.6%) had initial shockable rhythms and 9,765 (8.4%) subsequently converted to shockable rhythms. Japan had the lowest proportion of OHCA patients with initial shockable rhythms (7.3%). For OHCA with initial shockable rhythm, the adjusted odds ratios (aOR) for survival and good neurological outcomes were 8.11 (95% confidence interval [CI] 7.62-8.63) and 15.4 (95%CI 14.1-16.8) respectively. For OHCA that converted from initial non-shockable to shockable rhythms, the aORs for survival and good neurological outcomes were 1.23 (95%CI 1.10-1.37) and 1.61 (95%CI 1.35-1.91) respectively. The aORs for survival and good neurological outcomes were 1.48 (95%CI 1.22-1.79) and 1.92 (95%CI 1.3 -2.84) respectively for initial asystole, while the aOR for survival in initial pulseless electrical activity patients was 0.83 (95%CI 0.71-0.98). Prehospital adrenaline administration had the highest aOR (2.05, 95%CI 1.93-2.18) for conversion to shockable rhythm.ConclusionIn this ambidirectional cohort study, conversion from non-shockable to shockable rhythm was associated with improved survival and neurologic outcomes compared to rhythms that continued to be non-shockable. Continued advanced resuscitation may be beneficial for OHCA with subsequent conversion to shockable rhythms.
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1654707045063335936?ref_src=twsrc%5Etfw)
 
-10.1099/ijsem.0.005830
+10.1080/10903127.2023.2212039
 
 ---
 
@@ -175,15 +175,15 @@ Metabolic diseases, such as obesity, metabolic syndrome (MetS) and type 2 diabet
 
 ---
 
-## In vitro simulated digestion and fecal fermentation of exopolysaccharides from Lacticaseibacillus paracasei GL1.
- 12.05.2023, _X Wang, J Tian, N Tang, X Zhang, L Xiao, M Xu, M Dong, W Li_
+## Interplay of the microbiome and antifungal therapy in recurrent vulvovaginal candidiasis (RVVC): A narrative review.
+ 12.05.2023, _M Bradfield Strydom, S Khan, RL Walpola, RS Ware, E Tiralongo_
 
 
-The prebiotic properties of two purified fractions (GL1-E1 and GL1-E2) of exopolysaccharides (EPSs) from Lacticaseibacillus paracasei GL1 were investigated through in vitro fermentation of pure and human fecal cultures. The results indicated that the simulated digestion under saliva, gastric, and small intestinal conditions had no effect on GL1-E1 and GL1-E2. Additionally, GL1-E1 and GL1-E2 can be used as substrates for Lactobacillus and Lactococcus growth. It was also found that both were gradually degraded and utilized by the gut microbiota. As fermentation proceeded, the pH continued to decrease. Additionally, the total short-chain fatty acid (SCFA) production significantly increased, especially the major SCFA of formic, lactic, and acetic acid. Furthermore, GL1-E1 and GL1-E2 could significantly regulate the composition of the gut microbiota, by increasing the relative abundances of Bacteroides and Phascolarctobacterium, and decreasing the pathogenic bacteria Escherichia-Shigella, Klebsiella, and Fusobacterium. These results suggest that GL1-E1 and GL1-E2 have the potential to be developed as a prebiotic.
+Recurrent vulvovaginal candidiasis (RVVC) is a microbial, immune and sexual health disorder impacting up to 10 % of the adult female population. Fluconazole is a well-established antifungal drug commonly utilized for acute and long-term RVVC treatment. This insight review provides an overview of known vaginal and gastrointestinal microbiota characteristics in RVVC, presents the potential impacts of fluconazole therapy on multi-microbiome relationships and discusses implications for future research and clinical practice. Next-generation sequencing (NGS) and molecular methods to accurately define vaginal microbiota trends in RVVC are not comprehensively available, limiting understanding of microbiota roles in RVVC. Inconsistencies and variances in Lactobacillus profiles in RVVC women suggest poorly understood disease implications on the bacterial and fungal microbiomes. Investigations of environmental conditions like vaginal pH, drug therapy's impact, especially fluconazole maintenance therapy, and the elucidation of multi-microbiome relationships in RVVC are required to further investigate disease pathogenesis and responsible antimicrobial prescribing.
 
 [Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
 
-10.1039/d3fo00676j
+10.1099/jmm.0.001705
 
 ---
 
@@ -233,18 +233,6 @@ We conducted an international survey of patients with SLE to assess their access
 ## https://t.co/e3iVqB3DAc
 
 [Source](https://t.co/e3iVqB3DAc)
-
----
-
-## Halomonas dongshanensis sp. nov., isolated from the seawater of Dongshan Island.
- 12.05.2023, _WZ Lin, LF Gong, Y Guo, RZ Liu, W Xu, QY Guan, CM Guo, ZK Lin, HY Meng, XY Chen_
-
-
-A taxonomic study was carried out on strain yzlin-01T, isolated from Dongshan Island seawater. The bacterium was Gram-stain-negative, catalase-positive, oxidase-negative, rod-shaped, and motile by polar flagella. Growth was observed at temperatures of 10-40 °C, at salinities of 0.5-18 %, and at pH of 6-10. Phylogenetic analysis based on 16S rRNA gene sequences indicated that strain yzlin-01T belonged to the genus Halomonas, with the highest sequence similarity to Halomonas malpeensis YU-PRIM-29T (96.7 %), followed by Halomonas johnsoniae T68687T (96.4 %) and Halomonas gomseomensis M12T (96.4 %), and other species of the genus Halomonas (93.4-96.3 %). The ANI and digital DNA-DNA hybridization estimate values between strain yzlin-01T and the closest type strain Halomonas malpeensis YU-PRIM-29T were 77.44 and 21.6 %, respectively. The principal fatty acids were summed feature 8 (consisting of C18 : 1  ω7c and/or C18 : 1  ω6c; 55.7 %), C16 : 0 (20.6 %), C12 : 0 3-OH (6.8 %), summed feature 3 (consisting of C16 : 1  ω7c and/or C16 : 1  ω6c; 5.1 %). The G+C content of the chromosomal DNA was 60.0 mol %. The respiratory quinone was identified as Q-9 (100 %). Phosphatidylethanolamine, phosphatidylglycerol, diphosphatidylglycerol, aminophospholipid, and three unidentified phospholipids were present. Combined genotypic and phenotypic data suggest that strain yzlin-01T represents a novel species within the genus Halomonas, for which the name Halomonas dongshanensis sp. nov. is proposed, with the type strain yzlin-01T (=GDMCC 1.3202T=KCTC 92467T).
-
-[Source](https://twitter.com/Thuls_M/status/1656366392243810312?ref_src=twsrc%5Etfw)
-
-10.1099/ijsem.0.005830
 
 ---
 
@@ -320,15 +308,15 @@ Mouse models are key tools for investigating host-microbiome interactions. Howev
 
 ---
 
-## Halomonas dongshanensis sp. nov., isolated from the seawater of Dongshan Island.
- 12.05.2023, _WZ Lin, LF Gong, Y Guo, RZ Liu, W Xu, QY Guan, CM Guo, ZK Lin, HY Meng, XY Chen_
+## Association between Conversion to Shockable Rhythms and Survival with Favorable Neurological Outcomes for Out-of-Hospital Cardiac Arrests.
+ 12.05.2023, _AFW Ho, L Kai Yi, N Shahidah, S Fook-Chong, PP Pek, H Tanaka, SD Shin, PC Ko, B Yong-Qiang Tan, SL Lim, MH Ma, HW Ryoo, CH Lin, CW Kuo, K Kajino, MEH Ong_
 
 
-A taxonomic study was carried out on strain yzlin-01T, isolated from Dongshan Island seawater. The bacterium was Gram-stain-negative, catalase-positive, oxidase-negative, rod-shaped, and motile by polar flagella. Growth was observed at temperatures of 10-40 °C, at salinities of 0.5-18 %, and at pH of 6-10. Phylogenetic analysis based on 16S rRNA gene sequences indicated that strain yzlin-01T belonged to the genus Halomonas, with the highest sequence similarity to Halomonas malpeensis YU-PRIM-29T (96.7 %), followed by Halomonas johnsoniae T68687T (96.4 %) and Halomonas gomseomensis M12T (96.4 %), and other species of the genus Halomonas (93.4-96.3 %). The ANI and digital DNA-DNA hybridization estimate values between strain yzlin-01T and the closest type strain Halomonas malpeensis YU-PRIM-29T were 77.44 and 21.6 %, respectively. The principal fatty acids were summed feature 8 (consisting of C18 : 1  ω7c and/or C18 : 1  ω6c; 55.7 %), C16 : 0 (20.6 %), C12 : 0 3-OH (6.8 %), summed feature 3 (consisting of C16 : 1  ω7c and/or C16 : 1  ω6c; 5.1 %). The G+C content of the chromosomal DNA was 60.0 mol %. The respiratory quinone was identified as Q-9 (100 %). Phosphatidylethanolamine, phosphatidylglycerol, diphosphatidylglycerol, aminophospholipid, and three unidentified phospholipids were present. Combined genotypic and phenotypic data suggest that strain yzlin-01T represents a novel species within the genus Halomonas, for which the name Halomonas dongshanensis sp. nov. is proposed, with the type strain yzlin-01T (=GDMCC 1.3202T=KCTC 92467T).
+BackgroundThe initial cardiac rhythm in out-of-hospital cardiac arrest (OHCA) portends different prognoses and affects treatment decisions. Initial shockable rhythms are associated with good survival and neurological outcomes but there is conflicting evidence for those who initially present with non-shockable rhythms. The aim of this study is to evaluate if OHCA with conversion from non-shockable (i.e., asystole and pulseless electrical activity) rhythms to shockable rhythms compared to OHCA remaining in non-shockable rhythms is associated with better survival and neurological outcomes.MethodOHCA cases from the Pan-Asian Resuscitation Outcomes Study registry in 13 countries between January 2009 and February 2018 were retrospectively analyzed. Cases with missing initial rhythms, age &lt;18 years, presumed non-medical cause of arrest, and not conveyed by emergency medical services were excluded. Multivariable logistic regression analysis was performed to evaluate the relationship between initial and subsequent shockable rhythm, survival to discharge, and survival with favorable neurological outcomes (cerebral performance category 1 or 2).ResultsOf the 116,387 cases included. 11,153 (9.6%) had initial shockable rhythms and 9,765 (8.4%) subsequently converted to shockable rhythms. Japan had the lowest proportion of OHCA patients with initial shockable rhythms (7.3%). For OHCA with initial shockable rhythm, the adjusted odds ratios (aOR) for survival and good neurological outcomes were 8.11 (95% confidence interval [CI] 7.62-8.63) and 15.4 (95%CI 14.1-16.8) respectively. For OHCA that converted from initial non-shockable to shockable rhythms, the aORs for survival and good neurological outcomes were 1.23 (95%CI 1.10-1.37) and 1.61 (95%CI 1.35-1.91) respectively. The aORs for survival and good neurological outcomes were 1.48 (95%CI 1.22-1.79) and 1.92 (95%CI 1.3 -2.84) respectively for initial asystole, while the aOR for survival in initial pulseless electrical activity patients was 0.83 (95%CI 0.71-0.98). Prehospital adrenaline administration had the highest aOR (2.05, 95%CI 1.93-2.18) for conversion to shockable rhythm.ConclusionIn this ambidirectional cohort study, conversion from non-shockable to shockable rhythm was associated with improved survival and neurologic outcomes compared to rhythms that continued to be non-shockable. Continued advanced resuscitation may be beneficial for OHCA with subsequent conversion to shockable rhythms.
 
 [Source](https://twitter.com/paolo_manghi/status/1654882140402728961?ref_src=twsrc%5Etfw)
 
-10.1099/ijsem.0.005830
+10.1080/10903127.2023.2212039
 
 ---
 
