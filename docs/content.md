@@ -47,6 +47,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## On the Abundance and Stability of Diazo-Containing Secondary Metabolites: Enantioselective Synthesis of (-)-Nenestatin A.
+ 12.05.2023, _MC Frischling, SB Herzon_
+
+
+Here, we report an enantioselective synthesis of the monomeric nes product (-)-nenestatin A, via the intermediary diazofluorene "diazonenestatin A." Our route features a convergent, aldol-based fragment coupling to assemble the carbon skeleton and a diazotransfer to a highly conjugated tetracyclic fulvene. We find that diazonenestatin A is transformed to nenestatin A under conditions that mimic the bacterial fermentation, suggesting that the nes pathway may produce unstable diazofluorene products that have eluded isolation.
+
+[Source](https://twitter.com/Yale?ref_src=twsrc%5Etfw)
+
+10.1021/acs.orglett.3c01175
+
+---
+
 ## @Yale
 
 [Source](https://twitter.com/Yale?ref_src=twsrc%5Etfw)
@@ -224,9 +236,33 @@ We conducted an international survey of patients with SLE to assess their access
 
 ---
 
+## Surface-modified activated carbon for N-nitrosodimethylamine removal in the continuous flow biological activated carbon columns.
+ 12.05.2023, _MP Astuti, WS Taylor, GD Lewis, LP Padhye_
+
+
+The carcinogenic nitrogenous disinfection by-product, N-nitrosodimethylamine (NDMA), is challenging to adsorb due to its high polarity and solubility. Our previous research demonstrated that the adsorptive removal of NDMA can be improved using surface-modified activated carbon (AC800). The current study evaluated the efficacy of AC800 in removing NDMA in a continuous-flow column over 75 days, using both granular activated carbon (GAC) and biologically activated carbon (BAC) columns. The AC800 GAC column demonstrated extended breakthrough and exhaustion times of 10 days and 22 days, respectively, compared to the conventional GAC column at 4 days and 10.5 days. The surface modification effect persisted for 25 days before the removal trends became indistinguishable. The AC800 BAC column outperformed the conventional BAC column with a longer breakthrough time of 11.3 days compared to 7.4 days. BAC columns consistently showed greater NDMA removal, emphasizing the role of biodegradation in NDMA removal on carbon. The higher NDMA removal in the inoculated columns was attributed to increased microbial diversity and the dominance of six specific genera, Methylobacterium, Phyllobacterium, Curvibacter, Acidovorax, Variovorax, and Rhodoferax. This study provides new insights into using modified activated carbon as GAC and BAC media in a real-world continuous-flow setup.
+
+[Source](https://twitter.com/Thuls_M/status/1656366392243810312?ref_src=twsrc%5Etfw)
+
+10.1016/j.jhazmat.2023.131518
+
+---
+
 ## May 10, 2023
 
 [Source](https://twitter.com/Thuls_M/status/1656366392243810312?ref_src=twsrc%5Etfw)
+
+---
+
+## Integrated analysis of transcriptome and milk metagenome in subclinical mastitic and healthy cows.
+ 30.04.2022, _J Zhang, X Liu, T Usman, Y Tang, S Mi, W Li, M Yang, Y Yu_
+
+
+Abnormally increased somatic cell counts in milk is usually a sign of bovine subclinical mastitis. Mutual interaction between the host and its associated microbiota plays an important role in developing such diseases. The main objective of this study was to explore the difference between cows with elevated somatic cell counts and healthy cattle from the perspective of host-microbe interplay.
+
+[Source](https://www.biorxiv.org/content/biorxiv/early/2023/05/09/2023.05.09.539964.full.pdf)
+
+10.5713/ab.21.0495
 
 ---
 
@@ -236,9 +272,15 @@ We conducted an international survey of patients with SLE to assess their access
 
 ---
 
-## MetaPhlAn 4 profiling of unknown species-level genome bins improves the characterization of diet-associated microbiome changes in mice
+## MetaPhlAn 4 profiling of unknown species-level genome bins improves the characterization of diet-associated microbiome changes in mice.
+ 04.05.2023, _P Manghi, A Blanco-Míguez, S Manara, A NabiNejad, F Cumbo, F Beghini, F Armanini, D Golzato, KD Huang, AM Thomas, G Piccinno, M Punčochář, M Zolfo, TR Lesker, M Bredon, J Planchais, J Glodt, M Valles-Colomer, O Koren, E Pasolli, F Asnicar, T Strowig, H Sokol, N Segata_
+
+
+Mouse models are key tools for investigating host-microbiome interactions. However, shotgun metagenomics can only profile a limited fraction of the mouse gut microbiome. Here, we employ a metagenomic profiling method, MetaPhlAn 4, which exploits a large catalog of metagenome-assembled genomes (including 22,718 metagenome-assembled genomes from mice) to improve the profiling of the mouse gut microbiome. We combine 622 samples from eight public datasets and an additional cohort of 97 mouse microbiomes, and we assess the potential of MetaPhlAn 4 to better identify diet-related changes in the host microbiome using a meta-analysis approach. We find multiple, strong, and reproducible diet-related microbial biomarkers, largely increasing those identifiable by other available methods relying only on reference information. The strongest drivers of the diet-induced changes are uncharacterized and previously undetected taxa, confirming the importance of adopting metagenomic methods integrating metagenomic assemblies for comprehensive profiling.
 
 [Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00475-8)
+
+10.1016/j.celrep.2023.112464
 
 ---
 
@@ -290,9 +332,15 @@ We conducted an international survey of patients with SLE to assess their access
 
 ---
 
-## Catch me if you can: capturing microbial community transformation by extracellular DNA using Hi-C sequencing 
+## Catch me if you can: capturing microbial community transformation by extracellular DNA using Hi-C sequencing.
+ 08.05.2023, _D Calderón-Franco, MCM van Loosdrecht, T Abeel, DG Weissbrodt_
+
+
+The transformation of environmental microorganisms by extracellular DNA is an overlooked mechanism of horizontal gene transfer and evolution. It initiates the acquisition of exogenous genes and propagates antimicrobial resistance alongside vertical and conjugative transfers. We combined mixed-culture biotechnology and Hi-C sequencing to elucidate the transformation of wastewater microorganisms with a synthetic plasmid encoding GFP and kanamycin resistance genes, in the mixed culture of chemostats exposed to kanamycin at concentrations representing wastewater, gut and polluted environments (0.01-2.5-50-100 mg L-1). We found that the phylogenetically distant Gram-negative Runella (102 Hi-C links), Bosea (35), Gemmobacter (33) and Zoogloea (24) spp., and Gram-positive Microbacterium sp. (90) were transformed by the foreign plasmid, under high antibiotic exposure (50 mg L-1). In addition, the antibiotic pressure shifted the origin of aminoglycoside resistance genes from genomic DNA to mobile genetic elements on plasmids accumulating in microorganisms. These results reveal the power of Hi-C sequencing to catch and surveil the transfer of xenogenetic elements inside microbiomes.
 
 [Source](https://link.springer.com/article/10.1007/s10482-023-01834-z)
+
+10.1007/s10482-023-01834-z
 
 ---
 
