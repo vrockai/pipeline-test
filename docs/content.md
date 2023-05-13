@@ -47,33 +47,9 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Clinical Assessment of Eye Movement Desensitization and Reprocessing in Memory Distress: Protocol for a Double-Blinded Randomized Controlled Trial.
- 12.05.2023, _N Babaei, C Kerry, K Goode, K Dang, P Mirzadeh, M Pirbaglou, MA Kirk, P Ritvo_
-
-
-Exposures to "traumatic" events are widespread and can cause posttraumatic stress disorder (PTSD). Cognitive behavioral therapy and eye movement desensitization and reprocessing (EMDR) are frequently used and validated behavioral PTSD treatments. Despite demonstrated effectiveness, highly upsetting memory reactions can be evoked, resulting in extensive distress and, sometimes, treatment dropout. In recent years, multiple treatment approaches have aimed at reducing such upsetting memory reactions to traumatic memories while therapeutic progress proceeds. One of these methods, the flash technique (FT), a modification of standard EMDR (S-EMDR), appears effective in distressing memory reduction. This study will examine FT-EMDR and S-EMDR efficacies when both methods are delivered via web-based video.
-
-[Source](https://twitter.com/Yale?ref_src=twsrc%5Etfw)
-
-10.2196/38552
-
----
-
 ## @Yale
 
 [Source](https://twitter.com/Yale?ref_src=twsrc%5Etfw)
-
----
-
-## Current practice of genomic profiling of patients with advanced solid tumours in Italy: the Italian Register of Actionable Mutations (RATIONAL) study.
- 11.05.2023, _N Normanno, A De Luca, RE Abate, A Morabito, M Milella, F Tabbò, G Curigliano, C Masini, P Marchetti, G Pruneri, V Guarneri, GL Frassineti, G Fasola, V Adamo, B Daniele, R Berardi, F Feroce, E Maiello, C Pinto_
-
-
-The Italian Register of Actionable Mutations (RATIONAL) is a multicentric, observational study collecting next-generation sequencing (NGS)-based tumour profiling data of patients with advanced solid tumours.
-
-[Source](https://twitter.com/QIAGEN?ref_src=twsrc%5Etfw)
-
-10.1016/j.ejca.2023.03.027
 
 ---
 
@@ -89,34 +65,9 @@ The Italian Register of Actionable Mutations (RATIONAL) is a multicentric, obser
 
 ---
 
-## Association between Conversion to Shockable Rhythms and Survival with Favorable Neurological Outcomes for Out-of-Hospital Cardiac Arrests.
- 12.05.2023, _AFW Ho, L Kai Yi, N Shahidah, S Fook-Chong, PP Pek, H Tanaka, SD Shin, PC Ko, B Yong-Qiang Tan, SL Lim, MH Ma, HW Ryoo, CH Lin, CW Kuo, K Kajino, MEH Ong_
-
-
-BackgroundThe initial cardiac rhythm in out-of-hospital cardiac arrest (OHCA) portends different prognoses and affects treatment decisions. Initial shockable rhythms are associated with good survival and neurological outcomes but there is conflicting evidence for those who initially present with non-shockable rhythms. The aim of this study is to evaluate if OHCA with conversion from non-shockable (i.e., asystole and pulseless electrical activity) rhythms to shockable rhythms compared to OHCA remaining in non-shockable rhythms is associated with better survival and neurological outcomes.MethodOHCA cases from the Pan-Asian Resuscitation Outcomes Study registry in 13 countries between January 2009 and February 2018 were retrospectively analyzed. Cases with missing initial rhythms, age &lt;18 years, presumed non-medical cause of arrest, and not conveyed by emergency medical services were excluded. Multivariable logistic regression analysis was performed to evaluate the relationship between initial and subsequent shockable rhythm, survival to discharge, and survival with favorable neurological outcomes (cerebral performance category 1 or 2).ResultsOf the 116,387 cases included. 11,153 (9.6%) had initial shockable rhythms and 9,765 (8.4%) subsequently converted to shockable rhythms. Japan had the lowest proportion of OHCA patients with initial shockable rhythms (7.3%). For OHCA with initial shockable rhythm, the adjusted odds ratios (aOR) for survival and good neurological outcomes were 8.11 (95% confidence interval [CI] 7.62-8.63) and 15.4 (95%CI 14.1-16.8) respectively. For OHCA that converted from initial non-shockable to shockable rhythms, the aORs for survival and good neurological outcomes were 1.23 (95%CI 1.10-1.37) and 1.61 (95%CI 1.35-1.91) respectively. The aORs for survival and good neurological outcomes were 1.48 (95%CI 1.22-1.79) and 1.92 (95%CI 1.3 -2.84) respectively for initial asystole, while the aOR for survival in initial pulseless electrical activity patients was 0.83 (95%CI 0.71-0.98). Prehospital adrenaline administration had the highest aOR (2.05, 95%CI 1.93-2.18) for conversion to shockable rhythm.ConclusionIn this ambidirectional cohort study, conversion from non-shockable to shockable rhythm was associated with improved survival and neurologic outcomes compared to rhythms that continued to be non-shockable. Continued advanced resuscitation may be beneficial for OHCA with subsequent conversion to shockable rhythms.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1654707045063335936?ref_src=twsrc%5Etfw)
-
-10.1080/10903127.2023.2212039
-
----
-
 ## May 6, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1654707045063335936?ref_src=twsrc%5Etfw)
-
----
-
-## Single and combined effects of microplastics and cadmium on the sea cucumber Apostichopus japonicus.
- 21.03.2023, _C Zhang, C Lin, L Li, M Mohsen, T Wang, X Wang, L Zhang, W Huang_
-
-
-_Animals, Cadmium, Stichopus, Microplastics, Sea Cucumbers, Plastics_
-Microplastic pollution of the ocean has received extensive attention as plastic pollution increases globally, but the potential ecological risks caused by microplastic interactions with trace metals still require further research. In this study, Apostichopus japonicus was used to explore the individual and combined toxicities of cadmium (Cd) and microplastics and their effects on growth, Cd tissue accumulation, digestive enzymes, and gut microbes. The body weight gain and specific growth rate of animals exposed to a combination of high concentrations of Cd and microplastics decreased. The addition of high concentrations of cadmium to the diet led to an increase in cadmium content in the respiratory tree, digestive tract and body wall. Amylase, lipase and trypsin decreased to different degrees in the group treated with high concentrations of Cd/microplastics. Firmicutes were significantly reduced across multiple treatment groups, with the order Lactobacillales being the most significantly affected. Cd is the pollutant causing the greatest negative impact, but the presence of microplastics undoubtedly increases its toxicity.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0966842X23001208)
-
-10.1016/j.marenvres.2023.105927
 
 ---
 
@@ -175,15 +126,15 @@ Metabolic diseases, such as obesity, metabolic syndrome (MetS) and type 2 diabet
 
 ---
 
-## Interplay of the microbiome and antifungal therapy in recurrent vulvovaginal candidiasis (RVVC): A narrative review.
- 12.05.2023, _M Bradfield Strydom, S Khan, RL Walpola, RS Ware, E Tiralongo_
+## Effects of dietary polyherbal mixtures on growth performance, antioxidant capacity, immune function and jejunal health of yellow-feathered broilers.
+ 12.05.2023, _M Liu, J Zhou, Y Li, Y Ding, J Lian, Q Dong, Q Qu, W Lv, S Guo_
 
 
-Recurrent vulvovaginal candidiasis (RVVC) is a microbial, immune and sexual health disorder impacting up to 10 % of the adult female population. Fluconazole is a well-established antifungal drug commonly utilized for acute and long-term RVVC treatment. This insight review provides an overview of known vaginal and gastrointestinal microbiota characteristics in RVVC, presents the potential impacts of fluconazole therapy on multi-microbiome relationships and discusses implications for future research and clinical practice. Next-generation sequencing (NGS) and molecular methods to accurately define vaginal microbiota trends in RVVC are not comprehensively available, limiting understanding of microbiota roles in RVVC. Inconsistencies and variances in Lactobacillus profiles in RVVC women suggest poorly understood disease implications on the bacterial and fungal microbiomes. Investigations of environmental conditions like vaginal pH, drug therapy's impact, especially fluconazole maintenance therapy, and the elucidation of multi-microbiome relationships in RVVC are required to further investigate disease pathogenesis and responsible antimicrobial prescribing.
+This study aimed to investigate the effects of polyherbal mixtures (PHM) on growth performance, antioxidant capacities, immune function, and intestinal health in yellow-feathered broilers. PHM is composed of five traditional Chinese medicine herbs (Portulaca oleracea L., Radix Sophora flavescens, Thalictrum glandulosissimum, Terra flava usta, and Pogostemon cablin). A total of 270 one-day-old yellow-feathered broilers were randomly allotted into 3 treatments for a 42-d feeding trial, each with 6 replicates of 15 birds. The dietary treatments consisted of a basal diet (CON), a basal diet supplemented with 50 mg/kg chlortetracycline (CTC), and a basal diet supplemented with 1000 mg/kg PHM. The results showed that dietary PHM supplementation increased body weight, ADG, and decreased F/G compared to the CON. PHM also increased spleen index and mRNA expression of IL-4 (d 21), and thymus index, serum IgA (d 42) and IgG, IL-4 and sIgA in jejunal mucosa (d 21 and 42), but decreased serum IFN-γ and mRNA expression of IFN-γ (d 21 and 42). In addition, PHM increased serum SOD, GSH-Px (d 21 and 42) and T-AOC (d 42), but decreased the content of serum MDA (d 21), the up-regulated mRNA expression of GSH-Px, CAT (d 21), SOD and CAT (d 42). Furthermore, PHM also improved the intestinal epithelial barrier indicators by the up-regulated mRNA expression of CLDN-1, OCLN (d 21 and 42) and ZO-1 (d 21), and the increased of villus height and villus height to crypt depth in jejunum (d 42). The high-throughput sequencing results showed that dietary PHM supplementation increased the alpha diversity and relative abundance of Oscillospira and Ruminococcus (d 21) and Lactobacillus (d 42), whereas decreasing that of Enterococcus (d 21) compared with CON. PICRUSt analysis revealed that metabolic pathways of carbohydrate, energy, lipid, cofactors, and vitamins were significantly enriched in the PHM group. Spearman's correlation analysis revealed that the genera Lactobacillus, Enterococcus, Ruminococcus, Oscillospira, and Faecalibacterium were related to growth performance, intestinal integrity, immune-related factors, antioxidant indices, and tight junction proteins. In conclusion, the results indicated that dietary PHM supplementation improved growth performance and immune status of yellow-feathered broilers by enhancing antioxidant capacities, barrier function, and modulated jejunal microbial communities. PHM used in our study has the potential to replace prophylactic antibiotic use in poultry production systems.
 
 [Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
 
-10.1099/jmm.0.001705
+10.1016/j.psj.2023.102714
 
 ---
 
@@ -308,15 +259,15 @@ Mouse models are key tools for investigating host-microbiome interactions. Howev
 
 ---
 
-## Association between Conversion to Shockable Rhythms and Survival with Favorable Neurological Outcomes for Out-of-Hospital Cardiac Arrests.
- 12.05.2023, _AFW Ho, L Kai Yi, N Shahidah, S Fook-Chong, PP Pek, H Tanaka, SD Shin, PC Ko, B Yong-Qiang Tan, SL Lim, MH Ma, HW Ryoo, CH Lin, CW Kuo, K Kajino, MEH Ong_
+## Thermally enhanced biodegradation of benzo[a]pyrene and benzene co-contaminated soil: Bioavailability and generation of ROS.
+ 12.05.2023, _M Ali, X Song, Q Wang, Z Zhang, M Zhang, X Chen, Z Tang, X Liu_
 
 
-BackgroundThe initial cardiac rhythm in out-of-hospital cardiac arrest (OHCA) portends different prognoses and affects treatment decisions. Initial shockable rhythms are associated with good survival and neurological outcomes but there is conflicting evidence for those who initially present with non-shockable rhythms. The aim of this study is to evaluate if OHCA with conversion from non-shockable (i.e., asystole and pulseless electrical activity) rhythms to shockable rhythms compared to OHCA remaining in non-shockable rhythms is associated with better survival and neurological outcomes.MethodOHCA cases from the Pan-Asian Resuscitation Outcomes Study registry in 13 countries between January 2009 and February 2018 were retrospectively analyzed. Cases with missing initial rhythms, age &lt;18 years, presumed non-medical cause of arrest, and not conveyed by emergency medical services were excluded. Multivariable logistic regression analysis was performed to evaluate the relationship between initial and subsequent shockable rhythm, survival to discharge, and survival with favorable neurological outcomes (cerebral performance category 1 or 2).ResultsOf the 116,387 cases included. 11,153 (9.6%) had initial shockable rhythms and 9,765 (8.4%) subsequently converted to shockable rhythms. Japan had the lowest proportion of OHCA patients with initial shockable rhythms (7.3%). For OHCA with initial shockable rhythm, the adjusted odds ratios (aOR) for survival and good neurological outcomes were 8.11 (95% confidence interval [CI] 7.62-8.63) and 15.4 (95%CI 14.1-16.8) respectively. For OHCA that converted from initial non-shockable to shockable rhythms, the aORs for survival and good neurological outcomes were 1.23 (95%CI 1.10-1.37) and 1.61 (95%CI 1.35-1.91) respectively. The aORs for survival and good neurological outcomes were 1.48 (95%CI 1.22-1.79) and 1.92 (95%CI 1.3 -2.84) respectively for initial asystole, while the aOR for survival in initial pulseless electrical activity patients was 0.83 (95%CI 0.71-0.98). Prehospital adrenaline administration had the highest aOR (2.05, 95%CI 1.93-2.18) for conversion to shockable rhythm.ConclusionIn this ambidirectional cohort study, conversion from non-shockable to shockable rhythm was associated with improved survival and neurologic outcomes compared to rhythms that continued to be non-shockable. Continued advanced resuscitation may be beneficial for OHCA with subsequent conversion to shockable rhythms.
+In this study, a set of comprehensive experiments were conducted to explore the effects of temperature on the biodegradation, bioavailability, and generation of reactive oxygen species (ROS) by thermally enhanced biodegradation (TEB) under benzene and BaP co-contaminated conditions. The biodegradation rates of benzene increased from 57.4% to 88.7% and 84.9%, and the biodegradation efficiency of BaP was enhanced from 15.8% to 34.6% and 28.6%, when the temperature was raised from the ambient temperature of 15 °C to 45 °C and 30 °C, respectively. In addition, the bioavailability analysis results demonstrated that the water- and butanol-extractable BaP increased with elevated temperatures. High enzymatic activities and PAH-RHDα gene in gram-positive bacteria favored the long-term elevated temperatures (30 and 45 °C) compared to gram-negative bacteria. Moreover, ROS species (O2•- and •OH) generation was detected which were scavenged by the increased superoxide dismutase and catalase activities at elevated temperatures. Soil properties (pH, TOC, moisture, total iron, Fe3+, and Fe2+) were affected by the temperature treatments, revealing that metal-organic-associated reactions occurred during the TEB of benzene-BaP co-contamination. The results concluded that biodegradation of benzene-BaP co-contamination was greatly improved at 45 °C and that microbial activities enhanced the biodegradation under TEB via the increased bioavailability and generation and degradation of ROS.
 
 [Source](https://twitter.com/paolo_manghi/status/1654882140402728961?ref_src=twsrc%5Etfw)
 
-10.1080/10903127.2023.2212039
+10.1016/j.jhazmat.2023.131494
 
 ---
 
