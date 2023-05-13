@@ -53,6 +53,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Current practice of genomic profiling of patients with advanced solid tumours in Italy: the Italian Register of Actionable Mutations (RATIONAL) study.
+ 11.05.2023, _N Normanno, A De Luca, RE Abate, A Morabito, M Milella, F Tabbò, G Curigliano, C Masini, P Marchetti, G Pruneri, V Guarneri, GL Frassineti, G Fasola, V Adamo, B Daniele, R Berardi, F Feroce, E Maiello, C Pinto_
+
+
+The Italian Register of Actionable Mutations (RATIONAL) is a multicentric, observational study collecting next-generation sequencing (NGS)-based tumour profiling data of patients with advanced solid tumours.
+
+[Source](https://twitter.com/QIAGEN?ref_src=twsrc%5Etfw)
+
+10.1016/j.ejca.2023.03.027
+
+---
+
 ## @QIAGEN
 
 [Source](https://twitter.com/QIAGEN?ref_src=twsrc%5Etfw)
@@ -65,9 +77,34 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Thermally enhanced biodegradation of benzo[a]pyrene and benzene co-contaminated soil: Bioavailability and generation of ROS.
+ 12.05.2023, _M Ali, X Song, Q Wang, Z Zhang, M Zhang, X Chen, Z Tang, X Liu_
+
+
+In this study, a set of comprehensive experiments were conducted to explore the effects of temperature on the biodegradation, bioavailability, and generation of reactive oxygen species (ROS) by thermally enhanced biodegradation (TEB) under benzene and BaP co-contaminated conditions. The biodegradation rates of benzene increased from 57.4% to 88.7% and 84.9%, and the biodegradation efficiency of BaP was enhanced from 15.8% to 34.6% and 28.6%, when the temperature was raised from the ambient temperature of 15 °C to 45 °C and 30 °C, respectively. In addition, the bioavailability analysis results demonstrated that the water- and butanol-extractable BaP increased with elevated temperatures. High enzymatic activities and PAH-RHDα gene in gram-positive bacteria favored the long-term elevated temperatures (30 and 45 °C) compared to gram-negative bacteria. Moreover, ROS species (O2•- and •OH) generation was detected which were scavenged by the increased superoxide dismutase and catalase activities at elevated temperatures. Soil properties (pH, TOC, moisture, total iron, Fe3+, and Fe2+) were affected by the temperature treatments, revealing that metal-organic-associated reactions occurred during the TEB of benzene-BaP co-contamination. The results concluded that biodegradation of benzene-BaP co-contamination was greatly improved at 45 °C and that microbial activities enhanced the biodegradation under TEB via the increased bioavailability and generation and degradation of ROS.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1654707045063335936?ref_src=twsrc%5Etfw)
+
+10.1016/j.jhazmat.2023.131494
+
+---
+
 ## May 6, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1654707045063335936?ref_src=twsrc%5Etfw)
+
+---
+
+## Single and combined effects of microplastics and cadmium on the sea cucumber Apostichopus japonicus.
+ 21.03.2023, _C Zhang, C Lin, L Li, M Mohsen, T Wang, X Wang, L Zhang, W Huang_
+
+
+_Animals, Cadmium, Stichopus, Microplastics, Sea Cucumbers, Plastics_
+Microplastic pollution of the ocean has received extensive attention as plastic pollution increases globally, but the potential ecological risks caused by microplastic interactions with trace metals still require further research. In this study, Apostichopus japonicus was used to explore the individual and combined toxicities of cadmium (Cd) and microplastics and their effects on growth, Cd tissue accumulation, digestive enzymes, and gut microbes. The body weight gain and specific growth rate of animals exposed to a combination of high concentrations of Cd and microplastics decreased. The addition of high concentrations of cadmium to the diet led to an increase in cadmium content in the respiratory tree, digestive tract and body wall. Amylase, lipase and trypsin decreased to different degrees in the group treated with high concentrations of Cd/microplastics. Firmicutes were significantly reduced across multiple treatment groups, with the order Lactobacillales being the most significantly affected. Cd is the pollutant causing the greatest negative impact, but the presence of microplastics undoubtedly increases its toxicity.
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0966842X23001208)
+
+10.1016/j.marenvres.2023.105927
 
 ---
 
@@ -193,33 +230,15 @@ We conducted an international survey of patients with SLE to assess their access
 
 ---
 
-## Integrated analysis of transcriptome and milk metagenome in subclinical mastitic and healthy cows.
- 30.04.2022, _J Zhang, X Liu, T Usman, Y Tang, S Mi, W Li, M Yang, Y Yu_
-
-
-Abnormally increased somatic cell counts in milk is usually a sign of bovine subclinical mastitis. Mutual interaction between the host and its associated microbiota plays an important role in developing such diseases. The main objective of this study was to explore the difference between cows with elevated somatic cell counts and healthy cattle from the perspective of host-microbe interplay.
-
-[Source](https://www.biorxiv.org/content/biorxiv/early/2023/05/09/2023.05.09.539964.full.pdf)
-
-10.5713/ab.21.0495
-
----
-
 ## Metagenomic analysis of milk microbiota in the bovine subclinical mastitis 
 
 [Source](https://www.biorxiv.org/content/biorxiv/early/2023/05/09/2023.05.09.539964.full.pdf)
 
 ---
 
-## MetaPhlAn 4 profiling of unknown species-level genome bins improves the characterization of diet-associated microbiome changes in mice.
- 04.05.2023, _P Manghi, A Blanco-Míguez, S Manara, A NabiNejad, F Cumbo, F Beghini, F Armanini, D Golzato, KD Huang, AM Thomas, G Piccinno, M Punčochář, M Zolfo, TR Lesker, M Bredon, J Planchais, J Glodt, M Valles-Colomer, O Koren, E Pasolli, F Asnicar, T Strowig, H Sokol, N Segata_
-
-
-Mouse models are key tools for investigating host-microbiome interactions. However, shotgun metagenomics can only profile a limited fraction of the mouse gut microbiome. Here, we employ a metagenomic profiling method, MetaPhlAn 4, which exploits a large catalog of metagenome-assembled genomes (including 22,718 metagenome-assembled genomes from mice) to improve the profiling of the mouse gut microbiome. We combine 622 samples from eight public datasets and an additional cohort of 97 mouse microbiomes, and we assess the potential of MetaPhlAn 4 to better identify diet-related changes in the host microbiome using a meta-analysis approach. We find multiple, strong, and reproducible diet-related microbial biomarkers, largely increasing those identifiable by other available methods relying only on reference information. The strongest drivers of the diet-induced changes are uncharacterized and previously undetected taxa, confirming the importance of adopting metagenomic methods integrating metagenomic assemblies for comprehensive profiling.
+## MetaPhlAn 4 profiling of unknown species-level genome bins improves the characterization of diet-associated microbiome changes in mice
 
 [Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00475-8)
-
-10.1016/j.celrep.2023.112464
 
 ---
 
@@ -259,58 +278,27 @@ Mouse models are key tools for investigating host-microbiome interactions. Howev
 
 ---
 
-## Thermally enhanced biodegradation of benzo[a]pyrene and benzene co-contaminated soil: Bioavailability and generation of ROS.
- 12.05.2023, _M Ali, X Song, Q Wang, Z Zhang, M Zhang, X Chen, Z Tang, X Liu_
-
-
-In this study, a set of comprehensive experiments were conducted to explore the effects of temperature on the biodegradation, bioavailability, and generation of reactive oxygen species (ROS) by thermally enhanced biodegradation (TEB) under benzene and BaP co-contaminated conditions. The biodegradation rates of benzene increased from 57.4% to 88.7% and 84.9%, and the biodegradation efficiency of BaP was enhanced from 15.8% to 34.6% and 28.6%, when the temperature was raised from the ambient temperature of 15 °C to 45 °C and 30 °C, respectively. In addition, the bioavailability analysis results demonstrated that the water- and butanol-extractable BaP increased with elevated temperatures. High enzymatic activities and PAH-RHDα gene in gram-positive bacteria favored the long-term elevated temperatures (30 and 45 °C) compared to gram-negative bacteria. Moreover, ROS species (O2•- and •OH) generation was detected which were scavenged by the increased superoxide dismutase and catalase activities at elevated temperatures. Soil properties (pH, TOC, moisture, total iron, Fe3+, and Fe2+) were affected by the temperature treatments, revealing that metal-organic-associated reactions occurred during the TEB of benzene-BaP co-contamination. The results concluded that biodegradation of benzene-BaP co-contamination was greatly improved at 45 °C and that microbial activities enhanced the biodegradation under TEB via the increased bioavailability and generation and degradation of ROS.
-
-[Source](https://twitter.com/paolo_manghi/status/1654882140402728961?ref_src=twsrc%5Etfw)
-
-10.1016/j.jhazmat.2023.131494
-
----
-
 ## May 6, 2023
 
 [Source](https://twitter.com/paolo_manghi/status/1654882140402728961?ref_src=twsrc%5Etfw)
 
 ---
 
-## ResMiCo: Increasing the quality of metagenome-assembled genomes with deep learning.
- 11.05.2023, _O Mineeva, D Danciu, B Schölkopf, RE Ley, G Rätsch, ND Youngblut_
-
-
-The number of published metagenome assemblies is rapidly growing due to advances in sequencing technologies. However, sequencing errors, variable coverage, repetitive genomic regions, and other factors can produce misassemblies, which are challenging to detect for taxonomically novel genomic data. Assembly errors can affect all downstream analyses of the assemblies. Accuracy for the state of the art in reference-free misassembly prediction does not exceed an AUPRC of 0.57, and it is not clear how well these models generalize to real-world data. Here, we present the Residual neural network for Misassembled Contig identification (ResMiCo), a deep learning approach for reference-free identification of misassembled contigs. To develop ResMiCo, we first generated a training dataset of unprecedented size and complexity that can be used for further benchmarking and developments in the field. Through rigorous validation, we show that ResMiCo is substantially more accurate than the state of the art, and the model is robust to novel taxonomic diversity and varying assembly methods. ResMiCo estimated 7% misassembled contigs per metagenome across multiple real-world datasets. We demonstrate how ResMiCo can be used to optimize metagenome assembly hyperparameters to improve accuracy, instead of optimizing solely for contiguity. The accuracy, robustness, and ease-of-use of ResMiCo make the tool suitable for general quality control of metagenome assemblies and assembly methodology optimization.
+## ResMiCo: Increasing the quality of metagenome-assembled genomes with deep learning 
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011001)
 
-10.1371/journal.pcbi.1011001
-
 ---
 
-## Catch me if you can: capturing microbial community transformation by extracellular DNA using Hi-C sequencing.
- 08.05.2023, _D Calderón-Franco, MCM van Loosdrecht, T Abeel, DG Weissbrodt_
-
-
-The transformation of environmental microorganisms by extracellular DNA is an overlooked mechanism of horizontal gene transfer and evolution. It initiates the acquisition of exogenous genes and propagates antimicrobial resistance alongside vertical and conjugative transfers. We combined mixed-culture biotechnology and Hi-C sequencing to elucidate the transformation of wastewater microorganisms with a synthetic plasmid encoding GFP and kanamycin resistance genes, in the mixed culture of chemostats exposed to kanamycin at concentrations representing wastewater, gut and polluted environments (0.01-2.5-50-100 mg L-1). We found that the phylogenetically distant Gram-negative Runella (102 Hi-C links), Bosea (35), Gemmobacter (33) and Zoogloea (24) spp., and Gram-positive Microbacterium sp. (90) were transformed by the foreign plasmid, under high antibiotic exposure (50 mg L-1). In addition, the antibiotic pressure shifted the origin of aminoglycoside resistance genes from genomic DNA to mobile genetic elements on plasmids accumulating in microorganisms. These results reveal the power of Hi-C sequencing to catch and surveil the transfer of xenogenetic elements inside microbiomes.
+## Catch me if you can: capturing microbial community transformation by extracellular DNA using Hi-C sequencing 
 
 [Source](https://link.springer.com/article/10.1007/s10482-023-01834-z)
 
-10.1007/s10482-023-01834-z
-
 ---
 
-## The microbiome of an outpatient rehabilitation clinic and predictors of contamination: A pilot study.
- 11.05.2023, _G Brigando, C Sutton, O Uebelhor, N Pitsoulakis, M Pytynia, T Dillon, T Elliott-Burke, N Hubert, K Martinez-Guryn, C Bolch, MJ Ciancio, CC Evans_
-
-
-_Humans, Pilot Projects, RNA, Ribosomal, 16S, Outpatients, Ambulatory Care Facilities, Bacteria, Microbiota_
-Understanding sources of microbial contamination in outpatient rehabilitation (REHAB) clinics is important to patients and healthcare providers.
+## The microbiome of an outpatient rehabilitation clinic and predictors of contamination: A pilot study 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281299)
-
-10.1371/journal.pone.0281299
 
 ---
 
