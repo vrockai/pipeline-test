@@ -53,18 +53,6 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Current practice of genomic profiling of patients with advanced solid tumours in Italy: the Italian Register of Actionable Mutations (RATIONAL) study.
- 11.05.2023, _N Normanno, A De Luca, RE Abate, A Morabito, M Milella, F Tabbò, G Curigliano, C Masini, P Marchetti, G Pruneri, V Guarneri, GL Frassineti, G Fasola, V Adamo, B Daniele, R Berardi, F Feroce, E Maiello, C Pinto_
-
-
-The Italian Register of Actionable Mutations (RATIONAL) is a multicentric, observational study collecting next-generation sequencing (NGS)-based tumour profiling data of patients with advanced solid tumours.
-
-[Source](https://twitter.com/QIAGEN?ref_src=twsrc%5Etfw)
-
-10.1016/j.ejca.2023.03.027
-
----
-
 ## @QIAGEN
 
 [Source](https://twitter.com/QIAGEN?ref_src=twsrc%5Etfw)
@@ -77,33 +65,15 @@ The Italian Register of Actionable Mutations (RATIONAL) is a multicentric, obser
 
 ---
 
-## Blood-feeding adaptations and virome assessment of the poultry red mite Dermanyssus gallinae guided by RNA-seq.
- 13.05.2023, _JM Ribeiro, D Hartmann, P Bartošová-Sojková, H Debat, M Moos, P Šimek, J Fara, M Palus, M Kučera, O Hajdušek, D Sojka, P Kopáček, J Perner_
-
-
-Dermanyssus gallinae is a blood-feeding mite that parasitises wild birds and farmed poultry. Its remarkably swift processing of blood, together with the capacity to blood-feed during most developmental stages, makes this mite a highly debilitating pest. To identify specific adaptations to digestion of a haemoglobin-rich diet, we constructed and compared transcriptomes from starved and blood-fed stages of the parasite and identified midgut-enriched transcripts. We noted that midgut transcripts encoding cysteine proteases were upregulated with a blood meal. Mapping the full proteolytic apparatus, we noted a reduction in the suite of cysteine proteases, missing homologues for Cathepsin B and C. We have further identified and phylogenetically analysed three distinct transcripts encoding vitellogenins that facilitate the reproductive capacity of the mites. We also fully mapped transcripts for haem biosynthesis and the ferritin-based system of iron storage and inter-tissue trafficking. Additionally, we identified transcripts encoding proteins implicated in immune signalling (Toll and IMD pathways) and activity (defensins and thioester-containing proteins), RNAi, and ion channelling (with targets for commercial acaricides such as Fluralaner, Fipronil, and Ivermectin). Viral sequences were filtered from the Illumina reads and we described, in part, the RNA-virome of D. gallinae with identification of a novel virus, Red mite quaranjavirus 1.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1654707045063335936?ref_src=twsrc%5Etfw)
-
-10.1038/s42003-023-04907-x
-
----
-
 ## May 6, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1654707045063335936?ref_src=twsrc%5Etfw)
 
 ---
 
-## Ecology of the respiratory tract microbiome.
- 12.05.2023, _AE Pérez-Cobas, J Rodríguez-Beltrán, F Baquero, TM Coque_
-
-
-A thriving multi-kingdom microbial ecosystem inhabits the respiratory tract: the respiratory tract microbiome (RTM). In recent years, the contribution of the RTM to human health has become a crucial research aspect. However, research into the key ecological processes, such as robustness, resilience, and microbial interaction networks, has only recently started. This review leans on an ecological framework to interpret the human RTM and determine how the ecosystem functions and assembles. Specifically, the review illustrates the ecological RTM models and discusses microbiome establishment, community structure, diversity stability, and critical microbial interactions. Lastly, the review outlines the RTM responses to ecological disturbances, as well as the promising approaches for restoring ecological balance.
+## Ecology of the respiratory tract microbiome
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0966842X23001208)
-
-10.1016/j.tim.2023.04.006
 
 ---
 
@@ -289,15 +259,15 @@ Mouse models are key tools for investigating host-microbiome interactions. Howev
 
 ---
 
-## Blood-feeding adaptations and virome assessment of the poultry red mite Dermanyssus gallinae guided by RNA-seq.
- 13.05.2023, _JM Ribeiro, D Hartmann, P Bartošová-Sojková, H Debat, M Moos, P Šimek, J Fara, M Palus, M Kučera, O Hajdušek, D Sojka, P Kopáček, J Perner_
+## High salt diet aggravates endothelial-to-mesenchymal transition in glomerular fibrosis in Dahl salt-sensitive rats.
+ 14.05.2023, _HL Chen, K Peng, DM Zeng, J Yan, YQ Huang, PY Jiang, YF Du, X Ling, J Wu_
 
 
-Dermanyssus gallinae is a blood-feeding mite that parasitises wild birds and farmed poultry. Its remarkably swift processing of blood, together with the capacity to blood-feed during most developmental stages, makes this mite a highly debilitating pest. To identify specific adaptations to digestion of a haemoglobin-rich diet, we constructed and compared transcriptomes from starved and blood-fed stages of the parasite and identified midgut-enriched transcripts. We noted that midgut transcripts encoding cysteine proteases were upregulated with a blood meal. Mapping the full proteolytic apparatus, we noted a reduction in the suite of cysteine proteases, missing homologues for Cathepsin B and C. We have further identified and phylogenetically analysed three distinct transcripts encoding vitellogenins that facilitate the reproductive capacity of the mites. We also fully mapped transcripts for haem biosynthesis and the ferritin-based system of iron storage and inter-tissue trafficking. Additionally, we identified transcripts encoding proteins implicated in immune signalling (Toll and IMD pathways) and activity (defensins and thioester-containing proteins), RNAi, and ion channelling (with targets for commercial acaricides such as Fluralaner, Fipronil, and Ivermectin). Viral sequences were filtered from the Illumina reads and we described, in part, the RNA-virome of D. gallinae with identification of a novel virus, Red mite quaranjavirus 1.
+Both diabetic and hypertensive nephropathy eventually progress to glomerulosclerosis. Previous studies revealed a potential role of endothelial-to-mesenchymal transition (EndMT) in the pathophysiology of glomerulosclerosis in diabetic rats. Therefore, we hypothesized that EndMT was also involved in the development of glomerulosclerosis in salt-sensitive hypertension. We aimed to explore the effects of high-salt diet on endothelial-to-mesenchymal transition (EndMT) in glomerulosclerosis in Dahl salt-sensitive (Dahl-SS) rats.
 
 [Source](https://twitter.com/paolo_manghi/status/1654882140402728961?ref_src=twsrc%5Etfw)
 
-10.1038/s42003-023-04907-x
+10.1093/ajh/hpad048
 
 ---
 
