@@ -53,6 +53,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Current practice of genomic profiling of patients with advanced solid tumours in Italy: the Italian Register of Actionable Mutations (RATIONAL) study.
+ 11.05.2023, _N Normanno, A De Luca, RE Abate, A Morabito, M Milella, F Tabbò, G Curigliano, C Masini, P Marchetti, G Pruneri, V Guarneri, GL Frassineti, G Fasola, V Adamo, B Daniele, R Berardi, F Feroce, E Maiello, C Pinto_
+
+
+The Italian Register of Actionable Mutations (RATIONAL) is a multicentric, observational study collecting next-generation sequencing (NGS)-based tumour profiling data of patients with advanced solid tumours.
+
+[Source](https://twitter.com/QIAGEN?ref_src=twsrc%5Etfw)
+
+10.1016/j.ejca.2023.03.027
+
+---
+
 ## @QIAGEN
 
 [Source](https://twitter.com/QIAGEN?ref_src=twsrc%5Etfw)
@@ -65,15 +77,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Blood-feeding adaptations and virome assessment of the poultry red mite Dermanyssus gallinae guided by RNA-seq.
+ 13.05.2023, _JM Ribeiro, D Hartmann, P Bartošová-Sojková, H Debat, M Moos, P Šimek, J Fara, M Palus, M Kučera, O Hajdušek, D Sojka, P Kopáček, J Perner_
+
+
+Dermanyssus gallinae is a blood-feeding mite that parasitises wild birds and farmed poultry. Its remarkably swift processing of blood, together with the capacity to blood-feed during most developmental stages, makes this mite a highly debilitating pest. To identify specific adaptations to digestion of a haemoglobin-rich diet, we constructed and compared transcriptomes from starved and blood-fed stages of the parasite and identified midgut-enriched transcripts. We noted that midgut transcripts encoding cysteine proteases were upregulated with a blood meal. Mapping the full proteolytic apparatus, we noted a reduction in the suite of cysteine proteases, missing homologues for Cathepsin B and C. We have further identified and phylogenetically analysed three distinct transcripts encoding vitellogenins that facilitate the reproductive capacity of the mites. We also fully mapped transcripts for haem biosynthesis and the ferritin-based system of iron storage and inter-tissue trafficking. Additionally, we identified transcripts encoding proteins implicated in immune signalling (Toll and IMD pathways) and activity (defensins and thioester-containing proteins), RNAi, and ion channelling (with targets for commercial acaricides such as Fluralaner, Fipronil, and Ivermectin). Viral sequences were filtered from the Illumina reads and we described, in part, the RNA-virome of D. gallinae with identification of a novel virus, Red mite quaranjavirus 1.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1654707045063335936?ref_src=twsrc%5Etfw)
+
+10.1038/s42003-023-04907-x
+
+---
+
 ## May 6, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1654707045063335936?ref_src=twsrc%5Etfw)
 
 ---
 
-## Ecology of the respiratory tract microbiome
+## Ecology of the respiratory tract microbiome.
+ 12.05.2023, _AE Pérez-Cobas, J Rodríguez-Beltrán, F Baquero, TM Coque_
+
+
+A thriving multi-kingdom microbial ecosystem inhabits the respiratory tract: the respiratory tract microbiome (RTM). In recent years, the contribution of the RTM to human health has become a crucial research aspect. However, research into the key ecological processes, such as robustness, resilience, and microbial interaction networks, has only recently started. This review leans on an ecological framework to interpret the human RTM and determine how the ecosystem functions and assembles. Specifically, the review illustrates the ecological RTM models and discusses microbiome establishment, community structure, diversity stability, and critical microbial interactions. Lastly, the review outlines the RTM responses to ecological disturbances, as well as the promising approaches for restoring ecological balance.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0966842X23001208)
+
+10.1016/j.tim.2023.04.006
 
 ---
 
@@ -83,27 +113,58 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Key determinants of success in fecal microbiota transplantation: From microbiome to clinic
+## Key determinants of success in fecal microbiota transplantation: From microbiome to clinic.
+ 11.05.2023, _S Porcari, N Benech, M Valles-Colomer, N Segata, A Gasbarrini, G Cammarota, H Sokol, G Ianiro_
+
+
+Fecal microbiota transplantation (FMT) has achieved satisfactory results in preventing the recurrence of Clostridioides difficile infection, but these positive outcomes have only been partially replicated in other diseases. Several factors influence FMT success, including those related to donors and recipients (including diversity and specific composition of the gut microbiome, immune system, and host genetics) as well as to working protocols (fecal amount and number of infusions, route of delivery, and adjuvant treatments). Moreover, initial evidence suggests that the clinical success of FMT may be related to the degree of donor microbial engraftment. The application of cutting-edge technologies for microbiome assessment, along with changes in the current vision of fecal transplants, are expected to improve FMT protocols and outcomes. Here, we review the key determinants of FMT success and insights and strategies that will enable a close integration of lab-based and clinical approaches for increasing FMT success.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00125-7)
 
+10.1016/j.chom.2023.03.020
+
 ---
 
-## Profiling the human intestinal environment under physiological conditions
+## Profiling the human intestinal environment under physiological conditions.
+ 11.05.2023, _D Shalon, RN Culver, JA Grembi, J Folz, PV Treit, H Shi, FA Rosenberger, L Dethlefsen, X Meng, E Yaffe, A Aranda-Díaz, PE Geyer, JB Mueller-Reif, S Spencer, AD Patterson, G Triadafilopoulos, SP Holmes, M Mann, O Fiehn, DA Relman, KC Huang_
+
+
+The spatiotemporal structure of the human microbiome1,2, proteome3 and metabolome4,5 reflects and determines regional intestinal physiology and may have implications for disease6. Yet, little is known about the distribution of microorganisms, their environment and their biochemical activity in the gut because of reliance on stool samples and limited access to only some regions of the gut using endoscopy in fasting or sedated individuals7. To address these deficiencies, we developed an ingestible device that collects samples from multiple regions of the human intestinal tract during normal digestion. Collection of 240 intestinal samples from 15 healthy individuals using the device and subsequent multi-omics analyses identified significant differences between bacteria, phages, host proteins and metabolites in the intestines versus stool. Certain microbial taxa were differentially enriched and prophage induction was more prevalent in the intestines than in stool. The host proteome and bile acid profiles varied along the intestines and were highly distinct from those of stool. Correlations between gradients in bile acid concentrations and microbial abundance predicted species that altered the bile acid pool through deconjugation. Furthermore, microbially conjugated bile acid concentrations exhibited amino acid-dependent trends that were not apparent in stool. Overall, non-invasive, longitudinal profiling of microorganisms, proteins and bile acids along the intestinal tract under physiological conditions can help elucidate the roles of the gut microbiome and metabolome in human physiology and disease.
 
 [Source](https://www.nature.com/articles/s41586-023-05989-7)
 
+10.1038/s41586-023-05989-7
+
 ---
 
-## Interaction between gut microbiota and sex hormones and their relation to sexual dimorphism in metabolic diseases 
+## Interaction between gut microbiota and sex hormones and their relation to sexual dimorphism in metabolic diseases.
+ 24.02.2023, _JA Santos-Marcos, M Mora-Ortiz, M Tena-Sempere, J Lopez-Miranda, A Camargo_
+
+
+_Humans, Male, Female, Sex Characteristics, Diabetes Mellitus, Type 2, Gastrointestinal Microbiome, Gonadal Steroid Hormones, Metabolic Syndrome, Obesity_
+Metabolic diseases, such as obesity, metabolic syndrome (MetS) and type 2 diabetes (T2D), are now a widespread pandemic in the developed world. These pathologies show sex differences in their development and prevalence, and sex steroids, mainly estrogen and testosterone, are thought to play a prominent role in this sexual dimorphism. The influence of sex hormones on these pathologies is not only reflected in differences between men and women, but also between women themselves, depending on the hormonal changes associated with the menopause. The observed sex differences in gut microbiota composition have led to multiple studies highlighting the interaction between steroid hormones and the gut microbiota and its influence on metabolic diseases, ultimately pointing to a new therapy for these diseases based on the manipulation of the gut microbiota. This review aims to shed light on the role of sexual hormones in sex differences in the development and prevalence of metabolic diseases, focusing on obesity, MetS and T2D. We focus also the interaction between sex hormones and the gut microbiota, and in particular the role of microbiota in aspects such as gut barrier integrity, inflammatory status, and the gut-brain axis, given the relevance of these factors in the development of metabolic diseases.
 
 [Source](https://bsd.biomedcentral.com/articles/10.1186/s13293-023-00490-2)
+
+10.1186/s13293-023-00490-2
 
 ---
 
 ## Persistent delay in maturation of the developing gut microbiota in infants with cystic fibrosis
 
 [Source](https://www.biorxiv.org/content/10.1101/2023.05.02.539134v1)
+
+---
+
+## Dysbiosis of the gut microbiome in elderly patients with hepatocellular carcinoma.
+ 13.05.2023, _W Zhang, X Xu, L Cai, X Cai_
+
+
+Fecal samples from participants aged 60-80 were collected and sequenced by a high-throughput second-generation sequencer to explore the structural composition of gut microbiota in elderly patients with hepatocellular carcinoma(HCC). Comparison of gut microbiota between patients with hepatocellular carcinoma and healthy controls, α diversity and β diversity were statistically different. At the genus level, compared with the normal group, the abundance of A Blautia, Fusicatenibacter, Anaerostipes, Lachnospiraceae_ND3007_group, CAG-56, Eggerthella, Lachnospiraceae_FCS020_group and Olsenella were decreased significantly in the LC group. In contrast, the abundance of Escherichia-Shigella, Fusobacterium, Megasphaera, Veillonella, Tyzzerella_4, Prevotella_2 and Cronobacter increased significantly. The KEGG and COG pathway analyses showed that the dysbiosis of gut bacteria in primary liver carcinoma is associated with several pathways, including amino acid metabolism, replication and repair, nucleotide metabolism, cell motility, cell growth and death, and transcription. Age is negatively associated with the abundance of Bifidobacterium. Lachnospiraceae_ ND3007_ group, [Eubacterium]_hallii_group, Blautia, Fuscatenibacter and Anaerostipes are negatively correlated with ALT, AST and GGT levels (p &lt; 0.05), respectively. Alpha-fetoprotein (AFP) is positively associated with the abundance of Erysipelatoclostridium, Magasphaera, Prevotella 2, Escherichia-Shigella, Streptococcus and [Eubacterium]_eligens_group (p &lt; 0.05), respectively. A random forest model showed that the genera Eggerthella, Anaerostipes, and Lachnospiraceae_ ND3007_ group demonstrated the best predictive capacity. The area under the Receiver Operating Characteristic Curve of Eggerthella, Anaerostipes and Lachnospiraceae_ ND3007_ group are 0.791, 0.766 and 0.730, respectively. These data are derived from the first known gut microbiome study in elderly patients with hepatocellular carcinoma. Potentially, specific microbiota can be used as a characteristic index for screening, diagnosis, and prognosis of gut microbiota changes in elderly patients with hepatocellular carcinoma and even as a therapeutic clinical target.
+
+[Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
+
+10.1038/s41598-023-34765-w
 
 ---
 
@@ -116,6 +177,19 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 ## #africanmicrobiomes
 
 [Source](https://twitter.com/hashtag/africanmicrobiomes?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Health information use by patients with systemic lupus erythematosus (SLE) pre and during the COVID-19 pandemic.
+ 22.11.2022, _FS Cardwell, SJ Elliott, R Chin, Y St Pierre, MY Choi, MB Urowitz, G Ruiz-Irastorza, S Bernatsky, DJ Wallace, MA Petri, S Manzi, SC Bae, JM Shin, A Mak, J Cho, CA Peschken, R Ramsey-Goldman, PR Fortin, JG Hanly, BA Pons-Estel, R Nieto, AD Askanase, J Romero-Diaz, M Mosca, IN Bruce, L Rowbottom, L Mielczarek, K Tse, A Marion, JC Cáhiz-González, TG Cattoni, A Cornet, AE Clarke_
+
+
+_Male, Humans, Female, Middle Aged, COVID-19, Pandemics, Lupus Erythematosus, Systemic, Social Media, Mass Media_
+We conducted an international survey of patients with SLE to assess their access, preference and trust in various health information sources pre-COVID-19 and during the COVID-19 pandemic.
+
+[Source](https://twitter.com/NRF_News?ref_src=twsrc%5Etfw)
+
+10.1136/lupus-2022-000755
 
 ---
 
@@ -140,18 +214,6 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 ## https://t.co/e3iVqB3DAc
 
 [Source](https://t.co/e3iVqB3DAc)
-
----
-
-## DSPE-PEG polymer enhanced berberine absorption specifically in the small intestine of rats through paracellular passway.
- 13.05.2023, _Y Gao, J Sun, S Wang, L Huxiao, Y Xu, H Zhang_
-
-
-This study focuses on investigating the potential impact of DSPE-PEG polymers on intestinal absorption and related mechanism of berberine in rats.
-
-[Source](https://twitter.com/Thuls_M/status/1656366392243810312?ref_src=twsrc%5Etfw)
-
-10.1093/jpp/rgad028
 
 ---
 
@@ -227,27 +289,58 @@ Mouse models are key tools for investigating host-microbiome interactions. Howev
 
 ---
 
+## Blood-feeding adaptations and virome assessment of the poultry red mite Dermanyssus gallinae guided by RNA-seq.
+ 13.05.2023, _JM Ribeiro, D Hartmann, P Bartošová-Sojková, H Debat, M Moos, P Šimek, J Fara, M Palus, M Kučera, O Hajdušek, D Sojka, P Kopáček, J Perner_
+
+
+Dermanyssus gallinae is a blood-feeding mite that parasitises wild birds and farmed poultry. Its remarkably swift processing of blood, together with the capacity to blood-feed during most developmental stages, makes this mite a highly debilitating pest. To identify specific adaptations to digestion of a haemoglobin-rich diet, we constructed and compared transcriptomes from starved and blood-fed stages of the parasite and identified midgut-enriched transcripts. We noted that midgut transcripts encoding cysteine proteases were upregulated with a blood meal. Mapping the full proteolytic apparatus, we noted a reduction in the suite of cysteine proteases, missing homologues for Cathepsin B and C. We have further identified and phylogenetically analysed three distinct transcripts encoding vitellogenins that facilitate the reproductive capacity of the mites. We also fully mapped transcripts for haem biosynthesis and the ferritin-based system of iron storage and inter-tissue trafficking. Additionally, we identified transcripts encoding proteins implicated in immune signalling (Toll and IMD pathways) and activity (defensins and thioester-containing proteins), RNAi, and ion channelling (with targets for commercial acaricides such as Fluralaner, Fipronil, and Ivermectin). Viral sequences were filtered from the Illumina reads and we described, in part, the RNA-virome of D. gallinae with identification of a novel virus, Red mite quaranjavirus 1.
+
+[Source](https://twitter.com/paolo_manghi/status/1654882140402728961?ref_src=twsrc%5Etfw)
+
+10.1038/s42003-023-04907-x
+
+---
+
 ## May 6, 2023
 
 [Source](https://twitter.com/paolo_manghi/status/1654882140402728961?ref_src=twsrc%5Etfw)
 
 ---
 
-## ResMiCo: Increasing the quality of metagenome-assembled genomes with deep learning 
+## ResMiCo: Increasing the quality of metagenome-assembled genomes with deep learning.
+ 13.05.2023, _O Mineeva, D Danciu, B Schölkopf, RE Ley, G Rätsch, ND Youngblut_
+
+
+The number of published metagenome assemblies is rapidly growing due to advances in sequencing technologies. However, sequencing errors, variable coverage, repetitive genomic regions, and other factors can produce misassemblies, which are challenging to detect for taxonomically novel genomic data. Assembly errors can affect all downstream analyses of the assemblies. Accuracy for the state of the art in reference-free misassembly prediction does not exceed an AUPRC of 0.57, and it is not clear how well these models generalize to real-world data. Here, we present the Residual neural network for Misassembled Contig identification (ResMiCo), a deep learning approach for reference-free identification of misassembled contigs. To develop ResMiCo, we first generated a training dataset of unprecedented size and complexity that can be used for further benchmarking and developments in the field. Through rigorous validation, we show that ResMiCo is substantially more accurate than the state of the art, and the model is robust to novel taxonomic diversity and varying assembly methods. ResMiCo estimated 7% misassembled contigs per metagenome across multiple real-world datasets. We demonstrate how ResMiCo can be used to optimize metagenome assembly hyperparameters to improve accuracy, instead of optimizing solely for contiguity. The accuracy, robustness, and ease-of-use of ResMiCo make the tool suitable for general quality control of metagenome assemblies and assembly methodology optimization.
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011001)
 
+10.1371/journal.pcbi.1011001
+
 ---
 
-## Catch me if you can: capturing microbial community transformation by extracellular DNA using Hi-C sequencing 
+## Catch me if you can: capturing microbial community transformation by extracellular DNA using Hi-C sequencing.
+ 08.05.2023, _D Calderón-Franco, MCM van Loosdrecht, T Abeel, DG Weissbrodt_
+
+
+The transformation of environmental microorganisms by extracellular DNA is an overlooked mechanism of horizontal gene transfer and evolution. It initiates the acquisition of exogenous genes and propagates antimicrobial resistance alongside vertical and conjugative transfers. We combined mixed-culture biotechnology and Hi-C sequencing to elucidate the transformation of wastewater microorganisms with a synthetic plasmid encoding GFP and kanamycin resistance genes, in the mixed culture of chemostats exposed to kanamycin at concentrations representing wastewater, gut and polluted environments (0.01-2.5-50-100 mg L-1). We found that the phylogenetically distant Gram-negative Runella (102 Hi-C links), Bosea (35), Gemmobacter (33) and Zoogloea (24) spp., and Gram-positive Microbacterium sp. (90) were transformed by the foreign plasmid, under high antibiotic exposure (50 mg L-1). In addition, the antibiotic pressure shifted the origin of aminoglycoside resistance genes from genomic DNA to mobile genetic elements on plasmids accumulating in microorganisms. These results reveal the power of Hi-C sequencing to catch and surveil the transfer of xenogenetic elements inside microbiomes.
 
 [Source](https://link.springer.com/article/10.1007/s10482-023-01834-z)
 
+10.1007/s10482-023-01834-z
+
 ---
 
-## The microbiome of an outpatient rehabilitation clinic and predictors of contamination: A pilot study 
+## The microbiome of an outpatient rehabilitation clinic and predictors of contamination: A pilot study.
+ 11.05.2023, _G Brigando, C Sutton, O Uebelhor, N Pitsoulakis, M Pytynia, T Dillon, T Elliott-Burke, N Hubert, K Martinez-Guryn, C Bolch, MJ Ciancio, CC Evans_
+
+
+_Humans, Pilot Projects, RNA, Ribosomal, 16S, Outpatients, Ambulatory Care Facilities, Bacteria, Microbiota_
+Understanding sources of microbial contamination in outpatient rehabilitation (REHAB) clinics is important to patients and healthcare providers.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281299)
+
+10.1371/journal.pone.0281299
 
 ---
 
