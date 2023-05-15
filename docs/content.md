@@ -119,6 +119,19 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Health information use by patients with systemic lupus erythematosus (SLE) pre and during the COVID-19 pandemic.
+ 22.11.2022, _FS Cardwell, SJ Elliott, R Chin, Y St Pierre, MY Choi, MB Urowitz, G Ruiz-Irastorza, S Bernatsky, DJ Wallace, MA Petri, S Manzi, SC Bae, JM Shin, A Mak, J Cho, CA Peschken, R Ramsey-Goldman, PR Fortin, JG Hanly, BA Pons-Estel, R Nieto, AD Askanase, J Romero-Diaz, M Mosca, IN Bruce, L Rowbottom, L Mielczarek, K Tse, A Marion, JC Cáhiz-González, TG Cattoni, A Cornet, AE Clarke_
+
+
+_Male, Humans, Female, Middle Aged, COVID-19, Pandemics, Lupus Erythematosus, Systemic, Social Media, Mass Media_
+We conducted an international survey of patients with SLE to assess their access, preference and trust in various health information sources pre-COVID-19 and during the COVID-19 pandemic.
+
+[Source](https://twitter.com/NRF_News?ref_src=twsrc%5Etfw)
+
+10.1136/lupus-2022-000755
+
+---
+
 ## @NRF_News
 
 [Source](https://twitter.com/NRF_News?ref_src=twsrc%5Etfw)
@@ -149,15 +162,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Integrated analysis of transcriptome and milk metagenome in subclinical mastitic and healthy cows.
+ 30.04.2022, _J Zhang, X Liu, T Usman, Y Tang, S Mi, W Li, M Yang, Y Yu_
+
+
+Abnormally increased somatic cell counts in milk is usually a sign of bovine subclinical mastitis. Mutual interaction between the host and its associated microbiota plays an important role in developing such diseases. The main objective of this study was to explore the difference between cows with elevated somatic cell counts and healthy cattle from the perspective of host-microbe interplay.
+
+[Source](https://www.biorxiv.org/content/biorxiv/early/2023/05/09/2023.05.09.539964.full.pdf)
+
+10.5713/ab.21.0495
+
+---
+
 ## Metagenomic analysis of milk microbiota in the bovine subclinical mastitis 
 
 [Source](https://www.biorxiv.org/content/biorxiv/early/2023/05/09/2023.05.09.539964.full.pdf)
 
 ---
 
-## MetaPhlAn 4 profiling of unknown species-level genome bins improves the characterization of diet-associated microbiome changes in mice
+## MetaPhlAn 4 profiling of unknown species-level genome bins improves the characterization of diet-associated microbiome changes in mice.
+ 04.05.2023, _P Manghi, A Blanco-Míguez, S Manara, A NabiNejad, F Cumbo, F Beghini, F Armanini, D Golzato, KD Huang, AM Thomas, G Piccinno, M Punčochář, M Zolfo, TR Lesker, M Bredon, J Planchais, J Glodt, M Valles-Colomer, O Koren, E Pasolli, F Asnicar, T Strowig, H Sokol, N Segata_
+
+
+Mouse models are key tools for investigating host-microbiome interactions. However, shotgun metagenomics can only profile a limited fraction of the mouse gut microbiome. Here, we employ a metagenomic profiling method, MetaPhlAn 4, which exploits a large catalog of metagenome-assembled genomes (including 22,718 metagenome-assembled genomes from mice) to improve the profiling of the mouse gut microbiome. We combine 622 samples from eight public datasets and an additional cohort of 97 mouse microbiomes, and we assess the potential of MetaPhlAn 4 to better identify diet-related changes in the host microbiome using a meta-analysis approach. We find multiple, strong, and reproducible diet-related microbial biomarkers, largely increasing those identifiable by other available methods relying only on reference information. The strongest drivers of the diet-induced changes are uncharacterized and previously undetected taxa, confirming the importance of adopting metagenomic methods integrating metagenomic assemblies for comprehensive profiling.
 
 [Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00475-8)
+
+10.1016/j.celrep.2023.112464
 
 ---
 
