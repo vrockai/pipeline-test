@@ -119,19 +119,6 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Health information use by patients with systemic lupus erythematosus (SLE) pre and during the COVID-19 pandemic.
- 22.11.2022, _FS Cardwell, SJ Elliott, R Chin, Y St Pierre, MY Choi, MB Urowitz, G Ruiz-Irastorza, S Bernatsky, DJ Wallace, MA Petri, S Manzi, SC Bae, JM Shin, A Mak, J Cho, CA Peschken, R Ramsey-Goldman, PR Fortin, JG Hanly, BA Pons-Estel, R Nieto, AD Askanase, J Romero-Diaz, M Mosca, IN Bruce, L Rowbottom, L Mielczarek, K Tse, A Marion, JC Cáhiz-González, TG Cattoni, A Cornet, AE Clarke_
-
-
-_Male, Humans, Female, Middle Aged, COVID-19, Pandemics, Lupus Erythematosus, Systemic, Social Media, Mass Media_
-We conducted an international survey of patients with SLE to assess their access, preference and trust in various health information sources pre-COVID-19 and during the COVID-19 pandemic.
-
-[Source](https://twitter.com/NRF_News?ref_src=twsrc%5Etfw)
-
-10.1136/lupus-2022-000755
-
----
-
 ## @NRF_News
 
 [Source](https://twitter.com/NRF_News?ref_src=twsrc%5Etfw)
@@ -222,28 +209,15 @@ We conducted an international survey of patients with SLE to assess their access
 
 ---
 
-## Catch me if you can: capturing microbial community transformation by extracellular DNA using Hi-C sequencing.
- 08.05.2023, _D Calderón-Franco, MCM van Loosdrecht, T Abeel, DG Weissbrodt_
-
-
-The transformation of environmental microorganisms by extracellular DNA is an overlooked mechanism of horizontal gene transfer and evolution. It initiates the acquisition of exogenous genes and propagates antimicrobial resistance alongside vertical and conjugative transfers. We combined mixed-culture biotechnology and Hi-C sequencing to elucidate the transformation of wastewater microorganisms with a synthetic plasmid encoding GFP and kanamycin resistance genes, in the mixed culture of chemostats exposed to kanamycin at concentrations representing wastewater, gut and polluted environments (0.01-2.5-50-100 mg L-1). We found that the phylogenetically distant Gram-negative Runella (102 Hi-C links), Bosea (35), Gemmobacter (33) and Zoogloea (24) spp., and Gram-positive Microbacterium sp. (90) were transformed by the foreign plasmid, under high antibiotic exposure (50 mg L-1). In addition, the antibiotic pressure shifted the origin of aminoglycoside resistance genes from genomic DNA to mobile genetic elements on plasmids accumulating in microorganisms. These results reveal the power of Hi-C sequencing to catch and surveil the transfer of xenogenetic elements inside microbiomes.
+## Catch me if you can: capturing microbial community transformation by extracellular DNA using Hi-C sequencing 
 
 [Source](https://link.springer.com/article/10.1007/s10482-023-01834-z)
 
-10.1007/s10482-023-01834-z
-
 ---
 
-## The microbiome of an outpatient rehabilitation clinic and predictors of contamination: A pilot study.
- 11.05.2023, _G Brigando, C Sutton, O Uebelhor, N Pitsoulakis, M Pytynia, T Dillon, T Elliott-Burke, N Hubert, K Martinez-Guryn, C Bolch, MJ Ciancio, CC Evans_
-
-
-_Humans, Pilot Projects, RNA, Ribosomal, 16S, Outpatients, Ambulatory Care Facilities, Bacteria, Microbiota_
-Understanding sources of microbial contamination in outpatient rehabilitation (REHAB) clinics is important to patients and healthcare providers.
+## The microbiome of an outpatient rehabilitation clinic and predictors of contamination: A pilot study 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281299)
-
-10.1371/journal.pone.0281299
 
 ---
 
