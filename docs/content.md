@@ -1,272 +1,159 @@
-## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
- 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
+## Assessing the relationship between gut microbiota and irritable bowel syndrome: a two-sample Mendelian randomization analysis.
+ 15.05.2023, _B Liu, D Ye, H Yang, J Song, X Sun, Z He, Y Mao, G Hao_
 
 
-_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
-This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
+_Humans, Gastrointestinal Microbiome, Irritable Bowel Syndrome, Genome-Wide Association Study, Mendelian Randomization Analysis, Odds Ratio, Polymorphism, Single Nucleotide_
+Growing evidence has suggested that gut microbiota is closely related to the risk of irritable bowel syndrome (IBS), but whether there is a causal effect remains unknown. We adopted a Mendelian randomization (MR) approach to evaluate the potential causal relationships between gut microbiota and the risk of IBS.
 
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1186/s12876-023-02791-7)
 
-10.3390/ijerph19010099
-
----
-
-## #MVIF
-
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+10.1186/s12876-023-02791-7
 
 ---
 
-## https://t.co/cncTaOU5IS
+## The oral microbiota is a reservoir for antimicrobial resistance: resistome and phenotypic resistance characteristics of oral biofilm in health, caries, and periodontitis.
+ 15.05.2023, _AC Anderson, C von Ohle, C Frese, S Boutin, C Bridson, K Schoilew, SA Peikert, E Hellwig, K Pelz, A Wittmer, D Wolff, A Al-Ahmad_
 
-[Source](https://t.co/cncTaOU5IS)
 
----
+_Humans, Anti-Bacterial Agents, Drug Resistance, Bacterial, Dental Caries Susceptibility, Microbiota, Periodontitis, Bacteria, Genes, Bacterial_
+Antimicrobial resistance (AMR) is an ever-growing threat to modern medicine and, according to the latest reports, it causes nearly twice as many deaths globally as AIDS or malaria. Elucidating reservoirs and dissemination routes of antimicrobial resistance genes (ARGs) are essential in fighting AMR. Human commensals represent an important reservoir, which is underexplored for the oral microbiota. Here, we set out to investigate the resistome and phenotypic resistance of oral biofilm microbiota from 179 orally healthy (H), caries active (C), and periodontally diseased (P) individuals (TRN: DRKS00013119, Registration date: 22.10.2022). The samples were analysed using shotgun metagenomic sequencing combined, for the first time, with culture technique. A selection of 997 isolates was tested for resistance to relevant antibiotics.
 
-## @TheXavierLab
+[Source](https://ann-clinmicrob.biomedcentral.com/articles/10.1186/s12941-023-00585-z)
 
-[Source](https://twitter.com/TheXavierLab?ref_src=twsrc%5Etfw)
-
----
-
-## @KateKennedy
-
-[Source](https://twitter.com/KateKennedy?ref_src=twsrc%5Etfw)
+10.1186/s12941-023-00585-z
 
 ---
 
-## @McMasterU
+## New evidence for the role of gut microbiota on atrial fibrillation development.
+ 14.05.2023, _C Papandreou_
 
-[Source](https://twitter.com/McMasterU?ref_src=twsrc%5Etfw)
 
----
 
-## @vkclab
+[Source](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00187-1/fulltext)
 
-[Source](https://twitter.com/vkclab?ref_src=twsrc%5Etfw)
-
----
-
-## @Yale
-
-[Source](https://twitter.com/Yale?ref_src=twsrc%5Etfw)
+10.1016/j.ebiom.2023.104622
 
 ---
 
-## @QIAGEN
+## Influence of grape consumption on the human microbiome.
+ 15.05.2023, _A Dave, D Beyoğlu, EJ Park, JR Idle, JM Pezzuto_
 
-[Source](https://twitter.com/QIAGEN?ref_src=twsrc%5Etfw)
+
+_Humans, Male, Female, Young Adult, Adult, Middle Aged, Vitis, Diet, Microbiota, Plasma, Metabolomics_
+Over the years, a substantial body of information has accumulated suggesting dietary consumption of grapes may have a positive influence on human health. Here, we investigate the potential of grapes to modulate the human microbiome. Microbiome composition as well as urinary and plasma metabolites were sequentially assessed in 29 healthy free-living male (age 24-55 years) and female subjects (age 29-53 years) following two-weeks of a restricted diet (Day 15), two-weeks of a restricted diet with grape consumption (equivalent to three servings per day) (Day 30), and four-weeks of restricted diet without grape consumption (Day 60). Based on alpha-diversity indices, grape consumption did not alter the overall composition of the microbial community, other than with the female subset based on the Chao index. Similarly, based on beta-diversity analyses, the diversity of species was not significantly altered at the three time points of the study. However, following 2 weeks of grape consumption, taxonomic abundance was altered (e.g., decreased Holdemania spp. and increased Streptococcus thermophiles), as were various enzyme levels and KEGG pathways. Further, taxonomic, enzyme and pathway shifts were observed 30 days following the termination of grape consumption, some of which returned to baseline and some of which suggest a delayed effect of grape consumption. Metabolomic analyses supported the functional significance of these alterations wherein, for example, 2'-deoxyribonic acid, glutaconic acid, and 3-hydroxyphenylacetic acid were elevated following grape consumption and returned to baseline following the washout period. Inter-individual variation was observed and exemplified by analysis of a subgroup of the study population showing unique patterns of taxonomic distribution over the study period. The biological ramifications of these dynamics remain to be defined. However, while it seems clear that grape consumption does not perturb the eubiotic state of the microbiome with normal, healthy human subjects, it is likely that shifts in the intricate interactive networks that result from grape consumption have physiological significance of relevance to grape action.
+
+[Source](https://doi.org/10.1038/s41598-023-34813-5)
+
+10.1038/s41598-023-34813-5
 
 ---
 
-## pic.twitter.com/BzaRYGLnPr
+## Microbiota transplant to control inflammation in a patient with NLRC4 gain-of-function-induced disease
 
-[Source](https://t.co/BzaRYGLnPr)
+[Source](https://www.jacionline.org/article/S0091-6749(23)00458-X/fulltext)
 
 ---
 
-## May 6, 2023
+## Microbiome and immuno-metabolic dysregulation in patients with major depressive disorder with atypical clinical presentation.
+ 14.05.2023, _A Refisch, ZD Sen, TE Klassert, A Busch, B Besteher, LV Danyeli, D Helbing, U Schulze-Späte, A Stallmach, M Bauer, G Panagiotou, ID Jacobsen, H Slevogt, N Opel, M Walter_
 
-[Source](https://twitter.com/MicrobiomeVIF/status/1654707045063335936?ref_src=twsrc%5Etfw)
+
+Depression is highly prevalent (6% 1-year prevalence) and is the second leading cause of disability worldwide. Available treatment options for depression are far from optimal, with response rates only around 50%. This is most likely related to a heterogeneous clinical presentation of major depression disorder (MDD), suggesting different manifestations of underlying pathophysiological mechanisms. Poorer treatment outcomes to first-line antidepressants were reported in MDD patients endorsing an "atypical" symptom profile that is characterized by preserved reactivity in mood, increased appetite, hypersomnia, a heavy sensation in the limbs, and interpersonal rejection sensitivity. In recent years, evidence has emerged that immunometabolic biological dysregulation is an important underlying pathophysiological mechanism in depression, which maps more consistently to atypical features. In the last few years human microbial residents have emerged as a key influencing variable associated with immunometabolic dysregulations in depression. The microbiome plays a critical role in the training and development of key components of the host's innate and adaptive immune systems, while the immune system orchestrates the maintenance of key features of the host-microbe symbiosis. Moreover, by being a metabolically active ecosystem commensal microbes may have a huge impact on signaling pathways, involved in underlying mechanisms leading to atypical depressive symptoms. In this review, we discuss the interplay between the microbiome and immunometabolic imbalance in the context of atypical depressive symptoms. Although research in this field is in its infancy, targeting biological determinants in more homogeneous clinical presentations of MDD may offer new avenues for the development of novel therapeutic strategies for treatment-resistant depression.
+
+[Source](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(23)00120-8)
+
+10.1016/j.neuropharm.2023.109568
 
 ---
 
 ## Ecology of the respiratory tract microbiome
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0966842X23001208)
+[Source](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(23)00120-8)
 
 ---
 
-## The cervical microbiota of Hispanics living in Puerto Rico is highly volatile and dominated by<em> Lactobacillus iners </em>regardless of HPV status
+## Integrated microbiome-metabolome-genome axis data of Laiwu and Lulai pigs.
+ 15.05.2023, _X Lai, Z Zhang, Z Zhang, S Liu, C Bai, Z Chen, QR Qadri, Y Fang, Z Wang, Y Pan, Q Wang_
 
-[Source](https://www.biorxiv.org/content/biorxiv/early/2023/05/09/2023.05.05.539619.full.pdf)
 
----
+_Animals, Genome, Lipid Metabolism, Metabolome, Microbiota, Obesity, Swine_
+Excessive fat deposition can trigger metabolic diseases, and it is crucial to identify factors that can break the link between fat deposition and metabolic diseases. Healthy obese Laiwu pigs (LW) are high in fat content but resistant to metabolic diseases. In this study, we compared the fecal microbiome, fecal and blood metabolome, and genome of LW and Lulai pigs (LU) to identify factors that can block the link between fat deposition and metabolic diseases. Our results show significant differences in Spirochetes and Treponema, which are involved in carbohydrate metabolism, between LW and LU. The fecal and blood metabolome composition was similar, and some anti-metabolic disease components of blood metabolites were different between the two breeds of pigs. The predicted differential RNA is mainly enriched in lipid metabolism and glucose metabolism, which is consistent with the functions of differential microbiota and metabolites. The down-regulated gene RGP1 is strongly negatively correlated with Treponema. Our omics data would provide valuable resources for further scientific research on healthy obesity in both human and porcine.
 
-## Key determinants of success in fecal microbiota transplantation: From microbiome to clinic
+[Source](https://doi.org/10.1038/s41597-023-02191-2)
 
-[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00125-7)
-
----
-
-## Profiling the human intestinal environment under physiological conditions
-
-[Source](https://www.nature.com/articles/s41586-023-05989-7)
+10.1038/s41597-023-02191-2
 
 ---
 
-## Interaction between gut microbiota and sex hormones and their relation to sexual dimorphism in metabolic diseases 
+## Positive associations matter: Microbial relationships drive tick microbiome composition.
+ 15.05.2023, _NM Fountain-Jones, BS Khoo, A Rau, JD Berman, EN Burton, JD Oliver_
 
-[Source](https://bsd.biomedcentral.com/articles/10.1186/s13293-023-00490-2)
 
----
+Untangling how factors such as environment, host, associations among bacterial species and dispersal predict microbial composition is a fundamental challenge. In this study, we use complementary machine-learning approaches to quantify the relative role of these factors in shaping microbiome variation of the blacklegged tick Ixodes scapularis. I. scapularis is the most important vector for Borrelia burgdorferi (the causative agent for Lyme disease) in the U.S. as well as a range of other important zoonotic pathogens. Yet the relative role of the interactions between pathogens and symbionts compared to other ecological forces is unknown. We found that positive associations between microbes where the occurrence of one microbe increases the probability of observing another, including between both pathogens and symbionts, was by far the most important factor shaping the tick microbiome. Microclimate and host factors played an important role for a subset of the tick microbiome including Borrelia (Borreliella) and Ralstonia, but for the majority of microbes, environmental and host variables were poor predictors at a regional scale. This study provides new hypotheses on how pathogens and symbionts might interact within tick species, as well as valuable predictions for how some taxa may respond to changing climate.
 
-## Persistent delay in maturation of the developing gut microbiota in infants with cystic fibrosis
+[Source](https://doi.org/10.1111/mec.16985)
 
-[Source](https://www.biorxiv.org/content/10.1101/2023.05.02.539134v1)
-
----
-
-## #microbiomes
-
-[Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
+10.1111/mec.16985
 
 ---
 
-## #africanmicrobiomes
+## In Vitro Ileal Fermentation is Affected More by the Fiber Source Fermented than the Ileal Microbial Composition in Growing Pigs
 
-[Source](https://twitter.com/hashtag/africanmicrobiomes?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Health information use by patients with systemic lupus erythematosus (SLE) pre and during the COVID-19 pandemic.
- 22.11.2022, _FS Cardwell, SJ Elliott, R Chin, Y St Pierre, MY Choi, MB Urowitz, G Ruiz-Irastorza, S Bernatsky, DJ Wallace, MA Petri, S Manzi, SC Bae, JM Shin, A Mak, J Cho, CA Peschken, R Ramsey-Goldman, PR Fortin, JG Hanly, BA Pons-Estel, R Nieto, AD Askanase, J Romero-Diaz, M Mosca, IN Bruce, L Rowbottom, L Mielczarek, K Tse, A Marion, JC Cáhiz-González, TG Cattoni, A Cornet, AE Clarke_
-
-
-_Male, Humans, Female, Middle Aged, COVID-19, Pandemics, Lupus Erythematosus, Systemic, Social Media, Mass Media_
-We conducted an international survey of patients with SLE to assess their access, preference and trust in various health information sources pre-COVID-19 and during the COVID-19 pandemic.
-
-[Source](https://twitter.com/NRF_News?ref_src=twsrc%5Etfw)
-
-10.1136/lupus-2022-000755
+[Source](https://doi.org/10.1016/j.cdnut.2023.100076)
 
 ---
 
-## @NRF_News
+## Oroxin B improves metabolic-associated fatty liver disease by alleviating gut microbiota dysbiosis in a high-fat diet-induced rat model
 
-[Source](https://twitter.com/NRF_News?ref_src=twsrc%5Etfw)
-
----
-
-## @ResearchUP
-
-[Source](https://twitter.com/ResearchUP?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1016/j.ejphar.2023.175788)
 
 ---
 
-## @UPTuks
+## Drought stress mediated differences in phyllosphere microbiome and associated pathogen resistance between male and female poplars.
+ 13.05.2023, _T Lin, J Tang, S Li, S Li, S Han, Y Liu, C Yang, G Chen, L Chen, T Zhu_
 
-[Source](https://twitter.com/UPTuks?ref_src=twsrc%5Etfw)
 
----
+Phyllosphere-associated microbes play a crucial role in plant-pathogen interactions while their composition and diversity are strongly influenced by drought stress. As dioecious plant species exhibited secondary dimorphism between the two sexes in response to drought stress, whether such difference will lead to sex-specific differences in phyllosphere microbiome and associated pathogen resistance between male and female conspecifics is still unknown. In this study, we subjected female and male full siblings of a dioecious poplar species to a short period of drought treatment followed by artificial infection of a leaf pathogenic fungus. Our results showed that male plants grew better than females with or without drought stress. Female control plants had more leaf lesion area than males after pathogen infection, whereas drought stress reversed such difference. Further correlation and in vitro toxicity tests suggested that drought-mediated sexual differences in pathogen resistance between the two plant sexes could be attributed to the shifts in structure and function of phyllosphere-associated microbiome rather than the amount of leaf main defensive chemicals contained in plant leaves. Supportively, the microbiome analysis through high-throughput sequencing indicated that female phyllosphere enriched a higher abundance of ecologically beneficial microbes that serve as biological plant protectants, while males harbored abundant phytopathogens under drought-stressed conditions. The results could provide potential implications for the selection of suitable poplar sex to plants in drought or semi-drought habitats.
 
-## https://t.co/e3iVqB3DAc
+[Source](https://doi.org/10.1111/tpj.16283)
 
-[Source](https://t.co/e3iVqB3DAc)
-
----
-
-## May 10, 2023
-
-[Source](https://twitter.com/Thuls_M/status/1656366392243810312?ref_src=twsrc%5Etfw)
+10.1111/tpj.16283
 
 ---
 
-## Integrated analysis of transcriptome and milk metagenome in subclinical mastitic and healthy cows.
- 30.04.2022, _J Zhang, X Liu, T Usman, Y Tang, S Mi, W Li, M Yang, Y Yu_
+## Looking into sewage: how far can metagenomics help to detect human enteric viruses?
+ 15.05.2023, _J Schaeffer, M Desdouits, A Besnard, FS Le Guyader_
 
 
-Abnormally increased somatic cell counts in milk is usually a sign of bovine subclinical mastitis. Mutual interaction between the host and its associated microbiota plays an important role in developing such diseases. The main objective of this study was to explore the difference between cows with elevated somatic cell counts and healthy cattle from the perspective of host-microbe interplay.
+The impact of human sewage on environmental and food contamination constitutes an important safety issue. Indeed, human sewage reflects the microbiome of the local population, and a variety of human viruses can be detected in wastewater samples. Being able to describe the diversity of viruses present in sewage will provide information on the health of the surrounding population health and will help to prevent further transmission. Metagenomic developments, allowing the description of all the different genomes present in a sample, are very promising tools for virome analysis. However, looking for human enteric viruses with short RNA genomes which are present at low concentrations is challenging. In this study we demonstrate the benefits of performing technical replicates to improve viral identification by increasing contig length, and the set-up of quality criteria to increase confidence in results. Our approach was able to effectively identify some virus sequences and successfully describe the viral diversity. The method yielded full genomes either for norovirus, enterovirus and rotavirus, even if, for these segmented genomes, combining genes remain a difficult issue. Developing reliable viromic methods is important as wastewater sample analysis provides an important tool to prevent further virus transmission by raising alerts in case of viral outbreaks or emergence.
 
-[Source](https://www.biorxiv.org/content/biorxiv/early/2023/05/09/2023.05.09.539964.full.pdf)
+[Source](https://doi.org/10.3389/fmicb.2023.1161674)
 
-10.5713/ab.21.0495
-
----
-
-## Metagenomic analysis of milk microbiota in the bovine subclinical mastitis 
-
-[Source](https://www.biorxiv.org/content/biorxiv/early/2023/05/09/2023.05.09.539964.full.pdf)
+10.3389/fmicb.2023.1161674
 
 ---
 
-## MetaPhlAn 4 profiling of unknown species-level genome bins improves the characterization of diet-associated microbiome changes in mice.
- 04.05.2023, _P Manghi, A Blanco-Míguez, S Manara, A NabiNejad, F Cumbo, F Beghini, F Armanini, D Golzato, KD Huang, AM Thomas, G Piccinno, M Punčochář, M Zolfo, TR Lesker, M Bredon, J Planchais, J Glodt, M Valles-Colomer, O Koren, E Pasolli, F Asnicar, T Strowig, H Sokol, N Segata_
+## Metagenomic insights into the potential risks of representative bio/non-degradable plastic and non-plastic debris in the upper and lower reaches of Haihe Estuary, China.
+ 12.05.2023, _X Zhao, Z Niu, Y Ma, Y Zhang, Y Li_
 
 
-Mouse models are key tools for investigating host-microbiome interactions. However, shotgun metagenomics can only profile a limited fraction of the mouse gut microbiome. Here, we employ a metagenomic profiling method, MetaPhlAn 4, which exploits a large catalog of metagenome-assembled genomes (including 22,718 metagenome-assembled genomes from mice) to improve the profiling of the mouse gut microbiome. We combine 622 samples from eight public datasets and an additional cohort of 97 mouse microbiomes, and we assess the potential of MetaPhlAn 4 to better identify diet-related changes in the host microbiome using a meta-analysis approach. We find multiple, strong, and reproducible diet-related microbial biomarkers, largely increasing those identifiable by other available methods relying only on reference information. The strongest drivers of the diet-induced changes are uncharacterized and previously undetected taxa, confirming the importance of adopting metagenomic methods integrating metagenomic assemblies for comprehensive profiling.
+As vectors for microorganisms and genetic elements, vast amounts of solid wastes, including plastics and non-plastics, enter oceans through estuaries globally. The heterogeneity of microbiomes developed on different types of plastic and non-plastic matrices and their potential environmental risks in field estuarine regions have not been fully explored. Here, microbial communities, antibiotic resistance genes (ARGs), virulence factors (VFs), and mobile genetic elements (MGEs) on substrate debris (SD) covering non-biodegradable plastics, biodegradable plastics, and non-plastics were first comprehensively characterized based on metagenomic analyzes (substrate identity). These selected substrates were field-exposed at both ends of the Haihe Estuary, China (geographic location). For substrate identity: conspicuously diverse functional gene profiles on different substrates were obtained; the relative gene copies of ARGs, VFs, and MGEs on non-biodegradable plastics were highest at both locations; non-biodegradable plastic matrices recruited the most abundant unique ARGs from ambient waters; the relative abundance of potential bacterial hosts carrying multiple ARGs and VFs (BH-AV) was much higher on non-biodegradable plastic surfaces than on the other two substrates, especially in the coastal water environment. For geographic locations: more abundant specific ARGs, VFs, and MGEs were significantly enriched on SD from the upper estuary; the average relative abundance of identified BH-AV on SD from the upper estuary was 1.99-7.14 folds from the lower estuary. Finally, the results of the Projection Pursuit Regression model verified the higher comprehensive potential risks arising from non-biodegradable plastics (substrate identity) and SD from the upstream of the estuary (geographic location). Based on comparative analysis, our results alert us to pay particular attention to ecological risks triggered by conventional non-biodegradable plastics in rivers and coastal environments and highlight the microbiological risk from terrestrial solid waste to the downstream marine environment.
 
-[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00475-8)
+[Source](https://doi.org/10.1016/j.scitotenv.2023.164026)
 
-10.1016/j.celrep.2023.112464
-
----
-
-## @AitorBM
-
-[Source](https://twitter.com/AitorBM?ref_src=twsrc%5Etfw)
+10.1016/j.scitotenv.2023.164026
 
 ---
 
-## @cibiocm
+## A Bayesian joint model for compositional mediation effect selection in microbiome data.
+ 12.05.2023, _J Fu, MD Koslovsky, AM Neophytou, M Vannucci_
 
-[Source](https://twitter.com/cibiocm?ref_src=twsrc%5Etfw)
 
----
+Analyzing multivariate count data generated by high-throughput sequencing technology in microbiome research studies is challenging due to the high-dimensional and compositional structure of the data and overdispersion. In practice, researchers are often interested in investigating how the microbiome may mediate the relation between an assigned treatment and an observed phenotypic response. Existing approaches designed for compositional mediation analysis are unable to simultaneously determine the presence of direct effects, relative indirect effects, and overall indirect effects, while quantifying their uncertainty. We propose a formulation of a Bayesian joint model for compositional data that allows for the identification, estimation, and uncertainty quantification of various causal estimands in high-dimensional mediation analysis. We conduct simulation studies and compare our method's mediation effects selection performance with existing methods. Finally, we apply our method to a benchmark data set investigating the sub-therapeutic antibiotic treatment effect on body weight in early-life mice.
 
-## @nsegata
+[Source](https://doi.org/10.1002/sim.9764)
 
-[Source](https://twitter.com/nsegata?ref_src=twsrc%5Etfw)
-
----
-
-## @h_sokol
-
-[Source](https://twitter.com/h_sokol?ref_src=twsrc%5Etfw)
-
----
-
-## @CellReports
-
-[Source](https://twitter.com/CellReports?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/3VwygXfFI8
-
-[Source](https://t.co/3VwygXfFI8)
-
----
-
-## May 6, 2023
-
-[Source](https://twitter.com/paolo_manghi/status/1654882140402728961?ref_src=twsrc%5Etfw)
-
----
-
-## ResMiCo: Increasing the quality of metagenome-assembled genomes with deep learning 
-
-[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011001)
-
----
-
-## Catch me if you can: capturing microbial community transformation by extracellular DNA using Hi-C sequencing 
-
-[Source](https://link.springer.com/article/10.1007/s10482-023-01834-z)
-
----
-
-## The microbiome of an outpatient rehabilitation clinic and predictors of contamination: A pilot study 
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281299)
-
----
-
-## @ewanbirney
-
-[Source](https://twitter.com/ewanbirney?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/HSZtE6uP5k
-
-[Source](https://t.co/HSZtE6uP5k)
-
----
-
-## May 8, 2023
-
-[Source](https://twitter.com/nightsciencepod/status/1655557548836093953?ref_src=twsrc%5Etfw)
+10.1002/sim.9764
 
 ---
 
