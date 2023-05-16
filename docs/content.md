@@ -54,6 +54,18 @@ Over the years, a substantial body of information has accumulated suggesting die
 
 ---
 
+## Microbiome and immuno-metabolic dysregulation in patients with major depressive disorder with atypical clinical presentation.
+ 14.05.2023, _A Refisch, ZD Sen, TE Klassert, A Busch, B Besteher, LV Danyeli, D Helbing, U Schulze-Späte, A Stallmach, M Bauer, G Panagiotou, ID Jacobsen, H Slevogt, N Opel, M Walter_
+
+
+Depression is highly prevalent (6% 1-year prevalence) and is the second leading cause of disability worldwide. Available treatment options for depression are far from optimal, with response rates only around 50%. This is most likely related to a heterogeneous clinical presentation of major depression disorder (MDD), suggesting different manifestations of underlying pathophysiological mechanisms. Poorer treatment outcomes to first-line antidepressants were reported in MDD patients endorsing an "atypical" symptom profile that is characterized by preserved reactivity in mood, increased appetite, hypersomnia, a heavy sensation in the limbs, and interpersonal rejection sensitivity. In recent years, evidence has emerged that immunometabolic biological dysregulation is an important underlying pathophysiological mechanism in depression, which maps more consistently to atypical features. In the last few years human microbial residents have emerged as a key influencing variable associated with immunometabolic dysregulations in depression. The microbiome plays a critical role in the training and development of key components of the host's innate and adaptive immune systems, while the immune system orchestrates the maintenance of key features of the host-microbe symbiosis. Moreover, by being a metabolically active ecosystem commensal microbes may have a huge impact on signaling pathways, involved in underlying mechanisms leading to atypical depressive symptoms. In this review, we discuss the interplay between the microbiome and immunometabolic imbalance in the context of atypical depressive symptoms. Although research in this field is in its infancy, targeting biological determinants in more homogeneous clinical presentations of MDD may offer new avenues for the development of novel therapeutic strategies for treatment-resistant depression.
+
+[Source](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(23)00120-8)
+
+10.1016/j.neuropharm.2023.109568
+
+---
+
 ## Ecology of the respiratory tract microbiome
 
 [Source](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(23)00120-8)
@@ -104,20 +116,38 @@ Untangling how factors such as environment, host, associations among bacterial s
 ---
 
 ## Looking into sewage: how far can metagenomics help to detect human enteric viruses?
+ 15.05.2023, _J Schaeffer, M Desdouits, A Besnard, FS Le Guyader_
+
+
+The impact of human sewage on environmental and food contamination constitutes an important safety issue. Indeed, human sewage reflects the microbiome of the local population, and a variety of human viruses can be detected in wastewater samples. Being able to describe the diversity of viruses present in sewage will provide information on the health of the surrounding population health and will help to prevent further transmission. Metagenomic developments, allowing the description of all the different genomes present in a sample, are very promising tools for virome analysis. However, looking for human enteric viruses with short RNA genomes which are present at low concentrations is challenging. In this study we demonstrate the benefits of performing technical replicates to improve viral identification by increasing contig length, and the set-up of quality criteria to increase confidence in results. Our approach was able to effectively identify some virus sequences and successfully describe the viral diversity. The method yielded full genomes either for norovirus, enterovirus and rotavirus, even if, for these segmented genomes, combining genes remain a difficult issue. Developing reliable viromic methods is important as wastewater sample analysis provides an important tool to prevent further virus transmission by raising alerts in case of viral outbreaks or emergence.
 
 [Source](https://doi.org/10.3389/fmicb.2023.1161674)
 
+10.3389/fmicb.2023.1161674
+
 ---
 
-## Metagenomic insights into the potential risks of representative bio/non-degradable plastic and non-plastic debris in the upper and lower reaches of Haihe Estuary, China
+## Metagenomic insights into the potential risks of representative bio/non-degradable plastic and non-plastic debris in the upper and lower reaches of Haihe Estuary, China.
+ 12.05.2023, _X Zhao, Z Niu, Y Ma, Y Zhang, Y Li_
+
+
+As vectors for microorganisms and genetic elements, vast amounts of solid wastes, including plastics and non-plastics, enter oceans through estuaries globally. The heterogeneity of microbiomes developed on different types of plastic and non-plastic matrices and their potential environmental risks in field estuarine regions have not been fully explored. Here, microbial communities, antibiotic resistance genes (ARGs), virulence factors (VFs), and mobile genetic elements (MGEs) on substrate debris (SD) covering non-biodegradable plastics, biodegradable plastics, and non-plastics were first comprehensively characterized based on metagenomic analyzes (substrate identity). These selected substrates were field-exposed at both ends of the Haihe Estuary, China (geographic location). For substrate identity: conspicuously diverse functional gene profiles on different substrates were obtained; the relative gene copies of ARGs, VFs, and MGEs on non-biodegradable plastics were highest at both locations; non-biodegradable plastic matrices recruited the most abundant unique ARGs from ambient waters; the relative abundance of potential bacterial hosts carrying multiple ARGs and VFs (BH-AV) was much higher on non-biodegradable plastic surfaces than on the other two substrates, especially in the coastal water environment. For geographic locations: more abundant specific ARGs, VFs, and MGEs were significantly enriched on SD from the upper estuary; the average relative abundance of identified BH-AV on SD from the upper estuary was 1.99-7.14 folds from the lower estuary. Finally, the results of the Projection Pursuit Regression model verified the higher comprehensive potential risks arising from non-biodegradable plastics (substrate identity) and SD from the upstream of the estuary (geographic location). Based on comparative analysis, our results alert us to pay particular attention to ecological risks triggered by conventional non-biodegradable plastics in rivers and coastal environments and highlight the microbiological risk from terrestrial solid waste to the downstream marine environment.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.164026)
 
+10.1016/j.scitotenv.2023.164026
+
 ---
 
-## A Bayesian joint model for compositional mediation effect selection in microbiome data
+## A Bayesian joint model for compositional mediation effect selection in microbiome data.
+ 12.05.2023, _J Fu, MD Koslovsky, AM Neophytou, M Vannucci_
+
+
+Analyzing multivariate count data generated by high-throughput sequencing technology in microbiome research studies is challenging due to the high-dimensional and compositional structure of the data and overdispersion. In practice, researchers are often interested in investigating how the microbiome may mediate the relation between an assigned treatment and an observed phenotypic response. Existing approaches designed for compositional mediation analysis are unable to simultaneously determine the presence of direct effects, relative indirect effects, and overall indirect effects, while quantifying their uncertainty. We propose a formulation of a Bayesian joint model for compositional data that allows for the identification, estimation, and uncertainty quantification of various causal estimands in high-dimensional mediation analysis. We conduct simulation studies and compare our method's mediation effects selection performance with existing methods. Finally, we apply our method to a benchmark data set investigating the sub-therapeutic antibiotic treatment effect on body weight in early-life mice.
 
 [Source](https://doi.org/10.1002/sim.9764)
+
+10.1002/sim.9764
 
 ---
 
