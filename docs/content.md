@@ -55,16 +55,9 @@ Cyanobacteria and eukaryotic phytoplankton produce long-chain alkanes and genera
 
 ---
 
-## Comparing genomes recovered from time-series metagenomes using long- and short-read sequencing technologies.
- 16.05.2023, _LH Orellana, K Krüger, C Sidhu, R Amann_
-
-
-_Metagenome, RNA, Ribosomal, 16S, High-Throughput Nucleotide Sequencing, Technology, Metagenomics_
-Over the past years, sequencing technologies have expanded our ability to examine novel microbial metabolisms and diversity previously obscured by isolation approaches. Long-read sequencing promises to revolutionize the metagenomic field and recover less fragmented genomes from environmental samples. Nonetheless, how to best benefit from long-read sequencing and whether long-read sequencing can provide recovered genomes of similar characteristics as short-read approaches remains unclear.
+## Comparing genomes recovered from time-series metagenomes using long- and short-read sequencing technologies
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01557-3)
-
-10.1186/s40168-023-01557-3
 
 ---
 
