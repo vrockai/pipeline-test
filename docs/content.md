@@ -23,7 +23,7 @@ The lack of multi-omics cancer datasets with extensive follow-up information hin
 ---
 
 ## Skin microbiome alterations in upper extremity secondary lymphedema.
- 19.05.2023, _AC Campbell, T Fei, JE Baik, HJ Park, J Shin, K Kuonqui, S Brown, A Sarker, RP Kataru, BJ Mehrara_
+ 22.05.2023, _AC Campbell, T Fei, JE Baik, HJ Park, J Shin, K Kuonqui, S Brown, A Sarker, RP Kataru, BJ Mehrara_
 
 
 _Humans, Upper Extremity, Lymphatic Vessels, Skin, Neoplasms, Lymphedema_
@@ -36,7 +36,7 @@ Lymphedema is a chronic condition that commonly occur from lymphatic injury foll
 ---
 
 ## Isolation and identification of hyaluronan-degrading bacteria from Japanese fecal microbiota.
- 19.05.2023, _H Akazawa, I Fukuda, H Kaneda, S Yoda, M Kimura, R Nomoto, S Ueda, Y Shirai, R Osawa_
+ 22.05.2023, _H Akazawa, I Fukuda, H Kaneda, S Yoda, M Kimura, R Nomoto, S Ueda, Y Shirai, R Osawa_
 
 
 _Humans, Hyaluronic Acid, East Asian People, Bacteria, Feces, Gastrointestinal Microbiome_
@@ -62,7 +62,7 @@ Primary biliary cholangitis (PBC) is a chronic cholestatic liver disease with ur
 ---
 
 ## Gut microbiota and its relation to inflammation in patients with bipolar depression: a cross-sectional study.
- 21.05.2023, _T Huang, Y Shang, C Dai, Q Zhang, S Hu, J Xie_
+ 22.05.2023, _T Huang, Y Shang, C Dai, Q Zhang, S Hu, J Xie_
 
 
 To explore the gut microbiota characteristics in depressed patients with bipolar disorder (BD) as well as the connection between the gut microbiota and inflammatory markers.
