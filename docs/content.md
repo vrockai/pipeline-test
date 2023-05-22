@@ -181,9 +181,10 @@ Over the past two decades, the importance of microbiota in health and disease ha
 ---
 
 ## Exposing new taxonomic variation with inflammation - a murine model-specific genome database for gut microbiome researchers.
- 20.05.2023, _I Leleiwi, J Rodriguez-Ramos, M Shaffer, A Sabag-Daigle, K Kokkinias, RM Flynn, RA Daly, LFM Kop, LM Solden, BMM Ahmer, MA Borton, KC Wrighton_
+ 22.05.2023, _I Leleiwi, J Rodriguez-Ramos, M Shaffer, A Sabag-Daigle, K Kokkinias, RM Flynn, RA Daly, LFM Kop, LM Solden, BMM Ahmer, MA Borton, KC Wrighton_
 
 
+_Humans, Animals, Mice, Gastrointestinal Microbiome, Disease Models, Animal, Mice, Inbred CBA, Microbiota, Inflammation, Bacteroidetes_
 The murine CBA/J mouse model widely supports immunology and enteric pathogen research. This model has illuminated Salmonella interactions with the gut microbiome since pathogen proliferation does not require disruptive pretreatment of the native microbiota, nor does it become systemic, thereby representing an analog to gastroenteritis disease progression in humans. Despite the value to broad research communities, microbiota in CBA/J mice are not represented in current murine microbiome genome catalogs.
 
 [Source](https://doi.org/10.1186/s40168-023-01529-7)
@@ -193,9 +194,10 @@ The murine CBA/J mouse model widely supports immunology and enteric pathogen res
 ---
 
 ## Protective effect of L-pipecolic acid on constipation in C57BL/6 mice based on gut microbiome and serum metabolomic.
- 20.05.2023, _H Li, HY Xiao, LP Yuan, B Yan, Y Pan, PP Tian, WJ Zhang_
+ 22.05.2023, _H Li, HY Xiao, LP Yuan, B Yan, Y Pan, PP Tian, WJ Zhang_
 
 
+_Mice, Animals, Loperamide, Gastrointestinal Microbiome, Serotonin, Quality of Life, Mice, Inbred C57BL, Constipation, Water_
 Functional constipation (FC) in children affects their growth, development and quality of life. L-pipecolic acid (L-PA) was decreased in FC children based on gut microbiome and serum metabolomic. In this study, loperamide-induced constipation in mice was used to evaluate the effects of L-PA on constipated mice.
 
 [Source](https://doi.org/10.1186/s12866-023-02880-3)
@@ -205,9 +207,10 @@ Functional constipation (FC) in children affects their growth, development and q
 ---
 
 ## Alterations of the gut microbiome and metabolic profile in CVB3-induced mice acute viral myocarditis.
- 21.05.2023, _Q Kong, L Chen, X Zeng, F Lu, Y Huang, W Wu_
+ 22.05.2023, _Q Kong, L Chen, X Zeng, F Lu, Y Huang, W Wu_
 
 
+_Animals, Mice, Myocarditis, Gastrointestinal Microbiome, Chromatography, Liquid, Tandem Mass Spectrometry, Metabolome, Metabolomics, Steroids, Hormones, RNA, Ribosomal, 16S_
 Acute viral myocarditis (AVMC) is an inflammatory disease of the myocardium. Evidence indicates that dysbiosis of gut microbiome and related metabolites intimately associated with cardiovascular diseases through the gut-heart axis.
 
 [Source](https://doi.org/10.1186/s12866-023-02863-4)
@@ -229,9 +232,10 @@ Gastrointestinal (GI) disease is a common digestive tract disease effects health
 ---
 
 ## An entomopathogenic fungus exploits its host humoral antibacterial immunity to minimize bacterial competition in the hemolymph.
- 20.05.2023, _JL Wang, J Sun, YJ Song, HH Zheng, GJ Wang, WX Luo, L Li, XS Liu_
+ 22.05.2023, _JL Wang, J Sun, YJ Song, HH Zheng, GJ Wang, WX Luo, L Li, XS Liu_
 
 
+_Animals, Hemolymph, Moths, Insecta, Anti-Bacterial Agents, Bacteria_
 The insect hemolymph (blood-equivalent fluid), composed of a large number of hemocytes (blood cells) and a variety of soluble immune effectors, is hostile for pathogens including fungi. In order to survive in the insect hemocoel (body cavity), the entomopathogenic fungus (EPF) has evolved two classical coping strategies, namely evasion and suppression of the host immune reactions. However, it remains unclear whether EPF has other ways of coping with host immunity.
 
 [Source](https://doi.org/10.1186/s40168-023-01538-6)
@@ -259,9 +263,10 @@ Coral bleaching and coral reef degradation have been severely increased due to a
 ---
 
 ## Feeding hempseed cake alters the bovine gut, respiratory and reproductive microbiota.
- 21.05.2023, _TM Winders, DB Holman, KN Schmidt, SM Luecke, DJ Smith, BW Neville, CR Dahlen, KC Swanson, S Amat_
+ 22.05.2023, _TM Winders, DB Holman, KN Schmidt, SM Luecke, DJ Smith, BW Neville, CR Dahlen, KC Swanson, S Amat_
 
 
+_Humans, Cattle, Animals, Female, Infant, Animal Feed, RNA, Ribosomal, 16S, Diet, Silage, Reproduction, Zea mays, Rumen_
 A growing number of studies have investigated the feasibility of utilizing hemp by-products as livestock feedstuffs; however, their impact on livestock microbiomes remains unexplored. Here, we evaluated the effects of feeding hempseed cake on the gastrointestinal, respiratory, and reproductive microbiota in beef heifers. Angus-crossbred heifers (19-months old, initial body weight = 494 ± 10 kg [SE]) were fed a corn-based finishing diet containing 20% hempseed cake as a substitute for 20% corn dried distillers' grains with solubles (DM basis; Control; n = 16/group) for 111 days until slaughter. Ruminal fluid and deep nasopharyngeal swabs (days 0, 7, 42, 70 and 98), and vaginal and uterine swabs (at slaughter) were collected, and the microbiota assessed using 16S rRNA gene sequencing. Diet affected the community structure of the ruminal (d 7-98; 0.06 ≤ R2 ≤ 0.12; P &lt; 0.05), nasopharyngeal (d 98; R2 = 0.18; P &lt; 0.001), and vaginal (R2 = 0.06; P &lt; 0.01) microbiota. Heifers fed hempseed cake had increased microbial diversity in the rumen, reduced microbial richness in the vagina, and greater microbial diversity and richness in the uterus. In addition to the distinct microbial communities in the rumen, nasopharynx, vagina and uterus, we identified 28 core taxa that were shared (≥ 60% of all samples) across these sampling locations. Feeding hempseed cake appeared to alter the bovine gut, respiratory and reproductive microbiota. Our results suggest that future research aiming to evaluate the use of hemp by-products in livestock diet should consider their impact on animal microbiome and microbiome mediated animal health and reproductive efficiency. Our findings also highlight the need for research evaluating the impact of hemp-associated food and personal care products on the human microbiome.
 
 [Source](https://doi.org/10.1038/s41598-023-35241-1)
@@ -277,9 +282,10 @@ A growing number of studies have investigated the feasibility of utilizing hemp 
 ---
 
 ## The microbiome and gene expression of honey bee workers are affected by a diet containing pollen substitutes.
- 21.05.2023, _JE Powell, P Lau, J Rangel, R Arnott, T De Jong, NA Moran_
+ 22.05.2023, _JE Powell, P Lau, J Rangel, R Arnott, T De Jong, NA Moran_
 
 
+_Bees, Animals, Microbiota, Gastrointestinal Microbiome, Diet, Dietary Proteins, Bacteria, Gene Expression_
 Pollen is the primary source of dietary protein for honey bees. It also includes complex polysaccharides in its outer coat, which are largely indigestible by bees but can be metabolized by bacterial species within the gut microbiota. During periods of reduced availability of floral pollen, supplemental protein sources are frequently provided to managed honey bee colonies. The crude proteins in these supplemental feeds are typically byproducts from food manufacturing processes and are rarely derived from pollen. Our experiments on the impact of different diets showed that a simplified pollen-free diet formulated to resemble the macronutrient profile of a monofloral pollen source resulted in larger microbial communities with reduced diversity, reduced evenness, and reduced levels of potentially beneficial hive-associated bacteria. Furthermore, the pollen-free diet sharply reduced the expression of genes central to honey bee development. In subsequent experiments, we showed that these shifts in gene expression may be linked to colonization by the gut microbiome. Lastly, we demonstrated that for bees inoculated with a defined gut microbiota, those raised on an artificial diet were less able to suppress infection from a bacterial pathogen than those that were fed natural pollen. Our findings demonstrate that a pollen-free diet significantly impacts the gut microbiota and gene expression of honey bees, indicating the importance of natural pollen as a primary protein source.
 
 [Source](https://doi.org/10.1371/journal.pone.0286070)
@@ -289,9 +295,10 @@ Pollen is the primary source of dietary protein for honey bees. It also includes
 ---
 
 ## Amplicon-based metagenomic association analysis of gut microbiota in relation to egg-laying period and breeds of hens.
- 21.05.2023, _XY Wang, JX Meng, WX Ren, H Ma, G Liu, R Liu, HL Geng, Q Zhao, XX Zhang, HB Ni_
+ 22.05.2023, _XY Wang, JX Meng, WX Ren, H Ma, G Liu, R Liu, HL Geng, Q Zhao, XX Zhang, HB Ni_
 
 
+_Animals, Female, Gastrointestinal Microbiome, Chickens, RNA, Ribosomal, 16S, Microbiota, Cyanobacteria_
 The gut microbiota plays an essential role in maintaining gut homeostasis and improving performance, with the composition of microbial communities visibly differing across different laying stages in hens and significantly correlating with egg production. To gain further insights into the association between microbial community characteristics and laying periods in Hy-Line variety brown and Isa brown laying hens, we conducted a 16S rRNA amplicon sequencing survey.
 
 [Source](https://doi.org/10.1186/s12866-023-02857-2)
