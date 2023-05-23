@@ -181,7 +181,7 @@ Over the past two decades, the importance of microbiota in health and disease ha
 ---
 
 ## Exposing new taxonomic variation with inflammation - a murine model-specific genome database for gut microbiome researchers.
- 22.05.2023, _I Leleiwi, J Rodriguez-Ramos, M Shaffer, A Sabag-Daigle, K Kokkinias, RM Flynn, RA Daly, LFM Kop, LM Solden, BMM Ahmer, MA Borton, KC Wrighton_
+ 23.05.2023, _I Leleiwi, J Rodriguez-Ramos, M Shaffer, A Sabag-Daigle, K Kokkinias, RM Flynn, RA Daly, LFM Kop, LM Solden, BMM Ahmer, MA Borton, KC Wrighton_
 
 
 _Humans, Animals, Mice, Gastrointestinal Microbiome, Disease Models, Animal, Mice, Inbred CBA, Microbiota, Inflammation, Bacteroidetes_
@@ -232,7 +232,7 @@ Gastrointestinal (GI) disease is a common digestive tract disease effects health
 ---
 
 ## An entomopathogenic fungus exploits its host humoral antibacterial immunity to minimize bacterial competition in the hemolymph.
- 22.05.2023, _JL Wang, J Sun, YJ Song, HH Zheng, GJ Wang, WX Luo, L Li, XS Liu_
+ 23.05.2023, _JL Wang, J Sun, YJ Song, HH Zheng, GJ Wang, WX Luo, L Li, XS Liu_
 
 
 _Animals, Hemolymph, Moths, Insecta, Anti-Bacterial Agents, Bacteria_
