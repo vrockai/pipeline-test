@@ -11,7 +11,7 @@ Progressive lung function decline is a hallmark of chronic obstructive pulmonary
 ---
 
 ## An integrated tumor, immune and microbiome atlas of colon cancer.
- 24.05.2023, _J Roelands, PJK Kuppen, EI Ahmed, R Mall, T Masoodi, P Singh, G Monaco, C Raynaud, NFCC de Miranda, L Ferraro, TC Carneiro-Lobo, N Syed, A Rawat, A Awad, J Decock, W Mifsud, LD Miller, S Sherif, MG Mohamed, D Rinchai, M Van den Eynde, RW Sayaman, E Ziv, F Bertucci, MA Petkar, S Lorenz, LS Mathew, K Wang, S Murugesan, D Chaussabel, AL Vahrmeijer, E Wang, A Ceccarelli, KA Fakhro, G Zoppoli, A Ballestrero, RAEM Tollenaar, FM Marincola, J Galon, SA Khodor, M Ceccarelli, W Hendrickx, D Bedognetti_
+ 25.05.2023, _J Roelands, PJK Kuppen, EI Ahmed, R Mall, T Masoodi, P Singh, G Monaco, C Raynaud, NFCC de Miranda, L Ferraro, TC Carneiro-Lobo, N Syed, A Rawat, A Awad, J Decock, W Mifsud, LD Miller, S Sherif, MG Mohamed, D Rinchai, M Van den Eynde, RW Sayaman, E Ziv, F Bertucci, MA Petkar, S Lorenz, LS Mathew, K Wang, S Murugesan, D Chaussabel, AL Vahrmeijer, E Wang, A Ceccarelli, KA Fakhro, G Zoppoli, A Ballestrero, RAEM Tollenaar, FM Marincola, J Galon, SA Khodor, M Ceccarelli, W Hendrickx, D Bedognetti_
 
 
 _Humans, Cohort Studies, Biomarkers, Tumor, Colonic Neoplasms, Transcriptome, Tumor Microenvironment_
@@ -195,7 +195,7 @@ The murine CBA/J mouse model widely supports immunology and enteric pathogen res
 ---
 
 ## Protective effect of L-pipecolic acid on constipation in C57BL/6 mice based on gut microbiome and serum metabolomic.
- 23.05.2023, _H Li, HY Xiao, LP Yuan, B Yan, Y Pan, PP Tian, WJ Zhang_
+ 25.05.2023, _H Li, HY Xiao, LP Yuan, B Yan, Y Pan, PP Tian, WJ Zhang_
 
 
 _Mice, Animals, Loperamide, Gastrointestinal Microbiome, Serotonin, Quality of Life, Mice, Inbred C57BL, Constipation, Water_
@@ -208,7 +208,7 @@ Functional constipation (FC) in children affects their growth, development and q
 ---
 
 ## Alterations of the gut microbiome and metabolic profile in CVB3-induced mice acute viral myocarditis.
- 22.05.2023, _Q Kong, L Chen, X Zeng, F Lu, Y Huang, W Wu_
+ 25.05.2023, _Q Kong, L Chen, X Zeng, F Lu, Y Huang, W Wu_
 
 
 _Animals, Mice, Myocarditis, Gastrointestinal Microbiome, Chromatography, Liquid, Tandem Mass Spectrometry, Metabolome, Metabolomics, Steroids, Hormones, RNA, Ribosomal, 16S_
@@ -296,7 +296,7 @@ Pollen is the primary source of dietary protein for honey bees. It also includes
 ---
 
 ## Amplicon-based metagenomic association analysis of gut microbiota in relation to egg-laying period and breeds of hens.
- 22.05.2023, _XY Wang, JX Meng, WX Ren, H Ma, G Liu, R Liu, HL Geng, Q Zhao, XX Zhang, HB Ni_
+ 25.05.2023, _XY Wang, JX Meng, WX Ren, H Ma, G Liu, R Liu, HL Geng, Q Zhao, XX Zhang, HB Ni_
 
 
 _Animals, Female, Gastrointestinal Microbiome, Chickens, RNA, Ribosomal, 16S, Microbiota, Cyanobacteria_
