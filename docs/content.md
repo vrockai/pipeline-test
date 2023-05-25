@@ -36,9 +36,16 @@ Lymphedema is a chronic condition that commonly occur from lymphatic injury foll
 
 ---
 
-## Isolation and identification of hyaluronan-degrading bacteria from Japanese fecal microbiota
+## Isolation and identification of hyaluronan-degrading bacteria from Japanese fecal microbiota.
+ 22.05.2023, _H Akazawa, I Fukuda, H Kaneda, S Yoda, M Kimura, R Nomoto, S Ueda, Y Shirai, R Osawa_
+
+
+_Humans, Hyaluronic Acid, East Asian People, Bacteria, Feces, Gastrointestinal Microbiome_
+Hyaluronan (HA) is a high-molecular-weight glycosaminoglycan and widely distributed in all connective tissues and organs with diverse biological functions. HA has been increasingly used as dietary supplements targeted to joint and skin health for humans. We here first report isolation of bacteria from human feces that are capable of degrading HA to lower molecular weight HA oligosaccharides (oligo-HAs). The bacteria were successfully isolated via a selective enrichment method, in which the serially diluted feces of healthy Japanese donors were individually incubated in an enrichment medium containing HA, followed by the isolation of candidate strains from streaked HA-containing agar plates and selection of HA-degrading strains by measuring HA using an ELISA. Subsequent genomic and biochemical assays identified the strains as Bacteroides finegoldii, B. caccae, B. thetaiotaomicron, and Fusobacterium mortiferum. Furthermore, our HPLC analysis revealed that the strains degraded HA to oligo-HAs of various lengths. Subsequent quantitative PCR assay targeting the HA degrading bacteria showed that their distribution in the Japanese donors varied. The evidence suggests that dietary HA is degraded by the human gut microbiota with individual variation to oligo-HAs components, which are more absorbable than HA, thereby exerting its beneficial effects.
 
 [Source](https://doi.org/10.1371/journal.pone.0284517)
+
+10.1371/journal.pone.0284517
 
 ---
 
