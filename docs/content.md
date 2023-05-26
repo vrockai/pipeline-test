@@ -133,8 +133,8 @@ Bacterial vaginosis (BV) is the most common infection of the lower reproductive 
 
 ---
 
-## Impact of the host microbiota on fungal infections: new possibilities for intervention?
- 21.05.2023, _EWL Chow, L Mei Pang, Y Wang_
+## Impact of the host microbiota on fungal infections: New possibilities for intervention?
+ 25.05.2023, _EWL Chow, LM Pang, Y Wang_
 
 
 Many human fungal pathogens are opportunistic. They are primarily benign residents of the human body and only become infectious when the host's immunity and microbiome are compromised. Bacteria dominate the human microbiome, playing an essential role in keeping fungi harmless and acting as the first line of defense against fungal infection. The Human Microbiome Project, launched by NIH in 2007, has stimulated extensive investigation and significantly advanced our understanding of the molecular mechanisms governing the interaction between bacteria and fungi, providing valuable insights for developing future antifungal strategies by exploiting the interaction. This review summarizes recent progress in this field and discusses new possibilities and challenges. We must seize the opportunities presented by researching bacterial-fungal interplay in the human microbiome to address the global spread of drug-resistant fungal pathogens and the drying pipelines of effective antifungal drugs.
