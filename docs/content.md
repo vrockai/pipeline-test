@@ -16,9 +16,16 @@
 
 ---
 
-## Gut microbiota, circulating inflammatory markers and metabolites, and carotid artery atherosclerosis in HIV infection
+## Gut microbiota, circulating inflammatory markers and metabolites, and carotid artery atherosclerosis in HIV infection.
+ 29.05.2023, _Z Wang, BA Peters, M Bryant, DB Hanna, T Schwartz, T Wang, CC Sollecito, M Usyk, E Grassi, F Wiek, LS Peter, WS Post, AL Landay, HN Hodis, KM Weber, A French, ET Golub, J Lazar, D Gustafson, A Sharma, K Anastos, CB Clish, RD Burk, RC Kaplan, R Knight, Q Qi_
+
+
+_Humans, Female, Gastrointestinal Microbiome, HIV Infections, Carotid Stenosis, Proteomics, Carotid Artery Diseases, Atherosclerosis, Carotid Arteries, Biomarkers, Inflammation_
+Alterations in gut microbiota have been implicated in HIV infection and cardiovascular disease. However, how gut microbial alterations relate to host inflammation and metabolite profiles, and their relationships with atherosclerosis, have not been well-studied, especially in the context of HIV infection. Here, we examined associations of gut microbial species and functional components measured by shotgun metagenomics with carotid artery plaque assessed by B-mode carotid artery ultrasound in 320 women with or at high risk of HIV (65% HIV +) from the Women's Interagency HIV Study. We further integrated plaque-associated microbial features with serum proteomics (74 inflammatory markers measured by the proximity extension assay) and plasma metabolomics (378 metabolites measured by liquid chromatography tandem mass spectrometry) in relation to carotid artery plaque in up to 433 women.
 
 [Source](https://doi.org/10.1186/s40168-023-01566-2)
+
+10.1186/s40168-023-01566-2
 
 ---
 
@@ -28,21 +35,40 @@
 
 ---
 
-## Gut microbiome associated with low anterior resection syndrome after rectal cancer surgery
+## Gut microbiome associated with low anterior resection syndrome after rectal cancer surgery.
+ 29.05.2023, _MJ Kim, S Park, JW Park, J Choi, HJ Kim, HK Lim, SB Ryoo, KJ Park, Y Ji, SY Jeong_
+
+
+_Humans, Rectal Neoplasms, Low Anterior Resection Syndrome, Postoperative Complications, Gastrointestinal Microbiome, Rectum, Quality of Life_
+This study aimed to assess the likely association of gut microbiome with low anterior resection syndrome (LARS) symptoms. Postoperative stool samples from patients with minor or major LARS after sphincter-preserving surgery (SPS) for rectal cancer were collected and analyzed using 16S ribosomal RNA sequencing method. The symptom patterns of LARS were classified into two groups (PC1LARS, PC2LARS) using principal component analysis. The dichotomized sum of questionnaire items (sub1LARS, sub2LARS) was used to group patients according to the main symptoms. According to microbial diversity, enterotype, and taxa, PC1LARS and sub1LARS were associated with frequency-dominant LARS symptoms and patients, while PC2LARS and sub2LARS were grouped as incontinence-dominant LARS symptoms and patients. Butyricicoccus levels decreased while overall LARS scores increased. The α-diversity richness index Chao1 showed a significantly negative correlation in sub1LARS and a positive correlation in sub2LARS. In sub1LARS, the severe group showed a lower Prevotellaceae enterotype and higher Bacteroidaceae enterotype than the mild group. Subdoligranulum and Flavonifractor showed a negative and a positive correlation with PC1LARS, respectively, while showing a negative relationship with PC2LARS. Lactobacillus and Bifidobacterium were negatively correlated to PC1LARS. Frequency-dominant LARS had decreased diversity of gut microbiome and showed lower levels of lactic acid-producing bacteria.
 
 [Source](https://doi.org/10.1038/s41598-023-34557-2)
 
+10.1038/s41598-023-34557-2
+
 ---
 
-## Metabolomics Reveals Gut Microbiota Contribute to PPARα Deficiency-Induced Alcoholic Liver Injury
+## Metabolomics Reveals Gut Microbiota Contribute to PPARα Deficiency-Induced Alcoholic Liver Injury.
+ 26.05.2023, _T Zhang, L Bao, Q Zhao, ZE Wu, M Dai, Q Rao, F Li_
+
+
+Incidence and mortality rates of alcoholic liver disease (ALD) is one of the highest in the world. In the present study, we found that the genetic knockout nuclear receptor the peroxisome proliferator-activated receptor α (PPARα) exacerbated ALD. Lipidomics of the liver revealed changed levels of lipid species encompassing phospholipids, ceramides (CM), and long-chain fatty acids in Ppara-null mice induced by ethanol. Moreover, 4-hydroxyphenylacetic acid (4-HPA) was changed as induced by ethanol in the metabolome of urine. Moreover, the phylum level analysis showed a decrease in the level of Bacteroidetes and an increase in the level of Firmicutes after alcohol feeding in Ppara-null mice, while there was no change in wild-type mice. In Ppara-null mice, the level of Clostridium_sensu_stricto_1 and Romboutsia were upregulated after alcohol feeding. These data revealed that PPARα deficiency potentiated alcohol-induced liver injury through promotion of lipid accumulation, changing the metabolome of urine, and increasing the level of Clostridium_sensu_stricto_1 and Romboutsia. 4-HPA could improve ALD in mice by regulating inflammation and lipid metabolism. Therefore, our findings suggest a novel approach to the treatment of ALD: focusing on the gut microbiota and its metabolites. Data are available via ProteomeXchange (PXD 041465).
 
 [Source](https://doi.org/10.1021/acs.jproteome.3c00093)
 
+10.1021/acs.jproteome.3c00093
+
 ---
 
-## Following your gut: the emerging role of the gut microbiota in predicting and treating immune-related adverse events
+## Following your gut: the emerging role of the gut microbiota in predicting and treating immune-related adverse events.
+ 24.05.2023, _A Desilets, A Elkrief_
+
+
+Although immune checkpoint inhibition has reshaped the therapeutic landscape leading to improved outcomes across an array of both solid and hematologic malignancies, a significant source of morbidity is caused by immune-related adverse events (irAEs) caused by these agents.
 
 [Source](https://doi.org/10.1097/CCO.0000000000000957)
+
+10.1097/CCO.0000000000000957
 
 ---
 
