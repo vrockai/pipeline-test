@@ -100,15 +100,27 @@
 
 ---
 
-## Integration of Phenotypes in Microbiome Networks for Designing Synthetic Communities: a Study of Mycobiomes in the Grafted Tomato System
+## Integration of Phenotypes in Microbiome Networks for Designing Synthetic Communities: a Study of Mycobiomes in the Grafted Tomato System.
+ 24.05.2023, _R Poudel, A Jumpponen, MM Kennelly, C Rivard, L Gomez-Montano, KA Garrett_
+
+
+Understanding factors influencing microbial interactions, and designing methods to identify key taxa that are candidates for synthetic communities, or SynComs, are complex challenges for achieving microbiome-based agriculture. Here, we study how grafting and the choice of rootstock influences root-associated fungal communities in a grafted tomato system. We studied three tomato rootstocks (BHN589, RST-04-106, and Maxifort) grafted to a BHN589 scion and profiled the fungal communities in the endosphere and rhizosphere by sequencing the internal transcribed spacer (ITS2). The data provided evidence for a rootstock effect (explaining ~2% of the total captured variation, P &lt; 0.01) on the fungal community. Moreover, the most productive rootstock, Maxifort, supported greater fungal species richness than the other rootstocks or controls. We then constructed a phenotype-operational taxonomic unit (OTU) network analysis (PhONA) using an integrated machine learning and network analysis approach based on fungal OTUs and associated tomato yield as the phenotype. PhONA provides a graphical framework to select a testable and manageable number of OTUs to support microbiome-enhanced agriculture. We identified differentially abundant OTUs specific to each rootstock in both endosphere and rhizosphere compartments. Subsequent analyses using PhONA identified OTUs that were directly associated with tomato fruit yield and others that were indirectly linked to yield through their links to these OTUs. Fungal OTUs that are directly or indirectly linked with tomato yield may represent candidates for synthetic communities to be explored in agricultural systems. IMPORTANCE The realized benefits of microbiome analyses for plant health and disease management are often limited by the lack of methods to select manageable and testable synthetic microbiomes. We evaluated the composition and diversity of root-associated fungal communities from grafted tomatoes. We then constructed a phenotype-OTU network analysis (PhONA) using these linear and network models. By incorporating yield data in the network, PhONA identified OTUs that were directly predictive of tomato yield and others that were indirectly linked to yield through their links to these OTUs. Follow-up functional studies of taxa associated with effective rootstocks, identified using approaches such as PhONA, could support the design of synthetic fungal communities for microbiome-based crop production and disease management. The PhONA framework is flexible for incorporation of other phenotypic data, and the underlying models can readily be generalized to accommodate other microbiome or 'omics data.
 
 [Source](https://doi.org/10.1128/aem.01843-22)
 
+10.1128/aem.01843-22
+
 ---
 
-## Root Niches of Blueberry Imprint Increasing Bacterial-Fungal Interkingdom Interactions along the Soil-Rhizosphere-Root Continuum
+## Root Niches of Blueberry Imprint Increasing Bacterial-Fungal Interkingdom Interactions along the Soil-Rhizosphere-Root Continuum.
+ 24.05.2023, _J Che, Y Wu, H Yang, S Wang, W Wu, L Lyu, X Wang, W Li_
+
+
+Plant root-associated microbiomes play critical roles in promoting plant health, productivity, and tolerance to biotic/abiotic stresses. Blueberry (Vaccinium spp.) is adapted to acidic soils, while the interactions of the root-associated microbiomes in this specific habitat under various root microenvironments remain elusive. Here, we investigated the diversity and community composition of bacterial and fungal communities in various blueberry root niches (bulk soil, rhizosphere soil, and root endosphere). The results showed that blueberry root niches significantly affected root-associated microbiome diversity and community composition compared to those of the three host cultivars. Deterministic processes gradually increased along the soil-rhizosphere-root continuum in both bacterial and fungal communities. The co-occurrence network topological features showed that both bacterial and fungal community complexity and intensive interactions decreased along the soil-rhizosphere-root continuum. Different compartment niches clearly influenced bacterial-fungal interkingdom interactions, which were significantly higher in the rhizosphere, and positive interactions gradually dominated the co-occurrence networks from the bulk soil to the endosphere. The functional predictions showed that rhizosphere bacterial and fungal communities may have higher cellulolysis and saprotrophy capacities, respectively. Collectively, the root niches not only affected microbial diversity and community composition but also enhanced the positive interkingdom interactions between bacterial and fungal communities along the soil-rhizosphere-root continuum. This provides an essential basis for manipulating synthetic microbial communities for sustainable agriculture. IMPORTANCE The blueberry root-associated microbiome plays an essential role in its adaptation to acidic soils and in limiting the uptake of soil nutrients by its poor root system. Studies on the interactions of the root-associated microbiome in the various root niches may deepen our understanding of the beneficial effects in this particular habitat. Our study extended the research on the diversity and composition of microbial communities in different blueberry root compartment niches. Root niches dominated the root-associated microbiome compared to that of the host cultivar, and deterministic processes increased from the bulk soil to the endosphere. In addition, bacterial-fungal interkingdom interactions were significantly higher in the rhizosphere, and those positive interactions progressively dominated the co-occurrence network along the soil-rhizosphere-root continuum. Collectively, root niches dominantly affected the root-associated microbiome and the positive interkingdom interactions increased, potentially providing benefits for the blueberry.
 
 [Source](https://doi.org/10.1128/spectrum.05333-22)
+
+10.1128/spectrum.05333-22
 
 ---
 
@@ -118,15 +130,28 @@
 
 ---
 
-## HONMF: integration analysis of multi-omics microbiome data via matrix factorization and hypergraph
+## HONMF: integration analysis of multi-omics microbiome data via matrix factorization and hypergraph.
+ 22.05.2023, _Y Ma, L Liu, Y Ma, S Zhang_
+
+
+The accumulation of multi-omics microbiome data provides an unprecedented opportunity to understand the diversity of bacterial, fungal and viral components from different conditions. The changes in the composition of viruses, bacteria and fungi communities have been associated with environments and critical illness. However, identifying and dissecting the heterogeneity of microbial samples and cross-kingdom interactions remains challenging.
 
 [Source](https://doi.org/10.1093/bioinformatics/btad335)
 
+10.1093/bioinformatics/btad335
+
 ---
 
-## Bayesian compositional regression with microbiome features via variational inference
+## Bayesian compositional regression with microbiome features via variational inference.
+ 25.05.2023, _DAV Scott, E Benavente, J Libiseller-Egger, D Fedorov, J Phelan, E Ilina, P Tikhonova, A Kudryavstev, J Galeeva, T Clark, A Lewin_
+
+
+_Humans, Bayes Theorem, Linear Models, Microbiota, Markov Chains, Gastrointestinal Microbiome, Monte Carlo Method_
+The microbiome plays a key role in the health of the human body. Interest often lies in finding features of the microbiome, alongside other covariates, which are associated with a phenotype of interest. One important property of microbiome data, which is often overlooked, is its compositionality as it can only provide information about the relative abundance of its constituting components. Typically, these proportions vary by several orders of magnitude in datasets of high dimensions. To address these challenges we develop a Bayesian hierarchical linear log-contrast model which is estimated by mean field Monte-Carlo co-ordinate ascent variational inference (CAVI-MC) and easily scales to high dimensional data. We use novel priors which account for the large differences in scale and constrained parameter space associated with the compositional covariates. A reversible jump Monte Carlo Markov chain guided by the data through univariate approximations of the variational posterior probability of inclusion, with proposal parameters informed by approximating variational densities via auxiliary parameters, is used to estimate intractable marginal expectations. We demonstrate that our proposed Bayesian method performs favourably against existing frequentist state of the art compositional data analysis methods. We then apply the CAVI-MC to the analysis of real data exploring the relationship of the gut microbiome to body mass index.
 
 [Source](https://doi.org/10.1186/s12859-023-05219-x)
+
+10.1186/s12859-023-05219-x
 
 ---
 
@@ -136,9 +161,15 @@
 
 ---
 
-## Unravelling animal-microbiota evolution on a chip
+## Unravelling animal-microbiota evolution on a chip.
+ 22.05.2023, _O Aizpurua, K Blijleven, U Trivedi, MTP Gilbert, A Alberdi_
+
+
+Whether and how microorganisms have shaped the evolution of their animal hosts is a major question in biology. Although many animal evolutionary processes appear to correlate with changes in their associated microbial communities, the mechanistic processes leading to these patterns and their causal relationships are still far from being resolved. Gut-on-a-chip models provide an innovative approach that expands beyond the potential of conventional microbiome profiling to study how different animals sense and react to microbes by comparing responses of animal intestinal tissue models to different microbial stimuli. This complementary knowledge can contribute to our understanding of how host genetic features facilitate or prevent different microbiomes from being assembled, and in doing so elucidate the role of host-microbiota interactions in animal evolution.
 
 [Source](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(23)00148-8)
+
+10.1016/j.tim.2023.04.010
 
 ---
 
