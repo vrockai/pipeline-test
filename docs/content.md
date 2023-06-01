@@ -28,66 +28,33 @@
 
 ---
 
-## Gut microbiome associated with low anterior resection syndrome after rectal cancer surgery.
- 29.05.2023, _MJ Kim, S Park, JW Park, J Choi, HJ Kim, HK Lim, SB Ryoo, KJ Park, Y Ji, SY Jeong_
-
-
-_Humans, Rectal Neoplasms, Low Anterior Resection Syndrome, Postoperative Complications, Gastrointestinal Microbiome, Rectum, Quality of Life_
-This study aimed to assess the likely association of gut microbiome with low anterior resection syndrome (LARS) symptoms. Postoperative stool samples from patients with minor or major LARS after sphincter-preserving surgery (SPS) for rectal cancer were collected and analyzed using 16S ribosomal RNA sequencing method. The symptom patterns of LARS were classified into two groups (PC1LARS, PC2LARS) using principal component analysis. The dichotomized sum of questionnaire items (sub1LARS, sub2LARS) was used to group patients according to the main symptoms. According to microbial diversity, enterotype, and taxa, PC1LARS and sub1LARS were associated with frequency-dominant LARS symptoms and patients, while PC2LARS and sub2LARS were grouped as incontinence-dominant LARS symptoms and patients. Butyricicoccus levels decreased while overall LARS scores increased. The α-diversity richness index Chao1 showed a significantly negative correlation in sub1LARS and a positive correlation in sub2LARS. In sub1LARS, the severe group showed a lower Prevotellaceae enterotype and higher Bacteroidaceae enterotype than the mild group. Subdoligranulum and Flavonifractor showed a negative and a positive correlation with PC1LARS, respectively, while showing a negative relationship with PC2LARS. Lactobacillus and Bifidobacterium were negatively correlated to PC1LARS. Frequency-dominant LARS had decreased diversity of gut microbiome and showed lower levels of lactic acid-producing bacteria.
+## Gut microbiome associated with low anterior resection syndrome after rectal cancer surgery
 
 [Source](https://doi.org/10.1038/s41598-023-34557-2)
 
-10.1038/s41598-023-34557-2
-
 ---
 
-## Metabolomics Reveals Gut Microbiota Contribute to PPARα Deficiency-Induced Alcoholic Liver Injury.
- 26.05.2023, _T Zhang, L Bao, Q Zhao, ZE Wu, M Dai, Q Rao, F Li_
-
-
-Incidence and mortality rates of alcoholic liver disease (ALD) is one of the highest in the world. In the present study, we found that the genetic knockout nuclear receptor the peroxisome proliferator-activated receptor α (PPARα) exacerbated ALD. Lipidomics of the liver revealed changed levels of lipid species encompassing phospholipids, ceramides (CM), and long-chain fatty acids in Ppara-null mice induced by ethanol. Moreover, 4-hydroxyphenylacetic acid (4-HPA) was changed as induced by ethanol in the metabolome of urine. Moreover, the phylum level analysis showed a decrease in the level of Bacteroidetes and an increase in the level of Firmicutes after alcohol feeding in Ppara-null mice, while there was no change in wild-type mice. In Ppara-null mice, the level of Clostridium_sensu_stricto_1 and Romboutsia were upregulated after alcohol feeding. These data revealed that PPARα deficiency potentiated alcohol-induced liver injury through promotion of lipid accumulation, changing the metabolome of urine, and increasing the level of Clostridium_sensu_stricto_1 and Romboutsia. 4-HPA could improve ALD in mice by regulating inflammation and lipid metabolism. Therefore, our findings suggest a novel approach to the treatment of ALD: focusing on the gut microbiota and its metabolites. Data are available via ProteomeXchange (PXD 041465).
+## Metabolomics Reveals Gut Microbiota Contribute to PPARα Deficiency-Induced Alcoholic Liver Injury
 
 [Source](https://doi.org/10.1021/acs.jproteome.3c00093)
 
-10.1021/acs.jproteome.3c00093
-
 ---
 
-## Following your gut: the emerging role of the gut microbiota in predicting and treating immune-related adverse events.
- 24.05.2023, _A Desilets, A Elkrief_
-
-
-Although immune checkpoint inhibition has reshaped the therapeutic landscape leading to improved outcomes across an array of both solid and hematologic malignancies, a significant source of morbidity is caused by immune-related adverse events (irAEs) caused by these agents.
+## Following your gut: the emerging role of the gut microbiota in predicting and treating immune-related adverse events
 
 [Source](https://doi.org/10.1097/CCO.0000000000000957)
 
-10.1097/CCO.0000000000000957
-
 ---
 
-## Respiratory eukaryotic virome expansion and bacteriophage deficiency characterize childhood asthma.
- 26.05.2023, _S Megremis, B Constantinides, P Xepapadaki, CF Yap, AG Sotiropoulos, C Bachert, S Finotto, T Jartti, A Tapinos, T Vuorinen, E Andreakos, DL Robertson, NG Papadopoulos_
-
-
-_Child, Humans, Child, Preschool, Eukaryota, Bacteriophages, Virome, Eukaryotic Cells, Asthma, Anelloviridae, Asymptomatic Diseases_
-Asthma development and exacerbation is linked to respiratory virus infections. There is limited information regarding the presence of viruses during non-exacerbation/infection periods. We investigated the nasopharyngeal/nasal virome during a period of asymptomatic state, in a subset of 21 healthy and 35 asthmatic preschool children from the Predicta cohort. Using metagenomics, we described the virome ecology and the cross-species interactions within the microbiome. The virome was dominated by eukaryotic viruses, while prokaryotic viruses (bacteriophages) were independently observed with low abundance. Rhinovirus B species consistently dominated the virome in asthma. Anelloviridae were the most abundant and rich family in both health and asthma. However, their richness and alpha diversity were increased in asthma, along with the co-occurrence of different Anellovirus genera. Bacteriophages were richer and more diverse in healthy individuals. Unsupervised clustering identified three virome profiles that were correlated to asthma severity and control and were independent of treatment, suggesting a link between the respiratory virome and asthma. Finally, we observed different cross-species ecological associations in the healthy versus the asthmatic virus-bacterial interactome, and an expanded interactome of eukaryotic viruses in asthma. Upper respiratory virome "dysbiosis" appears to be a novel feature of pre-school asthma during asymptomatic/non-infectious states and merits further investigation.
+## Respiratory eukaryotic virome expansion and bacteriophage deficiency characterize childhood asthma
 
 [Source](https://doi.org/10.1038/s41598-023-34730-7)
 
-10.1038/s41598-023-34730-7
-
 ---
 
-## The causal links between gut microbiota and COVID-19: A Mendelian randomization study.
- 24.05.2023, _J Song, Y Wu, X Yin, H Ma, J Zhang_
-
-
-_Humans, Gastrointestinal Microbiome, Mendelian Randomization Analysis, COVID-19, Microbiota, Dietary Supplements, Genome-Wide Association Study, Polymorphism, Single Nucleotide_
-Several studies have shown a possible correlation between gut microbiota and COVID-19. However, the cause-and-effect relationship between the two has not been investigated. We conducted a two-sample Mendelian randomization study (MR) study using publicly available GWAS data. Inverse variance weighted (IVW) analysis was the main MR analysis technique and was supplemented with other sensitivity analyses. Forty-two bacterial genera were associated with COVID-19 susceptibility, hospitalization, and severity in the IVW method. Among these gut microbiota, five gut microbiota (genus unknowngenus [id.1000005472], family unknownfamily [id.1000005471], genus Tyzzerella3, order MollicutesRF9.id.11579, and phylum Actinobacteria) were significantly associated with COVID-19 hospitalization and severity. Three gut microbiota (class Negativicutes, order Selenomonadales, and class Actinobacteria) were significantly associated with COVID-19 hospitalization and susceptibility, while two microbiota (class Negativicutes and order Selenomonadales) were significantly associated with COVID-19 hospitalization and severity, and susceptibility. Sensitivity analysis did not detect any heterogeneity and horizontal pleiotropy. Our findings demonstrated that several microorganisms were causally linked to COVID-19, and improved our understanding of the relationship between gut microbiota and COVID-19 pathology.
+## The causal links between gut microbiota and COVID-19: A Mendelian randomization study
 
 [Source](https://doi.org/10.1002/jmv.28784)
-
-10.1002/jmv.28784
 
 ---
 
@@ -97,28 +64,15 @@ Several studies have shown a possible correlation between gut microbiota and COV
 
 ---
 
-## A systematic review of the protein composition of whole saliva in subjects with healthy periodontium compared with chronic periodontitis.
- 26.05.2023, _AG Sánchez-Medrano, RE Martinez-Martinez, R Soria-Guerra, D Portales-Perez, H Bach, F Martinez-Gutierrez_
-
-
-_Humans, Chronic Periodontitis, Proteomics, Saliva, Periodontium, Periodontal Ligament, Calgranulin A, Calgranulin B_
-Periodontitis is a chronic multifactorial inflammatory disease linked to oral microbiota dysbiosis. This disease progresses to infection that stimulates a host immune/inflammatory response, with progressive destruction of the tooth-supporting structures.
+## A systematic review of the protein composition of whole saliva in subjects with healthy periodontium compared with chronic periodontitis
 
 [Source](https://doi.org/10.1371/journal.pone.0286079)
 
-10.1371/journal.pone.0286079
-
 ---
 
-## Metagenomic analysis and antibacterial activity of kefir microorganisms.
- 24.05.2023, _BD González-Orozco, I García-Cano, A Escobar-Zepeda, R Jiménez-Flores, VB Álvarez_
-
-
-The microbiota composition of kefir grain and milk kefir was assessed via a metagenomic approach. Significant microorganisms were isolated and identified using molecular methods. A safety assessment was conducted based on antibiotic susceptibility and blood hemolysis. Probiotic traits such as resistance to gastric tract conditions, surface characteristics, adhesion to intestinal cells, and antibacterial activity were also assessed. Metagenomic analysis revealed that kefir grains are a more stable community with clear dominant species as compared to milk kefir. Lactobacillus kefiranofaciens BDGO-A1, Lactobacillus helveticus BDGO-AK2, and Lactobacillu kefiri strains showed tolerance to acidic pH and the presence of bile salts, adhesion capability to Caco-2 cells, in vitro antibacterial activity, and the production of antibacterial proteins. In the metagenomic analysis, contigs associated with these species showed the presence of genes involved in exporting polyketide antibiotics and bacteriocin production. To fully exploit the potential probiotic properties of these microorganisms to help human health, further investigation is necessary to elucidate the mechanisms behind the biological activity and the genotypic characteristics of the isolated strains.
+## Metagenomic analysis and antibacterial activity of kefir microorganisms
 
 [Source](https://doi.org/10.1111/1750-3841.16614)
-
-10.1111/1750-3841.16614
 
 ---
 
