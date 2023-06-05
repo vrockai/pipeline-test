@@ -16,16 +16,9 @@
 
 ---
 
-## Gut microbiota, circulating inflammatory markers and metabolites, and carotid artery atherosclerosis in HIV infection.
- 30.05.2023, _Z Wang, BA Peters, M Bryant, DB Hanna, T Schwartz, T Wang, CC Sollecito, M Usyk, E Grassi, F Wiek, LS Peter, WS Post, AL Landay, HN Hodis, KM Weber, A French, ET Golub, J Lazar, D Gustafson, A Sharma, K Anastos, CB Clish, RD Burk, RC Kaplan, R Knight, Q Qi_
-
-
-_Humans, Female, Gastrointestinal Microbiome, HIV Infections, Carotid Stenosis, Proteomics, Carotid Artery Diseases, Atherosclerosis, Carotid Arteries, Biomarkers, Inflammation_
-Alterations in gut microbiota have been implicated in HIV infection and cardiovascular disease. However, how gut microbial alterations relate to host inflammation and metabolite profiles, and their relationships with atherosclerosis, have not been well-studied, especially in the context of HIV infection. Here, we examined associations of gut microbial species and functional components measured by shotgun metagenomics with carotid artery plaque assessed by B-mode carotid artery ultrasound in 320 women with or at high risk of HIV (65% HIV +) from the Women's Interagency HIV Study. We further integrated plaque-associated microbial features with serum proteomics (74 inflammatory markers measured by the proximity extension assay) and plasma metabolomics (378 metabolites measured by liquid chromatography tandem mass spectrometry) in relation to carotid artery plaque in up to 433 women.
+## Gut microbiota, circulating inflammatory markers and metabolites, and carotid artery atherosclerosis in HIV infection
 
 [Source](https://doi.org/10.1186/s40168-023-01566-2)
-
-10.1186/s40168-023-01566-2
 
 ---
 
