@@ -160,7 +160,7 @@ Coral reefs are among the most diverse ecosystems on Earth. They support high bi
 ---
 
 ## The core mangrove microbiome reveals shared taxa potentially involved in nutrient cycling and promoting host survival.
- 04.06.2023, _BJ Wainwright, T Millar, L Bowen, L Semon, KJE Hickman, JN Lee, ZY Yeo, G Zahn_
+ 05.06.2023, _BJ Wainwright, T Millar, L Bowen, L Semon, KJE Hickman, JN Lee, ZY Yeo, G Zahn_
 
 
 Microbes have fundamental roles underpinning the functioning of our planet, they are involved in global carbon and nutrient cycling, and support the existence of multicellular life. The mangrove ecosystem is nutrient limited and if not for microbial cycling of nutrients, life in this harsh environment would likely not exist. The mangroves of Southeast Asia are the oldest and most biodiverse on the planet, and serve vital roles helping to prevent shoreline erosion, act as nursery grounds for many marine species and sequester carbon. Despite these recognised benefits and the importance of microbes in these ecosystems, studies examining the mangrove microbiome in Southeast Asia are scarce.cxs RESULTS: Here we examine the microbiome of Avicenia alba and Sonneratia alba and identify a core microbiome of 81 taxa. A further eight taxa (Pleurocapsa, Tunicatimonas, Halomonas, Marinomonas, Rubrivirga, Altererythrobacte, Lewinella, and Erythrobacter) were found to be significantly enriched in mangrove tree compartments suggesting key roles in this microbiome. The majority of those identified are involved in nutrient cycling or have roles in the production of compounds that promote host survival.
