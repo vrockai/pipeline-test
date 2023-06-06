@@ -35,7 +35,7 @@ Gastrointestinal (GI) disorders are widely recorded in autism spectrum disorder 
 ---
 
 ## Metagenome Investigation of Ocular Microbiota of Cataract Patients With and Without Type 2 Diabetes.
- 05.06.2023, _Z Shao, X Shan, L Jing, W Wang, W Li, Z Ren, BN Zhang, Y Huang_
+ 06.06.2023, _Z Shao, X Shan, L Jing, W Wang, W Li, Z Ren, BN Zhang, Y Huang_
 
 
 _Humans, Metagenome, Diabetes Mellitus, Type 2, Microbiota, Bacteria, Cataract, Conjunctiva_
@@ -121,16 +121,9 @@ Colorectal cancer (CRC) is a major health burden, accounting for approximately 1
 
 ---
 
-## Regulation of gut microbiota by vitamin C, vitamin E and β-carotene.
- 01.06.2023, _XY Li, L Meng, L Shen, HF Ji_
-
-
-_Vitamin E, Ascorbic Acid, beta Carotene, Gastrointestinal Microbiome, Vitamins, Antioxidants, Vitamin A, Vitamin K_
-Vitamin C (VC), vitamin E (VE) and β-carotene (βC) are representative dietary antioxidants, which exist in daily diet and can increase the antioxidant capacity of body fluids, cells and tissues. The health benefits of vitamins like VC, VE and βC are widely demonstrated. Given that the strong associations between the gut microbiota and host health or a range of diseases has been extensively reported, it is important to explore the modulatory effects of known vitamins on the gut microbiota. Herein, this article reviews the effects of VC, VE and βC on the gut microbiota. Totally, 19 studies were included, of which eight were related to VC, nine to VE, and six to βC. Overall, VC, VE and βC can provide health benefits to the host by modulating the composition and metabolic activity of the gut microbiota, improving intestinal barrier function and maintaining the normal function of the immune system. Two perspectives are proposed for future studies: i) roles of known antioxidant activity of vitamins in regulating the gut microbiota and its molecular mechanism need to be further studied; ii) causal relationships between the regulatory effects of vitamins on gut microbiota and host health still remains to be further verified.
+## Regulation of gut microbiota by vitamin C, vitamin E and β-carotene
 
 [Source](https://doi.org/10.1016/j.foodres.2023.112749)
-
-10.1016/j.foodres.2023.112749
 
 ---
 
@@ -159,9 +152,15 @@ Coral reefs are among the most diverse ecosystems on Earth. They support high bi
 
 ---
 
-## The core mangrove microbiome reveals shared taxa potentially involved in nutrient cycling and promoting host survival
+## The core mangrove microbiome reveals shared taxa potentially involved in nutrient cycling and promoting host survival.
+ 05.06.2023, _BJ Wainwright, T Millar, L Bowen, L Semon, KJE Hickman, JN Lee, ZY Yeo, G Zahn_
+
+
+Microbes have fundamental roles underpinning the functioning of our planet, they are involved in global carbon and nutrient cycling, and support the existence of multicellular life. The mangrove ecosystem is nutrient limited and if not for microbial cycling of nutrients, life in this harsh environment would likely not exist. The mangroves of Southeast Asia are the oldest and most biodiverse on the planet, and serve vital roles helping to prevent shoreline erosion, act as nursery grounds for many marine species and sequester carbon. Despite these recognised benefits and the importance of microbes in these ecosystems, studies examining the mangrove microbiome in Southeast Asia are scarce.cxs RESULTS: Here we examine the microbiome of Avicenia alba and Sonneratia alba and identify a core microbiome of 81 taxa. A further eight taxa (Pleurocapsa, Tunicatimonas, Halomonas, Marinomonas, Rubrivirga, Altererythrobacte, Lewinella, and Erythrobacter) were found to be significantly enriched in mangrove tree compartments suggesting key roles in this microbiome. The majority of those identified are involved in nutrient cycling or have roles in the production of compounds that promote host survival.
 
 [Source](https://doi.org/10.1186/s40793-023-00499-5)
+
+10.1186/s40793-023-00499-5
 
 ---
 
