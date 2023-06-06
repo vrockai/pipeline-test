@@ -121,29 +121,15 @@ Colorectal cancer (CRC) is a major health burden, accounting for approximately 1
 
 ---
 
-## Regulation of gut microbiota by vitamin C, vitamin E and β-carotene.
- 01.06.2023, _XY Li, L Meng, L Shen, HF Ji_
-
-
-_Vitamin E, Ascorbic Acid, beta Carotene, Gastrointestinal Microbiome, Vitamins, Antioxidants, Vitamin A, Vitamin K_
-Vitamin C (VC), vitamin E (VE) and β-carotene (βC) are representative dietary antioxidants, which exist in daily diet and can increase the antioxidant capacity of body fluids, cells and tissues. The health benefits of vitamins like VC, VE and βC are widely demonstrated. Given that the strong associations between the gut microbiota and host health or a range of diseases has been extensively reported, it is important to explore the modulatory effects of known vitamins on the gut microbiota. Herein, this article reviews the effects of VC, VE and βC on the gut microbiota. Totally, 19 studies were included, of which eight were related to VC, nine to VE, and six to βC. Overall, VC, VE and βC can provide health benefits to the host by modulating the composition and metabolic activity of the gut microbiota, improving intestinal barrier function and maintaining the normal function of the immune system. Two perspectives are proposed for future studies: i) roles of known antioxidant activity of vitamins in regulating the gut microbiota and its molecular mechanism need to be further studied; ii) causal relationships between the regulatory effects of vitamins on gut microbiota and host health still remains to be further verified.
+## Regulation of gut microbiota by vitamin C, vitamin E and β-carotene
 
 [Source](https://doi.org/10.1016/j.foodres.2023.112749)
 
-10.1016/j.foodres.2023.112749
-
 ---
 
-## Diversity of the Pacific Ocean coral reef microbiome.
- 05.06.2023, _PE Galand, HJ Ruscheweyh, G Salazar, C Hochart, N Henry, BCC Hume, PH Oliveira, A Perdereau, K Labadie, C Belser, E Boissin, S Romac, J Poulain, G Bourdin, G Iwankow, C Moulin, EJ Armstrong, DA Paz-García, M Ziegler, S Agostini, B Banaigs, E Boss, C Bowler, C de Vargas, E Douville, M Flores, D Forcioli, P Furla, E Gilson, F Lombard, S Pesant, S Reynaud, OP Thomas, R Troublé, D Zoccola, CR Voolstra, RV Thurber, S Sunagawa, P Wincker, D Allemand, S Planes_
-
-
-_Animals, Coral Reefs, Pacific Ocean, Anthozoa, Biodiversity, Microbiota, Fishes, Plankton_
-Coral reefs are among the most diverse ecosystems on Earth. They support high biodiversity of multicellular organisms that strongly rely on associated microorganisms for health and nutrition. However, the extent of the coral reef microbiome diversity and its distribution at the oceanic basin-scale remains to be explored. Here, we systematically sampled 3 coral morphotypes, 2 fish species, and planktonic communities in 99 reefs from 32 islands across the Pacific Ocean, to assess reef microbiome composition and biogeography. We show a very large richness of reef microorganisms compared to other environments, which extrapolated to all fishes and corals of the Pacific, approximates the current estimated total prokaryotic diversity for the entire Earth. Microbial communities vary among and within the 3 animal biomes (coral, fish, plankton), and geographically. For corals, the cross-ocean patterns of diversity are different from those known for other multicellular organisms. Within each coral morphotype, community composition is always determined by geographic distance first, both at the island and across ocean scale, and then by environment. Our unprecedented sampling effort of coral reef microbiomes, as part of the Tara Pacific expedition, provides new insight into the global microbial diversity, the factors driving their distribution, and the biocomplexity of reef ecosystems.
+## Diversity of the Pacific Ocean coral reef microbiome
 
 [Source](https://doi.org/10.1038/s41467-023-38500-x)
-
-10.1038/s41467-023-38500-x
 
 ---
 
@@ -159,15 +145,9 @@ Coral reefs are among the most diverse ecosystems on Earth. They support high bi
 
 ---
 
-## The core mangrove microbiome reveals shared taxa potentially involved in nutrient cycling and promoting host survival.
- 05.06.2023, _BJ Wainwright, T Millar, L Bowen, L Semon, KJE Hickman, JN Lee, ZY Yeo, G Zahn_
-
-
-Microbes have fundamental roles underpinning the functioning of our planet, they are involved in global carbon and nutrient cycling, and support the existence of multicellular life. The mangrove ecosystem is nutrient limited and if not for microbial cycling of nutrients, life in this harsh environment would likely not exist. The mangroves of Southeast Asia are the oldest and most biodiverse on the planet, and serve vital roles helping to prevent shoreline erosion, act as nursery grounds for many marine species and sequester carbon. Despite these recognised benefits and the importance of microbes in these ecosystems, studies examining the mangrove microbiome in Southeast Asia are scarce.cxs RESULTS: Here we examine the microbiome of Avicenia alba and Sonneratia alba and identify a core microbiome of 81 taxa. A further eight taxa (Pleurocapsa, Tunicatimonas, Halomonas, Marinomonas, Rubrivirga, Altererythrobacte, Lewinella, and Erythrobacter) were found to be significantly enriched in mangrove tree compartments suggesting key roles in this microbiome. The majority of those identified are involved in nutrient cycling or have roles in the production of compounds that promote host survival.
+## The core mangrove microbiome reveals shared taxa potentially involved in nutrient cycling and promoting host survival
 
 [Source](https://doi.org/10.1186/s40793-023-00499-5)
-
-10.1186/s40793-023-00499-5
 
 ---
 
