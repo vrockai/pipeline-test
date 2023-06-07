@@ -121,9 +121,16 @@ Colorectal cancer (CRC) is a major health burden, accounting for approximately 1
 
 ---
 
-## Regulation of gut microbiota by vitamin C, vitamin E and β-carotene
+## Regulation of gut microbiota by vitamin C, vitamin E and β-carotene.
+ 01.06.2023, _XY Li, L Meng, L Shen, HF Ji_
+
+
+_Vitamin E, Ascorbic Acid, beta Carotene, Gastrointestinal Microbiome, Vitamins, Antioxidants, Vitamin A, Vitamin K_
+Vitamin C (VC), vitamin E (VE) and β-carotene (βC) are representative dietary antioxidants, which exist in daily diet and can increase the antioxidant capacity of body fluids, cells and tissues. The health benefits of vitamins like VC, VE and βC are widely demonstrated. Given that the strong associations between the gut microbiota and host health or a range of diseases has been extensively reported, it is important to explore the modulatory effects of known vitamins on the gut microbiota. Herein, this article reviews the effects of VC, VE and βC on the gut microbiota. Totally, 19 studies were included, of which eight were related to VC, nine to VE, and six to βC. Overall, VC, VE and βC can provide health benefits to the host by modulating the composition and metabolic activity of the gut microbiota, improving intestinal barrier function and maintaining the normal function of the immune system. Two perspectives are proposed for future studies: i) roles of known antioxidant activity of vitamins in regulating the gut microbiota and its molecular mechanism need to be further studied; ii) causal relationships between the regulatory effects of vitamins on gut microbiota and host health still remains to be further verified.
 
 [Source](https://doi.org/10.1016/j.foodres.2023.112749)
+
+10.1016/j.foodres.2023.112749
 
 ---
 
@@ -190,16 +197,9 @@ Third-generation sequencing technologies are being increasingly used in microbio
 
 ---
 
-## Recovery and Analysis of Long-Read Metagenome-Assembled Genomes.
- 06.06.2023, _K Arumugam, I Bessarab, MAS Haryono, RBH Williams_
-
-
-_Metagenome, Metagenomics, Microbiota, Sequence Analysis, DNA, Base Sequence, High-Throughput Nucleotide Sequencing_
-The development of long-read nucleic acid sequencing is beginning to make very substantive impact on the conduct of metagenome analysis, particularly in relation to the problem of recovering the genomes of member species of complex microbial communities. Here we outline bioinformatics workflows for the recovery and characterization of complete genomes from long-read metagenome data and some complementary procedures for comparison of cognate draft genomes and gene quality obtained from short-read sequencing and long-read sequencing.
+## Recovery and Analysis of Long-Read Metagenome-Assembled Genomes
 
 [Source](https://doi.org/10.1007/978-1-0716-3072-3_12)
-
-10.1007/978-1-0716-3072-3_12
 
 ---
 
