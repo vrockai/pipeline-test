@@ -34,78 +34,39 @@ Gastrointestinal (GI) disorders are widely recorded in autism spectrum disorder 
 
 ---
 
-## Metagenome Investigation of Ocular Microbiota of Cataract Patients With and Without Type 2 Diabetes.
- 07.06.2023, _Z Shao, X Shan, L Jing, W Wang, W Li, Z Ren, BN Zhang, Y Huang_
-
-
-_Humans, Metagenome, Diabetes Mellitus, Type 2, Microbiota, Bacteria, Cataract, Conjunctiva_
-Our objective was to investigate differences in the ocular surface bacterial composition in cataract patients with and without type 2 diabetes (T2D).
+## Metagenome Investigation of Ocular Microbiota of Cataract Patients With and Without Type 2 Diabetes
 
 [Source](https://doi.org/10.1167/tvst.12.6.1)
 
-10.1167/tvst.12.6.1
-
 ---
 
-## Longitudinal Gut Microbiota Dysbiosis Underlies Olanzapine-Induced Weight Gain.
- 01.06.2023, _L Qian, X He, Y Liu, F Gao, W Lu, Y Fan, Y Gao, W Wang, F Zhu, Y Wang, X Ma_
-
-
-Olanzapine is one of the most effective medicines available for stabilizing schizophrenia spectrum disorders. However, it has been reported to show the greatest propensity for inducing body weight gain and producing metabolic side effects, which cause a great burden in patients with psychiatric disorders. Since the gut microbiota has a profound impact on the initiation and development of metabolic diseases, we conducted a longitudinal study to explore its role in olanzapine-induced obesity and metabolic abnormalities. Female Sprague-Dawley rats were treated with different doses of olanzapine, and metabolic and inflammatory markers were measured. Olanzapine significantly induced body weight gain (up to a 2.1-fold change), which was accompanied by hepatic inflammation and increased plasma triglyceride levels (up to a 2.9-fold change), as well as gut microbiota dysbiosis. Subsequently, fuzzy c-means clustering was used to characterize three clusters of longitudinal trajectories for microbial fluctuations: (i) genera continuing to increase, (ii) genera continuing to decrease, and (iii) genera temporarily changing. Among them, Enterorhabdus (r = 0.38), Parasutterella (r = 0.43), and Prevotellaceae UCG-001 (r = 0.52) positively correlated with body weight gain. In addition, two MetaCyc metabolic pathways were identified as associated with olanzapine-induced body weight gain, including the superpathway of glucose and xylose degradation and the superpathway of l-threonine biosynthesis. In conclusion, we demonstrate that olanzapine can directly alter the gut microbiota and rapidly induce dysbiosis, which is significantly associated with body weight gain. This may suggest gut microbiota targets in future studies on metabolic abnormalities caused by olanzapine. IMPORTANCE Olanzapine is one of the most effective second-generation antipsychotics for stabilizing schizophrenia spectrum disorders. However, olanzapine has multiple drug-induced metabolic side effects, including weight gain. This study provides insight to the gut microbiota target in olanzapine-induced obesity. Specifically, we explored the longitudinal gut microbiota trajectories of female Sprague-Dawley rats undergoing olanzapine treatment. We showed that olanzapine treatment causes a dynamic alteration of gut microbiota diversity. Additionally, we identified three genera, Parasutterella, Enterorhabdus, and Prevotellaceae UCG-001, that may play an important role in olanzapine-induced obesity. In this case, the supply or removal of specific elements of the gut microbiota may represent a promising avenue for treatment of olanzapine-related metabolic side effects.
+## Longitudinal Gut Microbiota Dysbiosis Underlies Olanzapine-Induced Weight Gain
 
 [Source](https://doi.org/10.1128/spectrum.00058-23)
 
-10.1128/spectrum.00058-23
-
 ---
 
-## Metagenome-mining indicates an association between bacteriocin presence and strain diversity in the infant gut.
- 03.06.2023, _I Ormaasen, K Rudi, DB Diep, L Snipen_
-
-
-_Humans, Infant, Bacteriocins, Metagenome, Gastrointestinal Microbiome_
-Our knowledge about the ecological role of bacterial antimicrobial peptides (bacteriocins) in the human gut is limited, particularly in relation to their role in the diversification of the gut microbiota during early life. The aim of this paper was therefore to address associations between bacteriocins and bacterial diversity in the human gut microbiota. To investigate this, we did an extensive screening of 2564 healthy human gut metagenomes for the presence of predicted bacteriocin-encoding genes, comparing bacteriocin gene presence to strain diversity and age.
+## Metagenome-mining indicates an association between bacteriocin presence and strain diversity in the infant gut
 
 [Source](https://doi.org/10.1186/s12864-023-09388-0)
-
-10.1186/s12864-023-09388-0
 
 ---
 
 ## The Microbiome in Advanced Melanoma: Where Are We Now?
- 03.06.2023, _DD Fortman, D Hurd, D Davar_
-
-
-This review summarizes recent data linking gut microbiota composition to ICI outcomes and gut microbiota-specific interventional clinical trials in melanoma.
 
 [Source](https://doi.org/10.1007/s11912-023-01431-3)
 
-10.1007/s11912-023-01431-3
-
 ---
 
-## Human gut microbiome: A primer for the clinician.
- 04.06.2023, _S Kedia, V Ahuja_
-
-
-The human host gets tremendously influenced by a genetically and phenotypically distinct and heterogeneous constellation of microbial species-the human microbiome-the gut being one of the most densely populated and characterized site for these organisms. Microbiome science has advanced rapidly, technically with respect to the analytical methods and biologically with respect to its mechanistic influence in health and disease states. A clinician conducting a microbiome study should be aware of the nuances related to microbiome research, especially with respect to the technical and biological factors that can influence the interpretation of research outcomes. Hence, this review is an attempt to detail these aspects of the human gut microbiome, with emphasis on its determinants in a healthy state.
+## Human gut microbiome: A primer for the clinician
 
 [Source](https://doi.org/10.1002/jgh3.12902)
 
-10.1002/jgh3.12902
-
 ---
 
-## Role of gut microbiota and bacterial metabolites in mucins of colorectal cancer.
- 05.06.2023, _M Gu, W Yin, J Zhang, J Yin, X Tang, J Ling, Z Tang, W Yin, X Wang, Q Ni, Y Zhu, T Chen_
-
-
-_Humans, Gastrointestinal Microbiome, Colorectal Neoplasms, Mucins, Bacteria, Intestinal Mucosa_
-Colorectal cancer (CRC) is a major health burden, accounting for approximately 10% of all new cancer cases worldwide. Accumulating evidence suggests that the crosstalk between the host mucins and gut microbiota is associated with the occurrence and development of CRC. Mucins secreted by goblet cells not only protect the intestinal epithelium from microorganisms and invading pathogens but also provide a habitat for commensal bacteria. Conversely, gut dysbiosis results in the dysfunction of mucins, allowing other commensals and their metabolites to pass through the intestinal epithelium, potentially triggering host responses and the subsequent progression of CRC. In this review, we summarize how gut microbiota and bacterial metabolites regulate the function and expression of mucin in CRC and novel treatment strategies for CRC.
+## Role of gut microbiota and bacterial metabolites in mucins of colorectal cancer
 
 [Source](https://doi.org/10.3389/fcimb.2023.1119992)
-
-10.3389/fcimb.2023.1119992
 
 ---
 
@@ -127,16 +88,9 @@ Colorectal cancer (CRC) is a major health burden, accounting for approximately 1
 
 ---
 
-## Diversity of the Pacific Ocean coral reef microbiome.
- 05.06.2023, _PE Galand, HJ Ruscheweyh, G Salazar, C Hochart, N Henry, BCC Hume, PH Oliveira, A Perdereau, K Labadie, C Belser, E Boissin, S Romac, J Poulain, G Bourdin, G Iwankow, C Moulin, EJ Armstrong, DA Paz-García, M Ziegler, S Agostini, B Banaigs, E Boss, C Bowler, C de Vargas, E Douville, M Flores, D Forcioli, P Furla, E Gilson, F Lombard, S Pesant, S Reynaud, OP Thomas, R Troublé, D Zoccola, CR Voolstra, RV Thurber, S Sunagawa, P Wincker, D Allemand, S Planes_
-
-
-_Animals, Coral Reefs, Pacific Ocean, Anthozoa, Biodiversity, Microbiota, Fishes, Plankton_
-Coral reefs are among the most diverse ecosystems on Earth. They support high biodiversity of multicellular organisms that strongly rely on associated microorganisms for health and nutrition. However, the extent of the coral reef microbiome diversity and its distribution at the oceanic basin-scale remains to be explored. Here, we systematically sampled 3 coral morphotypes, 2 fish species, and planktonic communities in 99 reefs from 32 islands across the Pacific Ocean, to assess reef microbiome composition and biogeography. We show a very large richness of reef microorganisms compared to other environments, which extrapolated to all fishes and corals of the Pacific, approximates the current estimated total prokaryotic diversity for the entire Earth. Microbial communities vary among and within the 3 animal biomes (coral, fish, plankton), and geographically. For corals, the cross-ocean patterns of diversity are different from those known for other multicellular organisms. Within each coral morphotype, community composition is always determined by geographic distance first, both at the island and across ocean scale, and then by environment. Our unprecedented sampling effort of coral reef microbiomes, as part of the Tara Pacific expedition, provides new insight into the global microbial diversity, the factors driving their distribution, and the biocomplexity of reef ecosystems.
+## Diversity of the Pacific Ocean coral reef microbiome
 
 [Source](https://doi.org/10.1038/s41467-023-38500-x)
-
-10.1038/s41467-023-38500-x
 
 ---
 
