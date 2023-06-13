@@ -183,15 +183,27 @@ Concept of microorganisms has largely been perceived from their pathogenic view 
 
 ---
 
-## Microbiomes of Blood-Feeding Triatomines in the Context of Their Predatory Relatives and the Environment
+## Microbiomes of Blood-Feeding Triatomines in the Context of Their Predatory Relatives and the Environment.
+ 08.06.2023, _H Tarabai, AM Floriano, J Zima, N Filová, JJ Brown, W Roachell, RL Smith, NL Beatty, KJ Vogel, E Nováková_
+
+
+The importance of gut microbiomes has become generally recognized in vector biology. This study addresses microbiome signatures in North American Triatoma species of public health significance (vectors of Trypanosoma cruzi) linked to their blood-feeding strategy and the natural habitat. To place the Triatoma-associated microbiomes within a complex evolutionary and ecological context, we sampled sympatric Triatoma populations, related predatory reduviids, unrelated ticks, and environmental material from vertebrate nests where these arthropods reside. Along with five Triatoma species, we have characterized microbiomes of five reduviids (Stenolemoides arizonensis, Ploiaria hirticornis, Zelus longipes, and two Reduvius species), a single soft tick species, Ornithodoros turicata, and environmental microbiomes from selected sites in Arizona, Texas, Florida, and Georgia. The microbiomes of predatory reduviids lack a shared core microbiota. As in triatomines, microbiome dissimilarities among species correlate with dominance of a single bacterial taxon. These include Rickettsia, Lactobacillus, "Candidatus Midichloria," and Zymobacter, which are often accompanied by known symbiotic genera, i.e., Wolbachia, "Candidatus Lariskella," Asaia, Gilliamella, and Burkholderia. We have further identified a compositional convergence of the analyzed microbiomes in regard to the host phylogenetic distance in both blood-feeding and predatory reduviids. While the microbiomes of the two reduviid species from the Emesinae family reflect their close relationship, the microbiomes of all Triatoma species repeatedly form a distinct monophyletic cluster highlighting their phylosymbiosis. Furthermore, based on environmental microbiome profiles and blood meal analysis, we propose three epidemiologically relevant and mutually interrelated bacterial sources for Triatoma microbiomes, i.e., host abiotic environment, host skin microbiome, and pathogens circulating in host blood. IMPORTANCE This study places microbiomes of blood-feeding North American Triatoma vectors (Reduviidae) into a broader evolutionary and ecological context provided by related predatory assassin bugs (Reduviidae), another unrelated vector species (soft tick Ornithodoros turicata), and the environment these arthropods coinhabit. For both vectors, microbiome analyses suggest three interrelated sources of bacteria, i.e., the microbiome of vertebrate nests as their natural habitat, the vertebrate skin microbiome, and the pathobiome circulating in vertebrate blood. Despite an apparent influx of environment-associated bacteria into the arthropod microbiomes, Triatoma microbiomes retain their specificity, forming a distinct cluster that significantly differs from both predatory relatives and ecologically comparable ticks. Similarly, within the related predatory Reduviidae, we found the host phylogenetic distance to underlie microbiome similarities.
 
 [Source](https://doi.org/10.1128/spectrum.01681-23)
 
+10.1128/spectrum.01681-23
+
 ---
 
-## Probiotic interventions promote metabolic health in high fat-fed hamsters in association with gut microbiota and endocannabinoidome alterations
+## Probiotic interventions promote metabolic health in high fat-fed hamsters in association with gut microbiota and endocannabinoidome alterations.
+ 07.06.2023, _S Lacroix, N Leblanc, A Abolghasemi, S Paris-Robidas, C Martin, M Frappier, N Flamand, C Silvestri, F Raymond, M Millette, V Di Marzo, A Veilleux_
+
+
+Probiotics represent a promising tool to improve metabolic health, including lipid profiles and cholesterol levels. Modulation of the gut microbiome and the endocannabinoidome - two interrelated systems involved in several metabolic processes influenced by probiotics - has been proposed as a potential mechanism of action. This study establishes the impact of probiotics on metabolic health, gut microbiota composition and endocannabinoidome mediators in an animal model of hypercholesterolaemia. Syrian hamsters were fed either a low-fat low-cholesterol or high-fat high-cholesterol (HFHC) diet to induce hypercholesterolaemia and gavaged for 6 weeks with either Lactobacillus acidophilus CL1285, Lactiplantibacillus plantarum CHOL-200 or a combination of the two. Globally, probiotic interventions ameliorated, at least partially, lipid metabolism in HFHC-fed hamsters. The interventions, especially those including L. acidophilus, modified the gut microbiota composition of the small intestine and caecum in ways suggesting reversal of HFHC-induced dysbiosis. Several associations were observed between changes in gut microbiota composition and endocannabinoidome mediators following probiotic interventions and both systems were also associated with improved metabolic health parameters. For instance, potential connexions between the Eubacteriaceae and Deferribacteraceae families, levels of 2‑palmitoylglycerol, 2‑oleoylglycerol, 2‑linoleoylglycerol or 2‑eicosapentaenoylglycerol and improved lipid profiles were found. Altogether, our results suggest a potential crosstalk between gut microbiota and the endocannabinoidome in driving metabolic benefits associated with probiotics, especially those including L. acidophilus, in an animal model of hypercholesterolaemia.
 
 [Source](https://doi.org/10.3920/BM2022.0080)
+
+10.3920/BM2022.0080
 
 ---
 
@@ -201,9 +213,15 @@ Concept of microorganisms has largely been perceived from their pathogenic view 
 
 ---
 
-## Effects of a low FODMAP diet on gut microbiota in individuals with treated celiac disease having persistent gastrointestinal symptoms – a randomized controlled trial
+## Effects of a low FODMAP diet on gut microbiota in individuals with treated celiac disease having persistent gastrointestinal symptoms - a randomized controlled trial.
+ 05.06.2023, _AM Herfindal, F van Megen, MKO Gilde, J Valeur, K Rudi, G Skodje, KEA Lundin, C Henriksen, SK Bøhn_
+
+
+Individuals with celiac disease (CeD) often experience gastrointestinal symptoms despite adherence to a gluten-free diet (GFD). While we recently showed that a diet low in fermentable oligo-, di-, monosaccharides, and polyols (FODMAPs) successfully provided symptom relief in GFD-treated CeD patients, there have been concerns that the low FODMAP diet (LFD) could adversely affect the gut microbiota. Our main objective was therefore to investigate whether the LFD affects the faecal microbiota and related variables of gut health. In a randomized controlled trial GFD-treated CeD adults, having persistent gastrointestinal symptoms, were randomized to either consume a combined LFD and GFD (n = 39) for four weeks or continue with GFD (controls, n = 36). Compared to the control group, the LFD group displayed greater changes in the overall faecal microbiota profile (16S rRNA gene sequencing) from baseline to follow-up (within-subject β-diversity, P &lt; 0.001), characterized by lower and higher follow-up abundances (%) of genus Anaerostipes (Pgroup &lt; 0.001) and class Erysipelotrichia (Pgroup = 0.02), respectively. Compared to the control group, the LFD led to lower follow-up concentrations of faecal propionic and valeric acid (GC-FID) in participants with high concentrations at baseline (Pinteraction ≤ 0.009). No differences were found in faecal bacterial α-diversity (Pgroup ≥ 0.20) or in faecal neutrophil gelatinase-associated lipocalin (ELISA), a biomarker of gut integrity and inflammation (Pgroup = 0.74), between the groups at follow-up. The modest effects of the LFD on the gut microbiota and related variables in the CeD patients of the present study are encouraging given the beneficial effects of the LFD strategy to treat functional GI symptoms. (Registered at clinicaltrials.gov as NCT03678935).
 
 [Source](https://doi.org/10.1017/S0007114523001253)
+
+10.1017/S0007114523001253
 
 ---
 
@@ -213,15 +231,27 @@ Concept of microorganisms has largely been perceived from their pathogenic view 
 
 ---
 
-## ‘Multi-omics’ data integration: applications in probiotics studies
+## 'Multi-omics' data integration: applications in probiotics studies.
+ 08.06.2023, _ID Kwoji, OA Aiyegoro, M Okpeku, MA Adeleke_
+
+
+The concept of probiotics is witnessing increasing attention due to its benefits in influencing the host microbiome and the modulation of host immunity through the strengthening of the gut barrier and stimulation of antibodies. These benefits, combined with the need for improved nutraceuticals, have resulted in the extensive characterization of probiotics leading to an outburst of data generated using several 'omics' technologies. The recent development in system biology approaches to microbial science is paving the way for integrating data generated from different omics techniques for understanding the flow of molecular information from one 'omics' level to the other with clear information on regulatory features and phenotypes. The limitations and tendencies of a 'single omics' application to ignore the influence of other molecular processes justify the need for 'multi-omics' application in probiotics selections and understanding its action on the host. Different omics techniques, including genomics, transcriptomics, proteomics, metabolomics and lipidomics, used for studying probiotics and their influence on the host and the microbiome are discussed in this review. Furthermore, the rationale for 'multi-omics' and multi-omics data integration platforms supporting probiotics and microbiome analyses was also elucidated. This review showed that multi-omics application is useful in selecting probiotics and understanding their functions on the host microbiome. Hence, recommend a multi-omics approach for holistically understanding probiotics and the microbiome.
 
 [Source](https://doi.org/10.1038/s41538-023-00199-x)
 
+10.1038/s41538-023-00199-x
+
 ---
 
-## Micro-/bio-/nano-/syn-encapsulations and co-treatments of bioactive microbial feed supplementation in augmenting finfish health and aquaculture nutrition: a review
+## Micro-/bio-/nano-/syn-encapsulations and co-treatments of bioactive microbial feed supplementation in augmenting finfish health and aquaculture nutrition: a review.
+ 07.06.2023, _P Puri, R Singh, J Sharma_
+
+
+Finfish and fish products are globally the most acknowledged health-promoting foods. The rising incidence of pathogenic and disease outbreaks have had a sizeable impact on aquaculture. Microbial supplementation of food in the form of probiotics, prebiotics, and their controlled release combinations (=co-encapsulations) as 'synbiotics' is noted for its significant biotherapeutic and health benefits. Supplementation of probiotic microbial feed additives in the fish diet claims to improve fish health by modulation of resident intestinal microbiota and by introducing healthy microbiota procured from an exogenous source, capable of combating pathogens, improving nutrient uptake, assimilation, growth as well as survival. Prebiotics are selectively digestible substrates beneficially used by host gut microbes to enhance probiotic effects. Formulating a fish diet with augmented probiotics and prebiotic microbial bio-supplements can ensure a sustainable alternative for establishing fish health in a naturally susceptible aquaculture scenario. Micro-encapsulation, co-encapsulation, and nano-encapsulation are novel strategies of biotechnical interventions in functional feeds for finfish. These aim to improve probiotic persistence, survivability, and efficacy in commercial formulations during probiotic transit through the host-gut environment. This review discusses the importance of co-treatment and encapsulation strategies for improving probiotic and prebiotic potential in aquafeed formulations, reliably improving finfish health and nutritional returns from aquaculture, and, consequently, for consumers.
 
 [Source](https://doi.org/10.3920/BM2022.0087)
+
+10.3920/BM2022.0087
 
 ---
 
@@ -231,39 +261,77 @@ Concept of microorganisms has largely been perceived from their pathogenic view 
 
 ---
 
-## Metaproteomics reveals functional partitioning and vegetational variation among permafrost-affected Arctic soil bacterial communities
+## Metaproteomics reveals functional partitioning and vegetational variation among permafrost-affected Arctic soil bacterial communities.
+ 05.06.2023, _SE Miller, AS Colman, JR Waldbauer_
+
+
+Microbial activity in Arctic soils controls the cycling of significant stores of organic carbon and nutrients. We studied in situ processes in Alaskan soils using original metaproteomic methods in order to relate important heterotrophic functions to microbial taxa and to understand the microbial response to Arctic greening. Major bacterial groups show strong metabolic specialization in organic topsoils. α-/β-/γ-Proteobacteria specialized in the acquisition of small, soluble compounds, whereas Acidobacteria, Actinobacteria, and other detritosphere groups specialized in the degradation of plant-derived polymers. α-/β-/γ-Proteobacteria dominated the expression of transporters for common root exudates and limiting nitrogenous compounds, supporting an ecological model of dependence upon plants for carbon and competition with plants for nitrogen. Detritosphere groups specialized in distinct substrates, with Acidobacteria producing the most enzymes for hemicellulose depolymerization. Acidobacteria was the most active group across the three plant ecotypes sampled-the largely nonvascular, lower biomass intertussock and the largely vascular, higher biomass tussock and shrub. Functional partitioning among bacterial groups was stable between plant ecotypes, but certain functions associated with α-/β-/γ-Proteobacteria were more strongly expressed in higher biomass ecotypes. We show that refined metaproteomic approaches can elucidate soil microbial ecology as well as biogeochemical trajectories of major carbon stocks.IMPORTANCEThe Arctic is warming twice as fast as the rest of the planet, and Arctic soils currently store twice as much carbon as the entire atmosphere-two facts that make understanding how Arctic soil microbial communities are responding to climate change particularly urgent. Greening of vegetation cover across the Arctic landscape is one of the most prominent climate-driven shifts in Arctic terrestrial ecology, with potentially profound effects on biogeochemical cycling by the soil microbiome. Here we use metaproteomics to document microbial metabolic functions that drive soil carbon and nutrient cycling processes in an Arctic tundra landscape. We identify functional roles among bacterial taxonomic groups that are largely stable across vegetation types, with certain functions strongly expressed by rhizosphere groups reflecting a community metabolic response to greening.
 
 [Source](https://doi.org/10.1128/msystems.01238-22)
 
+10.1128/msystems.01238-22
+
 ---
 
-## A new approach of microbiome monitoring in the built environment: feasibility analysis of condensation capture
+## A new approach of microbiome monitoring in the built environment: feasibility analysis of condensation capture.
+ 12.06.2023, _JT Hampton-Marcell, A Ghosh, MJ Gukeh, CM Megaridis_
+
+
+_Humans, RNA, Ribosomal, 16S, Feasibility Studies, Microbiota, Environmental Microbiology, Aerosols, Air Microbiology_
+Humans emit approximately 30 million microbial cells per hour into their immediate vicinity. However, sampling of aerosolized microbial taxa (aerobiome) remains largely uncharacterized due to the complexity and limitations of sampling techniques, which are highly susceptible to low biomass and rapid sample degradation. Recently, there has been an interest in developing technology that collects naturally occurring water from the atmosphere, even within the built environment. Here, we analyze the feasibility of indoor aerosol condensation collection as a method to capture and analyze the aerobiome.
 
 [Source](https://doi.org/10.1186/s40168-023-01555-5)
 
+10.1186/s40168-023-01555-5
+
 ---
 
-## A bioinformatics tool for identifying intratumoral microbes from the ORIEN dataset
+## A bioinformatics tool for identifying intratumoral microbes from the ORIEN dataset.
+ 11.06.2023, _C Wang, A Ma, ME McNutt, R Hoyd, CE Wheeler, LA Robinson, CHF Chan, Y Zakharia, RD Dodd, CM Ulrich, S Hardikar, ML Churchman, AA Tarhini, EA Singer, AP Ikeguchi, MD McCarter, N Denko, G Tinoco, M Husain, N Jin, AEG Osman, I Eljilany, AC Tan, SS Coleman, L Denko, G Riedlinger, BP Schneider, D Spakowicz, Q Ma_
+
+
+Evidence supports significant interactions among microbes, immune cells, and tumor cells in at least 10-20% of human cancers, emphasizing the importance of further investigating these complex relationships. However, the implications and significance of tumor-related microbes remain largely unknown. Studies have demonstrated the critical roles of host microbes in cancer prevention and treatment responses. Understanding interactions between host microbes and cancer can drive cancer diagnosis and microbial therapeutics (bugs as drugs). Computational identification of cancer-specific microbes and their associations is still challenging due to the high dimensionality and high sparsity of intratumoral microbiome data, which requires large datasets containing sufficient event observations to identify relationships, and the interactions within microbial communities, the heterogeneity in microbial composition, and other confounding effects that can lead to spurious associations. To solve these issues, we present a bioinformatics tool, MEGA, to identify the microbes most strongly associated with 12 cancer types. We demonstrate its utility on a dataset from a consortium of 9 cancer centers in the Oncology Research Information Exchange Network (ORIEN). This package has 3 unique features: species-sample relations are represented in a heterogeneous graph and learned by a graph attention network; it incorporates metabolic and phylogenetic information to reflect intricate relationships within microbial communities; and it provides multiple functionalities for association interpretations and visualizations. We analyzed 2704 tumor RNA-seq samples and MEGA interpreted the tissue-resident microbial signatures of each of 12 cancer types. MEGA can effectively identify cancer-associated microbial signatures and refine their interactions with tumors.
 
 [Source](https://doi.org/10.1101/2023.05.24.541982)
 
+10.1101/2023.05.24.541982
+
 ---
 
-## DeepBiomarker2: Prediction of alcohol and substance use disorder risk in post-traumatic stress disorder patients using electronic medical records and multiple social determinants of health
+## DeepBiomarker2: Prediction of alcohol and substance use disorder risk in post-traumatic stress disorder patients using electronic medical records and multiple social determinants of health.
+ 11.06.2023, _O Miranda, P Fan, X Qi, H Wang, MD Brannock, T Kosten, ND Ryan, L Kirisci, L Wang_
+
+
+Prediction of high-risk events amongst patients with mental disorders is critical for personalized interventions. In our previous study, we developed a deep learning-based model, DeepBiomarker by utilizing electronic medical records (EMR) to predict the outcomes of patients with suicide-related events in post-traumatic stress disorder (PTSD) patients. Methods We improved our deep learning model to develop DeepBiomarker2 through data integration of multimodal information: lab tests, medication use, diagnosis, and social determinants of health (SDoH) parameters (both individual and neighborhood level) from EMR data for outcome prediction. We further refined our contribution analysis for identifying key factors. We applied DeepBiomarker2 to analyze EMR data of 38,807 patients from University of Pittsburgh Medical Center diagnosed with PTSD to determine their risk of developing alcohol and substance use disorder (ASUD). Results DeepBiomarker2 predicted whether a PTSD patient will have a diagnosis of ASUD within the following 3 months with a c-statistic (receiver operating characteristic AUC) of 0·93. We used contribution analysis technology to identify key lab tests, medication use and diagnosis for ASUD prediction. These identified factors imply that the regulation of the energy metabolism, blood circulation, inflammation, and microbiome is involved in shaping the pathophysiological pathways promoting ASUD risks in PTSD patients. Our study found protective medications such as oxybutynin, magnesium oxide, clindamycin, cetirizine, montelukast and venlafaxine all have a potential to reduce risk of ASUDs. Discussion DeepBiomarker2 can predict ASUD risk with high accuracy and can further identify potential risk factors along with medications with beneficial effects. We believe that our approach will help in personalized interventions of PTSD for a variety of clinical scenarios.
 
 [Source](https://doi.org/10.21203/rs.3.rs-2949487/v1)
 
+10.21203/rs.3.rs-2949487/v1
+
 ---
 
-## Latent Dirichlet Allocation modeling of environmental microbiomes
+## Latent Dirichlet Allocation modeling of environmental microbiomes.
+ 12.06.2023, _A Kim, S Sevanto, ER Moore, N Lubbers_
+
+
+_Microbiota, Microbial Interactions, Phenotype_
+Interactions between stressed organisms and their microbiome environments may provide new routes for understanding and controlling biological systems. However, microbiomes are a form of high-dimensional data, with thousands of taxa present in any given sample, which makes untangling the interaction between an organism and its microbial environment a challenge. Here we apply Latent Dirichlet Allocation (LDA), a technique for language modeling, which decomposes the microbial communities into a set of topics (non-mutually-exclusive sub-communities) that compactly represent the distribution of full communities. LDA provides a lens into the microbiome at broad and fine-grained taxonomic levels, which we show on two datasets. In the first dataset, from the literature, we show how LDA topics succinctly recapitulate many results from a previous study on diseased coral species. We then apply LDA to a new dataset of maize soil microbiomes under drought, and find a large number of significant associations between the microbiome topics and plant traits as well as associations between the microbiome and the experimental factors, e.g. watering level. This yields new information on the plant-microbial interactions in maize and shows that LDA technique is useful for studying the coupling between microbiomes and stressed organisms.
 
 [Source](https://doi.org/10.1371/journal.pcbi.1011075)
 
+10.1371/journal.pcbi.1011075
+
 ---
 
-## When does a Lotka-Volterra model represent microbial interactions? Insights from in vitro nasal bacterial communities
+## When does a Lotka-Volterra model represent microbial interactions? Insights from in vitro nasal bacterial communities.
+ 06.06.2023, _S Dedrick, V Warrier, KP Lemon, B Momeni_
+
+
+To alter microbial community composition for therapeutic purposes, an accurate and reliable modeling framework capable of predicting microbial community outcomes is required. Lotka-Volterra (LV) equations have been utilized to describe a breadth of microbial communities, yet, the conditions in which this modeling framework is successful remain unclear. Here, we propose that a set of simple in vitro experiments-growing each member in cell-free spent medium obtained from other members-can be used as a test to decide whether an LV model is appropriate for describing microbial interactions of interest. We show that for LV to be a good candidate, the ratio of growth rate to carrying capacity of each isolate when grown in the cell-free spent media of other isolates should remain constant. Using an in vitro community of human nasal bacteria as a tractable system, we find that LV can be a good approximation when the environment is low-nutrient (i.e., when growth is limited by the availability of nutrients) and complex (i.e., when multiple resources, rather than a few, determine growth). These findings can help clarify the range of applicability of LV models and reveal when a more complex model may be necessary for predictive modeling of microbial communities.IMPORTANCEAlthough mathematical modeling can be a powerful tool to draw useful insights in microbial ecology, it is crucial to know when a simplified model adequately represents the interactions of interest. Here, we take advantage of bacterial isolates from the human nasal passages as a tractable model system and conclude that the commonly used Lotka-Volterra model can represent interactions among microbes well when the environment is complex (with many interaction mediators) and low-nutrient. Our work highlights the importance of considering both realism and simplicity when choosing a model to represent microbial interactions.
 
 [Source](https://doi.org/10.1128/msystems.00757-22)
+
+10.1128/msystems.00757-22
 
 ---
 
