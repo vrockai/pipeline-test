@@ -171,15 +171,9 @@ Concept of microorganisms has largely been perceived from their pathogenic view 
 
 ---
 
-## The impacts of ocean acidification, warming and their interactive effects on coral prokaryotic symbionts.
- 10.06.2023, _J Li, G Chai, Y Xiao, Z Li_
-
-
-Reef-building corals, the foundation of tropical coral reefs, are vulnerable to climate change e.g. ocean acidification and elevated seawater temperature. Coral microbiome plays a key role in host acclimatization and maintenance of the coral holobiont's homeostasis under different environmental conditions, however, the response patterns of coral prokaryotic symbionts to ocean acidification and/or warming are rarely known at the metatranscriptional level, particularly the knowledge of interactive and persistent effects is limited. Using branching Acropora valida and massive Galaxea fascicularis as models in a lab system simulating extreme ocean acidification (pH 7.7) and/or warming (32 °C) in the future, we investigated the changes of in situ active prokaryotic symbionts community and gene expression of corals under/after (6/9 d) acidification (A), warming (H) and acidification-warming (AH) by metatranscriptome analysis with pH8.1, 26 °C as the control.
+## The impacts of ocean acidification, warming and their interactive effects on coral prokaryotic symbionts
 
 [Source](https://doi.org/10.1186/s40793-023-00505-w)
-
-10.1186/s40793-023-00505-w
 
 ---
 
@@ -189,27 +183,15 @@ Reef-building corals, the foundation of tropical coral reefs, are vulnerable to 
 
 ---
 
-## Microbiomes of Blood-Feeding Triatomines in the Context of Their Predatory Relatives and the Environment.
- 08.06.2023, _H Tarabai, AM Floriano, J Zima, N Filová, JJ Brown, W Roachell, RL Smith, NL Beatty, KJ Vogel, E Nováková_
-
-
-The importance of gut microbiomes has become generally recognized in vector biology. This study addresses microbiome signatures in North American Triatoma species of public health significance (vectors of Trypanosoma cruzi) linked to their blood-feeding strategy and the natural habitat. To place the Triatoma-associated microbiomes within a complex evolutionary and ecological context, we sampled sympatric Triatoma populations, related predatory reduviids, unrelated ticks, and environmental material from vertebrate nests where these arthropods reside. Along with five Triatoma species, we have characterized microbiomes of five reduviids (Stenolemoides arizonensis, Ploiaria hirticornis, Zelus longipes, and two Reduvius species), a single soft tick species, Ornithodoros turicata, and environmental microbiomes from selected sites in Arizona, Texas, Florida, and Georgia. The microbiomes of predatory reduviids lack a shared core microbiota. As in triatomines, microbiome dissimilarities among species correlate with dominance of a single bacterial taxon. These include Rickettsia, Lactobacillus, "Candidatus Midichloria," and Zymobacter, which are often accompanied by known symbiotic genera, i.e., Wolbachia, "Candidatus Lariskella," Asaia, Gilliamella, and Burkholderia. We have further identified a compositional convergence of the analyzed microbiomes in regard to the host phylogenetic distance in both blood-feeding and predatory reduviids. While the microbiomes of the two reduviid species from the Emesinae family reflect their close relationship, the microbiomes of all Triatoma species repeatedly form a distinct monophyletic cluster highlighting their phylosymbiosis. Furthermore, based on environmental microbiome profiles and blood meal analysis, we propose three epidemiologically relevant and mutually interrelated bacterial sources for Triatoma microbiomes, i.e., host abiotic environment, host skin microbiome, and pathogens circulating in host blood. IMPORTANCE This study places microbiomes of blood-feeding North American Triatoma vectors (Reduviidae) into a broader evolutionary and ecological context provided by related predatory assassin bugs (Reduviidae), another unrelated vector species (soft tick Ornithodoros turicata), and the environment these arthropods coinhabit. For both vectors, microbiome analyses suggest three interrelated sources of bacteria, i.e., the microbiome of vertebrate nests as their natural habitat, the vertebrate skin microbiome, and the pathobiome circulating in vertebrate blood. Despite an apparent influx of environment-associated bacteria into the arthropod microbiomes, Triatoma microbiomes retain their specificity, forming a distinct cluster that significantly differs from both predatory relatives and ecologically comparable ticks. Similarly, within the related predatory Reduviidae, we found the host phylogenetic distance to underlie microbiome similarities.
+## Microbiomes of Blood-Feeding Triatomines in the Context of Their Predatory Relatives and the Environment
 
 [Source](https://doi.org/10.1128/spectrum.01681-23)
 
-10.1128/spectrum.01681-23
-
 ---
 
-## Probiotic interventions promote metabolic health in high fat-fed hamsters in association with gut microbiota and endocannabinoidome alterations.
- 07.06.2023, _S Lacroix, N Leblanc, A Abolghasemi, S Paris-Robidas, C Martin, M Frappier, N Flamand, C Silvestri, F Raymond, M Millette, V Di Marzo, A Veilleux_
-
-
-Probiotics represent a promising tool to improve metabolic health, including lipid profiles and cholesterol levels. Modulation of the gut microbiome and the endocannabinoidome - two interrelated systems involved in several metabolic processes influenced by probiotics - has been proposed as a potential mechanism of action. This study establishes the impact of probiotics on metabolic health, gut microbiota composition and endocannabinoidome mediators in an animal model of hypercholesterolaemia. Syrian hamsters were fed either a low-fat low-cholesterol or high-fat high-cholesterol (HFHC) diet to induce hypercholesterolaemia and gavaged for 6 weeks with either Lactobacillus acidophilus CL1285, Lactiplantibacillus plantarum CHOL-200 or a combination of the two. Globally, probiotic interventions ameliorated, at least partially, lipid metabolism in HFHC-fed hamsters. The interventions, especially those including L. acidophilus, modified the gut microbiota composition of the small intestine and caecum in ways suggesting reversal of HFHC-induced dysbiosis. Several associations were observed between changes in gut microbiota composition and endocannabinoidome mediators following probiotic interventions and both systems were also associated with improved metabolic health parameters. For instance, potential connexions between the Eubacteriaceae and Deferribacteraceae families, levels of 2‑palmitoylglycerol, 2‑oleoylglycerol, 2‑linoleoylglycerol or 2‑eicosapentaenoylglycerol and improved lipid profiles were found. Altogether, our results suggest a potential crosstalk between gut microbiota and the endocannabinoidome in driving metabolic benefits associated with probiotics, especially those including L. acidophilus, in an animal model of hypercholesterolaemia.
+## Probiotic interventions promote metabolic health in high fat-fed hamsters in association with gut microbiota and endocannabinoidome alterations
 
 [Source](https://doi.org/10.3920/BM2022.0080)
-
-10.3920/BM2022.0080
 
 ---
 
@@ -219,15 +201,9 @@ Probiotics represent a promising tool to improve metabolic health, including lip
 
 ---
 
-## Effects of a low FODMAP diet on gut microbiota in individuals with treated celiac disease having persistent gastrointestinal symptoms - a randomized controlled trial.
- 05.06.2023, _AM Herfindal, F van Megen, MKO Gilde, J Valeur, K Rudi, G Skodje, KEA Lundin, C Henriksen, SK Bøhn_
-
-
-Individuals with celiac disease (CeD) often experience gastrointestinal symptoms despite adherence to a gluten-free diet (GFD). While we recently showed that a diet low in fermentable oligo-, di-, monosaccharides, and polyols (FODMAPs) successfully provided symptom relief in GFD-treated CeD patients, there have been concerns that the low FODMAP diet (LFD) could adversely affect the gut microbiota. Our main objective was therefore to investigate whether the LFD affects the faecal microbiota and related variables of gut health. In a randomized controlled trial GFD-treated CeD adults, having persistent gastrointestinal symptoms, were randomized to either consume a combined LFD and GFD (n = 39) for four weeks or continue with GFD (controls, n = 36). Compared to the control group, the LFD group displayed greater changes in the overall faecal microbiota profile (16S rRNA gene sequencing) from baseline to follow-up (within-subject β-diversity, P &lt; 0.001), characterized by lower and higher follow-up abundances (%) of genus Anaerostipes (Pgroup &lt; 0.001) and class Erysipelotrichia (Pgroup = 0.02), respectively. Compared to the control group, the LFD led to lower follow-up concentrations of faecal propionic and valeric acid (GC-FID) in participants with high concentrations at baseline (Pinteraction ≤ 0.009). No differences were found in faecal bacterial α-diversity (Pgroup ≥ 0.20) or in faecal neutrophil gelatinase-associated lipocalin (ELISA), a biomarker of gut integrity and inflammation (Pgroup = 0.74), between the groups at follow-up. The modest effects of the LFD on the gut microbiota and related variables in the CeD patients of the present study are encouraging given the beneficial effects of the LFD strategy to treat functional GI symptoms. (Registered at clinicaltrials.gov as NCT03678935).
+## Effects of a low FODMAP diet on gut microbiota in individuals with treated celiac disease having persistent gastrointestinal symptoms – a randomized controlled trial
 
 [Source](https://doi.org/10.1017/S0007114523001253)
-
-10.1017/S0007114523001253
 
 ---
 
