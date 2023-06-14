@@ -43,15 +43,15 @@ Despite the number of available therapies for ulcerative colitis (UC), severe si
 
 ---
 
-## A 4D Theoretical Framework for Measuring Topic-Specific Influence on Twitter: Development and Usability Study on Dietary Sodium Tweets.
- 13.06.2023, _L Mao, E Chu, J Gu, T Hu, BJ Weiner, Y Su_
+## Association between immigrant concentration and mental health service utilization in the United States over time: A geospatial big data analysis.
+ 13.06.2023, _F Jing, Z Li, S Qiao, H Ning, S Zhou, X Li_
 
 
-Social media has emerged as a prominent approach for health education and promotion. However, it is challenging to understand how to best promote health-related information on social media platforms such as Twitter. Despite commercial tools and prior studies attempting to analyze influence, there is a gap to fill in developing a publicly accessible and consolidated framework to measure influence and analyze dissemination strategies.
+Immigrants (foreign-born United States [US] citizens) generally have lower utilization of mental health services compared with US-born counterparts, but extant studies have not investigated the disparities in mental health service utilization within immigrant population nationwide over time. Leveraging mobile phone-based visitation data, we estimated the average mental health utilization in contiguous US census tracts in 2019, 2020, and 2021 by employing two novel outcomes: mental health service visits and visit-to-need ratio (i.e., visits per depression diagnosis). We then investigated the tract-level association between immigration concentration and mental health service utilization outcomes using mixed-effects linear regression models that accounted for spatial lag effects, time effects, and covariates. This study reveals spatial and temporal disparities in mental health service visits and visit-to-need ratio among different levels of immigrant concentration across the US, both before and during the pandemic. Tracts with higher concentrations of Latin American immigrants showed significantly lower mental health service utilization visits and visit-to-need ratio, particularly in the US West. Tracts with Asian and European immigrant concentrations experienced a more significant decline in mental health service utilization visits and visit-to-need ratio from 2019 to 2020 than those with Latin American concentrations. Meanwhile, in 2021, tracts with Latin American concentrations had the least recovery in mental health service utilization visits. The study highlights the potential of geospatial big data for mental health research and informs public health interventions.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01493-2)
 
-10.2196/45897
+10.1016/j.healthplace.2023.103055
 
 ---
 
