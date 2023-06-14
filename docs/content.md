@@ -43,15 +43,15 @@ Despite the number of available therapies for ulcerative colitis (UC), severe si
 
 ---
 
-## Trophic status and lake depth play important roles in determining the nutrient-chlorophyll a relationship: Evidence from thousands of lakes globally.
- 13.06.2023, _L Zhao, R Zhu, Q Zhou, E Jeppesen, K Yang_
+## PD1hi CD200hi CD4+ exhausted T cell increase immunotherapy resistance and tumour progression by promoting epithelial-mesenchymal transition in bladder cancer.
+ 14.06.2023, _C Wu, L Duan, H Li, X Liu, T Cai, Y Yang, Y Yin, W Chang, L Zhong, L Zhang, Y Cheng, H Qin, Z Wen, H Wang, S Mai_
 
 
-A fundamental problem in lake eutrophication management is that the nutrient-chlorophyll a (Chl a) relationship shows high variability due to diverse influences of for example lake depth, lake trophic status, and latitude. To accommodate the variability induced by spatial heterogeneity, a reliable and general insight into the nutrient-Chl a relationship may be achieved by applying probabilistic methods to analyze data compiled across a broad spatial scale. Here, the roles of two critical factors determining the nutrient-Chl a relationship, lake depth and trophic status, were explored by applying Bayesian networks (BNs) and a Bayesian hierarchical linear regression model (BHM) to a compiled global dataset from 2849 lakes and 25083 observations. We categorized the lakes into three groups (shallow, transitional, and deep) according to mean and maximum depth relative to mixing depth. We found that despite a stronger effect of total phosphorus (TP) and total nitrogen (TN) on Chl a when combined, TP played a dominant role in determining Chl a, regardless of lake depth. However, when the lake was hypereutrophic and/or TP was &gt;40 μg/L, TN had a greater impact on Chl a, especially in shallow lakes. The response curve of Chl a to TP and TN varied with lake depth, with deep lakes having the lowest yield Chl a per unit of nutrient, followed by transitional lakes, while shallow lakes had the highest ratio. Moreover, we found a decrease of TN/TP with increasing Chl a concentrations and lake depth (represented as mixing depth/mean depth). Our established BHM may help estimating lake type and/or lake-specific acceptable TN and TP concentrations that comply with target Chl a concentrations with higher certainty than can be obtained when bulking all lake types.
+Bladder cancer (BLCA) is one of the most diagnosed cancers in humans worldwide. Recently, immunotherapy has become a main treatment option for BC. However, most BLCA patients do not respond to immune checkpoint inhibitors or relapse after immunotherapy. Therefore, it is very important to identify novel biomarkers for the prediction of immunotherapy response in B patients.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01493-2)
 
-10.1016/j.watres.2023.120182
+10.1002/ctm2.1303
 
 ---
 
