@@ -43,15 +43,15 @@ Despite the number of available therapies for ulcerative colitis (UC), severe si
 
 ---
 
-## PD1hi CD200hi CD4+ exhausted T cell increase immunotherapy resistance and tumour progression by promoting epithelial-mesenchymal transition in bladder cancer.
- 14.06.2023, _C Wu, L Duan, H Li, X Liu, T Cai, Y Yang, Y Yin, W Chang, L Zhong, L Zhang, Y Cheng, H Qin, Z Wen, H Wang, S Mai_
+## Sexual dimorphism in dinosaurs.
+ 14.06.2023, _SA Ludwig, RE Smith, N Ibrahim_
 
 
-Bladder cancer (BLCA) is one of the most diagnosed cancers in humans worldwide. Recently, immunotherapy has become a main treatment option for BC. However, most BLCA patients do not respond to immune checkpoint inhibitors or relapse after immunotherapy. Therefore, it is very important to identify novel biomarkers for the prediction of immunotherapy response in B patients.
+Studying fossils from a mass-mortality event reveals evidence for sexual dimorphism and, unusually, equal numbers of males and females in a herd of dinosaurs.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01493-2)
 
-10.1002/ctm2.1303
+10.7554/eLife.89158
 
 ---
 
