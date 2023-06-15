@@ -43,15 +43,15 @@ Despite the number of available therapies for ulcerative colitis (UC), severe si
 
 ---
 
-## Integrated transcriptomic and metabolomic analysis revealed altitude-related regulatory mechanisms on flavonoid accumulation in potato tubers.
- 14.06.2023, _Y Liu, Y Li, Z Liu, L Wang, Z Bi, C Sun, P Yao, J Zhang, J Bai, Y Zeng_
+## Narrative Comments about Urologists on Physician Rating Websites Provide Insight into What Drives Patient Satisfaction Surveys.
+ 15.06.2023, _CG Policastro, B Carnes, D Friedman, N Ginzburg, EK Ferry_
 
 
-Not least because it is adaptable to a variety of geographies and climates, potato (Solanum tuberosum L.) is grown across much of the world. Pigmented potato tubers have been found to contain large quantities of flavonoids, which have various functional roles and act as antioxidants in the human diet. However, the effect of altitude on the biosynthesis and accumulation of flavonoids in potato tubers is poorly characterized. Here we carried out an integrated metabolomic and transcriptomic study in order to evaluate how cultivation at low (800 m), moderate (1800 m), and high (3600 m) altitude affects flavonoid biosynthesis in pigmented potato tubers. Both red and purple potato tubers grown at a high altitude contained the highest flavonoid content, and the most highly pigmented flesh, followed by those grown at a low altitude. Co-expression network analysis revealed three modules containing genes which were positively correlated with altitude-responsive flavonoid accumulation. The anthocyanin repressors StMYBATV and StMYB3 exhibited a significant positive relationship with altitude-responsive flavonoid accumulation. The repressive function of StMYB3 was further verified in tobacco flowers and potato tubers. The results presented here add to the growing body of knowledge regarding the response of flavonoid biosynthesis to environmental conditions, and should aid in efforts to develop novel varieties of pigmented potatoes for use across different geographies.
+We examined publicly available narrative comments on physician rating websites and how they may provide valuable insight on what motivates patients to provide positive or negative feedback.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01493-2)
 
-10.1016/j.foodres.2023.112997
+10.1097/UPJ.0000000000000015
 
 ---
 
@@ -62,7 +62,7 @@ Not least because it is adaptable to a variety of geographies and climates, pota
 ---
 
 ## Insect phylogeny structures the bacterial communities in the microbiome of psyllids (Hemiptera: Psylloidea) in Aotearoa New Zealand.
- 17.05.2023, _F Martoni, SR Bulman, AM Piper, A Pitman, GS Taylor, KF Armstrong_
+ 15.06.2023, _F Martoni, SR Bulman, AM Piper, A Pitman, GS Taylor, KF Armstrong_
 
 
 _Humans, Animals, Phylogeny, Hemiptera, New Zealand, Bacteria, Plants, Symbiosis, Microbiota_
