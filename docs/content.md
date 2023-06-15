@@ -43,15 +43,15 @@ Despite the number of available therapies for ulcerative colitis (UC), severe si
 
 ---
 
-## Sexual dimorphism in dinosaurs.
- 14.06.2023, _SA Ludwig, RE Smith, N Ibrahim_
+## Does vegetation accelerate coastal dune erosion during extreme events?
+ 14.06.2023, _RA Feagin, RA Innocenti, H Bond, M Wengrove, TP Huff, P Lomonaco, B Tsai, J Puleo, M Pontiki, J Figlus, V Chavez, R Silva_
 
 
-Studying fossils from a mass-mortality event reveals evidence for sexual dimorphism and, unusually, equal numbers of males and females in a herd of dinosaurs.
+A broadly accepted paradigm is that vegetation reduces coastal dune erosion. However, we show that during an extreme storm event, vegetation surprisingly accelerates erosion. In 104-m-long beach-dune profile experiments conducted within a flume, we discovered that while vegetation initially creates a physical barrier to wave energy, it also (i) decreases wave run-up, which creates discontinuities in erosion and accretion patterns across the dune slope, (ii) increases water penetration into the sediment bed, which induces its fluidization and destabilization, and (iii) reflects wave energy, accelerating scarp formation. Once a discontinuous scarp forms, the erosion accelerates further. These findings fundamentally alter the current understanding of how natural and vegetated features may provide protection during extreme events.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01493-2)
 
-10.7554/eLife.89158
+10.1126/sciadv.adg7135
 
 ---
 
