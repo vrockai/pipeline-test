@@ -31,7 +31,7 @@ Breast cancer ranks first among female cancers and has become a major public hea
 ---
 
 ## Evaluation of microbial and vancomycin treatments in ulcerative colitis in murine models.
- 15.05.2023, _N Hasan, H Yang_
+ 15.06.2023, _N Hasan, H Yang_
 
 
 _Mice, Animals, Colitis, Ulcerative, Vancomycin, Tumor Necrosis Factor-alpha, Disease Models, Animal, RNA, Ribosomal, 16S, Capsules, Colitis, Dextran Sulfate, Colon_
@@ -43,15 +43,15 @@ Despite the number of available therapies for ulcerative colitis (UC), severe si
 
 ---
 
-## Narrative Comments about Urologists on Physician Rating Websites Provide Insight into What Drives Patient Satisfaction Surveys.
- 15.06.2023, _CG Policastro, B Carnes, D Friedman, N Ginzburg, EK Ferry_
+## Prevalence of Diabetic Retinopathy in the US in 2021.
+ 15.06.2023, _EA Lundeen, Z Burke-Conte, DB Rein, JS Wittenborn, J Saaddine, AY Lee, AD Flaxman_
 
 
-We examined publicly available narrative comments on physician rating websites and how they may provide valuable insight on what motivates patients to provide positive or negative feedback.
+Diabetic retinopathy (DR) is a common microvascular complication of diabetes and a leading cause of blindness among working-age adults in the US.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01493-2)
 
-10.1097/UPJ.0000000000000015
+10.1001/jamaophthalmol.2023.2289
 
 ---
 
@@ -94,7 +94,7 @@ The public perception of viruses has historically been negative. We are now at a
 ---
 
 ## Phage therapy and the public: Increasing awareness essential to widespread use.
- 22.05.2023, _S McCammon, K Makarovs, S Banducci, V Gold_
+ 15.06.2023, _S McCammon, K Makarovs, S Banducci, V Gold_
 
 
 _Humans, Bacterial Infections, Phage Therapy, Bacteria, Bacteriophages, Anti-Bacterial Agents_
