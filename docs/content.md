@@ -1,12 +1,12 @@
-## Public disclosure of clinical trial results at Clinical Trial Registry of India- Need for transparency in research!
- 16.06.2023, _R Munshi, C Pilliwar, MR Maurya_
+## Positive Psychological Intervention Delivered Using Virtual Reality in Patients on Hemodialysis With Comorbid Depression: Protocol and Design for the Joviality Randomized Controlled Trial.
+ 16.06.2023, _R Hernandez, K Wilund, K Solai, D Tamayo, D Fast, P Venkatesan, JP Lash, CM Lora, L Martinez, G Martin Alemañy, A Martinez, S Kwon, D Romero, MHEM Browning, JT Moskowitz_
 
 
-Since June 15, 2009, clinical trial registration in the Clinical Trial Registry-India (CTRI) has been made mandatory by the Drugs Controller General of India to improve transparency, accountability, conform to accepted ethical standards and reporting of all relevant results of registered trials. In this study, we planned to evaluate the compliance of Indian and global sponsors with clinical trials conducted in India in terms of reporting of clinical trial results at the CTRI.
+Depression is highly prevalent in individuals on hemodialysis, but it is infrequently identified and remains undertreated. In this paper, we present details of the methodology of a randomized controlled trial (RCT) aimed at testing the feasibility and preliminary efficacy of a 5-week positive psychological intervention in individuals on hemodialysis with comorbid depression delivered using immersive virtual reality (VR) technology.
 
 [Source](https://twitter.com/svetlana_up/status/1668170517487009792?ref_src=twsrc%5Etfw)
 
-10.4103/picr.picr_39_22
+10.2196/45100
 
 ---
 
@@ -41,15 +41,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Tuberculosis infection and hypertension: Prevalence estimates from the US National Health and Nutrition Examination Survey.
- 16.06.2023, _AD Salindri, SC Auld, UP Gujral, EM Urbina, JR Andrews, MA Huaman, MJ Magee_
+## Adapting a Telephone-Based, Dyadic Self-management Program to Be Delivered Over the Web: Methodology and Usability Testing.
+ 16.06.2023, _R Trivedi, SK Hirayama, R Risbud, M Suresh, MB Humber, K Butler, A Razze, C Timko, K Nelson, DM Zulman, SM Asch, K Humphreys, JD Piette_
 
 
-Latent Tuberculosis infection (LTBI) is marked by dynamic host-pathogen interactions with persistent low-grade inflammation and is associated with increased risk of cardiovascular diseases (CVD) including acute coronary syndrome, myocardial infarction, and stroke. However, few studies assess the relationship between LTBI and hypertension, an intermediate of CVD. We sought to determine the association between LTBI and hypertension using data representative of the adult US population.
+The COVID-19 pandemic has amplified the need for web-based behavioral interventions to support individuals who are diagnosed with chronic conditions and their informal caregivers. However, most interventions focus on patient outcomes. Dyadic technology-enabled interventions that simultaneously improve outcomes for patients and caregivers are needed.
 
 [Source](https://twitter.com/Stanford?ref_src=twsrc%5Etfw)
 
-10.1101/2023.05.12.23289899
+10.2196/43903
 
 ---
 
@@ -157,53 +157,15 @@ Obesity has been linked to higher morbidity and mortality in those that contract
 
 ---
 
-## Implementation of an Emergency Department Back Pain Clinical Management Tool on the Early Diagnosis and Testing of Spinal Epidural Abscess.
- 16.06.2023, _AG Cai, MS Zocchi, JN Carlson, J Bedolla, JM Pines_
-
-
-Spinal epidural abscess (SEA) is a rare, catastrophic condition for which diagnostic delays are common. Our national group develops evidence-based guidelines, known as Clinical Management Tools (CMT), to reduce high risk misdiagnoses. We study whether implementation of our back pain CMT improved SEA diagnostic timeliness and testing rates in the emergency department (ED).
-
-[Source](https://twitter.com/OrianeMoyne/status/1657155454093410304?ref_src=twsrc%5Etfw)
-
-10.1111/acem.14765
-
----
-
 ## May 12, 2023
 
 [Source](https://twitter.com/OrianeMoyne/status/1657155454093410304?ref_src=twsrc%5Etfw)
 
 ---
 
-## Biomolecular Markers of Recurrent Implantation Failure-A Review.
- 19.11.2021, _AE Mrozikiewicz, M Ożarowski, P Jędrzejczak_
-
-
-_Adult, Biomarkers, Blastocyst, Embryo Implantation, Endometrium, Estrogens, Female, Glycodelin, Humans, Immune System, Immunologic Factors, Infertility, Female, Leukemia Inhibitory Factor, Microbiota, Neovascularization, Pathologic, Progesterone, Receptors, Estrogen, Receptors, Progesterone, Recurrence, Risk Factors, Vagina_
-Currently, infertility affects 8-12% of reproductive age couples worldwide, a problem that also affects women suffering from recurrent implantation failure (RIF). RIF is a complex condition resulting from many physiological and molecular mechanisms involving dynamic endometrium-blastocyst interaction. The most important are the endometrial receptivity process, decidualization, trophoblast invasion, and blastocyst nesting. Although the exact multifactorial pathogenesis of RIF remains unclear, many studies have suggested the association between hormone level imbalance, disturbances of angiogenic and immunomodulatory factors, certain genetic polymorphisms, and occurrence of RIF. These studies were performed in quite small groups. Additionally, the results are inconsistent between ethnicities. The present review briefly summarizes the importance of factors involved in RIF development that could also serve as diagnostic determinants. Moreover, our review could constitute part of a new platform for discovery of novel diagnostic and therapeutic solutions for RIF.
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.06.14.544778v1)
-
-10.3390/ijms221810082
-
----
-
 ## Interaction of genital microbiota in infertile couples
 
 [Source](https://www.biorxiv.org/content/10.1101/2023.06.14.544778v1)
-
----
-
-## Therapy of replenishing and regulating for manic episode in bipolar disorder: study protocol for a prospective, double-blind, randomized controlled trial.
- 26.05.2023, _Y Yang, Y Haining, J Hongxiao, N Yanzhe, W Di, Z Lei, Y Kaijuan, G Yumeng, W Fei, S Weishuang, C Pei_
-
-
-_Humans, Adolescent, Bipolar Disorder, Mania, Quality of Life, Prospective Studies, Double-Blind Method, Treatment Outcome, Randomized Controlled Trials as Topic_
-Bipolar disorder (BD) is a chronic and recurrent disorder characterized by biphasic mood episodes of mania or hypomania and depression. It affects more than 1% of the global population and is a leading cause of disability in young people. Currently available treatments for BD are still fairly limited in terms of efficacy, with high rates of non-adherence, non-response, and undesirable side effects. Traditional Chinese medicine (TCM) has a long history and rich experience in stabilizing mania and improving quality of life. Aiming at rebalancing and in BD, therapy of replenishing and regulating (RYRY therapy) has been in clinical use for years in China. The present prospective, double-blind, randomized controlled trial is designed to investigate the efficacy and safety of RYRY therapy for bipolar mania and its possible mechanism from the point of regulating gut microbiota and anti-inflammation. A total of 60 eligible participants will be recruited from Beijing Anding Hospital. They will be randomized to either the study group or the control group in a ratio of 1∶1. Participants allocated to the study group will receive RYRY granule, while placebo granule will be applied in the control group. Participants in both groups will be prescribed conventional therapy for manic episode in BD. Four scheduled visits will be conducted over 4 weeks. Outcome measurements include Young Mania Rating Scale, TCM Symptom Pattern Rating Scale, Treatment Emergent Symptom Scale, levels of C-reactive protein, interleukin-6 and tumor necrosis factor-α and the gut microbial community profile of stool samples. Safety outcomes and adverse events will also be recorded. In this study, we set a number of scientific and objective assessments to evaluate the efficacy of RYRY therapy and study into its possible mechanism, hopefully offering clinicians an alternative approach to BD.
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.06.13.544832v1)
-
-10.19852/j.cnki.jtcm.20230328.002
 
 ---
 
@@ -267,18 +229,6 @@ Bipolar disorder (BD) is a chronic and recurrent disorder characterized by bipha
 
 ---
 
-## Review on adherence of the literature to official recommendations on albuminuria harmonization and standardization.
- 16.06.2023, _M Mussap, M Sortino, E Monteverde, R Tomaiuolo, G Banfi, M Locatelli, A Carobene_
-
-
-Albuminuria standardization is a key issue to produce reliable and equivalent results between laboratories. We investigated whether official recommendations on albuminuria harmonization are followed in the literature. The PubMed database was searched from June 1 to September 26, 2021. The search terms included urine albumin, UACR, and albuminuria. A total of 159 articles were considered eligible; 50.9 % reported the type of urine collection. Specifically, 58.1 % collected a random spot urine specimen, 21 % collected a first morning void, and 6.2 % collected a 24-h specimen. Overall, 15 % of articles reported data on sample shipping, storage, and centrifugation and 13.3 % mentioned the preanalytical phase without any data on albuminuria. The method for albuminuria was properly described in 31.4 % of articles; of these, 54.9 % used immunological methods, and 8.9 % contained errors or missing data. Most articles (76.7 %) expressed test results as albuminuria-to-creatininuria ratio. Different decision levels were utilized in 130 articles; of these, 36 % used a decision level of ≤30 mg/g creatininuria and 23.7 % used three decision levels (≤30, 30-300, and ≥300 mg/g). The failure to follow guidelines on albuminuria harmonization was mainly found in the preanalytical phase. The poor awareness of the importance of preanalytical steps on test result may be a possible explanation.
-
-[Source](https://twitter.com/Microbes4ever/status/1668524788044767233?ref_src=twsrc%5Etfw)
-
-10.1515/cclm-2023-0408
-
----
-
 ## June 13, 2023
 
 [Source](https://twitter.com/Microbes4ever/status/1668524788044767233?ref_src=twsrc%5Etfw)
@@ -291,16 +241,9 @@ Albuminuria standardization is a key issue to produce reliable and equivalent re
 
 ---
 
-## Gut microbiota and cognitive development in infant mice: Quantity and source of potable water.
- 16.06.2023, _CS Kim, DM Shin_
-
-
-_Animals, Mice, Drinking Water, Gastrointestinal Microbiome, Dehydration, Cognition, Cognitive Dysfunction, Bacteroidetes, Firmicutes_
-Not only the water quantity consumed but also the source of drinking water has been considered for their health benefits, but there is limited evidence. We aimed to determine whether the amount and type of drinking water affect physiological and biological functions, including brain function, by confirming how it affects gut microbiota which has an important regulatory role in host physiology. Three-week-old infant mice were subjected to 1) a water restriction experiment (control group, ad libitum consumption of distilled water; dehydration group, time-limited access to distilled water [15 min/day]) and 2) different water source experiment (distilled water, purified water, spring water, and tap water groups). The gut microbiota and cognitive development were analyzed using the 16S ribosomal ribonucleic acid sequencing method and the Barnes maze, respectively. The relative abundance of Firmicutes and Bacteroidetes and the Firmicutes-to-Bacteroidetes ratio (F/B ratio) changed depending on age (juveniles vs. infants). Insufficient water intake reversed these developmental changes, showing that the relative abundances of Bacteroidetes and Firmicutes and the F/B ratio in dehydrated juvenile mice were similar to those in normal infant mice. Additionally, clustering analysis revealed no significant differences in the intestinal flora in the mice from the different drinking water sources; however, dehydration significantly altered the composition of the genera compared to the other water source groups wherein water was provided ad libitum. Moreover, cognitive development was significantly disrupted by insufficient water intake, although the type of drinking water had no significant influence. Cognitive decline, measured by relative latency, was positively associated with the relative abundance of unclassified Erysipelotrichaceae that were in significantly high relative abundance in the dehydration group. These results suggest that the water quantity consumed, rather than the mineral content of drinking water, is imperative for shaping the early gut microbiota associated with cognitive development during infancy.
+## Gut microbiota and cognitive development in infant mice: Quantity and source of potable water 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286951)
-
-10.1371/journal.pone.0286951
 
 ---
 
@@ -317,15 +260,15 @@ All multicellular organisms host a diverse microbiome composed of microbial path
 
 ---
 
-## Achieving pan-microbiome biological insights via the dbBact knowledge base.
- 16.06.2023, _A Amir, E Ozel, Y Haberman, N Shental_
+## Body Mass Index Trajectories and Biomarkers of Cardiometabolic Risk in Children from Low-Income and Racially and Ethnically Diverse Households.
+ 16.06.2023, _JN de Brito, MA Pereira, AS Kelly, DJ Erickson, NE Sherwood, SM Mason, KA Loth, SA French, NG Evanoff, DR Dengel, AS Kunin-Batson_
 
 
-16S rRNA amplicon sequencing provides a relatively inexpensive culture-independent method for studying microbial communities. Although thousands of such studies have examined diverse habitats, it is difficult for researchers to use this vast trove of experiments when interpreting their own findings in a broader context. To bridge this gap, we introduce dbBact - a novel pan-microbiome resource. dbBact combines manually curated information from studies across diverse habitats, creating a collaborative central repository of 16S rRNA amplicon sequence variants (ASVs), which are assigned multiple ontology-based terms. To date dbBact contains information from more than 1000 studies, which include 1500000 associations between 360000 ASVs and 6500 ontology terms. Importantly, dbBact offers a set of computational tools allowing users to easily query their own datasets against the database. To demonstrate how dbBact augments standard microbiome analysis we selected 16 published papers, and reanalyzed their data via dbBact. We uncovered novel inter-host similarities, potential intra-host sources of bacteria, commonalities across different diseases and lower host-specificity in disease-associated bacteria. We also demonstrate the ability to detect environmental sources, reagent-borne contaminants, and identify potential cross-sample contaminations. These analyses demonstrate how combining information across multiple studies and over diverse habitats leads to better understanding of underlying biological processes.
+Background: This study examined the associations between BMI trajectories and emerging cardiometabolic risk (CMR) in children living in low-income and racially and ethnically diverse households in the United States. Methods: Data were drawn from NET-Works randomized intervention trial and NET-Works 2 prospective follow-up study (N = 338). BMI was measured across 6 follow-up visits and biomarkers of cardiometabolic risk (CMR) at the sixth visit. Group-based trajectory modeling identified child BMI trajectories. Adjusted multivariable linear regressions evaluated the associations between BMI trajectories and CMR. Results: We identified two BMI trajectories: 25% followed a trajectory of steep BMI increase, and 75% followed a moderate decreasing BMI trajectory over time. Relative to children in the moderate decreasing trajectory, children in the increasing trajectory had higher adjusted mean levels of C-reactive protein [CRP; 3.3; 95% confidence interval (CI): 1.6 to 5.0], leptin (63.1; 95% CI: 44.3 to 81.8), triglycerides (35.4; 95% CI: 22.1 to 48.6), triglyceride/high-density lipoprotein (HDL) ratio (1.2; 95% CI: 0.8 to 1.6), hemoglobin A1c (HbA1C; 0.1; 95% CI: 0.03 to 0.2), fasting glucose (1.8; 0.1 to 3.5) and insulin (8.8; 95% CI: 6.5 to 11.0), overall CMR score (0.7; 95% CI: 0.5 to 0.9), and lower adiponectin (-1.3; 95% CI: -2.5 to -0.1) and HDL (-10.8; 95% CI: -14.3 to -7.4). Conclusions: Children with high BMIs early in childhood were more likely to maintain an accelerated BMI trajectory throughout childhood, which was associated with adverse CMR in pre-adolescence. To advance health equity and support children's healthy weight and cardiovascular health trajectories, public health efforts are needed to address persistent disparities in childhood obesity and CMR.
 
 [Source](https://twitter.com/hashtag/diverse?src=hash&ref_src=twsrc%5Etfw)
 
-10.1093/nar/gkad527
+10.1089/chi.2022.0216
 
 ---
 
@@ -335,15 +278,15 @@ All multicellular organisms host a diverse microbiome composed of microbial path
 
 ---
 
-## Achieving pan-microbiome biological insights via the dbBact knowledge base.
- 16.06.2023, _A Amir, E Ozel, Y Haberman, N Shental_
+## Accelerated mineral bio-carbonation of coarse residue kimberlite material by inoculation with photosynthetic microbial mats.
+ 16.06.2023, _TR Jones, J Poitras, E Gagen, DJ Paterson, G Southam_
 
 
-16S rRNA amplicon sequencing provides a relatively inexpensive culture-independent method for studying microbial communities. Although thousands of such studies have examined diverse habitats, it is difficult for researchers to use this vast trove of experiments when interpreting their own findings in a broader context. To bridge this gap, we introduce dbBact - a novel pan-microbiome resource. dbBact combines manually curated information from studies across diverse habitats, creating a collaborative central repository of 16S rRNA amplicon sequence variants (ASVs), which are assigned multiple ontology-based terms. To date dbBact contains information from more than 1000 studies, which include 1500000 associations between 360000 ASVs and 6500 ontology terms. Importantly, dbBact offers a set of computational tools allowing users to easily query their own datasets against the database. To demonstrate how dbBact augments standard microbiome analysis we selected 16 published papers, and reanalyzed their data via dbBact. We uncovered novel inter-host similarities, potential intra-host sources of bacteria, commonalities across different diseases and lower host-specificity in disease-associated bacteria. We also demonstrate the ability to detect environmental sources, reagent-borne contaminants, and identify potential cross-sample contaminations. These analyses demonstrate how combining information across multiple studies and over diverse habitats leads to better understanding of underlying biological processes.
+Microbiological weathering of coarse residue deposit (CRD) kimberlite produced by the Venetia Diamond Mine, Limpopo, South Africa enhanced mineral carbonation relative to untreated material. Cultures of photosynthetically enriched biofilm produced maximal carbonation conditions when mixed with kimberlite and incubated under near surface conditions. Interestingly, mineral carbonation also occurred in the dark, under water-saturated conditions. The examination of mineralized biofilms in ca. 150 µm-thick-sections using light microscopy, X-ray fluorescence microscopy (XFM) and backscatter electron-scanning electron microscopy-energy dispersive x-ray spectrometry demonstrated that microbiological weathering aided in producing secondary calcium/magnesium carbonates on silicate grain boundaries. Calcium/magnesium sulphate(s) precipitated under vadose conditions demonstrating that evaporites formed upon drying. In this system, mineral carbonation was only observed in regions possessing bacteria, preserved within carbonate as cemented microcolonies. 16S rDNA molecular diversity of bacteria in kimberlite and in natural biofilms growing on kimberlite were dominated by Proteobacteria that are active in nitrogen, phosphorus and sulphur cycling. Cyanobacteria based enrichment cultures provided with nitrogen &amp; phosphorus (nutrients) to enhance growth, possessed increased diversity of bacteria, with Proteobacteria re-establishing themselves as the dominant bacterial lineage when incubated under dark, vadose conditions consistent with natural kimberlite. Overall, 16S rDNA analyses revealed that weathered kimberlite hosts a diverse microbiome consistent with soils, metal cycling and hydrocarbon degradation. Enhanced weathering and carbonate-cemented microcolonies demonstrate that microorganisms are key to mineral carbonation of kimberlite.
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1093/nar/gkad527
+10.1186/s12932-023-00082-4
 
 ---
 
@@ -353,15 +296,15 @@ All multicellular organisms host a diverse microbiome composed of microbial path
 
 ---
 
-## Real-time genomics for One Health.
- 16.06.2023, _L Urban, A Perlas, O Francino, J Martí-Carreras, BA Muga, JW Mwangi, L Boykin Okalebo, JL Stanton, A Black, N Waipara, C Fontsere, D Eccles, H Urel, T Reska, HE Morales, M Palmada-Flores, T Marques-Bonet, M Watsa, Z Libke, G Erkenswick, C van Oosterhout_
+## Methodological considerations for aqueous environmental RNA collection, preservation, and extraction.
+ 16.06.2023, _TS Jo_
 
 
-The ongoing degradation of natural systems and other environmental changes has put our society at a crossroad with respect to our future relationship with our planet. While the concept of One Health describes how human health is inextricably linked with environmental health, many of these complex interdependencies are still not well-understood. Here, we describe how the advent of real-time genomic analyses can benefit One Health and how it can enable timely, in-depth ecosystem health assessments. We introduce nanopore sequencing as the only disruptive technology that currently allows for real-time genomic analyses and that is already being used worldwide to improve the accessibility and versatility of genomic sequencing. We showcase real-time genomic studies on zoonotic disease, food security, environmental microbiome, emerging pathogens, and their antimicrobial resistances, and on environmental health itself - from genomic resource creation for wildlife conservation to the monitoring of biodiversity, invasive species, and wildlife trafficking. We stress why equitable access to real-time genomics in the context of One Health will be paramount and discuss related practical, legal, and ethical limitations.
+Environmental RNA (eRNA) analysis is expected to infer species' physiological information (health status, developmental stage, and environmental stress response) and their distribution and composition more correctly than environmental DNA (eDNA) analysis. With the prospect of such eRNA applications, there is an increasing need for technological development for efficient eRNA detection because of its physicochemical instability. The present study conducted a series of aquarium experiments using zebrafish (Danio rerio) and validated the methodologies for capture, preservation, and extraction of eRNA in a water sample. In the eRNA extraction experiment, an approximately 1.5-fold increase in lysis buffer volume resulted in a more than sixfold increase in target eRNA concentration. In the eRNA capture experiment, although GF/F and GF/A filters yielded similar eRNA concentrations, a GF/A filter may be capable of passing through more volume of water samples and consequently collecting more eRNA particles, given the time required for water filtration. In the eRNA preservation experiment, the use of RNA stabilization reagent (RNAlater) allowed for stably preserving target eRNA on a filter sample at - 20 and even 4 °C for 6 days at least. Altogether, the findings enable the improvement of eRNA availability from the field and easily preserve eRNA samples without deep-freezing, which will contribute to the refinement of eRNA analysis for biological and physiological monitoring in aquatic ecosystems.
 
 [Source](https://twitter.com/hashtag/biodiversity?src=hash&ref_src=twsrc%5Etfw)
 
-10.15252/msb.202311686
+10.1007/s44211-023-00382-w
 
 ---
 
@@ -371,15 +314,15 @@ The ongoing degradation of natural systems and other environmental changes has p
 
 ---
 
-## Achieving pan-microbiome biological insights via the dbBact knowledge base.
- 16.06.2023, _A Amir, E Ozel, Y Haberman, N Shental_
+## A Gamified Mobile App That Helps People Develop the Metacognitive Skills to Cope With Stressful Situations and Difficult Emotions: Formative Assessment of the InsightApp.
+ 16.06.2023, _V Amo, M Prentice, F Lieder_
 
 
-16S rRNA amplicon sequencing provides a relatively inexpensive culture-independent method for studying microbial communities. Although thousands of such studies have examined diverse habitats, it is difficult for researchers to use this vast trove of experiments when interpreting their own findings in a broader context. To bridge this gap, we introduce dbBact - a novel pan-microbiome resource. dbBact combines manually curated information from studies across diverse habitats, creating a collaborative central repository of 16S rRNA amplicon sequence variants (ASVs), which are assigned multiple ontology-based terms. To date dbBact contains information from more than 1000 studies, which include 1500000 associations between 360000 ASVs and 6500 ontology terms. Importantly, dbBact offers a set of computational tools allowing users to easily query their own datasets against the database. To demonstrate how dbBact augments standard microbiome analysis we selected 16 published papers, and reanalyzed their data via dbBact. We uncovered novel inter-host similarities, potential intra-host sources of bacteria, commonalities across different diseases and lower host-specificity in disease-associated bacteria. We also demonstrate the ability to detect environmental sources, reagent-borne contaminants, and identify potential cross-sample contaminations. These analyses demonstrate how combining information across multiple studies and over diverse habitats leads to better understanding of underlying biological processes.
+Ecological momentary interventions open up new and exciting possibilities for delivering mental health interventions and conducting research in real-life environments via smartphones. This makes designing psychotherapeutic ecological momentary interventions a promising step toward cost-effective and scalable digital solutions for improving mental health and understanding the effects and mechanisms of psychotherapy.
 
 [Source](https://twitter.com/hashtag/experiment?src=hash&ref_src=twsrc%5Etfw)
 
-10.1093/nar/gkad527
+10.2196/44429
 
 ---
 
@@ -413,19 +356,6 @@ The ongoing degradation of natural systems and other environmental changes has p
 
 ---
 
-## Divergence in cell cycle progression is associated with shifted phenology in a multivoltine moth: the European corn borer, Ostrinia nubilalis.
- 15.06.2023, _Q Xia, C Chen, EB Dopman, DA Hahn_
-
-
-_Animals, Moths, Zea mays, Larva, Diapause, Cell Division_
-Evolutionary change in diapause timing can be an adaptive response to changing seasonality, and even result in ecological speciation. However, the molecular and cellular mechanisms regulating shifts in diapause timing remain poorly understood. One of the hallmarks of diapause is a massive slowdown in the cell cycle of target organs such as the brain and primordial imaginal structures, and resumption of cell cycle proliferation is an indication of diapause termination and resumption of development. Characterizing cell cycle parameters between lineages differing in diapause life history timing may help identify molecular mechanisms associated with alterations of diapause timing. We tested the extent to which progression of the cell cycle differs across diapause between two genetically distinct European corn borer strains that differ in their seasonal diapause timing. We show the cell cycle slows down during larval diapause with a significant decrease in the proportion of cells in S phase. Brain-subesophageal complex cells slow primarily in G0/G1 phase whereas most wing disc cells are in G2 phase. Diapausing larvae of the earlier emerging, bivoltine E-strain (BE) suppressed cell cycle progression less than the later emerging, univoltine Z-strain (UZ) individuals, with a greater proportion of cells in S phase across both tissues during diapause. Additionally, resumption of cell cycle proliferation occurred earlier in the BE strain than in the UZ strain after exposure to diapause-terminating conditions. We propose that regulation of cell cycle progression rates ultimately drives differences in larval diapause termination, and adult emergence timing, between early- and late-emerging European corn borer strains.
-
-[Source](https://twitter.com/e_borer?ref_src=twsrc%5Etfw)
-
-10.1242/jeb.245244
-
----
-
 ## @e_borer
 
 [Source](https://twitter.com/e_borer?ref_src=twsrc%5Etfw)
@@ -435,18 +365,6 @@ Evolutionary change in diapause timing can be an adaptive response to changing s
 ## https://t.co/TEhvN2Fxge
 
 [Source](https://t.co/TEhvN2Fxge)
-
----
-
-## Review on adherence of the literature to official recommendations on albuminuria harmonization and standardization.
- 16.06.2023, _M Mussap, M Sortino, E Monteverde, R Tomaiuolo, G Banfi, M Locatelli, A Carobene_
-
-
-Albuminuria standardization is a key issue to produce reliable and equivalent results between laboratories. We investigated whether official recommendations on albuminuria harmonization are followed in the literature. The PubMed database was searched from June 1 to September 26, 2021. The search terms included urine albumin, UACR, and albuminuria. A total of 159 articles were considered eligible; 50.9 % reported the type of urine collection. Specifically, 58.1 % collected a random spot urine specimen, 21 % collected a first morning void, and 6.2 % collected a 24-h specimen. Overall, 15 % of articles reported data on sample shipping, storage, and centrifugation and 13.3 % mentioned the preanalytical phase without any data on albuminuria. The method for albuminuria was properly described in 31.4 % of articles; of these, 54.9 % used immunological methods, and 8.9 % contained errors or missing data. Most articles (76.7 %) expressed test results as albuminuria-to-creatininuria ratio. Different decision levels were utilized in 130 articles; of these, 36 % used a decision level of ≤30 mg/g creatininuria and 23.7 % used three decision levels (≤30, 30-300, and ≥300 mg/g). The failure to follow guidelines on albuminuria harmonization was mainly found in the preanalytical phase. The poor awareness of the importance of preanalytical steps on test result may be a possible explanation.
-
-[Source](https://twitter.com/e_seabloom/status/1669298473085140992?ref_src=twsrc%5Etfw)
-
-10.1515/cclm-2023-0408
 
 ---
 
@@ -462,46 +380,15 @@ Albuminuria standardization is a key issue to produce reliable and equivalent re
 
 ---
 
-## QMRA of beach water by Nanopore sequencing-based viability-metagenomics absolute quantification.
- 18.04.2023, _Y Yang, Y Deng, X Shi, L Liu, X Yin, W Zhao, S Li, C Yang, T Zhang_
-
-
-_Humans, Microbial Viability, Metagenomics, Reproducibility of Results, Nanopore Sequencing, Propidium, Azides, Risk Assessment, Bacteria, Escherichia coli_
-The majority of the current regulatory practices for routine monitoring of beach water quality rely on the culture-based enumeration of faecal indicator bacteria (FIB) to develop criteria for promoting the general public's health. To address the limitations of culture methods and the arguable reliability of FIB in indicating health risks, we developed a Nanopore metagenomic sequencing-based viable cell absolute quantification workflow to rapidly and accurately estimate a broad range of microbes in beach waters by a combination of propidium monoazide (PMA) and cellular spike-ins. Using the simple synthetic bacterial communities mixed with viable and heat-killed cells, we observed near-complete relic DNA removal by PMA with minimal disturbance to the composition of viable cells, demonstrating the feasibility of PMA treatment in profiling viable cells by Nanopore sequencing. On a simple mock community comprised of 15 prokaryotic species, our results showed high accordance between the expected and estimated concentrations, suggesting the accuracy of our method in absolute quantification. We then further assessed the accuracy of our method for counting viable Escherichia coli and Vibrio spp. in beach waters by comparing to culture-based method, which were also in high agreement. Furthermore, we demonstrated that 1 Gb sequences obtained within 2 h would be sufficient to quantify a species having a concentration of ≥ 10 cells/mL in beach waters. Using our viability-resolved quantification workflow to assess the microbial risk of the beach water, we conducted (1) screening-level quantitative microbial risk assessment (QMRA) to investigate human illness risk and site-specific risk patterns that might guide risk management efforts and (2) metagenomics-based resistome risk assessment to evaluate another layer of risk caused by difficult illness treatment due to antimicrobial resistance (AMR). In summary, our metagenomic workflow for the rapid absolute quantification of viable bacteria demonstrated its great potential in paving new avenues toward holistic microbial risk assessment.
+## QMRA of beach water by Nanopore sequencing-based viability-metagenomics absolute quantification
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0043135423002932)
-
-10.1016/j.watres.2023.119858
-
----
-
-## ResFinderFG v2.0: a database of antibiotic resistance genes obtained by functional metagenomics.
- 19.05.2023, _R Gschwind, S Ugarcina Perovic, M Weiss, M Petitjean, J Lao, LP Coelho, E Ruppé_
-
-
-Metagenomics can be used to monitor the spread of antibiotic resistance genes (ARGs). ARGs found in databases such as ResFinder and CARD primarily originate from culturable and pathogenic bacteria, while ARGs from non-culturable and non-pathogenic bacteria remain understudied. Functional metagenomics is based on phenotypic gene selection and can identify ARGs from non-culturable bacteria with a potentially low identity shared with known ARGs. In 2016, the ResFinderFG v1.0 database was created to collect ARGs from functional metagenomics studies. Here, we present the second version of the database, ResFinderFG v2.0, which is available on the Center of Genomic Epidemiology web server (https://cge.food.dtu.dk/services/ResFinderFG/). It comprises 3913 ARGs identified by functional metagenomics from 50 carefully curated datasets. We assessed its potential to detect ARGs in comparison to other popular databases in gut, soil and water (marine + freshwater) Global Microbial Gene Catalogues (https://gmgc.embl.de). ResFinderFG v2.0 allowed for the detection of ARGs that were not detected using other databases. These included ARGs conferring resistance to beta-lactams, cycline, phenicol, glycopeptide/cycloserine and trimethoprim/sulfonamide. Thus, ResFinderFG v2.0 can be used to identify ARGs differing from those found in conventional databases and therefore improve the description of resistomes.
-
-[Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad384/7173762)
-
-10.1093/nar/gkad384
 
 ---
 
 ## ResFinderFG v2.0: a database of antibiotic resistance genes obtained by functional metagenomics – Rémi Gschwind 
 
 [Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad384/7173762)
-
----
-
-## Achieving pan-microbiome biological insights via the dbBact knowledge base.
- 16.06.2023, _A Amir, E Ozel, Y Haberman, N Shental_
-
-
-16S rRNA amplicon sequencing provides a relatively inexpensive culture-independent method for studying microbial communities. Although thousands of such studies have examined diverse habitats, it is difficult for researchers to use this vast trove of experiments when interpreting their own findings in a broader context. To bridge this gap, we introduce dbBact - a novel pan-microbiome resource. dbBact combines manually curated information from studies across diverse habitats, creating a collaborative central repository of 16S rRNA amplicon sequence variants (ASVs), which are assigned multiple ontology-based terms. To date dbBact contains information from more than 1000 studies, which include 1500000 associations between 360000 ASVs and 6500 ontology terms. Importantly, dbBact offers a set of computational tools allowing users to easily query their own datasets against the database. To demonstrate how dbBact augments standard microbiome analysis we selected 16 published papers, and reanalyzed their data via dbBact. We uncovered novel inter-host similarities, potential intra-host sources of bacteria, commonalities across different diseases and lower host-specificity in disease-associated bacteria. We also demonstrate the ability to detect environmental sources, reagent-borne contaminants, and identify potential cross-sample contaminations. These analyses demonstrate how combining information across multiple studies and over diverse habitats leads to better understanding of underlying biological processes.
-
-[Source](https://twitter.com/NAR_Open?ref_src=twsrc%5Etfw)
-
-10.1093/nar/gkad527
 
 ---
 
