@@ -43,15 +43,15 @@ Despite the number of available therapies for ulcerative colitis (UC), severe si
 
 ---
 
-## Prevalence of Diabetic Retinopathy in the US in 2021.
- 15.06.2023, _EA Lundeen, Z Burke-Conte, DB Rein, JS Wittenborn, J Saaddine, AY Lee, AD Flaxman_
+## Evaluating the Brexit and COVID-19's influence on the UK economy: A data analysis.
+ 15.06.2023, _R Gupta, MM Hasan, SZ Islam, T Yasmin, J Uddin_
 
 
-Diabetic retinopathy (DR) is a common microvascular complication of diabetes and a leading cause of blindness among working-age adults in the US.
+The economic landscape of the United Kingdom has been significantly shaped by the intertwined issues of Brexit, COVID-19, and their interconnected impacts. Despite the country's robust and diverse economy, the disruptions caused by Brexit and the COVID-19 pandemic have created uncertainty and upheaval for both businesses and individuals. Recognizing the magnitude of these challenges, academic literature has directed its attention toward conducting immediate research in this crucial area. This study sets out to investigate key economic factors that have influenced various sectors of the UK economy and have broader economic implications within the context of Brexit and COVID-19. The factors under scrutiny include the unemployment rate, GDP index, earnings, and trade. To accomplish this, a range of data analysis tools and techniques were employed, including the Box-Jenkins method, neural network modeling, Google Trend analysis, and Twitter-sentiment analysis. The analysis encompassed different periods: pre-Brexit (2011-2016), Brexit (2016-2020), the COVID-19 period, and post-Brexit (2020-2021). The findings of the analysis offer intriguing insights spanning the past decade. For instance, the unemployment rate displayed a downward trend until 2020 but experienced a spike in 2021, persisting for a six-month period. Meanwhile, total earnings per week exhibited a gradual increase over time, and the GDP index demonstrated an upward trajectory until 2020 but declined during the COVID-19 period. Notably, trade experienced the most significant decline following both Brexit and the COVID-19 pandemic. Furthermore, the impact of these events exhibited variations across the UK's four regions and twelve industries. Wales and Northern Ireland emerged as the regions most affected by Brexit and COVID-19, with industries such as accommodation, construction, and wholesale trade particularly impacted in terms of earnings and employment levels. Conversely, industries such as finance, science, and health demonstrated an increased contribution to the UK's total GDP in the post-Brexit period, indicating some positive outcomes. It is worth highlighting that the impact of these economic factors was more pronounced on men than on women. Among all the variables analyzed, trade suffered the most severe consequences in the UK. By early 2021, the macroeconomic situation in the country was characterized by a simple dynamic: economic demand rebounded at a faster pace than supply, leading to shortages, bottlenecks, and inflation. The findings of this research carry significant value for the UK government and businesses, empowering them to adapt and innovate based on forecasts to navigate the challenges posed by Brexit and COVID-19. By doing so, they can promote long-term economic growth and effectively address the disruptions caused by these interrelated issues.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01493-2)
 
-10.1001/jamaophthalmol.2023.2289
+10.1371/journal.pone.0287342
 
 ---
 
