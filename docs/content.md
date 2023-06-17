@@ -1,12 +1,12 @@
-## Advancing positive social determinants of health through collective impact and the 100% New Mexico Model.
- 16.06.2023, _JS McCrae, AK Spain_
+## Kidney outcomes and prognostic factors of myeloma associated acute kidney injury in the contemporary era.
+ 17.06.2023, _C Ratnayake, SDJ Gibbs, D Lee_
 
 
-Communities across the U.S. and globally confront the challenge of transforming negative social determinants of health (SDOH) into positive ones. To address this complex social problem, the collective impact (CI) approach has promise but has been critiqued for insufficiently challenging structural inequities. Research applying CI to SDOH is limited. This mixed-methods study examined early adoption of CI in the 100% New Mexico initiative that aims to address SDOH population-wide in a state with strong cultural identity and assets but also persistent socio-economic inequality.
+Myeloma cast nephropathy (MCN) has historically been associated with poor kidney outcomes. We aimed to evaluate the kidney outcomes and identify prognostic factors of myeloma-associated acute kidney injury (M-AKI) in the contemporary era of anti-plasma cell therapy. Patients who received anti-myeloma therapy with M-AKI (January 2012 to June 2020) from a single centre were identified from electronic medical records. Diagnosis of MCN was either biopsy confirmed (BC) or clinically suspected (CS), the latter defined as acute kidney injury with reduced estimated glomerular filtration rate (eGFR) &lt;30 mL/min/1.73 m2 and involved serum free light chains (iSFLC) &gt;500 mg/L at diagnosis. Twenty-six patients with M-AKI were identified (BC: n = 13, CS: n = 13). Median eGFR at diagnosis was 12 (interquartile range 6-20) mL/min/1.73 m2 . All six dialysis-requiring patients achieved dialysis independence after 71 (43-208) days. The best-achieved eGFR was 47 (32-67) mL/min/1.73 m2 after 120 (63-167) days post-treatment, which was maintained at 47 (33-66) mL/min/1.73 m2 12 months post-treatment. Patients with best-achieved eGFR above the median were more likely to have achieved an iSFLC of &lt;20 mg/L (above median group 62% versus below median group 0%; p &lt; .001) and lower best post-treatment iSFLC (20 (12-90) versus 67 (29-146) mg/L; p &lt; .05). Best-achieved iSFLC was a prognostic factor for superior eGFR following treatment for M-AKI. Despite low eGFR at diagnosis, contemporary anti-myeloma therapy can achieve significant recovery of kidney function.
 
 [Source](https://twitter.com/svetlana_up/status/1668170517487009792?ref_src=twsrc%5Etfw)
 
-10.1186/s13690-023-01120-4
+10.1111/nep.14195
 
 ---
 
@@ -41,15 +41,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Age-appropriate potassium clearance from perinatal cerebrospinal fluid depends on choroid plexus NKCC1.
- 16.06.2023, _RM Fame, H Xu, A Pragana, M Lehtinen_
+## Retrospective chart review of patient socioeconomic status and language preference associated with live video telehealth in a pediatric dermatology practice.
+ 17.06.2023, _NC Zacher, KL Pickett, SJ Schmiege, CA Olson, AL Bruckner, LL Kohn_
 
 
-Regulation of the volume and electrolyte composition of the cerebrospinal fluid (CSF) is vital for brain development and function. The Na-K-Cl co-transporter NKCC1 in the choroid plexus (ChP) plays key roles in regulating CSF volume by co-transporting ions and mediating same-direction water movements. Our previous study showed ChP NKCC1 is highly phosphorylated in neonatal mice as the CSF K+ level drastically decreases and that overexpression of NKCC1 in the ChP accelerates CSF K+ clearance and reduces ventricle size [1]. These data suggest that NKCC1 mediates CSF K+ clearance following birth in mice. In this current study, we used CRISPR technology to create a conditional NKCC1 knockout mouse line and evaluated CSF K+ by Inductively Coupled Plasma Optical Emission spectroscopy (ICP-OES). We demonstrated ChP-specific reduction of total and phosphorylated NKCC1 in neonatal mice following embryonic intraventricular delivery of Cre recombinase using AAV2/5. ChP-NKCC1 knockdown was accompanied by a delayed perinatal clearance of CSF K+. No gross morphological disruptions were observed in the cerebral cortex. We extended our previous results by showing embryonic and perinatal rats shared key characteristics with mice, including decreased ChP NKCC1 expression level, increased ChP NKCC1 phosphorylation state, and increased CSF K+ levels compared to adult. Collectively, these follow up data support ChP NKCC1's role in age-appropriate CSF K+ clearance during neonatal development.
+Pediatric teledermatology rapidly expanded with the COVID-19 pandemic, and the impacts of this expansion on patients' access to care have not yet been entirely defined. In this retrospective study of 3027 patients in an academic pediatric dermatology practice, patients who identified as having a primary language other than English were less likely to access pediatric dermatology care during the COVID lockdown. This study did not identify a significant or meaningful difference in age, geography, socioeconomic status, ethnicity, or race between patients who were offered pediatric dermatology care that was either in-person or via synchronous telehealth. These findings are overall reassuring that there were not major disparities in telehealth utilization during the COVID shelter-in-place mandate, although highlight the need for institutions to ensure systems are in place to enhance telehealth access for patients with non-English primary language.
 
 [Source](https://twitter.com/Stanford?ref_src=twsrc%5Etfw)
 
-10.1186/s12987-023-00438-z
+10.1111/pde.15364
 
 ---
 
@@ -157,53 +157,15 @@ Obesity has been linked to higher morbidity and mortality in those that contract
 
 ---
 
-## Interventions to support decision making in people considering germline genetic testing for BRCA 1/2 pathogenic and likely pathogenic variants: A scoping review.
- 16.06.2023, _RA Pozzar, M Seven_
-
-
-Pathogenic and likely pathogenic variants in BRCA1 and BRCA2 (BRCA1/2) are medically actionable and may inform hereditary breast and ovarian cancer (HBOC) treatment and prevention. However, rates of germline genetic testing (GT) in people with and without cancer are suboptimal. Individuals' knowledge, attitudes, and beliefs may influence GT decisions. While genetic counseling (GC) provides decision support, the supply of genetic counselors is insufficient to meet demand. Accordingly, there is a need to explore the evidence on interventions that aim to support BRCA1/2 testing decisions. We conducted a scoping review of PubMed, CINAHL, Web of Science, and PsycINFO using search terms related to HBOC, GT, and decision making. First, we screened records to identify peer-reviewed reports that described interventions to support BRCA1/2 testing decisions. Next, we reviewed full-text reports and excluded studies that lacked statistical comparisons or enrolled previously tested individuals. Finally, we extracted study characteristics and findings into a table. All records and reports were reviewed independently by two authors; decisions were tracked in Rayyan, and discrepancies were resolved through discussion. Of 2116 unique citations, 25 met the eligibility criteria. Articles were published between 1997 and 2021 and described randomized trials and nonrandomized, quasi-experimental studies. Most studies tested technology-based (12/25, 48%) or written (9/25, 36%) interventions. Nearly half (12/25, 48%) of interventions were designed to complement traditional GC. Of the interventions compared to GC, 75% (6/8) increased or had a noninferior effect on knowledge, and 67% (4/6) decreased or had a noninferior effect on decisional conflict. Intervention effects on GT uptake were mixed, which may reflect evolving eligibility criteria for GT. Our findings suggest novel interventions may promote informed GT decision making, but many were developed to complement traditional GC. Trials that assess the effects of decision support interventions in diverse samples and evaluate implementation strategies for efficacious interventions are warranted.
-
-[Source](https://twitter.com/OrianeMoyne/status/1657155454093410304?ref_src=twsrc%5Etfw)
-
-10.1002/jgc4.1738
-
----
-
 ## May 12, 2023
 
 [Source](https://twitter.com/OrianeMoyne/status/1657155454093410304?ref_src=twsrc%5Etfw)
 
 ---
 
-## Biomolecular Markers of Recurrent Implantation Failure-A Review.
- 19.11.2021, _AE Mrozikiewicz, M Ożarowski, P Jędrzejczak_
-
-
-_Adult, Biomarkers, Blastocyst, Embryo Implantation, Endometrium, Estrogens, Female, Glycodelin, Humans, Immune System, Immunologic Factors, Infertility, Female, Leukemia Inhibitory Factor, Microbiota, Neovascularization, Pathologic, Progesterone, Receptors, Estrogen, Receptors, Progesterone, Recurrence, Risk Factors, Vagina_
-Currently, infertility affects 8-12% of reproductive age couples worldwide, a problem that also affects women suffering from recurrent implantation failure (RIF). RIF is a complex condition resulting from many physiological and molecular mechanisms involving dynamic endometrium-blastocyst interaction. The most important are the endometrial receptivity process, decidualization, trophoblast invasion, and blastocyst nesting. Although the exact multifactorial pathogenesis of RIF remains unclear, many studies have suggested the association between hormone level imbalance, disturbances of angiogenic and immunomodulatory factors, certain genetic polymorphisms, and occurrence of RIF. These studies were performed in quite small groups. Additionally, the results are inconsistent between ethnicities. The present review briefly summarizes the importance of factors involved in RIF development that could also serve as diagnostic determinants. Moreover, our review could constitute part of a new platform for discovery of novel diagnostic and therapeutic solutions for RIF.
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.06.14.544778v1)
-
-10.3390/ijms221810082
-
----
-
 ## Interaction of genital microbiota in infertile couples
 
 [Source](https://www.biorxiv.org/content/10.1101/2023.06.14.544778v1)
-
----
-
-## Therapy of replenishing and regulating for manic episode in bipolar disorder: study protocol for a prospective, double-blind, randomized controlled trial.
- 16.06.2023, _Y Yang, Y Haining, J Hongxiao, N Yanzhe, W Di, Z Lei, Y Kaijuan, G Yumeng, W Fei, S Weishuang, C Pei_
-
-
-_Humans, Adolescent, Bipolar Disorder, Mania, Quality of Life, Prospective Studies, Double-Blind Method, Treatment Outcome, Randomized Controlled Trials as Topic_
-Bipolar disorder (BD) is a chronic and recurrent disorder characterized by biphasic mood episodes of mania or hypomania and depression. It affects more than 1% of the global population and is a leading cause of disability in young people. Currently available treatments for BD are still fairly limited in terms of efficacy, with high rates of non-adherence, non-response, and undesirable side effects. Traditional Chinese medicine (TCM) has a long history and rich experience in stabilizing mania and improving quality of life. Aiming at rebalancing and in BD, therapy of replenishing and regulating (RYRY therapy) has been in clinical use for years in China. The present prospective, double-blind, randomized controlled trial is designed to investigate the efficacy and safety of RYRY therapy for bipolar mania and its possible mechanism from the point of regulating gut microbiota and anti-inflammation. A total of 60 eligible participants will be recruited from Beijing Anding Hospital. They will be randomized to either the study group or the control group in a ratio of 1∶1. Participants allocated to the study group will receive RYRY granule, while placebo granule will be applied in the control group. Participants in both groups will be prescribed conventional therapy for manic episode in BD. Four scheduled visits will be conducted over 4 weeks. Outcome measurements include Young Mania Rating Scale, TCM Symptom Pattern Rating Scale, Treatment Emergent Symptom Scale, levels of C-reactive protein, interleukin-6 and tumor necrosis factor-α and the gut microbial community profile of stool samples. Safety outcomes and adverse events will also be recorded. In this study, we set a number of scientific and objective assessments to evaluate the efficacy of RYRY therapy and study into its possible mechanism, hopefully offering clinicians an alternative approach to BD.
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.06.13.544832v1)
-
-10.19852/j.cnki.jtcm.20230328.002
 
 ---
 
@@ -267,15 +229,15 @@ Bipolar disorder (BD) is a chronic and recurrent disorder characterized by bipha
 
 ---
 
-## Suicide postvention for staff and students on university campuses: a scoping review.
- 16.06.2023, _SN Allie, J Bantjes, K Andriessen_
+## Kidney outcomes and prognostic factors of myeloma associated acute kidney injury in the contemporary era.
+ 17.06.2023, _C Ratnayake, SDJ Gibbs, D Lee_
 
 
-To examine current knowledge about suicide bereavement and postvention interventions for university staff and students.
+Myeloma cast nephropathy (MCN) has historically been associated with poor kidney outcomes. We aimed to evaluate the kidney outcomes and identify prognostic factors of myeloma-associated acute kidney injury (M-AKI) in the contemporary era of anti-plasma cell therapy. Patients who received anti-myeloma therapy with M-AKI (January 2012 to June 2020) from a single centre were identified from electronic medical records. Diagnosis of MCN was either biopsy confirmed (BC) or clinically suspected (CS), the latter defined as acute kidney injury with reduced estimated glomerular filtration rate (eGFR) &lt;30 mL/min/1.73 m2 and involved serum free light chains (iSFLC) &gt;500 mg/L at diagnosis. Twenty-six patients with M-AKI were identified (BC: n = 13, CS: n = 13). Median eGFR at diagnosis was 12 (interquartile range 6-20) mL/min/1.73 m2 . All six dialysis-requiring patients achieved dialysis independence after 71 (43-208) days. The best-achieved eGFR was 47 (32-67) mL/min/1.73 m2 after 120 (63-167) days post-treatment, which was maintained at 47 (33-66) mL/min/1.73 m2 12 months post-treatment. Patients with best-achieved eGFR above the median were more likely to have achieved an iSFLC of &lt;20 mg/L (above median group 62% versus below median group 0%; p &lt; .001) and lower best post-treatment iSFLC (20 (12-90) versus 67 (29-146) mg/L; p &lt; .05). Best-achieved iSFLC was a prognostic factor for superior eGFR following treatment for M-AKI. Despite low eGFR at diagnosis, contemporary anti-myeloma therapy can achieve significant recovery of kidney function.
 
 [Source](https://twitter.com/Microbes4ever/status/1668524788044767233?ref_src=twsrc%5Etfw)
 
-10.1136/bmjopen-2022-068730
+10.1111/nep.14195
 
 ---
 
@@ -317,15 +279,15 @@ All multicellular organisms host a diverse microbiome composed of microbial path
 
 ---
 
-## Interventions to support decision making in people considering germline genetic testing for BRCA 1/2 pathogenic and likely pathogenic variants: A scoping review.
- 16.06.2023, _RA Pozzar, M Seven_
+## Benchmark Models for Elucidating Ligand Effects: Thiols Ligated Isostructural Cu6 Nanoclusters.
+ 17.06.2023, _L Zhang, M Guo, J Zhou, C Fang, X Sun_
 
 
-Pathogenic and likely pathogenic variants in BRCA1 and BRCA2 (BRCA1/2) are medically actionable and may inform hereditary breast and ovarian cancer (HBOC) treatment and prevention. However, rates of germline genetic testing (GT) in people with and without cancer are suboptimal. Individuals' knowledge, attitudes, and beliefs may influence GT decisions. While genetic counseling (GC) provides decision support, the supply of genetic counselors is insufficient to meet demand. Accordingly, there is a need to explore the evidence on interventions that aim to support BRCA1/2 testing decisions. We conducted a scoping review of PubMed, CINAHL, Web of Science, and PsycINFO using search terms related to HBOC, GT, and decision making. First, we screened records to identify peer-reviewed reports that described interventions to support BRCA1/2 testing decisions. Next, we reviewed full-text reports and excluded studies that lacked statistical comparisons or enrolled previously tested individuals. Finally, we extracted study characteristics and findings into a table. All records and reports were reviewed independently by two authors; decisions were tracked in Rayyan, and discrepancies were resolved through discussion. Of 2116 unique citations, 25 met the eligibility criteria. Articles were published between 1997 and 2021 and described randomized trials and nonrandomized, quasi-experimental studies. Most studies tested technology-based (12/25, 48%) or written (9/25, 36%) interventions. Nearly half (12/25, 48%) of interventions were designed to complement traditional GC. Of the interventions compared to GC, 75% (6/8) increased or had a noninferior effect on knowledge, and 67% (4/6) decreased or had a noninferior effect on decisional conflict. Intervention effects on GT uptake were mixed, which may reflect evolving eligibility criteria for GT. Our findings suggest novel interventions may promote informed GT decision making, but many were developed to complement traditional GC. Trials that assess the effects of decision support interventions in diverse samples and evaluate implementation strategies for efficacious interventions are warranted.
+Atomically precise copper nanoclusters (Cu NCs) have attracted tremendous attention for their huge potential in many applications. However, the uncertainty of the growth mechanism and complexity of the crystallization process hinder the in-depth understanding of their properties. In particular, the ligand effect has been rarely explored at the atomic/molecular level due to the lack of feasible models. Herein, three isostructural Cu6 NCs ligated with diverse mono-thiol ligands (2-mercaptobenzimidazole, 2-mercaptobenzothiazole, and 2-mercaptobenzoxazole, respectively) are successfully synthesized, which provide an ideal platform to unambiguously address the intrinsic role of ligands. The overall atom-by-atom structural evolution process of Cu6 NCs is mapped out with delicate mass spectrometry (MS) for the first time. It is intriguingly found that the ligands, albeit only atomic difference (NH, O, and S), can profoundly affect the building-up processes, chemical properties, atomic structures, as well as catalytic activities of Cu NCs. Furthermore, ion-molecule reactions combined with density functional theory (DFT) calculations demonstrate that the defective sites formed on ligand can significantly contribute to the activation of molecular oxygen. This study provides fundamental insights into the ligand effect, which is vital for the delicate design of high-efficient Cu NCs-based catalysts.
 
 [Source](https://twitter.com/hashtag/diverse?src=hash&ref_src=twsrc%5Etfw)
 
-10.1002/jgc4.1738
+10.1002/smll.202301633
 
 ---
 
@@ -335,15 +297,15 @@ Pathogenic and likely pathogenic variants in BRCA1 and BRCA2 (BRCA1/2) are medic
 
 ---
 
-## Oral microbial communities in 5-year-old children with versus without dental caries.
- 16.06.2023, _Z Yang, T Cai, Y Li, D Jiang, J Luo, Z Zhou_
+## Rookery through rehabilitation: Microbial community assembly in newborn harbour seals after maternal separation.
+ 17.06.2023, _AD Switzer, BJ Callahan, EK Costello, EM Bik, C Fontaine, FMD Gulland, DA Relman_
 
 
-Caries in young children has received more and more attention. The study of the oral microbiota may help to understand the polymicrobial etiology of dental caries.
+Microbial community assembly remains largely unexplored in marine mammals, despite its potential importance for conservation and management. Here, neonatal microbiota assembly was studied in harbour seals (Phoca vitulina richardii) at a rehabilitation facility soon after maternal separation, through weaning, to the time of release back to their native environment. We found that the gingival and rectal communities of rehabilitated harbour seals were distinct from the microbiotas of formula and pool water, and became increasingly diverse and dissimilar over time, ultimately resembling the gingival and rectal communities of local wild harbour seals. Harbour seal microbiota assembly was compared to that of human infants, revealing the rapid emergence of host specificity and evidence of phylosymbiosis even though these harbour seals had been raised by humans. Early life prophylactic antibiotics were associated with changes in the composition of the harbour seal gingival and rectal communities and surprisingly, with transient increases in alpha diversity, perhaps because of microbiota sharing during close cohabitation with other harbour seals. Antibiotic-associated effects dissipated over time. These results suggest that while early life maternal contact may provide seeding for microbial assembly, co-housing of conspecifics during rehabilitation may help neonatal mammals achieve a healthy host-specific microbiota with features of resilience.
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1186/s12903-023-03055-2
+10.1111/1462-2920.16444
 
 ---
 
@@ -371,15 +333,15 @@ Caries in young children has received more and more attention. The study of the 
 
 ---
 
-## Application of machine learning algorithms and feature selection in rapeseed (Brassica napus L.) breeding for seed yield.
- 16.06.2023, _M Shahsavari, V Mohammadi, B Alizadeh, H Alizadeh_
+## Design, synthesis, biological evaluation and molecular docking studies of quercetin-linker-H2S donor conjugates for the treatment of diabetes and wound healing.
+ 17.06.2023, _S He, J Liu, L Hu, Y Zhan, H Tong, H Zhu, H Guo, H Sun, M Liu_
 
 
-Studying the relationships between rapeseed seed yield (SY) and its yield-related traits can assist rapeseed breeders in the efficient indirect selection of high-yielding varieties. However, since the conventional and linear methods cannot interpret the complicated relations between SY and other traits, employing advanced machine learning algorithms is inevitable. Our main goal was to find the best combination of machine learning algorithms and feature selection methods to maximize the efficiency of indirect selection for rapeseed SY.
+Based on the use of quercetin for treating diabetes and H2S for promoting wound healing, a series of three quercetin-linker-H2S donor conjugates was designed, synthesized and characterized by 1H NMR, 13C NMR and MS. Meanwhile, in vitro evaluation of these compounds was also researched by IR-HepG2 treatment experiment, MTT assay, scratch test and tubule formation experiment. The three compounds could be used to treat insulin resistance induced by high glucose and promote the proliferation of human umbilical vein endothelial cells, wound healing, and the formation of tubules in vitro under a high-glucose environment. Our results illustrate that these compounds could be used to treat diabetes and promote wound healing at the same time. Furthermore, molecular docking study results of the compounds were consistent with the evaluated biological activity. In vivo research of compounds is underway.
 
 [Source](https://twitter.com/hashtag/experiment?src=hash&ref_src=twsrc%5Etfw)
 
-10.1186/s13007-023-01035-9
+10.1002/cbdv.202300513
 
 ---
 
@@ -413,19 +375,6 @@ Studying the relationships between rapeseed seed yield (SY) and its yield-relate
 
 ---
 
-## Divergence in cell cycle progression is associated with shifted phenology in a multivoltine moth: the European corn borer, Ostrinia nubilalis.
- 15.06.2023, _Q Xia, C Chen, EB Dopman, DA Hahn_
-
-
-_Animals, Moths, Zea mays, Larva, Diapause, Cell Division_
-Evolutionary change in diapause timing can be an adaptive response to changing seasonality, and even result in ecological speciation. However, the molecular and cellular mechanisms regulating shifts in diapause timing remain poorly understood. One of the hallmarks of diapause is a massive slowdown in the cell cycle of target organs such as the brain and primordial imaginal structures, and resumption of cell cycle proliferation is an indication of diapause termination and resumption of development. Characterizing cell cycle parameters between lineages differing in diapause life history timing may help identify molecular mechanisms associated with alterations of diapause timing. We tested the extent to which progression of the cell cycle differs across diapause between two genetically distinct European corn borer strains that differ in their seasonal diapause timing. We show the cell cycle slows down during larval diapause with a significant decrease in the proportion of cells in S phase. Brain-subesophageal complex cells slow primarily in G0/G1 phase whereas most wing disc cells are in G2 phase. Diapausing larvae of the earlier emerging, bivoltine E-strain (BE) suppressed cell cycle progression less than the later emerging, univoltine Z-strain (UZ) individuals, with a greater proportion of cells in S phase across both tissues during diapause. Additionally, resumption of cell cycle proliferation occurred earlier in the BE strain than in the UZ strain after exposure to diapause-terminating conditions. We propose that regulation of cell cycle progression rates ultimately drives differences in larval diapause termination, and adult emergence timing, between early- and late-emerging European corn borer strains.
-
-[Source](https://twitter.com/e_borer?ref_src=twsrc%5Etfw)
-
-10.1242/jeb.245244
-
----
-
 ## @e_borer
 
 [Source](https://twitter.com/e_borer?ref_src=twsrc%5Etfw)
@@ -435,18 +384,6 @@ Evolutionary change in diapause timing can be an adaptive response to changing s
 ## https://t.co/TEhvN2Fxge
 
 [Source](https://t.co/TEhvN2Fxge)
-
----
-
-## H-type hypertension is a risk factor for chronic total coronary artery occlusion: a cross-sectional study from southwest China.
- 16.06.2023, _K Xiao, Z Xv, Y Xv, J Wang, L Xiao, Z Kang, J Zhu, Z He, G Huang_
-
-
-Chronic total coronary occlusion (CTO) is serious and the "last bastion" of percutaneous coronary intervention. Hypertension and hyperhomocysteinemia (HHCY) are synergistic and significantly increase cardiovascular event risk. The relationship between H-type hypertension and CTO remains unclear; thus, this cross-sectional study investigated this potential association.
-
-[Source](https://twitter.com/e_seabloom/status/1669298473085140992?ref_src=twsrc%5Etfw)
-
-10.1186/s12872-023-03345-1
 
 ---
 
@@ -462,46 +399,15 @@ Chronic total coronary occlusion (CTO) is serious and the "last bastion" of perc
 
 ---
 
-## QMRA of beach water by Nanopore sequencing-based viability-metagenomics absolute quantification.
- 18.04.2023, _Y Yang, Y Deng, X Shi, L Liu, X Yin, W Zhao, S Li, C Yang, T Zhang_
-
-
-_Humans, Microbial Viability, Metagenomics, Reproducibility of Results, Nanopore Sequencing, Propidium, Azides, Risk Assessment, Bacteria, Escherichia coli_
-The majority of the current regulatory practices for routine monitoring of beach water quality rely on the culture-based enumeration of faecal indicator bacteria (FIB) to develop criteria for promoting the general public's health. To address the limitations of culture methods and the arguable reliability of FIB in indicating health risks, we developed a Nanopore metagenomic sequencing-based viable cell absolute quantification workflow to rapidly and accurately estimate a broad range of microbes in beach waters by a combination of propidium monoazide (PMA) and cellular spike-ins. Using the simple synthetic bacterial communities mixed with viable and heat-killed cells, we observed near-complete relic DNA removal by PMA with minimal disturbance to the composition of viable cells, demonstrating the feasibility of PMA treatment in profiling viable cells by Nanopore sequencing. On a simple mock community comprised of 15 prokaryotic species, our results showed high accordance between the expected and estimated concentrations, suggesting the accuracy of our method in absolute quantification. We then further assessed the accuracy of our method for counting viable Escherichia coli and Vibrio spp. in beach waters by comparing to culture-based method, which were also in high agreement. Furthermore, we demonstrated that 1 Gb sequences obtained within 2 h would be sufficient to quantify a species having a concentration of ≥ 10 cells/mL in beach waters. Using our viability-resolved quantification workflow to assess the microbial risk of the beach water, we conducted (1) screening-level quantitative microbial risk assessment (QMRA) to investigate human illness risk and site-specific risk patterns that might guide risk management efforts and (2) metagenomics-based resistome risk assessment to evaluate another layer of risk caused by difficult illness treatment due to antimicrobial resistance (AMR). In summary, our metagenomic workflow for the rapid absolute quantification of viable bacteria demonstrated its great potential in paving new avenues toward holistic microbial risk assessment.
+## QMRA of beach water by Nanopore sequencing-based viability-metagenomics absolute quantification
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0043135423002932)
-
-10.1016/j.watres.2023.119858
-
----
-
-## ResFinderFG v2.0: a database of antibiotic resistance genes obtained by functional metagenomics.
- 19.05.2023, _R Gschwind, S Ugarcina Perovic, M Weiss, M Petitjean, J Lao, LP Coelho, E Ruppé_
-
-
-Metagenomics can be used to monitor the spread of antibiotic resistance genes (ARGs). ARGs found in databases such as ResFinder and CARD primarily originate from culturable and pathogenic bacteria, while ARGs from non-culturable and non-pathogenic bacteria remain understudied. Functional metagenomics is based on phenotypic gene selection and can identify ARGs from non-culturable bacteria with a potentially low identity shared with known ARGs. In 2016, the ResFinderFG v1.0 database was created to collect ARGs from functional metagenomics studies. Here, we present the second version of the database, ResFinderFG v2.0, which is available on the Center of Genomic Epidemiology web server (https://cge.food.dtu.dk/services/ResFinderFG/). It comprises 3913 ARGs identified by functional metagenomics from 50 carefully curated datasets. We assessed its potential to detect ARGs in comparison to other popular databases in gut, soil and water (marine + freshwater) Global Microbial Gene Catalogues (https://gmgc.embl.de). ResFinderFG v2.0 allowed for the detection of ARGs that were not detected using other databases. These included ARGs conferring resistance to beta-lactams, cycline, phenicol, glycopeptide/cycloserine and trimethoprim/sulfonamide. Thus, ResFinderFG v2.0 can be used to identify ARGs differing from those found in conventional databases and therefore improve the description of resistomes.
-
-[Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad384/7173762)
-
-10.1093/nar/gkad384
 
 ---
 
 ## ResFinderFG v2.0: a database of antibiotic resistance genes obtained by functional metagenomics – Rémi Gschwind 
 
 [Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad384/7173762)
-
----
-
-## Achieving pan-microbiome biological insights via the dbBact knowledge base.
- 16.06.2023, _A Amir, E Ozel, Y Haberman, N Shental_
-
-
-16S rRNA amplicon sequencing provides a relatively inexpensive culture-independent method for studying microbial communities. Although thousands of such studies have examined diverse habitats, it is difficult for researchers to use this vast trove of experiments when interpreting their own findings in a broader context. To bridge this gap, we introduce dbBact - a novel pan-microbiome resource. dbBact combines manually curated information from studies across diverse habitats, creating a collaborative central repository of 16S rRNA amplicon sequence variants (ASVs), which are assigned multiple ontology-based terms. To date dbBact contains information from more than 1000 studies, which include 1500000 associations between 360000 ASVs and 6500 ontology terms. Importantly, dbBact offers a set of computational tools allowing users to easily query their own datasets against the database. To demonstrate how dbBact augments standard microbiome analysis we selected 16 published papers, and reanalyzed their data via dbBact. We uncovered novel inter-host similarities, potential intra-host sources of bacteria, commonalities across different diseases and lower host-specificity in disease-associated bacteria. We also demonstrate the ability to detect environmental sources, reagent-borne contaminants, and identify potential cross-sample contaminations. These analyses demonstrate how combining information across multiple studies and over diverse habitats leads to better understanding of underlying biological processes.
-
-[Source](https://twitter.com/NAR_Open?ref_src=twsrc%5Etfw)
-
-10.1093/nar/gkad527
 
 ---
 
