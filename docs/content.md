@@ -139,15 +139,33 @@ Obesity has been linked to higher morbidity and mortality in those that contract
 
 ---
 
+## Positive Psychological Intervention Delivered Using Virtual Reality in Patients on Hemodialysis With Comorbid Depression: Protocol and Design for the Joviality Randomized Controlled Trial.
+ 16.06.2023, _R Hernandez, K Wilund, K Solai, D Tamayo, D Fast, P Venkatesan, JP Lash, CM Lora, L Martinez, G Martin Alemañy, A Martinez, S Kwon, D Romero, MHEM Browning, JT Moskowitz_
+
+
+Depression is highly prevalent in individuals on hemodialysis, but it is infrequently identified and remains undertreated. In this paper, we present details of the methodology of a randomized controlled trial (RCT) aimed at testing the feasibility and preliminary efficacy of a 5-week positive psychological intervention in individuals on hemodialysis with comorbid depression delivered using immersive virtual reality (VR) technology.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1665656925969604608?ref_src=twsrc%5Etfw)
+
+10.2196/45100
+
+---
+
 ## June 5, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1665656925969604608?ref_src=twsrc%5Etfw)
 
 ---
 
-## Guild and Niche Determination Enable Targeted Alteration of the Microbiome
+## Guild and Niche Determination Enable Targeted Alteration of the Microbiome.
+ 30.05.2023, _O Moyne, M Al-Bassam, C Lieng, D Thiruppathy, GJ Norton, M Kumar, E Haddad, LS Zaramela, K Zengler_
+
+
+Microbiome science has greatly contributed to our understanding of microbial life and its essential roles for the environment and human health 1-5 . However, the nature of microbial interactions and how microbial communities respond to perturbations remains poorly understood, resulting in an often descriptive and correlation-based approach to microbiome research 6-8 . Achieving causal and predictive microbiome science would require direct functional measurements in complex communities to better understand the metabolic role of each member and its interactions with others. In this study we present a new approach that integrates transcription and translation measurements to predict competition and substrate preferences within microbial communities, consequently enabling the selective manipulation of the microbiome. By performing metatranscriptomic (metaRNA-Seq) and metatranslatomic (metaRibo-Seq) analysis in complex samples, we classified microbes into functional groups (i.e. guilds) and demonstrated that members of the same guild are competitors. Furthermore, we predicted preferred substrates based on importer proteins, which specifically benefited selected microbes in the community (i.e. their niche) and simultaneously impaired their competitors. We demonstrated the scalability of microbial guild and niche determination to natural samples and its ability to successfully manipulate microorganisms in complex microbiomes. Thus, the approach enhances the design of pre- and probiotic interventions to selectively alter members within microbial communities, advances our understanding of microbial interactions, and paves the way for establishing causality in microbiome science.
 
 [Source](https://www.biorxiv.org/content/10.1101/2023.05.11.540389v1)
+
+10.1101/2023.05.11.540389
 
 ---
 
@@ -256,9 +274,33 @@ The effects of air pollutants, particularly polycyclic aromatic hydrocarbons (PA
 
 ---
 
+## Methods for Analyzing the Gut Microbiota in Diabetic Retinopathy.
+ 16.06.2023, _Y Huang, JH Ma, Y Peng, X Yang, J Chen, S Tang_
+
+
+The gut microbiome that inhabits human hosts plays an important role in the development of a healthy host immune system. Many studies have shown that gut microbiota is involved in the occurrence and development of diabetic retinopathy (DR). With the advent of sequencing technology of the bacterial 16S ribosomal RNA (rRNA) gene, microbiota studies are becoming more feasible. Here, we described a study protocol to characterize the microbiota composite in the DR and non-DR patients compared with healthy controls.
+
+[Source](https://twitter.com/hashtag/microbiota?src=hash&ref_src=twsrc%5Etfw)
+
+10.1007/978-1-0716-3255-0_10
+
+---
+
 ## #microbiota
 
 [Source](https://twitter.com/hashtag/microbiota?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Outer membrane protein OMP76 of Riemerella anatipestifer contributes to complement evasion and virulence by binding to duck complement factor vitronectin.
+ 16.06.2023, _S Li, Y Wang, R Yang, X Zhu, H Bai, X Deng, J Bai, Y Zhang, Y Xiao, Z Li, Z Liu, Z Zhou_
+
+
+Riemerella anatipestifer is an important bacterial pathogen in poultry. Pathogenic bacteria recruit host complement factors to resist the bactericidal effect of serum complement. Vitronectin (Vn) is a complementary regulatory protein that inhibits the formation of the membrane attack complex (MAC). Microbes use outer membrane proteins (OMPs) to hijack Vn for complement evasion. However, the mechanism by which R. anatipestifer achieves evasion is unclear. This study aimed to characterise OMPs of R. anatipestifer which interact with duck Vn (dVn) during complement evasion. Far-western assays and comparison of wild-type and mutant strains that were treated with dVn and duck serum demonstrated particularly strong binding of OMP76 to dVn. These data were confirmed with Escherichia coli strains expressing and not expressing OMP76. Combining tertiary structure analysis and homology modelling, truncated and knocked-out fragments of OMP76 showed that a cluster of critical amino acids in an extracellular loop of OMP76 mediate the interaction with dVn. Moreover, binding of dVn to R. anatipestifer inhibited MAC deposition on the bacterial surface thereby enhancing survival in duck serum. Virulence of the mutant strain ΔOMP76 was attenuated significantly relative to the wild-type strain. Furthermore, adhesion and invasion abilities of ΔOMP76 decreased, and histopathological changes showed that ΔOMP76 was less virulent in ducklings. Thus, OMP76 is a key virulence factor of R. anatipestifer. The identification of OMP76-mediated evasion of complement by recruitment of dVn contributes significantly to the understanding of the molecular mechanism by which R. anatipestifer escapes host innate immunity and provides a new target for the development of subunit vaccines.
+
+[Source](https://twitter.com/hashtag/poultry?src=hash&ref_src=twsrc%5Etfw)
+
+10.1080/21505594.2023.2223060
 
 ---
 
@@ -408,6 +450,19 @@ Municipal solid waste incineration (MSWI) with grate technology is a widely appl
 
 ---
 
+## 5300-Year-old soil carbon is less primed than young soil organic matter.
+ 22.01.2023, _J Su, H Zhang, X Han, R Lv, L Liu, Y Jiang, H Li, Y Kuzyakov, C Wei_
+
+
+_Soil, Carbon, Nitrogen, Soil Microbiology, Glucose_
+Soils harbor more than three times as much carbon (C) as the atmosphere, a large fraction of which (stable organic matter) serves as the most important global C reservoir due to its long residence time. Litter and root inputs bring fresh organic matter (FOM) into the soil and accelerate the turnover of stable C pools, and this phenomenon is termed the "priming effect" (PE). Compared with knowledge about labile soil C pools, very little is known about the vulnerability of stable C to priming. Using two soils that substantially differed in age (500 and 5300 years before present) and in the degree of chemical recalcitrance and physical protection of soil organic matter (SOM), we showed that leaf litter amendment primed 264% more organic C from the young SOM than from the old soil with very stable C. Hierarchical partitioning analysis confirmed that SOM stability, reflected mainly by available C and aggregate protection of SOM, is the most important predictor of leaf litter-induced PE. The addition of complex FOM (i.e., leaf litter) caused a higher bacterial oligotroph/copiotroph (K-/r-strategists) ratio, leading to a PE that was 583% and 126% greater than when simple FOM (i.e., glucose) was added to the young and old soils, respectively. This implies that the PE intensity depends on the chemical similarity between the primer (here FOM) and SOM. Nitrogen (N) mining existed when N and simple FOM were added (i.e., Glucose+N), and N addition raised the leaf litter-induced PE in the old soil that had low N availability, which was well explained by the microbial stoichiometry. In conclusion, the PE induced by FOM inputs strongly decreases with increasing SOM stability. However, the contribution of stable SOM to CO2 efflux cannot be disregarded due to its huge pool size.
+
+[Source](https://twitter.com/niooknaw?ref_src=twsrc%5Etfw)
+
+10.1111/gcb.16463
+
+---
+
 ## @niooknaw
 
 [Source](https://twitter.com/niooknaw?ref_src=twsrc%5Etfw)
@@ -457,9 +512,16 @@ Evolutionary change in diapause timing can be an adaptive response to changing s
 
 ---
 
-## QMRA of beach water by Nanopore sequencing-based viability-metagenomics absolute quantification
+## QMRA of beach water by Nanopore sequencing-based viability-metagenomics absolute quantification.
+ 18.04.2023, _Y Yang, Y Deng, X Shi, L Liu, X Yin, W Zhao, S Li, C Yang, T Zhang_
+
+
+_Humans, Microbial Viability, Metagenomics, Reproducibility of Results, Nanopore Sequencing, Propidium, Azides, Risk Assessment, Bacteria, Escherichia coli_
+The majority of the current regulatory practices for routine monitoring of beach water quality rely on the culture-based enumeration of faecal indicator bacteria (FIB) to develop criteria for promoting the general public's health. To address the limitations of culture methods and the arguable reliability of FIB in indicating health risks, we developed a Nanopore metagenomic sequencing-based viable cell absolute quantification workflow to rapidly and accurately estimate a broad range of microbes in beach waters by a combination of propidium monoazide (PMA) and cellular spike-ins. Using the simple synthetic bacterial communities mixed with viable and heat-killed cells, we observed near-complete relic DNA removal by PMA with minimal disturbance to the composition of viable cells, demonstrating the feasibility of PMA treatment in profiling viable cells by Nanopore sequencing. On a simple mock community comprised of 15 prokaryotic species, our results showed high accordance between the expected and estimated concentrations, suggesting the accuracy of our method in absolute quantification. We then further assessed the accuracy of our method for counting viable Escherichia coli and Vibrio spp. in beach waters by comparing to culture-based method, which were also in high agreement. Furthermore, we demonstrated that 1 Gb sequences obtained within 2 h would be sufficient to quantify a species having a concentration of ≥ 10 cells/mL in beach waters. Using our viability-resolved quantification workflow to assess the microbial risk of the beach water, we conducted (1) screening-level quantitative microbial risk assessment (QMRA) to investigate human illness risk and site-specific risk patterns that might guide risk management efforts and (2) metagenomics-based resistome risk assessment to evaluate another layer of risk caused by difficult illness treatment due to antimicrobial resistance (AMR). In summary, our metagenomic workflow for the rapid absolute quantification of viable bacteria demonstrated its great potential in paving new avenues toward holistic microbial risk assessment.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0043135423002932)
+
+10.1016/j.watres.2023.119858
 
 ---
 
