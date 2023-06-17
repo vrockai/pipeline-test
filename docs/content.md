@@ -1,12 +1,12 @@
-## Positive Psychological Intervention Delivered Using Virtual Reality in Patients on Hemodialysis With Comorbid Depression: Protocol and Design for the Joviality Randomized Controlled Trial.
- 16.06.2023, _R Hernandez, K Wilund, K Solai, D Tamayo, D Fast, P Venkatesan, JP Lash, CM Lora, L Martinez, G Martin Alemañy, A Martinez, S Kwon, D Romero, MHEM Browning, JT Moskowitz_
+## Advancing positive social determinants of health through collective impact and the 100% New Mexico Model.
+ 16.06.2023, _JS McCrae, AK Spain_
 
 
-Depression is highly prevalent in individuals on hemodialysis, but it is infrequently identified and remains undertreated. In this paper, we present details of the methodology of a randomized controlled trial (RCT) aimed at testing the feasibility and preliminary efficacy of a 5-week positive psychological intervention in individuals on hemodialysis with comorbid depression delivered using immersive virtual reality (VR) technology.
+Communities across the U.S. and globally confront the challenge of transforming negative social determinants of health (SDOH) into positive ones. To address this complex social problem, the collective impact (CI) approach has promise but has been critiqued for insufficiently challenging structural inequities. Research applying CI to SDOH is limited. This mixed-methods study examined early adoption of CI in the 100% New Mexico initiative that aims to address SDOH population-wide in a state with strong cultural identity and assets but also persistent socio-economic inequality.
 
 [Source](https://twitter.com/svetlana_up/status/1668170517487009792?ref_src=twsrc%5Etfw)
 
-10.2196/45100
+10.1186/s13690-023-01120-4
 
 ---
 
@@ -41,15 +41,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Development, Feasibility, and Acceptability of an Oncologist Group Peer Support Program From ASCO's Clinician Well-Being Task Force.
- 16.06.2023, _FJ Hlubocky, DC McFarland, AL Back, CR Friese, L Lyckholm, CM Gallagher, M McGinnis, R Spence, L Lynch, J Tomkins, T Shanafelt, P Srivastava_
+## Age-appropriate potassium clearance from perinatal cerebrospinal fluid depends on choroid plexus NKCC1.
+ 16.06.2023, _RM Fame, H Xu, A Pragana, M Lehtinen_
 
 
-The COVID-19 pandemic has had deleterious effects on oncologist professional and personal well-being, the optimal delivery of quality cancer care, and the future cancer care workforce, with many departing the field. Hence, the identification of evidence-based approaches to sustain oncologists is essential to promote well-being.
+Regulation of the volume and electrolyte composition of the cerebrospinal fluid (CSF) is vital for brain development and function. The Na-K-Cl co-transporter NKCC1 in the choroid plexus (ChP) plays key roles in regulating CSF volume by co-transporting ions and mediating same-direction water movements. Our previous study showed ChP NKCC1 is highly phosphorylated in neonatal mice as the CSF K+ level drastically decreases and that overexpression of NKCC1 in the ChP accelerates CSF K+ clearance and reduces ventricle size [1]. These data suggest that NKCC1 mediates CSF K+ clearance following birth in mice. In this current study, we used CRISPR technology to create a conditional NKCC1 knockout mouse line and evaluated CSF K+ by Inductively Coupled Plasma Optical Emission spectroscopy (ICP-OES). We demonstrated ChP-specific reduction of total and phosphorylated NKCC1 in neonatal mice following embryonic intraventricular delivery of Cre recombinase using AAV2/5. ChP-NKCC1 knockdown was accompanied by a delayed perinatal clearance of CSF K+. No gross morphological disruptions were observed in the cerebral cortex. We extended our previous results by showing embryonic and perinatal rats shared key characteristics with mice, including decreased ChP NKCC1 expression level, increased ChP NKCC1 phosphorylation state, and increased CSF K+ levels compared to adult. Collectively, these follow up data support ChP NKCC1's role in age-appropriate CSF K+ clearance during neonatal development.
 
 [Source](https://twitter.com/Stanford?ref_src=twsrc%5Etfw)
 
-10.1200/OP.23.00068
+10.1186/s12987-023-00438-z
 
 ---
 
@@ -139,33 +139,15 @@ Obesity has been linked to higher morbidity and mortality in those that contract
 
 ---
 
-## Positive Psychological Intervention Delivered Using Virtual Reality in Patients on Hemodialysis With Comorbid Depression: Protocol and Design for the Joviality Randomized Controlled Trial.
- 16.06.2023, _R Hernandez, K Wilund, K Solai, D Tamayo, D Fast, P Venkatesan, JP Lash, CM Lora, L Martinez, G Martin Alemañy, A Martinez, S Kwon, D Romero, MHEM Browning, JT Moskowitz_
-
-
-Depression is highly prevalent in individuals on hemodialysis, but it is infrequently identified and remains undertreated. In this paper, we present details of the methodology of a randomized controlled trial (RCT) aimed at testing the feasibility and preliminary efficacy of a 5-week positive psychological intervention in individuals on hemodialysis with comorbid depression delivered using immersive virtual reality (VR) technology.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1665656925969604608?ref_src=twsrc%5Etfw)
-
-10.2196/45100
-
----
-
 ## June 5, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1665656925969604608?ref_src=twsrc%5Etfw)
 
 ---
 
-## Guild and Niche Determination Enable Targeted Alteration of the Microbiome.
- 30.05.2023, _O Moyne, M Al-Bassam, C Lieng, D Thiruppathy, GJ Norton, M Kumar, E Haddad, LS Zaramela, K Zengler_
-
-
-Microbiome science has greatly contributed to our understanding of microbial life and its essential roles for the environment and human health 1-5 . However, the nature of microbial interactions and how microbial communities respond to perturbations remains poorly understood, resulting in an often descriptive and correlation-based approach to microbiome research 6-8 . Achieving causal and predictive microbiome science would require direct functional measurements in complex communities to better understand the metabolic role of each member and its interactions with others. In this study we present a new approach that integrates transcription and translation measurements to predict competition and substrate preferences within microbial communities, consequently enabling the selective manipulation of the microbiome. By performing metatranscriptomic (metaRNA-Seq) and metatranslatomic (metaRibo-Seq) analysis in complex samples, we classified microbes into functional groups (i.e. guilds) and demonstrated that members of the same guild are competitors. Furthermore, we predicted preferred substrates based on importer proteins, which specifically benefited selected microbes in the community (i.e. their niche) and simultaneously impaired their competitors. We demonstrated the scalability of microbial guild and niche determination to natural samples and its ability to successfully manipulate microorganisms in complex microbiomes. Thus, the approach enhances the design of pre- and probiotic interventions to selectively alter members within microbial communities, advances our understanding of microbial interactions, and paves the way for establishing causality in microbiome science.
+## Guild and Niche Determination Enable Targeted Alteration of the Microbiome
 
 [Source](https://www.biorxiv.org/content/10.1101/2023.05.11.540389v1)
-
-10.1101/2023.05.11.540389
 
 ---
 
@@ -175,15 +157,15 @@ Microbiome science has greatly contributed to our understanding of microbial lif
 
 ---
 
-## Arterial events in cancer patients treated with apixaban for venous thrombosis.
- 16.06.2023, _TL Larsen, M Svalastoga, J Brekke, T Enden, H Frøen, H Garresori, EM Jacobsen, PQ Paulsen, AC Porojnicu, AH Ree, D Torfoss, EO Velle, HS Wik, W Ghanima, PM Sandset, AEA Dahm_
+## Interventions to support decision making in people considering germline genetic testing for BRCA 1/2 pathogenic and likely pathogenic variants: A scoping review.
+ 16.06.2023, _RA Pozzar, M Seven_
 
 
-In a recent interventional study of cancer patients with newly diagnosed venous thrombosis (VT), we found a high risk of arterial thrombotic events (AT) during treatment with therapeutic doses of apixaban.
+Pathogenic and likely pathogenic variants in BRCA1 and BRCA2 (BRCA1/2) are medically actionable and may inform hereditary breast and ovarian cancer (HBOC) treatment and prevention. However, rates of germline genetic testing (GT) in people with and without cancer are suboptimal. Individuals' knowledge, attitudes, and beliefs may influence GT decisions. While genetic counseling (GC) provides decision support, the supply of genetic counselors is insufficient to meet demand. Accordingly, there is a need to explore the evidence on interventions that aim to support BRCA1/2 testing decisions. We conducted a scoping review of PubMed, CINAHL, Web of Science, and PsycINFO using search terms related to HBOC, GT, and decision making. First, we screened records to identify peer-reviewed reports that described interventions to support BRCA1/2 testing decisions. Next, we reviewed full-text reports and excluded studies that lacked statistical comparisons or enrolled previously tested individuals. Finally, we extracted study characteristics and findings into a table. All records and reports were reviewed independently by two authors; decisions were tracked in Rayyan, and discrepancies were resolved through discussion. Of 2116 unique citations, 25 met the eligibility criteria. Articles were published between 1997 and 2021 and described randomized trials and nonrandomized, quasi-experimental studies. Most studies tested technology-based (12/25, 48%) or written (9/25, 36%) interventions. Nearly half (12/25, 48%) of interventions were designed to complement traditional GC. Of the interventions compared to GC, 75% (6/8) increased or had a noninferior effect on knowledge, and 67% (4/6) decreased or had a noninferior effect on decisional conflict. Intervention effects on GT uptake were mixed, which may reflect evolving eligibility criteria for GT. Our findings suggest novel interventions may promote informed GT decision making, but many were developed to complement traditional GC. Trials that assess the effects of decision support interventions in diverse samples and evaluate implementation strategies for efficacious interventions are warranted.
 
 [Source](https://twitter.com/OrianeMoyne/status/1657155454093410304?ref_src=twsrc%5Etfw)
 
-10.1016/j.thromres.2023.05.017
+10.1002/jgc4.1738
 
 ---
 
@@ -249,16 +231,9 @@ Bipolar disorder (BD) is a chronic and recurrent disorder characterized by bipha
 
 ---
 
-## Skin microbiome differentiates into distinct cutotypes with unique metabolic functions upon exposure to polycyclic aromatic hydrocarbons.
- 06.06.2023, _MHY Leung, X Tong, Z Shen, S Du, P Bastien, BMR Appenzeller, RJ Betts, S Mezzache, N Bourokba, N Cavusoglu, L Aguilar, N Misra, C Clavaud, PKH Lee_
-
-
-_Polycyclic Aromatic Hydrocarbons, Skin, Air Pollutants, Biodegradation, Environmental, Microbiota, Environmental Monitoring_
-The effects of air pollutants, particularly polycyclic aromatic hydrocarbons (PAHs), on the skin microbiome remain poorly understood. Thus, to better understand the interplay between air pollutants, microbiomes, and skin conditions, we applied metagenomics and metabolomics to analyze the effects of PAHs in air pollution on the skin microbiomes of over 120 subjects residing in two cities in China with different levels of air pollution.
+## Skin microbiome differentiates into distinct cutotypes with unique metabolic functions upon exposure to polycyclic aromatic hydrocarbons
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01564-4)
-
-10.1186/s40168-023-01564-4
 
 ---
 
@@ -274,33 +249,9 @@ The effects of air pollutants, particularly polycyclic aromatic hydrocarbons (PA
 
 ---
 
-## Methods for Analyzing the Gut Microbiota in Diabetic Retinopathy.
- 16.06.2023, _Y Huang, JH Ma, Y Peng, X Yang, J Chen, S Tang_
-
-
-The gut microbiome that inhabits human hosts plays an important role in the development of a healthy host immune system. Many studies have shown that gut microbiota is involved in the occurrence and development of diabetic retinopathy (DR). With the advent of sequencing technology of the bacterial 16S ribosomal RNA (rRNA) gene, microbiota studies are becoming more feasible. Here, we described a study protocol to characterize the microbiota composite in the DR and non-DR patients compared with healthy controls.
-
-[Source](https://twitter.com/hashtag/microbiota?src=hash&ref_src=twsrc%5Etfw)
-
-10.1007/978-1-0716-3255-0_10
-
----
-
 ## #microbiota
 
 [Source](https://twitter.com/hashtag/microbiota?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Outer membrane protein OMP76 of Riemerella anatipestifer contributes to complement evasion and virulence by binding to duck complement factor vitronectin.
- 16.06.2023, _S Li, Y Wang, R Yang, X Zhu, H Bai, X Deng, J Bai, Y Zhang, Y Xiao, Z Li, Z Liu, Z Zhou_
-
-
-Riemerella anatipestifer is an important bacterial pathogen in poultry. Pathogenic bacteria recruit host complement factors to resist the bactericidal effect of serum complement. Vitronectin (Vn) is a complementary regulatory protein that inhibits the formation of the membrane attack complex (MAC). Microbes use outer membrane proteins (OMPs) to hijack Vn for complement evasion. However, the mechanism by which R. anatipestifer achieves evasion is unclear. This study aimed to characterise OMPs of R. anatipestifer which interact with duck Vn (dVn) during complement evasion. Far-western assays and comparison of wild-type and mutant strains that were treated with dVn and duck serum demonstrated particularly strong binding of OMP76 to dVn. These data were confirmed with Escherichia coli strains expressing and not expressing OMP76. Combining tertiary structure analysis and homology modelling, truncated and knocked-out fragments of OMP76 showed that a cluster of critical amino acids in an extracellular loop of OMP76 mediate the interaction with dVn. Moreover, binding of dVn to R. anatipestifer inhibited MAC deposition on the bacterial surface thereby enhancing survival in duck serum. Virulence of the mutant strain ΔOMP76 was attenuated significantly relative to the wild-type strain. Furthermore, adhesion and invasion abilities of ΔOMP76 decreased, and histopathological changes showed that ΔOMP76 was less virulent in ducklings. Thus, OMP76 is a key virulence factor of R. anatipestifer. The identification of OMP76-mediated evasion of complement by recruitment of dVn contributes significantly to the understanding of the molecular mechanism by which R. anatipestifer escapes host innate immunity and provides a new target for the development of subunit vaccines.
-
-[Source](https://twitter.com/hashtag/poultry?src=hash&ref_src=twsrc%5Etfw)
-
-10.1080/21505594.2023.2223060
 
 ---
 
@@ -316,15 +267,15 @@ Riemerella anatipestifer is an important bacterial pathogen in poultry. Pathogen
 
 ---
 
-## Effectiveness and complication rates of percutaneous transhepatic fluoroscopy-guided management of common bile duct stones: a single-arm meta-analysis.
- 16.06.2023, _SB Yoon, TY Jeon, SH Moon, DW Shin, JW Park, SE Kim, MJ Kim_
+## Suicide postvention for staff and students on university campuses: a scoping review.
+ 16.06.2023, _SN Allie, J Bantjes, K Andriessen_
 
 
-To perform a systematic review and meta-analysis to determine the success and complication rate of percutaneous transhepatic fluoroscopy-guided management (PTFM) for the removal of common bile duct stones (CBDS).
+To examine current knowledge about suicide bereavement and postvention interventions for university staff and students.
 
 [Source](https://twitter.com/Microbes4ever/status/1668524788044767233?ref_src=twsrc%5Etfw)
 
-10.1007/s00330-023-09846-z
+10.1136/bmjopen-2022-068730
 
 ---
 
@@ -366,15 +317,15 @@ All multicellular organisms host a diverse microbiome composed of microbial path
 
 ---
 
-## Leveraging Cell Painting Images to Expand the Applicability Domain and Actively Improve Deep Learning Quantitative Structure-Activity Relationship Models.
- 16.06.2023, _D Herman, MM Kańduła, LGA Freitas, C van Dongen, T Le Van, N Mesens, S Jaensch, E Gustin, L Micholt, CH Lardeau, C Varsakelis, J Reumers, S Zoffmann, Y Will, PJ Peeters, H Ceulemans_
+## Interventions to support decision making in people considering germline genetic testing for BRCA 1/2 pathogenic and likely pathogenic variants: A scoping review.
+ 16.06.2023, _RA Pozzar, M Seven_
 
 
-The search for chemical hit material is a lengthy and increasingly expensive drug discovery process. To improve it, ligand-based quantitative structure-activity relationship models have been broadly applied to optimize primary and secondary compound properties. Although these models can be deployed as early as the stage of molecule design, they have a limited applicability domain─if the structures of interest differ substantially from the chemical space on which the model was trained, a reliable prediction will not be possible. Image-informed ligand-based models partly solve this shortcoming by focusing on the phenotype of a cell caused by small molecules, rather than on their structure. While this enables chemical diversity expansion, it limits the application to compounds physically available and imaged. Here, we employ an active learning approach to capitalize on both of these methods' strengths and boost the model performance of a mitochondrial toxicity assay (Glu/Gal). Specifically, we used a phenotypic Cell Painting screen to build a chemistry-independent model and adopted the results as the main factor in selecting compounds for experimental testing. With the additional Glu/Gal annotation for selected compounds we were able to dramatically improve the chemistry-informed ligand-based model with respect to the increased recognition of compounds from a 10% broader chemical space.
+Pathogenic and likely pathogenic variants in BRCA1 and BRCA2 (BRCA1/2) are medically actionable and may inform hereditary breast and ovarian cancer (HBOC) treatment and prevention. However, rates of germline genetic testing (GT) in people with and without cancer are suboptimal. Individuals' knowledge, attitudes, and beliefs may influence GT decisions. While genetic counseling (GC) provides decision support, the supply of genetic counselors is insufficient to meet demand. Accordingly, there is a need to explore the evidence on interventions that aim to support BRCA1/2 testing decisions. We conducted a scoping review of PubMed, CINAHL, Web of Science, and PsycINFO using search terms related to HBOC, GT, and decision making. First, we screened records to identify peer-reviewed reports that described interventions to support BRCA1/2 testing decisions. Next, we reviewed full-text reports and excluded studies that lacked statistical comparisons or enrolled previously tested individuals. Finally, we extracted study characteristics and findings into a table. All records and reports were reviewed independently by two authors; decisions were tracked in Rayyan, and discrepancies were resolved through discussion. Of 2116 unique citations, 25 met the eligibility criteria. Articles were published between 1997 and 2021 and described randomized trials and nonrandomized, quasi-experimental studies. Most studies tested technology-based (12/25, 48%) or written (9/25, 36%) interventions. Nearly half (12/25, 48%) of interventions were designed to complement traditional GC. Of the interventions compared to GC, 75% (6/8) increased or had a noninferior effect on knowledge, and 67% (4/6) decreased or had a noninferior effect on decisional conflict. Intervention effects on GT uptake were mixed, which may reflect evolving eligibility criteria for GT. Our findings suggest novel interventions may promote informed GT decision making, but many were developed to complement traditional GC. Trials that assess the effects of decision support interventions in diverse samples and evaluate implementation strategies for efficacious interventions are warranted.
 
 [Source](https://twitter.com/hashtag/diverse?src=hash&ref_src=twsrc%5Etfw)
 
-10.1021/acs.chemrestox.2c00404
+10.1002/jgc4.1738
 
 ---
 
@@ -384,15 +335,15 @@ The search for chemical hit material is a lengthy and increasingly expensive dru
 
 ---
 
-## Metaproteomics Characterizes the Human Gingival Crevicular Fluid Microbiome Function in Periodontitis.
- 16.06.2023, _X Xiao, X Xiao, Y Liu, H Sun, X Liu, Z Guo, Q Li, W Sun_
+## Oral microbial communities in 5-year-old children with versus without dental caries.
+ 16.06.2023, _Z Yang, T Cai, Y Li, D Jiang, J Luo, Z Zhou_
 
 
-Periodontitis is the leading cause of tooth loss in adults worldwide. The human proteome and metaproteome characterization of periodontitis is not clearly understood. Gingival crevicular fluid samples were collected from eight periodontitis and eight healthy subjects. Both the human and microbial proteins were characterized by liquid chromatography coupled with high-resolution mass spectrometry. A total of 570 human proteins were found differentially expressed, which were primarily associated with inflammatory response, cell death, cellular junction, and fatty acid metabolism. For the metaproteome, 51 genera were identified, and 10 genera were found highly expressed in periodontitis, while 11 genera were downregulated. The analysis showed that microbial proteins related to butyrate metabolism were upregulated in periodontitis cases. In particular, correlation analysis showed that the expression of host proteins related to inflammatory response, cell death, cellular junction, and lipid metabolism correlates with the alteration of metaproteins, which reflect the changes of molecular function during the occurrence of periodontitis. This study showed that the gingival crevicular fluid human proteome and metaproteome could reflect the characteristics of periodontitis. This might benefit the understanding of the periodontitis mechanism.
+Caries in young children has received more and more attention. The study of the oral microbiota may help to understand the polymicrobial etiology of dental caries.
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1021/acs.jproteome.3c00143
+10.1186/s12903-023-03055-2
 
 ---
 
@@ -402,15 +353,15 @@ Periodontitis is the leading cause of tooth loss in adults worldwide. The human 
 
 ---
 
-## Shifts in flowering phenology in response to spring temperatures in eastern Tennessee.
- 16.06.2023, _AS Faidiga, MG Oliver, JM Budke, S Kalisz_
+## Oral microbial communities in 5-year-old children with versus without dental caries.
+ 16.06.2023, _Z Yang, T Cai, Y Li, D Jiang, J Luo, Z Zhou_
 
 
-Plant phenological shifts are among the clearest indicators of the effects of climate change. In North America, numerous studies in New England have demonstrated earlier spring flowering compared to historical records. However, few studies have examined phenological shifts in the southeastern United States, a highly biodiverse region of North America characterized by dramatic variation in abiotic conditions over small geographic areas.
+Caries in young children has received more and more attention. The study of the oral microbiota may help to understand the polymicrobial etiology of dental caries.
 
 [Source](https://twitter.com/hashtag/biodiversity?src=hash&ref_src=twsrc%5Etfw)
 
-10.1002/ajb2.16203
+10.1186/s12903-023-03055-2
 
 ---
 
@@ -420,15 +371,15 @@ Plant phenological shifts are among the clearest indicators of the effects of cl
 
 ---
 
-## Dioxin emission modeling using feature selection and simplified DFR with residual error fitting for the grate-based MSWI process.
- 16.06.2023, _H Xia, J Tang, L Aljerf, C Cui, B Gao, PO Ukaogo_
+## Application of machine learning algorithms and feature selection in rapeseed (Brassica napus L.) breeding for seed yield.
+ 16.06.2023, _M Shahsavari, V Mohammadi, B Alizadeh, H Alizadeh_
 
 
-Municipal solid waste incineration (MSWI) with grate technology is a widely applied waste-to-energy process in various cities in China. Meanwhile, dioxins (DXN) are emitted at the stack and are the critical environmental indicator for operation optimization control in the MSWI process. However, constructing a high-precision and fast emission model for DXN emission operation optimization control becomes an immediate difficulty. To address the above problem, this research utilizes a novel DXN emission measurement method using simplified deep forest regression (DFR) with residual error fitting (SDFR-ref). First, the high-dimensional process variables are optimally reduced following the mutual information and significance test. Then, a simplified DFR algorithm is established to infer or predict the nonlinearity between the selected process variables and the DXN emission concentration. Moreover, a gradient enhancement strategy in terms of residual error fitting with a step factor is designed to improve the measurement performance in the layer-by-layer learning process. Finally, an actual DXN dataset from 2009 to 2020 of the MSWI plant in Beijing is utilized to verify the SDFR-ref method. Comparison experiments demonstrate the superiority of the proposed method over other methods in terms of measurement accuracy and time consumption.
+Studying the relationships between rapeseed seed yield (SY) and its yield-related traits can assist rapeseed breeders in the efficient indirect selection of high-yielding varieties. However, since the conventional and linear methods cannot interpret the complicated relations between SY and other traits, employing advanced machine learning algorithms is inevitable. Our main goal was to find the best combination of machine learning algorithms and feature selection methods to maximize the efficiency of indirect selection for rapeseed SY.
 
 [Source](https://twitter.com/hashtag/experiment?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.wasman.2023.05.056
+10.1186/s13007-023-01035-9
 
 ---
 
@@ -447,19 +398,6 @@ Municipal solid waste incineration (MSWI) with grate technology is a widely appl
 ## @umncbs
 
 [Source](https://twitter.com/umncbs?ref_src=twsrc%5Etfw)
-
----
-
-## 5300-Year-old soil carbon is less primed than young soil organic matter.
- 22.01.2023, _J Su, H Zhang, X Han, R Lv, L Liu, Y Jiang, H Li, Y Kuzyakov, C Wei_
-
-
-_Soil, Carbon, Nitrogen, Soil Microbiology, Glucose_
-Soils harbor more than three times as much carbon (C) as the atmosphere, a large fraction of which (stable organic matter) serves as the most important global C reservoir due to its long residence time. Litter and root inputs bring fresh organic matter (FOM) into the soil and accelerate the turnover of stable C pools, and this phenomenon is termed the "priming effect" (PE). Compared with knowledge about labile soil C pools, very little is known about the vulnerability of stable C to priming. Using two soils that substantially differed in age (500 and 5300 years before present) and in the degree of chemical recalcitrance and physical protection of soil organic matter (SOM), we showed that leaf litter amendment primed 264% more organic C from the young SOM than from the old soil with very stable C. Hierarchical partitioning analysis confirmed that SOM stability, reflected mainly by available C and aggregate protection of SOM, is the most important predictor of leaf litter-induced PE. The addition of complex FOM (i.e., leaf litter) caused a higher bacterial oligotroph/copiotroph (K-/r-strategists) ratio, leading to a PE that was 583% and 126% greater than when simple FOM (i.e., glucose) was added to the young and old soils, respectively. This implies that the PE intensity depends on the chemical similarity between the primer (here FOM) and SOM. Nitrogen (N) mining existed when N and simple FOM were added (i.e., Glucose+N), and N addition raised the leaf litter-induced PE in the old soil that had low N availability, which was well explained by the microbial stoichiometry. In conclusion, the PE induced by FOM inputs strongly decreases with increasing SOM stability. However, the contribution of stable SOM to CO2 efflux cannot be disregarded due to its huge pool size.
-
-[Source](https://twitter.com/niooknaw?ref_src=twsrc%5Etfw)
-
-10.1111/gcb.16463
 
 ---
 
@@ -497,6 +435,18 @@ Evolutionary change in diapause timing can be an adaptive response to changing s
 ## https://t.co/TEhvN2Fxge
 
 [Source](https://t.co/TEhvN2Fxge)
+
+---
+
+## H-type hypertension is a risk factor for chronic total coronary artery occlusion: a cross-sectional study from southwest China.
+ 16.06.2023, _K Xiao, Z Xv, Y Xv, J Wang, L Xiao, Z Kang, J Zhu, Z He, G Huang_
+
+
+Chronic total coronary occlusion (CTO) is serious and the "last bastion" of percutaneous coronary intervention. Hypertension and hyperhomocysteinemia (HHCY) are synergistic and significantly increase cardiovascular event risk. The relationship between H-type hypertension and CTO remains unclear; thus, this cross-sectional study investigated this potential association.
+
+[Source](https://twitter.com/e_seabloom/status/1669298473085140992?ref_src=twsrc%5Etfw)
+
+10.1186/s12872-023-03345-1
 
 ---
 
