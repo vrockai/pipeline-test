@@ -41,15 +41,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Adapting a Telephone-Based, Dyadic Self-management Program to Be Delivered Over the Web: Methodology and Usability Testing.
- 16.06.2023, _R Trivedi, SK Hirayama, R Risbud, M Suresh, MB Humber, K Butler, A Razze, C Timko, K Nelson, DM Zulman, SM Asch, K Humphreys, JD Piette_
+## Development, Feasibility, and Acceptability of an Oncologist Group Peer Support Program From ASCO's Clinician Well-Being Task Force.
+ 16.06.2023, _FJ Hlubocky, DC McFarland, AL Back, CR Friese, L Lyckholm, CM Gallagher, M McGinnis, R Spence, L Lynch, J Tomkins, T Shanafelt, P Srivastava_
 
 
-The COVID-19 pandemic has amplified the need for web-based behavioral interventions to support individuals who are diagnosed with chronic conditions and their informal caregivers. However, most interventions focus on patient outcomes. Dyadic technology-enabled interventions that simultaneously improve outcomes for patients and caregivers are needed.
+The COVID-19 pandemic has had deleterious effects on oncologist professional and personal well-being, the optimal delivery of quality cancer care, and the future cancer care workforce, with many departing the field. Hence, the identification of evidence-based approaches to sustain oncologists is essential to promote well-being.
 
 [Source](https://twitter.com/Stanford?ref_src=twsrc%5Etfw)
 
-10.2196/43903
+10.1200/OP.23.00068
 
 ---
 
@@ -157,15 +157,53 @@ Obesity has been linked to higher morbidity and mortality in those that contract
 
 ---
 
+## Arterial events in cancer patients treated with apixaban for venous thrombosis.
+ 16.06.2023, _TL Larsen, M Svalastoga, J Brekke, T Enden, H Frøen, H Garresori, EM Jacobsen, PQ Paulsen, AC Porojnicu, AH Ree, D Torfoss, EO Velle, HS Wik, W Ghanima, PM Sandset, AEA Dahm_
+
+
+In a recent interventional study of cancer patients with newly diagnosed venous thrombosis (VT), we found a high risk of arterial thrombotic events (AT) during treatment with therapeutic doses of apixaban.
+
+[Source](https://twitter.com/OrianeMoyne/status/1657155454093410304?ref_src=twsrc%5Etfw)
+
+10.1016/j.thromres.2023.05.017
+
+---
+
 ## May 12, 2023
 
 [Source](https://twitter.com/OrianeMoyne/status/1657155454093410304?ref_src=twsrc%5Etfw)
 
 ---
 
+## Biomolecular Markers of Recurrent Implantation Failure-A Review.
+ 19.11.2021, _AE Mrozikiewicz, M Ożarowski, P Jędrzejczak_
+
+
+_Adult, Biomarkers, Blastocyst, Embryo Implantation, Endometrium, Estrogens, Female, Glycodelin, Humans, Immune System, Immunologic Factors, Infertility, Female, Leukemia Inhibitory Factor, Microbiota, Neovascularization, Pathologic, Progesterone, Receptors, Estrogen, Receptors, Progesterone, Recurrence, Risk Factors, Vagina_
+Currently, infertility affects 8-12% of reproductive age couples worldwide, a problem that also affects women suffering from recurrent implantation failure (RIF). RIF is a complex condition resulting from many physiological and molecular mechanisms involving dynamic endometrium-blastocyst interaction. The most important are the endometrial receptivity process, decidualization, trophoblast invasion, and blastocyst nesting. Although the exact multifactorial pathogenesis of RIF remains unclear, many studies have suggested the association between hormone level imbalance, disturbances of angiogenic and immunomodulatory factors, certain genetic polymorphisms, and occurrence of RIF. These studies were performed in quite small groups. Additionally, the results are inconsistent between ethnicities. The present review briefly summarizes the importance of factors involved in RIF development that could also serve as diagnostic determinants. Moreover, our review could constitute part of a new platform for discovery of novel diagnostic and therapeutic solutions for RIF.
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.06.14.544778v1)
+
+10.3390/ijms221810082
+
+---
+
 ## Interaction of genital microbiota in infertile couples
 
 [Source](https://www.biorxiv.org/content/10.1101/2023.06.14.544778v1)
+
+---
+
+## Therapy of replenishing and regulating for manic episode in bipolar disorder: study protocol for a prospective, double-blind, randomized controlled trial.
+ 16.06.2023, _Y Yang, Y Haining, J Hongxiao, N Yanzhe, W Di, Z Lei, Y Kaijuan, G Yumeng, W Fei, S Weishuang, C Pei_
+
+
+_Humans, Adolescent, Bipolar Disorder, Mania, Quality of Life, Prospective Studies, Double-Blind Method, Treatment Outcome, Randomized Controlled Trials as Topic_
+Bipolar disorder (BD) is a chronic and recurrent disorder characterized by biphasic mood episodes of mania or hypomania and depression. It affects more than 1% of the global population and is a leading cause of disability in young people. Currently available treatments for BD are still fairly limited in terms of efficacy, with high rates of non-adherence, non-response, and undesirable side effects. Traditional Chinese medicine (TCM) has a long history and rich experience in stabilizing mania and improving quality of life. Aiming at rebalancing and in BD, therapy of replenishing and regulating (RYRY therapy) has been in clinical use for years in China. The present prospective, double-blind, randomized controlled trial is designed to investigate the efficacy and safety of RYRY therapy for bipolar mania and its possible mechanism from the point of regulating gut microbiota and anti-inflammation. A total of 60 eligible participants will be recruited from Beijing Anding Hospital. They will be randomized to either the study group or the control group in a ratio of 1∶1. Participants allocated to the study group will receive RYRY granule, while placebo granule will be applied in the control group. Participants in both groups will be prescribed conventional therapy for manic episode in BD. Four scheduled visits will be conducted over 4 weeks. Outcome measurements include Young Mania Rating Scale, TCM Symptom Pattern Rating Scale, Treatment Emergent Symptom Scale, levels of C-reactive protein, interleukin-6 and tumor necrosis factor-α and the gut microbial community profile of stool samples. Safety outcomes and adverse events will also be recorded. In this study, we set a number of scientific and objective assessments to evaluate the efficacy of RYRY therapy and study into its possible mechanism, hopefully offering clinicians an alternative approach to BD.
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.06.13.544832v1)
+
+10.19852/j.cnki.jtcm.20230328.002
 
 ---
 
@@ -193,9 +231,16 @@ Obesity has been linked to higher morbidity and mortality in those that contract
 
 ---
 
-## Skin microbiome differentiates into distinct cutotypes with unique metabolic functions upon exposure to polycyclic aromatic hydrocarbons
+## Skin microbiome differentiates into distinct cutotypes with unique metabolic functions upon exposure to polycyclic aromatic hydrocarbons.
+ 06.06.2023, _MHY Leung, X Tong, Z Shen, S Du, P Bastien, BMR Appenzeller, RJ Betts, S Mezzache, N Bourokba, N Cavusoglu, L Aguilar, N Misra, C Clavaud, PKH Lee_
+
+
+_Polycyclic Aromatic Hydrocarbons, Skin, Air Pollutants, Biodegradation, Environmental, Microbiota, Environmental Monitoring_
+The effects of air pollutants, particularly polycyclic aromatic hydrocarbons (PAHs), on the skin microbiome remain poorly understood. Thus, to better understand the interplay between air pollutants, microbiomes, and skin conditions, we applied metagenomics and metabolomics to analyze the effects of PAHs in air pollution on the skin microbiomes of over 120 subjects residing in two cities in China with different levels of air pollution.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01564-4)
+
+10.1186/s40168-023-01564-4
 
 ---
 
@@ -229,6 +274,18 @@ Obesity has been linked to higher morbidity and mortality in those that contract
 
 ---
 
+## Effectiveness and complication rates of percutaneous transhepatic fluoroscopy-guided management of common bile duct stones: a single-arm meta-analysis.
+ 16.06.2023, _SB Yoon, TY Jeon, SH Moon, DW Shin, JW Park, SE Kim, MJ Kim_
+
+
+To perform a systematic review and meta-analysis to determine the success and complication rate of percutaneous transhepatic fluoroscopy-guided management (PTFM) for the removal of common bile duct stones (CBDS).
+
+[Source](https://twitter.com/Microbes4ever/status/1668524788044767233?ref_src=twsrc%5Etfw)
+
+10.1007/s00330-023-09846-z
+
+---
+
 ## June 13, 2023
 
 [Source](https://twitter.com/Microbes4ever/status/1668524788044767233?ref_src=twsrc%5Etfw)
@@ -241,9 +298,16 @@ Obesity has been linked to higher morbidity and mortality in those that contract
 
 ---
 
-## Gut microbiota and cognitive development in infant mice: Quantity and source of potable water 
+## Gut microbiota and cognitive development in infant mice: Quantity and source of potable water.
+ 16.06.2023, _CS Kim, DM Shin_
+
+
+_Animals, Mice, Drinking Water, Gastrointestinal Microbiome, Dehydration, Cognition, Cognitive Dysfunction, Bacteroidetes, Firmicutes_
+Not only the water quantity consumed but also the source of drinking water has been considered for their health benefits, but there is limited evidence. We aimed to determine whether the amount and type of drinking water affect physiological and biological functions, including brain function, by confirming how it affects gut microbiota which has an important regulatory role in host physiology. Three-week-old infant mice were subjected to 1) a water restriction experiment (control group, ad libitum consumption of distilled water; dehydration group, time-limited access to distilled water [15 min/day]) and 2) different water source experiment (distilled water, purified water, spring water, and tap water groups). The gut microbiota and cognitive development were analyzed using the 16S ribosomal ribonucleic acid sequencing method and the Barnes maze, respectively. The relative abundance of Firmicutes and Bacteroidetes and the Firmicutes-to-Bacteroidetes ratio (F/B ratio) changed depending on age (juveniles vs. infants). Insufficient water intake reversed these developmental changes, showing that the relative abundances of Bacteroidetes and Firmicutes and the F/B ratio in dehydrated juvenile mice were similar to those in normal infant mice. Additionally, clustering analysis revealed no significant differences in the intestinal flora in the mice from the different drinking water sources; however, dehydration significantly altered the composition of the genera compared to the other water source groups wherein water was provided ad libitum. Moreover, cognitive development was significantly disrupted by insufficient water intake, although the type of drinking water had no significant influence. Cognitive decline, measured by relative latency, was positively associated with the relative abundance of unclassified Erysipelotrichaceae that were in significantly high relative abundance in the dehydration group. These results suggest that the water quantity consumed, rather than the mineral content of drinking water, is imperative for shaping the early gut microbiota associated with cognitive development during infancy.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286951)
+
+10.1371/journal.pone.0286951
 
 ---
 
@@ -260,15 +324,15 @@ All multicellular organisms host a diverse microbiome composed of microbial path
 
 ---
 
-## Body Mass Index Trajectories and Biomarkers of Cardiometabolic Risk in Children from Low-Income and Racially and Ethnically Diverse Households.
- 16.06.2023, _JN de Brito, MA Pereira, AS Kelly, DJ Erickson, NE Sherwood, SM Mason, KA Loth, SA French, NG Evanoff, DR Dengel, AS Kunin-Batson_
+## Leveraging Cell Painting Images to Expand the Applicability Domain and Actively Improve Deep Learning Quantitative Structure-Activity Relationship Models.
+ 16.06.2023, _D Herman, MM Kańduła, LGA Freitas, C van Dongen, T Le Van, N Mesens, S Jaensch, E Gustin, L Micholt, CH Lardeau, C Varsakelis, J Reumers, S Zoffmann, Y Will, PJ Peeters, H Ceulemans_
 
 
-Background: This study examined the associations between BMI trajectories and emerging cardiometabolic risk (CMR) in children living in low-income and racially and ethnically diverse households in the United States. Methods: Data were drawn from NET-Works randomized intervention trial and NET-Works 2 prospective follow-up study (N = 338). BMI was measured across 6 follow-up visits and biomarkers of cardiometabolic risk (CMR) at the sixth visit. Group-based trajectory modeling identified child BMI trajectories. Adjusted multivariable linear regressions evaluated the associations between BMI trajectories and CMR. Results: We identified two BMI trajectories: 25% followed a trajectory of steep BMI increase, and 75% followed a moderate decreasing BMI trajectory over time. Relative to children in the moderate decreasing trajectory, children in the increasing trajectory had higher adjusted mean levels of C-reactive protein [CRP; 3.3; 95% confidence interval (CI): 1.6 to 5.0], leptin (63.1; 95% CI: 44.3 to 81.8), triglycerides (35.4; 95% CI: 22.1 to 48.6), triglyceride/high-density lipoprotein (HDL) ratio (1.2; 95% CI: 0.8 to 1.6), hemoglobin A1c (HbA1C; 0.1; 95% CI: 0.03 to 0.2), fasting glucose (1.8; 0.1 to 3.5) and insulin (8.8; 95% CI: 6.5 to 11.0), overall CMR score (0.7; 95% CI: 0.5 to 0.9), and lower adiponectin (-1.3; 95% CI: -2.5 to -0.1) and HDL (-10.8; 95% CI: -14.3 to -7.4). Conclusions: Children with high BMIs early in childhood were more likely to maintain an accelerated BMI trajectory throughout childhood, which was associated with adverse CMR in pre-adolescence. To advance health equity and support children's healthy weight and cardiovascular health trajectories, public health efforts are needed to address persistent disparities in childhood obesity and CMR.
+The search for chemical hit material is a lengthy and increasingly expensive drug discovery process. To improve it, ligand-based quantitative structure-activity relationship models have been broadly applied to optimize primary and secondary compound properties. Although these models can be deployed as early as the stage of molecule design, they have a limited applicability domain─if the structures of interest differ substantially from the chemical space on which the model was trained, a reliable prediction will not be possible. Image-informed ligand-based models partly solve this shortcoming by focusing on the phenotype of a cell caused by small molecules, rather than on their structure. While this enables chemical diversity expansion, it limits the application to compounds physically available and imaged. Here, we employ an active learning approach to capitalize on both of these methods' strengths and boost the model performance of a mitochondrial toxicity assay (Glu/Gal). Specifically, we used a phenotypic Cell Painting screen to build a chemistry-independent model and adopted the results as the main factor in selecting compounds for experimental testing. With the additional Glu/Gal annotation for selected compounds we were able to dramatically improve the chemistry-informed ligand-based model with respect to the increased recognition of compounds from a 10% broader chemical space.
 
 [Source](https://twitter.com/hashtag/diverse?src=hash&ref_src=twsrc%5Etfw)
 
-10.1089/chi.2022.0216
+10.1021/acs.chemrestox.2c00404
 
 ---
 
@@ -278,15 +342,15 @@ Background: This study examined the associations between BMI trajectories and em
 
 ---
 
-## Accelerated mineral bio-carbonation of coarse residue kimberlite material by inoculation with photosynthetic microbial mats.
- 16.06.2023, _TR Jones, J Poitras, E Gagen, DJ Paterson, G Southam_
+## Metaproteomics Characterizes the Human Gingival Crevicular Fluid Microbiome Function in Periodontitis.
+ 16.06.2023, _X Xiao, X Xiao, Y Liu, H Sun, X Liu, Z Guo, Q Li, W Sun_
 
 
-Microbiological weathering of coarse residue deposit (CRD) kimberlite produced by the Venetia Diamond Mine, Limpopo, South Africa enhanced mineral carbonation relative to untreated material. Cultures of photosynthetically enriched biofilm produced maximal carbonation conditions when mixed with kimberlite and incubated under near surface conditions. Interestingly, mineral carbonation also occurred in the dark, under water-saturated conditions. The examination of mineralized biofilms in ca. 150 µm-thick-sections using light microscopy, X-ray fluorescence microscopy (XFM) and backscatter electron-scanning electron microscopy-energy dispersive x-ray spectrometry demonstrated that microbiological weathering aided in producing secondary calcium/magnesium carbonates on silicate grain boundaries. Calcium/magnesium sulphate(s) precipitated under vadose conditions demonstrating that evaporites formed upon drying. In this system, mineral carbonation was only observed in regions possessing bacteria, preserved within carbonate as cemented microcolonies. 16S rDNA molecular diversity of bacteria in kimberlite and in natural biofilms growing on kimberlite were dominated by Proteobacteria that are active in nitrogen, phosphorus and sulphur cycling. Cyanobacteria based enrichment cultures provided with nitrogen &amp; phosphorus (nutrients) to enhance growth, possessed increased diversity of bacteria, with Proteobacteria re-establishing themselves as the dominant bacterial lineage when incubated under dark, vadose conditions consistent with natural kimberlite. Overall, 16S rDNA analyses revealed that weathered kimberlite hosts a diverse microbiome consistent with soils, metal cycling and hydrocarbon degradation. Enhanced weathering and carbonate-cemented microcolonies demonstrate that microorganisms are key to mineral carbonation of kimberlite.
+Periodontitis is the leading cause of tooth loss in adults worldwide. The human proteome and metaproteome characterization of periodontitis is not clearly understood. Gingival crevicular fluid samples were collected from eight periodontitis and eight healthy subjects. Both the human and microbial proteins were characterized by liquid chromatography coupled with high-resolution mass spectrometry. A total of 570 human proteins were found differentially expressed, which were primarily associated with inflammatory response, cell death, cellular junction, and fatty acid metabolism. For the metaproteome, 51 genera were identified, and 10 genera were found highly expressed in periodontitis, while 11 genera were downregulated. The analysis showed that microbial proteins related to butyrate metabolism were upregulated in periodontitis cases. In particular, correlation analysis showed that the expression of host proteins related to inflammatory response, cell death, cellular junction, and lipid metabolism correlates with the alteration of metaproteins, which reflect the changes of molecular function during the occurrence of periodontitis. This study showed that the gingival crevicular fluid human proteome and metaproteome could reflect the characteristics of periodontitis. This might benefit the understanding of the periodontitis mechanism.
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1186/s12932-023-00082-4
+10.1021/acs.jproteome.3c00143
 
 ---
 
@@ -296,15 +360,15 @@ Microbiological weathering of coarse residue deposit (CRD) kimberlite produced b
 
 ---
 
-## Methodological considerations for aqueous environmental RNA collection, preservation, and extraction.
- 16.06.2023, _TS Jo_
+## Shifts in flowering phenology in response to spring temperatures in eastern Tennessee.
+ 16.06.2023, _AS Faidiga, MG Oliver, JM Budke, S Kalisz_
 
 
-Environmental RNA (eRNA) analysis is expected to infer species' physiological information (health status, developmental stage, and environmental stress response) and their distribution and composition more correctly than environmental DNA (eDNA) analysis. With the prospect of such eRNA applications, there is an increasing need for technological development for efficient eRNA detection because of its physicochemical instability. The present study conducted a series of aquarium experiments using zebrafish (Danio rerio) and validated the methodologies for capture, preservation, and extraction of eRNA in a water sample. In the eRNA extraction experiment, an approximately 1.5-fold increase in lysis buffer volume resulted in a more than sixfold increase in target eRNA concentration. In the eRNA capture experiment, although GF/F and GF/A filters yielded similar eRNA concentrations, a GF/A filter may be capable of passing through more volume of water samples and consequently collecting more eRNA particles, given the time required for water filtration. In the eRNA preservation experiment, the use of RNA stabilization reagent (RNAlater) allowed for stably preserving target eRNA on a filter sample at - 20 and even 4 °C for 6 days at least. Altogether, the findings enable the improvement of eRNA availability from the field and easily preserve eRNA samples without deep-freezing, which will contribute to the refinement of eRNA analysis for biological and physiological monitoring in aquatic ecosystems.
+Plant phenological shifts are among the clearest indicators of the effects of climate change. In North America, numerous studies in New England have demonstrated earlier spring flowering compared to historical records. However, few studies have examined phenological shifts in the southeastern United States, a highly biodiverse region of North America characterized by dramatic variation in abiotic conditions over small geographic areas.
 
 [Source](https://twitter.com/hashtag/biodiversity?src=hash&ref_src=twsrc%5Etfw)
 
-10.1007/s44211-023-00382-w
+10.1002/ajb2.16203
 
 ---
 
@@ -314,15 +378,15 @@ Environmental RNA (eRNA) analysis is expected to infer species' physiological in
 
 ---
 
-## A Gamified Mobile App That Helps People Develop the Metacognitive Skills to Cope With Stressful Situations and Difficult Emotions: Formative Assessment of the InsightApp.
- 16.06.2023, _V Amo, M Prentice, F Lieder_
+## Dioxin emission modeling using feature selection and simplified DFR with residual error fitting for the grate-based MSWI process.
+ 16.06.2023, _H Xia, J Tang, L Aljerf, C Cui, B Gao, PO Ukaogo_
 
 
-Ecological momentary interventions open up new and exciting possibilities for delivering mental health interventions and conducting research in real-life environments via smartphones. This makes designing psychotherapeutic ecological momentary interventions a promising step toward cost-effective and scalable digital solutions for improving mental health and understanding the effects and mechanisms of psychotherapy.
+Municipal solid waste incineration (MSWI) with grate technology is a widely applied waste-to-energy process in various cities in China. Meanwhile, dioxins (DXN) are emitted at the stack and are the critical environmental indicator for operation optimization control in the MSWI process. However, constructing a high-precision and fast emission model for DXN emission operation optimization control becomes an immediate difficulty. To address the above problem, this research utilizes a novel DXN emission measurement method using simplified deep forest regression (DFR) with residual error fitting (SDFR-ref). First, the high-dimensional process variables are optimally reduced following the mutual information and significance test. Then, a simplified DFR algorithm is established to infer or predict the nonlinearity between the selected process variables and the DXN emission concentration. Moreover, a gradient enhancement strategy in terms of residual error fitting with a step factor is designed to improve the measurement performance in the layer-by-layer learning process. Finally, an actual DXN dataset from 2009 to 2020 of the MSWI plant in Beijing is utilized to verify the SDFR-ref method. Comparison experiments demonstrate the superiority of the proposed method over other methods in terms of measurement accuracy and time consumption.
 
 [Source](https://twitter.com/hashtag/experiment?src=hash&ref_src=twsrc%5Etfw)
 
-10.2196/44429
+10.1016/j.wasman.2023.05.056
 
 ---
 
@@ -356,6 +420,19 @@ Ecological momentary interventions open up new and exciting possibilities for de
 
 ---
 
+## Divergence in cell cycle progression is associated with shifted phenology in a multivoltine moth: the European corn borer, Ostrinia nubilalis.
+ 15.06.2023, _Q Xia, C Chen, EB Dopman, DA Hahn_
+
+
+_Animals, Moths, Zea mays, Larva, Diapause, Cell Division_
+Evolutionary change in diapause timing can be an adaptive response to changing seasonality, and even result in ecological speciation. However, the molecular and cellular mechanisms regulating shifts in diapause timing remain poorly understood. One of the hallmarks of diapause is a massive slowdown in the cell cycle of target organs such as the brain and primordial imaginal structures, and resumption of cell cycle proliferation is an indication of diapause termination and resumption of development. Characterizing cell cycle parameters between lineages differing in diapause life history timing may help identify molecular mechanisms associated with alterations of diapause timing. We tested the extent to which progression of the cell cycle differs across diapause between two genetically distinct European corn borer strains that differ in their seasonal diapause timing. We show the cell cycle slows down during larval diapause with a significant decrease in the proportion of cells in S phase. Brain-subesophageal complex cells slow primarily in G0/G1 phase whereas most wing disc cells are in G2 phase. Diapausing larvae of the earlier emerging, bivoltine E-strain (BE) suppressed cell cycle progression less than the later emerging, univoltine Z-strain (UZ) individuals, with a greater proportion of cells in S phase across both tissues during diapause. Additionally, resumption of cell cycle proliferation occurred earlier in the BE strain than in the UZ strain after exposure to diapause-terminating conditions. We propose that regulation of cell cycle progression rates ultimately drives differences in larval diapause termination, and adult emergence timing, between early- and late-emerging European corn borer strains.
+
+[Source](https://twitter.com/e_borer?ref_src=twsrc%5Etfw)
+
+10.1242/jeb.245244
+
+---
+
 ## @e_borer
 
 [Source](https://twitter.com/e_borer?ref_src=twsrc%5Etfw)
@@ -386,9 +463,33 @@ Ecological momentary interventions open up new and exciting possibilities for de
 
 ---
 
+## ResFinderFG v2.0: a database of antibiotic resistance genes obtained by functional metagenomics.
+ 19.05.2023, _R Gschwind, S Ugarcina Perovic, M Weiss, M Petitjean, J Lao, LP Coelho, E Ruppé_
+
+
+Metagenomics can be used to monitor the spread of antibiotic resistance genes (ARGs). ARGs found in databases such as ResFinder and CARD primarily originate from culturable and pathogenic bacteria, while ARGs from non-culturable and non-pathogenic bacteria remain understudied. Functional metagenomics is based on phenotypic gene selection and can identify ARGs from non-culturable bacteria with a potentially low identity shared with known ARGs. In 2016, the ResFinderFG v1.0 database was created to collect ARGs from functional metagenomics studies. Here, we present the second version of the database, ResFinderFG v2.0, which is available on the Center of Genomic Epidemiology web server (https://cge.food.dtu.dk/services/ResFinderFG/). It comprises 3913 ARGs identified by functional metagenomics from 50 carefully curated datasets. We assessed its potential to detect ARGs in comparison to other popular databases in gut, soil and water (marine + freshwater) Global Microbial Gene Catalogues (https://gmgc.embl.de). ResFinderFG v2.0 allowed for the detection of ARGs that were not detected using other databases. These included ARGs conferring resistance to beta-lactams, cycline, phenicol, glycopeptide/cycloserine and trimethoprim/sulfonamide. Thus, ResFinderFG v2.0 can be used to identify ARGs differing from those found in conventional databases and therefore improve the description of resistomes.
+
+[Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad384/7173762)
+
+10.1093/nar/gkad384
+
+---
+
 ## ResFinderFG v2.0: a database of antibiotic resistance genes obtained by functional metagenomics – Rémi Gschwind 
 
 [Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad384/7173762)
+
+---
+
+## Achieving pan-microbiome biological insights via the dbBact knowledge base.
+ 16.06.2023, _A Amir, E Ozel, Y Haberman, N Shental_
+
+
+16S rRNA amplicon sequencing provides a relatively inexpensive culture-independent method for studying microbial communities. Although thousands of such studies have examined diverse habitats, it is difficult for researchers to use this vast trove of experiments when interpreting their own findings in a broader context. To bridge this gap, we introduce dbBact - a novel pan-microbiome resource. dbBact combines manually curated information from studies across diverse habitats, creating a collaborative central repository of 16S rRNA amplicon sequence variants (ASVs), which are assigned multiple ontology-based terms. To date dbBact contains information from more than 1000 studies, which include 1500000 associations between 360000 ASVs and 6500 ontology terms. Importantly, dbBact offers a set of computational tools allowing users to easily query their own datasets against the database. To demonstrate how dbBact augments standard microbiome analysis we selected 16 published papers, and reanalyzed their data via dbBact. We uncovered novel inter-host similarities, potential intra-host sources of bacteria, commonalities across different diseases and lower host-specificity in disease-associated bacteria. We also demonstrate the ability to detect environmental sources, reagent-borne contaminants, and identify potential cross-sample contaminations. These analyses demonstrate how combining information across multiple studies and over diverse habitats leads to better understanding of underlying biological processes.
+
+[Source](https://twitter.com/NAR_Open?ref_src=twsrc%5Etfw)
+
+10.1093/nar/gkad527
 
 ---
 
