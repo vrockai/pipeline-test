@@ -1,12 +1,12 @@
-## Perceived compassionate care and associated factors among patients with mental illness at Tibebe Ghion specialized and Felege Hiwot comprehensive specialized hospital, Northwest Ethiopia.
- 17.06.2023, _AW Abate, M Menberu, H Belete, T Ergetie, AA Teshome, AT Chekol, M Aschale, W Desalegn_
+## Trauma bypass performed by vascular surgeons demonstrate excellent long-term outcomes and limb preservation.
+ 18.06.2023, _M Harutyunyan, JC Hnath, X Jacobson, J Le, MD Shah, J Kleene, RC Darling_
 
 
-Compassion is the first ethical principle of health care to provide high- quality care that influences patient satisfaction and treatment outcome. However, there is limited data on the level of compassionate mental health care practice in low-resource countries like Ethiopia.
+Long-term outcomes in civilian trauma patients requiring upper or lower extremity revascularization is poorly studied secondary to limitations of certain large databases and the nature of the patients in this specific vascular subset. This study reports on the experience and outcomes of a Level 1 trauma center that serves both an urban and a large rural population over a 20-year period to identify bypass outcomes and surveillance protocols.
 
 [Source](https://twitter.com/svetlana_up/status/1668170517487009792?ref_src=twsrc%5Etfw)
 
-10.1186/s12913-023-09665-4
+10.1016/j.jvs.2023.05.046
 
 ---
 
@@ -41,15 +41,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Genomic landscape of T-large granular lymphocyte leukemia and chronic lymphoproliferative disorder of NK cells: a single institution experience.
- 18.06.2023, _F Fei, H Stehr, JL Zehnder_
+## Existing and Developing Preclinical Models for Neurofibromatosis Type 1-Related Cutaneous Neurofibromas.
+ 18.06.2023, _V Staedtke, P Topilko, LQ Le, K Grimes, DA Largaespada, RL Cagan, MR Steensma, A Stemmer-Rachamimov, JO Blakeley, SD Rhodes, I Ly, CG Romo, SY Lee, E Serra_
 
 
-LGLL is a rare and chronic lymphoproliferative disorder including T-LGLL and CLPD-NK. Here, we investigated the genomic profiles of LGLL with a focus on STAT3 and STAT5B mutations in a cohort of 49 patients (41 T-LGLL, 8 CLPD-NK). Our study indicated that STAT3 was identified in 38.8% (19/49) of all patients, while STAT5B occurred in only 8.2% (4/49) of patients. We found that STAT3 mutations were associated with lower ANC in T-LGLL patients. The average number of pathogenic/likely pathogenic mutations in STAT3/STAT5B-mutated patients was significantly higher than that in WT patients (1.78 ± 1.17 vs 0.65 ± 1.36, p = 0.0032). Additionally, TET2-only mutated T-LGLL (n = 5) had a significant reduction in platelet values compared with the WT (n = 16) or STAT3-only mutated T-LGLL (n = 12) (p &lt; 0.05). In conclusion, we compared the somatic mutational landscape between STAT3/STAT5B WT and mutated patients and correlate with their distinct clinical characteristics.
+Neurofibromatosis 1 (NF1) is caused by a nonfunctional copy of the NF1 tumor suppressor gene that predisposes patients to the development of cutaneous neurofibromas (cNFs), the skin tumor that is the hallmark of this condition. Innumerable benign cNFs, each appearing by an independent somatic inactivation of the remaining functional NF1 allele, form in nearly all patients with NF1. One of the limitations in developing a treatment for cNFs is an incomplete understanding of the underlying pathophysiology and limitations in experimental modeling. Recent advances in preclinical in vitro and in vivo modeling have substantially enhanced our understanding of cNF biology and created unprecedented opportunities for therapeutic discovery. We discuss the current state of cNF preclinical in vitro and in vivo model systems, including two- and three-dimensional cell cultures, organoids, genetically engineered mice, patient-derived xenografts, and porcine models. We highlight the models' relationship to human cNFs and how they can be used to gain insight into cNF development and therapeutic discovery.
 
 [Source](https://twitter.com/Stanford?ref_src=twsrc%5Etfw)
 
-10.1080/10428194.2023.2220450
+10.1016/j.jid.2023.01.042
 
 ---
 
@@ -139,15 +139,33 @@ Obesity has been linked to higher morbidity and mortality in those that contract
 
 ---
 
+## Trauma bypass performed by vascular surgeons demonstrate excellent long-term outcomes and limb preservation.
+ 18.06.2023, _M Harutyunyan, JC Hnath, X Jacobson, J Le, MD Shah, J Kleene, RC Darling_
+
+
+Long-term outcomes in civilian trauma patients requiring upper or lower extremity revascularization is poorly studied secondary to limitations of certain large databases and the nature of the patients in this specific vascular subset. This study reports on the experience and outcomes of a Level 1 trauma center that serves both an urban and a large rural population over a 20-year period to identify bypass outcomes and surveillance protocols.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1665656925969604608?ref_src=twsrc%5Etfw)
+
+10.1016/j.jvs.2023.05.046
+
+---
+
 ## June 5, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1665656925969604608?ref_src=twsrc%5Etfw)
 
 ---
 
-## Guild and Niche Determination Enable Targeted Alteration of the Microbiome
+## Guild and Niche Determination Enable Targeted Alteration of the Microbiome.
+ 30.05.2023, _O Moyne, M Al-Bassam, C Lieng, D Thiruppathy, GJ Norton, M Kumar, E Haddad, LS Zaramela, K Zengler_
+
+
+Microbiome science has greatly contributed to our understanding of microbial life and its essential roles for the environment and human health 1-5 . However, the nature of microbial interactions and how microbial communities respond to perturbations remains poorly understood, resulting in an often descriptive and correlation-based approach to microbiome research 6-8 . Achieving causal and predictive microbiome science would require direct functional measurements in complex communities to better understand the metabolic role of each member and its interactions with others. In this study we present a new approach that integrates transcription and translation measurements to predict competition and substrate preferences within microbial communities, consequently enabling the selective manipulation of the microbiome. By performing metatranscriptomic (metaRNA-Seq) and metatranslatomic (metaRibo-Seq) analysis in complex samples, we classified microbes into functional groups (i.e. guilds) and demonstrated that members of the same guild are competitors. Furthermore, we predicted preferred substrates based on importer proteins, which specifically benefited selected microbes in the community (i.e. their niche) and simultaneously impaired their competitors. We demonstrated the scalability of microbial guild and niche determination to natural samples and its ability to successfully manipulate microorganisms in complex microbiomes. Thus, the approach enhances the design of pre- and probiotic interventions to selectively alter members within microbial communities, advances our understanding of microbial interactions, and paves the way for establishing causality in microbiome science.
 
 [Source](https://www.biorxiv.org/content/10.1101/2023.05.11.540389v1)
+
+10.1101/2023.05.11.540389
 
 ---
 
@@ -157,15 +175,15 @@ Obesity has been linked to higher morbidity and mortality in those that contract
 
 ---
 
-## N-Butyl Cyanoacrylate Glue Versus Nonspherical Polyvinyl Alcohol Particles For Prostatic Arterial Embolization To Treat Benign Prostatic Hyperplasia: Safety And Efficacy.
- 18.06.2023, _BA Hijazi, HB Shi, S Liu, TA Alqurashi, ZJ Sabri_
+## Investigating patterns of workplace fatal fall injuries: Case study of Malaysia.
+ 18.06.2023, _A Zermane, MZM Tohir, MR Baharudin, HM Yusoff_
 
 
-Our aim is to compare N-butyl cyanoacrylate (NBCA) glue and non-spherical polyvinyl alcohol (PVA) particles for prostatic artery embolization (PAE) for patients with benign prostatic hyperplasia (BPH) to treat lower urinary tract symptoms (LUTS) and report their feasibility, safety, and short-term effectiveness.
+Falling from heights can be a serious and potentially life-threatening hazard. In Malaysia, falls from heights are one of the leading causes of workplace accidents and fatalities. The Malaysian Department of Occupational Safety and Health (DOSH) reported that the year 2021 recorded an alarmingly high number of fatalities, of which the majority of the injuries were due to falls from heights.
 
 [Source](https://twitter.com/OrianeMoyne/status/1657155454093410304?ref_src=twsrc%5Etfw)
 
-10.22037/uj.v20i.7734
+10.1016/j.jsr.2023.05.003
 
 ---
 
@@ -231,9 +249,16 @@ Bipolar disorder (BD) is a chronic and recurrent disorder characterized by bipha
 
 ---
 
-## Skin microbiome differentiates into distinct cutotypes with unique metabolic functions upon exposure to polycyclic aromatic hydrocarbons
+## Skin microbiome differentiates into distinct cutotypes with unique metabolic functions upon exposure to polycyclic aromatic hydrocarbons.
+ 06.06.2023, _MHY Leung, X Tong, Z Shen, S Du, P Bastien, BMR Appenzeller, RJ Betts, S Mezzache, N Bourokba, N Cavusoglu, L Aguilar, N Misra, C Clavaud, PKH Lee_
+
+
+_Polycyclic Aromatic Hydrocarbons, Skin, Air Pollutants, Biodegradation, Environmental, Microbiota, Environmental Monitoring_
+The effects of air pollutants, particularly polycyclic aromatic hydrocarbons (PAHs), on the skin microbiome remain poorly understood. Thus, to better understand the interplay between air pollutants, microbiomes, and skin conditions, we applied metagenomics and metabolomics to analyze the effects of PAHs in air pollution on the skin microbiomes of over 120 subjects residing in two cities in China with different levels of air pollution.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01564-4)
+
+10.1186/s40168-023-01564-4
 
 ---
 
@@ -249,9 +274,33 @@ Bipolar disorder (BD) is a chronic and recurrent disorder characterized by bipha
 
 ---
 
+## Investigating the effects of conventional and unconventional edible parts of red beet (Beta vulgaris L.) on target bacterial groups and metabolic activity of human colonic microbiota to produce novel and sustainable prebiotic ingredients.
+ 18.06.2023, _SPA de Oliveira, TMR de Albuquerque, NML Massa, NPA Rodrigues, KB Sampaio, HMA do Nascimento, M Dos Santos Lima, ML da Conceição, EL de Souza_
+
+
+This study investigated the effects of freeze-dried red beet root (FDBR) and freeze-dried red beet stem and leaves (FDBSL) on target bacterial groups and metabolic activity of human colonic microbiota in vitro. The capability of FDBR and FDBSL to cause alterations in the relative abundance of different selected bacterial groups found as part of human intestinal microbiota, as well as in pH values, sugar, short-chain fatty acid, phenolic compounds, and antioxidant capacity were evaluated during 48 h of in vitro colonic fermentation. FDBR and FDBSL were submitted to simulated gastrointestinal digestion and freeze-dried prior to use in colonic fermentation. FDBR and FDBSL overall increased the relative abundance of Lactobacillus spp./Enterococcus spp. (3.64-7.60%) and Bifidobacterium spp. (2.76-5.78%) and decreased the relative abundance of Bacteroides spp./Prevotella spp. (9.56-4.18%), Clostridium histolyticum (1.62-1.15%), and Eubacterium rectale/Clostridium coccoides (2.33-1.49%) during 48 h of colonic fermentation. FDBR and FDBSL had high positive prebiotic indexes (&gt;3.61) during colonic fermentation, indicating selective stimulatory effects on beneficial intestinal bacterial groups. FDBR and FDBSL increased the metabolic activity of human colonic microbiota, evidenced by decreased pH, sugar consumption, short-chain fatty acid production, alterations in phenolic compound contents, and maintenance of high antioxidant capacity during colonic fermentation. The results indicate that FDBR and FDBSL could induce beneficial alterations in the composition and metabolic activity of human intestinal microbiota, as well as that conventional and unconventional red beet edible parts are candidates to use as novel and sustainable prebiotic ingredients.
+
+[Source](https://twitter.com/hashtag/microbiota?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.foodres.2023.112998
+
+---
+
 ## #microbiota
 
 [Source](https://twitter.com/hashtag/microbiota?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Colloidal gold based immunochromatographic detection of Mycoplasmopsis synoviae infection and its prevalence in avian species of Karachi, Pakistan.
+ 17.06.2023, _N Rehman, U Ejaz, A Siraj, S Liaquat, M Sohail, TA Khan, SF Moin, A Ahmad_
+
+
+Avian mycoplasmosis is an infection that commonly prevails in birds, particularly in poultry chickens. Among mycoplasmosis causing organisms, Mycoplasmopsis synoviae is a predominant and lethal pathogen to the aves. Considering the increased incidence of infections by M. synoviae, the prevalence of M. synoviae was deduced in poultry chickens and fancy birds of Karachi region. The lungs and tracheal samples from chicken and dead fancy birds and swab samples from live fancy birds were collected and investigated by amplifying 16 s rRNA gene of M. synoviae. Biochemical characteristics of M. synoviae was also evaluated. Furthermore, surface-associated membrane proteins, that represent key antigens for diagnosis of M. synoviae infection was extracted by Triton X- 114 method. Results showed that M. synoviae was detected more frequently in lungs than in trachea, that could be due to its invasion capacity and tissue affinity. SDS PAGE analysis of extracted membrane proteins showed two prominent hydrophobic proteins of different molecular mass including proteins of 150 and 50 kDa. Protein of 150 kDa was purified by size exclusion chromatography and it exhibited agglutinogen activity. Purified protein was used in the development of one-step immunochromatographic (ICT) assay for the detection of antibodies against M. synoviae using gold nanoparticles coated with polyclonal antibodies. Low levels of antibodies were detected by the developed ICT kit, which has 88% sensitivity with 92% specificity.
+
+[Source](https://twitter.com/hashtag/poultry?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.rvsc.2023.06.010
 
 ---
 
@@ -264,6 +313,18 @@ Bipolar disorder (BD) is a chronic and recurrent disorder characterized by bipha
 ## https://t.co/gWabXzr6oQ
 
 [Source](https://t.co/gWabXzr6oQ)
+
+---
+
+## Trauma bypass performed by vascular surgeons demonstrate excellent long-term outcomes and limb preservation.
+ 18.06.2023, _M Harutyunyan, JC Hnath, X Jacobson, J Le, MD Shah, J Kleene, RC Darling_
+
+
+Long-term outcomes in civilian trauma patients requiring upper or lower extremity revascularization is poorly studied secondary to limitations of certain large databases and the nature of the patients in this specific vascular subset. This study reports on the experience and outcomes of a Level 1 trauma center that serves both an urban and a large rural population over a 20-year period to identify bypass outcomes and surveillance protocols.
+
+[Source](https://twitter.com/Microbes4ever/status/1668524788044767233?ref_src=twsrc%5Etfw)
+
+10.1016/j.jvs.2023.05.046
 
 ---
 
@@ -305,15 +366,15 @@ All multicellular organisms host a diverse microbiome composed of microbial path
 
 ---
 
-## Systemic immunometabolism and responses to vaccines: insights from T and B cell perspectives.
- 18.06.2023, _S Nettelfield, D Yu, PF Cañete_
+## Safety training in context: technical, cultural and political factors affecting its design, delivery and transfer.
+ 18.06.2023, _C Pilbeam, N Karanikas_
 
 
-Vaccination stands as the cornerstone in the battle against infectious diseases, and its efficacy hinges upon multifaceted host-related factors encompassing genetics, age, and metabolic status. Remarkably, suboptimal immune responses triggered by metabolic dysregulation is frequently observed in susceptible populations - ranging from malnourished individuals to the obese and elderly - pose a formidable threat to vaccine efficacy. The emerging field of immunometabolism aims to unravel the intricate interplay between immune regulation and metabolic pathways, and recent research has revealed diverse metabolic signatures linked to various vaccine responses and outcomes. In this review, we summarise the major metabolic pathways utilised by B and T cells during vaccine responses, their complex and varied metabolic requirements, and the impact of micronutrients and metabolic hormones on vaccine outcomes. Furthermore, we examine how systemic metabolism influences vaccine responses and the evidence suggesting that metabolic dysregulation in vulnerable populations can lead to impaired vaccine responses. Lastly, we reflect on the challenge of proving causality with respect to the contribution of metabolic dysregulation to poor vaccine outcomes, and highlight the need for a systems biology approach that combines multimodal profiling and mathematical modelling to reveal the underlying mechanisms of such complex interactions.
+Safety training is integral to modern safety management systems. However, what is trained in the classroom is not always adopted and applied in the workplace, creating the training transfer problem. Taking an alternative ontological stance, the aims of this study were to conceptualize this problem as one of 'fit' between what is trained and the contextual factors in the work environment of the adopting organization.
 
 [Source](https://twitter.com/hashtag/diverse?src=hash&ref_src=twsrc%5Etfw)
 
-10.1093/intimm/dxad021
+10.1016/j.jsr.2023.03.004
 
 ---
 
@@ -323,15 +384,15 @@ Vaccination stands as the cornerstone in the battle against infectious diseases,
 
 ---
 
-## Integrative analysis of the gut microbiota and faecal and serum short-chain fatty acids and tryptophan metabolites in patients with cirrhosis and hepatic encephalopathy.
- 17.06.2023, _Q Wang, C Chen, S Zuo, K Cao, H Li_
+## Investigating the effects of conventional and unconventional edible parts of red beet (Beta vulgaris L.) on target bacterial groups and metabolic activity of human colonic microbiota to produce novel and sustainable prebiotic ingredients.
+ 18.06.2023, _SPA de Oliveira, TMR de Albuquerque, NML Massa, NPA Rodrigues, KB Sampaio, HMA do Nascimento, M Dos Santos Lima, ML da Conceição, EL de Souza_
 
 
-The purpose of this study was to describe the changes in the gut microbiome of patients with cirrhosis and hepatic encephalopathy (HE), as well as quantify the variations in short-chain fatty acid (SCFA) and tryptophan metabolite levels in serum and faeces.
+This study investigated the effects of freeze-dried red beet root (FDBR) and freeze-dried red beet stem and leaves (FDBSL) on target bacterial groups and metabolic activity of human colonic microbiota in vitro. The capability of FDBR and FDBSL to cause alterations in the relative abundance of different selected bacterial groups found as part of human intestinal microbiota, as well as in pH values, sugar, short-chain fatty acid, phenolic compounds, and antioxidant capacity were evaluated during 48 h of in vitro colonic fermentation. FDBR and FDBSL were submitted to simulated gastrointestinal digestion and freeze-dried prior to use in colonic fermentation. FDBR and FDBSL overall increased the relative abundance of Lactobacillus spp./Enterococcus spp. (3.64-7.60%) and Bifidobacterium spp. (2.76-5.78%) and decreased the relative abundance of Bacteroides spp./Prevotella spp. (9.56-4.18%), Clostridium histolyticum (1.62-1.15%), and Eubacterium rectale/Clostridium coccoides (2.33-1.49%) during 48 h of colonic fermentation. FDBR and FDBSL had high positive prebiotic indexes (&gt;3.61) during colonic fermentation, indicating selective stimulatory effects on beneficial intestinal bacterial groups. FDBR and FDBSL increased the metabolic activity of human colonic microbiota, evidenced by decreased pH, sugar consumption, short-chain fatty acid production, alterations in phenolic compound contents, and maintenance of high antioxidant capacity during colonic fermentation. The results indicate that FDBR and FDBSL could induce beneficial alterations in the composition and metabolic activity of human intestinal microbiota, as well as that conventional and unconventional red beet edible parts are candidates to use as novel and sustainable prebiotic ingredients.
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1186/s12967-023-04262-9
+10.1016/j.foodres.2023.112998
 
 ---
 
@@ -359,15 +420,15 @@ Despite host-fungal symbiotic interactions being ubiquitous in all ecosystems, u
 
 ---
 
-## Integrating human-centered design in public health data dashboards: lessons from the development of a data dashboard of sexually transmitted infections in New York State.
- 18.06.2023, _B Ansari, EG Martin_
+## Impact of physical and mental fatigue on construction workers' unsafe behavior based on physiological measurement.
+ 18.06.2023, _Z Zhang, T Xiang, H Guo, L Ma, Z Guan, Y Fang_
 
 
-The increased availability of public data and accessible visualization technologies enhanced the popularity of public health data dashboards and broadened their audience from professionals to the general public. However, many dashboards have not achieved their full potential due to design complexities that are not optimized to users' needs.
+Construction worker fatigue is an important factor leading to unsafe behavior, a major cause of construction accidents. Uncovering the impact mechanism of fatigue on workers' unsafe behavior can prevent construction accidents. However, it is difficult to effectively measure workers' fatigue onsite and analyze the impact of worker fatigue on their unsafe behavior.
 
 [Source](https://twitter.com/hashtag/experiment?src=hash&ref_src=twsrc%5Etfw)
 
-10.1093/jamia/ocad102
+10.1016/j.jsr.2023.04.014
 
 ---
 
@@ -386,6 +447,19 @@ The increased availability of public data and accessible visualization technolog
 ## @umncbs
 
 [Source](https://twitter.com/umncbs?ref_src=twsrc%5Etfw)
+
+---
+
+## 5300-Year-old soil carbon is less primed than young soil organic matter.
+ 22.01.2023, _J Su, H Zhang, X Han, R Lv, L Liu, Y Jiang, H Li, Y Kuzyakov, C Wei_
+
+
+_Soil, Carbon, Nitrogen, Soil Microbiology, Glucose_
+Soils harbor more than three times as much carbon (C) as the atmosphere, a large fraction of which (stable organic matter) serves as the most important global C reservoir due to its long residence time. Litter and root inputs bring fresh organic matter (FOM) into the soil and accelerate the turnover of stable C pools, and this phenomenon is termed the "priming effect" (PE). Compared with knowledge about labile soil C pools, very little is known about the vulnerability of stable C to priming. Using two soils that substantially differed in age (500 and 5300 years before present) and in the degree of chemical recalcitrance and physical protection of soil organic matter (SOM), we showed that leaf litter amendment primed 264% more organic C from the young SOM than from the old soil with very stable C. Hierarchical partitioning analysis confirmed that SOM stability, reflected mainly by available C and aggregate protection of SOM, is the most important predictor of leaf litter-induced PE. The addition of complex FOM (i.e., leaf litter) caused a higher bacterial oligotroph/copiotroph (K-/r-strategists) ratio, leading to a PE that was 583% and 126% greater than when simple FOM (i.e., glucose) was added to the young and old soils, respectively. This implies that the PE intensity depends on the chemical similarity between the primer (here FOM) and SOM. Nitrogen (N) mining existed when N and simple FOM were added (i.e., Glucose+N), and N addition raised the leaf litter-induced PE in the old soil that had low N availability, which was well explained by the microbial stoichiometry. In conclusion, the PE induced by FOM inputs strongly decreases with increasing SOM stability. However, the contribution of stable SOM to CO2 efflux cannot be disregarded due to its huge pool size.
+
+[Source](https://twitter.com/niooknaw?ref_src=twsrc%5Etfw)
+
+10.1111/gcb.16463
 
 ---
 
@@ -426,15 +500,15 @@ Evolutionary change in diapause timing can be an adaptive response to changing s
 
 ---
 
-## Profile of and risk factors for early unplanned readmissions in patients with acute necrotizing pancreatitis.
- 17.06.2023, _H Wehbe, I Obaitan, MA Al-Haddad, Y Tong, N Mahendraker, JM DeWitt, B Bick, E Fogel, N Zyromski, A Gutta, S Sherman, J Watkins, M Gromski, N Saleem, JJ Easler_
+## Trauma bypass performed by vascular surgeons demonstrate excellent long-term outcomes and limb preservation.
+ 18.06.2023, _M Harutyunyan, JC Hnath, X Jacobson, J Le, MD Shah, J Kleene, RC Darling_
 
 
-Acute necrotizing pancreatitis (ANP) complicates up to 15% of acute pancreatitis cases. ANP has historically been associated with a significant risk for readmission, but there are currently no studies exploring factors that associate with risk for unplanned, early (&lt;30-day) readmissions in this patient population.
+Long-term outcomes in civilian trauma patients requiring upper or lower extremity revascularization is poorly studied secondary to limitations of certain large databases and the nature of the patients in this specific vascular subset. This study reports on the experience and outcomes of a Level 1 trauma center that serves both an urban and a large rural population over a 20-year period to identify bypass outcomes and surveillance protocols.
 
 [Source](https://twitter.com/e_seabloom/status/1669298473085140992?ref_src=twsrc%5Etfw)
 
-10.1016/j.pan.2023.05.014
+10.1016/j.jvs.2023.05.046
 
 ---
 
@@ -508,6 +582,18 @@ Metagenomics can be used to monitor the spread of antibiotic resistance genes (A
 ## https://t.co/zyHksEbpfs
 
 [Source](https://t.co/zyHksEbpfs)
+
+---
+
+## Special Report from the CDC Healthcare provider influence on driving behavior after a mild traumatic brain injury: Findings from the 2021 SummerStyles survey.
+ 18.06.2023, _J Daugherty, K Sarmiento, D Waltzman, J Schmidt_
+
+
+Research shows that a mild traumatic brain injury (mTBI) impairs a person's ability to identify driving hazards 24 h post injury and increases the risk for motor vehicle crash. This study examined the percentage of people who reported driving after their most serious mTBI and whether healthcare provider education influenced this behavior.
+
+[Source](https://twitter.com/GschwindRemi/status/1660622312511619075?ref_src=twsrc%5Etfw)
+
+10.1016/j.jsr.2023.02.011
 
 ---
 
