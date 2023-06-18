@@ -1,12 +1,12 @@
-## Kidney outcomes and prognostic factors of myeloma associated acute kidney injury in the contemporary era.
- 17.06.2023, _C Ratnayake, SDJ Gibbs, D Lee_
+## Perceived compassionate care and associated factors among patients with mental illness at Tibebe Ghion specialized and Felege Hiwot comprehensive specialized hospital, Northwest Ethiopia.
+ 17.06.2023, _AW Abate, M Menberu, H Belete, T Ergetie, AA Teshome, AT Chekol, M Aschale, W Desalegn_
 
 
-Myeloma cast nephropathy (MCN) has historically been associated with poor kidney outcomes. We aimed to evaluate the kidney outcomes and identify prognostic factors of myeloma-associated acute kidney injury (M-AKI) in the contemporary era of anti-plasma cell therapy. Patients who received anti-myeloma therapy with M-AKI (January 2012 to June 2020) from a single centre were identified from electronic medical records. Diagnosis of MCN was either biopsy confirmed (BC) or clinically suspected (CS), the latter defined as acute kidney injury with reduced estimated glomerular filtration rate (eGFR) &lt;30 mL/min/1.73 m2 and involved serum free light chains (iSFLC) &gt;500 mg/L at diagnosis. Twenty-six patients with M-AKI were identified (BC: n = 13, CS: n = 13). Median eGFR at diagnosis was 12 (interquartile range 6-20) mL/min/1.73 m2 . All six dialysis-requiring patients achieved dialysis independence after 71 (43-208) days. The best-achieved eGFR was 47 (32-67) mL/min/1.73 m2 after 120 (63-167) days post-treatment, which was maintained at 47 (33-66) mL/min/1.73 m2 12 months post-treatment. Patients with best-achieved eGFR above the median were more likely to have achieved an iSFLC of &lt;20 mg/L (above median group 62% versus below median group 0%; p &lt; .001) and lower best post-treatment iSFLC (20 (12-90) versus 67 (29-146) mg/L; p &lt; .05). Best-achieved iSFLC was a prognostic factor for superior eGFR following treatment for M-AKI. Despite low eGFR at diagnosis, contemporary anti-myeloma therapy can achieve significant recovery of kidney function.
+Compassion is the first ethical principle of health care to provide high- quality care that influences patient satisfaction and treatment outcome. However, there is limited data on the level of compassionate mental health care practice in low-resource countries like Ethiopia.
 
 [Source](https://twitter.com/svetlana_up/status/1668170517487009792?ref_src=twsrc%5Etfw)
 
-10.1111/nep.14195
+10.1186/s12913-023-09665-4
 
 ---
 
@@ -95,15 +95,9 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Guild and Niche Determination Enable Targeted Alteration of the Microbiome.
- 30.05.2023, _O Moyne, M Al-Bassam, C Lieng, D Thiruppathy, GJ Norton, M Kumar, E Haddad, LS Zaramela, K Zengler_
-
-
-Microbiome science has greatly contributed to our understanding of microbial life and its essential roles for the environment and human health 1-5 . However, the nature of microbial interactions and how microbial communities respond to perturbations remains poorly understood, resulting in an often descriptive and correlation-based approach to microbiome research 6-8 . Achieving causal and predictive microbiome science would require direct functional measurements in complex communities to better understand the metabolic role of each member and its interactions with others. In this study we present a new approach that integrates transcription and translation measurements to predict competition and substrate preferences within microbial communities, consequently enabling the selective manipulation of the microbiome. By performing metatranscriptomic (metaRNA-Seq) and metatranslatomic (metaRibo-Seq) analysis in complex samples, we classified microbes into functional groups (i.e. guilds) and demonstrated that members of the same guild are competitors. Furthermore, we predicted preferred substrates based on importer proteins, which specifically benefited selected microbes in the community (i.e. their niche) and simultaneously impaired their competitors. We demonstrated the scalability of microbial guild and niche determination to natural samples and its ability to successfully manipulate microorganisms in complex microbiomes. Thus, the approach enhances the design of pre- and probiotic interventions to selectively alter members within microbial communities, advances our understanding of microbial interactions, and paves the way for establishing causality in microbiome science.
+## Guild and Niche Determination Enable Targeted Alteration of the Microbiome
 
 [Source](https://www.biorxiv.org/content/10.1101/2023.05.11.540389v1)
-
-10.1101/2023.05.11.540389
 
 ---
 
@@ -113,34 +107,9 @@ Microbiome science has greatly contributed to our understanding of microbial lif
 
 ---
 
-## The impact of in vitro embryo production on placental and umbilical cord vascularization is minimized by the addition of reproductive fluids.
- 17.06.2023, _E Párraga-Ros, Ú Álvarez-Martín, J Seva, P Coy, R Romar_
-
-
-Animals born from in-vitro-produced (IVP) embryos show changes in the placenta and umbilical cord vascularization. This study compares the placental and umbilical vascular morphometry in pigs (n = 19) born through artificial insemination (AI group) or after transfer of IVP embryos cultured with (RF-IVP group) or without (C-IVP group) reproductive fluids. The relationship between vascular parameters and animal growth during the first year of life was also analyzed. Samples were collected at birth, fixed, paraffin-embedded, cut in sections, stained, and photographed for vascular and morphometric analysis with ImageJ® and Slide Viewer®. The average daily weight gain was individually scored from birth to the first year of life. No differences were found in placental vascular morphometry among groups, except for the vascular area of small vessels (arterioles, venules, and small vessels) that was higher in the C-IVP group. Regarding the umbilical cord, the values for perimeter (AI: 26.40 ± 3.93 mm; IVP: 30.51 ± 4.74 mm), diameter (AI: 8.35 ± 1.01 mm; IVP: 10.26 ± 1.85 mm), area (AI: 43.18 ± 12.87; IVP: 56.61 ± 14.89 mm2), and Wharton's jelly area (AI: 36.86 ± 12.04 mm2; IVP 48.88 ± 12.80 mm2) were higher in IVP-derived than AI-derived animals, whereas arterial and venous morphometric data were similar between groups. A correlation study showed that placental and umbilical cord vascular phenotypes affect the further growth of pigs. In conclusion, assisted reproductive technologies impact small caliber vessels in the placenta and morphometric parameters in the umbilical cord. The addition of reproductive fluids in IVP-embryo contributes to reduce the differences with in vivo-derived animals.
-
-[Source](https://twitter.com/OrianeMoyne/status/1657155454093410304?ref_src=twsrc%5Etfw)
-
-10.1016/j.theriogenology.2023.05.029
-
----
-
 ## May 12, 2023
 
 [Source](https://twitter.com/OrianeMoyne/status/1657155454093410304?ref_src=twsrc%5Etfw)
-
----
-
-## Biomolecular Markers of Recurrent Implantation Failure-A Review.
- 19.11.2021, _AE Mrozikiewicz, M Ożarowski, P Jędrzejczak_
-
-
-_Adult, Biomarkers, Blastocyst, Embryo Implantation, Endometrium, Estrogens, Female, Glycodelin, Humans, Immune System, Immunologic Factors, Infertility, Female, Leukemia Inhibitory Factor, Microbiota, Neovascularization, Pathologic, Progesterone, Receptors, Estrogen, Receptors, Progesterone, Recurrence, Risk Factors, Vagina_
-Currently, infertility affects 8-12% of reproductive age couples worldwide, a problem that also affects women suffering from recurrent implantation failure (RIF). RIF is a complex condition resulting from many physiological and molecular mechanisms involving dynamic endometrium-blastocyst interaction. The most important are the endometrial receptivity process, decidualization, trophoblast invasion, and blastocyst nesting. Although the exact multifactorial pathogenesis of RIF remains unclear, many studies have suggested the association between hormone level imbalance, disturbances of angiogenic and immunomodulatory factors, certain genetic polymorphisms, and occurrence of RIF. These studies were performed in quite small groups. Additionally, the results are inconsistent between ethnicities. The present review briefly summarizes the importance of factors involved in RIF development that could also serve as diagnostic determinants. Moreover, our review could constitute part of a new platform for discovery of novel diagnostic and therapeutic solutions for RIF.
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.06.14.544778v1)
-
-10.3390/ijms221810082
 
 ---
 
@@ -223,18 +192,6 @@ Bipolar disorder (BD) is a chronic and recurrent disorder characterized by bipha
 
 ---
 
-## Kidney outcomes and prognostic factors of myeloma associated acute kidney injury in the contemporary era.
- 17.06.2023, _C Ratnayake, SDJ Gibbs, D Lee_
-
-
-Myeloma cast nephropathy (MCN) has historically been associated with poor kidney outcomes. We aimed to evaluate the kidney outcomes and identify prognostic factors of myeloma-associated acute kidney injury (M-AKI) in the contemporary era of anti-plasma cell therapy. Patients who received anti-myeloma therapy with M-AKI (January 2012 to June 2020) from a single centre were identified from electronic medical records. Diagnosis of MCN was either biopsy confirmed (BC) or clinically suspected (CS), the latter defined as acute kidney injury with reduced estimated glomerular filtration rate (eGFR) &lt;30 mL/min/1.73 m2 and involved serum free light chains (iSFLC) &gt;500 mg/L at diagnosis. Twenty-six patients with M-AKI were identified (BC: n = 13, CS: n = 13). Median eGFR at diagnosis was 12 (interquartile range 6-20) mL/min/1.73 m2 . All six dialysis-requiring patients achieved dialysis independence after 71 (43-208) days. The best-achieved eGFR was 47 (32-67) mL/min/1.73 m2 after 120 (63-167) days post-treatment, which was maintained at 47 (33-66) mL/min/1.73 m2 12 months post-treatment. Patients with best-achieved eGFR above the median were more likely to have achieved an iSFLC of &lt;20 mg/L (above median group 62% versus below median group 0%; p &lt; .001) and lower best post-treatment iSFLC (20 (12-90) versus 67 (29-146) mg/L; p &lt; .05). Best-achieved iSFLC was a prognostic factor for superior eGFR following treatment for M-AKI. Despite low eGFR at diagnosis, contemporary anti-myeloma therapy can achieve significant recovery of kidney function.
-
-[Source](https://twitter.com/Microbes4ever/status/1668524788044767233?ref_src=twsrc%5Etfw)
-
-10.1111/nep.14195
-
----
-
 ## June 13, 2023
 
 [Source](https://twitter.com/Microbes4ever/status/1668524788044767233?ref_src=twsrc%5Etfw)
@@ -273,15 +230,15 @@ All multicellular organisms host a diverse microbiome composed of microbial path
 
 ---
 
-## Genetic mapping and prediction for novel lesion mimic in maize demonstrates quantitative effects from genetic background, environment and epistasis.
- 17.06.2023, _A Adak, SC Murray, CI Calderón, V Infante, J Wilker, JI Varela, N Subramanian, T Isakeit, JM Ané, J Wallace, N de Leon, MA Stull, M Brun, J Hill, CD Johnson_
+## Common juniper, an overlooked conifer with high invasion potential in protected areas of Patagonia.
+ 17.06.2023, _J Franzese, RR Ripa_
 
 
-A novel locus was discovered on chromosome 7 associated with a lesion mimic in maize; this lesion mimic had a quantitative and heritable phenotype and was predicted better via subset genomic markers than whole genome markers across diverse environments. Lesion mimics are a phenotype of leaf micro-spotting in maize (Zea mays L.), which can be early signs of biotic or abiotic stresses. Dissecting its inheritance is helpful to understand how these loci behave across different genetic backgrounds. Here, 538 maize recombinant inbred lines (RILs) segregating for a novel lesion mimic were quantitatively phenotyped in Georgia, Texas, and Wisconsin. These RILs were derived from three bi-parental crosses using a tropical pollinator (Tx773) as the common parent crossed with three inbreds (LH195, LH82, and PB80). While this lesion mimic was heritable across three environments based on phenotypic ([Formula: see text] = 0.68) and genomic ([Formula: see text] = 0.91) data, transgressive segregation was observed. A genome-wide association study identified a single novel locus on chromosome 7 (at 70.6 Mb) also covered by a quantitative trait locus interval (69.3-71.0 Mb), explaining 11-15% of the variation, depending on the environment. One candidate gene identified in this region, Zm00001eb308070, is related to the abscisic acid pathway involving in cell death. Genomic predictions were applied to genome-wide markers (39,611 markers) contrasted with a marker subset (51 markers). Population structure explained more variation than environment in genomic prediction, but other substantial genetic background effects were additionally detected. Subset markers explained substantially less genetic variation (24.9%) for the lesion mimic than whole genome markers (55.4%) in the model, yet predicted the lesion mimic better (0.56-0.66 vs. 0.26-0.29). These results indicate this lesion mimic phenotype was less affected by environment than by epistasis and genetic background effects, which explain its transgressive segregation.
+The benefits of early detection of biological invasions are widely recognized, especially for protected areas (PAs). However, research on incipient invasive plant species is scarce compared to species with a recognized history of invasion. Here, we characterized the invasion status of the non-native conifer Juniperus communis in PAs and interface areas of Andean Patagonia, Argentina. We mapped its distribution and described both the invasion and the environments this species inhabits through field studies, a literature review, and a citizen science initiative. We also modeled the species' potential distribution by comparing the climatic characteristics of its native range with those of the introduced ranges studied. The results show that J. communis is now widely distributed in the region, occurring naturally in diverse habitats, and frequently within and close to PAs. This species can be considered an incipient invader with a high potential for expansion in its regional distribution range, largely due to its high reproductive potential and the high habitat suitability of this environment. Early detection of a plant invasion affords a valuable opportunity to inform citizens of the potential risks to high conservation value ecosystems before the invader is perceived as a natural component of the landscape.
 
 [Source](https://twitter.com/hashtag/diverse?src=hash&ref_src=twsrc%5Etfw)
 
-10.1007/s00122-023-04394-y
+10.1038/s41598-023-37023-1
 
 ---
 
@@ -291,15 +248,15 @@ A novel locus was discovered on chromosome 7 associated with a lesion mimic in m
 
 ---
 
-## Infant gut microbiota and environment associate with juvenile idiopathic arthritis many years prior to disease onset, especially in genetically vulnerable children.
- 17.06.2023, _E Kindgren, AP Ahrens, EW Triplett, J Ludvigsson_
+## Integrative analysis of the gut microbiota and faecal and serum short-chain fatty acids and tryptophan metabolites in patients with cirrhosis and hepatic encephalopathy.
+ 17.06.2023, _Q Wang, C Chen, S Zuo, K Cao, H Li_
 
 
-The etiology of juvenile idiopathic arthritis (JIA) is poorly understood. This study investigated genetic and environmental factors and infant gut microbiota in a prospective birth cohort to assess disease risk.
+The purpose of this study was to describe the changes in the gut microbiome of patients with cirrhosis and hepatic encephalopathy (HE), as well as quantify the variations in short-chain fatty acid (SCFA) and tryptophan metabolite levels in serum and faeces.
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.ebiom.2023.104654
+10.1186/s12967-023-04262-9
 
 ---
 
@@ -309,15 +266,15 @@ The etiology of juvenile idiopathic arthritis (JIA) is poorly understood. This s
 
 ---
 
-## Multimodal remote sensing application for weed competition time series analysis in maize farmland ecosystems.
- 17.06.2023, _L Quan, Z Lou, X Lv, D Sun, F Xia, H Li, W Sun_
+## Genomic data provide a robust phylogeny backbone for Rhodiola L. (Crassulaceae) and reveal extensive reticulate evolution during its rapid radiation.
+ 17.06.2023, _CQ Ren, DQ Zhang, XY Liu, JQ Zhang_
 
 
-Although weeds cause serious harm to crops through competition for resources, they also have ecological functions. We need to study the change law of competition between crops and weeds, and achieve scientific farmland weed management under the premise of protecting weed biodiversity. In the research, we perform a competitive experiment in Harbin, China, in 2021, with five periods of maize as the study subjects. Comprehensive competition indices (CCI-A) based on maize phenotypes were used to describe the dynamic processes and results of weeds competition. The relation between in structural and biochemical information of maize and weed competitive intensity (Levels 1-5) at different periods and the effects on yield parameters were analyzed. The results showed that the differences of maize plant height, stalk thickness, and N and P elements among different competition levels (Levels 1-5) changed significantly with increasing competition time. This directly resulted in 10%, 31%, 35% and 53% decrease in maize yield; and 3%, 7%, 9% and 15% decrease in hundred grain weight. Compared to the conventional competition indices, CCI-A had better dispersion in the last four periods and was more suitable for quantifying the time-series response of competition. Then, multi-source remote sensing technologies are applied to reveal the temporal response of spectral and lidar information to community competition. The first-order derivatives of the spectra indicate that the red edge (RE) of competition stressed plots biased in short-wave direction in each period. With increasing competition time, RE of Levels 1-5 shifted towards the long wave direction as a whole. The coefficients of variation of canopy height model (CHM) indicate that weed competition had a significant effect on CHM. Finally, the deep learning model with multimodal data (Mul-3DCNN) is created to achieve a large range of CCI-A predictions for different periods, and achieves a prediction accuracy of R2 = 0.85 and RMSE = 0.095. Overall, this study use of CCI-A indices combined with multimodal temporal remote sensing imagery and DL to achieve large scale prediction of weed competitiveness in different periods of maize.
+The Tibetan Plateau and adjacent mountain regions (TP; including the Tibetan Plateau, Himalaya, Hengduan Mountains and Mountains of Central Asia) harbor great biodiversity, some lineages on which may have undergone rapid radiations. However, only a few studies have investigated the evolutionary pattern of such diversification in depth using genomic data. In this study, we reconstructed a robust phylogeny backbone of Rhodiola, a lineage that may have undergone rapid radiation in the TP, using Genotyping-by-sequencing data, and conducted a series of gene flow and diversification analyses. The concatenation and coalescent-based methods yield similar tree topologies, and five well-supported clades were revealed. Potential gene flow and introgression events were detected, both between species from different major clades and closely related species, suggesting pervasive hybridization and introgression. An initial rapid and later slowdown of the diversification rate was revealed, indicating niche filling. Molecular dating and correlation analyses showed that the uplift of TP and global cooling in the mid-Miocene might have played an important role in promoting the rapid radiation of Rhodiola. Our work demonstrates that gene flow and introgression might be an important contributor to rapid radiation possibly by quickly reassembling old genetic variation into new combinations.
 
 [Source](https://twitter.com/hashtag/biodiversity?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.jenvman.2023.118376
+10.1016/j.ympev.2023.107863
 
 ---
 
@@ -327,15 +284,15 @@ Although weeds cause serious harm to crops through competition for resources, th
 
 ---
 
-## Refinements in embryo manipulation applied to CRISPR technology in livestock.
- 17.06.2023, _PC Dos Santos-Neto, F Cuadro, M Souza-Neves, M Crispo, A Menchaca_
+## The mismatch negativity to abstract relationship of tone pairs is independent of attention.
+ 17.06.2023, _YF Hsu, CA Tu, Y Chen, HM Liu_
 
 
-The implementation of CRISPR technology in large animals requires further improvements in embryo manipulation and transfer to be applied with commercial purposes. In this study we report (a) developmental competence of CRISPR/Cas microinjected zygotes subjected to in vitro culture in large scale programs in sheep; (b) pregnancy outcomes after early-stage (2-8-cell) embryo transfer into the oviduct or the uterine horn; and (c) embryo survival and birth rate after vitrification/warming of CRISPR/Cas microinjected zygotes. Experiment 1 consisted of a retrospective analysis to evaluate embryo developmental rate of in vitro produced zygotes subjected to CRISPR/Cas microinjection (n = 7,819) compared with a subset of non-microinjected zygotes (n = 701). Development rates to blastocyst on Day 6 were 20.0% for microinjected zygotes and 44.9% for non-injected zygotes (P &lt; 0.05). In Experiment 2, CRISPR/Cas microinjected zygotes were transferred on Day 2 after in vitro fertilization (2-8 cell embryos) into the oviductal ampulla (n = 262) or into the uterine horn (n = 276) in synchronized recipient ewes at prefixed time (i.e., approximately two days after ovulation). Pregnant/transferred recipients (24.0% vs. 25.0%), embryo survival/transferred embryos (6.9% vs. 6.2%), and born lambs/pregnant embryos (72.2% vs. 100.0%) did not differ significantly in the two groups. In Experiment 3, CRISPR/Cas microinjected zygotes were maintained under in vitro culture until blastocyst stage (Day 6), and subjected to vitrification/warming via the Cryotop method (n = 474), while a subset of embryos were left fresh as control group (n = 75). Embryos were transferred into the uterine horn of recipient females at prefixed time 8.5 days after the estrous synchronization treatment (i.e., approximately six days after ovulation). Pregnancy rate (30.8% vs. 48.0%), embryo survival rate (14.8% vs. 21.3%), and birth rate (85.7% vs. 75.0%) were not different (PNS) between vitrified and fresh embryos, respectively. In conclusion, the current study in sheep embryos reports (a) suitable developmental rate after CRISPR/Cas microinjection (i.e., 20%), even though it was lower than non-microinjected zygotes; (b) similar outcomes when Day 2-embryos were placed into the uterine horn instead of the oviduct, avoiding both time-consuming and invasive oviduct manipulation, and extended in vitro culture during one week; (c) promising pregnancy and birth rates obtained with vitrification of CRISPR/Cas microinjected embryos. This knowledge on in vitro embryo development, timing of embryo transfer, and cryopreservation of CRISPR/Cas microinjected zygotes have practical implications for the implementation of genome editing technology in large animals.
+The mismatch negativity (MMN) implicating a comparison process between the deviant and the memory trace of the standard can be elicited by not only changes in physical features but also violations of abstract patterns. It is considered pre-attentive, yet the use of the passive design makes it difficult to exclude the possibility of attention leak. In contrast to how this issue has been well addressed with the MMN to physical changes, much less research directly investigated the attentional effect on the MMN to abstract relationships. Here we conducted an electroencephalography (EEG) experiment to study whether and how the MMN to abstract relationships is modulated by attention. We adapted the oddball paradigm of Kujala et al. by presenting occasional descending tone pairs among frequent ascending tone pairs, while additionally implementing a novel control of attention. Participants' attention was either directed away from the sounds (with an engaging task of visual target detection, so that the sounds were task-irrelevant) or toward the sounds (with a conventional task of auditory deviant detection, so that the sounds were task-relevant). The MMN to abstract relationships appeared regardless of attention, confirming the pre-attentive assumption. The attention-independence of the frontocentral and supratemporal components of the MMN supported the notion that attention is not required to generate the MMN. At the individual level, a relatively equal number of participants showed attention enhancement and attention suppression. It is unlike the attentional modulation on the P3b, which was robustly elicited in the attended condition only. The concurrent collection of these two neurophysiological markers in both unattended and attended conditions might be potentially suitable for testing clinical populations showing heterogeneous deficits in auditory function independent/dependent of attention.
 
 [Source](https://twitter.com/hashtag/experiment?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.theriogenology.2023.05.028
+10.1038/s41598-023-37131-y
 
 ---
 
@@ -369,19 +326,6 @@ The implementation of CRISPR technology in large animals requires further improv
 
 ---
 
-## Divergence in cell cycle progression is associated with shifted phenology in a multivoltine moth: the European corn borer, Ostrinia nubilalis.
- 15.06.2023, _Q Xia, C Chen, EB Dopman, DA Hahn_
-
-
-_Animals, Moths, Zea mays, Larva, Diapause, Cell Division_
-Evolutionary change in diapause timing can be an adaptive response to changing seasonality, and even result in ecological speciation. However, the molecular and cellular mechanisms regulating shifts in diapause timing remain poorly understood. One of the hallmarks of diapause is a massive slowdown in the cell cycle of target organs such as the brain and primordial imaginal structures, and resumption of cell cycle proliferation is an indication of diapause termination and resumption of development. Characterizing cell cycle parameters between lineages differing in diapause life history timing may help identify molecular mechanisms associated with alterations of diapause timing. We tested the extent to which progression of the cell cycle differs across diapause between two genetically distinct European corn borer strains that differ in their seasonal diapause timing. We show the cell cycle slows down during larval diapause with a significant decrease in the proportion of cells in S phase. Brain-subesophageal complex cells slow primarily in G0/G1 phase whereas most wing disc cells are in G2 phase. Diapausing larvae of the earlier emerging, bivoltine E-strain (BE) suppressed cell cycle progression less than the later emerging, univoltine Z-strain (UZ) individuals, with a greater proportion of cells in S phase across both tissues during diapause. Additionally, resumption of cell cycle proliferation occurred earlier in the BE strain than in the UZ strain after exposure to diapause-terminating conditions. We propose that regulation of cell cycle progression rates ultimately drives differences in larval diapause termination, and adult emergence timing, between early- and late-emerging European corn borer strains.
-
-[Source](https://twitter.com/e_borer?ref_src=twsrc%5Etfw)
-
-10.1242/jeb.245244
-
----
-
 ## @e_borer
 
 [Source](https://twitter.com/e_borer?ref_src=twsrc%5Etfw)
@@ -391,18 +335,6 @@ Evolutionary change in diapause timing can be an adaptive response to changing s
 ## https://t.co/TEhvN2Fxge
 
 [Source](https://t.co/TEhvN2Fxge)
-
----
-
-## H-type hypertension is a risk factor for chronic total coronary artery occlusion: a cross-sectional study from southwest China.
- 16.06.2023, _K Xiao, Z Xv, Y Xv, J Wang, L Xiao, Z Kang, J Zhu, Z He, G Huang_
-
-
-Chronic total coronary occlusion (CTO) is serious and the "last bastion" of percutaneous coronary intervention. Hypertension and hyperhomocysteinemia (HHCY) are synergistic and significantly increase cardiovascular event risk. The relationship between H-type hypertension and CTO remains unclear; thus, this cross-sectional study investigated this potential association.
-
-[Source](https://twitter.com/e_seabloom/status/1669298473085140992?ref_src=twsrc%5Etfw)
-
-10.1186/s12872-023-03345-1
 
 ---
 
@@ -418,46 +350,15 @@ Chronic total coronary occlusion (CTO) is serious and the "last bastion" of perc
 
 ---
 
-## QMRA of beach water by Nanopore sequencing-based viability-metagenomics absolute quantification.
- 18.04.2023, _Y Yang, Y Deng, X Shi, L Liu, X Yin, W Zhao, S Li, C Yang, T Zhang_
-
-
-_Humans, Microbial Viability, Metagenomics, Reproducibility of Results, Nanopore Sequencing, Propidium, Azides, Risk Assessment, Bacteria, Escherichia coli_
-The majority of the current regulatory practices for routine monitoring of beach water quality rely on the culture-based enumeration of faecal indicator bacteria (FIB) to develop criteria for promoting the general public's health. To address the limitations of culture methods and the arguable reliability of FIB in indicating health risks, we developed a Nanopore metagenomic sequencing-based viable cell absolute quantification workflow to rapidly and accurately estimate a broad range of microbes in beach waters by a combination of propidium monoazide (PMA) and cellular spike-ins. Using the simple synthetic bacterial communities mixed with viable and heat-killed cells, we observed near-complete relic DNA removal by PMA with minimal disturbance to the composition of viable cells, demonstrating the feasibility of PMA treatment in profiling viable cells by Nanopore sequencing. On a simple mock community comprised of 15 prokaryotic species, our results showed high accordance between the expected and estimated concentrations, suggesting the accuracy of our method in absolute quantification. We then further assessed the accuracy of our method for counting viable Escherichia coli and Vibrio spp. in beach waters by comparing to culture-based method, which were also in high agreement. Furthermore, we demonstrated that 1 Gb sequences obtained within 2 h would be sufficient to quantify a species having a concentration of ≥ 10 cells/mL in beach waters. Using our viability-resolved quantification workflow to assess the microbial risk of the beach water, we conducted (1) screening-level quantitative microbial risk assessment (QMRA) to investigate human illness risk and site-specific risk patterns that might guide risk management efforts and (2) metagenomics-based resistome risk assessment to evaluate another layer of risk caused by difficult illness treatment due to antimicrobial resistance (AMR). In summary, our metagenomic workflow for the rapid absolute quantification of viable bacteria demonstrated its great potential in paving new avenues toward holistic microbial risk assessment.
+## QMRA of beach water by Nanopore sequencing-based viability-metagenomics absolute quantification
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0043135423002932)
-
-10.1016/j.watres.2023.119858
-
----
-
-## ResFinderFG v2.0: a database of antibiotic resistance genes obtained by functional metagenomics.
- 19.05.2023, _R Gschwind, S Ugarcina Perovic, M Weiss, M Petitjean, J Lao, LP Coelho, E Ruppé_
-
-
-Metagenomics can be used to monitor the spread of antibiotic resistance genes (ARGs). ARGs found in databases such as ResFinder and CARD primarily originate from culturable and pathogenic bacteria, while ARGs from non-culturable and non-pathogenic bacteria remain understudied. Functional metagenomics is based on phenotypic gene selection and can identify ARGs from non-culturable bacteria with a potentially low identity shared with known ARGs. In 2016, the ResFinderFG v1.0 database was created to collect ARGs from functional metagenomics studies. Here, we present the second version of the database, ResFinderFG v2.0, which is available on the Center of Genomic Epidemiology web server (https://cge.food.dtu.dk/services/ResFinderFG/). It comprises 3913 ARGs identified by functional metagenomics from 50 carefully curated datasets. We assessed its potential to detect ARGs in comparison to other popular databases in gut, soil and water (marine + freshwater) Global Microbial Gene Catalogues (https://gmgc.embl.de). ResFinderFG v2.0 allowed for the detection of ARGs that were not detected using other databases. These included ARGs conferring resistance to beta-lactams, cycline, phenicol, glycopeptide/cycloserine and trimethoprim/sulfonamide. Thus, ResFinderFG v2.0 can be used to identify ARGs differing from those found in conventional databases and therefore improve the description of resistomes.
-
-[Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad384/7173762)
-
-10.1093/nar/gkad384
 
 ---
 
 ## ResFinderFG v2.0: a database of antibiotic resistance genes obtained by functional metagenomics – Rémi Gschwind 
 
 [Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad384/7173762)
-
----
-
-## Achieving pan-microbiome biological insights via the dbBact knowledge base.
- 16.06.2023, _A Amir, E Ozel, Y Haberman, N Shental_
-
-
-16S rRNA amplicon sequencing provides a relatively inexpensive culture-independent method for studying microbial communities. Although thousands of such studies have examined diverse habitats, it is difficult for researchers to use this vast trove of experiments when interpreting their own findings in a broader context. To bridge this gap, we introduce dbBact - a novel pan-microbiome resource. dbBact combines manually curated information from studies across diverse habitats, creating a collaborative central repository of 16S rRNA amplicon sequence variants (ASVs), which are assigned multiple ontology-based terms. To date dbBact contains information from more than 1000 studies, which include 1500000 associations between 360000 ASVs and 6500 ontology terms. Importantly, dbBact offers a set of computational tools allowing users to easily query their own datasets against the database. To demonstrate how dbBact augments standard microbiome analysis we selected 16 published papers, and reanalyzed their data via dbBact. We uncovered novel inter-host similarities, potential intra-host sources of bacteria, commonalities across different diseases and lower host-specificity in disease-associated bacteria. We also demonstrate the ability to detect environmental sources, reagent-borne contaminants, and identify potential cross-sample contaminations. These analyses demonstrate how combining information across multiple studies and over diverse habitats leads to better understanding of underlying biological processes.
-
-[Source](https://twitter.com/NAR_Open?ref_src=twsrc%5Etfw)
-
-10.1093/nar/gkad527
 
 ---
 
