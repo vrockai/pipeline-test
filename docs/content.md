@@ -41,34 +41,9 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Retrospective chart review of patient socioeconomic status and language preference associated with live video telehealth in a pediatric dermatology practice.
- 17.06.2023, _NC Zacher, KL Pickett, SJ Schmiege, CA Olson, AL Bruckner, LL Kohn_
-
-
-Pediatric teledermatology rapidly expanded with the COVID-19 pandemic, and the impacts of this expansion on patients' access to care have not yet been entirely defined. In this retrospective study of 3027 patients in an academic pediatric dermatology practice, patients who identified as having a primary language other than English were less likely to access pediatric dermatology care during the COVID lockdown. This study did not identify a significant or meaningful difference in age, geography, socioeconomic status, ethnicity, or race between patients who were offered pediatric dermatology care that was either in-person or via synchronous telehealth. These findings are overall reassuring that there were not major disparities in telehealth utilization during the COVID shelter-in-place mandate, although highlight the need for institutions to ensure systems are in place to enhance telehealth access for patients with non-English primary language.
-
-[Source](https://twitter.com/Stanford?ref_src=twsrc%5Etfw)
-
-10.1111/pde.15364
-
----
-
 ## @Stanford
 
 [Source](https://twitter.com/Stanford?ref_src=twsrc%5Etfw)
-
----
-
-## Pollination: Orchids attract unusual pollinators by means of novel chemical compounds.
- 17.03.2022, _KJRP Byers_
-
-
-_Animals, Bees, Flowers, Orchidaceae, Pollination, Wasps_
-Sexually deceptive pollination is widespread in orchids, yet studies of its chemical basis have been mostly limited to species pollinated by bees and wasps. Two new studies in orchids demonstrate the novel chemistry of deceptive pollination by unusual pollinators.
-
-[Source](https://twitter.com/kelsey_EJ?ref_src=twsrc%5Etfw)
-
-10.1016/j.cub.2021.02.058
 
 ---
 
@@ -84,34 +59,9 @@ Sexually deceptive pollination is widespread in orchids, yet studies of its chem
 
 ---
 
-## Determination of Tr1 cell populations correlating with distinct activation states in acute IAV infection.
- 15.06.2023, _CA Abbott, EL Freimayer, TS Tyllis, TS Norton, M Alsharifi, A H S Heng, SM Pederson, Z Qu, M Armstrong, GR Hill, SR McColl, I Comerford_
-
-
-Type I regulatory (Tr1) cells are defined as FOXP3-IL-10-secreting CD4+ T cells that contribute to immune suppression and typically express the markers LAG-3 and CD49b and other co-inhibitory receptors. These cells have not been studied in detail the context of the resolution of acute infection in the lung. Here, we identify FOXP3-IL-10+ CD4+ T cells transiently accumulating in the lung parenchyma during resolution of the response to sublethal influenza A virus (IAV) infection in mice. These cells were dependent on IL-27Rα, which was required for timely recovery from IAV-induced weight loss. LAG-3 and CD49b were not generally co-expressed by FOXP3- IL-10+ CD4+ T cells in this model and four populations of these cells based on LAG-3 and CD49b co-expression were apparent (LAG-3-CD49b- [DN], LAG-3+CD49b+ [DP], LAG-3+CD49b- [LAG-3+], LAG-3-CD49b+ [CD49b+]). However, each population exhibited suppressive potential consistent with the definition of Tr1 cells. Notably, differences between these populations of Tr1 cells were apparent including differential dependence on IL-10 to mediate suppression and expression of markers indicative of different activation states and terminal differentiation. Sort-transfer experiments indicated that LAG-3+ Tr1 cells exhibited the capacity to convert to DN and DP Tr1 cells, indicative of plasticity between these populations. Together, these data determine the features and suppressive potential of Tr1 cells in the resolution of IAV infection and identify four populations delineated by LAG-3 and CD49b, which likely correspond to different Tr1 cell activation states.
-
-[Source](https://twitter.com/telethonkids?ref_src=twsrc%5Etfw)
-
-10.1016/j.mucimm.2023.06.003
-
----
-
 ## @telethonkids
 
 [Source](https://twitter.com/telethonkids?ref_src=twsrc%5Etfw)
-
----
-
-## Obesity: Policy and Practice Recommendations for High-Risk Populations Influenced by the COVID-19 Pandemic.
- 22.12.2022, _KN Robinson, DA Saber_
-
-
-_Humans, United States, COVID-19, SARS-CoV-2, Pandemics, Influenza A Virus, H1N1 Subtype, Obesity, Policy_
-Obesity has been linked to higher morbidity and mortality in those that contract novel viruses, such as H1N1 and SARS-CoV-2. Loss of life and the high cost of obesity highlight the need to focus on preventative measures. The state of Maine (United States) is profiled as a rural state with high rates of obesity and low health literacy that benefits from programs to improve health. However, more multidirectional efforts are needed. Four recommendations for building a healthier, more resilient patient population are discussed here: (i) state incentives and subsidies, (ii) employers to incentivize healthy living, (iii) federal incentives and initiatives, and (iv) personal responsibility for health and wellness.
-
-[Source](https://twitter.com/UMaine?ref_src=twsrc%5Etfw)
-
-10.1128/msystems.00089-22
 
 ---
 
@@ -145,9 +95,15 @@ Obesity has been linked to higher morbidity and mortality in those that contract
 
 ---
 
-## Guild and Niche Determination Enable Targeted Alteration of the Microbiome
+## Guild and Niche Determination Enable Targeted Alteration of the Microbiome.
+ 30.05.2023, _O Moyne, M Al-Bassam, C Lieng, D Thiruppathy, GJ Norton, M Kumar, E Haddad, LS Zaramela, K Zengler_
+
+
+Microbiome science has greatly contributed to our understanding of microbial life and its essential roles for the environment and human health 1-5 . However, the nature of microbial interactions and how microbial communities respond to perturbations remains poorly understood, resulting in an often descriptive and correlation-based approach to microbiome research 6-8 . Achieving causal and predictive microbiome science would require direct functional measurements in complex communities to better understand the metabolic role of each member and its interactions with others. In this study we present a new approach that integrates transcription and translation measurements to predict competition and substrate preferences within microbial communities, consequently enabling the selective manipulation of the microbiome. By performing metatranscriptomic (metaRNA-Seq) and metatranslatomic (metaRibo-Seq) analysis in complex samples, we classified microbes into functional groups (i.e. guilds) and demonstrated that members of the same guild are competitors. Furthermore, we predicted preferred substrates based on importer proteins, which specifically benefited selected microbes in the community (i.e. their niche) and simultaneously impaired their competitors. We demonstrated the scalability of microbial guild and niche determination to natural samples and its ability to successfully manipulate microorganisms in complex microbiomes. Thus, the approach enhances the design of pre- and probiotic interventions to selectively alter members within microbial communities, advances our understanding of microbial interactions, and paves the way for establishing causality in microbiome science.
 
 [Source](https://www.biorxiv.org/content/10.1101/2023.05.11.540389v1)
+
+10.1101/2023.05.11.540389
 
 ---
 
@@ -157,15 +113,53 @@ Obesity has been linked to higher morbidity and mortality in those that contract
 
 ---
 
+## The impact of in vitro embryo production on placental and umbilical cord vascularization is minimized by the addition of reproductive fluids.
+ 17.06.2023, _E Párraga-Ros, Ú Álvarez-Martín, J Seva, P Coy, R Romar_
+
+
+Animals born from in-vitro-produced (IVP) embryos show changes in the placenta and umbilical cord vascularization. This study compares the placental and umbilical vascular morphometry in pigs (n = 19) born through artificial insemination (AI group) or after transfer of IVP embryos cultured with (RF-IVP group) or without (C-IVP group) reproductive fluids. The relationship between vascular parameters and animal growth during the first year of life was also analyzed. Samples were collected at birth, fixed, paraffin-embedded, cut in sections, stained, and photographed for vascular and morphometric analysis with ImageJ® and Slide Viewer®. The average daily weight gain was individually scored from birth to the first year of life. No differences were found in placental vascular morphometry among groups, except for the vascular area of small vessels (arterioles, venules, and small vessels) that was higher in the C-IVP group. Regarding the umbilical cord, the values for perimeter (AI: 26.40 ± 3.93 mm; IVP: 30.51 ± 4.74 mm), diameter (AI: 8.35 ± 1.01 mm; IVP: 10.26 ± 1.85 mm), area (AI: 43.18 ± 12.87; IVP: 56.61 ± 14.89 mm2), and Wharton's jelly area (AI: 36.86 ± 12.04 mm2; IVP 48.88 ± 12.80 mm2) were higher in IVP-derived than AI-derived animals, whereas arterial and venous morphometric data were similar between groups. A correlation study showed that placental and umbilical cord vascular phenotypes affect the further growth of pigs. In conclusion, assisted reproductive technologies impact small caliber vessels in the placenta and morphometric parameters in the umbilical cord. The addition of reproductive fluids in IVP-embryo contributes to reduce the differences with in vivo-derived animals.
+
+[Source](https://twitter.com/OrianeMoyne/status/1657155454093410304?ref_src=twsrc%5Etfw)
+
+10.1016/j.theriogenology.2023.05.029
+
+---
+
 ## May 12, 2023
 
 [Source](https://twitter.com/OrianeMoyne/status/1657155454093410304?ref_src=twsrc%5Etfw)
 
 ---
 
+## Biomolecular Markers of Recurrent Implantation Failure-A Review.
+ 19.11.2021, _AE Mrozikiewicz, M Ożarowski, P Jędrzejczak_
+
+
+_Adult, Biomarkers, Blastocyst, Embryo Implantation, Endometrium, Estrogens, Female, Glycodelin, Humans, Immune System, Immunologic Factors, Infertility, Female, Leukemia Inhibitory Factor, Microbiota, Neovascularization, Pathologic, Progesterone, Receptors, Estrogen, Receptors, Progesterone, Recurrence, Risk Factors, Vagina_
+Currently, infertility affects 8-12% of reproductive age couples worldwide, a problem that also affects women suffering from recurrent implantation failure (RIF). RIF is a complex condition resulting from many physiological and molecular mechanisms involving dynamic endometrium-blastocyst interaction. The most important are the endometrial receptivity process, decidualization, trophoblast invasion, and blastocyst nesting. Although the exact multifactorial pathogenesis of RIF remains unclear, many studies have suggested the association between hormone level imbalance, disturbances of angiogenic and immunomodulatory factors, certain genetic polymorphisms, and occurrence of RIF. These studies were performed in quite small groups. Additionally, the results are inconsistent between ethnicities. The present review briefly summarizes the importance of factors involved in RIF development that could also serve as diagnostic determinants. Moreover, our review could constitute part of a new platform for discovery of novel diagnostic and therapeutic solutions for RIF.
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.06.14.544778v1)
+
+10.3390/ijms221810082
+
+---
+
 ## Interaction of genital microbiota in infertile couples
 
 [Source](https://www.biorxiv.org/content/10.1101/2023.06.14.544778v1)
+
+---
+
+## Therapy of replenishing and regulating for manic episode in bipolar disorder: study protocol for a prospective, double-blind, randomized controlled trial.
+ 16.06.2023, _Y Yang, Y Haining, J Hongxiao, N Yanzhe, W Di, Z Lei, Y Kaijuan, G Yumeng, W Fei, S Weishuang, C Pei_
+
+
+_Humans, Adolescent, Bipolar Disorder, Mania, Quality of Life, Prospective Studies, Double-Blind Method, Treatment Outcome, Randomized Controlled Trials as Topic_
+Bipolar disorder (BD) is a chronic and recurrent disorder characterized by biphasic mood episodes of mania or hypomania and depression. It affects more than 1% of the global population and is a leading cause of disability in young people. Currently available treatments for BD are still fairly limited in terms of efficacy, with high rates of non-adherence, non-response, and undesirable side effects. Traditional Chinese medicine (TCM) has a long history and rich experience in stabilizing mania and improving quality of life. Aiming at rebalancing and in BD, therapy of replenishing and regulating (RYRY therapy) has been in clinical use for years in China. The present prospective, double-blind, randomized controlled trial is designed to investigate the efficacy and safety of RYRY therapy for bipolar mania and its possible mechanism from the point of regulating gut microbiota and anti-inflammation. A total of 60 eligible participants will be recruited from Beijing Anding Hospital. They will be randomized to either the study group or the control group in a ratio of 1∶1. Participants allocated to the study group will receive RYRY granule, while placebo granule will be applied in the control group. Participants in both groups will be prescribed conventional therapy for manic episode in BD. Four scheduled visits will be conducted over 4 weeks. Outcome measurements include Young Mania Rating Scale, TCM Symptom Pattern Rating Scale, Treatment Emergent Symptom Scale, levels of C-reactive protein, interleukin-6 and tumor necrosis factor-α and the gut microbial community profile of stool samples. Safety outcomes and adverse events will also be recorded. In this study, we set a number of scientific and objective assessments to evaluate the efficacy of RYRY therapy and study into its possible mechanism, hopefully offering clinicians an alternative approach to BD.
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.06.13.544832v1)
+
+10.19852/j.cnki.jtcm.20230328.002
 
 ---
 
@@ -279,15 +273,15 @@ All multicellular organisms host a diverse microbiome composed of microbial path
 
 ---
 
-## Benchmark Models for Elucidating Ligand Effects: Thiols Ligated Isostructural Cu6 Nanoclusters.
- 17.06.2023, _L Zhang, M Guo, J Zhou, C Fang, X Sun_
+## Genetic mapping and prediction for novel lesion mimic in maize demonstrates quantitative effects from genetic background, environment and epistasis.
+ 17.06.2023, _A Adak, SC Murray, CI Calderón, V Infante, J Wilker, JI Varela, N Subramanian, T Isakeit, JM Ané, J Wallace, N de Leon, MA Stull, M Brun, J Hill, CD Johnson_
 
 
-Atomically precise copper nanoclusters (Cu NCs) have attracted tremendous attention for their huge potential in many applications. However, the uncertainty of the growth mechanism and complexity of the crystallization process hinder the in-depth understanding of their properties. In particular, the ligand effect has been rarely explored at the atomic/molecular level due to the lack of feasible models. Herein, three isostructural Cu6 NCs ligated with diverse mono-thiol ligands (2-mercaptobenzimidazole, 2-mercaptobenzothiazole, and 2-mercaptobenzoxazole, respectively) are successfully synthesized, which provide an ideal platform to unambiguously address the intrinsic role of ligands. The overall atom-by-atom structural evolution process of Cu6 NCs is mapped out with delicate mass spectrometry (MS) for the first time. It is intriguingly found that the ligands, albeit only atomic difference (NH, O, and S), can profoundly affect the building-up processes, chemical properties, atomic structures, as well as catalytic activities of Cu NCs. Furthermore, ion-molecule reactions combined with density functional theory (DFT) calculations demonstrate that the defective sites formed on ligand can significantly contribute to the activation of molecular oxygen. This study provides fundamental insights into the ligand effect, which is vital for the delicate design of high-efficient Cu NCs-based catalysts.
+A novel locus was discovered on chromosome 7 associated with a lesion mimic in maize; this lesion mimic had a quantitative and heritable phenotype and was predicted better via subset genomic markers than whole genome markers across diverse environments. Lesion mimics are a phenotype of leaf micro-spotting in maize (Zea mays L.), which can be early signs of biotic or abiotic stresses. Dissecting its inheritance is helpful to understand how these loci behave across different genetic backgrounds. Here, 538 maize recombinant inbred lines (RILs) segregating for a novel lesion mimic were quantitatively phenotyped in Georgia, Texas, and Wisconsin. These RILs were derived from three bi-parental crosses using a tropical pollinator (Tx773) as the common parent crossed with three inbreds (LH195, LH82, and PB80). While this lesion mimic was heritable across three environments based on phenotypic ([Formula: see text] = 0.68) and genomic ([Formula: see text] = 0.91) data, transgressive segregation was observed. A genome-wide association study identified a single novel locus on chromosome 7 (at 70.6 Mb) also covered by a quantitative trait locus interval (69.3-71.0 Mb), explaining 11-15% of the variation, depending on the environment. One candidate gene identified in this region, Zm00001eb308070, is related to the abscisic acid pathway involving in cell death. Genomic predictions were applied to genome-wide markers (39,611 markers) contrasted with a marker subset (51 markers). Population structure explained more variation than environment in genomic prediction, but other substantial genetic background effects were additionally detected. Subset markers explained substantially less genetic variation (24.9%) for the lesion mimic than whole genome markers (55.4%) in the model, yet predicted the lesion mimic better (0.56-0.66 vs. 0.26-0.29). These results indicate this lesion mimic phenotype was less affected by environment than by epistasis and genetic background effects, which explain its transgressive segregation.
 
 [Source](https://twitter.com/hashtag/diverse?src=hash&ref_src=twsrc%5Etfw)
 
-10.1002/smll.202301633
+10.1007/s00122-023-04394-y
 
 ---
 
@@ -297,15 +291,15 @@ Atomically precise copper nanoclusters (Cu NCs) have attracted tremendous attent
 
 ---
 
-## Rookery through rehabilitation: Microbial community assembly in newborn harbour seals after maternal separation.
- 17.06.2023, _AD Switzer, BJ Callahan, EK Costello, EM Bik, C Fontaine, FMD Gulland, DA Relman_
+## Infant gut microbiota and environment associate with juvenile idiopathic arthritis many years prior to disease onset, especially in genetically vulnerable children.
+ 17.06.2023, _E Kindgren, AP Ahrens, EW Triplett, J Ludvigsson_
 
 
-Microbial community assembly remains largely unexplored in marine mammals, despite its potential importance for conservation and management. Here, neonatal microbiota assembly was studied in harbour seals (Phoca vitulina richardii) at a rehabilitation facility soon after maternal separation, through weaning, to the time of release back to their native environment. We found that the gingival and rectal communities of rehabilitated harbour seals were distinct from the microbiotas of formula and pool water, and became increasingly diverse and dissimilar over time, ultimately resembling the gingival and rectal communities of local wild harbour seals. Harbour seal microbiota assembly was compared to that of human infants, revealing the rapid emergence of host specificity and evidence of phylosymbiosis even though these harbour seals had been raised by humans. Early life prophylactic antibiotics were associated with changes in the composition of the harbour seal gingival and rectal communities and surprisingly, with transient increases in alpha diversity, perhaps because of microbiota sharing during close cohabitation with other harbour seals. Antibiotic-associated effects dissipated over time. These results suggest that while early life maternal contact may provide seeding for microbial assembly, co-housing of conspecifics during rehabilitation may help neonatal mammals achieve a healthy host-specific microbiota with features of resilience.
+The etiology of juvenile idiopathic arthritis (JIA) is poorly understood. This study investigated genetic and environmental factors and infant gut microbiota in a prospective birth cohort to assess disease risk.
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1111/1462-2920.16444
+10.1016/j.ebiom.2023.104654
 
 ---
 
@@ -315,15 +309,15 @@ Microbial community assembly remains largely unexplored in marine mammals, despi
 
 ---
 
-## Oral microbial communities in 5-year-old children with versus without dental caries.
- 16.06.2023, _Z Yang, T Cai, Y Li, D Jiang, J Luo, Z Zhou_
+## Multimodal remote sensing application for weed competition time series analysis in maize farmland ecosystems.
+ 17.06.2023, _L Quan, Z Lou, X Lv, D Sun, F Xia, H Li, W Sun_
 
 
-Caries in young children has received more and more attention. The study of the oral microbiota may help to understand the polymicrobial etiology of dental caries.
+Although weeds cause serious harm to crops through competition for resources, they also have ecological functions. We need to study the change law of competition between crops and weeds, and achieve scientific farmland weed management under the premise of protecting weed biodiversity. In the research, we perform a competitive experiment in Harbin, China, in 2021, with five periods of maize as the study subjects. Comprehensive competition indices (CCI-A) based on maize phenotypes were used to describe the dynamic processes and results of weeds competition. The relation between in structural and biochemical information of maize and weed competitive intensity (Levels 1-5) at different periods and the effects on yield parameters were analyzed. The results showed that the differences of maize plant height, stalk thickness, and N and P elements among different competition levels (Levels 1-5) changed significantly with increasing competition time. This directly resulted in 10%, 31%, 35% and 53% decrease in maize yield; and 3%, 7%, 9% and 15% decrease in hundred grain weight. Compared to the conventional competition indices, CCI-A had better dispersion in the last four periods and was more suitable for quantifying the time-series response of competition. Then, multi-source remote sensing technologies are applied to reveal the temporal response of spectral and lidar information to community competition. The first-order derivatives of the spectra indicate that the red edge (RE) of competition stressed plots biased in short-wave direction in each period. With increasing competition time, RE of Levels 1-5 shifted towards the long wave direction as a whole. The coefficients of variation of canopy height model (CHM) indicate that weed competition had a significant effect on CHM. Finally, the deep learning model with multimodal data (Mul-3DCNN) is created to achieve a large range of CCI-A predictions for different periods, and achieves a prediction accuracy of R2 = 0.85 and RMSE = 0.095. Overall, this study use of CCI-A indices combined with multimodal temporal remote sensing imagery and DL to achieve large scale prediction of weed competitiveness in different periods of maize.
 
 [Source](https://twitter.com/hashtag/biodiversity?src=hash&ref_src=twsrc%5Etfw)
 
-10.1186/s12903-023-03055-2
+10.1016/j.jenvman.2023.118376
 
 ---
 
@@ -333,15 +327,15 @@ Caries in young children has received more and more attention. The study of the 
 
 ---
 
-## Design, synthesis, biological evaluation and molecular docking studies of quercetin-linker-H2S donor conjugates for the treatment of diabetes and wound healing.
- 17.06.2023, _S He, J Liu, L Hu, Y Zhan, H Tong, H Zhu, H Guo, H Sun, M Liu_
+## Refinements in embryo manipulation applied to CRISPR technology in livestock.
+ 17.06.2023, _PC Dos Santos-Neto, F Cuadro, M Souza-Neves, M Crispo, A Menchaca_
 
 
-Based on the use of quercetin for treating diabetes and H2S for promoting wound healing, a series of three quercetin-linker-H2S donor conjugates was designed, synthesized and characterized by 1H NMR, 13C NMR and MS. Meanwhile, in vitro evaluation of these compounds was also researched by IR-HepG2 treatment experiment, MTT assay, scratch test and tubule formation experiment. The three compounds could be used to treat insulin resistance induced by high glucose and promote the proliferation of human umbilical vein endothelial cells, wound healing, and the formation of tubules in vitro under a high-glucose environment. Our results illustrate that these compounds could be used to treat diabetes and promote wound healing at the same time. Furthermore, molecular docking study results of the compounds were consistent with the evaluated biological activity. In vivo research of compounds is underway.
+The implementation of CRISPR technology in large animals requires further improvements in embryo manipulation and transfer to be applied with commercial purposes. In this study we report (a) developmental competence of CRISPR/Cas microinjected zygotes subjected to in vitro culture in large scale programs in sheep; (b) pregnancy outcomes after early-stage (2-8-cell) embryo transfer into the oviduct or the uterine horn; and (c) embryo survival and birth rate after vitrification/warming of CRISPR/Cas microinjected zygotes. Experiment 1 consisted of a retrospective analysis to evaluate embryo developmental rate of in vitro produced zygotes subjected to CRISPR/Cas microinjection (n = 7,819) compared with a subset of non-microinjected zygotes (n = 701). Development rates to blastocyst on Day 6 were 20.0% for microinjected zygotes and 44.9% for non-injected zygotes (P &lt; 0.05). In Experiment 2, CRISPR/Cas microinjected zygotes were transferred on Day 2 after in vitro fertilization (2-8 cell embryos) into the oviductal ampulla (n = 262) or into the uterine horn (n = 276) in synchronized recipient ewes at prefixed time (i.e., approximately two days after ovulation). Pregnant/transferred recipients (24.0% vs. 25.0%), embryo survival/transferred embryos (6.9% vs. 6.2%), and born lambs/pregnant embryos (72.2% vs. 100.0%) did not differ significantly in the two groups. In Experiment 3, CRISPR/Cas microinjected zygotes were maintained under in vitro culture until blastocyst stage (Day 6), and subjected to vitrification/warming via the Cryotop method (n = 474), while a subset of embryos were left fresh as control group (n = 75). Embryos were transferred into the uterine horn of recipient females at prefixed time 8.5 days after the estrous synchronization treatment (i.e., approximately six days after ovulation). Pregnancy rate (30.8% vs. 48.0%), embryo survival rate (14.8% vs. 21.3%), and birth rate (85.7% vs. 75.0%) were not different (PNS) between vitrified and fresh embryos, respectively. In conclusion, the current study in sheep embryos reports (a) suitable developmental rate after CRISPR/Cas microinjection (i.e., 20%), even though it was lower than non-microinjected zygotes; (b) similar outcomes when Day 2-embryos were placed into the uterine horn instead of the oviduct, avoiding both time-consuming and invasive oviduct manipulation, and extended in vitro culture during one week; (c) promising pregnancy and birth rates obtained with vitrification of CRISPR/Cas microinjected embryos. This knowledge on in vitro embryo development, timing of embryo transfer, and cryopreservation of CRISPR/Cas microinjected zygotes have practical implications for the implementation of genome editing technology in large animals.
 
 [Source](https://twitter.com/hashtag/experiment?src=hash&ref_src=twsrc%5Etfw)
 
-10.1002/cbdv.202300513
+10.1016/j.theriogenology.2023.05.028
 
 ---
 
@@ -375,6 +369,19 @@ Based on the use of quercetin for treating diabetes and H2S for promoting wound 
 
 ---
 
+## Divergence in cell cycle progression is associated with shifted phenology in a multivoltine moth: the European corn borer, Ostrinia nubilalis.
+ 15.06.2023, _Q Xia, C Chen, EB Dopman, DA Hahn_
+
+
+_Animals, Moths, Zea mays, Larva, Diapause, Cell Division_
+Evolutionary change in diapause timing can be an adaptive response to changing seasonality, and even result in ecological speciation. However, the molecular and cellular mechanisms regulating shifts in diapause timing remain poorly understood. One of the hallmarks of diapause is a massive slowdown in the cell cycle of target organs such as the brain and primordial imaginal structures, and resumption of cell cycle proliferation is an indication of diapause termination and resumption of development. Characterizing cell cycle parameters between lineages differing in diapause life history timing may help identify molecular mechanisms associated with alterations of diapause timing. We tested the extent to which progression of the cell cycle differs across diapause between two genetically distinct European corn borer strains that differ in their seasonal diapause timing. We show the cell cycle slows down during larval diapause with a significant decrease in the proportion of cells in S phase. Brain-subesophageal complex cells slow primarily in G0/G1 phase whereas most wing disc cells are in G2 phase. Diapausing larvae of the earlier emerging, bivoltine E-strain (BE) suppressed cell cycle progression less than the later emerging, univoltine Z-strain (UZ) individuals, with a greater proportion of cells in S phase across both tissues during diapause. Additionally, resumption of cell cycle proliferation occurred earlier in the BE strain than in the UZ strain after exposure to diapause-terminating conditions. We propose that regulation of cell cycle progression rates ultimately drives differences in larval diapause termination, and adult emergence timing, between early- and late-emerging European corn borer strains.
+
+[Source](https://twitter.com/e_borer?ref_src=twsrc%5Etfw)
+
+10.1242/jeb.245244
+
+---
+
 ## @e_borer
 
 [Source](https://twitter.com/e_borer?ref_src=twsrc%5Etfw)
@@ -384,6 +391,18 @@ Based on the use of quercetin for treating diabetes and H2S for promoting wound 
 ## https://t.co/TEhvN2Fxge
 
 [Source](https://t.co/TEhvN2Fxge)
+
+---
+
+## H-type hypertension is a risk factor for chronic total coronary artery occlusion: a cross-sectional study from southwest China.
+ 16.06.2023, _K Xiao, Z Xv, Y Xv, J Wang, L Xiao, Z Kang, J Zhu, Z He, G Huang_
+
+
+Chronic total coronary occlusion (CTO) is serious and the "last bastion" of percutaneous coronary intervention. Hypertension and hyperhomocysteinemia (HHCY) are synergistic and significantly increase cardiovascular event risk. The relationship between H-type hypertension and CTO remains unclear; thus, this cross-sectional study investigated this potential association.
+
+[Source](https://twitter.com/e_seabloom/status/1669298473085140992?ref_src=twsrc%5Etfw)
+
+10.1186/s12872-023-03345-1
 
 ---
 
@@ -399,15 +418,46 @@ Based on the use of quercetin for treating diabetes and H2S for promoting wound 
 
 ---
 
-## QMRA of beach water by Nanopore sequencing-based viability-metagenomics absolute quantification
+## QMRA of beach water by Nanopore sequencing-based viability-metagenomics absolute quantification.
+ 18.04.2023, _Y Yang, Y Deng, X Shi, L Liu, X Yin, W Zhao, S Li, C Yang, T Zhang_
+
+
+_Humans, Microbial Viability, Metagenomics, Reproducibility of Results, Nanopore Sequencing, Propidium, Azides, Risk Assessment, Bacteria, Escherichia coli_
+The majority of the current regulatory practices for routine monitoring of beach water quality rely on the culture-based enumeration of faecal indicator bacteria (FIB) to develop criteria for promoting the general public's health. To address the limitations of culture methods and the arguable reliability of FIB in indicating health risks, we developed a Nanopore metagenomic sequencing-based viable cell absolute quantification workflow to rapidly and accurately estimate a broad range of microbes in beach waters by a combination of propidium monoazide (PMA) and cellular spike-ins. Using the simple synthetic bacterial communities mixed with viable and heat-killed cells, we observed near-complete relic DNA removal by PMA with minimal disturbance to the composition of viable cells, demonstrating the feasibility of PMA treatment in profiling viable cells by Nanopore sequencing. On a simple mock community comprised of 15 prokaryotic species, our results showed high accordance between the expected and estimated concentrations, suggesting the accuracy of our method in absolute quantification. We then further assessed the accuracy of our method for counting viable Escherichia coli and Vibrio spp. in beach waters by comparing to culture-based method, which were also in high agreement. Furthermore, we demonstrated that 1 Gb sequences obtained within 2 h would be sufficient to quantify a species having a concentration of ≥ 10 cells/mL in beach waters. Using our viability-resolved quantification workflow to assess the microbial risk of the beach water, we conducted (1) screening-level quantitative microbial risk assessment (QMRA) to investigate human illness risk and site-specific risk patterns that might guide risk management efforts and (2) metagenomics-based resistome risk assessment to evaluate another layer of risk caused by difficult illness treatment due to antimicrobial resistance (AMR). In summary, our metagenomic workflow for the rapid absolute quantification of viable bacteria demonstrated its great potential in paving new avenues toward holistic microbial risk assessment.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0043135423002932)
+
+10.1016/j.watres.2023.119858
+
+---
+
+## ResFinderFG v2.0: a database of antibiotic resistance genes obtained by functional metagenomics.
+ 19.05.2023, _R Gschwind, S Ugarcina Perovic, M Weiss, M Petitjean, J Lao, LP Coelho, E Ruppé_
+
+
+Metagenomics can be used to monitor the spread of antibiotic resistance genes (ARGs). ARGs found in databases such as ResFinder and CARD primarily originate from culturable and pathogenic bacteria, while ARGs from non-culturable and non-pathogenic bacteria remain understudied. Functional metagenomics is based on phenotypic gene selection and can identify ARGs from non-culturable bacteria with a potentially low identity shared with known ARGs. In 2016, the ResFinderFG v1.0 database was created to collect ARGs from functional metagenomics studies. Here, we present the second version of the database, ResFinderFG v2.0, which is available on the Center of Genomic Epidemiology web server (https://cge.food.dtu.dk/services/ResFinderFG/). It comprises 3913 ARGs identified by functional metagenomics from 50 carefully curated datasets. We assessed its potential to detect ARGs in comparison to other popular databases in gut, soil and water (marine + freshwater) Global Microbial Gene Catalogues (https://gmgc.embl.de). ResFinderFG v2.0 allowed for the detection of ARGs that were not detected using other databases. These included ARGs conferring resistance to beta-lactams, cycline, phenicol, glycopeptide/cycloserine and trimethoprim/sulfonamide. Thus, ResFinderFG v2.0 can be used to identify ARGs differing from those found in conventional databases and therefore improve the description of resistomes.
+
+[Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad384/7173762)
+
+10.1093/nar/gkad384
 
 ---
 
 ## ResFinderFG v2.0: a database of antibiotic resistance genes obtained by functional metagenomics – Rémi Gschwind 
 
 [Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad384/7173762)
+
+---
+
+## Achieving pan-microbiome biological insights via the dbBact knowledge base.
+ 16.06.2023, _A Amir, E Ozel, Y Haberman, N Shental_
+
+
+16S rRNA amplicon sequencing provides a relatively inexpensive culture-independent method for studying microbial communities. Although thousands of such studies have examined diverse habitats, it is difficult for researchers to use this vast trove of experiments when interpreting their own findings in a broader context. To bridge this gap, we introduce dbBact - a novel pan-microbiome resource. dbBact combines manually curated information from studies across diverse habitats, creating a collaborative central repository of 16S rRNA amplicon sequence variants (ASVs), which are assigned multiple ontology-based terms. To date dbBact contains information from more than 1000 studies, which include 1500000 associations between 360000 ASVs and 6500 ontology terms. Importantly, dbBact offers a set of computational tools allowing users to easily query their own datasets against the database. To demonstrate how dbBact augments standard microbiome analysis we selected 16 published papers, and reanalyzed their data via dbBact. We uncovered novel inter-host similarities, potential intra-host sources of bacteria, commonalities across different diseases and lower host-specificity in disease-associated bacteria. We also demonstrate the ability to detect environmental sources, reagent-borne contaminants, and identify potential cross-sample contaminations. These analyses demonstrate how combining information across multiple studies and over diverse habitats leads to better understanding of underlying biological processes.
+
+[Source](https://twitter.com/NAR_Open?ref_src=twsrc%5Etfw)
+
+10.1093/nar/gkad527
 
 ---
 
