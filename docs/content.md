@@ -1,7 +1,8 @@
 ## A data-driven approach for predicting the impact of drugs on the human microbiome.
- 18.06.2023, _YM Algavi, E Borenstein_
+ 19.06.2023, _YM Algavi, E Borenstein_
 
 
+_Animals, Humans, Microbiota, Gastrointestinal Microbiome, Drug-Related Side Effects and Adverse Reactions, Genomics, Dysbiosis_
 Many medications can negatively impact the bacteria residing in our gut, depleting beneficial species, and causing adverse effects. To guide personalized pharmaceutical treatment, a comprehensive understanding of the impact of various drugs on the gut microbiome is needed, yet, to date, experimentally challenging to obtain. Towards this end, we develop a data-driven approach, integrating information about the chemical properties of each drug and the genomic content of each microbe, to systematically predict drug-microbiome interactions. We show that this framework successfully predicts outcomes of in-vitro pairwise drug-microbe experiments, as well as drug-induced microbiome dysbiosis in both animal models and clinical trials. Applying this methodology, we systematically map a large array of interactions between pharmaceuticals and human gut bacteria and demonstrate that medications' anti-microbial properties are tightly linked to their adverse effects. This computational framework has the potential to unlock the development of personalized medicine and microbiome-based therapeutic approaches, improving outcomes and minimizing side effects.
 
 [Source](https://doi.org/10.1038/s41467-023-39264-0)
@@ -11,9 +12,10 @@ Many medications can negatively impact the bacteria residing in our gut, depleti
 ---
 
 ## CRISPR arrays as high-resolution markers to track microbial transmission during influenza infection.
- 18.06.2023, _L Zhang, J Rahman, M Chung, L Lashua, A Gordon, A Balmaseda, G Kuan, R Bonneau, E Ghedin_
+ 19.06.2023, _L Zhang, J Rahman, M Chung, L Lashua, A Gordon, A Balmaseda, G Kuan, R Bonneau, E Ghedin_
 
 
+_Humans, Clustered Regularly Interspaced Short Palindromic Repeats, Influenza, Human, Bacteria, Metagenome, Microbiota, Micrococcaceae_
 Disruption of the microbial community in the respiratory tract due to infections, like influenza, could impact transmission of bacterial pathogens. Using samples from a household study, we determined whether metagenomic-type analyses of the microbiome provide the resolution necessary to track transmission of airway bacteria. Microbiome studies have shown that the microbial community across various body sites tends to be more similar between individuals who cohabit in the same household than between individuals from different households. We tested whether there was increased sharing of bacteria from the airways within households with influenza infections as compared to control households with no influenza.
 
 [Source](https://doi.org/10.1186/s40168-023-01568-0)
@@ -71,9 +73,10 @@ Cutaneous Leishmaniasis (CL) affects millions of people globally and has a signi
 ---
 
 ## Oral microbiota may affect osteoradionecrosis following radiotherapy for head and neck cancer.
- 18.06.2023, _Z Li, R Fu, X Huang, X Wen, L Zhang_
+ 19.06.2023, _Z Li, R Fu, X Huang, X Wen, L Zhang_
 
 
+_Humans, Osteoradionecrosis, Head and Neck Neoplasms, Health Status_
 Osteoradionecrosis (ORN) is a serious complication of radiotherapy for head and neck cancer (HNC). However, its etiology and pathogenesis have not been completely elucidated. Recent studies suggest the involvement of the oral microbiota in the development of ORN. The aim of this study was to assess the correlation between oral microbiota and the extent of bone resorption in ORN patients.
 
 [Source](https://doi.org/10.1186/s12967-023-04219-y)
@@ -83,9 +86,10 @@ Osteoradionecrosis (ORN) is a serious complication of radiotherapy for head and 
 ---
 
 ## Oral microbial communities in 5-year-old children with versus without dental caries.
- 18.06.2023, _Z Yang, T Cai, Y Li, D Jiang, J Luo, Z Zhou_
+ 19.06.2023, _Z Yang, T Cai, Y Li, D Jiang, J Luo, Z Zhou_
 
 
+_Humans, Dental Caries, Saliva, Bacteria, Microbiota, Streptococcus, RNA, Ribosomal, 16S_
 Caries in young children has received more and more attention. The study of the oral microbiota may help to understand the polymicrobial etiology of dental caries.
 
 [Source](https://doi.org/10.1186/s12903-023-03055-2)
@@ -95,9 +99,10 @@ Caries in young children has received more and more attention. The study of the 
 ---
 
 ## Analysis of gut microbiota in patients with Williams-Beuren Syndrome reveals dysbiosis linked to clinical manifestations.
- 18.06.2023, _F Del Chierico, V Marzano, M Scanu, S Reddel, ML Dentici, R Capolino, M Di Donato, I Spasari, EV Fiscarelli, MC Digilio, MT Abreu, B Dallapiccola, L Putignani_
+ 19.06.2023, _F Del Chierico, V Marzano, M Scanu, S Reddel, ML Dentici, R Capolino, M Di Donato, I Spasari, EV Fiscarelli, MC Digilio, MT Abreu, B Dallapiccola, L Putignani_
 
 
+_Humans, Williams Syndrome, Dysbiosis, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Quality of Life, Gastrointestinal Diseases_
 Williams-Beuren syndrome (WBS) is a multisystem genetic disease caused by the deletion of a region of 1.5-1.8 Mb on chromosome 7q11.23. The elastin gene seems to account for several comorbidities and distinct clinical features such including cardiovascular disease, connective tissue abnormalities, growth retardation, and gastrointestinal (GI) symptoms. Increasing evidence points to alterations in gut microbiota composition as a primary or secondary cause of some GI or extra-intestinal characteristics. In this study, we performed the first exploratory analysis of gut microbiota in WBS patients compared to healthy subjects (CTRLs) using 16S rRNA amplicon sequencing, by investigating the gut dysbiosis in relation to diseases and comorbidities. We found that patients with WBS have significant dysbiosis compared to age-matched CTRLs, characterized by an increase in proinflammatory bacteria such as Pseudomonas, Gluconacetobacter and Eggerthella, and a reduction of anti-inflammatory bacteria including Akkermansia and Bifidobacterium. Microbial biomarkers associated with weight gain, GI symptoms and hypertension were identified. Gut microbiota profiling could represent a new tool that characterise intestinal dysbiosis to complement the clinical management of these patients. In particular, the administration of microbial-based treatments, alongside traditional therapies, could help in reducing or preventing the burden of these symptoms and improve the quality of life of these patients.
 
 [Source](https://doi.org/10.1038/s41598-023-36704-1)
@@ -143,7 +148,7 @@ How host-associated microbial communities evolve as their hosts diversify remain
 ---
 
 ## Social transmission of bacterial symbionts homogenizes the microbiome within and across generations of group-living spiders.
- 18.06.2023, _C Rose, MB Lund, AM Søgård, MM Busck, JS Bechsgaard, A Schramm, T Bilde_
+ 19.06.2023, _C Rose, MB Lund, AM Søgård, MM Busck, JS Bechsgaard, A Schramm, T Bilde_
 
 
 Disentangling modes and fidelity of symbiont transmission are key for understanding host-symbiont associations in wild populations. In group-living animals, social transmission may evolve to ensure high-fidelity transmission of symbionts, since non-reproducing helpers constitute a dead-end for vertical transmission. We investigated symbiont transmission in the social spider Stegodyphus dumicola, which lives in family groups where the majority of females are non-reproducing helpers, females feed offspring by regurgitation, and individuals feed communally on insect prey. Group members share temporally stable microbiomes across generations, while distinct variation in microbiome composition exists between groups. We hypothesized that horizontal transmission of symbionts is enhanced by social interactions, and investigated transmission routes within (horizontal) and across (vertical) generations using bacterial 16S rRNA gene amplicon sequencing in three experiments: (i) individuals were sampled at all life stages to assess at which life stage the microbiome is acquired. (ii) a cross-fostering design was employed to test whether offspring carry the microbiome from their natal nest, or acquire the microbiome of the foster nest via social transmission. (iii) adult spiders with different microbiome compositions were mixed to assess whether social transmission homogenizes microbiome composition among group members. We demonstrate that offspring hatch symbiont-free, and bacterial symbionts are transmitted vertically across generations by social interactions with the onset of regurgitation feeding by (foster)mothers in an early life stage. Social transmission governs horizontal inter-individual mixing and homogenization of microbiome composition among nest mates. We conclude that temporally stable host-symbiont associations in social species can be facilitated and maintained by high-fidelity social transmission.
@@ -191,9 +196,10 @@ Microbiome research is providing important new insights into the metabolic inter
 ---
 
 ## Methods for Analyzing the Gut Microbiota in Diabetic Retinopathy.
- 18.06.2023, _Y Huang, JH Ma, Y Peng, X Yang, J Chen, S Tang_
+ 19.06.2023, _Y Huang, JH Ma, Y Peng, X Yang, J Chen, S Tang_
 
 
+_Humans, Gastrointestinal Microbiome, Feces, Diabetic Retinopathy, Microbiota, RNA, Ribosomal, 16S, Diabetes Mellitus_
 The gut microbiome that inhabits human hosts plays an important role in the development of a healthy host immune system. Many studies have shown that gut microbiota is involved in the occurrence and development of diabetic retinopathy (DR). With the advent of sequencing technology of the bacterial 16S ribosomal RNA (rRNA) gene, microbiota studies are becoming more feasible. Here, we described a study protocol to characterize the microbiota composite in the DR and non-DR patients compared with healthy controls.
 
 [Source](https://doi.org/10.1007/978-1-0716-3255-0_10)
@@ -203,9 +209,10 @@ The gut microbiome that inhabits human hosts plays an important role in the deve
 ---
 
 ## Using nanopore sequencing to identify fungi from clinical samples with high phylogenetic resolution.
- 18.06.2023, _A Ohta, K Nishi, K Hirota, Y Matsuo_
+ 19.06.2023, _A Ohta, K Nishi, K Hirota, Y Matsuo_
 
 
+_Humans, Phylogeny, Sequence Analysis, DNA, Nanopore Sequencing, Fungi, Microbiota, High-Throughput Nucleotide Sequencing_
 The study of microbiota has been revolutionized by the development of DNA metabarcoding. This sequence-based approach enables the direct detection of microorganisms without the need for culture and isolation, which significantly reduces analysis time and offers more comprehensive taxonomic profiles across broad phylogenetic lineages. While there has been an accumulating number of researches on bacteria, molecular phylogenetic analysis of fungi still remains challenging due to the lack of standardized tools and the incompleteness of reference databases limiting the accurate and precise identification of fungal taxa. Here, we present a DNA metabarcoding workflow for characterizing fungal microbiota with high taxonomic resolution. This method involves amplifying longer stretches of ribosomal RNA operons and sequencing them using nanopore long-read sequencing technology. The resulting reads were error-polished to generate consensus sequences with 99.5-100% accuracy, which were then aligned against reference genome assemblies. The efficacy of this method was explored using a polymicrobial mock community and patient-derived specimens, demonstrating the marked potential of long-read sequencing combined with consensus calling for accurate taxonomic classification. Our approach offers a powerful tool for the rapid identification of pathogenic fungi and has the promise to significantly improve our understanding of the role of fungi in health and disease.
 
 [Source](https://doi.org/10.1038/s41598-023-37016-0)
