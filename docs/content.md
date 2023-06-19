@@ -1,12 +1,12 @@
-## Trauma bypass performed by vascular surgeons demonstrate excellent long-term outcomes and limb preservation.
- 18.06.2023, _M Harutyunyan, JC Hnath, X Jacobson, J Le, MD Shah, J Kleene, RC Darling_
+## Village health team-delivered oral HIV self-testing increases linkage-to-care and antiretroviral-therapy initiation among men in Uganda.
+ 18.06.2023, _J Nangendo, F Semitala, J Kalyango, J Kabami, GO Obeng-Amoako, M Muwema, A Katahoire, C Karamagi, R Wanyenze, M Kamya_
 
 
-Long-term outcomes in civilian trauma patients requiring upper or lower extremity revascularization is poorly studied secondary to limitations of certain large databases and the nature of the patients in this specific vascular subset. This study reports on the experience and outcomes of a Level 1 trauma center that serves both an urban and a large rural population over a 20-year period to identify bypass outcomes and surveillance protocols.
+Targeted strategies are central to increasing HIV-status awareness and progress on the care cascade among men. We implemented Village-Health-Team (VHT)-delivered HIV self-testing (HIVST) among men in a peri-urban Ugandan district and assessed linkage to confirmatory-testing, antiretroviral-therapy (ART) initiation and HIV-status disclosure following HIVST. We conducted a prospective cohort study from November 2018 to June 2019 and enrolled 1628 men from 30-villages of Mpigi district. VHTs offered each participant one HIVST-kit and a linkage-to-care information leaflet. At baseline, we collected data on demographics, testing history and risk behavior. At one-month, we measured linkage to confirmatory-testing and HIV-status disclosure, and at three months ART-initiation if tested HIV-positive. We used Poisson regression generalized estimating equations to evaluate predictors of confirmatory-testing. We found that 19.8% had never tested for HIV and 43% had not tested in the last 12-months. After receiving HIVST-kits, 98.5% self-reported HIVST-uptake in 10-days, 78.8% obtained facility-based confirmation in 30-days of HIVST with 3.9% tested HIV-positive. Of the positives, 78.8% were newly diagnosed, 88% initiated ART and 57% disclosed their HIV-status to significant others. Confirmatory testing was associated with having a higher level of education and knowing a partner's HIV-status. VHT-delivered HIVST may be effective for boosting testing, ART-initiation and HIV-status disclosure among men.
 
 [Source](https://twitter.com/svetlana_up/status/1668170517487009792?ref_src=twsrc%5Etfw)
 
-10.1016/j.jvs.2023.05.046
+10.1080/09540121.2023.2223901
 
 ---
 
@@ -139,15 +139,15 @@ Obesity has been linked to higher morbidity and mortality in those that contract
 
 ---
 
-## Trauma bypass performed by vascular surgeons demonstrate excellent long-term outcomes and limb preservation.
- 18.06.2023, _M Harutyunyan, JC Hnath, X Jacobson, J Le, MD Shah, J Kleene, RC Darling_
+## Village health team-delivered oral HIV self-testing increases linkage-to-care and antiretroviral-therapy initiation among men in Uganda.
+ 18.06.2023, _J Nangendo, F Semitala, J Kalyango, J Kabami, GO Obeng-Amoako, M Muwema, A Katahoire, C Karamagi, R Wanyenze, M Kamya_
 
 
-Long-term outcomes in civilian trauma patients requiring upper or lower extremity revascularization is poorly studied secondary to limitations of certain large databases and the nature of the patients in this specific vascular subset. This study reports on the experience and outcomes of a Level 1 trauma center that serves both an urban and a large rural population over a 20-year period to identify bypass outcomes and surveillance protocols.
+Targeted strategies are central to increasing HIV-status awareness and progress on the care cascade among men. We implemented Village-Health-Team (VHT)-delivered HIV self-testing (HIVST) among men in a peri-urban Ugandan district and assessed linkage to confirmatory-testing, antiretroviral-therapy (ART) initiation and HIV-status disclosure following HIVST. We conducted a prospective cohort study from November 2018 to June 2019 and enrolled 1628 men from 30-villages of Mpigi district. VHTs offered each participant one HIVST-kit and a linkage-to-care information leaflet. At baseline, we collected data on demographics, testing history and risk behavior. At one-month, we measured linkage to confirmatory-testing and HIV-status disclosure, and at three months ART-initiation if tested HIV-positive. We used Poisson regression generalized estimating equations to evaluate predictors of confirmatory-testing. We found that 19.8% had never tested for HIV and 43% had not tested in the last 12-months. After receiving HIVST-kits, 98.5% self-reported HIVST-uptake in 10-days, 78.8% obtained facility-based confirmation in 30-days of HIVST with 3.9% tested HIV-positive. Of the positives, 78.8% were newly diagnosed, 88% initiated ART and 57% disclosed their HIV-status to significant others. Confirmatory testing was associated with having a higher level of education and knowing a partner's HIV-status. VHT-delivered HIVST may be effective for boosting testing, ART-initiation and HIV-status disclosure among men.
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1665656925969604608?ref_src=twsrc%5Etfw)
 
-10.1016/j.jvs.2023.05.046
+10.1080/09540121.2023.2223901
 
 ---
 
@@ -175,15 +175,15 @@ Microbiome science has greatly contributed to our understanding of microbial lif
 
 ---
 
-## Investigating patterns of workplace fatal fall injuries: Case study of Malaysia.
- 18.06.2023, _A Zermane, MZM Tohir, MR Baharudin, HM Yusoff_
+## Index of cardiac-electrophysiological balance in relapsing-remitting multiple sclerosis patients treated with fingolimod.
+ 18.06.2023, _S Gunay-Polatkan, G Gullu, D Sigirli, ER Koc, A Aydinlar, OF Turan_
 
 
-Falling from heights can be a serious and potentially life-threatening hazard. In Malaysia, falls from heights are one of the leading causes of workplace accidents and fatalities. The Malaysian Department of Occupational Safety and Health (DOSH) reported that the year 2021 recorded an alarmingly high number of fatalities, of which the majority of the injuries were due to falls from heights.
+Fingolimod is indicated for the treatment of relapsing-remitting multiple sclerosis (RRMS) and also targets cardiovascular system due to receptors on cardiomyocytes. Results of previous studies are controversial for the effect of fingolimod in terms of ventricular arrhythmias. Index of cardio-electrophysiological balance (iCEB) is a risk marker for predicting malignant ventricular arrhythmia. There is no evidence on the effect of fingolimod on iCEB in patients with relapsing-remitting multiple sclerosis (RRMS). The aim of this study was to evaluate iCEB in patients with RRMS treated with fingolimod .
 
 [Source](https://twitter.com/OrianeMoyne/status/1657155454093410304?ref_src=twsrc%5Etfw)
 
-10.1016/j.jsr.2023.05.003
+10.1016/j.msard.2023.104827
 
 ---
 
@@ -243,6 +243,18 @@ Bipolar disorder (BD) is a chronic and recurrent disorder characterized by bipha
 
 ---
 
+## Reactive cutaneous capillary endothelial proliferation predicted the efficacy of camrelizumab in patients with recurrent/metastatic head and neck squamous cell carcinoma.
+ 18.06.2023, _Q Ding, Y Liu, H Ju, H Song, Y Xiao, X Liu, G Ren, D Wei_
+
+
+Reactive cutaneous capillary endothelial proliferation (RCCEP), a special adverse event (AE) only observed in patients treated with camrelizumab, was reported to be correlated with the efficacy of camrelizumab in patients with advanced hepatocellular carcinoma. This study to analyze the possible correlation between the occurrence of RCCEP and efficacy of camrelizumab in patients with recurrent/metastatic head and neck squamous cell carcinoma (R/M HNSCC).
+
+[Source](https://twitter.com/SarSarela/status/1669238869437431808?ref_src=twsrc%5Etfw)
+
+10.4317/medoral.25919
+
+---
+
 ## June 15, 2023
 
 [Source](https://twitter.com/SarSarela/status/1669238869437431808?ref_src=twsrc%5Etfw)
@@ -274,15 +286,15 @@ The effects of air pollutants, particularly polycyclic aromatic hydrocarbons (PA
 
 ---
 
-## Investigating the effects of conventional and unconventional edible parts of red beet (Beta vulgaris L.) on target bacterial groups and metabolic activity of human colonic microbiota to produce novel and sustainable prebiotic ingredients.
- 18.06.2023, _SPA de Oliveira, TMR de Albuquerque, NML Massa, NPA Rodrigues, KB Sampaio, HMA do Nascimento, M Dos Santos Lima, ML da Conceição, EL de Souza_
+## [Characteristics and physiologic role of female lower genital microbiome].
+ 18.06.2023, _M Marschalkó, L Ambrus_
 
 
-This study investigated the effects of freeze-dried red beet root (FDBR) and freeze-dried red beet stem and leaves (FDBSL) on target bacterial groups and metabolic activity of human colonic microbiota in vitro. The capability of FDBR and FDBSL to cause alterations in the relative abundance of different selected bacterial groups found as part of human intestinal microbiota, as well as in pH values, sugar, short-chain fatty acid, phenolic compounds, and antioxidant capacity were evaluated during 48 h of in vitro colonic fermentation. FDBR and FDBSL were submitted to simulated gastrointestinal digestion and freeze-dried prior to use in colonic fermentation. FDBR and FDBSL overall increased the relative abundance of Lactobacillus spp./Enterococcus spp. (3.64-7.60%) and Bifidobacterium spp. (2.76-5.78%) and decreased the relative abundance of Bacteroides spp./Prevotella spp. (9.56-4.18%), Clostridium histolyticum (1.62-1.15%), and Eubacterium rectale/Clostridium coccoides (2.33-1.49%) during 48 h of colonic fermentation. FDBR and FDBSL had high positive prebiotic indexes (&gt;3.61) during colonic fermentation, indicating selective stimulatory effects on beneficial intestinal bacterial groups. FDBR and FDBSL increased the metabolic activity of human colonic microbiota, evidenced by decreased pH, sugar consumption, short-chain fatty acid production, alterations in phenolic compound contents, and maintenance of high antioxidant capacity during colonic fermentation. The results indicate that FDBR and FDBSL could induce beneficial alterations in the composition and metabolic activity of human intestinal microbiota, as well as that conventional and unconventional red beet edible parts are candidates to use as novel and sustainable prebiotic ingredients.
+Vaginal microbiome is substantial in the maintenance of vaginal health and defense against pathogenic microorganisms. New techniques, including next-generation sequencing broadened our knowledge with new findings on the composition and functions of the vaginal microbiome. Improvement of laboratory techniques provides a better understanding of the diverse patterns of the vaginal microbiome in reproductive-age women and their longitudinal changes in both healthy and dysbiotic conditions. The objective of this review was to summarize the basic learning of the vaginal microbiome. In the era of traditional cultivation-dependent techniques, the role of Lactobacilli in maintenance of the vaginal homeostasis, in lactic acid and various antimicrobial compounds production and in genital defense has been delineated. Much of our knowledge about the healthy microbial flora comes from cultivation-independent molecular-based techniques. The vaginal microbiome alters throughout a woman's life, its function develops fully in reproductive age. Healthy vaginal flora typically shows Lactobacillus predominance with a pH lower than 4.5, the healthy flora is dominated by one or two species of Lactobacillus, predominantly L. crispatus, L. iners, L. gasseri, L. jensenii. The review provides background on the 5 community state types of Lactobacillus communities, their characteristics, demographic occurrence, the type shifts, the terminal changes of the dominant bacterial communities, and the comparison of them to non-Lactobacillus dominated healthy microbiomes. The microbiome contributes to the local immune response of the vaginal mucous membrane, in defense to pathogens and maintenance of immunologic tolerance to physiologic changes. Bacterial vaginosis is a clinical syndrome characterized by pathologic vaginal microbiome, Lactobacillus community decreased in abundance and replaced by different anaerobes with great diversity. In pregnant women, bacterial vaginosis increases the risk of miscarriage, abortion, preterm birth, chorioamnionitis and endometritis. In non-pregnant women, bacterial vaginosis is associated with an increased risk of upper genital tract and urinary tract infections. Women with bacterial vaginosis are more sensitive to sexually transmitted infections and acquisition of HIV. Women with bacterial vaginosis may transmit HIV virus to their partner and newborn. Orv Hetil. 2023; 164(24): 923-930.
 
 [Source](https://twitter.com/hashtag/microbiota?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.foodres.2023.112998
+10.1556/650.2023.32791
 
 ---
 
@@ -292,15 +304,15 @@ This study investigated the effects of freeze-dried red beet root (FDBR) and fre
 
 ---
 
-## Colloidal gold based immunochromatographic detection of Mycoplasmopsis synoviae infection and its prevalence in avian species of Karachi, Pakistan.
- 17.06.2023, _N Rehman, U Ejaz, A Siraj, S Liaquat, M Sohail, TA Khan, SF Moin, A Ahmad_
+## Trends in reported illness due to poultry- and nonpoultry associated Salmonella serotypes; United States 1996-2019.
+ 18.06.2023, _MR Powell_
 
 
-Avian mycoplasmosis is an infection that commonly prevails in birds, particularly in poultry chickens. Among mycoplasmosis causing organisms, Mycoplasmopsis synoviae is a predominant and lethal pathogen to the aves. Considering the increased incidence of infections by M. synoviae, the prevalence of M. synoviae was deduced in poultry chickens and fancy birds of Karachi region. The lungs and tracheal samples from chicken and dead fancy birds and swab samples from live fancy birds were collected and investigated by amplifying 16 s rRNA gene of M. synoviae. Biochemical characteristics of M. synoviae was also evaluated. Furthermore, surface-associated membrane proteins, that represent key antigens for diagnosis of M. synoviae infection was extracted by Triton X- 114 method. Results showed that M. synoviae was detected more frequently in lungs than in trachea, that could be due to its invasion capacity and tissue affinity. SDS PAGE analysis of extracted membrane proteins showed two prominent hydrophobic proteins of different molecular mass including proteins of 150 and 50 kDa. Protein of 150 kDa was purified by size exclusion chromatography and it exhibited agglutinogen activity. Purified protein was used in the development of one-step immunochromatographic (ICT) assay for the detection of antibodies against M. synoviae using gold nanoparticles coated with polyclonal antibodies. Low levels of antibodies were detected by the developed ICT kit, which has 88% sensitivity with 92% specificity.
+Retrospective review is a key to designing effective food safety measures. Despite the reported reduction of Salmonella prevalence in poultry products, there has not been a concomitant reduction of the overall incidence of Salmonella illnesses reported to the US Foodborne Diseases Active Surveillance Network (FoodNet) since 1996. However, there have been significant annual trends among Salmonella serotypes. This analysis examines trends in the reported incidence of illness due to poultry- and nonpoultry associated Salmonella serotypes. Overall, the findings indicate declining trends in illness due to the poultry-associated serotypes and increasing trends in illness due to Salmonella serotypes not associated with poultry.
 
 [Source](https://twitter.com/hashtag/poultry?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.rvsc.2023.06.010
+10.1111/risa.14181
 
 ---
 
@@ -316,15 +328,15 @@ Avian mycoplasmosis is an infection that commonly prevails in birds, particularl
 
 ---
 
-## Trauma bypass performed by vascular surgeons demonstrate excellent long-term outcomes and limb preservation.
- 18.06.2023, _M Harutyunyan, JC Hnath, X Jacobson, J Le, MD Shah, J Kleene, RC Darling_
+## Reactive cutaneous capillary endothelial proliferation predicted the efficacy of camrelizumab in patients with recurrent/metastatic head and neck squamous cell carcinoma.
+ 18.06.2023, _Q Ding, Y Liu, H Ju, H Song, Y Xiao, X Liu, G Ren, D Wei_
 
 
-Long-term outcomes in civilian trauma patients requiring upper or lower extremity revascularization is poorly studied secondary to limitations of certain large databases and the nature of the patients in this specific vascular subset. This study reports on the experience and outcomes of a Level 1 trauma center that serves both an urban and a large rural population over a 20-year period to identify bypass outcomes and surveillance protocols.
+Reactive cutaneous capillary endothelial proliferation (RCCEP), a special adverse event (AE) only observed in patients treated with camrelizumab, was reported to be correlated with the efficacy of camrelizumab in patients with advanced hepatocellular carcinoma. This study to analyze the possible correlation between the occurrence of RCCEP and efficacy of camrelizumab in patients with recurrent/metastatic head and neck squamous cell carcinoma (R/M HNSCC).
 
 [Source](https://twitter.com/Microbes4ever/status/1668524788044767233?ref_src=twsrc%5Etfw)
 
-10.1016/j.jvs.2023.05.046
+10.4317/medoral.25919
 
 ---
 
@@ -366,15 +378,15 @@ All multicellular organisms host a diverse microbiome composed of microbial path
 
 ---
 
-## Safety training in context: technical, cultural and political factors affecting its design, delivery and transfer.
- 18.06.2023, _C Pilbeam, N Karanikas_
+## Gut and oral microbiome modulate molecular and clinical markers of schizophrenia-related symptoms: A transdiagnostic, multilevel pilot study.
+ 18.06.2023, _JJ Lee, E Piras, S Tamburini, K Bu, DS Wallach, B Remsen, A Cantor, J Kong, D Goetz, KW Hoffman, M Bonner, P Joe, BR Mueller, J Robinson-Papp, E Lotan, O Gonen, D Malaspina, JC Clemente_
 
 
-Safety training is integral to modern safety management systems. However, what is trained in the classroom is not always adopted and applied in the workplace, creating the training transfer problem. Taking an alternative ontological stance, the aims of this study were to conceptualize this problem as one of 'fit' between what is trained and the contextual factors in the work environment of the adopting organization.
+Although increasing evidence links microbial dysbiosis with the risk for psychiatric symptoms through the microbiome-gut-brain axis (MGBA), the specific mechanisms remain poorly characterized. In a diagnostically heterogeneous group of treated psychiatric cases and nonpsychiatric controls, we characterized the gut and oral microbiome, plasma cytokines, and hippocampal inflammatory processes via proton magnetic resonance spectroscopic imaging (1H-MRSI). Using a transdiagnostic approach, these data were examined in association with schizophrenia-related symptoms measured by the Positive and Negative Syndrome Scale (PANSS). Psychiatric cases had significantly greater heterogeneity of gut alpha diversity and an enrichment of pathogenic taxa, like Veillonella and Prevotella, in the oral microbiome, which was an accurate classifier of phenotype. Cases exhibited significantly greater positive, negative, and general PANSS scores that uniquely correlated with bacterial taxa. Strong, positive correlations of bacterial taxa were also found with cytokines and hippocampal gliosis, dysmyelination, and excitatory neurotransmission. This pilot study supports the hypothesis that the MGBA influences psychiatric symptomatology in a transdiagnostic manner. The relative importance of the oral microbiome in peripheral and hippocampal inflammatory pathways was highlighted, suggesting opportunities for probiotics and oral health to diagnose and treat psychiatric conditions.
 
 [Source](https://twitter.com/hashtag/diverse?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.jsr.2023.03.004
+10.1016/j.psychres.2023.115279
 
 ---
 
@@ -384,15 +396,15 @@ Safety training is integral to modern safety management systems. However, what i
 
 ---
 
-## Investigating the effects of conventional and unconventional edible parts of red beet (Beta vulgaris L.) on target bacterial groups and metabolic activity of human colonic microbiota to produce novel and sustainable prebiotic ingredients.
- 18.06.2023, _SPA de Oliveira, TMR de Albuquerque, NML Massa, NPA Rodrigues, KB Sampaio, HMA do Nascimento, M Dos Santos Lima, ML da Conceição, EL de Souza_
+## Gut and oral microbiome modulate molecular and clinical markers of schizophrenia-related symptoms: A transdiagnostic, multilevel pilot study.
+ 18.06.2023, _JJ Lee, E Piras, S Tamburini, K Bu, DS Wallach, B Remsen, A Cantor, J Kong, D Goetz, KW Hoffman, M Bonner, P Joe, BR Mueller, J Robinson-Papp, E Lotan, O Gonen, D Malaspina, JC Clemente_
 
 
-This study investigated the effects of freeze-dried red beet root (FDBR) and freeze-dried red beet stem and leaves (FDBSL) on target bacterial groups and metabolic activity of human colonic microbiota in vitro. The capability of FDBR and FDBSL to cause alterations in the relative abundance of different selected bacterial groups found as part of human intestinal microbiota, as well as in pH values, sugar, short-chain fatty acid, phenolic compounds, and antioxidant capacity were evaluated during 48 h of in vitro colonic fermentation. FDBR and FDBSL were submitted to simulated gastrointestinal digestion and freeze-dried prior to use in colonic fermentation. FDBR and FDBSL overall increased the relative abundance of Lactobacillus spp./Enterococcus spp. (3.64-7.60%) and Bifidobacterium spp. (2.76-5.78%) and decreased the relative abundance of Bacteroides spp./Prevotella spp. (9.56-4.18%), Clostridium histolyticum (1.62-1.15%), and Eubacterium rectale/Clostridium coccoides (2.33-1.49%) during 48 h of colonic fermentation. FDBR and FDBSL had high positive prebiotic indexes (&gt;3.61) during colonic fermentation, indicating selective stimulatory effects on beneficial intestinal bacterial groups. FDBR and FDBSL increased the metabolic activity of human colonic microbiota, evidenced by decreased pH, sugar consumption, short-chain fatty acid production, alterations in phenolic compound contents, and maintenance of high antioxidant capacity during colonic fermentation. The results indicate that FDBR and FDBSL could induce beneficial alterations in the composition and metabolic activity of human intestinal microbiota, as well as that conventional and unconventional red beet edible parts are candidates to use as novel and sustainable prebiotic ingredients.
+Although increasing evidence links microbial dysbiosis with the risk for psychiatric symptoms through the microbiome-gut-brain axis (MGBA), the specific mechanisms remain poorly characterized. In a diagnostically heterogeneous group of treated psychiatric cases and nonpsychiatric controls, we characterized the gut and oral microbiome, plasma cytokines, and hippocampal inflammatory processes via proton magnetic resonance spectroscopic imaging (1H-MRSI). Using a transdiagnostic approach, these data were examined in association with schizophrenia-related symptoms measured by the Positive and Negative Syndrome Scale (PANSS). Psychiatric cases had significantly greater heterogeneity of gut alpha diversity and an enrichment of pathogenic taxa, like Veillonella and Prevotella, in the oral microbiome, which was an accurate classifier of phenotype. Cases exhibited significantly greater positive, negative, and general PANSS scores that uniquely correlated with bacterial taxa. Strong, positive correlations of bacterial taxa were also found with cytokines and hippocampal gliosis, dysmyelination, and excitatory neurotransmission. This pilot study supports the hypothesis that the MGBA influences psychiatric symptomatology in a transdiagnostic manner. The relative importance of the oral microbiome in peripheral and hippocampal inflammatory pathways was highlighted, suggesting opportunities for probiotics and oral health to diagnose and treat psychiatric conditions.
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.foodres.2023.112998
+10.1016/j.psychres.2023.115279
 
 ---
 
@@ -402,15 +414,15 @@ This study investigated the effects of freeze-dried red beet root (FDBR) and fre
 
 ---
 
-## Symbiotic status alters fungal eco-evolutionary offspring trajectories.
- 18.06.2023, _CA Aguilar-Trigueros, FS Krah, WK Cornwell, AE Zanne, N Abrego, IC Anderson, CJ Andrew, P Baldrian, C Bässler, A Bissett, VB Chaudhary, B Chen, Y Chen, M Delgado-Baquerizo, C Deveautour, E Egidi, H Flores-Moreno, J Golan, J Heilmann-Clausen, S Hempel, Y Hu, H Kauserud, SN Kivlin, P Kohout, DR Lammel, FT Maestre, A Pringle, J Purhonen, BK Singh, SD Veresoglou, T Větrovský, H Zhang, MC Rillig, JR Powell_
+## Does the high biodiversity of lactococcal bacteriophages allow predictions about their different UV-C susceptibilities?
+ 18.06.2023, _C Schubert, N Biere, E Brinks, M Samtlebe, H Neve, CMAP Franz, J Hinrichs, Z Atamer_
 
 
-Despite host-fungal symbiotic interactions being ubiquitous in all ecosystems, understanding how symbiosis has shaped the ecology and evolution of fungal spores that are involved in dispersal and colonization of their hosts has been ignored in life-history studies. We assembled a spore morphology database covering over 26,000 species of free-living to symbiotic fungi of plants, insects and humans and found more than eight orders of variation in spore size. Evolutionary transitions in symbiotic status correlated with shifts in spore size, but the strength of this effect varied widely among phyla. Symbiotic status explained more variation than climatic variables in the current distribution of spore sizes of plant-associated fungi at a global scale while the dispersal potential of their spores is more restricted compared to free-living fungi. Our work advances life-history theory by highlighting how the interaction between symbiosis and offspring morphology shapes the reproductive and dispersal strategies among living forms.
+Fermentation processes can only succeed if intact and active starter cultures are present. Bacteriophages, which can lyse bacteria and thus bring entire fermentation processes to a standstill, therefore pose a major threat. Cheese production, for example, is often affected. The by-product whey can be highly contaminated with bacteriophages (≤109 plaque-forming units/mL) and in this state, further utilization is a quality and processing risk. Therefore, an orthogonal process consisting of membrane filtration followed by UV-C irradiation could be applied to eliminate bacteriophages and to generate "phage-free" whey. In order to define suitable process parameters, 11 lactococcal bacteriophages belonging to different families and genera and differing in their morphology, genome size, heat resistance, and other attributes, were screened for their UV-C resistance in whey. P369 was found to be the most resistant and could thus be well-suited as a biomarker. Starting from a 4 log unit bacteriophage reduction by membrane filtration, another 5 log unit decrease should be realized when applying a UV-C dose of 5 J/cm2. A clear correlation of UV-C sensitivity to the chosen attributes studied such as bacteriophage morphology and genome size was difficult and ambiguous, presumably because other yet unidentified parameters are important. Mutation experiments were performed with the representative bacteriophage P008 by multiple cycles of UV-C irradiation and propagation. A few mutational events were found, but could not be linked to an artificially generated UV-C resistance, indicating that the process used would probably not lose its effectiveness over time.
 
 [Source](https://twitter.com/hashtag/biodiversity?src=hash&ref_src=twsrc%5Etfw)
 
-10.1111/ele.14271
+10.1016/j.ijfoodmicro.2023.110274
 
 ---
 
@@ -420,15 +432,15 @@ Despite host-fungal symbiotic interactions being ubiquitous in all ecosystems, u
 
 ---
 
-## Impact of physical and mental fatigue on construction workers' unsafe behavior based on physiological measurement.
- 18.06.2023, _Z Zhang, T Xiang, H Guo, L Ma, Z Guan, Y Fang_
+## Application of green synthesized bimetallic nZVI-Cu nanoparticle as a sustainable alternative to chemical fertilizers to enhance growth and photosynthetic efficiency of rice seedlings.
+ 18.06.2023, _S Dey, S Nath, T Alam Ansari, A Biswas, F Barman, S Mukherjee, G Gopal, A Bhattacharyya, A Mukherjee, R Kundu, S Paul_
 
 
-Construction worker fatigue is an important factor leading to unsafe behavior, a major cause of construction accidents. Uncovering the impact mechanism of fatigue on workers' unsafe behavior can prevent construction accidents. However, it is difficult to effectively measure workers' fatigue onsite and analyze the impact of worker fatigue on their unsafe behavior.
+Application of nanomaterials in agriculture has been extensively explored over the past decade leading to a wide ambit of nanoparticle-based agrochemicals. Metallic nanoparticles consisting of plant macro- and micro-nutrients have been used as nutritional supplements for plants through soil amendments, foliar sprays, or seed treatment. However, most of these studies emphasize monometallic nanoparticles which limit the range of usage and effectivity of such nanoparticles (NPs). Hence, we have employed a bimetallic nanoparticle (BNP) consisting of two different micro-nutrients (Cu &amp; Fe) in rice plants to test its efficacy in terms of growth and photosynthesis. Several experiments were designed to assess growth (root-shoot length, relative water content) and photosynthetic parameters (pigment content, relative expression of rbcS, rbcL &amp; ChlGetc.). To determine whether the treatment induced any oxidative stress or structural anomalies within the plant cells, histochemical staining, anti-oxidant enzyme activities, FTIR, and SEM micrographs were undertaken. Results indicated that foliar application of 5 mg L-1 BNP increased vigor and photosynthetic efficiency whereas 10 mg L-1 concentration induced oxidative stress to some extent. Furthermore, the BNP treatment did not perturb the structural integrity of the exposed plant parts and also did not induce any cytotoxicity. Application of BNPs in agriculture has not been explored extensively to date and this study is one of the first reports that not only documents the effectivity of Cu-Fe BNP but also critically explores the safety of its usage on rice plants making it a useful lead to design new BNPs and explore their efficacy.
 
 [Source](https://twitter.com/hashtag/experiment?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.jsr.2023.04.014
+10.1016/j.plaphy.2023.107837
 
 ---
 
@@ -500,15 +512,15 @@ Evolutionary change in diapause timing can be an adaptive response to changing s
 
 ---
 
-## Trauma bypass performed by vascular surgeons demonstrate excellent long-term outcomes and limb preservation.
- 18.06.2023, _M Harutyunyan, JC Hnath, X Jacobson, J Le, MD Shah, J Kleene, RC Darling_
+## Reactive cutaneous capillary endothelial proliferation predicted the efficacy of camrelizumab in patients with recurrent/metastatic head and neck squamous cell carcinoma.
+ 18.06.2023, _Q Ding, Y Liu, H Ju, H Song, Y Xiao, X Liu, G Ren, D Wei_
 
 
-Long-term outcomes in civilian trauma patients requiring upper or lower extremity revascularization is poorly studied secondary to limitations of certain large databases and the nature of the patients in this specific vascular subset. This study reports on the experience and outcomes of a Level 1 trauma center that serves both an urban and a large rural population over a 20-year period to identify bypass outcomes and surveillance protocols.
+Reactive cutaneous capillary endothelial proliferation (RCCEP), a special adverse event (AE) only observed in patients treated with camrelizumab, was reported to be correlated with the efficacy of camrelizumab in patients with advanced hepatocellular carcinoma. This study to analyze the possible correlation between the occurrence of RCCEP and efficacy of camrelizumab in patients with recurrent/metastatic head and neck squamous cell carcinoma (R/M HNSCC).
 
 [Source](https://twitter.com/e_seabloom/status/1669298473085140992?ref_src=twsrc%5Etfw)
 
-10.1016/j.jvs.2023.05.046
+10.4317/medoral.25919
 
 ---
 
@@ -585,15 +597,15 @@ Metagenomics can be used to monitor the spread of antibiotic resistance genes (A
 
 ---
 
-## Special Report from the CDC Healthcare provider influence on driving behavior after a mild traumatic brain injury: Findings from the 2021 SummerStyles survey.
- 18.06.2023, _J Daugherty, K Sarmiento, D Waltzman, J Schmidt_
+## Recovery of platinum group metal resources from high-level radioactive liquid wastes by non-contact photoreduction.
+ 18.06.2023, _H Weng, Y Wang, F Li, Y Muroya, S Yamashita, S Cheng_
 
 
-Research shows that a mild traumatic brain injury (mTBI) impairs a person's ability to identify driving hazards 24 h post injury and increases the risk for motor vehicle crash. This study examined the percentage of people who reported driving after their most serious mTBI and whether healthcare provider education influenced this behavior.
+Recovery of platinum group metals (PGMs) including palladium (Pd), rhodium (Rh), and ruthenium (Ru) from high-level radioactive liquid waste (HLLW) possesses enormous environmental and economic benefits. A non-contact photoreduction method was herein developed to selectively recover each PGM from HLLW. Soluble Pd(II), Rh(III), and Ru(III) ions were reduced to insoluble zero-valent metals and separated from simulated HLLW containing neodymium (Nd) as a representative for lanthanides, another main component in HLLW. Detailed investigation on the photoreduction of different PGMs revealed that Pd(II) could be reduced under 254- or 300-nm UV exposure using either ethanol or isopropanol as reductants. Only 300-nm UV light enabled the reduction of Rh(III) in the presence of ethanol or isopropanol. Ru(III) was the most difficult to reduce, which was only realized by 300-nm UV illumination in isopropanol solution. The effects of pH was also studied, suggesting that lower pH favored the separation of Rh(III) but hindered the reduction of Pd(II) and Ru(III). A delicate three-step process was accordingly designed to achieve the selective recovery of each PGM from simulated HLLW. Pd(II) was reduced by 254-nm UV light with the help of ethanol in the first step. Then Rh(III) was reduced by 300-UV light in the second step after the pH was adjusted to 0.5 to suppress the Ru(III) reduction. In the third step, Ru(III) was reduced by 300-nm UV light after isopropanol was added and the pH was adjusted to 3.2. The separation ratios of Pd, Rh, and Ru exceeded 99.8%, 99.9%, and 90.0%, respectively. Meanwhile, all Nd(III) still remained in the simulated HLLW. The separation coefficients between Pd/Rh and Rh/Ru exceeded 56,000 and 75,000, respectively. This work may provide an alternative method to recover PGMs from HLLW, which minimize the secondary radioactive wastes compared with other approaches.
 
 [Source](https://twitter.com/GschwindRemi/status/1660622312511619075?ref_src=twsrc%5Etfw)
 
-10.1016/j.jsr.2023.02.011
+10.1016/j.jhazmat.2023.131852
 
 ---
 
