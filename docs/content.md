@@ -1,5 +1,5 @@
 ## A data-driven approach for predicting the impact of drugs on the human microbiome.
- 19.06.2023, _YM Algavi, E Borenstein_
+ 20.06.2023, _YM Algavi, E Borenstein_
 
 
 _Animals, Humans, Microbiota, Gastrointestinal Microbiome, Drug-Related Side Effects and Adverse Reactions, Genomics, Dysbiosis_
@@ -148,7 +148,7 @@ How host-associated microbial communities evolve as their hosts diversify remain
 ---
 
 ## Social transmission of bacterial symbionts homogenizes the microbiome within and across generations of group-living spiders.
- 19.06.2023, _C Rose, MB Lund, AM Søgård, MM Busck, JS Bechsgaard, A Schramm, T Bilde_
+ 20.06.2023, _C Rose, MB Lund, AM Søgård, MM Busck, JS Bechsgaard, A Schramm, T Bilde_
 
 
 Disentangling modes and fidelity of symbiont transmission are key for understanding host-symbiont associations in wild populations. In group-living animals, social transmission may evolve to ensure high-fidelity transmission of symbionts, since non-reproducing helpers constitute a dead-end for vertical transmission. We investigated symbiont transmission in the social spider Stegodyphus dumicola, which lives in family groups where the majority of females are non-reproducing helpers, females feed offspring by regurgitation, and individuals feed communally on insect prey. Group members share temporally stable microbiomes across generations, while distinct variation in microbiome composition exists between groups. We hypothesized that horizontal transmission of symbionts is enhanced by social interactions, and investigated transmission routes within (horizontal) and across (vertical) generations using bacterial 16S rRNA gene amplicon sequencing in three experiments: (i) individuals were sampled at all life stages to assess at which life stage the microbiome is acquired. (ii) a cross-fostering design was employed to test whether offspring carry the microbiome from their natal nest, or acquire the microbiome of the foster nest via social transmission. (iii) adult spiders with different microbiome compositions were mixed to assess whether social transmission homogenizes microbiome composition among group members. We demonstrate that offspring hatch symbiont-free, and bacterial symbionts are transmitted vertically across generations by social interactions with the onset of regurgitation feeding by (foster)mothers in an early life stage. Social transmission governs horizontal inter-individual mixing and homogenization of microbiome composition among nest mates. We conclude that temporally stable host-symbiont associations in social species can be facilitated and maintained by high-fidelity social transmission.
