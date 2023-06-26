@@ -1,217 +1,184 @@
-## A data-driven approach for predicting the impact of drugs on the human microbiome.
- 20.06.2023, _YM Algavi, E Borenstein_
+## Ultra-deep sequencing of Hadza hunter-gatherers recovers vanishing gut microbes.
+ 22.06.2023, _MM Carter, MR Olm, BD Merrill, D Dahan, S Tripathi, SP Spencer, FB Yu, S Jain, N Neff, AR Jha, ED Sonnenburg, JL Sonnenburg_
 
 
-_Animals, Humans, Microbiota, Gastrointestinal Microbiome, Drug-Related Side Effects and Adverse Reactions, Genomics, Dysbiosis_
-Many medications can negatively impact the bacteria residing in our gut, depleting beneficial species, and causing adverse effects. To guide personalized pharmaceutical treatment, a comprehensive understanding of the impact of various drugs on the gut microbiome is needed, yet, to date, experimentally challenging to obtain. Towards this end, we develop a data-driven approach, integrating information about the chemical properties of each drug and the genomic content of each microbe, to systematically predict drug-microbiome interactions. We show that this framework successfully predicts outcomes of in-vitro pairwise drug-microbe experiments, as well as drug-induced microbiome dysbiosis in both animal models and clinical trials. Applying this methodology, we systematically map a large array of interactions between pharmaceuticals and human gut bacteria and demonstrate that medications' anti-microbial properties are tightly linked to their adverse effects. This computational framework has the potential to unlock the development of personalized medicine and microbiome-based therapeutic approaches, improving outcomes and minimizing side effects.
+The gut microbiome modulates immune and metabolic health. Human microbiome data are biased toward industrialized populations, limiting our understanding of non-industrialized microbiomes. Here, we performed ultra-deep metagenomic sequencing on 351 fecal samples from the Hadza hunter-gatherers of Tanzania and comparative populations in Nepal and California. We recovered 91,662 genomes of bacteria, archaea, bacteriophages, and eukaryotes, 44% of which are absent from existing unified datasets. We identified 124 gut-resident species vanishing in industrialized populations and highlighted distinct aspects of the Hadza gut microbiome related to in situ replication rates, signatures of selection, and strain sharing. Industrialized gut microbes were found to be enriched in genes associated with oxidative stress, possibly a result of microbiome adaptation to inflammatory processes. This unparalleled view of the Hadza gut microbiome provides a valuable resource, expands our understanding of microbes capable of colonizing the human gut, and clarifies the extensive perturbation induced by the industrialized lifestyle.
 
-[Source](https://doi.org/10.1038/s41467-023-39264-0)
+[Source](https://www.cell.com/cell/fulltext/S0092-8674(23)00597-4)
 
-10.1038/s41467-023-39264-0
-
----
-
-## CRISPR arrays as high-resolution markers to track microbial transmission during influenza infection.
- 19.06.2023, _L Zhang, J Rahman, M Chung, L Lashua, A Gordon, A Balmaseda, G Kuan, R Bonneau, E Ghedin_
-
-
-_Humans, Clustered Regularly Interspaced Short Palindromic Repeats, Influenza, Human, Bacteria, Metagenome, Microbiota, Micrococcaceae_
-Disruption of the microbial community in the respiratory tract due to infections, like influenza, could impact transmission of bacterial pathogens. Using samples from a household study, we determined whether metagenomic-type analyses of the microbiome provide the resolution necessary to track transmission of airway bacteria. Microbiome studies have shown that the microbial community across various body sites tends to be more similar between individuals who cohabit in the same household than between individuals from different households. We tested whether there was increased sharing of bacteria from the airways within households with influenza infections as compared to control households with no influenza.
-
-[Source](https://doi.org/10.1186/s40168-023-01568-0)
-
-10.1186/s40168-023-01568-0
+10.1016/j.cell.2023.05.046
 
 ---
 
-## Gut and oral microbiome modulate molecular and clinical markers of schizophrenia-related symptoms: A transdiagnostic, multilevel pilot study.
- 18.06.2023, _JJ Lee, E Piras, S Tamburini, K Bu, DS Wallach, B Remsen, A Cantor, J Kong, D Goetz, KW Hoffman, M Bonner, P Joe, BR Mueller, J Robinson-Papp, E Lotan, O Gonen, D Malaspina, JC Clemente_
+## A genetic system for <em>Akkermansia muciniphila</em> reveals a role for mucin foraging in gut colonization and host sterol biosynthesis gene expression
 
-
-Although increasing evidence links microbial dysbiosis with the risk for psychiatric symptoms through the microbiome-gut-brain axis (MGBA), the specific mechanisms remain poorly characterized. In a diagnostically heterogeneous group of treated psychiatric cases and nonpsychiatric controls, we characterized the gut and oral microbiome, plasma cytokines, and hippocampal inflammatory processes via proton magnetic resonance spectroscopic imaging (1H-MRSI). Using a transdiagnostic approach, these data were examined in association with schizophrenia-related symptoms measured by the Positive and Negative Syndrome Scale (PANSS). Psychiatric cases had significantly greater heterogeneity of gut alpha diversity and an enrichment of pathogenic taxa, like Veillonella and Prevotella, in the oral microbiome, which was an accurate classifier of phenotype. Cases exhibited significantly greater positive, negative, and general PANSS scores that uniquely correlated with bacterial taxa. Strong, positive correlations of bacterial taxa were also found with cytokines and hippocampal gliosis, dysmyelination, and excitatory neurotransmission. This pilot study supports the hypothesis that the MGBA influences psychiatric symptomatology in a transdiagnostic manner. The relative importance of the oral microbiome in peripheral and hippocampal inflammatory pathways was highlighted, suggesting opportunities for probiotics and oral health to diagnose and treat psychiatric conditions.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0165178123002299?via%3Dihub)
-
-10.1016/j.psychres.2023.115279
+[Source](https://doi.org/10.1038/s41564-023-01407-w)
 
 ---
 
-## Effects of vaginal microbiota transfer on the neurodevelopment and microbiome of cesarean-born infants: A blinded randomized controlled trial.
- 16.06.2023, _L Zhou, W Qiu, J Wang, A Zhao, C Zhou, T Sun, Z Xiong, P Cao, W Shen, J Chen, X Lai, LH Zhao, Y Wu, M Li, F Qiu, Y Yu, ZZ Xu, H Zhou, W Jia, Y Liao, R Retnakaran, D Krewski, SW Wen, JC Clemente, T Chen, RH Xie, Y He_
+## The first international Rome consensus conference on gut microbiota and faecal microbiota transplantation in inflammatory bowel disease.
+ 20.06.2023, _LR Lopetuso, S Deleu, L Godny, V Petito, P Puca, F Facciotti, H Sokol, G Ianiro, L Masucci, M Abreu, I Dotan, SP Costello, A Hart, TH Iqbal, S Paramsothy, M Sanguinetti, S Danese, H Tilg, F Cominelli, TT Pizarro, A Armuzzi, G Cammarota, A Gasbarrini, S Vermeire, F Scaldaferri_
 
 
-The microbiomes of cesarean-born infants differ from vaginally delivered infants and are associated with increased disease risks. Vaginal microbiota transfer (VMT) to newborns may reverse C-section-related microbiome disturbances. Here, we evaluated the effect of VMT by exposing newborns to maternal vaginal fluids and assessing neurodevelopment, as well as the fecal microbiota and metabolome. Sixty-eight cesarean-delivered infants were randomly assigned a VMT or saline gauze intervention immediately after delivery in a triple-blind manner (ChiCTR2000031326). Adverse events were not significantly different between the two groups. Infant neurodevelopment, as measured by the Ages and Stages Questionnaire (ASQ-3) score at 6 months, was significantly higher with VMT than saline. VMT significantly accelerated gut microbiota maturation and regulated levels of certain fecal metabolites and metabolic functions, including carbohydrate, energy, and amino acid metabolisms, within 42 days after birth. Overall, VMT is likely safe and may partially normalize neurodevelopment and the fecal microbiome in cesarean-delivered infants.
+Several randomised clinical trials (RCTs) performing faecal microbiota transplantation (FMT) for the management of inflammatory bowel disease (IBD), particularly for ulcerative colitis, have recently been published, but with major variations in study design. These include differences in administered dose, route and frequency of delivery, type of placebo and evaluated endpoints. Although the overall outcomes appear to be promising, they are highly dependent on both donor and recipient factors.
 
-[Source](https://doi.org/10.1016/j.chom.2023.05.022)
+[Source](https://doi.org/10.1136/gutjnl-2023-329948)
 
-10.1016/j.chom.2023.05.022
-
----
-
-## Metaproteomics Characterizes the Human Gingival Crevicular Fluid Microbiome Function in Periodontitis.
- 16.06.2023, _X Xiao, X Xiao, Y Liu, H Sun, X Liu, Z Guo, Q Li, W Sun_
-
-
-Periodontitis is the leading cause of tooth loss in adults worldwide. The human proteome and metaproteome characterization of periodontitis is not clearly understood. Gingival crevicular fluid samples were collected from eight periodontitis and eight healthy subjects. Both the human and microbial proteins were characterized by liquid chromatography coupled with high-resolution mass spectrometry. A total of 570 human proteins were found differentially expressed, which were primarily associated with inflammatory response, cell death, cellular junction, and fatty acid metabolism. For the metaproteome, 51 genera were identified, and 10 genera were found highly expressed in periodontitis, while 11 genera were downregulated. The analysis showed that microbial proteins related to butyrate metabolism were upregulated in periodontitis cases. In particular, correlation analysis showed that the expression of host proteins related to inflammatory response, cell death, cellular junction, and lipid metabolism correlates with the alteration of metaproteins, which reflect the changes of molecular function during the occurrence of periodontitis. This study showed that the gingival crevicular fluid human proteome and metaproteome could reflect the characteristics of periodontitis. This might benefit the understanding of the periodontitis mechanism.
-
-[Source](https://doi.org/10.1021/acs.jproteome.3c00143)
-
-10.1021/acs.jproteome.3c00143
+10.1136/gutjnl-2023-329948
 
 ---
 
-## Generation of dysbiotic microbiota in cutaneous leishmaniasis and enhancement of skin inflammation.
- 18.06.2023, _S Naz, Z Ali, A Minhas, A Fatima, S Waseem_
+## Global branches and local states of the human gut microbiome define associations with environmental and intrinsic factors.
+ 22.06.2023, _J Tap, F Lejzerowicz, A Cotillard, M Pichaud, D McDonald, SJ Song, R Knight, P Veiga, M Derrien_
 
 
-Cutaneous Leishmaniasis (CL) affects millions of people globally and has a significant impact on morbidity and mortality. Innate immune mediators are likely to influence the clinical phenotype of CL through primary responses that restrict or facilitate parasite spread. The aim of this preliminary study was to bring to attention the significance of microbiota in the development of CL and emphasized the necessity of including the role of microbiota in CL while promoting a One Health approach for managing diseases. To achieve this, we used 16S amplicon metagenome sequencing and QIIME2 pipeline to analyze the microbiome composition of CL-infected patients compared to non-infected, healthy subjects. 16S sequencing analysis showed serum microbiome was dominated by Firmicutes, Proteobacteria, Bacteroidota, and Actinobacteria. CL-infected individuals, Proteobacteria were the most prevalent (27.63 ± 9.79), with the relative abundance (10.73 ± 5.33) of Proteobacteria in control. Bacilli class was found to be the most prevalent in healthy controls (30.71 ± 8.44) while (20.57 ± 9.51) in CL-infected individuals. The class Alphaproteobacteria was found to be more in CL-infected individuals (5.47 ± 2.07) as compared to healthy controls (1.85 ± 0.39). The CL-infected individuals had a significantly lower relative abundance of the Clostridia class (p &lt; 0.0001). An altered serum microbiome of CL infection and higher microbial abundance in the serum of healthy individuals was observed.
+_Humans, Gastrointestinal Microbiome, Cross-Sectional Studies, Bacteroides, RNA, Ribosomal, 16S_
+The gut microbiome is important for human health, yet modulation requires more insight into inter-individual variation. Here, we explored latent structures of the human gut microbiome across the human lifespan, applying partitioning, pseudotime, and ordination approaches to &gt;35,000 samples. Specifically, three major gut microbiome branches were identified, within which multiple partitions were observed in adulthood, with differential abundances of species along branches. Different compositions and metabolic functions characterized the branches' tips, reflecting ecological differences. An unsupervised network analysis from longitudinal data from 745 individuals showed that partitions exhibited connected gut microbiome states rather than over-partitioning. Stability in the Bacteroides-enriched branch was associated with specific ratios of Faecalibacterium:Bacteroides. We also showed that associations with factors (intrinsic and extrinsic) could be generic, branch- or partition-specific. Our ecological framework for cross-sectional and longitudinal data allows a better understanding of overall variation in the human gut microbiome and disentangles factors associated with specific configurations.
 
-[Source](https://doi.org/10.1016/j.micpath.2023.106202)
+[Source](https://doi.org/10.1038/s41467-023-38558-7)
 
-10.1016/j.micpath.2023.106202
-
----
-
-## Oral microbiota may affect osteoradionecrosis following radiotherapy for head and neck cancer.
- 19.06.2023, _Z Li, R Fu, X Huang, X Wen, L Zhang_
-
-
-_Humans, Osteoradionecrosis, Head and Neck Neoplasms, Health Status_
-Osteoradionecrosis (ORN) is a serious complication of radiotherapy for head and neck cancer (HNC). However, its etiology and pathogenesis have not been completely elucidated. Recent studies suggest the involvement of the oral microbiota in the development of ORN. The aim of this study was to assess the correlation between oral microbiota and the extent of bone resorption in ORN patients.
-
-[Source](https://doi.org/10.1186/s12967-023-04219-y)
-
-10.1186/s12967-023-04219-y
+10.1038/s41467-023-38558-7
 
 ---
 
-## Oral microbial communities in 5-year-old children with versus without dental caries.
- 19.06.2023, _Z Yang, T Cai, Y Li, D Jiang, J Luo, Z Zhou_
+## Key bacterial taxa determine longitudinal dynamics of aromatic amino acid catabolism in infants' gut.
+ 26.06.2023, _MF Laursen, AK Sinha, M Pedersen, HM Roager_
 
 
-_Humans, Dental Caries, Saliva, Bacteria, Microbiota, Streptococcus, RNA, Ribosomal, 16S_
-Caries in young children has received more and more attention. The study of the oral microbiota may help to understand the polymicrobial etiology of dental caries.
+The development of the gut microbiota in early life is linked to metabolic, neuronal, and immunological development. Recent studies have shown that bacterial production of short-chain fatty acids (SCFAs) and aromatic amino acid (AAA) catabolites in the gut can mediate host-microbe interactions. However, the dynamics of these microbiota-derived metabolites and the key bacterial taxa producing AAA catabolites during infancy are largely unknown. Here, we investigated the longitudinal dynamics of the microbiota and microbiota-derived SCFAs and AAA catabolites in more than 200 fecal samples from 25 healthy breast- or mixed-fed Danish infants during the first 6 months of life. We found that the gut microbiota composition and metabolism were highly individual but showed significant development over time. SCFAs and specific groups of AAA catabolites showed distinct temporal abundance patterns. Furthermore, we identified bacterial taxa responsible for the generation of AAA catabolites by associating the dynamics of gut microbial taxa and AAA catabolites and subsequently validating these associations in vitro by cultivation of strains representing the associated taxa. In addition to specific Bifidobacterium species being the main producers of aromatic lactic acids, we identified Peptostreptococcus anaerobius as the main producer of aromatic propionic acids, Ruminococcus gnavus as a main producer of tryptamine, and Enterococcus species as main tyramine producers in infants' gut. Thus, our results showcase the temporal dynamics of key gut microbial metabolites in early life and demonstrate that the appearance and abundance of specific AAA catabolites result from the appearance and abundance of specific key bacterial taxa in infants' gut.
 
-[Source](https://doi.org/10.1186/s12903-023-03055-2)
+[Source](https://doi.org/10.1080/19490976.2023.2221426)
 
-10.1186/s12903-023-03055-2
-
----
-
-## Analysis of gut microbiota in patients with Williams-Beuren Syndrome reveals dysbiosis linked to clinical manifestations.
- 19.06.2023, _F Del Chierico, V Marzano, M Scanu, S Reddel, ML Dentici, R Capolino, M Di Donato, I Spasari, EV Fiscarelli, MC Digilio, MT Abreu, B Dallapiccola, L Putignani_
-
-
-_Humans, Williams Syndrome, Dysbiosis, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Quality of Life, Gastrointestinal Diseases_
-Williams-Beuren syndrome (WBS) is a multisystem genetic disease caused by the deletion of a region of 1.5-1.8 Mb on chromosome 7q11.23. The elastin gene seems to account for several comorbidities and distinct clinical features such including cardiovascular disease, connective tissue abnormalities, growth retardation, and gastrointestinal (GI) symptoms. Increasing evidence points to alterations in gut microbiota composition as a primary or secondary cause of some GI or extra-intestinal characteristics. In this study, we performed the first exploratory analysis of gut microbiota in WBS patients compared to healthy subjects (CTRLs) using 16S rRNA amplicon sequencing, by investigating the gut dysbiosis in relation to diseases and comorbidities. We found that patients with WBS have significant dysbiosis compared to age-matched CTRLs, characterized by an increase in proinflammatory bacteria such as Pseudomonas, Gluconacetobacter and Eggerthella, and a reduction of anti-inflammatory bacteria including Akkermansia and Bifidobacterium. Microbial biomarkers associated with weight gain, GI symptoms and hypertension were identified. Gut microbiota profiling could represent a new tool that characterise intestinal dysbiosis to complement the clinical management of these patients. In particular, the administration of microbial-based treatments, alongside traditional therapies, could help in reducing or preventing the burden of these symptoms and improve the quality of life of these patients.
-
-[Source](https://doi.org/10.1038/s41598-023-36704-1)
-
-10.1038/s41598-023-36704-1
+10.1080/19490976.2023.2221426
 
 ---
 
-## Aspects of oral streptococcal metabolic diversity: Imagining the landscape beneath the fog.
- 17.06.2023, _P Zuber, J Kreth_
+## Low diversity microbiota and an increased metabolism of arginine and aromatic amino acids: a hallmark of hepatic encephalopathy in western Mexican patients with alcohol-associated cirrhosis
 
-
-It is widely acknowledged that the human-associated microbial community influences host physiology, systemic health, disease progression, and even behavior. There is currently an increased interest in the oral microbiome, which occupies the entryway to much of what the human initially encounters from the environment. In addition to the dental pathology that results from a dysbiotic microbiome, microbial activity within the oral cavity exerts significant systemic effects. The composition and activity of the oral microbiome is influenced by (1) host-microbial interactions, (2) the emergence of niche-specific microbial "ecotypes," and (3) numerous microbe-microbe interactions, shaping the underlying microbial metabolic landscape. The oral streptococci are central players in the microbial activity ongoing in the oral cavity, due to their abundance and prevalence in the oral environment and the many interspecies interactions in which they participate. Streptococci are major determinants of a healthy homeostatic oral environment. The metabolic activities of oral Streptococci, particularly the metabolism involved in energy generation and regeneration of oxidative resources vary among the species and are important factors in niche-specific adaptations and intra-microbiome interactions. Here we summarize key differences among streptococcal central metabolic networks and species-specific differences in how the key glycolytic intermediates are utilized.
-
-[Source](https://doi.org/10.1111/mmi.15106)
-
-10.1111/mmi.15106
+[Source](https://doi.org/10.1093/jambio/lxad113)
 
 ---
 
-## Challenges and strategies for preventing intestinal damage associated to mercury dietary exposure.
- 17.06.2023, _P Rodríguez-Viso, A Domene, A Sánchez, D Vélez, V Monedero, V Devesa, M Zúñiga_
+## Alterations in the gut virome are associated with type 2 diabetes and diabetic nephropathy.
+ 26.06.2023, _G Fan, F Cao, T Kuang, H Yi, C Zhao, L Wang, J Peng, Z Zhuang, T Xu, Y Luo, Y Xie, H Li, K Zhang, Y Zeng, X Zhang, S Peng, X Qiu, D Zhou, H Liang, B Yang, J Kang, Y Liu, Y Zhang_
 
 
-Food represents the major risk factor for exposure to mercury in most human populations. Therefore, passage through the gastrointestinal tract plays a fundamental role in its entry into the organism. Despite the intense research carried out on the toxicity of Hg, the effects at the intestinal level have received increased attention only recently. In this review we first provide a critical appraisal of the recent advances on the toxic effects of Hg at the intestinal epithelium. Next, dietary strategies aimed to diminish Hg bioavailability or modulate the epithelial and microbiota responses will be revised. Food components and additives, including probiotics, will be considered. Finally, limitations of current approaches to tackle this problem and future lines of research will be discussed.
+_Humans, Gastrointestinal Microbiome, Diabetic Nephropathies, Virome, Diabetes Mellitus, Type 2, Bacteriophages, Bacteria_
+Although changes in gut microbiome have been associated with the development of T2D and its complications, the role of the gut virome remains largely unknown. Here, we characterized the gut virome alterations in T2D and its complications diabetic nephropathy (DN) by metagenomic sequencing of fecal viral-like particles. Compared with controls, T2D subjects, especially those with DN, had significantly lower viral richness and diversity. 81 viral species were identified to be significantly altered in T2D subjects, including a decrease in some phages (e.g. Flavobacterium phage and Cellulophaga phaga). DN subjects were depleted of 12 viral species, including Bacteroides phage, Anoxybacillus virus and Brevibacillus phage, and enriched in 2 phages (Shigella phage and Xylella phage). Multiple viral functions, particularly those of phage lysing host bacteria, were markedly reduced in T2D and DN. Strong viral-bacterial interactions in healthy controls were disrupted in both T2D and DN. Moreover, the combined use of gut viral and bacterial markers achieved a powerful diagnostic performance for T2D and DN, with AUC of 99.03% and 98.19%, respectively. Our results suggest that T2D and its complication DN are characterized by a significant decrease in gut viral diversity, changes in specific virus species, loss of multiple viral functions, and disruption of viral-bacterial correlations. The combined gut viral and bacterial markers have diagnostic potential for T2D and DN.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0300483X2300166X?via%3Dihub)
+[Source](https://doi.org/10.1080/19490976.2023.2226925)
 
-10.1016/j.tox.2023.153580
-
----
-
-## Phylogenetic comparative approach reveals evolutionary conservatism, ancestral composition, and integration of vertebrate gut microbiota.
- 16.06.2023, _B Perez-Lamarque, G Sommeria-Klein, L Duret, H Morlon_
-
-
-How host-associated microbial communities evolve as their hosts diversify remains equivocal: How conserved is their composition? What was the composition of ancestral microbiota? Do microbial taxa covary in abundance over millions of years? Multivariate phylogenetic models of trait evolution are key to answering similar questions for complex host phenotypes, yet they are not directly applicable to relative abundances, which usually characterize microbiota. Here, we extend these models in this context, thereby providing a powerful approach for estimating phylosymbiosis (the extent to which closely related host species harbor similar microbiota), ancestral microbiota composition, and integration (evolutionary covariations in bacterial abundances). We apply our model to the gut microbiota of mammals and birds. We find significant phylosymbiosis that is not entirely explained by diet and geographic location, indicating that other evolutionary-conserved traits shape microbiota composition. We identify main shifts in microbiota composition during the evolution of the two groups and infer an ancestral mammalian microbiota consistent with an insectivorous diet. We also find remarkably consistent evolutionary covariations among bacterial orders in mammals and birds. Surprisingly, despite the substantial variability of present-day gut microbiota, some aspects of their composition are conserved over millions of years of host evolutionary history.
-
-[Source](https://doi.org/10.1093/molbev/msad144)
-
-10.1093/molbev/msad144
+10.1080/19490976.2023.2226925
 
 ---
 
-## Social transmission of bacterial symbionts homogenizes the microbiome within and across generations of group-living spiders.
- 20.06.2023, _C Rose, MB Lund, AM Søgård, MM Busck, JS Bechsgaard, A Schramm, T Bilde_
+## Species-Specific Analysis of Bacterial Vaginosis-Associated Bacteria.
+ 22.06.2023, _J Osei Sekyere, AB Oyenihi, J Trama, ME Adelson_
 
 
-Disentangling modes and fidelity of symbiont transmission are key for understanding host-symbiont associations in wild populations. In group-living animals, social transmission may evolve to ensure high-fidelity transmission of symbionts, since non-reproducing helpers constitute a dead-end for vertical transmission. We investigated symbiont transmission in the social spider Stegodyphus dumicola, which lives in family groups where the majority of females are non-reproducing helpers, females feed offspring by regurgitation, and individuals feed communally on insect prey. Group members share temporally stable microbiomes across generations, while distinct variation in microbiome composition exists between groups. We hypothesized that horizontal transmission of symbionts is enhanced by social interactions, and investigated transmission routes within (horizontal) and across (vertical) generations using bacterial 16S rRNA gene amplicon sequencing in three experiments: (i) individuals were sampled at all life stages to assess at which life stage the microbiome is acquired. (ii) a cross-fostering design was employed to test whether offspring carry the microbiome from their natal nest, or acquire the microbiome of the foster nest via social transmission. (iii) adult spiders with different microbiome compositions were mixed to assess whether social transmission homogenizes microbiome composition among group members. We demonstrate that offspring hatch symbiont-free, and bacterial symbionts are transmitted vertically across generations by social interactions with the onset of regurgitation feeding by (foster)mothers in an early life stage. Social transmission governs horizontal inter-individual mixing and homogenization of microbiome composition among nest mates. We conclude that temporally stable host-symbiont associations in social species can be facilitated and maintained by high-fidelity social transmission.
+Vaginal dysbiosis in women reduces the abundance of Lactobacillus species and increases that of anaerobic fastidious bacteria. This dysbiotic condition in the vagina, called bacterial vaginosis (BV), can be symptomatic with odorous vaginal discharges or asymptomatic and affects a third of women of reproductive age. Three unclassified bacterial species designated BV-associated bacteria 1, 2, and 3 (BVAB-1, -2, and -3) in 2005 were found to be highly preponderant in the vagina of females with BV. Here, we used sequence homology and phylogenetics analyses to identify the actual species of BVAB-1, -2, and -3 and found BVAB-1 to be Clostridiales genomosp. BVAB-1, BVAB-2 to be Oscillospiraceae bacterium strain CHIC02, and BVAB-3 to be Mageeibacillus indolicus, respectively. These are anaerobic and uncultured species that can be identified only through metagenomics. Long-read sequencing of BV specimens can also enable a genomic reassembly of these species' genomes from metagenomes. Species-specific identification of these pathogens and the availability of their genomes from assembled metagenomes will advance our understanding of their biology, facilitate the design of sensitive diagnostics and drugs, and enhance the treatment of BV. IMPORTANCE For many years since 2005, BVAB, an important pathogen of the female vaginal tract that is associated with BV, has been identified using PCR without knowing its actual species. Without a full genome of these pathogens, a better understanding of their pathogenicity, treatment, resistance, and diagnostics cannot be reached. In this analysis, we use the DNA of BVAB-1, -2, and -3 to determine their actual species to enhance further research into their pathogenicity, resistance, diagnosis, and treatment.
 
-[Source](https://doi.org/10.1038/s43705-023-00256-2)
+[Source](https://doi.org/10.1128/spectrum.04676-22)
 
-10.1038/s43705-023-00256-2
-
----
-
-## Rookery through rehabilitation: Microbial community assembly in newborn harbour seals after maternal separation
-
-[Source](https://doi.org/10.1111/1462-2920.16444)
+10.1128/spectrum.04676-22
 
 ---
 
-## The TaxUMAP atlas: Efficient display of large clinical microbiome data reveals ecological competition in protection against bacteremia.
- 17.06.2023, _J Schluter, A Djukovic, BP Taylor, J Yan, C Duan, GA Hussey, C Liao, S Sharma, E Fontana, LA Amoretti, RJ Wright, A Dai, JU Peled, Y Taur, MA Perales, BA Siranosian, AS Bhatt, MRM van den Brink, EG Pamer, JB Xavier_
+## Gut microbiota in nonalcoholic fatty liver disease: a PREDIMED-Plus trial sub analysis.
+ 23.06.2023, _AM Gómez-Pérez, P Ruiz-Limón, J Salas-Salvadó, J Vioque, D Corella, M Fitó, J Vidal, A Atzeni, L Torres-Collado, A Álvarez-Sala, MÁ Martínez, A Goday, D Benaiges, J García-Gavilán, MR Bernal López, I Moreno-Indias, FJ Tinahones_
 
 
-Longitudinal microbiome data provide valuable insight into disease states and clinical responses, but they are challenging to mine and view collectively. To address these limitations, we present TaxUMAP, a taxonomically informed visualization for displaying microbiome states in large clinical microbiome datasets. We used TaxUMAP to chart a microbiome atlas of 1,870 patients with cancer during therapy-induced perturbations. Bacterial density and diversity were positively associated, but the trend was reversed in liquid stool. Low-diversity states (dominations) remained stable after antibiotic treatment, and diverse communities had a broader range of antimicrobial resistance genes than dominations. When examining microbiome states associated with risk for bacteremia, TaxUMAP revealed that certain Klebsiella species were associated with lower risk for bacteremia localize in a region of the atlas that is depleted in high-risk enterobacteria. This indicated a competitive interaction that was validated experimentally. Thus, TaxUMAP can chart comprehensive longitudinal microbiome datasets, enabling insights into microbiome effects on human health.
+_Humans, Fibrosis, Gastrointestinal Microbiome, Liver, Metabolic Syndrome, Non-alcoholic Fatty Liver Disease_
+To evaluate the changes in the gut microbiota associated with changes in the biochemical markers of nonalcoholic fatty liver disease (NAFLD) after a lifestyle intervention with the Mediterranean diet. Participants (n = 297) from two centers of PREDIMED-Plus trial (Prevención con Dieta Mediterránea) were divided into three different groups based on the change tertile in the Hepatic Steatosis Index (HSI) or the Fibrosis-4 score (FIB-4) between baseline and one year of intervention. One-year changes in HSI were: tertile 1 (T1) (-24.9 to -7.51), T2 (-7.5 to -1.86), T3 (-1.85 to 13.64). The most significant differences in gut microbiota within the year of intervention were observed in the T1 and T3. According to the FIB-4, participants were categorized in non-suspected fibrosis (NSF) and with indeterminate or suspected fibrosis (SF). NSF participants showed higher abundances of Alcaligenaceae, Bacteroidaceae, Bifidobacteriaceae, Clostridiaceae, Enterobacteriaceae, Peptostreptococcaceae, Verrucomicrobiaceae compared to those with SF. Then, participants were divided depending on the FIB-4 tertile of change: T1 (-89.60 to -5.57), T2 (-5.56 to 11.4), and T3 (11.41 to 206.24). FIB-4 T1 showed a decrease in Akkermansia and an increase in Desulfovibrio. T2 had an increase in Victivallaceae, Clostridiaceae, and Desulfovibrio. T3 showed a decrease in Enterobacteriaceae, and an increase in Sutterella, Faecalibacterium, and Blautia. A relation between biochemical index changes of NAFLD/NASH (HSI and FIB-4) and gut microbiota changes were found. These observations highlight the importance of lifestyle intervention in the modulation of gut microbiota and the management of metabolic syndrome and its hepatic manifestations.
 
-[Source](https://doi.org/10.1016/j.chom.2023.05.027)
+[Source](https://doi.org/10.1080/19490976.2023.2223339)
 
-10.1016/j.chom.2023.05.027
-
----
-
-## MetaNovo: An open-source pipeline for probabilistic peptide discovery in complex metaproteomic datasets.
- 16.06.2023, _MG Potgieter, AJM Nel, S Fortuin, S Garnett, JM Wendoh, DL Tabb, NJ Mulder, JM Blackburn_
-
-
-Microbiome research is providing important new insights into the metabolic interactions of complex microbial ecosystems involved in fields as diverse as the pathogenesis of human diseases, agriculture and climate change. Poor correlations typically observed between RNA and protein expression datasets make it hard to accurately infer microbial protein synthesis from metagenomic data. Additionally, mass spectrometry-based metaproteomic analyses typically rely on focused search sequence databases based on prior knowledge for protein identification that may not represent all the proteins present in a set of samples. Metagenomic 16S rRNA sequencing only targets the bacterial component, while whole genome sequencing is at best an indirect measure of expressed proteomes. Here we describe a novel approach, MetaNovo, that combines existing open-source software tools to perform scalable de novo sequence tag matching with a novel algorithm for probabilistic optimization of the entire UniProt knowledgebase to create tailored sequence databases for target-decoy searches directly at the proteome level, enabling metaproteomic analyses without prior expectation of sample composition or metagenomic data generation and compatible with standard downstream analysis pipelines.
-
-[Source](https://doi.org/10.1371/journal.pcbi.1011163)
-
-10.1371/journal.pcbi.1011163
+10.1080/19490976.2023.2223339
 
 ---
 
-## Methods for Analyzing the Gut Microbiota in Diabetic Retinopathy.
- 19.06.2023, _Y Huang, JH Ma, Y Peng, X Yang, J Chen, S Tang_
+## Associations of Circulating Estrogens and Estrogen Metabolites with Fecal and Oral Microbiome in Postmenopausal Women in the Ghana Breast Health Study
 
-
-_Humans, Gastrointestinal Microbiome, Feces, Diabetic Retinopathy, Microbiota, RNA, Ribosomal, 16S, Diabetes Mellitus_
-The gut microbiome that inhabits human hosts plays an important role in the development of a healthy host immune system. Many studies have shown that gut microbiota is involved in the occurrence and development of diabetic retinopathy (DR). With the advent of sequencing technology of the bacterial 16S ribosomal RNA (rRNA) gene, microbiota studies are becoming more feasible. Here, we described a study protocol to characterize the microbiota composite in the DR and non-DR patients compared with healthy controls.
-
-[Source](https://doi.org/10.1007/978-1-0716-3255-0_10)
-
-10.1007/978-1-0716-3255-0_10
+[Source](https://doi.org/10.1128/spectrum.01572-23)
 
 ---
 
-## Using nanopore sequencing to identify fungi from clinical samples with high phylogenetic resolution.
- 19.06.2023, _A Ohta, K Nishi, K Hirota, Y Matsuo_
+## Meta-analysis of the effects of proton pump inhibitors on the human gut microbiota.
+ 21.06.2023, _J Zhang, C Zhang, Q Zhang, L Yu, W Chen, Y Xue, Q Zhai_
 
 
-_Humans, Phylogeny, Sequence Analysis, DNA, Nanopore Sequencing, Fungi, Microbiota, High-Throughput Nucleotide Sequencing_
-The study of microbiota has been revolutionized by the development of DNA metabarcoding. This sequence-based approach enables the direct detection of microorganisms without the need for culture and isolation, which significantly reduces analysis time and offers more comprehensive taxonomic profiles across broad phylogenetic lineages. While there has been an accumulating number of researches on bacteria, molecular phylogenetic analysis of fungi still remains challenging due to the lack of standardized tools and the incompleteness of reference databases limiting the accurate and precise identification of fungal taxa. Here, we present a DNA metabarcoding workflow for characterizing fungal microbiota with high taxonomic resolution. This method involves amplifying longer stretches of ribosomal RNA operons and sequencing them using nanopore long-read sequencing technology. The resulting reads were error-polished to generate consensus sequences with 99.5-100% accuracy, which were then aligned against reference genome assemblies. The efficacy of this method was explored using a polymicrobial mock community and patient-derived specimens, demonstrating the marked potential of long-read sequencing combined with consensus calling for accurate taxonomic classification. Our approach offers a powerful tool for the rapid identification of pathogenic fungi and has the promise to significantly improve our understanding of the role of fungi in health and disease.
+_Humans, Proton Pump Inhibitors, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Feces, Microbiota, Bacteria, Clostridiales_
+Mounting evidence has linked changes in human gut microbiota to proton pump inhibitor (PPI) use. Accordingly, multiple studies have analyzed the gut microbiomes of PPI users, but PPI-microbe interactions are still understudied. Here, we performed a meta-analysis of four studies with available 16S rRNA gene amplicon sequencing data to uncover the potential changes in human gut microbes among PPI users. Despite some differences, we found common features of the PPI-specific microbiota, including a decrease in the Shannon diversity index and the depletion of bacteria from the Ruminococcaceae and Lachnospiraceae families, which are crucial short-chain fatty acid-producers. Through training based on multiple studies, using a random forest classification model, we further verified the representativeness of the six screened gut microbial genera and 20 functional genes as PPI-related biomarkers, with AUC values of 0.748 and 0.879, respectively. Functional analysis of the PPI-associated 16S rRNA microbiome revealed enriched carbohydrate- and energy-associated genes, mostly encoding fructose-1,6-bisphosphatase and pyruvate dehydrogenase, among others. In this study, we have demonstrated alterations in bacterial abundance and functional metabolic potential related to PPI use, as a basis for future studies on PPI-induced adverse effects.
 
-[Source](https://doi.org/10.1038/s41598-023-37016-0)
+[Source](https://doi.org/10.1186/s12866-023-02895-w)
 
-10.1038/s41598-023-37016-0
+10.1186/s12866-023-02895-w
+
+---
+
+## Gut microbiomes of captive primates show phylosymbiosis, respond to dietary sugar reduction, and select for host-specific dietary microbes.
+ 24.06.2023, _SL Bornbusch, CR Muletz-Wolz, E Lopez-Bondarchuk, MT Maslanka, EL Kendrick_
+
+
+Host-associated microbiomes are influenced by evolutionary history and proximate factors such as diet and environment. Zoos house animals in relatively standardized and manipulatable environments, making zoo populations valuable for studying microbiomes. Using a small population of five closely related primate species housed under nearly identical environments, we investigated gut microbiome variation regarding (a) congruence between host evolutionary history and gut bacterial composition (i.e. phylosymbiosis), (b) a longitudinal reduction in dietary sugar intake, and (c) ingestion of bacteria from dietary sources. We found that the primate gut microbiomes varied across individuals and showed phylosymbiosis. When animals were fed diets with reduced sugar and increased fiber, we found host-specific changes in taxonomically distinct microbes (Phascolarctobacterium, Megasphaera, and Sharpea). Yet, these bacterial genera share similar functional potential (fiber degradation), indicating that the distinct bacterial communities may fulfill similar functions. Although all individuals received the same diet, the diet-associated bacteria in primate gut microbiomes were distinct across individuals of different species, suggesting a mechanism that selects for unique dietary microbes to persist in animal guts. Our findings show that the microbiomes of a small, captive primate population housed under uniform environmental conditions still show patterns congruent with combined influences of evolutionary history and diet.
+
+[Source](https://doi.org/10.1093/femsec/fiad069)
+
+10.1093/femsec/fiad069
+
+---
+
+## Characterization of two keystone taxa, sulfur-oxidizing, and nitrate-reducing bacteria, by tracking their role transitions in the benzo[a]pyrene degradative microbiome
+
+[Source](https://doi.org/10.1186/s40168-023-01583-1)
+
+---
+
+## Inferring microbial co-occurrence networks from amplicon data: a systematic evaluation
+
+[Source](https://doi.org/10.1128/msystems.00961-22)
+
+---
+
+## Human microbiome cultivation expands with AI
+
+[Source](https://doi.org/10.1038/s41587-023-01852-2)
+
+---
+
+## GutBug: A Tool for Prediction of Human Gut Bacteria Mediated Biotransformation of Biotic and Xenobiotic Molecules Using Machine Learning
+
+[Source](https://doi.org/10.1016/j.jmb.2023.168056)
+
+---
+
+## Comparison of DNA extraction methods for 16S rRNA gene sequencing in the analysis of the human gut microbiome
+
+[Source](https://doi.org/10.1038/s41598-023-33959-6)
+
+---
+
+## Optimizing metaproteomics database construction: lessons from a study of the vaginal microbiome
+
+[Source](https://doi.org/10.1128/msystems.00678-22)
+
+---
+
+## Assumptions on decision making and environment can yield multiple steady states in microbial community models
+
+[Source](https://doi.org/10.1186/s12859-023-05325-w)
+
+---
+
+## EMBED: Essential MicroBiomE Dynamics, a dimensionality reduction approach for longitudinal microbiome studies
+
+[Source](https://doi.org/10.1038/s41540-023-00285-6)
+
+---
+
+## Ordering taxa in image convolution networks improves microbiome-based machine learning accuracy
+
+[Source](https://doi.org/10.1080/19490976.2023.2224474)
 
 ---
 
