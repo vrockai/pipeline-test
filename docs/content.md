@@ -4,16 +4,9 @@
 
 ---
 
-## CRISPR arrays as high-resolution markers to track microbial transmission during influenza infection.
- 19.06.2023, _L Zhang, J Rahman, M Chung, L Lashua, A Gordon, A Balmaseda, G Kuan, R Bonneau, E Ghedin_
-
-
-_Humans, Clustered Regularly Interspaced Short Palindromic Repeats, Influenza, Human, Bacteria, Metagenome, Microbiota, Micrococcaceae_
-Disruption of the microbial community in the respiratory tract due to infections, like influenza, could impact transmission of bacterial pathogens. Using samples from a household study, we determined whether metagenomic-type analyses of the microbiome provide the resolution necessary to track transmission of airway bacteria. Microbiome studies have shown that the microbial community across various body sites tends to be more similar between individuals who cohabit in the same household than between individuals from different households. We tested whether there was increased sharing of bacteria from the airways within households with influenza infections as compared to control households with no influenza.
+## CRISPR arrays as high-resolution markers to track microbial transmission during influenza infection
 
 [Source](https://doi.org/10.1186/s40168-023-01568-0)
-
-10.1186/s40168-023-01568-0
 
 ---
 
