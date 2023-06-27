@@ -42,9 +42,10 @@ The gut microbiome is important for human health, yet modulation requires more i
 ---
 
 ## Key bacterial taxa determine longitudinal dynamics of aromatic amino acid catabolism in infants' gut.
- 26.06.2023, _MF Laursen, AK Sinha, M Pedersen, HM Roager_
+ 27.06.2023, _MF Laursen, AK Sinha, M Pedersen, HM Roager_
 
 
+_Humans, Infant, Gastrointestinal Microbiome, Bacteria, Fatty Acids, Volatile, Propionates, Feces, Amino Acids, Aromatic_
 The development of the gut microbiota in early life is linked to metabolic, neuronal, and immunological development. Recent studies have shown that bacterial production of short-chain fatty acids (SCFAs) and aromatic amino acid (AAA) catabolites in the gut can mediate host-microbe interactions. However, the dynamics of these microbiota-derived metabolites and the key bacterial taxa producing AAA catabolites during infancy are largely unknown. Here, we investigated the longitudinal dynamics of the microbiota and microbiota-derived SCFAs and AAA catabolites in more than 200 fecal samples from 25 healthy breast- or mixed-fed Danish infants during the first 6 months of life. We found that the gut microbiota composition and metabolism were highly individual but showed significant development over time. SCFAs and specific groups of AAA catabolites showed distinct temporal abundance patterns. Furthermore, we identified bacterial taxa responsible for the generation of AAA catabolites by associating the dynamics of gut microbial taxa and AAA catabolites and subsequently validating these associations in vitro by cultivation of strains representing the associated taxa. In addition to specific Bifidobacterium species being the main producers of aromatic lactic acids, we identified Peptostreptococcus anaerobius as the main producer of aromatic propionic acids, Ruminococcus gnavus as a main producer of tryptamine, and Enterococcus species as main tyramine producers in infants' gut. Thus, our results showcase the temporal dynamics of key gut microbial metabolites in early life and demonstrate that the appearance and abundance of specific AAA catabolites result from the appearance and abundance of specific key bacterial taxa in infants' gut.
 
 [Source](https://doi.org/10.1080/19490976.2023.2221426)
@@ -109,9 +110,16 @@ The human fecal and oral microbiome may play a role in the etiology of breast ca
 
 ---
 
-## Meta-analysis of the effects of proton pump inhibitors on the human gut microbiota
+## Meta-analysis of the effects of proton pump inhibitors on the human gut microbiota.
+ 21.06.2023, _J Zhang, C Zhang, Q Zhang, L Yu, W Chen, Y Xue, Q Zhai_
+
+
+_Humans, Proton Pump Inhibitors, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Feces, Microbiota, Bacteria, Clostridiales_
+Mounting evidence has linked changes in human gut microbiota to proton pump inhibitor (PPI) use. Accordingly, multiple studies have analyzed the gut microbiomes of PPI users, but PPI-microbe interactions are still understudied. Here, we performed a meta-analysis of four studies with available 16S rRNA gene amplicon sequencing data to uncover the potential changes in human gut microbes among PPI users. Despite some differences, we found common features of the PPI-specific microbiota, including a decrease in the Shannon diversity index and the depletion of bacteria from the Ruminococcaceae and Lachnospiraceae families, which are crucial short-chain fatty acid-producers. Through training based on multiple studies, using a random forest classification model, we further verified the representativeness of the six screened gut microbial genera and 20 functional genes as PPI-related biomarkers, with AUC values of 0.748 and 0.879, respectively. Functional analysis of the PPI-associated 16S rRNA microbiome revealed enriched carbohydrate- and energy-associated genes, mostly encoding fructose-1,6-bisphosphatase and pyruvate dehydrogenase, among others. In this study, we have demonstrated alterations in bacterial abundance and functional metabolic potential related to PPI use, as a basis for future studies on PPI-induced adverse effects.
 
 [Source](https://doi.org/10.1186/s12866-023-02895-w)
+
+10.1186/s12866-023-02895-w
 
 ---
 
@@ -175,16 +183,9 @@ Host-associated microbiomes are influenced by evolutionary history and proximate
 
 ---
 
-## Ordering taxa in image convolution networks improves microbiome-based machine learning accuracy.
- 23.06.2023, _O Shtossel, H Isakov, S Turjeman, O Koren, Y Louzoun_
-
-
-_Humans, Gastrointestinal Microbiome, Artificial Intelligence, RNA, Ribosomal, 16S, Microbiota, Machine Learning_
-The human gut microbiome is associated with a large number of disease etiologies. As such, it is a natural candidate for machine-learning-based biomarker development for multiple diseases and conditions. The microbiome is often analyzed using 16S rRNA gene sequencing or shotgun metagenomics. However, several properties of microbial sequence-based studies hinder machine learning (ML), including non-uniform representation, a small number of samples compared with the dimension of each sample, and sparsity of the data, with the majority of taxa present in a small subset of samples. We show here using a graph representation that the cladogram structure is as informative as the taxa frequency. We then suggest a novel method to combine information from different taxa and improve data representation for ML using microbial taxonomy. iMic (image microbiome) translates the microbiome to images through an iterative ordering scheme, and applies convolutional neural networks to the resulting image. We show that iMic has a higher precision in static microbiome gene sequence-based ML than state-of-the-art methods. iMic also facilitates the interpretation of the classifiers through an explainable artificial intelligence (AI) algorithm to iMic to detect taxa relevant to each condition. iMic is then extended to dynamic microbiome samples by translating them to movies.
+## Ordering taxa in image convolution networks improves microbiome-based machine learning accuracy
 
 [Source](https://doi.org/10.1080/19490976.2023.2224474)
-
-10.1080/19490976.2023.2224474
 
 ---
 
