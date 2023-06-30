@@ -147,14 +147,9 @@ Host-associated microbiomes are influenced by evolutionary history and proximate
 
 ---
 
-## Human microbiome cultivation expands with AI.
- 22.06.2023, _M Selma-Royo, N Segata, L Ricci_
-
-
+## Human microbiome cultivation expands with AI
 
 [Source](https://doi.org/10.1038/s41587-023-01852-2)
-
-10.1038/s41587-023-01852-2
 
 ---
 
