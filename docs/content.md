@@ -29,7 +29,7 @@ Several randomised clinical trials (RCTs) performing faecal microbiota transplan
 ---
 
 ## Global branches and local states of the human gut microbiome define associations with environmental and intrinsic factors.
- 28.06.2023, _J Tap, F Lejzerowicz, A Cotillard, M Pichaud, D McDonald, SJ Song, R Knight, P Veiga, M Derrien_
+ 01.07.2023, _J Tap, F Lejzerowicz, A Cotillard, M Pichaud, D McDonald, SJ Song, R Knight, P Veiga, M Derrien_
 
 
 _Humans, Gastrointestinal Microbiome, Cross-Sectional Studies, Bacteroides, RNA, Ribosomal, 16S_
@@ -42,7 +42,7 @@ The gut microbiome is important for human health, yet modulation requires more i
 ---
 
 ## Key bacterial taxa determine longitudinal dynamics of aromatic amino acid catabolism in infants' gut.
- 27.06.2023, _MF Laursen, AK Sinha, M Pedersen, HM Roager_
+ 01.07.2023, _MF Laursen, AK Sinha, M Pedersen, HM Roager_
 
 
 _Humans, Infant, Gastrointestinal Microbiome, Bacteria, Fatty Acids, Volatile, Propionates, Feces, Amino Acids, Aromatic_
@@ -61,7 +61,7 @@ The development of the gut microbiota in early life is linked to metabolic, neur
 ---
 
 ## Alterations in the gut virome are associated with type 2 diabetes and diabetic nephropathy.
- 26.06.2023, _G Fan, F Cao, T Kuang, H Yi, C Zhao, L Wang, J Peng, Z Zhuang, T Xu, Y Luo, Y Xie, H Li, K Zhang, Y Zeng, X Zhang, S Peng, X Qiu, D Zhou, H Liang, B Yang, J Kang, Y Liu, Y Zhang_
+ 01.07.2023, _G Fan, F Cao, T Kuang, H Yi, C Zhao, L Wang, J Peng, Z Zhuang, T Xu, Y Luo, Y Xie, H Li, K Zhang, Y Zeng, X Zhang, S Peng, X Qiu, D Zhou, H Liang, B Yang, J Kang, Y Liu, Y Zhang_
 
 
 _Humans, Gastrointestinal Microbiome, Diabetic Nephropathies, Virome, Diabetes Mellitus, Type 2, Bacteriophages, Bacteria_
@@ -86,7 +86,7 @@ Vaginal dysbiosis in women reduces the abundance of Lactobacillus species and in
 ---
 
 ## Gut microbiota in nonalcoholic fatty liver disease: a PREDIMED-Plus trial sub analysis.
- 23.06.2023, _AM Gómez-Pérez, P Ruiz-Limón, J Salas-Salvadó, J Vioque, D Corella, M Fitó, J Vidal, A Atzeni, L Torres-Collado, A Álvarez-Sala, MÁ Martínez, A Goday, D Benaiges, J García-Gavilán, MR Bernal López, I Moreno-Indias, FJ Tinahones_
+ 01.07.2023, _AM Gómez-Pérez, P Ruiz-Limón, J Salas-Salvadó, J Vioque, D Corella, M Fitó, J Vidal, A Atzeni, L Torres-Collado, A Álvarez-Sala, MÁ Martínez, A Goday, D Benaiges, J García-Gavilán, MR Bernal López, I Moreno-Indias, FJ Tinahones_
 
 
 _Humans, Fibrosis, Gastrointestinal Microbiome, Liver, Metabolic Syndrome, Non-alcoholic Fatty Liver Disease_
@@ -111,7 +111,7 @@ The human fecal and oral microbiome may play a role in the etiology of breast ca
 ---
 
 ## Meta-analysis of the effects of proton pump inhibitors on the human gut microbiota.
- 28.06.2023, _J Zhang, C Zhang, Q Zhang, L Yu, W Chen, Y Xue, Q Zhai_
+ 01.07.2023, _J Zhang, C Zhang, Q Zhang, L Yu, W Chen, Y Xue, Q Zhai_
 
 
 _Humans, Proton Pump Inhibitors, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Feces, Microbiota, Bacteria, Clostridiales_
