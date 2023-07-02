@@ -147,91 +147,45 @@ Host-associated microbiomes are influenced by evolutionary history and proximate
 
 ---
 
-## Human microbiome cultivation expands with AI.
- 22.06.2023, _M Selma-Royo, N Segata, L Ricci_
-
-
+## Human microbiome cultivation expands with AI
 
 [Source](https://doi.org/10.1038/s41587-023-01852-2)
 
-10.1038/s41587-023-01852-2
-
 ---
 
-## GutBug: A Tool for Prediction of Human Gut Bacteria Mediated Biotransformation of Biotic and Xenobiotic Molecules Using Machine Learning.
- 27.06.2023, _AS Malwe, GN Srivastava, VK Sharma_
-
-
-_Humans, Xenobiotics, Bacteria, Gastrointestinal Microbiome, Pharmaceutical Preparations, Biotransformation, Machine Learning_
-Dietary components and bioactive molecules present in functional foods and nutraceuticals provide various beneficial effects including modulation of host gut microbiome. These metabolites along with orally administered drugs can be potentially bio-transformed by gut microbiome, which can alter their bioavailability and intended biological or pharmacological activity resulting in individual or population-specific variation in drug and dietary responses. Experimental determination of microbiome-mediated metabolism of orally ingested molecules is difficult due to the enormous diversity and complexity of the gut microbiome. To address this problem, we developed "GutBug", a web-based resource that predicts all possible bacterial metabolic enzymes that can potentially biotransform xenobiotics and biotic molecules using a combination of machine learning, neural networks and chemoinformatic methods. Using 3,457 enzyme substrates for training and a curated database of 363,872 enzymes from ∼700 gut bacterial strains, GutBug can predict complete EC number of the bacterial enzymes involved in a biotransformation reaction of the given molecule along with the reaction centres with accuracies between 0.78 and 0.97 across different reaction classes. Validation of GutBug's performance using 27 molecules known to be biotransformed by human gut bacteria, including complex polysaccharides, flavonoids, and oral drugs further attests to GutBug's accuracy and utility. Thus, GutBug enhances our understanding of various metabolite-gut bacterial interactions and their resultant effects on the human host health across populations, which will find enormous applications in diet design and intervention, identification and administration of new prebiotics, development of nutraceutical products, and improvements in drug designing. GutBug is available at https://metabiosys.iiserb.ac.in/gutbug.
+## GutBug: A Tool for Prediction of Human Gut Bacteria Mediated Biotransformation of Biotic and Xenobiotic Molecules Using Machine Learning
 
 [Source](https://doi.org/10.1016/j.jmb.2023.168056)
 
-10.1016/j.jmb.2023.168056
-
 ---
 
-## Comparison of DNA extraction methods for 16S rRNA gene sequencing in the analysis of the human gut microbiome.
- 01.07.2023, _C Elie, M Perret, H Hage, E Sentausa, A Hesketh, K Louis, A Fritah-Lafont, P Leissner, C Vachon, H Rostaing, F Reynier, G Gervasi, A Saliou_
-
-
-_Humans, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Genes, rRNA, DNA, Microbiota_
-The gut microbiome is widely analyzed using high-throughput sequencing, such as 16S rRNA gene amplicon sequencing and shotgun metagenomic sequencing (SMS). DNA extraction is known to have a large impact on the metagenomic analyses. The aim of this study was to compare DNA extraction protocols for 16S sequencing. In that context, four commonly used DNA extraction methods were compared for the analysis of the gut microbiota. Commercial versions were evaluated against modified protocols using a stool preprocessing device (SPD, bioMérieux) upstream DNA extraction. Stool samples from nine healthy volunteers and nine patients with a Clostridium difficile infection were extracted with all protocols and 16S sequenced. Protocols were ranked using wet- and dry-lab criteria, including quality controls of the extracted genomic DNA, alpha-diversity, accuracy using a mock community of known composition and repeatability across technical replicates. SPD improved overall efficiency of three of the four tested protocols compared with their commercial version, in terms of DNA extraction yield, sample alpha-diversity, and recovery of Gram-positive bacteria. The best overall performance was obtained for the S-DQ protocol, SPD combined with the DNeasy PowerLyser PowerSoil protocol from QIAGEN. Based on this evaluation, we strongly believe that the use of such stool preprocessing device improves both the standardization and the quality of the DNA extraction in the human gut microbiome studies.
+## Comparison of DNA extraction methods for 16S rRNA gene sequencing in the analysis of the human gut microbiome
 
 [Source](https://doi.org/10.1038/s41598-023-33959-6)
 
-10.1038/s41598-023-33959-6
-
 ---
 
-## Optimizing metaproteomics database construction: lessons from a study of the vaginal microbiome.
- 23.06.2023, _EM Lee, S Srinivasan, SO Purvine, TL Fiedler, OP Leiser, SC Proll, SS Minot, BL Deatherage Kaiser, DN Fredricks_
-
-
-Metaproteomics, a method for untargeted, high-throughput identification of proteins in complex samples, provides functional information about microbial communities and can tie functions to specific taxa. Metaproteomics often generates less data than other omics techniques, but analytical workflows can be improved to increase usable data in metaproteomic outputs. Identification of peptides in the metaproteomic analysis is performed by comparing mass spectra of sample peptides to a reference database of protein sequences. Although these protein databases are an integral part of the metaproteomic analysis, few studies have explored how database composition impacts peptide identification. Here, we used cervicovaginal lavage (CVL) samples from a study of bacterial vaginosis (BV) to compare the performance of databases built using six different strategies. We evaluated broad versus sample-matched databases, as well as databases populated with proteins translated from metagenomic sequencing of the same samples versus sequences from public repositories. Smaller sample-matched databases performed significantly better, driven by the statistical constraints on large databases. Additionally, large databases attributed up to 34% of significant bacterial hits to taxa absent from the sample, as determined orthogonally by 16S rRNA gene sequencing. We also tested a set of hybrid databases which included bacterial proteins from NCBI RefSeq and translated bacterial genes from the samples. These hybrid databases had the best overall performance, identifying 1,068 unique human and 1,418 unique bacterial proteins, ~30% more than a database populated with proteins from typical vaginal bacteria and fungi. Our findings can help guide the optimal identification of proteins while maintaining statistical power for reaching biological conclusions. IMPORTANCE Metaproteomic analysis can provide valuable insights into the functions of microbial and cellular communities by identifying a broad, untargeted set of proteins. The databases used in the analysis of metaproteomic data influence results by defining what proteins can be identified. Moreover, the size of the database impacts the number of identifications after accounting for false discovery rates (FDRs). Few studies have tested the performance of different strategies for building a protein database to identify proteins from metaproteomic data and those that have largely focused on highly diverse microbial communities. We tested a range of databases on CVL samples and found that a hybrid sample-matched approach, using publicly available proteins from organisms present in the samples, as well as proteins translated from metagenomic sequencing of the samples, had the best performance. However, our results also suggest that public sequence databases will continue to improve as more bacterial genomes are published.
+## Optimizing metaproteomics database construction: lessons from a study of the vaginal microbiome
 
 [Source](https://doi.org/10.1128/msystems.00678-22)
 
-10.1128/msystems.00678-22
-
 ---
 
-## Assumptions on decision making and environment can yield multiple steady states in microbial community models.
- 01.07.2023, _A Theorell, J Stelling_
-
-
-_Humans, Models, Biological, Computer Simulation, Microbiota, Genome, Decision Making_
-Microbial community simulations using genome scale metabolic networks (GSMs) are relevant for many application areas, such as the analysis of the human microbiome. Such simulations rely on assumptions about the culturing environment, affecting if the culture may reach a metabolically stationary state with constant microbial concentrations. They also require assumptions on decision making by the microbes: metabolic strategies can be in the interest of individual community members or of the whole community. However, the impact of such common assumptions on community simulation results has not been investigated systematically.
+## Assumptions on decision making and environment can yield multiple steady states in microbial community models
 
 [Source](https://doi.org/10.1186/s12859-023-05325-w)
 
-10.1186/s12859-023-05325-w
-
 ---
 
-## EMBED: Essential MicroBiomE Dynamics, a dimensionality reduction approach for longitudinal microbiome studies.
- 01.07.2023, _M Shahin, B Ji, PD Dixit_
-
-
-_Microbiota, Bacteria_
-Dimensionality reduction offers unique insights into high-dimensional microbiome dynamics by leveraging collective abundance fluctuations of multiple bacteria driven by similar ecological perturbations. However, methods providing lower-dimensional representations of microbiome dynamics both at the community and individual taxa levels are not currently available. To that end, we present EMBED: Essential MicroBiomE Dynamics, a probabilistic nonlinear tensor factorization approach. Like normal mode analysis in structural biophysics, EMBED infers ecological normal modes (ECNs), which represent the unique orthogonal modes capturing the collective behavior of microbial communities. Using multiple real and synthetic datasets, we show that a very small number of ECNs can accurately approximate microbiome dynamics. Inferred ECNs reflect specific ecological behaviors, providing natural templates along which the dynamics of individual bacteria may be partitioned. Moreover, the multi-subject treatment in EMBED systematically identifies subject-specific and universal abundance dynamics that are not detected by traditional approaches. Collectively, these results highlight the utility of EMBED as a versatile dimensionality reduction tool for studies of microbiome dynamics.
+## EMBED: Essential MicroBiomE Dynamics, a dimensionality reduction approach for longitudinal microbiome studies
 
 [Source](https://doi.org/10.1038/s41540-023-00285-6)
 
-10.1038/s41540-023-00285-6
-
 ---
 
-## Ordering taxa in image convolution networks improves microbiome-based machine learning accuracy.
- 01.07.2023, _O Shtossel, H Isakov, S Turjeman, O Koren, Y Louzoun_
-
-
-_Humans, Gastrointestinal Microbiome, Artificial Intelligence, RNA, Ribosomal, 16S, Microbiota, Machine Learning_
-The human gut microbiome is associated with a large number of disease etiologies. As such, it is a natural candidate for machine-learning-based biomarker development for multiple diseases and conditions. The microbiome is often analyzed using 16S rRNA gene sequencing or shotgun metagenomics. However, several properties of microbial sequence-based studies hinder machine learning (ML), including non-uniform representation, a small number of samples compared with the dimension of each sample, and sparsity of the data, with the majority of taxa present in a small subset of samples. We show here using a graph representation that the cladogram structure is as informative as the taxa frequency. We then suggest a novel method to combine information from different taxa and improve data representation for ML using microbial taxonomy. iMic (image microbiome) translates the microbiome to images through an iterative ordering scheme, and applies convolutional neural networks to the resulting image. We show that iMic has a higher precision in static microbiome gene sequence-based ML than state-of-the-art methods. iMic also facilitates the interpretation of the classifiers through an explainable artificial intelligence (AI) algorithm to iMic to detect taxa relevant to each condition. iMic is then extended to dynamic microbiome samples by translating them to movies.
+## Ordering taxa in image convolution networks improves microbiome-based machine learning accuracy
 
 [Source](https://doi.org/10.1080/19490976.2023.2224474)
-
-10.1080/19490976.2023.2224474
 
 ---
 
