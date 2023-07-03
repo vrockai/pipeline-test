@@ -1,6 +1,12 @@
-## Ultra-deep sequencing of Hadza hunter-gatherers recovers vanishing gut microbes
+## Ultra-deep sequencing of Hadza hunter-gatherers recovers vanishing gut microbes.
+ 29.06.2023, _MM Carter, MR Olm, BD Merrill, D Dahan, S Tripathi, SP Spencer, FB Yu, S Jain, N Neff, AR Jha, ED Sonnenburg, JL Sonnenburg_
+
+
+The gut microbiome modulates immune and metabolic health. Human microbiome data are biased toward industrialized populations, limiting our understanding of non-industrialized microbiomes. Here, we performed ultra-deep metagenomic sequencing on 351 fecal samples from the Hadza hunter-gatherers of Tanzania and comparative populations in Nepal and California. We recovered 91,662 genomes of bacteria, archaea, bacteriophages, and eukaryotes, 44% of which are absent from existing unified datasets. We identified 124 gut-resident species vanishing in industrialized populations and highlighted distinct aspects of the Hadza gut microbiome related to in situ replication rates, signatures of selection, and strain sharing. Industrialized gut microbes were found to be enriched in genes associated with oxidative stress, possibly a result of microbiome adaptation to inflammatory processes. This unparalleled view of the Hadza gut microbiome provides a valuable resource, expands our understanding of microbes capable of colonizing the human gut, and clarifies the extensive perturbation induced by the industrialized lifestyle.
 
 [Source](https://www.cell.com/cell/fulltext/S0092-8674(23)00597-4)
+
+10.1016/j.cell.2023.05.046
 
 ---
 
@@ -10,9 +16,15 @@
 
 ---
 
-## The first international Rome consensus conference on gut microbiota and faecal microbiota transplantation in inflammatory bowel disease
+## The first international Rome consensus conference on gut microbiota and faecal microbiota transplantation in inflammatory bowel disease.
+ 20.06.2023, _LR Lopetuso, S Deleu, L Godny, V Petito, P Puca, F Facciotti, H Sokol, G Ianiro, L Masucci, M Abreu, I Dotan, SP Costello, A Hart, TH Iqbal, S Paramsothy, M Sanguinetti, S Danese, H Tilg, F Cominelli, TT Pizarro, A Armuzzi, G Cammarota, A Gasbarrini, S Vermeire, F Scaldaferri_
+
+
+Several randomised clinical trials (RCTs) performing faecal microbiota transplantation (FMT) for the management of inflammatory bowel disease (IBD), particularly for ulcerative colitis, have recently been published, but with major variations in study design. These include differences in administered dose, route and frequency of delivery, type of placebo and evaluated endpoints. Although the overall outcomes appear to be promising, they are highly dependent on both donor and recipient factors.
 
 [Source](https://doi.org/10.1136/gutjnl-2023-329948)
+
+10.1136/gutjnl-2023-329948
 
 ---
 
