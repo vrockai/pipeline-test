@@ -126,29 +126,15 @@ Calorie restriction (CR) can prolong human lifespan, but enforcing long-term CR 
 
 ---
 
-## Effect of prebiotics, probiotics, synbiotics on depression: results from a meta-analysis.
- 03.07.2023, _Q Zhang, B Chen, J Zhang, J Dong, J Ma, Y Zhang, K Jin, J Lu_
-
-
-_Female, Humans, Prebiotics, Synbiotics, Depression, Probiotics, Databases, Factual, Randomized Controlled Trials as Topic_
-Accumulating studies have shown the effects of gut microbiota management tools in improving depression. We conducted a meta-analysis to evaluate the effects of prebiotics, probiotics, and synbiotics on patients with depression. We searched six databases up to July 2022. In total, 13 randomized controlled trials (RCTs) with 786 participants were included. The overall results demonstrated that patients who received prebiotics, probiotics or synbiotics had significantly improved symptoms of depression compared with those in the placebo group. However, subgroup analysis only confirmed the significant antidepressant effects of agents that contained probiotics. In addition, patients with mild or moderate depression could both benefit from the treatment. Studies with a lower proportion of females reported stronger effects for alleviating depressive symptoms. In conclusion, agents that manipulate gut microbiota might improve mild-to-moderate depression. It is necessary to further investigate the benefits of prebiotic, probiotic and synbiotic treatments relative to antidepressants and follow up with individuals over a longer time before these therapies are implemented in clinical practice.
+## Effect of prebiotics, probiotics, synbiotics on depression: results from a meta-analysis
 
 [Source](https://doi.org/10.1186/s12888-023-04963-x)
 
-10.1186/s12888-023-04963-x
-
 ---
 
-## Patterns and determinants of the global herbivorous mycobiome.
- 01.07.2023, _CH Meili, AL Jones, AX Arreola, J Habel, CJ Pratt, RA Hanafy, Y Wang, AS Yassin, MA TagElDein, CD Moon, PH Janssen, M Shrestha, P Rajbhandari, M Nagler, JM Vinzelj, SM Podmirseg, JE Stajich, AL Goetsch, J Hayes, D Young, K Fliegerova, DJ Grilli, R Vodička, G Moniello, S Mattiello, MT Kashef, YI Nagy, JA Edwards, SS Dagar, AP Foote, NH Youssef, MS Elshahed_
-
-
-_Animals, Mycobiome, Phylogeny, Feces, Digestive System, Biological Evolution, Mammals_
-Despite their role in host nutrition, the anaerobic gut fungal (AGF) component of the herbivorous gut microbiome remains poorly characterized. Here, to examine global patterns and determinants of AGF diversity, we generate and analyze an amplicon dataset from 661 fecal samples from 34 mammalian species, 9 families, and 6 continents. We identify 56 novel genera, greatly expanding AGF diversity beyond current estimates (31 genera and candidate genera). Community structure analysis indicates that host phylogenetic affiliation, not domestication status and biogeography, shapes the community rather than. Fungal-host associations are stronger and more specific in hindgut fermenters than in foregut fermenters. Transcriptomics-enabled phylogenomic and molecular clock analyses of 52 strains from 14 genera indicate that most genera with preferences for hindgut hosts evolved earlier (44-58 Mya) than those with preferences for foregut hosts (22-32 Mya). Our results greatly expand the documented scope of AGF diversity and provide an ecologically and evolutionary-grounded model to explain the observed patterns of AGF diversity in extant animal hosts.
+## Patterns and determinants of the global herbivorous mycobiome
 
 [Source](https://doi.org/10.1038/s41467-023-39508-z)
-
-10.1038/s41467-023-39508-z
 
 ---
 
