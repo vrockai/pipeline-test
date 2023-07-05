@@ -204,15 +204,9 @@ Calorie restriction (CR) can prolong human lifespan, but enforcing long-term CR 
 
 ---
 
-## Tutorial: integrative computational analysis of bulk RNA-sequencing data to characterize tumor immunity using RIMA.
- 30.06.2023, _L Yang, J Wang, J Altreuter, A Jhaveri, CJ Wong, L Song, J Fu, L Taing, S Bodapati, A Sahu, C Tokheim, Y Zhang, Z Zeng, G Bai, M Tang, X Qiu, HW Long, F Michor, Y Liu, XS Liu_
-
-
-RNA-sequencing (RNA-seq) has become an increasingly cost-effective technique for molecular profiling and immune characterization of tumors. In the past decade, many computational tools have been developed to characterize tumor immunity from gene expression data. However, the analysis of large-scale RNA-seq data requires bioinformatics proficiency, large computational resources and cancer genomics and immunology knowledge. In this tutorial, we provide an overview of computational analysis of bulk RNA-seq data for immune characterization of tumors and introduce commonly used computational tools with relevance to cancer immunology and immunotherapy. These tools have diverse functions such as evaluation of expression signatures, estimation of immune infiltration, inference of the immune repertoire, prediction of immunotherapy response, neoantigen detection and microbiome quantification. We describe the RNA-seq IMmune Analysis (RIMA) pipeline integrating many of these tools to streamline RNA-seq analysis. We also developed a comprehensive and user-friendly guide in the form of a GitBook with text and video demos to assist users in analyzing bulk RNA-seq data for immune characterization at both individual sample and cohort levels by using RIMA.
+## Tutorial: integrative computational analysis of bulk RNA-sequencing data to characterize tumor immunity using RIMA
 
 [Source](https://doi.org/10.1038/s41596-023-00841-8)
-
-10.1038/s41596-023-00841-8
 
 ---
 
