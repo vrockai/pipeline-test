@@ -42,7 +42,7 @@ Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterized by
 ---
 
 ## Human gut bacteria tailor extracellular vesicle cargo for the breakdown of diet- and host-derived glycans.
- 29.06.2023, _MG Sartorio, EJ Pardue, NE Scott, MF Feldman_
+ 05.07.2023, _MG Sartorio, EJ Pardue, NE Scott, MF Feldman_
 
 
 _Humans, Proteomics, Extracellular Vesicles, Bacteroides thetaiotaomicron, Diet, Polysaccharides, Bacterial Outer Membrane Proteins_
@@ -176,15 +176,9 @@ Despite their role in host nutrition, the anaerobic gut fungal (AGF) component o
 
 ---
 
-## Core community drives phyllosphere bacterial diversity and function in multiple ecosystems.
- 30.06.2023, _R Xue, S Liu, E Stirling, Y Wang, K Zhao, H Matsumoto, M Wang, J Xu, B Ma_
-
-
-The phyllosphere provides a habitat for a large sum of microorganisms which are modulated by numerous biotic and abiotic factors. While it is logical that host lineage must have some effect on the phyllosphere habitat, it is unclear if phyllospheres harbor similar microbial core communities across multiple ecosystems at the continental-scale. Here we collected 287 phyllosphere bacterial communities from seven ecosystems (including paddy field, dryland, urban area, protected agricultural land, forest, wetland, and grassland) in east-China to identify the regional core community and to characterize the importance of such communities in maintaining phyllosphere bacterial community structure and function. Despite significantly different bacterial richness and structure, the seven studied ecosystems contained a similar regional core community of 29 OTUs that comprised 44.9 % of the total bacterial abundance. The regional core community was less affected by environmental variables and less connected in the co-occurrence network compared with other non-core OTUs (the whole minus regional core community). Furthermore, the regional core community also had a large proportion (&gt;50 %) of a constrained set of nutrient metabolism related functional potentials and less functional redundancy. This study suggests there is a robust regional core phyllosphere community regardless of ecosystem or spatial and environmental heterogeneity, and supports the argument that core communities are pivotal in maintaining microbial community structure and function.
+## Core community drives phyllosphere bacterial diversity and function in multiple ecosystems
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.165187)
-
-10.1016/j.scitotenv.2023.165187
 
 ---
 
