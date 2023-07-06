@@ -126,29 +126,15 @@ Calorie restriction (CR) can prolong human lifespan, but enforcing long-term CR 
 
 ---
 
-## Effect of prebiotics, probiotics, synbiotics on depression: results from a meta-analysis.
- 03.07.2023, _Q Zhang, B Chen, J Zhang, J Dong, J Ma, Y Zhang, K Jin, J Lu_
-
-
-_Female, Humans, Prebiotics, Synbiotics, Depression, Probiotics, Databases, Factual, Randomized Controlled Trials as Topic_
-Accumulating studies have shown the effects of gut microbiota management tools in improving depression. We conducted a meta-analysis to evaluate the effects of prebiotics, probiotics, and synbiotics on patients with depression. We searched six databases up to July 2022. In total, 13 randomized controlled trials (RCTs) with 786 participants were included. The overall results demonstrated that patients who received prebiotics, probiotics or synbiotics had significantly improved symptoms of depression compared with those in the placebo group. However, subgroup analysis only confirmed the significant antidepressant effects of agents that contained probiotics. In addition, patients with mild or moderate depression could both benefit from the treatment. Studies with a lower proportion of females reported stronger effects for alleviating depressive symptoms. In conclusion, agents that manipulate gut microbiota might improve mild-to-moderate depression. It is necessary to further investigate the benefits of prebiotic, probiotic and synbiotic treatments relative to antidepressants and follow up with individuals over a longer time before these therapies are implemented in clinical practice.
+## Effect of prebiotics, probiotics, synbiotics on depression: results from a meta-analysis
 
 [Source](https://doi.org/10.1186/s12888-023-04963-x)
 
-10.1186/s12888-023-04963-x
-
 ---
 
-## Patterns and determinants of the global herbivorous mycobiome.
- 01.07.2023, _CH Meili, AL Jones, AX Arreola, J Habel, CJ Pratt, RA Hanafy, Y Wang, AS Yassin, MA TagElDein, CD Moon, PH Janssen, M Shrestha, P Rajbhandari, M Nagler, JM Vinzelj, SM Podmirseg, JE Stajich, AL Goetsch, J Hayes, D Young, K Fliegerova, DJ Grilli, R Vodička, G Moniello, S Mattiello, MT Kashef, YI Nagy, JA Edwards, SS Dagar, AP Foote, NH Youssef, MS Elshahed_
-
-
-_Animals, Mycobiome, Phylogeny, Feces, Digestive System, Biological Evolution, Mammals_
-Despite their role in host nutrition, the anaerobic gut fungal (AGF) component of the herbivorous gut microbiome remains poorly characterized. Here, to examine global patterns and determinants of AGF diversity, we generate and analyze an amplicon dataset from 661 fecal samples from 34 mammalian species, 9 families, and 6 continents. We identify 56 novel genera, greatly expanding AGF diversity beyond current estimates (31 genera and candidate genera). Community structure analysis indicates that host phylogenetic affiliation, not domestication status and biogeography, shapes the community rather than. Fungal-host associations are stronger and more specific in hindgut fermenters than in foregut fermenters. Transcriptomics-enabled phylogenomic and molecular clock analyses of 52 strains from 14 genera indicate that most genera with preferences for hindgut hosts evolved earlier (44-58 Mya) than those with preferences for foregut hosts (22-32 Mya). Our results greatly expand the documented scope of AGF diversity and provide an ecologically and evolutionary-grounded model to explain the observed patterns of AGF diversity in extant animal hosts.
+## Patterns and determinants of the global herbivorous mycobiome
 
 [Source](https://doi.org/10.1038/s41467-023-39508-z)
-
-10.1038/s41467-023-39508-z
 
 ---
 
@@ -188,41 +174,21 @@ Despite their role in host nutrition, the anaerobic gut fungal (AGF) component o
 
 ---
 
-## MetaPro: a scalable and reproducible data processing and analysis pipeline for metatranscriptomic investigation of microbial communities.
- 01.07.2023, _B Taj, M Adeolu, X Xiong, J Ang, N Nursimulu, J Parkinson_
-
-
-_Microbiota, Software, Algorithms, Bacteria, Genes, Bacterial_
-Whole microbiome RNASeq (metatranscriptomics) has emerged as a powerful technology to functionally interrogate microbial communities. A key challenge is how best to process, analyze, and interpret these complex datasets. In a typical application, a single metatranscriptomic dataset may comprise from tens to hundreds of millions of sequence reads. These reads must first be processed and filtered for low quality and potential contaminants, before being annotated with taxonomic and functional labels and subsequently collated to generate global bacterial gene expression profiles.
+## MetaPro: a scalable and reproducible data processing and analysis pipeline for metatranscriptomic investigation of microbial communities
 
 [Source](https://doi.org/10.1186/s40168-023-01562-6)
 
-10.1186/s40168-023-01562-6
-
 ---
 
-## Supervised learning and model analysis with compositional data.
- 30.06.2023, _S Huang, E Ailer, N Kilbertus, N Pfister_
-
-
-Supervised learning, such as regression and classification, is an essential tool for analyzing modern high-throughput sequencing data, for example in microbiome research. However, due to the compositionality and sparsity, existing techniques are often inadequate. Either they rely on extensions of the linear log-contrast model (which adjust for compositionality but cannot account for complex signals or sparsity) or they are based on black-box machine learning methods (which may capture useful signals, but lack interpretability due to the compositionality). We propose KernelBiome, a kernel-based nonparametric regression and classification framework for compositional data. It is tailored to sparse compositional data and is able to incorporate prior knowledge, such as phylogenetic structure. KernelBiome captures complex signals, including in the zero-structure, while automatically adapting model complexity. We demonstrate on par or improved predictive performance compared with state-of-the-art machine learning methods on 33 publicly available microbiome datasets. Additionally, our framework provides two key advantages: (i) We propose two novel quantities to interpret contributions of individual components and prove that they consistently estimate average perturbation effects of the conditional mean, extending the interpretability of linear log-contrast coefficients to nonparametric models. (ii) We show that the connection between kernels and distances aids interpretability and provides a data-driven embedding that can augment further analysis. KernelBiome is available as an open-source Python package on PyPI and at https://github.com/shimenghuang/KernelBiome.
+## Supervised learning and model analysis with compositional data
 
 [Source](https://doi.org/10.1371/journal.pcbi.1011240)
 
-10.1371/journal.pcbi.1011240
-
 ---
 
-## Bakdrive: identifying a minimum set of bacterial species driving interactions across multiple microbial communities.
- 04.07.2023, _Q Wang, M Nute, TJ Treangen_
-
-
-_Humans, Microbiota, Gastrointestinal Microbiome, Metagenome, Bacteria, Crohn Disease_
-Interactions among microbes within microbial communities have been shown to play crucial roles in human health. In spite of recent progress, low-level knowledge of bacteria driving microbial interactions within microbiomes remains unknown, limiting our ability to fully decipher and control microbial communities.
+## Bakdrive: identifying a minimum set of bacterial species driving interactions across multiple microbial communities
 
 [Source](https://doi.org/10.1093/bioinformatics/btad236)
-
-10.1093/bioinformatics/btad236
 
 ---
 
