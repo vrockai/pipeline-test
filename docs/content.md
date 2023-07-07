@@ -30,9 +30,10 @@ Infants receive their first bacteria from their birthing parent. This newly acqu
 ---
 
 ## Multi-level analysis of the gut-brain axis shows autism spectrum disorder-associated molecular and microbial profiles.
- 06.07.2023, _JT Morton, DM Jin, RH Mills, Y Shao, G Rahman, D McDonald, Q Zhu, M Balaban, Y Jiang, K Cantrell, A Gonzalez, J Carmel, LM Frankiensztajn, S Martin-Brevet, K Berding, BD Needham, MF Zurita, M David, OV Averina, AS Kovtun, A Noto, M Mussap, M Wang, DN Frank, E Li, W Zhou, V Fanos, VN Danilenko, DP Wall, P Cárdenas, ME Baldeón, S Jacquemont, O Koren, E Elliott, RJ Xavier, SK Mazmanian, R Knight, JA Gilbert, SM Donovan, TD Lawley, B Carpenter, R Bonneau, G Taroncher-Oldenburg_
+ 07.07.2023, _JT Morton, DM Jin, RH Mills, Y Shao, G Rahman, D McDonald, Q Zhu, M Balaban, Y Jiang, K Cantrell, A Gonzalez, J Carmel, LM Frankiensztajn, S Martin-Brevet, K Berding, BD Needham, MF Zurita, M David, OV Averina, AS Kovtun, A Noto, M Mussap, M Wang, DN Frank, E Li, W Zhou, V Fanos, VN Danilenko, DP Wall, P Cárdenas, ME Baldeón, S Jacquemont, O Koren, E Elliott, RJ Xavier, SK Mazmanian, R Knight, JA Gilbert, SM Donovan, TD Lawley, B Carpenter, R Bonneau, G Taroncher-Oldenburg_
 
 
+_Humans, Gastrointestinal Microbiome, Brain-Gut Axis, Autism Spectrum Disorder, Cross-Sectional Studies, Bayes Theorem, Reproducibility of Results, Cytokines_
 Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterized by heterogeneous cognitive, behavioral and communication impairments. Disruption of the gut-brain axis (GBA) has been implicated in ASD although with limited reproducibility across studies. In this study, we developed a Bayesian differential ranking algorithm to identify ASD-associated molecular and taxa profiles across 10 cross-sectional microbiome datasets and 15 other datasets, including dietary patterns, metabolomics, cytokine profiles and human brain gene expression profiles. We found a functional architecture along the GBA that correlates with heterogeneity of ASD phenotypes, and it is characterized by ASD-associated amino acid, carbohydrate and lipid profiles predominantly encoded by microbial species in the genera Prevotella, Bifidobacterium, Desulfovibrio and Bacteroides and correlates with brain gene expression changes, restrictive dietary patterns and pro-inflammatory cytokine profiles. The functional architecture revealed in age-matched and sex-matched cohorts is not present in sibling-matched cohorts. We also show a strong association between temporal changes in microbiome composition and ASD phenotypes. In summary, we propose a framework to leverage multi-omic datasets from well-defined cohorts and investigate how the GBA influences ASD.
 
 [Source](https://doi.org/10.1038/s41593-023-01361-0)
@@ -42,7 +43,7 @@ Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterized by
 ---
 
 ## Human gut bacteria tailor extracellular vesicle cargo for the breakdown of diet- and host-derived glycans.
- 06.07.2023, _MG Sartorio, EJ Pardue, NE Scott, MF Feldman_
+ 07.07.2023, _MG Sartorio, EJ Pardue, NE Scott, MF Feldman_
 
 
 _Humans, Proteomics, Extracellular Vesicles, Bacteroides thetaiotaomicron, Diet, Polysaccharides, Bacterial Outer Membrane Proteins_
@@ -132,9 +133,16 @@ Calorie restriction (CR) can prolong human lifespan, but enforcing long-term CR 
 
 ---
 
-## Patterns and determinants of the global herbivorous mycobiome
+## Patterns and determinants of the global herbivorous mycobiome.
+ 01.07.2023, _CH Meili, AL Jones, AX Arreola, J Habel, CJ Pratt, RA Hanafy, Y Wang, AS Yassin, MA TagElDein, CD Moon, PH Janssen, M Shrestha, P Rajbhandari, M Nagler, JM Vinzelj, SM Podmirseg, JE Stajich, AL Goetsch, J Hayes, D Young, K Fliegerova, DJ Grilli, R Vodička, G Moniello, S Mattiello, MT Kashef, YI Nagy, JA Edwards, SS Dagar, AP Foote, NH Youssef, MS Elshahed_
+
+
+_Animals, Mycobiome, Phylogeny, Feces, Digestive System, Biological Evolution, Mammals_
+Despite their role in host nutrition, the anaerobic gut fungal (AGF) component of the herbivorous gut microbiome remains poorly characterized. Here, to examine global patterns and determinants of AGF diversity, we generate and analyze an amplicon dataset from 661 fecal samples from 34 mammalian species, 9 families, and 6 continents. We identify 56 novel genera, greatly expanding AGF diversity beyond current estimates (31 genera and candidate genera). Community structure analysis indicates that host phylogenetic affiliation, not domestication status and biogeography, shapes the community rather than. Fungal-host associations are stronger and more specific in hindgut fermenters than in foregut fermenters. Transcriptomics-enabled phylogenomic and molecular clock analyses of 52 strains from 14 genera indicate that most genera with preferences for hindgut hosts evolved earlier (44-58 Mya) than those with preferences for foregut hosts (22-32 Mya). Our results greatly expand the documented scope of AGF diversity and provide an ecologically and evolutionary-grounded model to explain the observed patterns of AGF diversity in extant animal hosts.
 
 [Source](https://doi.org/10.1038/s41467-023-39508-z)
+
+10.1038/s41467-023-39508-z
 
 ---
 
@@ -162,9 +170,15 @@ Calorie restriction (CR) can prolong human lifespan, but enforcing long-term CR 
 
 ---
 
-## Core community drives phyllosphere bacterial diversity and function in multiple ecosystems
+## Core community drives phyllosphere bacterial diversity and function in multiple ecosystems.
+ 30.06.2023, _R Xue, S Liu, E Stirling, Y Wang, K Zhao, H Matsumoto, M Wang, J Xu, B Ma_
+
+
+The phyllosphere provides a habitat for a large sum of microorganisms which are modulated by numerous biotic and abiotic factors. While it is logical that host lineage must have some effect on the phyllosphere habitat, it is unclear if phyllospheres harbor similar microbial core communities across multiple ecosystems at the continental-scale. Here we collected 287 phyllosphere bacterial communities from seven ecosystems (including paddy field, dryland, urban area, protected agricultural land, forest, wetland, and grassland) in east-China to identify the regional core community and to characterize the importance of such communities in maintaining phyllosphere bacterial community structure and function. Despite significantly different bacterial richness and structure, the seven studied ecosystems contained a similar regional core community of 29 OTUs that comprised 44.9 % of the total bacterial abundance. The regional core community was less affected by environmental variables and less connected in the co-occurrence network compared with other non-core OTUs (the whole minus regional core community). Furthermore, the regional core community also had a large proportion (&gt;50 %) of a constrained set of nutrient metabolism related functional potentials and less functional redundancy. This study suggests there is a robust regional core phyllosphere community regardless of ecosystem or spatial and environmental heterogeneity, and supports the argument that core communities are pivotal in maintaining microbial community structure and function.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.165187)
+
+10.1016/j.scitotenv.2023.165187
 
 ---
 
@@ -174,39 +188,78 @@ Calorie restriction (CR) can prolong human lifespan, but enforcing long-term CR 
 
 ---
 
-## MetaPro: a scalable and reproducible data processing and analysis pipeline for metatranscriptomic investigation of microbial communities
+## MetaPro: a scalable and reproducible data processing and analysis pipeline for metatranscriptomic investigation of microbial communities.
+ 01.07.2023, _B Taj, M Adeolu, X Xiong, J Ang, N Nursimulu, J Parkinson_
+
+
+_Microbiota, Software, Algorithms, Bacteria, Genes, Bacterial_
+Whole microbiome RNASeq (metatranscriptomics) has emerged as a powerful technology to functionally interrogate microbial communities. A key challenge is how best to process, analyze, and interpret these complex datasets. In a typical application, a single metatranscriptomic dataset may comprise from tens to hundreds of millions of sequence reads. These reads must first be processed and filtered for low quality and potential contaminants, before being annotated with taxonomic and functional labels and subsequently collated to generate global bacterial gene expression profiles.
 
 [Source](https://doi.org/10.1186/s40168-023-01562-6)
 
+10.1186/s40168-023-01562-6
+
 ---
 
-## Supervised learning and model analysis with compositional data
+## Supervised learning and model analysis with compositional data.
+ 30.06.2023, _S Huang, E Ailer, N Kilbertus, N Pfister_
+
+
+Supervised learning, such as regression and classification, is an essential tool for analyzing modern high-throughput sequencing data, for example in microbiome research. However, due to the compositionality and sparsity, existing techniques are often inadequate. Either they rely on extensions of the linear log-contrast model (which adjust for compositionality but cannot account for complex signals or sparsity) or they are based on black-box machine learning methods (which may capture useful signals, but lack interpretability due to the compositionality). We propose KernelBiome, a kernel-based nonparametric regression and classification framework for compositional data. It is tailored to sparse compositional data and is able to incorporate prior knowledge, such as phylogenetic structure. KernelBiome captures complex signals, including in the zero-structure, while automatically adapting model complexity. We demonstrate on par or improved predictive performance compared with state-of-the-art machine learning methods on 33 publicly available microbiome datasets. Additionally, our framework provides two key advantages: (i) We propose two novel quantities to interpret contributions of individual components and prove that they consistently estimate average perturbation effects of the conditional mean, extending the interpretability of linear log-contrast coefficients to nonparametric models. (ii) We show that the connection between kernels and distances aids interpretability and provides a data-driven embedding that can augment further analysis. KernelBiome is available as an open-source Python package on PyPI and at https://github.com/shimenghuang/KernelBiome.
 
 [Source](https://doi.org/10.1371/journal.pcbi.1011240)
 
+10.1371/journal.pcbi.1011240
+
 ---
 
-## Bakdrive: identifying a minimum set of bacterial species driving interactions across multiple microbial communities
+## Bakdrive: identifying a minimum set of bacterial species driving interactions across multiple microbial communities.
+ 04.07.2023, _Q Wang, M Nute, TJ Treangen_
+
+
+_Humans, Microbiota, Gastrointestinal Microbiome, Metagenome, Bacteria, Crohn Disease_
+Interactions among microbes within microbial communities have been shown to play crucial roles in human health. In spite of recent progress, low-level knowledge of bacteria driving microbial interactions within microbiomes remains unknown, limiting our ability to fully decipher and control microbial communities.
 
 [Source](https://doi.org/10.1093/bioinformatics/btad236)
 
+10.1093/bioinformatics/btad236
+
 ---
 
-## Creation of a milk oligosaccharide database, MilkOligoDB, reveals common structural motifs and extensive diversity across mammals
+## Creation of a milk oligosaccharide database, MilkOligoDB, reveals common structural motifs and extensive diversity across mammals.
+ 01.07.2023, _SD Durham, Z Wei, DG Lemay, MC Lange, D Barile_
+
+
+_Infant, Newborn, Animals, Humans, Milk, Milk, Human, Mammals, Elephants, Oligosaccharides, Monosaccharides, Pan troglodytes_
+The carbohydrate fraction of most mammalian milks contains a variety of oligosaccharides that encompass a range of structures and monosaccharide compositions. Human milk oligosaccharides have received considerable attention due to their biological roles in neonatal gut microbiota, immunomodulation, and brain development. However, a major challenge in understanding the biology of milk oligosaccharides across other mammals is that reports span more than 5 decades of publications with varying data reporting methods. In the present study, publications on milk oligosaccharide profiles were identified and harmonized into a standardized format to create a comprehensive, machine-readable database of milk oligosaccharides across mammalian species. The resulting database, MilkOligoDB, includes 3193 entries for 783 unique oligosaccharide structures from the milk of 77 different species harvested from 113 publications. Cross-species and cross-publication comparisons of milk oligosaccharide profiles reveal common structural motifs within mammalian orders. Of the species studied, only chimpanzees, bonobos, and Asian elephants share the specific combination of fucosylation, sialylation, and core structures that are characteristic of human milk oligosaccharides. However, agriculturally important species do produce diverse oligosaccharides that may be valuable for human supplementation. Overall, MilkOligoDB facilitates cross-species and cross-publication comparisons of milk oligosaccharide profiles and the generation of new data-driven hypotheses for future research.
 
 [Source](https://doi.org/10.1038/s41598-023-36866-y)
 
+10.1038/s41598-023-36866-y
+
 ---
 
-## Genetic Engineering of Resident Bacteria in the Gut Microbiome
+## Genetic Engineering of Resident Bacteria in the Gut Microbiome.
+ 29.06.2023, _J Arnold, J Glazier, M Mimee_
+
+
+Techniques by which to genetically manipulate members of the microbiota enable both the evaluation of host-microbe interactions and an avenue by which to monitor and modulate human physiology. Genetic engineering applications have traditionally focused on model gut residents, such as Escherichia coli and lactic acid bacteria. However, emerging efforts by which to develop synthetic biology toolsets for "nonmodel" resident gut microbes could provide an improved foundation for microbiome engineering. As genome engineering tools come online, so too have novel applications for engineered gut microbes. Engineered resident gut bacteria facilitate investigations of the roles of microbes and their metabolites on host health and allow for potential live microbial biotherapeutics. Due to the rapid pace of discovery in this burgeoning field, this minireview highlights advancements in the genetic engineering of all resident gut microbes.
 
 [Source](https://doi.org/10.1128/jb.00127-23)
 
+10.1128/jb.00127-23
+
 ---
 
-## Tutorial: integrative computational analysis of bulk RNA-sequencing data to characterize tumor immunity using RIMA
+## Tutorial: integrative computational analysis of bulk RNA-sequencing data to characterize tumor immunity using RIMA.
+ 30.06.2023, _L Yang, J Wang, J Altreuter, A Jhaveri, CJ Wong, L Song, J Fu, L Taing, S Bodapati, A Sahu, C Tokheim, Y Zhang, Z Zeng, G Bai, M Tang, X Qiu, HW Long, F Michor, Y Liu, XS Liu_
+
+
+RNA-sequencing (RNA-seq) has become an increasingly cost-effective technique for molecular profiling and immune characterization of tumors. In the past decade, many computational tools have been developed to characterize tumor immunity from gene expression data. However, the analysis of large-scale RNA-seq data requires bioinformatics proficiency, large computational resources and cancer genomics and immunology knowledge. In this tutorial, we provide an overview of computational analysis of bulk RNA-seq data for immune characterization of tumors and introduce commonly used computational tools with relevance to cancer immunology and immunotherapy. These tools have diverse functions such as evaluation of expression signatures, estimation of immune infiltration, inference of the immune repertoire, prediction of immunotherapy response, neoantigen detection and microbiome quantification. We describe the RNA-seq IMmune Analysis (RIMA) pipeline integrating many of these tools to streamline RNA-seq analysis. We also developed a comprehensive and user-friendly guide in the form of a GitBook with text and video demos to assist users in analyzing bulk RNA-seq data for immune characterization at both individual sample and cohort levels by using RIMA.
 
 [Source](https://doi.org/10.1038/s41596-023-00841-8)
+
+10.1038/s41596-023-00841-8
 
 ---
 
