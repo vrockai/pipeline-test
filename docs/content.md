@@ -187,27 +187,53 @@ Calorie restriction (CR) can prolong human lifespan, but enforcing long-term CR 
 
 ---
 
-## Bakdrive: identifying a minimum set of bacterial species driving interactions across multiple microbial communities
+## Bakdrive: identifying a minimum set of bacterial species driving interactions across multiple microbial communities.
+ 04.07.2023, _Q Wang, M Nute, TJ Treangen_
+
+
+_Humans, Microbiota, Gastrointestinal Microbiome, Metagenome, Bacteria, Crohn Disease_
+Interactions among microbes within microbial communities have been shown to play crucial roles in human health. In spite of recent progress, low-level knowledge of bacteria driving microbial interactions within microbiomes remains unknown, limiting our ability to fully decipher and control microbial communities.
 
 [Source](https://doi.org/10.1093/bioinformatics/btad236)
 
+10.1093/bioinformatics/btad236
+
 ---
 
-## Creation of a milk oligosaccharide database, MilkOligoDB, reveals common structural motifs and extensive diversity across mammals
+## Creation of a milk oligosaccharide database, MilkOligoDB, reveals common structural motifs and extensive diversity across mammals.
+ 01.07.2023, _SD Durham, Z Wei, DG Lemay, MC Lange, D Barile_
+
+
+_Infant, Newborn, Animals, Humans, Milk, Milk, Human, Mammals, Elephants, Oligosaccharides, Monosaccharides, Pan troglodytes_
+The carbohydrate fraction of most mammalian milks contains a variety of oligosaccharides that encompass a range of structures and monosaccharide compositions. Human milk oligosaccharides have received considerable attention due to their biological roles in neonatal gut microbiota, immunomodulation, and brain development. However, a major challenge in understanding the biology of milk oligosaccharides across other mammals is that reports span more than 5 decades of publications with varying data reporting methods. In the present study, publications on milk oligosaccharide profiles were identified and harmonized into a standardized format to create a comprehensive, machine-readable database of milk oligosaccharides across mammalian species. The resulting database, MilkOligoDB, includes 3193 entries for 783 unique oligosaccharide structures from the milk of 77 different species harvested from 113 publications. Cross-species and cross-publication comparisons of milk oligosaccharide profiles reveal common structural motifs within mammalian orders. Of the species studied, only chimpanzees, bonobos, and Asian elephants share the specific combination of fucosylation, sialylation, and core structures that are characteristic of human milk oligosaccharides. However, agriculturally important species do produce diverse oligosaccharides that may be valuable for human supplementation. Overall, MilkOligoDB facilitates cross-species and cross-publication comparisons of milk oligosaccharide profiles and the generation of new data-driven hypotheses for future research.
 
 [Source](https://doi.org/10.1038/s41598-023-36866-y)
 
+10.1038/s41598-023-36866-y
+
 ---
 
-## Genetic Engineering of Resident Bacteria in the Gut Microbiome
+## Genetic Engineering of Resident Bacteria in the Gut Microbiome.
+ 29.06.2023, _J Arnold, J Glazier, M Mimee_
+
+
+Techniques by which to genetically manipulate members of the microbiota enable both the evaluation of host-microbe interactions and an avenue by which to monitor and modulate human physiology. Genetic engineering applications have traditionally focused on model gut residents, such as Escherichia coli and lactic acid bacteria. However, emerging efforts by which to develop synthetic biology toolsets for "nonmodel" resident gut microbes could provide an improved foundation for microbiome engineering. As genome engineering tools come online, so too have novel applications for engineered gut microbes. Engineered resident gut bacteria facilitate investigations of the roles of microbes and their metabolites on host health and allow for potential live microbial biotherapeutics. Due to the rapid pace of discovery in this burgeoning field, this minireview highlights advancements in the genetic engineering of all resident gut microbes.
 
 [Source](https://doi.org/10.1128/jb.00127-23)
 
+10.1128/jb.00127-23
+
 ---
 
-## Tutorial: integrative computational analysis of bulk RNA-sequencing data to characterize tumor immunity using RIMA
+## Tutorial: integrative computational analysis of bulk RNA-sequencing data to characterize tumor immunity using RIMA.
+ 30.06.2023, _L Yang, J Wang, J Altreuter, A Jhaveri, CJ Wong, L Song, J Fu, L Taing, S Bodapati, A Sahu, C Tokheim, Y Zhang, Z Zeng, G Bai, M Tang, X Qiu, HW Long, F Michor, Y Liu, XS Liu_
+
+
+RNA-sequencing (RNA-seq) has become an increasingly cost-effective technique for molecular profiling and immune characterization of tumors. In the past decade, many computational tools have been developed to characterize tumor immunity from gene expression data. However, the analysis of large-scale RNA-seq data requires bioinformatics proficiency, large computational resources and cancer genomics and immunology knowledge. In this tutorial, we provide an overview of computational analysis of bulk RNA-seq data for immune characterization of tumors and introduce commonly used computational tools with relevance to cancer immunology and immunotherapy. These tools have diverse functions such as evaluation of expression signatures, estimation of immune infiltration, inference of the immune repertoire, prediction of immunotherapy response, neoantigen detection and microbiome quantification. We describe the RNA-seq IMmune Analysis (RIMA) pipeline integrating many of these tools to streamline RNA-seq analysis. We also developed a comprehensive and user-friendly guide in the form of a GitBook with text and video demos to assist users in analyzing bulk RNA-seq data for immune characterization at both individual sample and cohort levels by using RIMA.
 
 [Source](https://doi.org/10.1038/s41596-023-00841-8)
+
+10.1038/s41596-023-00841-8
 
 ---
 
