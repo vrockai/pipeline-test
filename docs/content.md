@@ -187,16 +187,9 @@ Calorie restriction (CR) can prolong human lifespan, but enforcing long-term CR 
 
 ---
 
-## Bakdrive: identifying a minimum set of bacterial species driving interactions across multiple microbial communities.
- 04.07.2023, _Q Wang, M Nute, TJ Treangen_
-
-
-_Humans, Microbiota, Gastrointestinal Microbiome, Metagenome, Bacteria, Crohn Disease_
-Interactions among microbes within microbial communities have been shown to play crucial roles in human health. In spite of recent progress, low-level knowledge of bacteria driving microbial interactions within microbiomes remains unknown, limiting our ability to fully decipher and control microbial communities.
+## Bakdrive: identifying a minimum set of bacterial species driving interactions across multiple microbial communities
 
 [Source](https://doi.org/10.1093/bioinformatics/btad236)
-
-10.1093/bioinformatics/btad236
 
 ---
 
