@@ -30,7 +30,7 @@ Infants receive their first bacteria from their birthing parent. This newly acqu
 ---
 
 ## Multi-level analysis of the gut-brain axis shows autism spectrum disorder-associated molecular and microbial profiles.
- 07.07.2023, _JT Morton, DM Jin, RH Mills, Y Shao, G Rahman, D McDonald, Q Zhu, M Balaban, Y Jiang, K Cantrell, A Gonzalez, J Carmel, LM Frankiensztajn, S Martin-Brevet, K Berding, BD Needham, MF Zurita, M David, OV Averina, AS Kovtun, A Noto, M Mussap, M Wang, DN Frank, E Li, W Zhou, V Fanos, VN Danilenko, DP Wall, P Cárdenas, ME Baldeón, S Jacquemont, O Koren, E Elliott, RJ Xavier, SK Mazmanian, R Knight, JA Gilbert, SM Donovan, TD Lawley, B Carpenter, R Bonneau, G Taroncher-Oldenburg_
+ 08.07.2023, _JT Morton, DM Jin, RH Mills, Y Shao, G Rahman, D McDonald, Q Zhu, M Balaban, Y Jiang, K Cantrell, A Gonzalez, J Carmel, LM Frankiensztajn, S Martin-Brevet, K Berding, BD Needham, MF Zurita, M David, OV Averina, AS Kovtun, A Noto, M Mussap, M Wang, DN Frank, E Li, W Zhou, V Fanos, VN Danilenko, DP Wall, P Cárdenas, ME Baldeón, S Jacquemont, O Koren, E Elliott, RJ Xavier, SK Mazmanian, R Knight, JA Gilbert, SM Donovan, TD Lawley, B Carpenter, R Bonneau, G Taroncher-Oldenburg_
 
 
 _Humans, Gastrointestinal Microbiome, Brain-Gut Axis, Autism Spectrum Disorder, Cross-Sectional Studies, Bayes Theorem, Reproducibility of Results, Cytokines_
@@ -127,16 +127,9 @@ Calorie restriction (CR) can prolong human lifespan, but enforcing long-term CR 
 
 ---
 
-## Effect of prebiotics, probiotics, synbiotics on depression: results from a meta-analysis.
- 05.07.2023, _Q Zhang, B Chen, J Zhang, J Dong, J Ma, Y Zhang, K Jin, J Lu_
-
-
-_Female, Humans, Databases, Factual, Depression, Prebiotics, Probiotics, Randomized Controlled Trials as Topic, Synbiotics, Male_
-Accumulating studies have shown the effects of gut microbiota management tools in improving depression. We conducted a meta-analysis to evaluate the effects of prebiotics, probiotics, and synbiotics on patients with depression. We searched six databases up to July 2022. In total, 13 randomized controlled trials (RCTs) with 786 participants were included. The overall results demonstrated that patients who received prebiotics, probiotics or synbiotics had significantly improved symptoms of depression compared with those in the placebo group. However, subgroup analysis only confirmed the significant antidepressant effects of agents that contained probiotics. In addition, patients with mild or moderate depression could both benefit from the treatment. Studies with a lower proportion of females reported stronger effects for alleviating depressive symptoms. In conclusion, agents that manipulate gut microbiota might improve mild-to-moderate depression. It is necessary to further investigate the benefits of prebiotic, probiotic and synbiotic treatments relative to antidepressants and follow up with individuals over a longer time before these therapies are implemented in clinical practice.
+## Effect of prebiotics, probiotics, synbiotics on depression: results from a meta-analysis
 
 [Source](https://doi.org/10.1186/s12888-023-04963-x)
-
-10.1186/s12888-023-04963-x
 
 ---
 
