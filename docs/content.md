@@ -133,9 +133,16 @@ Calorie restriction (CR) can prolong human lifespan, but enforcing long-term CR 
 
 ---
 
-## Patterns and determinants of the global herbivorous mycobiome
+## Patterns and determinants of the global herbivorous mycobiome.
+ 01.07.2023, _CH Meili, AL Jones, AX Arreola, J Habel, CJ Pratt, RA Hanafy, Y Wang, AS Yassin, MA TagElDein, CD Moon, PH Janssen, M Shrestha, P Rajbhandari, M Nagler, JM Vinzelj, SM Podmirseg, JE Stajich, AL Goetsch, J Hayes, D Young, K Fliegerova, DJ Grilli, R Vodička, G Moniello, S Mattiello, MT Kashef, YI Nagy, JA Edwards, SS Dagar, AP Foote, NH Youssef, MS Elshahed_
+
+
+_Animals, Mycobiome, Phylogeny, Feces, Digestive System, Biological Evolution, Mammals_
+Despite their role in host nutrition, the anaerobic gut fungal (AGF) component of the herbivorous gut microbiome remains poorly characterized. Here, to examine global patterns and determinants of AGF diversity, we generate and analyze an amplicon dataset from 661 fecal samples from 34 mammalian species, 9 families, and 6 continents. We identify 56 novel genera, greatly expanding AGF diversity beyond current estimates (31 genera and candidate genera). Community structure analysis indicates that host phylogenetic affiliation, not domestication status and biogeography, shapes the community rather than. Fungal-host associations are stronger and more specific in hindgut fermenters than in foregut fermenters. Transcriptomics-enabled phylogenomic and molecular clock analyses of 52 strains from 14 genera indicate that most genera with preferences for hindgut hosts evolved earlier (44-58 Mya) than those with preferences for foregut hosts (22-32 Mya). Our results greatly expand the documented scope of AGF diversity and provide an ecologically and evolutionary-grounded model to explain the observed patterns of AGF diversity in extant animal hosts.
 
 [Source](https://doi.org/10.1038/s41467-023-39508-z)
+
+10.1038/s41467-023-39508-z
 
 ---
 
@@ -163,9 +170,15 @@ Calorie restriction (CR) can prolong human lifespan, but enforcing long-term CR 
 
 ---
 
-## Core community drives phyllosphere bacterial diversity and function in multiple ecosystems
+## Core community drives phyllosphere bacterial diversity and function in multiple ecosystems.
+ 30.06.2023, _R Xue, S Liu, E Stirling, Y Wang, K Zhao, H Matsumoto, M Wang, J Xu, B Ma_
+
+
+The phyllosphere provides a habitat for a large sum of microorganisms which are modulated by numerous biotic and abiotic factors. While it is logical that host lineage must have some effect on the phyllosphere habitat, it is unclear if phyllospheres harbor similar microbial core communities across multiple ecosystems at the continental-scale. Here we collected 287 phyllosphere bacterial communities from seven ecosystems (including paddy field, dryland, urban area, protected agricultural land, forest, wetland, and grassland) in east-China to identify the regional core community and to characterize the importance of such communities in maintaining phyllosphere bacterial community structure and function. Despite significantly different bacterial richness and structure, the seven studied ecosystems contained a similar regional core community of 29 OTUs that comprised 44.9 % of the total bacterial abundance. The regional core community was less affected by environmental variables and less connected in the co-occurrence network compared with other non-core OTUs (the whole minus regional core community). Furthermore, the regional core community also had a large proportion (&gt;50 %) of a constrained set of nutrient metabolism related functional potentials and less functional redundancy. This study suggests there is a robust regional core phyllosphere community regardless of ecosystem or spatial and environmental heterogeneity, and supports the argument that core communities are pivotal in maintaining microbial community structure and function.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.165187)
+
+10.1016/j.scitotenv.2023.165187
 
 ---
 
@@ -175,15 +188,28 @@ Calorie restriction (CR) can prolong human lifespan, but enforcing long-term CR 
 
 ---
 
-## MetaPro: a scalable and reproducible data processing and analysis pipeline for metatranscriptomic investigation of microbial communities
+## MetaPro: a scalable and reproducible data processing and analysis pipeline for metatranscriptomic investigation of microbial communities.
+ 01.07.2023, _B Taj, M Adeolu, X Xiong, J Ang, N Nursimulu, J Parkinson_
+
+
+_Microbiota, Software, Algorithms, Bacteria, Genes, Bacterial_
+Whole microbiome RNASeq (metatranscriptomics) has emerged as a powerful technology to functionally interrogate microbial communities. A key challenge is how best to process, analyze, and interpret these complex datasets. In a typical application, a single metatranscriptomic dataset may comprise from tens to hundreds of millions of sequence reads. These reads must first be processed and filtered for low quality and potential contaminants, before being annotated with taxonomic and functional labels and subsequently collated to generate global bacterial gene expression profiles.
 
 [Source](https://doi.org/10.1186/s40168-023-01562-6)
 
+10.1186/s40168-023-01562-6
+
 ---
 
-## Supervised learning and model analysis with compositional data
+## Supervised learning and model analysis with compositional data.
+ 30.06.2023, _S Huang, E Ailer, N Kilbertus, N Pfister_
+
+
+Supervised learning, such as regression and classification, is an essential tool for analyzing modern high-throughput sequencing data, for example in microbiome research. However, due to the compositionality and sparsity, existing techniques are often inadequate. Either they rely on extensions of the linear log-contrast model (which adjust for compositionality but cannot account for complex signals or sparsity) or they are based on black-box machine learning methods (which may capture useful signals, but lack interpretability due to the compositionality). We propose KernelBiome, a kernel-based nonparametric regression and classification framework for compositional data. It is tailored to sparse compositional data and is able to incorporate prior knowledge, such as phylogenetic structure. KernelBiome captures complex signals, including in the zero-structure, while automatically adapting model complexity. We demonstrate on par or improved predictive performance compared with state-of-the-art machine learning methods on 33 publicly available microbiome datasets. Additionally, our framework provides two key advantages: (i) We propose two novel quantities to interpret contributions of individual components and prove that they consistently estimate average perturbation effects of the conditional mean, extending the interpretability of linear log-contrast coefficients to nonparametric models. (ii) We show that the connection between kernels and distances aids interpretability and provides a data-driven embedding that can augment further analysis. KernelBiome is available as an open-source Python package on PyPI and at https://github.com/shimenghuang/KernelBiome.
 
 [Source](https://doi.org/10.1371/journal.pcbi.1011240)
+
+10.1371/journal.pcbi.1011240
 
 ---
 
