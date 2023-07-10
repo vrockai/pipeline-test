@@ -16,15 +16,21 @@
 
 ---
 
-## Physical Activity as an Adjunct Treatment for People Living with HIV?
- 10.07.2023, _E Enichen, RB Adams, B Demmig-Adams_
+## 11<sup>th</sup>&nbsp;Microbiome R&amp;D and Business Collaboration Forum and 5<sup>th</sup>&nbsp;Probiotics &amp; Prebiotics Congress: USA
+
+[Source](https://www.global-engage.com/event/microbiome/)
+
+---
+
+## Effects of high-/low-temperature and high-altitude hypoxic environments on gut microbiota of sports people: A retrospective analysis.
+ 10.07.2023, _X Geng, C Qu, L Zhao, J Zhang, P Huang, D Gao, Q Wei, F Qin, J Zhao_
 
 
-This review evaluates physical activity as a candidate for an adjunct treatment, in conjunction with antiretroviral therapy (ART), for people living with HIV (PLWH). Evidence is summarized that chronic, non-resolving inflammation (a principal feature of immune system dysfunction) and a dysfunctional state of the gut environment are key factors in HIV infection that persist despite treatment with ART. In addition, evidence is summarized that regular physical activity may restore normal function of both the immune system and the gut environment and may thereby ameliorate symptoms and non-resolving inflammation-associated comorbidities that burden PLWH. Physicians who care for PLWH could thus consider incorporating physical activity into treatment plans to complement ART. It is also discussed that different types of physical activity can have different effects on the gut environment and immune function, and that future research should establish more specific criteria for the design of exercise regimens tailored to PLWH.
+As an invisible "endocrine organ", gut microbiota is widely involved in the regulation of nervous system, endocrine system, circulatory system, and digestive system. It is also closely related to host health and the occurrence of many chronic diseases. Relevant literature shows that high temperature, low temperature, and high-altitude hypoxia may have negative effects on commensal microorganisms. The stimulation of exercise may aggravate this reaction, which is related to the occurrence of exercise-induced fever and gastrointestinal and respiratory diseases. The intervention of probiotics can alleviate the above problems to a certain extent. Therefore, this paper takes exercise in a special environment as the starting point, deeply analyses the intervention effect and potential mechanism of probiotics, and provides the theoretical basis and reference for follow-up research and application of probiotics in sports science.
 
 [Source](https://doi.org/10.1126/science.adi6329)
 
-10.1177/15598276221078222
+10.1016/j.smhs.2023.03.003
 
 ---
 
@@ -291,7 +297,7 @@ With the concomitant advances in both the microbiome and machine learning fields
 ---
 
 ## Integrative meta-omics in Galaxy and beyond.
- 09.07.2023, _VC Schiml, F Delogu, P Kumar, B Kunath, B Batut, S Mehta, JE Johnson, B Grüning, PB Pope, PD Jagtap, TJ Griffin, MØ Arntzen_
+ 10.07.2023, _VC Schiml, F Delogu, P Kumar, B Kunath, B Batut, S Mehta, JE Johnson, B Grüning, PB Pope, PD Jagtap, TJ Griffin, MØ Arntzen_
 
 
 'Omics methods have empowered scientists to tackle the complexity of microbial communities on a scale not attainable before. Individually, omics analyses can provide great insight; while combined as "meta-omics", they enhance the understanding of which organisms occupy specific metabolic niches, how they interact, and how they utilize environmental nutrients. Here we present three integrative meta-omics workflows, developed in Galaxy, for enhanced analysis and integration of metagenomics, metatranscriptomics, and metaproteomics, combined with our newly developed web-application, ViMO (Visualizer for Meta-Omics) to analyse metabolisms in complex microbial communities.
