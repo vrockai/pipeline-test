@@ -177,15 +177,9 @@ Despite their role in host nutrition, the anaerobic gut fungal (AGF) component o
 
 ---
 
-## Core community drives phyllosphere bacterial diversity and function in multiple ecosystems.
- 30.06.2023, _R Xue, S Liu, E Stirling, Y Wang, K Zhao, H Matsumoto, M Wang, J Xu, B Ma_
-
-
-The phyllosphere provides a habitat for a large sum of microorganisms which are modulated by numerous biotic and abiotic factors. While it is logical that host lineage must have some effect on the phyllosphere habitat, it is unclear if phyllospheres harbor similar microbial core communities across multiple ecosystems at the continental-scale. Here we collected 287 phyllosphere bacterial communities from seven ecosystems (including paddy field, dryland, urban area, protected agricultural land, forest, wetland, and grassland) in east-China to identify the regional core community and to characterize the importance of such communities in maintaining phyllosphere bacterial community structure and function. Despite significantly different bacterial richness and structure, the seven studied ecosystems contained a similar regional core community of 29 OTUs that comprised 44.9 % of the total bacterial abundance. The regional core community was less affected by environmental variables and less connected in the co-occurrence network compared with other non-core OTUs (the whole minus regional core community). Furthermore, the regional core community also had a large proportion (&gt;50 %) of a constrained set of nutrient metabolism related functional potentials and less functional redundancy. This study suggests there is a robust regional core phyllosphere community regardless of ecosystem or spatial and environmental heterogeneity, and supports the argument that core communities are pivotal in maintaining microbial community structure and function.
+## Core community drives phyllosphere bacterial diversity and function in multiple ecosystems
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.165187)
-
-10.1016/j.scitotenv.2023.165187
 
 ---
 
@@ -195,66 +189,33 @@ The phyllosphere provides a habitat for a large sum of microorganisms which are 
 
 ---
 
-## MetaPro: a scalable and reproducible data processing and analysis pipeline for metatranscriptomic investigation of microbial communities.
- 01.07.2023, _B Taj, M Adeolu, X Xiong, J Ang, N Nursimulu, J Parkinson_
-
-
-_Microbiota, Software, Algorithms, Bacteria, Genes, Bacterial_
-Whole microbiome RNASeq (metatranscriptomics) has emerged as a powerful technology to functionally interrogate microbial communities. A key challenge is how best to process, analyze, and interpret these complex datasets. In a typical application, a single metatranscriptomic dataset may comprise from tens to hundreds of millions of sequence reads. These reads must first be processed and filtered for low quality and potential contaminants, before being annotated with taxonomic and functional labels and subsequently collated to generate global bacterial gene expression profiles.
+## MetaPro: a scalable and reproducible data processing and analysis pipeline for metatranscriptomic investigation of microbial communities
 
 [Source](https://doi.org/10.1186/s40168-023-01562-6)
 
-10.1186/s40168-023-01562-6
-
 ---
 
-## Supervised learning and model analysis with compositional data.
- 30.06.2023, _S Huang, E Ailer, N Kilbertus, N Pfister_
-
-
-Supervised learning, such as regression and classification, is an essential tool for analyzing modern high-throughput sequencing data, for example in microbiome research. However, due to the compositionality and sparsity, existing techniques are often inadequate. Either they rely on extensions of the linear log-contrast model (which adjust for compositionality but cannot account for complex signals or sparsity) or they are based on black-box machine learning methods (which may capture useful signals, but lack interpretability due to the compositionality). We propose KernelBiome, a kernel-based nonparametric regression and classification framework for compositional data. It is tailored to sparse compositional data and is able to incorporate prior knowledge, such as phylogenetic structure. KernelBiome captures complex signals, including in the zero-structure, while automatically adapting model complexity. We demonstrate on par or improved predictive performance compared with state-of-the-art machine learning methods on 33 publicly available microbiome datasets. Additionally, our framework provides two key advantages: (i) We propose two novel quantities to interpret contributions of individual components and prove that they consistently estimate average perturbation effects of the conditional mean, extending the interpretability of linear log-contrast coefficients to nonparametric models. (ii) We show that the connection between kernels and distances aids interpretability and provides a data-driven embedding that can augment further analysis. KernelBiome is available as an open-source Python package on PyPI and at https://github.com/shimenghuang/KernelBiome.
+## Supervised learning and model analysis with compositional data
 
 [Source](https://doi.org/10.1371/journal.pcbi.1011240)
 
-10.1371/journal.pcbi.1011240
-
 ---
 
-## Bakdrive: identifying a minimum set of bacterial species driving interactions across multiple microbial communities.
- 04.07.2023, _Q Wang, M Nute, TJ Treangen_
-
-
-_Humans, Microbiota, Gastrointestinal Microbiome, Metagenome, Bacteria, Crohn Disease_
-Interactions among microbes within microbial communities have been shown to play crucial roles in human health. In spite of recent progress, low-level knowledge of bacteria driving microbial interactions within microbiomes remains unknown, limiting our ability to fully decipher and control microbial communities.
+## Bakdrive: identifying a minimum set of bacterial species driving interactions across multiple microbial communities
 
 [Source](https://doi.org/10.1093/bioinformatics/btad236)
 
-10.1093/bioinformatics/btad236
-
 ---
 
-## Creation of a milk oligosaccharide database, MilkOligoDB, reveals common structural motifs and extensive diversity across mammals.
- 01.07.2023, _SD Durham, Z Wei, DG Lemay, MC Lange, D Barile_
-
-
-_Infant, Newborn, Animals, Humans, Milk, Milk, Human, Mammals, Elephants, Oligosaccharides, Monosaccharides, Pan troglodytes_
-The carbohydrate fraction of most mammalian milks contains a variety of oligosaccharides that encompass a range of structures and monosaccharide compositions. Human milk oligosaccharides have received considerable attention due to their biological roles in neonatal gut microbiota, immunomodulation, and brain development. However, a major challenge in understanding the biology of milk oligosaccharides across other mammals is that reports span more than 5 decades of publications with varying data reporting methods. In the present study, publications on milk oligosaccharide profiles were identified and harmonized into a standardized format to create a comprehensive, machine-readable database of milk oligosaccharides across mammalian species. The resulting database, MilkOligoDB, includes 3193 entries for 783 unique oligosaccharide structures from the milk of 77 different species harvested from 113 publications. Cross-species and cross-publication comparisons of milk oligosaccharide profiles reveal common structural motifs within mammalian orders. Of the species studied, only chimpanzees, bonobos, and Asian elephants share the specific combination of fucosylation, sialylation, and core structures that are characteristic of human milk oligosaccharides. However, agriculturally important species do produce diverse oligosaccharides that may be valuable for human supplementation. Overall, MilkOligoDB facilitates cross-species and cross-publication comparisons of milk oligosaccharide profiles and the generation of new data-driven hypotheses for future research.
+## Creation of a milk oligosaccharide database, MilkOligoDB, reveals common structural motifs and extensive diversity across mammals
 
 [Source](https://doi.org/10.1038/s41598-023-36866-y)
 
-10.1038/s41598-023-36866-y
-
 ---
 
-## Genetic Engineering of Resident Bacteria in the Gut Microbiome.
- 29.06.2023, _J Arnold, J Glazier, M Mimee_
-
-
-Techniques by which to genetically manipulate members of the microbiota enable both the evaluation of host-microbe interactions and an avenue by which to monitor and modulate human physiology. Genetic engineering applications have traditionally focused on model gut residents, such as Escherichia coli and lactic acid bacteria. However, emerging efforts by which to develop synthetic biology toolsets for "nonmodel" resident gut microbes could provide an improved foundation for microbiome engineering. As genome engineering tools come online, so too have novel applications for engineered gut microbes. Engineered resident gut bacteria facilitate investigations of the roles of microbes and their metabolites on host health and allow for potential live microbial biotherapeutics. Due to the rapid pace of discovery in this burgeoning field, this minireview highlights advancements in the genetic engineering of all resident gut microbes.
+## Genetic Engineering of Resident Bacteria in the Gut Microbiome
 
 [Source](https://doi.org/10.1128/jb.00127-23)
-
-10.1128/jb.00127-23
 
 ---
 
