@@ -22,6 +22,18 @@
 
 ---
 
+## Bioactivity of Macronutrients from Chlorella in Physical Exercise.
+ 11.07.2023, _K Lorenzo, G Santocildes, JR Torrella, J Magalhães, T Pagès, G Viscor, JL Torres, S Ramos-Romero_
+
+
+Chlorella is a marine microalga rich in proteins and containing all the essential amino acids. Chlorella also contains fiber and other polysaccharides, as well as polyunsaturated fatty acids such as linoleic acid and alpha-linolenic acid. The proportion of the different macronutrients in Chlorella can be modulated by altering the conditions in which it is cultured. The bioactivities of these macronutrients make Chlorella a good candidate food to include in regular diets or as the basis of dietary supplements in exercise-related nutrition both for recreational exercisers and professional athletes. This paper reviews current knowledge of the effects of the macronutrients in Chlorella on physical exercise, specifically their impact on performance and recovery. In general, consuming Chlorella improves both anaerobic and aerobic exercise performance as well as physical stamina and reduces fatigue. These effects seem to be related to the antioxidant, anti-inflammatory, and metabolic activity of all its macronutrients, while each component of Chlorella contributes its bioactivity via a specific action. Chlorella is an excellent dietary source of high-quality protein in the context of physical exercise, as dietary proteins increase satiety, activation of the anabolic mTOR (mammalian Target of Rapamycin) pathway in skeletal muscle, and the thermic effects of meals. Chlorella proteins also increase intramuscular free amino acid levels and enhance the ability of the muscles to utilize them during exercise. Fiber from Chlorella increases the diversity of the gut microbiota, which helps control body weight and maintain intestinal barrier integrity, and the production of short-chain fatty acids (SCFAs), which improve physical performance. Polyunsaturated fatty acids (PUFAs) from Chlorella contribute to endothelial protection and modulate the fluidity and rigidity of cell membranes, which may improve performance. Ultimately, in contrast to several other nutritional sources, the use of Chlorella to provide high-quality protein, dietary fiber, and bioactive fatty acids may also significantly contribute to a sustainable world through the fixation of carbon dioxide and a reduction of the amount of land used to produce animal feed.
+
+[Source](https://doi.org/10.1126/science.adi6329)
+
+10.3390/nu15092168
+
+---
+
 ## A microbiome exercise
 
 [Source](https://doi.org/10.1126/science.adi6329)
@@ -172,16 +184,9 @@ Patients with non-alcoholic fatty liver disease (NAFLD) exhibit compositional ch
 
 ---
 
-## Using the collaborative cross to identify the role of host genetics in defining the murine gut microbiome.
- 10.07.2023, _A Nagarajan, K Scoggin, J Gupta, DW Threadgill, HL Andrews-Polymenis_
-
-
-_Mice, Humans, Animals, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Bacteria, Feces, Quantitative Trait Loci_
-The human gut microbiota is a complex community comprised of trillions of bacteria and is critical for the digestion and absorption of nutrients. Bacterial communities of the intestinal microbiota influence the development of several conditions and diseases. We studied the effect of host genetics on gut microbial composition using Collaborative Cross (CC) mice. CC mice are a panel of mice that are genetically diverse across strains, but genetically identical within a given strain allowing repetition and deeper analysis than is possible with other collections of genetically diverse mice.
+## Using the collaborative cross to identify the role of host genetics in defining the murine gut microbiome
 
 [Source](https://doi.org/10.1186/s40168-023-01552-8)
-
-10.1186/s40168-023-01552-8
 
 ---
 
