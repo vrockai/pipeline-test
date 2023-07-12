@@ -184,16 +184,9 @@ Patients with non-alcoholic fatty liver disease (NAFLD) exhibit compositional ch
 
 ---
 
-## Using the collaborative cross to identify the role of host genetics in defining the murine gut microbiome.
- 10.07.2023, _A Nagarajan, K Scoggin, J Gupta, DW Threadgill, HL Andrews-Polymenis_
-
-
-_Mice, Humans, Animals, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Bacteria, Feces, Quantitative Trait Loci_
-The human gut microbiota is a complex community comprised of trillions of bacteria and is critical for the digestion and absorption of nutrients. Bacterial communities of the intestinal microbiota influence the development of several conditions and diseases. We studied the effect of host genetics on gut microbial composition using Collaborative Cross (CC) mice. CC mice are a panel of mice that are genetically diverse across strains, but genetically identical within a given strain allowing repetition and deeper analysis than is possible with other collections of genetically diverse mice.
+## Using the collaborative cross to identify the role of host genetics in defining the murine gut microbiome
 
 [Source](https://doi.org/10.1186/s40168-023-01552-8)
-
-10.1186/s40168-023-01552-8
 
 ---
 
