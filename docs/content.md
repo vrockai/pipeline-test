@@ -148,11 +148,11 @@ Milk production is an ancient adaptation that unites all mammals. Milk contains 
 
 ---
 
-## Shared evolutionary path in social microbiomes.
- 04.07.2023, _N Frazão, I Gordo_
+## Shared Evolutionary Path in Social Microbiomes.
+ 13.07.2023, _N Frazão, I Gordo_
 
 
-Social networks can influence the ecology of gut bacteria, shaping the species composition of the gut microbiome in humans and other animals. Gut commensals evolve and can adapt at a rapid pace when colonizing healthy hosts. Here, we aimed at assessing the impact of host-to-host bacterial transmission on Escherichia coli evolution in the mammalian gut. Using an in vivo experimental evolution approach in mice, we found a transmission rate of 7% (±3% 2SE) of E. coli cells per day between hosts inhabiting the same household. Consistent with the predictions of a simple population genetics model of mutation-selection-migration, the level of shared events resulting from within host evolution is greatly enhanced in co-housed mice, showing that hosts undergoing the same diet and habit are not only expected to have similar microbiome species compositions but also similar microbiome evolutionary dynamics. Furthermore, we estimated the rate of mutation accumulation of E. coli to be 3.0 × 10-3 (±0.8 × 10-3 2SE) mutations/genome/generation, irrespective of the social context of the regime. Our results reveal the impact of bacterial migration across hosts in shaping the adaptive evolution of new strains colonizing gut microbiomes.
+Social networks can influence the ecology of gut bacteria, shaping the species composition of the gut microbiome in humans and other animals. Gut commensals evolve and can adapt at a rapid pace when colonizing healthy hosts. Here, we aimed at assessing the impact of host-to-host bacterial transmission on Escherichia coli evolution in the mammalian gut. Using an in vivo experimental evolution approach in mice, we found a transmission rate of 7% (±3% 2× standard error [2SE]) of E. coli cells per day between hosts inhabiting the same household. Consistent with the predictions of a simple population genetics model of mutation-selection-migration, the level of shared events resulting from within host evolution is greatly enhanced in cohoused mice, showing that hosts undergoing the same diet and habit are not only expected to have similar microbiome species compositions but also similar microbiome evolutionary dynamics. Furthermore, we estimated the rate of mutation accumulation of E. coli to be 3.0 × 10-3 (±0.8 × 10-3 2SE) mutations/genome/generation, irrespective of the social context of the regime. Our results reveal the impact of bacterial migration across hosts in shaping the adaptive evolution of new strains colonizing gut microbiomes.
 
 [Source](https://doi.org/10.1093/molbev/msad153)
 
