@@ -1,5 +1,5 @@
 ## A two-sample mendelian randomization analysis investigates associations between gut microbiota and infertility.
- 15.07.2023, _T Li, W Shao, Y Wang, R Zhou, Z Yun, Y He, Y Wu_
+ 16.07.2023, _T Li, W Shao, Y Wang, R Zhou, Z Yun, Y He, Y Wu_
 
 
 Observational studies have provided evidence of a correlation between alterations in gut microbiota composition and infertility. However, concrete proof supporting the causal relationship is still lacking. We performed a Mendelian randomization study to assess whether genetically gut microbiota composition influences the risk of infertility. The genetic data pertaining to gut microbiota were obtained from a genome-wide association study meta-analysis, which was conducted among 24 cohorts (18,340 participants) from the international MiBioGen consortium. By the primary method of assessing causality, we have identified 2 family taxa, 2 genus taxa, and 1 order taxa that were linked to a low risk of male infertility, while 1 genus taxa were associated with a high risk of male infertility. Furthermore, we have discovered 6 genus taxa, 1 phylum taxa, 1 class taxa, 1 order taxa, and 1 family taxa that were associated with a low risk of female infertility, while 1 genus taxa were linked to a high risk of female infertility. This study successfully confirmed that there was a causal link between gut microbiota and infertility. The identification of these specific strains through genetic prediction offers a valuable insight for early diagnosis, prevention, and treatment of infertility.
@@ -11,7 +11,7 @@ Observational studies have provided evidence of a correlation between alteration
 ---
 
 ## Targeting gut microbiota-derived kynurenine to predict and protect the remodeling of the pressure-overloaded young heart.
- 14.07.2023, _B Shi, X Zhang, Z Song, Z Dai, K Luo, B Chen, Z Zhou, Y Cui, B Feng, Z Zhu, J Zheng, H Zhang, X He_
+ 16.07.2023, _B Shi, X Zhang, Z Song, Z Dai, K Luo, B Chen, Z Zhou, Y Cui, B Feng, Z Zhu, J Zheng, H Zhang, X He_
 
 
 Pressure-overloaded left ventricular remodeling in young population is progressive and readily degenerate into heart failure. The aims of this study were to identify a plasma metabolite that predicts and is mechanistically linked to the disease. Untargeted metabolomics determined elevated plasma kynurenine (Kyn) in both the patient cohorts and the mice model, which was correlated with remodeling parameters. In vitro and in vivo evidence, combined with single-nucleus RNA sequencing (snRNA-seq), demonstrated that Kyn affected both cardiomyocytes and cardiac fibroblasts by activating aryl hydrocarbon receptors (AHR) to up-regulate hypertrophy- and fibrosis-related genes. Shotgun metagenomics and fecal microbiota transplantation revealed the existence of the altered gut microbiota-Kyn relationship. Supplementation of selected microbes reconstructed the gut microbiota, reduced plasma Kyn, and alleviated ventricular remodeling. Our data collectively discovered a gut microbiota-derived metabolite to activate AHR and its gene targets in remodeling young heart, a process that could be prevented by specific gut microbiota modulation.
@@ -110,14 +110,20 @@ Physical activity is essential in weight management, improves overall health, an
 
 ---
 
-## Coarse graining the human gut microbiome
+## Coarse graining the human gut microbiome.
+ 16.07.2023, _C Diener, SM Gibbons_
+
+
+The composition of the human gut microbiome is heterogeneous across people. However, if you squint, co-abundant microbial genera emerge, accounting for much of this ecological variability. In this issue of Cell Host &amp; Microbe, Frioux et al. provide a workflow for identifying these bacterial guilds, or "enterosignatures."
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00224-X)
+
+10.1016/j.chom.2023.06.001
 
 ---
 
 ## Intestinal mucus and their glycans: A habitat for thriving microbiota.
- 15.07.2023, _AS Luis, GC Hansson_
+ 16.07.2023, _AS Luis, GC Hansson_
 
 
 The colon mucus layer is organized with an inner colon mucus layer that is impenetrable to bacteria and an outer mucus layer that is expanded to allow microbiota colonization. A major component of mucus is MUC2, a glycoprotein that is extensively decorated, especially with O-glycans. In the intestine, goblet cells are specialized in controlling glycosylation and making mucus. Some microbiota members are known to encode multiple proteins that are predicted to bind and/or cleave mucin glycans. The interactions between commensal microbiota and host mucins drive intestinal colonization, while at the same time, the microbiota can utilize the glycans on mucins and affect the colonic mucus properties. This review will examine this interaction between commensal microbes and intestinal mucins and discuss how this interplay affects health and disease.
@@ -160,7 +166,7 @@ The efficacy of COVID-19 vaccines varies between individuals and populations, an
 ---
 
 ## Neotropical bee microbiomes point to a fragmented social core and strong species-level effects.
- 14.07.2023, _JG Kueneman, E Bonadies, D Thomas, DW Roubik, WT Wcislo_
+ 16.07.2023, _JG Kueneman, E Bonadies, D Thomas, DW Roubik, WT Wcislo_
 
 
 Individuals that band together create new ecological opportunities for microorganisms. In vertical transmission, theory predicts a conserved microbiota within lineages, especially social bees. Bees exhibit solitary to social behavior among and/or within species, while life cycles can be annual or perennial. Bee nests may be used over generations or only once, and foraging ecology varies widely. To assess which traits are associated with bee microbiomes, we analyzed microbial diversity within solitary and social bees of Apidae, Colletidae, and Halictidae, three bee families in Panama's tropical forests. Our analysis considered the microbiome of adult gut contents replicated through time, localities, and seasons (wet and dry) and included bee morphology and comparison to abdominal (dissected) microbiota. Diversity and distribution of tropical bee microbes (TBM) within the corbiculate bee clade were emphasized.
@@ -196,7 +202,7 @@ Changes in diet and environment can lead to acute diarrhea in companion animals,
 ---
 
 ## The predictive power of phylogeny on growth rates in soil bacterial communities.
- 15.07.2023, _J Walkup, C Dang, RL Mau, M Hayer, E Schwartz, BW Stone, KS Hofmockel, BJ Koch, AM Purcell, J Pett-Ridge, C Wang, BA Hungate, EM Morrissey_
+ 16.07.2023, _J Walkup, C Dang, RL Mau, M Hayer, E Schwartz, BW Stone, KS Hofmockel, BJ Koch, AM Purcell, J Pett-Ridge, C Wang, BA Hungate, EM Morrissey_
 
 
 Predicting ecosystem function is critical to assess and mitigate the impacts of climate change. Quantitative predictions of microbially mediated ecosystem processes are typically uninformed by microbial biodiversity. Yet new tools allow the measurement of taxon-specific traits within natural microbial communities. There is mounting evidence of a phylogenetic signal in these traits, which may support prediction and microbiome management frameworks. We investigated phylogeny-based trait prediction using bacterial growth rates from soil communities in Arctic, boreal, temperate, and tropical ecosystems. Here we show that phylogeny predicts growth rates of soil bacteria, explaining an average of 31%, and up to 58%, of the variation within ecosystems. Despite limited overlap in community composition across these ecosystems, shared nodes in the phylogeny enabled ancestral trait reconstruction and cross-ecosystem predictions. Phylogenetic relationships could explain up to 38% (averaging 14%) of the variation in growth rates across the highly disparate ecosystems studied. Our results suggest that shared evolutionary history contributes to similarity in the relative growth rates of related bacteria in the wild, allowing phylogeny-based predictions to explain a substantial amount of the variation in taxon-specific functional traits, within and across ecosystems.
@@ -251,7 +257,7 @@ Leaves harbor distinct microbial communities that can have an important impact o
 ---
 
 ## Detection of Microorganisms in Body Fluid Samples.
- 14.07.2023, _X Ji, S Ni, G Tian, L Zhang, W Wang_
+ 16.07.2023, _X Ji, S Ni, G Tian, L Zhang, W Wang_
 
 
 Next-generation sequencing (NGS) has been widely applied to the identification of microbiome in body fluids. The methodology of 16S rRNA amplicon sequencing is simple, fast, and cost-effective. It overcomes the problem that some microorganisms cannot be isolated or cultured. Low abundant bacteria can also be amplified and sequenced, but the resolution of classification can hardly reach species or sub-species level; moreover, this methodology is mainly used to identify bacterial populations, and other microorganisms like viruses or fungi cannot be sequenced. On the other hand, the microbiome profiling obtained by shotgun metagenomic sequencing is more comprehensive with better resolution, and more accurate classification can be expected due to higher coverage of genomic sequences from microorganisms. By combining the capture-based method with metagenomic sequencing, we can further enrich and detect low abundant microorganisms and identify the viral integration sites in host gDNA at once.
