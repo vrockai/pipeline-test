@@ -50,7 +50,7 @@ Obesity among young adults, especially those living in developing countries is i
 ---
 
 ## Metagenomic assessment of gut microbial communities and risk of severe COVID-19.
- 14.07.2023, _LH Nguyen, D Okin, DA Drew, VM Battista, SJ Jesudasen, TM Kuntz, A Bhosle, KN Thompson, T Reinicke, CH Lo, JE Woo, A Caraballo, L Berra, J Vieira, CY Huang, U Das Adhikari, M Kim, HY Sui, M Magicheva-Gupta, L McIver, MB Goldberg, DS Kwon, C Huttenhower, AT Chan, PS Lai_
+ 17.07.2023, _LH Nguyen, D Okin, DA Drew, VM Battista, SJ Jesudasen, TM Kuntz, A Bhosle, KN Thompson, T Reinicke, CH Lo, JE Woo, A Caraballo, L Berra, J Vieira, CY Huang, U Das Adhikari, M Kim, HY Sui, M Magicheva-Gupta, L McIver, MB Goldberg, DS Kwon, C Huttenhower, AT Chan, PS Lai_
 
 
 _Humans, Post-Acute COVID-19 Syndrome, COVID-19, Microbiota, Metagenome, Gastrointestinal Microbiome_
@@ -63,7 +63,7 @@ The gut microbiome is a critical modulator of host immunity and is linked to the
 ---
 
 ## Longitudinal flux balance analyses of a patient with episodic colonic inflammation reveals microbiome metabolic dynamics.
- 15.07.2023, _A Basile, A Heinken, J Hertel, L Smarr, W Li, L Treu, G Valle, S Campanaro, I Thiele_
+ 17.07.2023, _A Basile, A Heinken, J Hertel, L Smarr, W Li, L Treu, G Valle, S Campanaro, I Thiele_
 
 
 _Humans, Male, Gastrointestinal Microbiome, Microbiota, Inflammation, Liver, Anti-Bacterial Agents, Escherichia coli_
@@ -113,9 +113,16 @@ Physical activity is essential in weight management, improves overall health, an
 
 ---
 
-## Coarse graining the human gut microbiome
+## Coarse graining the human gut microbiome.
+ 17.07.2023, _C Diener, SM Gibbons_
+
+
+_Humans, Gastrointestinal Microbiome, Microbiota, Bacteria, RNA, Ribosomal, 16S, RNA, Bacterial_
+The composition of the human gut microbiome is heterogeneous across people. However, if you squint, co-abundant microbial genera emerge, accounting for much of this ecological variability. In this issue of Cell Host &amp; Microbe, Frioux et al. provide a workflow for identifying these bacterial guilds, or "enterosignatures."
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00224-X)
+
+10.1016/j.chom.2023.06.001
 
 ---
 
@@ -201,7 +208,7 @@ Changes in diet and environment can lead to acute diarrhea in companion animals,
 ---
 
 ## The predictive power of phylogeny on growth rates in soil bacterial communities.
- 16.07.2023, _J Walkup, C Dang, RL Mau, M Hayer, E Schwartz, BW Stone, KS Hofmockel, BJ Koch, AM Purcell, J Pett-Ridge, C Wang, BA Hungate, EM Morrissey_
+ 17.07.2023, _J Walkup, C Dang, RL Mau, M Hayer, E Schwartz, BW Stone, KS Hofmockel, BJ Koch, AM Purcell, J Pett-Ridge, C Wang, BA Hungate, EM Morrissey_
 
 
 Predicting ecosystem function is critical to assess and mitigate the impacts of climate change. Quantitative predictions of microbially mediated ecosystem processes are typically uninformed by microbial biodiversity. Yet new tools allow the measurement of taxon-specific traits within natural microbial communities. There is mounting evidence of a phylogenetic signal in these traits, which may support prediction and microbiome management frameworks. We investigated phylogeny-based trait prediction using bacterial growth rates from soil communities in Arctic, boreal, temperate, and tropical ecosystems. Here we show that phylogeny predicts growth rates of soil bacteria, explaining an average of 31%, and up to 58%, of the variation within ecosystems. Despite limited overlap in community composition across these ecosystems, shared nodes in the phylogeny enabled ancestral trait reconstruction and cross-ecosystem predictions. Phylogenetic relationships could explain up to 38% (averaging 14%) of the variation in growth rates across the highly disparate ecosystems studied. Our results suggest that shared evolutionary history contributes to similarity in the relative growth rates of related bacteria in the wild, allowing phylogeny-based predictions to explain a substantial amount of the variation in taxon-specific functional traits, within and across ecosystems.
