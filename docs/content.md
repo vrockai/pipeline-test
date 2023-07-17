@@ -1,7 +1,8 @@
 ## A two-sample mendelian randomization analysis investigates associations between gut microbiota and infertility.
- 16.07.2023, _T Li, W Shao, Y Wang, R Zhou, Z Yun, Y He, Y Wu_
+ 17.07.2023, _T Li, W Shao, Y Wang, R Zhou, Z Yun, Y He, Y Wu_
 
 
+_Female, Male, Humans, Infertility, Female, Mendelian Randomization Analysis, Gastrointestinal Microbiome, Genome-Wide Association Study, Infertility, Male_
 Observational studies have provided evidence of a correlation between alterations in gut microbiota composition and infertility. However, concrete proof supporting the causal relationship is still lacking. We performed a Mendelian randomization study to assess whether genetically gut microbiota composition influences the risk of infertility. The genetic data pertaining to gut microbiota were obtained from a genome-wide association study meta-analysis, which was conducted among 24 cohorts (18,340 participants) from the international MiBioGen consortium. By the primary method of assessing causality, we have identified 2 family taxa, 2 genus taxa, and 1 order taxa that were linked to a low risk of male infertility, while 1 genus taxa were associated with a high risk of male infertility. Furthermore, we have discovered 6 genus taxa, 1 phylum taxa, 1 class taxa, 1 order taxa, and 1 family taxa that were associated with a low risk of female infertility, while 1 genus taxa were linked to a high risk of female infertility. This study successfully confirmed that there was a causal link between gut microbiota and infertility. The identification of these specific strains through genetic prediction offers a valuable insight for early diagnosis, prevention, and treatment of infertility.
 
 [Source](https://doi.org/10.1038/s41598-023-38624-6)
@@ -11,9 +12,10 @@ Observational studies have provided evidence of a correlation between alteration
 ---
 
 ## Targeting gut microbiota-derived kynurenine to predict and protect the remodeling of the pressure-overloaded young heart.
- 16.07.2023, _B Shi, X Zhang, Z Song, Z Dai, K Luo, B Chen, Z Zhou, Y Cui, B Feng, Z Zhu, J Zheng, H Zhang, X He_
+ 17.07.2023, _B Shi, X Zhang, Z Song, Z Dai, K Luo, B Chen, Z Zhou, Y Cui, B Feng, Z Zhu, J Zheng, H Zhang, X He_
 
 
+_Animals, Mice, Kynurenine, Gastrointestinal Microbiome, Heart, Fibroblasts, Metabolomics_
 Pressure-overloaded left ventricular remodeling in young population is progressive and readily degenerate into heart failure. The aims of this study were to identify a plasma metabolite that predicts and is mechanistically linked to the disease. Untargeted metabolomics determined elevated plasma kynurenine (Kyn) in both the patient cohorts and the mice model, which was correlated with remodeling parameters. In vitro and in vivo evidence, combined with single-nucleus RNA sequencing (snRNA-seq), demonstrated that Kyn affected both cardiomyocytes and cardiac fibroblasts by activating aryl hydrocarbon receptors (AHR) to up-regulate hypertrophy- and fibrosis-related genes. Shotgun metagenomics and fecal microbiota transplantation revealed the existence of the altered gut microbiota-Kyn relationship. Supplementation of selected microbes reconstructed the gut microbiota, reduced plasma Kyn, and alleviated ventricular remodeling. Our data collectively discovered a gut microbiota-derived metabolite to activate AHR and its gene targets in remodeling young heart, a process that could be prevented by specific gut microbiota modulation.
 
 [Source](https://doi.org/10.1126/sciadv.adg7417)
@@ -35,9 +37,10 @@ Neoadjuvant chemoimmunotherapy (NACI) has shown promise in the treatment of rese
 ---
 
 ## Metabolic and inflammatory profiles, gut microbiota and lifestyle factors in overweight and normal weight young thai adults.
- 16.07.2023, _S Somnuk, S Komindr, S Monkhai, T Poolsawat, M Nakphaichit, B Wanikorn_
+ 17.07.2023, _S Somnuk, S Komindr, S Monkhai, T Poolsawat, M Nakphaichit, B Wanikorn_
 
 
+_Young Adult, Humans, Adult, Overweight, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Southeast Asian People, Body Mass Index, Biomarkers, Insulin, Life Style_
 Obesity among young adults, especially those living in developing countries is increasing. A high body mass index (BMI) is one of the major causes of several diseases worldwide, constituting an important risk factor for non-communicable diseases (NCDs). Investigations describing the relationship between BMI, clinical and gut microbiota characteristics and lifestyle factors of overweight young adults, especially from Southeast Asian countries are limited. Metabolic and inflammatory biomarkers, fecal microbiota profiles and lifestyle factors were compared between overweight Thai young adults (n = 30, mean age 33 ± 9.48) and those with normal weight (n = 30, mean age 27 ±7.50). This study was registered with the Thai Clinical Trials Registry (TCTR20220204007). Health status including body composition, fasting glucose and insulin, lipid profiles, liver and kidney function, inflammatory biomarkers, blood pressure and fecal microbiota using 16S rRNA gene sequencing data was determined. Dietary intake was assessed using a 3-day dietary record and a food frequency questionnaire (FFQ), with physical activity levels compared using the international physical activity questionnaire (IPAQ). The overweight group had significantly higher BMI, waist-hip ratio, body fat mass, % body fat, skeletal mass, triglyceride level, C-reactive protein, insulin and blood pressure, with lower levels of high-density lipoprotein cholesterol (HDL-C) and blood urea nitrogen compared to the normal weight group. Significant differences in fecal microbiota composition at the family and genus levels were observed between the two groups. In our clinical setting, we also observed that unhealthy diets with high consumption of food rich in fat and sugar, processed meat and alcohol, and physical inactivity were associated with an increased prevalence of overweight in Thai young adults. Results provided the big picture of health and lifestyle characteristics of overweight young Thai people. Young adults should be encouraged to engage in health-promoting activities that maintain healthy bodyweight.
 
 [Source](https://doi.org/10.1371/journal.pone.0288286)
@@ -116,9 +119,16 @@ Physical activity is essential in weight management, improves overall health, an
 
 ---
 
-## Intestinal mucus and their glycans: A habitat for thriving microbiota
+## Intestinal mucus and their glycans: A habitat for thriving microbiota.
+ 17.07.2023, _AS Luis, GC Hansson_
+
+
+_Intestinal Mucosa, Mucin-2, Intestines, Mucus, Mucins, Microbiota, Polysaccharides_
+The colon mucus layer is organized with an inner colon mucus layer that is impenetrable to bacteria and an outer mucus layer that is expanded to allow microbiota colonization. A major component of mucus is MUC2, a glycoprotein that is extensively decorated, especially with O-glycans. In the intestine, goblet cells are specialized in controlling glycosylation and making mucus. Some microbiota members are known to encode multiple proteins that are predicted to bind and/or cleave mucin glycans. The interactions between commensal microbiota and host mucins drive intestinal colonization, while at the same time, the microbiota can utilize the glycans on mucins and affect the colonic mucus properties. This review will examine this interaction between commensal microbes and intestinal mucins and discuss how this interplay affects health and disease.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00219-6)
+
+10.1016/j.chom.2023.05.026
 
 ---
 
@@ -128,9 +138,16 @@ Physical activity is essential in weight management, improves overall health, an
 
 ---
 
-## A comprehensive perspective on the interaction between gut microbiota and COVID-19 vaccines
+## A comprehensive perspective on the interaction between gut microbiota and COVID-19 vaccines.
+ 14.07.2023, _M Hong, T Lan, Q Li, B Li, Y Yuan, F Xu, W Wang_
+
+
+_Animals, Humans, COVID-19 Vaccines, Gastrointestinal Microbiome, Pandemics, COVID-19, Microbiota_
+The efficacy of COVID-19 vaccines varies between individuals and populations, and the reasons for this are still not fully understood. Recent clinical studies and animal models have indicated that the gut microbiota may influence the immunogenicity of the vaccine and, thus, its effectiveness. This suggests that there is a bidirectional relationship between the gut microbiota and the COVID-19 vaccine, with the varying components of the microbiota either enhancing or reducing the vaccine's efficacy. To put an end to the spread of the COVID-19 pandemic, the necessity of vaccines that create powerful and long-term immunity is now more important than ever, and understanding the role of the gut microbiota in this process is essential. Conversely, COVID-19 vaccines also have a significant effect on the gut microbiota, decreasing its total number of organisms and the variety of species present. In this Review, we analyze the evidence that suggesting an interaction between the gut microbiota and COVID-19 vaccine effectiveness, consider the immunological mechanisms that may be responsible for this connection, and explore the possibility of using gut microbiota-focused interventions to improve the efficacy of COVID-19 vaccines.
 
 [Source](https://doi.org/10.1080/19490976.2023.2233146)
+
+10.1080/19490976.2023.2233146
 
 ---
 
@@ -146,9 +163,16 @@ Physical activity is essential in weight management, improves overall health, an
 
 ---
 
-## Neotropical bee microbiomes point to a fragmented social core and strong species-level effects
+## Neotropical bee microbiomes point to a fragmented social core and strong species-level effects.
+ 17.07.2023, _JG Kueneman, E Bonadies, D Thomas, DW Roubik, WT Wcislo_
+
+
+_Bees, Animals, Microbiota, Social Behavior, Gastrointestinal Microbiome, Forests_
+Individuals that band together create new ecological opportunities for microorganisms. In vertical transmission, theory predicts a conserved microbiota within lineages, especially social bees. Bees exhibit solitary to social behavior among and/or within species, while life cycles can be annual or perennial. Bee nests may be used over generations or only once, and foraging ecology varies widely. To assess which traits are associated with bee microbiomes, we analyzed microbial diversity within solitary and social bees of Apidae, Colletidae, and Halictidae, three bee families in Panama's tropical forests. Our analysis considered the microbiome of adult gut contents replicated through time, localities, and seasons (wet and dry) and included bee morphology and comparison to abdominal (dissected) microbiota. Diversity and distribution of tropical bee microbes (TBM) within the corbiculate bee clade were emphasized.
 
 [Source](https://doi.org/10.1186/s40168-023-01593-z)
+
+10.1186/s40168-023-01593-z
 
 ---
 
@@ -232,9 +256,10 @@ Leaves harbor distinct microbial communities that can have an important impact o
 ---
 
 ## Detection of Microorganisms in Body Fluid Samples.
- 16.07.2023, _X Ji, S Ni, G Tian, L Zhang, W Wang_
+ 17.07.2023, _X Ji, S Ni, G Tian, L Zhang, W Wang_
 
 
+_RNA, Ribosomal, 16S, Sequence Analysis, DNA, Microbiota, Metagenome, Bacteria, High-Throughput Nucleotide Sequencing, Metagenomics, Body Fluids_
 Next-generation sequencing (NGS) has been widely applied to the identification of microbiome in body fluids. The methodology of 16S rRNA amplicon sequencing is simple, fast, and cost-effective. It overcomes the problem that some microorganisms cannot be isolated or cultured. Low abundant bacteria can also be amplified and sequenced, but the resolution of classification can hardly reach species or sub-species level; moreover, this methodology is mainly used to identify bacterial populations, and other microorganisms like viruses or fungi cannot be sequenced. On the other hand, the microbiome profiling obtained by shotgun metagenomic sequencing is more comprehensive with better resolution, and more accurate classification can be expected due to higher coverage of genomic sequences from microorganisms. By combining the capture-based method with metagenomic sequencing, we can further enrich and detect low abundant microorganisms and identify the viral integration sites in host gDNA at once.
 
 [Source](https://doi.org/10.1007/978-1-0716-3346-5_5)
