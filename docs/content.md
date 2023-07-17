@@ -110,27 +110,15 @@ Physical activity is essential in weight management, improves overall health, an
 
 ---
 
-## Coarse graining the human gut microbiome.
- 16.07.2023, _C Diener, SM Gibbons_
-
-
-The composition of the human gut microbiome is heterogeneous across people. However, if you squint, co-abundant microbial genera emerge, accounting for much of this ecological variability. In this issue of Cell Host &amp; Microbe, Frioux et al. provide a workflow for identifying these bacterial guilds, or "enterosignatures."
+## Coarse graining the human gut microbiome
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00224-X)
 
-10.1016/j.chom.2023.06.001
-
 ---
 
-## Intestinal mucus and their glycans: A habitat for thriving microbiota.
- 16.07.2023, _AS Luis, GC Hansson_
-
-
-The colon mucus layer is organized with an inner colon mucus layer that is impenetrable to bacteria and an outer mucus layer that is expanded to allow microbiota colonization. A major component of mucus is MUC2, a glycoprotein that is extensively decorated, especially with O-glycans. In the intestine, goblet cells are specialized in controlling glycosylation and making mucus. Some microbiota members are known to encode multiple proteins that are predicted to bind and/or cleave mucin glycans. The interactions between commensal microbiota and host mucins drive intestinal colonization, while at the same time, the microbiota can utilize the glycans on mucins and affect the colonic mucus properties. This review will examine this interaction between commensal microbes and intestinal mucins and discuss how this interplay affects health and disease.
+## Intestinal mucus and their glycans: A habitat for thriving microbiota
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00219-6)
-
-10.1016/j.chom.2023.05.026
 
 ---
 
@@ -140,16 +128,9 @@ The colon mucus layer is organized with an inner colon mucus layer that is impen
 
 ---
 
-## A comprehensive perspective on the interaction between gut microbiota and COVID-19 vaccines.
- 14.07.2023, _M Hong, T Lan, Q Li, B Li, Y Yuan, F Xu, W Wang_
-
-
-_Animals, Humans, COVID-19 Vaccines, Gastrointestinal Microbiome, Pandemics, COVID-19, Microbiota_
-The efficacy of COVID-19 vaccines varies between individuals and populations, and the reasons for this are still not fully understood. Recent clinical studies and animal models have indicated that the gut microbiota may influence the immunogenicity of the vaccine and, thus, its effectiveness. This suggests that there is a bidirectional relationship between the gut microbiota and the COVID-19 vaccine, with the varying components of the microbiota either enhancing or reducing the vaccine's efficacy. To put an end to the spread of the COVID-19 pandemic, the necessity of vaccines that create powerful and long-term immunity is now more important than ever, and understanding the role of the gut microbiota in this process is essential. Conversely, COVID-19 vaccines also have a significant effect on the gut microbiota, decreasing its total number of organisms and the variety of species present. In this Review, we analyze the evidence that suggesting an interaction between the gut microbiota and COVID-19 vaccine effectiveness, consider the immunological mechanisms that may be responsible for this connection, and explore the possibility of using gut microbiota-focused interventions to improve the efficacy of COVID-19 vaccines.
+## A comprehensive perspective on the interaction between gut microbiota and COVID-19 vaccines
 
 [Source](https://doi.org/10.1080/19490976.2023.2233146)
-
-10.1080/19490976.2023.2233146
 
 ---
 
@@ -165,15 +146,9 @@ The efficacy of COVID-19 vaccines varies between individuals and populations, an
 
 ---
 
-## Neotropical bee microbiomes point to a fragmented social core and strong species-level effects.
- 16.07.2023, _JG Kueneman, E Bonadies, D Thomas, DW Roubik, WT Wcislo_
-
-
-Individuals that band together create new ecological opportunities for microorganisms. In vertical transmission, theory predicts a conserved microbiota within lineages, especially social bees. Bees exhibit solitary to social behavior among and/or within species, while life cycles can be annual or perennial. Bee nests may be used over generations or only once, and foraging ecology varies widely. To assess which traits are associated with bee microbiomes, we analyzed microbial diversity within solitary and social bees of Apidae, Colletidae, and Halictidae, three bee families in Panama's tropical forests. Our analysis considered the microbiome of adult gut contents replicated through time, localities, and seasons (wet and dry) and included bee morphology and comparison to abdominal (dissected) microbiota. Diversity and distribution of tropical bee microbes (TBM) within the corbiculate bee clade were emphasized.
+## Neotropical bee microbiomes point to a fragmented social core and strong species-level effects
 
 [Source](https://doi.org/10.1186/s40168-023-01593-z)
-
-10.1186/s40168-023-01593-z
 
 ---
 
