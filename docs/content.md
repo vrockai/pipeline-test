@@ -113,29 +113,15 @@ Physical activity is essential in weight management, improves overall health, an
 
 ---
 
-## Coarse graining the human gut microbiome.
- 17.07.2023, _C Diener, SM Gibbons_
-
-
-_Humans, Gastrointestinal Microbiome, Microbiota, Bacteria, RNA, Ribosomal, 16S, RNA, Bacterial_
-The composition of the human gut microbiome is heterogeneous across people. However, if you squint, co-abundant microbial genera emerge, accounting for much of this ecological variability. In this issue of Cell Host &amp; Microbe, Frioux et al. provide a workflow for identifying these bacterial guilds, or "enterosignatures."
+## Coarse graining the human gut microbiome
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00224-X)
 
-10.1016/j.chom.2023.06.001
-
 ---
 
-## Intestinal mucus and their glycans: A habitat for thriving microbiota.
- 17.07.2023, _AS Luis, GC Hansson_
-
-
-_Intestinal Mucosa, Mucin-2, Intestines, Mucus, Mucins, Microbiota, Polysaccharides_
-The colon mucus layer is organized with an inner colon mucus layer that is impenetrable to bacteria and an outer mucus layer that is expanded to allow microbiota colonization. A major component of mucus is MUC2, a glycoprotein that is extensively decorated, especially with O-glycans. In the intestine, goblet cells are specialized in controlling glycosylation and making mucus. Some microbiota members are known to encode multiple proteins that are predicted to bind and/or cleave mucin glycans. The interactions between commensal microbiota and host mucins drive intestinal colonization, while at the same time, the microbiota can utilize the glycans on mucins and affect the colonic mucus properties. This review will examine this interaction between commensal microbes and intestinal mucins and discuss how this interplay affects health and disease.
+## Intestinal mucus and their glycans: A habitat for thriving microbiota
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00219-6)
-
-10.1016/j.chom.2023.05.026
 
 ---
 
@@ -145,16 +131,9 @@ The colon mucus layer is organized with an inner colon mucus layer that is impen
 
 ---
 
-## A comprehensive perspective on the interaction between gut microbiota and COVID-19 vaccines.
- 14.07.2023, _M Hong, T Lan, Q Li, B Li, Y Yuan, F Xu, W Wang_
-
-
-_Animals, Humans, COVID-19 Vaccines, Gastrointestinal Microbiome, Pandemics, COVID-19, Microbiota_
-The efficacy of COVID-19 vaccines varies between individuals and populations, and the reasons for this are still not fully understood. Recent clinical studies and animal models have indicated that the gut microbiota may influence the immunogenicity of the vaccine and, thus, its effectiveness. This suggests that there is a bidirectional relationship between the gut microbiota and the COVID-19 vaccine, with the varying components of the microbiota either enhancing or reducing the vaccine's efficacy. To put an end to the spread of the COVID-19 pandemic, the necessity of vaccines that create powerful and long-term immunity is now more important than ever, and understanding the role of the gut microbiota in this process is essential. Conversely, COVID-19 vaccines also have a significant effect on the gut microbiota, decreasing its total number of organisms and the variety of species present. In this Review, we analyze the evidence that suggesting an interaction between the gut microbiota and COVID-19 vaccine effectiveness, consider the immunological mechanisms that may be responsible for this connection, and explore the possibility of using gut microbiota-focused interventions to improve the efficacy of COVID-19 vaccines.
+## A comprehensive perspective on the interaction between gut microbiota and COVID-19 vaccines
 
 [Source](https://doi.org/10.1080/19490976.2023.2233146)
-
-10.1080/19490976.2023.2233146
 
 ---
 
@@ -170,16 +149,9 @@ The efficacy of COVID-19 vaccines varies between individuals and populations, an
 
 ---
 
-## Neotropical bee microbiomes point to a fragmented social core and strong species-level effects.
- 17.07.2023, _JG Kueneman, E Bonadies, D Thomas, DW Roubik, WT Wcislo_
-
-
-_Bees, Animals, Microbiota, Social Behavior, Gastrointestinal Microbiome, Forests_
-Individuals that band together create new ecological opportunities for microorganisms. In vertical transmission, theory predicts a conserved microbiota within lineages, especially social bees. Bees exhibit solitary to social behavior among and/or within species, while life cycles can be annual or perennial. Bee nests may be used over generations or only once, and foraging ecology varies widely. To assess which traits are associated with bee microbiomes, we analyzed microbial diversity within solitary and social bees of Apidae, Colletidae, and Halictidae, three bee families in Panama's tropical forests. Our analysis considered the microbiome of adult gut contents replicated through time, localities, and seasons (wet and dry) and included bee morphology and comparison to abdominal (dissected) microbiota. Diversity and distribution of tropical bee microbes (TBM) within the corbiculate bee clade were emphasized.
+## Neotropical bee microbiomes point to a fragmented social core and strong species-level effects
 
 [Source](https://doi.org/10.1186/s40168-023-01593-z)
-
-10.1186/s40168-023-01593-z
 
 ---
 
@@ -189,15 +161,9 @@ Individuals that band together create new ecological opportunities for microorga
 
 ---
 
-## Identification of Gut Microbiome and Metabolites Associated with Acute Diarrhea in Cats.
- 10.07.2023, _H Bai, T Liu, S Wang, W Gong, L Shen, S Zhang, Z Wang_
-
-
-Changes in diet and environment can lead to acute diarrhea in companion animals, but the composition and interactions of the gut microbiome during acute diarrhea remain unclear. In this multicenter case-control study, we investigated the relationship between intestinal flora and acute diarrhea in two breeds of cats. Acutely diarrheic American Shorthair (MD, n = 12) and British Shorthair (BD, n = 12) and healthy American Shorthair (MH, n = 12) and British Shorthair (BH, n = 12) cats were recruited. Gut microbial 16S rRNA sequencing, metagenomic sequencing, and untargeted metabolomic analysis were performed. We observed significant differences in beta-diversity (Adonis, P &lt; 0.05) across breeds and disease state cohorts. Profound differences in gut microbial structure and function were found between the two cat breeds. In comparison to healthy British Shorthair cats, Prevotella, Providencia, and Sutterella were enriched while Blautia, Peptoclostridium, and Tyzzerella were reduced in American Shorthair cats. In the case-control cohort, cats with acute diarrhea exhibited an increased abundance of Bacteroidota, Prevotella, and Prevotella copri and a decreased abundance of Bacilli, Erysipelotrichales, and Erysipelatoclostridiaceae (both MD and BD cats, P &lt; 0.05). Metabolomic analysis identified significant changes in the BD intestine, affecting 45 metabolic pathways. Moreover, using a random forest classifier, we successfully predicted the occurrence of acute diarrhea with an area under the curve of 0.95. Our findings indicate a distinct gut microbiome profile that is associated with the presence of acute diarrhea in cats. However, further investigations using larger cohorts of cats with diverse conditions are required to validate and extend these findings. IMPORTANCE Acute diarrhea is common in cats, and our understanding of the gut microbiome variations across breeds and disease states remains unclear. We investigated the gut microbiome of two cat breeds (British Shorthair and American Shorthair) with acute diarrhea. Our study revealed significant effects of breeds and disease states on the structure and function of the gut microbiota in cats. These findings emphasize the need to consider breed-related factors in animal nutrition and research models. Additionally, we observed an altered gut metabolome in cats with acute diarrhea, closely linked to changes in bacterial genera. We identified a panel of microbial biomarkers with high diagnostic accuracy for feline acute diarrhea. These findings provide novel insights into the diagnosis, classification, and treatment of feline gastrointestinal diseases.
+## Identification of Gut Microbiome and Metabolites Associated with Acute Diarrhea in Cats
 
 [Source](https://doi.org/10.1128/spectrum.00590-23)
-
-10.1128/spectrum.00590-23
 
 ---
 
@@ -207,52 +173,27 @@ Changes in diet and environment can lead to acute diarrhea in companion animals,
 
 ---
 
-## The predictive power of phylogeny on growth rates in soil bacterial communities.
- 17.07.2023, _J Walkup, C Dang, RL Mau, M Hayer, E Schwartz, BW Stone, KS Hofmockel, BJ Koch, AM Purcell, J Pett-Ridge, C Wang, BA Hungate, EM Morrissey_
-
-
-Predicting ecosystem function is critical to assess and mitigate the impacts of climate change. Quantitative predictions of microbially mediated ecosystem processes are typically uninformed by microbial biodiversity. Yet new tools allow the measurement of taxon-specific traits within natural microbial communities. There is mounting evidence of a phylogenetic signal in these traits, which may support prediction and microbiome management frameworks. We investigated phylogeny-based trait prediction using bacterial growth rates from soil communities in Arctic, boreal, temperate, and tropical ecosystems. Here we show that phylogeny predicts growth rates of soil bacteria, explaining an average of 31%, and up to 58%, of the variation within ecosystems. Despite limited overlap in community composition across these ecosystems, shared nodes in the phylogeny enabled ancestral trait reconstruction and cross-ecosystem predictions. Phylogenetic relationships could explain up to 38% (averaging 14%) of the variation in growth rates across the highly disparate ecosystems studied. Our results suggest that shared evolutionary history contributes to similarity in the relative growth rates of related bacteria in the wild, allowing phylogeny-based predictions to explain a substantial amount of the variation in taxon-specific functional traits, within and across ecosystems.
+## The predictive power of phylogeny on growth rates in soil bacterial communities
 
 [Source](https://doi.org/10.1038/s43705-023-00281-1)
 
-10.1038/s43705-023-00281-1
-
 ---
 
-## Potential relevance between soybean nitrogen uptake and rhizosphere prokaryotic communities under waterlogging stress.
- 14.07.2023, _T Lian, L Cheng, Q Liu, T Yu, Z Cai, H Nian, M Hartmann_
-
-
-Waterlogging in soil can limit the availability of nitrogen to plants by promoting denitrification and reducing nitrogen fixation and nitrification. The root-associated microorganisms that determine nitrogen availability at the root-soil interface can be influenced by plant genotype and soil type, which potentially alters the nitrogen uptake capacity of plants in waterlogged soils. In a greenhouse experiment, two soybean genotypes with contrasting capacities to resist waterlogging stress were grown in Udic Argosol and Haplic Alisol soils with and without waterlogging, respectively. Using isotope labeling, high-throughput amplicon sequencing and qPCR, we show that waterlogging negatively affects soybean yield and nitrogen absorption from fertilizer, atmosphere, and soil. These effects were soil-dependent and more pronounced in the waterlogging-sensitive than tolerant genotype. The tolerant genotype harbored more ammonia oxidizers and less nitrous oxide reducers. Anaerobic, nitrogen-fixing, denitrifying and iron-reducing bacteria such as Geobacter/Geomonas, Sphingomonas, Candidatus Koribacter, and Desulfosporosinus were proportionally enriched in association with the tolerant genotype under waterlogging. These changes in the rhizosphere microbiome might ultimately help the plant to improve nitrogen uptake under waterlogged, anoxic conditions. This research contributes to a better understanding of the adaptability of soybean genotypes under waterlogging stress and might help to formulate fertilization strategies that improve nitrogen use efficiency of soybean. Schematic representation of the effects of waterlogging on nitrogen uptake and rhizosphere microbiota in dependence of soil type and soybean genotype.
+## Potential relevance between soybean nitrogen uptake and rhizosphere prokaryotic communities under waterlogging stress
 
 [Source](https://doi.org/10.1038/s43705-023-00282-0)
 
-10.1038/s43705-023-00282-0
-
 ---
 
-## Effects of nitrogen reduction combined with bio-organic fertilizer on soil bacterial community diversity of red raspberry orchard.
- 13.07.2023, _X Yuan, J Zhang, F Chang, X Wang, X Zhang, H Luan, G Qi, S Guo_
-
-
-_Fertilizers, RNA, Ribosomal, 16S, Rubus, Alkalies, Bacteria, Nitrogen, Phosphorus_
-Understanding soil bacterial diversity under nitrogen reduction is necessary for the crucial role in soil nitrogen cycling. However, the effects of combined fertilization on soil chemical properties, microbial community structure, and yield are unknown. This study was conducted to investigate the effect of nitrogen fertilizer reduction with bio-organic fertilizer on soil bacterial community diversity of red raspberry orchard. Six treatments were set in this study: NF-100%, NF-75%, NF-50%, NF-25% and CF, no nitrogen fertilizer and bio-organic fertilizer for CK. The bacterial community structures of soil were analyzed by 16S rRNA gene amplification high-throughput sequencing technology. Nitrogen fertilizer reduction with bio-organic fertilizer increased soil organic matter (SOM), total nitrogen (TN), alkali-hydrolyzable nitrogen (AN), available phosphorus (AP), available potassium (AK), and reduced soil pH. NF-50% and NF-25% treatments increased the yield of red raspberry. Nitrogen reduction combined with bio-organic fertilizer increased the relative abundance of copiotrophic bacteria and decreased the relative abundance of oligotrophic bacteria. The increase in copiotrophic bacteria in the soil of red raspberry orchard could indicate an increase in soil nutrient availability, which have positive implications for soil fertility and production. However, nitrogen fertilizer reduction with bio-organic fertilizer altered the abundance and diversity of soil bacteria, which was reduced compared to CF treatments. The PCoA analysis of the soil bacterial community showed that the community structure of NF-25% treatment was more different from other treatments, indicating that the fertilization method changed the community structure of soil bacteria. The results of a redundancy analysis showed that SOM, pH, AN, TN, and AP were the main factors affecting the microbial community structure. Overall, the reduction of nitrogen fertilizer with bio-organic fertilizer significantly increased the soil nutrient content, reduced the relative abundance and diversity of soil bacteria, increased the relative abundance of beneficial bacteria in the soil, changed the bacterial community structure of soil, increased production and created suitable soil conditions for the red raspberry growth.
+## Effects of nitrogen reduction combined with bio-organic fertilizer on soil bacterial community diversity of red raspberry orchard
 
 [Source](https://doi.org/10.1371/journal.pone.0283718)
 
-10.1371/journal.pone.0283718
-
 ---
 
-## Leaf side determines the relative importance of dispersal versus host filtering in the phyllosphere microbiome.
- 12.07.2023, _W Smets, MK Chock, CM Walsh, CQ Vanderburgh, E Kau, SE Lindow, N Fierer, B Koskella_
-
-
-Leaves harbor distinct microbial communities that can have an important impact on plant health and microbial ecosystems worldwide. Nevertheless, the ecological processes that shape the composition of leaf microbial communities remain unclear, with previous studies reporting contradictory results regarding the importance of bacterial dispersal versus host selection. This discrepancy could be driven in part because leaf microbiome studies typically consider the upper and lower leaf surfaces as a single entity despite these habitats possessing considerable anatomical differences. We characterized the composition of bacterial phyllosphere communities from the upper and lower leaf surfaces across 24 plant species. Leaf surface pH and stomatal density were found to shape phyllosphere community composition, and the underside of leaves had lower richness and higher abundances of core community members than upper leaf surfaces. We found fewer endemic bacteria on the upper leaf surfaces, suggesting that dispersal is more important in shaping these communities, with host selection being a more important force in microbiome assembly on lower leaf surfaces. Our study illustrates how changing the scale in which we observe microbial communities can impact our ability to resolve and predict microbial community assembly patterns on leaf surfaces. IMPORTANCE Leaves can harbor hundreds of different bacterial species that form unique communities for every plant species. Bacterial communities on leaves are really important because they can, for example, protect their host against plant diseases. Usually, bacteria from the whole leaf are considered when trying to understand these communities; however, this study shows that the upper and lower sides of a leaf have a very different impact on how these communities are shaped. It seems that the bacteria on the lower leaf side are more closely associated with the plant host, and communities on the upper leaf side are more impacted by immigrating bacteria. This can be really important when we want to treat, for example, crops in the field with beneficial bacteria or when trying to understand host-microbe interactions on the leaves.
+## Leaf side determines the relative importance of dispersal versus host filtering in the phyllosphere microbiome
 
 [Source](https://doi.org/10.1128/mbio.01111-23)
-
-10.1128/mbio.01111-23
 
 ---
 
@@ -262,28 +203,15 @@ Leaves harbor distinct microbial communities that can have an important impact o
 
 ---
 
-## Detection of Microorganisms in Body Fluid Samples.
- 17.07.2023, _X Ji, S Ni, G Tian, L Zhang, W Wang_
-
-
-_RNA, Ribosomal, 16S, Sequence Analysis, DNA, Microbiota, Metagenome, Bacteria, High-Throughput Nucleotide Sequencing, Metagenomics, Body Fluids_
-Next-generation sequencing (NGS) has been widely applied to the identification of microbiome in body fluids. The methodology of 16S rRNA amplicon sequencing is simple, fast, and cost-effective. It overcomes the problem that some microorganisms cannot be isolated or cultured. Low abundant bacteria can also be amplified and sequenced, but the resolution of classification can hardly reach species or sub-species level; moreover, this methodology is mainly used to identify bacterial populations, and other microorganisms like viruses or fungi cannot be sequenced. On the other hand, the microbiome profiling obtained by shotgun metagenomic sequencing is more comprehensive with better resolution, and more accurate classification can be expected due to higher coverage of genomic sequences from microorganisms. By combining the capture-based method with metagenomic sequencing, we can further enrich and detect low abundant microorganisms and identify the viral integration sites in host gDNA at once.
+## Detection of Microorganisms in Body Fluid Samples
 
 [Source](https://doi.org/10.1007/978-1-0716-3346-5_5)
 
-10.1007/978-1-0716-3346-5_5
-
 ---
 
-## Guidelines for Microbiome Studies in Renal Physiology.
- 13.07.2023, _RR Muralitharan, M Snelson, G Meric, MT Coughlan, FZ Marques_
-
-
-Gut microbiome research has increased dramatically in the last decade, including in renal health and disease. The field is moving from experiments showing mere association to causation using both forward and reverse microbiome approaches, leveraging tools such as germ-free animals, treatment with antibiotics, and faecal microbiota transplantations. However, we are still seeing a gap between discovery and translation that needs to be addressed, so that patients can benefit from microbiome-based therapies. In this guideline paper, we discuss the key considerations that affect the gut microbiome of animal and clinical studies assessing renal function, many which are often overlooked, resulting in false-positive results. For animal studies, these include suppliers, acclimatisation, baseline microbiota and its normalisation, littermates and cohort/cage effects, diet, sex differences, age, circadian differences, antibiotics and sweeteners, and models used. Clinical studies have some unique considerations, which include sampling, gut transit time, dietary records, medication, and renal phenotypes. We provide best practice guidance on sampling, storage, DNA extraction, and methods for microbial DNA sequencing (both 16S rRNA and shotgun metagenome). Finally, we discuss follow-up analyses, including tools available, metrics, and their interpretation, and the key challenges ahead in the microbiome field. By standardising study designs, methods and reporting, we will accelerate the findings from discovery to translation and result in new microbiome-based therapies that may improve renal health.
+## Guidelines for Microbiome Studies in Renal Physiology
 
 [Source](https://doi.org/10.1152/ajprenal.00072.2023)
-
-10.1152/ajprenal.00072.2023
 
 ---
 
@@ -293,15 +221,9 @@ Gut microbiome research has increased dramatically in the last decade, including
 
 ---
 
-## Activity-based protein profiling in microbes and the gut microbiome.
- 10.07.2023, _L Han, PV Chang_
-
-
-Activity-based protein profiling (ABPP) is a powerful chemical approach for probing protein function and enzymatic activity in complex biological systems. This strategy typically utilizes activity-based probes that are designed to bind a specific protein, amino acid residue, or protein family and form a covalent bond through a reactivity-based warhead. Subsequent analysis by mass spectrometry-based proteomic platforms that involve either click chemistry or affinity-based labeling to enrich for the tagged proteins enables identification of protein function and enzymatic activity. ABPP has facilitated elucidation of biological processes in bacteria, discovery of new antibiotics, and characterization of host-microbe interactions within physiological contexts. This review will focus on recent advances and applications of ABPP in bacteria and complex microbial communities.
+## Activity-based protein profiling in microbes and the gut microbiome
 
 [Source](https://doi.org/10.1016/j.cbpa.2023.102351)
-
-10.1016/j.cbpa.2023.102351
 
 ---
 
