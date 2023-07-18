@@ -1,5 +1,5 @@
 ## A two-sample mendelian randomization analysis investigates associations between gut microbiota and infertility.
- 17.07.2023, _T Li, W Shao, Y Wang, R Zhou, Z Yun, Y He, Y Wu_
+ 18.07.2023, _T Li, W Shao, Y Wang, R Zhou, Z Yun, Y He, Y Wu_
 
 
 _Female, Male, Humans, Infertility, Female, Mendelian Randomization Analysis, Gastrointestinal Microbiome, Genome-Wide Association Study, Infertility, Male_
@@ -12,7 +12,7 @@ Observational studies have provided evidence of a correlation between alteration
 ---
 
 ## Targeting gut microbiota-derived kynurenine to predict and protect the remodeling of the pressure-overloaded young heart.
- 17.07.2023, _B Shi, X Zhang, Z Song, Z Dai, K Luo, B Chen, Z Zhou, Y Cui, B Feng, Z Zhu, J Zheng, H Zhang, X He_
+ 18.07.2023, _B Shi, X Zhang, Z Song, Z Dai, K Luo, B Chen, Z Zhou, Y Cui, B Feng, Z Zhu, J Zheng, H Zhang, X He_
 
 
 _Animals, Mice, Kynurenine, Gastrointestinal Microbiome, Heart, Fibroblasts, Metabolomics_
@@ -37,7 +37,7 @@ Neoadjuvant chemoimmunotherapy (NACI) has shown promise in the treatment of rese
 ---
 
 ## Metabolic and inflammatory profiles, gut microbiota and lifestyle factors in overweight and normal weight young thai adults.
- 17.07.2023, _S Somnuk, S Komindr, S Monkhai, T Poolsawat, M Nakphaichit, B Wanikorn_
+ 18.07.2023, _S Somnuk, S Komindr, S Monkhai, T Poolsawat, M Nakphaichit, B Wanikorn_
 
 
 _Young Adult, Humans, Adult, Overweight, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Southeast Asian People, Body Mass Index, Biomarkers, Insulin, Life Style_
@@ -50,7 +50,7 @@ Obesity among young adults, especially those living in developing countries is i
 ---
 
 ## Metagenomic assessment of gut microbial communities and risk of severe COVID-19.
- 17.07.2023, _LH Nguyen, D Okin, DA Drew, VM Battista, SJ Jesudasen, TM Kuntz, A Bhosle, KN Thompson, T Reinicke, CH Lo, JE Woo, A Caraballo, L Berra, J Vieira, CY Huang, U Das Adhikari, M Kim, HY Sui, M Magicheva-Gupta, L McIver, MB Goldberg, DS Kwon, C Huttenhower, AT Chan, PS Lai_
+ 18.07.2023, _LH Nguyen, D Okin, DA Drew, VM Battista, SJ Jesudasen, TM Kuntz, A Bhosle, KN Thompson, T Reinicke, CH Lo, JE Woo, A Caraballo, L Berra, J Vieira, CY Huang, U Das Adhikari, M Kim, HY Sui, M Magicheva-Gupta, L McIver, MB Goldberg, DS Kwon, C Huttenhower, AT Chan, PS Lai_
 
 
 _Humans, Post-Acute COVID-19 Syndrome, COVID-19, Microbiota, Metagenome, Gastrointestinal Microbiome_
@@ -63,7 +63,7 @@ The gut microbiome is a critical modulator of host immunity and is linked to the
 ---
 
 ## Longitudinal flux balance analyses of a patient with episodic colonic inflammation reveals microbiome metabolic dynamics.
- 17.07.2023, _A Basile, A Heinken, J Hertel, L Smarr, W Li, L Treu, G Valle, S Campanaro, I Thiele_
+ 18.07.2023, _A Basile, A Heinken, J Hertel, L Smarr, W Li, L Treu, G Valle, S Campanaro, I Thiele_
 
 
 _Humans, Male, Gastrointestinal Microbiome, Microbiota, Inflammation, Liver, Anti-Bacterial Agents, Escherichia coli_
@@ -76,7 +76,7 @@ We report the first use of constraint-based microbial community modeling on a si
 ---
 
 ## Exploring Co-occurrence patterns and microbial diversity in the lung microbiome of patients with non-small cell lung cancer.
- 14.07.2023, _S Najafi, SA Jamalkandi, A Najafi, J Salimian, A Ahmadi_
+ 18.07.2023, _S Najafi, SA Jamalkandi, A Najafi, J Salimian, A Ahmadi_
 
 
 _Humans, Carcinoma, Non-Small-Cell Lung, Lung Neoplasms, Actinobacteria, Bifidobacterium, Microbiota, Lung_
@@ -89,7 +89,7 @@ It has been demonstrated in the literature that a dysbiotic microbiome could hav
 ---
 
 ## Aerobic exercise training and gut microbiome-associated metabolic shifts in women with overweight: a multi-omic study.
- 14.07.2023, _JE Hintikka, JP Ahtiainen, P Permi, S Jalkanen, M Lehtonen, S Pekkala_
+ 18.07.2023, _JE Hintikka, JP Ahtiainen, P Permi, S Jalkanen, M Lehtonen, S Pekkala_
 
 
 _Adult, Humans, Female, Overweight, Gastrointestinal Microbiome, Multiomics, Exercise, Obesity, Lecithins_
@@ -114,7 +114,7 @@ Physical activity is essential in weight management, improves overall health, an
 ---
 
 ## Coarse graining the human gut microbiome.
- 17.07.2023, _C Diener, SM Gibbons_
+ 18.07.2023, _C Diener, SM Gibbons_
 
 
 _Humans, Gastrointestinal Microbiome, Microbiota, Bacteria, RNA, Ribosomal, 16S, RNA, Bacterial_
@@ -127,7 +127,7 @@ The composition of the human gut microbiome is heterogeneous across people. Howe
 ---
 
 ## Intestinal mucus and their glycans: A habitat for thriving microbiota.
- 17.07.2023, _AS Luis, GC Hansson_
+ 18.07.2023, _AS Luis, GC Hansson_
 
 
 _Intestinal Mucosa, Mucin-2, Intestines, Mucus, Mucins, Microbiota, Polysaccharides_
@@ -146,7 +146,7 @@ The colon mucus layer is organized with an inner colon mucus layer that is impen
 ---
 
 ## A comprehensive perspective on the interaction between gut microbiota and COVID-19 vaccines.
- 14.07.2023, _M Hong, T Lan, Q Li, B Li, Y Yuan, F Xu, W Wang_
+ 18.07.2023, _M Hong, T Lan, Q Li, B Li, Y Yuan, F Xu, W Wang_
 
 
 _Animals, Humans, COVID-19 Vaccines, Gastrointestinal Microbiome, Pandemics, COVID-19, Microbiota_
@@ -170,9 +170,16 @@ The efficacy of COVID-19 vaccines varies between individuals and populations, an
 
 ---
 
-## Neotropical bee microbiomes point to a fragmented social core and strong species-level effects
+## Neotropical bee microbiomes point to a fragmented social core and strong species-level effects.
+ 18.07.2023, _JG Kueneman, E Bonadies, D Thomas, DW Roubik, WT Wcislo_
+
+
+_Bees, Animals, Microbiota, Social Behavior, Gastrointestinal Microbiome, Forests_
+Individuals that band together create new ecological opportunities for microorganisms. In vertical transmission, theory predicts a conserved microbiota within lineages, especially social bees. Bees exhibit solitary to social behavior among and/or within species, while life cycles can be annual or perennial. Bee nests may be used over generations or only once, and foraging ecology varies widely. To assess which traits are associated with bee microbiomes, we analyzed microbial diversity within solitary and social bees of Apidae, Colletidae, and Halictidae, three bee families in Panama's tropical forests. Our analysis considered the microbiome of adult gut contents replicated through time, localities, and seasons (wet and dry) and included bee morphology and comparison to abdominal (dissected) microbiota. Diversity and distribution of tropical bee microbes (TBM) within the corbiculate bee clade were emphasized.
 
 [Source](https://doi.org/10.1186/s40168-023-01593-z)
+
+10.1186/s40168-023-01593-z
 
 ---
 
@@ -201,7 +208,7 @@ Changes in diet and environment can lead to acute diarrhea in companion animals,
 ---
 
 ## The predictive power of phylogeny on growth rates in soil bacterial communities.
- 17.07.2023, _J Walkup, C Dang, RL Mau, M Hayer, E Schwartz, BW Stone, KS Hofmockel, BJ Koch, AM Purcell, J Pett-Ridge, C Wang, BA Hungate, EM Morrissey_
+ 18.07.2023, _J Walkup, C Dang, RL Mau, M Hayer, E Schwartz, BW Stone, KS Hofmockel, BJ Koch, AM Purcell, J Pett-Ridge, C Wang, BA Hungate, EM Morrissey_
 
 
 Predicting ecosystem function is critical to assess and mitigate the impacts of climate change. Quantitative predictions of microbially mediated ecosystem processes are typically uninformed by microbial biodiversity. Yet new tools allow the measurement of taxon-specific traits within natural microbial communities. There is mounting evidence of a phylogenetic signal in these traits, which may support prediction and microbiome management frameworks. We investigated phylogeny-based trait prediction using bacterial growth rates from soil communities in Arctic, boreal, temperate, and tropical ecosystems. Here we show that phylogeny predicts growth rates of soil bacteria, explaining an average of 31%, and up to 58%, of the variation within ecosystems. Despite limited overlap in community composition across these ecosystems, shared nodes in the phylogeny enabled ancestral trait reconstruction and cross-ecosystem predictions. Phylogenetic relationships could explain up to 38% (averaging 14%) of the variation in growth rates across the highly disparate ecosystems studied. Our results suggest that shared evolutionary history contributes to similarity in the relative growth rates of related bacteria in the wild, allowing phylogeny-based predictions to explain a substantial amount of the variation in taxon-specific functional traits, within and across ecosystems.
@@ -213,7 +220,7 @@ Predicting ecosystem function is critical to assess and mitigate the impacts of 
 ---
 
 ## Potential relevance between soybean nitrogen uptake and rhizosphere prokaryotic communities under waterlogging stress.
- 14.07.2023, _T Lian, L Cheng, Q Liu, T Yu, Z Cai, H Nian, M Hartmann_
+ 18.07.2023, _T Lian, L Cheng, Q Liu, T Yu, Z Cai, H Nian, M Hartmann_
 
 
 Waterlogging in soil can limit the availability of nitrogen to plants by promoting denitrification and reducing nitrogen fixation and nitrification. The root-associated microorganisms that determine nitrogen availability at the root-soil interface can be influenced by plant genotype and soil type, which potentially alters the nitrogen uptake capacity of plants in waterlogged soils. In a greenhouse experiment, two soybean genotypes with contrasting capacities to resist waterlogging stress were grown in Udic Argosol and Haplic Alisol soils with and without waterlogging, respectively. Using isotope labeling, high-throughput amplicon sequencing and qPCR, we show that waterlogging negatively affects soybean yield and nitrogen absorption from fertilizer, atmosphere, and soil. These effects were soil-dependent and more pronounced in the waterlogging-sensitive than tolerant genotype. The tolerant genotype harbored more ammonia oxidizers and less nitrous oxide reducers. Anaerobic, nitrogen-fixing, denitrifying and iron-reducing bacteria such as Geobacter/Geomonas, Sphingomonas, Candidatus Koribacter, and Desulfosporosinus were proportionally enriched in association with the tolerant genotype under waterlogging. These changes in the rhizosphere microbiome might ultimately help the plant to improve nitrogen uptake under waterlogged, anoxic conditions. This research contributes to a better understanding of the adaptability of soybean genotypes under waterlogging stress and might help to formulate fertilization strategies that improve nitrogen use efficiency of soybean. Schematic representation of the effects of waterlogging on nitrogen uptake and rhizosphere microbiota in dependence of soil type and soybean genotype.
@@ -225,7 +232,7 @@ Waterlogging in soil can limit the availability of nitrogen to plants by promoti
 ---
 
 ## Effects of nitrogen reduction combined with bio-organic fertilizer on soil bacterial community diversity of red raspberry orchard.
- 13.07.2023, _X Yuan, J Zhang, F Chang, X Wang, X Zhang, H Luan, G Qi, S Guo_
+ 18.07.2023, _X Yuan, J Zhang, F Chang, X Wang, X Zhang, H Luan, G Qi, S Guo_
 
 
 _Fertilizers, RNA, Ribosomal, 16S, Rubus, Alkalies, Bacteria, Nitrogen, Phosphorus_
@@ -256,7 +263,7 @@ Leaves harbor distinct microbial communities that can have an important impact o
 ---
 
 ## Detection of Microorganisms in Body Fluid Samples.
- 17.07.2023, _X Ji, S Ni, G Tian, L Zhang, W Wang_
+ 18.07.2023, _X Ji, S Ni, G Tian, L Zhang, W Wang_
 
 
 _RNA, Ribosomal, 16S, Sequence Analysis, DNA, Microbiota, Metagenome, Bacteria, High-Throughput Nucleotide Sequencing, Metagenomics, Body Fluids_
