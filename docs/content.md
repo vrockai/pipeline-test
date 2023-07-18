@@ -170,16 +170,9 @@ The efficacy of COVID-19 vaccines varies between individuals and populations, an
 
 ---
 
-## Neotropical bee microbiomes point to a fragmented social core and strong species-level effects.
- 17.07.2023, _JG Kueneman, E Bonadies, D Thomas, DW Roubik, WT Wcislo_
-
-
-_Bees, Animals, Microbiota, Social Behavior, Gastrointestinal Microbiome, Forests_
-Individuals that band together create new ecological opportunities for microorganisms. In vertical transmission, theory predicts a conserved microbiota within lineages, especially social bees. Bees exhibit solitary to social behavior among and/or within species, while life cycles can be annual or perennial. Bee nests may be used over generations or only once, and foraging ecology varies widely. To assess which traits are associated with bee microbiomes, we analyzed microbial diversity within solitary and social bees of Apidae, Colletidae, and Halictidae, three bee families in Panama's tropical forests. Our analysis considered the microbiome of adult gut contents replicated through time, localities, and seasons (wet and dry) and included bee morphology and comparison to abdominal (dissected) microbiota. Diversity and distribution of tropical bee microbes (TBM) within the corbiculate bee clade were emphasized.
+## Neotropical bee microbiomes point to a fragmented social core and strong species-level effects
 
 [Source](https://doi.org/10.1186/s40168-023-01593-z)
-
-10.1186/s40168-023-01593-z
 
 ---
 
