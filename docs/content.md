@@ -113,29 +113,15 @@ Physical activity is essential in weight management, improves overall health, an
 
 ---
 
-## Coarse graining the human gut microbiome.
- 18.07.2023, _C Diener, SM Gibbons_
-
-
-_Humans, Gastrointestinal Microbiome, Microbiota, Bacteria, RNA, Ribosomal, 16S, RNA, Bacterial_
-The composition of the human gut microbiome is heterogeneous across people. However, if you squint, co-abundant microbial genera emerge, accounting for much of this ecological variability. In this issue of Cell Host &amp; Microbe, Frioux et al. provide a workflow for identifying these bacterial guilds, or "enterosignatures."
+## Coarse graining the human gut microbiome
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00224-X)
 
-10.1016/j.chom.2023.06.001
-
 ---
 
-## Intestinal mucus and their glycans: A habitat for thriving microbiota.
- 18.07.2023, _AS Luis, GC Hansson_
-
-
-_Intestinal Mucosa, Mucin-2, Intestines, Mucus, Mucins, Microbiota, Polysaccharides_
-The colon mucus layer is organized with an inner colon mucus layer that is impenetrable to bacteria and an outer mucus layer that is expanded to allow microbiota colonization. A major component of mucus is MUC2, a glycoprotein that is extensively decorated, especially with O-glycans. In the intestine, goblet cells are specialized in controlling glycosylation and making mucus. Some microbiota members are known to encode multiple proteins that are predicted to bind and/or cleave mucin glycans. The interactions between commensal microbiota and host mucins drive intestinal colonization, while at the same time, the microbiota can utilize the glycans on mucins and affect the colonic mucus properties. This review will examine this interaction between commensal microbes and intestinal mucins and discuss how this interplay affects health and disease.
+## Intestinal mucus and their glycans: A habitat for thriving microbiota
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00219-6)
-
-10.1016/j.chom.2023.05.026
 
 ---
 
