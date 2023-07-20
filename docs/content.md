@@ -92,7 +92,7 @@ Compositional changes in the microbiota (dysbiosis) may be a basis for Irritable
 ---
 
 ## Gastrointestinal and Microbiome Profiling in Rodent Models of Neurological and Psychiatric Disorders.
- 18.07.2023, _G Kong, C Gubert, AJ Hannan_
+ 20.07.2023, _G Kong, C Gubert, AJ Hannan_
 
 
 Mice and other rodent models have been widely used to understand the role of the gut microbiome in various neurological and psychiatric disorders. Here we describe a protocol to characterize the structural and functional phenotype of the rodent gut and to examine the gut microbiota composition through V4 16S rRNA gene sequencing and microbiome profiling. This protocol will have utility for those investigating the gut, and associated microbiota, in a wide range of different rodent models of human disorders.
