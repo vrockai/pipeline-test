@@ -31,7 +31,7 @@ Antibiotics (ABX) compromise the efficacy of programmed cell death protein 1 (PD
 ---
 
 ## A shotgun metagenomic analysis of the fecal microbiome in humans infected with Giardia duodenalis.
- 19.07.2023, _BA McGregor, E Razmjou, H Hooshyar, DR Seeger, SA Golovko, MY Golovko, SM Singer, J Hur, S Solaymani-Mohammadi_
+ 20.07.2023, _BA McGregor, E Razmjou, H Hooshyar, DR Seeger, SA Golovko, MY Golovko, SM Singer, J Hur, S Solaymani-Mohammadi_
 
 
 The mechanisms underlying the clinical outcome disparity during human infection with Giardia duodenalis are still unclear. In recent years, evidence has pointed to the roles of host factors as well as parasite's genetic heterogeneity as major contributing factors in the development of symptomatic human giardiasis. However, it remains contested as to how only a small fraction of individuals infected with G. duodenalis develop clinical gastrointestinal manifestations, whereas the majority of infected individuals remain asymptomatic. Here, we demonstrate that diversity in the fecal microbiome correlates with the clinical outcome of human giardiasis.
@@ -74,7 +74,7 @@ Eating a varied diet is a central tenet of good nutrition. Here, we develop a mo
 ---
 
 ## Alterations in fecal β-defensin-3 secretion as a marker of instability of the gut microbiota.
- 19.07.2023, _Z Saqib, G De Palma, J Lu, M Surette, P Bercik, SM Collins_
+ 20.07.2023, _Z Saqib, G De Palma, J Lu, M Surette, P Bercik, SM Collins_
 
 
 Compositional changes in the microbiota (dysbiosis) may be a basis for Irritable Bowel Syndrome (IBS), but biomarkers are currently unavailable to direct microbiota-directed therapy. We therefore examined whether changes in fecal β-defensin could be a marker of dysbiosis in a murine model. Experimental dysbiosis was induced using four interventions relevant to IBS: a mix of antimicrobials, westernized diets (high-fat/high-sugar and high salt diets), or mild restraint stress. Fecal mouse β-defensin-3 and 16S rRNA-based microbiome profiles were assessed at baseline and during and following these interventions. Each intervention, except for mild restraint stress, altered compositional and diversity profiles of the microbiota. Exposure to antimicrobials or a high-fat/high-sugar diet, but not mild restraint stress, resulted in decreased fecal β-defensin-3 compared to baseline. In contrast, exposure to the high salt diet increased β-defensin-3 compared to baseline. Mice exposed to the mix of antimicrobials showed the largest compositional changes and the most significant correlations between β-defensin-3 levels and bacterial diversity. The high salt diet was also associated with significant correlations between changes in β-defensin-3 and bacterial diversity, and this was not accompanied by discernible inflammatory changes in the host. Thus, dietary change or antimicrobial exposure, both recognized factors in IBS exacerbations, induced marked dysbiosis that was accompanied by changes in fecal β-defensin-3 levels. We propose that serial monitoring of fecal β-defensins may serve as a marker of dysbiosis and help identify those IBS patients who may benefit from microbiota-directed therapeutic interventions.
