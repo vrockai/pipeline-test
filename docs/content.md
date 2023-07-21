@@ -31,9 +31,10 @@ Antibiotics (ABX) compromise the efficacy of programmed cell death protein 1 (PD
 ---
 
 ## A shotgun metagenomic analysis of the fecal microbiome in humans infected with Giardia duodenalis.
- 20.07.2023, _BA McGregor, E Razmjou, H Hooshyar, DR Seeger, SA Golovko, MY Golovko, SM Singer, J Hur, S Solaymani-Mohammadi_
+ 21.07.2023, _BA McGregor, E Razmjou, H Hooshyar, DR Seeger, SA Golovko, MY Golovko, SM Singer, J Hur, S Solaymani-Mohammadi_
 
 
+_Humans, Giardia lamblia, Giardiasis, Phylogeny, Genotype, Microbiota, Feces, Multilocus Sequence Typing_
 The mechanisms underlying the clinical outcome disparity during human infection with Giardia duodenalis are still unclear. In recent years, evidence has pointed to the roles of host factors as well as parasite's genetic heterogeneity as major contributing factors in the development of symptomatic human giardiasis. However, it remains contested as to how only a small fraction of individuals infected with G. duodenalis develop clinical gastrointestinal manifestations, whereas the majority of infected individuals remain asymptomatic. Here, we demonstrate that diversity in the fecal microbiome correlates with the clinical outcome of human giardiasis.
 
 [Source](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-023-05821-1)
@@ -43,9 +44,10 @@ The mechanisms underlying the clinical outcome disparity during human infection 
 ---
 
 ## Microbiome-derived cobalamin and succinyl-CoA as biomarkers for improved screening of anal cancer.
- 19.07.2023, _S Serrano-Villar, C Tincati, SC Raju, JS Sáenz, E Moreno, R Bargiela, A Cabello-Ubeda, E Sendagorta, A Kurz, JA Perez Molina, A de Benito, JR Hov, L Fernandez-Lopez, A Muriel, R Del Campo, S Moreno, M Trøseid, J Seifert, M Ferrer_
+ 21.07.2023, _S Serrano-Villar, C Tincati, SC Raju, JS Sáenz, E Moreno, R Bargiela, A Cabello-Ubeda, E Sendagorta, A Kurz, JA Perez Molina, A de Benito, JR Hov, L Fernandez-Lopez, A Muriel, R Del Campo, S Moreno, M Trøseid, J Seifert, M Ferrer_
 
 
+_Male, Humans, Homosexuality, Male, HIV Infections, Vitamin B 12, Early Detection of Cancer, Sexual and Gender Minorities, Anus Neoplasms, Biomarkers, Papillomaviridae_
 Human papillomavirus can cause preinvasive, high-grade squamous intraepithelial lesions (HSILs) as precursors to cancer in the anogenital area, and the microbiome is suggested to be a contributing factor. Men who have sex with men (MSM) living with human immunodeficiency virus (HIV) have a high risk of anal cancer, but current screening strategies for HSIL detection lack specificity. Here, we investigated the anal microbiome to improve HSIL screening. We enrolled participants living with HIV, divided into a discovery (n = 167) and validation cohort (n = 46), and who were predominantly (93.9%) cisgender MSM undergoing HSIL screening with high-resolution anoscopy and anal biopsies. We identified no microbiome composition signatures associated with HSILs, but elevated levels of microbiome-encoded proteins producing succinyl coenzyme A and cobalamin were significantly associated with HSILs in both cohorts. Measurement of these candidate biomarkers alone in anal cytobrushes outperformed anal cytology as a diagnostic indicator for HSILs, increasing the sensitivity from 91.2% to 96.6%, the specificity from 34.1% to 81.8%, and reclassifying 82% of false-positive results as true negatives. We propose that these two microbiome-derived biomarkers may improve the current strategy of anal cancer screening.
 
 [Source](https://www.nature.com/articles/s41591-023-02407-3)
@@ -92,9 +94,10 @@ Compositional changes in the microbiota (dysbiosis) may be a basis for Irritable
 ---
 
 ## Gastrointestinal and Microbiome Profiling in Rodent Models of Neurological and Psychiatric Disorders.
- 20.07.2023, _G Kong, C Gubert, AJ Hannan_
+ 21.07.2023, _G Kong, C Gubert, AJ Hannan_
 
 
+_Humans, Mice, Animals, Rodentia, RNA, Ribosomal, 16S, Microbiota, Gastrointestinal Tract, Mental Disorders_
 Mice and other rodent models have been widely used to understand the role of the gut microbiome in various neurological and psychiatric disorders. Here we describe a protocol to characterize the structural and functional phenotype of the rodent gut and to examine the gut microbiota composition through V4 16S rRNA gene sequencing and microbiome profiling. This protocol will have utility for those investigating the gut, and associated microbiota, in a wide range of different rodent models of human disorders.
 
 [Source](https://link.springer.com/protocol/10.1007/978-1-0716-3307-6_7)
@@ -110,9 +113,10 @@ Mice and other rodent models have been widely used to understand the role of the
 ---
 
 ## A hybrid and poly-polish workflow for the complete and accurate assembly of phage genomes: a case study of ten przondoviruses.
- 19.07.2023, _CKA Elek, TL Brown, T Le Viet, R Evans, DJ Baker, A Telatin, SK Tiwari, H Al-Khanaq, G Thilliez, RA Kingsley, LJ Hall, MA Webber, EM Adriaenssens_
+ 21.07.2023, _CKA Elek, TL Brown, T Le Viet, R Evans, DJ Baker, A Telatin, SK Tiwari, H Al-Khanaq, G Thilliez, RA Kingsley, LJ Hall, MA Webber, EM Adriaenssens_
 
 
+_Sequence Analysis, DNA, Bacteriophages, Poland, Workflow, High-Throughput Nucleotide Sequencing_
 Bacteriophages (phages) within the genus Przondovirus are T7-like podoviruses belonging to the subfamily Studiervirinae, within the family Autographiviridae, and have a highly conserved genome organisation. The genomes of these phages range from 37 to 42 kb in size, encode 50-60 genes and are characterised by the presence of direct terminal repeats (DTRs) flanking the linear chromosome. These DTRs are often deleted during short-read-only and hybrid assemblies. Moreover, long-read-only assemblies are often littered with sequencing and/or assembly errors and require additional curation. Here, we present the isolation and characterisation of ten novel przondoviruses targeting Klebsiella spp. We describe HYPPA, a HYbrid and Poly-polish Phage Assembly workflow, which utilises long-read assemblies in combination with short-read sequencing to resolve phage DTRs and correcting errors, negating the need for laborious primer walking and Sanger sequencing validation. Our assembly workflow utilised Oxford Nanopore Technologies for long-read sequencing for its accessibility, making it the more relevant long-read sequencing technology at this time, and Illumina DNA Prep for short-read sequencing, representing the most commonly used technologies globally. Our data demonstrate the importance of careful curation of phage assemblies before publication, and prior to using them for comparative genomics.
 
 [Source](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001065)
