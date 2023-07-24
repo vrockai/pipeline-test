@@ -23,9 +23,10 @@ The implications of the gut microbial communities in the immune response against
 ---
 
 ## Study of the gut microbiome in Egyptian patients with Parkinson's Disease.
- 22.07.2023, _M Mehanna, S AbuRaya, SM Ahmed, G Ashmawy, A Ibrahim, E AbdelKhaliq_
+ 24.07.2023, _M Mehanna, S AbuRaya, SM Ahmed, G Ashmawy, A Ibrahim, E AbdelKhaliq_
 
 
+_Humans, Gastrointestinal Microbiome, Parkinson Disease, Egypt, Microbiota, Bacteroides, Bacteroidetes, Bifidobacterium, Firmicutes_
 Recently, an important relationship between Parkinson's disease and the gut microbiota, through the brain-gut axis interactions, has been established. Previous studies have declared that alterations in the gut microbiota have a great impact on the pathogenesis and clinical picture of Parkinson's disease (PD). The present study aimed to identify the gut microbiome that is likely related to Parkinson's disease as well as their possible relation to clinical phenotypes.
 
 [Source](https://doi.org/10.1186/s12866-023-02933-7)
@@ -232,9 +233,10 @@ Archaea of the order Thermoplasmatales are widely distributed in natural acidic 
 ---
 
 ## Machine learning-based approaches for cancer prediction using microbiome data.
- 21.07.2023, _P Freitas, F Silva, JV Sousa, RM Ferreira, C Figueiredo, T Pereira, HP Oliveira_
+ 24.07.2023, _P Freitas, F Silva, JV Sousa, RM Ferreira, C Figueiredo, T Pereira, HP Oliveira_
 
 
+_Humans, Colonic Neoplasms, Rectal Neoplasms, Stomach Neoplasms, Machine Learning, Microbiota_
 Emerging evidence of the relationship between the microbiome composition and the development of numerous diseases, including cancer, has led to an increasing interest in the study of the human microbiome. Technological breakthroughs regarding DNA sequencing methods propelled microbiome studies with a large number of samples, which called for the necessity of more sophisticated data-analytical tools to analyze this complex relationship. The aim of this work was to develop a machine learning-based approach to distinguish the type of cancer based on the analysis of the tissue-specific microbial information, assessing the human microbiome as valuable predictive information for cancer identification. For this purpose, Random Forest algorithms were trained for the classification of five types of cancer-head and neck, esophageal, stomach, colon, and rectum cancers-with samples provided by The Cancer Microbiome Atlas database. One versus all and multi-class classification studies were conducted to evaluate the discriminative capability of the microbial data across increasing levels of cancer site specificity, with results showing a progressive rise in difficulty for accurate sample classification. Random Forest models achieved promising performances when predicting head and neck, stomach, and colon cancer cases, with the latter returning accuracy scores above 90% across the different studies conducted. However, there was also an increased difficulty when discriminating esophageal and rectum cancers, failing to differentiate with adequate results rectum from colon cancer cases, and esophageal from head and neck and stomach cancers. These results point to the fact that anatomically adjacent cancers can be more complex to identify due to microbial similarities. Despite the limitations, microbiome data analysis using machine learning may advance novel strategies to improve cancer detection and prevention, and decrease disease burden.
 
 [Source](https://doi.org/10.1038/s41598-023-38670-0)
