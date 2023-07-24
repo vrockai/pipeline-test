@@ -10,33 +10,63 @@
 
 ---
 
-## Chagas disease is related to structural changes of the gut microbiota in adults with chronic infection (TRIPOBIOME Study)
+## Chagas disease is related to structural changes of the gut microbiota in adults with chronic infection (TRIPOBIOME Study).
+ 21.07.2023, _JA Pérez-Molina, C Crespillo-Andújar, E Trigo, S Chamorro, M Arsuaga, L Olavarrieta, B Navia, O Martín, B Monge-Maillo, FF Norman, VF Lanza, S Serrano-Villar_
+
+
+The implications of the gut microbial communities in the immune response against parasites and gut motility could explain the differences in clinical manifestations and treatment responses found in patients with chronic Chagas disease.
 
 [Source](https://doi.org/10.1371/journal.pntd.0011490)
 
+10.1371/journal.pntd.0011490
+
 ---
 
-## Study of the gut microbiome in Egyptian patients with Parkinson’s Disease
+## Study of the gut microbiome in Egyptian patients with Parkinson's Disease.
+ 22.07.2023, _M Mehanna, S AbuRaya, SM Ahmed, G Ashmawy, A Ibrahim, E AbdelKhaliq_
+
+
+Recently, an important relationship between Parkinson's disease and the gut microbiota, through the brain-gut axis interactions, has been established. Previous studies have declared that alterations in the gut microbiota have a great impact on the pathogenesis and clinical picture of Parkinson's disease (PD). The present study aimed to identify the gut microbiome that is likely related to Parkinson's disease as well as their possible relation to clinical phenotypes.
 
 [Source](https://doi.org/10.1186/s12866-023-02933-7)
 
+10.1186/s12866-023-02933-7
+
 ---
 
-## Intestinal microbiota controls graft-versus-host disease independent of donor-host genetic disparity
+## Intestinal microbiota controls graft-versus-host disease independent of donor-host genetic disparity.
+ 22.07.2023, _M Koyama, DS Hippe, S Srinivasan, SC Proll, O Miltiadous, N Li, P Zhang, KS Ensbey, NG Hoffman, CR Schmidt, AC Yeh, SA Minnie, SM Strenk, TL Fiedler, N Hattangady, J Kowalsky, WM Grady, MA Degli-Esposti, A Varelias, AD Clouston, MRM van den Brink, N Dey, TW Randolph, KA Markey, DN Fredricks, GR Hill_
+
+
+Acute graft-versus-host disease (aGVHD) remains a major limitation of allogeneic stem cell transplantation (SCT), and severe intestinal manifestation is the major cause of early mortality. Intestinal microbiota control MHC class II (MHC-II) expression by ileal intestinal epithelial cells (IECs) that promote GVHD. Here, we demonstrated that genetically identical mice of differing vendor origins had markedly different intestinal microbiota and ileal MHC-II expression, resulting in discordant GVHD severity. We utilized cohousing and antibiotic treatment to characterize the bacterial taxa positively and negatively associated with MHC-II expression. A large proportion of bacterial MHC-II inducers were vancomycin sensitive, and peri-transplant oral vancomycin administration attenuated CD4+ T cell-mediated GVHD. We identified a similar relationship between pre-transplant microbes, HLA class II expression, and both GVHD and mortality in a large clinical SCT cohort. These data highlight therapeutically tractable mechanisms by which pre-transplant microbial taxa contribute to GVHD independently of genetic disparity.
 
 [Source](https://www.cell.com/immunity/fulltext/S1074-7613(23)00281-9)
 
+10.1016/j.immuni.2023.06.024
+
 ---
 
-## A systematic review exploring the association between the human gut microbiota and brain connectivity in health and disease
+## A systematic review exploring the association between the human gut microbiota and brain connectivity in health and disease.
+ 21.07.2023, _D Mulder, E Aarts, A Arias Vasquez, M Bloemendaal_
+
+
+A body of pre-clinical evidence shows how the gut microbiota influence brain functioning, including brain connectivity. Linking measures of brain connectivity to the gut microbiota can provide important mechanistic insights into the bi-directional gut-brain communication. In this systematic review, we therefore synthesized the available literature assessing this association, evaluating the degree of consistency in microbiota-connectivity associations. Following the PRISMA guidelines, a PubMed search was conducted, including studies published up to September 1, 2022. We identified 16 studies that met the inclusion criteria. Several bacterial genera, including Prevotella, Bacteroides, Ruminococcus, Blautia, and Collinsella were most frequently reported in association with brain connectivity. Additionally, connectivity of the salience (specifically the insula and anterior cingulate cortex), default mode, and frontoparietal networks were most frequently associated with the gut microbiota, both in terms of microbial diversity and composition. There was no discernible pattern in the association between microbiota and brain connectivity. Altogether, based on our synthesis, there is evidence for an association between the gut microbiota and brain connectivity. However, many findings were poorly replicated across studies, and the specificity of the association is yet unclear. The current studies show substantial inter-study heterogeneity in methodology and reporting, limiting the robustness and reproducibility of the findings and emphasizing the need to harmonize methodological approaches. To enhance comparability and replicability, future research should focus on further standardizing processing pipelines and employing data-driven multivariate analysis strategies.
 
 [Source](https://doi.org/10.1038/s41380-023-02146-4)
 
+10.1038/s41380-023-02146-4
+
 ---
 
-## A macroecological perspective on genetic diversity in the human gut microbiome
+## A macroecological perspective on genetic diversity in the human gut microbiome.
+ 23.07.2023, _WR Shoemaker_
+
+
+While the human gut microbiome has been intensely studied, we have yet to obtain a sufficient understanding of the genetic diversity that it harbors. Research efforts have demonstrated that a considerable fraction of within-host genetic variation in the human gut is driven by the ecological dynamics of co-occurring strains belonging to the same species, suggesting that an ecological lens may provide insight into empirical patterns of genetic diversity. Indeed, an ecological model of self-limiting growth and environmental noise known as the Stochastic Logistic Model (SLM) was recently shown to successfully predict the temporal dynamics of strains within a single human host. However, its ability to predict patterns of genetic diversity across human hosts has yet to be tested. In this manuscript I determine whether the predictions of the SLM explain patterns of genetic diversity across unrelated human hosts for 22 common microbial species. Specifically, the stationary distribution of the SLM explains the distribution of allele frequencies across hosts and predicts the fraction of hosts harboring a given allele (i.e., prevalence) for a considerable fraction of sites. The accuracy of the SLM was correlated with independent estimates of strain structure, suggesting that patterns of genetic diversity in the gut microbiome follow statistically similar forms across human hosts due to the existence of strain-level ecology.
 
 [Source](https://doi.org/10.1371/journal.pone.0288926)
+
+10.1371/journal.pone.0288926
 
 ---
 
