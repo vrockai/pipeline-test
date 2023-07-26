@@ -124,21 +124,22 @@
 
 ---
 
-## Machine learning-based approaches for cancer prediction using microbiome data
+## Machine learning-based approaches for cancer prediction using microbiome data.
+ 24.07.2023, _P Freitas, F Silva, JV Sousa, RM Ferreira, C Figueiredo, T Pereira, HP Oliveira_
+
+
+_Humans, Colonic Neoplasms, Rectal Neoplasms, Stomach Neoplasms, Machine Learning, Microbiota_
+Emerging evidence of the relationship between the microbiome composition and the development of numerous diseases, including cancer, has led to an increasing interest in the study of the human microbiome. Technological breakthroughs regarding DNA sequencing methods propelled microbiome studies with a large number of samples, which called for the necessity of more sophisticated data-analytical tools to analyze this complex relationship. The aim of this work was to develop a machine learning-based approach to distinguish the type of cancer based on the analysis of the tissue-specific microbial information, assessing the human microbiome as valuable predictive information for cancer identification. For this purpose, Random Forest algorithms were trained for the classification of five types of cancer-head and neck, esophageal, stomach, colon, and rectum cancers-with samples provided by The Cancer Microbiome Atlas database. One versus all and multi-class classification studies were conducted to evaluate the discriminative capability of the microbial data across increasing levels of cancer site specificity, with results showing a progressive rise in difficulty for accurate sample classification. Random Forest models achieved promising performances when predicting head and neck, stomach, and colon cancer cases, with the latter returning accuracy scores above 90% across the different studies conducted. However, there was also an increased difficulty when discriminating esophageal and rectum cancers, failing to differentiate with adequate results rectum from colon cancer cases, and esophageal from head and neck and stomach cancers. These results point to the fact that anatomically adjacent cancers can be more complex to identify due to microbial similarities. Despite the limitations, microbiome data analysis using machine learning may advance novel strategies to improve cancer detection and prevention, and decrease disease burden.
 
 [Source](https://doi.org/10.1038/s41598-023-38670-0)
 
+10.1038/s41598-023-38670-0
+
 ---
 
-## Bioinformatic mining for RiPP biosynthetic gene clusters in Bacteroidales reveals possible new subfamily architectures and novel natural products.
- 21.07.2023, _MV Fernandez-Cantos, D Garcia-Morena, Y Yi, L Liang, E Gómez-Vázquez, OP Kuipers_
-
-
-The Bacteroidales order, widely distributed among diverse human populations, constitutes a key component of the human microbiota. Members of this Gram-negative order have been shown to modulate the host immune system, play a fundamental role in the gut's microbial food webs, or be involved in pathogenesis. Bacteria inhabiting such a complex environment as the human microbiome are expected to display social behaviors and, hence, possess factors that mediate cooperative and competitive interactions. Different types of molecules can mediate interference competition, including non-ribosomal peptides (NRPs), polyketides, and bacteriocins. The present study investigates the potential of Bacteroidales bacteria to biosynthesize class I bacteriocins, which are ribosomally synthesized and post-translationally modified peptides (RiPPs). For this purpose, 1,136 genome-sequenced strains from this order were mined using BAGEL4. A total of 1,340 areas of interest (AOIs) were detected. The most commonly identified enzymes involved in RiPP biosynthesis were radical S-adenosylmethionine (rSAM), either alone or in combination with other biosynthetic enzymes such as YcaO. A more comprehensive analysis of a subset of 9 biosynthetic gene clusters (BGCs) revealed a consistent association in Bacteroidales BGCs between peptidase-containing ATP-binding transporters (PCATs) and precursor peptides with GG-motifs. This finding suggests a possibly shared mechanism for leader peptide cleavage and transport of mature products. Notably, human metagenomic studies showed a high prevalence and abundance of the RiPP BGCs from Phocaeicola vulgatus and Porphyromonas gulae. The mature product of P. gulae BGC is hypothesized to display γ-thioether linkages and a C-terminal backbone amidine, a potential new combination of post-translational modifications (PTM). All these findings highlight the RiPP biosynthetic potential of Bacteroidales bacteria, as a rich source of novel peptide structures of possible relevance in the human microbiome context.
+## Bioinformatic mining for RiPP biosynthetic gene clusters in Bacteroidales reveals possible new subfamily architectures and novel natural products
 
 [Source](https://doi.org/10.3389/fmicb.2023.1219272)
-
-10.3389/fmicb.2023.1219272
 
 ---
 
