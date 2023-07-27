@@ -121,7 +121,7 @@ The dismal prognosis of hepatocellular carcinoma (HCC) is closely associated wit
 ---
 
 ## Microbiome-derived cobalamin and succinyl-CoA as biomarkers for improved screening of anal cancer.
- 21.07.2023, _S Serrano-Villar, C Tincati, SC Raju, JS Sáenz, E Moreno, R Bargiela, A Cabello-Ubeda, E Sendagorta, A Kurz, JA Perez Molina, A de Benito, JR Hov, L Fernandez-Lopez, A Muriel, R Del Campo, S Moreno, M Trøseid, J Seifert, M Ferrer_
+ 26.07.2023, _S Serrano-Villar, C Tincati, SC Raju, JS Sáenz, E Moreno, R Bargiela, A Cabello-Ubeda, E Sendagorta, A Kurz, JA Perez Molina, A de Benito, JR Hov, L Fernandez-Lopez, A Muriel, R Del Campo, S Moreno, M Trøseid, J Seifert, M Ferrer_
 
 
 _Male, Humans, Homosexuality, Male, HIV Infections, Vitamin B 12, Early Detection of Cancer, Sexual and Gender Minorities, Anus Neoplasms, Biomarkers, Papillomaviridae_
