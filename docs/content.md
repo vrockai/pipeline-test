@@ -10,22 +10,21 @@
 
 ---
 
-## Chagas disease is related to structural changes of the gut microbiota in adults with chronic infection (TRIPOBIOME Study)
+## Chagas disease is related to structural changes of the gut microbiota in adults with chronic infection (TRIPOBIOME Study).
+ 21.07.2023, _JA Pérez-Molina, C Crespillo-Andújar, E Trigo, S Chamorro, M Arsuaga, L Olavarrieta, B Navia, O Martín, B Monge-Maillo, FF Norman, VF Lanza, S Serrano-Villar_
+
+
+The implications of the gut microbial communities in the immune response against parasites and gut motility could explain the differences in clinical manifestations and treatment responses found in patients with chronic Chagas disease.
 
 [Source](https://doi.org/10.1371/journal.pntd.0011490)
 
+10.1371/journal.pntd.0011490
+
 ---
 
-## Study of the gut microbiome in Egyptian patients with Parkinson's Disease.
- 25.07.2023, _M Mehanna, S AbuRaya, SM Ahmed, G Ashmawy, A Ibrahim, E AbdelKhaliq_
-
-
-_Humans, Gastrointestinal Microbiome, Parkinson Disease, Egypt, Microbiota, Bacteroides, Bacteroidetes, Bifidobacterium, Firmicutes_
-Recently, an important relationship between Parkinson's disease and the gut microbiota, through the brain-gut axis interactions, has been established. Previous studies have declared that alterations in the gut microbiota have a great impact on the pathogenesis and clinical picture of Parkinson's disease (PD). The present study aimed to identify the gut microbiome that is likely related to Parkinson's disease as well as their possible relation to clinical phenotypes.
+## Study of the gut microbiome in Egyptian patients with Parkinson’s Disease
 
 [Source](https://doi.org/10.1186/s12866-023-02933-7)
-
-10.1186/s12866-023-02933-7
 
 ---
 
