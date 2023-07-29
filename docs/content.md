@@ -10,15 +10,9 @@
 
 ---
 
-## Chagas disease is related to structural changes of the gut microbiota in adults with chronic infection (TRIPOBIOME Study).
- 21.07.2023, _JA Pérez-Molina, C Crespillo-Andújar, E Trigo, S Chamorro, M Arsuaga, L Olavarrieta, B Navia, O Martín, B Monge-Maillo, FF Norman, VF Lanza, S Serrano-Villar_
-
-
-The implications of the gut microbial communities in the immune response against parasites and gut motility could explain the differences in clinical manifestations and treatment responses found in patients with chronic Chagas disease.
+## Chagas disease is related to structural changes of the gut microbiota in adults with chronic infection (TRIPOBIOME Study)
 
 [Source](https://doi.org/10.1371/journal.pntd.0011490)
-
-10.1371/journal.pntd.0011490
 
 ---
 
