@@ -22,9 +22,16 @@ The implications of the gut microbial communities in the immune response against
 
 ---
 
-## Study of the gut microbiome in Egyptian patients with Parkinson’s Disease
+## Study of the gut microbiome in Egyptian patients with Parkinson's Disease.
+ 25.07.2023, _M Mehanna, S AbuRaya, SM Ahmed, G Ashmawy, A Ibrahim, E AbdelKhaliq_
+
+
+_Humans, Gastrointestinal Microbiome, Parkinson Disease, Egypt, Microbiota, Bacteroides, Bacteroidetes, Bifidobacterium, Firmicutes_
+Recently, an important relationship between Parkinson's disease and the gut microbiota, through the brain-gut axis interactions, has been established. Previous studies have declared that alterations in the gut microbiota have a great impact on the pathogenesis and clinical picture of Parkinson's disease (PD). The present study aimed to identify the gut microbiome that is likely related to Parkinson's disease as well as their possible relation to clinical phenotypes.
 
 [Source](https://doi.org/10.1186/s12866-023-02933-7)
+
+10.1186/s12866-023-02933-7
 
 ---
 
