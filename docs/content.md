@@ -1,7 +1,8 @@
 ## Resistome expansion in disease-associated human gut microbiomes.
- 30.07.2023, _S Fredriksen, S de Warle, P van Baarlen, J Boekhorst, JM Wells_
+ 31.07.2023, _S Fredriksen, S de Warle, P van Baarlen, J Boekhorst, JM Wells_
 
 
+_Humans, Gastrointestinal Microbiome, Microbiota, Anti-Bacterial Agents, Drug Resistance, Microbial, Genes, Bacterial_
 The resistome, the collection of antibiotic resistance genes (ARGs) in a microbiome, is increasingly recognised as relevant to the development of clinically relevant antibiotic resistance. Many metagenomic studies have reported resistome differences between groups, often in connection with disease and/or antibiotic treatment. However, the consistency of resistome associations with antibiotic- and non-antibiotic-treated diseases has not been established. In this study, we re-analysed human gut microbiome data from 26 case-control studies to assess the link between disease and the resistome.
 
 [Source](https://doi.org/10.1186/s40168-023-01610-1)
@@ -66,16 +67,9 @@ Recent studies revealed mechanisms by which the microbiome affects its host's br
 
 ---
 
-## Insulin alleviates murine colitis through microbiome alterations and bile acid metabolism.
- 28.07.2023, _S He, J Li, Z Yao, Z Gao, Y Jiang, X Chen, L Peng_
-
-
-_Mice, Humans, Animals, Insulin, RNA, Ribosomal, 16S, Colitis, Inflammatory Bowel Diseases, Inflammation, Gastrointestinal Microbiome, Bile Acids and Salts, Receptors, G-Protein-Coupled, Anti-Inflammatory Agents, Mice, Inbred C57BL_
-Insulin has been reported to exhibit anti-inflammatory activities in the context of bowel inflammation. However, the role of the interaction between insulin and the microbiota in gut health is unclear. Our goal was to investigate the mechanism of action of insulin in bowel inflammation and the relationship between insulin and the gut microbiota.
+## Insulin alleviates murine colitis through microbiome alterations and bile acid metabolism
 
 [Source](https://doi.org/10.1186/s12967-023-04214-3)
-
-10.1186/s12967-023-04214-3
 
 ---
 
@@ -104,15 +98,15 @@ Secondary bacterial infections and pneumonia are major mortality causes of respi
 
 ---
 
-## Nutrient Composition of Donor Human Milk and Comparisons to Preterm Human Milk.
- 30.07.2023, _A Gates, AB Hair, AA Salas, AB Thompson, BK Stansfield_
+## The impact of small-for-gestational-age Status on the outcomes in very-Low-birth-weight (VLBW) premature infants: a prospective cohort study in Taiwan.
+ 31.07.2023, _CY Lin, HY Chang, JH Chang, CH Hsu, WT Jim, CC Peng, CH Chen_
 
 
-Human milk is the preferred diet for very low birth weight (VLBW, &lt; 1,500 g) infants. When mother's own milk is unable to meet the needs of VLBW infants, donor human milk (DHM) is the preferred alternative. Unfortunately, the composition of DHM remains elusive and no comparative studies between preterm human milk and DHM have been performed previously.
+The impact of small-for-gestational-age (SGA) on very-low-birth-weight (VLBW) premature infants remains inconclusive. This study aimed to assess the effects of being born SGA status on the short-term and long-term outcomes in VLBW preterm infants.
 
 [Source](https://doi.org/10.1002/14651858.CD005496.pub6)
 
-10.1016/j.tjnut.2023.07.012
+10.3389/fped.2023.1209765
 
 ---
 
@@ -154,9 +148,10 @@ A growing number of human gut microbiome studies consistently describe differenc
 ---
 
 ## 5-Aminosalicylic acid alters the gut microbiota and altered microbiota transmitted vertically to offspring have protective effects against colitis.
- 28.07.2023, _H Wada, J Miyoshi, S Kuronuma, Y Nishinarita, N Oguri, N Hibi, O Takeuchi, Y Akimoto, STM Lee, M Matsuura, T Kobayashi, T Hibi, T Hisamatsu_
+ 31.07.2023, _H Wada, J Miyoshi, S Kuronuma, Y Nishinarita, N Oguri, N Hibi, O Takeuchi, Y Akimoto, STM Lee, M Matsuura, T Kobayashi, T Hibi, T Hisamatsu_
 
 
+_Humans, Animals, Mice, Mesalamine, Gastrointestinal Microbiome, Colitis, Colitis, Ulcerative, Inflammation, Inflammatory Bowel Diseases, Anti-Inflammatory Agents, Dextran Sulfate, Disease Models, Animal, Colon, Mice, Inbred C57BL_
 Although many therapeutic options are available for inflammatory bowel disease (IBD), 5-aminosalicylic acid (5-ASA) is still the key medication, particularly for ulcerative colitis (UC). However, the mechanism of action of 5-ASA remains unclear. The intestinal microbiota plays an important role in the pathophysiology of IBD, and we hypothesized that 5-ASA alters the intestinal microbiota, which promotes the anti-inflammatory effect of 5-ASA. Because intestinal inflammation affects the gut microbiota and 5-ASA can change the severity of inflammation, assessing the impact of inflammation and 5-ASA on the gut microbiota is not feasible in a clinical study of patients with UC. Therefore, we undertook a translational study to demonstrate a causal link between 5-ASA administration and alterations of the intestinal microbiota. Furthermore, by rigorously controlling environmental confounders and excluding the effect of 5-ASA itself with a vertical transmission model, we observed that the gut microbiota altered by 5-ASA affected host mucosal immunity and decreased susceptibility to dextran sulfate sodium-induce colitis. Although the potential intergenerational transmission of epigenetic changes needs to be considered in this study, these findings suggested that alterations in the intestinal microbiota induced by 5-ASA directed the host immune system towards an anti-inflammatory state, which underlies the mechanism of 5-ASA efficacy.
 
 [Source](https://doi.org/10.1038/s41598-023-39491-x)
@@ -179,9 +174,10 @@ Ultramicrobacteria (UMB), also known as ultra-small bacteria, are tiny bacteria 
 ---
 
 ## The long-term gut bacterial signature of a wild primate is associated with a timing effect of pre- and postnatal maternal glucocorticoid levels.
- 29.07.2023, _S Anzà, D Schneider, R Daniel, M Heistermann, S Sangmaneedet, J Ostner, O Schülke_
+ 31.07.2023, _S Anzà, D Schneider, R Daniel, M Heistermann, S Sangmaneedet, J Ostner, O Schülke_
 
 
+_Female, Animals, Pregnancy, Humans, Glucocorticoids, Gastrointestinal Microbiome, Cross-Sectional Studies, Primates, Bacteria, Prenatal Exposure Delayed Effects_
 During development, elevated levels of maternal glucocorticoids (GCs) can have detrimental effects on offspring morphology, cognition, and behavior as well as physiology and metabolism. Depending on the timing of exposure, such effects may vary in strength or even reverse in direction, may alleviate with age, or may concern more stable and long-term programming of phenotypic traits. Maternal effects on gut bacterial diversity, composition, and function, and the persistence of such effects into adulthood of long-lived model species in the natural habitats remain underexplored.
 
 [Source](https://doi.org/10.1186/s40168-023-01596-w)
@@ -236,9 +232,10 @@ Bovine respiratory disease (BRD) is one of the most common diseases in intensive
 ---
 
 ## The root microbiome: techniques for exploration and agricultural applications.
- 28.07.2023, _A Cannon_
+ 31.07.2023, _A Cannon_
 
 
+_Agriculture, Microbiota_
 Standfirst With an ever-growing global population, the pursuit of sustainable agriculture has become paramount. What if the solution lies right beneath our feet? Enter the root microbiome, the hidden hero poised to revolutionize agriculture and bring us closer to a greener future. [Formula: see text].
 
 [Source](https://doi.org/10.2144/btn-2023-0057)
@@ -278,9 +275,10 @@ Advances in sequencing technologies and bioinformatics tools have dramatically i
 ---
 
 ## Lectin-Seq: A method to profile lectin-microbe interactions in native communities.
- 28.07.2023, _RL McPherson, CR Isabella, RL Walker, D Sergio, S Bae, T Gaca, S Raman, LTT Nguyen, DA Wesener, M Halim, MG Wuo, A Dugan, R Kerby, S Ghosh, FE Rey, C Dhennezel, G Pishchany, V Lensch, H Vlamakis, EJ Alm, RJ Xavier, LL Kiessling_
+ 31.07.2023, _RL McPherson, CR Isabella, RL Walker, D Sergio, S Bae, T Gaca, S Raman, LTT Nguyen, DA Wesener, M Halim, MG Wuo, A Dugan, R Kerby, S Ghosh, FE Rey, C Dhennezel, G Pishchany, V Lensch, H Vlamakis, EJ Alm, RJ Xavier, LL Kiessling_
 
 
+_Humans, Lectins, Immunity, Innate_
 Soluble human lectins are critical components of innate immunity. Genetic models suggest that lectins influence host-resident microbiota, but their specificity for commensal and mutualist species is understudied. Elucidating lectins' roles in regulating microbiota requires an understanding of which microbial species they bind within native communities. To profile human lectin recognition, we developed Lectin-Seq. We apply Lectin-Seq to human fecal microbiota using the soluble mannose-binding lectin (MBL) and intelectin-1 (hItln1). Although each lectin binds a substantial percentage of the samples (10 to 20%), the microbial interactomes of MBL and hItln1 differ markedly in composition and diversity. MBL binding is highly selective for a small subset of species commonly associated with humans. In contrast, hItln1's interaction profile encompasses a broad range of lower-abundance species. Our data uncover stark differences in the commensal recognition properties of human lectins.
 
 [Source](https://doi.org/10.1126/sciadv.add8766)
