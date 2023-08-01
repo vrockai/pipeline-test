@@ -35,16 +35,9 @@ The resistome, the collection of antibiotic resistance genes (ARGs) in a microbi
 
 ---
 
-## Evolutionary modeling suggests that addictions may be driven by competition-induced microbiome dysbiosis.
- 29.07.2023, _O Lewin-Epstein, Y Jaques, MW Feldman, D Kaufer, L Hadany_
-
-
-_Humans, Dysbiosis, Microbiota, Brain_
-Recent studies revealed mechanisms by which the microbiome affects its host's brain, behavior and wellbeing, and that dysbiosis - persistent microbiome-imbalance - is associated with the onset and progress of various chronic diseases, including addictive behaviors. Yet, understanding of the ecological and evolutionary processes that shape the host-microbiome ecosystem and affect the host state, is still limited. Here we propose that competition dynamics within the microbiome, associated with host-microbiome mutual regulation, may promote dysbiosis and aggravate addictive behaviors. We construct a mathematical framework, modeling the dynamics of the host-microbiome ecosystem in response to alterations. We find that when this ecosystem is exposed to substantial perturbations, the microbiome may shift towards a composition that reinforces the new host state. Such a positive feedback loop augments post-perturbation imbalances, hindering attempts to return to the initial equilibrium, promoting relapse episodes and prolonging addictions. We show that the initial microbiome composition is a key factor: a diverse microbiome enhances the ecosystem's resilience, whereas lower microbiome diversity is more prone to lead to dysbiosis, exacerbating addictions. This framework provides evolutionary and ecological perspectives on host-microbiome interactions and their implications for host behavior and health, while offering verifiable predictions with potential relevance to clinical treatments.
+## Evolutionary modeling suggests that addictions may be driven by competition-induced microbiome dysbiosis
 
 [Source](https://doi.org/10.1038/s42003-023-05099-0)
-
-10.1038/s42003-023-05099-0
 
 ---
 
@@ -60,53 +53,21 @@ Recent studies revealed mechanisms by which the microbiome affects its host's br
 
 ---
 
-## Insulin alleviates murine colitis through microbiome alterations and bile acid metabolism.
- 28.07.2023, _S He, J Li, Z Yao, Z Gao, Y Jiang, X Chen, L Peng_
-
-
-_Mice, Humans, Animals, Insulin, RNA, Ribosomal, 16S, Colitis, Inflammatory Bowel Diseases, Inflammation, Gastrointestinal Microbiome, Bile Acids and Salts, Receptors, G-Protein-Coupled, Anti-Inflammatory Agents, Mice, Inbred C57BL_
-Insulin has been reported to exhibit anti-inflammatory activities in the context of bowel inflammation. However, the role of the interaction between insulin and the microbiota in gut health is unclear. Our goal was to investigate the mechanism of action of insulin in bowel inflammation and the relationship between insulin and the gut microbiota.
+## Insulin alleviates murine colitis through microbiome alterations and bile acid metabolism
 
 [Source](https://doi.org/10.1186/s12967-023-04214-3)
 
-10.1186/s12967-023-04214-3
-
 ---
 
-## The Vaginal Microbiota of Pregnant Women Varies with Gestational Age, Maternal Age, and Parity.
- 24.07.2023, _R Romero, KR Theis, N Gomez-Lopez, AD Winters, JJ Panzer, H Lin, J Galaz, JM Greenberg, Z Shaffer, DJ Kracht, T Chaiworapongsa, E Jung, F Gotsch, J Ravel, SD Peddada, AL Tarca_
-
-
-The composition of the vaginal microbiota is heavily influenced by pregnancy and may factor into pregnancy complications, including spontaneous preterm birth. However, results among studies have been inconsistent due, in part, to variation in sample sizes and ethnicity. Thus, an association between the vaginal microbiota and preterm labor continues to be debated. Yet, before assessing associations between the composition of the vaginal microbiota and preterm labor, a robust and in-depth characterization of the vaginal microbiota throughout pregnancy in the specific study population under investigation is required. Here, we report a large longitudinal study (n = 474 women, 1,862 vaginal samples) of a predominantly African-American cohort-a population that experiences a relatively high rate of pregnancy complications-evaluating associations between individual identity, gestational age, and other maternal characteristics with the composition of the vaginal microbiota throughout gestation resulting in term delivery. The principal factors influencing the composition of the vaginal microbiota in pregnancy are individual identity and gestational age at sampling. Other factors are maternal age, parity, obesity, and self-reported Cannabis use. The general pattern across gestation is for the vaginal microbiota to remain or transition to a state of Lactobacillus dominance. This pattern can be modified by maternal parity and obesity. Regardless, network analyses reveal dynamic associations among specific bacterial taxa within the vaginal ecosystem, which shift throughout the course of pregnancy. This study provides a robust foundational understanding of the vaginal microbiota in pregnancy and sets the stage for further investigation of this microbiota in obstetrical disease. IMPORTANCE There is debate regarding links between the vaginal microbiota and pregnancy complications, especially spontaneous preterm birth. Inconsistencies in results among studies are likely due to differences in sample sizes and cohort ethnicity. Ethnicity is a complicating factor because, although all bacterial taxa commonly inhabiting the vagina are present among all ethnicities, the frequencies of these taxa vary among ethnicities. Therefore, an in-depth characterization of the vaginal microbiota throughout pregnancy in the specific study population under investigation is required prior to evaluating associations between the vaginal microbiota and obstetrical disease. This initial investigation is a large longitudinal study of the vaginal microbiota throughout gestation resulting in a term delivery in a predominantly African-American cohort, a population that experiences disproportionally negative maternal-fetal health outcomes. It establishes the magnitude of associations between maternal characteristics, such as age, parity, body mass index, and self-reported Cannabis use, on the vaginal microbiota in pregnancy.
+## The Vaginal Microbiota of Pregnant Women Varies with Gestational Age, Maternal Age, and Parity
 
 [Source](https://doi.org/10.1128/spectrum.03429-22)
 
-10.1128/spectrum.03429-22
-
 ---
 
-## Unique microbial landscape in the human oropharynx during different types of acute respiratory tract infections.
- 26.07.2023, _H Li, X Wu, H Zeng, B Chang, Y Cui, J Zhang, R Wang, T Ding_
-
-
-_Humans, Influenza, Human, Dysbiosis, Respiratory Tract Infections, Orthomyxoviridae Infections, Oropharynx, Bacteria, Influenza A virus, Coinfection_
-Secondary bacterial infections and pneumonia are major mortality causes of respiratory viruses, and the disruption of the upper respiratory tract (URT) microbiota is a crucial component of this process. However, whether this URT dysbiosis associates with the viral species (in other words, is viral type-specific) is unclear.
+## Unique microbial landscape in the human oropharynx during different types of acute respiratory tract infections
 
 [Source](https://doi.org/10.1186/s40168-023-01597-9)
-
-10.1186/s40168-023-01597-9
-
----
-
-## The impact of small-for-gestational-age Status on the outcomes in very-Low-birth-weight (VLBW) premature infants: a prospective cohort study in Taiwan.
- 31.07.2023, _CY Lin, HY Chang, JH Chang, CH Hsu, WT Jim, CC Peng, CH Chen_
-
-
-The impact of small-for-gestational-age (SGA) on very-low-birth-weight (VLBW) premature infants remains inconclusive. This study aimed to assess the effects of being born SGA status on the short-term and long-term outcomes in VLBW preterm infants.
-
-[Source](https://doi.org/10.1002/14651858.CD005496.pub6)
-
-10.3389/fped.2023.1209765
 
 ---
 
@@ -116,16 +77,9 @@ The impact of small-for-gestational-age (SGA) on very-low-birth-weight (VLBW) pr
 
 ---
 
-## A gut feeling for drugs that have metabolic benefits.
- 28.07.2023, _E Zhang, A Agua, W Huang_
-
-
-_Emotions_
-Resveratrol (REV) is a natural polyphenol with anti-obesity effects. However, the mechanisms remain unclear due to its low bioavailability and the lack of defined membrane-bound or nuclear receptors. Pang and colleagues reported that REV intervention (REV-I) alters gut microbiota and bile acid profile, leading to the inhibition of farnesoid X receptor (FXR) and attenuation of scavenger receptor class B type 1 (SR-B1)-mediated chylomicron secretion. This highlights a therapeutic potential of targeting gut microbiome and intestinal SR-B1 for obesity and diabetes treatment.
+## A gut feeling for drugs that have metabolic benefits
 
 [Source](https://doi.org/10.1038/s41467-023-40167-3)
-
-10.1038/s41467-023-40167-3
 
 ---
 
