@@ -29,16 +29,9 @@ The resistome, the collection of antibiotic resistance genes (ARGs) in a microbi
 
 ---
 
-## Analysis of bacterial vaginosis, the vaginal microbiome, and sexually transmitted infections following the provision of menstrual cups in Kenyan schools: Results of a nested study within a cluster randomized controlled trial.
- 27.07.2023, _SD Mehta, G Zulaika, W Agingu, E Nyothach, R Bhaumik, SJ Green, AM van Eijk, D Kwaro, F Otieno, P Phillips-Howard_
-
-
-_Female, Adolescent, Humans, Vaginosis, Bacterial, Kenya, Menstrual Hygiene Products, RNA, Ribosomal, 16S, Sexually Transmitted Diseases, Schools, Microbiota_
-Nonhygienic products for managing menstruation are reported to cause reproductive tract infections. Menstrual cups are a potential solution. We assessed whether menstrual cups would reduce bacterial vaginosis (BV), vaginal microbiome (VMB), and sexually transmitted infections (STIs) as studies have not evaluated this.
+## Analysis of bacterial vaginosis, the vaginal microbiome, and sexually transmitted infections following the provision of menstrual cups in Kenyan schools: Results of a nested study within a cluster randomized controlled trial
 
 [Source](https://doi.org/10.1371/journal.pmed.1004258)
-
-10.1371/journal.pmed.1004258
 
 ---
 
