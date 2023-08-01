@@ -1,5 +1,5 @@
 ## Resistome expansion in disease-associated human gut microbiomes.
- 31.07.2023, _S Fredriksen, S de Warle, P van Baarlen, J Boekhorst, JM Wells_
+ 01.08.2023, _S Fredriksen, S de Warle, P van Baarlen, J Boekhorst, JM Wells_
 
 
 _Humans, Gastrointestinal Microbiome, Microbiota, Anti-Bacterial Agents, Drug Resistance, Microbial, Genes, Bacterial_
@@ -71,15 +71,34 @@ The resistome, the collection of antibiotic resistance genes (ARGs) in a microbi
 
 ---
 
+## The impact of small-for-gestational-age Status on the outcomes in very-Low-birth-weight (VLBW) premature infants: a prospective cohort study in Taiwan.
+ 01.08.2023, _CY Lin, HY Chang, JH Chang, CH Hsu, WT Jim, CC Peng, CH Chen_
+
+
+The impact of small-for-gestational-age (SGA) on very-low-birth-weight (VLBW) premature infants remains inconclusive. This study aimed to assess the effects of being born SGA status on the short-term and long-term outcomes in VLBW preterm infants.
+
+[Source](https://doi.org/10.1002/14651858.CD005496.pub6)
+
+10.3389/fped.2023.1209765
+
+---
+
 ## Probiotics to prevent necrotising enterocolitis in very preterm or very low birth weight infants
 
 [Source](https://doi.org/10.1002/14651858.CD005496.pub6)
 
 ---
 
-## A gut feeling for drugs that have metabolic benefits
+## A gut feeling for drugs that have metabolic benefits.
+ 28.07.2023, _E Zhang, A Agua, W Huang_
+
+
+_Emotions_
+Resveratrol (REV) is a natural polyphenol with anti-obesity effects. However, the mechanisms remain unclear due to its low bioavailability and the lack of defined membrane-bound or nuclear receptors. Pang and colleagues reported that REV intervention (REV-I) alters gut microbiota and bile acid profile, leading to the inhibition of farnesoid X receptor (FXR) and attenuation of scavenger receptor class B type 1 (SR-B1)-mediated chylomicron secretion. This highlights a therapeutic potential of targeting gut microbiome and intestinal SR-B1 for obesity and diabetes treatment.
 
 [Source](https://doi.org/10.1038/s41467-023-40167-3)
+
+10.1038/s41467-023-40167-3
 
 ---
 
@@ -102,7 +121,7 @@ A growing number of human gut microbiome studies consistently describe differenc
 ---
 
 ## 5-Aminosalicylic acid alters the gut microbiota and altered microbiota transmitted vertically to offspring have protective effects against colitis.
- 31.07.2023, _H Wada, J Miyoshi, S Kuronuma, Y Nishinarita, N Oguri, N Hibi, O Takeuchi, Y Akimoto, STM Lee, M Matsuura, T Kobayashi, T Hibi, T Hisamatsu_
+ 01.08.2023, _H Wada, J Miyoshi, S Kuronuma, Y Nishinarita, N Oguri, N Hibi, O Takeuchi, Y Akimoto, STM Lee, M Matsuura, T Kobayashi, T Hibi, T Hisamatsu_
 
 
 _Humans, Animals, Mice, Mesalamine, Gastrointestinal Microbiome, Colitis, Colitis, Ulcerative, Inflammation, Inflammatory Bowel Diseases, Anti-Inflammatory Agents, Dextran Sulfate, Disease Models, Animal, Colon, Mice, Inbred C57BL_
@@ -229,7 +248,7 @@ Advances in sequencing technologies and bioinformatics tools have dramatically i
 ---
 
 ## Lectin-Seq: A method to profile lectin-microbe interactions in native communities.
- 31.07.2023, _RL McPherson, CR Isabella, RL Walker, D Sergio, S Bae, T Gaca, S Raman, LTT Nguyen, DA Wesener, M Halim, MG Wuo, A Dugan, R Kerby, S Ghosh, FE Rey, C Dhennezel, G Pishchany, V Lensch, H Vlamakis, EJ Alm, RJ Xavier, LL Kiessling_
+ 01.08.2023, _RL McPherson, CR Isabella, RL Walker, D Sergio, S Bae, T Gaca, S Raman, LTT Nguyen, DA Wesener, M Halim, MG Wuo, A Dugan, R Kerby, S Ghosh, FE Rey, C Dhennezel, G Pishchany, V Lensch, H Vlamakis, EJ Alm, RJ Xavier, LL Kiessling_
 
 
 _Humans, Lectins, Immunity, Innate_
