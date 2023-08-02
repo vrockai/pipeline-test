@@ -67,9 +67,16 @@ Recent studies revealed mechanisms by which the microbiome affects its host's br
 
 ---
 
-## Insulin alleviates murine colitis through microbiome alterations and bile acid metabolism
+## Insulin alleviates murine colitis through microbiome alterations and bile acid metabolism.
+ 28.07.2023, _S He, J Li, Z Yao, Z Gao, Y Jiang, X Chen, L Peng_
+
+
+_Mice, Humans, Animals, Insulin, RNA, Ribosomal, 16S, Colitis, Inflammatory Bowel Diseases, Inflammation, Gastrointestinal Microbiome, Bile Acids and Salts, Receptors, G-Protein-Coupled, Anti-Inflammatory Agents, Mice, Inbred C57BL_
+Insulin has been reported to exhibit anti-inflammatory activities in the context of bowel inflammation. However, the role of the interaction between insulin and the microbiota in gut health is unclear. Our goal was to investigate the mechanism of action of insulin in bowel inflammation and the relationship between insulin and the gut microbiota.
 
 [Source](https://doi.org/10.1186/s12967-023-04214-3)
+
+10.1186/s12967-023-04214-3
 
 ---
 
