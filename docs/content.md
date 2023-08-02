@@ -105,15 +105,15 @@ Secondary bacterial infections and pneumonia are major mortality causes of respi
 
 ---
 
-## The impact of small-for-gestational-age Status on the outcomes in very-Low-birth-weight (VLBW) premature infants: a prospective cohort study in Taiwan.
- 01.08.2023, _CY Lin, HY Chang, JH Chang, CH Hsu, WT Jim, CC Peng, CH Chen_
+## To be born twin: effects on long-term neurodevelopment of very preterm infants-a cohort study.
+ 02.08.2023, _C Fontana, P Schiavolin, G Ardemani, DA Amerotti, N Pesenti, C Bonfanti, T Boggini, S Gangi, M Porro, C Squarza, ML Giannì, N Persico, F Mosca, M Fumagalli_
 
 
-The impact of small-for-gestational-age (SGA) on very-low-birth-weight (VLBW) premature infants remains inconclusive. This study aimed to assess the effects of being born SGA status on the short-term and long-term outcomes in VLBW preterm infants.
+To examine the effect of twin birth on long-term neurodevelopmental outcomes in a cohort of Italian preterm infants with very low birth weight.
 
 [Source](https://doi.org/10.1002/14651858.CD005496.pub6)
 
-10.3389/fped.2023.1209765
+10.3389/fped.2023.1217650
 
 ---
 
