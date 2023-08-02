@@ -281,7 +281,7 @@ Advances in sequencing technologies and bioinformatics tools have dramatically i
 ---
 
 ## Lectin-Seq: A method to profile lectin-microbe interactions in native communities.
- 01.08.2023, _RL McPherson, CR Isabella, RL Walker, D Sergio, S Bae, T Gaca, S Raman, LTT Nguyen, DA Wesener, M Halim, MG Wuo, A Dugan, R Kerby, S Ghosh, FE Rey, C Dhennezel, G Pishchany, V Lensch, H Vlamakis, EJ Alm, RJ Xavier, LL Kiessling_
+ 02.08.2023, _RL McPherson, CR Isabella, RL Walker, D Sergio, S Bae, T Gaca, S Raman, LTT Nguyen, DA Wesener, M Halim, MG Wuo, A Dugan, R Kerby, S Ghosh, FE Rey, C Dhennezel, G Pishchany, V Lensch, H Vlamakis, EJ Alm, RJ Xavier, LL Kiessling_
 
 
 _Humans, Lectins, Immunity, Innate_
