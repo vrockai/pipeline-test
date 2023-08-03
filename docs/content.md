@@ -101,16 +101,9 @@ The resistome, the collection of antibiotic resistance genes (ARGs) in a microbi
 
 ---
 
-## Presence of an ultra-small microbiome in fermented cabbages.
- 01.08.2023, _HW Lee, SR Yoon, YM Dang, M Kang, K Lee, JH Ha, JW Bae_
-
-
-_Bacteria, Brassica, DNA, Microbiota, RNA, Ribosomal, 16S, Vegetables_
-Ultramicrobacteria (UMB), also known as ultra-small bacteria, are tiny bacteria with a size less than 0.1 µm3. They have a high surface-to-volume ratio and are found in various ecosystems, including the human body. UMB can be classified into two types: one formed through cell contraction and the other that maintains a small size. The ultra-small microbiome (USM), which may contain UMB, includes all bacteria less than 0.2 µm in size and is difficult to detect with current methods. However, it poses a potential threat to food hygiene, as it can pass through sterilization filters and exist in a viable but non-culturable (VBNC) state. The data on the USM of foods is limited. Some bacteria, including pathogenic species, are capable of forming UMB under harsh conditions, making it difficult to detect them through conventional culture techniques.
+## Presence of an ultra-small microbiome in fermented cabbages
 
 [Source](https://doi.org/10.7717/peerj.15680)
-
-10.7717/peerj.15680
 
 ---
 
