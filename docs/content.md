@@ -29,22 +29,22 @@ The resistome, the collection of antibiotic resistance genes (ARGs) in a microbi
 
 ---
 
-## Analysis of bacterial vaginosis, the vaginal microbiome, and sexually transmitted infections following the provision of menstrual cups in Kenyan schools: Results of a nested study within a cluster randomized controlled trial.
- 27.07.2023, _SD Mehta, G Zulaika, W Agingu, E Nyothach, R Bhaumik, SJ Green, AM van Eijk, D Kwaro, F Otieno, P Phillips-Howard_
-
-
-_Female, Adolescent, Humans, Vaginosis, Bacterial, Kenya, Menstrual Hygiene Products, RNA, Ribosomal, 16S, Sexually Transmitted Diseases, Schools, Microbiota_
-Nonhygienic products for managing menstruation are reported to cause reproductive tract infections. Menstrual cups are a potential solution. We assessed whether menstrual cups would reduce bacterial vaginosis (BV), vaginal microbiome (VMB), and sexually transmitted infections (STIs) as studies have not evaluated this.
+## Analysis of bacterial vaginosis, the vaginal microbiome, and sexually transmitted infections following the provision of menstrual cups in Kenyan schools: Results of a nested study within a cluster randomized controlled trial
 
 [Source](https://doi.org/10.1371/journal.pmed.1004258)
 
-10.1371/journal.pmed.1004258
-
 ---
 
-## Evolutionary modeling suggests that addictions may be driven by competition-induced microbiome dysbiosis
+## Evolutionary modeling suggests that addictions may be driven by competition-induced microbiome dysbiosis.
+ 29.07.2023, _O Lewin-Epstein, Y Jaques, MW Feldman, D Kaufer, L Hadany_
+
+
+_Humans, Dysbiosis, Microbiota, Brain_
+Recent studies revealed mechanisms by which the microbiome affects its host's brain, behavior and wellbeing, and that dysbiosis - persistent microbiome-imbalance - is associated with the onset and progress of various chronic diseases, including addictive behaviors. Yet, understanding of the ecological and evolutionary processes that shape the host-microbiome ecosystem and affect the host state, is still limited. Here we propose that competition dynamics within the microbiome, associated with host-microbiome mutual regulation, may promote dysbiosis and aggravate addictive behaviors. We construct a mathematical framework, modeling the dynamics of the host-microbiome ecosystem in response to alterations. We find that when this ecosystem is exposed to substantial perturbations, the microbiome may shift towards a composition that reinforces the new host state. Such a positive feedback loop augments post-perturbation imbalances, hindering attempts to return to the initial equilibrium, promoting relapse episodes and prolonging addictions. We show that the initial microbiome composition is a key factor: a diverse microbiome enhances the ecosystem's resilience, whereas lower microbiome diversity is more prone to lead to dysbiosis, exacerbating addictions. This framework provides evolutionary and ecological perspectives on host-microbiome interactions and their implications for host behavior and health, while offering verifiable predictions with potential relevance to clinical treatments.
 
 [Source](https://doi.org/10.1038/s42003-023-05099-0)
+
+10.1038/s42003-023-05099-0
 
 ---
 
@@ -158,9 +158,16 @@ Although many therapeutic options are available for inflammatory bowel disease (
 
 ---
 
-## Presence of an ultra-small microbiome in fermented cabbages
+## Presence of an ultra-small microbiome in fermented cabbages.
+ 01.08.2023, _HW Lee, SR Yoon, YM Dang, M Kang, K Lee, JH Ha, JW Bae_
+
+
+_Bacteria, Brassica, DNA, Microbiota, RNA, Ribosomal, 16S, Vegetables_
+Ultramicrobacteria (UMB), also known as ultra-small bacteria, are tiny bacteria with a size less than 0.1 µm3. They have a high surface-to-volume ratio and are found in various ecosystems, including the human body. UMB can be classified into two types: one formed through cell contraction and the other that maintains a small size. The ultra-small microbiome (USM), which may contain UMB, includes all bacteria less than 0.2 µm in size and is difficult to detect with current methods. However, it poses a potential threat to food hygiene, as it can pass through sterilization filters and exist in a viable but non-culturable (VBNC) state. The data on the USM of foods is limited. Some bacteria, including pathogenic species, are capable of forming UMB under harsh conditions, making it difficult to detect them through conventional culture techniques.
 
 [Source](https://doi.org/10.7717/peerj.15680)
+
+10.7717/peerj.15680
 
 ---
 
