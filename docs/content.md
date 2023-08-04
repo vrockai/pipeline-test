@@ -42,16 +42,9 @@ Nonhygienic products for managing menstruation are reported to cause reproductiv
 
 ---
 
-## Evolutionary modeling suggests that addictions may be driven by competition-induced microbiome dysbiosis.
- 29.07.2023, _O Lewin-Epstein, Y Jaques, MW Feldman, D Kaufer, L Hadany_
-
-
-_Humans, Dysbiosis, Microbiota, Brain_
-Recent studies revealed mechanisms by which the microbiome affects its host's brain, behavior and wellbeing, and that dysbiosis - persistent microbiome-imbalance - is associated with the onset and progress of various chronic diseases, including addictive behaviors. Yet, understanding of the ecological and evolutionary processes that shape the host-microbiome ecosystem and affect the host state, is still limited. Here we propose that competition dynamics within the microbiome, associated with host-microbiome mutual regulation, may promote dysbiosis and aggravate addictive behaviors. We construct a mathematical framework, modeling the dynamics of the host-microbiome ecosystem in response to alterations. We find that when this ecosystem is exposed to substantial perturbations, the microbiome may shift towards a composition that reinforces the new host state. Such a positive feedback loop augments post-perturbation imbalances, hindering attempts to return to the initial equilibrium, promoting relapse episodes and prolonging addictions. We show that the initial microbiome composition is a key factor: a diverse microbiome enhances the ecosystem's resilience, whereas lower microbiome diversity is more prone to lead to dysbiosis, exacerbating addictions. This framework provides evolutionary and ecological perspectives on host-microbiome interactions and their implications for host behavior and health, while offering verifiable predictions with potential relevance to clinical treatments.
+## Evolutionary modeling suggests that addictions may be driven by competition-induced microbiome dysbiosis
 
 [Source](https://doi.org/10.1038/s42003-023-05099-0)
-
-10.1038/s42003-023-05099-0
 
 ---
 
@@ -165,16 +158,9 @@ Although many therapeutic options are available for inflammatory bowel disease (
 
 ---
 
-## Presence of an ultra-small microbiome in fermented cabbages.
- 01.08.2023, _HW Lee, SR Yoon, YM Dang, M Kang, K Lee, JH Ha, JW Bae_
-
-
-_Bacteria, Brassica, DNA, Microbiota, RNA, Ribosomal, 16S, Vegetables_
-Ultramicrobacteria (UMB), also known as ultra-small bacteria, are tiny bacteria with a size less than 0.1 µm3. They have a high surface-to-volume ratio and are found in various ecosystems, including the human body. UMB can be classified into two types: one formed through cell contraction and the other that maintains a small size. The ultra-small microbiome (USM), which may contain UMB, includes all bacteria less than 0.2 µm in size and is difficult to detect with current methods. However, it poses a potential threat to food hygiene, as it can pass through sterilization filters and exist in a viable but non-culturable (VBNC) state. The data on the USM of foods is limited. Some bacteria, including pathogenic species, are capable of forming UMB under harsh conditions, making it difficult to detect them through conventional culture techniques.
+## Presence of an ultra-small microbiome in fermented cabbages
 
 [Source](https://doi.org/10.7717/peerj.15680)
-
-10.7717/peerj.15680
 
 ---
 
@@ -279,9 +265,16 @@ Advances in sequencing technologies and bioinformatics tools have dramatically i
 
 ---
 
-## Lectin-Seq: A method to profile lectin-microbe interactions in native communities
+## Lectin-Seq: A method to profile lectin-microbe interactions in native communities.
+ 02.08.2023, _RL McPherson, CR Isabella, RL Walker, D Sergio, S Bae, T Gaca, S Raman, LTT Nguyen, DA Wesener, M Halim, MG Wuo, A Dugan, R Kerby, S Ghosh, FE Rey, C Dhennezel, G Pishchany, V Lensch, H Vlamakis, EJ Alm, RJ Xavier, LL Kiessling_
+
+
+_Humans, Lectins, Immunity, Innate_
+Soluble human lectins are critical components of innate immunity. Genetic models suggest that lectins influence host-resident microbiota, but their specificity for commensal and mutualist species is understudied. Elucidating lectins' roles in regulating microbiota requires an understanding of which microbial species they bind within native communities. To profile human lectin recognition, we developed Lectin-Seq. We apply Lectin-Seq to human fecal microbiota using the soluble mannose-binding lectin (MBL) and intelectin-1 (hItln1). Although each lectin binds a substantial percentage of the samples (10 to 20%), the microbial interactomes of MBL and hItln1 differ markedly in composition and diversity. MBL binding is highly selective for a small subset of species commonly associated with humans. In contrast, hItln1's interaction profile encompasses a broad range of lower-abundance species. Our data uncover stark differences in the commensal recognition properties of human lectins.
 
 [Source](https://doi.org/10.1126/sciadv.add8766)
+
+10.1126/sciadv.add8766
 
 ---
 
