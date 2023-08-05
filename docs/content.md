@@ -35,16 +35,9 @@ The resistome, the collection of antibiotic resistance genes (ARGs) in a microbi
 
 ---
 
-## Evolutionary modeling suggests that addictions may be driven by competition-induced microbiome dysbiosis.
- 29.07.2023, _O Lewin-Epstein, Y Jaques, MW Feldman, D Kaufer, L Hadany_
-
-
-_Humans, Dysbiosis, Microbiota, Brain_
-Recent studies revealed mechanisms by which the microbiome affects its host's brain, behavior and wellbeing, and that dysbiosis - persistent microbiome-imbalance - is associated with the onset and progress of various chronic diseases, including addictive behaviors. Yet, understanding of the ecological and evolutionary processes that shape the host-microbiome ecosystem and affect the host state, is still limited. Here we propose that competition dynamics within the microbiome, associated with host-microbiome mutual regulation, may promote dysbiosis and aggravate addictive behaviors. We construct a mathematical framework, modeling the dynamics of the host-microbiome ecosystem in response to alterations. We find that when this ecosystem is exposed to substantial perturbations, the microbiome may shift towards a composition that reinforces the new host state. Such a positive feedback loop augments post-perturbation imbalances, hindering attempts to return to the initial equilibrium, promoting relapse episodes and prolonging addictions. We show that the initial microbiome composition is a key factor: a diverse microbiome enhances the ecosystem's resilience, whereas lower microbiome diversity is more prone to lead to dysbiosis, exacerbating addictions. This framework provides evolutionary and ecological perspectives on host-microbiome interactions and their implications for host behavior and health, while offering verifiable predictions with potential relevance to clinical treatments.
+## Evolutionary modeling suggests that addictions may be driven by competition-induced microbiome dysbiosis
 
 [Source](https://doi.org/10.1038/s42003-023-05099-0)
-
-10.1038/s42003-023-05099-0
 
 ---
 
@@ -60,52 +53,21 @@ Recent studies revealed mechanisms by which the microbiome affects its host's br
 
 ---
 
-## Insulin alleviates murine colitis through microbiome alterations and bile acid metabolism.
- 28.07.2023, _S He, J Li, Z Yao, Z Gao, Y Jiang, X Chen, L Peng_
-
-
-_Mice, Humans, Animals, Insulin, RNA, Ribosomal, 16S, Colitis, Inflammatory Bowel Diseases, Inflammation, Gastrointestinal Microbiome, Bile Acids and Salts, Receptors, G-Protein-Coupled, Anti-Inflammatory Agents, Mice, Inbred C57BL_
-Insulin has been reported to exhibit anti-inflammatory activities in the context of bowel inflammation. However, the role of the interaction between insulin and the microbiota in gut health is unclear. Our goal was to investigate the mechanism of action of insulin in bowel inflammation and the relationship between insulin and the gut microbiota.
+## Insulin alleviates murine colitis through microbiome alterations and bile acid metabolism
 
 [Source](https://doi.org/10.1186/s12967-023-04214-3)
 
-10.1186/s12967-023-04214-3
-
 ---
 
-## The Vaginal Microbiota of Pregnant Women Varies with Gestational Age, Maternal Age, and Parity.
- 24.07.2023, _R Romero, KR Theis, N Gomez-Lopez, AD Winters, JJ Panzer, H Lin, J Galaz, JM Greenberg, Z Shaffer, DJ Kracht, T Chaiworapongsa, E Jung, F Gotsch, J Ravel, SD Peddada, AL Tarca_
-
-
-The composition of the vaginal microbiota is heavily influenced by pregnancy and may factor into pregnancy complications, including spontaneous preterm birth. However, results among studies have been inconsistent due, in part, to variation in sample sizes and ethnicity. Thus, an association between the vaginal microbiota and preterm labor continues to be debated. Yet, before assessing associations between the composition of the vaginal microbiota and preterm labor, a robust and in-depth characterization of the vaginal microbiota throughout pregnancy in the specific study population under investigation is required. Here, we report a large longitudinal study (n = 474 women, 1,862 vaginal samples) of a predominantly African-American cohort-a population that experiences a relatively high rate of pregnancy complications-evaluating associations between individual identity, gestational age, and other maternal characteristics with the composition of the vaginal microbiota throughout gestation resulting in term delivery. The principal factors influencing the composition of the vaginal microbiota in pregnancy are individual identity and gestational age at sampling. Other factors are maternal age, parity, obesity, and self-reported Cannabis use. The general pattern across gestation is for the vaginal microbiota to remain or transition to a state of Lactobacillus dominance. This pattern can be modified by maternal parity and obesity. Regardless, network analyses reveal dynamic associations among specific bacterial taxa within the vaginal ecosystem, which shift throughout the course of pregnancy. This study provides a robust foundational understanding of the vaginal microbiota in pregnancy and sets the stage for further investigation of this microbiota in obstetrical disease. IMPORTANCE There is debate regarding links between the vaginal microbiota and pregnancy complications, especially spontaneous preterm birth. Inconsistencies in results among studies are likely due to differences in sample sizes and cohort ethnicity. Ethnicity is a complicating factor because, although all bacterial taxa commonly inhabiting the vagina are present among all ethnicities, the frequencies of these taxa vary among ethnicities. Therefore, an in-depth characterization of the vaginal microbiota throughout pregnancy in the specific study population under investigation is required prior to evaluating associations between the vaginal microbiota and obstetrical disease. This initial investigation is a large longitudinal study of the vaginal microbiota throughout gestation resulting in a term delivery in a predominantly African-American cohort, a population that experiences disproportionally negative maternal-fetal health outcomes. It establishes the magnitude of associations between maternal characteristics, such as age, parity, body mass index, and self-reported Cannabis use, on the vaginal microbiota in pregnancy.
+## The Vaginal Microbiota of Pregnant Women Varies with Gestational Age, Maternal Age, and Parity
 
 [Source](https://doi.org/10.1128/spectrum.03429-22)
 
-10.1128/spectrum.03429-22
-
 ---
 
-## Unique microbial landscape in the human oropharynx during different types of acute respiratory tract infections.
- 26.07.2023, _H Li, X Wu, H Zeng, B Chang, Y Cui, J Zhang, R Wang, T Ding_
-
-
-_Humans, Influenza, Human, Dysbiosis, Respiratory Tract Infections, Orthomyxoviridae Infections, Oropharynx, Bacteria, Influenza A virus, Coinfection_
-Secondary bacterial infections and pneumonia are major mortality causes of respiratory viruses, and the disruption of the upper respiratory tract (URT) microbiota is a crucial component of this process. However, whether this URT dysbiosis associates with the viral species (in other words, is viral type-specific) is unclear.
+## Unique microbial landscape in the human oropharynx during different types of acute respiratory tract infections
 
 [Source](https://doi.org/10.1186/s40168-023-01597-9)
-
-10.1186/s40168-023-01597-9
-
----
-
-## Shades of uncertainty: Perspectives on Hypoplastic Left Heart Syndrome in premature and low birth weight infants.
- 03.08.2023, _AM Bigelow, T Karamlou_
-
-
-
-[Source](https://doi.org/10.1002/14651858.CD005496.pub6)
-
-10.1016/j.athoracsur.2023.07.029
 
 ---
 
@@ -115,15 +77,9 @@ Secondary bacterial infections and pneumonia are major mortality causes of respi
 
 ---
 
-## A gut feeling for drugs that have metabolic benefits.
- 01.08.2023, _E Zhang, A Agua, W Huang_
-
-
-Resveratrol (REV) is a natural polyphenol with anti-obesity effects. However, the mechanisms remain unclear due to its low bioavailability and the lack of defined membrane-bound or nuclear receptors. Pang and colleagues reported that REV intervention (REV-I) alters gut microbiota and bile acid profile, leading to the inhibition of farnesoid X receptor (FXR) and attenuation of scavenger receptor class B type 1 (SR-B1)-mediated chylomicron secretion. This highlights a therapeutic potential of targeting gut microbiome and intestinal SR-B1 for obesity and diabetes treatment.
+## A gut feeling for drugs that have metabolic benefits
 
 [Source](https://doi.org/10.1038/s41467-023-40167-3)
-
-10.1038/s41467-023-40167-3
 
 ---
 
@@ -133,93 +89,45 @@ Resveratrol (REV) is a natural polyphenol with anti-obesity effects. However, th
 
 ---
 
-## The global human gut microbiome: genes, lifestyles, and diet.
- 29.07.2023, _M Parizadeh, MC Arrieta_
-
-
-A growing number of human gut microbiome studies consistently describe differences between human populations. Here, we review how factors related to host genetics, ethnicity, lifestyle, and geographic location help explain this variation. Studies from contrasting environmental scenarios point to diet and lifestyle as the most influential. The effect of human migration and displacement demonstrates how the microbiome adapts to newly adopted lifestyles and contributes to the profound biological and health consequences attributed to migration. This information strongly suggests against a universal scale for healthy or dysbiotic gut microbiomes, and prompts for additional microbiome population surveys, particularly from less industrialized nations. Considering these important differences will be critical for designing strategies to diagnose and restore dysbiosis in various human populations.
+## The global human gut microbiome: genes, lifestyles, and diet
 
 [Source](https://doi.org/10.1016/j.molmed.2023.07.002)
 
-10.1016/j.molmed.2023.07.002
-
 ---
 
-## 5-Aminosalicylic acid alters the gut microbiota and altered microbiota transmitted vertically to offspring have protective effects against colitis.
- 01.08.2023, _H Wada, J Miyoshi, S Kuronuma, Y Nishinarita, N Oguri, N Hibi, O Takeuchi, Y Akimoto, STM Lee, M Matsuura, T Kobayashi, T Hibi, T Hisamatsu_
-
-
-_Humans, Animals, Mice, Mesalamine, Gastrointestinal Microbiome, Colitis, Colitis, Ulcerative, Inflammation, Inflammatory Bowel Diseases, Anti-Inflammatory Agents, Dextran Sulfate, Disease Models, Animal, Colon, Mice, Inbred C57BL_
-Although many therapeutic options are available for inflammatory bowel disease (IBD), 5-aminosalicylic acid (5-ASA) is still the key medication, particularly for ulcerative colitis (UC). However, the mechanism of action of 5-ASA remains unclear. The intestinal microbiota plays an important role in the pathophysiology of IBD, and we hypothesized that 5-ASA alters the intestinal microbiota, which promotes the anti-inflammatory effect of 5-ASA. Because intestinal inflammation affects the gut microbiota and 5-ASA can change the severity of inflammation, assessing the impact of inflammation and 5-ASA on the gut microbiota is not feasible in a clinical study of patients with UC. Therefore, we undertook a translational study to demonstrate a causal link between 5-ASA administration and alterations of the intestinal microbiota. Furthermore, by rigorously controlling environmental confounders and excluding the effect of 5-ASA itself with a vertical transmission model, we observed that the gut microbiota altered by 5-ASA affected host mucosal immunity and decreased susceptibility to dextran sulfate sodium-induce colitis. Although the potential intergenerational transmission of epigenetic changes needs to be considered in this study, these findings suggested that alterations in the intestinal microbiota induced by 5-ASA directed the host immune system towards an anti-inflammatory state, which underlies the mechanism of 5-ASA efficacy.
+## 5-Aminosalicylic acid alters the gut microbiota and altered microbiota transmitted vertically to offspring have protective effects against colitis
 
 [Source](https://doi.org/10.1038/s41598-023-39491-x)
 
-10.1038/s41598-023-39491-x
-
 ---
 
-## Presence of an ultra-small microbiome in fermented cabbages.
- 01.08.2023, _HW Lee, SR Yoon, YM Dang, M Kang, K Lee, JH Ha, JW Bae_
-
-
-_Bacteria, Brassica, DNA, Microbiota, RNA, Ribosomal, 16S, Vegetables_
-Ultramicrobacteria (UMB), also known as ultra-small bacteria, are tiny bacteria with a size less than 0.1 µm3. They have a high surface-to-volume ratio and are found in various ecosystems, including the human body. UMB can be classified into two types: one formed through cell contraction and the other that maintains a small size. The ultra-small microbiome (USM), which may contain UMB, includes all bacteria less than 0.2 µm in size and is difficult to detect with current methods. However, it poses a potential threat to food hygiene, as it can pass through sterilization filters and exist in a viable but non-culturable (VBNC) state. The data on the USM of foods is limited. Some bacteria, including pathogenic species, are capable of forming UMB under harsh conditions, making it difficult to detect them through conventional culture techniques.
+## Presence of an ultra-small microbiome in fermented cabbages
 
 [Source](https://doi.org/10.7717/peerj.15680)
 
-10.7717/peerj.15680
-
 ---
 
-## The long-term gut bacterial signature of a wild primate is associated with a timing effect of pre- and postnatal maternal glucocorticoid levels.
- 01.08.2023, _S Anzà, D Schneider, R Daniel, M Heistermann, S Sangmaneedet, J Ostner, O Schülke_
-
-
-_Female, Animals, Pregnancy, Humans, Glucocorticoids, Gastrointestinal Microbiome, Cross-Sectional Studies, Primates, Bacteria, Prenatal Exposure Delayed Effects_
-During development, elevated levels of maternal glucocorticoids (GCs) can have detrimental effects on offspring morphology, cognition, and behavior as well as physiology and metabolism. Depending on the timing of exposure, such effects may vary in strength or even reverse in direction, may alleviate with age, or may concern more stable and long-term programming of phenotypic traits. Maternal effects on gut bacterial diversity, composition, and function, and the persistence of such effects into adulthood of long-lived model species in the natural habitats remain underexplored.
+## The long-term gut bacterial signature of a wild primate is associated with a timing effect of pre- and postnatal maternal glucocorticoid levels
 
 [Source](https://doi.org/10.1186/s40168-023-01596-w)
 
-10.1186/s40168-023-01596-w
-
 ---
 
-## Early-life prophylactic antibiotic treatment disturbs the stability of the gut microbiota and increases susceptibility to H9N2 AIV in chicks.
- 30.07.2023, _X Liang, Z Zhang, H Wang, X Lu, W Li, H Lu, A Roy, X Shen, DM Irwin, Y Shen_
-
-
-_Animals, Anti-Bacterial Agents, Gastrointestinal Microbiome, Influenza A Virus, H9N2 Subtype, Chickens, Microbiota_
-Antibiotics are widely used for prophylactic therapy and for improving the growth performance of chicken. The problem of bacterial drug resistance caused by antibiotic abuse has previously attracted extensive attention; however, the influence of early-day use of prophylactic antibiotics on the gut microflora and on the disease resistance ability in chicks has not been explored. Here, we comprehensively evaluate the growth performance, gut microbial dynamics, level of antibiotic resistance genes (ARGs) in the gut microbial community, and resistance to H9N2 avian influenza virus (AIV) in chickens following long-term and short-term early-day prophylactic antibiotic treatment.
+## Early-life prophylactic antibiotic treatment disturbs the stability of the gut microbiota and increases susceptibility to H9N2 AIV in chicks
 
 [Source](https://doi.org/10.1186/s40168-023-01609-8)
 
-10.1186/s40168-023-01609-8
-
 ---
 
-## Human-influenced diets affect the gut microbiome of wild baboons.
- 26.07.2023, _M Moy, L Diakiw, KR Amato_
-
-
-_Animals, Humans, Gastrointestinal Microbiome, Papio, RNA, Ribosomal, 16S, Diet, Primates, Hominidae, Papio anubis, Monosaccharides_
-Industrialized diets that incorporate processed foods and are often high in simple sugars and fats and low in fiber have myriad health impacts, many of which may operate via impacts on the gut microbiota. Examining how these diets affect the gut microbiota can be challenging given that lab animal models experience altered environmental contexts, and human studies include a suite of co-varying cultural and environmental factors that are likely to shape the gut microbiota alongside diet. To complement these approaches, we compare the microbiomes of wild populations of olive baboons (Papio anubis) with differential access to human trash high in processed foods, simple sugars, and fats in Rwanda's Akagera National Park. Baboons are a good model system since their microbiomes are compositionally similar to those of humans. Additionally, this population inhabits a common environment with different social groups consuming qualitatively different amounts of human trash, limiting variation in non-dietary factors. Using 16S rRNA gene amplicon sequencing we find that baboons with unlimited access to human trash have reduced microbial alpha diversity and reduced relative abundances of fiber-degrading taxa such as Ruminococcaceae, Prevotellaceae, and Lachnospiraceae. In contrast, baboons with limited access to human trash have a microbiome more similar to that of baboons with no access to human trash. Our results suggest that while a human-influenced diet high in processed foods, simple sugars, and fats is sufficient to alter the microbiome in wild baboons, there is a minimum threshold of dietary alteration that must occur before the microbiome is substantially altered. We recommend that data from wild primate populations such as these be used to complement ongoing research on diet-microbiome-health interactions in humans and lab animal models.
+## Human-influenced diets affect the gut microbiome of wild baboons
 
 [Source](https://doi.org/10.1038/s41598-023-38895-z)
 
-10.1038/s41598-023-38895-z
-
 ---
 
-## Expanding the range of the respiratory infectome in Australian feedlot cattle with and without respiratory disease using metatranscriptomics.
- 30.07.2023, _BP Brito, MJ Frost, K Anantanawat, F Jaya, T Batterham, SP Djordjevic, WS Chang, EC Holmes, AE Darling, PD Kirkland_
-
-
-_Animals, Cattle, Rhinitis, Australia, Respiratory Tract Diseases, Viruses, Cattle Diseases_
-Bovine respiratory disease (BRD) is one of the most common diseases in intensively managed cattle, often resulting in high morbidity and mortality. Although several pathogens have been isolated and extensively studied, the complete infectome of the respiratory complex consists of a more extensive range unrecognised species. Here, we used total RNA sequencing (i.e., metatranscriptomics) of nasal and nasopharyngeal swabs collected from animals with and without BRD from two cattle feedlots in Australia.
+## Expanding the range of the respiratory infectome in Australian feedlot cattle with and without respiratory disease using metatranscriptomics
 
 [Source](https://doi.org/10.1186/s40168-023-01591-1)
-
-10.1186/s40168-023-01591-1
 
 ---
 
@@ -229,28 +137,15 @@ Bovine respiratory disease (BRD) is one of the most common diseases in intensive
 
 ---
 
-## The root microbiome: techniques for exploration and agricultural applications.
- 31.07.2023, _A Cannon_
-
-
-_Agriculture, Microbiota_
-Standfirst With an ever-growing global population, the pursuit of sustainable agriculture has become paramount. What if the solution lies right beneath our feet? Enter the root microbiome, the hidden hero poised to revolutionize agriculture and bring us closer to a greener future. [Formula: see text].
+## The root microbiome: techniques for exploration and agricultural applications
 
 [Source](https://doi.org/10.2144/btn-2023-0057)
 
-10.2144/btn-2023-0057
-
 ---
 
-## Recently-formed Antarctic lakes host less diverse benthic bacterial and diatom communities than their older counterparts.
- 29.07.2023, _J Kollár, K Kopalová, J Kavan, K Vrbická, D Nývlt, L Nedbalová, M Stibal, TJ Kohler_
-
-
-Glacier recession is creating new waterbodies in proglacial forelands worldwide, including Antarctica. Yet, it is unknown how microbial communities of recently formed 'young' waterbodies (originating decades to a few centuries ago) compare with established 'old' counterparts (millennia ago). Here, we compared benthic microbial communities of different lake types on James Ross Island, Antarctic Peninsula, using 16S rDNA metabarcoding and light microscopy to explore bacterial and diatom communities, respectively. We found that the older lakes host significantly more diverse bacterial and diatom communities compared to the young ones. To identify potential mechanisms for these differences, linear models and dbRDA analyses suggested combinations of water temperature, pH, and conductivity to be the most important factors for diversity and community structuring, while differences in geomorphological and hydrological stability, though more difficult to quantify, are likely also influential. These results, along with an indicator species analysis, suggest that physical and chemical constraints associated with individual lakes histories are likely more influential to the assembly of the benthic microbial communities than lake age alone. Collectively, these results improve our understanding of microbial community drivers in Antarctic freshwaters, and help predict how the microbial landscape may shift with future habitat creation within a changing environment.
+## Recently-formed Antarctic lakes host less diverse benthic bacterial and diatom communities than their older counterparts
 
 [Source](https://doi.org/10.1093/femsec/fiad087)
-
-10.1093/femsec/fiad087
 
 ---
 
@@ -266,9 +161,16 @@ Glacier recession is creating new waterbodies in proglacial forelands worldwide,
 
 ---
 
-## Lectin-Seq: A method to profile lectin-microbe interactions in native communities
+## Lectin-Seq: A method to profile lectin-microbe interactions in native communities.
+ 02.08.2023, _RL McPherson, CR Isabella, RL Walker, D Sergio, S Bae, T Gaca, S Raman, LTT Nguyen, DA Wesener, M Halim, MG Wuo, A Dugan, R Kerby, S Ghosh, FE Rey, C Dhennezel, G Pishchany, V Lensch, H Vlamakis, EJ Alm, RJ Xavier, LL Kiessling_
+
+
+_Humans, Lectins, Immunity, Innate_
+Soluble human lectins are critical components of innate immunity. Genetic models suggest that lectins influence host-resident microbiota, but their specificity for commensal and mutualist species is understudied. Elucidating lectins' roles in regulating microbiota requires an understanding of which microbial species they bind within native communities. To profile human lectin recognition, we developed Lectin-Seq. We apply Lectin-Seq to human fecal microbiota using the soluble mannose-binding lectin (MBL) and intelectin-1 (hItln1). Although each lectin binds a substantial percentage of the samples (10 to 20%), the microbial interactomes of MBL and hItln1 differ markedly in composition and diversity. MBL binding is highly selective for a small subset of species commonly associated with humans. In contrast, hItln1's interaction profile encompasses a broad range of lower-abundance species. Our data uncover stark differences in the commensal recognition properties of human lectins.
 
 [Source](https://doi.org/10.1126/sciadv.add8766)
+
+10.1126/sciadv.add8766
 
 ---
 
