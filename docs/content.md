@@ -35,9 +35,16 @@ The resistome, the collection of antibiotic resistance genes (ARGs) in a microbi
 
 ---
 
-## Evolutionary modeling suggests that addictions may be driven by competition-induced microbiome dysbiosis
+## Evolutionary modeling suggests that addictions may be driven by competition-induced microbiome dysbiosis.
+ 29.07.2023, _O Lewin-Epstein, Y Jaques, MW Feldman, D Kaufer, L Hadany_
+
+
+_Humans, Dysbiosis, Microbiota, Brain_
+Recent studies revealed mechanisms by which the microbiome affects its host's brain, behavior and wellbeing, and that dysbiosis - persistent microbiome-imbalance - is associated with the onset and progress of various chronic diseases, including addictive behaviors. Yet, understanding of the ecological and evolutionary processes that shape the host-microbiome ecosystem and affect the host state, is still limited. Here we propose that competition dynamics within the microbiome, associated with host-microbiome mutual regulation, may promote dysbiosis and aggravate addictive behaviors. We construct a mathematical framework, modeling the dynamics of the host-microbiome ecosystem in response to alterations. We find that when this ecosystem is exposed to substantial perturbations, the microbiome may shift towards a composition that reinforces the new host state. Such a positive feedback loop augments post-perturbation imbalances, hindering attempts to return to the initial equilibrium, promoting relapse episodes and prolonging addictions. We show that the initial microbiome composition is a key factor: a diverse microbiome enhances the ecosystem's resilience, whereas lower microbiome diversity is more prone to lead to dysbiosis, exacerbating addictions. This framework provides evolutionary and ecological perspectives on host-microbiome interactions and their implications for host behavior and health, while offering verifiable predictions with potential relevance to clinical treatments.
 
 [Source](https://doi.org/10.1038/s42003-023-05099-0)
+
+10.1038/s42003-023-05099-0
 
 ---
 
@@ -126,9 +133,15 @@ Resveratrol (REV) is a natural polyphenol with anti-obesity effects. However, th
 
 ---
 
-## The global human gut microbiome: genes, lifestyles, and diet
+## The global human gut microbiome: genes, lifestyles, and diet.
+ 29.07.2023, _M Parizadeh, MC Arrieta_
+
+
+A growing number of human gut microbiome studies consistently describe differences between human populations. Here, we review how factors related to host genetics, ethnicity, lifestyle, and geographic location help explain this variation. Studies from contrasting environmental scenarios point to diet and lifestyle as the most influential. The effect of human migration and displacement demonstrates how the microbiome adapts to newly adopted lifestyles and contributes to the profound biological and health consequences attributed to migration. This information strongly suggests against a universal scale for healthy or dysbiotic gut microbiomes, and prompts for additional microbiome population surveys, particularly from less industrialized nations. Considering these important differences will be critical for designing strategies to diagnose and restore dysbiosis in various human populations.
 
 [Source](https://doi.org/10.1016/j.molmed.2023.07.002)
+
+10.1016/j.molmed.2023.07.002
 
 ---
 
@@ -158,9 +171,16 @@ Ultramicrobacteria (UMB), also known as ultra-small bacteria, are tiny bacteria 
 
 ---
 
-## The long-term gut bacterial signature of a wild primate is associated with a timing effect of pre- and postnatal maternal glucocorticoid levels
+## The long-term gut bacterial signature of a wild primate is associated with a timing effect of pre- and postnatal maternal glucocorticoid levels.
+ 01.08.2023, _S Anzà, D Schneider, R Daniel, M Heistermann, S Sangmaneedet, J Ostner, O Schülke_
+
+
+_Female, Animals, Pregnancy, Humans, Glucocorticoids, Gastrointestinal Microbiome, Cross-Sectional Studies, Primates, Bacteria, Prenatal Exposure Delayed Effects_
+During development, elevated levels of maternal glucocorticoids (GCs) can have detrimental effects on offspring morphology, cognition, and behavior as well as physiology and metabolism. Depending on the timing of exposure, such effects may vary in strength or even reverse in direction, may alleviate with age, or may concern more stable and long-term programming of phenotypic traits. Maternal effects on gut bacterial diversity, composition, and function, and the persistence of such effects into adulthood of long-lived model species in the natural habitats remain underexplored.
 
 [Source](https://doi.org/10.1186/s40168-023-01596-w)
+
+10.1186/s40168-023-01596-w
 
 ---
 
@@ -177,9 +197,16 @@ Antibiotics are widely used for prophylactic therapy and for improving the growt
 
 ---
 
-## Human-influenced diets affect the gut microbiome of wild baboons
+## Human-influenced diets affect the gut microbiome of wild baboons.
+ 26.07.2023, _M Moy, L Diakiw, KR Amato_
+
+
+_Animals, Humans, Gastrointestinal Microbiome, Papio, RNA, Ribosomal, 16S, Diet, Primates, Hominidae, Papio anubis, Monosaccharides_
+Industrialized diets that incorporate processed foods and are often high in simple sugars and fats and low in fiber have myriad health impacts, many of which may operate via impacts on the gut microbiota. Examining how these diets affect the gut microbiota can be challenging given that lab animal models experience altered environmental contexts, and human studies include a suite of co-varying cultural and environmental factors that are likely to shape the gut microbiota alongside diet. To complement these approaches, we compare the microbiomes of wild populations of olive baboons (Papio anubis) with differential access to human trash high in processed foods, simple sugars, and fats in Rwanda's Akagera National Park. Baboons are a good model system since their microbiomes are compositionally similar to those of humans. Additionally, this population inhabits a common environment with different social groups consuming qualitatively different amounts of human trash, limiting variation in non-dietary factors. Using 16S rRNA gene amplicon sequencing we find that baboons with unlimited access to human trash have reduced microbial alpha diversity and reduced relative abundances of fiber-degrading taxa such as Ruminococcaceae, Prevotellaceae, and Lachnospiraceae. In contrast, baboons with limited access to human trash have a microbiome more similar to that of baboons with no access to human trash. Our results suggest that while a human-influenced diet high in processed foods, simple sugars, and fats is sufficient to alter the microbiome in wild baboons, there is a minimum threshold of dietary alteration that must occur before the microbiome is substantially altered. We recommend that data from wild primate populations such as these be used to complement ongoing research on diet-microbiome-health interactions in humans and lab animal models.
 
 [Source](https://doi.org/10.1038/s41598-023-38895-z)
+
+10.1038/s41598-023-38895-z
 
 ---
 
@@ -233,28 +260,15 @@ Glacier recession is creating new waterbodies in proglacial forelands worldwide,
 
 ---
 
-## CheckM2: a rapid, scalable and accurate tool for assessing microbial genome quality using machine learning.
- 27.07.2023, _A Chklovski, DH Parks, BJ Woodcroft, GW Tyson_
-
-
-Advances in sequencing technologies and bioinformatics tools have dramatically increased the recovery rate of microbial genomes from metagenomic data. Assessing the quality of metagenome-assembled genomes (MAGs) is a critical step before downstream analysis. Here, we present CheckM2, an improved method of predicting genome quality of MAGs using machine learning. Using synthetic and experimental data, we demonstrate that CheckM2 outperforms existing tools in both accuracy and computational speed. In addition, CheckM2's database can be rapidly updated with new high-quality reference genomes, including taxa represented only by a single genome. We also show that CheckM2 accurately predicts genome quality for MAGs from novel lineages, even for those with reduced genome size (for example, Patescibacteria and the DPANN superphylum). CheckM2 provides accurate genome quality predictions across bacterial and archaeal lineages, giving increased confidence when inferring biological conclusions from MAGs.
+## CheckM2: a rapid, scalable and accurate tool for assessing microbial genome quality using machine learning
 
 [Source](https://doi.org/10.1038/s41592-023-01940-w)
 
-10.1038/s41592-023-01940-w
-
 ---
 
-## Lectin-Seq: A method to profile lectin-microbe interactions in native communities.
- 02.08.2023, _RL McPherson, CR Isabella, RL Walker, D Sergio, S Bae, T Gaca, S Raman, LTT Nguyen, DA Wesener, M Halim, MG Wuo, A Dugan, R Kerby, S Ghosh, FE Rey, C Dhennezel, G Pishchany, V Lensch, H Vlamakis, EJ Alm, RJ Xavier, LL Kiessling_
-
-
-_Humans, Lectins, Immunity, Innate_
-Soluble human lectins are critical components of innate immunity. Genetic models suggest that lectins influence host-resident microbiota, but their specificity for commensal and mutualist species is understudied. Elucidating lectins' roles in regulating microbiota requires an understanding of which microbial species they bind within native communities. To profile human lectin recognition, we developed Lectin-Seq. We apply Lectin-Seq to human fecal microbiota using the soluble mannose-binding lectin (MBL) and intelectin-1 (hItln1). Although each lectin binds a substantial percentage of the samples (10 to 20%), the microbial interactomes of MBL and hItln1 differ markedly in composition and diversity. MBL binding is highly selective for a small subset of species commonly associated with humans. In contrast, hItln1's interaction profile encompasses a broad range of lower-abundance species. Our data uncover stark differences in the commensal recognition properties of human lectins.
+## Lectin-Seq: A method to profile lectin-microbe interactions in native communities
 
 [Source](https://doi.org/10.1126/sciadv.add8766)
-
-10.1126/sciadv.add8766
 
 ---
 
