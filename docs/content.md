@@ -29,15 +29,29 @@ The resistome, the collection of antibiotic resistance genes (ARGs) in a microbi
 
 ---
 
-## Analysis of bacterial vaginosis, the vaginal microbiome, and sexually transmitted infections following the provision of menstrual cups in Kenyan schools: Results of a nested study within a cluster randomized controlled trial
+## Analysis of bacterial vaginosis, the vaginal microbiome, and sexually transmitted infections following the provision of menstrual cups in Kenyan schools: Results of a nested study within a cluster randomized controlled trial.
+ 27.07.2023, _SD Mehta, G Zulaika, W Agingu, E Nyothach, R Bhaumik, SJ Green, AM van Eijk, D Kwaro, F Otieno, P Phillips-Howard_
+
+
+_Female, Adolescent, Humans, Vaginosis, Bacterial, Kenya, Menstrual Hygiene Products, RNA, Ribosomal, 16S, Sexually Transmitted Diseases, Schools, Microbiota_
+Nonhygienic products for managing menstruation are reported to cause reproductive tract infections. Menstrual cups are a potential solution. We assessed whether menstrual cups would reduce bacterial vaginosis (BV), vaginal microbiome (VMB), and sexually transmitted infections (STIs) as studies have not evaluated this.
 
 [Source](https://doi.org/10.1371/journal.pmed.1004258)
 
+10.1371/journal.pmed.1004258
+
 ---
 
-## Evolutionary modeling suggests that addictions may be driven by competition-induced microbiome dysbiosis
+## Evolutionary modeling suggests that addictions may be driven by competition-induced microbiome dysbiosis.
+ 29.07.2023, _O Lewin-Epstein, Y Jaques, MW Feldman, D Kaufer, L Hadany_
+
+
+_Humans, Dysbiosis, Microbiota, Brain_
+Recent studies revealed mechanisms by which the microbiome affects its host's brain, behavior and wellbeing, and that dysbiosis - persistent microbiome-imbalance - is associated with the onset and progress of various chronic diseases, including addictive behaviors. Yet, understanding of the ecological and evolutionary processes that shape the host-microbiome ecosystem and affect the host state, is still limited. Here we propose that competition dynamics within the microbiome, associated with host-microbiome mutual regulation, may promote dysbiosis and aggravate addictive behaviors. We construct a mathematical framework, modeling the dynamics of the host-microbiome ecosystem in response to alterations. We find that when this ecosystem is exposed to substantial perturbations, the microbiome may shift towards a composition that reinforces the new host state. Such a positive feedback loop augments post-perturbation imbalances, hindering attempts to return to the initial equilibrium, promoting relapse episodes and prolonging addictions. We show that the initial microbiome composition is a key factor: a diverse microbiome enhances the ecosystem's resilience, whereas lower microbiome diversity is more prone to lead to dysbiosis, exacerbating addictions. This framework provides evolutionary and ecological perspectives on host-microbiome interactions and their implications for host behavior and health, while offering verifiable predictions with potential relevance to clinical treatments.
 
 [Source](https://doi.org/10.1038/s42003-023-05099-0)
+
+10.1038/s42003-023-05099-0
 
 ---
 
@@ -53,16 +67,9 @@ The resistome, the collection of antibiotic resistance genes (ARGs) in a microbi
 
 ---
 
-## Insulin alleviates murine colitis through microbiome alterations and bile acid metabolism.
- 28.07.2023, _S He, J Li, Z Yao, Z Gao, Y Jiang, X Chen, L Peng_
-
-
-_Mice, Humans, Animals, Insulin, RNA, Ribosomal, 16S, Colitis, Inflammatory Bowel Diseases, Inflammation, Gastrointestinal Microbiome, Bile Acids and Salts, Receptors, G-Protein-Coupled, Anti-Inflammatory Agents, Mice, Inbred C57BL_
-Insulin has been reported to exhibit anti-inflammatory activities in the context of bowel inflammation. However, the role of the interaction between insulin and the microbiota in gut health is unclear. Our goal was to investigate the mechanism of action of insulin in bowel inflammation and the relationship between insulin and the gut microbiota.
+## Insulin alleviates murine colitis through microbiome alterations and bile acid metabolism
 
 [Source](https://doi.org/10.1186/s12967-023-04214-3)
-
-10.1186/s12967-023-04214-3
 
 ---
 
@@ -91,14 +98,15 @@ Secondary bacterial infections and pneumonia are major mortality causes of respi
 
 ---
 
-## Shades of uncertainty: Perspectives on Hypoplastic Left Heart Syndrome in premature and low birth weight infants.
- 03.08.2023, _AM Bigelow, T Karamlou_
+## The beneficial effect of early and prolonged kangaroo mother care on long-term neuro-developmental outcomes in low birth neonates - A cohort study.
+ 05.08.2023, _S Bisanalli, B Balachander, A Shashidhar, V Raman, P Josit, S Rao_
 
 
+Kangaroo mother care(KMC) has immense short-term benefits, but data on long-term outcomes is scarce. Hence this study aimed to compare the neurodevelopmental outcomes at 12 months of corrected age (CA) in infants &lt;2000 g receiving early and prolonged KMC to a control group.
 
 [Source](https://doi.org/10.1002/14651858.CD005496.pub6)
 
-10.1016/j.athoracsur.2023.07.029
+10.1111/apa.16939
 
 ---
 
@@ -203,16 +211,9 @@ Industrialized diets that incorporate processed foods and are often high in simp
 
 ---
 
-## Expanding the range of the respiratory infectome in Australian feedlot cattle with and without respiratory disease using metatranscriptomics.
- 30.07.2023, _BP Brito, MJ Frost, K Anantanawat, F Jaya, T Batterham, SP Djordjevic, WS Chang, EC Holmes, AE Darling, PD Kirkland_
-
-
-_Animals, Cattle, Rhinitis, Australia, Respiratory Tract Diseases, Viruses, Cattle Diseases_
-Bovine respiratory disease (BRD) is one of the most common diseases in intensively managed cattle, often resulting in high morbidity and mortality. Although several pathogens have been isolated and extensively studied, the complete infectome of the respiratory complex consists of a more extensive range unrecognised species. Here, we used total RNA sequencing (i.e., metatranscriptomics) of nasal and nasopharyngeal swabs collected from animals with and without BRD from two cattle feedlots in Australia.
+## Expanding the range of the respiratory infectome in Australian feedlot cattle with and without respiratory disease using metatranscriptomics
 
 [Source](https://doi.org/10.1186/s40168-023-01591-1)
-
-10.1186/s40168-023-01591-1
 
 ---
 
@@ -235,15 +236,9 @@ Standfirst With an ever-growing global population, the pursuit of sustainable ag
 
 ---
 
-## Recently-formed Antarctic lakes host less diverse benthic bacterial and diatom communities than their older counterparts.
- 29.07.2023, _J Kollár, K Kopalová, J Kavan, K Vrbická, D Nývlt, L Nedbalová, M Stibal, TJ Kohler_
-
-
-Glacier recession is creating new waterbodies in proglacial forelands worldwide, including Antarctica. Yet, it is unknown how microbial communities of recently formed 'young' waterbodies (originating decades to a few centuries ago) compare with established 'old' counterparts (millennia ago). Here, we compared benthic microbial communities of different lake types on James Ross Island, Antarctic Peninsula, using 16S rDNA metabarcoding and light microscopy to explore bacterial and diatom communities, respectively. We found that the older lakes host significantly more diverse bacterial and diatom communities compared to the young ones. To identify potential mechanisms for these differences, linear models and dbRDA analyses suggested combinations of water temperature, pH, and conductivity to be the most important factors for diversity and community structuring, while differences in geomorphological and hydrological stability, though more difficult to quantify, are likely also influential. These results, along with an indicator species analysis, suggest that physical and chemical constraints associated with individual lakes histories are likely more influential to the assembly of the benthic microbial communities than lake age alone. Collectively, these results improve our understanding of microbial community drivers in Antarctic freshwaters, and help predict how the microbial landscape may shift with future habitat creation within a changing environment.
+## Recently-formed Antarctic lakes host less diverse benthic bacterial and diatom communities than their older counterparts
 
 [Source](https://doi.org/10.1093/femsec/fiad087)
-
-10.1093/femsec/fiad087
 
 ---
 
@@ -265,9 +260,16 @@ Advances in sequencing technologies and bioinformatics tools have dramatically i
 
 ---
 
-## Lectin-Seq: A method to profile lectin-microbe interactions in native communities
+## Lectin-Seq: A method to profile lectin-microbe interactions in native communities.
+ 02.08.2023, _RL McPherson, CR Isabella, RL Walker, D Sergio, S Bae, T Gaca, S Raman, LTT Nguyen, DA Wesener, M Halim, MG Wuo, A Dugan, R Kerby, S Ghosh, FE Rey, C Dhennezel, G Pishchany, V Lensch, H Vlamakis, EJ Alm, RJ Xavier, LL Kiessling_
+
+
+_Humans, Lectins, Immunity, Innate_
+Soluble human lectins are critical components of innate immunity. Genetic models suggest that lectins influence host-resident microbiota, but their specificity for commensal and mutualist species is understudied. Elucidating lectins' roles in regulating microbiota requires an understanding of which microbial species they bind within native communities. To profile human lectin recognition, we developed Lectin-Seq. We apply Lectin-Seq to human fecal microbiota using the soluble mannose-binding lectin (MBL) and intelectin-1 (hItln1). Although each lectin binds a substantial percentage of the samples (10 to 20%), the microbial interactomes of MBL and hItln1 differ markedly in composition and diversity. MBL binding is highly selective for a small subset of species commonly associated with humans. In contrast, hItln1's interaction profile encompasses a broad range of lower-abundance species. Our data uncover stark differences in the commensal recognition properties of human lectins.
 
 [Source](https://doi.org/10.1126/sciadv.add8766)
+
+10.1126/sciadv.add8766
 
 ---
 
