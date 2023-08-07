@@ -11,9 +11,10 @@ Restriction of methionine (MR), a sulfur-containing essential amino acid, has be
 ---
 
 ## Total RNA sequencing reveals gene expression and microbial alterations shared by oral pre-malignant lesions and cancer.
- 06.08.2023, _MM Khan, J Frustino, A Villa, BC Nguyen, SB Woo, WE Johnson, X Varelas, M Kukuruzinska, S Monti_
+ 07.08.2023, _MM Khan, J Frustino, A Villa, BC Nguyen, SB Woo, WE Johnson, X Varelas, M Kukuruzinska, S Monti_
 
 
+_Humans, Mouth Neoplasms, Carcinoma, Squamous Cell, Precancerous Conditions, Transcriptome, Sequence Analysis, RNA_
 Head and neck cancers are a complex malignancy comprising multiple anatomical sites, with cancer of the oral cavity ranking among the deadliest and the most disfiguring cancers globally. Oral cancer (OC) constitutes a subset of head and neck cancer cases, presenting primarily as tobacco- and alcohol-associated oral squamous cell carcinoma (OSCC), with a 5-year survival rate of ~ 65%, partly due to the lack of early detection and effective treatments. OSCC arises from premalignant lesions (PMLs) in the oral cavity through a multi-step series of clinical and histopathological stages, including varying degrees of epithelial dysplasia. To gain insights into the molecular mechanisms associated with the progression of PMLs to OSCC, we profiled the whole transcriptome of 66 human PMLs comprising leukoplakia with dysplasia and hyperkeratosis non-reactive (HkNR) pathologies, alongside healthy controls and OSCC. Our data revealed that PMLs were enriched in gene signatures associated with cellular plasticity, such as partial EMT (p-EMT) phenotypes, and with immune response. Integrated analyses of the host transcriptome and microbiome further highlighted a significant association between differential microbial abundance and PML pathway activity, suggesting a contribution of the oral microbiome toward PML evolution to OSCC. Collectively, this study reveals molecular processes associated with PML progression that may help early diagnosis and disease interception at an early stage.
 
 [Source](https://doi.org/10.1186/s40246-023-00519-y)
@@ -118,15 +119,9 @@ To answer the following PECO question: "In systemically healthy human subjects (
 
 ---
 
-## A symbiotic footprint in the plant root microbiome.
- 03.08.2023, _K Hartman, MW Schmid, N Bodenhausen, SF Bender, AY Valzano-Held, K Schlaeppi, MGA van der Heijden_
-
-
-A major aim in plant microbiome research is determining the drivers of plant-associated microbial communities. While soil characteristics and host plant identity present key drivers of root microbiome composition, it is still unresolved whether the presence or absence of important plant root symbionts also determines overall microbiome composition. Arbuscular mycorrhizal fungi (AMF) and N-fixing rhizobia bacteria are widespread, beneficial root symbionts that significantly enhance plant nutrition, plant health, and root structure. Thus, we hypothesized that symbiont types define the root microbiome structure.
+## A symbiotic footprint in the plant root microbiome
 
 [Source](https://doi.org/10.1186/s40793-023-00521-w)
-
-10.1186/s40793-023-00521-w
 
 ---
 
@@ -142,15 +137,9 @@ A major aim in plant microbiome research is determining the drivers of plant-ass
 
 ---
 
-## Intracellular glycogen accumulation by human gut commensals as a niche adaptation trait.
- 04.08.2023, _M Esteban-Torres, L Ruiz, V Rossini, K Nally, D van Sinderen_
-
-
-The human gut microbiota is a key contributor to host metabolism and physiology, thereby impacting in various ways on host health. This complex microbial community has developed many metabolic strategies to colonize, persist and survive in the gastrointestinal environment. In this regard, intracellular glycogen accumulation has been associated with important physiological functions in several bacterial species, including gut commensals. However, the role of glycogen storage in shaping the composition and functionality of the gut microbiota offers a novel perspective in gut microbiome research. Here, we review what is known about the enzymatic machinery and regulation of glycogen metabolism in selected enteric bacteria, while we also discuss its potential impact on colonization and adaptation to the gastrointestinal tract. Furthermore, we survey the presence of such glycogen biosynthesis pathways in gut metagenomic data to highlight the relevance of this metabolic trait in enhancing survival in the highly competitive and dynamic gut ecosystem.
+## Intracellular glycogen accumulation by human gut commensals as a niche adaptation trait
 
 [Source](https://doi.org/10.1080/19490976.2023.2235067)
-
-10.1080/19490976.2023.2235067
 
 ---
 
