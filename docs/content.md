@@ -1,6 +1,12 @@
-## Methionine restriction-induced sulfur deficiency impairs antitumour immunity partially through gut microbiota
+## Methionine restriction-induced sulfur deficiency impairs antitumour immunity partially through gut microbiota.
+ 03.08.2023, _M Ji, X Xu, Q Xu, YC Hsiao, C Martin, S Ukraintseva, V Popov, KG Arbeev, TA Randall, X Wu, LM Garcia-Peterson, J Liu, X Xu, M Andrea Azcarate-Peril, Y Wan, AI Yashin, K Anantharaman, K Lu, JL Li, I Shats, X Li_
+
+
+Restriction of methionine (MR), a sulfur-containing essential amino acid, has been reported to repress cancer growth and improve therapeutic responses in several preclinical settings. However, how MR impacts cancer progression in the context of the intact immune system is unknown. Here we report that while inhibiting cancer growth in immunocompromised mice, MR reduces T cell abundance, exacerbates tumour growth and impairs tumour response to immunotherapy in immunocompetent male and female mice. Mechanistically, MR reduces microbial production of hydrogen sulfide, which is critical for immune cell survival/activation. Dietary supplementation of a hydrogen sulfide donor or a precursor, or methionine, stimulates antitumour immunity and suppresses tumour progression. Our findings reveal an unexpected negative interaction between MR, sulfur deficiency and antitumour immunity and further uncover a vital role of gut microbiota in mediating this interaction. Our study suggests that any possible anticancer benefits of MR require careful consideration of both the microbiota and the immune system.
 
 [Source](https://doi.org/10.1038/s42255-023-00854-3)
+
+10.1038/s42255-023-00854-3
 
 ---
 
@@ -112,21 +118,21 @@ To answer the following PECO question: "In systemically healthy human subjects (
 
 ---
 
-## A symbiotic footprint in the plant root microbiome
+## A symbiotic footprint in the plant root microbiome.
+ 03.08.2023, _K Hartman, MW Schmid, N Bodenhausen, SF Bender, AY Valzano-Held, K Schlaeppi, MGA van der Heijden_
+
+
+A major aim in plant microbiome research is determining the drivers of plant-associated microbial communities. While soil characteristics and host plant identity present key drivers of root microbiome composition, it is still unresolved whether the presence or absence of important plant root symbionts also determines overall microbiome composition. Arbuscular mycorrhizal fungi (AMF) and N-fixing rhizobia bacteria are widespread, beneficial root symbionts that significantly enhance plant nutrition, plant health, and root structure. Thus, we hypothesized that symbiont types define the root microbiome structure.
 
 [Source](https://doi.org/10.1186/s40793-023-00521-w)
 
+10.1186/s40793-023-00521-w
+
 ---
 
-## Towards integrative plant pathology.
- 05.08.2023, _T Ruiz-Bedoya, KJ McTavish, TV Av-Shalom, D Desveaux, DS Guttman_
-
-
-The field of plant pathology has revealed many of the mechanisms underlying the arms race, providing crucial knowledge and genetic resources for improving plant health. Although the host-microbe interaction seemingly favors rapidly evolving pathogens, it has also generated a vast evolutionary history of largely unexplored plant immunodiversity. We review studies that characterize the scope and distribution of genetic and ecological diversity in model and non-model systems with specific reference to pathogen effector diversity, plant immunodiversity in both cultivated species and their wild relatives, and diversity in the plant-associated microbiota. We show how the study of evolutionary and ecological processes can reveal patterns of genetic convergence, conservation, and diversification, and that this diversity is increasingly tractable in both experimental and translational systems. Perhaps most importantly, these patterns of diversity provide largely untapped resources that can be deployed for the rational engineering of durable resistance for sustainable agriculture.
+## Towards integrative plant pathology
 
 [Source](https://doi.org/10.1016/j.pbi.2023.102430)
-
-10.1016/j.pbi.2023.102430
 
 ---
 
