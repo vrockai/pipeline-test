@@ -24,7 +24,7 @@ Head and neck cancers are a complex malignancy comprising multiple anatomical si
 ---
 
 ## Metagenomics revealed a correlation of gut phageome with autism spectrum disorder.
- 06.08.2023, _K Shahin, A Soleimani-Delfan, Z He, P Sansonetti, JM Collard_
+ 07.08.2023, _K Shahin, A Soleimani-Delfan, Z He, P Sansonetti, JM Collard_
 
 
 The human gut bacteriome is believed to have pivotal influences on human health and disease while the particular roles associated with the gut phageome have not been fully characterized yet with few exceptions. It is argued that gut microbiota can have a potential role in autism spectrum disorders (ASD). The public microbiota database of ASD and typically developing (TD) Chinese individuals were analyzed for phage protein-coding units (pPCU) to find any link between the phageome and ASD. The gut phageome of ASD individuals showed a wider diversity and higher abundance compared to TD individuals. The ASD phageome was associated with a significant expansion of Caudoviricetes bacteriophages. Phages infecting Bacteroidaceae and prophages encoded within Faecalibacterium were more frequent in ASD than in TD individuals. The expansion and diversification of ASD phageome can influence the bacterial homeostasis by imposing pressure on the bacterial communities. In conclusion, the differences of phages community in in ASD and TD can be used as potential diagnosis biomarkers of ASD. Further investigations are needed to verify the role of gut phage communities in the pathogenesis of ASD.
@@ -36,7 +36,7 @@ The human gut bacteriome is believed to have pivotal influences on human health 
 ---
 
 ## The cervical microbiota of Hispanics living in Puerto Rico is nonoptimal regardless of HPV status.
- 03.08.2023, _D Vargas-Robles, J Romaguera, I Alvarado-Velez, E Tosado-Rodríguez, A Dominicci-Maura, M Sanchez, KJ Wiggin, M Martinez-Ferrer, JA Gilbert, LJ Forney, F Godoy-Vitorino_
+ 07.08.2023, _D Vargas-Robles, J Romaguera, I Alvarado-Velez, E Tosado-Rodríguez, A Dominicci-Maura, M Sanchez, KJ Wiggin, M Martinez-Ferrer, JA Gilbert, LJ Forney, F Godoy-Vitorino_
 
 
 The cervicovaginal microbiota is influenced by host physiology, immunology, lifestyle, and ethnicity. We hypothesized that there would be differences in the cervicovaginal microbiota among pregnant, nonpregnant, and menopausal women living in Puerto Rico (PR) with and without human papillomavirus (HPV) infection and cervical cancer. We specifically wanted to determine if the microbiota is associated with variations in cervical cytology. A total of 294 women, including reproductive-age nonpregnant (N = 196), pregnant (N = 37), and menopausal (N = 61) women, were enrolled. The cervicovaginal bacteria were characterized by 16S rRNA amplicon sequencing, the HPV was genotyped with SPF10-LiPA, and cervical cytology was quantified. High-risk HPV (HR-HPV, 67.3%) was prevalent, including genotypes not covered by the 9vt HPV vaccine. Cervical lesions (34%) were also common. The cervical microbiota was dominated by Lactobacillus iners. Pregnant women in the second and third trimesters exhibited a decrease in diversity and abundance of microbes associated with bacterial vaginosis. Women in menopause had greater alpha diversity, a greater proportion of facultative and strictly anaerobic bacteria, and higher cervicovaginal pH than premenopausal women. Cervical lesions were associated with greater alpha diversity. However, no significant associations between the microbiota and HPV infection (HR or LR-HPV types) were found. The cervicovaginal microbiota of women living in Puerto Rican were either dominated by L. iners or diverse microbial communities regardless of a woman's physiological stage. We postulate that the microbiota and the high prevalence of HR-HPV increase the risk of cervical lesions among women living in PR. IMPORTANCE In the enclosed manuscript, we provide the first in-depth characterization of the cervicovaginal microbiota of Hispanic women living in Puerto Rico (PR), using a 16S rRNA approach, and include women of different physiological stages. Surprisingly we found that high-risk HPV was ubiquitous with a prevalence of 67.3%, including types not covered by the 9vt HPV vaccine. We also found highly diverse microbial communities across women groups-with a reduction in pregnant women, but dominated by nonoptimal Lactobacillus iners. Additionally, we found vaginosis-associated bacteria as Dialister spp., Gardnerella spp., Clostridium, or Prevotella among most women. We believe this is a relevant and timely article expanding knowledge on the cervicovaginal microbiome of PR women, where we postulate that these highly diverse communities are conducive to cervical disease.
@@ -125,9 +125,15 @@ To answer the following PECO question: "In systemically healthy human subjects (
 
 ---
 
-## Towards integrative plant pathology
+## Towards integrative plant pathology.
+ 05.08.2023, _T Ruiz-Bedoya, KJ McTavish, TV Av-Shalom, D Desveaux, DS Guttman_
+
+
+The field of plant pathology has revealed many of the mechanisms underlying the arms race, providing crucial knowledge and genetic resources for improving plant health. Although the host-microbe interaction seemingly favors rapidly evolving pathogens, it has also generated a vast evolutionary history of largely unexplored plant immunodiversity. We review studies that characterize the scope and distribution of genetic and ecological diversity in model and non-model systems with specific reference to pathogen effector diversity, plant immunodiversity in both cultivated species and their wild relatives, and diversity in the plant-associated microbiota. We show how the study of evolutionary and ecological processes can reveal patterns of genetic convergence, conservation, and diversification, and that this diversity is increasingly tractable in both experimental and translational systems. Perhaps most importantly, these patterns of diversity provide largely untapped resources that can be deployed for the rational engineering of durable resistance for sustainable agriculture.
 
 [Source](https://doi.org/10.1016/j.pbi.2023.102430)
+
+10.1016/j.pbi.2023.102430
 
 ---
 
@@ -137,9 +143,15 @@ To answer the following PECO question: "In systemically healthy human subjects (
 
 ---
 
-## Intracellular glycogen accumulation by human gut commensals as a niche adaptation trait
+## Intracellular glycogen accumulation by human gut commensals as a niche adaptation trait.
+ 04.08.2023, _M Esteban-Torres, L Ruiz, V Rossini, K Nally, D van Sinderen_
+
+
+The human gut microbiota is a key contributor to host metabolism and physiology, thereby impacting in various ways on host health. This complex microbial community has developed many metabolic strategies to colonize, persist and survive in the gastrointestinal environment. In this regard, intracellular glycogen accumulation has been associated with important physiological functions in several bacterial species, including gut commensals. However, the role of glycogen storage in shaping the composition and functionality of the gut microbiota offers a novel perspective in gut microbiome research. Here, we review what is known about the enzymatic machinery and regulation of glycogen metabolism in selected enteric bacteria, while we also discuss its potential impact on colonization and adaptation to the gastrointestinal tract. Furthermore, we survey the presence of such glycogen biosynthesis pathways in gut metagenomic data to highlight the relevance of this metabolic trait in enhancing survival in the highly competitive and dynamic gut ecosystem.
 
 [Source](https://doi.org/10.1080/19490976.2023.2235067)
+
+10.1080/19490976.2023.2235067
 
 ---
 
