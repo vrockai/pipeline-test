@@ -1,12 +1,6 @@
-## Methionine restriction-induced sulfur deficiency impairs antitumour immunity partially through gut microbiota.
- 03.08.2023, _M Ji, X Xu, Q Xu, YC Hsiao, C Martin, S Ukraintseva, V Popov, KG Arbeev, TA Randall, X Wu, LM Garcia-Peterson, J Liu, X Xu, M Andrea Azcarate-Peril, Y Wan, AI Yashin, K Anantharaman, K Lu, JL Li, I Shats, X Li_
-
-
-Restriction of methionine (MR), a sulfur-containing essential amino acid, has been reported to repress cancer growth and improve therapeutic responses in several preclinical settings. However, how MR impacts cancer progression in the context of the intact immune system is unknown. Here we report that while inhibiting cancer growth in immunocompromised mice, MR reduces T cell abundance, exacerbates tumour growth and impairs tumour response to immunotherapy in immunocompetent male and female mice. Mechanistically, MR reduces microbial production of hydrogen sulfide, which is critical for immune cell survival/activation. Dietary supplementation of a hydrogen sulfide donor or a precursor, or methionine, stimulates antitumour immunity and suppresses tumour progression. Our findings reveal an unexpected negative interaction between MR, sulfur deficiency and antitumour immunity and further uncover a vital role of gut microbiota in mediating this interaction. Our study suggests that any possible anticancer benefits of MR require careful consideration of both the microbiota and the immune system.
+## Methionine restriction-induced sulfur deficiency impairs antitumour immunity partially through gut microbiota
 
 [Source](https://doi.org/10.1038/s42255-023-00854-3)
-
-10.1038/s42255-023-00854-3
 
 ---
 
@@ -125,15 +119,9 @@ To answer the following PECO question: "In systemically healthy human subjects (
 
 ---
 
-## Towards integrative plant pathology.
- 05.08.2023, _T Ruiz-Bedoya, KJ McTavish, TV Av-Shalom, D Desveaux, DS Guttman_
-
-
-The field of plant pathology has revealed many of the mechanisms underlying the arms race, providing crucial knowledge and genetic resources for improving plant health. Although the host-microbe interaction seemingly favors rapidly evolving pathogens, it has also generated a vast evolutionary history of largely unexplored plant immunodiversity. We review studies that characterize the scope and distribution of genetic and ecological diversity in model and non-model systems with specific reference to pathogen effector diversity, plant immunodiversity in both cultivated species and their wild relatives, and diversity in the plant-associated microbiota. We show how the study of evolutionary and ecological processes can reveal patterns of genetic convergence, conservation, and diversification, and that this diversity is increasingly tractable in both experimental and translational systems. Perhaps most importantly, these patterns of diversity provide largely untapped resources that can be deployed for the rational engineering of durable resistance for sustainable agriculture.
+## Towards integrative plant pathology
 
 [Source](https://doi.org/10.1016/j.pbi.2023.102430)
-
-10.1016/j.pbi.2023.102430
 
 ---
 
@@ -143,15 +131,9 @@ The field of plant pathology has revealed many of the mechanisms underlying the 
 
 ---
 
-## Intracellular glycogen accumulation by human gut commensals as a niche adaptation trait.
- 04.08.2023, _M Esteban-Torres, L Ruiz, V Rossini, K Nally, D van Sinderen_
-
-
-The human gut microbiota is a key contributor to host metabolism and physiology, thereby impacting in various ways on host health. This complex microbial community has developed many metabolic strategies to colonize, persist and survive in the gastrointestinal environment. In this regard, intracellular glycogen accumulation has been associated with important physiological functions in several bacterial species, including gut commensals. However, the role of glycogen storage in shaping the composition and functionality of the gut microbiota offers a novel perspective in gut microbiome research. Here, we review what is known about the enzymatic machinery and regulation of glycogen metabolism in selected enteric bacteria, while we also discuss its potential impact on colonization and adaptation to the gastrointestinal tract. Furthermore, we survey the presence of such glycogen biosynthesis pathways in gut metagenomic data to highlight the relevance of this metabolic trait in enhancing survival in the highly competitive and dynamic gut ecosystem.
+## Intracellular glycogen accumulation by human gut commensals as a niche adaptation trait
 
 [Source](https://doi.org/10.1080/19490976.2023.2235067)
-
-10.1080/19490976.2023.2235067
 
 ---
 
