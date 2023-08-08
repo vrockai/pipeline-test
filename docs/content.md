@@ -1,6 +1,12 @@
-## Methionine restriction-induced sulfur deficiency impairs antitumour immunity partially through gut microbiota
+## Methionine restriction-induced sulfur deficiency impairs antitumour immunity partially through gut microbiota.
+ 03.08.2023, _M Ji, X Xu, Q Xu, YC Hsiao, C Martin, S Ukraintseva, V Popov, KG Arbeev, TA Randall, X Wu, LM Garcia-Peterson, J Liu, X Xu, M Andrea Azcarate-Peril, Y Wan, AI Yashin, K Anantharaman, K Lu, JL Li, I Shats, X Li_
+
+
+Restriction of methionine (MR), a sulfur-containing essential amino acid, has been reported to repress cancer growth and improve therapeutic responses in several preclinical settings. However, how MR impacts cancer progression in the context of the intact immune system is unknown. Here we report that while inhibiting cancer growth in immunocompromised mice, MR reduces T cell abundance, exacerbates tumour growth and impairs tumour response to immunotherapy in immunocompetent male and female mice. Mechanistically, MR reduces microbial production of hydrogen sulfide, which is critical for immune cell survival/activation. Dietary supplementation of a hydrogen sulfide donor or a precursor, or methionine, stimulates antitumour immunity and suppresses tumour progression. Our findings reveal an unexpected negative interaction between MR, sulfur deficiency and antitumour immunity and further uncover a vital role of gut microbiota in mediating this interaction. Our study suggests that any possible anticancer benefits of MR require careful consideration of both the microbiota and the immune system.
 
 [Source](https://doi.org/10.1038/s42255-023-00854-3)
+
+10.1038/s42255-023-00854-3
 
 ---
 
@@ -17,15 +23,9 @@ Head and neck cancers are a complex malignancy comprising multiple anatomical si
 
 ---
 
-## Metagenomics revealed a correlation of gut phageome with autism spectrum disorder.
- 07.08.2023, _K Shahin, A Soleimani-Delfan, Z He, P Sansonetti, JM Collard_
-
-
-The human gut bacteriome is believed to have pivotal influences on human health and disease while the particular roles associated with the gut phageome have not been fully characterized yet with few exceptions. It is argued that gut microbiota can have a potential role in autism spectrum disorders (ASD). The public microbiota database of ASD and typically developing (TD) Chinese individuals were analyzed for phage protein-coding units (pPCU) to find any link between the phageome and ASD. The gut phageome of ASD individuals showed a wider diversity and higher abundance compared to TD individuals. The ASD phageome was associated with a significant expansion of Caudoviricetes bacteriophages. Phages infecting Bacteroidaceae and prophages encoded within Faecalibacterium were more frequent in ASD than in TD individuals. The expansion and diversification of ASD phageome can influence the bacterial homeostasis by imposing pressure on the bacterial communities. In conclusion, the differences of phages community in in ASD and TD can be used as potential diagnosis biomarkers of ASD. Further investigations are needed to verify the role of gut phage communities in the pathogenesis of ASD.
+## Metagenomics revealed a correlation of gut phageome with autism spectrum disorder
 
 [Source](https://doi.org/10.1186/s13099-023-00561-0)
-
-10.1186/s13099-023-00561-0
 
 ---
 
