@@ -71,15 +71,9 @@ The Tri-Service Microbiome Consortium (TSMC) was founded to enhance collaboratio
 
 ---
 
-## Evaluation of Intestinal Microbiota in Children With Sickle Cell Disease.
- 01.08.2023, _F Karahan, SS Yildiz, F Bayrakdar, Ö Tezol, N Kuyucu, S Kililç, M Türkegün, S Ünal_
-
-
-Sickle cell disease (SCD) is a chronic hemolytic anemia that may be life-threatening due to multisystemic effects. Identification of the factors which affect the pathophysiology of the disease is important in reducing mortality and morbidity. This study aimed to determine gut microbial diversity in children and adolescents with SCA compared with healthy volunteers and to evaluate the clinical impact of microbiota.
+## Evaluation of Intestinal Microbiota in Children With Sickle Cell Disease
 
 [Source](https://doi.org/10.1097/MPH.0000000000002725)
-
-10.1097/MPH.0000000000002725
 
 ---
 
@@ -119,9 +113,15 @@ To answer the following PECO question: "In systemically healthy human subjects (
 
 ---
 
-## A symbiotic footprint in the plant root microbiome
+## A symbiotic footprint in the plant root microbiome.
+ 03.08.2023, _K Hartman, MW Schmid, N Bodenhausen, SF Bender, AY Valzano-Held, K Schlaeppi, MGA van der Heijden_
+
+
+A major aim in plant microbiome research is determining the drivers of plant-associated microbial communities. While soil characteristics and host plant identity present key drivers of root microbiome composition, it is still unresolved whether the presence or absence of important plant root symbionts also determines overall microbiome composition. Arbuscular mycorrhizal fungi (AMF) and N-fixing rhizobia bacteria are widespread, beneficial root symbionts that significantly enhance plant nutrition, plant health, and root structure. Thus, we hypothesized that symbiont types define the root microbiome structure.
 
 [Source](https://doi.org/10.1186/s40793-023-00521-w)
+
+10.1186/s40793-023-00521-w
 
 ---
 
