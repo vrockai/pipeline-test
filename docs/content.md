@@ -47,15 +47,9 @@ The cervicovaginal microbiota is influenced by host physiology, immunology, life
 
 ---
 
-## Illuminating the Oral Microbiome: Cellular Microbiology.
- 03.08.2023, _RJ Lamont, DP Miller, J Bagaitkar_
-
-
-Epithelial cells line mucosal surfaces such as in the gingival crevice and provide a barrier to the ingress of colonizing microorganisms. However, epithelial cells are more than a passive barrier to microbial intrusion, and rather constitute an interactive interface with colonizing organisms which senses the composition of the microbiome and communicates this information to the underlying cells of the innate immune system. Microorganisms, for their part, have devised means to manipulate host cell signal transduction pathways to favor their colonization and survival. Study of this field, which has become known as cellular microbiology, has revealed much about epithelial cell physiology, bacterial colonization and pathogenic strategies, and innate host responses.
+## Illuminating the Oral Microbiome: Cellular Microbiology
 
 [Source](https://doi.org/10.1093/femsre/fuad045)
-
-10.1093/femsre/fuad045
 
 ---
 
@@ -71,9 +65,15 @@ The Tri-Service Microbiome Consortium (TSMC) was founded to enhance collaboratio
 
 ---
 
-## Evaluation of Intestinal Microbiota in Children With Sickle Cell Disease
+## Evaluation of Intestinal Microbiota in Children With Sickle Cell Disease.
+ 01.08.2023, _F Karahan, SS Yildiz, F Bayrakdar, Ö Tezol, N Kuyucu, S Kililç, M Türkegün, S Ünal_
+
+
+Sickle cell disease (SCD) is a chronic hemolytic anemia that may be life-threatening due to multisystemic effects. Identification of the factors which affect the pathophysiology of the disease is important in reducing mortality and morbidity. This study aimed to determine gut microbial diversity in children and adolescents with SCA compared with healthy volunteers and to evaluate the clinical impact of microbiota.
 
 [Source](https://doi.org/10.1097/MPH.0000000000002725)
+
+10.1097/MPH.0000000000002725
 
 ---
 
