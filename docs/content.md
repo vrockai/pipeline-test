@@ -11,7 +11,7 @@ Restriction of methionine (MR), a sulfur-containing essential amino acid, has be
 ---
 
 ## Total RNA sequencing reveals gene expression and microbial alterations shared by oral pre-malignant lesions and cancer.
- 07.08.2023, _MM Khan, J Frustino, A Villa, BC Nguyen, SB Woo, WE Johnson, X Varelas, M Kukuruzinska, S Monti_
+ 10.08.2023, _MM Khan, J Frustino, A Villa, BC Nguyen, SB Woo, WE Johnson, X Varelas, M Kukuruzinska, S Monti_
 
 
 _Humans, Mouth Neoplasms, Carcinoma, Squamous Cell, Precancerous Conditions, Transcriptome, Sequence Analysis, RNA_
@@ -83,15 +83,9 @@ Sickle cell disease (SCD) is a chronic hemolytic anemia that may be life-threate
 
 ---
 
-## Genetic and gut microbiome determinants of SCFA circulating and fecal levels, postprandial responses and links to chronic and acute inflammation.
- 04.08.2023, _A Nogal, F Asnicar, A Vijay, A Kouraki, A Visconti, P Louca, K Wong, AF Baleanu, F Giordano, J Wolf, G Hadjigeorgiou, R Davies, GA Michelotti, PW Franks, SE Berry, M Falchi, A Ikram, BJ Ollivere, A Zheng, J Nightingale, M Mangino, N Segata, WJ Bulsiewicz, TD Spector, AM Valdes, C Menni_
-
-
-Short-chain fatty acids (SCFA) are involved in immune system and inflammatory responses. We comprehensively assessed the host genetic and gut microbial contribution to a panel of eight serum and stool SCFAs in two cohorts (TwinsUK, n = 2507; ZOE PREDICT-1, n = 328), examined their postprandial changes and explored their links with chronic and acute inflammatory responses in healthy individuals and trauma patients. We report low concordance between circulating and fecal SCFAs, significant postprandial changes in most circulating SCFAs, and a heritable genetic component (average h2: serum = 14%(SD = 14%); stool = 12%(SD = 6%)). Furthermore, we find that gut microbiome can accurately predict their fecal levels (AUC&gt;0.71) while presenting weaker associations with serum. Finally, we report different correlation patterns with inflammatory markers depending on the type of inflammatory response (chronic or acute trauma). Our results illustrate the breadth of the physiological relevance of SCFAs on human inflammatory and metabolic responses highlighting the need for a deeper understanding of this important class of molecules.
+## Genetic and gut microbiome determinants of SCFA circulating and fecal levels, postprandial responses and links to chronic and acute inflammation
 
 [Source](https://doi.org/10.1080/19490976.2023.2240050)
-
-10.1080/19490976.2023.2240050
 
 ---
 
@@ -119,27 +113,15 @@ To answer the following PECO question: "In systemically healthy human subjects (
 
 ---
 
-## A symbiotic footprint in the plant root microbiome.
- 03.08.2023, _K Hartman, MW Schmid, N Bodenhausen, SF Bender, AY Valzano-Held, K Schlaeppi, MGA van der Heijden_
-
-
-A major aim in plant microbiome research is determining the drivers of plant-associated microbial communities. While soil characteristics and host plant identity present key drivers of root microbiome composition, it is still unresolved whether the presence or absence of important plant root symbionts also determines overall microbiome composition. Arbuscular mycorrhizal fungi (AMF) and N-fixing rhizobia bacteria are widespread, beneficial root symbionts that significantly enhance plant nutrition, plant health, and root structure. Thus, we hypothesized that symbiont types define the root microbiome structure.
+## A symbiotic footprint in the plant root microbiome
 
 [Source](https://doi.org/10.1186/s40793-023-00521-w)
 
-10.1186/s40793-023-00521-w
-
 ---
 
-## Towards integrative plant pathology.
- 05.08.2023, _T Ruiz-Bedoya, KJ McTavish, TV Av-Shalom, D Desveaux, DS Guttman_
-
-
-The field of plant pathology has revealed many of the mechanisms underlying the arms race, providing crucial knowledge and genetic resources for improving plant health. Although the host-microbe interaction seemingly favors rapidly evolving pathogens, it has also generated a vast evolutionary history of largely unexplored plant immunodiversity. We review studies that characterize the scope and distribution of genetic and ecological diversity in model and non-model systems with specific reference to pathogen effector diversity, plant immunodiversity in both cultivated species and their wild relatives, and diversity in the plant-associated microbiota. We show how the study of evolutionary and ecological processes can reveal patterns of genetic convergence, conservation, and diversification, and that this diversity is increasingly tractable in both experimental and translational systems. Perhaps most importantly, these patterns of diversity provide largely untapped resources that can be deployed for the rational engineering of durable resistance for sustainable agriculture.
+## Towards integrative plant pathology
 
 [Source](https://doi.org/10.1016/j.pbi.2023.102430)
-
-10.1016/j.pbi.2023.102430
 
 ---
 
@@ -149,15 +131,9 @@ The field of plant pathology has revealed many of the mechanisms underlying the 
 
 ---
 
-## Intracellular glycogen accumulation by human gut commensals as a niche adaptation trait.
- 04.08.2023, _M Esteban-Torres, L Ruiz, V Rossini, K Nally, D van Sinderen_
-
-
-The human gut microbiota is a key contributor to host metabolism and physiology, thereby impacting in various ways on host health. This complex microbial community has developed many metabolic strategies to colonize, persist and survive in the gastrointestinal environment. In this regard, intracellular glycogen accumulation has been associated with important physiological functions in several bacterial species, including gut commensals. However, the role of glycogen storage in shaping the composition and functionality of the gut microbiota offers a novel perspective in gut microbiome research. Here, we review what is known about the enzymatic machinery and regulation of glycogen metabolism in selected enteric bacteria, while we also discuss its potential impact on colonization and adaptation to the gastrointestinal tract. Furthermore, we survey the presence of such glycogen biosynthesis pathways in gut metagenomic data to highlight the relevance of this metabolic trait in enhancing survival in the highly competitive and dynamic gut ecosystem.
+## Intracellular glycogen accumulation by human gut commensals as a niche adaptation trait
 
 [Source](https://doi.org/10.1080/19490976.2023.2235067)
-
-10.1080/19490976.2023.2235067
 
 ---
 
