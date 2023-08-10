@@ -83,9 +83,15 @@ Sickle cell disease (SCD) is a chronic hemolytic anemia that may be life-threate
 
 ---
 
-## Genetic and gut microbiome determinants of SCFA circulating and fecal levels, postprandial responses and links to chronic and acute inflammation
+## Genetic and gut microbiome determinants of SCFA circulating and fecal levels, postprandial responses and links to chronic and acute inflammation.
+ 04.08.2023, _A Nogal, F Asnicar, A Vijay, A Kouraki, A Visconti, P Louca, K Wong, AF Baleanu, F Giordano, J Wolf, G Hadjigeorgiou, R Davies, GA Michelotti, PW Franks, SE Berry, M Falchi, A Ikram, BJ Ollivere, A Zheng, J Nightingale, M Mangino, N Segata, WJ Bulsiewicz, TD Spector, AM Valdes, C Menni_
+
+
+Short-chain fatty acids (SCFA) are involved in immune system and inflammatory responses. We comprehensively assessed the host genetic and gut microbial contribution to a panel of eight serum and stool SCFAs in two cohorts (TwinsUK, n = 2507; ZOE PREDICT-1, n = 328), examined their postprandial changes and explored their links with chronic and acute inflammatory responses in healthy individuals and trauma patients. We report low concordance between circulating and fecal SCFAs, significant postprandial changes in most circulating SCFAs, and a heritable genetic component (average h2: serum = 14%(SD = 14%); stool = 12%(SD = 6%)). Furthermore, we find that gut microbiome can accurately predict their fecal levels (AUC&gt;0.71) while presenting weaker associations with serum. Finally, we report different correlation patterns with inflammatory markers depending on the type of inflammatory response (chronic or acute trauma). Our results illustrate the breadth of the physiological relevance of SCFAs on human inflammatory and metabolic responses highlighting the need for a deeper understanding of this important class of molecules.
 
 [Source](https://doi.org/10.1080/19490976.2023.2240050)
+
+10.1080/19490976.2023.2240050
 
 ---
 
