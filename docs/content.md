@@ -131,15 +131,9 @@ A major aim in plant microbiome research is determining the drivers of plant-ass
 
 ---
 
-## Towards integrative plant pathology.
- 05.08.2023, _T Ruiz-Bedoya, KJ McTavish, TV Av-Shalom, D Desveaux, DS Guttman_
-
-
-The field of plant pathology has revealed many of the mechanisms underlying the arms race, providing crucial knowledge and genetic resources for improving plant health. Although the host-microbe interaction seemingly favors rapidly evolving pathogens, it has also generated a vast evolutionary history of largely unexplored plant immunodiversity. We review studies that characterize the scope and distribution of genetic and ecological diversity in model and non-model systems with specific reference to pathogen effector diversity, plant immunodiversity in both cultivated species and their wild relatives, and diversity in the plant-associated microbiota. We show how the study of evolutionary and ecological processes can reveal patterns of genetic convergence, conservation, and diversification, and that this diversity is increasingly tractable in both experimental and translational systems. Perhaps most importantly, these patterns of diversity provide largely untapped resources that can be deployed for the rational engineering of durable resistance for sustainable agriculture.
+## Towards integrative plant pathology
 
 [Source](https://doi.org/10.1016/j.pbi.2023.102430)
-
-10.1016/j.pbi.2023.102430
 
 ---
 
