@@ -119,15 +119,27 @@ To answer the following PECO question: "In systemically healthy human subjects (
 
 ---
 
-## A symbiotic footprint in the plant root microbiome
+## A symbiotic footprint in the plant root microbiome.
+ 03.08.2023, _K Hartman, MW Schmid, N Bodenhausen, SF Bender, AY Valzano-Held, K Schlaeppi, MGA van der Heijden_
+
+
+A major aim in plant microbiome research is determining the drivers of plant-associated microbial communities. While soil characteristics and host plant identity present key drivers of root microbiome composition, it is still unresolved whether the presence or absence of important plant root symbionts also determines overall microbiome composition. Arbuscular mycorrhizal fungi (AMF) and N-fixing rhizobia bacteria are widespread, beneficial root symbionts that significantly enhance plant nutrition, plant health, and root structure. Thus, we hypothesized that symbiont types define the root microbiome structure.
 
 [Source](https://doi.org/10.1186/s40793-023-00521-w)
 
+10.1186/s40793-023-00521-w
+
 ---
 
-## Towards integrative plant pathology
+## Towards integrative plant pathology.
+ 05.08.2023, _T Ruiz-Bedoya, KJ McTavish, TV Av-Shalom, D Desveaux, DS Guttman_
+
+
+The field of plant pathology has revealed many of the mechanisms underlying the arms race, providing crucial knowledge and genetic resources for improving plant health. Although the host-microbe interaction seemingly favors rapidly evolving pathogens, it has also generated a vast evolutionary history of largely unexplored plant immunodiversity. We review studies that characterize the scope and distribution of genetic and ecological diversity in model and non-model systems with specific reference to pathogen effector diversity, plant immunodiversity in both cultivated species and their wild relatives, and diversity in the plant-associated microbiota. We show how the study of evolutionary and ecological processes can reveal patterns of genetic convergence, conservation, and diversification, and that this diversity is increasingly tractable in both experimental and translational systems. Perhaps most importantly, these patterns of diversity provide largely untapped resources that can be deployed for the rational engineering of durable resistance for sustainable agriculture.
 
 [Source](https://doi.org/10.1016/j.pbi.2023.102430)
+
+10.1016/j.pbi.2023.102430
 
 ---
 
@@ -137,9 +149,15 @@ To answer the following PECO question: "In systemically healthy human subjects (
 
 ---
 
-## Intracellular glycogen accumulation by human gut commensals as a niche adaptation trait
+## Intracellular glycogen accumulation by human gut commensals as a niche adaptation trait.
+ 04.08.2023, _M Esteban-Torres, L Ruiz, V Rossini, K Nally, D van Sinderen_
+
+
+The human gut microbiota is a key contributor to host metabolism and physiology, thereby impacting in various ways on host health. This complex microbial community has developed many metabolic strategies to colonize, persist and survive in the gastrointestinal environment. In this regard, intracellular glycogen accumulation has been associated with important physiological functions in several bacterial species, including gut commensals. However, the role of glycogen storage in shaping the composition and functionality of the gut microbiota offers a novel perspective in gut microbiome research. Here, we review what is known about the enzymatic machinery and regulation of glycogen metabolism in selected enteric bacteria, while we also discuss its potential impact on colonization and adaptation to the gastrointestinal tract. Furthermore, we survey the presence of such glycogen biosynthesis pathways in gut metagenomic data to highlight the relevance of this metabolic trait in enhancing survival in the highly competitive and dynamic gut ecosystem.
 
 [Source](https://doi.org/10.1080/19490976.2023.2235067)
+
+10.1080/19490976.2023.2235067
 
 ---
 
