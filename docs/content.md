@@ -23,15 +23,9 @@ Head and neck cancers are a complex malignancy comprising multiple anatomical si
 
 ---
 
-## Metagenomics revealed a correlation of gut phageome with autism spectrum disorder.
- 07.08.2023, _K Shahin, A Soleimani-Delfan, Z He, P Sansonetti, JM Collard_
-
-
-The human gut bacteriome is believed to have pivotal influences on human health and disease while the particular roles associated with the gut phageome have not been fully characterized yet with few exceptions. It is argued that gut microbiota can have a potential role in autism spectrum disorders (ASD). The public microbiota database of ASD and typically developing (TD) Chinese individuals were analyzed for phage protein-coding units (pPCU) to find any link between the phageome and ASD. The gut phageome of ASD individuals showed a wider diversity and higher abundance compared to TD individuals. The ASD phageome was associated with a significant expansion of Caudoviricetes bacteriophages. Phages infecting Bacteroidaceae and prophages encoded within Faecalibacterium were more frequent in ASD than in TD individuals. The expansion and diversification of ASD phageome can influence the bacterial homeostasis by imposing pressure on the bacterial communities. In conclusion, the differences of phages community in in ASD and TD can be used as potential diagnosis biomarkers of ASD. Further investigations are needed to verify the role of gut phage communities in the pathogenesis of ASD.
+## Metagenomics revealed a correlation of gut phageome with autism spectrum disorder
 
 [Source](https://doi.org/10.1186/s13099-023-00561-0)
-
-10.1186/s13099-023-00561-0
 
 ---
 
@@ -119,9 +113,15 @@ To answer the following PECO question: "In systemically healthy human subjects (
 
 ---
 
-## A symbiotic footprint in the plant root microbiome
+## A symbiotic footprint in the plant root microbiome.
+ 03.08.2023, _K Hartman, MW Schmid, N Bodenhausen, SF Bender, AY Valzano-Held, K Schlaeppi, MGA van der Heijden_
+
+
+A major aim in plant microbiome research is determining the drivers of plant-associated microbial communities. While soil characteristics and host plant identity present key drivers of root microbiome composition, it is still unresolved whether the presence or absence of important plant root symbionts also determines overall microbiome composition. Arbuscular mycorrhizal fungi (AMF) and N-fixing rhizobia bacteria are widespread, beneficial root symbionts that significantly enhance plant nutrition, plant health, and root structure. Thus, we hypothesized that symbiont types define the root microbiome structure.
 
 [Source](https://doi.org/10.1186/s40793-023-00521-w)
+
+10.1186/s40793-023-00521-w
 
 ---
 
