@@ -47,15 +47,9 @@ The cervicovaginal microbiota is influenced by host physiology, immunology, life
 
 ---
 
-## Illuminating the Oral Microbiome: Cellular Microbiology.
- 03.08.2023, _RJ Lamont, DP Miller, J Bagaitkar_
-
-
-Epithelial cells line mucosal surfaces such as in the gingival crevice and provide a barrier to the ingress of colonizing microorganisms. However, epithelial cells are more than a passive barrier to microbial intrusion, and rather constitute an interactive interface with colonizing organisms which senses the composition of the microbiome and communicates this information to the underlying cells of the innate immune system. Microorganisms, for their part, have devised means to manipulate host cell signal transduction pathways to favor their colonization and survival. Study of this field, which has become known as cellular microbiology, has revealed much about epithelial cell physiology, bacterial colonization and pathogenic strategies, and innate host responses.
+## Illuminating the Oral Microbiome: Cellular Microbiology
 
 [Source](https://doi.org/10.1093/femsre/fuad045)
-
-10.1093/femsre/fuad045
 
 ---
 
@@ -119,15 +113,27 @@ To answer the following PECO question: "In systemically healthy human subjects (
 
 ---
 
-## A symbiotic footprint in the plant root microbiome
+## A symbiotic footprint in the plant root microbiome.
+ 03.08.2023, _K Hartman, MW Schmid, N Bodenhausen, SF Bender, AY Valzano-Held, K Schlaeppi, MGA van der Heijden_
+
+
+A major aim in plant microbiome research is determining the drivers of plant-associated microbial communities. While soil characteristics and host plant identity present key drivers of root microbiome composition, it is still unresolved whether the presence or absence of important plant root symbionts also determines overall microbiome composition. Arbuscular mycorrhizal fungi (AMF) and N-fixing rhizobia bacteria are widespread, beneficial root symbionts that significantly enhance plant nutrition, plant health, and root structure. Thus, we hypothesized that symbiont types define the root microbiome structure.
 
 [Source](https://doi.org/10.1186/s40793-023-00521-w)
 
+10.1186/s40793-023-00521-w
+
 ---
 
-## Towards integrative plant pathology
+## Towards integrative plant pathology.
+ 05.08.2023, _T Ruiz-Bedoya, KJ McTavish, TV Av-Shalom, D Desveaux, DS Guttman_
+
+
+The field of plant pathology has revealed many of the mechanisms underlying the arms race, providing crucial knowledge and genetic resources for improving plant health. Although the host-microbe interaction seemingly favors rapidly evolving pathogens, it has also generated a vast evolutionary history of largely unexplored plant immunodiversity. We review studies that characterize the scope and distribution of genetic and ecological diversity in model and non-model systems with specific reference to pathogen effector diversity, plant immunodiversity in both cultivated species and their wild relatives, and diversity in the plant-associated microbiota. We show how the study of evolutionary and ecological processes can reveal patterns of genetic convergence, conservation, and diversification, and that this diversity is increasingly tractable in both experimental and translational systems. Perhaps most importantly, these patterns of diversity provide largely untapped resources that can be deployed for the rational engineering of durable resistance for sustainable agriculture.
 
 [Source](https://doi.org/10.1016/j.pbi.2023.102430)
+
+10.1016/j.pbi.2023.102430
 
 ---
 
