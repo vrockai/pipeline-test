@@ -23,9 +23,15 @@ Head and neck cancers are a complex malignancy comprising multiple anatomical si
 
 ---
 
-## Metagenomics revealed a correlation of gut phageome with autism spectrum disorder
+## Metagenomics revealed a correlation of gut phageome with autism spectrum disorder.
+ 07.08.2023, _K Shahin, A Soleimani-Delfan, Z He, P Sansonetti, JM Collard_
+
+
+The human gut bacteriome is believed to have pivotal influences on human health and disease while the particular roles associated with the gut phageome have not been fully characterized yet with few exceptions. It is argued that gut microbiota can have a potential role in autism spectrum disorders (ASD). The public microbiota database of ASD and typically developing (TD) Chinese individuals were analyzed for phage protein-coding units (pPCU) to find any link between the phageome and ASD. The gut phageome of ASD individuals showed a wider diversity and higher abundance compared to TD individuals. The ASD phageome was associated with a significant expansion of Caudoviricetes bacteriophages. Phages infecting Bacteroidaceae and prophages encoded within Faecalibacterium were more frequent in ASD than in TD individuals. The expansion and diversification of ASD phageome can influence the bacterial homeostasis by imposing pressure on the bacterial communities. In conclusion, the differences of phages community in in ASD and TD can be used as potential diagnosis biomarkers of ASD. Further investigations are needed to verify the role of gut phage communities in the pathogenesis of ASD.
 
 [Source](https://doi.org/10.1186/s13099-023-00561-0)
+
+10.1186/s13099-023-00561-0
 
 ---
 
