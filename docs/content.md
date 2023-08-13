@@ -1,5 +1,5 @@
 ## Enterotypes of the human gut mycobiome.
- 12.08.2023, _S Lai, Y Yan, Y Pu, S Lin, JG Qiu, BH Jiang, MI Keller, M Wang, P Bork, WH Chen, Y Zheng, XM Zhao_
+ 13.08.2023, _S Lai, Y Yan, Y Pu, S Lin, JG Qiu, BH Jiang, MI Keller, M Wang, P Bork, WH Chen, Y Zheng, XM Zhao_
 
 
 The fungal component of the human gut microbiome, also known as the mycobiome, plays a vital role in intestinal ecology and human health. However, the overall structure of the gut mycobiome as well as the inter-individual variations in fungal composition remains largely unknown. In this study, we collected a total of 3363 fungal sequencing samples from 16 cohorts across three continents, including 572 newly profiled samples from China.
@@ -53,7 +53,7 @@ Nosocomial infections (NIs) appear in patients under medical care in the hospita
 ---
 
 ## Identification of host gene-microbiome associations in colorectal cancer patients using mendelian randomization.
- 12.08.2023, _Y Xiang, C Zhang, J Wang, Y Cheng, L Wang, Y Tong, D Yan_
+ 13.08.2023, _Y Xiang, C Zhang, J Wang, Y Cheng, L Wang, Y Tong, D Yan_
 
 
 There are many studies indicating that alterations in the abundance of certain gut microbiota are associated with colorectal cancer (CRC). However, a causal relationship has not been identified due to confounding factors such as lifestyle, environmental, and possible reverse causal associations between the two. Furthermore, certain host gene mutations can also contribute to the development of CRC. However, the association between genes and gut microbes in patients with CRC has not been extensively studied.
@@ -113,15 +113,28 @@ SARS-CoV-2-positive patients exhibit gut and oral microbiome dysbiosis, which is
 
 ---
 
-## The importance of the gut microbiome in the pathogenesis and transmission of SARS-CoV-2
+## The importance of the gut microbiome in the pathogenesis and transmission of SARS-CoV-2.
+ 13.08.2023, _C Brogna, V Viduto, M Fabrowski, S Cristoni, G Marino, L Montano, M Piscopo_
+
+
+Zhou et al. study nicely traces a significant topic in COVID-19 infection: the persistence of the virus within the intestinal tract. Many pathological mechanisms have been noted in the current literature about the mode of infection and propagation of SARS-CoV-2 in the human body. Nevertheless, there are still many concerns about this: only some things seem well understood. We present a different point of view by illustrating the importance of the gut microbiome in the pathogenesis of COVID-19 disorders.
 
 [Source](https://doi.org/10.1080/19490976.2023.2244718)
 
+10.1080/19490976.2023.2244718
+
 ---
 
-## Perturbations in gut microbiota composition in patients with polycystic ovary syndrome: a systematic review and meta-analysis
+## Perturbations in gut microbiota composition in patients with polycystic ovary syndrome: a systematic review and meta-analysis.
+ 12.08.2023, _P Li, P Shuai, S Shen, H Zheng, P Sun, R Zhang, S Lan, Z Lan, T Jayawardana, Y Yang, J Zhao, Y Liu, X Chen, EM El-Omar, Z Wan_
+
+
+_Humans, Female, Gastrointestinal Microbiome, Polycystic Ovary Syndrome, Dysbiosis, Phylogeny, Microbiota_
+The results of human observational studies on the correlation between gut microbiota perturbations and polycystic ovary syndrome (PCOS) have been contradictory. This study aimed to perform the first systematic review and meta-analysis to evaluate the specificity of the gut microbiota in PCOS patients compared to healthy women.
 
 [Source](https://doi.org/10.1186/s12916-023-02975-8)
+
+10.1186/s12916-023-02975-8
 
 ---
 
@@ -139,7 +152,7 @@ Results published in an article by Poore et al. (Nature. 2020;579:567-574) sugge
 ---
 
 ## Gut microbial beta-glucuronidase: a vital regulator in female estrogen metabolism.
- 12.08.2023, _S Hu, Q Ding, W Zhang, M Kang, J Ma, L Zhao_
+ 13.08.2023, _S Hu, Q Ding, W Zhang, M Kang, J Ma, L Zhao_
 
 
 A growing amount of evidence has supported that gut microbiota plays a vital role in the reproductive endocrine system throughout a woman's whole life, and gut microbial β-glucuronidase (gmGUS) is a key factor in regulating host estrogen metabolism. Moreover, estrogen levels also influence the composition as well as the diversity of gut microbiota. In normal condition, the gmGUS-estrogen crosstalk maintains body homeostasis of physiological estrogen level. Once this homeostasis is broken, the estrogen metabolism will be disturbed, resulting in estrogen-related diseases, such as gynecological cancers, menopausal syndrome, etc. together with gut microbial dysbiosis, which may accelerate these pathological processes. In this review, we highlight the regulatory role of gmGUS on the physical estrogen metabolism and estrogen-related diseases, summarize the present evidence of the interaction between gmGUS and estrogen metabolism, and unwrap the potential mechanisms behind them. Finally, gmGUS may become a potential biomarker for early diagnosis of estrogen-induced diseases. Regulating gmGUS activity or transplanting gmGUS-producing microbes shows promise for treating estrogen-related diseases.
@@ -169,9 +182,15 @@ Colorectal cancer (CRC), which develops from the gradual evolution of tubular ad
 
 ---
 
-## The enhancement in toxic potency of oxidized functionalized polyethylene-microplastics in mice gut and Caco-2 cells
+## The enhancement in toxic potency of oxidized functionalized polyethylene-microplastics in mice gut and Caco-2 cells.
+ 08.08.2023, _J Wang, H Tian, Y Shi, Y Yang, F Yu, H Cao, L Gao, M Liu_
+
+
+Microplastics (MPs) are inevitably oxidized in the environment, however, to date, no studies have discussed the biological toxicity of oxidized polyethylene (Ox-PE) MPs. In this study, oxidized low-density polyethylene (Ox-LDPE), a representative Ox-PE, was prepared using a selective oxidation method. The difference in toxicity between LDPE-MPs and Ox-LDPE-MPs were evaluated in C57BL/6 mice and Caco-2 cells. The proton nuclear magnetic resonance (1H NMR) and Fourier transform infrared (FTIR) spectroscopy analyses revealed that some hydrocarbon-containing groups were transformed into carboxyl and ketone groups during selective oxidation. In vivo experiment results showed that LDPE-MPs and Ox-LDPE-MPs exists in the intestinal (duodenum and colon) of mice, and Ox-LDPE-MPs caused more severe intestinal histological changes, oxidative stress, and inflammatory response. The gut microbiota data showed that the relative abundance of Lactobacillus decreased significantly in the LDPE-MP- and Ox-LDPE-MP-exposed groups (P &lt; 0.05). The predicted Kyoto Encyclopedia of Genes and Genomes (KEGG) metabolic pathway suggested that exposure to LDPE-MPs or Ox-LDPE-MPs inhibited glycan biosynthesis and metabolism in the flora (P &lt; 0.05). In vitro experiment results showed that selective oxidation to LDPE promoted its uptake by cells and aggravated adverse effects on cells, including reduced cell viability, damaged cell membrane, oxidative stress, and mitochondrial depolarization. The major mechanism of the increased toxicity of Ox-LDPE-MPs may be its easier accumulation and the ionic effect of oxygen-containing functional groups. Overall, these findings provide insights on the differences in toxicity between LDPE-MPs and Ox-LDPE-MPs. They also provide new perspectives for understanding the biohazards of MPs, which are necessary to accurately assess the potential environmental and health risks of these plastic pollutants.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.166057)
+
+10.1016/j.scitotenv.2023.166057
 
 ---
 
@@ -254,9 +273,15 @@ The Borra caves, the second largest subterranean karst cave ecosystem in the Ind
 
 ---
 
-## Effects of marine sediment as agricultural substrate on soil microbial diversity: an amplicon sequencing study
+## Effects of marine sediment as agricultural substrate on soil microbial diversity: an amplicon sequencing study.
+ 10.08.2023, _D Núñez-Gómez, P Melgarejo, JJ Martínez-Nicolás, F Hernández, R Martínez-Font, V Lidón, P Legua_
+
+
+The soil microbiota has a direct impact on plant development and other metabolic systems, such as the degradation of organic matter and the availability of microelements and metabolites. In the context of agricultural soils, microbial activity is crucial for maintaining soil health and productivity. Thus, the present study aimed to identify, characterize, and quantify the microbial communities of four types of substrates with varying proportions of marine port sediment used for cultivating lemons. By investigating microbial diversity and relative abundance, the work aimed to highlight the importance of soil microbial communities in agriculture when alternative culture media was used.
 
 [Source](https://doi.org/10.1186/s40793-023-00519-4)
+
+10.1186/s40793-023-00519-4
 
 ---
 
@@ -297,14 +322,21 @@ The high diversity and complexity of the microbial community make it a formidabl
 
 ---
 
-## sccomp: Robust differential composition and variability analysis for single-cell data
+## sccomp: Robust differential composition and variability analysis for single-cell data.
+ 10.08.2023, _S Mangiola, AJ Roth-Schulze, M Trussart, E Zozaya-Valdés, M Ma, Z Gao, AF Rubin, TP Speed, H Shim, AT Papenfuss_
+
+
+_Genomics, Proteomics, Computer Simulation, Microbiota, Algorithms_
+Cellular omics such as single-cell genomics, proteomics, and microbiomics allow the characterization of tissue and microbial community composition, which can be compared between conditions to identify biological drivers. This strategy has been critical to revealing markers of disease progression, such as cancer and pathogen infection. A dedicated statistical method for differential variability analysis is lacking for cellular omics data, and existing methods for differential composition analysis do not model some compositional data properties, suggesting there is room to improve model performance. Here, we introduce sccomp, a method for differential composition and variability analyses that jointly models data count distribution, compositionality, group-specific variability, and proportion mean-variability association, being aware of outliers. sccomp provides a comprehensive analysis framework that offers realistic data simulation and cross-study knowledge transfer. Here, we demonstrate that mean-variability association is ubiquitous across technologies, highlighting the inadequacy of the very popular Dirichlet-multinomial distribution. We show that sccomp accurately fits experimental data, significantly improving performance over state-of-the-art algorithms. Using sccomp, we identified differential constraints and composition in the microenvironment of primary breast cancer.
 
 [Source](https://doi.org/10.1073/pnas.2203828120)
+
+10.1073/pnas.2203828120
 
 ---
 
 ## Metagenome sequencing and 103 microbial genomes from ballast water and sediments.
- 12.08.2023, _Z Xue, Y Han, W Tian, W Zhang_
+ 13.08.2023, _Z Xue, Y Han, W Tian, W Zhang_
 
 
 The great threat of microbes carried by ballast water calls for figuring out the species composition of the ballast-tank microbial community, where the dark, cold, and anoxic tank environment might select special taxa. In this study, we reconstructed 103 metagenome-assembled genomes (MAGs), including 102 bacteria and one archaea, from four vessels on international voyages. Of these MAGs, 60 were 'near complete' (completeness &gt;90%), 34 were &gt;80% complete, and nine were &gt;75% complete. Phylogenomic analysis revealed that over 70% (n = 74) of these MAGs represented new taxa at different taxonomical levels, including one order, three families, 12 genera, and 58 species. The species composition of these MAGs was most consistent with the previous reports, with the most abundant phyla being Proteobacteria (n = 69), Bacteroidota (n = 17), and Actinobacteriota (n = 7). These draft genomes provided novel data on species diversity and function in the ballast-tank microbial community, which will facilitate ballast water and sediments management.
