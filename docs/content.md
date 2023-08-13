@@ -10,16 +10,9 @@ Restriction of methionine (MR), a sulfur-containing essential amino acid, has be
 
 ---
 
-## Total RNA sequencing reveals gene expression and microbial alterations shared by oral pre-malignant lesions and cancer.
- 10.08.2023, _MM Khan, J Frustino, A Villa, BC Nguyen, SB Woo, WE Johnson, X Varelas, M Kukuruzinska, S Monti_
-
-
-_Humans, Mouth Neoplasms, Carcinoma, Squamous Cell, Precancerous Conditions, Transcriptome, Sequence Analysis, RNA_
-Head and neck cancers are a complex malignancy comprising multiple anatomical sites, with cancer of the oral cavity ranking among the deadliest and the most disfiguring cancers globally. Oral cancer (OC) constitutes a subset of head and neck cancer cases, presenting primarily as tobacco- and alcohol-associated oral squamous cell carcinoma (OSCC), with a 5-year survival rate of ~ 65%, partly due to the lack of early detection and effective treatments. OSCC arises from premalignant lesions (PMLs) in the oral cavity through a multi-step series of clinical and histopathological stages, including varying degrees of epithelial dysplasia. To gain insights into the molecular mechanisms associated with the progression of PMLs to OSCC, we profiled the whole transcriptome of 66 human PMLs comprising leukoplakia with dysplasia and hyperkeratosis non-reactive (HkNR) pathologies, alongside healthy controls and OSCC. Our data revealed that PMLs were enriched in gene signatures associated with cellular plasticity, such as partial EMT (p-EMT) phenotypes, and with immune response. Integrated analyses of the host transcriptome and microbiome further highlighted a significant association between differential microbial abundance and PML pathway activity, suggesting a contribution of the oral microbiome toward PML evolution to OSCC. Collectively, this study reveals molecular processes associated with PML progression that may help early diagnosis and disease interception at an early stage.
+## Total RNA sequencing reveals gene expression and microbial alterations shared by oral pre-malignant lesions and cancer
 
 [Source](https://doi.org/10.1186/s40246-023-00519-y)
-
-10.1186/s40246-023-00519-y
 
 ---
 
@@ -47,9 +40,15 @@ The cervicovaginal microbiota is influenced by host physiology, immunology, life
 
 ---
 
-## Illuminating the Oral Microbiome: Cellular Microbiology
+## Illuminating the Oral Microbiome: Cellular Microbiology.
+ 03.08.2023, _RJ Lamont, DP Miller, J Bagaitkar_
+
+
+Epithelial cells line mucosal surfaces such as in the gingival crevice and provide a barrier to the ingress of colonizing microorganisms. However, epithelial cells are more than a passive barrier to microbial intrusion, and rather constitute an interactive interface with colonizing organisms which senses the composition of the microbiome and communicates this information to the underlying cells of the innate immune system. Microorganisms, for their part, have devised means to manipulate host cell signal transduction pathways to favor their colonization and survival. Study of this field, which has become known as cellular microbiology, has revealed much about epithelial cell physiology, bacterial colonization and pathogenic strategies, and innate host responses.
 
 [Source](https://doi.org/10.1093/femsre/fuad045)
+
+10.1093/femsre/fuad045
 
 ---
 
@@ -77,15 +76,9 @@ Sickle cell disease (SCD) is a chronic hemolytic anemia that may be life-threate
 
 ---
 
-## Genetic and gut microbiome determinants of SCFA circulating and fecal levels, postprandial responses and links to chronic and acute inflammation.
- 04.08.2023, _A Nogal, F Asnicar, A Vijay, A Kouraki, A Visconti, P Louca, K Wong, AF Baleanu, F Giordano, J Wolf, G Hadjigeorgiou, R Davies, GA Michelotti, PW Franks, SE Berry, M Falchi, A Ikram, BJ Ollivere, A Zheng, J Nightingale, M Mangino, N Segata, WJ Bulsiewicz, TD Spector, AM Valdes, C Menni_
-
-
-Short-chain fatty acids (SCFA) are involved in immune system and inflammatory responses. We comprehensively assessed the host genetic and gut microbial contribution to a panel of eight serum and stool SCFAs in two cohorts (TwinsUK, n = 2507; ZOE PREDICT-1, n = 328), examined their postprandial changes and explored their links with chronic and acute inflammatory responses in healthy individuals and trauma patients. We report low concordance between circulating and fecal SCFAs, significant postprandial changes in most circulating SCFAs, and a heritable genetic component (average h2: serum = 14%(SD = 14%); stool = 12%(SD = 6%)). Furthermore, we find that gut microbiome can accurately predict their fecal levels (AUC&gt;0.71) while presenting weaker associations with serum. Finally, we report different correlation patterns with inflammatory markers depending on the type of inflammatory response (chronic or acute trauma). Our results illustrate the breadth of the physiological relevance of SCFAs on human inflammatory and metabolic responses highlighting the need for a deeper understanding of this important class of molecules.
+## Genetic and gut microbiome determinants of SCFA circulating and fecal levels, postprandial responses and links to chronic and acute inflammation
 
 [Source](https://doi.org/10.1080/19490976.2023.2240050)
-
-10.1080/19490976.2023.2240050
 
 ---
 
@@ -143,9 +136,15 @@ The field of plant pathology has revealed many of the mechanisms underlying the 
 
 ---
 
-## Intracellular glycogen accumulation by human gut commensals as a niche adaptation trait
+## Intracellular glycogen accumulation by human gut commensals as a niche adaptation trait.
+ 04.08.2023, _M Esteban-Torres, L Ruiz, V Rossini, K Nally, D van Sinderen_
+
+
+The human gut microbiota is a key contributor to host metabolism and physiology, thereby impacting in various ways on host health. This complex microbial community has developed many metabolic strategies to colonize, persist and survive in the gastrointestinal environment. In this regard, intracellular glycogen accumulation has been associated with important physiological functions in several bacterial species, including gut commensals. However, the role of glycogen storage in shaping the composition and functionality of the gut microbiota offers a novel perspective in gut microbiome research. Here, we review what is known about the enzymatic machinery and regulation of glycogen metabolism in selected enteric bacteria, while we also discuss its potential impact on colonization and adaptation to the gastrointestinal tract. Furthermore, we survey the presence of such glycogen biosynthesis pathways in gut metagenomic data to highlight the relevance of this metabolic trait in enhancing survival in the highly competitive and dynamic gut ecosystem.
 
 [Source](https://doi.org/10.1080/19490976.2023.2235067)
+
+10.1080/19490976.2023.2235067
 
 ---
 
