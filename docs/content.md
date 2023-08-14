@@ -1,7 +1,8 @@
 ## Enterotypes of the human gut mycobiome.
- 13.08.2023, _S Lai, Y Yan, Y Pu, S Lin, JG Qiu, BH Jiang, MI Keller, M Wang, P Bork, WH Chen, Y Zheng, XM Zhao_
+ 14.08.2023, _S Lai, Y Yan, Y Pu, S Lin, JG Qiu, BH Jiang, MI Keller, M Wang, P Bork, WH Chen, Y Zheng, XM Zhao_
 
 
+_Humans, Aged, Mycobiome, Microbiota, Gastrointestinal Microbiome, Candida, Aging_
 The fungal component of the human gut microbiome, also known as the mycobiome, plays a vital role in intestinal ecology and human health. However, the overall structure of the gut mycobiome as well as the inter-individual variations in fungal composition remains largely unknown. In this study, we collected a total of 3363 fungal sequencing samples from 16 cohorts across three continents, including 572 newly profiled samples from China.
 
 [Source](https://doi.org/10.1186/s40168-023-01586-y)
@@ -53,9 +54,10 @@ Nosocomial infections (NIs) appear in patients under medical care in the hospita
 ---
 
 ## Identification of host gene-microbiome associations in colorectal cancer patients using mendelian randomization.
- 13.08.2023, _Y Xiang, C Zhang, J Wang, Y Cheng, L Wang, Y Tong, D Yan_
+ 14.08.2023, _Y Xiang, C Zhang, J Wang, Y Cheng, L Wang, Y Tong, D Yan_
 
 
+_Humans, Mendelian Randomization Analysis, Microbiota, Gastrointestinal Microbiome, East Asian People, Genome-Wide Association Study, Colorectal Neoplasms_
 There are many studies indicating that alterations in the abundance of certain gut microbiota are associated with colorectal cancer (CRC). However, a causal relationship has not been identified due to confounding factors such as lifestyle, environmental, and possible reverse causal associations between the two. Furthermore, certain host gene mutations can also contribute to the development of CRC. However, the association between genes and gut microbes in patients with CRC has not been extensively studied.
 
 [Source](https://doi.org/10.1186/s12967-023-04335-9)
@@ -298,9 +300,10 @@ Anthropogenic activities are causing unprecedented rates of soil and ecosystem d
 ---
 
 ## Optimization of fecal sample homogenization for untargeted metabolomics.
- 11.08.2023, _K Tarazona Carrillo, SL Nam, AP de la Mata, OM de Bruin, E Doukhanine, J Harynuk_
+ 14.08.2023, _K Tarazona Carrillo, SL Nam, AP de la Mata, OM de Bruin, E Doukhanine, J Harynuk_
 
 
+_Metabolomics, Reproducibility of Results, Metabolome, Feces, Solvents_
 Fecal samples are highly complex and heterogeneous, containing materials at various stages of digestion. The heterogeneity and complexity of feces make stool metabolomics inherently challenging. The level of homogenization influences the outcome of the study, affecting the metabolite profiles and reproducibility; however, there is no consensus on how fecal samples should be prepared to overcome the topographical discrepancy and obtain data representative of the stool as a whole.
 
 [Source](https://doi.org/10.1007/s11306-023-02036-4)
@@ -336,9 +339,10 @@ Cellular omics such as single-cell genomics, proteomics, and microbiomics allow 
 ---
 
 ## Metagenome sequencing and 103 microbial genomes from ballast water and sediments.
- 13.08.2023, _Z Xue, Y Han, W Tian, W Zhang_
+ 14.08.2023, _Z Xue, Y Han, W Tian, W Zhang_
 
 
+_Humans, Metagenome, Bacteria, Archaea, Microbiota, Genome, Microbial, Metagenomics_
 The great threat of microbes carried by ballast water calls for figuring out the species composition of the ballast-tank microbial community, where the dark, cold, and anoxic tank environment might select special taxa. In this study, we reconstructed 103 metagenome-assembled genomes (MAGs), including 102 bacteria and one archaea, from four vessels on international voyages. Of these MAGs, 60 were 'near complete' (completeness &gt;90%), 34 were &gt;80% complete, and nine were &gt;75% complete. Phylogenomic analysis revealed that over 70% (n = 74) of these MAGs represented new taxa at different taxonomical levels, including one order, three families, 12 genera, and 58 species. The species composition of these MAGs was most consistent with the previous reports, with the most abundant phyla being Proteobacteria (n = 69), Bacteroidota (n = 17), and Actinobacteriota (n = 7). These draft genomes provided novel data on species diversity and function in the ballast-tank microbial community, which will facilitate ballast water and sediments management.
 
 [Source](https://doi.org/10.1038/s41597-023-02447-x)
