@@ -23,9 +23,15 @@ The fungal component of the human gut microbiome, also known as the mycobiome, p
 
 ---
 
-## An Oral Microbial Biomarker for Early Detection of Recurrence of Oral Squamous Cell Carcinoma
+## An Oral Microbial Biomarker for Early Detection of Recurrence of Oral Squamous Cell Carcinoma.
+ 11.08.2023, _WN Lyu, MC Lin, CY Shen, LH Chen, YH Lee, SK Chen, LC Lai, EY Chuang, PJ Lou, MH Tsai_
+
+
+Changes in the oral microbiome are associated with oral squamous cell carcinoma (OSCC). Oral microbe-derived signatures have been utilized as markers of OSCC. However, the structure of the oral microbiome during OSCC recurrence and biomarkers for the prediction of OSCC recurrence remains unknown. To identify OSCC recurrence-associated microbial biomarkers for the prediction of OSCC recurrence, we performed 16S rRNA amplicon sequencing on 54 oral swab samples from OSCC patients. Differences in bacterial compositions were observed in patients with vs without recurrence. We found that Granulicatella, Peptostreptococcus, Campylobacter, Porphyromonas, Oribacterium, Actinomyces, Corynebacterium, Capnocytophaga, and Dialister were enriched in OSCC recurrence. Functional analysis of the oral microbiome showed altered functions associated with OSCC recurrence compared with nonrecurrence. A random forest prediction model was constructed with five microbial signatures including Leptotrichia trevisanii, Capnocytophaga sputigena, Capnocytophaga, Cardiobacterium, and Olsenella to discriminate OSCC recurrence from original OSCC (accuracy = 0.963). Moreover, we validated the prediction model in another independent cohort (46 OSCC patients), achieving an accuracy of 0.761. We compared the accuracy of the prediction of OSCC recurrence between the five microbial signatures and two clinicopathological parameters, including resection margin and lymph node counts. The results predicted by the model with five microbial signatures showed a higher accuracy than those based on the clinical outcomes from the two clinicopathological parameters. This study demonstrated the validity of using recurrence-related microbial biomarkers, a noninvasive and effective method for the prediction of OSCC recurrence. Our findings may contribute to the prognosis and treatment of OSCC recurrence.
 
 [Source](https://doi.org/10.1021/acsinfecdis.3c00269)
+
+10.1021/acsinfecdis.3c00269
 
 ---
 
@@ -232,15 +238,27 @@ Population structure is a well-known catalyst for the evolution of cooperation a
 
 ---
 
-## Bioleaching of polymetallic sulphidic mining residues: influence of increasing solid concentration on microbial community dynamics and metal dissolution
+## Bioleaching of polymetallic sulphidic mining residues: influence of increasing solid concentration on microbial community dynamics and metal dissolution.
+ 07.08.2023, _C Joulian, A Hubau, D Pino-Herrera, AG Guezennec_
+
+
+Within the European research project NEMO, a bioleaching strategy was developed for efficient metal extraction from bioleach residue currently heap-leached at Sotkamo (Finland) that still contains sulphidic minerals and valuable metals (Ni, Zn, Co, Cu). The strategy of gradually increasing the solid content with 5% steps allowed the adaptation of the consortium up to 20%(w/w) solid content, with efficient metal dissolution and same dominant bacteria. Largest proportions of Sb. thermosulfidooxidans while Eh increased suggested it to be most involved in iron oxidation. At. caldus was rather found when pH stabilized, in line with a production of protons from sulphur oxidation that maintained low pH. 'Acidithiomicrobium' P2 was favoured towards the end of the runs and at 20%(w/w) solids possibly due to its tolerance to Ni. The use of gene abundance to evaluate biomass in the pulp provided complementary results to classical cell counts in the liquid phase, and suggested a key role of bacteria associated to mineral particles in iron oxidation. Scaling-up in 21-L STR at 20%(w/w) solids had no detrimental effect on bioleaching and confirmed metal extraction rates. 'Acidithiomicrobium' P2 and Sb. thermosulfidooxidans remained main actors. However, the biological activity was considerably reduced at 30%(w/w) solid concentration, which may be due to a too drastic environmental change for the bacteria to adapt to higher solid concentration. Efficient bioleaching of Sotkamo bioleaching residue at high solid concentration was demonstrated, as well as the robustness of the selected moderately thermophilic consortium, at laboratory and pilot scales.
 
 [Source](https://doi.org/10.1016/j.resmic.2023.104112)
 
+10.1016/j.resmic.2023.104112
+
 ---
 
-## Multidimensional specialization and generalization are pervasive in soil prokaryotes
+## Multidimensional specialization and generalization are pervasive in soil prokaryotes.
+ 07.08.2023, _DJ Hernandez, KN Kiesewetter, BK Almeida, D Revillini, ME Afkhami_
+
+
+Habitat specialization underpins biological processes from species distributions to speciation. However, organisms are often described as specialists or generalists based on a single niche axis, despite facing complex, multidimensional environments. Here, we analysed 236 environmental soil microbiomes across the United States and demonstrate that 90% of &gt;1,200 prokaryotes followed one of two trajectories: specialization on all niche axes (multidimensional specialization) or generalization on all axes (multidimensional generalization). We then documented that this pervasive multidimensional specialization/generalization had many ecological and evolutionary consequences. First, multidimensional specialization and generalization are highly conserved with very few transitions between these two trajectories. Second, multidimensional generalists dominated communities because they were 73 times more abundant than specialists. Lastly, multidimensional specialists played important roles in community structure with ~220% more connections in microbiome networks. These results indicate that multidimensional generalization and specialization are evolutionarily stable with multidimensional generalists supporting larger populations and multidimensional specialists playing important roles within communities, probably stemming from their overrepresentation among pollutant detoxifiers and nutrient cyclers. Taken together, we demonstrate that the vast majority of soil prokaryotes are restricted to one of two multidimensional niche trajectories, multidimensional specialization or multidimensional generalization, which then has far-reaching consequences for evolutionary transitions, microbial dominance and community roles.
 
 [Source](https://doi.org/10.1038/s41559-023-02149-y)
+
+10.1038/s41559-023-02149-y
 
 ---
 
