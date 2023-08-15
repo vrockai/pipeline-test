@@ -1,5 +1,5 @@
 ## Enterotypes of the human gut mycobiome.
- 14.08.2023, _S Lai, Y Yan, Y Pu, S Lin, JG Qiu, BH Jiang, MI Keller, M Wang, P Bork, WH Chen, Y Zheng, XM Zhao_
+ 15.08.2023, _S Lai, Y Yan, Y Pu, S Lin, JG Qiu, BH Jiang, MI Keller, M Wang, P Bork, WH Chen, Y Zheng, XM Zhao_
 
 
 _Humans, Aged, Mycobiome, Microbiota, Gastrointestinal Microbiome, Candida, Aging_
@@ -141,7 +141,7 @@ The results of human observational studies on the correlation between gut microb
 ---
 
 ## Caution regarding the specificities of pan-cancer microbial structure.
- 10.08.2023, _A Gihawi, CS Cooper, DS Brewer_
+ 15.08.2023, _A Gihawi, CS Cooper, DS Brewer_
 
 
 _Humans, Reproducibility of Results, Microbiota, Machine Learning, Neoplasms_
@@ -275,15 +275,9 @@ The Borra caves, the second largest subterranean karst cave ecosystem in the Ind
 
 ---
 
-## Effects of marine sediment as agricultural substrate on soil microbial diversity: an amplicon sequencing study.
- 10.08.2023, _D Núñez-Gómez, P Melgarejo, JJ Martínez-Nicolás, F Hernández, R Martínez-Font, V Lidón, P Legua_
-
-
-The soil microbiota has a direct impact on plant development and other metabolic systems, such as the degradation of organic matter and the availability of microelements and metabolites. In the context of agricultural soils, microbial activity is crucial for maintaining soil health and productivity. Thus, the present study aimed to identify, characterize, and quantify the microbial communities of four types of substrates with varying proportions of marine port sediment used for cultivating lemons. By investigating microbial diversity and relative abundance, the work aimed to highlight the importance of soil microbial communities in agriculture when alternative culture media was used.
+## Effects of marine sediment as agricultural substrate on soil microbial diversity: an amplicon sequencing study
 
 [Source](https://doi.org/10.1186/s40793-023-00519-4)
-
-10.1186/s40793-023-00519-4
 
 ---
 
@@ -313,7 +307,7 @@ Fecal samples are highly complex and heterogeneous, containing materials at vari
 ---
 
 ## metaSpectraST: an unsupervised and database-independent analysis workflow for metaproteomic MS/MS data using spectrum clustering.
- 09.08.2023, _C Hao, JE Elias, PKH Lee, H Lam_
+ 15.08.2023, _C Hao, JE Elias, PKH Lee, H Lam_
 
 
 _Animals, Mice, Tandem Mass Spectrometry, Workflow, Proteomics, Microbiota, Peptides_
