@@ -275,9 +275,15 @@ The Borra caves, the second largest subterranean karst cave ecosystem in the Ind
 
 ---
 
-## Effects of marine sediment as agricultural substrate on soil microbial diversity: an amplicon sequencing study
+## Effects of marine sediment as agricultural substrate on soil microbial diversity: an amplicon sequencing study.
+ 10.08.2023, _D Núñez-Gómez, P Melgarejo, JJ Martínez-Nicolás, F Hernández, R Martínez-Font, V Lidón, P Legua_
+
+
+The soil microbiota has a direct impact on plant development and other metabolic systems, such as the degradation of organic matter and the availability of microelements and metabolites. In the context of agricultural soils, microbial activity is crucial for maintaining soil health and productivity. Thus, the present study aimed to identify, characterize, and quantify the microbial communities of four types of substrates with varying proportions of marine port sediment used for cultivating lemons. By investigating microbial diversity and relative abundance, the work aimed to highlight the importance of soil microbial communities in agriculture when alternative culture media was used.
 
 [Source](https://doi.org/10.1186/s40793-023-00519-4)
+
+10.1186/s40793-023-00519-4
 
 ---
 
