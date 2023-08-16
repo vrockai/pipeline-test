@@ -23,15 +23,9 @@ The fungal component of the human gut microbiome, also known as the mycobiome, p
 
 ---
 
-## An Oral Microbial Biomarker for Early Detection of Recurrence of Oral Squamous Cell Carcinoma.
- 11.08.2023, _WN Lyu, MC Lin, CY Shen, LH Chen, YH Lee, SK Chen, LC Lai, EY Chuang, PJ Lou, MH Tsai_
-
-
-Changes in the oral microbiome are associated with oral squamous cell carcinoma (OSCC). Oral microbe-derived signatures have been utilized as markers of OSCC. However, the structure of the oral microbiome during OSCC recurrence and biomarkers for the prediction of OSCC recurrence remains unknown. To identify OSCC recurrence-associated microbial biomarkers for the prediction of OSCC recurrence, we performed 16S rRNA amplicon sequencing on 54 oral swab samples from OSCC patients. Differences in bacterial compositions were observed in patients with vs without recurrence. We found that Granulicatella, Peptostreptococcus, Campylobacter, Porphyromonas, Oribacterium, Actinomyces, Corynebacterium, Capnocytophaga, and Dialister were enriched in OSCC recurrence. Functional analysis of the oral microbiome showed altered functions associated with OSCC recurrence compared with nonrecurrence. A random forest prediction model was constructed with five microbial signatures including Leptotrichia trevisanii, Capnocytophaga sputigena, Capnocytophaga, Cardiobacterium, and Olsenella to discriminate OSCC recurrence from original OSCC (accuracy = 0.963). Moreover, we validated the prediction model in another independent cohort (46 OSCC patients), achieving an accuracy of 0.761. We compared the accuracy of the prediction of OSCC recurrence between the five microbial signatures and two clinicopathological parameters, including resection margin and lymph node counts. The results predicted by the model with five microbial signatures showed a higher accuracy than those based on the clinical outcomes from the two clinicopathological parameters. This study demonstrated the validity of using recurrence-related microbial biomarkers, a noninvasive and effective method for the prediction of OSCC recurrence. Our findings may contribute to the prognosis and treatment of OSCC recurrence.
+## An Oral Microbial Biomarker for Early Detection of Recurrence of Oral Squamous Cell Carcinoma
 
 [Source](https://doi.org/10.1021/acsinfecdis.3c00269)
-
-10.1021/acsinfecdis.3c00269
 
 ---
 
@@ -41,15 +35,9 @@ Changes in the oral microbiome are associated with oral squamous cell carcinoma 
 
 ---
 
-## Metabarcoding approach to identify bacterial community profiling related to nosocomial infection and bacterial trafficking-routes in hospital environments.
- 11.08.2023, _B Gimenes de Castro, B Mari Fredi, R Dos Santos Bezerra, QA Alcantara, CE Milani Neme, DE Mascarelli, AS Carvalho Tahyra, D Dos-Santos, CR Nappi, F Santos de Oliveira, F Pereira Freire, G Ballestero, JB Menuci Lima, J de Andrade Bolsoni, J Lourenço Gebenlian, N Lopes Bibo, N Soares Silva, N de Carvalho Santos, V Simionatto Zucherato, K Chagas Peronni, D Guariz Pinheiro, E Dias-Neto, G Gambero Gaspar, V Roberto Bollela, V da Silva Silveira, A Maria Fontes, N Maria Martinez-Rossi, S Nanev Slavov, J Paulo Bianchi Ximenez, F Barbosa, W Araújo Silva_
-
-
-Nosocomial infections (NIs) appear in patients under medical care in the hospital. The surveillance of the bacterial communities employing high-resolution 16S rRNA profiling, known as metabarcoding, represents a reliable method to establish factors that may influence the composition of the bacterial population during NIs. The present study aimed to utilize high-resolution 16S rRNA profiling to identify high bacterial diversity by analyzing 11 inside and 10 outside environments from the General Hospital of Ribeirão Preto Medical School, Brazil. Our results identified a high bacterial diversity, and among these, the most abundant bacterial genera linked to NIs were Cutibacterium, Streptococcus, Staphylococcus, and Corynebacterium. A Acinetobacter was detected in cafeterias, bus stops, and adult and pediatric intensive care units (ICUs). Data suggest an association between transport and alimentation areas proximal to the hospital ICU environment. Interestingly, the correlation and clusterization analysis showed the potential of the external areas to directly influence the ICU pediatric department microbial community, including the outpatient's clinic, visitor halls, patient reception, and the closest cafeterias. Our results demonstrate that high-resolution 16S rRNA profiling is a robust and reliable tool for bacterial genomic surveillance. In addition, the metabarcoding approach might help elaborate decontamination policies, and consequently reduce NIs.
+## Metabarcoding approach to identify bacterial community profiling related to nosocomial infection and bacterial trafficking-routes in hospital environments
 
 [Source](https://doi.org/10.1080/15287394.2023.2243978)
-
-10.1080/15287394.2023.2243978
 
 ---
 
@@ -338,9 +326,16 @@ Cellular omics such as single-cell genomics, proteomics, and microbiomics allow 
 
 ---
 
-## Metagenome sequencing and 103 microbial genomes from ballast water and sediments
+## Metagenome sequencing and 103 microbial genomes from ballast water and sediments.
+ 14.08.2023, _Z Xue, Y Han, W Tian, W Zhang_
+
+
+_Archaea, Bacteria, Genome, Microbial, Metagenome, Metagenomics, Microbiota_
+The great threat of microbes carried by ballast water calls for figuring out the species composition of the ballast-tank microbial community, where the dark, cold, and anoxic tank environment might select special taxa. In this study, we reconstructed 103 metagenome-assembled genomes (MAGs), including 102 bacteria and one archaea, from four vessels on international voyages. Of these MAGs, 60 were 'near complete' (completeness &gt;90%), 34 were &gt;80% complete, and nine were &gt;75% complete. Phylogenomic analysis revealed that over 70% (n = 74) of these MAGs represented new taxa at different taxonomical levels, including one order, three families, 12 genera, and 58 species. The species composition of these MAGs was most consistent with the previous reports, with the most abundant phyla being Proteobacteria (n = 69), Bacteroidota (n = 17), and Actinobacteriota (n = 7). These draft genomes provided novel data on species diversity and function in the ballast-tank microbial community, which will facilitate ballast water and sediments management.
 
 [Source](https://doi.org/10.1038/s41597-023-02447-x)
+
+10.1038/s41597-023-02447-x
 
 ---
 
