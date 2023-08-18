@@ -23,15 +23,9 @@ The fungal component of the human gut microbiome, also known as the mycobiome, p
 
 ---
 
-## An Oral Microbial Biomarker for Early Detection of Recurrence of Oral Squamous Cell Carcinoma.
- 11.08.2023, _WN Lyu, MC Lin, CY Shen, LH Chen, YH Lee, SK Chen, LC Lai, EY Chuang, PJ Lou, MH Tsai_
-
-
-Changes in the oral microbiome are associated with oral squamous cell carcinoma (OSCC). Oral microbe-derived signatures have been utilized as markers of OSCC. However, the structure of the oral microbiome during OSCC recurrence and biomarkers for the prediction of OSCC recurrence remains unknown. To identify OSCC recurrence-associated microbial biomarkers for the prediction of OSCC recurrence, we performed 16S rRNA amplicon sequencing on 54 oral swab samples from OSCC patients. Differences in bacterial compositions were observed in patients with vs without recurrence. We found that Granulicatella, Peptostreptococcus, Campylobacter, Porphyromonas, Oribacterium, Actinomyces, Corynebacterium, Capnocytophaga, and Dialister were enriched in OSCC recurrence. Functional analysis of the oral microbiome showed altered functions associated with OSCC recurrence compared with nonrecurrence. A random forest prediction model was constructed with five microbial signatures including Leptotrichia trevisanii, Capnocytophaga sputigena, Capnocytophaga, Cardiobacterium, and Olsenella to discriminate OSCC recurrence from original OSCC (accuracy = 0.963). Moreover, we validated the prediction model in another independent cohort (46 OSCC patients), achieving an accuracy of 0.761. We compared the accuracy of the prediction of OSCC recurrence between the five microbial signatures and two clinicopathological parameters, including resection margin and lymph node counts. The results predicted by the model with five microbial signatures showed a higher accuracy than those based on the clinical outcomes from the two clinicopathological parameters. This study demonstrated the validity of using recurrence-related microbial biomarkers, a noninvasive and effective method for the prediction of OSCC recurrence. Our findings may contribute to the prognosis and treatment of OSCC recurrence.
+## An Oral Microbial Biomarker for Early Detection of Recurrence of Oral Squamous Cell Carcinoma
 
 [Source](https://doi.org/10.1021/acsinfecdis.3c00269)
-
-10.1021/acsinfecdis.3c00269
 
 ---
 
@@ -215,7 +209,7 @@ Biologists have long sought to quantify the number of species on Earth. Often mi
 ---
 
 ## Evolutionary dynamics on sequential temporal networks.
- 17.08.2023, _A Sheng, A Li, L Wang_
+ 18.08.2023, _A Sheng, A Li, L Wang_
 
 
 Population structure is a well-known catalyst for the evolution of cooperation and has traditionally been considered to be static in the course of evolution. Conversely, real-world populations, such as microbiome communities and online social networks, frequently show a progression from tiny, active groups to huge, stable communities, which is insufficient to be captured by constant structures. Here, we propose sequential temporal networks to characterize growing networked populations, and we extend the theory of evolutionary games to these temporal networks with arbitrary structures and growth rules. We derive analytical rules under which a sequential temporal network has a higher fixation probability for cooperation than its static counterpart. Under neutral drift, the rule is simply a function of the increment of nodes and edges in each time step. But if the selection is weak, the rule is related to coalescence times on networks. In this case, we propose a mean-field approximation to calculate fixation probabilities and critical benefit-to-cost ratios with lower calculation complexity. Numerical simulations in empirical datasets also prove the cooperation-promoting effect of population growth. Our research stresses the significance of population growth in the real world and provides a high-accuracy approximation approach for analyzing the evolution in real-life systems.
