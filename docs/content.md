@@ -47,21 +47,40 @@ The fungal component of the human gut microbiome, also known as the mycobiome, p
 
 ---
 
-## Bacterial amylases enable glycogen degradation by the vaginal microbiome
+## Bacterial amylases enable glycogen degradation by the vaginal microbiome.
+ 17.08.2023, _DJ Jenkins, BM Woolston, MI Hood-Pishchany, P Pelayo, AN Konopaski, M Quinn Peters, MT France, J Ravel, CM Mitchell, S Rakoff-Nahoum, C Whidbey, EP Balskus_
+
+
+The human vaginal microbiota is frequently dominated by lactobacilli and transition to a more diverse community of anaerobic microbes is associated with health risks. Glycogen released by lysed epithelial cells is believed to be an important nutrient source in the vagina. However, the mechanism by which vaginal bacteria metabolize glycogen is unclear, with evidence implicating both bacterial and human enzymes. Here we biochemically characterize six glycogen-degrading enzymes (GDEs), all of which are pullanases (PulA homologues), from vaginal bacteria that support the growth of amylase-deficient Lactobacillus crispatus on glycogen. We reveal variations in their pH tolerance, substrate preferences, breakdown products and susceptibility to inhibition. Analysis of vaginal microbiome datasets shows that these enzymes are expressed in all community state types. Finally, we confirm the presence and activity of bacterial and human GDEs in cervicovaginal fluid. This work establishes that bacterial GDEs can participate in the breakdown of glycogen, providing insight into metabolism that may shape the vaginal microbiota.
 
 [Source](https://doi.org/10.1038/s41564-023-01447-2)
 
+10.1038/s41564-023-01447-2
+
 ---
 
-## Babies, bugs and brains: How the early microbiome associates with infant brain and behavior development
+## Babies, bugs and brains: How the early microbiome associates with infant brain and behavior development.
+ 11.08.2023, _S Hunter, E Flaten, C Petersen, J Gervain, JF Werker, LJ Trainor, BB Finlay_
+
+
+_Humans, Infant, Pilot Projects, Gastrointestinal Microbiome, Microbiota, Bacteria, Feces, Brain_
+Growing evidence is demonstrating the connection between the microbiota gut-brain axis and neurodevelopment. Microbiota colonization occurs before the maturation of many neural systems and is linked to brain health. Because of this it has been hypothesized that the early microbiome interactions along the gut-brain axis evolved to promote advanced cognitive functions and behaviors. Here, we performed a pilot study with a multidisciplinary approach to test if the microbiota composition of infants is associated with measures of early cognitive development, in particular neural rhythm tracking; language (forward speech) versus non-language (backwards speech) discrimination; and social joint attention. Fecal samples were collected from 56 infants between four and six months of age and sequenced by shotgun metagenomic sequencing. Of these, 44 performed the behavioral Point and Gaze test to measure joint attention. Infants were tested on either language discrimination using functional near-infrared spectroscopy (fNIRS; 25 infants had usable data) or neural rhythm tracking using electroencephalogram (EEG; 15 had usable data). Infants who succeeded at the Point and Gaze test tended to have increased Actinobacteria and reduced Firmicutes at the phylum level; and an increase in Bifidobacterium and Eggerthella along with a reduction in Hungatella and Streptococcus at the genus level. Measurements of neural rhythm tracking associated negatively to the abundance of Bifidobacterium and positively to the abundance of Clostridium and Enterococcus for the bacterial abundances, and associated positively to metabolic pathways that can influence neurodevelopment, including branched chain amino acid biosynthesis and pentose phosphate pathways. No associations were found for the fNIRS language discrimination measurements. Although the tests were underpowered due to the small pilot sample sizes, potential associations were identified between the microbiome and measurements of early cognitive development that are worth exploring further.
 
 [Source](https://doi.org/10.1371/journal.pone.0288689)
 
+10.1371/journal.pone.0288689
+
 ---
 
-## A retrospective analysis of vitamin B6 deficiency and associated changes of gut microbes in Crohn’s disease
+## A retrospective analysis of vitamin B6 deficiency and associated changes of gut microbes in Crohn's disease.
+ 07.08.2023, _Z Feng, J Hua, F Guo, Z Liu, Y Zhao, W Wu_
+
+
+Patients with inflammatory bowel diseases (IBD) are at risk of micronutrient deficiencies, particularly during flares. Vitamin B6 is required for the proper development of brain, nerves, and many other parts of the body. However, limited studies are available to describe the prevalence, relevance and consequences of vitamin B6 deficiencies in IBD. We aim to estimate the prevalence of vitamin B6 deficiencies in Crohn's disease (CD) patients, to identify associated risk factors and to explore the alteration of intestinal microbiota related to vitamin B6 status.
 
 [Source](https://doi.org/10.1038/s41430-023-01324-5)
+
+10.1038/s41430-023-01324-5
 
 ---
 
@@ -218,40 +237,21 @@ Population structure is a well-known catalyst for the evolution of cooperation a
 
 ---
 
-## Effects of marine sediment as agricultural substrate on soil microbial diversity: an amplicon sequencing study.
- 10.08.2023, _D Núñez-Gómez, P Melgarejo, JJ Martínez-Nicolás, F Hernández, R Martínez-Font, V Lidón, P Legua_
-
-
-The soil microbiota has a direct impact on plant development and other metabolic systems, such as the degradation of organic matter and the availability of microelements and metabolites. In the context of agricultural soils, microbial activity is crucial for maintaining soil health and productivity. Thus, the present study aimed to identify, characterize, and quantify the microbial communities of four types of substrates with varying proportions of marine port sediment used for cultivating lemons. By investigating microbial diversity and relative abundance, the work aimed to highlight the importance of soil microbial communities in agriculture when alternative culture media was used.
+## Effects of marine sediment as agricultural substrate on soil microbial diversity: an amplicon sequencing study
 
 [Source](https://doi.org/10.1186/s40793-023-00519-4)
 
-10.1186/s40793-023-00519-4
-
 ---
 
-## New microbial tools to boost restoration and soil organic matters.
- 08.08.2023, _T Sáez-Sandino, M Delgado-Baquerizo, E Egidi, BK Singh_
-
-
-Anthropogenic activities are causing unprecedented rates of soil and ecosystem degradation, and the current restoration practices take decades and are prone to high rates of failure. Here we propose, the development and application of emerging microbiome tools that can potentially improve the contents and diversity of soil organic matters, enhancing the efficacy and consistency of restoration outcomes.
+## New microbial tools to boost restoration and soil organic matters
 
 [Source](https://doi.org/10.1111/1751-7915.14325)
 
-10.1111/1751-7915.14325
-
 ---
 
-## Optimization of fecal sample homogenization for untargeted metabolomics.
- 18.08.2023, _K Tarazona Carrillo, SL Nam, AP de la Mata, OM de Bruin, E Doukhanine, J Harynuk_
-
-
-_Metabolomics, Reproducibility of Results, Metabolome, Feces, Solvents_
-Fecal samples are highly complex and heterogeneous, containing materials at various stages of digestion. The heterogeneity and complexity of feces make stool metabolomics inherently challenging. The level of homogenization influences the outcome of the study, affecting the metabolite profiles and reproducibility; however, there is no consensus on how fecal samples should be prepared to overcome the topographical discrepancy and obtain data representative of the stool as a whole.
+## Optimization of fecal sample homogenization for untargeted metabolomics
 
 [Source](https://doi.org/10.1007/s11306-023-02036-4)
-
-10.1007/s11306-023-02036-4
 
 ---
 
