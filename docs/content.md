@@ -47,52 +47,27 @@ The fungal component of the human gut microbiome, also known as the mycobiome, p
 
 ---
 
-## Bacterial amylases enable glycogen degradation by the vaginal microbiome.
- 17.08.2023, _DJ Jenkins, BM Woolston, MI Hood-Pishchany, P Pelayo, AN Konopaski, M Quinn Peters, MT France, J Ravel, CM Mitchell, S Rakoff-Nahoum, C Whidbey, EP Balskus_
-
-
-The human vaginal microbiota is frequently dominated by lactobacilli and transition to a more diverse community of anaerobic microbes is associated with health risks. Glycogen released by lysed epithelial cells is believed to be an important nutrient source in the vagina. However, the mechanism by which vaginal bacteria metabolize glycogen is unclear, with evidence implicating both bacterial and human enzymes. Here we biochemically characterize six glycogen-degrading enzymes (GDEs), all of which are pullanases (PulA homologues), from vaginal bacteria that support the growth of amylase-deficient Lactobacillus crispatus on glycogen. We reveal variations in their pH tolerance, substrate preferences, breakdown products and susceptibility to inhibition. Analysis of vaginal microbiome datasets shows that these enzymes are expressed in all community state types. Finally, we confirm the presence and activity of bacterial and human GDEs in cervicovaginal fluid. This work establishes that bacterial GDEs can participate in the breakdown of glycogen, providing insight into metabolism that may shape the vaginal microbiota.
+## Bacterial amylases enable glycogen degradation by the vaginal microbiome
 
 [Source](https://doi.org/10.1038/s41564-023-01447-2)
 
-10.1038/s41564-023-01447-2
-
 ---
 
-## Babies, bugs and brains: How the early microbiome associates with infant brain and behavior development.
- 11.08.2023, _S Hunter, E Flaten, C Petersen, J Gervain, JF Werker, LJ Trainor, BB Finlay_
-
-
-_Humans, Infant, Pilot Projects, Gastrointestinal Microbiome, Microbiota, Bacteria, Feces, Brain_
-Growing evidence is demonstrating the connection between the microbiota gut-brain axis and neurodevelopment. Microbiota colonization occurs before the maturation of many neural systems and is linked to brain health. Because of this it has been hypothesized that the early microbiome interactions along the gut-brain axis evolved to promote advanced cognitive functions and behaviors. Here, we performed a pilot study with a multidisciplinary approach to test if the microbiota composition of infants is associated with measures of early cognitive development, in particular neural rhythm tracking; language (forward speech) versus non-language (backwards speech) discrimination; and social joint attention. Fecal samples were collected from 56 infants between four and six months of age and sequenced by shotgun metagenomic sequencing. Of these, 44 performed the behavioral Point and Gaze test to measure joint attention. Infants were tested on either language discrimination using functional near-infrared spectroscopy (fNIRS; 25 infants had usable data) or neural rhythm tracking using electroencephalogram (EEG; 15 had usable data). Infants who succeeded at the Point and Gaze test tended to have increased Actinobacteria and reduced Firmicutes at the phylum level; and an increase in Bifidobacterium and Eggerthella along with a reduction in Hungatella and Streptococcus at the genus level. Measurements of neural rhythm tracking associated negatively to the abundance of Bifidobacterium and positively to the abundance of Clostridium and Enterococcus for the bacterial abundances, and associated positively to metabolic pathways that can influence neurodevelopment, including branched chain amino acid biosynthesis and pentose phosphate pathways. No associations were found for the fNIRS language discrimination measurements. Although the tests were underpowered due to the small pilot sample sizes, potential associations were identified between the microbiome and measurements of early cognitive development that are worth exploring further.
+## Babies, bugs and brains: How the early microbiome associates with infant brain and behavior development
 
 [Source](https://doi.org/10.1371/journal.pone.0288689)
 
-10.1371/journal.pone.0288689
-
 ---
 
-## A retrospective analysis of vitamin B6 deficiency and associated changes of gut microbes in Crohn's disease.
- 07.08.2023, _Z Feng, J Hua, F Guo, Z Liu, Y Zhao, W Wu_
-
-
-Patients with inflammatory bowel diseases (IBD) are at risk of micronutrient deficiencies, particularly during flares. Vitamin B6 is required for the proper development of brain, nerves, and many other parts of the body. However, limited studies are available to describe the prevalence, relevance and consequences of vitamin B6 deficiencies in IBD. We aim to estimate the prevalence of vitamin B6 deficiencies in Crohn's disease (CD) patients, to identify associated risk factors and to explore the alteration of intestinal microbiota related to vitamin B6 status.
+## A retrospective analysis of vitamin B6 deficiency and associated changes of gut microbes in Crohn’s disease
 
 [Source](https://doi.org/10.1038/s41430-023-01324-5)
 
-10.1038/s41430-023-01324-5
-
 ---
 
-## The intestinal microbiota predicts COVID-19 severity and fatality regardless of hospital feeding method.
- 07.08.2023, _V Bucci, DV Ward, S Bhattarai, M Rojas-Correa, A Purkayastha, D Holler, MD Qu, WG Mitchell, J Yang, S Fountain, A Zeamer, CS Forconi, G Fujimori, B Odwar, C Cawley, AM Moormann, M Wessolossky, A Maldonado-Contreras_
-
-
-SARS-CoV-2-positive patients exhibit gut and oral microbiome dysbiosis, which is associated with various aspects of COVID-19 disease (1-4). Here, we aim to identify gut and oral microbiome markers that predict COVID-19 severity in hospitalized patients, specifically severely ill patients compared to moderately ill ones. Moreover, we investigate whether hospital feeding (solid versus enteral), an important cofounder, influences the microbial composition of hospitalized COVID-19 patients. We used random forest classification machine learning models with interpretable secondary analyses. The gut, but not the oral microbiota, was a robust predictor of both COVID-19-related fatality and severity of hospitalized patients, with a higher predictive value than most clinical variables. In addition, perturbations of the gut microbiota due to enteral feeding did not associate with species that were predictive of COVID-19 severity. IMPORTANCE SARS-CoV-2 infection leads to wide-ranging, systemic symptoms with sometimes unpredictable morbidity and mortality. It is increasingly clear that the human microbiome plays an important role in how individuals respond to viral infections. Our study adds to important literature about the associations of gut microbiota and severe COVID-19 illness during the early phase of the pandemic before the availability of vaccines. Increased understanding of the interplay between microbiota and SARS-CoV-2 may lead to innovations in diagnostics, therapies, and clinical predictions.
+## The intestinal microbiota predicts COVID-19 severity and fatality regardless of hospital feeding method
 
 [Source](https://doi.org/10.1128/msystems.00310-23)
-
-10.1128/msystems.00310-23
 
 ---
 
@@ -196,7 +171,7 @@ Biologists have long sought to quantify the number of species on Earth. Often mi
 ---
 
 ## Evolutionary dynamics on sequential temporal networks.
- 18.08.2023, _A Sheng, A Li, L Wang_
+ 19.08.2023, _A Sheng, A Li, L Wang_
 
 
 Population structure is a well-known catalyst for the evolution of cooperation and has traditionally been considered to be static in the course of evolution. Conversely, real-world populations, such as microbiome communities and online social networks, frequently show a progression from tiny, active groups to huge, stable communities, which is insufficient to be captured by constant structures. Here, we propose sequential temporal networks to characterize growing networked populations, and we extend the theory of evolutionary games to these temporal networks with arbitrary structures and growth rules. We derive analytical rules under which a sequential temporal network has a higher fixation probability for cooperation than its static counterpart. Under neutral drift, the rule is simply a function of the increment of nodes and edges in each time step. But if the selection is weak, the rule is related to coalescence times on networks. In this case, we propose a mean-field approximation to calculate fixation probabilities and critical benefit-to-cost ratios with lower calculation complexity. Numerical simulations in empirical datasets also prove the cooperation-promoting effect of population growth. Our research stresses the significance of population growth in the real world and provides a high-accuracy approximation approach for analyzing the evolution in real-life systems.
@@ -255,16 +230,9 @@ Population structure is a well-known catalyst for the evolution of cooperation a
 
 ---
 
-## metaSpectraST: an unsupervised and database-independent analysis workflow for metaproteomic MS/MS data using spectrum clustering.
- 15.08.2023, _C Hao, JE Elias, PKH Lee, H Lam_
-
-
-_Animals, Mice, Tandem Mass Spectrometry, Workflow, Proteomics, Microbiota, Peptides_
-The high diversity and complexity of the microbial community make it a formidable challenge to identify and quantify the large number of proteins expressed in the community. Conventional metaproteomics approaches largely rely on accurate identification of the MS/MS spectra to their corresponding short peptides in the digested samples, followed by protein inference and subsequent taxonomic and functional analysis of the detected proteins. These approaches are dependent on the availability of protein sequence databases derived either from sample-specific metagenomic data or from public repositories. Due to the incompleteness and imperfections of these protein sequence databases, and the preponderance of homologous proteins expressed by different bacterial species in the community, this computational process of peptide identification and protein inference is challenging and error-prone, which hinders the comparison of metaproteomes across multiple samples.
+## metaSpectraST: an unsupervised and database-independent analysis workflow for metaproteomic MS/MS data using spectrum clustering
 
 [Source](https://doi.org/10.1186/s40168-023-01602-1)
-
-10.1186/s40168-023-01602-1
 
 ---
 
