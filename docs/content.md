@@ -23,9 +23,15 @@ The fungal component of the human gut microbiome, also known as the mycobiome, p
 
 ---
 
-## An Oral Microbial Biomarker for Early Detection of Recurrence of Oral Squamous Cell Carcinoma
+## An Oral Microbial Biomarker for Early Detection of Recurrence of Oral Squamous Cell Carcinoma.
+ 11.08.2023, _WN Lyu, MC Lin, CY Shen, LH Chen, YH Lee, SK Chen, LC Lai, EY Chuang, PJ Lou, MH Tsai_
+
+
+Changes in the oral microbiome are associated with oral squamous cell carcinoma (OSCC). Oral microbe-derived signatures have been utilized as markers of OSCC. However, the structure of the oral microbiome during OSCC recurrence and biomarkers for the prediction of OSCC recurrence remains unknown. To identify OSCC recurrence-associated microbial biomarkers for the prediction of OSCC recurrence, we performed 16S rRNA amplicon sequencing on 54 oral swab samples from OSCC patients. Differences in bacterial compositions were observed in patients with vs without recurrence. We found that Granulicatella, Peptostreptococcus, Campylobacter, Porphyromonas, Oribacterium, Actinomyces, Corynebacterium, Capnocytophaga, and Dialister were enriched in OSCC recurrence. Functional analysis of the oral microbiome showed altered functions associated with OSCC recurrence compared with nonrecurrence. A random forest prediction model was constructed with five microbial signatures including Leptotrichia trevisanii, Capnocytophaga sputigena, Capnocytophaga, Cardiobacterium, and Olsenella to discriminate OSCC recurrence from original OSCC (accuracy = 0.963). Moreover, we validated the prediction model in another independent cohort (46 OSCC patients), achieving an accuracy of 0.761. We compared the accuracy of the prediction of OSCC recurrence between the five microbial signatures and two clinicopathological parameters, including resection margin and lymph node counts. The results predicted by the model with five microbial signatures showed a higher accuracy than those based on the clinical outcomes from the two clinicopathological parameters. This study demonstrated the validity of using recurrence-related microbial biomarkers, a noninvasive and effective method for the prediction of OSCC recurrence. Our findings may contribute to the prognosis and treatment of OSCC recurrence.
 
 [Source](https://doi.org/10.1021/acsinfecdis.3c00269)
+
+10.1021/acsinfecdis.3c00269
 
 ---
 
@@ -35,39 +41,77 @@ The fungal component of the human gut microbiome, also known as the mycobiome, p
 
 ---
 
-## Metabarcoding approach to identify bacterial community profiling related to nosocomial infection and bacterial trafficking-routes in hospital environments
+## Metabarcoding approach to identify bacterial community profiling related to nosocomial infection and bacterial trafficking-routes in hospital environments.
+ 11.08.2023, _B Gimenes de Castro, B Mari Fredi, R Dos Santos Bezerra, QA Alcantara, CE Milani Neme, DE Mascarelli, AS Carvalho Tahyra, D Dos-Santos, CR Nappi, F Santos de Oliveira, F Pereira Freire, G Ballestero, JB Menuci Lima, J de Andrade Bolsoni, J Lourenço Gebenlian, N Lopes Bibo, N Soares Silva, N de Carvalho Santos, V Simionatto Zucherato, K Chagas Peronni, D Guariz Pinheiro, E Dias-Neto, G Gambero Gaspar, V Roberto Bollela, V da Silva Silveira, A Maria Fontes, N Maria Martinez-Rossi, S Nanev Slavov, J Paulo Bianchi Ximenez, F Barbosa, W Araújo Silva_
+
+
+Nosocomial infections (NIs) appear in patients under medical care in the hospital. The surveillance of the bacterial communities employing high-resolution 16S rRNA profiling, known as metabarcoding, represents a reliable method to establish factors that may influence the composition of the bacterial population during NIs. The present study aimed to utilize high-resolution 16S rRNA profiling to identify high bacterial diversity by analyzing 11 inside and 10 outside environments from the General Hospital of Ribeirão Preto Medical School, Brazil. Our results identified a high bacterial diversity, and among these, the most abundant bacterial genera linked to NIs were Cutibacterium, Streptococcus, Staphylococcus, and Corynebacterium. A Acinetobacter was detected in cafeterias, bus stops, and adult and pediatric intensive care units (ICUs). Data suggest an association between transport and alimentation areas proximal to the hospital ICU environment. Interestingly, the correlation and clusterization analysis showed the potential of the external areas to directly influence the ICU pediatric department microbial community, including the outpatient's clinic, visitor halls, patient reception, and the closest cafeterias. Our results demonstrate that high-resolution 16S rRNA profiling is a robust and reliable tool for bacterial genomic surveillance. In addition, the metabarcoding approach might help elaborate decontamination policies, and consequently reduce NIs.
 
 [Source](https://doi.org/10.1080/15287394.2023.2243978)
 
+10.1080/15287394.2023.2243978
+
 ---
 
-## Identification of host gene-microbiome associations in colorectal cancer patients using mendelian randomization
+## Identification of host gene-microbiome associations in colorectal cancer patients using mendelian randomization.
+ 17.08.2023, _Y Xiang, C Zhang, J Wang, Y Cheng, L Wang, Y Tong, D Yan_
+
+
+_Humans, Colorectal Neoplasms, East Asian People, Gastrointestinal Microbiome, Genome-Wide Association Study, Mendelian Randomization Analysis, Microbiota_
+There are many studies indicating that alterations in the abundance of certain gut microbiota are associated with colorectal cancer (CRC). However, a causal relationship has not been identified due to confounding factors such as lifestyle, environmental, and possible reverse causal associations between the two. Furthermore, certain host gene mutations can also contribute to the development of CRC. However, the association between genes and gut microbes in patients with CRC has not been extensively studied.
 
 [Source](https://doi.org/10.1186/s12967-023-04335-9)
 
+10.1186/s12967-023-04335-9
+
 ---
 
-## Bacterial amylases enable glycogen degradation by the vaginal microbiome
+## Bacterial amylases enable glycogen degradation by the vaginal microbiome.
+ 17.08.2023, _DJ Jenkins, BM Woolston, MI Hood-Pishchany, P Pelayo, AN Konopaski, M Quinn Peters, MT France, J Ravel, CM Mitchell, S Rakoff-Nahoum, C Whidbey, EP Balskus_
+
+
+The human vaginal microbiota is frequently dominated by lactobacilli and transition to a more diverse community of anaerobic microbes is associated with health risks. Glycogen released by lysed epithelial cells is believed to be an important nutrient source in the vagina. However, the mechanism by which vaginal bacteria metabolize glycogen is unclear, with evidence implicating both bacterial and human enzymes. Here we biochemically characterize six glycogen-degrading enzymes (GDEs), all of which are pullanases (PulA homologues), from vaginal bacteria that support the growth of amylase-deficient Lactobacillus crispatus on glycogen. We reveal variations in their pH tolerance, substrate preferences, breakdown products and susceptibility to inhibition. Analysis of vaginal microbiome datasets shows that these enzymes are expressed in all community state types. Finally, we confirm the presence and activity of bacterial and human GDEs in cervicovaginal fluid. This work establishes that bacterial GDEs can participate in the breakdown of glycogen, providing insight into metabolism that may shape the vaginal microbiota.
 
 [Source](https://doi.org/10.1038/s41564-023-01447-2)
 
+10.1038/s41564-023-01447-2
+
 ---
 
-## Babies, bugs and brains: How the early microbiome associates with infant brain and behavior development
+## Babies, bugs and brains: How the early microbiome associates with infant brain and behavior development.
+ 11.08.2023, _S Hunter, E Flaten, C Petersen, J Gervain, JF Werker, LJ Trainor, BB Finlay_
+
+
+_Humans, Infant, Pilot Projects, Gastrointestinal Microbiome, Microbiota, Bacteria, Feces, Brain_
+Growing evidence is demonstrating the connection between the microbiota gut-brain axis and neurodevelopment. Microbiota colonization occurs before the maturation of many neural systems and is linked to brain health. Because of this it has been hypothesized that the early microbiome interactions along the gut-brain axis evolved to promote advanced cognitive functions and behaviors. Here, we performed a pilot study with a multidisciplinary approach to test if the microbiota composition of infants is associated with measures of early cognitive development, in particular neural rhythm tracking; language (forward speech) versus non-language (backwards speech) discrimination; and social joint attention. Fecal samples were collected from 56 infants between four and six months of age and sequenced by shotgun metagenomic sequencing. Of these, 44 performed the behavioral Point and Gaze test to measure joint attention. Infants were tested on either language discrimination using functional near-infrared spectroscopy (fNIRS; 25 infants had usable data) or neural rhythm tracking using electroencephalogram (EEG; 15 had usable data). Infants who succeeded at the Point and Gaze test tended to have increased Actinobacteria and reduced Firmicutes at the phylum level; and an increase in Bifidobacterium and Eggerthella along with a reduction in Hungatella and Streptococcus at the genus level. Measurements of neural rhythm tracking associated negatively to the abundance of Bifidobacterium and positively to the abundance of Clostridium and Enterococcus for the bacterial abundances, and associated positively to metabolic pathways that can influence neurodevelopment, including branched chain amino acid biosynthesis and pentose phosphate pathways. No associations were found for the fNIRS language discrimination measurements. Although the tests were underpowered due to the small pilot sample sizes, potential associations were identified between the microbiome and measurements of early cognitive development that are worth exploring further.
 
 [Source](https://doi.org/10.1371/journal.pone.0288689)
 
+10.1371/journal.pone.0288689
+
 ---
 
-## A retrospective analysis of vitamin B6 deficiency and associated changes of gut microbes in Crohn’s disease
+## A retrospective analysis of vitamin B6 deficiency and associated changes of gut microbes in Crohn's disease.
+ 07.08.2023, _Z Feng, J Hua, F Guo, Z Liu, Y Zhao, W Wu_
+
+
+Patients with inflammatory bowel diseases (IBD) are at risk of micronutrient deficiencies, particularly during flares. Vitamin B6 is required for the proper development of brain, nerves, and many other parts of the body. However, limited studies are available to describe the prevalence, relevance and consequences of vitamin B6 deficiencies in IBD. We aim to estimate the prevalence of vitamin B6 deficiencies in Crohn's disease (CD) patients, to identify associated risk factors and to explore the alteration of intestinal microbiota related to vitamin B6 status.
 
 [Source](https://doi.org/10.1038/s41430-023-01324-5)
 
+10.1038/s41430-023-01324-5
+
 ---
 
-## The intestinal microbiota predicts COVID-19 severity and fatality regardless of hospital feeding method
+## The intestinal microbiota predicts COVID-19 severity and fatality regardless of hospital feeding method.
+ 07.08.2023, _V Bucci, DV Ward, S Bhattarai, M Rojas-Correa, A Purkayastha, D Holler, MD Qu, WG Mitchell, J Yang, S Fountain, A Zeamer, CS Forconi, G Fujimori, B Odwar, C Cawley, AM Moormann, M Wessolossky, A Maldonado-Contreras_
+
+
+SARS-CoV-2-positive patients exhibit gut and oral microbiome dysbiosis, which is associated with various aspects of COVID-19 disease (1-4). Here, we aim to identify gut and oral microbiome markers that predict COVID-19 severity in hospitalized patients, specifically severely ill patients compared to moderately ill ones. Moreover, we investigate whether hospital feeding (solid versus enteral), an important cofounder, influences the microbial composition of hospitalized COVID-19 patients. We used random forest classification machine learning models with interpretable secondary analyses. The gut, but not the oral microbiota, was a robust predictor of both COVID-19-related fatality and severity of hospitalized patients, with a higher predictive value than most clinical variables. In addition, perturbations of the gut microbiota due to enteral feeding did not associate with species that were predictive of COVID-19 severity. IMPORTANCE SARS-CoV-2 infection leads to wide-ranging, systemic symptoms with sometimes unpredictable morbidity and mortality. It is increasingly clear that the human microbiome plays an important role in how individuals respond to viral infections. Our study adds to important literature about the associations of gut microbiota and severe COVID-19 illness during the early phase of the pandemic before the availability of vaccines. Increased understanding of the interplay between microbiota and SARS-CoV-2 may lead to innovations in diagnostics, therapies, and clinical predictions.
 
 [Source](https://doi.org/10.1128/msystems.00310-23)
+
+10.1128/msystems.00310-23
 
 ---
 
@@ -194,15 +238,27 @@ Population structure is a well-known catalyst for the evolution of cooperation a
 
 ---
 
-## Bioleaching of polymetallic sulphidic mining residues: influence of increasing solid concentration on microbial community dynamics and metal dissolution
+## Bioleaching of polymetallic sulphidic mining residues: influence of increasing solid concentration on microbial community dynamics and metal dissolution.
+ 07.08.2023, _C Joulian, A Hubau, D Pino-Herrera, AG Guezennec_
+
+
+Within the European research project NEMO, a bioleaching strategy was developed for efficient metal extraction from bioleach residue currently heap-leached at Sotkamo (Finland) that still contains sulphidic minerals and valuable metals (Ni, Zn, Co, Cu). The strategy of gradually increasing the solid content with 5% steps allowed the adaptation of the consortium up to 20%(w/w) solid content, with efficient metal dissolution and same dominant bacteria. Largest proportions of Sb. thermosulfidooxidans while Eh increased suggested it to be most involved in iron oxidation. At. caldus was rather found when pH stabilized, in line with a production of protons from sulphur oxidation that maintained low pH. 'Acidithiomicrobium' P2 was favoured towards the end of the runs and at 20%(w/w) solids possibly due to its tolerance to Ni. The use of gene abundance to evaluate biomass in the pulp provided complementary results to classical cell counts in the liquid phase, and suggested a key role of bacteria associated to mineral particles in iron oxidation. Scaling-up in 21-L STR at 20%(w/w) solids had no detrimental effect on bioleaching and confirmed metal extraction rates. 'Acidithiomicrobium' P2 and Sb. thermosulfidooxidans remained main actors. However, the biological activity was considerably reduced at 30%(w/w) solid concentration, which may be due to a too drastic environmental change for the bacteria to adapt to higher solid concentration. Efficient bioleaching of Sotkamo bioleaching residue at high solid concentration was demonstrated, as well as the robustness of the selected moderately thermophilic consortium, at laboratory and pilot scales.
 
 [Source](https://doi.org/10.1016/j.resmic.2023.104112)
 
+10.1016/j.resmic.2023.104112
+
 ---
 
-## Multidimensional specialization and generalization are pervasive in soil prokaryotes
+## Multidimensional specialization and generalization are pervasive in soil prokaryotes.
+ 07.08.2023, _DJ Hernandez, KN Kiesewetter, BK Almeida, D Revillini, ME Afkhami_
+
+
+Habitat specialization underpins biological processes from species distributions to speciation. However, organisms are often described as specialists or generalists based on a single niche axis, despite facing complex, multidimensional environments. Here, we analysed 236 environmental soil microbiomes across the United States and demonstrate that 90% of &gt;1,200 prokaryotes followed one of two trajectories: specialization on all niche axes (multidimensional specialization) or generalization on all axes (multidimensional generalization). We then documented that this pervasive multidimensional specialization/generalization had many ecological and evolutionary consequences. First, multidimensional specialization and generalization are highly conserved with very few transitions between these two trajectories. Second, multidimensional generalists dominated communities because they were 73 times more abundant than specialists. Lastly, multidimensional specialists played important roles in community structure with ~220% more connections in microbiome networks. These results indicate that multidimensional generalization and specialization are evolutionarily stable with multidimensional generalists supporting larger populations and multidimensional specialists playing important roles within communities, probably stemming from their overrepresentation among pollutant detoxifiers and nutrient cyclers. Taken together, we demonstrate that the vast majority of soil prokaryotes are restricted to one of two multidimensional niche trajectories, multidimensional specialization or multidimensional generalization, which then has far-reaching consequences for evolutionary transitions, microbial dominance and community roles.
 
 [Source](https://doi.org/10.1038/s41559-023-02149-y)
+
+10.1038/s41559-023-02149-y
 
 ---
 
