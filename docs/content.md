@@ -206,33 +206,66 @@ Population structure is a well-known catalyst for the evolution of cooperation a
 
 ---
 
-## Metagenome Analysis of Speleothem Microbiome from Subterranean Cave Reveals Insight into Community Structure, Metabolic Potential, and BGCs Diversity
+## Metagenome Analysis of Speleothem Microbiome from Subterranean Cave Reveals Insight into Community Structure, Metabolic Potential, and BGCs Diversity.
+ 11.08.2023, _B Samanta, S Sharma, R Budhwar_
+
+
+_Caves, Metagenome, Microbiota, Phylogeny, Sulfur, Bacteria_
+The Borra caves, the second largest subterranean karst cave ecosystem in the Indian sub-continent, are located at the Ananthagiri hills of Araku Valley in the Alluri district of Andhra Pradesh, India. The present investigation applied a shotgun metagenomic approach to gain insights into the microbial community structure, metabolic potential, and biosynthetic gene cluster (BGC) diversity of the microbes colonizing the surface of the speleothems from the aphotic zone of Borra caves. The taxonomic analysis of the metagenome data illustrated that the speleothem-colonizing core microbial community was dominated mainly by Alpha-, Beta-, and Gamma-Proteobacteria, Actinobacteria, Firmicutes, and Bacteroidetes. The key energy metabolic pathways analysis provides strong evidence of chemolithoautotrophic and chemoheterotrophic modes of nutrition in the speleothem-colonizing microbial community. Metagenome data suggests that sulfur reducers and sulfur-disproportionating microbes might play a vital role in energy generation in this ecosystem. Our metagenome data also suggest that the dissimilatory nitrifiers and nitrifying denitrifiers might play an essential role in conserving nitrogen pools in the ecosystem. Furthermore, metagenome-wide BGCs mining retrieved 451 putative BGCs; NRPS was the most abundant (24%). Phylogenetic analysis of the C domain of NRPS showed that sequences were distributed across all six function categories of the known C domain, including several novel subclades. For example, a novel subclade had been recovered within the LCL domain clade as a sister subclade of immunosuppressant cyclosporin encoding C domain sequences. Our result suggested that subterranean cave microbiomes might be a potential reservoir of novel microbial metabolites.
 
 [Source](https://doi.org/10.1007/s00284-023-03431-9)
 
+10.1007/s00284-023-03431-9
+
 ---
 
-## Effects of marine sediment as agricultural substrate on soil microbial diversity: an amplicon sequencing study
+## Effects of marine sediment as agricultural substrate on soil microbial diversity: an amplicon sequencing study.
+ 10.08.2023, _D Núñez-Gómez, P Melgarejo, JJ Martínez-Nicolás, F Hernández, R Martínez-Font, V Lidón, P Legua_
+
+
+The soil microbiota has a direct impact on plant development and other metabolic systems, such as the degradation of organic matter and the availability of microelements and metabolites. In the context of agricultural soils, microbial activity is crucial for maintaining soil health and productivity. Thus, the present study aimed to identify, characterize, and quantify the microbial communities of four types of substrates with varying proportions of marine port sediment used for cultivating lemons. By investigating microbial diversity and relative abundance, the work aimed to highlight the importance of soil microbial communities in agriculture when alternative culture media was used.
 
 [Source](https://doi.org/10.1186/s40793-023-00519-4)
 
+10.1186/s40793-023-00519-4
+
 ---
 
-## New microbial tools to boost restoration and soil organic matters
+## New microbial tools to boost restoration and soil organic matters.
+ 08.08.2023, _T Sáez-Sandino, M Delgado-Baquerizo, E Egidi, BK Singh_
+
+
+Anthropogenic activities are causing unprecedented rates of soil and ecosystem degradation, and the current restoration practices take decades and are prone to high rates of failure. Here we propose, the development and application of emerging microbiome tools that can potentially improve the contents and diversity of soil organic matters, enhancing the efficacy and consistency of restoration outcomes.
 
 [Source](https://doi.org/10.1111/1751-7915.14325)
 
+10.1111/1751-7915.14325
+
 ---
 
-## Optimization of fecal sample homogenization for untargeted metabolomics
+## Optimization of fecal sample homogenization for untargeted metabolomics.
+ 18.08.2023, _K Tarazona Carrillo, SL Nam, AP de la Mata, OM de Bruin, E Doukhanine, J Harynuk_
+
+
+_Metabolomics, Reproducibility of Results, Metabolome, Feces, Solvents_
+Fecal samples are highly complex and heterogeneous, containing materials at various stages of digestion. The heterogeneity and complexity of feces make stool metabolomics inherently challenging. The level of homogenization influences the outcome of the study, affecting the metabolite profiles and reproducibility; however, there is no consensus on how fecal samples should be prepared to overcome the topographical discrepancy and obtain data representative of the stool as a whole.
 
 [Source](https://doi.org/10.1007/s11306-023-02036-4)
 
+10.1007/s11306-023-02036-4
+
 ---
 
-## metaSpectraST: an unsupervised and database-independent analysis workflow for metaproteomic MS/MS data using spectrum clustering
+## metaSpectraST: an unsupervised and database-independent analysis workflow for metaproteomic MS/MS data using spectrum clustering.
+ 15.08.2023, _C Hao, JE Elias, PKH Lee, H Lam_
+
+
+_Animals, Mice, Tandem Mass Spectrometry, Workflow, Proteomics, Microbiota, Peptides_
+The high diversity and complexity of the microbial community make it a formidable challenge to identify and quantify the large number of proteins expressed in the community. Conventional metaproteomics approaches largely rely on accurate identification of the MS/MS spectra to their corresponding short peptides in the digested samples, followed by protein inference and subsequent taxonomic and functional analysis of the detected proteins. These approaches are dependent on the availability of protein sequence databases derived either from sample-specific metagenomic data or from public repositories. Due to the incompleteness and imperfections of these protein sequence databases, and the preponderance of homologous proteins expressed by different bacterial species in the community, this computational process of peptide identification and protein inference is challenging and error-prone, which hinders the comparison of metaproteomes across multiple samples.
 
 [Source](https://doi.org/10.1186/s40168-023-01602-1)
+
+10.1186/s40168-023-01602-1
 
 ---
 
