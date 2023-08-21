@@ -67,9 +67,10 @@ We re-analyzed the data from a recent large-scale study that reported strong cor
 ---
 
 ## Microdiversity of the vaginal microbiome is associated with preterm birth.
- 20.08.2023, _J Liao, L Shenhav, JA Urban, M Serrano, B Zhu, GA Buck, T Korem_
+ 21.08.2023, _J Liao, L Shenhav, JA Urban, M Serrano, B Zhu, GA Buck, T Korem_
 
 
+_Infant, Newborn, Pregnancy, Humans, Female, Premature Birth, Microbiota, Metagenome, Acclimatization, Biological Evolution_
 Preterm birth (PTB) is the leading cause of neonatal morbidity and mortality. The vaginal microbiome has been associated with PTB, yet the mechanisms underlying this association are not fully understood. Understanding microbial genetic adaptations to selective pressures, especially those related to the host, may yield insights into these associations. Here, we analyze metagenomic data from 705 vaginal samples collected during pregnancy from 40 women who delivered preterm spontaneously and 135 term controls from the Multi-Omic Microbiome Study-Pregnancy Initiative. We find that the vaginal microbiome of pregnancies that ended preterm exhibited unique genetic profiles. It was more genetically diverse at the species level, a result which we validate in an additional cohort, and harbored a higher richness and diversity of antimicrobial resistance genes, likely promoted by transduction. Interestingly, we find that Gardnerella species drove this higher genetic diversity, particularly during the first half of the pregnancy. We further present evidence that Gardnerella spp. underwent more frequent recombination and stronger purifying selection in genes involved in lipid metabolism. Overall, our population genetics analyses reveal associations between the vaginal microbiome and PTB and suggest that evolutionary processes acting on vaginal microbes may play a role in adverse pregnancy outcomes such as PTB.
 
 [Source](https://doi.org/10.1038/s41467-023-40719-7)
@@ -128,14 +129,21 @@ Although previous studies have suggested a close association between gut microbi
 
 ---
 
-## Microbiome alterations in autism spectrum disorder.
- 17.08.2023, _EJ Coley-O'Rourke, EY Hsiao_
+## The gut microbiota-brain axis in neurological disorder.
+ 21.08.2023, _H Ullah, S Arbab, Y Tian, CQ Liu, Y Chen, L Qijie, MIU Khan, IU Hassan, K Li_
 
 
+The gut microbiota (GM) plays an important role in the physiology and pathology of the host. Microbiota communicate with different organs of the organism by synthesizing hormones and regulating body activity. The interaction of the central nervous system (CNS) and gut signaling pathways includes chemical, neural immune and endocrine routes. Alteration or dysbiosis in the gut microbiota leads to different gastrointestinal tract disorders that ultimately impact host physiology because of the abnormal microbial metabolites that stimulate and trigger different physiologic reactions in the host body. Intestinal dysbiosis leads to a change in the bidirectional relationship between the CNS and GM, which is linked to the pathogenesis of neurodevelopmental and neurological disorders. Increasing preclinical and clinical studies/evidence indicate that gut microbes are a possible susceptibility factor for the progression of neurological disorders, including Alzheimer's disease (AD), Parkinson's disease (PD), multiple sclerosis (MS) and autism spectrum disorder (ASD). In this review, we discuss the crucial connection between the gut microbiota and the central nervous system, the signaling pathways of multiple biological systems and the contribution of gut microbiota-related neurological disorders.
 
 [Source](https://doi.org/10.1038/s41564-023-01455-2)
 
-10.1038/s41564-023-01455-2
+10.3389/fnins.2023.1225875
+
+---
+
+## Microbiome alterations in autism spectrum disorder
+
+[Source](https://doi.org/10.1038/s41564-023-01455-2)
 
 ---
 
@@ -238,9 +246,10 @@ Research on marine microbial communities is growing, but studies are hard to com
 ---
 
 ## MT-MAG: Accurate and interpretable machine learning for complete or partial taxonomic assignments of metagenomeassembled genomes.
- 20.08.2023, _W Li, L Kari, Y Yu, LA Hug_
+ 21.08.2023, _W Li, L Kari, Y Yu, LA Hug_
 
 
+_Animals, Cattle, Female, Humans, Metagenome, Benchmarking, Computational Biology, Gastrointestinal Microbiome, Machine Learning_
 We propose MT-MAG, a novel machine learning-based software tool for the complete or partial hierarchically-structured taxonomic classification of metagenome-assembled genomes (MAGs). MT-MAG is alignment-free, with k-mer frequencies being the only feature used to distinguish a DNA sequence from another (herein k = 7). MT-MAG is capable of classifying large and diverse metagenomic datasets: a total of 245.68 Gbp in the training sets, and 9.6 Gbp in the test sets analyzed in this study. In addition to complete classifications, MT-MAG offers a "partial classification" option, whereby a classification at a higher taxonomic level is provided for MAGs that cannot be classified to the Species level. MT-MAG outputs complete or partial classification paths, and interpretable numerical classification confidences of its classifications, at all taxonomic ranks. To assess the performance of MT-MAG, we define a "weighted classification accuracy," with a weighting scheme reflecting the fact that partial classifications at different ranks are not equally informative. For the two benchmarking datasets analyzed (genomes from human gut microbiome species, and bacterial and archaeal genomes assembled from cow rumen metagenomic sequences), MT-MAG achieves an average of 87.32% in weighted classification accuracy. At the Species level, MT-MAG outperforms DeepMicrobes, the only other comparable software tool, by an average of 34.79% in weighted classification accuracy. In addition, MT-MAG is able to completely classify an average of 67.70% of the sequences at the Species level, compared with DeepMicrobes which only classifies 47.45%. Moreover, MT-MAG provides additional information for sequences that it could not classify at the Species level, resulting in the partial or complete classification of 95.13%, of the genomes in the datasets analyzed. Lastly, unlike other taxonomic assignment tools (e.g., GDTB-Tk), MT-MAG is an alignment-free and genetic marker-free tool, able to provide additional bioinformatics analysis to confirm existing or tentative taxonomic assignments.
 
 [Source](https://doi.org/10.1371/journal.pone.0283536)
@@ -250,9 +259,10 @@ We propose MT-MAG, a novel machine learning-based software tool for the complete
 ---
 
 ## BinaRena: a dedicated interactive platform for human-guided exploration and binning of metagenomes.
- 18.08.2023, _MJ Pavia, A Chede, Z Wu, H Cadillo-Quiroz, Q Zhu_
+ 21.08.2023, _MJ Pavia, A Chede, Z Wu, H Cadillo-Quiroz, Q Zhu_
 
 
+_Humans, Metagenome, Microbiota, Algorithms, Biological Evolution, Diarrhea_
 Exploring metagenomic contigs and "binning" them into metagenome-assembled genomes (MAGs) are essential for the delineation of functional and evolutionary guilds within microbial communities. Despite the advances in automated binning algorithms, their capabilities in recovering MAGs with accuracy and biological relevance are so far limited. Researchers often find that human involvement is necessary to achieve representative binning results. This manual process however is expertise demanding and labor intensive, and it deserves to be supported by software infrastructure.
 
 [Source](https://doi.org/10.1186/s40168-023-01625-8)
