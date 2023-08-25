@@ -10,65 +10,33 @@
 
 ---
 
-## Comparison of the relative impacts of acute consumption of an inulin-enriched diet, milk kefir or a commercial probiotic product on the human gut microbiome and metabolome.
- 19.08.2023, _LH Walsh, AM Walsh, I Garcia-Perez, F Crispie, A Costabile, R Ellis, J Finlayson, LA Finnegan, MJ Claesson, E Holmes, PD Cotter_
-
-
-It has been established that the human gut microbiota is central to health, and, consequently, there has been a growing desire to positively modulate its composition and/or function through, for example, the use of fermented foods, prebiotics or probiotics. Here, we compare the relative impact of the daily consumption of an inulin-enriched diet (n = 10), a commercial probiotic-containing fermented milk product (FMP) (n = 10), or a traditional kefir FMP (n = 9), over a 28-day period on the gut microbiome and urine metabolome of healthy human adults. None of the treatments resulted in significant changes to clinical parameters or biomarkers tested. However, shotgun metagenomic analysis revealed that kefir consumption resulted in a significant change in taxonomy, in the form of an increased abundance of the sub-dominant FMP-associated species Lactococcus raffinolactis, which further corresponded to shifts in the urine metabolome. Overall, our results indicated that daily consumption of a single portion of kefir alone resulted in detectable changes to the gut microbiota and metabolome of consumers.
+## Comparison of the relative impacts of acute consumption of an inulin-enriched diet, milk kefir or a commercial probiotic product on the human gut microbiome and metabolome
 
 [Source](https://www.nature.com/articles/s41538-023-00216-z)
 
-10.1038/s41538-023-00216-z
-
 ---
 
-## High-resolution strain-level microbiome composition analysis from short reads.
- 19.08.2023, _H Liao, Y Ji, Y Sun_
-
-
-_Microbiota, Metagenome, Metagenomics, Software_
-Bacterial strains under the same species can exhibit different biological properties, making strain-level composition analysis an important step in understanding the dynamics of microbial communities. Metagenomic sequencing has become the major means for probing the microbial composition in host-associated or environmental samples. Although there are a plethora of composition analysis tools, they are not optimized to address the challenges in strain-level analysis: highly similar strain genomes and the presence of multiple strains under one species in a sample. Thus, this work aims to provide a high-resolution and more accurate strain-level analysis tool for short reads.
+## High-resolution strain-level microbiome composition analysis from short reads
 
 [Source](https://doi.org/10.1186/s40168-023-01615-w)
 
-10.1186/s40168-023-01615-w
-
 ---
 
-## Profiling novel lateral gene transfer events in the human microbiome.
- 23.08.2023, _TY Hsu, E Nzabarushimana, D Wong, C Luo, RG Beiko, M Langille, C Huttenhower, LH Nguyen, EA Franzosa_
-
-
-Lateral gene transfer (LGT) is an important mechanism for genome diversification in microbial populations, including the human microbiome. While prior work has surveyed LGT events in human-associated microbial isolate genomes, the scope and dynamics of novel LGT events arising in personal microbiomes are not well understood, as there are no widely adopted computational methods to detect, quantify, and characterize LGT from complex microbial communities. We addressed this by developing, benchmarking, and experimentally validating a computational method (WAAFLE) to profile novel LGT events from assembled metagenomes. Applying WAAFLE to &gt;2K human metagenomes from diverse body sites, we identified &gt;100K putative high-confidence but previously uncharacterized LGT events (∼2 per assembled microbial genome-equivalent). These events were enriched for mobile elements (as expected), as well as restriction-modification and transport functions typically associated with the destruction of foreign DNA. LGT frequency was quantifiably influenced by biogeography, the phylogenetic similarity of the involved taxa, and the ecological abundance of the donor taxon. These forces manifest as LGT networks in which hub species abundant in a community type donate unequally with their close phylogenetic neighbors. Our findings suggest that LGT may be a more ubiquitous process in the human microbiome than previously described. The open-source WAAFLE implementation, documentation, and data from this work are available at http://huttenhower.sph.harvard.edu/waafle .
+## Profiling novel lateral gene transfer events in the human microbiome
 
 [Source](https://www.biorxiv.org/content/10.1101/2023.08.08.552500v2.abstract)
 
-10.1101/2023.08.08.552500
-
 ---
 
-## Major data analysis errors invalidate cancer microbiome findings.
- 22.08.2023, _A Gihawi, Y Ge, J Lu, D Puiu, A Xu, CS Cooper, DS Brewer, M Pertea, SL Salzberg_
-
-
-We re-analyzed the data from a recent large-scale study that reported strong correlations between microbial organisms and 33 different cancer types, and that created machine learning predictors with near-perfect accuracy at distinguishing among cancers. We found at least two fundamental flaws in the reported data and in the methods: (1) errors in the genome database and the associated computational methods led to millions of false positive findings of bacterial reads across all samples, largely because most of the sequences identified as bacteria were instead human; and (2) errors in transformation of the raw data created an artificial signature, even for microbes with no reads detected, tagging each tumor type with a distinct signal that the machine learning programs then used to create an apparently accurate classifier. Each of these problems invalidates the results, leading to the conclusion that the microbiome-based classifiers for identifying cancer presented in the study are entirely wrong. These flaws have subsequently affected more than a dozen additional published studies that used the same data and whose results are likely invalid as well.
+## Major data analysis errors invalidate cancer microbiome findings
 
 [Source](https://www.biorxiv.org/content/10.1101/2023.07.28.550993v1)
 
-10.1101/2023.07.28.550993
-
 ---
 
-## Microdiversity of the vaginal microbiome is associated with preterm birth.
- 23.08.2023, _J Liao, L Shenhav, JA Urban, M Serrano, B Zhu, GA Buck, T Korem_
-
-
-_Infant, Newborn, Pregnancy, Humans, Female, Premature Birth, Microbiota, Metagenome, Acclimatization, Biological Evolution_
-Preterm birth (PTB) is the leading cause of neonatal morbidity and mortality. The vaginal microbiome has been associated with PTB, yet the mechanisms underlying this association are not fully understood. Understanding microbial genetic adaptations to selective pressures, especially those related to the host, may yield insights into these associations. Here, we analyze metagenomic data from 705 vaginal samples collected during pregnancy from 40 women who delivered preterm spontaneously and 135 term controls from the Multi-Omic Microbiome Study-Pregnancy Initiative. We find that the vaginal microbiome of pregnancies that ended preterm exhibited unique genetic profiles. It was more genetically diverse at the species level, a result which we validate in an additional cohort, and harbored a higher richness and diversity of antimicrobial resistance genes, likely promoted by transduction. Interestingly, we find that Gardnerella species drove this higher genetic diversity, particularly during the first half of the pregnancy. We further present evidence that Gardnerella spp. underwent more frequent recombination and stronger purifying selection in genes involved in lipid metabolism. Overall, our population genetics analyses reveal associations between the vaginal microbiome and PTB and suggest that evolutionary processes acting on vaginal microbes may play a role in adverse pregnancy outcomes such as PTB.
+## Microdiversity of the vaginal microbiome is associated with preterm birth
 
 [Source](https://doi.org/10.1038/s41467-023-40719-7)
-
-10.1038/s41467-023-40719-7
 
 ---
 
@@ -164,15 +132,9 @@ The host-bacterial interactions play the key role in inflammatory bowel disease 
 
 ---
 
-## Kombucha tea as an anti-hyperglycemic agent in humans with diabetes - a randomized controlled pilot investigation.
- 18.08.2023, _C Mendelson, S Sparkes, DJ Merenstein, C Christensen, V Sharma, S Desale, JM Auchtung, CR Kok, HE Hallen-Adams, R Hutkins_
-
-
-Kombucha is a popular fermented tea that has attracted considerable attention due, in part, to its suggested health benefits. Previous results from animal models led us to hypothesize kombucha may reduce blood sugar levels in humans with diabetes. The objective of this pilot clinical study was to evaluate kombucha for its anti-hyperglycemic activities in adults with diabetes mellitus type II.
+## Kombucha tea as an anti-hyperglycemic agent in humans with diabetes – a randomized controlled pilot investigation
 
 [Source](https://doi.org/10.3389/fnut.2023.1190248)
-
-10.3389/fnut.2023.1190248
 
 ---
 
