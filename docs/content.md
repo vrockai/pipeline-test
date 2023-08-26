@@ -10,9 +10,15 @@
 
 ---
 
-## Comparison of the relative impacts of acute consumption of an inulin-enriched diet, milk kefir or a commercial probiotic product on the human gut microbiome and metabolome
+## Comparison of the relative impacts of acute consumption of an inulin-enriched diet, milk kefir or a commercial probiotic product on the human gut microbiome and metabolome.
+ 19.08.2023, _LH Walsh, AM Walsh, I Garcia-Perez, F Crispie, A Costabile, R Ellis, J Finlayson, LA Finnegan, MJ Claesson, E Holmes, PD Cotter_
+
+
+It has been established that the human gut microbiota is central to health, and, consequently, there has been a growing desire to positively modulate its composition and/or function through, for example, the use of fermented foods, prebiotics or probiotics. Here, we compare the relative impact of the daily consumption of an inulin-enriched diet (n = 10), a commercial probiotic-containing fermented milk product (FMP) (n = 10), or a traditional kefir FMP (n = 9), over a 28-day period on the gut microbiome and urine metabolome of healthy human adults. None of the treatments resulted in significant changes to clinical parameters or biomarkers tested. However, shotgun metagenomic analysis revealed that kefir consumption resulted in a significant change in taxonomy, in the form of an increased abundance of the sub-dominant FMP-associated species Lactococcus raffinolactis, which further corresponded to shifts in the urine metabolome. Overall, our results indicated that daily consumption of a single portion of kefir alone resulted in detectable changes to the gut microbiota and metabolome of consumers.
 
 [Source](https://www.nature.com/articles/s41538-023-00216-z)
+
+10.1038/s41538-023-00216-z
 
 ---
 
