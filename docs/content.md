@@ -46,15 +46,28 @@
 
 ---
 
-## The gut microbiome contributes to somatic morphine withdrawal behavior and implicates a TLR2 mediated mechanism
+## The gut microbiome contributes to somatic morphine withdrawal behavior and implicates a TLR2 mediated mechanism.
+ 23.08.2023, _B Truitt, G Venigalla, P Singh, S Singh, J Tao, I Chupikova, S Roy_
+
+
+The ongoing opioid epidemic has left millions of people suffering from opioid use disorder due to the over-prescription of highly addictive substances. Chronic opioid exposure leads to dependence, where the absence of the drug results in negative symptoms of withdrawal, often driving patients to continue drug use; however, few therapeutic strategies are currently available to combat the cycle of addiction and the severity of morphine withdrawal. This study investigates the microbiome as a potential therapeutic target for morphine withdrawal, as gut dysbiosis caused by morphine use has been proven to contribute to other aspects of opioid use disorders, such as tolerance. Results show that although the microbiome during morphine withdrawal trends toward recovery from morphine-induced dysbiosis, there continues to be a disruption in the alpha and beta diversity as well as the abundance of gram-positive bacteria that may still contribute to the severity of morphine withdrawal symptoms. Germ-free mice lacking the microbiome did not develop somatic withdrawal symptoms, indicating that the microbiome is necessary for the development of somatic withdrawal behavior. Notably, only TLR2 but not TLR4 whole-body knockout models display less withdrawal severity, implicating that the microbiome, through a gram-positive, TLR2 mediated mechanism, drives opioid-induced somatic withdrawal behavior.
 
 [Source](https://doi.org/10.1080/19490976.2023.2242610)
 
+10.1080/19490976.2023.2242610
+
 ---
 
-## Association of the human gut microbiota with vascular stiffness
+## Association of the human gut microbiota with vascular stiffness.
+ 19.08.2023, _RRC Cuadrat, T Goris, A Birukov, F Eichelmann, BGN Andrade, C Bang, A Franke, C Wittenbecher, MB Schulze_
+
+
+_Humans, Gastrointestinal Microbiome, Cross-Sectional Studies, Prospective Studies, Vascular Stiffness, Cancer Vaccines_
+Gut microbiota metabolites have been mechanistically linked to inflammatory pathway activation and atherosclerosis, which are major causes of vascular stiffness (VS). Aiming to investigate if the gut microbiome might be involved in VS development, we performed a cross-sectional study (n = 3,087), nested within the population-based European Prospective Investigations into Cancer and Nutrition (EPIC) Potsdam. We investigated the correlation of the gut microbiota (alpha diversity and taxa abundance) with 3 vascular stiffness measures: carotid-femoral (PWV), aortic augmentation index (AIX) and ankle-brachial index (ABI). Shannon index was not significantly associated with VS but the number of observed Amplicon Sequence Variants (ASV) was positively associated with PWV and AIX. We found a total of 19 ASVs significantly associated with at least one VS measure in multivariable-adjusted models. One ASV (classified as Sutterella wadsworthensis) was associated with 2 VS measures, AIX (- 0.11 ± 0.04) and PWV (-0.14 ± 0.03). Other examples of ASVs associated with VS were Collinsella aerofaciens, previously reported to be affected by diet and Bacteroides uniformis, commercially available as probiotics. In conclusion, our study suggests a potential role of individual components of the gut microbiota in the aetiology of VS.
 
 [Source](https://doi.org/10.1038/s41598-023-40178-6)
+
+10.1038/s41598-023-40178-6
 
 ---
 
@@ -143,15 +156,9 @@ The host-bacterial interactions play the key role in inflammatory bowel disease 
 
 ---
 
-## Inter-comparison of marine microbiome sampling protocols.
- 23.08.2023, _F Pascoal, MP Tomasino, R Piredda, GM Quero, L Torgo, J Poulain, PE Galand, JA Fuhrman, A Mitchell, T Tinta, T Turk Dermastia, A Fernandez-Guerra, A Vezzi, R Logares, F Malfatti, H Endo, AM Dąbrowska, F De Pascale, P Sánchez, N Henry, B Fosso, B Wilson, S Toshchakov, GK Ferrant, I Grigorov, FRJ Vieira, R Costa, S Pesant, C Magalhães_
-
-
-Research on marine microbial communities is growing, but studies are hard to compare because of variation in seawater sampling protocols. To help researchers in the inter-comparison of studies that use different seawater sampling methodologies, as well as to help them design future sampling campaigns, we developed the EuroMarine Open Science Exploration initiative (EMOSE). Within the EMOSE framework, we sampled thousands of liters of seawater from a single station in the NW Mediterranean Sea (Service d'Observation du Laboratoire Arago [SOLA], Banyuls-sur-Mer), during one single day. The resulting dataset includes multiple seawater processing approaches, encompassing different material-type kinds of filters (cartridge membrane and flat membrane), three different size fractionations (&gt;0.22 µm, 0.22-3 µm, 3-20 µm and &gt;20 µm), and a number of different seawater volumes ranging from 1 L up to 1000 L. We show that the volume of seawater that is filtered does not have a significant effect on prokaryotic and protist diversity, independently of the sequencing strategy. However, there was a clear difference in alpha and beta diversity between size fractions and between these and "whole water" (with no pre-fractionation). Overall, we recommend care when merging data from datasets that use filters of different pore size, but we consider that the type of filter and volume should not act as confounding variables for the tested sequencing strategies. To the best of our knowledge, this is the first time a publicly available dataset effectively allows for the clarification of the impact of marine microbiome methodological options across a wide range of protocols, including large-scale variations in sampled volume.
+## Inter-comparison of marine microbiome sampling protocols
 
 [Source](https://doi.org/10.1038/s43705-023-00278-w)
-
-10.1038/s43705-023-00278-w
 
 ---
 
@@ -188,7 +195,7 @@ Exploring metagenomic contigs and "binning" them into metagenome-assembled genom
 ---
 
 ## Detection of viable commensal bacteria in murine melanoma tumors by culturomics.
- 14.08.2023, _CM Phelps, JH Shapira, CR Laughlin, M Meisel_
+ 26.08.2023, _CM Phelps, JH Shapira, CR Laughlin, M Meisel_
 
 
 Emerging evidence suggests the tumor microbiome at gut-distal sites can modulate tumor immunity and response to cancer immunotherapy. However, detection of commensal bacteria at gut-distal tumor sites is challenging given their low abundance. Here, we present a culturomics approach to facilitate recovery of phylogenetically diverse live commensal bacteria within gut-distal melanoma tumors. We describe steps for media preparation, tissue isolation, tissue homogenization, and host cell lysis. We then detail broth expansion culture followed by agar culture and single-colony 16S rRNA sequencing. For complete details on the use and execution of this protocol, please refer to Bender and McPherson et al. (2023).1.
