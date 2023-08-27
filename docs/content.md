@@ -34,53 +34,27 @@
 
 ---
 
-## Microdiversity of the vaginal microbiome is associated with preterm birth.
- 23.08.2023, _J Liao, L Shenhav, JA Urban, M Serrano, B Zhu, GA Buck, T Korem_
-
-
-_Infant, Newborn, Pregnancy, Humans, Female, Premature Birth, Microbiota, Metagenome, Acclimatization, Biological Evolution_
-Preterm birth (PTB) is the leading cause of neonatal morbidity and mortality. The vaginal microbiome has been associated with PTB, yet the mechanisms underlying this association are not fully understood. Understanding microbial genetic adaptations to selective pressures, especially those related to the host, may yield insights into these associations. Here, we analyze metagenomic data from 705 vaginal samples collected during pregnancy from 40 women who delivered preterm spontaneously and 135 term controls from the Multi-Omic Microbiome Study-Pregnancy Initiative. We find that the vaginal microbiome of pregnancies that ended preterm exhibited unique genetic profiles. It was more genetically diverse at the species level, a result which we validate in an additional cohort, and harbored a higher richness and diversity of antimicrobial resistance genes, likely promoted by transduction. Interestingly, we find that Gardnerella species drove this higher genetic diversity, particularly during the first half of the pregnancy. We further present evidence that Gardnerella spp. underwent more frequent recombination and stronger purifying selection in genes involved in lipid metabolism. Overall, our population genetics analyses reveal associations between the vaginal microbiome and PTB and suggest that evolutionary processes acting on vaginal microbes may play a role in adverse pregnancy outcomes such as PTB.
+## Microdiversity of the vaginal microbiome is associated with preterm birth
 
 [Source](https://doi.org/10.1038/s41467-023-40719-7)
 
-10.1038/s41467-023-40719-7
-
 ---
 
-## Dysbiosis of gut microbiota during fecal stream diversion in patients with colorectal cancer.
- 23.08.2023, _SY Lee, HM Park, CH Kim, HR Kim_
-
-
-The effect of fecal stream diversion on the gut microbiota is still uncertain. The present study was designed to assess the effect of fecal stream diversion on the composition of the gut microbiota in patients with colorectal cancer. We included patients undergoing left-sided colorectal cancer surgery with (ileostomy group) or without (control group) diverting ileostomy. Fecal samples were collected from 10 patients in each group before surgery (t1) and after ileostomy repair in the ileostomy group and 6-12 months after the initial surgery in the control group (t2). The fecal microbiota was assessed using 16S rRNA sequencing, and changes in the composition of the fecal microbiota were compared between the two groups.
+## Dysbiosis of gut microbiota during fecal stream diversion in patients with colorectal cancer
 
 [Source](https://doi.org/10.1186/s13099-023-00566-9)
 
-10.1186/s13099-023-00566-9
-
 ---
 
-## The gut microbiome contributes to somatic morphine withdrawal behavior and implicates a TLR2 mediated mechanism.
- 23.08.2023, _B Truitt, G Venigalla, P Singh, S Singh, J Tao, I Chupikova, S Roy_
-
-
-The ongoing opioid epidemic has left millions of people suffering from opioid use disorder due to the over-prescription of highly addictive substances. Chronic opioid exposure leads to dependence, where the absence of the drug results in negative symptoms of withdrawal, often driving patients to continue drug use; however, few therapeutic strategies are currently available to combat the cycle of addiction and the severity of morphine withdrawal. This study investigates the microbiome as a potential therapeutic target for morphine withdrawal, as gut dysbiosis caused by morphine use has been proven to contribute to other aspects of opioid use disorders, such as tolerance. Results show that although the microbiome during morphine withdrawal trends toward recovery from morphine-induced dysbiosis, there continues to be a disruption in the alpha and beta diversity as well as the abundance of gram-positive bacteria that may still contribute to the severity of morphine withdrawal symptoms. Germ-free mice lacking the microbiome did not develop somatic withdrawal symptoms, indicating that the microbiome is necessary for the development of somatic withdrawal behavior. Notably, only TLR2 but not TLR4 whole-body knockout models display less withdrawal severity, implicating that the microbiome, through a gram-positive, TLR2 mediated mechanism, drives opioid-induced somatic withdrawal behavior.
+## The gut microbiome contributes to somatic morphine withdrawal behavior and implicates a TLR2 mediated mechanism
 
 [Source](https://doi.org/10.1080/19490976.2023.2242610)
 
-10.1080/19490976.2023.2242610
-
 ---
 
-## Association of the human gut microbiota with vascular stiffness.
- 19.08.2023, _RRC Cuadrat, T Goris, A Birukov, F Eichelmann, BGN Andrade, C Bang, A Franke, C Wittenbecher, MB Schulze_
-
-
-_Humans, Gastrointestinal Microbiome, Cross-Sectional Studies, Prospective Studies, Vascular Stiffness, Cancer Vaccines_
-Gut microbiota metabolites have been mechanistically linked to inflammatory pathway activation and atherosclerosis, which are major causes of vascular stiffness (VS). Aiming to investigate if the gut microbiome might be involved in VS development, we performed a cross-sectional study (n = 3,087), nested within the population-based European Prospective Investigations into Cancer and Nutrition (EPIC) Potsdam. We investigated the correlation of the gut microbiota (alpha diversity and taxa abundance) with 3 vascular stiffness measures: carotid-femoral (PWV), aortic augmentation index (AIX) and ankle-brachial index (ABI). Shannon index was not significantly associated with VS but the number of observed Amplicon Sequence Variants (ASV) was positively associated with PWV and AIX. We found a total of 19 ASVs significantly associated with at least one VS measure in multivariable-adjusted models. One ASV (classified as Sutterella wadsworthensis) was associated with 2 VS measures, AIX (- 0.11 ± 0.04) and PWV (-0.14 ± 0.03). Other examples of ASVs associated with VS were Collinsella aerofaciens, previously reported to be affected by diet and Bacteroides uniformis, commercially available as probiotics. In conclusion, our study suggests a potential role of individual components of the gut microbiota in the aetiology of VS.
+## Association of the human gut microbiota with vascular stiffness
 
 [Source](https://doi.org/10.1038/s41598-023-40178-6)
-
-10.1038/s41598-023-40178-6
 
 ---
 
@@ -139,15 +113,9 @@ The host-bacterial interactions play the key role in inflammatory bowel disease 
 
 ---
 
-## Kombucha tea as an anti-hyperglycemic agent in humans with diabetes - a randomized controlled pilot investigation.
- 18.08.2023, _C Mendelson, S Sparkes, DJ Merenstein, C Christensen, V Sharma, S Desale, JM Auchtung, CR Kok, HE Hallen-Adams, R Hutkins_
-
-
-Kombucha is a popular fermented tea that has attracted considerable attention due, in part, to its suggested health benefits. Previous results from animal models led us to hypothesize kombucha may reduce blood sugar levels in humans with diabetes. The objective of this pilot clinical study was to evaluate kombucha for its anti-hyperglycemic activities in adults with diabetes mellitus type II.
+## Kombucha tea as an anti-hyperglycemic agent in humans with diabetes – a randomized controlled pilot investigation
 
 [Source](https://doi.org/10.3389/fnut.2023.1190248)
-
-10.3389/fnut.2023.1190248
 
 ---
 
@@ -157,41 +125,21 @@ Kombucha is a popular fermented tea that has attracted considerable attention du
 
 ---
 
-## Systematic review of cnidarian microbiomes reveals insights into the structure, specificity, and fidelity of marine associations.
- 22.08.2023, _M McCauley, TL Goulet, CR Jackson, S Loesgen_
-
-
-_Animals, RNA, Ribosomal, 16S, Microbiota, Bacteria, Archaea, Anthozoa, Phylogeny_
-Microorganisms play essential roles in the health and resilience of cnidarians. Understanding the factors influencing cnidarian microbiomes requires cross study comparisons, yet the plethora of protocols used hampers dataset integration. We unify 16S rRNA gene sequences from cnidarian microbiome studies under a single analysis pipeline. We reprocess 12,010 cnidarian microbiome samples from 186 studies, alongside 3,388 poriferan, 370 seawater samples, and 245 cultured Symbiodiniaceae, unifying ~6.5 billion sequence reads. Samples are partitioned by hypervariable region and sequencing platform to reduce sequencing variability. This systematic review uncovers an incredible diversity of 86 archaeal and bacterial phyla associated with Cnidaria, and highlights key bacteria hosted across host sub-phylum, depth, and microhabitat. Shallow (&lt; 30 m) water Alcyonacea and Actinaria are characterized by highly shared and relatively abundant microbial communities, unlike Scleractinia and most deeper cnidarians. Utilizing the V4 region, we find that cnidarian microbial composition, richness, diversity, and structure are primarily influenced by host phylogeny, sampling depth, and ocean body, followed by microhabitat and sampling date. We identify host and geographical generalist and specific Endozoicomonas clades within Cnidaria and Porifera. This systematic review forms a framework for understanding factors governing cnidarian microbiomes and creates a baseline for assessing stress associated dysbiosis.
+## Systematic review of cnidarian microbiomes reveals insights into the structure, specificity, and fidelity of marine associations
 
 [Source](https://doi.org/10.1038/s41467-023-39876-6)
 
-10.1038/s41467-023-39876-6
-
 ---
 
-## Toward an Integrated Understanding of the Lepidoptera Microbiome.
- 16.08.2023, _Y Shao, CJ Mason, GW Felton_
-
-
-Research over the past 30 years has led to a widespread acceptance that insects establish widespread and diverse associations with microorganisms. More recently, microbiome research has been accelerating in lepidopteran systems, leading to a greater understanding of both endosymbiont and gut microorganisms and how they contribute to integral aspects of the host. Lepidoptera are associated with a robust assemblage of microorganisms, some of which may be stable and routinely detected in larval and adult hosts, while others are ephemeral and transient. Certain microorganisms that populate Lepidoptera can contribute significantly to the hosts' performance and fitness, while others are inconsequential. We emphasize the context-dependent nature of the interactions between players. While our review discusses the contemporary literature, there are major avenues yet to be explored to determine both the fundamental aspects of host-microbe interactions and potential applications for the lepidopteran microbiome; we describe these avenues after our synthesis. Expected final online publication date for the Annual Review of Entomology, Volume 69 is January 2024. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
+## Toward an Integrated Understanding of the Lepidoptera Microbiome
 
 [Source](https://doi.org/10.1146/annurev-ento-020723-102548)
 
-10.1146/annurev-ento-020723-102548
-
 ---
 
-## Characterization of bacterial community in tobacco leaves at flue-curing and redrying processing stages.
- 19.08.2023, _Y Yang, R Xu, M Yang, Q Xu, C Miao, J Guo, W Mou, H Du, G Wei, L Hu, Z Hu_
-
-
-_Humans, Tobacco, Plant Leaves, Proteobacteria, Aging, Cancer Vaccines_
-During the processing of tobacco leaves, flue-curing and redrying can affect the structure of bacterial community, having an effect on the aging quality of tobacco leaves. In order to characterize the effects of flue-curing and redrying on the bacterial community of tobacco leaves, the bacterial community of samples at different processing stages (before flue-curing, after flue-curing, before redrying and after redrying) was analyzed using Illumina sequencing. A total of 33 phyla, 79 classes, 195 orders, 344 families, 826 genera and 7922 ASVs were obtained from 36 samples. There was no significant difference in the core bacterial groups of tobacco leaf at four processing stages. Proteobacteria dominated at the phylum level. Sphingomonas, Pseudomonas and Methylobacterium were the main genera shared by all samples. The functional prediction by PICRUSt showed an increase in the relative abundance of pathway related to metabolism after flue-curing and pathway related to environmental information processing after redrying. This study, we analyzed the changes of bacterial community and structural composition of tobacco leaves from flue-curing to redrying, and found that flue-curing had a greater effect on the microbial community than redrying. This is conducive for the exploration of microbial resources and improvement of tobacco leaf quality.
+## Characterization of bacterial community in tobacco leaves at flue-curing and redrying processing stages
 
 [Source](https://doi.org/10.1038/s41598-023-40502-0)
-
-10.1038/s41598-023-40502-0
 
 ---
 
