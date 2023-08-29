@@ -66,15 +66,29 @@ Background. Local recurrence and distant metastasis are the main causes of death
 
 ---
 
-## Multi-omics analysis revealing the interplay between gut microbiome and the host following opioid use
+## Multi-omics analysis revealing the interplay between gut microbiome and the host following opioid use.
+ 28.08.2023, _U Kolli, R Jalodia, S Moidunny, PK Singh, Y Ban, J Tao, GN Cantu, E Valdes, S Ramakrishnan, S Roy_
+
+
+_Animals, Mice, Gastrointestinal Microbiome, Analgesics, Opioid, Dysbiosis, Multiomics, Opioid-Related Disorders, Riboflavin, Morphine Derivatives, Lipids_
+Opioid crisis is an ongoing epidemic since the past several decades in the United States. Opioid use-associated microbial dysbiosis is emerging as a key regulator of intestinal homeostasis and behavioral responses to opioid. However, the mechanistic insight into the role of microbial community in modulating host response is unavailable. To uncover the role of opioid-induced dysbiosis in disrupting intestinal homeostasis we utilized whole genome sequencing, untargeted metabolomics, and mRNA sequencing to identify changes in microbiome, metabolome, and host transcriptome respectively. Morphine treatment resulted in significant expansion of Parasuterella excrementihominis, Burkholderiales bacterium 1_1_47, Enterococcus faecalis, Enterorhabdus caecimuris and depletion of Lactobacillus johnsonii. These changes correlated with alterations in lipid metabolites and flavonoids. Significant alteration in microbial metabolism (metabolism of lipids, amino acids, vitamins and cofactors) and increased expression of virulence factors and biosynthesis of lipopolysaccharides (LPS) and lipoteichoic acid (LTA) were observed in microbiome of morphine-treated animals. In concurrence with changes in microbiome and metabolome extensive changes in innate and adaptive immune response, lipid metabolism, and gut barrier dysfunction were observed in the host transcriptome. Microbiome depleted mice displayed lower levels of inflammation, immune response and tissue destruction compared to mice harboring a dysbiotic microbiome in response to morphine treatment, thus establishing dysbiotic microbiome as mediator of morphine gut pathophysiology. Integrative analysis of multi-omics data highlighted the associations between Parasutterella excrementihominis, Burkholderiales bacterium 1_1_47, Enterococcus faecalis, Enterorhabdus caecimuris and altered levels of riboflavin, flavonoids, and lipid metabolites including phosphocholines, carnitines, bile acids, and ethanolamines with host gene expression changes involved in inflammation and barrier integrity of intestine. Omic analysis also highlighted the role of probiotic bacteria Lactobacillus johnsonii, metabolites flavonoids and riboflavin that were depleted with morphine as important factors for intestinal homeostasis. This study presents for the first time ever an interactive view of morphine-induced changes in microbial metabolism, strain level gut microbiome analysis and comprehensive view of changes in gut transcriptome. We also identified areas of potential therapeutic interventions to limit microbial dysbiosis and present a unique resource to the opioid research community.
 
 [Source](https://doi.org/10.1080/19490976.2023.2246184)
 
+10.1080/19490976.2023.2246184
+
 ---
 
-## The gut microbiota reprograms intestinal lipid metabolism through long noncoding RNA Snhg9
+## The gut microbiota reprograms intestinal lipid metabolism through long noncoding RNA Snhg9.
+ 28.08.2023, _Y Wang, M Wang, J Chen, Y Li, Z Kuang, C Dende, P Raj, G Quinn, Z Hu, T Srinivasan, B Hassell, KA Ruhn, CL Behrendt, T Liang, X Dou, Z Song, LV Hooper_
+
+
+_Animals, Mice, Gastrointestinal Microbiome, Immunity, Innate, Lipid Metabolism, Lymphocytes, PPAR gamma, RNA, Long Noncoding, Sirtuin 1, Cell Cycle Proteins, Apoptosis Regulatory Proteins, Myeloid Cells, Intestines, Adipose Tissue, Humans_
+The intestinal microbiota regulates mammalian lipid absorption, metabolism, and storage. We report that the microbiota reprograms intestinal lipid metabolism in mice by repressing the expression of long noncoding RNA (lncRNA) Snhg9 (small nucleolar RNA host gene 9) in small intestinal epithelial cells. Snhg9 suppressed the activity of peroxisome proliferator-activated receptor γ (PPARγ)-a central regulator of lipid metabolism-by dissociating the PPARγ inhibitor sirtuin 1 from cell cycle and apoptosis protein 2 (CCAR2). Forced expression of Snhg9 in the intestinal epithelium of conventional mice impaired lipid absorption, reduced body fat, and protected against diet-induced obesity. The microbiota repressed Snhg9 expression through an immune relay encompassing myeloid cells and group 3 innate lymphoid cells. Our findings thus identify an unanticipated role for a lncRNA in microbial control of host metabolism.
 
 [Source](https://doi.org/10.1126/science.ade0522)
+
+10.1126/science.ade0522
 
 ---
 
@@ -84,9 +98,15 @@ Background. Local recurrence and distant metastasis are the main causes of death
 
 ---
 
-## Targeting nonalcoholic fatty liver disease via gut microbiome-centered therapies
+## Targeting nonalcoholic fatty liver disease via gut microbiome-centered therapies.
+ 25.08.2023, _M Koning, H Herrema, M Nieuwdorp, AS Meijnikman_
+
+
+Humans possess abundant amounts of microorganisms, including bacteria, fungi, viruses, and archaea, in their gut. Patients with nonalcoholic fatty liver disease (NAFLD) exhibit alterations in their gut microbiome and an impaired gut barrier function. Preclinical studies emphasize the significance of the gut microbiome in the pathogenesis of NAFLD. In this overview, we explore how adjusting the gut microbiome could serve as an innovative therapeutic strategy for NAFLD. We provide a summary of current information on untargeted techniques such as probiotics and fecal microbiota transplantation, as well as targeted microbiome-focused therapies including engineered bacteria, prebiotics, postbiotics, and phages for the treatment of NAFLD.
 
 [Source](https://doi.org/10.1080/19490976.2023.2226922)
+
+10.1080/19490976.2023.2226922
 
 ---
 
