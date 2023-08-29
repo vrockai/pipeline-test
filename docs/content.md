@@ -11,7 +11,7 @@ Bacterial pneumonia is a considerable problem worldwide. Here, we follow the int
 ---
 
 ## A phenome-wide association study (PheWAS) to identify the health impacts of 4-cresol sulfate in the Nagahama Study.
- 28.08.2023, _H Ou, S Kawaguchi, K Sonomura, T Kawaguchi, S Kitada, S Yoshiji, F Brial, D Gauguier, J Xia, F Matsuda_
+ 29.08.2023, _H Ou, S Kawaguchi, K Sonomura, T Kawaguchi, S Kitada, S Yoshiji, F Brial, D Gauguier, J Xia, F Matsuda_
 
 
 _Humans, Diabetes Mellitus, Type 2, Sulfuric Acid Esters, Phenomics, Endophenotypes_
@@ -49,7 +49,7 @@ Background. Local recurrence and distant metastasis are the main causes of death
 ---
 
 ## Gut microbiota and fecal short chain fatty acids differ with adiposity and country of origin: the METS-microbiome study.
- 28.08.2023, _G Ecklu-Mensah, C Choo-Kang, MG Maseng, S Donato, P Bovet, B Viswanathan, K Bedu-Addo, J Plange-Rhule, P Oti Boateng, TE Forrester, M Williams, EV Lambert, D Rae, N Sinyanya, A Luke, BT Layden, S O'Keefe, JA Gilbert, LR Dugas_
+ 29.08.2023, _G Ecklu-Mensah, C Choo-Kang, MG Maseng, S Donato, P Bovet, B Viswanathan, K Bedu-Addo, J Plange-Rhule, P Oti Boateng, TE Forrester, M Williams, EV Lambert, D Rae, N Sinyanya, A Luke, BT Layden, S O'Keefe, JA Gilbert, LR Dugas_
 
 
 _Humans, Gastrointestinal Microbiome, Adiposity, Ghana, Microbiota, Obesity, Fatty Acids, Volatile, Glucose, Hypertension_
@@ -154,7 +154,7 @@ Humans possess abundant amounts of microorganisms, including bacteria, fungi, vi
 ---
 
 ## Role of mucin glycosylation in the gut microbiota-brain axis of core 3 O-glycan deficient mice.
- 28.08.2023, _E Coletto, GM Savva, D Latousakis, M Pontifex, EH Crost, L Vaux, A Telatin, K Bergstrom, D Vauzour, N Juge_
+ 29.08.2023, _E Coletto, GM Savva, D Latousakis, M Pontifex, EH Crost, L Vaux, A Telatin, K Bergstrom, D Vauzour, N Juge_
 
 
 _Animals, Mice, Mucins, Brain-Gut Axis, Glycosylation, Gastrointestinal Microbiome, Brain, Polysaccharides_
@@ -217,7 +217,7 @@ Freshwater sediment microbes are crucial decomposers that play a key role in reg
 ---
 
 ## Long-term agro-management strategies shape soil bacterial community structure in dryland wheat systems.
- 28.08.2023, _S Singh, S Singh, SB Lukas, S Machado, A Nouri, F Calderon, ER Rieke, SB Cappellazzi_
+ 29.08.2023, _S Singh, S Singh, SB Lukas, S Machado, A Nouri, F Calderon, ER Rieke, SB Cappellazzi_
 
 
 _Soil, Triticum, Carbon Dioxide, Agriculture, Calcinosis, Carbon_
@@ -265,21 +265,14 @@ Despite its enormous importance for ecosystem services, factors driving microbia
 
 ---
 
-## Metagenomic profiling pipelines improve taxonomic classification for 16S amplicon sequencing data.
- 28.08.2023, _AR Odom, T Faits, E Castro-Nallar, KA Crandall, WE Johnson_
-
-
-_Humans, Metagenomics, RNA, Ribosomal, 16S, Metagenome, Microbiota, Bone Plates, Cercozoa, Polyarteritis Nodosa_
-Most experiments studying bacterial microbiomes rely on the PCR amplification of all or part of the gene for the 16S rRNA subunit, which serves as a biomarker for identifying and quantifying the various taxa present in a microbiome sample. Several computational methods exist for analyzing 16S amplicon sequencing. However, the most-used bioinformatics tools cannot produce high quality genus-level or species-level taxonomic calls and may underestimate the potential accuracy of these calls. We used 16S sequencing data from mock bacterial communities to evaluate the sensitivity and specificity of several bioinformatics pipelines and genomic reference libraries used for microbiome analyses, concentrating on measuring the accuracy of species-level taxonomic assignments of 16S amplicon reads. We evaluated the tools DADA2, QIIME 2, Mothur, PathoScope 2, and Kraken 2 in conjunction with reference libraries from Greengenes, SILVA, Kraken 2, and RefSeq. Profiling tools were compared using publicly available mock community data from several sources, comprising 136 samples with varied species richness and evenness, several different amplified regions within the 16S rRNA gene, and both DNA spike-ins and cDNA from collections of plated cells. PathoScope 2 and Kraken 2, both tools designed for whole-genome metagenomics, outperformed DADA2, QIIME 2 using the DADA2 plugin, and Mothur, which are theoretically specialized for 16S analyses. Evaluations of reference libraries identified the SILVA and RefSeq/Kraken 2 Standard libraries as superior in accuracy compared to Greengenes. These findings support PathoScope and Kraken 2 as fully capable, competitive options for genus- and species-level 16S amplicon sequencing data analysis, whole genome sequencing, and metagenomics data tools.
+## Metagenomic profiling pipelines improve taxonomic classification for 16S amplicon sequencing data
 
 [Source](https://doi.org/10.1038/s41598-023-40799-x)
-
-10.1038/s41598-023-40799-x
 
 ---
 
 ## Amplicon-Based Microbiome Profiling: From Second- to Third-Generation Sequencing for Higher Taxonomic Resolution.
- 28.08.2023, _E Notario, G Visci, B Fosso, C Gissi, N Tanaskovic, M Rescigno, M Marzano, G Pesole_
+ 29.08.2023, _E Notario, G Visci, B Fosso, C Gissi, N Tanaskovic, M Rescigno, M Marzano, G Pesole_
 
 
 _RNA, Ribosomal, 16S, Benchmarking, Computational Biology, Microbiota, Technology_
@@ -292,7 +285,7 @@ The 16S rRNA amplicon-based sequencing approach represents the most common and c
 ---
 
 ## A flexible quasi-likelihood model for microbiome abundance count data.
- 22.08.2023, _Y Shi, H Li, C Wang, J Chen, H Jiang, YT Shih, H Zhang, Y Song, Y Feng, L Liu_
+ 29.08.2023, _Y Shi, H Li, C Wang, J Chen, H Jiang, YT Shih, H Zhang, Y Song, Y Feng, L Liu_
 
 
 In this article, we present a flexible model for microbiome count data. We consider a quasi-likelihood framework, in which we do not make any assumptions on the distribution of the microbiome count except that its variance is an unknown but smooth function of the mean. By comparing our model to the negative binomial generalized linear model (GLM) and Poisson GLM in simulation studies, we show that our flexible quasi-likelihood method yields valid inferential results. Using a real microbiome study, we demonstrate the utility of our method by examining the relationship between adenomas and microbiota. We also provide an R package "fql" for the application of our method.
@@ -328,7 +321,7 @@ The ability to use 16S rRNA gene sequence data to train machine learning classif
 ---
 
 ## Statistical normalization methods in microbiome data with application to microbiome cancer research.
- 28.08.2023, _Y Xia_
+ 29.08.2023, _Y Xia_
 
 
 _RNA, Ribosomal, 16S, Gastrointestinal Microbiome, Microbiota, Metagenome, Research Design, Neoplasms_
