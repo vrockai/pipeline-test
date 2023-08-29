@@ -48,21 +48,41 @@ Background. Local recurrence and distant metastasis are the main causes of death
 
 ---
 
-## Gut microbiota and fecal short chain fatty acids differ with adiposity and country of origin: the METS-microbiome study
+## Gut microbiota and fecal short chain fatty acids differ with adiposity and country of origin: the METS-microbiome study.
+ 28.08.2023, _G Ecklu-Mensah, C Choo-Kang, MG Maseng, S Donato, P Bovet, B Viswanathan, K Bedu-Addo, J Plange-Rhule, P Oti Boateng, TE Forrester, M Williams, EV Lambert, D Rae, N Sinyanya, A Luke, BT Layden, S O'Keefe, JA Gilbert, LR Dugas_
+
+
+_Humans, Gastrointestinal Microbiome, Adiposity, Ghana, Microbiota, Obesity, Fatty Acids, Volatile, Glucose, Hypertension_
+The relationship between microbiota, short chain fatty acids (SCFAs), and obesity remains enigmatic. We employ amplicon sequencing and targeted metabolomics in a large (n = 1904) African origin cohort from Ghana, South Africa, Jamaica, Seychelles, and the US. Microbiota diversity and fecal SCFAs are greatest in Ghanaians, and lowest in Americans, representing each end of the urbanization spectrum. Obesity is significantly associated with a reduction in SCFA concentration, microbial diversity, and SCFA synthesizing bacteria, with country of origin being the strongest explanatory factor. Diabetes, glucose state, hypertension, obesity, and sex can be accurately predicted from the global microbiota, but when analyzed at the level of country, predictive accuracy is only universally maintained for sex. Diabetes, glucose, and hypertension are only predictive in certain low-income countries. Our findings suggest that adiposity-related microbiota differences differ between low-to-middle-income compared to high-income countries. Further investigation is needed to determine the factors driving this association.
 
 [Source](https://doi.org/10.1038/s41467-023-40874-x)
 
+10.1038/s41467-023-40874-x
+
 ---
 
-## Very early life microbiome and metabolome correlates with primary vaccination variability in children
+## Very early life microbiome and metabolome correlates with primary vaccination variability in children.
+ 23.08.2023, _M Shaffer, K Best, C Tang, X Liang, S Schulz, E Gonzalez, CH White, TP Wyche, J Kang, H Wesseling, BD Topçuoğlu, T Cairns, TR Sana, RM Kaufhold, JM Maritz, CH Woelk, G Swaminathan, JE Norton, ME Pichichero_
+
+
+Despite multiple vaccine doses early in life, a substantial proportion of infants do not mount protective responses. In this study, we followed a cohort of children over the first 2 years of life, collecting microbiome and metabolome data longitudinally to investigate correlates of lower and higher responses to primary vaccinations. We found that the stool and nasopharyngeal microbiome developed with age, though demonstrated divergent timing and patterns in maturation. When measured at child age 2 months, evenness of genera in the stool microbiome correlated with lower vaccine responses, upregulated metabolome genes that encode for lipid A biosynthesis and oxidative phosphorylation correlated with higher vaccine responses, and abundance of phenylpyruvic acid in serum correlated with lower vaccine responses, measured 10 months later. Antibiotic exposure was associated with low vaccine response, and microbiome/metabolome features at child age 2 months, before childhood vaccinations commenced, correlated with variations in vaccine responses measured at child age 1 year. These results indicate that there may be potential to intervene before first childhood vaccinations to improve later protection. IMPORTANCE We show that simultaneous study of stool and nasopharyngeal microbiome reveals divergent timing and patterns of maturation, suggesting that local mucosal factors may influence microbiome composition in the gut and respiratory system. Antibiotic exposure in early life as occurs commonly, may have an adverse effect on vaccine responsiveness. Abundance of gut and/or nasopharyngeal bacteria with the machinery to produce lipopolysaccharide-a toll-like receptor 4 agonist-may positively affect future vaccine protection, potentially by acting as a natural adjuvant. The increased levels of serum phenylpyruvic acid in infants with lower vaccine-induced antibody levels suggest an increased abundance of hydrogen peroxide, leading to more oxidative stress in low vaccine-responding infants.
 
 [Source](https://doi.org/10.1128/msystems.00661-23)
 
+10.1128/msystems.00661-23
+
 ---
 
-## Carbohydrate quality, fecal microbiota and cardiometabolic health in older adults: a cohort study
+## Carbohydrate quality, fecal microbiota and cardiometabolic health in older adults: a cohort study.
+ 28.08.2023, _A Atzeni, SK Nishi, N Babio, C Belzer, P Konstanti, J Vioque, D Corella, O Castañer, J Vidal, I Moreno-Indias, L Torres-Collado, EM Asensio, M Fitó, AM Gomez-Perez, A Arias, M Ruiz-Canela, FB Hu, FJ Tinahones, J Salas-Salvadó_
+
+
+_Aged, Humans, Gastrointestinal Microbiome, Cohort Studies, Microbiota, Bacteroidetes, Cardiovascular Diseases_
+The impact of carbohydrate quality, measured by the carbohydrate quality index (CQI), on gut microbiota and health has been scarcely investigated. The aim of this study was to cross-sectionally and longitudinally explore the relationships between CQI, fecal microbiota, and cardiometabolic risk factors in an elderly Mediterranean population at high cardiovascular risk. At baseline and 1-year, CQI was assessed from food frequency questionnaires data, cardiometabolic risk factors were measured, and fecal microbiota profiled from 16S sequencing. Multivariable-adjusted linear regression models were fitted to assess the associations between tertiles of baseline CQI, fecal microbiota, and cardiometabolic risk factors at baseline, and between tertiles of 1-year change in CQI, 1-year change in fecal microbiota and cardiometabolic risk factors. Cross-sectionally, higher CQI was positively associated with Shannon alpha diversity index, and abundance of genera Faecalibacterium and Christensenellaceae R7 group, and negatively associated with the abundance of Odoribacter, and uncultured Rhodospirillales genera. Some of these genera were associated with higher glycated hemoglobin and lower body mass index. In addition, we observed a positive association between CQI, and some pathways related with the metabolism of butyrate precursors and plants-origin molecules. Longitudinally, 1-year improvement in CQI was associated with a concurrent increase in the abundance of genera Butyrivibrio. Increased abundance of this genera was associated with 1-year improvement in insulin status. These observations suggest that a better quality of carbohydrate intake is associated with improved metabolic health, and this improvement could be modulated by greater alpha diversity and abundance of specific genera linked to beneficial metabolic outcomes.
 
 [Source](https://doi.org/10.1080/19490976.2023.2246185)
+
+10.1080/19490976.2023.2246185
 
 ---
 
@@ -245,45 +265,91 @@ Despite its enormous importance for ecosystem services, factors driving microbia
 
 ---
 
-## Metagenomic profiling pipelines improve taxonomic classification for 16S amplicon sequencing data
+## Metagenomic profiling pipelines improve taxonomic classification for 16S amplicon sequencing data.
+ 28.08.2023, _AR Odom, T Faits, E Castro-Nallar, KA Crandall, WE Johnson_
+
+
+_Humans, Metagenomics, RNA, Ribosomal, 16S, Metagenome, Microbiota, Bone Plates, Cercozoa, Polyarteritis Nodosa_
+Most experiments studying bacterial microbiomes rely on the PCR amplification of all or part of the gene for the 16S rRNA subunit, which serves as a biomarker for identifying and quantifying the various taxa present in a microbiome sample. Several computational methods exist for analyzing 16S amplicon sequencing. However, the most-used bioinformatics tools cannot produce high quality genus-level or species-level taxonomic calls and may underestimate the potential accuracy of these calls. We used 16S sequencing data from mock bacterial communities to evaluate the sensitivity and specificity of several bioinformatics pipelines and genomic reference libraries used for microbiome analyses, concentrating on measuring the accuracy of species-level taxonomic assignments of 16S amplicon reads. We evaluated the tools DADA2, QIIME 2, Mothur, PathoScope 2, and Kraken 2 in conjunction with reference libraries from Greengenes, SILVA, Kraken 2, and RefSeq. Profiling tools were compared using publicly available mock community data from several sources, comprising 136 samples with varied species richness and evenness, several different amplified regions within the 16S rRNA gene, and both DNA spike-ins and cDNA from collections of plated cells. PathoScope 2 and Kraken 2, both tools designed for whole-genome metagenomics, outperformed DADA2, QIIME 2 using the DADA2 plugin, and Mothur, which are theoretically specialized for 16S analyses. Evaluations of reference libraries identified the SILVA and RefSeq/Kraken 2 Standard libraries as superior in accuracy compared to Greengenes. These findings support PathoScope and Kraken 2 as fully capable, competitive options for genus- and species-level 16S amplicon sequencing data analysis, whole genome sequencing, and metagenomics data tools.
 
 [Source](https://doi.org/10.1038/s41598-023-40799-x)
 
+10.1038/s41598-023-40799-x
+
 ---
 
-## Amplicon-Based Microbiome Profiling: From Second- to Third-Generation Sequencing for Higher Taxonomic Resolution
+## Amplicon-Based Microbiome Profiling: From Second- to Third-Generation Sequencing for Higher Taxonomic Resolution.
+ 28.08.2023, _E Notario, G Visci, B Fosso, C Gissi, N Tanaskovic, M Rescigno, M Marzano, G Pesole_
+
+
+_RNA, Ribosomal, 16S, Benchmarking, Computational Biology, Microbiota, Technology_
+The 16S rRNA amplicon-based sequencing approach represents the most common and cost-effective strategy with great potential for microbiome profiling. The use of second-generation sequencing (NGS) technologies has led to protocols based on the amplification of one or a few hypervariable regions, impacting the outcome of the analysis. Nowadays, comparative studies are necessary to assess different amplicon-based approaches, including the full-locus sequencing currently feasible thanks to third-generation sequencing (TGS) technologies. This study compared three different methods to achieve the deepest microbiome taxonomic characterization: (a) the single-region approach, (b) the multiplex approach, covering several regions of the target gene/region, both based on NGS short reads, and (c) the full-length approach, which analyzes the whole length of the target gene thanks to TGS long reads. Analyses carried out on benchmark microbiome samples, with a known taxonomic composition, highlighted a different classification performance, strongly associated with the type of hypervariable regions and the coverage of the target gene. Indeed, the full-length approach showed the greatest discriminating power, up to species level, also on complex real samples. This study supports the transition from NGS to TGS for the study of the microbiome, even if experimental and bioinformatic improvements are still necessary.
 
 [Source](https://doi.org/10.3390/genes14081567)
 
+10.3390/genes14081567
+
 ---
 
-## A flexible quasi-likelihood model for microbiome abundance count data
+## A flexible quasi-likelihood model for microbiome abundance count data.
+ 22.08.2023, _Y Shi, H Li, C Wang, J Chen, H Jiang, YT Shih, H Zhang, Y Song, Y Feng, L Liu_
+
+
+In this article, we present a flexible model for microbiome count data. We consider a quasi-likelihood framework, in which we do not make any assumptions on the distribution of the microbiome count except that its variance is an unknown but smooth function of the mean. By comparing our model to the negative binomial generalized linear model (GLM) and Poisson GLM in simulation studies, we show that our flexible quasi-likelihood method yields valid inferential results. Using a real microbiome study, we demonstrate the utility of our method by examining the relationship between adenomas and microbiota. We also provide an R package "fql" for the application of our method.
 
 [Source](https://doi.org/10.1002/sim.9880)
 
+10.1002/sim.9880
+
 ---
 
-## Identification of multivariable Boolean patterns in microbiome and microbial gene composition data
+## Identification of multivariable Boolean patterns in microbiome and microbial gene composition data.
+ 24.08.2023, _G Golovko, K Khanipov, V Reyes, I Pinchuk, Y Fofanov_
+
+
+Virtually every biological system is governed by complex relations among its components. Identifying such relations requires a rigorous or heuristics-based search for patterns among variables/features of a system. Various algorithms have been developed to identify two-dimensional (involving two variables) patterns employing correlation, covariation, mutual information, etc. It seems obvious, however, that comprehensive descriptions of complex biological systems need also to include more complicated multivariable relations, which can only be described using patterns that simultaneously embrace 3, 4, and more variables. The goal of this manuscript is to (a) introduce a novel type of associations (multivariable Boolean patterns) that can be manifested between features of complex systems but cannot be identified (described) by traditional pair-vise metrics; (b) propose patterns classification method, and (c) provide a novel definition of the pattern's strength (pattern's score) able to accommodate heterogeneous multi-omics data. To demonstrate the presence of such patterns, we performed a search for all possible 2-, 3-, and 4-dimensional patterns in historical data from the Human Microbiome Project (15 body sites) and collection of H. pylori genomes associated with gastric ulcers, gastritis, and duodenal ulcers. In all datasets under consideration, we were able to identify hundreds of statistically significant multivariable patterns. These results suggest that such patterns can be common in microbial genomics/microbiomics systems.
 
 [Source](https://doi.org/10.1016/j.biosystems.2023.105007)
 
+10.1016/j.biosystems.2023.105007
+
 ---
 
-## Machine learning classification by fitting amplicon sequences to existing OTUs
+## Machine learning classification by fitting amplicon sequences to existing OTUs.
+ 24.08.2023, _CR Armour, KL Sovacool, WL Close, BD Topçuoğlu, J Wiens, PD Schloss_
+
+
+The ability to use 16S rRNA gene sequence data to train machine learning classification models offers the opportunity to diagnose patients based on the composition of their microbiome. In some applications, the taxonomic resolution that provides the best models may require the use of de novo operational taxonomic units (OTUs) whose composition changes when new data are added. We previously developed a new reference-based approach, OptiFit, that fits new sequence data to existing de novo OTUs without changing the composition of the original OTUs. While OptiFit produces OTUs that are as high quality as de novo OTUs, it is unclear whether this method for fitting new sequence data into existing OTUs will impact the performance of classification models relative to models trained and tested only using de novo OTUs. We used OptiFit to cluster sequences into existing OTUs and evaluated model performance in classifying a dataset containing samples from patients with and without colonic screen relevant neoplasia (SRN). We compared the performance of this model to standard methods including de novo and database-reference-based clustering. We found that using OptiFit performed as well or better in classifying SRNs. OptiFit can streamline the process of classifying new samples by avoiding the need to retrain models using reclustered sequences. IMPORTANCE There is great potential for using microbiome data to aid in diagnosis. A challenge with de novo operational taxonomic unit (OTU)-based classification models is that 16S rRNA gene sequences are often assigned to OTUs based on similarity to other sequences in the dataset. If data are generated from new patients, the old and new sequences must be reclustered to OTUs and the classification model retrained. Yet there is a desire to have a single, validated model that can be widely deployed. To overcome this obstacle, we applied the OptiFit clustering algorithm to fit new sequence data to existing OTUs allowing for reuse of the model. A random forest model implemented using OptiFit performed as well as the traditional reassign and retrain approach. This result shows that it is possible to train and apply machine learning models based on OTU relative abundance data that do not require retraining or the use of a reference database.
 
 [Source](https://doi.org/10.1128/msphere.00336-23)
 
+10.1128/msphere.00336-23
+
 ---
 
-## Statistical normalization methods in microbiome data with application to microbiome cancer research
+## Statistical normalization methods in microbiome data with application to microbiome cancer research.
+ 28.08.2023, _Y Xia_
+
+
+_RNA, Ribosomal, 16S, Gastrointestinal Microbiome, Microbiota, Metagenome, Research Design, Neoplasms_
+Mounting evidence has shown that gut microbiome is associated with various cancers, including gastrointestinal (GI) tract and non-GI tract cancers. But microbiome data have unique characteristics and pose major challenges when using standard statistical methods causing results to be invalid or misleading. Thus, to analyze microbiome data, it not only needs appropriate statistical methods, but also requires microbiome data to be normalized prior to statistical analysis. Here, we first describe the unique characteristics of microbiome data and the challenges in analyzing them (Section 2). Then, we provide an overall review on the available normalization methods of 16S rRNA and shotgun metagenomic data along with examples of their applications in microbiome cancer research (Section 3). In Section 4, we comprehensively investigate how the normalization methods of 16S rRNA and shotgun metagenomic data are evaluated. Finally, we summarize and conclude with remarks on statistical normalization methods (Section 5). Altogether, this review aims to provide a broad and comprehensive view and remarks on the promises and challenges of the statistical normalization methods in microbiome data with microbiome cancer research examples.
 
 [Source](https://doi.org/10.1080/19490976.2023.2244139)
 
+10.1080/19490976.2023.2244139
+
 ---
 
-## Elucidating the role of microbes in celiac disease through gnotobiotic modeling
+## Elucidating the role of microbes in celiac disease through gnotobiotic modeling.
+ 28.08.2023, _A Caminero, EF Verdu, HJ Galipeau_
+
+
+_Humans, Animals, Mice, Celiac Disease, Glutens, Gastrointestinal Microbiome_
+Celiac disease (CeD) is a common immune-mediated disease triggered by the ingestion of gluten in genetically predisposed individuals. CeD is unique in that the trigger (gluten), necessary genes (HLA-DQ2 and DQ8), and the autoantigen (tissue transglutaminase) have been identified, allowing additional environmental co-factors, like the intestinal microbiota, to be studied through relevant in vivo models. Murine models for CeD have come a long way in the past decade and there are now in vitro and in vivo tools available that mimic certain aspects of clinical disease. These models, many of which express the CeD risk genes, have recently been used to study the mechanisms through which the microbiota play a role in CeD pathogenesis through a gnotobiotic approach. Historically, the generation of gnotobiology technology in mid-20th century allowed for the study of immunity and physiology under a complete absence of microbes (axenic) or known colonized status (gnotobiotic). This enabled understanding of mechanisms by which certain bacteria contribute to health and disease. With this perspective, here, we will discuss the various murine models currently being used to study CeD. We will then describe how utilizing axenic and gnotobiotic CeD models has increased our understanding of how microbes influence relevant steps of CeD pathogenesis, and explain key methodology involved in axenic and gnotobiotic modeling.
 
 [Source](https://doi.org/10.1016/bs.mcb.2023.01.017)
+
+10.1016/bs.mcb.2023.01.017
 
 ---
 
