@@ -48,67 +48,33 @@ Background. Local recurrence and distant metastasis are the main causes of death
 
 ---
 
-## Gut microbiota and fecal short chain fatty acids differ with adiposity and country of origin: the METS-microbiome study.
- 29.08.2023, _G Ecklu-Mensah, C Choo-Kang, MG Maseng, S Donato, P Bovet, B Viswanathan, K Bedu-Addo, J Plange-Rhule, P Oti Boateng, TE Forrester, M Williams, EV Lambert, D Rae, N Sinyanya, A Luke, BT Layden, S O'Keefe, JA Gilbert, LR Dugas_
-
-
-_Humans, Gastrointestinal Microbiome, Adiposity, Ghana, Microbiota, Obesity, Fatty Acids, Volatile, Glucose, Hypertension_
-The relationship between microbiota, short chain fatty acids (SCFAs), and obesity remains enigmatic. We employ amplicon sequencing and targeted metabolomics in a large (n = 1904) African origin cohort from Ghana, South Africa, Jamaica, Seychelles, and the US. Microbiota diversity and fecal SCFAs are greatest in Ghanaians, and lowest in Americans, representing each end of the urbanization spectrum. Obesity is significantly associated with a reduction in SCFA concentration, microbial diversity, and SCFA synthesizing bacteria, with country of origin being the strongest explanatory factor. Diabetes, glucose state, hypertension, obesity, and sex can be accurately predicted from the global microbiota, but when analyzed at the level of country, predictive accuracy is only universally maintained for sex. Diabetes, glucose, and hypertension are only predictive in certain low-income countries. Our findings suggest that adiposity-related microbiota differences differ between low-to-middle-income compared to high-income countries. Further investigation is needed to determine the factors driving this association.
+## Gut microbiota and fecal short chain fatty acids differ with adiposity and country of origin: the METS-microbiome study
 
 [Source](https://doi.org/10.1038/s41467-023-40874-x)
 
-10.1038/s41467-023-40874-x
-
 ---
 
-## Very early life microbiome and metabolome correlates with primary vaccination variability in children.
- 23.08.2023, _M Shaffer, K Best, C Tang, X Liang, S Schulz, E Gonzalez, CH White, TP Wyche, J Kang, H Wesseling, BD Topçuoğlu, T Cairns, TR Sana, RM Kaufhold, JM Maritz, CH Woelk, G Swaminathan, JE Norton, ME Pichichero_
-
-
-Despite multiple vaccine doses early in life, a substantial proportion of infants do not mount protective responses. In this study, we followed a cohort of children over the first 2 years of life, collecting microbiome and metabolome data longitudinally to investigate correlates of lower and higher responses to primary vaccinations. We found that the stool and nasopharyngeal microbiome developed with age, though demonstrated divergent timing and patterns in maturation. When measured at child age 2 months, evenness of genera in the stool microbiome correlated with lower vaccine responses, upregulated metabolome genes that encode for lipid A biosynthesis and oxidative phosphorylation correlated with higher vaccine responses, and abundance of phenylpyruvic acid in serum correlated with lower vaccine responses, measured 10 months later. Antibiotic exposure was associated with low vaccine response, and microbiome/metabolome features at child age 2 months, before childhood vaccinations commenced, correlated with variations in vaccine responses measured at child age 1 year. These results indicate that there may be potential to intervene before first childhood vaccinations to improve later protection. IMPORTANCE We show that simultaneous study of stool and nasopharyngeal microbiome reveals divergent timing and patterns of maturation, suggesting that local mucosal factors may influence microbiome composition in the gut and respiratory system. Antibiotic exposure in early life as occurs commonly, may have an adverse effect on vaccine responsiveness. Abundance of gut and/or nasopharyngeal bacteria with the machinery to produce lipopolysaccharide-a toll-like receptor 4 agonist-may positively affect future vaccine protection, potentially by acting as a natural adjuvant. The increased levels of serum phenylpyruvic acid in infants with lower vaccine-induced antibody levels suggest an increased abundance of hydrogen peroxide, leading to more oxidative stress in low vaccine-responding infants.
+## Very early life microbiome and metabolome correlates with primary vaccination variability in children
 
 [Source](https://doi.org/10.1128/msystems.00661-23)
 
-10.1128/msystems.00661-23
-
 ---
 
-## Carbohydrate quality, fecal microbiota and cardiometabolic health in older adults: a cohort study.
- 28.08.2023, _A Atzeni, SK Nishi, N Babio, C Belzer, P Konstanti, J Vioque, D Corella, O Castañer, J Vidal, I Moreno-Indias, L Torres-Collado, EM Asensio, M Fitó, AM Gomez-Perez, A Arias, M Ruiz-Canela, FB Hu, FJ Tinahones, J Salas-Salvadó_
-
-
-_Aged, Humans, Gastrointestinal Microbiome, Cohort Studies, Microbiota, Bacteroidetes, Cardiovascular Diseases_
-The impact of carbohydrate quality, measured by the carbohydrate quality index (CQI), on gut microbiota and health has been scarcely investigated. The aim of this study was to cross-sectionally and longitudinally explore the relationships between CQI, fecal microbiota, and cardiometabolic risk factors in an elderly Mediterranean population at high cardiovascular risk. At baseline and 1-year, CQI was assessed from food frequency questionnaires data, cardiometabolic risk factors were measured, and fecal microbiota profiled from 16S sequencing. Multivariable-adjusted linear regression models were fitted to assess the associations between tertiles of baseline CQI, fecal microbiota, and cardiometabolic risk factors at baseline, and between tertiles of 1-year change in CQI, 1-year change in fecal microbiota and cardiometabolic risk factors. Cross-sectionally, higher CQI was positively associated with Shannon alpha diversity index, and abundance of genera Faecalibacterium and Christensenellaceae R7 group, and negatively associated with the abundance of Odoribacter, and uncultured Rhodospirillales genera. Some of these genera were associated with higher glycated hemoglobin and lower body mass index. In addition, we observed a positive association between CQI, and some pathways related with the metabolism of butyrate precursors and plants-origin molecules. Longitudinally, 1-year improvement in CQI was associated with a concurrent increase in the abundance of genera Butyrivibrio. Increased abundance of this genera was associated with 1-year improvement in insulin status. These observations suggest that a better quality of carbohydrate intake is associated with improved metabolic health, and this improvement could be modulated by greater alpha diversity and abundance of specific genera linked to beneficial metabolic outcomes.
+## Carbohydrate quality, fecal microbiota and cardiometabolic health in older adults: a cohort study
 
 [Source](https://doi.org/10.1080/19490976.2023.2246185)
 
-10.1080/19490976.2023.2246185
-
 ---
 
-## Multi-omics analysis revealing the interplay between gut microbiome and the host following opioid use.
- 28.08.2023, _U Kolli, R Jalodia, S Moidunny, PK Singh, Y Ban, J Tao, GN Cantu, E Valdes, S Ramakrishnan, S Roy_
-
-
-_Animals, Mice, Gastrointestinal Microbiome, Analgesics, Opioid, Dysbiosis, Multiomics, Opioid-Related Disorders, Riboflavin, Morphine Derivatives, Lipids_
-Opioid crisis is an ongoing epidemic since the past several decades in the United States. Opioid use-associated microbial dysbiosis is emerging as a key regulator of intestinal homeostasis and behavioral responses to opioid. However, the mechanistic insight into the role of microbial community in modulating host response is unavailable. To uncover the role of opioid-induced dysbiosis in disrupting intestinal homeostasis we utilized whole genome sequencing, untargeted metabolomics, and mRNA sequencing to identify changes in microbiome, metabolome, and host transcriptome respectively. Morphine treatment resulted in significant expansion of Parasuterella excrementihominis, Burkholderiales bacterium 1_1_47, Enterococcus faecalis, Enterorhabdus caecimuris and depletion of Lactobacillus johnsonii. These changes correlated with alterations in lipid metabolites and flavonoids. Significant alteration in microbial metabolism (metabolism of lipids, amino acids, vitamins and cofactors) and increased expression of virulence factors and biosynthesis of lipopolysaccharides (LPS) and lipoteichoic acid (LTA) were observed in microbiome of morphine-treated animals. In concurrence with changes in microbiome and metabolome extensive changes in innate and adaptive immune response, lipid metabolism, and gut barrier dysfunction were observed in the host transcriptome. Microbiome depleted mice displayed lower levels of inflammation, immune response and tissue destruction compared to mice harboring a dysbiotic microbiome in response to morphine treatment, thus establishing dysbiotic microbiome as mediator of morphine gut pathophysiology. Integrative analysis of multi-omics data highlighted the associations between Parasutterella excrementihominis, Burkholderiales bacterium 1_1_47, Enterococcus faecalis, Enterorhabdus caecimuris and altered levels of riboflavin, flavonoids, and lipid metabolites including phosphocholines, carnitines, bile acids, and ethanolamines with host gene expression changes involved in inflammation and barrier integrity of intestine. Omic analysis also highlighted the role of probiotic bacteria Lactobacillus johnsonii, metabolites flavonoids and riboflavin that were depleted with morphine as important factors for intestinal homeostasis. This study presents for the first time ever an interactive view of morphine-induced changes in microbial metabolism, strain level gut microbiome analysis and comprehensive view of changes in gut transcriptome. We also identified areas of potential therapeutic interventions to limit microbial dysbiosis and present a unique resource to the opioid research community.
+## Multi-omics analysis revealing the interplay between gut microbiome and the host following opioid use
 
 [Source](https://doi.org/10.1080/19490976.2023.2246184)
 
-10.1080/19490976.2023.2246184
-
 ---
 
-## The gut microbiota reprograms intestinal lipid metabolism through long noncoding RNA Snhg9.
- 28.08.2023, _Y Wang, M Wang, J Chen, Y Li, Z Kuang, C Dende, P Raj, G Quinn, Z Hu, T Srinivasan, B Hassell, KA Ruhn, CL Behrendt, T Liang, X Dou, Z Song, LV Hooper_
-
-
-_Animals, Mice, Gastrointestinal Microbiome, Immunity, Innate, Lipid Metabolism, Lymphocytes, PPAR gamma, RNA, Long Noncoding, Sirtuin 1, Cell Cycle Proteins, Apoptosis Regulatory Proteins, Myeloid Cells, Intestines, Adipose Tissue, Humans_
-The intestinal microbiota regulates mammalian lipid absorption, metabolism, and storage. We report that the microbiota reprograms intestinal lipid metabolism in mice by repressing the expression of long noncoding RNA (lncRNA) Snhg9 (small nucleolar RNA host gene 9) in small intestinal epithelial cells. Snhg9 suppressed the activity of peroxisome proliferator-activated receptor γ (PPARγ)-a central regulator of lipid metabolism-by dissociating the PPARγ inhibitor sirtuin 1 from cell cycle and apoptosis protein 2 (CCAR2). Forced expression of Snhg9 in the intestinal epithelium of conventional mice impaired lipid absorption, reduced body fat, and protected against diet-induced obesity. The microbiota repressed Snhg9 expression through an immune relay encompassing myeloid cells and group 3 innate lymphoid cells. Our findings thus identify an unanticipated role for a lncRNA in microbial control of host metabolism.
+## The gut microbiota reprograms intestinal lipid metabolism through long noncoding RNA Snhg9
 
 [Source](https://doi.org/10.1126/science.ade0522)
-
-10.1126/science.ade0522
 
 ---
 
@@ -118,15 +84,9 @@ The intestinal microbiota regulates mammalian lipid absorption, metabolism, and 
 
 ---
 
-## Targeting nonalcoholic fatty liver disease via gut microbiome-centered therapies.
- 25.08.2023, _M Koning, H Herrema, M Nieuwdorp, AS Meijnikman_
-
-
-Humans possess abundant amounts of microorganisms, including bacteria, fungi, viruses, and archaea, in their gut. Patients with nonalcoholic fatty liver disease (NAFLD) exhibit alterations in their gut microbiome and an impaired gut barrier function. Preclinical studies emphasize the significance of the gut microbiome in the pathogenesis of NAFLD. In this overview, we explore how adjusting the gut microbiome could serve as an innovative therapeutic strategy for NAFLD. We provide a summary of current information on untargeted techniques such as probiotics and fecal microbiota transplantation, as well as targeted microbiome-focused therapies including engineered bacteria, prebiotics, postbiotics, and phages for the treatment of NAFLD.
+## Targeting nonalcoholic fatty liver disease via gut microbiome-centered therapies
 
 [Source](https://doi.org/10.1080/19490976.2023.2226922)
-
-10.1080/19490976.2023.2226922
 
 ---
 
@@ -136,14 +96,9 @@ Humans possess abundant amounts of microorganisms, including bacteria, fungi, vi
 
 ---
 
-## Characteristics of gut microbiota determine effects of specific probiotics strains in patients with functional constipation.
- 25.08.2023, _H Zhang, L Sun, Z Zhao, Y Zhou, Y Liu, N Zhang, J Yan, S Wang, R Li, J Zhang, X Wang, W Li, Y Pan, M Wang, B Luo, M Li, Z Sun, Y Zhao, Y Nie_
-
-
+## Characteristics of gut microbiota determine effects of specific probiotics strains in patients with functional constipation
 
 [Source](https://doi.org/10.1097/CM9.0000000000002826)
-
-10.1097/CM9.0000000000002826
 
 ---
 
@@ -153,16 +108,9 @@ Humans possess abundant amounts of microorganisms, including bacteria, fungi, vi
 
 ---
 
-## Role of mucin glycosylation in the gut microbiota-brain axis of core 3 O-glycan deficient mice.
- 29.08.2023, _E Coletto, GM Savva, D Latousakis, M Pontifex, EH Crost, L Vaux, A Telatin, K Bergstrom, D Vauzour, N Juge_
-
-
-_Animals, Mice, Mucins, Brain-Gut Axis, Glycosylation, Gastrointestinal Microbiome, Brain, Polysaccharides_
-Alterations in intestinal mucin glycosylation have been associated with increased intestinal permeability and sensitivity to inflammation and infection. Here, we used mice lacking core 3-derived O-glycans (C3GnT-/-) to investigate the effect of impaired mucin glycosylation in the gut-brain axis. C3GnT-/- mice showed altered microbial metabolites in the caecum associated with brain function such as dimethylglycine and N-acetyl-L-tyrosine profiles as compared to C3GnT+/+ littermates. In the brain, polysialylated-neural cell adhesion molecule (PSA-NCAM)-positive granule cells showed an aberrant phenotype in the dentate gyrus of C3GnT-/- mice. This was accompanied by a trend towards decreased expression levels of PSA as well as ZO-1 and occludin as compared to C3GnT+/+. Behavioural studies showed a decrease in the recognition memory of C3GnT-/- mice as compared to C3GnT+/+ mice. Combined, these results support the role of mucin O-glycosylation in the gut in potentially influencing brain function which may be facilitated by the passage of microbial metabolites through an impaired gut barrier.
+## Role of mucin glycosylation in the gut microbiota-brain axis of core 3 O-glycan deficient mice
 
 [Source](https://doi.org/10.1038/s41598-023-40497-8)
-
-10.1038/s41598-023-40497-8
 
 ---
 
@@ -191,9 +139,15 @@ As microbiome research has progressed, it has become clear that most, if not all
 
 ---
 
-## Microbiome dataset of bacterial and fungal communities in anthosphere of twelve different wild plants in South Korea
+## Microbiome dataset of bacterial and fungal communities in anthosphere of twelve different wild plants in South Korea.
+ 24.08.2023, _J Kim, Y Cui, H Lee, SJ Chun_
+
+
+This dataset provides detailed profiles of bacterial and fungal communities associated with flowers (anthosphere) of 12 different plant species collected from remote and secluded locations characterized by a flourishing and diverse plant ecosystem. In total, 144 flower samples were collected from 12 different wild plants. Bacterial 16S rRNA and fungal ITS genes obtained using the Illumina Miseq approach were used to describe the anthosphere. Metadata and raw sequences obtained in this study are available from the National Center for Biotechnology Information (BioProject ID: PRJNA983070). Amplicon Sequence Variants (ASVs) of bacteria and fungi were analyzed using the DADA2 pipeline. After quality filtering, trimming, and removing the chimeric sequences, 2076 bacterial and 2152 fungal ASVs were identified in the anthosphere. Burkholderiales and Enterobacterales in bacteria, and Pleosporales in fungi were the predominant groups in the anthosphere regardless of the plant species. Among the twelve different plant species, Forsythia koreana exhibited the highest abundance of both bacterial and fungal groups. This dataset represents a detailed exploration of the anthosphere in the most abundant and commonly observed plant species in South Korea, and provides new insights into the microbial communities and interactions of the anthosphere.
 
 [Source](https://doi.org/10.1016/j.dib.2023.109470)
+
+10.1016/j.dib.2023.109470
 
 ---
 
@@ -259,53 +213,27 @@ Despite its enormous importance for ecosystem services, factors driving microbia
 
 ---
 
-## Metagenomic profiling pipelines improve taxonomic classification for 16S amplicon sequencing data.
- 29.08.2023, _AR Odom, T Faits, E Castro-Nallar, KA Crandall, WE Johnson_
-
-
-_Humans, Metagenomics, RNA, Ribosomal, 16S, Metagenome, Microbiota, Bone Plates, Cercozoa, Polyarteritis Nodosa_
-Most experiments studying bacterial microbiomes rely on the PCR amplification of all or part of the gene for the 16S rRNA subunit, which serves as a biomarker for identifying and quantifying the various taxa present in a microbiome sample. Several computational methods exist for analyzing 16S amplicon sequencing. However, the most-used bioinformatics tools cannot produce high quality genus-level or species-level taxonomic calls and may underestimate the potential accuracy of these calls. We used 16S sequencing data from mock bacterial communities to evaluate the sensitivity and specificity of several bioinformatics pipelines and genomic reference libraries used for microbiome analyses, concentrating on measuring the accuracy of species-level taxonomic assignments of 16S amplicon reads. We evaluated the tools DADA2, QIIME 2, Mothur, PathoScope 2, and Kraken 2 in conjunction with reference libraries from Greengenes, SILVA, Kraken 2, and RefSeq. Profiling tools were compared using publicly available mock community data from several sources, comprising 136 samples with varied species richness and evenness, several different amplified regions within the 16S rRNA gene, and both DNA spike-ins and cDNA from collections of plated cells. PathoScope 2 and Kraken 2, both tools designed for whole-genome metagenomics, outperformed DADA2, QIIME 2 using the DADA2 plugin, and Mothur, which are theoretically specialized for 16S analyses. Evaluations of reference libraries identified the SILVA and RefSeq/Kraken 2 Standard libraries as superior in accuracy compared to Greengenes. These findings support PathoScope and Kraken 2 as fully capable, competitive options for genus- and species-level 16S amplicon sequencing data analysis, whole genome sequencing, and metagenomics data tools.
+## Metagenomic profiling pipelines improve taxonomic classification for 16S amplicon sequencing data
 
 [Source](https://doi.org/10.1038/s41598-023-40799-x)
 
-10.1038/s41598-023-40799-x
-
 ---
 
-## Amplicon-Based Microbiome Profiling: From Second- to Third-Generation Sequencing for Higher Taxonomic Resolution.
- 29.08.2023, _E Notario, G Visci, B Fosso, C Gissi, N Tanaskovic, M Rescigno, M Marzano, G Pesole_
-
-
-_RNA, Ribosomal, 16S, Benchmarking, Computational Biology, Microbiota, Technology_
-The 16S rRNA amplicon-based sequencing approach represents the most common and cost-effective strategy with great potential for microbiome profiling. The use of second-generation sequencing (NGS) technologies has led to protocols based on the amplification of one or a few hypervariable regions, impacting the outcome of the analysis. Nowadays, comparative studies are necessary to assess different amplicon-based approaches, including the full-locus sequencing currently feasible thanks to third-generation sequencing (TGS) technologies. This study compared three different methods to achieve the deepest microbiome taxonomic characterization: (a) the single-region approach, (b) the multiplex approach, covering several regions of the target gene/region, both based on NGS short reads, and (c) the full-length approach, which analyzes the whole length of the target gene thanks to TGS long reads. Analyses carried out on benchmark microbiome samples, with a known taxonomic composition, highlighted a different classification performance, strongly associated with the type of hypervariable regions and the coverage of the target gene. Indeed, the full-length approach showed the greatest discriminating power, up to species level, also on complex real samples. This study supports the transition from NGS to TGS for the study of the microbiome, even if experimental and bioinformatic improvements are still necessary.
+## Amplicon-Based Microbiome Profiling: From Second- to Third-Generation Sequencing for Higher Taxonomic Resolution
 
 [Source](https://doi.org/10.3390/genes14081567)
 
-10.3390/genes14081567
-
 ---
 
-## A flexible quasi-likelihood model for microbiome abundance count data.
- 29.08.2023, _Y Shi, H Li, C Wang, J Chen, H Jiang, YT Shih, H Zhang, Y Song, Y Feng, L Liu_
-
-
-In this article, we present a flexible model for microbiome count data. We consider a quasi-likelihood framework, in which we do not make any assumptions on the distribution of the microbiome count except that its variance is an unknown but smooth function of the mean. By comparing our model to the negative binomial generalized linear model (GLM) and Poisson GLM in simulation studies, we show that our flexible quasi-likelihood method yields valid inferential results. Using a real microbiome study, we demonstrate the utility of our method by examining the relationship between adenomas and microbiota. We also provide an R package "fql" for the application of our method.
+## A flexible quasi-likelihood model for microbiome abundance count data
 
 [Source](https://doi.org/10.1002/sim.9880)
 
-10.1002/sim.9880
-
 ---
 
-## Identification of multivariable Boolean patterns in microbiome and microbial gene composition data.
- 24.08.2023, _G Golovko, K Khanipov, V Reyes, I Pinchuk, Y Fofanov_
-
-
-Virtually every biological system is governed by complex relations among its components. Identifying such relations requires a rigorous or heuristics-based search for patterns among variables/features of a system. Various algorithms have been developed to identify two-dimensional (involving two variables) patterns employing correlation, covariation, mutual information, etc. It seems obvious, however, that comprehensive descriptions of complex biological systems need also to include more complicated multivariable relations, which can only be described using patterns that simultaneously embrace 3, 4, and more variables. The goal of this manuscript is to (a) introduce a novel type of associations (multivariable Boolean patterns) that can be manifested between features of complex systems but cannot be identified (described) by traditional pair-vise metrics; (b) propose patterns classification method, and (c) provide a novel definition of the pattern's strength (pattern's score) able to accommodate heterogeneous multi-omics data. To demonstrate the presence of such patterns, we performed a search for all possible 2-, 3-, and 4-dimensional patterns in historical data from the Human Microbiome Project (15 body sites) and collection of H. pylori genomes associated with gastric ulcers, gastritis, and duodenal ulcers. In all datasets under consideration, we were able to identify hundreds of statistically significant multivariable patterns. These results suggest that such patterns can be common in microbial genomics/microbiomics systems.
+## Identification of multivariable Boolean patterns in microbiome and microbial gene composition data
 
 [Source](https://doi.org/10.1016/j.biosystems.2023.105007)
-
-10.1016/j.biosystems.2023.105007
 
 ---
 
