@@ -191,15 +191,9 @@ As microbiome research has progressed, it has become clear that most, if not all
 
 ---
 
-## Microbiome dataset of bacterial and fungal communities in anthosphere of twelve different wild plants in South Korea.
- 24.08.2023, _J Kim, Y Cui, H Lee, SJ Chun_
-
-
-This dataset provides detailed profiles of bacterial and fungal communities associated with flowers (anthosphere) of 12 different plant species collected from remote and secluded locations characterized by a flourishing and diverse plant ecosystem. In total, 144 flower samples were collected from 12 different wild plants. Bacterial 16S rRNA and fungal ITS genes obtained using the Illumina Miseq approach were used to describe the anthosphere. Metadata and raw sequences obtained in this study are available from the National Center for Biotechnology Information (BioProject ID: PRJNA983070). Amplicon Sequence Variants (ASVs) of bacteria and fungi were analyzed using the DADA2 pipeline. After quality filtering, trimming, and removing the chimeric sequences, 2076 bacterial and 2152 fungal ASVs were identified in the anthosphere. Burkholderiales and Enterobacterales in bacteria, and Pleosporales in fungi were the predominant groups in the anthosphere regardless of the plant species. Among the twelve different plant species, Forsythia koreana exhibited the highest abundance of both bacterial and fungal groups. This dataset represents a detailed exploration of the anthosphere in the most abundant and commonly observed plant species in South Korea, and provides new insights into the microbial communities and interactions of the anthosphere.
+## Microbiome dataset of bacterial and fungal communities in anthosphere of twelve different wild plants in South Korea
 
 [Source](https://doi.org/10.1016/j.dib.2023.109470)
-
-10.1016/j.dib.2023.109470
 
 ---
 
@@ -265,9 +259,16 @@ Despite its enormous importance for ecosystem services, factors driving microbia
 
 ---
 
-## Metagenomic profiling pipelines improve taxonomic classification for 16S amplicon sequencing data
+## Metagenomic profiling pipelines improve taxonomic classification for 16S amplicon sequencing data.
+ 29.08.2023, _AR Odom, T Faits, E Castro-Nallar, KA Crandall, WE Johnson_
+
+
+_Humans, Metagenomics, RNA, Ribosomal, 16S, Metagenome, Microbiota, Bone Plates, Cercozoa, Polyarteritis Nodosa_
+Most experiments studying bacterial microbiomes rely on the PCR amplification of all or part of the gene for the 16S rRNA subunit, which serves as a biomarker for identifying and quantifying the various taxa present in a microbiome sample. Several computational methods exist for analyzing 16S amplicon sequencing. However, the most-used bioinformatics tools cannot produce high quality genus-level or species-level taxonomic calls and may underestimate the potential accuracy of these calls. We used 16S sequencing data from mock bacterial communities to evaluate the sensitivity and specificity of several bioinformatics pipelines and genomic reference libraries used for microbiome analyses, concentrating on measuring the accuracy of species-level taxonomic assignments of 16S amplicon reads. We evaluated the tools DADA2, QIIME 2, Mothur, PathoScope 2, and Kraken 2 in conjunction with reference libraries from Greengenes, SILVA, Kraken 2, and RefSeq. Profiling tools were compared using publicly available mock community data from several sources, comprising 136 samples with varied species richness and evenness, several different amplified regions within the 16S rRNA gene, and both DNA spike-ins and cDNA from collections of plated cells. PathoScope 2 and Kraken 2, both tools designed for whole-genome metagenomics, outperformed DADA2, QIIME 2 using the DADA2 plugin, and Mothur, which are theoretically specialized for 16S analyses. Evaluations of reference libraries identified the SILVA and RefSeq/Kraken 2 Standard libraries as superior in accuracy compared to Greengenes. These findings support PathoScope and Kraken 2 as fully capable, competitive options for genus- and species-level 16S amplicon sequencing data analysis, whole genome sequencing, and metagenomics data tools.
 
 [Source](https://doi.org/10.1038/s41598-023-40799-x)
+
+10.1038/s41598-023-40799-x
 
 ---
 
