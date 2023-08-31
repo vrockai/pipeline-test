@@ -49,7 +49,7 @@ Background. Local recurrence and distant metastasis are the main causes of death
 ---
 
 ## Gut microbiota and fecal short chain fatty acids differ with adiposity and country of origin: the METS-microbiome study.
- 29.08.2023, _G Ecklu-Mensah, C Choo-Kang, MG Maseng, S Donato, P Bovet, B Viswanathan, K Bedu-Addo, J Plange-Rhule, P Oti Boateng, TE Forrester, M Williams, EV Lambert, D Rae, N Sinyanya, A Luke, BT Layden, S O'Keefe, JA Gilbert, LR Dugas_
+ 31.08.2023, _G Ecklu-Mensah, C Choo-Kang, MG Maseng, S Donato, P Bovet, B Viswanathan, K Bedu-Addo, J Plange-Rhule, P Oti Boateng, TE Forrester, M Williams, EV Lambert, D Rae, N Sinyanya, A Luke, BT Layden, S O'Keefe, JA Gilbert, LR Dugas_
 
 
 _Humans, Gastrointestinal Microbiome, Adiposity, Ghana, Microbiota, Obesity, Fatty Acids, Volatile, Glucose, Hypertension_
@@ -179,7 +179,7 @@ Alterations in intestinal mucin glycosylation have been associated with increase
 ---
 
 ## The endohyphal microbiome: current progress and challenges for scaling down integrative multi-omic microbiome research.
- 30.08.2023, _JM Kelliher, AJ Robinson, R Longley, LYD Johnson, BT Hanson, DP Morales, G Cailleau, P Junier, G Bonito, PSG Chain_
+ 31.08.2023, _JM Kelliher, AJ Robinson, R Longley, LYD Johnson, BT Hanson, DP Morales, G Cailleau, P Junier, G Bonito, PSG Chain_
 
 
 _Multiomics, Data Analysis, Eukaryota, Microbiota, Prokaryotic Cells_
@@ -204,7 +204,7 @@ This dataset provides detailed profiles of bacterial and fungal communities asso
 ---
 
 ## Anthropogenic activities mediate stratification and stability of microbial communities in freshwater sediments.
- 30.08.2023, _X Zhou, JT Lennon, X Lu, A Ruan_
+ 31.08.2023, _X Zhou, JT Lennon, X Lu, A Ruan_
 
 
 _Humans, Anthropogenic Effects, Ecosystem, Lakes, China, Earth, Planet_
