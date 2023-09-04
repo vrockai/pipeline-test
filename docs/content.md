@@ -101,15 +101,15 @@ CGD is caused by defects in any of the 6 subunits forming the nicotinamide adeni
 
 ---
 
-## The role of Neurochemicals, Stress Hormones and Immune System in the Positive Feedback Loops between Diabetes, Obesity and Depression.
- 04.09.2023, _JB Wilson, M Epstein, B Lopez, AK Brown, K Lutfy, TC Friedman_
+## Large depth differences between target and flankers can increase crowding: Evidence from a multi-depth plane display.
+ 04.09.2023, _SP Smithers, Y Shao, J Altham, PJ Bex_
 
 
-Type 2 diabetes mellitus (T2DM) and depression are significant public health and socioeconomic issues. They commonly co-occur, with T2DM occurring in 11.3% of the US population, while depression has a prevalence of about 9%, with higher rates among youths. Approximately 31% of patients with T2DM suffer from depressive symptoms, with 11.4% having major depressive disorders, which is twice as high as the prevalence of depression in patients without T2DM. Additionally, over 80% of people with T2DM are overweight or obese. This review describes how T2DM and depression can enhance one another, using the same molecular pathways, by synergistically altering the brain's structure and function and reducing the reward obtained from eating. In this article, we reviewed the evidence that eating, especially high-caloric foods, stimulates the limbic system, initiating Reward Deficiency Syndrome. Analogous to other addictive behaviors, neurochemical changes in those with depression and/or T2DM are thought to cause individuals to increase their food intake to obtain the same reward leading to binge eating, weight gain and obesity. Treating the symptoms of T2DM, such as lowering HbA1c, without addressing the underlying pathways has little chance of eliminating the disease. Targeting the immune system, stress circuit, melatonin, and other alterations may be more effective.
+Crowding occurs when the presence of nearby features causes highly visible objects to become unrecognizable. Although crowding has implications for many everyday tasks and the tremendous amounts of research reflect its importance, surprisingly little is known about how depth affects crowding. Most available studies show that stereoscopic disparity reduces crowding, indicating that crowding may be relatively unimportant in three-dimensional environments. However, most previous studies tested only small stereoscopic differences in depth in which disparity, defocus blur, and accommodation are inconsistent with the real world. Using a novel multi-depth plane display, this study investigated how large (0.54-2.25 diopters), real differences in target-flanker depth, representative of those experienced between many objects in the real world, affect crowding. Our findings show that large differences in target-flanker depth increased crowding in the majority of observers, contrary to previous work showing reduced crowding in the presence of small depth differences. Furthermore, when the target was at fixation depth, crowding was generally more pronounced when the flankers were behind the target as opposed to in front of it. However, when the flankers were at fixation depth, crowding was generally more pronounced when the target was behind the flankers. These findings suggest that crowding from clutter outside the limits of binocular fusion can still have a significant impact on object recognition and visual perception in the peripheral field.
 
 [Source](https://doi.org/10.1007/s11274-023-03742-w)
 
-10.3389/fendo.2023.1224612
+10.7554/eLife.85143
 
 ---
 
