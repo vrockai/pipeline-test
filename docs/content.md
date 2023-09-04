@@ -71,9 +71,10 @@ The current study aimed to test the hypothesis that Parkinson's disease exacerba
 ---
 
 ## Human milk oligosaccharides modulate the intestinal microbiome of healthy adults.
- 03.09.2023, _JP Jacobs, ML Lee, DJ Rechtman, AK Sun, C Autran, V Niklas_
+ 04.09.2023, _JP Jacobs, ML Lee, DJ Rechtman, AK Sun, C Autran, V Niklas_
 
 
+_Female, Infant, Newborn, Humans, Adult, Milk, Human, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Microbiota, Oligosaccharides_
 Human milk contains over 200 distinct oligosaccharides, which are critical to shaping the developing neonatal gut microbiome. To investigate whether a complex mixture of human milk oligosaccharides (HMOs) would similarly modulate the adult gut microbiome, HMO-Concentrate derived from pooled donor breast milk was administered orally to 32 healthy adults for 7 days followed by 21 days of monitoring. Fecal samples were collected for 16S rRNA gene sequencing, shotgun metagenomics, and metabolomics analyses. HMO-Concentrate induced dose-dependent Bifidobacterium expansion, reduced microbial diversity, and altered microbial gene content. Following HMO cessation, a microbial succession occurred with diverse taxonomic changes-including Bacteroides expansion-that persisted through day 28. This was associated with altered microbial gene content, shifts in serum metabolite levels, and increased circulating TGFβ and IL-10. Incubation of cultured adult microbiota with HMO-Concentrate induced dose-dependent compositional shifts that were not recapitulated by individual HMOs or defined mixtures of the 10 most abundant HMOs in HMO-Concentrate at their measured concentrations. These findings support that pooled donor HMOs can exert direct effects on adult gut microbiota and that complex mixtures including low abundance HMOs present in donor milk may be required for maximum effect.Registration: ClinicalTrials.gov NCT05516225.
 
 [Source](https://doi.org/10.1038/s41598-023-41040-5)
@@ -100,15 +101,15 @@ CGD is caused by defects in any of the 6 subunits forming the nicotinamide adeni
 
 ---
 
-## Trauma-related and risk factors associated with perceived exacerbation in psychological distress due to the Russo-Ukrainian war.
- 03.09.2023, _Y Palgi, L Greenblatt-Kimron, M Ben-Ezra, A Shrira_
+## The role of Neurochemicals, Stress Hormones and Immune System in the Positive Feedback Loops between Diabetes, Obesity and Depression.
+ 04.09.2023, _JB Wilson, M Epstein, B Lopez, AK Brown, K Lutfy, TC Friedman_
 
 
-This study examined trauma-related and other potential risk factors associated with perceived exacerbation in psychological distress among Israelis due to the Russo-Ukrainian War. Specifically, we assessed how vulnerability factors such as previous traumatic exposure, having relatives and friends affected by the war, media exposure, having a Holocaust familial background, lower levels of resilience, and probable posttraumatic stress disorder (PTSD) and complex PTSD (CPTSD) are associated with perceived exacerbation in psychological distress. A random sample of 845 Israeli Jews aged 18-75 who reported exposure to at least one traumatic event participated in the study. Univariate logistic regression showed that Holocaust familial background, previous exposure to trauma, media exposure to the Russo-Ukrainian War, and probable diagnosis of PTSD or CPTSD are the main factors associated with perceived exacerbation in psychological distress. These results suggest that various traumatic factors associate with perceived higher psychological vulnerability to international conflicts, even when there is no direct personal threat. Practitioners should be aware of these factors among individuals exposed to trauma.
+Type 2 diabetes mellitus (T2DM) and depression are significant public health and socioeconomic issues. They commonly co-occur, with T2DM occurring in 11.3% of the US population, while depression has a prevalence of about 9%, with higher rates among youths. Approximately 31% of patients with T2DM suffer from depressive symptoms, with 11.4% having major depressive disorders, which is twice as high as the prevalence of depression in patients without T2DM. Additionally, over 80% of people with T2DM are overweight or obese. This review describes how T2DM and depression can enhance one another, using the same molecular pathways, by synergistically altering the brain's structure and function and reducing the reward obtained from eating. In this article, we reviewed the evidence that eating, especially high-caloric foods, stimulates the limbic system, initiating Reward Deficiency Syndrome. Analogous to other addictive behaviors, neurochemical changes in those with depression and/or T2DM are thought to cause individuals to increase their food intake to obtain the same reward leading to binge eating, weight gain and obesity. Treating the symptoms of T2DM, such as lowering HbA1c, without addressing the underlying pathways has little chance of eliminating the disease. Targeting the immune system, stress circuit, melatonin, and other alterations may be more effective.
 
 [Source](https://doi.org/10.1007/s11274-023-03742-w)
 
-10.1016/j.psychres.2023.115451
+10.3389/fendo.2023.1224612
 
 ---
 
@@ -150,9 +151,10 @@ Oral mucositis (OM) is recognized as one of the most frequent debilitating seque
 ---
 
 ## Microbiomes and metabolomes of dominant coral reef primary producers illustrate a potential role for immunolipids in marine symbioses.
- 03.09.2023, _H Mannochio-Russo, SOI Swift, KK Nakayama, CB Wall, EC Gentry, M Panitchpakdi, AM Caraballo-Rodriguez, AT Aron, D Petras, K Dorrestein, TK Dorrestein, TM Williams, EM Nalley, NT Altman-Kurosaki, M Martinelli, JY Kuwabara, JL Darcy, VS Bolzani, L Wegley Kelly, C Mora, JY Yew, AS Amend, M McFall-Ngai, NA Hynson, PC Dorrestein, CE Nelson_
+ 04.09.2023, _H Mannochio-Russo, SOI Swift, KK Nakayama, CB Wall, EC Gentry, M Panitchpakdi, AM Caraballo-Rodriguez, AT Aron, D Petras, K Dorrestein, TK Dorrestein, TM Williams, EM Nalley, NT Altman-Kurosaki, M Martinelli, JY Kuwabara, JL Darcy, VS Bolzani, L Wegley Kelly, C Mora, JY Yew, AS Amend, M McFall-Ngai, NA Hynson, PC Dorrestein, CE Nelson_
 
 
+_Animals, Coral Reefs, Symbiosis, Metabolome, Anthozoa, Microbiota, Seaweed_
 The dominant benthic primary producers in coral reef ecosystems are complex holobionts with diverse microbiomes and metabolomes. In this study, we characterize the tissue metabolomes and microbiomes of corals, macroalgae, and crustose coralline algae via an intensive, replicated synoptic survey of a single coral reef system (Waimea Bay, O'ahu, Hawaii) and use these results to define associations between microbial taxa and metabolites specific to different hosts. Our results quantify and constrain the degree of host specificity of tissue metabolomes and microbiomes at both phylum and genus level. Both microbiome and metabolomes were distinct between calcifiers (corals and CCA) and erect macroalgae. Moreover, our multi-omics investigations highlight common lipid-based immune response pathways across host organisms. In addition, we observed strong covariation among several specific microbial taxa and metabolite classes, suggesting new metabolic roles of symbiosis to further explore.
 
 [Source](https://doi.org/10.1038/s42003-023-05230-1)
