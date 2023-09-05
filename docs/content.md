@@ -101,15 +101,15 @@ CGD is caused by defects in any of the 6 subunits forming the nicotinamide adeni
 
 ---
 
-## Large depth differences between target and flankers can increase crowding: Evidence from a multi-depth plane display.
- 04.09.2023, _SP Smithers, Y Shao, J Altham, PJ Bex_
+## Dynamics and moderating factors of esport participation and loneliness: A daily diary study.
+ 04.09.2023, _Y Luo, DM Smith, M Moosbrugger, TJ France, K Wang, Y Cheng, Y Sha, D Wang, S Si_
 
 
-Crowding occurs when the presence of nearby features causes highly visible objects to become unrecognizable. Although crowding has implications for many everyday tasks and the tremendous amounts of research reflect its importance, surprisingly little is known about how depth affects crowding. Most available studies show that stereoscopic disparity reduces crowding, indicating that crowding may be relatively unimportant in three-dimensional environments. However, most previous studies tested only small stereoscopic differences in depth in which disparity, defocus blur, and accommodation are inconsistent with the real world. Using a novel multi-depth plane display, this study investigated how large (0.54-2.25 diopters), real differences in target-flanker depth, representative of those experienced between many objects in the real world, affect crowding. Our findings show that large differences in target-flanker depth increased crowding in the majority of observers, contrary to previous work showing reduced crowding in the presence of small depth differences. Furthermore, when the target was at fixation depth, crowding was generally more pronounced when the flankers were behind the target as opposed to in front of it. However, when the flankers were at fixation depth, crowding was generally more pronounced when the target was behind the flankers. These findings suggest that crowding from clutter outside the limits of binocular fusion can still have a significant impact on object recognition and visual perception in the peripheral field.
+The purpose of this study was to examine the association between esport participation and loneliness, as well as its moderating factors. Chinese college students (N = 216) self-reported their esport playing time and degree of loneliness each day immediately before bedtime for four consecutive weeks. The findings revealed that as playing time increased, students did not experience reduced sense of loneliness during playing esport, but they experienced a temporary and intensified feeling of loneliness the same day following gameplay. Students with higher general loneliness tended to feel more after-game loneliness associated with increased esport participation. Students with higher obsessive passion about esport tended to experience more loneliness (both in-game and after-game) associated with increased esport participation. Students with greater coping motivation about esport tended to experience more in-game loneliness associated with previous increased esport participation. Students who played esport less often with friends in person, or with more escape motivation toward esport, tended to increase esport participation time more following previous increased after-game loneliness. The findings suggested that college students should avoid utilizing esport to achieve a sense of belonging and should be cautious of the loneliness-inducing effect after gameplay. A healthy level of loneliness can be maintained by playing esport more with friends in person, learning strategies to avoid obsessive passion, coping motivation, and escape motivation towards esport.
 
 [Source](https://doi.org/10.1007/s11274-023-03742-w)
 
-10.7554/eLife.85143
+10.1016/j.psychsport.2023.102384
 
 ---
 
