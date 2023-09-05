@@ -101,15 +101,15 @@ CGD is caused by defects in any of the 6 subunits forming the nicotinamide adeni
 
 ---
 
-## Friendships in Emerging Adulthood: The Role of Parental and Friendship Attachment Representations and Intimacy.
- 05.09.2023, _MG Oldeman, AHN Cillessen, YHM van den Berg_
+## Wilms' tumor gene 1 in hematological malignancies: friend or foe?
+ 05.09.2023, _J Wu, H Yan, C Xiang_
 
 
-The current studies addressed the associations between attachment representations with parents and a single best friend, intimacy behaviors (self-disclosure and support-seeking), and friendship quality in emerging adulthood, using the actor-partner interdependence mediation model (APIMeM). Study 1 (N = 186 dyads) examined whether attachment to parents predicted friendship quality, and whether this was mediated by attachment to their best friend. More avoidance or anxiety with parents predicted lower friendship quality, which was mediated by avoidance or anxiety with their best friend. Study 2 (N = 118 dyads) examined whether self-disclosure and support-seeking mediated the link between attachment with best friend and friendship quality. Anxiety with their best friend predicted lower friendship quality, which was mediated by support-seeking. Anxiety predicted less self-disclosure and support-seeking. We found no effects of avoidance. No partner effects were found in both studies. The findings are discussed in terms of adult attachment theory.
+Wilms' tumor gene 1 (WT1) is a transcription and post-translational factor that has a crucial role in the biological and pathological processes of several human malignancies. For hematological malignancies, WT1 overexpression or mutation has been found in leukemia and myelodysplastic syndrome. About 70-90% of acute myeloid leukemia patients showed WT1 overexpression, and 6-15% of patients carried WT1 mutations. WT1 has been widely regarded as a marker for monitoring minimal residual disease in acute myeloid leukemia. Many researchers were interested in developing WT1 targeting therapy. In this review, we summarized biological and pathological functions, correlation with other genes and clinical features, prognosis value and targeting therapy of WT1 in hematological features.
 
 [Source](https://doi.org/10.1007/s11274-023-03742-w)
 
-10.1177/01461672231195339
+10.1080/16078454.2023.2254557
 
 ---
 
@@ -254,7 +254,7 @@ Microbiome sequencing data normalization is crucial for eliminating technical bi
 ---
 
 ## Analyzing microbial evolution through gene and genome phylogenies.
- 03.09.2023, _S Teichman, MD Lee, AD Willis_
+ 05.09.2023, _S Teichman, MD Lee, AD Willis_
 
 
 Microbiome scientists critically need modern tools to explore and analyze microbial evolution. Often this involves studying the evolution of microbial genomes as a whole. However, different genes in a single genome can be subject to different evolutionary pressures, which can result in distinct gene-level evolutionary histories. To address this challenge, we propose to treat estimated gene-level phylogenies as data objects, and present an interactive method for the analysis of a collection of gene phylogenies. We use a local linear approximation of phylogenetic tree space to visualize estimated gene trees as points in low-dimensional Euclidean space, and address important practical limitations of existing related approaches, allowing an intuitive visualization of complex data objects. We demonstrate the utility of our proposed approach through microbial data analyses, including by identifying outlying gene histories in strains of Prevotella , and by contrasting Streptococcus phylogenies estimated using different gene sets. Our method is available as an open-source R package, and assists with estimating, visualizing and interacting with a collection of bacterial gene phylogenies. dimension reduction, microbiome, non-Euclidean, statistical genetics, visualization.
