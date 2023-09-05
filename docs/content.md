@@ -101,15 +101,15 @@ CGD is caused by defects in any of the 6 subunits forming the nicotinamide adeni
 
 ---
 
-## Sulfide in engineered methanogenic systems - Friend or foe?
- 04.09.2023, _SS Yekta, BH Svensson, U Skyllberg, A Schnürer_
+## Friendships in Emerging Adulthood: The Role of Parental and Friendship Attachment Representations and Intimacy.
+ 05.09.2023, _MG Oldeman, AHN Cillessen, YHM van den Berg_
 
 
-Sulfide ions are regarded to be toxic to microorganisms in engineered methanogenic systems (EMS), where organic substances are anaerobically converted to products such as methane, hydrogen, alcohols, and carboxylic acids. A vast body of research has addressed solutions to mitigate process disturbances associated with high sulfide levels, yet the established paradigm has drawn the attention away from the multifaceted sulfide interactions with minerals, organics, microbial interfaces and their implications for performance of EMS. This brief review brings forward sulfide-derived pathways other than toxicity and with potential significance for anaerobic organic matter degradation. Available evidence on sulfide reactions with organic matter, interventions with key microbial metabolisms, and interspecies electron transfer are critically synthesized as a guidance for comprehending the sulfide effects on EMS apart from the microbial toxicity. The outcomes identify existing knowledge gaps and specify future research needs as a step forward towards realizing the potential of sulfide-derived mechanisms in diversifying and optimizing EMS applications.
+The current studies addressed the associations between attachment representations with parents and a single best friend, intimacy behaviors (self-disclosure and support-seeking), and friendship quality in emerging adulthood, using the actor-partner interdependence mediation model (APIMeM). Study 1 (N = 186 dyads) examined whether attachment to parents predicted friendship quality, and whether this was mediated by attachment to their best friend. More avoidance or anxiety with parents predicted lower friendship quality, which was mediated by avoidance or anxiety with their best friend. Study 2 (N = 118 dyads) examined whether self-disclosure and support-seeking mediated the link between attachment with best friend and friendship quality. Anxiety with their best friend predicted lower friendship quality, which was mediated by support-seeking. Anxiety predicted less self-disclosure and support-seeking. We found no effects of avoidance. No partner effects were found in both studies. The findings are discussed in terms of adult attachment theory.
 
 [Source](https://doi.org/10.1007/s11274-023-03742-w)
 
-10.1016/j.biotechadv.2023.108249
+10.1177/01461672231195339
 
 ---
 
