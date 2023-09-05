@@ -101,15 +101,15 @@ CGD is caused by defects in any of the 6 subunits forming the nicotinamide adeni
 
 ---
 
-## Dynamics and moderating factors of esport participation and loneliness: A daily diary study.
- 04.09.2023, _Y Luo, DM Smith, M Moosbrugger, TJ France, K Wang, Y Cheng, Y Sha, D Wang, S Si_
+## Sulfide in engineered methanogenic systems - Friend or foe?
+ 04.09.2023, _SS Yekta, BH Svensson, U Skyllberg, A Schnürer_
 
 
-The purpose of this study was to examine the association between esport participation and loneliness, as well as its moderating factors. Chinese college students (N = 216) self-reported their esport playing time and degree of loneliness each day immediately before bedtime for four consecutive weeks. The findings revealed that as playing time increased, students did not experience reduced sense of loneliness during playing esport, but they experienced a temporary and intensified feeling of loneliness the same day following gameplay. Students with higher general loneliness tended to feel more after-game loneliness associated with increased esport participation. Students with higher obsessive passion about esport tended to experience more loneliness (both in-game and after-game) associated with increased esport participation. Students with greater coping motivation about esport tended to experience more in-game loneliness associated with previous increased esport participation. Students who played esport less often with friends in person, or with more escape motivation toward esport, tended to increase esport participation time more following previous increased after-game loneliness. The findings suggested that college students should avoid utilizing esport to achieve a sense of belonging and should be cautious of the loneliness-inducing effect after gameplay. A healthy level of loneliness can be maintained by playing esport more with friends in person, learning strategies to avoid obsessive passion, coping motivation, and escape motivation towards esport.
+Sulfide ions are regarded to be toxic to microorganisms in engineered methanogenic systems (EMS), where organic substances are anaerobically converted to products such as methane, hydrogen, alcohols, and carboxylic acids. A vast body of research has addressed solutions to mitigate process disturbances associated with high sulfide levels, yet the established paradigm has drawn the attention away from the multifaceted sulfide interactions with minerals, organics, microbial interfaces and their implications for performance of EMS. This brief review brings forward sulfide-derived pathways other than toxicity and with potential significance for anaerobic organic matter degradation. Available evidence on sulfide reactions with organic matter, interventions with key microbial metabolisms, and interspecies electron transfer are critically synthesized as a guidance for comprehending the sulfide effects on EMS apart from the microbial toxicity. The outcomes identify existing knowledge gaps and specify future research needs as a step forward towards realizing the potential of sulfide-derived mechanisms in diversifying and optimizing EMS applications.
 
 [Source](https://doi.org/10.1007/s11274-023-03742-w)
 
-10.1016/j.psychsport.2023.102384
+10.1016/j.biotechadv.2023.108249
 
 ---
 
