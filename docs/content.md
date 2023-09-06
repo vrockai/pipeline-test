@@ -151,7 +151,7 @@ Oral mucositis (OM) is recognized as one of the most frequent debilitating seque
 ---
 
 ## Microbiomes and metabolomes of dominant coral reef primary producers illustrate a potential role for immunolipids in marine symbioses.
- 04.09.2023, _H Mannochio-Russo, SOI Swift, KK Nakayama, CB Wall, EC Gentry, M Panitchpakdi, AM Caraballo-Rodriguez, AT Aron, D Petras, K Dorrestein, TK Dorrestein, TM Williams, EM Nalley, NT Altman-Kurosaki, M Martinelli, JY Kuwabara, JL Darcy, VS Bolzani, L Wegley Kelly, C Mora, JY Yew, AS Amend, M McFall-Ngai, NA Hynson, PC Dorrestein, CE Nelson_
+ 05.09.2023, _H Mannochio-Russo, SOI Swift, KK Nakayama, CB Wall, EC Gentry, M Panitchpakdi, AM Caraballo-Rodriguez, AT Aron, D Petras, K Dorrestein, TK Dorrestein, TM Williams, EM Nalley, NT Altman-Kurosaki, M Martinelli, JY Kuwabara, JL Darcy, VS Bolzani, L Wegley Kelly, C Mora, JY Yew, AS Amend, M McFall-Ngai, NA Hynson, PC Dorrestein, CE Nelson_
 
 
 _Animals, Coral Reefs, Symbiosis, Metabolome, Anthozoa, Microbiota, Seaweed_
