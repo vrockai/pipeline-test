@@ -101,15 +101,15 @@ CGD is caused by defects in any of the 6 subunits forming the nicotinamide adeni
 
 ---
 
-## Wilms' tumor gene 1 in hematological malignancies: friend or foe?
- 05.09.2023, _J Wu, H Yan, C Xiang_
+## Factors Associated With Alcohol Consumption Among Thai People by Gender: Results From the Smoking and Drinking Behavior Survey 2014.
+ 05.09.2023, _S Sitthisongkram, S Prakobchai, N Rajchawang_
 
 
-Wilms' tumor gene 1 (WT1) is a transcription and post-translational factor that has a crucial role in the biological and pathological processes of several human malignancies. For hematological malignancies, WT1 overexpression or mutation has been found in leukemia and myelodysplastic syndrome. About 70-90% of acute myeloid leukemia patients showed WT1 overexpression, and 6-15% of patients carried WT1 mutations. WT1 has been widely regarded as a marker for monitoring minimal residual disease in acute myeloid leukemia. Many researchers were interested in developing WT1 targeting therapy. In this review, we summarized biological and pathological functions, correlation with other genes and clinical features, prognosis value and targeting therapy of WT1 in hematological features.
+The aim of this study was to examine the factors associated with alcohol consumption among Thai people by gender using the social determinants of health theoretical framework.
 
 [Source](https://doi.org/10.1007/s11274-023-03742-w)
 
-10.1080/16078454.2023.2254557
+10.1097/JAN.0000000000000532
 
 ---
 
