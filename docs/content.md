@@ -101,15 +101,15 @@ CGD is caused by defects in any of the 6 subunits forming the nicotinamide adeni
 
 ---
 
-## Barriers to Participation in Cardiac Rehabilitation Among Patients with Coronary Heart Disease After Reperfusion Therapy: A Scoping Review.
- 06.09.2023, _F Sugiharto, A Nuraeni, Y Trisyani, A Melati Putri, N Aghnia Armansyah_
+## Acceptability and Feasibility of a Socially Enhanced, Self-Guided, Positive Emotion Regulation Intervention for Caregivers of Individuals With Dementia: Pilot Intervention Study.
+ 06.09.2023, _I Kwok, EG Lattie, D Yang, A Summers, V Grote, P Cotten, JT Moskowitz_
 
 
-Patients with coronary heart disease (CHD) experience many barriers to participate in cardiac rehabilitation (CR) programs. Several studies identify barriers that can affect participation in CR among patients with CHD after reperfusion therapy. However, there has yet to be a review specifically in this population. This review aims to identify the literature systematically that analyzes the barriers that affect the participation of CHD patients after reperfusion therapy in implementing the CR program. This study used the Preferred Reporting Item for PRISMA Extension for Scoping Reviews (PRISMA-ScR) with databases PubMed, ScienceDirect, EBSCO-hosted Academic Search Complete, Scopus, Taylor &amp; Francis, and Sage Journals. The keywords used in English were "coronary artery disease OR myocardial infarction OR cardiovascular disease OR heart disease" AND "Barrier OR obstacle", AND "percutaneous coronary intervention OR PCI OR angioplasty OR coronary artery bypass graft surgery OR CABG" AND "cardiac rehabilitation OR rehabilitation OR recovery". The inclusion criteria in this review were full-text articles in English, articles with a descriptive, cross-sectional, and cohort design with a minimum of 100 participants that discussed barriers to participation in patients with CHD after undergoing reperfusion therapy, and the CR phases such as I, II, III, and IV have also been identified. Based on the initial search, there are 23 relevant studies out of 7400. The results of this study reported that most of the participants from the studies analyzed had a low level of participation in CR (≤50%). We classify the factors that affect the level of CR participation into five categories: individual factors, health history, environmental, logistical, and health system. The most reported barriers in each category were age, comorbidities, lack of support from friends, family and health workers, distance or travel time, and cost and economic status. Professional health workers, especially nurses, can identify various barriers that patients feel so that they can increase their participation in attending CR.
+The responsibilities of being a primary caregiver for a loved one with dementia can produce significant stress for the caregiver, leading to deleterious outcomes for the caregiver's physical and psychological health. Hence, researchers are developing eHealth interventions to provide support for caregivers. Members of our research team previously developed and tested a positive emotion regulation intervention that we delivered through videoconferencing, in which caregiver participants would meet one-on-one with a trained facilitator. Although proven effective, such delivery methods have limited scalability because they require significant resources in terms of cost and direct contact hours.
 
 [Source](https://doi.org/10.1007/s11274-023-03742-w)
 
-10.2147/VHRM.S425505
+10.2196/46269
 
 ---
 
