@@ -71,10 +71,10 @@ The current study aimed to test the hypothesis that Parkinson's disease exacerba
 ---
 
 ## Human milk oligosaccharides modulate the intestinal microbiome of healthy adults.
- 04.09.2023, _JP Jacobs, ML Lee, DJ Rechtman, AK Sun, C Autran, V Niklas_
+ 06.09.2023, _JP Jacobs, ML Lee, DJ Rechtman, AK Sun, C Autran, V Niklas_
 
 
-_Female, Infant, Newborn, Humans, Adult, Milk, Human, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Microbiota, Oligosaccharides_
+_Adult, Female, Humans, Infant, Newborn, Gastrointestinal Microbiome, Milk, Human, Oligosaccharides, RNA, Ribosomal, 16S_
 Human milk contains over 200 distinct oligosaccharides, which are critical to shaping the developing neonatal gut microbiome. To investigate whether a complex mixture of human milk oligosaccharides (HMOs) would similarly modulate the adult gut microbiome, HMO-Concentrate derived from pooled donor breast milk was administered orally to 32 healthy adults for 7 days followed by 21 days of monitoring. Fecal samples were collected for 16S rRNA gene sequencing, shotgun metagenomics, and metabolomics analyses. HMO-Concentrate induced dose-dependent Bifidobacterium expansion, reduced microbial diversity, and altered microbial gene content. Following HMO cessation, a microbial succession occurred with diverse taxonomic changes-including Bacteroides expansion-that persisted through day 28. This was associated with altered microbial gene content, shifts in serum metabolite levels, and increased circulating TGFβ and IL-10. Incubation of cultured adult microbiota with HMO-Concentrate induced dose-dependent compositional shifts that were not recapitulated by individual HMOs or defined mixtures of the 10 most abundant HMOs in HMO-Concentrate at their measured concentrations. These findings support that pooled donor HMOs can exert direct effects on adult gut microbiota and that complex mixtures including low abundance HMOs present in donor milk may be required for maximum effect.Registration: ClinicalTrials.gov NCT05516225.
 
 [Source](https://doi.org/10.1038/s41598-023-41040-5)
@@ -101,15 +101,15 @@ CGD is caused by defects in any of the 6 subunits forming the nicotinamide adeni
 
 ---
 
-## Acceptability and Feasibility of a Socially Enhanced, Self-Guided, Positive Emotion Regulation Intervention for Caregivers of Individuals With Dementia: Pilot Intervention Study.
- 06.09.2023, _I Kwok, EG Lattie, D Yang, A Summers, V Grote, P Cotten, JT Moskowitz_
+## Psychometric Properties of the Functional Assessment of Cancer Therapy-General for Evaluating Quality of Life in Patients With Life-Limiting Illness in the Emergency Department.
+ 06.09.2023, _M Yusufov, O Adeyemi, M Flannery, JB Bouillon-Minois, K Van Allen, AM Cuthel, KS Goldfeld, K Ouchi, CR Grudzen_
 
 
-The responsibilities of being a primary caregiver for a loved one with dementia can produce significant stress for the caregiver, leading to deleterious outcomes for the caregiver's physical and psychological health. Hence, researchers are developing eHealth interventions to provide support for caregivers. Members of our research team previously developed and tested a positive emotion regulation intervention that we delivered through videoconferencing, in which caregiver participants would meet one-on-one with a trained facilitator. Although proven effective, such delivery methods have limited scalability because they require significant resources in terms of cost and direct contact hours.
+Background: The Functional Assessment of Cancer Therapy-General (FACT-G) is a widely used quality-of-life measure. However, no studies have examined the FACT-G among patients with life-limiting illnesses who present to emergency departments (EDs). Objective: The goal of this study was to examine the psychometric properties of the FACT-G among patients with life-limiting illnesses who present to EDs in the United States. Methods: This cross-sectional study pooled data from 12 EDs between April 2018 and January 2020 (n = 453). Patients enrolled in the study were adults with one or more of the four life-limiting illnesses: advanced cancer, Congestive Heart Failure, Chronic Obstructive Pulmonary Disease, or End-Stage Renal Disease. We conducted item, exploratory, and confirmatory analyses (exploratory factor analysis [EFA] and confirmatory factor analysis [CFA]) to determine the psychometric properties of the FACT-G. Results: The FACT-G had good internal consistency (Cronbach's alpha α = 0.88). The simplest EFA model was a six-factor structure. The CFA supported the six-factor structure, evidenced by the adequate fit indices (comparative fit index = 0.93, Tucker-Lewis index = 0.92, root-mean-square error of approximation = 0.05; 90% confidence interval: 0.04 - 0.06). The six-factor structure comprised the physical, emotional, work and daily activities-related functional well-being, and the family and friends-related social well-being domains. Conclusions: The FACT-G is a reliable measure of health-related quality of life among patients with life-limiting illnesses who present to the ED. Clinical Trial Registration: NCT03325985.
 
 [Source](https://doi.org/10.1007/s11274-023-03742-w)
 
-10.2196/46269
+10.1089/jpm.2022.0270
 
 ---
 
