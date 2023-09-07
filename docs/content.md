@@ -101,15 +101,15 @@ CGD is caused by defects in any of the 6 subunits forming the nicotinamide adeni
 
 ---
 
-## Psychometric Properties of the Functional Assessment of Cancer Therapy-General for Evaluating Quality of Life in Patients With Life-Limiting Illness in the Emergency Department.
- 06.09.2023, _M Yusufov, O Adeyemi, M Flannery, JB Bouillon-Minois, K Van Allen, AM Cuthel, KS Goldfeld, K Ouchi, CR Grudzen_
+## Crossover of surface waves and capillary-viscous-elastic transition in soft biomaterials detected by resonant acoustic rheometry.
+ 06.09.2023, _EC Hobson, W Li, NN Friend, AJ Putnam, JP Stegemann, CX Deng_
 
 
-Background: The Functional Assessment of Cancer Therapy-General (FACT-G) is a widely used quality-of-life measure. However, no studies have examined the FACT-G among patients with life-limiting illnesses who present to emergency departments (EDs). Objective: The goal of this study was to examine the psychometric properties of the FACT-G among patients with life-limiting illnesses who present to EDs in the United States. Methods: This cross-sectional study pooled data from 12 EDs between April 2018 and January 2020 (n = 453). Patients enrolled in the study were adults with one or more of the four life-limiting illnesses: advanced cancer, Congestive Heart Failure, Chronic Obstructive Pulmonary Disease, or End-Stage Renal Disease. We conducted item, exploratory, and confirmatory analyses (exploratory factor analysis [EFA] and confirmatory factor analysis [CFA]) to determine the psychometric properties of the FACT-G. Results: The FACT-G had good internal consistency (Cronbach's alpha α = 0.88). The simplest EFA model was a six-factor structure. The CFA supported the six-factor structure, evidenced by the adequate fit indices (comparative fit index = 0.93, Tucker-Lewis index = 0.92, root-mean-square error of approximation = 0.05; 90% confidence interval: 0.04 - 0.06). The six-factor structure comprised the physical, emotional, work and daily activities-related functional well-being, and the family and friends-related social well-being domains. Conclusions: The FACT-G is a reliable measure of health-related quality of life among patients with life-limiting illnesses who present to the ED. Clinical Trial Registration: NCT03325985.
+Viscoelastic properties of hydrogels are important for their application in science and industry. However, rheological assessment of soft hydrogel biomaterials is challenging due to their complex, rapid, and often time-dependent behaviors. Resonant acoustic rheometry (RAR) is a newly developed technique capable of inducing and measuring resonant surface waves in samples in a non-contact fashion. By applying RAR at high temporal resolution during thrombin-induced fibrin gelation and ultraviolet-initiated polyethylene glycol (PEG) polymerization, we observed distinct changes in both frequency and amplitude of the resonant surface waves as the materials changed over time. RAR detected a series of capillary-elastic, capillary-viscous, and visco-elastic transitions that are uniquely manifested as crossover of different types of surface waves in the temporally evolving materials. These results reveal the dynamic interplay of surface tension, viscosity, and elasticity that is controlled by the kinetics of polymerization and crosslinking during hydrogel formation. RAR overcomes many limitations of conventional rheological approaches by offering a new way to comprehensively and longitudinally characterize soft materials during dynamic processes.
 
 [Source](https://doi.org/10.1007/s11274-023-03742-w)
 
-10.1089/jpm.2022.0270
+10.1016/j.biomaterials.2023.122282
 
 ---
 
