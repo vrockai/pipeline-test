@@ -11,7 +11,7 @@ Insulin resistance is the primary pathophysiology underlying metabolic syndrome 
 ---
 
 ## Gut Microbiome in Patients With Early-Stage and Late-Stage Melanoma.
- 02.09.2023, _RG Witt, SH Cass, T Tran, A Damania, EE Nelson, E Sirmans, EM Burton, M Chelvanambi, S Johnson, HA Tawbi, JE Gershenwald, MA Davies, C Spencer, A Mishra, MC Wong, NJ Ajami, CB Peterson, CR Daniel, JA Wargo, JL McQuade, KC Nelson_
+ 07.09.2023, _RG Witt, SH Cass, T Tran, A Damania, EE Nelson, E Sirmans, EM Burton, M Chelvanambi, S Johnson, HA Tawbi, JE Gershenwald, MA Davies, C Spencer, A Mishra, MC Wong, NJ Ajami, CB Peterson, CR Daniel, JA Wargo, JL McQuade, KC Nelson_
 
 
 The gut microbiome modulates the immune system and responses to immunotherapy in patients with late-stage melanoma. It is unknown whether fecal microbiota profiles differ between healthy individuals and patients with melanoma or if microbiota profiles differ among patients with different stages of melanoma. Defining gut microbiota profiles in individuals without melanoma and those with early-stage and late-stage melanoma may reveal features associated with disease progression.
@@ -101,15 +101,15 @@ CGD is caused by defects in any of the 6 subunits forming the nicotinamide adeni
 
 ---
 
-## COVID-19 Vaccine Acceptance Among Healthcare Students in Vietnam, Based on Health Belief Model.
- 07.09.2023, _DT Tieu Mai, PT Thuy_
+## Patient information leaflet in the era of digitalisation: a cross-sectional study on patients' attitudes and practices.
+ 07.09.2023, _M Almanasef_
 
 
-Healthcare students have a high risk of acquiring COVID-19 while practicing in medical facilities, and their health-related decisions might considerably impact the people around them. In the circumstance of many people refusing vaccination, the delay in accepting the COVID-19 vaccine by this group could be a barrier to providing effective immunity to the entire population against the COVID-19 pandemic.
+Patient information leaflets (PILs) are documents that are standardized in nature and provide guidance for patients or caregivers on the safe and effective use of medicines. Previous evidence suggests that written information is linked to enhancing the amount of information remembered. Currently, patients have become more involved in digital searches for information. However, there is variability in the quality and reliability of information obtained from the web. According to Saudi Food and Drug Authority regulations, pharmaceutical manufacturers are required to supplement each pharmaceutical product entering the Saudi market with a digital leaflet in addition to a paper leaflet. This research aimed to evaluate patients' attitudes and practices towards PILs.
 
 [Source](https://doi.org/10.1007/s11274-023-03742-w)
 
-10.1177/23779608231196662
+10.1007/s11845-023-03515-2
 
 ---
 
