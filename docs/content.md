@@ -101,15 +101,15 @@ CGD is caused by defects in any of the 6 subunits forming the nicotinamide adeni
 
 ---
 
-## Crossover of surface waves and capillary-viscous-elastic transition in soft biomaterials detected by resonant acoustic rheometry.
- 06.09.2023, _EC Hobson, W Li, NN Friend, AJ Putnam, JP Stegemann, CX Deng_
+## COVID-19 Vaccine Acceptance Among Healthcare Students in Vietnam, Based on Health Belief Model.
+ 07.09.2023, _DT Tieu Mai, PT Thuy_
 
 
-Viscoelastic properties of hydrogels are important for their application in science and industry. However, rheological assessment of soft hydrogel biomaterials is challenging due to their complex, rapid, and often time-dependent behaviors. Resonant acoustic rheometry (RAR) is a newly developed technique capable of inducing and measuring resonant surface waves in samples in a non-contact fashion. By applying RAR at high temporal resolution during thrombin-induced fibrin gelation and ultraviolet-initiated polyethylene glycol (PEG) polymerization, we observed distinct changes in both frequency and amplitude of the resonant surface waves as the materials changed over time. RAR detected a series of capillary-elastic, capillary-viscous, and visco-elastic transitions that are uniquely manifested as crossover of different types of surface waves in the temporally evolving materials. These results reveal the dynamic interplay of surface tension, viscosity, and elasticity that is controlled by the kinetics of polymerization and crosslinking during hydrogel formation. RAR overcomes many limitations of conventional rheological approaches by offering a new way to comprehensively and longitudinally characterize soft materials during dynamic processes.
+Healthcare students have a high risk of acquiring COVID-19 while practicing in medical facilities, and their health-related decisions might considerably impact the people around them. In the circumstance of many people refusing vaccination, the delay in accepting the COVID-19 vaccine by this group could be a barrier to providing effective immunity to the entire population against the COVID-19 pandemic.
 
 [Source](https://doi.org/10.1007/s11274-023-03742-w)
 
-10.1016/j.biomaterials.2023.122282
+10.1177/23779608231196662
 
 ---
 
