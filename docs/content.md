@@ -101,15 +101,15 @@ CGD is caused by defects in any of the 6 subunits forming the nicotinamide adeni
 
 ---
 
-## The Voices of the Dead.
- 07.09.2023, _A Lingis_
+## Cultural Consensus Modeling to identify culturally relevant reasons for and against suicide among Black adolescents.
+ 08.09.2023, _RM Hill, D Busby, JL Brown, E Sumlin, E Fernandez, C Sharp_
 
 
-During the pandemic, relatives and friends were not able to visit the dying in hospitals or assemble for funerals. The dead were lost in nothingness. But the dead do not disappear. They continue to address us, appeal to us, guide us, direct us, console us.
+The development of evidence-based treatments relies on accurate theoretical frameworks sensitive to the lived realities of the populations from which they are derived. Yet, the perspectives of Black youth are vastly underrepresented in extant theories of suicidal behavior. Cultural Consensus Modeling provides an evidence-based approach for developing a culturally informed understanding of suicide risk among Black youth.
 
 [Source](https://doi.org/10.1007/s11274-023-03742-w)
 
-10.1007/s11673-023-10298-9
+10.1111/sltb.13000
 
 ---
 
