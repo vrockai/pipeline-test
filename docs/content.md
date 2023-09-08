@@ -53,7 +53,7 @@ After infection with SARS-CoV-2, the microbiome inside the human body changes dr
 ---
 
 ## Parkinson's disease alters the composition of subgingival microbiome.
- 01.09.2023, _E Yay, M Yilmaz, H Toygar, N Balci, C Alvarez Rivas, B Bolluk Kilic, A Zirh, B Paster, A Kantarci_
+ 07.09.2023, _E Yay, M Yilmaz, H Toygar, N Balci, C Alvarez Rivas, B Bolluk Kilic, A Zirh, B Paster, A Kantarci_
 
 
 The current study aimed to test the hypothesis that Parkinson's disease exacerbates periodontitis by altering its microbiome.
@@ -71,7 +71,7 @@ The current study aimed to test the hypothesis that Parkinson's disease exacerba
 ---
 
 ## Human milk oligosaccharides modulate the intestinal microbiome of healthy adults.
- 06.09.2023, _JP Jacobs, ML Lee, DJ Rechtman, AK Sun, C Autran, V Niklas_
+ 07.09.2023, _JP Jacobs, ML Lee, DJ Rechtman, AK Sun, C Autran, V Niklas_
 
 
 _Adult, Female, Humans, Infant, Newborn, Gastrointestinal Microbiome, Milk, Human, Oligosaccharides, RNA, Ribosomal, 16S_
@@ -101,15 +101,15 @@ CGD is caused by defects in any of the 6 subunits forming the nicotinamide adeni
 
 ---
 
-## Patient information leaflet in the era of digitalisation: a cross-sectional study on patients' attitudes and practices.
- 07.09.2023, _M Almanasef_
+## Representativeness of Patients Enrolled in the Lung Cancer Master Protocol (Lung-MAP).
+ 07.09.2023, _R Vaidya, JM Unger, L Qian, K Minichiello, RS Herbst, DR Gandara, JW Neal, TA Leal, JD Patel, KH Dragnev, SN Waqar, MJ Edelman, EV Sigal, SJ Adam, S Malik, CD Blanke, ML LeBlanc, K Kelly, JE Gray, MW Redman_
 
 
-Patient information leaflets (PILs) are documents that are standardized in nature and provide guidance for patients or caregivers on the safe and effective use of medicines. Previous evidence suggests that written information is linked to enhancing the amount of information remembered. Currently, patients have become more involved in digital searches for information. However, there is variability in the quality and reliability of information obtained from the web. According to Saudi Food and Drug Authority regulations, pharmaceutical manufacturers are required to supplement each pharmaceutical product entering the Saudi market with a digital leaflet in addition to a paper leaflet. This research aimed to evaluate patients' attitudes and practices towards PILs.
+Lung Cancer Master Protocol (Lung-MAP), a public-private partnership, established infrastructure for conducting a biomarker-driven master protocol in molecularly targeted therapies. We compared characteristics of patients enrolled in Lung-MAP with those of patients in advanced non-small-cell lung cancer (NSCLC) trials to examine if master protocols improve trial access.
 
 [Source](https://doi.org/10.1007/s11274-023-03742-w)
 
-10.1007/s11845-023-03515-2
+10.1200/PO.23.00218
 
 ---
 
