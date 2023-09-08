@@ -101,15 +101,15 @@ CGD is caused by defects in any of the 6 subunits forming the nicotinamide adeni
 
 ---
 
-## Representativeness of Patients Enrolled in the Lung Cancer Master Protocol (Lung-MAP).
- 07.09.2023, _R Vaidya, JM Unger, L Qian, K Minichiello, RS Herbst, DR Gandara, JW Neal, TA Leal, JD Patel, KH Dragnev, SN Waqar, MJ Edelman, EV Sigal, SJ Adam, S Malik, CD Blanke, ML LeBlanc, K Kelly, JE Gray, MW Redman_
+## The Voices of the Dead.
+ 07.09.2023, _A Lingis_
 
 
-Lung Cancer Master Protocol (Lung-MAP), a public-private partnership, established infrastructure for conducting a biomarker-driven master protocol in molecularly targeted therapies. We compared characteristics of patients enrolled in Lung-MAP with those of patients in advanced non-small-cell lung cancer (NSCLC) trials to examine if master protocols improve trial access.
+During the pandemic, relatives and friends were not able to visit the dying in hospitals or assemble for funerals. The dead were lost in nothingness. But the dead do not disappear. They continue to address us, appeal to us, guide us, direct us, console us.
 
 [Source](https://doi.org/10.1007/s11274-023-03742-w)
 
-10.1200/PO.23.00218
+10.1007/s11673-023-10298-9
 
 ---
 
