@@ -53,7 +53,7 @@ After infection with SARS-CoV-2, the microbiome inside the human body changes dr
 ---
 
 ## Parkinson's disease alters the composition of subgingival microbiome.
- 07.09.2023, _E Yay, M Yilmaz, H Toygar, N Balci, C Alvarez Rivas, B Bolluk Kilic, A Zirh, B Paster, A Kantarci_
+ 08.09.2023, _E Yay, M Yilmaz, H Toygar, N Balci, C Alvarez Rivas, B Bolluk Kilic, A Zirh, B Paster, A Kantarci_
 
 
 The current study aimed to test the hypothesis that Parkinson's disease exacerbates periodontitis by altering its microbiome.
@@ -101,15 +101,15 @@ CGD is caused by defects in any of the 6 subunits forming the nicotinamide adeni
 
 ---
 
-## Cultural Consensus Modeling to identify culturally relevant reasons for and against suicide among Black adolescents.
- 08.09.2023, _RM Hill, D Busby, JL Brown, E Sumlin, E Fernandez, C Sharp_
+## Factors associated with adherence to oral HIV pre-exposure prophylaxis among female sex workers in the Mara Region, Tanzania: A 2022 cross-sectional study.
+ 08.09.2023, _M Churu, K Kulemba, A Kapesa, A Kajura, D Wilfred, N Basinda, S Kaluvya, KP Mageda_
 
 
-The development of evidence-based treatments relies on accurate theoretical frameworks sensitive to the lived realities of the populations from which they are derived. Yet, the perspectives of Black youth are vastly underrepresented in extant theories of suicidal behavior. Cultural Consensus Modeling provides an evidence-based approach for developing a culturally informed understanding of suicide risk among Black youth.
+Female sex workers (FSWs) have a higher risk of acquiring human immunodeficiency virus (HIV) infection compared with the general female population. Tanzania adopted pre-exposure prophylaxis (PrEP) use for HIV-negative key populations in 2019 as a strategy to reduce HIV transmission. We aimed to identify factors associated with PrEP adherence among FSWs in Tanzania. We conducted a cross-sectional study of FSWs using oral HIV PrEP from June-July 2022 in 5 Mara Region districts. Stata software was used to analyze the quantitative data. Poor overall PrEP adherence was observed among FSWs, with adherence of 48.3% (174/360) and 43.3% (156/360) according to pill count and self-reports, respectively. Participants living with family members had 2.32 higher odds of PrEP adherence (adjusted odds ratio [aOR] = 2.32, 95% confidence interval [CI] = 1.27-42.23, P = .006) versus participants living alone or with friends. Moreover, FSWs who preferred pill packages had 1.41 higher odds of adherence (aOR = 2.43, [95% CI = 1.41-4.19, P = .001]); participants with a good perception of PrEP had 1.71 higher odds (aOR = 1.71, [95% CI = 1.01-2.91, P = .047]) of PrEP adherence. We found that living with family, pill packaging, and PrEP perception played significant roles in PrEP adherence among FSWs. Interventions to improve pill packaging, social support, and the perception of PrEP among FSWs should be intensified to increase adherence in this vulnerable population.
 
 [Source](https://doi.org/10.1007/s11274-023-03742-w)
 
-10.1111/sltb.13000
+10.1097/MD.0000000000034824
 
 ---
 
