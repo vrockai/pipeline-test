@@ -101,15 +101,15 @@ CGD is caused by defects in any of the 6 subunits forming the nicotinamide adeni
 
 ---
 
-## Factors associated with adherence to oral HIV pre-exposure prophylaxis among female sex workers in the Mara Region, Tanzania: A 2022 cross-sectional study.
- 08.09.2023, _M Churu, K Kulemba, A Kapesa, A Kajura, D Wilfred, N Basinda, S Kaluvya, KP Mageda_
+## Change in Caregiving to Older Adults During the COVID-19 Pandemic: Differences by Dementia Status.
+ 08.09.2023, _EM Friedman, A Kirkegaard, DP Kennedy, S Edgington, RA Shih_
 
 
-Female sex workers (FSWs) have a higher risk of acquiring human immunodeficiency virus (HIV) infection compared with the general female population. Tanzania adopted pre-exposure prophylaxis (PrEP) use for HIV-negative key populations in 2019 as a strategy to reduce HIV transmission. We aimed to identify factors associated with PrEP adherence among FSWs in Tanzania. We conducted a cross-sectional study of FSWs using oral HIV PrEP from June-July 2022 in 5 Mara Region districts. Stata software was used to analyze the quantitative data. Poor overall PrEP adherence was observed among FSWs, with adherence of 48.3% (174/360) and 43.3% (156/360) according to pill count and self-reports, respectively. Participants living with family members had 2.32 higher odds of PrEP adherence (adjusted odds ratio [aOR] = 2.32, 95% confidence interval [CI] = 1.27-42.23, P = .006) versus participants living alone or with friends. Moreover, FSWs who preferred pill packages had 1.41 higher odds of adherence (aOR = 2.43, [95% CI = 1.41-4.19, P = .001]); participants with a good perception of PrEP had 1.71 higher odds (aOR = 1.71, [95% CI = 1.01-2.91, P = .047]) of PrEP adherence. We found that living with family, pill packaging, and PrEP perception played significant roles in PrEP adherence among FSWs. Interventions to improve pill packaging, social support, and the perception of PrEP among FSWs should be intensified to increase adherence in this vulnerable population.
+We use a nationally representative study of 3451 adults who provided assistance to a relative or friend age 50 or older immediately prior to the Coronavirus Disease 2019 (COVID-19) pandemic to explore changes to care provisions, use of services, and support networks. While we see turnover in assistance during a retrospectively assessed 12-month time period, respondents exited or adopted caregiving roles primarily for reasons unrelated to the pandemic. About two thirds of caregivers' social networks remained unchanged and, of those that did change, only half lost network members without gaining others. Changes in care settings and use of support services were uncommon. Caregivers to persons with dementia may have been more adversely affected than other caregivers as they were more likely to experience loss of social ties, potentially performing more care activities without the full support system they had in place prior to the pandemic.
 
 [Source](https://doi.org/10.1007/s11274-023-03742-w)
 
-10.1097/MD.0000000000034824
+10.1177/07334648231197514
 
 ---
 
