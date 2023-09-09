@@ -101,15 +101,15 @@ CGD is caused by defects in any of the 6 subunits forming the nicotinamide adeni
 
 ---
 
-## Change in Caregiving to Older Adults During the COVID-19 Pandemic: Differences by Dementia Status.
- 08.09.2023, _EM Friedman, A Kirkegaard, DP Kennedy, S Edgington, RA Shih_
+## Uncovering the Concerns and Needs of Individuals with Celiac Disease: A Cross-Sectional Study.
+ 09.09.2023, _M Vázquez-Polo, V Navarro, I Larretxi, G Perez-Junkera, A Lasa, S Matias, E Simon, I Churruca_
 
 
-We use a nationally representative study of 3451 adults who provided assistance to a relative or friend age 50 or older immediately prior to the Coronavirus Disease 2019 (COVID-19) pandemic to explore changes to care provisions, use of services, and support networks. While we see turnover in assistance during a retrospectively assessed 12-month time period, respondents exited or adopted caregiving roles primarily for reasons unrelated to the pandemic. About two thirds of caregivers' social networks remained unchanged and, of those that did change, only half lost network members without gaining others. Changes in care settings and use of support services were uncommon. Caregivers to persons with dementia may have been more adversely affected than other caregivers as they were more likely to experience loss of social ties, potentially performing more care activities without the full support system they had in place prior to the pandemic.
+The treatment for celiac disease (CD) involves a strict gluten-free diet, which can be challenging and lead to questions for patients. Pinpointing these uncertainties can enable the creation of efficient educational resources. In this study, a questionnaire was specifically designed to gain insights into the knowledge, concerns, and needs of individuals with CD and their supporters. The questionnaire was distributed through the Instagram social network and received adequate responses from 300 participants, 258 (86%) being female and 152 (50.7%) falling in the age range of 25-44 years. The concerns of individuals with celiac disease and celiac supporters were rated on a 1-4 scale, with a mean score of 3.5 indicating significant concern. A total of 255 (85%) of all participants expressed that their principal concern was the social limitations they faced, such as difficulties in eating out and sharing food with others. Every participant evaluated their overall disease knowledge, averaging at 2.92 out of 4, indicating a reasonable level of awareness. When asked if they believed that improving general knowledge about CD in the general population would enhance their quality of life, the vast majority responded affirmatively. This finding underscores the importance of not only educating individuals with CD but also reaching out to the wider population, especially those who have a direct impact on the daily lives of individuals with CD, such as family members, friends, and food service providers.
 
 [Source](https://doi.org/10.1007/s11274-023-03742-w)
 
-10.1177/07334648231197514
+10.3390/nu15173681
 
 ---
 
