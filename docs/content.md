@@ -101,15 +101,15 @@ CGD is caused by defects in any of the 6 subunits forming the nicotinamide adeni
 
 ---
 
-## Enhancing linkage to HIV care in the "Universal Test and Treat" era: Barriers and enablers to HIV care among adults in a high HIV burdened district in KwaZulu-Natal, South Africa.
- 09.09.2023, _E Nicol, NA Jama, V Mehlomakulu, M Hlongwa, D Pass, W Basera, D Bradshaw_
+## Comorbidity of loneliness and social anxiety in adolescents: Bridge symptoms and peer relationships.
+ 10.09.2023, _J Chen, Q Wang, Y Liang, B Chen, P Ren_
 
 
-Ending AIDS by 2030 would depend on how successful health systems are in linking people living with HIV (PLHIV) into care. The World Health Organization recommended the 'Universal Test and Treat' (UTT) strategy - initiating all individuals testing positive on antiretroviral therapy (ART) irrespective of their CD4 count and clinical staging. This study aimed to explore the enablers and barriers to linkage to HIV care among adults with a new HIV diagnosis in a high-HIV prevalent rural district in South Africa. A qualitative study was undertaken to explore patients' perceptions of enablers and barriers of linkage-to-care, using a life-story narration and dialogue approach. In-depth interviews were conducted with 38 HIV-positive participants sampled from a cohort of 1194 HIV-positive patients recruited from December 2017 to June 2018. Participants were selected based on whether they had been linked to care or not within 3 months of positive HIV diagnosis. Interviews were thematically analysed using a general inductive approach. Of the 38 participants, 22 (58%) linked to care within three months of HIV-positive diagnosis. Factors that facilitated or inhibited linkage-to-care were found at individual, family, community, as well as health systems levels. Enablers included a positive HIV testing experience, and assistance from the fieldwork team. Support from family, and friends, as well as prior community-based education about HIV and ART were also noted. Individual factors such as acceptance of HIV status, previous exposure to PLHIV, and fear of HIV progressing, were identified. Barriers to linkage included, denial of HIV status, dislike of taking pills, and preference for alternative medicine. Negative experiences with counselling and health systems inefficiency were also noted as barriers. Perceived stigma and socio-economic factors, such as lack of food or money to visit the clinic were other barriers. Community-based and health system-level interventions would need to focus on clinic readiness in providing patients with necessary and effective health services such as proper and adequate counselling. This could increase the number of patients who link to care. Finally, interventions to improve linkage-to-care should consider a holistic approach, including training healthcare providers, community outreach and the provision of psychological, social, and financial support.
+Previous research investigating the comorbidity of loneliness and social anxiety symptoms in population samples has relied on latent variable modeling in which averaged scores representing dimensions were derived from observed symptoms. Studies have not examined how loneliness and social anxiety co-occur at the symptom level or their relations with peer relationships.
 
 [Source](https://doi.org/10.1007/s11274-023-03742-w)
 
-10.1186/s12889-023-16576-w
+10.1016/j.socscimed.2023.116195
 
 ---
 
