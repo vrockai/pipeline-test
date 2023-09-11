@@ -168,15 +168,29 @@ Evidence of gut microbiota disruption for numerous autoimmune diseases has accum
 
 ---
 
-## Metagenomics and metabolomics of Toddy, an Indian fermented date palm beverage
+## Metagenomics and metabolomics of Toddy, an Indian fermented date palm beverage.
+ 11.09.2023, _S Das, JP Tamang_
+
+
+_Humans, Metagenomics, Phoeniceae, Metabolomics, Acetic Acid, Beverages_
+Toddy is a popular fermented palm beverage of India. No scientific information on shotgun metagenomics and metabolomics are available on toddy of India till date. Hence, we choose the fermented date palm beverage, locally called khejur toddy, of West Bengal and Jharkhand states of India, to profile microbial community, their targeted and untargeted metabolites to study the putative bio-functional genes corresponding to regulatory metabolic pathways. Shotgun-based metataxonomic analyses revealed the existence of all domains where bacteria were the most abundant domain (94.48%) followed by eukaryotes (3.38%), viruses (1.53%) and archaea (0.61%). Overall, 54 phyla, 363 families, 1087 genera and 1885 species were observed and identified. Bacillota (49.3%) was the most abundant bacterial phylum. At species level, several species of bacteria and yeasts were detected in toddy samples which included Leuconostoc mesenteroides,Leuconostoc citreum,Lactobacillus helveticus,Lactiplantibacillus plantarum,Lactococcus lactis, Acetobacter malorum, Gluconobacter japonicus, Gluconacetobacter liquefaciens, Fructobacillus durionis, Zymomonas mobilis and yeastsSaccharomyces cerevisiae, Hanseniaspora uvarumandHanseniaspora guilliermondii. Toddy metagenome was also compared with metagenome of pulque, the Mexican fermented fresh sap ofAgave, which was retrieved from NCBI database, and also with metagenomic data of some amplicon-based previous studies on toddy and African fermented palm drink for similarity, dissimilarity and uniqueness among them. Predictive biosynthesis of ethanol, acetic acid, butanoate, linalool, staurosporine, prodigiosin, folic acid, riboflavin, etc. were annotated by KEGG/COG database. Clustered regularly interspaced short palindromic repeats (CRISPR) analysis detected 23 arrays (average length 23.69 bp ± 4.28). Comprehensive Antibiotic Resistance Database (CARD) analysis did not show the presence of any momentous antibiotic resistance gene among the major microbial members. Metabolomics analysis detected many primary and secondary metabolites. We believe this is the first report on complete shotgun metagenomics, and metabolomics of fermented palm drink of India as well as Eastern India.
 
 [Source](https://doi.org/10.1016/j.foodres.2023.113205)
 
+10.1016/j.foodres.2023.113205
+
 ---
 
-## Gut microbiota from patients with COVID-19 cause alterations in mice that resemble post-COVID symptoms
+## Gut microbiota from patients with COVID-19 cause alterations in mice that resemble post-COVID symptoms.
+ 08.09.2023, _V Mendes de Almeida, DF Engel, MF Ricci, CS Cruz, ÍS Lopes, DA Alves, M d' Auriol, J Magalhães, EC Machado, VM Rocha, TG Carvalho, LSB Lacerda, JC Pimenta, M Aganetti, GS Zuccoli, BJ Smith, VC Carregari, E da Silva Rosa, I Galvão, G Dantas Cassali, CC Garcia, MM Teixeira, LC André, FM Ribeiro, FS Martins, RS Saia, VV Costa, D Martins-de-Souza, PM Hansbro, JT Marques, ERGR Aguiar, AT Vieira_
+
+
+_Animals, Mice, COVID-19, Gastrointestinal Microbiome, SARS-CoV-2, Anti-Bacterial Agents, Disease Progression_
+Long-term sequelae of coronavirus disease (COVID)-19 are frequent and of major concern. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection affects the host gut microbiota, which is linked to disease severity in patients with COVID-19. Here, we report that the gut microbiota of post-COVID subjects had a remarkable predominance of Enterobacteriaceae strains with an antibiotic-resistant phenotype compared to healthy controls. Additionally, short-chain fatty acid (SCFA) levels were reduced in feces. Fecal transplantation from post-COVID subjects to germ-free mice led to lung inflammation and worse outcomes during pulmonary infection by multidrug-resistant Klebsiella pneumoniae. transplanted mice also exhibited poor cognitive performance. Overall, we show prolonged impacts of SARS-CoV-2 infection on the gut microbiota that persist after subjects have cleared the virus. Together, these data demonstrate that the gut microbiota can directly contribute to post-COVID sequelae, suggesting that it may be a potential therapeutic target.
 
 [Source](https://doi.org/10.1080/19490976.2023.2249146)
+
+10.1080/19490976.2023.2249146
 
 ---
 
