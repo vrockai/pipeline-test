@@ -1,7 +1,8 @@
 ## Obesity is the main driver of altered gut microbiome functions in the metabolically unhealthy.
- 10.09.2023, _J de la Cuesta-Zuluaga, KE Huus, ND Youngblut, JS Escobar, RE Ley_
+ 11.09.2023, _J de la Cuesta-Zuluaga, KE Huus, ND Youngblut, JS Escobar, RE Ley_
 
 
+_Adult, Humans, Gastrointestinal Microbiome, Microbiota, Obesity, Adipose Tissue, Anthropometry_
 Obesity (OB) and cardiometabolic disease are major public health issues linked to changes in the gut microbiome. OB and poor cardiometabolic health status (CHS) are often comorbid, which hinders efforts to identify components of the microbiome uniquely linked to either one. Here, we used a deeply phenotyped cohort of 408 adults from Colombia, including subjects with OB, unhealthy CHS, or both, to validate previously reported features of gut microbiome function and diversity independently correlated with OB or CHS using fecal metagenomes. OB was defined by body mass index, waist circumference, and body fat; CHS as healthy or unhealthy according to blood biochemistry and anthropometric data. We found that OB, more so than metabolic status, drove associations with gut microbiome structure and functions. The microbiome of obese individuals with and without co-existing unhealthy CHS was characterized by reduced metagenomic diversity, reduced fermentative potential and elevated capacity to respond to oxidative stress and produce bacterial antigens. Disease-linked features were correlated with increased host blood pressure and inflammatory markers, and were mainly contributed by members of the family Enterobacteriaceae. Our results link OB with a microbiome able to tolerate an inflammatory and oxygenated gut state, and suggest that OB is the main driver of microbiome functional differences when poor CHS is a comorbidity.
 
 [Source](https://doi.org/10.1080/19490976.2023.2246634)
@@ -46,9 +47,10 @@ Non-alcoholic fatty liver disease (NAFLD) is a hepatic manifestation of metaboli
 ---
 
 ## Microbial signature of plaque and gut in acute coronary syndrome.
- 10.09.2023, _E Pisano, F Bugli, A Severino, D Pedicino, F Paroni Sterbini, C Martini, F De Maio, R Vinci, A Sacconi, F Canonico, A D'Aiello, A Bonanni, L Proto, P Ciampi, M Ponzo, MC Grimaldi, A Urbani, A Primiano, J Gervasoni, R Montone, F Crea, M Sanguinetti, G Liuzzo_
+ 11.09.2023, _E Pisano, F Bugli, A Severino, D Pedicino, F Paroni Sterbini, C Martini, F De Maio, R Vinci, A Sacconi, F Canonico, A D'Aiello, A Bonanni, L Proto, P Ciampi, M Ponzo, MC Grimaldi, A Urbani, A Primiano, J Gervasoni, R Montone, F Crea, M Sanguinetti, G Liuzzo_
 
 
+_Humans, Acute Coronary Syndrome, RNA, Ribosomal, 16S, Heart, Angioplasty, Balloon, Carnobacteriaceae_
 Gut microbiota is an emerging editable cardiovascular risk factor. We aim to investigate gut and coronary plaque microbiota, using fecal samples and angioplasty balloons from patients with acute coronary syndrome (ACS), chronic coronary syndrome (CCS) and control subjects. We examined bacterial communities in gut and coronary plaques by 16S rRNA sequencing and we performed droplet digital PCR analysis to investigate the gut relative abundance of the bacterial genes CutC/CntA involved in trimethylamine N-oxide synthesis. Linear discriminant analysis effect size (LEfSe) at the genus and species levels displayed gut enrichment in Streptococcus, Granulicatella and P. distasonis in ACS compared with CCS and controls; Roseburia, C. aerofaciens and F. prausnitzii were more abundant in controls than in patients. Principal component analysis (PCA) of 41 differentially abundant gut taxa showed a clustering of the three groups. In coronary plaque, LEfSe at the genus level revealed an enrichment of Staphylococcus and Streptococcus in ACS, and Paracoccus in CCS, whereas PCA of 15 differentially abundant plaque taxa exhibited clustering of ACS and CCS patients. CutC and CntA genes were more abundant in ACS and CCS than in controls while no significant difference emerged between ACS and CCS. Our results indicate that ACS and CCS exhibit a different gut and plaque microbial signature, suggesting a possible role of these microbiotas in coronary plaque instability.
 
 [Source](https://doi.org/10.1038/s41598-023-41867-y)
@@ -112,9 +114,10 @@ The relationship between commensal microbiota and lung cancer (LC) has been stud
 ---
 
 ## Targeting microbial quorum sensing: the next frontier to hinder bacterial driven gastrointestinal infections.
- 10.09.2023, _Y Su, T Ding_
+ 11.09.2023, _Y Su, T Ding_
 
 
+_Humans, Quorum Sensing, Gastrointestinal Microbiome, Bacteria, Gastrointestinal Diseases, Homeostasis_
 Bacteria synchronize social behaviors via a cell-cell communication and interaction mechanism termed as quorum sensing (QS). QS has been extensively studied in monocultures and proved to be intensively involved in bacterial virulence and infection. Despite the role QS plays in pathogens during laboratory engineered infections has been proved, the potential functions of QS related to pathogenesis in context of microbial consortia remain poorly understood. In this review, we summarize the basic molecular mechanisms of QS, primarily focusing on pathogenic microbes driving gastrointestinal (GI) infections. We further discuss how GI pathogens disequilibrate the homeostasis of the indigenous microbial consortia, rebuild a realm dominated by pathogens, and interact with host under worsening infectious conditions via pathogen-biased QS signaling. Additionally, we present recent applications and main challenges of manipulating QS network in microbial consortia with the goal of better understanding GI bacterial sociality and facilitating novel therapies targeting bacterial infections.
 
 [Source](https://doi.org/10.1080/19490976.2023.2252780)
@@ -165,28 +168,15 @@ Evidence of gut microbiota disruption for numerous autoimmune diseases has accum
 
 ---
 
-## Metagenomics and metabolomics of Toddy, an Indian fermented date palm beverage.
- 10.09.2023, _S Das, JP Tamang_
-
-
-Toddy is a popular fermented palm beverage of India. No scientific information on shotgun metagenomics and metabolomics are available on toddy of India till date. Hence, we choose the fermented date palm beverage, locally called khejur toddy, of West Bengal and Jharkhand states of India, to profile microbial community, their targeted and untargeted metabolites to study the putative bio-functional genes corresponding to regulatory metabolic pathways. Shotgun-based metataxonomic analyses revealed the existence of all domains where bacteria were the most abundant domain (94.48%) followed by eukaryotes (3.38%), viruses (1.53%) and archaea (0.61%). Overall, 54 phyla, 363 families, 1087 genera and 1885 species were observed and identified. Bacillota (49.3%) was the most abundant bacterial phylum. At species level, several species of bacteria and yeasts were detected in toddy samples which included Leuconostoc mesenteroides,Leuconostoc citreum,Lactobacillus helveticus,Lactiplantibacillus plantarum,Lactococcus lactis, Acetobacter malorum, Gluconobacter japonicus, Gluconacetobacter liquefaciens, Fructobacillus durionis, Zymomonas mobilis and yeastsSaccharomyces cerevisiae, Hanseniaspora uvarumandHanseniaspora guilliermondii. Toddy metagenome was also compared with metagenome of pulque, the Mexican fermented fresh sap ofAgave, which was retrieved from NCBI database, and also with metagenomic data of some amplicon-based previous studies on toddy and African fermented palm drink for similarity, dissimilarity and uniqueness among them. Predictive biosynthesis of ethanol, acetic acid, butanoate, linalool, staurosporine, prodigiosin, folic acid, riboflavin, etc. were annotated by KEGG/COG database. Clustered regularly interspaced short palindromic repeats (CRISPR) analysis detected 23 arrays (average length 23.69 bp ± 4.28). Comprehensive Antibiotic Resistance Database (CARD) analysis did not show the presence of any momentous antibiotic resistance gene among the major microbial members. Metabolomics analysis detected many primary and secondary metabolites. We believe this is the first report on complete shotgun metagenomics, and metabolomics of fermented palm drink of India as well as Eastern India.
+## Metagenomics and metabolomics of Toddy, an Indian fermented date palm beverage
 
 [Source](https://doi.org/10.1016/j.foodres.2023.113205)
 
-10.1016/j.foodres.2023.113205
-
 ---
 
-## Gut microbiota from patients with COVID-19 cause alterations in mice that resemble post-COVID symptoms.
- 08.09.2023, _V Mendes de Almeida, DF Engel, MF Ricci, CS Cruz, ÍS Lopes, DA Alves, M d' Auriol, J Magalhães, EC Machado, VM Rocha, TG Carvalho, LSB Lacerda, JC Pimenta, M Aganetti, GS Zuccoli, BJ Smith, VC Carregari, E da Silva Rosa, I Galvão, G Dantas Cassali, CC Garcia, MM Teixeira, LC André, FM Ribeiro, FS Martins, RS Saia, VV Costa, D Martins-de-Souza, PM Hansbro, JT Marques, ERGR Aguiar, AT Vieira_
-
-
-_Animals, Mice, COVID-19, Gastrointestinal Microbiome, SARS-CoV-2, Anti-Bacterial Agents, Disease Progression_
-Long-term sequelae of coronavirus disease (COVID)-19 are frequent and of major concern. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection affects the host gut microbiota, which is linked to disease severity in patients with COVID-19. Here, we report that the gut microbiota of post-COVID subjects had a remarkable predominance of Enterobacteriaceae strains with an antibiotic-resistant phenotype compared to healthy controls. Additionally, short-chain fatty acid (SCFA) levels were reduced in feces. Fecal transplantation from post-COVID subjects to germ-free mice led to lung inflammation and worse outcomes during pulmonary infection by multidrug-resistant Klebsiella pneumoniae. transplanted mice also exhibited poor cognitive performance. Overall, we show prolonged impacts of SARS-CoV-2 infection on the gut microbiota that persist after subjects have cleared the virus. Together, these data demonstrate that the gut microbiota can directly contribute to post-COVID sequelae, suggesting that it may be a potential therapeutic target.
+## Gut microbiota from patients with COVID-19 cause alterations in mice that resemble post-COVID symptoms
 
 [Source](https://doi.org/10.1080/19490976.2023.2249146)
-
-10.1080/19490976.2023.2249146
 
 ---
 
@@ -220,9 +210,15 @@ Long-term sequelae of coronavirus disease (COVID)-19 are frequent and of major c
 
 ---
 
-## Microbial communities associated with resin canal discoloration in mango fruit
+## Microbial communities associated with resin canal discoloration in mango fruit.
+ 07.09.2023, _M Umar, JP Bowman, C Asis, C McConchie, A Eyles, R Stanley, A Gracie_
+
+
+Resin canal discoloration (RCD) severely impacts the fruit quality of mango, diminishes consumer confidence and reduces sales, but the biological cause is still unclear. Using next-generation sequencing, the overall microbial community composition of RCD + and visually healthy mango fruit was determined for the first time to examine the possible role of bacterial and fungal pathogens in RCD. The diversity profile of bacterial and fungal communities was determined using primers targeting the 16S rRNA gene and ITS regions. Results showed that bacterial communities in healthy fruits are clustered together and significantly different from those in RCD + fruits. Tatumella and Pantoea species were the most abundant bacterial taxa on RCD + fruit, and both have been linked to disease outbreaks in a variety of fruit crops. Fungal communities were generally similar between RCD + and normal samples though non-pathogenic yeasts Meyerozyma and Naganishia tended to dominate the fungal communities on RCD + fruit. The study indicates that bacteria rather than fungal organisms are more likely to be associated with RCD in mango. This finding will facilitate the isolation and confirmation of RCD-causing organisms and the development of control strategies to manage RCD problem in mango.
 
 [Source](https://doi.org/10.1093/lambio/ovad104)
+
+10.1093/lambio/ovad104
 
 ---
 
@@ -232,15 +228,28 @@ Long-term sequelae of coronavirus disease (COVID)-19 are frequent and of major c
 
 ---
 
-## Antarctic snow algae: unraveling the processes underlying microbial community assembly during blooms formation
+## Antarctic snow algae: unraveling the processes underlying microbial community assembly during blooms formation.
+ 07.09.2023, _DF Soto, I Gómez, P Huovinen_
+
+
+_Antarctic Regions, Phylogeny, RNA, Ribosomal, 16S, Eukaryota, Microbiota_
+At the West Antarctic Peninsula, snow algae blooms are composed of complex microbial communities dominated by green microalgae and bacteria. During their progression, the assembly of these microbial communities occurs under harsh environmental conditions and variable nutrient content due to fast snow melting. To date, it is still unclear what are the ecological mechanisms governing the composition and abundance of microorganisms during the formation of snow algae blooms. In this study, we aim to examine the main ecological mechanisms governing the assembly of snow algae blooms from early stages to colorful stages blooms.
 
 [Source](https://doi.org/10.1186/s40168-023-01643-6)
 
+10.1186/s40168-023-01643-6
+
 ---
 
-## Understanding how various forms of phosphorus stress affect microbiome functions and boost plant disease resistance: Insights from metagenomic analysis
+## Understanding how various forms of phosphorus stress affect microbiome functions and boost plant disease resistance: Insights from metagenomic analysis.
+ 10.09.2023, _J Kang, W Qiu, W Zhang, J Liu, Z Yang, Z Wu, J Ge_
+
+
+The plant's response to phosphorus (P) starvation suppresses its immunity and regulates rhizosphere microbial colonization. However, the impact of various P forms on plant disease resistance and microbial composition remains underreported. This paper examines the soybean rhizosphere microbiome facing co-stress from Fusarium oxysporum and diverse P forms. Macrogenomic analysis evaluates whether P addition enhances plant disease resistance and rhizosphere microbial function, and if such effects relate to P forms. Results show that different P forms mitigate F. oxysporum-induced plant inhibition by promoting P turnover. P forms predominantly affect microbial composition, followed by soil and plant properties. In soybean, the phosphate transport strategy (ugpA/Q) was selected to maintain high P to enhance immunity in the KH2PO4 treatment, while organo-P mineralization (phnH/F/W/G) was selected for superphosphate treatment. The Frankiales, a P-turnover microorganism, copiotrophic microorganisms, and indicator bacteria of plant properties, initially increase after F. oxysporum inoculation and then decrease post P addition, regardless of P forms. Additionally, the rhizosphere microbial community's metabolic activities and compounds significantly aid soybean defense against F. oxysporum, with functional types depending on P forms. Therefore, these findings establish a novel approach to enhance host defense against soil-borne diseases through P nutrition regulation to mediate host-driven metabolic activities of microbial communities.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.166899)
+
+10.1016/j.scitotenv.2023.166899
 
 ---
 
@@ -250,15 +259,27 @@ Long-term sequelae of coronavirus disease (COVID)-19 are frequent and of major c
 
 ---
 
-## How Benthic Sediment Microbial Communities Respond to Glyphosate and Its Metabolite: a Microcosm Experiment
+## How Benthic Sediment Microbial Communities Respond to Glyphosate and Its Metabolite: a Microcosm Experiment.
+ 06.09.2023, _CM Cornish, P Bergholz, K Schmidt, J Sweetman_
+
+
+Glyphosate is the most commonly used agricultural herbicide in the world. In aquatic ecosystems, glyphosate often adsorbs to benthic substrates or is metabolized and degraded by microorganisms. The effects of glyphosate on microbial communities vary widely as microorganisms respond differently to exposure. To help understand the impacts of glyphosate on the sediment microbiome, we conducted a microcosm experiment examining the responses of benthic sediment microbial communities to herbicide treatments. Sediments from a prairie pothole wetland were collected, and 16S rRNA gene sequencing was used to analyze community composition 2-h and 14-days after a single treatment of low (0.07 ppm), medium (0.7 ppm), or high (7 ppm) glyphosate, aminomethylphosphonic acid (glyphosate metabolite), or a glyphosate-based commercial formula. We found no significant differences in microbial community composition across treatments, concentration levels, or day of sampling. These findings suggest that microbial species in the Prairie Pothole Region of North America may be tolerant to glyphosate exposure.
 
 [Source](https://doi.org/10.1007/s00248-023-02296-6)
 
+10.1007/s00248-023-02296-6
+
 ---
 
-## Functional conservation of microbial communities determines composition predictability in anaerobic digestion
+## Functional conservation of microbial communities determines composition predictability in anaerobic digestion.
+ 04.09.2023, _Q Lin, L Li, J De Vrieze, C Li, X Fang, X Li_
+
+
+A major challenge in managing and engineering microbial communities is determining whether and how microbial community responses to environmental alterations can be predicted and explained, especially in microorganism-driven systems. We addressed this challenge by monitoring microbial community responses to the periodic addition of the same feedstock throughout anaerobic digestion, a typical microorganism-driven system where microorganisms degrade and transform the feedstock. The immediate and delayed response consortia were assemblages of microorganisms whose abundances significantly increased on the first or third day after feedstock addition. The immediate response consortia were more predictable than the delayed response consortia and showed a reproducible and predictable order-level composition across multiple feedstock additions. These results stood in both present (16 S rRNA gene) and potentially active (16 S rRNA) microbial communities and in different feedstocks with different biodegradability and were validated by simulation modeling. Despite substantial species variability, the immediate response consortia aligned well with the reproducible CH4 production, which was attributed to the conservation of expressed functions by the response consortia throughout anaerobic digestion, based on metatranscriptomic data analyses. The high species variability might be attributed to intraspecific competition and contribute to biodiversity maintenance and functional redundancy. Our results demonstrate reproducible and predictable microbial community responses and their importance in stabilizing system functions.
 
 [Source](https://doi.org/10.1038/s41396-023-01505-x)
+
+10.1038/s41396-023-01505-x
 
 ---
 
@@ -269,9 +290,10 @@ Long-term sequelae of coronavirus disease (COVID)-19 are frequent and of major c
 ---
 
 ## Clustering microbiome data using mixtures of logistic normal multinomial models.
- 10.09.2023, _Y Fang, S Subedi_
+ 11.09.2023, _Y Fang, S Subedi_
 
 
+_Bayes Theorem, Cluster Analysis, Computational Biology, High-Throughput Nucleotide Sequencing, Microbiota_
 Discrete data such as counts of microbiome taxa resulting from next-generation sequencing are routinely encountered in bioinformatics. Taxa count data in microbiome studies are typically high-dimensional, over-dispersed, and can only reveal relative abundance therefore being treated as compositional. Analyzing compositional data presents many challenges because they are restricted to a simplex. In a logistic normal multinomial model, the relative abundance is mapped from a simplex to a latent variable that exists on the real Euclidean space using the additive log-ratio transformation. While a logistic normal multinomial approach brings flexibility for modeling the data, it comes with a heavy computational cost as the parameter estimation typically relies on Bayesian techniques. In this paper, we develop a novel mixture of logistic normal multinomial models for clustering microbiome data. Additionally, we utilize an efficient framework for parameter estimation using variational Gaussian approximations (VGA). Adopting a variational Gaussian approximation for the posterior of the latent variable reduces the computational overhead substantially. The proposed method is illustrated on simulated and real datasets.
 
 [Source](https://doi.org/10.1038/s41598-023-41318-8)
