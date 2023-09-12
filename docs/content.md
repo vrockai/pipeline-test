@@ -34,10 +34,10 @@ Obesity (OB) and cardiometabolic disease are major public health issues linked t
 ---
 
 ## Resistant starch decreases intrahepatic triglycerides in patients with NAFLD via gut microbiome alterations.
- 08.09.2023, _Y Ni, L Qian, SL Siliceo, X Long, E Nychas, Y Liu, MJ Ismaiah, H Leung, L Zhang, Q Gao, Q Wu, Y Zhang, X Jia, S Liu, R Yuan, L Zhou, X Wang, Q Li, Y Zhao, H El-Nezami, A Xu, G Xu, H Li, G Panagiotou, W Jia_
+ 11.09.2023, _Y Ni, L Qian, SL Siliceo, X Long, E Nychas, Y Liu, MJ Ismaiah, H Leung, L Zhang, Q Gao, Q Wu, Y Zhang, X Jia, S Liu, R Yuan, L Zhou, X Wang, Q Li, Y Zhao, H El-Nezami, A Xu, G Xu, H Li, G Panagiotou, W Jia_
 
 
-_Animals, Mice, Non-alcoholic Fatty Liver Disease, Gastrointestinal Microbiome, Resistant Starch, Microbiota, Triglycerides_
+_Animals, Mice, Gastrointestinal Microbiome, Microbiota, Non-alcoholic Fatty Liver Disease, Resistant Starch, Triglycerides, Humans_
 Non-alcoholic fatty liver disease (NAFLD) is a hepatic manifestation of metabolic dysfunction for which effective interventions are lacking. To investigate the effects of resistant starch (RS) as a microbiota-directed dietary supplement for NAFLD treatment, we coupled a 4-month randomized placebo-controlled clinical trial in individuals with NAFLD (ChiCTR-IOR-15007519) with metagenomics and metabolomics analysis. Relative to the control (n = 97), the RS intervention (n = 99) resulted in a 9.08% absolute reduction of intrahepatic triglyceride content (IHTC), which was 5.89% after adjusting for weight loss. Serum branched-chain amino acids (BCAAs) and gut microbial species, in particular Bacteroides stercoris, significantly correlated with IHTC and liver enzymes and were reduced by RS. Multi-omics integrative analyses revealed the interplay among gut microbiota changes, BCAA availability, and hepatic steatosis, with causality supported by fecal microbiota transplantation and monocolonization in mice. Thus, RS dietary supplementation might be a strategy for managing NAFLD by altering gut microbiota composition and functionality.
 
 [Source](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(23)00297-8)
@@ -138,15 +138,9 @@ The oral microbiota has an enormous impact on human health, with oral dysbiosis 
 
 ---
 
-## Association between primary Sjögren's syndrome and gut microbiota disruption: a systematic review and meta-analysis.
- 08.09.2023, _Y Shen, X Yu, Q Wang, X Yao, D Lu, D Zhou, X Wang_
-
-
-Evidence of gut microbiota disruption for numerous autoimmune diseases has accumulated. Recently, the relationship between the microbiota and primary Sjögren's disease has been increasingly investigated but has yet to be systematically elucidated. Therefore, a meta-analysis of publications dealing on topic was conducted. Case-control studies comparing primary Sjögren's syndrome patients and healthy controls (HCs) were systematically searched in nine databases from inception to March 1, 2023. The primary result quantitatively evaluated in this meta-analysis was the α-diversity. The secondary results qualitatively extracted and analyzed were the β-diversity and relative abundance. In total, 22 case-control studies covering 915 pSS patients and 2103 HCs were examined. The quantitative analysis revealed a slight reduction in α-diversity in pSS patients compared to HCs, with a lower Shannon-Wiener index (SMD = - 0.46, (- 0.68, - 0.25), p &lt; 0.0001, I2 = 71%), Chao1 richness estimator (SMD = - 0.59, (- 0.86, - 0.32), p &lt; 0.0001, I2 = 81%), and ACE index (SMD = - 0.92, (- 1.64, - 0.19), p = 0.01, I2 = 86%). However, the Simpson index (SMD = 0.01, (- 0.43, 0.46) p = 0.95, I2 = 86%) was similar in the two groups. The β-diversity significantly differed between pSS patients and HCs. Variations in the abundance of specific microbes and their metabolites and potential functions contribute to the pSS pathogenesis. Notably, the abundance of the phylum Firmicutes decreased, while that of Proteobacteria increased. SCFA-producing microbes including Ruminococcaceae, Lachnospiraceae, Faecalibacterium, Butyricicoccus, and Eubacterium hallii were depleted. In addition to diversity, the abundances of some specific microbes were related to clinical parameters. According to this systematic review and meta-analysis, gut microbiota dysbiosis, including reduced diversity, was associated with proinflammatory bacterium enrichment and anti-inflammatory bacterium depletion in pSS patients. Further research on the relationship between the gut microbiota and pSS is warranted.
+## Association between primary Sjögren’s syndrome and gut microbiota disruption: a systematic review and meta-analysis
 
 [Source](https://doi.org/10.1007/s10067-023-06754-x)
-
-10.1007/s10067-023-06754-x
 
 ---
 
@@ -224,15 +218,9 @@ Long-term sequelae of coronavirus disease (COVID)-19 are frequent and of major c
 
 ---
 
-## Microbial communities associated with resin canal discoloration in mango fruit.
- 07.09.2023, _M Umar, JP Bowman, C Asis, C McConchie, A Eyles, R Stanley, A Gracie_
-
-
-Resin canal discoloration (RCD) severely impacts the fruit quality of mango, diminishes consumer confidence and reduces sales, but the biological cause is still unclear. Using next-generation sequencing, the overall microbial community composition of RCD + and visually healthy mango fruit was determined for the first time to examine the possible role of bacterial and fungal pathogens in RCD. The diversity profile of bacterial and fungal communities was determined using primers targeting the 16S rRNA gene and ITS regions. Results showed that bacterial communities in healthy fruits are clustered together and significantly different from those in RCD + fruits. Tatumella and Pantoea species were the most abundant bacterial taxa on RCD + fruit, and both have been linked to disease outbreaks in a variety of fruit crops. Fungal communities were generally similar between RCD + and normal samples though non-pathogenic yeasts Meyerozyma and Naganishia tended to dominate the fungal communities on RCD + fruit. The study indicates that bacteria rather than fungal organisms are more likely to be associated with RCD in mango. This finding will facilitate the isolation and confirmation of RCD-causing organisms and the development of control strategies to manage RCD problem in mango.
+## Microbial communities associated with resin canal discoloration in mango fruit
 
 [Source](https://doi.org/10.1093/lambio/ovad104)
-
-10.1093/lambio/ovad104
 
 ---
 
@@ -242,28 +230,15 @@ Resin canal discoloration (RCD) severely impacts the fruit quality of mango, dim
 
 ---
 
-## Antarctic snow algae: unraveling the processes underlying microbial community assembly during blooms formation.
- 07.09.2023, _DF Soto, I Gómez, P Huovinen_
-
-
-_Antarctic Regions, Phylogeny, RNA, Ribosomal, 16S, Eukaryota, Microbiota_
-At the West Antarctic Peninsula, snow algae blooms are composed of complex microbial communities dominated by green microalgae and bacteria. During their progression, the assembly of these microbial communities occurs under harsh environmental conditions and variable nutrient content due to fast snow melting. To date, it is still unclear what are the ecological mechanisms governing the composition and abundance of microorganisms during the formation of snow algae blooms. In this study, we aim to examine the main ecological mechanisms governing the assembly of snow algae blooms from early stages to colorful stages blooms.
+## Antarctic snow algae: unraveling the processes underlying microbial community assembly during blooms formation
 
 [Source](https://doi.org/10.1186/s40168-023-01643-6)
 
-10.1186/s40168-023-01643-6
-
 ---
 
-## Understanding how various forms of phosphorus stress affect microbiome functions and boost plant disease resistance: Insights from metagenomic analysis.
- 10.09.2023, _J Kang, W Qiu, W Zhang, J Liu, Z Yang, Z Wu, J Ge_
-
-
-The plant's response to phosphorus (P) starvation suppresses its immunity and regulates rhizosphere microbial colonization. However, the impact of various P forms on plant disease resistance and microbial composition remains underreported. This paper examines the soybean rhizosphere microbiome facing co-stress from Fusarium oxysporum and diverse P forms. Macrogenomic analysis evaluates whether P addition enhances plant disease resistance and rhizosphere microbial function, and if such effects relate to P forms. Results show that different P forms mitigate F. oxysporum-induced plant inhibition by promoting P turnover. P forms predominantly affect microbial composition, followed by soil and plant properties. In soybean, the phosphate transport strategy (ugpA/Q) was selected to maintain high P to enhance immunity in the KH2PO4 treatment, while organo-P mineralization (phnH/F/W/G) was selected for superphosphate treatment. The Frankiales, a P-turnover microorganism, copiotrophic microorganisms, and indicator bacteria of plant properties, initially increase after F. oxysporum inoculation and then decrease post P addition, regardless of P forms. Additionally, the rhizosphere microbial community's metabolic activities and compounds significantly aid soybean defense against F. oxysporum, with functional types depending on P forms. Therefore, these findings establish a novel approach to enhance host defense against soil-borne diseases through P nutrition regulation to mediate host-driven metabolic activities of microbial communities.
+## Understanding how various forms of phosphorus stress affect microbiome functions and boost plant disease resistance: Insights from metagenomic analysis
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.166899)
-
-10.1016/j.scitotenv.2023.166899
 
 ---
 
@@ -273,15 +248,9 @@ The plant's response to phosphorus (P) starvation suppresses its immunity and re
 
 ---
 
-## How Benthic Sediment Microbial Communities Respond to Glyphosate and Its Metabolite: a Microcosm Experiment.
- 06.09.2023, _CM Cornish, P Bergholz, K Schmidt, J Sweetman_
-
-
-Glyphosate is the most commonly used agricultural herbicide in the world. In aquatic ecosystems, glyphosate often adsorbs to benthic substrates or is metabolized and degraded by microorganisms. The effects of glyphosate on microbial communities vary widely as microorganisms respond differently to exposure. To help understand the impacts of glyphosate on the sediment microbiome, we conducted a microcosm experiment examining the responses of benthic sediment microbial communities to herbicide treatments. Sediments from a prairie pothole wetland were collected, and 16S rRNA gene sequencing was used to analyze community composition 2-h and 14-days after a single treatment of low (0.07 ppm), medium (0.7 ppm), or high (7 ppm) glyphosate, aminomethylphosphonic acid (glyphosate metabolite), or a glyphosate-based commercial formula. We found no significant differences in microbial community composition across treatments, concentration levels, or day of sampling. These findings suggest that microbial species in the Prairie Pothole Region of North America may be tolerant to glyphosate exposure.
+## How Benthic Sediment Microbial Communities Respond to Glyphosate and Its Metabolite: a Microcosm Experiment
 
 [Source](https://doi.org/10.1007/s00248-023-02296-6)
-
-10.1007/s00248-023-02296-6
 
 ---
 
