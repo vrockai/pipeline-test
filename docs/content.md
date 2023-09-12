@@ -138,9 +138,15 @@ The oral microbiota has an enormous impact on human health, with oral dysbiosis 
 
 ---
 
-## Association between primary Sjögren’s syndrome and gut microbiota disruption: a systematic review and meta-analysis
+## Association between primary Sjögren's syndrome and gut microbiota disruption: a systematic review and meta-analysis.
+ 08.09.2023, _Y Shen, X Yu, Q Wang, X Yao, D Lu, D Zhou, X Wang_
+
+
+Evidence of gut microbiota disruption for numerous autoimmune diseases has accumulated. Recently, the relationship between the microbiota and primary Sjögren's disease has been increasingly investigated but has yet to be systematically elucidated. Therefore, a meta-analysis of publications dealing on topic was conducted. Case-control studies comparing primary Sjögren's syndrome patients and healthy controls (HCs) were systematically searched in nine databases from inception to March 1, 2023. The primary result quantitatively evaluated in this meta-analysis was the α-diversity. The secondary results qualitatively extracted and analyzed were the β-diversity and relative abundance. In total, 22 case-control studies covering 915 pSS patients and 2103 HCs were examined. The quantitative analysis revealed a slight reduction in α-diversity in pSS patients compared to HCs, with a lower Shannon-Wiener index (SMD = - 0.46, (- 0.68, - 0.25), p &lt; 0.0001, I2 = 71%), Chao1 richness estimator (SMD = - 0.59, (- 0.86, - 0.32), p &lt; 0.0001, I2 = 81%), and ACE index (SMD = - 0.92, (- 1.64, - 0.19), p = 0.01, I2 = 86%). However, the Simpson index (SMD = 0.01, (- 0.43, 0.46) p = 0.95, I2 = 86%) was similar in the two groups. The β-diversity significantly differed between pSS patients and HCs. Variations in the abundance of specific microbes and their metabolites and potential functions contribute to the pSS pathogenesis. Notably, the abundance of the phylum Firmicutes decreased, while that of Proteobacteria increased. SCFA-producing microbes including Ruminococcaceae, Lachnospiraceae, Faecalibacterium, Butyricicoccus, and Eubacterium hallii were depleted. In addition to diversity, the abundances of some specific microbes were related to clinical parameters. According to this systematic review and meta-analysis, gut microbiota dysbiosis, including reduced diversity, was associated with proinflammatory bacterium enrichment and anti-inflammatory bacterium depletion in pSS patients. Further research on the relationship between the gut microbiota and pSS is warranted.
 
 [Source](https://doi.org/10.1007/s10067-023-06754-x)
+
+10.1007/s10067-023-06754-x
 
 ---
 
@@ -254,15 +260,9 @@ Long-term sequelae of coronavirus disease (COVID)-19 are frequent and of major c
 
 ---
 
-## Functional conservation of microbial communities determines composition predictability in anaerobic digestion.
- 04.09.2023, _Q Lin, L Li, J De Vrieze, C Li, X Fang, X Li_
-
-
-A major challenge in managing and engineering microbial communities is determining whether and how microbial community responses to environmental alterations can be predicted and explained, especially in microorganism-driven systems. We addressed this challenge by monitoring microbial community responses to the periodic addition of the same feedstock throughout anaerobic digestion, a typical microorganism-driven system where microorganisms degrade and transform the feedstock. The immediate and delayed response consortia were assemblages of microorganisms whose abundances significantly increased on the first or third day after feedstock addition. The immediate response consortia were more predictable than the delayed response consortia and showed a reproducible and predictable order-level composition across multiple feedstock additions. These results stood in both present (16 S rRNA gene) and potentially active (16 S rRNA) microbial communities and in different feedstocks with different biodegradability and were validated by simulation modeling. Despite substantial species variability, the immediate response consortia aligned well with the reproducible CH4 production, which was attributed to the conservation of expressed functions by the response consortia throughout anaerobic digestion, based on metatranscriptomic data analyses. The high species variability might be attributed to intraspecific competition and contribute to biodiversity maintenance and functional redundancy. Our results demonstrate reproducible and predictable microbial community responses and their importance in stabilizing system functions.
+## Functional conservation of microbial communities determines composition predictability in anaerobic digestion
 
 [Source](https://doi.org/10.1038/s41396-023-01505-x)
-
-10.1038/s41396-023-01505-x
 
 ---
 
