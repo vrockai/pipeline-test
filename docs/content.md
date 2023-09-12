@@ -224,9 +224,15 @@ Long-term sequelae of coronavirus disease (COVID)-19 are frequent and of major c
 
 ---
 
-## Microbial communities associated with resin canal discoloration in mango fruit
+## Microbial communities associated with resin canal discoloration in mango fruit.
+ 07.09.2023, _M Umar, JP Bowman, C Asis, C McConchie, A Eyles, R Stanley, A Gracie_
+
+
+Resin canal discoloration (RCD) severely impacts the fruit quality of mango, diminishes consumer confidence and reduces sales, but the biological cause is still unclear. Using next-generation sequencing, the overall microbial community composition of RCD + and visually healthy mango fruit was determined for the first time to examine the possible role of bacterial and fungal pathogens in RCD. The diversity profile of bacterial and fungal communities was determined using primers targeting the 16S rRNA gene and ITS regions. Results showed that bacterial communities in healthy fruits are clustered together and significantly different from those in RCD + fruits. Tatumella and Pantoea species were the most abundant bacterial taxa on RCD + fruit, and both have been linked to disease outbreaks in a variety of fruit crops. Fungal communities were generally similar between RCD + and normal samples though non-pathogenic yeasts Meyerozyma and Naganishia tended to dominate the fungal communities on RCD + fruit. The study indicates that bacteria rather than fungal organisms are more likely to be associated with RCD in mango. This finding will facilitate the isolation and confirmation of RCD-causing organisms and the development of control strategies to manage RCD problem in mango.
 
 [Source](https://doi.org/10.1093/lambio/ovad104)
+
+10.1093/lambio/ovad104
 
 ---
 
@@ -236,15 +242,28 @@ Long-term sequelae of coronavirus disease (COVID)-19 are frequent and of major c
 
 ---
 
-## Antarctic snow algae: unraveling the processes underlying microbial community assembly during blooms formation
+## Antarctic snow algae: unraveling the processes underlying microbial community assembly during blooms formation.
+ 07.09.2023, _DF Soto, I Gómez, P Huovinen_
+
+
+_Antarctic Regions, Phylogeny, RNA, Ribosomal, 16S, Eukaryota, Microbiota_
+At the West Antarctic Peninsula, snow algae blooms are composed of complex microbial communities dominated by green microalgae and bacteria. During their progression, the assembly of these microbial communities occurs under harsh environmental conditions and variable nutrient content due to fast snow melting. To date, it is still unclear what are the ecological mechanisms governing the composition and abundance of microorganisms during the formation of snow algae blooms. In this study, we aim to examine the main ecological mechanisms governing the assembly of snow algae blooms from early stages to colorful stages blooms.
 
 [Source](https://doi.org/10.1186/s40168-023-01643-6)
 
+10.1186/s40168-023-01643-6
+
 ---
 
-## Understanding how various forms of phosphorus stress affect microbiome functions and boost plant disease resistance: Insights from metagenomic analysis
+## Understanding how various forms of phosphorus stress affect microbiome functions and boost plant disease resistance: Insights from metagenomic analysis.
+ 10.09.2023, _J Kang, W Qiu, W Zhang, J Liu, Z Yang, Z Wu, J Ge_
+
+
+The plant's response to phosphorus (P) starvation suppresses its immunity and regulates rhizosphere microbial colonization. However, the impact of various P forms on plant disease resistance and microbial composition remains underreported. This paper examines the soybean rhizosphere microbiome facing co-stress from Fusarium oxysporum and diverse P forms. Macrogenomic analysis evaluates whether P addition enhances plant disease resistance and rhizosphere microbial function, and if such effects relate to P forms. Results show that different P forms mitigate F. oxysporum-induced plant inhibition by promoting P turnover. P forms predominantly affect microbial composition, followed by soil and plant properties. In soybean, the phosphate transport strategy (ugpA/Q) was selected to maintain high P to enhance immunity in the KH2PO4 treatment, while organo-P mineralization (phnH/F/W/G) was selected for superphosphate treatment. The Frankiales, a P-turnover microorganism, copiotrophic microorganisms, and indicator bacteria of plant properties, initially increase after F. oxysporum inoculation and then decrease post P addition, regardless of P forms. Additionally, the rhizosphere microbial community's metabolic activities and compounds significantly aid soybean defense against F. oxysporum, with functional types depending on P forms. Therefore, these findings establish a novel approach to enhance host defense against soil-borne diseases through P nutrition regulation to mediate host-driven metabolic activities of microbial communities.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.166899)
+
+10.1016/j.scitotenv.2023.166899
 
 ---
 
@@ -254,15 +273,27 @@ Long-term sequelae of coronavirus disease (COVID)-19 are frequent and of major c
 
 ---
 
-## How Benthic Sediment Microbial Communities Respond to Glyphosate and Its Metabolite: a Microcosm Experiment
+## How Benthic Sediment Microbial Communities Respond to Glyphosate and Its Metabolite: a Microcosm Experiment.
+ 06.09.2023, _CM Cornish, P Bergholz, K Schmidt, J Sweetman_
+
+
+Glyphosate is the most commonly used agricultural herbicide in the world. In aquatic ecosystems, glyphosate often adsorbs to benthic substrates or is metabolized and degraded by microorganisms. The effects of glyphosate on microbial communities vary widely as microorganisms respond differently to exposure. To help understand the impacts of glyphosate on the sediment microbiome, we conducted a microcosm experiment examining the responses of benthic sediment microbial communities to herbicide treatments. Sediments from a prairie pothole wetland were collected, and 16S rRNA gene sequencing was used to analyze community composition 2-h and 14-days after a single treatment of low (0.07 ppm), medium (0.7 ppm), or high (7 ppm) glyphosate, aminomethylphosphonic acid (glyphosate metabolite), or a glyphosate-based commercial formula. We found no significant differences in microbial community composition across treatments, concentration levels, or day of sampling. These findings suggest that microbial species in the Prairie Pothole Region of North America may be tolerant to glyphosate exposure.
 
 [Source](https://doi.org/10.1007/s00248-023-02296-6)
 
+10.1007/s00248-023-02296-6
+
 ---
 
-## Functional conservation of microbial communities determines composition predictability in anaerobic digestion
+## Functional conservation of microbial communities determines composition predictability in anaerobic digestion.
+ 04.09.2023, _Q Lin, L Li, J De Vrieze, C Li, X Fang, X Li_
+
+
+A major challenge in managing and engineering microbial communities is determining whether and how microbial community responses to environmental alterations can be predicted and explained, especially in microorganism-driven systems. We addressed this challenge by monitoring microbial community responses to the periodic addition of the same feedstock throughout anaerobic digestion, a typical microorganism-driven system where microorganisms degrade and transform the feedstock. The immediate and delayed response consortia were assemblages of microorganisms whose abundances significantly increased on the first or third day after feedstock addition. The immediate response consortia were more predictable than the delayed response consortia and showed a reproducible and predictable order-level composition across multiple feedstock additions. These results stood in both present (16 S rRNA gene) and potentially active (16 S rRNA) microbial communities and in different feedstocks with different biodegradability and were validated by simulation modeling. Despite substantial species variability, the immediate response consortia aligned well with the reproducible CH4 production, which was attributed to the conservation of expressed functions by the response consortia throughout anaerobic digestion, based on metatranscriptomic data analyses. The high species variability might be attributed to intraspecific competition and contribute to biodiversity maintenance and functional redundancy. Our results demonstrate reproducible and predictable microbial community responses and their importance in stabilizing system functions.
 
 [Source](https://doi.org/10.1038/s41396-023-01505-x)
+
+10.1038/s41396-023-01505-x
 
 ---
 
