@@ -101,9 +101,10 @@ Bacteriophages (phages) are bacterial viruses that have been shown to shape micr
 ---
 
 ## Gut microbiota of old mice worsens neurological outcome after brain ischemia via increased valeric acid and IL-17 in the blood.
- 12.09.2023, _X Zeng, J Li, W Shan, Z Lai, Z Zuo_
+ 13.09.2023, _X Zeng, J Li, W Shan, Z Lai, Z Zuo_
 
 
+_Male, Animals, Mice, Mice, Inbred C57BL, Gastrointestinal Microbiome, Interleukin-17, Fatty Acids, Nonesterified, Brain Ischemia, Inflammation_
 Aging is a significant risk factor for ischemic stroke and worsens its outcome. However, the mechanisms for this worsened neurological outcome with aging are not clearly defined.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01648-1)
