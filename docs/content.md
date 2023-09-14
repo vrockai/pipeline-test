@@ -77,7 +77,7 @@ Acute pancreatitis (AP) is a type of digestive system disease with high mortalit
 ---
 
 ## Specific pathway abundances in the neonatal calf faecal microbiome are associated with susceptibility to Cryptosporidium parvum infection: a metagenomic analysis.
- 12.09.2023, _MF Hares, BE Griffiths, F Johnson, C Nelson, S Haldenby, CJ Stewart, JS Duncan, G Oikonomou, JL Coombes_
+ 14.09.2023, _MF Hares, BE Griffiths, F Johnson, C Nelson, S Haldenby, CJ Stewart, JS Duncan, G Oikonomou, JL Coombes_
 
 
 Cryptosporidium parvum is the main cause of calf scour worldwide. With limited therapeutic options and research compared to other Apicomplexa, it is important to understand the parasites' biology and interactions with the host and microbiome in order to develop novel strategies against this infection. The age-dependent nature of symptomatic cryptosporidiosis suggests a link to the undeveloped immune response, the immature intestinal epithelium, and its associated microbiota. This led us to hypothesise that specific features of the early life microbiome could predict calf susceptibility to C. parvum infection.
@@ -92,7 +92,7 @@ Cryptosporidium parvum is the main cause of calf scour worldwide. With limited t
  14.09.2023, _K Wortelboer, PA de Jonge, TPM Scheithauer, I Attaye, EM Kemper, M Nieuwdorp, H Herrema_
 
 
-_Animals, Mice, Metabolic Syndrome, Double-Blind Method, Infertility, Bacteriophages, Blood Glucose, Mice, Obese_
+_Bacteriophages, Blood Glucose, Double-Blind Method, Metabolic Syndrome, Humans, Fecal Microbiota Transplantation_
 Bacteriophages (phages) are bacterial viruses that have been shown to shape microbial communities. Previous studies have shown that faecal virome transplantation can decrease weight gain and normalize blood glucose tolerance in diet-induced obese mice. Therefore, we performed a double-blind, randomised, placebo-controlled pilot study in which 24 individuals with metabolic syndrome were randomised to a faecal filtrate transplantation (FFT) from a lean healthy donor (n = 12) or placebo (n = 12). The primary outcome, change in glucose metabolism, and secondary outcomes, safety and longitudinal changes within the intestinal bacteriome and phageome, were assessed from baseline up to 28 days. All 24 included subjects completed the study and are included in the analyses. While the overall changes in glucose metabolism are not significantly different between both groups, the FFT is well-tolerated and without any serious adverse events. The phage virion composition is significantly altered two days after FFT as compared to placebo, which coincides with more virulent phage-microbe interactions. In conclusion, we provide evidence that gut phages can be safely administered to transiently alter the gut microbiota of recipients.
 
 [Source](https://www.nature.com/articles/s41467-023-41329-z)
@@ -102,7 +102,7 @@ Bacteriophages (phages) are bacterial viruses that have been shown to shape micr
 ---
 
 ## Gut microbiota of old mice worsens neurological outcome after brain ischemia via increased valeric acid and IL-17 in the blood.
- 13.09.2023, _X Zeng, J Li, W Shan, Z Lai, Z Zuo_
+ 14.09.2023, _X Zeng, J Li, W Shan, Z Lai, Z Zuo_
 
 
 _Male, Animals, Mice, Mice, Inbred C57BL, Gastrointestinal Microbiome, Interleukin-17, Fatty Acids, Nonesterified, Brain Ischemia, Inflammation_
