@@ -89,9 +89,10 @@ Cryptosporidium parvum is the main cause of calf scour worldwide. With limited t
 ---
 
 ## Phage-microbe dynamics after sterile faecal filtrate transplantation in individuals with metabolic syndrome: a double-blind, randomised, placebo-controlled clinical trial assessing efficacy and safety.
- 12.09.2023, _K Wortelboer, PA de Jonge, TPM Scheithauer, I Attaye, EM Kemper, M Nieuwdorp, H Herrema_
+ 14.09.2023, _K Wortelboer, PA de Jonge, TPM Scheithauer, I Attaye, EM Kemper, M Nieuwdorp, H Herrema_
 
 
+_Animals, Mice, Metabolic Syndrome, Double-Blind Method, Infertility, Bacteriophages, Blood Glucose, Mice, Obese_
 Bacteriophages (phages) are bacterial viruses that have been shown to shape microbial communities. Previous studies have shown that faecal virome transplantation can decrease weight gain and normalize blood glucose tolerance in diet-induced obese mice. Therefore, we performed a double-blind, randomised, placebo-controlled pilot study in which 24 individuals with metabolic syndrome were randomised to a faecal filtrate transplantation (FFT) from a lean healthy donor (n = 12) or placebo (n = 12). The primary outcome, change in glucose metabolism, and secondary outcomes, safety and longitudinal changes within the intestinal bacteriome and phageome, were assessed from baseline up to 28 days. All 24 included subjects completed the study and are included in the analyses. While the overall changes in glucose metabolism are not significantly different between both groups, the FFT is well-tolerated and without any serious adverse events. The phage virion composition is significantly altered two days after FFT as compared to placebo, which coincides with more virulent phage-microbe interactions. In conclusion, we provide evidence that gut phages can be safely administered to transiently alter the gut microbiota of recipients.
 
 [Source](https://www.nature.com/articles/s41467-023-41329-z)
