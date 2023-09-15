@@ -1,3 +1,204 @@
+## BugSigDB - a database for identifying unusual abundance patterns in human microbiome studies.
+ 11.09.2023, __
+
+
+
+[Source](https://bugsigdb.org/Main_Page)
+
+10.1038/s41587-023-01930-5
+
+---
+
+##  BugSigDB
+
+[Source](https://bugsigdb.org/Main_Page)
+
+---
+
+## Computational exploration of the global microbiome for antibiotic discovery.
+ 14.09.2023, _CD Santos-Júnior, MDT Torres, Y Duan, Á Rodríguez Del Río, TSB Schmidt, H Chong, A Fullam, K Michael, C Zhu, A Houseman, J Somborski, A Vines, XM Zhao, P Bork, J Huerta-Cepas, C de la Fuente-Nunez, LP Coelho_
+
+
+Novel antibiotics are urgently needed to combat the antibiotic-resistance crisis. We present a machine learning-based approach to predict prokaryotic antimicrobial peptides (AMPs) by leveraging a vast dataset of 63,410 metagenomes and 87,920 microbial genomes. This led to the creation of AMPSphere, a comprehensive catalog comprising 863,498 non-redundant peptides, the majority of which were previously unknown. We observed that AMP production varies by habitat, with animal-associated samples displaying the highest proportion of AMPs compared to other habitats. Furthermore, within different human-associated microbiota, strain-level differences were evident. To validate our predictions, we synthesized and experimentally tested 50 AMPs, demonstrating their efficacy against clinically relevant drug-resistant pathogens both in vitro and in vivo. These AMPs exhibited antibacterial activity by targeting the bacterial membrane. Additionally, AMPSphere provides valuable insights into the evolutionary origins of peptides. In conclusion, our approach identified AMP sequences within prokaryotic microbiomes, opening up new avenues for the discovery of antibiotics.
+
+[Source](https://ampsphere.big-data-biology.org/home)
+
+10.1101/2023.08.31.555663
+
+---
+
+## AMPSphere
+
+[Source](https://ampsphere.big-data-biology.org/home)
+
+---
+
+## online conferencing and how to do it better
+
+[Source](http://[https://www.nature.com/articles/d41586-023-02507-7])
+
+---
+
+## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
+ 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
+
+
+_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
+This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
+
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+
+10.3390/ijerph19010099
+
+---
+
+## #MVIF
+
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/mf96F35ETY
+
+[Source](https://t.co/mf96F35ETY)
+
+---
+
+## @conTaminatedsci
+
+[Source](https://twitter.com/conTaminatedsci?ref_src=twsrc%5Etfw)
+
+---
+
+## @HillLabSask
+
+[Source](https://twitter.com/HillLabSask?ref_src=twsrc%5Etfw)
+
+---
+
+## @IlianaSerghiou
+
+[Source](https://twitter.com/IlianaSerghiou?ref_src=twsrc%5Etfw)
+
+---
+
+## @SalamMicrobes
+
+[Source](https://twitter.com/SalamMicrobes?ref_src=twsrc%5Etfw)
+
+---
+
+## @DegraeveAl
+
+[Source](https://twitter.com/DegraeveAl?ref_src=twsrc%5Etfw)
+
+---
+
+## Altered microRNA expression in patients with sarcoidosis.
+ 15.09.2023, _R Morar, C Dickens, T Dix-Peek, R Duarte, C Feldman_
+
+
+Background Sarcoidosis is a granulomatous multisystem disease of uncertain aetiology. The disease has major inflammatory and immune components; however, the immunopathogenesis is not well understood. Micro ribonucleic acids (microRNAs) are classes of miniature, single-stranded, non-coding RNAs. Their key recognised role includes mediating the silencing of target genes post-transcriptionally. Recently, the role of miRNAs has gained interest in numerous disorders, suggested as being involved in pathogenesis of those diseases and acting as disease markers. Very little is known about the role of miRNAs in sarcoidosis, with nothing known regarding miRNAs in South African patients. The main objective, therefore, was to investigate the serum expression of approximately 800 miRNAs in patients with sarcoidosis compared with race-, age- and gender-matched healthy controls. Methods A total of six patients and six matched controls participated in this study. Whole blood samples were collected in EDTA tubes, processed and the plasma retained. RNA was extracted from the stored plasma samples using the QIAGEN miRNeasy Mini Kit® and concentrated using a salt-ethanol precipitation. The extracted miRNA was profiled using an nCounter® miRNA human v3 expression assay and data analysed using the nSolver™ Analysis Software. Results After excluding one sample/control pair because of cellular RNA contamination, the remaining five patient and five matched control samples were analysed, and 145 miRNAs were found to be potentially differentially expressed. On applying a Bonferroni correction, the only miRNA that was significantly different was miRNA let-7a-5p, which was significantly overexpressed (141-fold change; p&lt;0.0003) in patients compared with controls. Conclusion This is the first miRNA report of differentially expressed miRNAs in the serum of patients with sarcoidosis and matched healthy controls in South Africa. The results obtained suggest that miRNAs may play a role in sarcoidosis pathogenesis. Whether these molecules have diagnostic or prognostic implications, needs future studies recruiting larger patient cohorts.
+
+[Source](https://twitter.com/QIAGEN?ref_src=twsrc%5Etfw)
+
+10.36141/svdld.v40i3.13399
+
+---
+
+## @QIAGEN
+
+[Source](https://twitter.com/QIAGEN?ref_src=twsrc%5Etfw)
+
+---
+
+## @NSURPorg
+
+[Source](https://twitter.com/NSURPorg?ref_src=twsrc%5Etfw)
+
+---
+
+## pic.twitter.com/l0Sz0N2745
+
+[Source](https://t.co/l0Sz0N2745)
+
+---
+
+## September 11, 2023
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1701235383210508355?ref_src=twsrc%5Etfw)
+
+---
+
+## The landscape of antibiotic resistance genes in the nasopharynx of preterm infants: Prolonged signature of hospitalization and effects by antibiotics
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.08.09.552435v2)
+
+---
+
+## Integrating current analyses of the breast cancer microbiome.
+ 15.09.2023, _S Sohail, MB Burns_
+
+
+_Humans, Cancer Survivors, Databases, Factual, Microbiota, Problem Solving, Research Design, Neoplasms_
+Many cancer types have significant associations with their resident microbial communities-emerging evidence suggests that breast cancers also interact with the local tissue-associated microbiota. Microbiome research advances rapidly and analysis pipelines and databases are updated frequently. This dynamic environment makes comparative evaluations challenging. Here, we have integrated all publicly available studies related to breast cancer and the mammary microbiome in light of advances in this rapidly progressing field. Based on alpha diversity, beta diversity, proportional abundance, and statistical analyses, we observed differences between our modern analytical approaches and the original findings. We were able to classify and identify additional taxa across samples through abundance analyses and identify previously unidentified statistically significant taxa. In our updated analyses there were more taxa identified as statistically significant in comparison to the original studies' results. In the re-analysis for The Microbiome of Aseptically Collected Human Breast Tissue in Benign and Malignant Disease by Hieken et al., there were twelve statistically significant differentially abundant taxa identified in breast tissue microbiota in benign and invasive cancer disease states. In the re-analysis for The Microbiota of Breast Tissue and Its Association with Breast Cancer by Urbaniak et al., there were 18 taxa identified as statistically significant. In the re-analysis for Characterization of the microbiome of nipple aspirate fluid of breast cancer survivors by Chan et al., there were three genera identified as statistically significant in the skin and fluid samples. Our work has discovered that reanalyses are necessary for microbiome studies, especially older 16S studies. Through our re-analysis, we classified and identified more phyla and genera across studies, which supports the notion that reanalyses provide new insights to the microbiome field and help to assess robusticity of previously published findings by using new and updated tools and databases.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291320)
+
+10.1371/journal.pone.0291320
+
+---
+
+## Diet influences community dynamics following vaginal group B <em>Streptococcus</em> colonization 
+
+[Source](https://www.biorxiv.org/content/biorxiv/early/2023/09/10/2023.09.10.556920.full.pdf)
+
+---
+
+## Gut microbes exacerbate systemic inflammation and behavior disorders in neurologic disease CADASIL.
+ 11.09.2023, _S Liu, X Men, Y Guo, W Cai, R Wu, R Gao, W Zhong, H Guo, H Ruan, S Chou, J Mai, S Ping, C Jiang, H Zhou, X Mou, W Zhao, Z Lu_
+
+
+_Animals, Mice, CADASIL, Gastrointestinal Microbiome, Mental Disorders, Cytokines, gamma-Aminobutyric Acid_
+Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) is a cerebral small vessel disease that carries mutations in NOTCH3. The clinical manifestations are influenced by genetic and environmental factors that may include gut microbiome.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01638-3)
+
+10.1186/s40168-023-01638-3
+
+---
+
+## Exploring novel alkane-degradation pathways in uncultured bacteria from the North Atlantic Ocean.
+ 13.09.2023, _M Vázquez Rosas Landa, V De Anda, RR Rohwer, A Angelova, G Waldram, T Gutierrez, BJ Baker_
+
+
+Microbes play a significant role in the degradation of petroleum hydrocarbons in the oceans, yet little is known about the native bacteria that metabolize hydrocarbons before an oil spill. The Faroe-Shetland Channel (FSC) is a deepwater subarctic region of the North Atlantic with prominent oil production and a diverse microbial community associated with the degradation of petroleum. Here, we combine DNA-based stable-isotope probing (DNA-SIP) with metagenomics to elucidate the metabolic underpinnings of native alkane-degrading bacteria from the FSC. From two 13C n-hexadecane SIP experiments using seawater from 5 and 700 m depths in the FSC, we obtained 42 metagenome-assembled genomes (MAGs) belonging to 19 genera, including two previously overlooked hydrocarbon-degrading bacteria, Lentibacter (Alphaproteobacteria) and Dokdonia (Bacteroidetes). Diversity surveys indicated Lentibacter were dominant members of the FSC, constituting up to 17% of these communities. Many of the SIP-enriched MAGs (20/42) encoded a complete alkane oxidation pathway, including alkane monooxygenase (AlkB), rubredoxin reductase (AlkT), and rubredoxin-2 (AlkG). Fourteen Aphaproteobacteria MAGs lacked AlkG for electron transfer. Instead, they encoded novel disulfide isomerases with iron-binding cysteine motifs conserved across rubredoxins. Dokdonia lacked AlkT and AlkG, however, their central alkane-degradation catabolic pathways were complete. We describe previously unrecognized bacteria capable of hydrocarbon degradation, including the dominant genera Lentibacter, which may continuously purge hydrocarbons released from oil exploration activities in the FSC. This advances the understanding of the diversity and physiologies of alkane degradation in the North Atlantic and provides evidence of new mechanisms used to metabolize alkanes. IMPORTANCE Petroleum pollution in the ocean has increased because of rapid population growth and modernization, requiring urgent remediation. Our understanding of the metabolic response of native microbial communities to oil spills is not well understood. Here, we explored the baseline hydrocarbon-degrading communities of a subarctic Atlantic region to uncover the metabolic potential of the bacteria that inhabit the surface and subsurface water. We conducted enrichments with a 13C-labeled hydrocarbon to capture the fraction of the community actively using the hydrocarbon. We then combined this approach with metagenomics to identify the metabolic potential of this hydrocarbon-degrading community. This revealed previously undescribed uncultured bacteria with unique metabolic mechanisms involved in aerobic hydrocarbon degradation, indicating that temperature may be pivotal in structuring hydrocarbon-degrading baseline communities. Our findings highlight gaps in our understanding of the metabolic complexity of hydrocarbon degradation by native marine microbial communities.
+
+[Source](https://journals.asm.org/doi/10.1128/msystems.00619-23)
+
+10.1128/msystems.00619-23
+
+---
+
+## Plastics shape the black soldier fly larvae gut microbiome and select for biodegrading functions.
+ 15.09.2023, _F De Filippis, M Bonelli, D Bruno, G Sequino, A Montali, M Reguzzoni, E Pasolli, D Savy, S Cangemi, V Cozzolino, G Tettamanti, D Ercolini, M Casartelli, S Caccia_
+
+
+_Animals, Larva, Gastrointestinal Microbiome, Plastics, RNA, Ribosomal, 16S, Diptera_
+In the last few years, considerable attention has been focused on the plastic-degrading capability of insects and their gut microbiota in order to develop novel, effective, and green strategies for plastic waste management. Although many analyses based on 16S rRNA gene sequencing are available, an in-depth analysis of the insect gut microbiome to identify genes with plastic-degrading potential is still lacking.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01649-0)
+
+10.1186/s40168-023-01649-0
+
+---
+
+## Enhancing Recovery from Gut Microbiome Dysbiosis and Alleviating DSS-Induced Colitis in Mice with a Consortium of Rare Short-Chain Fatty Acid-Producing Bacteria
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.09.11.556543v1)
+
+---
+
 ## BugSigDB captures patterns of differential abundance across a broad range of host-associated microbial signatures.
  11.09.2023, _L Geistlinger, C Mirzayi, F Zohra, R Azhar, S Elsafoury, C Grieve, J Wokaty, SD Gamboa-Tuz, P Sengupta, I Hecht, A Ravikrishnan, RS Gonçalves, E Franzosa, K Raman, V Carey, JB Dowd, HE Jones, S Davis, N Segata, C Huttenhower, L Waldron_
 
@@ -10,119 +211,39 @@ The literature of human and other host-associated microbiome studies is expandin
 
 ---
 
-## The oral microbiome: diversity, biogeography and human health.
- 12.09.2023, _JL Baker, JL Mark Welch, KM Kauffman, JS McLean, X He_
+## Computational exploration of the global microbiome for antibiotic discovery.
+ 14.09.2023, _CD Santos-Júnior, MDT Torres, Y Duan, Á Rodríguez Del Río, TSB Schmidt, H Chong, A Fullam, K Michael, C Zhu, A Houseman, J Somborski, A Vines, XM Zhao, P Bork, J Huerta-Cepas, C de la Fuente-Nunez, LP Coelho_
 
 
-The human oral microbiota is highly diverse and has a complex ecology, comprising bacteria, microeukaryotes, archaea and viruses. These communities have elaborate and highly structured biogeography that shapes metabolic exchange on a local scale and results from the diverse microenvironments present in the oral cavity. The oral microbiota also interfaces with the immune system of the human host and has an important role in not only the health of the oral cavity but also systemic health. In this Review, we highlight recent advances including novel insights into the biogeography of several oral niches at the species level, as well as the ecological role of candidate phyla radiation bacteria and non-bacterial members of the oral microbiome. In addition, we summarize the relationship between the oral microbiota and the pathology of oral diseases and systemic diseases. Together, these advances move the field towards a more holistic understanding of the oral microbiota and its role in health, which in turn opens the door to the study of novel preventive and therapeutic strategies.
+Novel antibiotics are urgently needed to combat the antibiotic-resistance crisis. We present a machine learning-based approach to predict prokaryotic antimicrobial peptides (AMPs) by leveraging a vast dataset of 63,410 metagenomes and 87,920 microbial genomes. This led to the creation of AMPSphere, a comprehensive catalog comprising 863,498 non-redundant peptides, the majority of which were previously unknown. We observed that AMP production varies by habitat, with animal-associated samples displaying the highest proportion of AMPs compared to other habitats. Furthermore, within different human-associated microbiota, strain-level differences were evident. To validate our predictions, we synthesized and experimentally tested 50 AMPs, demonstrating their efficacy against clinically relevant drug-resistant pathogens both in vitro and in vivo. These AMPs exhibited antibacterial activity by targeting the bacterial membrane. Additionally, AMPSphere provides valuable insights into the evolutionary origins of peptides. In conclusion, our approach identified AMP sequences within prokaryotic microbiomes, opening up new avenues for the discovery of antibiotics.
 
-[Source](https://www.nature.com/articles/s41579-023-00963-6)
+[Source](https://www.biorxiv.org/content/biorxiv/early/2023/09/11/2023.08.31.555663.full.pdf)
 
-10.1038/s41579-023-00963-6
-
----
-
-## Dysbiosis of oral microbiome persists after dental treatment-induced remission of periodontal disease and dental caries.
- 12.09.2023, _K Yama, Y Nishimoto, K Kumagai, R Jo, M Harada, Y Maruyama, Y Aita, N Fujii, T Inokuchi, R Kawamata, M Sako, Y Ichiba, K Tsutsumi, M Kimura, S Murakami, Y Kakizawa, T Kumagai, T Yamada, S Fukuda_
-
-
-Oral diseases, such as periodontal disease and dental caries, have a high risk of recurrence and are considered to be related to dysbiosis of the oral microbiome and metabolome. It is, therefore, important to understand the state of the oral microbiome and metabolome after disease treatment to prevent recurrence. The current study sought to clarify whether oral dysbiosis improves the following remission of symptoms by dental treatment. To this end, the salivary microbiome and metabolome of healthy participants were compared to those with periodontal disease, dental caries, or both (concurrent). Saliva was collected as mouth-rinsed water and the microbiome was measured using 16S rRNA gene targeted sequencing and metabolome using capillary electrophoresis-time-of-flight mass spectrometry. Comparisons with healthy participants were performed before and after treatment, and several months after transition to self-care. Dental treatment significantly improved the oral health condition of each group; several months after treatment, oral health did not deteriorate. However, even after remission, the salivary microbiome of the two groups (oral disease and healthy) differed significantly. Additionally, after remission, significant differences, compared with healthy participants, remained in the relative abundances of disease-related bacteria and nitrate-reducing bacteria. After remission, significant differences were observed in the salivary metabolome in the healthy group in terms of threonate and pyrimidine metabolism-related component concentrations, which are assumed to reflect the high relative abundance of periodontal disease-related bacteria in the microbiome. Oral microbiome dysbiosis persisted even after dental treatment-induced disease remission with a sustained increased risk of disease when compared with healthy participants. IMPORTANCE We characterized the oral conditions, salivary microbiome, and metabolome after dental treatment by investigating the state after treatment completion and transition to self-care. Dental treatment improved oral health conditions, resulting in oral disease remission; however, the imbalanced state of the salivary microbiome continued even after remission. Although the results of this study are preliminary, owing to the small number of participants in each group when compared to larger cohort studies, they indicate that the risk of disease may remain higher than that of healthy participants, thereby demonstrating the importance of removing dental plaque containing disease-related bacteria using appropriate care even after treatment completion. We also identified bacterial species with relative abundances that differed from those of healthy participants even after remission of symptoms, which may indicate that the maturation of certain bacterial species must be controlled to improve the oral microbiome and reduce the risk of disease recurrence.
-
-[Source](https://journals.asm.org/doi/10.1128/msystems.00683-23)
-
-10.1128/msystems.00683-23
+10.1101/2023.08.31.555663
 
 ---
 
-## Proton pump inhibitor treatment aggravates bacterial translocation in patients with advanced cirrhosis and portal hypertension.
- 25.08.2023, _L Sturm, M Hirose, L Stolz, M Schultheiss, K Zoldan, M Reincke, JP Huber, R Kaeser, T Boettler, R Thimme, E Albert, H Busch, A Künstner, D Bettinger_
+## https://t.co/r7E8jWQEjK
 
-
-Recent studies have linked proton pump inhibitor (PPI) treatment to increased complications of cirrhosis, such as bacterial infections and hepatic encephalopathy. However, the underlying pathophysiological mechanisms remain unclear. The present study investigated the hypothesis that PPI treatment may promote adverse effects in patients with advanced cirrhosis by affecting subclinical bacterial translocation (BT) from the gut into the portal venous bloodstream. Blood samples from the portal vein were obtained during implantation of a transjugular intrahepatic portosystemic shunt (TIPS) in a total of 80 cirrhosis patients with PPI treatment (PPI group, n = 57) and without PPI treatment (no-PPI group, n = 23). BT was identified using a 16S ribosomal RNA gene (V1V2 region) polymerase chain reaction. The microbiota composition in the portal venous blood samples was further analyzed by deep amplicon sequencing. Indeed, the prevalence of BT was significantly higher in the PPI group compared to the no-PPI group (86.0% vs 52.2%, P = 0.001). Importantly, this effect was not attributable to group differences in the severity of cirrhosis, parameters of portal hypertension, or medication. Microbiome analyses showed significantly increased alpha-diversity (Shannon) in the portal venous blood of the PPI group. Taxonomic analyses revealed significantly increased Streptococcus abundances in these patients. The present study reveals aggravated BT in patients with advanced cirrhosis and portal hypertension receiving PPI therapy. Increased BT could be an important pathomechanism contributing to the adverse effects of PPI treatment in patients with cirrhosis. IMPORTANCE Long-term prescription of proton pump inhibitors (PPIs) in patients with cirrhosis is common practice. However, in recent years, several observational studies have reported increased complications and negative prognostic effects of PPI treatment in these patients. Judging the significance of these associations is complicated by the fact that a plausible underlying pathomechanism has not been identified so far. In the present study, we address this important issue by investigating the impact of PPI treatment on subclinical bacterial translocation from the gut into the blood stream in patients with advanced cirrhosis and portal hypertension. Indeed, we report significantly aggravated bacterial translocation in cirrhosis patients receiving PPI treatment. This finding is highly relevant, as bacterial translocation is known to promote the development of complications and impair prognosis in patients with cirrhosis. Hence, the present study could establish a plausible link between PPI treatment and adverse effects in cirrhosis.
-
-[Source](https://journals.asm.org/doi/10.1128/mbio.00492-23)
-
-10.1128/mbio.00492-23
+[Source](https://t.co/r7E8jWQEjK)
 
 ---
 
-## A faecal metabolite signature of impaired fasting glucose: results from two independent population-based cohorts.
- 12.09.2023, _A Nogal, F Tettamanzi, Q Dong, P Louca, A Visconti, C Christiansen, T Breuninger, J Linseisen, H Grallert, N Wawro, F Asnicar, K Wong, AF Baleanu, GA Michelotti, N Segata, M Falchi, A Peters, PW Franks, V Bagnardi, TD Spector, JT Bell, C Gieger, AM Valdes, C Menni_
+## A 7-year review of clinical characteristics, predisposing factors and outcomes of post-keratoplasty infectious keratitis: the Nottingham infectious keratitis study.
+ 15.09.2023, _ZZ Ong, TL Wong, L Suresh, Y Hammoudeh, M Lister, DG Said, HS Dua, DSJ Ting_
 
 
-Prediabetes is a metabolic condition associated with gut microbiome composition, though mechanisms remain elusive. We searched for faecal metabolites, a readout of gut microbiome function, associated with impaired fasting glucose (IFG) in 142 individuals with IFG and 1105 healthy individuals from TwinsUK. We used the KORA cohort (318 IFG individuals, 689 healthy individuals) to replicate our findings. We linearly combined 8 IFG-positively associated metabolites (1-methylxantine, nicotinate, glucuronate, uridine, cholesterol, serine, caffeine and protoporphyrin IX) into an IFG-metabolite score, which was significantly associated with higher odds ratios for IFG (TwinsUK: OR[95%CI]=3.9[3.02-5.02], p&lt;0.0001, KORA: OR[95%CI]=1.3[1.16-1.52], p&lt;0.0001) and incident type-2 diabetes (T2D) (TwinsUK: HR[95%CI]=4[1.97-8], p=0.0002). Although these are host-produced metabolites, we found that the gut microbiome is strongly associated with their faecal levels (AUC&gt;70%). Abundances of Faecalibacillus intestinalis, Dorea formicigenerans, Ruminococcus torques and Dorea sp. AF24_7LB were positively associated with IFG, and such associations were partially mediated by 1-methylxanthine and nicotinate (VAF mean(SD)=14.4%(5.1), p&lt;0.05). Our results suggest that gut microbiome is linked to prediabetes not only via the production of microbial metabolites but also by affecting intestinal absorption/excretion of host-produced metabolites and xenobiotics, which are correlated with the risk of IFG. Faecal metabolites enable modelling of another mechanism of gut microbiome effect on prediabetes and T2D onset.
+Post-keratoplasty infectious keratitis (PKIK) is a unique sight-threatening clinical entity which often poses significant therapeutic challenges. This study aimed to examine the clinical presentation, risk factors, management, and clinical outcomes of PKIK.
 
-[Source](https://diabetesjournals.org/diabetes/article/doi/10.2337/db23-0170/153601/A-faecal-metabolite-signature-of-impaired-fasting)
+[Source](https://twitter.com/svetlana_up/status/1699086351348515120?ref_src=twsrc%5Etfw)
 
-10.2337/db23-0170
-
----
-
-## Composition and functional profiles of gut microbiota reflect the treatment stage, severity, and etiology of acute pancreatitis.
- 12.09.2023, _Z Wang, M Guo, J Li, C Jiang, S Yang, S Zheng, M Li, X Ai, X Xu, W Zhang, X He, Y Wang, Y Chen_
-
-
-Acute pancreatitis (AP) is a type of digestive system disease with high mortality. Previous studies have shown that gut microbiota can participate in developing and treating acute pancreatitis by affecting the host's metabolism. In this study, we followed 20 AP patients to generate longitudinal gut microbiota profiles and activity during disease (before treatment, on the third day of treatment, and 1 month after discharge). We analyzed species composition and metabolic pathways' changes across the treatment phase, severity, and etiology. The diversity of the gut microbiome of patients with AP did not show much variation with treatment. In contrast, the metabolic functions of the gut microbiota, such as the essential chemical reactions that produce energy and maintain life, were partially reinstated after treatment. The severe AP (SAP) patients contained less beneficial bacteria (i.e., Bacteroides xylanisolvens, Clostridium lavalense, and Roseburia inulinivorans) and weaker sugar degradation function than mild AP patients before treatment. Moreover, etiology was one of the drivers of gut microbiome composition and explained the 3.54% variation in species' relative abundance. The relative abundance of pathways related to lipid synthesis was higher in the gut of hyperlipidemia AP patients than in biliary AP patients. The composition and functional profiles of the gut microbiota reflect the severity and etiology of AP. Otherwise, we also identified bacterial species associated with SAP, i.e., Oscillibacter sp. 57_20, Parabacteroides johnsonii, Bacteroides stercoris, Methanobrevibacter smithii, Ruminococcus lactaris, Coprococcus comes, and Dorea formicigenerans, which have the potential to identify the SAP at an early stage. IMPORTANCE Acute pancreatitis (AP) is a type of digestive system disease with high mortality. Previous studies have shown that gut microbiota can participate in the development and treatment of acute pancreatitis by affecting the host's metabolism. However, fewer studies acquired metagenomic sequencing data to associate species to functions intuitively and performed longitudinal analysis to explore how gut microbiota influences the development of AP. We followed 20 AP patients to generate longitudinal gut microbiota profiles and activity during disease and studied the differences in intestinal flora under different severities and etiologies. We have two findings. First, the gut microbiota profile has the potential to identify the severity and etiology of AP at an early stage. Second, gut microbiota likely acts synergistically in the development of AP. This study provides a reference for characterizing the driver flora of severe AP to identify the severity of acute pancreatitis at an early stage.
-
-[Source](https://journals.asm.org/doi/10.1128/spectrum.00829-23)
-
-10.1128/spectrum.00829-23
+10.3389/fcimb.2023.1250599
 
 ---
 
-## Langerhans cells shape postnatal oral homeostasis in a mechanical-force-dependent but microbiota and IL17-independent manner
+## September 5, 2023
 
-[Source](https://www.nature.com/articles/s41467-023-41409-0)
-
----
-
-## Specific pathway abundances in the neonatal calf faecal microbiome are associated with susceptibility to Cryptosporidium parvum infection: a metagenomic analysis.
- 14.09.2023, _MF Hares, BE Griffiths, F Johnson, C Nelson, S Haldenby, CJ Stewart, JS Duncan, G Oikonomou, JL Coombes_
-
-
-Cryptosporidium parvum is the main cause of calf scour worldwide. With limited therapeutic options and research compared to other Apicomplexa, it is important to understand the parasites' biology and interactions with the host and microbiome in order to develop novel strategies against this infection. The age-dependent nature of symptomatic cryptosporidiosis suggests a link to the undeveloped immune response, the immature intestinal epithelium, and its associated microbiota. This led us to hypothesise that specific features of the early life microbiome could predict calf susceptibility to C. parvum infection.
-
-[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-023-00265-5)
-
-10.1186/s42523-023-00265-5
-
----
-
-## Phage-microbe dynamics after sterile faecal filtrate transplantation in individuals with metabolic syndrome: a double-blind, randomised, placebo-controlled clinical trial assessing efficacy and safety.
- 14.09.2023, _K Wortelboer, PA de Jonge, TPM Scheithauer, I Attaye, EM Kemper, M Nieuwdorp, H Herrema_
-
-
-_Bacteriophages, Blood Glucose, Double-Blind Method, Metabolic Syndrome, Humans, Fecal Microbiota Transplantation_
-Bacteriophages (phages) are bacterial viruses that have been shown to shape microbial communities. Previous studies have shown that faecal virome transplantation can decrease weight gain and normalize blood glucose tolerance in diet-induced obese mice. Therefore, we performed a double-blind, randomised, placebo-controlled pilot study in which 24 individuals with metabolic syndrome were randomised to a faecal filtrate transplantation (FFT) from a lean healthy donor (n = 12) or placebo (n = 12). The primary outcome, change in glucose metabolism, and secondary outcomes, safety and longitudinal changes within the intestinal bacteriome and phageome, were assessed from baseline up to 28 days. All 24 included subjects completed the study and are included in the analyses. While the overall changes in glucose metabolism are not significantly different between both groups, the FFT is well-tolerated and without any serious adverse events. The phage virion composition is significantly altered two days after FFT as compared to placebo, which coincides with more virulent phage-microbe interactions. In conclusion, we provide evidence that gut phages can be safely administered to transiently alter the gut microbiota of recipients.
-
-[Source](https://www.nature.com/articles/s41467-023-41329-z)
-
-10.1038/s41467-023-41329-z
-
----
-
-## Gut microbiota of old mice worsens neurological outcome after brain ischemia via increased valeric acid and IL-17 in the blood.
- 14.09.2023, _X Zeng, J Li, W Shan, Z Lai, Z Zuo_
-
-
-_Male, Animals, Mice, Mice, Inbred C57BL, Gastrointestinal Microbiome, Interleukin-17, Fatty Acids, Nonesterified, Brain Ischemia, Inflammation_
-Aging is a significant risk factor for ischemic stroke and worsens its outcome. However, the mechanisms for this worsened neurological outcome with aging are not clearly defined.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01648-1)
-
-10.1186/s40168-023-01648-1
-
----
-
-## Different bacterial and fungal community patterns in restored habitats in coal-mining subsidence areas.
- 12.09.2023, _Y Wang, G Zheng, Y Zhao, H Bo, C Li, J Dong, Y Wang, S Yan, F Zhang, J Liu_
-
-
-Soil microbiota, which plays a fundamental role in ecosystem functioning, is sensitive to environmental changes. Studying soil microbial ecological patterns can help to understand the consequences of environmental disturbances on soil microbiota and hence ecosystem services. The different habitats with critical environmental gradients generated through the restoration of coal-mining subsidence areas provide an ideal area to explore the response of soil microbiota to environmental changes. Here, based on high-throughput sequencing, we revealed the patterns of soil bacterial and fungal communities in habitats with different land-use types (wetland, farmland, and grassland) and with different restored times which were generated during the ecological restoration of a typical coal-mining subsidence area in Jining City, China. The α-diversity of bacterial was higher in wetland than in farmland and grassland, while that of fungi had no discrepancy among the three habitats. The β-diversity of bacterial community in the grassland was lower than in the farmland, and fungal community was significant different in all three habitats, showing wetland, grassland, and farmland from high to low. The β-diversity of the bacterial community decreased with restoration time while that of the fungal community had no significant change in the longer-restoration-time area. Furthermore, soil electrical conductivity was the most important driver for both bacterial and fungal communities. Based on the taxonomic difference among different habitats, we identified a group of biomarkers for each habitat. The study contributes to understand the microbial patterns during the ecological restoration of coal-mining subsidence areas, which has implications for the efficient ecological restoration of subsidence areas.
-
-[Source](https://link.springer.com/article/10.1007/s11356-023-29744-7)
-
-10.1007/s11356-023-29744-7
+[Source](https://twitter.com/svetlana_up/status/1699086351348515120?ref_src=twsrc%5Etfw)
 
 ---
 
