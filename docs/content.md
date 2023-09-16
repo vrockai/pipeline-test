@@ -112,18 +112,6 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Increasing access to CBT for psychosis patients: study protocol for a randomised controlled trial evaluating brief, targeted CBT for distressing voices delivered by assistant psychologists (GiVE3).
- 15.09.2023, _M Hayward, K Berry, S Bremner, K Cavanagh, G Dodgson, D Fowler, H Gage, K Greenwood, C Hazell, AM Bibby-Jones, S Robertson, M Touray, N Dailey, C Strauss_
-
-
-The National Institute for Health and Care Excellence (NICE) recommends that cognitive behaviour therapy (CBT) is offered to all patients with a psychosis diagnosis. However, only a minority of psychosis patients in England and Wales are offered CBT. This is attributable, in part, to the resource-intensive nature of CBT. One response to this problem has been the development of CBT in brief formats that are targeted at a single symptom and are deliverable by briefly trained therapists. We have developed Guided self-help CBT (the GiVE intervention) as a brief form of CBT for distressing voices and reported evidence for the feasibility of a randomised controlled trial (RCT) when the intervention was delivered by briefly trained therapists (assistant psychologists). This study will investigate the clinical and cost-effectiveness of the GiVE intervention when delivered by assistant psychologists following a brief training.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1701235383210508355?ref_src=twsrc%5Etfw)
-
-10.1186/s13063-023-07611-7
-
----
-
 ## September 11, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1701235383210508355?ref_src=twsrc%5Etfw)
@@ -136,16 +124,9 @@ The National Institute for Health and Care Excellence (NICE) recommends that cog
 
 ---
 
-## Integrating current analyses of the breast cancer microbiome.
- 15.09.2023, _S Sohail, MB Burns_
-
-
-_Humans, Cancer Survivors, Databases, Factual, Microbiota, Problem Solving, Research Design, Neoplasms_
-Many cancer types have significant associations with their resident microbial communities-emerging evidence suggests that breast cancers also interact with the local tissue-associated microbiota. Microbiome research advances rapidly and analysis pipelines and databases are updated frequently. This dynamic environment makes comparative evaluations challenging. Here, we have integrated all publicly available studies related to breast cancer and the mammary microbiome in light of advances in this rapidly progressing field. Based on alpha diversity, beta diversity, proportional abundance, and statistical analyses, we observed differences between our modern analytical approaches and the original findings. We were able to classify and identify additional taxa across samples through abundance analyses and identify previously unidentified statistically significant taxa. In our updated analyses there were more taxa identified as statistically significant in comparison to the original studies' results. In the re-analysis for The Microbiome of Aseptically Collected Human Breast Tissue in Benign and Malignant Disease by Hieken et al., there were twelve statistically significant differentially abundant taxa identified in breast tissue microbiota in benign and invasive cancer disease states. In the re-analysis for The Microbiota of Breast Tissue and Its Association with Breast Cancer by Urbaniak et al., there were 18 taxa identified as statistically significant. In the re-analysis for Characterization of the microbiome of nipple aspirate fluid of breast cancer survivors by Chan et al., there were three genera identified as statistically significant in the skin and fluid samples. Our work has discovered that reanalyses are necessary for microbiome studies, especially older 16S studies. Through our re-analysis, we classified and identified more phyla and genera across studies, which supports the notion that reanalyses provide new insights to the microbiome field and help to assess robusticity of previously published findings by using new and updated tools and databases.
+## Integrating current analyses of the breast cancer microbiome 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291320)
-
-10.1371/journal.pone.0291320
 
 ---
 
@@ -155,41 +136,21 @@ Many cancer types have significant associations with their resident microbial co
 
 ---
 
-## Gut microbes exacerbate systemic inflammation and behavior disorders in neurologic disease CADASIL.
- 11.09.2023, _S Liu, X Men, Y Guo, W Cai, R Wu, R Gao, W Zhong, H Guo, H Ruan, S Chou, J Mai, S Ping, C Jiang, H Zhou, X Mou, W Zhao, Z Lu_
-
-
-_Animals, Mice, CADASIL, Gastrointestinal Microbiome, Mental Disorders, Cytokines, gamma-Aminobutyric Acid_
-Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) is a cerebral small vessel disease that carries mutations in NOTCH3. The clinical manifestations are influenced by genetic and environmental factors that may include gut microbiome.
+## Gut microbes exacerbate systemic inflammation and behavior disorders in neurologic disease CADASIL 
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01638-3)
 
-10.1186/s40168-023-01638-3
-
 ---
 
-## Exploring novel alkane-degradation pathways in uncultured bacteria from the North Atlantic Ocean.
- 13.09.2023, _M Vázquez Rosas Landa, V De Anda, RR Rohwer, A Angelova, G Waldram, T Gutierrez, BJ Baker_
-
-
-Microbes play a significant role in the degradation of petroleum hydrocarbons in the oceans, yet little is known about the native bacteria that metabolize hydrocarbons before an oil spill. The Faroe-Shetland Channel (FSC) is a deepwater subarctic region of the North Atlantic with prominent oil production and a diverse microbial community associated with the degradation of petroleum. Here, we combine DNA-based stable-isotope probing (DNA-SIP) with metagenomics to elucidate the metabolic underpinnings of native alkane-degrading bacteria from the FSC. From two 13C n-hexadecane SIP experiments using seawater from 5 and 700 m depths in the FSC, we obtained 42 metagenome-assembled genomes (MAGs) belonging to 19 genera, including two previously overlooked hydrocarbon-degrading bacteria, Lentibacter (Alphaproteobacteria) and Dokdonia (Bacteroidetes). Diversity surveys indicated Lentibacter were dominant members of the FSC, constituting up to 17% of these communities. Many of the SIP-enriched MAGs (20/42) encoded a complete alkane oxidation pathway, including alkane monooxygenase (AlkB), rubredoxin reductase (AlkT), and rubredoxin-2 (AlkG). Fourteen Aphaproteobacteria MAGs lacked AlkG for electron transfer. Instead, they encoded novel disulfide isomerases with iron-binding cysteine motifs conserved across rubredoxins. Dokdonia lacked AlkT and AlkG, however, their central alkane-degradation catabolic pathways were complete. We describe previously unrecognized bacteria capable of hydrocarbon degradation, including the dominant genera Lentibacter, which may continuously purge hydrocarbons released from oil exploration activities in the FSC. This advances the understanding of the diversity and physiologies of alkane degradation in the North Atlantic and provides evidence of new mechanisms used to metabolize alkanes. IMPORTANCE Petroleum pollution in the ocean has increased because of rapid population growth and modernization, requiring urgent remediation. Our understanding of the metabolic response of native microbial communities to oil spills is not well understood. Here, we explored the baseline hydrocarbon-degrading communities of a subarctic Atlantic region to uncover the metabolic potential of the bacteria that inhabit the surface and subsurface water. We conducted enrichments with a 13C-labeled hydrocarbon to capture the fraction of the community actively using the hydrocarbon. We then combined this approach with metagenomics to identify the metabolic potential of this hydrocarbon-degrading community. This revealed previously undescribed uncultured bacteria with unique metabolic mechanisms involved in aerobic hydrocarbon degradation, indicating that temperature may be pivotal in structuring hydrocarbon-degrading baseline communities. Our findings highlight gaps in our understanding of the metabolic complexity of hydrocarbon degradation by native marine microbial communities.
+## Exploring novel alkane-degradation pathways in uncultured bacteria from the North Atlantic Ocean
 
 [Source](https://journals.asm.org/doi/10.1128/msystems.00619-23)
 
-10.1128/msystems.00619-23
-
 ---
 
-## Plastics shape the black soldier fly larvae gut microbiome and select for biodegrading functions.
- 15.09.2023, _F De Filippis, M Bonelli, D Bruno, G Sequino, A Montali, M Reguzzoni, E Pasolli, D Savy, S Cangemi, V Cozzolino, G Tettamanti, D Ercolini, M Casartelli, S Caccia_
-
-
-_Animals, Larva, Gastrointestinal Microbiome, Plastics, RNA, Ribosomal, 16S, Diptera_
-In the last few years, considerable attention has been focused on the plastic-degrading capability of insects and their gut microbiota in order to develop novel, effective, and green strategies for plastic waste management. Although many analyses based on 16S rRNA gene sequencing are available, an in-depth analysis of the insect gut microbiome to identify genes with plastic-degrading potential is still lacking.
+## Plastics shape the black soldier fly larvae gut microbiome and select for biodegrading functions
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01649-0)
-
-10.1186/s40168-023-01649-0
 
 ---
 
@@ -199,27 +160,15 @@ In the last few years, considerable attention has been focused on the plastic-de
 
 ---
 
-## BugSigDB captures patterns of differential abundance across a broad range of host-associated microbial signatures.
- 11.09.2023, _L Geistlinger, C Mirzayi, F Zohra, R Azhar, S Elsafoury, C Grieve, J Wokaty, SD Gamboa-Tuz, P Sengupta, I Hecht, A Ravikrishnan, RS Gonçalves, E Franzosa, K Raman, V Carey, JB Dowd, HE Jones, S Davis, N Segata, C Huttenhower, L Waldron_
-
-
-The literature of human and other host-associated microbiome studies is expanding rapidly, but systematic comparisons among published results of host-associated microbiome signatures of differential abundance remain difficult. We present BugSigDB, a community-editable database of manually curated microbial signatures from published differential abundance studies accompanied by information on study geography, health outcomes, host body site and experimental, epidemiological and statistical methods using controlled vocabulary. The initial release of the database contains &gt;2,500 manually curated signatures from &gt;600 published studies on three host species, enabling high-throughput analysis of signature similarity, taxon enrichment, co-occurrence and coexclusion and consensus signatures. These data allow assessment of microbiome differential abundance within and across experimental conditions, environments or body sites. Database-wide analysis reveals experimental conditions with the highest level of consistency in signatures reported by independent studies and identifies commonalities among disease-associated signatures, including frequent introgression of oral pathobionts into the gut.
+## BugSigDB captures patterns of differential abundance across a broad range of host-associated microbial signatures
 
 [Source](https://www.nature.com/articles/s41587-023-01872-y)
 
-10.1038/s41587-023-01872-y
-
 ---
 
-## Computational exploration of the global microbiome for antibiotic discovery.
- 15.09.2023, _CD Santos-Júnior, MDT Torres, Y Duan, Á Rodríguez Del Río, TSB Schmidt, H Chong, A Fullam, K Michael, C Zhu, A Houseman, J Somborski, A Vines, XM Zhao, P Bork, J Huerta-Cepas, C de la Fuente-Nunez, LP Coelho_
-
-
-Novel antibiotics are urgently needed to combat the antibiotic-resistance crisis. We present a machine learning-based approach to predict prokaryotic antimicrobial peptides (AMPs) by leveraging a vast dataset of 63,410 metagenomes and 87,920 microbial genomes. This led to the creation of AMPSphere, a comprehensive catalog comprising 863,498 non-redundant peptides, the majority of which were previously unknown. We observed that AMP production varies by habitat, with animal-associated samples displaying the highest proportion of AMPs compared to other habitats. Furthermore, within different human-associated microbiota, strain-level differences were evident. To validate our predictions, we synthesized and experimentally tested 50 AMPs, demonstrating their efficacy against clinically relevant drug-resistant pathogens both in vitro and in vivo. These AMPs exhibited antibacterial activity by targeting the bacterial membrane. Additionally, AMPSphere provides valuable insights into the evolutionary origins of peptides. In conclusion, our approach identified AMP sequences within prokaryotic microbiomes, opening up new avenues for the discovery of antibiotics.
+## Computational exploration of the global microbiome for antibiotic discovery 
 
 [Source](https://www.biorxiv.org/content/biorxiv/early/2023/09/11/2023.08.31.555663.full.pdf)
-
-10.1101/2023.08.31.555663
 
 ---
 
@@ -229,15 +178,15 @@ Novel antibiotics are urgently needed to combat the antibiotic-resistance crisis
 
 ---
 
-## A systematic review of sodium-glucose cotransporter 2 inhibitors and renal profiles among Japanese patients with type 2 diabetes mellitus.
- 15.09.2023, _J Mukai, N Okamura, Y Saito, R Kubota_
+## Clinical profile of infants with late onset sepsis admitted in a North East Indian tertiary care center: insights into the uncharted.
+ 16.09.2023, _S Niranjana, CS Singh, KR Devi, OO Singh, C Smilie, SK Nandeibam_
 
 
-We conducted a systematic review and meta-analysis to summarize the available literature and comprehensively appraise the renal profiles of sodium-glucose cotransporter 2 inhibitors (SGLT2i) in Japanese patients with type 2 diabetes mellitus (T2DM).
+To assess the clinical profile of infants with late onset sepsis admitted in a tertiary care hospital in North-East India.
 
 [Source](https://twitter.com/svetlana_up/status/1699086351348515120?ref_src=twsrc%5Etfw)
 
-10.1186/s40780-023-00305-x
+10.1093/tropej/fmad031
 
 ---
 
