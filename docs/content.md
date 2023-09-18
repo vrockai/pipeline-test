@@ -1,237 +1,158 @@
-## BugSigDB - a database for identifying unusual abundance patterns in human microbiome studies.
- 11.09.2023, __
+## Ocular microbiome evaluation in dry eye disease and meibomian gland dysfunction: Values of variables.
+ 17.09.2023, _D Borroni, CR de Lossada, C Mazzotta, JM Sánchez-González, F Papa, F Gabrielli_
 
 
 
-[Source](https://bugsigdb.org/Main_Page)
+[Source](https://doi.org/10.1016/j.exer.2023.109656)
 
-10.1038/s41587-023-01930-5
-
----
-
-##  BugSigDB
-
-[Source](https://bugsigdb.org/Main_Page)
+10.1016/j.exer.2023.109656
 
 ---
 
-## Computational exploration of the global microbiome for antibiotic discovery.
- 15.09.2023, _CD Santos-Júnior, MDT Torres, Y Duan, Á Rodríguez Del Río, TSB Schmidt, H Chong, A Fullam, K Michael, C Zhu, A Houseman, J Somborski, A Vines, XM Zhao, P Bork, J Huerta-Cepas, C de la Fuente-Nunez, LP Coelho_
+## Regulation of psoriasis, colitis, and the intestinal microbiota by clusterin.
+ 18.09.2023, _YK Jun, HT Yoon, SH Kwon, UH Jo, JE Kim, YM Han, MS Kim, JP Im, DH Lee, JS Kim, SJ Koh, H Park_
 
 
-Novel antibiotics are urgently needed to combat the antibiotic-resistance crisis. We present a machine learning-based approach to predict prokaryotic antimicrobial peptides (AMPs) by leveraging a vast dataset of 63,410 metagenomes and 87,920 microbial genomes. This led to the creation of AMPSphere, a comprehensive catalog comprising 863,498 non-redundant peptides, the majority of which were previously unknown. We observed that AMP production varies by habitat, with animal-associated samples displaying the highest proportion of AMPs compared to other habitats. Furthermore, within different human-associated microbiota, strain-level differences were evident. To validate our predictions, we synthesized and experimentally tested 50 AMPs, demonstrating their efficacy against clinically relevant drug-resistant pathogens both in vitro and in vivo. These AMPs exhibited antibacterial activity by targeting the bacterial membrane. Additionally, AMPSphere provides valuable insights into the evolutionary origins of peptides. In conclusion, our approach identified AMP sequences within prokaryotic microbiomes, opening up new avenues for the discovery of antibiotics.
+_Humans, Animals, Mice, Clusterin, Gastrointestinal Microbiome, Psoriasis, Colitis, Dermatitis, Inflammation, Bacteroidetes, Cytokines, Firmicutes, Mammals_
+Psoriasis, a chronic and systemic inflammatory disorder characterized by activation of the interleukin (IL)-23/IL-17 axis, may be associated with the intestinal microbiota through the so-called "gut-skin axis." Clusterin is a glycoprotein ubiquitously distributed in mammalian tissues; however, its role in psoriasis is unclear. Therefore, we evaluated the role of clusterin in psoriatic skin inflammation, systemic inflammation, and colitis using a murine model of IMQ-induced psoriasis. In IMQ-treated clusterin-knockout (clusterin-/-) mice, the expressions of inflammatory cytokines in clusterin-silenced human keratinocytes and intestinal microbial composition were analyzed. We also examined clusterin expression in the skin tissues of patients with psoriasis. IMQ-induced psoriatic skin inflammation is suppressed in clusterin-/- mice. Long-term administration of IMQ induced systemic inflammation and colitis; however, both were alleviated by the genetic deletion of clusterin. Genetic silencing of clusterin in human keratinocytes inhibited the production of inflammatory cytokines involved in the initiation and progression of psoriasis. The composition of the intestinal microbiota in IMQ-treated clusterin-/- and wild-type mice was different. Genetic deletion of clusterin suppressed the increase in the Firmicutes/Bacteroidetes (F/B) ratio. Skin tissues of patients with psoriasis showed high clusterin expression. In conclusion, inhibition of clusterin decreased psoriatic skin inflammation, systemic inflammation, colitis, and altered the F/B ratio in an IMQ-induced murine psoriasis model.
 
-[Source](https://ampsphere.big-data-biology.org/home)
+[Source](https://doi.org/10.1038/s41598-023-42019-y)
 
-10.1101/2023.08.31.555663
-
----
-
-## AMPSphere
-
-[Source](https://ampsphere.big-data-biology.org/home)
+10.1038/s41598-023-42019-y
 
 ---
 
-## online conferencing and how to do it better
-
-[Source](http://[https://www.nature.com/articles/d41586-023-02507-7])
-
----
-
-## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
- 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
+## Bridging of host-microbiota tryptophan partitioning by the serotonin pathway in fungal pneumonia.
+ 18.09.2023, _G Renga, F D'Onofrio, M Pariano, R Galarini, C Barola, C Stincardini, MM Bellet, H Ellemunter, C Lass-Flörl, C Costantini, V Napolioni, AK Ehrlich, C Antognelli, M Fini, E Garaci, E Nunzi, L Romani_
 
 
-_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
-This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
+_Humans, Animals, Mice, Tryptophan, Serotonin, Pneumonia, Mycoses, Microbiota, Aspergillosis, Influenza, Human_
+The aromatic amino acid L-tryptophan (Trp) is essentially metabolized along the host and microbial pathways. While much is known about the role played by downstream metabolites of each pathways in intestinal homeostasis, their role in lung immune homeostasis is underappreciated. Here we have examined the role played by the Trp hydroxylase/5-hydroxytryptamine (5-HT) pathway in calibrating host and microbial Trp metabolism during Aspergillus fumigatus pneumonia. We found that 5-HT produced by mast cells essentially contributed to pathogen clearance and immune homeostasis in infection by promoting the host protective indoleamine-2,3-dioxygenase 1/kynurenine pathway and limiting the microbial activation of the indole/aryl hydrocarbon receptor pathway. This occurred via regulation of lung and intestinal microbiota and signaling pathways. 5-HT was deficient in the sputa of patients with Cystic fibrosis, while 5-HT supplementation restored the dysregulated Trp partitioning in murine disease. These findings suggest that 5-HT, by bridging host-microbiota Trp partitioning, may have clinical effects beyond its mood regulatory function in respiratory pathologies with an inflammatory component.
 
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1038/s41467-023-41536-8)
 
-10.3390/ijerph19010099
+10.1038/s41467-023-41536-8
 
 ---
 
-## #MVIF
+## High-throughput sequencing analysis of the characteristics of the gut microbiota in aged patients with sarcopenia.
+ 16.09.2023, _Y Zhang, Y Zhu, Q Guo, W Wang, L Zhang_
 
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
 
----
+The gut microbiota is a complex microbial community that changes in response to various intestinal diseases, including aging-related diseases such as sarcopenia. Several studies have shown that the metabolites of the gut microbiota affect the dynamic balance of the skeletal muscle. However, the effect of gut microbiota imbalance on sarcopenia is still largely unknown.
 
-## https://t.co/mf96F35ETY
+[Source](https://doi.org/10.1016/j.exger.2023.112287)
 
-[Source](https://t.co/mf96F35ETY)
-
----
-
-## @conTaminatedsci
-
-[Source](https://twitter.com/conTaminatedsci?ref_src=twsrc%5Etfw)
+10.1016/j.exger.2023.112287
 
 ---
 
-## @HillLabSask
+## Draft genome sequence of a <em>Fusobacterium nucleatum </em>strain isolated from a patient in Kazakhstan with colorectal cancer
 
-[Source](https://twitter.com/HillLabSask?ref_src=twsrc%5Etfw)
-
----
-
-## @IlianaSerghiou
-
-[Source](https://twitter.com/IlianaSerghiou?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1128/MRA.00367-23)
 
 ---
 
-## @SalamMicrobes
-
-[Source](https://twitter.com/SalamMicrobes?ref_src=twsrc%5Etfw)
-
----
-
-## @DegraeveAl
-
-[Source](https://twitter.com/DegraeveAl?ref_src=twsrc%5Etfw)
-
----
-
-## Extracellular Vesicles and Endocannabinoid Signaling in Patients with COVID-19.
- 15.09.2023, _F Brandes, AM Keiler, B Kirchner, M Borrmann, JN Billaud, M Reithmair, M Klein, P Campolongo, D Thieme, MW Pfaffl, G Schelling, AS Meidert_
+## The impacts of oral and gut microbiota on alveolar bone loss in periodontitis.
+ 15.09.2023, _N Han, X Li, J Du, J Xu, L Guo, Y Liu_
 
 
-Introduction: Endocannabinoids in COVID-19 have immunomodulatory and anti-inflammatory properties but the functional role and the regulation of endocannabinoid signaling in this pandemic disorder is controversial. To exercise their biologic function, endocannabinoids need to travel across the intercellular space and within the blood stream to reach their target cells. How the lipophilic endocannabinoids are transported in the vascular system and how these hydrophobic compounds cross cell membranes is still unclear. Extracellular vesicles (EVs) are released and incorporated by many cell types including immune cells. EVs are small lipid-membrane covered particles and contain RNA, lipids and proteins. They play an important role in intercellular communication by transporting these signaling molecules from their cells of origin to specific target cells. EVs may represent ideal transport vehicles for lipophilic signaling molecules like endocannabinoids and this effect could also be evident in COVID-19. Materials and Methods: We measured the endocannabinoids anandamide, 2-AG, SEA, PEA and OEA in patients with COVID-19 in EVs and plasma. RNA sequencing of microRNAs (miRNAs) derived from EVs (EV-miRNAs) and mRNA transcripts from blood cells was used for the construction of signaling networks reflecting endocannabinoid and miRNA communication by EVs to target immune cells. Results: With the exception of anandamide, endocannabinoid concentrations were significantly enriched in EVs in comparison to plasma and increased with disease severity. No enrichment in EVs was seen for the more hydrophilic steroid hormones cortisol and testosterone. High EV-endocannabinoid concentrations were associated with downregulation of CNR2 (CB2) by upregulated EV-miRNA miR-146a-5p and upregulation of MGLL by downregulated EV-miR-199a-5p and EV-miR-370-5p suggesting counterregulatory effects. In contrast, low EV-levels of anandamide were associated with upregulation of CNR1 by downregulation of EV-miR-30c-5p and miR-26a-5p along with inhibition of FAAH. Immunologically active molecules in immune cells regulated by endocannabinoid signaling included VEGFA, GNAI2, IGF1, BDNF, IGF1R and CREB1 and CCND1 among others. Discussion and Conclusions: EVs carry immunologically functional endocannabinoids in COVID-19 along with miRNAs which may regulate the expression of mRNA transcripts involved in the regulation of endocannabinoid signaling and metabolism. This mechanism could fine-tune and adapt endocannabinoid effects in recipient cells in relationship to the present biological context.
+Periodontitis, a chronic infectious disease, primarily arises from infections and the invasion of periodontal pathogens. This condition is typified by alveolar bone loss resulting from host immune responses and inflammatory reactions. Periodontal pathogens trigger aberrant inflammatory reactions within periodontal tissues, thereby exacerbating the progression of periodontitis. Simultaneously, these pathogens and metabolites stimulate osteoclast differentiation, which leads to alveolar bone resorption. Moreover, a range of systemic diseases, including diabetes, postmenopausal osteoporosis, obesity and inflammatory bowel disease, can contribute to the development and progression of periodontitis. Many studies have underscored the pivotal role of gut microbiota in bone health through the gut-alveolar bone axis. The circulation may facilitate the transfer of gut pathogens or metabolites to distant alveolar bone, which in turn regulates bone homeostasis. Additionally, gut pathogens can elicit gut immune responses and direct immune cells to remote organs, potentially exacerbating periodontitis. This review summarizes the influence of oral microbiota on the development of periodontitis as well as the association between gut microbiota and periodontitis. By uncovering potential mechanisms of the gut-bone axis, this analysis provides novel insights for the targeted treatment of pathogenic bacteria in periodontitis.
 
-[Source](https://twitter.com/QIAGEN?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1111/jre.13168)
 
-10.1089/can.2023.0040
+10.1111/jre.13168
 
 ---
 
-## @QIAGEN
+## Control of <em>Helicobacter pylori</em> with engineered probiotics secreting selective guided antimicrobial peptides
 
-[Source](https://twitter.com/QIAGEN?ref_src=twsrc%5Etfw)
-
----
-
-## @NSURPorg
-
-[Source](https://twitter.com/NSURPorg?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1128/spectrum.02014-23)
 
 ---
 
-## pic.twitter.com/l0Sz0N2745
+## The synthetic food dye, Red 40, causes DNA damage, causes colonic inflammation, and impacts the microbiome in mice.
+ 18.09.2023, _Q Zhang, AA Chumanevich, I Nguyen, AA Chumanevich, N Sartawi, J Hogan, M Khazan, Q Harris, B Massey, I Chatzistamou, PJ Buckhaults, CE Banister, M Wirth, JR Hebert, EA Murphy, LJ Hofseth_
 
-[Source](https://t.co/l0Sz0N2745)
 
----
+The incidence of colorectal cancer (CRC) among young people has been on the rise for the past four decades and its underlying causes are only just starting to be uncovered. Recent studies suggest that consuming ultra-processed foods and pro-inflammatory diets may be contributing factors. The increase in the use of synthetic food colors in such foods over the past 40 years, including the common synthetic food dye Allura Red AC (Red 40), coincides with the rise of early-onset colorectal cancer (EOCRC). As these ultra-processed foods are particularly appealing to children, there is a growing concern about the impact of synthetic food dyes on the development of CRC. Our study aimed to investigate the effects of Red 40 on DNA damage, the microbiome, and colonic inflammation. Despite a lack of prior research, high levels of human exposure to pro-inflammatory foods containing Red 40 highlight the urgency of exploring this issue. Our results show that Red 40 damages DNA both in vitro and in vivo and that consumption of Red 40 in the presence of a high-fat diet for 10 months leads to dysbiosis and low-grade colonic inflammation in mice. This evidence supports the hypothesis that Red 40 is a dangerous compound that dysregulates key players involved in the development of EOCRC.
 
-## September 11, 2023
+[Source](https://doi.org/10.1016/j.toxrep.2023.08.006)
 
-[Source](https://twitter.com/MicrobiomeVIF/status/1701235383210508355?ref_src=twsrc%5Etfw)
-
----
-
-## The landscape of antibiotic resistance genes in the nasopharynx of preterm infants: Prolonged signature of hospitalization and effects by antibiotics
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.08.09.552435v2)
+10.1016/j.toxrep.2023.08.006
 
 ---
 
-## Integrating current analyses of the breast cancer microbiome.
- 15.09.2023, _S Sohail, MB Burns_
+## Disruption of the microbiota-gut-brain axis is a defining characteristic of the α-Gal A (-/0) mouse model of Fabry disease
 
-
-_Humans, Cancer Survivors, Databases, Factual, Microbiota, Problem Solving, Research Design, Neoplasms_
-Many cancer types have significant associations with their resident microbial communities-emerging evidence suggests that breast cancers also interact with the local tissue-associated microbiota. Microbiome research advances rapidly and analysis pipelines and databases are updated frequently. This dynamic environment makes comparative evaluations challenging. Here, we have integrated all publicly available studies related to breast cancer and the mammary microbiome in light of advances in this rapidly progressing field. Based on alpha diversity, beta diversity, proportional abundance, and statistical analyses, we observed differences between our modern analytical approaches and the original findings. We were able to classify and identify additional taxa across samples through abundance analyses and identify previously unidentified statistically significant taxa. In our updated analyses there were more taxa identified as statistically significant in comparison to the original studies' results. In the re-analysis for The Microbiome of Aseptically Collected Human Breast Tissue in Benign and Malignant Disease by Hieken et al., there were twelve statistically significant differentially abundant taxa identified in breast tissue microbiota in benign and invasive cancer disease states. In the re-analysis for The Microbiota of Breast Tissue and Its Association with Breast Cancer by Urbaniak et al., there were 18 taxa identified as statistically significant. In the re-analysis for Characterization of the microbiome of nipple aspirate fluid of breast cancer survivors by Chan et al., there were three genera identified as statistically significant in the skin and fluid samples. Our work has discovered that reanalyses are necessary for microbiome studies, especially older 16S studies. Through our re-analysis, we classified and identified more phyla and genera across studies, which supports the notion that reanalyses provide new insights to the microbiome field and help to assess robusticity of previously published findings by using new and updated tools and databases.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291320)
-
-10.1371/journal.pone.0291320
+[Source](https://doi.org/10.1080/19490976.2023.2256045)
 
 ---
 
-## Diet influences community dynamics following vaginal group B <em>Streptococcus</em> colonization 
-
-[Source](https://www.biorxiv.org/content/biorxiv/early/2023/09/10/2023.09.10.556920.full.pdf)
-
----
-
-## Gut microbes exacerbate systemic inflammation and behavior disorders in neurologic disease CADASIL.
- 11.09.2023, _S Liu, X Men, Y Guo, W Cai, R Wu, R Gao, W Zhong, H Guo, H Ruan, S Chou, J Mai, S Ping, C Jiang, H Zhou, X Mou, W Zhao, Z Lu_
+## Neuroactive metabolites modulated by the gut microbiota in honey bees.
+ 18.09.2023, _A Cabirol, S Moriano-Gutierrez, P Engel_
 
 
-_Animals, Mice, CADASIL, Gastrointestinal Microbiome, Mental Disorders, Cytokines, gamma-Aminobutyric Acid_
-Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) is a cerebral small vessel disease that carries mutations in NOTCH3. The clinical manifestations are influenced by genetic and environmental factors that may include gut microbiome.
+Honey bees have emerged as a new model to study the gut-brain axis, as they exhibit complex social behaviors and cognitive abilities, while experiments with gnotobiotic bees have revealed that their gut microbiota alters both brain and behavioral phenotypes. Furthermore, while honey bee brain functions supporting a broad range of behaviors have been intensively studied for over 50 years, the gut microbiota of bees has been experimentally characterized only recently. Here, we combined six published datasets from metabolomic analyses to provide an overview of the neuroactive metabolites whose abundance in the gut, hemolymph and brain varies in presence of the gut microbiota. Such metabolites may either be produced by gut bacteria, released from the pollen grains during their decomposition by bacteria, or produced by other organs in response to different bacterial products. We describe the current state of knowledge regarding the impact of such metabolites on brain function and behavior and provide further hypotheses to explore in this emerging field of research.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01638-3)
+[Source](https://doi.org/10.1111/mmi.15167)
 
-10.1186/s40168-023-01638-3
+10.1111/mmi.15167
 
 ---
 
-## Exploring novel alkane-degradation pathways in uncultured bacteria from the North Atlantic Ocean.
- 13.09.2023, _M Vázquez Rosas Landa, V De Anda, RR Rohwer, A Angelova, G Waldram, T Gutierrez, BJ Baker_
+## Insights into early evolutionary adaptations of the <em>Akkermansia</em> genus to the vertebrate gut
 
-
-Microbes play a significant role in the degradation of petroleum hydrocarbons in the oceans, yet little is known about the native bacteria that metabolize hydrocarbons before an oil spill. The Faroe-Shetland Channel (FSC) is a deepwater subarctic region of the North Atlantic with prominent oil production and a diverse microbial community associated with the degradation of petroleum. Here, we combine DNA-based stable-isotope probing (DNA-SIP) with metagenomics to elucidate the metabolic underpinnings of native alkane-degrading bacteria from the FSC. From two 13C n-hexadecane SIP experiments using seawater from 5 and 700 m depths in the FSC, we obtained 42 metagenome-assembled genomes (MAGs) belonging to 19 genera, including two previously overlooked hydrocarbon-degrading bacteria, Lentibacter (Alphaproteobacteria) and Dokdonia (Bacteroidetes). Diversity surveys indicated Lentibacter were dominant members of the FSC, constituting up to 17% of these communities. Many of the SIP-enriched MAGs (20/42) encoded a complete alkane oxidation pathway, including alkane monooxygenase (AlkB), rubredoxin reductase (AlkT), and rubredoxin-2 (AlkG). Fourteen Aphaproteobacteria MAGs lacked AlkG for electron transfer. Instead, they encoded novel disulfide isomerases with iron-binding cysteine motifs conserved across rubredoxins. Dokdonia lacked AlkT and AlkG, however, their central alkane-degradation catabolic pathways were complete. We describe previously unrecognized bacteria capable of hydrocarbon degradation, including the dominant genera Lentibacter, which may continuously purge hydrocarbons released from oil exploration activities in the FSC. This advances the understanding of the diversity and physiologies of alkane degradation in the North Atlantic and provides evidence of new mechanisms used to metabolize alkanes. IMPORTANCE Petroleum pollution in the ocean has increased because of rapid population growth and modernization, requiring urgent remediation. Our understanding of the metabolic response of native microbial communities to oil spills is not well understood. Here, we explored the baseline hydrocarbon-degrading communities of a subarctic Atlantic region to uncover the metabolic potential of the bacteria that inhabit the surface and subsurface water. We conducted enrichments with a 13C-labeled hydrocarbon to capture the fraction of the community actively using the hydrocarbon. We then combined this approach with metagenomics to identify the metabolic potential of this hydrocarbon-degrading community. This revealed previously undescribed uncultured bacteria with unique metabolic mechanisms involved in aerobic hydrocarbon degradation, indicating that temperature may be pivotal in structuring hydrocarbon-degrading baseline communities. Our findings highlight gaps in our understanding of the metabolic complexity of hydrocarbon degradation by native marine microbial communities.
-
-[Source](https://journals.asm.org/doi/10.1128/msystems.00619-23)
-
-10.1128/msystems.00619-23
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1238580/abstract)
 
 ---
 
-## Plastics shape the black soldier fly larvae gut microbiome and select for biodegrading functions.
- 16.09.2023, _F De Filippis, M Bonelli, D Bruno, G Sequino, A Montali, M Reguzzoni, E Pasolli, D Savy, S Cangemi, V Cozzolino, G Tettamanti, D Ercolini, M Casartelli, S Caccia_
+## Microbiome Assembly in Fermented Foods.
+ 18.09.2023, _NL Louw, K Lele, R Ye, CB Edwards, BE Wolfe_
 
 
-_Animals, Larva, Gastrointestinal Microbiome, Plastics, RNA, Ribosomal, 16S, Diptera_
-In the last few years, considerable attention has been focused on the plastic-degrading capability of insects and their gut microbiota in order to develop novel, effective, and green strategies for plastic waste management. Although many analyses based on 16S rRNA gene sequencing are available, an in-depth analysis of the insect gut microbiome to identify genes with plastic-degrading potential is still lacking.
+_Humans, Fermented Foods, Microbiota_
+For thousands of years, humans have enjoyed the novel flavors, increased shelf-life, and nutritional benefits that microbes provide in fermented foods and beverages. Recent sequencing surveys of ferments have mapped patterns of microbial diversity across space, time, and production practices. But a mechanistic understanding of how fermented food microbiomes assemble has only recently begun to emerge. Using three foods as case studies (surface-ripened cheese, sourdough starters, and fermented vegetables), we use an ecological and evolutionary framework to identify how microbial communities assemble in ferments. By combining in situ sequencing surveys with in vitro models, we are beginning to understand how dispersal, selection, diversification, and drift generate the diversity of fermented food communities. Most food producers are unaware of the ecological processes occurring in their production environments, but the theory and models of ecology and evolution can provide new approaches for managing fermented food microbiomes, from farm to ferment.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01649-0)
+[Source](https://doi.org/10.1146/annurev-micro-032521-041956)
 
-10.1186/s40168-023-01649-0
-
----
-
-## Enhancing Recovery from Gut Microbiome Dysbiosis and Alleviating DSS-Induced Colitis in Mice with a Consortium of Rare Short-Chain Fatty Acid-Producing Bacteria
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.09.11.556543v1)
+10.1146/annurev-micro-032521-041956
 
 ---
 
-## BugSigDB captures patterns of differential abundance across a broad range of host-associated microbial signatures.
- 11.09.2023, _L Geistlinger, C Mirzayi, F Zohra, R Azhar, S Elsafoury, C Grieve, J Wokaty, SD Gamboa-Tuz, P Sengupta, I Hecht, A Ravikrishnan, RS Gonçalves, E Franzosa, K Raman, V Carey, JB Dowd, HE Jones, S Davis, N Segata, C Huttenhower, L Waldron_
+## Engineering the Maize Root Microbiome: A Rapid MoClo Toolkit and Identification of Potential Bacterial Chassis for Studying Plant-Microbe Interactions.
+ 15.09.2023, _J van Schaik, Z Li, J Cheadle, N Crook_
 
 
-The literature of human and other host-associated microbiome studies is expanding rapidly, but systematic comparisons among published results of host-associated microbiome signatures of differential abundance remain difficult. We present BugSigDB, a community-editable database of manually curated microbial signatures from published differential abundance studies accompanied by information on study geography, health outcomes, host body site and experimental, epidemiological and statistical methods using controlled vocabulary. The initial release of the database contains &gt;2,500 manually curated signatures from &gt;600 published studies on three host species, enabling high-throughput analysis of signature similarity, taxon enrichment, co-occurrence and coexclusion and consensus signatures. These data allow assessment of microbiome differential abundance within and across experimental conditions, environments or body sites. Database-wide analysis reveals experimental conditions with the highest level of consistency in signatures reported by independent studies and identifies commonalities among disease-associated signatures, including frequent introgression of oral pathobionts into the gut.
+Sustainably enhancing crop production is a global necessity to meet the escalating demand for staple crops while sustainably managing their associated carbon/nitrogen inputs. Leveraging plant-associated microbiomes is a promising avenue for addressing this demand. However, studying these communities and engineering them for sustainable enhancement of crop production have remained a challenge due to limited genetic tools and methods. In this work, we detail the development of the Maize Root Microbiome ToolKit (MRMTK), a rapid Modular Cloning (MoClo) toolkit that only takes 2.5 h to generate desired constructs (5400 potential plasmids) that replicate and express heterologous genes in Enterobacter ludwigii strain AA4 (Elu), Pseudomonas putida strain AA7 (Ppu), Herbaspirillum robiniae strain AA6 (Hro), Stenotrophomonas maltophilia strain AA1 (Sma), and Brucella pituitosa strain AA2 (Bpi), which comprise a model maize root synthetic community (SynCom). In addition to these genetic tools, we describe a highly efficient transformation protocol (107-109 transformants/μg of DNA) 1 for each of these strains. Utilizing this highly efficient transformation protocol, we identified endogenous Expression Sequences (ES; promoter and ribosomal binding sites) for each strain via genomic promoter trapping. Overall, MRMTK is a scalable and adaptable platform that expands the genetic engineering toolbox while providing a standardized, high-efficiency transformation method across a diverse group of root commensals. These results unlock the ability to elucidate and engineer plant-microbe interactions promoting plant growth for each of the 5 bacterial strains in this study.
 
-[Source](https://www.nature.com/articles/s41587-023-01872-y)
+[Source](https://doi.org/10.1021/acssynbio.3c00371)
 
-10.1038/s41587-023-01872-y
-
----
-
-## Computational exploration of the global microbiome for antibiotic discovery.
- 15.09.2023, _CD Santos-Júnior, MDT Torres, Y Duan, Á Rodríguez Del Río, TSB Schmidt, H Chong, A Fullam, K Michael, C Zhu, A Houseman, J Somborski, A Vines, XM Zhao, P Bork, J Huerta-Cepas, C de la Fuente-Nunez, LP Coelho_
-
-
-Novel antibiotics are urgently needed to combat the antibiotic-resistance crisis. We present a machine learning-based approach to predict prokaryotic antimicrobial peptides (AMPs) by leveraging a vast dataset of 63,410 metagenomes and 87,920 microbial genomes. This led to the creation of AMPSphere, a comprehensive catalog comprising 863,498 non-redundant peptides, the majority of which were previously unknown. We observed that AMP production varies by habitat, with animal-associated samples displaying the highest proportion of AMPs compared to other habitats. Furthermore, within different human-associated microbiota, strain-level differences were evident. To validate our predictions, we synthesized and experimentally tested 50 AMPs, demonstrating their efficacy against clinically relevant drug-resistant pathogens both in vitro and in vivo. These AMPs exhibited antibacterial activity by targeting the bacterial membrane. Additionally, AMPSphere provides valuable insights into the evolutionary origins of peptides. In conclusion, our approach identified AMP sequences within prokaryotic microbiomes, opening up new avenues for the discovery of antibiotics.
-
-[Source](https://www.biorxiv.org/content/biorxiv/early/2023/09/11/2023.08.31.555663.full.pdf)
-
-10.1101/2023.08.31.555663
+10.1021/acssynbio.3c00371
 
 ---
 
-## https://t.co/r7E8jWQEjK
+## Effects of Fe(III) (hydr)oxide mineralogy on the development of microbial communities originating from soil, surface water, groundwater, and aerosols.
+ 17.09.2023, _Y Zhang, EJ O'Loughlin, SY Park, MJ Kwon_
 
-[Source](https://t.co/r7E8jWQEjK)
+
+Microbial Fe(III) reduction is a key component of the iron cycle in natural environments. However, the susceptibility of Fe(III) (hydr)oxides to microbial reduction varies depending on the mineral's crystallinity, and the type of Fe(III) (hydr)oxide in turn will affect the composition of the microbial community. We created microcosm reactors with microbial communities from four different sources (soil, surface water, groundwater, and aerosols), three Fe(III) (hydr)oxides (lepidocrocite, goethite, and hematite) as electron acceptors, and acetate as an electron donor to investigate the shaping effect of Fe(III) mineral type on the development of microbial communities. During a 10-month incubation, changes in microbial community composition, Fe(III) reduction, and acetate utilization were monitored. Overall, there was greater reduction of lepidocrocite than of goethite and hematite, and the development of microbial communities originating from the same source diverged when supplied with different Fe(III) (hydr)oxides. Furthermore, each Fe(III) mineral was associated with unique taxa that emerged from different sources. This study illustrates the taxonomic diversity of Fe(III)-reducing microbes from a broad range of natural environments.
+
+[Source](https://doi.org/10.1016/j.scitotenv.2023.166993)
+
+10.1016/j.scitotenv.2023.166993
 
 ---
 
-## September 5, 2023
+## Combination of sequencing batch reactor activated sludge process with sludge lysis using thermophilic bacterial community for minimizing excess sludge.
+ 15.09.2023, _B Chi, Y Huang, Z Xiong, J Tan, W Zhou, Z Yang, K Zhou, X Duan, A Chen, K Gui_
 
-[Source](https://twitter.com/svetlana_up/status/1699086351348515120?ref_src=twsrc%5Etfw)
+
+Sludge reduction is a major challenge in biological wastewater treatment. Hydrolytic enzymes secreted by thermophilic bacteria can lyse sludge and thus achieve sludge reduction, and the indigenous thermophilic community in sludge can lyse sludge more effectively. In this study, the feasibility of combining a sludge lysis reactor based on thermophilic bacteria community (LTBC reactor, 75 °C) with a conventional sequencing batch activated sludge reactor (SBR) for sludge reduction (i.e., LTBC-SBR process) was systematically investigated first time. The effect of lysed sludge returning to the biochemical tank on pollutant removal efficiency, sludge flocculation, sludge settling, and microbial community and function of the LTBC-SBR process was studied. In the LTBC1-SBR process, a sludge growth rate of 0.71 g TSS/day was observed when the lysed sludge reflux ratio (LRR) was 1, and the sludge generation was reduced by 81.5% compared to the conventional SBR reactor. In the LTBC1-SBR process, the removal efficiencies of chemical oxygen demand and total nitrogen were 94.0% and 80.5%, respectively. There was no significant difference in the sludge volume index from the SBR to the LTBC1-SBR stage, however, the effluent suspended solids concentration increased from 35.2 ± 2.1 mg/L to 80.1 ± 5.3 mg/L. This was attributed to the reflux of sludge lysate. In addition, the changes in extracellular polymers content and composition resulted in poor sludge flocculation performance. Heterotrophic bacteria associated with Actinobacteria and Patescibacteria enriched in LTBC1-SBR with relative abundance of 28.51 ± 1.25% and 20.01 ± 1.21%, respectively, which decomposed the macromolecules in the refluxed lysed sludge and contributed to the sludge reduction. Furthermore, due to the inhibition of nitrite-oxidizing bacteria, the nitrite concentration in the effluent of the LTBC1-SBR system reached 4.7 ± 1.1 mg/L, and part of the denitrification process was achieved by short-cut nitrification and simultaneous denitrification. These results indicate that in-situ sludge reduction technology based on lyse sludge lysing by thermophilic community has considerable potential to be widely used in wastewater treatment.
+
+[Source](https://doi.org/10.1016/j.jenvman.2023.118902)
+
+10.1016/j.jenvman.2023.118902
 
 ---
 
