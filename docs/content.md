@@ -94,6 +94,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Extracellular Vesicles and Endocannabinoid Signaling in Patients with COVID-19.
+ 15.09.2023, _F Brandes, AM Keiler, B Kirchner, M Borrmann, JN Billaud, M Reithmair, M Klein, P Campolongo, D Thieme, MW Pfaffl, G Schelling, AS Meidert_
+
+
+Introduction: Endocannabinoids in COVID-19 have immunomodulatory and anti-inflammatory properties but the functional role and the regulation of endocannabinoid signaling in this pandemic disorder is controversial. To exercise their biologic function, endocannabinoids need to travel across the intercellular space and within the blood stream to reach their target cells. How the lipophilic endocannabinoids are transported in the vascular system and how these hydrophobic compounds cross cell membranes is still unclear. Extracellular vesicles (EVs) are released and incorporated by many cell types including immune cells. EVs are small lipid-membrane covered particles and contain RNA, lipids and proteins. They play an important role in intercellular communication by transporting these signaling molecules from their cells of origin to specific target cells. EVs may represent ideal transport vehicles for lipophilic signaling molecules like endocannabinoids and this effect could also be evident in COVID-19. Materials and Methods: We measured the endocannabinoids anandamide, 2-AG, SEA, PEA and OEA in patients with COVID-19 in EVs and plasma. RNA sequencing of microRNAs (miRNAs) derived from EVs (EV-miRNAs) and mRNA transcripts from blood cells was used for the construction of signaling networks reflecting endocannabinoid and miRNA communication by EVs to target immune cells. Results: With the exception of anandamide, endocannabinoid concentrations were significantly enriched in EVs in comparison to plasma and increased with disease severity. No enrichment in EVs was seen for the more hydrophilic steroid hormones cortisol and testosterone. High EV-endocannabinoid concentrations were associated with downregulation of CNR2 (CB2) by upregulated EV-miRNA miR-146a-5p and upregulation of MGLL by downregulated EV-miR-199a-5p and EV-miR-370-5p suggesting counterregulatory effects. In contrast, low EV-levels of anandamide were associated with upregulation of CNR1 by downregulation of EV-miR-30c-5p and miR-26a-5p along with inhibition of FAAH. Immunologically active molecules in immune cells regulated by endocannabinoid signaling included VEGFA, GNAI2, IGF1, BDNF, IGF1R and CREB1 and CCND1 among others. Discussion and Conclusions: EVs carry immunologically functional endocannabinoids in COVID-19 along with miRNAs which may regulate the expression of mRNA transcripts involved in the regulation of endocannabinoid signaling and metabolism. This mechanism could fine-tune and adapt endocannabinoid effects in recipient cells in relationship to the present biological context.
+
+[Source](https://twitter.com/QIAGEN?ref_src=twsrc%5Etfw)
+
+10.1089/can.2023.0040
+
+---
+
 ## @QIAGEN
 
 [Source](https://twitter.com/QIAGEN?ref_src=twsrc%5Etfw)
@@ -124,9 +136,16 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Integrating current analyses of the breast cancer microbiome 
+## Integrating current analyses of the breast cancer microbiome.
+ 15.09.2023, _S Sohail, MB Burns_
+
+
+_Humans, Cancer Survivors, Databases, Factual, Microbiota, Problem Solving, Research Design, Neoplasms_
+Many cancer types have significant associations with their resident microbial communities-emerging evidence suggests that breast cancers also interact with the local tissue-associated microbiota. Microbiome research advances rapidly and analysis pipelines and databases are updated frequently. This dynamic environment makes comparative evaluations challenging. Here, we have integrated all publicly available studies related to breast cancer and the mammary microbiome in light of advances in this rapidly progressing field. Based on alpha diversity, beta diversity, proportional abundance, and statistical analyses, we observed differences between our modern analytical approaches and the original findings. We were able to classify and identify additional taxa across samples through abundance analyses and identify previously unidentified statistically significant taxa. In our updated analyses there were more taxa identified as statistically significant in comparison to the original studies' results. In the re-analysis for The Microbiome of Aseptically Collected Human Breast Tissue in Benign and Malignant Disease by Hieken et al., there were twelve statistically significant differentially abundant taxa identified in breast tissue microbiota in benign and invasive cancer disease states. In the re-analysis for The Microbiota of Breast Tissue and Its Association with Breast Cancer by Urbaniak et al., there were 18 taxa identified as statistically significant. In the re-analysis for Characterization of the microbiome of nipple aspirate fluid of breast cancer survivors by Chan et al., there were three genera identified as statistically significant in the skin and fluid samples. Our work has discovered that reanalyses are necessary for microbiome studies, especially older 16S studies. Through our re-analysis, we classified and identified more phyla and genera across studies, which supports the notion that reanalyses provide new insights to the microbiome field and help to assess robusticity of previously published findings by using new and updated tools and databases.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291320)
+
+10.1371/journal.pone.0291320
 
 ---
 
@@ -207,18 +226,6 @@ Novel antibiotics are urgently needed to combat the antibiotic-resistance crisis
 ## https://t.co/r7E8jWQEjK
 
 [Source](https://t.co/r7E8jWQEjK)
-
----
-
-## Intracluster correlation coefficients in osteoarthritis cluster randomized trials: a systematic review.
- 17.09.2023, _LK King, NS Bodmer, P Saadat, P Bobos, GA Hawker, BR da Costa_
-
-
-The design, analysis and interpretation of cluster randomized clinical trials (RCTs) requires accounting for potential correlation of observations on individuals within the same cluster. Reporting of observed intracluster correlation coefficients (ICCs) in cluster RCTs, as recommended by CONSORT, facilitates sample size calculation of future cluster RCTs and understanding of the trial statistical power. Our objective was to summarize observed ICCs in osteoarthritis (OA) cluster RCTs.
-
-[Source](https://twitter.com/svetlana_up/status/1699086351348515120?ref_src=twsrc%5Etfw)
-
-10.1016/j.joca.2023.09.006
 
 ---
 
