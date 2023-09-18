@@ -124,18 +124,6 @@ Introduction: Endocannabinoids in COVID-19 have immunomodulatory and anti-inflam
 
 ---
 
-## Systematic Literature Review of Real-World Evidence on Baricitinib for the Treatment of Rheumatoid Arthritis.
- 16.09.2023, _B Hernández-Cruz, U Kiltz, J Avouac, T Treuer, E Haladyj, J Gerwien, CD Gupta, F Conti_
-
-
-Baricitinib, an orally available small-molecule inhibitor of Janus kinase (JAK)1 and JAK2, is indicated to treat active moderate-to-severe rheumatoid arthritis (RA).
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1701235383210508355?ref_src=twsrc%5Etfw)
-
-10.1007/s40744-023-00591-9
-
----
-
 ## September 11, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1701235383210508355?ref_src=twsrc%5Etfw)
