@@ -36,7 +36,7 @@ The aromatic amino acid L-tryptophan (Trp) is essentially metabolized along the 
 ---
 
 ## High-throughput sequencing analysis of the characteristics of the gut microbiota in aged patients with sarcopenia.
- 16.09.2023, _Y Zhang, Y Zhu, Q Guo, W Wang, L Zhang_
+ 18.09.2023, _Y Zhang, Y Zhu, Q Guo, W Wang, L Zhang_
 
 
 The gut microbiota is a complex microbial community that changes in response to various intestinal diseases, including aging-related diseases such as sarcopenia. Several studies have shown that the metabolites of the gut microbiota affect the dynamic balance of the skeletal muscle. However, the effect of gut microbiota imbalance on sarcopenia is still largely unknown.
