@@ -10,7 +10,7 @@
 ---
 
 ## Regulation of psoriasis, colitis, and the intestinal microbiota by clusterin.
- 18.09.2023, _YK Jun, HT Yoon, SH Kwon, UH Jo, JE Kim, YM Han, MS Kim, JP Im, DH Lee, JS Kim, SJ Koh, H Park_
+ 19.09.2023, _YK Jun, HT Yoon, SH Kwon, UH Jo, JE Kim, YM Han, MS Kim, JP Im, DH Lee, JS Kim, SJ Koh, H Park_
 
 
 _Humans, Animals, Mice, Clusterin, Gastrointestinal Microbiome, Psoriasis, Colitis, Dermatitis, Inflammation, Bacteroidetes, Cytokines, Firmicutes, Mammals_
@@ -23,7 +23,7 @@ Psoriasis, a chronic and systemic inflammatory disorder characterized by activat
 ---
 
 ## Bridging of host-microbiota tryptophan partitioning by the serotonin pathway in fungal pneumonia.
- 18.09.2023, _G Renga, F D'Onofrio, M Pariano, R Galarini, C Barola, C Stincardini, MM Bellet, H Ellemunter, C Lass-Flörl, C Costantini, V Napolioni, AK Ehrlich, C Antognelli, M Fini, E Garaci, E Nunzi, L Romani_
+ 19.09.2023, _G Renga, F D'Onofrio, M Pariano, R Galarini, C Barola, C Stincardini, MM Bellet, H Ellemunter, C Lass-Flörl, C Costantini, V Napolioni, AK Ehrlich, C Antognelli, M Fini, E Garaci, E Nunzi, L Romani_
 
 
 _Humans, Animals, Mice, Tryptophan, Serotonin, Pneumonia, Mycoses, Microbiota, Aspergillosis, Influenza, Human_
@@ -72,7 +72,7 @@ Periodontitis, a chronic infectious disease, primarily arises from infections an
 ---
 
 ## The synthetic food dye, Red 40, causes DNA damage, causes colonic inflammation, and impacts the microbiome in mice.
- 18.09.2023, _Q Zhang, AA Chumanevich, I Nguyen, AA Chumanevich, N Sartawi, J Hogan, M Khazan, Q Harris, B Massey, I Chatzistamou, PJ Buckhaults, CE Banister, M Wirth, JR Hebert, EA Murphy, LJ Hofseth_
+ 19.09.2023, _Q Zhang, AA Chumanevich, I Nguyen, AA Chumanevich, N Sartawi, J Hogan, M Khazan, Q Harris, B Massey, I Chatzistamou, PJ Buckhaults, CE Banister, M Wirth, JR Hebert, EA Murphy, LJ Hofseth_
 
 
 The incidence of colorectal cancer (CRC) among young people has been on the rise for the past four decades and its underlying causes are only just starting to be uncovered. Recent studies suggest that consuming ultra-processed foods and pro-inflammatory diets may be contributing factors. The increase in the use of synthetic food colors in such foods over the past 40 years, including the common synthetic food dye Allura Red AC (Red 40), coincides with the rise of early-onset colorectal cancer (EOCRC). As these ultra-processed foods are particularly appealing to children, there is a growing concern about the impact of synthetic food dyes on the development of CRC. Our study aimed to investigate the effects of Red 40 on DNA damage, the microbiome, and colonic inflammation. Despite a lack of prior research, high levels of human exposure to pro-inflammatory foods containing Red 40 highlight the urgency of exploring this issue. Our results show that Red 40 damages DNA both in vitro and in vivo and that consumption of Red 40 in the presence of a high-fat diet for 10 months leads to dysbiosis and low-grade colonic inflammation in mice. This evidence supports the hypothesis that Red 40 is a dangerous compound that dysregulates key players involved in the development of EOCRC.
