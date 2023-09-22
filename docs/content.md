@@ -1,5 +1,5 @@
 ## Frequency of change determines effectiveness of microbial response strategies.
- 18.09.2023, _S Li, D Mosier, X Dong, A Kouris, G Ji, M Strous, M Diao_
+ 22.09.2023, _S Li, D Mosier, X Dong, A Kouris, G Ji, M Strous, M Diao_
 
 
 Nature challenges microbes with change at different frequencies and demands an effective response for survival. Here, we used controlled laboratory experiments to investigate the effectiveness of different response strategies, such as post-translational modification, transcriptional regulation, and specialized versus adaptable metabolisms. For this, we inoculated replicated chemostats with an enrichment culture obtained from sulfidic stream microbiomes 16 weeks prior. The chemostats were submitted to alternatingly oxic and anoxic conditions at three frequencies, with periods of 1, 4 and 16 days. The microbial response was recorded with 16S rRNA gene amplicon sequencing, shotgun metagenomics, transcriptomics and proteomics. Metagenomics resolved provisional genomes of all abundant bacterial populations, mainly affiliated with Proteobacteria and Bacteroidetes. Almost all these populations maintained a steady growth rate under both redox conditions at all three frequencies of change. Our results supported three conclusions: (1) Oscillating oxic/anoxic conditions selected for generalistic species, rather than species specializing in only a single condition. (2) A high frequency of change selected for strong codon usage bias. (3) Alignment of transcriptomes and proteomes required multiple generations and was dependent on a low frequency of change.
@@ -11,7 +11,7 @@ Nature challenges microbes with change at different frequencies and demands an e
 ---
 
 ## Social and psychological adversity are associated with distinct mother and infant gut microbiome variations.
- 21.09.2023, _BB Warner, BA Rosa, IM Ndao, PI Tarr, JP Miller, SK England, JL Luby, CE Rogers, C Hall-Moore, RE Bryant, JD Wang, LA Linneman, TA Smyser, CD Smyser, DM Barch, GE Miller, E Chen, J Martin, M Mitreva_
+ 22.09.2023, _BB Warner, BA Rosa, IM Ndao, PI Tarr, JP Miller, SK England, JL Luby, CE Rogers, C Hall-Moore, RE Bryant, JD Wang, LA Linneman, TA Smyser, CD Smyser, DM Barch, GE Miller, E Chen, J Martin, M Mitreva_
 
 
 _Female, Pregnancy, Humans, Infant, Gastrointestinal Microbiome, Mothers, Case-Control Studies, Bifidobacterium, Cytokines, Vitamins_
@@ -37,7 +37,7 @@ Early life plays a vital role in the development of the gut microbiome and subse
 ---
 
 ## Recovery of the gut microbiome following enteric infection and persistence of antimicrobial resistance genes in specific microbial hosts.
- 21.09.2023, _ZA Hansen, K Vasco, JT Rudrik, KT Scribner, L Zhang, SD Manning_
+ 22.09.2023, _ZA Hansen, K Vasco, JT Rudrik, KT Scribner, L Zhang, SD Manning_
 
 
 _Humans, Anti-Bacterial Agents, Gastrointestinal Microbiome, Drug Resistance, Bacterial, Anti-Infective Agents, Aminoglycosides_
@@ -50,7 +50,7 @@ Enteric pathogens cause widespread foodborne illness and are increasingly resist
 ---
 
 ## The Impacts of Fecal Microbiota Transplantation from Same Sex on the Symptoms of Ulcerative Colitis Patients.
- 21.09.2023, _S Shang, J Zhu, X Liu, W Wang, T Dai, L Wang, B Li_
+ 22.09.2023, _S Shang, J Zhu, X Liu, W Wang, T Dai, L Wang, B Li_
 
 
 _Adolescent, Humans, Female, Male, Colitis, Ulcerative, Fecal Microbiota Transplantation, Prospective Studies, RNA, Ribosomal, 16S, Abdominal Pain, Bifidobacterium, Diarrhea, Fabaceae, Lactobacillus_
@@ -63,7 +63,7 @@ We aimed to compare the clinical efficacy of fecal microbiota transplantation (F
 ---
 
 ## Transcriptomic, 16S ribosomal ribonucleic acid and network pharmacology analyses shed light on the anticoccidial mechanism of green tea polyphenols against Eimeria tenella infection in Wuliangshan black-boned chickens.
- 21.09.2023, _HY Song, ML Deng, JF Yang, J Ma, FF Shu, WJ Cheng, XQ Zhu, FC Zou, JJ He_
+ 22.09.2023, _HY Song, ML Deng, JF Yang, J Ma, FF Shu, WJ Cheng, XQ Zhu, FC Zou, JJ He_
 
 
 _Animals, Transcriptome, Chickens, RNA, Ribosomal, 16S, Eimeria tenella, Matrix Metalloproteinase 1, Matrix Metalloproteinase 7, Molecular Docking Simulation, Network Pharmacology, China, Antioxidants, Biological Products, Nitric Oxide Synthase, Ephrins_
