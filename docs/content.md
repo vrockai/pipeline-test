@@ -50,7 +50,7 @@ Enteric pathogens cause widespread foodborne illness and are increasingly resist
 ---
 
 ## The Impacts of Fecal Microbiota Transplantation from Same Sex on the Symptoms of Ulcerative Colitis Patients.
- 22.09.2023, _S Shang, J Zhu, X Liu, W Wang, T Dai, L Wang, B Li_
+ 23.09.2023, _S Shang, J Zhu, X Liu, W Wang, T Dai, L Wang, B Li_
 
 
 _Adolescent, Humans, Female, Male, Colitis, Ulcerative, Fecal Microbiota Transplantation, Prospective Studies, RNA, Ribosomal, 16S, Abdominal Pain, Bifidobacterium, Diarrhea, Fabaceae, Lactobacillus_
