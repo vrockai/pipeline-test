@@ -10,15 +10,9 @@
 
 ---
 
-## Enterobacteriaceae growth promotion by intestinal acylcarnitines, a biomarker of dysbiosis in Inflammatory Bowel Disease.
- 22.09.2023, _JMS Lemons, M Conrad, C Tanes, J Chen, ES Friedman, M Roggiani, D Curry, L Chau, AL Hecht, L Harling, J Vales, KE Kachelries, RN Baldassano, M Goulian, K Bittinger, SR Master, L Liu, GD Wu_
-
-
-Altered plasma acylcarnitine levels are well known biomarkers for a variety of mitochondrial fatty acid oxidation disorders and can be utilized as an alternative energy source for the intestinal epithelium when short chain fatty acids are low. These membrane permeable fatty acid intermediates are excreted into the gut lumen via bile and are increased in the feces of patients with inflammatory bowel disease (IBD).
+## Enterobacteriaceae growth promotion by intestinal acylcarnitines, a biomarker of dysbiosis in Inflammatory Bowel Disease
 
 [Source](https://www.cmghjournal.org/article/S2352-345X(23)00167-4/pdf)
-
-10.1016/j.jcmgh.2023.09.005
 
 ---
 
@@ -28,89 +22,45 @@ Altered plasma acylcarnitine levels are well known biomarkers for a variety of m
 
 ---
 
-## The gut microbiota and its biogeography.
- 22.09.2023, _G McCallum, C Tropini_
-
-
-Biogeography is the study of species distribution and diversity within an ecosystem and is at the core of how we understand ecosystem dynamics and interactions at the macroscale. In gut microbial communities, a historical reliance on bulk sequencing to probe community composition and dynamics has overlooked critical processes whereby microscale interactions affect systems-level microbiota function and the relationship with the host. In recent years, higher-resolution sequencing and novel single-cell level data have uncovered an incredible heterogeneity in microbial composition and have enabled a more nuanced spatial understanding of the gut microbiota. In an era when spatial transcriptomics and single-cell imaging and analysis have become key tools in mammalian cell and tissue biology, many of these techniques are now being applied to the microbiota. This fresh approach to intestinal biogeography has given important insights that span temporal and spatial scales, from the discovery of mucus encapsulation of the microbiota to the quantification of bacterial species throughout the gut. In this Review, we highlight emerging knowledge surrounding gut biogeography enabled by the observation and quantification of heterogeneity across multiple scales.
+## The gut microbiota and its biogeography
 
 [Source](https://doi.org/10.1038/s41579-023-00969-0)
 
-10.1038/s41579-023-00969-0
-
 ---
 
-## The role of the gut-microbiota-brain axis via the subdiaphragmatic vagus nerve in chronic inflammatory pain and comorbid spatial working memory impairment in complete Freund's adjuvant mice.
- 23.09.2023, _C Yue, W Luan, H Gu, D Qiu, X Ding, P Liu, X Wang, K Hashimoto, JJ Yang_
-
-
-Chronic inflammatory pain (CIP) is a common public medical problem, often accompanied by memory impairment. However, the mechanisms underlying CIP and comorbid memory impairment remain elusive. This study aimed to examine the role of the gut-microbiota-brain axis in CIP and comorbid memory impairment in mice treated with complete Freund's adjuvant (CFA). 16S rRNA analysis showed the altered diversity of gut microbiota from day 1 to day 14 after CFA injection. Interestingly, fecal microbiota transplantation (FMT) from healthy naive mice ameliorated comorbidities, such as mechanical allodynia, thermal hyperalgesia, spatial working memory impairment, neuroinflammation, and abnormal composition of gut microbiota in the CFA mice. Additionally, subdiaphragmatic vagotomy (SDV) blocked the onset of these comorbidities. Interestingly, the relative abundance of the bacterial genus or species was also correlated with these comorbidities after FMT or SDV. Therefore, our results suggest that the gut-microbiota-brain axis via the subdiaphragmatic vagus nerve is crucial for the development of CIP and comorbid spatial working memory impairment in CFA mice.
+## The role of the gut-microbiota-brain axis via the subdiaphragmatic vagus nerve in chronic inflammatory pain and comorbid spatial working memory impairment in complete Freund’s adjuvant mice
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0022395623004132?via%3Dihub)
 
-10.1016/j.jpsychires.2023.09.003
-
 ---
 
-## Disentangling the interactions between nasopharyngeal and gut microbiome and their involvement in the modulation of COVID-19 infection.
- 20.09.2023, _L Mancabelli, G Taurino, A Ticinesi, T Ciociola, F Vacondio, C Milani, F Fontana, GA Lugli, C Tarracchini, G Alessandri, A Viappiani, M Bianchi, A Nouvenne, AA Chetta, F Turroni, T Meschi, M Mor, O Bussolati, M Ventura_
-
-
-The human organism is inhabited by trillions of microorganisms, known as microbiota, which are considered to exploit a pivotal role in the regulation of host health and immunity. Recent investigations have suggested a relationship between the composition of the human microbiota and COVID-19 infection, highlighting a possible role of bacterial communities in the modulation of the disease severity. In this study, we performed a shotgun metagenomics analysis to explore and compare the nasopharyngeal microbiota of 38 hospitalized Italian patients with and without COVID-19 infection during the third and fourth pandemic waves. In detail, the metagenomic analysis combined with specific correlation analyses suggested a positive association of several microbial species, such as S. parasanguinis and P. melaninogenica, with the severity of COVID-19 infection. Furthermore, the comparison of the microbiota composition between the nasopharyngeal and their respective fecal samples highlighted an association between these different compartments represented by a sharing of several bacterial species. Additionally, lipidomic and deep-shotgun functional analyses of the fecal samples suggested a metabolic impact of the microbiome on the host's immune response, indicating the presence of key metabolic compounds in COVID-19 patients, such as lipid oxidation end products, potentially related to the inflammatory state. Conversely, the patients without COVID-19 displayed enzymatic patterns associated with the biosynthesis and degradation of specific compounds like lysine (synthesis) and phenylalanine (degradation) that could positively impact disease severity and contribute to modulating COVID-19 infection. IMPORTANCE The human microbiota is reported to play a major role in the regulation of host health and immunity, suggesting a possible impact on the severity of COVID-19 disease. This preliminary study investigated the possible correlation between nasopharyngeal microbiota and COVID-19 infection. In detail, the analysis of the nasopharyngeal microbiota of hospitalized Italian patients with and without COVID-19 infection suggested a positive association of several microbial species with the severity of the disease and highlighted a sharing of several bacteria species with the respective fecal samples. Moreover, the metabolic analyses suggested a possible impact of the microbiome on the host's immune response and the disease severity.
+## Disentangling the interactions between nasopharyngeal and gut microbiome and their involvement in the modulation of COVID-19 infection
 
 [Source](https://doi.org/10.1128/spectrum.02194-23)
 
-10.1128/spectrum.02194-23
-
 ---
 
-## Changes in salivary microbiota due to gastric cancer resection and its relation to gastric fluid microbiota.
- 25.09.2023, _E Komori, N Kato-Kogoe, Y Imai, S Sakaguchi, K Taniguchi, M Omori, M Ohmichi, S Nakamura, T Nakano, SW Lee, T Ueno_
-
-
-_Humans, Stomach Neoplasms, RNA, Ribosomal, 16S, Gastrectomy, Microbiota_
-Gastric cancer is one of the leading causes of death worldwide, and resections are performed to cure the disease. We have previously reported the changes in the gastric microbiota after gastric cancer resection, which may be associated with the oral microbiota; however, the changes in the oral microbiota remain uncharacterized. This study aimed to characterize the changes in the salivary microbiota caused by gastric cancer resection and to evaluate their association with the gastric fluid microbiota. Saliva and gastric fluid samples were collected from 63 patients who underwent gastrectomy before and after surgery, and a 16S rRNA metagenomic analysis was performed to compare the microbiota composition. The number of bacterial species in the salivary microbiota decreased, and the bacterial composition changed after the resection of gastric cancer. In addition, we identified several bacterial genera that varied significantly in the salivary microbiota, some of which also showed similar changes in the gastric fluid microbiota. These findings indicate that changes in the gastric environment affect the oral microbiota, emphasizing the close association between the oral and gastric fluid microbiota. Our study signifies the importance of focusing on the oral microbiota in the perioperative period of gastrectomy in patients with gastric cancer.
+## Changes in salivary microbiota due to gastric cancer resection and its relation to gastric fluid microbiota
 
 [Source](https://doi.org/10.1038/s41598-023-43108-8)
 
-10.1038/s41598-023-43108-8
-
 ---
 
-## Metagenomic sequencing reveals altered gut microbial compositions and gene functions in patients with non-segmental vitiligo.
- 25.09.2023, _M Luan, M Niu, P Yang, D Han, Y Zhang, W Li, Q He, Y Zhao, B Mao, J Chen, K Mou, P Li_
-
-
-_Humans, Vitiligo, Gastrointestinal Microbiome, Metagenome, Bacteroides fragilis, Clostridiales_
-Vitiligo has been correlated with an abnormal gut microbiota. We aimed to systematically identify characteristics of the gut microbial compositions, genetic functions, and potential metabolic features in patients with non-segmental vitiligo.
+## Metagenomic sequencing reveals altered gut microbial compositions and gene functions in patients with non-segmental vitiligo
 
 [Source](https://doi.org/10.1186/s12866-023-03020-7)
 
-10.1186/s12866-023-03020-7
-
 ---
 
-## The role of the glycome in symbiotic host-microbe interactions.
- 23.09.2023, _R Aminov, L Aminova_
-
-
-Glycosylation plays a crucial role in many aspects of cell biology, including cellular and organismal integrity, structure-and-function of many glycosylated molecules in the cell, signal transduction, development, cancer, and in a number of diseases. Besides, at the inter-organismal level of interaction, a variety of glycosylated molecules are involved in the host-microbiota recognition and initiation of downstream signalling cascades depending on the outcomes of the glycome-mediated ascertainment. The role of glycosylation in host-microbe interactions is better elaborated within the context of virulence and pathogenicity in bacterial infection processes but the symbiotic host-microbe relationships also involve substantive glycome-mediated interactions. The works in the latter field have been reviewed to a much lesser extent, and the main aim of this mini-review is to compensate for this deficiency and summarise the role of glycomics in host-microbe symbiotic interactions.
+## The role of the glycome in symbiotic host-microbe interactions
 
 [Source](https://doi.org/10.1093/glycob/cwad073)
 
-10.1093/glycob/cwad073
-
 ---
 
-## Microbiome-targeted interventions for the control of oral-gut dysbiosis and chronic systemic inflammation.
- 20.09.2023, _J Pacheco-Yanes, E Reynolds, J Li, E Mariño_
-
-
-Recent research has confirmed the strong connection between imbalances in the oral and gut microbiome (oral-gut dysbiosis), periodontitis, and inflammatory conditions such as diabetes, Alzheimer's disease, and cardiovascular diseases. Microbiome modulation is crucial for preventing and treating several autoimmune and inflammatory diseases, including periodontitis. However, the causal relationships between the microbiome and its derived metabolites that mediate periodontitis and chronic inflammation constitute a notable knowledge gap. Here we review the mechanisms involved in the microbiome-host crosstalk, and describe novel precision medicine for the control of systemic inflammation. As microbiome-targeted therapies begin to enter clinical trials, the success of these approaches relies upon understanding these reciprocal microbiome-host interactions, and it may provide new therapeutic avenues to reduce the risk of periodontitis-associated diseases.
+## Microbiome-targeted interventions for the control of oral-gut dysbiosis and chronic systemic inflammation
 
 [Source](https://www.cell.com/trends/molecular-medicine/fulltext/S1471-4914(23)00191-0)
-
-10.1016/j.molmed.2023.08.006
 
 ---
 
@@ -127,7 +77,7 @@ As our society ages, the growing number of people with Parkinson's disease (PD) 
 ---
 
 ## The edible plant microbiome: evidence for the occurrence of fruit and vegetable bacteria in the human gut.
- 25.09.2023, _WA Wicaksono, T Cernava, B Wassermann, A Abdelfattah, MJ Soto-Giron, GV Toledo, SM Virtanen, M Knip, H Hyöty, G Berg_
+ 26.09.2023, _WA Wicaksono, T Cernava, B Wassermann, A Abdelfattah, MJ Soto-Giron, GV Toledo, SM Virtanen, M Knip, H Hyöty, G Berg_
 
 
 _Humans, Vegetables, Plants, Edible, Fruit, Gastrointestinal Microbiome, Microbiota, Bacteria_
@@ -164,9 +114,15 @@ The gut microbiota contributes to macrophage-mediated inflammation in adipose ti
 
 ---
 
-## Unfolding the secrets of microbiome (Symbiodiniaceae and bacteria) in cold-water coral
+## Unfolding the secrets of microbiome (Symbiodiniaceae and bacteria) in cold-water coral.
+ 21.09.2023, _S Gong, J Liang, X Jin, L Xu, M Zhao, K Yu_
+
+
+Recent deep-ocean exploration has uncovered a variety of cold-water coral (CWC) ecosystems around the world ocean, but it remains unclear how microbiome is associated with these corals at a molecular levels. This study utilized metabarcoding, tissue section observation, and metatranscriptomes to investigate the microbiome (Symbiodiniaceae and bacteria) of CWC species (Narella versluysi, Heterogorgia uatumani, and Muriceides sp.) from depths ranging from 260 m to 370 m. Warm-water coral (WWC) species (Acropora pruinosa, Pocillopora damicornis, and Galaxea fascicularis) were used as control groups. Results revealed that CWC host diverse bacteria and Symbiodiniaceae cells were observed in endoderm of CWC tissues. Several new candidate bacterial phyla were found in both CWC and WWC, including Coralsanbacteria, Coralqiangbacteria, Coralgsqaceae, Coralgongineae, etc. Both the 16S rRNA gene sequencing and metatranscriptomes revealed that Actinobacteria and Proteobacteria were abundant bacterial phyla in CWC. At the gene transcription level, the CWC-associated Symbiodiniaceae community showed a low-level transcription of genes involved in photosynthesis, CO2 fixation, glycolysis, citric acid cycle, while bacteria associated with CWC exhibited a high-level transcription of genes for carbon fixation via the Wood-Lijungdahl pathway, short chain fatty acids production, nitrogen, and sulfur cycles. IMPORTANCE This study shed new light on the functions of both Symbiodiniaceae and bacteria in cold-water coral (CWC). The results demonstrated that Symbiodiniaceae can survive and actively transcribe genes in CWC, suggesting a possible symbiotic or parasitic relationship with the host. This study also revealed complete non-photosynthetic CO2 fixation pathway of bacteria in CWC, as well as their roles in short chain fatty acids production and assimilation of host-derived organic nitrogen and sulfur. These findings highlight the important role of bacteria in the carbon, nitrogen sulfur cycles in CWC, which were possibly crucial for CWC survival in in deep-water environments.
 
 [Source](https://doi.org/10.1128/spectrum.01315-23)
+
+10.1128/spectrum.01315-23
 
 ---
 
@@ -214,16 +170,9 @@ Interactions among endophytes and plants are widespread and can vary from neutra
 
 ---
 
-## Innovative strategy for the conservation of a millennial mausoleum from biodeterioration through artificial light management.
- 25.09.2023, _Y Bao, Y Ma, W Liu, X Li, Y Li, P Zhou, Y Feng, M Delgado-Baquerizo_
-
-
-_Carbon, Light, Microbiota, Nitrogen_
-Artificial lights can cause critical microbial biodeterioration of heritage monuments by promoting the outbreak of phototrophic microbiomes when they are used for touristic viewing. Here, with the ultimate aim of providing innovative solutions for the conservation and visiting of such monuments, we conducted a pioneering two-year in situ manipulative experiment to evaluate the impacts of different artificial light wavelengths (i.e., blue, green and red lights compared to white light) on the phototrophic microbiome of a millennial Chinese imperial mausoleum. Our results show that artificial light can shape the ecophysiological features of the phototrophic bacteriome in this monument and reduce its potential for further biodeterioration. In general, Cyanobacteria dominated (42.0% of the total relative abundance) the phototrophic bacteriome of this cultural relic; however, they were also very sensitive to the choice of artificial light. Compared to white light, monochromatic light, especially green light, reduced Cyanobacteria abundances (18.6%) by decreasing photosynthetic pigment abundances (42.9%); decreased the abundances of heterotrophic species belonging to Proteobacteria (4.5%) and the proportion of genes (6.1%) associated with carbon (i.e., carbon fixation), nitrogen (i.e., denitrification), and sulfur (i.e., dissimilatory sulfate reduction) cycling; and further decreased organic acid (10.1-14.1%) production of the phototrophic bacteriome, which is known to be involved in biodeterioration. Taken together, our findings constitute a major advancement in understanding how light wavelengths influence the phototrophic microbiome in cultural relics, and we found that artificial lights with certain wavelengths (e.g., green light) can help long-term conservation while allowing tourism activities.
+## Innovative strategy for the conservation of a millennial mausoleum from biodeterioration through artificial light management
 
 [Source](https://doi.org/10.1038/s41522-023-00438-9)
-
-10.1038/s41522-023-00438-9
 
 ---
 
@@ -233,16 +182,9 @@ Artificial lights can cause critical microbial biodeterioration of heritage monu
 
 ---
 
-## Comprehensive evaluation of methods for differential expression analysis of metatranscriptomics data.
- 25.09.2023, _H Cho, Y Qu, C Liu, B Tang, R Lyu, BM Lin, J Roach, MA Azcarate-Peril, A Aguiar Ribeiro, MI Love, K Divaris, D Wu_
-
-
-_Child, Humans, Child, Preschool, Benchmarking, Biofilms, Computer Simulation, Lactic Acid, Stomatognathic Diseases_
-Understanding the function of the human microbiome is important but the development of statistical methods specifically for the microbial gene expression (i.e. metatranscriptomics) is in its infancy. Many currently employed differential expression analysis methods have been designed for different data types and have not been evaluated in metatranscriptomics settings. To address this gap, we undertook a comprehensive evaluation and benchmarking of 10 differential analysis methods for metatranscriptomics data. We used a combination of real and simulated data to evaluate performance (i.e. type I error, false discovery rate and sensitivity) of the following methods: log-normal (LN), logistic-beta (LB), MAST, DESeq2, metagenomeSeq, ANCOM-BC, LEfSe, ALDEx2, Kruskal-Wallis and two-part Kruskal-Wallis. The simulation was informed by supragingival biofilm microbiome data from 300 preschool-age children enrolled in a study of childhood dental disease (early childhood caries, ECC), whereas validations were sought in two additional datasets from the ECC study and an inflammatory bowel disease study. The LB test showed the highest sensitivity in both small and large samples and reasonably controlled type I error. Contrarily, MAST was hampered by inflated type I error. Upon application of the LN and LB tests in the ECC study, we found that genes C8PHV7 and C8PEV7, harbored by the lactate-producing Campylobacter gracilis, had the strongest association with childhood dental disease. This comprehensive model evaluation offers practical guidance for selection of appropriate methods for rigorous analyses of differential expression in metatranscriptomics. Selection of an optimal method increases the possibility of detecting true signals while minimizing the chance of claiming false ones.
+## Comprehensive evaluation of methods for differential expression analysis of metatranscriptomics data
 
 [Source](https://doi.org/10.1093/bib/bbad279)
-
-10.1093/bib/bbad279
 
 ---
 
