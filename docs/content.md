@@ -58,64 +58,27 @@ Once thought to be a sterile environment, it is now established that lungs are p
 
 ---
 
-## Soil microbial diversity and network complexity drive the ecosystem multifunctionality of temperate grasslands under changing precipitation.
- 26.09.2023, _C Zhai, L Han, C Xiong, A Ge, X Yue, Y Li, Z Zhou, J Feng, J Ru, J Song, L Jiang, Y Yang, L Zhang, S Wan_
-
-
-Soil microbiomes play a critical role in regulating ecosystem multifunctionality. However, whether and how soil protists and microbiome interactions affect ecosystem multifunctionality under climate change is unclear. Here, we transplanted 54 soil monoliths from three typical temperate grasslands (i.e., desert, typical, and meadow steppes) along a precipitation gradient in the Mongolian Plateau and examined their response to nighttime warming, decreased, and increased precipitation. Across the three steppes, nighttime warming only stimulated protistan diversity by 15.61 (absolute change, phylogenetic diversity) but had no effect on ecosystem multifunctionality. Decreased precipitation reduced bacterial (8.78) and fungal (22.28) diversity, but significantly enhanced soil microbiome network complexity by 1.40. Ecosystem multifunctionality was reduced by 0.23 under decreased precipitation, which could be largely attributed to the reduced soil moisture that negatively impacted bacterial and fungal communities. In contrast, increased precipitation had little impact on soil microbial communities. Overall, both bacterial and fungal diversity and network complexity play a fundamental role in maintaining ecosystem multifunctionality in response to drought stress. Protists alter ecosystem multifunctionality by indirectly affecting microbial network complexity. Therefore, not only microbial diversity but also their interactions (regulated by soil protists) should be considered in evaluating the responses of ecosystem multifunctionality, which has important implications for predicting changes in ecosystem functioning under future climate change scenarios.
+## Soil microbial diversity and network complexity drive the ecosystem multifunctionality of temperate grasslands under changing precipitation
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969723058448)
 
-10.1016/j.scitotenv.2023.167217
-
 ---
 
-## Arctic bacterial diversity and connectivity in the coastal margin of the Last Ice Area.
- 26.09.2023, _C Girard, WF Vincent, AI Culley_
-
-
-Arctic climate change is leading to sea-ice attrition in the Last Ice Area along the northern coast of Canada and Greenland, but less attention has been given to the associated land-based ecosystems. Here we evaluated bacterial community structure in a hydrologically coupled cryo-ecosystem in the region: Thores Glacier, proglacial Thores Lake, and its outlet to the sea. Deep amplicon sequencing revealed that Polaromonas was ubiquitous, but differed genetically among diverse niches. Surface glacier-ice was dominated by Cyanobacteria, while the perennially ice-capped, well-mixed water column of Thores Lake had a unique assemblage of Chloroflexi, Actinobacteriota, and Planctomycetota. Species richness increased downstream, but glacier microbes were little detected in the lake, suggesting strong taxonomic sorting. Ongoing climate change and the retreat of Thores Glacier would lead to complete drainage and loss of the lake microbial ecosystem, indicating the extreme vulnerability of diverse cryohabitats and unique microbiomes in the Last Ice coastal margin.
+## Arctic bacterial diversity and connectivity in the coastal margin of the Last Ice Area
 
 [Source](https://www.nature.com/articles/s43705-023-00313-w)
 
-10.1038/s43705-023-00313-w
-
 ---
 
-## A glimpse of the paleome in endolithic microbial communities.
- 27.09.2023, _CE Wegner, R Stahl, I Velsko, A Hübner, Z Fagernäs, C Warinner, R Lehmann, T Ritschel, KU Totsche, K Küsel_
-
-
-_Genomics, Paleontology, RNA, Ribosomal, 16S, Microbiota, Metagenome_
-The terrestrial subsurface is home to a significant proportion of the Earth's microbial biomass. Our understanding about terrestrial subsurface microbiomes is almost exclusively derived from groundwater and porous sediments mainly by using 16S rRNA gene surveys. To obtain more insights about biomass of consolidated rocks and the metabolic status of endolithic microbiomes, we investigated interbedded limestone and mudstone from the vadose zone, fractured aquifers, and deep aquitards.
+## A glimpse of the paleome in endolithic microbial communities
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01647-2)
 
-10.1186/s40168-023-01647-2
-
 ---
 
-## A computational method to dissect colonization resistance of the gut microbiota against pathogens.
- 26.09.2023, _S Ke, Y Xiao, ST Weiss, X Chen, CP Kelly, YY Liu_
-
-
-The mammalian gut microbiome protects the host through colonization resistance (CR) against the incursion of exogenous and often harmful microorganisms, but identifying the exact microbes responsible for the gut microbiota-mediated CR against a particular pathogen remains a challenge. To address this limitation, we developed a computational method: generalized microbe-phenotype triangulation (GMPT). We first systematically validated GMPT using a classical population dynamics model in community ecology and demonstrated its superiority over baseline methods. We then tested GMPT on simulated data generated from the ecological network inferred from a real community (GnotoComplex microflora) and real microbiome data on two mouse studies on Clostridioides difficile infection. We demonstrated GMPT's ability to streamline the discovery of microbes that are potentially responsible for microbiota-mediated CR against pathogens. GMPT holds promise to advance our understanding of CR mechanisms and facilitate the rational design of microbiome-based therapies for preventing and treating enteric infections.
+## A computational method to dissect colonization resistance of the gut microbiota against pathogens
 
 [Source](https://www.sciencedirect.com/science/article/pii/S2667237523002205)
-
-10.1016/j.crmeth.2023.100576
-
----
-
-## A systematic review and meta-analysis evaluating the impact of antibiotic use on the clinical outcomes of cancer patients treated with immune checkpoint inhibitors.
- 21.03.2023, _A Crespin, C Le Bescop, J de Gunzburg, F Vitry, G Zalcman, J Cervesi, PA Bandinelli_
-
-
-Immune checkpoint inhibitors (ICIs) have considerably improved patient outcomes in various cancer types, but their efficacy remains poorly predictable among patients. The intestinal microbiome, whose balance and composition can be significantly altered by antibiotic use, has recently emerged as a factor that may modulate ICI efficacy. The objective of this systematic review and meta-analysis is to investigate the impact of antibiotics on the clinical outcomes of cancer patients treated with ICIs.
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.09.22.559069v1)
-
-10.3389/fonc.2023.1075593
 
 ---
 
