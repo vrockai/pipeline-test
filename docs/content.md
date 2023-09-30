@@ -52,15 +52,9 @@ Once thought to be a sterile environment, it is now established that lungs are p
 
 ---
 
-## Tomato growth stage modulates bacterial communities across different soil aggregate sizes and disease levels.
- 29.09.2023, _M Dong, EE Kuramae, M Zhao, R Li, Q Shen, GA Kowalchuk_
-
-
-Soil aggregates contain distinct physio-chemical properties across different size classes. These differences in micro-habitats support varied microbial communities and modulate the effect of plant on microbiome, which affect soil functions such as disease suppression. However, little is known about how the residents of different soil aggregate size classes are impacted by plants throughout their growth stages. Here, we examined how tomato plants impact soil aggregation and bacterial communities within different soil aggregate size classes. Moreover, we investigated whether aggregate size impacts the distribution of soil pathogen and their potential inhibitors. We collected samples from different tomato growth stages: before-planting, seedling, flowering, and fruiting stage. We measured bacterial density, community composition, and pathogen abundance using qPCR and 16 S rRNA gene sequencing. We found the development of tomato growth stages negatively impacted root-adhering soil aggregation, with a gradual decrease of large macro-aggregates (1-2 mm) and an increase of micro-aggregates (&lt;0.25 mm). Additionally, changes in bacterial density and community composition varied across soil aggregate size classes. Furthermore, the pathogen exhibited a preference to micro-aggregates, while macro-aggregates hold a higher abundance of potential pathogen-inhibiting taxa and predicted antibiotic-associated genes. Our results indicate that the impacts of tomatoes on soil differ for different soil aggregate size classes throughout different plant growth stages, and plant pathogens and their potential inhibitors have different habitats within soil aggregate size classes. These findings highlight the importance of fine-scale heterogeneity of soil aggregate size classes in research on microbial ecology and agricultural sustainability, further research focuses on soil aggregates level could help identify candidate tax involved in suppressing pathogens in the virtual micro-habitats.
+## Tomato growth stage modulates bacterial communities across different soil aggregate sizes and disease levels
 
 [Source](https://www.nature.com/articles/s43705-023-00312-x)
-
-10.1038/s43705-023-00312-x
 
 ---
 
