@@ -52,15 +52,9 @@ Once thought to be a sterile environment, it is now established that lungs are p
 
 ---
 
-## Tomato growth stage modulates bacterial communities across different soil aggregate sizes and disease levels.
- 29.09.2023, _M Dong, EE Kuramae, M Zhao, R Li, Q Shen, GA Kowalchuk_
-
-
-Soil aggregates contain distinct physio-chemical properties across different size classes. These differences in micro-habitats support varied microbial communities and modulate the effect of plant on microbiome, which affect soil functions such as disease suppression. However, little is known about how the residents of different soil aggregate size classes are impacted by plants throughout their growth stages. Here, we examined how tomato plants impact soil aggregation and bacterial communities within different soil aggregate size classes. Moreover, we investigated whether aggregate size impacts the distribution of soil pathogen and their potential inhibitors. We collected samples from different tomato growth stages: before-planting, seedling, flowering, and fruiting stage. We measured bacterial density, community composition, and pathogen abundance using qPCR and 16 S rRNA gene sequencing. We found the development of tomato growth stages negatively impacted root-adhering soil aggregation, with a gradual decrease of large macro-aggregates (1-2 mm) and an increase of micro-aggregates (&lt;0.25 mm). Additionally, changes in bacterial density and community composition varied across soil aggregate size classes. Furthermore, the pathogen exhibited a preference to micro-aggregates, while macro-aggregates hold a higher abundance of potential pathogen-inhibiting taxa and predicted antibiotic-associated genes. Our results indicate that the impacts of tomatoes on soil differ for different soil aggregate size classes throughout different plant growth stages, and plant pathogens and their potential inhibitors have different habitats within soil aggregate size classes. These findings highlight the importance of fine-scale heterogeneity of soil aggregate size classes in research on microbial ecology and agricultural sustainability, further research focuses on soil aggregates level could help identify candidate tax involved in suppressing pathogens in the virtual micro-habitats.
+## Tomato growth stage modulates bacterial communities across different soil aggregate sizes and disease levels
 
 [Source](https://www.nature.com/articles/s43705-023-00312-x)
-
-10.1038/s43705-023-00312-x
 
 ---
 
@@ -114,7 +108,7 @@ The mammalian gut microbiome protects the host through colonization resistance (
 ---
 
 ## Evidence for the Beneficial Effects of Brazilian Native Fruits and Their By-Products on Human Intestinal Microbiota and Repercussions on Non-Communicable Chronic Diseases-A Review.
- 28.09.2023, _MDC Lima, HMA do Nascimento, JYP da Silva, JL de Brito Alves, EL de Souza_
+ 30.09.2023, _MDC Lima, HMA do Nascimento, JYP da Silva, JL de Brito Alves, EL de Souza_
 
 
 Non-communicable chronic diseases (NCDs) are the most widespread cause of mortality worldwide. Intestinal microbiota balance can be altered by changes in the abundance and/or diversity of intestinal microbiota, indicating a role of intestinal microbiota in NCD development. This review discusses the findings of in vitro studies, pre-clinical studies and clinical trials on the effects of Brazilian native fruits, their by-products, as well as their bioactive compounds on human intestinal microbiota and NCD. The major bioactive compounds in Brazilian native fruits and their by-products, and the impacts of their administration on outcomes linked to intestinal microbiota modulation are discussed. Mechanisms of intestinal microbiota affecting NCD could be linked to the modulation of absorption and energy balance, immune and endocrine systems, and inflammatory response. Brazilian native fruits, such as acerola, açaí, baru, buriti, guava, jabuticaba, juçara, and passion fruit, have several bioactive compounds, soluble and insoluble fibers, and a variety of phenolic compounds, which are capable of changing these key mechanisms. Brazilian native fruits and their by-products can help to promote positive intestinal and systemic health benefits by driving alterations in the composition of the human intestinal microbiota, and increasing the production of distinct short-chain fatty acids and phenolic metabolites, thereby enhancing intestinal integrity and homeostasis. Evidence from available literature shows that the modulatory impacts of Brazilian native fruits and their by-products on the composition and metabolic activity of the intestinal microbiota could improve several clinical repercussions associated with NCD, reinforcing the influence of intestinal microbiota in extra-intestinal outcomes.
