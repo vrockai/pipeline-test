@@ -48,21 +48,40 @@ Several studies have reported increased microbial diversity, or distinct microbi
 
 ---
 
-## Safety and tolerability of frozen, capsulized autologous faecal microbiota transplantation. A randomized double blinded phase I clinical trial
+## Safety and tolerability of frozen, capsulized autologous faecal microbiota transplantation. A randomized double blinded phase I clinical trial.
+ 29.09.2023, _M Stefansson, O Bladh, O Flink, O Skolling, HP Ekre, L Rombo, L Engstrand, J Ursing_
+
+
+Faecal microbiota transplantation (FMT) is recommended treatment for recurrent Clostridioides difficile infection and is studied as a potential modifier of other gastrointestinal and systemic disorders. Autologous FMT limits the potential risks of donor transplant material and enables prophylactic treatment. Capsulized FMT is convenient and accessible, but safety data are lacking.
 
 [Source](https://doi.org/10.1371/journal.pone.0292132)
 
+10.1371/journal.pone.0292132
+
 ---
 
-## Metabolism of azo food dyes by bacterial members of the human gut microbiome
+## Metabolism of azo food dyes by bacterial members of the human gut microbiome.
+ 28.09.2023, _R Elder, SJ Vancuren, AJ Botschner, PD Josephy, E Allen-Vercoe_
+
+
+We set out to survey the capacities of bacterial isolates from the human gut microbiome to reduce common azo food dyes in vitro.
 
 [Source](https://doi.org/10.1016/j.anaerobe.2023.102783)
 
+10.1016/j.anaerobe.2023.102783
+
 ---
 
-## Genetic risk score in multiple sclerosis is associated with unique gut microbiome
+## Genetic risk score in multiple sclerosis is associated with unique gut microbiome.
+ 03.10.2023, _NS Elsayed, RK Valenzuela, T Kitchner, T Le, J Mayer, ZZ Tang, VR Bayanagari, Q Lu, P Aston, K Anantharaman, SK Shukla_
+
+
+_Humans, Gastrointestinal Microbiome, Multiple Sclerosis, Dysbiosis, Genetic Predisposition to Disease, RNA, Ribosomal, 16S, Risk Factors_
+Multiple sclerosis (MS) is a complex autoimmune disease in which both the roles of genetic susceptibility and environmental/microbial factors have been investigated. More than 200 genetic susceptibility variants have been identified along with the dysbiosis of gut microbiota, both independently have been shown to be associated with MS. We hypothesize that MS patients harboring genetic susceptibility variants along with gut microbiome dysbiosis are at a greater risk of exhibiting the disease. We investigated the genetic risk score for MS in conjunction with gut microbiota in the same cohort of 117 relapsing remitting MS (RRMS) and 26 healthy controls. DNA samples were genotyped using Illumina's Infinium Immuno array-24 v2 chip followed by calculating genetic risk score and the microbiota was determined by sequencing the V4 hypervariable region of the 16S rRNA gene. We identified two clusters of MS patients, Cluster A and B, both having a higher genetic risk score than the control group. However, the MS cases in cluster B not only had a higher genetic risk score but also showed a distinct gut microbiome than that of cluster A. Interestingly, cluster A which included both healthy control and MS cases had similar gut microbiome composition. This could be due to (i) the non-active state of the disease in that group of MS patients at the time of fecal sample collection and/or (ii) the restoration of the gut microbiome post disease modifying therapy to treat the MS. Our study showed that there seems to be an association between genetic risk score and gut microbiome dysbiosis in triggering the disease in a small cohort of MS patients. The MS Cluster A who have a higher genetic risk score but microbiome profile similar to that of healthy controls could be due to the remitting phase of the disease or due to the effect of disease modifying therapies.
 
 [Source](https://doi.org/10.1038/s41598-023-43217-4)
+
+10.1038/s41598-023-43217-4
 
 ---
 
@@ -72,15 +91,39 @@ Several studies have reported increased microbial diversity, or distinct microbi
 
 ---
 
-## Metabolic signature for a dysbiotic microbiome in the female genital tract: A systematic review and meta-analysis
+## Metabolic signature for a dysbiotic microbiome in the female genital tract: A systematic review and meta-analysis.
+ 28.09.2023, _B Gill, I Schwecht, N Rahman, T Dhawan, C Verschoor, A Nazli, C Kaushic_
+
+
+The vaginal microbiome (VMB) is a critical determinant of reproductive health, where a microbial shift towards a dysbiotic environment has implications for susceptibility to, and clinical presentation of sexually transmitted infections (STIs). Metabolomic profiling of the vaginal microenvironment has led to the identification of metabolic responses to clinical conditions of dysbiosis. However, no studies have examined metabolic markers that are common across conditions and can serve as a signature for vaginal dysbiosis.
 
 [Source](https://doi.org/10.1111/aji.13781)
 
+10.1111/aji.13781
+
 ---
 
-## Influence of Plant-Based Diet on the Cardiovascular System: A Narrative Review
+## Influence of Plant-Based Diet on the Cardiovascular System: A Narrative Review.
+ 28.09.2023, _G Jangid, HAO Popoola-Samuel, K Goda, FNU Anamika, V Gupta, SG Kanagala, RS Munjal_
+
+
+A plant-based diet (PBD) includes multiple dietary patterns such as vegetarianism, veganism, lacto-ovo-vegetarianism, etc. A well-balanced PBD has positive effects on body mass index, hyperlipidemia, and type 2 diabetes, and it is associated with decreased risk of cardiovascular diseases. Due to its high fiber content, which lowers levels of low-density lipoprotein cholesterol, high antioxidant content, which prevents capillary wall damage; the presence of polyunsaturated fatty acids, which have an anti-inflammatory effect, improvement in glucose homeostasis through improved insulin sensitivity, and impact on the gut microbiota, it has been proven to be beneficial for the heart. Despite their possible benefits, PBDs can be low in essential nutrients such as vitamin B12, zinc, vitamin D, iodine, and amino acids. This review aims to analyze the influence of PBDs on the cardiovascular system and associated disease progression.
 
 [Source](https://doi.org/10.1097/CRD.0000000000000613)
+
+10.1097/CRD.0000000000000613
+
+---
+
+## Bile acid metabolism regulatory network orchestrates bone homeostasis.
+ 30.09.2023, _T Xiang, Z Deng, C Yang, J Tan, C Dou, F Luo, Y Chen_
+
+
+Bile acids (BAs), synthesized in the liver and modified by the gut microbiota, have been widely appreciated not only as simple lipid emulsifiers, but also as complex metabolic regulators and momentous signaling molecules, which play prominent roles in the complex interaction among several metabolic systems. Recent studies have drawn us eyes on the diverse physiological functions of BAs, to enlarge the knowledge about the "gut-bone" axis due to the participation about the gut microbiota-derived BAs to modulate bone homeostasis at physiological and pathological stations. In this review, we have summarized the metabolic processes of BAs and highlighted the crucial roles of BAs targeting bile acid-activated receptors (BARs), promoting the proliferation and differentiation of osteoblasts (OBs), inhibiting the activity of osteoclasts (OCs), as well as reducing articular cartilage degradation, thus facilitating bone repair. In addition, we have also focused on the bidirectional effects of BA signaling networks in coordinating the dynamic balance of bone matrix and demonstrated the promising effects of BAs on the development or treatment for pathological bone diseases. In a word, further clinical applications targeting BA metabolism or modulating gut metabolome and related derivatives may be developed as effective therapeutic strategies for bone destruction diseases.
+
+[Source](https://doi.org/10.1080/1040841X.2023.2262020)
+
+10.1016/j.phrs.2023.106943
 
 ---
 
@@ -226,33 +269,64 @@ Terpenes are among the oldest and largest class of plant-specialized bioproducts
 
 ---
 
-## Rhizosphere and detritusphere habitats modulate expression of soil N-cycling genes during plant development
+## Rhizosphere and detritusphere habitats modulate expression of soil N-cycling genes during plant development.
+ 27.09.2023, _ET Sieradzki, EE Nuccio, J Pett-Ridge, MK Firestone_
+
+
+Interactions between plant roots and rhizosphere bacteria modulate nitrogen (N)-cycling processes and create habitats rich in low molecular weight compounds (exudates) and complex organic molecules (decaying root litter) compared to those of bulk soil. Microbial N-cycling is regulated by edaphic conditions and genes from many interconnected metabolic pathways, but most studies of soil N-cycling gene expression have focused on single pathways. Currently, we lack a comprehensive understanding of the interplay between soil N-cycling gene regulation, spatial habitat, and time. We present results from a replicated time series of soil metatranscriptomes; we followed gene expression of multiple N transformations in four soil habitats (rhizosphere, detritusphere, rhizo-detritusphere, and bulk soil) during active root growth for the annual grass, Avena fatua. The presence of root litter and living roots significantly altered the trajectories of N-cycling gene expression. Upregulation of assimilatory nitrate reduction in the rhizosphere suggests that rhizosphere bacteria were actively competing with roots for nitrate. Simultaneously, ammonium assimilatory pathways were upregulated in both rhizosphere and detritusphere soil, which could have limited N availability to plants. The detritusphere supported dissimilatory processes DNRA and denitrification. Expression of nitrification genes was dominated by three phylotypes of Thaumarchaeota and was upregulated in bulk soil. Unidirectional ammonium assimilation and its regulatory genes (GS/GOGAT) were upregulated near relatively young roots and highly decayed root litter, suggesting N may have been limiting in these habitats (GS/GOGAT is typically activated under N limitation). Our comprehensive analysis indicates that differences in carbon and inorganic N availability control contemporaneous transcription of N-cycling pathways in soil habitats. IMPORTANCE Plant roots modulate microbial nitrogen (N) cycling by regulating the supply of root-derived carbon and nitrogen uptake. These differences in resource availability cause distinct micro-habitats to develop: soil near living roots, decaying roots, near both, or outside the direct influence of roots. While many environmental factors and genes control the microbial processes involved in the nitrogen cycle, most research has focused on single genes and pathways, neglecting the interactive effects these pathways have on each other. The processes controlled by these pathways determine consumption and production of N by soil microorganisms. We followed the expression of N-cycling genes in four soil microhabitats over a period of active root growth for an annual grass. We found that the presence of root litter and living roots significantly altered gene expression involved in multiple nitrogen pathways, as well as tradeoffs between pathways, which ultimately regulate N availability to plants.
 
 [Source](https://doi.org/10.1128/msystems.00315-23)
 
+10.1128/msystems.00315-23
+
 ---
 
-## The presence of benzene ring activating CoA ligases for aromatics degradation in the ANaerobic MEthanotrophic (ANME) archaea
+## The presence of benzene ring activating CoA ligases for aromatics degradation in the ANaerobic MEthanotrophic (ANME) archaea.
+ 27.09.2023, _WW Liu, P Pan, NY Zhou_
+
+
+Petroleum-source and black carbon-source aromatic compounds are present in the cold seep environments, where ANaerobic MEthanotrophic (ANME) archaea as the dominant microbial community mediates the anaerobic oxidation of methane to produce inorganic and organic carbon. Here, by predicting the aromatics catabolic pathways in ANME metagenome-assembled genomes, we provide genomic and biochemical evidences that ANME have the potential of metabolizing aromatics via the strategy of CoA activation of the benzene ring using phenylacetic acid and benzoate as the substrates. Two ring-activating enzymes phenylacetate-CoA ligase (PaaKANME) and benzoate-CoA ligase (BadAANME) are able to convert phenylacetate to phenylacetyl-CoA and benzoate to benzoyl-CoA in vitro, respectively. They are mesophilic, alkali resistance, and with broad substrate spectra showing different affinity with various substrates. An exploration of the relative gene abundance in ANME genomes and cold seep environments indicates that about 50% of ANME genomes contain PCL genes, and various bacteria and archaea contain PCL and BCL genes. The results provide evidences for the capability of heterotrophic metabolism of aromatic compounds by ANME. This has not only enhanced our understanding of the nutrient range of ANME but also helped to explore the additional ecological and biogeochemical significance of this ubiquitous sedimentary archaea in the carbon flow in the cold seep environments. IMPORTANCE ANaerobic MEthanotrophic (ANME) archaea is the dominant microbial community mediating the anaerobic oxidation of methane in the cold seep environments, where aromatic compounds are present. Then it is hypothesized that ANME may be involved in the metabolism of aromatics. Here, we provide genomic and biochemical evidences for the heterotrophic metabolism of aromatic compounds by ANME, enhancing our understanding of their nutrient range and also shedding light on the ecological and biogeochemical significance of these ubiquitous sedimentary archaea in carbon flow within cold seep environments. Overall, this study offers valuable insights into the metabolic capabilities of ANME and their potential contributions to the global carbon cycle.
 
 [Source](https://doi.org/10.1128/spectrum.01766-23)
 
+10.1128/spectrum.01766-23
+
 ---
 
-## Microbial biogeography of pit mud from an artificial brewing ecosystem on a large time scale: all roads lead to Rome
+## Microbial biogeography of pit mud from an artificial brewing ecosystem on a large time scale: all roads lead to Rome.
+ 28.09.2023, _JL Mei, LJ Chai, XZ Zhong, ZM Lu, XJ Zhang, ST Wang, CH Shen, JS Shi, ZH Xu_
+
+
+The fermentation process of strong-flavor Baijiu occurs in an underground cellar surrounded by mud, where grains are decomposed and generate new flavor substances. Pit mud microbiome plays a pivotal role in the formation of Baijiu flavor, which is positively correlated with cellar age. Previous research on the pit mud microbiome was often conducted for a specific distillery, making it hard to draw a general conclusion to decipher the pit mud microecosystem in such a unique brewing environment. Hence, in this study, we attempt to unravel community formation mechanisms through research in pit mud microbial biogeography based on 12 independent bacterial studies comprising qualified data sets of 302 samples clearly marked with cellar age from five major producing provinces. We found cellar age explained more variations in the bacterial community than geographical region. The bacterial community displayed evident dominant species alternations on a large time scale. Lactobacillus was found to be the dominant species in young pit mud (&lt;10 years), while Caproiciproducens dominated in aged pit mud. Null model analysis revealed that as pit mud aged, the influence of stochastic and deterministic processes in the bacterial community shifted, and the relative contribution of homogeneous selection increased. Positive correlations dominated the bacterial co-occurrence networks, and the network complexity decreased and stability increased with cellar age. These findings shed new light on the formation of pit mud microbiomes under the impact of long-term batch-to-batch continuous brewing, providing a basis for the evaluation and production of high-quality pit mud. IMPORTANCE Baijiu is a typical example of how humans employ microorganisms to convert grains into new flavors. Mud cellars are used as the fermentation vessel for strong-flavor Baijiu (SFB) to complete the decomposition process of grains. The typical flavor of SFB is mainly attributed to the metabolites of the pit mud microbiome. China has a large number of SFB-producing regions. Previous research revealed the temporal profiles of the pit mud microbiome in different geographical regions. However, each single independent study rarely yields a thorough understanding of the pit mud ecosystem. Will the pit mud microbial communities in different production regions exhibit similar succession patterns and structures under the impact of the brewing environment? Hence, we conducted research in pit mud microbial biogeography to uncover the impact of specific environment on the microbial community over a long time scale.
 
 [Source](https://doi.org/10.1128/msystems.00564-23)
 
+10.1128/msystems.00564-23
+
 ---
 
-## Stable microbial community in compacted bentonite after 5 years of exposure to natural granitic groundwater
+## Stable microbial community in compacted bentonite after 5 years of exposure to natural granitic groundwater.
+ 29.09.2023, _K Engel, SE Ford, WJ Binns, N Diomidis, GF Slater, JD Neufeld_
+
+
+The Materials Corrosion Test (MaCoTe) at the Underground Research Laboratory in Grimsel, Switzerland, assesses the microbiology and corrosion behavior of engineered barrier components of a deep geological repository (DGR) for long-term disposal of high-level nuclear waste. Diversity and temporal changes of bentonite-associated microbial community profiles were assessed under DGR-like conditions for compacted Wyoming MX-80 bentonite (1.25 g/cm3 and 1.50 g/cm3 targeted dry densities) exposed to natural groundwater. Using culture-dependent and molecular techniques, samples taken from the outside layer of 5-year borehole modules revealed up to 66% and 23% of 16S rRNA gene sequences affiliated with Desulfosporosinus and Desulfovibrio, respectively. Putatively involved in sulfate reduction, these taxa were almost undetectable within the bentonite core. Instead, microbial profiles of the inner bentonite core were similar to uncompacted bentonite used to pack modules years earlier, and were consistent with a previously published 1-year time point, revealing no detectable microbial growth. Abundances of culturable aerobic and anaerobic heterotrophic bacteria in the uncompacted bentonite were relatively low, with less than 1,000 and 100 colony-forming units (CFUs) per gram dry weight, respectively. Nearly 5 years after emplacement, culturable heterotrophic bacterial CFUs and sulfate-reducing bacteria did not change significantly inside the bentonite core. Phospholipid fatty acid data indicated similar lipid abundance, and corresponding cell abundance estimates, for inner 5-year MaCoTe bentonite samples compared to those previously obtained for 1-year incubations. Collectively, our results provide complementary evidence for microbial stability inside highly compacted bentonite exposed to conditions that mimic engineered barrier components of a deep geological repository. IMPORTANCE The long-term safety of a deep geological repository for used nuclear fuel is dependent on the performance of the engineered and natural barriers. Microbial activity can produce chemical species that can influence the corrosion of the disposal containers for used nuclear fuel. Although previous studies have evaluated the microbiology of compacted bentonite clay within subsurface environments, these have been limited to relatively short incubations (i.e., 1 year). The current study provides a unique 5-year perspective that reinforces previous findings of growth inhibition for bentonite clay exposed to in situ subsurface conditions.
 
 [Source](https://doi.org/10.1128/msphere.00048-23)
 
+10.1128/msphere.00048-23
+
 ---
 
-## Impact of Experimental Bias on Compositional Analysis of Microbiome Data
+## Impact of Experimental Bias on Compositional Analysis of Microbiome Data.
+ 03.10.2023, _Y Hu, GA Satten, YJ Hu_
+
+
+_Bias, Computer Simulation, Microbiota, Polymerase Chain Reaction_
+Microbiome data are subject to experimental bias that is caused by DNA extraction and PCR amplification, among other sources, but this important feature is often ignored when developing statistical methods for analyzing microbiome data. McLaren, Willis, and Callahan (2019) proposed a model for how such biases affect the observed taxonomic profiles; this model assumes the main effects of bias without taxon-taxon interactions. Our newly developed method for testing the differential abundance of taxa, LOCOM, is the first method to account for experimental bias and is robust to the main effect biases. However, there is also evidence for taxon-taxon interactions. In this report, we formulated a model for interaction biases and used simulations based on this model to evaluate the impact of interaction biases on the performance of LOCOM as well as other available compositional analysis methods. Our simulation results indicate that LOCOM remained robust to a reasonable range of interaction biases. The other methods tend to have an inflated FDR even when there were only main effect biases. LOCOM maintained the highest sensitivity even when the other methods could not control the FDR. We thus conclude that LOCOM outperforms the other methods for compositional analysis of microbiome data considered here.
 
 [Source](https://doi.org/10.3390/genes14091777)
+
+10.3390/genes14091777
 
 ---
 
@@ -262,9 +336,15 @@ Terpenes are among the oldest and largest class of plant-specialized bioproducts
 
 ---
 
-## Integrating a tailored recurrent neural network with Bayesian experimental design to optimize microbial community functions
+## Integrating a tailored recurrent neural network with Bayesian experimental design to optimize microbial community functions.
+ 02.10.2023, _JC Thompson, VM Zavala, OS Venturelli_
+
+
+Microbiomes interact dynamically with their environment to perform exploitable functions such as production of valuable metabolites and degradation of toxic metabolites for a wide range of applications in human health, agriculture, and environmental cleanup. Developing computational models to predict the key bacterial species and environmental factors to build and optimize such functions are crucial to accelerate microbial community engineering. However, there is an unknown web of interactions that determine the highly complex and dynamic behavior of these systems, which precludes the development of models based on known mechanisms. By contrast, entirely data-driven machine learning models can produce physically unrealistic predictions and often require significant amounts of experimental data to learn system behavior. We develop a physically-constrained recurrent neural network that preserves model flexibility but is constrained to produce physically consistent predictions and show that it can outperform existing machine learning methods in the prediction of certain experimentally measured species abundance and metabolite concentrations. Further, we present a closed-loop, Bayesian experimental design algorithm to guide data collection by selecting experimental conditions that simultaneously maximize information gain and target microbial community functions. Using a bioreactor case study, we demonstrate how the proposed framework can be used to efficiently navigate a large design space to identify optimal operating conditions. The proposed methodology offers a flexible machine learning approach specifically tailored to optimize microbiome target functions through the sequential design of informative experiments that seek to explore and exploit community functions.
 
 [Source](https://doi.org/10.1371/journal.pcbi.1011436)
+
+10.1371/journal.pcbi.1011436
 
 ---
 
