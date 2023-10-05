@@ -23,9 +23,10 @@ Microbial consortia exhibit complex functional properties in contexts ranging fr
 ---
 
 ## Skin microbiota secretomes modulate cutaneous innate immunity against Borrelia burgdorferi s.s.
- 04.10.2023, _F Baquer, B Jaulhac, C Barthel, M Paz, J Wolfgramm, A Müller, N Boulanger, A Grillon_
+ 05.10.2023, _F Baquer, B Jaulhac, C Barthel, M Paz, J Wolfgramm, A Müller, N Boulanger, A Grillon_
 
 
+_Animals, Humans, Borrelia burgdorferi, Interleukin-8, Secretome, Lyme Disease, Inflammation, Immunity, Innate, Ixodes_
 In Lyme borreliosis, the skin constitutes a major interface for the host, the bacteria and the tick. Skin immunity is provided by specialized immune cells but also by the resident cells: the keratinocytes and the fibroblasts. Discoveries on the role of the microbiome in the modulation of skin inflammation and immunity have reinforced the potential importance of the skin in vector-borne diseases. In this study, we analyzed in vitro the interaction of human primary keratinocytes and fibroblasts with Borrelia burgdorferi sensu stricto N40 in presence or absence of bacterial commensal supernatants. We aimed to highlight the role of resident skin cells and skin microbiome on the inflammation induced by B. burgdorferi s.s.. The secretomes of Staphylococcus epidermidis, Corynebacterium striatum and Cutibacterium acnes showed an overall increase in the expression of IL-8, CXCL1, MCP-1 and SOD-2 by fibroblasts, and of IL-8, CXCL1, MCP-1 and hBD-2 in the undifferentiated keratinocytes. Commensal bacteria showed a repressive effect on the expression of IL-8, CXCL1 and MCP-1 by differentiated keratinocytes. Besides the inflammatory effect observed in the presence of Borrelia on all cell types, the cutaneous microbiome appears to promote a rapid innate response of resident skin cells during the onset of Borrelia infection.
 
 [Source](https://www.nature.com/articles/s41598-023-43566-0)
@@ -46,15 +47,9 @@ In Lyme borreliosis, the skin constitutes a major interface for the host, the ba
 
 ---
 
-## The gut microbiome tango in the progression of chronic kidney disease and potential therapeutic strategies.
- 03.10.2023, _Z Tang, S Yu, Y Pan_
-
-
-Chronic kidney disease (CKD) affects more than 10% population worldwide and becomes a huge burden to the world. Recent studies have revealed multifold interactions between CKD and gut microbiome and their pathophysiological implications. The gut microbiome disturbed by CKD results in the imbalanced composition and quantity of gut microbiota and subsequent changes in its metabolites and functions. Studies have shown that both the dysbiotic gut microbiota and its metabolites have negative impacts on the immune system and aggravate diseases in different ways. Herein, we give an overview of the currently known mechanisms of CKD progression and the alterations of the immune system. Particularly, we summarize the effects of uremic toxins on the immune system and review the roles of gut microbiota in promoting the development of different kidney diseases. Finally, we discuss the current sequencing technologies and novel therapies targeting the gut microbiome.
+## The gut microbiome tango in the progression of chronic kidney disease and potential therapeutic strategies
 
 [Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-023-04455-2)
-
-10.1186/s12967-023-04455-2
 
 ---
 
@@ -64,41 +59,21 @@ Chronic kidney disease (CKD) affects more than 10% population worldwide and beco
 
 ---
 
-## Exploring gut microbiota in adult Atlantic salmon (Salmo salar L.): Associations with gut health and dietary prebiotics.
- 03.10.2023, _J Wang, Y Li, A Jaramillo-Torres, O Einen, JV Jakobsen, Å Krogdahl, TM Kortner_
-
-
-The importance of the gut microbiota for physiological processes in mammals is well established, but the knowledge of their functional roles in fish is still limited. The aims of this study were to investigate associations between variation in taxonomical composition of the gut microbiota and gut health status in Atlantic salmon and to explore possible modulatory effects of dietary prebiotics in one net-pen farm in open water. The fish with initial mean body weight of around 240 g were fed diets based on the same basal composition, either without (Ref diet) or with (Test diet) yeast cell wall based-prebiotics, during the marine production phase from December to September the following year. Sampling was conducted at three sampling time points: January, April, and September, with average water temperature of 3.9 ℃, 3.4 ℃ and 9.6 ℃, respectively.
+## Exploring gut microbiota in adult Atlantic salmon (Salmo salar L.): Associations with gut health and dietary prebiotics
 
 [Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-023-00269-1)
 
-10.1186/s42523-023-00269-1
-
 ---
 
-## Using wasps as a tool to restore a functioning vine grape mycobiota and preserve the mycobial "terroir".
- 04.10.2023, _M Di Paola, A Gori, I Stefanini, N Meriggi, S Renzi, S Nenciarini, B Cerasuolo, M Moriondo, R Romoli, G Pieraccini, D Baracchi, F Turillazzi, S Turillazzi, D Cavalieri_
-
-
-_Animals, Humans, Vitis, Saccharomyces cerevisiae, Wasps, Fermentation, Wine_
-In the last one-hundred years, the exponential expansion of wine making has artificialized the agricultural landscape as well as its microbial diversity, spreading human selected Saccharomyces cerevisiae strains. Evidence showed that social wasps can harbor a significant fraction of the yeast phenotypic diversity of a given area of wine production, allowing different strains to overwinter and mate in their gut. The integrity of the wasp-yeast ecological interaction is of paramount importance to maintain the resilience of microbial populations associated to wine aromatic profiles. In a field experiment, we verified whether Polistes dominula wasps, reared in laboratory and fed with a traceable S. cerevisiae strain, could be a useful tool to drive the controlled yeast dispersion directly on grapes. The demonstration of the biotechnological potential of social insects in organic wine farming lays the foundations for multiple applications including maintenance of microbial biodiversity and rewilding vineyards through the introduction of wasp associated microbiomes.
+## Using wasps as a tool to restore a functioning vine grape mycobiota and preserve the mycobial “terroir”
 
 [Source](https://www.nature.com/articles/s41598-023-43541-9)
 
-10.1038/s41598-023-43541-9
-
 ---
 
-## Soil microbes mediate the effects of resource variability on plant invasion.
- 03.10.2023, _X Zhang, M van Kleunen, C Chang, Y Liu_
-
-
-_Soil, Plants, Microbiota, Ecology, Introduced Species, Soil Microbiology_
-A fundamental question in ecology is which species will prevail over others amid changes in both environmental mean conditions and their variability. Although the widely accepted fluctuating resource hypothesis predicts that increases in mean resource availability and variability therein will promote nonnative plant invasion, it remains unclear to what extent these effects might be mediated by soil microbes. We grew eight invasive nonnative plant species as target plants in pot-mesocosms planted with five different synthetic native communities as competitors, and assigned them to eight combinations of two nutrient-fluctuation (constant vs. pulsed), two nutrient-availability (low vs. high) and two soil-microbe (living vs. sterilized) treatments. We found that when plants grew in sterilized soil, nutrient fluctuation promoted the dominance of nonnative plants under overall low nutrient availability, whereas the nutrient fluctuation had minimal effect under high nutrient availability. In contrast, when plants grew in living soil, nutrient fluctuation promoted the dominance of nonnative plants under high nutrient availability rather than under low nutrient availability. Analysis of the soil microbial community suggests that this might reflect that nutrient fluctuation strongly increased the relative abundance of the most dominant pathogenic fungal family or genus under high nutrient availability, while decreasing it under low nutrient availability. Our findings are the first to indicate that besides its direct effect, environmental variability could also indirectly affect plant invasion via changes in soil microbial communities.
+## Soil microbes mediate the effects of resource variability on plant invasion
 
 [Source](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4154)
-
-10.1002/ecy.4154
 
 ---
 
