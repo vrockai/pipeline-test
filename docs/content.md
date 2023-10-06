@@ -95,9 +95,15 @@ In Lyme borreliosis, the skin constitutes a major interface for the host, the ba
 
 ---
 
-## INVADEseq to identify cell-adherent or invasive bacteria and the associated host transcriptome at single-cell-level resolution
+## INVADEseq to identify cell-adherent or invasive bacteria and the associated host transcriptome at single-cell-level resolution.
+ 03.10.2023, _JL Galeano Niño, H Wu, KD LaCourse, H Srinivasan, M Fitzgibbon, SS Minot, C Sather, CD Johnston, S Bullman_
+
+
+Single-cell RNA sequencing (scRNAseq) technologies have been beneficial in revealing and describing cellular heterogeneity within mammalian tissues, including solid tumors. However, many of these techniques apply poly(A) selection of RNA, and thus have primarily focused on determining the gene signatures of eukaryotic cellular components of the tumor microenvironment. Microbiome analysis has revealed the presence of microbial ecosystems, including bacteria and fungi, within human tumor tissues from major cancer types. Imaging data have revealed that intratumoral bacteria may be located within epithelial and immune cell types. However, as bacterial RNA typically lacks a poly(A) tail, standard scRNAseq approaches have limited ability to capture this microbial component of the tumor microenvironment. To overcome this, we describe the invasion-adhesion-directed expression sequencing (INVADEseq) approach, whereby we adapt 10x Genomics 5' scRNAseq protocol by introducing a primer that targets a conserved region of the bacterial 16S ribosomal RNA gene in addition to the standard primer for eukaryotic poly(A) RNA selection. This 'add-on' approach enables the generation of eukaryotic and bacterial DNA libraries at eukaryotic single-cell level resolution, utilizing the 10x barcode to identify single cells with intracellular bacteria. The INVADEseq method takes 30 h to complete, including tissue processing, sequencing and computational analysis. As an output, INVADEseq has shown to be a reliable tool in human cancer cell lines and patient tumor specimens by detecting the proportion of human cells that harbor bacteria and the identities of human cells and intracellular bacteria, along with identifying host transcriptional programs that are modulated on the basis of associated bacteria.
 
 [Source](https://www.nature.com/articles/s41596-023-00888-7)
+
+10.1038/s41596-023-00888-7
 
 ---
 
