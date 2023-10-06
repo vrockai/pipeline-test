@@ -23,7 +23,7 @@ Microbial consortia exhibit complex functional properties in contexts ranging fr
 ---
 
 ## Skin microbiota secretomes modulate cutaneous innate immunity against Borrelia burgdorferi s.s.
- 05.10.2023, _F Baquer, B Jaulhac, C Barthel, M Paz, J Wolfgramm, A Müller, N Boulanger, A Grillon_
+ 06.10.2023, _F Baquer, B Jaulhac, C Barthel, M Paz, J Wolfgramm, A Müller, N Boulanger, A Grillon_
 
 
 _Animals, Humans, Borrelia burgdorferi, Interleukin-8, Secretome, Lyme Disease, Inflammation, Immunity, Innate, Ixodes_
@@ -47,66 +47,33 @@ In Lyme borreliosis, the skin constitutes a major interface for the host, the ba
 
 ---
 
-## The gut microbiome tango in the progression of chronic kidney disease and potential therapeutic strategies.
- 05.10.2023, _Z Tang, S Yu, Y Pan_
-
-
-_Humans, Gastrointestinal Microbiome, Renal Insufficiency, Chronic, Dysbiosis_
-Chronic kidney disease (CKD) affects more than 10% population worldwide and becomes a huge burden to the world. Recent studies have revealed multifold interactions between CKD and gut microbiome and their pathophysiological implications. The gut microbiome disturbed by CKD results in the imbalanced composition and quantity of gut microbiota and subsequent changes in its metabolites and functions. Studies have shown that both the dysbiotic gut microbiota and its metabolites have negative impacts on the immune system and aggravate diseases in different ways. Herein, we give an overview of the currently known mechanisms of CKD progression and the alterations of the immune system. Particularly, we summarize the effects of uremic toxins on the immune system and review the roles of gut microbiota in promoting the development of different kidney diseases. Finally, we discuss the current sequencing technologies and novel therapies targeting the gut microbiome.
+## The gut microbiome tango in the progression of chronic kidney disease and potential therapeutic strategies
 
 [Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-023-04455-2)
 
-10.1186/s12967-023-04455-2
-
 ---
 
-## Microbiota-gut-brain axis drives overeating disorders.
- 05.10.2023, _S Fan, W Guo, D Xiao, M Guan, T Liao, S Peng, A Feng, Z Wang, H Yin, M Li, J Chen, W Xiong_
-
-
-Overeating disorders (ODs), usually stemming from dieting history and stress, remain a pervasive issue in contemporary society, with the pathological mechanisms largely unresolved. Here, we show that alterations in intestinal microbiota are responsible for the excessive intake of palatable foods in OD mice and patients with bulimia nervosa (BN). Stress combined with a history of dieting causes significant changes in the microbiota and the intestinal metabolism, which disinhibit the vagus nerve terminals in the gut and thereby lead to a subsequent hyperactivation of the gut-brain axis passing through the vagus, the solitary tract nucleus, and the paraventricular nucleus of the thalamus. The transplantation of a probiotic Faecalibacterium prausnitzii or dietary supplement of key metabolites restores the activity of the gut-to-brain pathway and thereby alleviates the OD symptoms. Thus, our study delineates how the microbiota-gut-brain axis mediates energy balance, unveils the underlying pathogenesis of the OD, and provides potential therapeutic strategies.
+## Microbiota-gut-brain axis drives overeating disorder
 
 [Source](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(23)00335-2)
 
-10.1016/j.cmet.2023.09.005
-
 ---
 
-## Exploring gut microbiota in adult Atlantic salmon (Salmo salar L.): Associations with gut health and dietary prebiotics.
- 05.10.2023, _J Wang, Y Li, A Jaramillo-Torres, O Einen, JV Jakobsen, Å Krogdahl, TM Kortner_
-
-
-The importance of the gut microbiota for physiological processes in mammals is well established, but the knowledge of their functional roles in fish is still limited. The aims of this study were to investigate associations between variation in taxonomical composition of the gut microbiota and gut health status in Atlantic salmon and to explore possible modulatory effects of dietary prebiotics in one net-pen farm in open water. The fish with initial mean body weight of around 240 g were fed diets based on the same basal composition, either without (Ref diet) or with (Test diet) yeast cell wall based-prebiotics, during the marine production phase from December to September the following year. Sampling was conducted at three sampling time points: January, April, and September, with average water temperature of 3.9 ℃, 3.4 ℃ and 9.6 ℃, respectively.
+## Exploring gut microbiota in adult Atlantic salmon (Salmo salar L.): Associations with gut health and dietary prebiotics
 
 [Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-023-00269-1)
 
-10.1186/s42523-023-00269-1
-
 ---
 
-## Using wasps as a tool to restore a functioning vine grape mycobiota and preserve the mycobial "terroir".
- 05.10.2023, _M Di Paola, A Gori, I Stefanini, N Meriggi, S Renzi, S Nenciarini, B Cerasuolo, M Moriondo, R Romoli, G Pieraccini, D Baracchi, F Turillazzi, S Turillazzi, D Cavalieri_
-
-
-_Animals, Humans, Vitis, Saccharomyces cerevisiae, Wasps, Fermentation, Wine_
-In the last one-hundred years, the exponential expansion of wine making has artificialized the agricultural landscape as well as its microbial diversity, spreading human selected Saccharomyces cerevisiae strains. Evidence showed that social wasps can harbor a significant fraction of the yeast phenotypic diversity of a given area of wine production, allowing different strains to overwinter and mate in their gut. The integrity of the wasp-yeast ecological interaction is of paramount importance to maintain the resilience of microbial populations associated to wine aromatic profiles. In a field experiment, we verified whether Polistes dominula wasps, reared in laboratory and fed with a traceable S. cerevisiae strain, could be a useful tool to drive the controlled yeast dispersion directly on grapes. The demonstration of the biotechnological potential of social insects in organic wine farming lays the foundations for multiple applications including maintenance of microbial biodiversity and rewilding vineyards through the introduction of wasp associated microbiomes.
+## Using wasps as a tool to restore a functioning vine grape mycobiota and preserve the mycobial “terroir”
 
 [Source](https://www.nature.com/articles/s41598-023-43541-9)
 
-10.1038/s41598-023-43541-9
-
 ---
 
-## Soil microbes mediate the effects of resource variability on plant invasion.
- 03.10.2023, _X Zhang, M van Kleunen, C Chang, Y Liu_
-
-
-_Soil, Plants, Microbiota, Ecology, Introduced Species, Soil Microbiology_
-A fundamental question in ecology is which species will prevail over others amid changes in both environmental mean conditions and their variability. Although the widely accepted fluctuating resource hypothesis predicts that increases in mean resource availability and variability therein will promote nonnative plant invasion, it remains unclear to what extent these effects might be mediated by soil microbes. We grew eight invasive nonnative plant species as target plants in pot-mesocosms planted with five different synthetic native communities as competitors, and assigned them to eight combinations of two nutrient-fluctuation (constant vs. pulsed), two nutrient-availability (low vs. high) and two soil-microbe (living vs. sterilized) treatments. We found that when plants grew in sterilized soil, nutrient fluctuation promoted the dominance of nonnative plants under overall low nutrient availability, whereas the nutrient fluctuation had minimal effect under high nutrient availability. In contrast, when plants grew in living soil, nutrient fluctuation promoted the dominance of nonnative plants under high nutrient availability rather than under low nutrient availability. Analysis of the soil microbial community suggests that this might reflect that nutrient fluctuation strongly increased the relative abundance of the most dominant pathogenic fungal family or genus under high nutrient availability, while decreasing it under low nutrient availability. Our findings are the first to indicate that besides its direct effect, environmental variability could also indirectly affect plant invasion via changes in soil microbial communities.
+## Soil microbes mediate the effects of resource variability on plant invasion
 
 [Source](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4154)
-
-10.1002/ecy.4154
 
 ---
 
@@ -122,34 +89,15 @@ A fundamental question in ecology is which species will prevail over others amid
 
 ---
 
-## Gut microbial determinants of clinically important improvement in patients with rheumatoid arthritis.
- 21.02.2022, _VK Gupta, KY Cunningham, B Hur, U Bakshi, H Huang, KJ Warrington, V Taneja, E Myasoedova, JM Davis, J Sung_
-
-
-_Aged, Aged, 80 and over, Arthritis, Rheumatoid, Clostridiales, Cohort Studies, Dysbiosis, Female, Gastrointestinal Microbiome, Humans, Male, Metagenome, Metagenomics, Middle Aged, RNA, Ribosomal, 16S, Retrospective Studies, Severity of Illness Index_
-Rapid advances in the past decade have shown that dysbiosis of the gut microbiome is a key hallmark of rheumatoid arthritis (RA). Yet, the relationship between the gut microbiome and clinical improvement in RA disease activity remains unclear. In this study, we explored the gut microbiome of patients with RA to identify features that are associated with, as well as predictive of, minimum clinically important improvement (MCII) in disease activity.
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.09.30.560294v1)
-
-10.1186/s13073-021-00957-0
-
----
-
 ## Gut Microbiome Wellness Index 2 for Enhanced Health Status Prediction from Gut Microbiome Taxonomic Profiles
 
 [Source](https://www.biorxiv.org/content/10.1101/2023.09.30.560294v1)
 
 ---
 
-## INVADEseq to identify cell-adherent or invasive bacteria and the associated host transcriptome at single-cell-level resolution.
- 03.10.2023, _JL Galeano Niño, H Wu, KD LaCourse, H Srinivasan, M Fitzgibbon, SS Minot, C Sather, CD Johnston, S Bullman_
-
-
-Single-cell RNA sequencing (scRNAseq) technologies have been beneficial in revealing and describing cellular heterogeneity within mammalian tissues, including solid tumors. However, many of these techniques apply poly(A) selection of RNA, and thus have primarily focused on determining the gene signatures of eukaryotic cellular components of the tumor microenvironment. Microbiome analysis has revealed the presence of microbial ecosystems, including bacteria and fungi, within human tumor tissues from major cancer types. Imaging data have revealed that intratumoral bacteria may be located within epithelial and immune cell types. However, as bacterial RNA typically lacks a poly(A) tail, standard scRNAseq approaches have limited ability to capture this microbial component of the tumor microenvironment. To overcome this, we describe the invasion-adhesion-directed expression sequencing (INVADEseq) approach, whereby we adapt 10x Genomics 5' scRNAseq protocol by introducing a primer that targets a conserved region of the bacterial 16S ribosomal RNA gene in addition to the standard primer for eukaryotic poly(A) RNA selection. This 'add-on' approach enables the generation of eukaryotic and bacterial DNA libraries at eukaryotic single-cell level resolution, utilizing the 10x barcode to identify single cells with intracellular bacteria. The INVADEseq method takes 30 h to complete, including tissue processing, sequencing and computational analysis. As an output, INVADEseq has shown to be a reliable tool in human cancer cell lines and patient tumor specimens by detecting the proportion of human cells that harbor bacteria and the identities of human cells and intracellular bacteria, along with identifying host transcriptional programs that are modulated on the basis of associated bacteria.
+## INVADEseq to identify cell-adherent or invasive bacteria and the associated host transcriptome at single-cell-level resolution
 
 [Source](https://www.nature.com/articles/s41596-023-00888-7)
-
-10.1038/s41596-023-00888-7
 
 ---
 
