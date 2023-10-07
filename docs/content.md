@@ -47,9 +47,16 @@ In Lyme borreliosis, the skin constitutes a major interface for the host, the ba
 
 ---
 
-## The gut microbiome tango in the progression of chronic kidney disease and potential therapeutic strategies
+## The gut microbiome tango in the progression of chronic kidney disease and potential therapeutic strategies.
+ 06.10.2023, _Z Tang, S Yu, Y Pan_
+
+
+_Humans, Gastrointestinal Microbiome, Renal Insufficiency, Chronic, Dysbiosis_
+Chronic kidney disease (CKD) affects more than 10% population worldwide and becomes a huge burden to the world. Recent studies have revealed multifold interactions between CKD and gut microbiome and their pathophysiological implications. The gut microbiome disturbed by CKD results in the imbalanced composition and quantity of gut microbiota and subsequent changes in its metabolites and functions. Studies have shown that both the dysbiotic gut microbiota and its metabolites have negative impacts on the immune system and aggravate diseases in different ways. Herein, we give an overview of the currently known mechanisms of CKD progression and the alterations of the immune system. Particularly, we summarize the effects of uremic toxins on the immune system and review the roles of gut microbiota in promoting the development of different kidney diseases. Finally, we discuss the current sequencing technologies and novel therapies targeting the gut microbiome.
 
 [Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-023-04455-2)
+
+10.1186/s12967-023-04455-2
 
 ---
 
