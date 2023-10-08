@@ -47,16 +47,9 @@ In Lyme borreliosis, the skin constitutes a major interface for the host, the ba
 
 ---
 
-## The gut microbiome tango in the progression of chronic kidney disease and potential therapeutic strategies.
- 06.10.2023, _Z Tang, S Yu, Y Pan_
-
-
-_Humans, Gastrointestinal Microbiome, Renal Insufficiency, Chronic, Dysbiosis_
-Chronic kidney disease (CKD) affects more than 10% population worldwide and becomes a huge burden to the world. Recent studies have revealed multifold interactions between CKD and gut microbiome and their pathophysiological implications. The gut microbiome disturbed by CKD results in the imbalanced composition and quantity of gut microbiota and subsequent changes in its metabolites and functions. Studies have shown that both the dysbiotic gut microbiota and its metabolites have negative impacts on the immune system and aggravate diseases in different ways. Herein, we give an overview of the currently known mechanisms of CKD progression and the alterations of the immune system. Particularly, we summarize the effects of uremic toxins on the immune system and review the roles of gut microbiota in promoting the development of different kidney diseases. Finally, we discuss the current sequencing technologies and novel therapies targeting the gut microbiome.
+## The gut microbiome tango in the progression of chronic kidney disease and potential therapeutic strategies
 
 [Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-023-04455-2)
-
-10.1186/s12967-023-04455-2
 
 ---
 
@@ -119,19 +112,6 @@ A fundamental question in ecology is which species will prevail over others amid
 ## BATTER: Accurate Prediction of Rho-dependent and Rho-independent Transcription Terminators in Metagenomes
 
 [Source](https://www.biorxiv.org/content/10.1101/2023.10.02.560326v1)
-
----
-
-## Gut microbial determinants of clinically important improvement in patients with rheumatoid arthritis.
- 21.02.2022, _VK Gupta, KY Cunningham, B Hur, U Bakshi, H Huang, KJ Warrington, V Taneja, E Myasoedova, JM Davis, J Sung_
-
-
-_Aged, Aged, 80 and over, Arthritis, Rheumatoid, Clostridiales, Cohort Studies, Dysbiosis, Female, Gastrointestinal Microbiome, Humans, Male, Metagenome, Metagenomics, Middle Aged, RNA, Ribosomal, 16S, Retrospective Studies, Severity of Illness Index_
-Rapid advances in the past decade have shown that dysbiosis of the gut microbiome is a key hallmark of rheumatoid arthritis (RA). Yet, the relationship between the gut microbiome and clinical improvement in RA disease activity remains unclear. In this study, we explored the gut microbiome of patients with RA to identify features that are associated with, as well as predictive of, minimum clinically important improvement (MCII) in disease activity.
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.09.30.560294v1)
-
-10.1186/s13073-021-00957-0
 
 ---
 
