@@ -143,9 +143,10 @@ Beer is a source of bioactive compounds, mainly polyphenols, which can reach the
 ---
 
 ## The maternal microbiome promotes placental development in mice.
- 06.10.2023, _GN Pronovost, KB Yu, EJL Coley-O'Rourke, SS Telang, AS Chen, HE Vuong, DW Williams, A Chandra, TK Rendon, J Paramo, RH Kim, EY Hsiao_
+ 09.10.2023, _GN Pronovost, KB Yu, EJL Coley-O'Rourke, SS Telang, AS Chen, HE Vuong, DW Williams, A Chandra, TK Rendon, J Paramo, RH Kim, EY Hsiao_
 
 
+_Pregnancy, Mice, Female, Animals, Placentation, Placenta, Microbiota, Fetus, Gastrointestinal Microbiome_
 The maternal microbiome is an important regulator of gestational health, but how it affects the placenta as the interface between mother and fetus remains unexplored. Here, we show that the maternal gut microbiota supports placental development in mice. Depletion of the maternal gut microbiota restricts placental growth and impairs feto-placental vascularization. The maternal gut microbiota modulates metabolites in the maternal and fetal circulation. Short-chain fatty acids (SCFAs) stimulate cultured endothelial cell tube formation and prevent abnormalities in placental vascularization in microbiota-deficient mice. Furthermore, in a model of maternal malnutrition, gestational supplementation with SCFAs prevents placental growth restriction and vascular insufficiency. These findings highlight the importance of host-microbial symbioses during pregnancy and reveal that the maternal gut microbiome promotes placental growth and vascularization in mice.
 
 [Source](https://doi.org/10.1126/sciadv.adk1887)
@@ -185,9 +186,10 @@ In terrestrial ecosystems, leaf litter is the main source of nutrients returning
 ---
 
 ## PandaGUT provides new insights into bacterial diversity, function, and resistome landscapes with implications for conservation.
- 07.10.2023, _G Huang, W Shi, L Wang, Q Qu, Z Zuo, J Wang, F Zhao, F Wei_
+ 09.10.2023, _G Huang, W Shi, L Wang, Q Qu, Z Zuo, J Wang, F Zhao, F Wei_
 
 
+_Animals, Microbiota, Gastrointestinal Microbiome, Animals, Wild, Metagenome, Bacteria, Mammals_
 The gut microbiota play important roles in host adaptation and evolution, but are understudied in natural population of wild mammals. To address host adaptive evolution and improve conservation efforts of threatened mammals from a metagenomic perspective, we established a high-quality gut microbiome catalog of the giant panda (pandaGUT) to resolve the microbiome diversity, functional, and resistome landscapes using approximately 7 Tbp of long- and short-read sequencing data from 439 stool samples.
 
 [Source](https://doi.org/10.1186/s40168-023-01657-0)
