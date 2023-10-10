@@ -94,15 +94,9 @@ The musculoskeletal system is important for balancing metabolic activity and mai
 
 ---
 
-## The microbial landscape of colorectal cancer.
- 04.10.2023, _MT White, CL Sears_
-
-
-Colorectal cancer (CRC) is a substantial source of global morbidity and mortality in dire need of improved prevention and treatment strategies. As our understanding of CRC grows, it is becoming increasingly evident that the gut microbiota, consisting of trillions of microorganisms in direct interface with the colon, plays a substantial role in CRC development and progression. Understanding the roles that individual microorganisms and complex microbial communities play in CRC pathogenesis, along with their attendant mechanisms, will help yield novel preventive and therapeutic interventions for CRC. In this Review, we discuss recent evidence concerning global perturbations of the gut microbiota in CRC, associations of specific microorganisms with CRC, the underlying mechanisms by which microorganisms potentially drive CRC development and the roles of complex microbial communities in CRC pathogenesis. While our understanding of the relationship between the microbiota and CRC has improved in recent years, our findings highlight substantial gaps in current research that need to be filled before this knowledge can be used to the benefit of patients.
+## The microbial landscape of colorectal cancer
 
 [Source](https://doi.org/10.1038/s41579-023-00973-4)
-
-10.1038/s41579-023-00973-4
 
 ---
 
