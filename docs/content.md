@@ -1,5 +1,5 @@
 ## Mitochondrial dysfunction promotes microbial composition that negatively impacts on ulcerative colitis development and progression.
- 07.10.2023, _A Peña-Cearra, D Song, J Castelo, A Palacios, JL Lavín, M Azkargorta, F Elortza, M Fuertes, MA Pascual-Itoiz, D Barriales, I Martín-Ruiz, A Fullaondo, AM Aransay, H Rodríguez, NW Palm, J Anguita, L Abecia_
+ 10.10.2023, _A Peña-Cearra, D Song, J Castelo, A Palacios, JL Lavín, M Azkargorta, F Elortza, M Fuertes, MA Pascual-Itoiz, D Barriales, I Martín-Ruiz, A Fullaondo, AM Aransay, H Rodríguez, NW Palm, J Anguita, L Abecia_
 
 
 Recent evidence demonstrates potential links between mitochondrial dysfunction and inflammatory bowel diseases (IBD). In addition, bidirectional interactions between the intestinal microbiota and host mitochondria may modulate intestinal inflammation. We observed previously that mice deficient in the mitochondrial protein MCJ (Methylation-controlled J protein) exhibit increased susceptibility to DSS colitis. However, it is unclear whether this phenotype is primarily driven by MCJ-/- associated gut microbiota dysbiosis or by direct effects of MCJ-deficiency. Here, we demonstrate that fecal microbiota transplantation (FMT) from MCJ-deficient into germ-free mice was sufficient to confer increased susceptibility to colitis. Therefore, an FMT experiment by cohousing was designed to alter MCJ-deficient microbiota. The phenotype resulting from complex I deficiency was reverted by FMT. In addition, we determined the protein expression pathways impacted by MCJ deficiency, providing insight into the pathophysiology of IBD. Further, we used magnetic activated cell sorting (MACS) and 16S rRNA gene sequencing to characterize taxa-specific coating of the intestinal microbiota with Immunoglobulin A (IgA-SEQ) in MCJ-deficient mice. We show that high IgA coating of fecal bacteria observed in MCJ-deficient mice play a potential role in disease progression. This study allowed us to identify potential microbial signatures in feces associated with complex I deficiency and disease progression. This research highlights the importance of finding microbial biomarkers, which might serve as predictors, permitting the stratification of ulcerative colitis (UC) patients into distinct clinical entities of the UC spectrum.
@@ -11,7 +11,7 @@ Recent evidence demonstrates potential links between mitochondrial dysfunction a
 ---
 
 ## The recovery of the microbial community after plaque removal depends on periodontal health status.
- 07.10.2023, _X Li, C Yu, B Zhang, X Shan, W Mao, Z Zhang, C Wang, X Jin, J Wang, H Zhao_
+ 10.10.2023, _X Li, C Yu, B Zhang, X Shan, W Mao, Z Zhang, C Wang, X Jin, J Wang, H Zhao_
 
 
 Plaque accumulation and microbial community changes are important causes of periodontal disease. Cleaned plaque microorganisms will reattach to form biofilms, but the recovery and outcome of plaque microbial communities in different periodontal health states remain unknown. In this study, we tracked the biofilm remodeling process in 206 dental plaque samples from 40 healthy periodontal, gingivitis and periodontitis volunteers at 6 time points before and after supragingival scaling. We found that microbial communities of different periodontal states changed asynchronously during the process, and the more severe the periodontal disease condition, the more lagged the recovery of plaque microorganisms to their original state after cleaning; this reflected a higher degree of plaque development in periodontitis samples. The plaque index and bleeding index were significantly correlated with plaque recovery, especially the recovery of bacteria such as Abiotrophia and Capnocytophaga. Meanwhile, we found that the microbial community structure of different periodontal health states was most similar at the Day 3 after plaque cleaning, and the communities gradually differentiated and developed in different directions. Abiotrophia and other bacteria might play an important role in determining the development trend of plaque biofilms. The discovery of specific time points and bacteria was of great value in clarifying the pathogenesis of periodontal disease and in seeking targets for prevention and treatment.
@@ -23,7 +23,7 @@ Plaque accumulation and microbial community changes are important causes of peri
 ---
 
 ## Uncover a microbiota signature of upper respiratory tract in patients with SARS-CoV-2 + .
- 09.10.2023, _M Bellato, M Cappellato, F Longhin, C Del Vecchio, G Brancaccio, AM Cattelan, P Brun, C Salaris, I Castagliuolo, B Di Camillo_
+ 10.10.2023, _M Bellato, M Cappellato, F Longhin, C Del Vecchio, G Brancaccio, AM Cattelan, P Brun, C Salaris, I Castagliuolo, B Di Camillo_
 
 
 The outbreak of Coronavirus disease 2019 (COVID-19), caused by SARS-CoV-2, forced us to face a pandemic with unprecedented social, economic, and public health consequences. Several nations have launched campaigns to immunize millions of people using various vaccines to prevent infections. Meanwhile, therapeutic approaches and discoveries continuously arise; however, identifying infected patients that are going to experience the more severe outcomes of COVID-19 is still a major need, to focus therapeutic efforts, reducing hospitalization and mitigating drug adverse effects. Microbial communities colonizing the respiratory tract exert significant effects on host immune responses, influencing the susceptibility to infectious agents. Through 16S rDNAseq we characterized the upper airways' microbiota of 192 subjects with nasopharyngeal swab positive for SARS-CoV-2. Patients were divided into groups based on the presence of symptoms, pneumonia severity, and need for oxygen therapy or intubation. Indeed, unlike most of the literature, our study focuses on identifying microbial signatures predictive of disease progression rather than on the probability of infection itself, for which a consensus is lacking. Diversity, differential abundance, and network analysis at different taxonomic levels were synergistically adopted, in a robust bioinformatic pipeline, highlighting novel possible taxa correlated with patients' disease progression to intubation.
@@ -35,7 +35,7 @@ The outbreak of Coronavirus disease 2019 (COVID-19), caused by SARS-CoV-2, force
 ---
 
 ## COVID-19 mRNA vaccine-mediated antibodies in human breast milk and their association with breast milk microbiota composition.
- 08.10.2023, _S Zhao, KYW Lok, ZY Sin, Y Peng, HSL Fan, N Nagesh, MSL Choi, JYY Kwok, EPH Choi, X Zhang, HK Wai, LCH Tsang, SSM Cheng, MKL Wong, J Zhu, CKP Mok, SC Ng, FKL Chan, M Peiris, LLM Poon, HM Tun_
+ 10.10.2023, _S Zhao, KYW Lok, ZY Sin, Y Peng, HSL Fan, N Nagesh, MSL Choi, JYY Kwok, EPH Choi, X Zhang, HK Wai, LCH Tsang, SSM Cheng, MKL Wong, J Zhu, CKP Mok, SC Ng, FKL Chan, M Peiris, LLM Poon, HM Tun_
 
 
 Newborns can acquire immunological protection to SARS-CoV-2 through vaccine-conferred antibodies in human breast milk. However, there are some concerns around lactating mothers with regards to potential short- and long-term adverse events and vaccine-induced changes to their breast milk microbiome composition, which helps shape the early-life microbiome. Thus, we sought to explore if SARS-CoV-2 mRNA vaccine could change breast milk microbiota and how the changes impact the levels of antibodies in breast milk. We recruited 49 lactating mothers from Hong Kong who received two doses of BNT162b2 vaccine between June 2021 and August 2021. Breast milk samples were self-collected by participants pre-vaccination, one week post-first dose, one week post-second dose, and one month post-second dose. The levels of SARS-CoV-2 spike-specific IgA and IgG in breast milk peaked at one week post-second dose. Subsequently, the levels of both antibodies rapidly waned in breast milk, with IgA levels returning to baseline levels one month post-second dose. The richness and composition of human breast milk microbiota changed dynamically throughout the vaccination regimen, but the abundances of beneficial microbes such as Bifidobacterium species did not significantly change after vaccination. Additionally, we found that baseline breast milk bacterial composition can predict spike-specific IgA levels at one week post-second dose (Area Under Curve: 0.72, 95% confidence interval: 0.58-0.85). Taken together, our results identified specific breast milk microbiota markers associated with high levels of IgA in the breast milk following BNT162b2 vaccine. Furthermore, in lactating mothers, BNT162b2 vaccines did not significantly reduce probiotic species in breast milk.
@@ -94,9 +94,15 @@ The musculoskeletal system is important for balancing metabolic activity and mai
 
 ---
 
-## The microbial landscape of colorectal cancer
+## The microbial landscape of colorectal cancer.
+ 04.10.2023, _MT White, CL Sears_
+
+
+Colorectal cancer (CRC) is a substantial source of global morbidity and mortality in dire need of improved prevention and treatment strategies. As our understanding of CRC grows, it is becoming increasingly evident that the gut microbiota, consisting of trillions of microorganisms in direct interface with the colon, plays a substantial role in CRC development and progression. Understanding the roles that individual microorganisms and complex microbial communities play in CRC pathogenesis, along with their attendant mechanisms, will help yield novel preventive and therapeutic interventions for CRC. In this Review, we discuss recent evidence concerning global perturbations of the gut microbiota in CRC, associations of specific microorganisms with CRC, the underlying mechanisms by which microorganisms potentially drive CRC development and the roles of complex microbial communities in CRC pathogenesis. While our understanding of the relationship between the microbiota and CRC has improved in recent years, our findings highlight substantial gaps in current research that need to be filled before this knowledge can be used to the benefit of patients.
 
 [Source](https://doi.org/10.1038/s41579-023-00973-4)
+
+10.1038/s41579-023-00973-4
 
 ---
 
@@ -137,7 +143,7 @@ Beer is a source of bioactive compounds, mainly polyphenols, which can reach the
 ---
 
 ## The maternal microbiome promotes placental development in mice.
- 09.10.2023, _GN Pronovost, KB Yu, EJL Coley-O'Rourke, SS Telang, AS Chen, HE Vuong, DW Williams, A Chandra, TK Rendon, J Paramo, RH Kim, EY Hsiao_
+ 10.10.2023, _GN Pronovost, KB Yu, EJL Coley-O'Rourke, SS Telang, AS Chen, HE Vuong, DW Williams, A Chandra, TK Rendon, J Paramo, RH Kim, EY Hsiao_
 
 
 _Pregnancy, Mice, Female, Animals, Placentation, Placenta, Microbiota, Fetus, Gastrointestinal Microbiome_
@@ -156,7 +162,7 @@ The maternal microbiome is an important regulator of gestational health, but how
 ---
 
 ## Compost, plants and endophytes versus metal contamination: choice of a restoration strategy steers the microbiome in polymetallic mine waste.
- 09.10.2023, _M Kracmarova-Farren, J Papik, O Uhlik, J Freeman, A Foster, MC Leewis, C Creamer_
+ 10.10.2023, _M Kracmarova-Farren, J Papik, O Uhlik, J Freeman, A Foster, MC Leewis, C Creamer_
 
 
 Finding solutions for the remediation and restoration of abandoned mining areas is of great environmental importance as they pose a risk to ecosystem health. In this study, our aim was to determine how remediation strategies with (i) compost amendment, (ii) planting a metal-tolerant grass Bouteloua curtipendula, and (iii) its inoculation with beneficial endophytes influenced the microbiome of metal-contaminated tailings originating from the abandoned Blue Nose Mine, SE Arizona, near Patagonia (USA). We conducted an indoor microcosm experiment followed by a metataxonomic analysis of the mine tailings, compost, and root samples. Our results showed that each remediation strategy promoted a distinct pattern of microbial community structure in the mine tailings, which correlated with changes in their chemical properties. The combination of compost amendment and endophyte inoculation led to the highest prokaryotic diversity and total nitrogen and organic carbon, but also induced shifts in microbial community structure that significantly correlated with an enhanced potential for mobilization of Cu and Sb. Our findings show that soil health metrics (total nitrogen, organic carbon and pH) improved, and microbial community changed, due to organic matter input and endophyte inoculation, which enhanced metal leaching from the mine waste and potentially increased environmental risks posed by Cu and Sb. We further emphasize that because the initial choice of remediation strategy can significantly impact trace element mobility via modulation of both soil chemistry and microbial communities, site specific, bench-scale preliminary tests, as reported here, can help determine the potential risk of a chosen strategy.
@@ -168,7 +174,7 @@ Finding solutions for the remediation and restoration of abandoned mining areas 
 ---
 
 ## Litter decomposition and nutrient release are faster under secondary forests than under Chinese fir plantations with forest development.
- 08.10.2023, _S Li, Z Xu, Z Yu, Y Fu, X Su, B Zou, S Wang, Z Huang, X Wan_
+ 10.10.2023, _S Li, Z Xu, Z Yu, Y Fu, X Su, B Zou, S Wang, Z Huang, X Wan_
 
 
 In terrestrial ecosystems, leaf litter is the main source of nutrients returning to the soil. Understanding how litter decomposition responds to stand age is critical for improving predictions of the effects of forest age structure on nutrient availability and cycling in ecosystems. However, the changes in this critical process with stand age remain poorly understood due to the complexity and diversity of litter decomposition patterns and drivers among different stand ages. In this study, we examined the effects of stand age on litter decomposition with two well-replicated age sequences of naturally occurring secondary forests and Chinese fir (Cunninghamia lanceolata) plantations in southern China. Our results showed that the litter decomposition rates in the secondary forests were significantly higher than those in the Chinese fir plantations of the same age, except for 40-year-old forests. The litter decomposition rate of the Chinese fir initially increased and then decreased with stand age, while that of secondary forests gradually decreased. The results of a structural equation model indicated that stand age, litter quality and microbial community were the primary factors driving nutrient litter loss. Overall, these findings are helpful for understanding the effects of stand age on the litter decomposition process and nutrient cycling in plantation and secondary forest ecosystems.
@@ -180,7 +186,7 @@ In terrestrial ecosystems, leaf litter is the main source of nutrients returning
 ---
 
 ## PandaGUT provides new insights into bacterial diversity, function, and resistome landscapes with implications for conservation.
- 09.10.2023, _G Huang, W Shi, L Wang, Q Qu, Z Zuo, J Wang, F Zhao, F Wei_
+ 10.10.2023, _G Huang, W Shi, L Wang, Q Qu, Z Zuo, J Wang, F Zhao, F Wei_
 
 
 _Animals, Microbiota, Gastrointestinal Microbiome, Animals, Wild, Metagenome, Bacteria, Mammals_
