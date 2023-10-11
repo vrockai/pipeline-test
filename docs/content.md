@@ -89,27 +89,15 @@ The composition of the human microbiome varies considerably in diversity and den
 
 ---
 
-## The newest Oxford Nanopore R10.4.1 full-length 16S rRNA sequencing enables the accurate resolution of species-level microbial community profiling.
- 06.10.2023, _T Zhang, H Li, S Ma, J Cao, H Liao, Q Huang, W Chen_
-
-
-The long-read amplicon provides a species-level solution for the community. With the improvement of nanopore flowcells, the accuracy of Oxford Nanopore Technologies (ONT) R10.4.1 has been substantially enhanced, with an average of approximately 99%. To evaluate its effectiveness on amplicons, three types of microbiomes were analyzed by 16S ribosomal RNA (hereinafter referred to as "16S") amplicon sequencing using Novaseq, Pacbio sequel II, and Nanopore PromethION platforms (R9.4.1 and R10.4.1) in the current study. We showed the error rate, recall, precision, and bias index in the mock sample. The error rate of ONT R10.4.1 was greatly reduced, with a better recall in the case of the synthetic community. Meanwhile, in different types of environmental samples, ONT R10.4.1 analysis resulted in a composition similar to Pacbio data. We found that classification tools and databases influence ONT data. Based on these results, we conclude that the ONT R10.4.1 16S amplicon can also be used for application in environmental samples. IMPORTANCE The long-read amplicon supplies the community with a species-level solution. Due to the high error rate of nanopore sequencing early on, it has not been frequently used in 16S studies. Oxford Nanopore Technologies (ONT) introduced the R10.4.1 flowcell with Q20+ reagent to achieve more than 99% accuracy as sequencing technology advanced. However, there has been no published study on the performance of commercial PromethION sequencers with R10.4.1 flowcells on 16S sequencing or on the impact of accuracy improvement on taxonomy (R9.4.1 to R10.4.1) using 16S ONT data. In this study, three types of microbiomes were investigated by 16S ribosomal RNA (rRNA) amplicon sequencing using Novaseq, Pacbio sequel II, and Nanopore PromethION platforms (R9.4.1 and R10.4.1). In the mock sample, we displayed the error rate, recall, precision, and bias index. We observed that the error rate in ONT R10.4.1 is significantly lower, especially when deletions are involved. First and foremost, R10.4.1 and Pacific Bioscience platforms reveal a similar microbiome in environmental samples. This study shows that the R10.4.1 full-length 16S rRNA sequences allow for species identification of environmental microbiota.
+## The newest Oxford Nanopore R10.4.1 full-length 16S rRNA sequencing enables the accurate resolution of species-level microbial community profiling
 
 [Source](https://journals.asm.org/doi/abs/10.1128/aem.00605-23)
 
-10.1128/aem.00605-23
-
 ---
 
-## Challenges and opportunities in sharing microbiome data and analyses.
- 02.10.2023, _C Huttenhower, RD Finn, AC McHardy_
-
-
-Microbiome data, metadata and analytical workflows have become 'big' in terms of volume and complexity. Although the infrastructure and technologies to share data have been established, the interdisciplinary and multi-omic nature of the field can make resources difficult to identify and use. Following best practices for data deposition requires substantial effort, with sometimes little obvious reward. Gaps remain where microbiome-specific resources for data sharing or reproducibility do not yet exist. We outline available best practices, challenges to their adoption and opportunities in data sharing in microbiome research. We showcase examples of best practices and advocate for their enforcement and incentivization for data sharing. This includes recognition of data curation and sharing endeavours by individuals, institutions, journals and funders. Opportunities for progress include enabling microbiome-specific databases to incorporate future methods for data analysis, integration and reuse.
+## Challenges and opportunities in sharing microbiome data and analyses
 
 [Source](https://www.nature.com/articles/s41564-023-01484-x)
-
-10.1038/s41564-023-01484-x
 
 ---
 
