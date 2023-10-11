@@ -11,7 +11,7 @@ We re-analyzed the data from a recent large-scale study that reported strong cor
 ---
 
 ## Relative abundance data can misrepresent heritability of the microbiome.
- 09.10.2023, _M Bruijning, JF Ayroles, LP Henry, B Koskella, KM Meyer, CJE Metcalf_
+ 11.10.2023, _M Bruijning, JF Ayroles, LP Henry, B Koskella, KM Meyer, CJE Metcalf_
 
 
 Host genetics can shape microbiome composition, but to what extent it does, remains unclear. Like any other complex trait, this important question can be addressed by estimating the heritability (h2) of the microbiome-the proportion of variance in the abundance in each taxon that is attributable to host genetic variation. However, unlike most complex traits, microbiome heritability is typically based on relative abundance data, where taxon-specific abundances are expressed as the proportion of the total microbial abundance in a sample.
