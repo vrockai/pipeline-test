@@ -4,15 +4,14 @@
 
 ---
 
-## Lactobacillus melliventris promotes hive productivity and immune functionality in Bombus terrestris performance in the greenhouse.
- 13.10.2023, _Q Yu, Y Liu, S Liu, S Li, Y Zhai, Q Zhang, L Zheng, H Zheng, Y Zhai, X Wang_
+## Editorial: Continuous monitoring to improve outcome of treatment-the next step towards safe and effective faecal microbiota transplantation.
+ 13.10.2023, _JJ Keller, EM Terveer_
 
 
-Bumblebees are important pollinators in agricultural ecosystems, but their abundance is declining globally. There is an urgent need to protect bumblebee health and their pollination services. Bumblebees possess specialized gut microbiota with potential to be used as probiotics to help defend at-risk bumblebee populations. However, evidence for probiotic benefits on bumblebees is lacking. Here, we evaluated how supplementation with Lactobacillus melliventris isolated from bumblebee gut affected the colony development of Bombus terrestris. This native strain colonized robustly and persisted long-term in bumblebees, leading to a significantly higher quality of offspring. Subsequently, the tyrosine pathway was upregulated in the brain and fat body, while the Wnt and mTOR pathways of the gut were downregulated. Notably, the field experiment in the greenhouse revealed the supplementation of L. melliventris led to a 2.5-fold increase in the bumblebee survival rate and a more than 10% increase in the number of flowers visited, indicating a better health condition and pollination ability in field conditions. Our study represents a first screening for the potential use of the native gut member, L. melliventris, as probiotic strains in hive supplement for bumblebee breeding, which may be a practical approach to improve immunity and hive health.
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1111/1744-7917.13281
+10.1111/apt.17694
 
 ---
 
@@ -31,18 +30,6 @@ Bumblebees are important pollinators in agricultural ecosystems, but their abund
 ## @outreachy
 
 [Source](https://twitter.com/outreachy?ref_src=twsrc%5Etfw)
-
----
-
-## Effectiveness and Safety of Apatinib Plus Programmed Cell Death Protein 1 Blockades for Patients with Treatment-refractory Metastatic Colorectal Cancer: A Retrospective Exploratory Study.
- 13.10.2023, _S Li, H Zheng, Q Ge, S Xia, K Zhang, C Wang, F Wang_
-
-
-This study aimed to investigate the efficacy and safety of apatinib plus programmed cell death protein 1 (PD-1) blockades for patients with metastatic colorectal cancer (CRC) who were refractory to the standard regimens. In this retrospective study, patients with metastatic CRC who received apatinib plus PD-1 blockades in clinical practice were included. The initial dosage of apatinib was 250 mg or 500 mg, and PD-1 blockades were comprised of camrelizumab, sintilimab and pembrolizumab. Efficacy and safety data were collected through the hospital's electronic medical record system. From October 2018 to March 2022, a total of 43 patients with metastatic CRC were evaluated for efficacy and safety. The results showed an objective response rate of 25.6% (95% CI, 13.5%-41.2%) and a disease control rate of 72.1% (95% CI, 56.3%-84.7%). The median progression-free survival (PFS) of the cohort was 5.8 months (95% CI, 3.81-7.79), and the median overall survival (OS) was 10.3 months (95% CI, 5.75-14.85). The most common adverse reactions were fatigue (76.7%), hypertension (72.1%), diarrhea (62.8%), and hand-foot syndrome (51.2%). Multivariate Cox regression analysis revealed that Eastern Cooperative Oncology Group (ECOG) performance status and location of CRC (left or right-side) were independent factors to predict PFS of patients with metastatic CRC treated with the combination regimen. Consequently, the combination of apatinib and PD-1 blockades demonstrated potential efficacy and acceptable safety for patients with treatment-refractory metastatic CRC. This conclusion should be confirmed in prospective clinical trials subsequently.
-
-[Source](https://twitter.com/svetlana_up/status/1711656036132610217?ref_src=twsrc%5Etfw)
-
-10.15430/JCP.2023.28.3.106
 
 ---
 
@@ -77,7 +64,7 @@ Microbiome science has been one of the most exciting and rapidly evolving resear
 ---
 
 ## Analysis of strain, sex, and diet-dependent modulation of gut microbiota reveals candidate keystone organisms driving microbial diversity in response to American and ketogenic diets.
- 05.10.2023, _AC Salvador, MN Huda, D Arends, AM Elsaadi, CA Gacasan, GA Brockmann, W Valdar, BJ Bennett, DW Threadgill_
+ 13.10.2023, _AC Salvador, MN Huda, D Arends, AM Elsaadi, CA Gacasan, GA Brockmann, W Valdar, BJ Bennett, DW Threadgill_
 
 
 _Animals, Mice, Diet, Ketogenic, Gastrointestinal Microbiome, Mice, Inbred C57BL, Diet, Bacteroidetes, Carbohydrates_
@@ -181,15 +168,15 @@ Goat milk is produced on mainstream and artisanal farms. It was expected that th
 
 ---
 
-## COVID-19 research in South Asia: a bibliometric analysis of the 100 most-cited articles.
- 13.10.2023, _B Naseer, M Ali, N Azhar_
+## Changes in Surgical Opioid Prescribing and Patient-Reported Outcomes After Implementation of an Insurer Opioid Prescribing Limit.
+ 13.10.2023, _KP Chua, TD Nguyen, CM Brummett, AS Bohnert, V Gunaseelan, MJ Englesbe, JF Waljee_
 
 
-With the surge in the number of infected individuals during the COVID-19 pandemic, there was also a surge observed in the number of publications discussing its epidemiology, characteristics, path-o-phys-i-ol-o-gy, diagnosis, prevention and treatment. This bibliometric analysis focuses on the papers published on COVID-19 in South Asia.
+Insurers are increasingly limiting the duration of opioid prescriptions for acute pain. Among patients undergoing surgery, it is unclear whether implementation of these limits is associated with changes in opioid prescribing and patient-reported outcomes, such as pain.
 
 [Source](https://twitter.com/Paul_Carini/status/1712070258293665999?ref_src=twsrc%5Etfw)
 
-10.3205/dgkh000448
+10.1001/jamahealthforum.2023.3541
 
 ---
 
@@ -255,15 +242,14 @@ The Sequence Read Archive (SRA) contains raw data from many different types of s
 
 ---
 
-## Evaluation of a menu box delivery service for Australian long day care services to improve food provision and child intake: a cluster randomised controlled trial.
- 13.10.2023, _S Kashef, LK Bell, V Brown, C Gardner, D Zarnowiecki, S Morgillo, JC Arguelles, DN Cox, RK Golley_
+## Summarizing Consensus Guidelines on Obesity Management: A Joint, Multidisciplinary Venture of the International Federation for the Surgery of Obesity &amp; Metabolic Disorders (IFSO) and World Gastroenterology Organisation (WGO).
+ 13.10.2023, _RZ Sharaiha, S Shikora, KP White, G Macedo, J Toouli, L Kow_
 
 
-To evaluate the impact of a menu box delivery service tailored to the long day care (LDC) setting on improving menu compliance with recommendations, children's diet quality and dietary intake while in care.
 
 [Source](https://twitter.com/Flinders?ref_src=twsrc%5Etfw)
 
-10.1017/S1368980023002136
+10.1097/MCG.0000000000001916
 
 ---
 
@@ -321,15 +307,15 @@ Kagami-Ogata syndrome (KOS) is a rare imprinting disorder characterized by skele
 
 ---
 
-## Effectiveness and Safety of Apatinib Plus Programmed Cell Death Protein 1 Blockades for Patients with Treatment-refractory Metastatic Colorectal Cancer: A Retrospective Exploratory Study.
- 13.10.2023, _S Li, H Zheng, Q Ge, S Xia, K Zhang, C Wang, F Wang_
+## Changes in Surgical Opioid Prescribing and Patient-Reported Outcomes After Implementation of an Insurer Opioid Prescribing Limit.
+ 13.10.2023, _KP Chua, TD Nguyen, CM Brummett, AS Bohnert, V Gunaseelan, MJ Englesbe, JF Waljee_
 
 
-This study aimed to investigate the efficacy and safety of apatinib plus programmed cell death protein 1 (PD-1) blockades for patients with metastatic colorectal cancer (CRC) who were refractory to the standard regimens. In this retrospective study, patients with metastatic CRC who received apatinib plus PD-1 blockades in clinical practice were included. The initial dosage of apatinib was 250 mg or 500 mg, and PD-1 blockades were comprised of camrelizumab, sintilimab and pembrolizumab. Efficacy and safety data were collected through the hospital's electronic medical record system. From October 2018 to March 2022, a total of 43 patients with metastatic CRC were evaluated for efficacy and safety. The results showed an objective response rate of 25.6% (95% CI, 13.5%-41.2%) and a disease control rate of 72.1% (95% CI, 56.3%-84.7%). The median progression-free survival (PFS) of the cohort was 5.8 months (95% CI, 3.81-7.79), and the median overall survival (OS) was 10.3 months (95% CI, 5.75-14.85). The most common adverse reactions were fatigue (76.7%), hypertension (72.1%), diarrhea (62.8%), and hand-foot syndrome (51.2%). Multivariate Cox regression analysis revealed that Eastern Cooperative Oncology Group (ECOG) performance status and location of CRC (left or right-side) were independent factors to predict PFS of patients with metastatic CRC treated with the combination regimen. Consequently, the combination of apatinib and PD-1 blockades demonstrated potential efficacy and acceptable safety for patients with treatment-refractory metastatic CRC. This conclusion should be confirmed in prospective clinical trials subsequently.
+Insurers are increasingly limiting the duration of opioid prescriptions for acute pain. Among patients undergoing surgery, it is unclear whether implementation of these limits is associated with changes in opioid prescribing and patient-reported outcomes, such as pain.
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1710613202654888399?ref_src=twsrc%5Etfw)
 
-10.15430/JCP.2023.28.3.106
+10.1001/jamahealthforum.2023.3541
 
 ---
 
