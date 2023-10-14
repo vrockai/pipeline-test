@@ -130,18 +130,6 @@ Clostridium perfringens is a gram-positive, anaerobic sporulating bacillus which
 
 ---
 
-## Changes in Surgical Opioid Prescribing and Patient-Reported Outcomes After Implementation of an Insurer Opioid Prescribing Limit.
- 13.10.2023, _KP Chua, TD Nguyen, CM Brummett, AS Bohnert, V Gunaseelan, MJ Englesbe, JF Waljee_
-
-
-Insurers are increasingly limiting the duration of opioid prescriptions for acute pain. Among patients undergoing surgery, it is unclear whether implementation of these limits is associated with changes in opioid prescribing and patient-reported outcomes, such as pain.
-
-[Source](https://twitter.com/Paul_Carini/status/1712070258293665999?ref_src=twsrc%5Etfw)
-
-10.1001/jamahealthforum.2023.3541
-
----
-
 ## October 11, 2023
 
 [Source](https://twitter.com/Paul_Carini/status/1712070258293665999?ref_src=twsrc%5Etfw)
@@ -199,6 +187,18 @@ Insurers are increasingly limiting the duration of opioid prescriptions for acut
 ## @minghao_chia
 
 [Source](https://twitter.com/minghao_chia?ref_src=twsrc%5Etfw)
+
+---
+
+## A Male Case of Kagami-Ogata Syndrome Caused by Paternal Unipaternal Disomy 14 as a Result of a Robertsonian Translocation.
+ 28.09.2020, _X Wang, H Pang, BA Shah, H Gu, L Zhang, H Wang_
+
+
+Kagami-Ogata syndrome (KOS) is a rare imprinting disorder characterized by skeletal abnormalities, dysmorphic facial features, growth retardation and developmental delay. The genetic etiology of KOS includes paternal uniparental disomy 14 [upd(14)pat], epimutations and microdeletions affecting the maternally derived imprinted region of chromosome 14q32.2. More than seventy KOS cases have been reported thus far; however, only 10, including two familial, are associated with upd(14)pat harboring Robertsonian translocation (ROB). Here, we reported a male infant with clinical manifestations of facial dysmorphism, bell-shaped small thorax, and omphalocele. Karyotype analyses identify a balanced ROB involving the long arms of chromosomes 13 and 14 both in the patient and his father. We further confirm the pattern of upd(14)pat utilizing DNA polymorphic markers. In conclusion, our case report provides a new male KOS case caused by upd(14)pat with paternally inherited Robertsonian translocation, which represents the second male case officially reported. Notably, a KOS case due to upd(14)pat and ROB is rare. An accurate diagnosis requires not only the identification of the characteristic clinical features but also systemic cytogenetic and molecular studies.
+
+[Source](https://twitter.com/Official_UPD?ref_src=twsrc%5Etfw)
+
+10.3389/fped.2020.00088
 
 ---
 
