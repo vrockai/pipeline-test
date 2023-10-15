@@ -34,15 +34,33 @@ Decomposition of plant biomass is vital for carbon cycling in terrestrial ecosys
 
 ---
 
+## Extended-spectrum β-lactamase- producing gram-negative bacterial infections in severely ill COVID-19 patients admitted in a national referral hospital, Kenya.
+ 14.10.2023, _JM Mutua, JM Njeru, AM Musyoki_
+
+
+Bacterial infections in COVID-19 patients, especially those caused by multidrug-resistant gram-negative strains, are associated with increased morbidity, hospital stay and mortality. However, there is limited data on the epidemiology of extended-spectrum β-lactamase (ESBL)-producing bacteria in COVID-19 patients. Here, we assessed the prevalence and the factors associated with ESBL-producing gram-negative bacterial (GNB) infections among severely ill COVID-19 patients admitted in Kenyatta National Hospital (KNH), Kenya.
+
+[Source](https://twitter.com/svetlana_up/status/1711656036132610217?ref_src=twsrc%5Etfw)
+
+10.1186/s12941-023-00641-8
+
+---
+
 ## October 10, 2023
 
 [Source](https://twitter.com/svetlana_up/status/1711656036132610217?ref_src=twsrc%5Etfw)
 
 ---
 
-## From hype to hope: considerations in conducting robust microbiome science
+## From hype to hope: considerations in conducting robust microbiome science.
+ 08.10.2023, _AJ McGuinness, LF Stinson, M Snelson, A Loughman, A Stringer, AJ Hannan, C S M Cowan, HA Jama, JA Caparros-Martin, ML West, HR Wardill_
+
+
+Microbiome science has been one of the most exciting and rapidly evolving research fields in the past two decades. Breakthroughs in technologies including DNA sequencing have meant that the trillions of microbes (particularly bacteria) inhabiting human biological niches (particularly the gut) can be profiled and analysed in exquisite detail. This microbiome profiling has profound impacts across many fields of research, especially biomedical science, with implications for how we understand and ultimately treat a wide range of human disorders. However, like many great scientific frontiers in human history, the pioneering nature of microbiome research comes with a multitude of challenges and potential pitfalls. These include the reproducibility and robustness of microbiome science, especially in its applications to human health outcomes. In this article, we address the enormous promise of microbiome science and its many challenges, proposing constructive solutions to enhance the reproducibility and robustness of research in this nascent field. The optimisation of microbiome science spans research design, implementation and analysis, and we discuss specific aspects such as the importance of ecological principals and functionality, challenges with microbiome-modulating therapies and the consideration of confounding, alternative options for microbiome sequencing, and the potential of machine learning and computational science to advance the field. The power of microbiome science promises to revolutionise our understanding of many diseases and provide new approaches to prevention, early diagnosis, and treatment.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0889159123002854)
+
+10.1016/j.bbi.2023.09.022
 
 ---
 
@@ -163,6 +181,18 @@ Goat milk is produced on mainstream and artisanal farms. It was expected that th
 
 ---
 
+## Effects of rehabilitation therapy based on exercise prescription on motor function and complications after hip fracture surgery in elderly patients.
+ 14.10.2023, _YJ Che, Z Qian, Q Chen, R Chang, X Xie, YF Hao_
+
+
+Exercise rehabilitation training is an important measure for improving the prognosis of patients with hip fractures. However, the particular program that works effectively and the efficiency of exercise therapy are still controversial.
+
+[Source](https://twitter.com/Paul_Carini/status/1712070258293665999?ref_src=twsrc%5Etfw)
+
+10.1186/s12891-023-06806-y
+
+---
+
 ## October 11, 2023
 
 [Source](https://twitter.com/Paul_Carini/status/1712070258293665999?ref_src=twsrc%5Etfw)
@@ -178,19 +208,6 @@ Goat milk is produced on mainstream and artisanal farms. It was expected that th
 ## Track, Analyze, Visualize: Unravel Your Microbiome’s Temporal Tale with MicrobiomeStat
 
 [Source](https://www.microbiomestat.wiki/)
-
----
-
-## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
- 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
-
-
-_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
-This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
-
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
-
-10.3390/ijerph19010099
 
 ---
 
