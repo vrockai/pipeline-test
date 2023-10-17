@@ -35,7 +35,7 @@ Apicomplexan haemoparasites generate significant morbidity and mortality in huma
 ---
 
 ## Bacterial networks in Atlantic salmon with Piscirickettsiosis.
- 16.10.2023, _Y Coca, M Godoy, JP Pontigo, D Caro, V Maracaja-Coutinho, R Arias-Carrasco, L Rodríguez-Córdova, MM de Oca, C Sáez-Navarrete, I Burbulis_
+ 17.10.2023, _Y Coca, M Godoy, JP Pontigo, D Caro, V Maracaja-Coutinho, R Arias-Carrasco, L Rodríguez-Córdova, MM de Oca, C Sáez-Navarrete, I Burbulis_
 
 
 An unbalanced composition of gut microbiota in fish is hypothesized to play a role in promoting bacterial infections, but the synergistic or antagonistic interactions between bacterial groups in relation to fish health are not well understood. We report that pathogenic species in the Piscirickettsia, Aeromonas, Renibacterium and Tenacibaculum genera were all detected in the digesta and gut mucosa of healthy Atlantic salmon without clinical signs of disease. Although Piscirickettsia salmonis (and other pathogens) occurred in greater frequencies of fish with clinical Salmonid Rickettsial Septicemia (SRS), the relative abundance was about the same as that observed in healthy fish. Remarkably, the SRS-positive fish presented with a generalized mid-gut dysbiosis and positive growth associations between Piscirickettsiaceae and members of other taxonomic families containing known pathogens. The reconstruction of metabolic phenotypes based on the bacterial networks detected in the gut and mucosa indicated the synthesis of Gram-negative virulence factors such as colanic acid and O-antigen were over-represented in SRS positive fish. This evidence indicates that cooperative interactions between organisms of different taxonomic families within localized bacterial networks might promote an opportunity for P. salmonis to cause clinical SRS in the farm environment.
@@ -88,9 +88,15 @@ Probiotic-fermented plant-based foods are associated with weight loss. Here, we 
 
 ---
 
-## A critical review of the recent trends in source tracing of microplastics in the environment
+## A critical review of the recent trends in source tracing of microplastics in the environment.
+ 14.10.2023, _K K M, LV Rajkumar_
+
+
+Microplastics are found across the globe because of their size and ability to transport across environments. The effects of microplastics on the micro- and macro-organisms have brought out concern over the potential risk to human health and the need to regulate their distribution at the source. Control of microplastic pollution requires region-specific management and mitigation strategies which can be developed with the information on sources and their contributions. This review provides an overview of the sources, fate, and distribution of microplastics along with techniques to source-trace microplastics. Source-tracing approaches provide both qualitative and quantitive information. Since better outcomes have been produced by the integration of techniques like backward trajectory analysis with cluster analysis, the significance of integrated and multi-dimensional approaches has been emphasized. The scope of the plastisphere, heavy metal, and biofilm microbial community in tracing the sources of microplastics are also highlighted. The present review allows the researchers and policymakers to understand the recent trends in the source-tracing of microplastics which will help them to develop techniques and comprehensive action plans to limit the microplastic discharge at sources.
 
 [Source](https://doi.org/10.1016/j.envres.2023.117394)
+
+10.1016/j.envres.2023.117394
 
 ---
 
@@ -143,7 +149,7 @@ Plant-microbiome functioning depends on intricate signaling pathways including p
 ---
 
 ## MGS2AMR: a gene-centric mining of metagenomic sequencing data for pathogens and their antimicrobial resistance profile.
- 16.10.2023, _PJ Van Camp, VBS Prasath, DB Haslam, A Porollo_
+ 17.10.2023, _PJ Van Camp, VBS Prasath, DB Haslam, A Porollo_
 
 
 Identification of pathogenic bacteria from clinical specimens and evaluating their antimicrobial resistance (AMR) are laborious tasks that involve in vitro cultivation, isolation, and susceptibility testing. Recently, a number of methods have been developed that use machine learning algorithms applied to the whole-genome sequencing data of isolates to approach this problem. However, making AMR assessments from more easily available metagenomic sequencing data remains a big challenge.
