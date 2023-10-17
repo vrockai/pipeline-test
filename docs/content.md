@@ -82,51 +82,99 @@ Probiotic-fermented plant-based foods are associated with weight loss. Here, we 
 
 ---
 
-## Coexistence of specialist and generalist species within mixed plastic derivative-utilizing microbial communities
+## Coexistence of specialist and generalist species within mixed plastic derivative-utilizing microbial communities.
+ 16.10.2023, _L Schaerer, L Putman, I Bigcraft, E Byrne, D Kulas, A Zolghadr, S Aloba, R Ong, D Shonnard, S Techtmann_
+
+
+Plastic-degrading microbial isolates offer great potential to degrade, transform, and upcycle plastic waste. Tandem chemical and biological processing of plastic wastes has been shown to substantially increase the rates of plastic degradation; however, the focus of this work has been almost entirely on microbial isolates (either bioengineered or naturally occurring). We propose that a microbial community has even greater potential for plastic upcycling. A microbial community has greater metabolic diversity to process mixed plastic waste streams and has built-in functional redundancy for optimal resilience.
 
 [Source](https://doi.org/10.1186/s40168-023-01645-4)
 
+10.1186/s40168-023-01645-4
+
 ---
 
-## A critical review of the recent trends in source tracing of microplastics in the environment
+## A critical review of the recent trends in source tracing of microplastics in the environment.
+ 14.10.2023, _K K M, LV Rajkumar_
+
+
+Microplastics are found across the globe because of their size and ability to transport across environments. The effects of microplastics on the micro- and macro-organisms have brought out concern over the potential risk to human health and the need to regulate their distribution at the source. Control of microplastic pollution requires region-specific management and mitigation strategies which can be developed with the information on sources and their contributions. This review provides an overview of the sources, fate, and distribution of microplastics along with techniques to source-trace microplastics. Source-tracing approaches provide both qualitative and quantitive information. Since better outcomes have been produced by the integration of techniques like backward trajectory analysis with cluster analysis, the significance of integrated and multi-dimensional approaches has been emphasized. The scope of the plastisphere, heavy metal, and biofilm microbial community in tracing the sources of microplastics are also highlighted. The present review allows the researchers and policymakers to understand the recent trends in the source-tracing of microplastics which will help them to develop techniques and comprehensive action plans to limit the microplastic discharge at sources.
 
 [Source](https://doi.org/10.1016/j.envres.2023.117394)
 
+10.1016/j.envres.2023.117394
+
 ---
 
-## Keystone taxa of phoD-harboring bacteria mediate alkaline phosphatase activity during biochar remediation of Cd-contaminated soil
+## Keystone taxa of phoD-harboring bacteria mediate alkaline phosphatase activity during biochar remediation of Cd-contaminated soil.
+ 13.10.2023, _Q Wang, CJ Duan, ZC Geng, CY Xu_
+
+
+Phosphorus (P)-modified biochar can efficiently remediate cadmium (Cd)-contaminated soil. However, the mechanisms of responses of alkaline phosphatase (ALP) and phoD-harboring microorganisms, which are notably sensitive to Cd and P, are not clear during the remediation process. In this study, apple (Malus domestica) tree branches were co-pyrolyzed with tripotassium phosphate (K3PO4) to prepare P-modified biochar, which was used to remediate Cd-soil contaminated soil collected near a mine site. The effect of P-modified biochar on the composition of the phoD-harboring microbial community and its mechanism of interacting with ALP were analyzed. The results showed that the application of P-modified biochar to Cd-contaminated soil promoted the co-precipitation of Cd and phosphate and reduced the content of bioavailable Cd by 69.77 %. P-modified biochar improved the complexity and stability of the soil phoD-harboring microbial community. Furthermore, this study clarified that ALP activity was not completely regulated by the abundance of phoD, but Priestia and Massilia that contain phoD genes dominated the activity of ALP in rhizosphere and bulk soils, respectively. It is notable that bioavailable Cd significantly stimulated Priestia, Massilia, and ALP activity. These findings provide a theoretical basis for the application of P-modified biochar to the remediation of soil contaminated with Cd with respect to P functional microorganisms.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.167726)
 
+10.1016/j.scitotenv.2023.167726
+
 ---
 
-## Maintaining beneficial alga-associated bacterial communities under heat stress: Insights from controlled co-culture experiments using antibiotic-resistant bacterial strains
+## Maintaining beneficial alga-associated bacterial communities under heat stress: Insights from controlled co-culture experiments using antibiotic-resistant bacterial strains.
+ 13.10.2023, _E Karimi, SM Dittami_
+
+
+Brown algae, like many eukaryotes, possess diverse microbial communities. Ectocarpus - a model brown alga- relies on these communities for essential processes, such as growth development. Controlled laboratory systems are needed for functional studies of these algal-bacterial interactions. We selected bacterial strains based on their metabolic networks to provide optimal completion of the algal metabolism, rendered them resistant to two antibiotics, and inoculate them to establish controlled co-cultures with Ectocarpus under continuous antibiotic treatment. We then monitored the stability of the resulting associations under control conditions and heat stress using 16S metabarcoding. Antibiotics strongly reduced bacterial diversity both in terms of taxonomy and predicted metabolic functions. In the inoculated sample, 63-69% of reads corresponded to the inoculated strains, and the communities remained stable during temperature stress. They also partially restored the predicted metabolic functions of the natural community. Overall, the development of antibiotic-resistant helper cultures offers a promising route to fully controlled laboratory experiments with algae and microbiota and thus represents an important step towards generating experimental evidence for specific host-microbe interactions in the systems studied. Further work will be required to achieve full control and progressively expand our repertoire of helper strains including those currently "unculturable".
 
 [Source](https://doi.org/10.1093/femsec/fiad130)
 
+10.1093/femsec/fiad130
+
 ---
 
-## Deep discovery informs difficult deployment in plant microbiome science
+## Deep discovery informs difficult deployment in plant microbiome science.
+ 13.10.2023, _D Russ, CR Fitzpatrick, PJPL Teixeira, JL Dangl_
+
+
+Plant-associated microbiota can extend plant immune system function, improve nutrient acquisition and availability, and alleviate abiotic stresses. Thus, naturally beneficial microbial therapeutics are enticing tools to improve plant productivity. The basic definition of plant microbiota across species and ecosystems, combined with the development of reductionist experimental models and the manipulation of plant phenotypes with microbes, has fueled interest in its translation to agriculture. However, the great majority of microbes exhibiting plant-productivity traits in the lab and greenhouse fail in the field. Therapeutic microbes must reach détente, the establishment of uneasy homeostasis, with the plant immune system, invade heterogeneous pre-established plant-associated communities, and persist in a new and potentially remodeled community. Environmental conditions can alter community structure and thus impact the engraftment of therapeutic microbes. We survey recent breakthroughs, challenges, and opportunities in translating beneficial microbes from the lab to the field.
 
 [Source](https://www.cell.com/cell/fulltext/S0092-8674(23)00969-8)
 
+10.1016/j.cell.2023.08.035
+
 ---
 
-## Plant cell wall component induced bacterial development
+## Plant cell wall component induced bacterial development.
+ 14.10.2023, _ÁT Kovács_
+
+
+Plant-microbiome functioning depends on intricate signaling pathways including plant-derived excretions that induce microbial gene expression. Marc Ongena and his team (Boubsi et al.) dissect how the pectin backbone homogalacturonan promotes bacterial differentiation programs of Bacillus velezensis, potentially facilitating its establishment in the rhizosphere.
 
 [Source](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(23)00292-5)
 
+10.1016/j.tim.2023.10.003
+
 ---
 
-## MGS2AMR: a gene-centric mining of metagenomic sequencing data for pathogens and their antimicrobial resistance profile
+## MGS2AMR: a gene-centric mining of metagenomic sequencing data for pathogens and their antimicrobial resistance profile.
+ 16.10.2023, _PJ Van Camp, VBS Prasath, DB Haslam, A Porollo_
+
+
+Identification of pathogenic bacteria from clinical specimens and evaluating their antimicrobial resistance (AMR) are laborious tasks that involve in vitro cultivation, isolation, and susceptibility testing. Recently, a number of methods have been developed that use machine learning algorithms applied to the whole-genome sequencing data of isolates to approach this problem. However, making AMR assessments from more easily available metagenomic sequencing data remains a big challenge.
 
 [Source](https://doi.org/10.1186/s40168-023-01674-z)
 
+10.1186/s40168-023-01674-z
+
 ---
 
-## Subgroup Identification Using Virtual Twins for Human Microbiome Studies
+## Subgroup Identification Using Virtual Twins for Human Microbiome Studies.
+ 16.10.2023, _H Koh_
+
+
+Even when the same treatment is employed, some patients are cured, while others are not. The patients that are cured may have beneficial microbes in their body that can boost treatment effects, but it is vice versa for the patients that are not cured. That is, treatment effects can vary depending on the patient's microbiome. If the effects of candidate treatments are well-predicted based on the patient's microbiome, we can select a treatment that is suited to the patient's microbiome or alter the patient's microbiome to improve treatment effects. Here, I introduce a streamlined analytic method, microbiome virtual twins (MiVT), to probe for the interplay between microbiome and treatment. MiVT employs a new prediction method, distance-based machine learning (dML), to improve prediction accuracy in microbiome studies and a new significance test, bootstrap-based test for regression tree (BoRT), to test if each subgroup's treatment effect is the same with the overall treatment effect. MiVT will serve as a useful guideline in microbiome-based personalized medicine to select the therapy that is most suited to the patient's microbiome or to tune the patient's microbiome to be suited to the treatment. MiVT can be implemented using an R package, MiVT, at https://github.com/hk1785/MiVT.
 
 [Source](https://doi.org/10.1109/TCBB.2023.3324139)
+
+10.1109/TCBB.2023.3324139
 
 ---
 
