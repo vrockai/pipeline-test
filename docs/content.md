@@ -28,9 +28,15 @@ Previous observational studies have indicated a correlation between the gut micr
 
 ---
 
-## Microbiome variations among age classes and diets of captive Asian elephants (Elephas maximus) in Thailand using full-length 16S rRNA nanopore sequencing
+## Microbiome variations among age classes and diets of captive Asian elephants (Elephas maximus) in Thailand using full-length 16S rRNA nanopore sequencing.
+ 17.10.2023, _W Klinsawat, P Uthaipaisanwong, P Jenjaroenpun, S Sripiboon, T Wongsurawat, K Kusonmano_
+
+
+Asian elephant (Elephas maximus) is the national symbol of Thailand and linked to Thai history and culture for centuries. The elephant welfare improvement is one of the major components to achieve sustainable captive management. Microbiome inhabiting digestive tracts have been shown with symbiotic relations to host health. This work provided high-resolution microbiome profiles of 32 captive elephants at a species level by utilizing full-length 16S rRNA gene nanopore sequencing. Eleven common uncultured bacterial species were found across elephants fed with solid food including uncultured bacterium Rikenellaceae RC9 gut group, Kiritimatiellae WCHB1-41, Phascolarctobacterium, Oscillospiraceae NK4A214 group, Christensenellaceae R-7 group, Oribacterium, Oscillospirales UCG-010, Lachnospiraceae, Bacteroidales F082, uncultured rumen Rikenellaceae RC9 gut group, and Lachnospiraceae AC2044 group. We observed microbiome shifts along the age classes of baby (0-2 years), juvenile (2-10 years), and adult (&gt; 10 years). Interestingly, we found distinct microbiome profiles among adult elephants fed with a local palm, Caryota urens, as a supplement. Potential beneficial microbes have been revealed according to the age classes and feed diets. The retrieved microbiome data could be provided as good baseline microbial profiles for monitoring elephant health, suggesting further studies towards dietary selection suitable for each age class and the use of local supplementary diets.
 
 [Source](https://www.nature.com/articles/s41598-023-44981-z)
+
+10.1038/s41598-023-44981-z
 
 ---
 
