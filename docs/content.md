@@ -82,9 +82,15 @@ Probiotic-fermented plant-based foods are associated with weight loss. Here, we 
 
 ---
 
-## Coexistence of specialist and generalist species within mixed plastic derivative-utilizing microbial communities
+## Coexistence of specialist and generalist species within mixed plastic derivative-utilizing microbial communities.
+ 17.10.2023, _L Schaerer, L Putman, I Bigcraft, E Byrne, D Kulas, A Zolghadr, S Aloba, R Ong, D Shonnard, S Techtmann_
+
+
+Plastic-degrading microbial isolates offer great potential to degrade, transform, and upcycle plastic waste. Tandem chemical and biological processing of plastic wastes has been shown to substantially increase the rates of plastic degradation; however, the focus of this work has been almost entirely on microbial isolates (either bioengineered or naturally occurring). We propose that a microbial community has even greater potential for plastic upcycling. A microbial community has greater metabolic diversity to process mixed plastic waste streams and has built-in functional redundancy for optimal resilience.
 
 [Source](https://doi.org/10.1186/s40168-023-01645-4)
+
+10.1186/s40168-023-01645-4
 
 ---
 
