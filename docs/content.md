@@ -1,5 +1,5 @@
 ## Association between gut microbiota and influenza: a bidirectional two-sample mendelian randomization study.
- 18.10.2023, _F Xu, X Gan, Y Tao, D Li, P Xie, F Liu, F Yang, Y Ma_
+ 19.10.2023, _F Xu, X Gan, Y Tao, D Li, P Xie, F Liu, F Yang, Y Ma_
 
 
 Previous observational studies have indicated a correlation between the gut microbiota and influenza; however, the exact nature of the bidirectional causal connection remains uncertain.
@@ -29,7 +29,7 @@ Previous observational studies have indicated a correlation between the gut micr
 ---
 
 ## Microbiome variations among age classes and diets of captive Asian elephants (Elephas maximus) in Thailand using full-length 16S rRNA nanopore sequencing.
- 18.10.2023, _W Klinsawat, P Uthaipaisanwong, P Jenjaroenpun, S Sripiboon, T Wongsurawat, K Kusonmano_
+ 19.10.2023, _W Klinsawat, P Uthaipaisanwong, P Jenjaroenpun, S Sripiboon, T Wongsurawat, K Kusonmano_
 
 
 Asian elephant (Elephas maximus) is the national symbol of Thailand and linked to Thai history and culture for centuries. The elephant welfare improvement is one of the major components to achieve sustainable captive management. Microbiome inhabiting digestive tracts have been shown with symbiotic relations to host health. This work provided high-resolution microbiome profiles of 32 captive elephants at a species level by utilizing full-length 16S rRNA gene nanopore sequencing. Eleven common uncultured bacterial species were found across elephants fed with solid food including uncultured bacterium Rikenellaceae RC9 gut group, Kiritimatiellae WCHB1-41, Phascolarctobacterium, Oscillospiraceae NK4A214 group, Christensenellaceae R-7 group, Oribacterium, Oscillospirales UCG-010, Lachnospiraceae, Bacteroidales F082, uncultured rumen Rikenellaceae RC9 gut group, and Lachnospiraceae AC2044 group. We observed microbiome shifts along the age classes of baby (0-2 years), juvenile (2-10 years), and adult (&gt; 10 years). Interestingly, we found distinct microbiome profiles among adult elephants fed with a local palm, Caryota urens, as a supplement. Potential beneficial microbes have been revealed according to the age classes and feed diets. The retrieved microbiome data could be provided as good baseline microbial profiles for monitoring elephant health, suggesting further studies towards dietary selection suitable for each age class and the use of local supplementary diets.
@@ -53,7 +53,7 @@ Most wild animals follow Bergmann's rule and grow in body size as cold stress in
 ---
 
 ## Metagenome sequencing and recovery of 444 metagenome-assembled genomes from the biofloc aquaculture system.
- 18.10.2023, _M Rajeev, I Jung, Y Lim, S Kim, I Kang, JC Cho_
+ 19.10.2023, _M Rajeev, I Jung, Y Lim, S Kim, I Kang, JC Cho_
 
 
 Biofloc technology is increasingly recognised as a sustainable aquaculture method. In this technique, bioflocs are generated as microbial aggregates that play pivotal roles in assimilating toxic nitrogenous substances, thereby ensuring high water quality. Despite the crucial roles of the floc-associated bacterial (FAB) community in pathogen control and animal health, earlier microbiota studies have primarily relied on the metataxonomic approaches. Here, we employed shotgun sequencing on eight biofloc metagenomes from a commercial aquaculture system. This resulted in the generation of 106.6 Gbp, and the reconstruction of 444 metagenome-assembled genomes (MAGs). Among the recovered MAGs, 230 were high-quality (≥90% completeness, ≤5% contamination), and 214 were medium-quality (≥50% completeness, ≤10% contamination). Phylogenetic analysis unveiled Rhodobacteraceae as dominant members of the FAB community. The reported metagenomes and MAGs are crucial for elucidating the roles of diverse microorganisms and their functional genes in key processes such as nitrification, denitrification, and remineralization. This study will contribute to scientific understanding of phylogenetic diversity and metabolic capabilities of microbial taxa in aquaculture environments.
@@ -65,7 +65,7 @@ Biofloc technology is increasingly recognised as a sustainable aquaculture metho
 ---
 
 ## Net-spinning caddisflies create denitrifier-enriched niches in the stream microbiome.
- 18.10.2023, _AD Bertagnolli, AJ Maritan, BB Tumolo, SF Fritz, HC Oakland, EJ Mohr, GC Poole, LK Albertson, FJ Stewart_
+ 19.10.2023, _AD Bertagnolli, AJ Maritan, BB Tumolo, SF Fritz, HC Oakland, EJ Mohr, GC Poole, LK Albertson, FJ Stewart_
 
 
 Larval net-spinning caddisflies (Hydropsychidae) function as ecosystem engineers in streams where they construct protective retreats composed of organic and inorganic material affixed with silk filtration nets that alter streambed hydrology. We hypothesized that hydropsychid bio-structures (retreats, nets) are microhabitats for microbes with oxygen-sensitive metabolisms, and therefore increase the metabolic heterogeneity of streambed microbial assemblages. Metagenomic and 16 S rRNA gene amplicon analysis of samples from a montane stream (Cherry Creek, Montana, USA) revealed that microbiomes of caddisfly bio-structures are taxonomically and functionally distinct from those of the immediately adjacent rock biofilm (~2 cm distant) and enriched in microbial taxa with established roles in denitrification, nitrification, and methane production. Genes for denitrification, high oxygen affinity terminal oxidases, hydrogenases, oxidative dissimilatory sulfite reductases, and complete ammonia oxidation are significantly enriched in caddisfly bio-structures. The results suggest a novel ecosystem engineering effect of caddisflies through the creation of low-oxygen, denitrifier-enriched niches in the stream microbiome. Facilitation of metabolic diversity in streambeds may be a largely unrecognized mechanism by which caddisflies alter whole-stream biogeochemistry.
@@ -77,7 +77,7 @@ Larval net-spinning caddisflies (Hydropsychidae) function as ecosystem engineers
 ---
 
 ## Effects of heat tolerance on the gut microbiota of Sarcophaga peregrina (Diptera: Sarcophagidae) and impacts on the life history traits.
- 18.10.2023, _L Ren, X Zhang, F Yang, NF Jocelin, Y Shang, Q Wang, Z Liu, Y Guo_
+ 19.10.2023, _L Ren, X Zhang, F Yang, NF Jocelin, Y Shang, Q Wang, Z Liu, Y Guo_
 
 
 Heat tolerance is a distinct abiotic factor affecting the distribution and abundance of insects. Gut microbiota can contribute to host fitness, thereby increasing resistance to abiotic stress conditions. In this study, Sarcophaga peregrina is closely associated with human life in ecological habits and shows remarkable adaptability to daily and seasonal temperature fluctuations. To date, the role of gut microbiota in S. peregrina response to heat stress and its influence on the host phenotypic variability remain poorly studied.
