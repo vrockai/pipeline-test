@@ -1,5 +1,5 @@
 ## Association between gut microbiota and influenza: a bidirectional two-sample mendelian randomization study.
- 19.10.2023, _F Xu, X Gan, Y Tao, D Li, P Xie, F Liu, F Yang, Y Ma_
+ 20.10.2023, _F Xu, X Gan, Y Tao, D Li, P Xie, F Liu, F Yang, Y Ma_
 
 
 Previous observational studies have indicated a correlation between the gut microbiota and influenza; however, the exact nature of the bidirectional causal connection remains uncertain.
@@ -77,7 +77,7 @@ Larval net-spinning caddisflies (Hydropsychidae) function as ecosystem engineers
 ---
 
 ## Effects of heat tolerance on the gut microbiota of Sarcophaga peregrina (Diptera: Sarcophagidae) and impacts on the life history traits.
- 19.10.2023, _L Ren, X Zhang, F Yang, NF Jocelin, Y Shang, Q Wang, Z Liu, Y Guo_
+ 20.10.2023, _L Ren, X Zhang, F Yang, NF Jocelin, Y Shang, Q Wang, Z Liu, Y Guo_
 
 
 Heat tolerance is a distinct abiotic factor affecting the distribution and abundance of insects. Gut microbiota can contribute to host fitness, thereby increasing resistance to abiotic stress conditions. In this study, Sarcophaga peregrina is closely associated with human life in ecological habits and shows remarkable adaptability to daily and seasonal temperature fluctuations. To date, the role of gut microbiota in S. peregrina response to heat stress and its influence on the host phenotypic variability remain poorly studied.
