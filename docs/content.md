@@ -1,5 +1,5 @@
 ## Secretory IgA impacts the microbiota density in the human nose.
- 21.10.2023, _R van Dalen, AMA Elsherbini, M Harms, S Alber, R Stemmler, A Peschel_
+ 23.10.2023, _R van Dalen, AMA Elsherbini, M Harms, S Alber, R Stemmler, A Peschel_
 
 
 Respiratory mucosal host defense relies on the production of secretory IgA (sIgA) antibodies, but we currently lack a fundamental understanding of how sIgA is induced by contact with microbes and how such immune responses may vary between humans. Defense of the nasal mucosal barrier through sIgA is critical to protect from infection and to maintain homeostasis of the microbiome, which influences respiratory disorders and hosts opportunistic pathogens.
@@ -11,7 +11,7 @@ Respiratory mucosal host defense relies on the production of secretory IgA (sIgA
 ---
 
 ## Disease-specific loss of microbial cross-feeding interactions in the human gut.
- 20.10.2023, _VR Marcelino, C Welsh, C Diener, EL Gulliver, EL Rutten, RB Young, EM Giles, SM Gibbons, C Greening, SC Forster_
+ 23.10.2023, _VR Marcelino, C Welsh, C Diener, EL Gulliver, EL Rutten, RB Young, EM Giles, SM Gibbons, C Greening, SC Forster_
 
 
 Many gut microorganisms critical to human health rely on nutrients produced by each other for survival; however, these cross-feeding interactions are still challenging to quantify and remain poorly characterized. Here, we introduce a Metabolite Exchange Score (MES) to quantify those interactions. Using metabolic models of prokaryotic metagenome-assembled genomes from over 1600 individuals, MES allows us to identify and rank metabolic interactions that are significantly affected by a loss of cross-feeding partners in 10 out of 11 diseases. When applied to a Crohn's disease case-control study, our approach identifies a lack of species with the ability to consume hydrogen sulfide as the main distinguishing microbiome feature of disease. We propose that our conceptual framework will help prioritize in-depth analyses, experiments and clinical targets, and that targeting the restoration of microbial cross-feeding interactions is a promising mechanism-informed strategy to reconstruct a healthy gut ecosystem.
@@ -35,7 +35,7 @@ Evaluation of the impact of dietary intervention on gastrointestinal microbiota 
 ---
 
 ## Four functional profiles for fibre and mucin metabolism in the human gut microbiome.
- 22.10.2023, _S Labarthe, S Plancade, S Raguideau, F Plaza Oñate, E Le Chatelier, M Leclerc, B Laroche_
+ 23.10.2023, _S Labarthe, S Plancade, S Raguideau, F Plaza Oñate, E Le Chatelier, M Leclerc, B Laroche_
 
 
 _Humans, Gastrointestinal Microbiome, Mucins, Dysbiosis, Microbiota, Metagenome, Dietary Fiber, Inflammation, Metagenomics_
@@ -48,7 +48,7 @@ With the emergence of metagenomic data, multiple links between the gut microbiom
 ---
 
 ## The airway microbiota of neonates colonized with asthma-associated pathogenic bacteria.
- 20.10.2023, _J Thorsen, XJ Li, S Peng, RB Sunde, SA Shah, M Bhattacharyya, CS Poulsen, CE Poulsen, C Leal Rodriguez, M Widdowson, AU Neumann, U Trivedi, B Chawes, K Bønnelykke, H Bisgaard, SJ Sørensen, J Stokholm_
+ 23.10.2023, _J Thorsen, XJ Li, S Peng, RB Sunde, SA Shah, M Bhattacharyya, CS Poulsen, CE Poulsen, C Leal Rodriguez, M Widdowson, AU Neumann, U Trivedi, B Chawes, K Bønnelykke, H Bisgaard, SJ Sørensen, J Stokholm_
 
 
 Culture techniques have associated colonization with pathogenic bacteria in the airways of neonates with later risk of childhood asthma, whereas more recent studies utilizing sequencing techniques have shown the same phenomenon with specific anaerobic taxa. Here, we analyze nasopharyngeal swabs from 1 month neonates in the COPSAC2000 prospective birth cohort by 16S rRNA gene sequencing of the V3-V4 region in relation to asthma risk throughout childhood. Results are compared with previous culture results from hypopharyngeal aspirates from the same cohort and with hypopharyngeal sequencing data from the later COPSAC2010 cohort. Nasopharyngeal relative abundance values of Streptococcus pneumoniae, Haemophilus influenzae, and Moraxella catarrhalis are associated with the same species in the hypopharyngeal cultures. A combined pathogen score of these bacteria's abundance values is associated with persistent wheeze/asthma by age 7. No other taxa are associated. Compared to the hypopharyngeal aspirates from the COPSAC2010 cohort, the anaerobes Veillonella and Prevotella, which have previously been implicated in asthma development, are less commonly detected in the COPSAC2000 nasopharyngeal samples, but correlate with the pathogen score, hinting at latent community structures that bridge current and previous results. These findings have implications for future asthma prevention efforts.
@@ -60,7 +60,7 @@ Culture techniques have associated colonization with pathogenic bacteria in the 
 ---
 
 ## Multiomic profiling of cutaneous leishmaniasis infections reveals microbiota-driven mechanisms underlying disease severity.
- 22.10.2023, _C Farias Amorim, VM Lovins, TP Singh, FO Novais, JC Harris, AS Lago, LP Carvalho, EM Carvalho, DP Beiting, P Scott, EA Grice_
+ 23.10.2023, _C Farias Amorim, VM Lovins, TP Singh, FO Novais, JC Harris, AS Lago, LP Carvalho, EM Carvalho, DP Beiting, P Scott, EA Grice_
 
 
 _Humans, Mice, Animals, Staphylococcus aureus, Multiomics, Leishmaniasis, Cutaneous, Inflammation, Bacteria, Microbiota, Patient Acuity_
@@ -169,7 +169,7 @@ Pain perception involves current stimulation in peripheral nociceptive nerves an
 ---
 
 ## Single-cell analysis and spatial resolution of the gut microbiome.
- 22.10.2023, _B Madhu, BM Miller, M Levy_
+ 23.10.2023, _B Madhu, BM Miller, M Levy_
 
 
 _Humans, Gastrointestinal Microbiome, Microbiota, Bacteria, Dysbiosis, Single-Cell Analysis_
@@ -194,7 +194,7 @@ Over the past decade it has become clear that various aspects of host physiology
 ---
 
 ## A comprehensive analysis of gut and skin microbiota in canine atopic dermatitis in Shiba Inu dogs.
- 22.10.2023, _M Thomsen, A Künstner, I Wohlers, M Olbrich, T Lenfers, T Osumi, Y Shimazaki, K Nishifuji, SM Ibrahim, A Watson, H Busch, M Hirose_
+ 23.10.2023, _M Thomsen, A Künstner, I Wohlers, M Olbrich, T Lenfers, T Osumi, Y Shimazaki, K Nishifuji, SM Ibrahim, A Watson, H Busch, M Hirose_
 
 
 Like its human counterpart, canine atopic dermatitis (cAD) is a chronic relapsing condition; thus, most cAD-affected dogs will require lifelong treatment to maintain an acceptable quality of life. A potential intervention is modulation of the composition of gut microbiota, and in fact, probiotic treatment has been proposed and tried in human atopic dermatitis (AD) patients. Since dogs are currently receiving intensive medical care, this will be the same option for dogs, while evidence of gut dysbiosis in cAD is still missing, although skin microbial profiling in cAD has been conducted in several studies. Therefore, we conducted a comprehensive analysis of both gut and skin microbiota in cAD in one specific cAD-predisposed breed, Shiba Inu. Additionally, we evaluated the impact of commonly used medical management on cAD (Janus kinase; JAK inhibitor, oclacitinib) on the gut and skin microbiota. Furthermore, we genotyped the Shiba Inu dogs according to the mitochondrial DNA haplogroup and assessed its association with the composition of the gut microbiota.
@@ -224,7 +224,7 @@ Dietary fibers are mainly fermented by the gut microbiota, but their roles in co
 ---
 
 ## Prokaryotic communities inhabiting a high-radon subterranean ecosystem (Castañar Cave, Spain): Environmental and substrate-driven controls.
- 22.10.2023, _T Martin-Pozas, S Cuezva, A Fernandez-Cortes, D Benavente, C Saiz-Jimenez, S Sanchez-Moral_
+ 23.10.2023, _T Martin-Pozas, S Cuezva, A Fernandez-Cortes, D Benavente, C Saiz-Jimenez, S Sanchez-Moral_
 
 
 _Humans, Ecosystem, Radon, Spain, Phylogeny, Bacteria, Archaea, Microbiota, Adenosine Triphosphate_
