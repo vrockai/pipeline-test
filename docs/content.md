@@ -138,15 +138,15 @@ Periodontitis is caused by dysbiosis of oral microbes and is associated with inc
 
 ---
 
-## A transcriptional activator effector of Ustilago maydis regulates hyperplasia in maize during pathogen-induced tumor formation.
- 23.10.2023, _W Zuo, JRL Depotter, SC Stolze, H Nakagami, G Doehlemann_
+## Effects of senescence on the tumour microenvironment and response to therapy.
+ 24.10.2023, _LE Reynolds, S Maallin, S Haston, JP Martinez-Barbera, KM Hodivala-Dilke, AR Pedrosa_
 
 
-Ustilago maydis causes common smut in maize, which is characterized by tumor formation in aerial parts of maize. Tumors result from the de novo cell division of highly developed bundle sheath and subsequent cell enlargement. However, the molecular mechanisms underlying tumorigenesis are still largely unknown. Here, we characterize the U. maydis effector Sts2 (Small tumor on seedlings 2), which promotes the division of hyperplasia tumor cells. Upon infection, Sts2 is translocated into the maize cell nucleus, where it acts as a transcriptional activator, and the transactivation activity is crucial for its virulence function. Sts2 interacts with ZmNECAP1, a yet undescribed plant transcriptional activator, and it activates the expression of several leaf developmental regulators to potentiate tumor formation. On the contrary, fusion of a suppressive SRDX-motif to Sts2 causes dominant negative inhibition of tumor formation, underpinning the central role of Sts2 for tumorigenesis. Our results not only disclose the virulence mechanism of a tumorigenic effector, but also reveal the essential role of leaf developmental regulators in pathogen-induced tumor formation.
+Cellular senescence is a state of durable cell arrest that has been identified both in vitro and in vivo. It is associated with profound changes in gene expression and a specific secretory profile, that includes pro-inflammatory cytokines, growth factors and matrix-remodelling enzymes, referred to as the senescence associated secretory phenotype (SASP). In cancer, senescence can have anti- or pro-tumour effects. On one hand, it can inhibit tumour progression in a cell autonomous manner. On the other hand, senescence can also promote tumour initiation, progression, metastatic dissemination and resistance to therapy in a paracrine manner. Therefore, despite efforts to target senescence as a potential strategy to inhibit tumour growth, senescent cancer and microenvironmental cells can eventually lead to uncontrolled proliferation and aggressive tumour phenotypes. This can happen either through overcoming senescence growth arrest or through SASP-mediated effects in adjacent tumour cells. This review will discuss how senescence affects the tumour microenvironment, including extracellular matrix (ECM) remodelling, the immune system and the vascular compartment, to promote tumorigenesis, metastasis and resistance to DNA-damaging therapies. It will also discuss current approaches used in the field to target senescence: senolytics, improving the immune clearance of senescent cells and targeting the SASP.
 
 [Source](https://www.cell.com/trends/immunology/fulltext/S1471-4906(23)00196-5)
 
-10.1038/s41467-023-42522-w
+10.1111/febs.16984
 
 ---
 
