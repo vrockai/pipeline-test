@@ -138,15 +138,15 @@ Periodontitis is caused by dysbiosis of oral microbes and is associated with inc
 
 ---
 
-## Mechanistic insights into maternal-fetal crosstalk and islet beta-cell development.
- 19.10.2023, _S Jo, E Alejandro_
+## The total mass, number, and distribution of immune cells in the human body.
+ 23.10.2023, _R Sender, Y Weiss, Y Navon, I Milo, N Azulay, L Keren, S Fuchs, D Ben-Zvi, E Noor, R Milo_
 
 
-The metabolic health trajectory of an individual is shaped as early as pre-pregnancy and during pregnancy. Both maternal nutrition and metabolic health status are critical factors in the programming of offspring toward an increased propensity to developing type 2 diabetes in adulthood. Pancreatic beta-cells, part of the endocrine islets, which are nutrient sensitive-tissues important for glucose metabolism, are primed early in life (the first 1000 days in humans) with limited plasticity later in life. This suggests the high importance of the developmental window of programming in utero and early in life. This review will focus on how changes to the maternal milieu increases offspring's susceptibility to diabetes through changes in pancreatic beta-cell mass and function and discuss potential mechanisms by which placental-driven nutrient availability, hormones, exosomes, and immune alterations that may impact beta-cell development in utero, thereby affecting susceptibility to type 2 diabetes in adulthood.
+The immune system is a complex network of cells with critical functions in health and disease. However, a comprehensive census of the cells comprising the immune system is lacking. Here, we estimated the abundance of the primary immune cell types throughout all tissues in the human body. We conducted a literature survey and integrated data from multiplexed imaging and methylome-based deconvolution. We also considered cellular mass to determine the distribution of immune cells in terms of both number and total mass. Our results indicate that the immune system of a reference 73 kg man consists of 1.8 × 1012 cells (95% CI 1.5-2.3 × 1012), weighing 1.2 kg (95% CI 0.8-1.9). Lymphocytes constitute 40% of the total number of immune cells and 15% of the mass and are mainly located in the lymph nodes and spleen. Neutrophils account for similar proportions of both the number and total mass of immune cells, with most neutrophils residing in the bone marrow. Macrophages, present in most tissues, account for 10% of immune cells but contribute nearly 50% of the total cellular mass due to their large size. The quantification of immune cells within the human body presented here can serve to understand the immune function better and facilitate quantitative modeling of this vital system.
 
 [Source](https://www.cell.com/trends/immunology/fulltext/S1471-4906(23)00196-5)
 
-10.1530/JOE-23-0069
+10.1073/pnas.2308511120
 
 ---
 
