@@ -138,15 +138,15 @@ Periodontitis is caused by dysbiosis of oral microbes and is associated with inc
 
 ---
 
-## The total mass, number, and distribution of immune cells in the human body.
- 23.10.2023, _R Sender, Y Weiss, Y Navon, I Milo, N Azulay, L Keren, S Fuchs, D Ben-Zvi, E Noor, R Milo_
+## A transcriptional activator effector of Ustilago maydis regulates hyperplasia in maize during pathogen-induced tumor formation.
+ 23.10.2023, _W Zuo, JRL Depotter, SC Stolze, H Nakagami, G Doehlemann_
 
 
-The immune system is a complex network of cells with critical functions in health and disease. However, a comprehensive census of the cells comprising the immune system is lacking. Here, we estimated the abundance of the primary immune cell types throughout all tissues in the human body. We conducted a literature survey and integrated data from multiplexed imaging and methylome-based deconvolution. We also considered cellular mass to determine the distribution of immune cells in terms of both number and total mass. Our results indicate that the immune system of a reference 73 kg man consists of 1.8 × 1012 cells (95% CI 1.5-2.3 × 1012), weighing 1.2 kg (95% CI 0.8-1.9). Lymphocytes constitute 40% of the total number of immune cells and 15% of the mass and are mainly located in the lymph nodes and spleen. Neutrophils account for similar proportions of both the number and total mass of immune cells, with most neutrophils residing in the bone marrow. Macrophages, present in most tissues, account for 10% of immune cells but contribute nearly 50% of the total cellular mass due to their large size. The quantification of immune cells within the human body presented here can serve to understand the immune function better and facilitate quantitative modeling of this vital system.
+Ustilago maydis causes common smut in maize, which is characterized by tumor formation in aerial parts of maize. Tumors result from the de novo cell division of highly developed bundle sheath and subsequent cell enlargement. However, the molecular mechanisms underlying tumorigenesis are still largely unknown. Here, we characterize the U. maydis effector Sts2 (Small tumor on seedlings 2), which promotes the division of hyperplasia tumor cells. Upon infection, Sts2 is translocated into the maize cell nucleus, where it acts as a transcriptional activator, and the transactivation activity is crucial for its virulence function. Sts2 interacts with ZmNECAP1, a yet undescribed plant transcriptional activator, and it activates the expression of several leaf developmental regulators to potentiate tumor formation. On the contrary, fusion of a suppressive SRDX-motif to Sts2 causes dominant negative inhibition of tumor formation, underpinning the central role of Sts2 for tumorigenesis. Our results not only disclose the virulence mechanism of a tumorigenic effector, but also reveal the essential role of leaf developmental regulators in pathogen-induced tumor formation.
 
 [Source](https://www.cell.com/trends/immunology/fulltext/S1471-4906(23)00196-5)
 
-10.1073/pnas.2308511120
+10.1038/s41467-023-42522-w
 
 ---
 
