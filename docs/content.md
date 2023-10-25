@@ -114,9 +114,15 @@ Depression is a chronic, relapsing mental illness, often accompanied by loss of 
 
 ---
 
-## The role of microbial interactions in dental caries: Dental plaque microbiota analysis
+## The role of microbial interactions in dental caries: Dental plaque microbiota analysis.
+ 22.10.2023, _Q Shao, D Feng, Z Yu, D Chen, Y Ji, Q Ye, D Cheng_
+
+
+Dental caries is a result of the ecological dysfunction of the polymicrobial community on the tooth surface, which evolves through microbial interactions. In this study, we conducted a thorough analysis of the dental plaque microbiome to comprehend its multi-microbial aetiology.
 
 [Source](https://doi.org/10.1016/j.micpath.2023.106390)
+
+10.1016/j.micpath.2023.106390
 
 ---
 
