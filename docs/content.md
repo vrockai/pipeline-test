@@ -156,9 +156,15 @@ Cellular senescence is a state of durable cell arrest that has been identified b
 
 ---
 
-## Regulation of pain perception by microbiota in Parkinson’s Disease
+## Regulation of pain perception by microbiota in Parkinson's Disease.
+ 20.10.2023, _Z Manjarres, M Calvo, R Pacheco_
+
+
+Pain perception involves current stimulation in peripheral nociceptive nerves and the subsequent stimulation of postsynaptic excitatory neurons in the spinal cord. Importantly, in chronic pain, the neural activity of both peripheral nociceptors and postsynaptic neurons in the central nervous system is influenced by several inflammatory mediators produced by the immune system. Growing evidence has indicated that the commensal microbiota plays an active role in regulating pain perception by either acting directly on nociceptors or indirectly through the modulation of the inflammatory activity on immune cells. This symbiotic relationship is mediated by soluble bacterial mediators or intrinsic structural components of bacteria that act on eukaryotic cells, including neurons, microglia, astrocytes, macrophages, T-cells, enterochromaffin cells, and enteric glial cells. The molecular mechanisms involve bacterial molecules that act directly on neurons affecting their excitability, or indirectly on non-neuronal cells inducing changes in the production of pro-inflammatory or anti-inflammatory mediators. Importantly, Parkinson's disease, a neurodegenerative and inflammatory disorder that affect mainly the dopaminergic neurons implicated in the control of voluntary movements, involves not only a motor decline but also non-motor symptomatology, including chronic pain. Of note, several recent studies have shown that Parkinson's disease involves a dysbiosis in the composition of the gut microbiota. In this review, first, we summarize, integrate and classify the molecular mechanisms implicated in the microbiota-mediated regulation of chronic pain. Secondly, we analyze the changes on the commensal microbiota associated to Parkinson's disease and propose how these changes affect the development of chronic pain in this pathology. Significance Statement The microbiota regulates chronic-pain through the action of bacterial signals into two main locations: the peripheral nociceptors and the postsynaptic excitatory neurons in the spinal cord. The dysbiosis associated to Parkinson's disease reveals increased representation of commensals that potentially exacerbate chronic pain and reduced levels of bacteria with beneficial effects on pain. This review encourages further research to better understand the signals involved in bacteria-bacteria and bacteria-host communication to get the clues for the development of probiotics with therapeutic potential.
 
 [Source](https://doi.org/10.1124/pharmrev.122.000674)
+
+10.1124/pharmrev.122.000674
 
 ---
 
