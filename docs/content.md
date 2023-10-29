@@ -156,15 +156,9 @@ Understanding the mechanisms triggering the initiation of retinal regeneration i
 
 ---
 
-## Regulation of pain perception by microbiota in Parkinson's Disease.
- 20.10.2023, _Z Manjarres, M Calvo, R Pacheco_
-
-
-Pain perception involves current stimulation in peripheral nociceptive nerves and the subsequent stimulation of postsynaptic excitatory neurons in the spinal cord. Importantly, in chronic pain, the neural activity of both peripheral nociceptors and postsynaptic neurons in the central nervous system is influenced by several inflammatory mediators produced by the immune system. Growing evidence has indicated that the commensal microbiota plays an active role in regulating pain perception by either acting directly on nociceptors or indirectly through the modulation of the inflammatory activity on immune cells. This symbiotic relationship is mediated by soluble bacterial mediators or intrinsic structural components of bacteria that act on eukaryotic cells, including neurons, microglia, astrocytes, macrophages, T-cells, enterochromaffin cells, and enteric glial cells. The molecular mechanisms involve bacterial molecules that act directly on neurons affecting their excitability, or indirectly on non-neuronal cells inducing changes in the production of pro-inflammatory or anti-inflammatory mediators. Importantly, Parkinson's disease, a neurodegenerative and inflammatory disorder that affect mainly the dopaminergic neurons implicated in the control of voluntary movements, involves not only a motor decline but also non-motor symptomatology, including chronic pain. Of note, several recent studies have shown that Parkinson's disease involves a dysbiosis in the composition of the gut microbiota. In this review, first, we summarize, integrate and classify the molecular mechanisms implicated in the microbiota-mediated regulation of chronic pain. Secondly, we analyze the changes on the commensal microbiota associated to Parkinson's disease and propose how these changes affect the development of chronic pain in this pathology. Significance Statement The microbiota regulates chronic-pain through the action of bacterial signals into two main locations: the peripheral nociceptors and the postsynaptic excitatory neurons in the spinal cord. The dysbiosis associated to Parkinson's disease reveals increased representation of commensals that potentially exacerbate chronic pain and reduced levels of bacteria with beneficial effects on pain. This review encourages further research to better understand the signals involved in bacteria-bacteria and bacteria-host communication to get the clues for the development of probiotics with therapeutic potential.
+## Regulation of pain perception by microbiota in Parkinson’s Disease
 
 [Source](https://doi.org/10.1124/pharmrev.122.000674)
-
-10.1124/pharmrev.122.000674
 
 ---
 
@@ -211,15 +205,28 @@ Over the past decade it has become clear that various aspects of host physiology
 
 ---
 
-## Prokaryotic communities inhabiting a high-radon subterranean ecosystem (Castañar Cave, Spain): Environmental and substrate-driven controls
+## Prokaryotic communities inhabiting a high-radon subterranean ecosystem (Castañar Cave, Spain): Environmental and substrate-driven controls.
+ 23.10.2023, _T Martin-Pozas, S Cuezva, A Fernandez-Cortes, D Benavente, C Saiz-Jimenez, S Sanchez-Moral_
+
+
+_Humans, Ecosystem, Radon, Spain, Phylogeny, Bacteria, Archaea, Microbiota, Adenosine Triphosphate_
+Castañar Cave (Caceres, Spain) is a unique show cave known for its high natural radiation levels. This study presents a comprehensive analysis of its prokaryotic diversity, specifically focusing on investigating the influence of environmental conditions and substrate characteristics on the prokaryotic community structure in the cave sediments. Additionally, the research aims to evaluate the potential impact of human activities on the cave ecosystem. The identification of distinct bioclimatic zones within the cave was made possible through a combination of environmental and microbial monitoring (ATP assays). The results reveal sediment texture as a significant factor, notably affecting the structure, diversity, and phylogenetic variability of the microbial community, including both Bacteria and Archaea. The proportion of clay minerals in sediments plays a crucial role in regulating moisture levels and nutrient availability. These substrate properties collectively exert a significant selective pressure on the structure of prokaryotic communities within cave sediments. The molecular approach shows that heterotrophic bacteria, including those with chitinolytic enzymes, primarily inhabit the cave. Furthermore, chemoautotrophic nitrifiers such as the archaea Nitrososphaeria and the genus Nitrospira, as well as methanotrophic bacteria from the phyla Methylomirabilota, Pseudomonadota, and Verrucomicrobiota, are also present. Remarkably, despite being a show cave, the cave microbiota displays minimal impacts from human activities and the surface ecosystem. Prokaryotic populations exhibit stability in the innermost areas, while the tourist trail area experiences slightly higher biomass increases due to visitor traffic. This suggests that conservation efforts have successfully limited the entry of external nutrients into the innermost cave areas. Additionally, the results suggest that integrating biomarkers like ATP into environmental monitoring can significantly enhance the methods used to study the negative impacts of tourism on cave ecosystems.
 
 [Source](https://doi.org/10.1016/j.micres.2023.127511)
 
+10.1016/j.micres.2023.127511
+
 ---
 
-## The interplay between microbial communities and soil properties
+## The interplay between microbial communities and soil properties.
+ 20.10.2023, _L Philippot, C Chenu, A Kappler, MC Rillig, N Fierer_
+
+
+In recent years, there has been considerable progress in determining the soil properties that influence the structure of the soil microbiome. By contrast, the effects of microorganisms on their soil habitat have received less attention with most previous studies focusing on microbial contributions to soil carbon and nitrogen dynamics. However, soil microorganisms are not only involved in nutrient cycling and organic matter transformations but also alter the soil habitat through various biochemical and biophysical mechanisms. Such microbially mediated modifications of soil properties can have local impacts on microbiome assembly with pronounced ecological ramifications. In this Review, we describe the processes by which microorganisms modify the soil environment, considering soil physics, hydrology and chemistry. We explore how microorganism-soil interactions can generate feedback loops and discuss how microbially mediated modifications of soil properties can serve as an alternative avenue for the management and manipulation of microbiomes to combat soil threats and global change.
 
 [Source](https://doi.org/10.1038/s41579-023-00980-5)
+
+10.1038/s41579-023-00980-5
 
 ---
 
@@ -229,9 +236,15 @@ Over the past decade it has become clear that various aspects of host physiology
 
 ---
 
-## Hierarchical eco-evo dynamics mediated by the gut microbiome
+## Hierarchical eco-evo dynamics mediated by the gut microbiome.
+ 20.10.2023, _E Decaestecker, B Van de Moortel, S Mukherjee, A Gurung, R Stoks, L De Meester_
+
+
+The concept of eco-evolutionary (eco-evo) dynamics, stating that ecological and evolutionary processes occur at similar time scales and influence each other, has contributed to our understanding of responses of populations, communities, and ecosystems to environmental change. Phenotypes, central to these eco-evo processes, can be strongly impacted by the gut microbiome. The gut microbiome shapes eco-evo dynamics in the host community through its effects on the host phenotype. Complex eco-evo feedback loops between the gut microbiome and the host communities might thus be common. Bottom-up dynamics occur when eco-evo interactions shaping the gut microbiome affect host phenotypes with consequences at population, community, and ecosystem levels. Top-down dynamics occur when eco-evo dynamics shaping the host community structure the gut microbiome.
 
 [Source](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00244-6)
+
+10.1016/j.tree.2023.09.013
 
 ---
 
