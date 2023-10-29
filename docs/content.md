@@ -156,9 +156,15 @@ Understanding the mechanisms triggering the initiation of retinal regeneration i
 
 ---
 
-## Regulation of pain perception by microbiota in Parkinson’s Disease
+## Regulation of pain perception by microbiota in Parkinson's Disease.
+ 20.10.2023, _Z Manjarres, M Calvo, R Pacheco_
+
+
+Pain perception involves current stimulation in peripheral nociceptive nerves and the subsequent stimulation of postsynaptic excitatory neurons in the spinal cord. Importantly, in chronic pain, the neural activity of both peripheral nociceptors and postsynaptic neurons in the central nervous system is influenced by several inflammatory mediators produced by the immune system. Growing evidence has indicated that the commensal microbiota plays an active role in regulating pain perception by either acting directly on nociceptors or indirectly through the modulation of the inflammatory activity on immune cells. This symbiotic relationship is mediated by soluble bacterial mediators or intrinsic structural components of bacteria that act on eukaryotic cells, including neurons, microglia, astrocytes, macrophages, T-cells, enterochromaffin cells, and enteric glial cells. The molecular mechanisms involve bacterial molecules that act directly on neurons affecting their excitability, or indirectly on non-neuronal cells inducing changes in the production of pro-inflammatory or anti-inflammatory mediators. Importantly, Parkinson's disease, a neurodegenerative and inflammatory disorder that affect mainly the dopaminergic neurons implicated in the control of voluntary movements, involves not only a motor decline but also non-motor symptomatology, including chronic pain. Of note, several recent studies have shown that Parkinson's disease involves a dysbiosis in the composition of the gut microbiota. In this review, first, we summarize, integrate and classify the molecular mechanisms implicated in the microbiota-mediated regulation of chronic pain. Secondly, we analyze the changes on the commensal microbiota associated to Parkinson's disease and propose how these changes affect the development of chronic pain in this pathology. Significance Statement The microbiota regulates chronic-pain through the action of bacterial signals into two main locations: the peripheral nociceptors and the postsynaptic excitatory neurons in the spinal cord. The dysbiosis associated to Parkinson's disease reveals increased representation of commensals that potentially exacerbate chronic pain and reduced levels of bacteria with beneficial effects on pain. This review encourages further research to better understand the signals involved in bacteria-bacteria and bacteria-host communication to get the clues for the development of probiotics with therapeutic potential.
 
 [Source](https://doi.org/10.1124/pharmrev.122.000674)
+
+10.1124/pharmrev.122.000674
 
 ---
 
@@ -187,15 +193,27 @@ Over the past decade it has become clear that various aspects of host physiology
 
 ---
 
-## A comprehensive analysis of gut and skin microbiota in canine atopic dermatitis in Shiba Inu dogs
+## A comprehensive analysis of gut and skin microbiota in canine atopic dermatitis in Shiba Inu dogs.
+ 23.10.2023, _M Thomsen, A Künstner, I Wohlers, M Olbrich, T Lenfers, T Osumi, Y Shimazaki, K Nishifuji, SM Ibrahim, A Watson, H Busch, M Hirose_
+
+
+Like its human counterpart, canine atopic dermatitis (cAD) is a chronic relapsing condition; thus, most cAD-affected dogs will require lifelong treatment to maintain an acceptable quality of life. A potential intervention is modulation of the composition of gut microbiota, and in fact, probiotic treatment has been proposed and tried in human atopic dermatitis (AD) patients. Since dogs are currently receiving intensive medical care, this will be the same option for dogs, while evidence of gut dysbiosis in cAD is still missing, although skin microbial profiling in cAD has been conducted in several studies. Therefore, we conducted a comprehensive analysis of both gut and skin microbiota in cAD in one specific cAD-predisposed breed, Shiba Inu. Additionally, we evaluated the impact of commonly used medical management on cAD (Janus kinase; JAK inhibitor, oclacitinib) on the gut and skin microbiota. Furthermore, we genotyped the Shiba Inu dogs according to the mitochondrial DNA haplogroup and assessed its association with the composition of the gut microbiota.
 
 [Source](https://doi.org/10.1186/s40168-023-01671-2)
 
+10.1186/s40168-023-01671-2
+
 ---
 
-## High soluble fiber promotes colorectal tumorigenesis through modulating gut microbiota and metabolites in mice
+## High soluble fiber promotes colorectal tumorigenesis through modulating gut microbiota and metabolites in mice.
+ 20.10.2023, _J Yang, H Wei, Y Lin, ES Chu, Y Zhou, H Gou, S Guo, HC Lau, AH Cheung, H Chen, KF To, JJ Sung, Y Wang, J Yu_
+
+
+Dietary fibers are mainly fermented by the gut microbiota, but their roles in colorectal cancer (CRC) are largely unclear. Here, we investigated the associations of different fibers with colorectal tumorigenesis in mice.
 
 [Source](https://www.gastrojournal.org/article/S0016-5085(23)05139-9/pdf)
+
+10.1053/j.gastro.2023.10.012
 
 ---
 
