@@ -107,9 +107,10 @@ Understanding the composition and function of the vaginal microbiome is crucial 
 ---
 
 ## Low-dose ethanol consumption inhibits neutrophil extracellular traps formation to alleviate rheumatoid arthritis.
- 29.10.2023, _L Jin, Z Zhang, P Pan, Y Zhao, M Zhou, L Liu, Y Zhai, H Wang, L Xu, D Mei, H Zhang, Y Yang, J Hua, X Zhang, L Zhang_
+ 30.10.2023, _L Jin, Z Zhang, P Pan, Y Zhao, M Zhou, L Liu, Y Zhai, H Wang, L Xu, D Mei, H Zhang, Y Yang, J Hua, X Zhang, L Zhang_
 
 
+_Humans, Mice, Animals, Extracellular Traps, Arthritis, Rheumatoid, Neutrophils, Arthritis, Experimental, Acetates_
 Rheumatoid arthritis (RA) is a chronic systemic autoimmune disease. Ethanol consumption has been reported to reduce morbidity in RA patients, but the mechanism behind it remains unclear. Our results showed that Muribaculaceae was predominant in the gut microbiota of mice after ethanol treatment, and the levels of microbiota metabolite acetate were increased. Acetate reduced arthritis severity in collagen-induced arthritis (CIA) mice, which was associated with a decrease in the articular neutrophils and the myeloperoxidase-deoxyribonucleic acid complex in serum. Meanwhile, in vitro experiments confirmed that acetate affected neutrophil activity by acting on G-protein-coupled receptor 43, which reduced endoplasmic reticulum stress in neutrophils and inhibited neutrophil extracellular traps formation. Furthermore, exogenous acetate reversed CIA mice with exacerbated gut microbial disruption, further confirming that the effect of gut microbial metabolite acetate on neutrophils in vivo is crucial for the immune regulation. Our findings illuminate the metabolic and cellular mechanisms of the gut-joint axis in the regulation of autoimmune arthritis, and may offer alternative avenues to replicate or induce the joint-protective benefits of ethanol without associated detrimental effects.
 
 [Source](https://doi.org/10.1038/s42003-023-05473-y)
@@ -271,9 +272,10 @@ Root architectural phenotypes are promising targets for crop breeding, but root 
 ---
 
 ## Shotgun metagenomics and computational profiling of the plastisphere microbiome: unveiling the potential of enzymatic production and plastic degradation.
- 26.10.2023, _M Saleem, S Yahya, SA Razzak, S Khawaja, A Ali_
+ 30.10.2023, _M Saleem, S Yahya, SA Razzak, S Khawaja, A Ali_
 
 
+_Bacteria, Microbiota, Proteobacteria, Archaea, Metagenome, Metagenomics_
 Plastic pollution is one of the most resilient types of pollution and is considered a global environmental threat, particularly in the marine environment. This study aimed to identify plastic-degrading bacteria from the plastisphere and their pharmaceutical and therapeutic potential. We collected samples from soil and aquatic plastisphere to identify the bacterial communities using shotgun metagenomic sequencing and bioinformatic tools. Results showed that the microbiome comprised 93% bacteria, 0.29% archaea, and 3.87% unidentified microbes. Of these 93% of bacteria, 54% were Proteobacteria, 23.9% were Firmicutes, 13% were Actinobacteria, and 2.1% were other phyla. We found that the plastisphere microbiome was involved in degrading synthetic and polyhydroxy alkanoate (PHA) plastic, biosurfactant production, and can thrive under high temperatures. However, no association existed between thermophiles, synthetic plastic or PHA degraders, and biosurfactant-producing bacterial species except for Pseudomonas. Other plastisphere inhabiting plastic degrading microbes include Streptomyces, Bacillus, Achromobacter, Azospirillum, Bacillus, Brevundimonas, Clostridium, Paenibacillus, Rhodococcus, Serratia, Staphylococcus, Thermobifida, and Thermomonospora. However, the plastisphere microbiome showed potential for producing secondary metabolites that were found to act as anticancer, antitumor, anti-inflammatory, antimicrobial, and enzyme stabilizers. These results revealed that the plastisphere microbiome upholds clinical and environmental significance as it can open future portals in a multi-directional way.
 
 [Source](https://doi.org/10.1007/s00203-023-03701-x)
@@ -319,9 +321,10 @@ The Animal Meta-omics landscape database (AnimalMetaOmics, https://yanglab.hzau.
 ---
 
 ## ACR: metagenome-assembled prokaryotic and eukaryotic genome refinement tool.
- 27.10.2023, _HJ Seong, JJ Kim, WJ Sul_
+ 30.10.2023, _HJ Seong, JJ Kim, WJ Sul_
 
 
+_Metagenome, Eukaryota, Microbiota, Algorithms, Metagenomics, Cluster Analysis_
 Microbial genome recovery from metagenomes can further explain microbial ecosystem structures, functions and dynamics. Thus, this study developed the Additional Clustering Refiner (ACR) to enhance high-purity prokaryotic and eukaryotic metagenome-assembled genome (MAGs) recovery. ACR refines low-quality MAGs by subjecting them to iterative k-means clustering predicated on contig abundance and increasing bin purity through validated universal marker genes. Synthetic and real-world metagenomic datasets, including short- and long-read sequences, evaluated ACR's effectiveness. The results demonstrated improved MAG purity and a significant increase in high- and medium-quality MAG recovery rates. In addition, ACR seamlessly integrates with various binning algorithms, augmenting their strengths without modifying core features. Furthermore, its multiple sequencing technology compatibilities expand its applicability. By efficiently recovering high-quality prokaryotic and eukaryotic genomes, ACR is a promising tool for deepening our understanding of microbial communities through genome-centric metagenomics.
 
 [Source](https://doi.org/10.1093/bib/bbad381)
@@ -343,9 +346,10 @@ Anti-prokaryotic immune system (APIS) proteins, typically encoded by phages, pro
 ---
 
 ## Cellsnake: a user-friendly tool for single-cell RNA sequencing analysis.
- 29.10.2023, _SU Umu, K Rapp Vander-Elst, VT Karlsen, M Chouliara, ES Bækkevold, FL Jahnsen, D Domanska_
+ 30.10.2023, _SU Umu, K Rapp Vander-Elst, VT Karlsen, M Chouliara, ES Bækkevold, FL Jahnsen, D Domanska_
 
 
+_Software, Transcriptome, Single-Cell Analysis, Workflow, Sequence Analysis, RNA, Gene Expression Profiling, RNA_
 Single-cell RNA sequencing (scRNA-seq) provides high-resolution transcriptome data to understand the heterogeneity of cell populations at the single-cell level. The analysis of scRNA-seq data requires the utilization of numerous computational tools. However, nonexpert users usually experience installation issues, a lack of critical functionality or batch analysis modes, and the steep learning curves of existing pipelines.
 
 [Source](https://doi.org/10.1093/gigascience/giad091)
@@ -355,9 +359,10 @@ Single-cell RNA sequencing (scRNA-seq) provides high-resolution transcriptome da
 ---
 
 ## aMeta: an accurate and memory-efficient ancient metagenomic profiling workflow.
- 27.10.2023, _Z Pochon, N Bergfeldt, E Kırdök, M Vicente, T Naidoo, T van der Valk, NE Altınışık, M Krzewińska, L Dalén, A Götherström, C Mirabello, P Unneberg, N Oskolkov_
+ 30.10.2023, _Z Pochon, N Bergfeldt, E Kırdök, M Vicente, T Naidoo, T van der Valk, NE Altınışık, M Krzewińska, L Dalén, A Götherström, C Mirabello, P Unneberg, N Oskolkov_
 
 
+_Workflow, Metagenome, Metagenomics, Archaeology, DNA, Ancient_
 Analysis of microbial data from archaeological samples is a growing field with great potential for understanding ancient environments, lifestyles, and diseases. However, high error rates have been a challenge in ancient metagenomics, and the availability of computational frameworks that meet the demands of the field is limited. Here, we propose aMeta, an accurate metagenomic profiling workflow for ancient DNA designed to minimize the amount of false discoveries and computer memory requirements. Using simulated data, we benchmark aMeta against a current state-of-the-art workflow and demonstrate its superiority in microbial detection and authentication, as well as substantially lower usage of computer memory.
 
 [Source](https://doi.org/10.1186/s13059-023-03083-9)
