@@ -209,9 +209,16 @@ Understanding the relationship between the composition of the human gut microbio
 
 ---
 
-## Shotgun metagenomics and computational profiling of the plastisphere microbiome: unveiling the potential of enzymatic production and plastic degradation
+## Shotgun metagenomics and computational profiling of the plastisphere microbiome: unveiling the potential of enzymatic production and plastic degradation.
+ 30.10.2023, _M Saleem, S Yahya, SA Razzak, S Khawaja, A Ali_
+
+
+_Bacteria, Microbiota, Proteobacteria, Archaea, Metagenome, Metagenomics_
+Plastic pollution is one of the most resilient types of pollution and is considered a global environmental threat, particularly in the marine environment. This study aimed to identify plastic-degrading bacteria from the plastisphere and their pharmaceutical and therapeutic potential. We collected samples from soil and aquatic plastisphere to identify the bacterial communities using shotgun metagenomic sequencing and bioinformatic tools. Results showed that the microbiome comprised 93% bacteria, 0.29% archaea, and 3.87% unidentified microbes. Of these 93% of bacteria, 54% were Proteobacteria, 23.9% were Firmicutes, 13% were Actinobacteria, and 2.1% were other phyla. We found that the plastisphere microbiome was involved in degrading synthetic and polyhydroxy alkanoate (PHA) plastic, biosurfactant production, and can thrive under high temperatures. However, no association existed between thermophiles, synthetic plastic or PHA degraders, and biosurfactant-producing bacterial species except for Pseudomonas. Other plastisphere inhabiting plastic degrading microbes include Streptomyces, Bacillus, Achromobacter, Azospirillum, Bacillus, Brevundimonas, Clostridium, Paenibacillus, Rhodococcus, Serratia, Staphylococcus, Thermobifida, and Thermomonospora. However, the plastisphere microbiome showed potential for producing secondary metabolites that were found to act as anticancer, antitumor, anti-inflammatory, antimicrobial, and enzyme stabilizers. These results revealed that the plastisphere microbiome upholds clinical and environmental significance as it can open future portals in a multi-directional way.
 
 [Source](https://doi.org/10.1007/s00203-023-03701-x)
+
+10.1007/s00203-023-03701-x
 
 ---
 
@@ -221,15 +228,27 @@ Understanding the relationship between the composition of the human gut microbio
 
 ---
 
-## Analyzing microbial evolution through gene and genome phylogenies
+## Analyzing microbial evolution through gene and genome phylogenies.
+ 28.10.2023, _S Teichman, MD Lee, AD Willis_
+
+
+Microbiome scientists critically need modern tools to explore and analyze microbial evolution. Often this involves studying the evolution of microbial genomes as a whole. However, different genes in a single genome can be subject to different evolutionary pressures, which can result in distinct gene-level evolutionary histories. To address this challenge, we propose to treat estimated gene-level phylogenies as data objects, and present an interactive method for the analysis of a collection of gene phylogenies. We use a local linear approximation of phylogenetic tree space to visualize estimated gene trees as points in low-dimensional Euclidean space, and address important practical limitations of existing related approaches, allowing an intuitive visualization of complex data objects. We demonstrate the utility of our proposed approach through microbial data analyses, including by identifying outlying gene histories in strains of Prevotella, and by contrasting Streptococcus phylogenies estimated using different gene sets. Our method is available as an open-source R package, and assists with estimating, visualizing, and interacting with a collection of bacterial gene phylogenies.
 
 [Source](https://doi.org/10.1093/biostatistics/kxad025)
 
+10.1093/biostatistics/kxad025
+
 ---
 
-## AnimalMetaOmics: a multi-omics data resources for exploring animal microbial genomes and microbiomes
+## AnimalMetaOmics: a multi-omics data resources for exploring animal microbial genomes and microbiomes.
+ 28.10.2023, _R Hu, F Li, Y Chen, C Liu, J Li, Z Ma, Y Wang, C Cui, C Luo, P Zhou, W Ni, QY Yang, S Hu_
+
+
+The Animal Meta-omics landscape database (AnimalMetaOmics, https://yanglab.hzau.edu.cn/animalmetaomics#/) is a comprehensive and freely available resource that includes metagenomic, metatranscriptomic, and metaproteomic data from various non-human animal species and provides abundant information on animal microbiomes, including cluster analysis of microbial cognate genes, functional gene annotations, active microbiota composition, gene expression abundance, and microbial protein identification. In this work, 55 898 microbial genomes were annotated from 581 animal species, including 42 924 bacterial genomes, 12 336 virus genomes, 496 archaea genomes and 142 fungi genomes. Moreover, 321 metatranscriptomic datasets were analyzed from 31 animal species and 326 metaproteomic datasets from four animal species, as well as the pan-genomic dynamics and compositional characteristics of 679 bacterial species and 13 archaea species from animal hosts. Researchers can efficiently access and acquire the information of cross-host microbiota through a user-friendly interface, such as species, genomes, activity levels, expressed protein sequences and functions, and pan-genome composition. These valuable resources provide an important reference for better exploring the classification, functional diversity, biological process diversity and functional genes of animal microbiota.
 
 [Source](https://doi.org/10.1093/nar/gkad931)
+
+10.1093/nar/gkad931
 
 ---
 
