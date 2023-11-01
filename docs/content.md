@@ -290,15 +290,22 @@ Plastic pollution is one of the most resilient types of pollution and is conside
 
 ---
 
-## Analyzing microbial evolution through gene and genome phylogenies.
- 28.10.2023, _S Teichman, MD Lee, AD Willis_
+## Antimicrobial resistance and whole genome sequencing of novel sequence types of Enterococcus faecalis, Enterococcus faecium, and Enterococcus durans isolated from livestock.
+ 01.11.2023, _ME El Zowalaty, B Lamichhane, L Falgenhauer, S Mowlaboccus, OT Zishiri, S Forsythe, YA Hemly_
 
 
-Microbiome scientists critically need modern tools to explore and analyze microbial evolution. Often this involves studying the evolution of microbial genomes as a whole. However, different genes in a single genome can be subject to different evolutionary pressures, which can result in distinct gene-level evolutionary histories. To address this challenge, we propose to treat estimated gene-level phylogenies as data objects, and present an interactive method for the analysis of a collection of gene phylogenies. We use a local linear approximation of phylogenetic tree space to visualize estimated gene trees as points in low-dimensional Euclidean space, and address important practical limitations of existing related approaches, allowing an intuitive visualization of complex data objects. We demonstrate the utility of our proposed approach through microbial data analyses, including by identifying outlying gene histories in strains of Prevotella, and by contrasting Streptococcus phylogenies estimated using different gene sets. Our method is available as an open-source R package, and assists with estimating, visualizing, and interacting with a collection of bacterial gene phylogenies.
+_Animals, Enterococcus faecalis, Enterococcus faecium, Anti-Bacterial Agents, Livestock, Phylogeny, Multilocus Sequence Typing, Drug Resistance, Bacterial, Enterococcus, Whole Genome Sequencing, South Africa, Microbial Sensitivity Tests, Gram-Positive Bacterial Infections_
+The emergence of antimicrobial-resistant, livestock-associated Enterococcus faecalis represents a public health concern. Here, we report the isolation, molecular detection of virulence and antimicrobial resistance determinants, in addition to the phylogenetic analyses of 20 Enterococcus species using whole genome sequencing analysis of 15 Enterococcus faecalis strains including six strains of three novel sequence types, three Enterococcus faecium and two Enterococcus durans. All strains were isolated from food chain animals in South Africa. Enterococcus strains were isolated on bile aesculin azide agar, followed by identification using MALDI-TOF MS analysis. Antibiotic susceptibility testing was performed using the Kirby-Bauer disk diffusion method. The genomic DNA of the isolates was extracted and sequencing was performed using the Illumina MiSeq platform. Sequence reads were trimmed and de novo assembled. The assembled contigs were analyzed for antimicrobial resistance genes and chromosomal mutations, extra-chromosomal plasmids, and multi-locus sequence type (MLST). Multidrug antimicrobial resistance genes conferring resistance to aminoglycosides (ant(6)-Ia, aph(3')-IIIa, sat4, and spw), lincosamides (lnu(B), lsa(A), and lsa(E)), macrolides (erm(B)), trimethoprim (dfrG) and tetracyclines (tet(L) and tet(M)) were identified. Plasmid replicons were detected in seven E. faecalis and three E. faecium isolates. The sequence type (ST) of each isolate was determined using the Enterococcus PubMLST database. Ten STs were identified in the collection, three of which (ST1240, ST1241, and ST1242) have not been previously reported and are described in the present study for the first time. To compare the sequenced strains to other previously sequenced E. faecalis strains, assembled sequences of E. faecalis from livestock were downloaded from the PubMLST database. Core genome-based phylogenetic analysis was performed using ParSNP. The detection of multiple drug-resistance in Enterococcus including E. faecalis and E. faecium highlights the significance of genomic surveillance to monitor the spread of antimicrobial resistance in food chain animals. In addition, the genome sequences of Enterococcus strains reported in the present study will serve as a reference point for future molecular epidemiological studies of livestock-associated and antibiotic-resistant E. faecalis in Africa. In addition, this study enables the in-depth analysis of E. faecalis genomic structure, as well as provides valuable information on the phenotypic and genotypic antimicrobial resistance, and the pathogenesis of livestock-associated E. faecalis and E. faecium.
 
 [Source](https://doi.org/10.1093/biostatistics/kxad025)
 
-10.1093/biostatistics/kxad025
+10.1038/s41598-023-42838-z
+
+---
+
+## Analyzing microbial evolution through gene and genome phylogenies
+
+[Source](https://doi.org/10.1093/biostatistics/kxad025)
 
 ---
 
