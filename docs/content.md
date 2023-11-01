@@ -94,9 +94,15 @@ Recently, a clinical blood metabogram was developed as a fast, low-cost and repr
 
 ---
 
-## A citizen-science-enabled catalogue of the vaginal microbiome and associated factors
+## A citizen-science-enabled catalogue of the vaginal microbiome and associated factors.
+ 26.10.2023, _S Lebeer, S Ahannach, T Gehrmann, S Wittouck, T Eilers, E Oerlemans, S Condori, J Dillen, I Spacova, L Vander Donck, C Masquillier, CN Allonsius, PA Bron, W Van Beeck, C De Backer, G Donders, V Verhoeven_
+
+
+Understanding the composition and function of the vaginal microbiome is crucial for reproductive and overall health. Here we established the Isala citizen-science project to analyse the vaginal microbiomes of 3,345 women in Belgium (18-98 years) through self-sampling, 16S amplicon sequencing and extensive questionnaires. The overall vaginal microbiome composition was strongly tied to age, childbirth and menstrual cycle phase. Lactobacillus species dominated 78% of the vaginal samples. Specific bacterial taxa also showed to co-occur in modules based on network correlation analysis. Notably, the module containing Lactobacillus crispatus, Lactobacillus jensenii and Limosilactobacillus taxa was positively linked to oestrogen levels and contraceptive use and negatively linked to childbirth and breastfeeding. Other modules, named after abundant taxa (Gardnerella, Prevotella and Bacteroides), correlated with multiple partners, menopause, menstrual hygiene and contraceptive use. With this resource-rich vaginal microbiome map and associated health, life-course, lifestyle and dietary factors, we provide unique data and insights for follow-up clinical and mechanistic research.
 
 [Source](https://doi.org/10.1038/s41564-023-01500-0)
+
+10.1038/s41564-023-01500-0
 
 ---
 
