@@ -16,15 +16,22 @@ Amino acid auxotrophies are prevalent among bacteria. They can govern ecological
 
 ---
 
-## The global burden of antimicrobial resistance - urinary tract infections.
- 27.10.2023, _S Von Vietinghoff, O Shevchuk, U Dobrindt, DR Engel, SK Jorch, C Kurts, T Miethke, F Wagenlehner_
+## High incidence of catheter-associated urinary tract infections and related antibiotic resistance in two hospitals of different geographic regions of Sierra Leone: a prospective cohort study.
+ 02.11.2023, _S Lakoh, L Yi, JBW Russell, J Zhang, S Sevalie, Y Zhao, JS Kanu, P Liu, SK Conteh, CEE Williams, U Barrie, O Adekanmbi, DF Jiba, MN Kamara, D Sesay, GF Deen, JC Okeibunor, GA Yendewa, X Guo, E Firima_
 
 
-Antimicrobial resistance (AMR) emerged as a significant global healthcare problem. Antibiotic use has accelerated the physiologic process of AMR, particularly in Gram-negative pathogens. Urinary tract infections (UTI) are predominantly of Gram-negative nature. Uropathogens are evolutionarily highly adapted and selected strains with specific virulence factors, suggesting common mechanisms how bacterial cells acquire virulence and AMR factors. The simultaneous increase in resistance and virulence is a complex and context-dependent phenomenon. Amongst known AMR mechanisms, the plenitude of different β-lactamases is especially prominent. The risk for AMR in UTI varies in different patient populations. History of antibiotic consumption and physiology of urinary flow are major factors that shape AMR prevalence. The urinary tract is in close crosstalk with the microbiome of other compartments, such as the gut or the genital tracts. In addition, pharmacokinetic properties and the physiochemical composition of urinary compartments can contribute to emergence of AMR. Alternatives to antibiotic treatment and a broader approach to address bacterial infections are needed. Among the various alternatives studied, antimicrobial peptides (AMPs) and bacteriophage treatment appear to be highly promising approaches. We here summarize the present knowledge of clinical and microbiological AMR in UTI and discuss innovative approaches, namely new risk prediction tools and the use of non-antibiotic approaches to defend against uropathogenic microbes.
+_Female, Humans, Middle Aged, Male, Escherichia coli, Anti-Bacterial Agents, Incidence, Sierra Leone, Prospective Studies, beta-Lactamases, Microbial Sensitivity Tests, Urinary Tract Infections, Klebsiella pneumoniae, Drug Resistance, Microbial, Hospitals, Catheters_
+Catheter-associated urinary tract infections (CAUTI) are common worldwide, but due to limited resources, its actual burden in low-income countries is unknown. Currently, there are gaps in knowledge about CAUTI due to lack of surveillance activities in Sierra Leone. In this prospective cohort study, we aimed to determine the incidence of CAUTI and associated antibiotic resistance in two tertiary hospitals in different regions of Sierra Leone.
 
 [Source](https://doi.org/10.1093/ndt/gfad233)
 
-10.1093/ndt/gfad233
+10.1186/s13104-023-06591-w
+
+---
+
+## The global burden of antimicrobial resistance – urinary tract infections
+
+[Source](https://doi.org/10.1093/ndt/gfad233)
 
 ---
 
@@ -143,9 +150,27 @@ Understanding the relationship between the composition of the human gut microbio
 
 ---
 
-## Longitudinal analysis of vaginal microbiota during IVF fresh embryo transfer and in early pregnancy
+## Longitudinal analysis of vaginal microbiota during IVF fresh embryo transfer and in early pregnancy.
+ 26.10.2023, _S Väinämö, S Saqib, I Kalliala, K Kervinen, K Luiro, M Niinimäki, M Halttunen-Nieminen, S Virtanen, P Nieminen, A Salonen, T Holster_
+
+
+Non-Lactobacillus-dominated vaginal microbiota has been associated with poor gynecologic health and complications during pregnancy. Lactobacilli and especially Lactobacillus crispatus associate with good reproductive health and dominate the microbiota during healthy pregnancy. We examined whether the composition of vaginal microbiota at the time of fresh embryo transfer (ET) has an impact on the success of in vitro fertilization (IVF) and whether vaginal microbiota changes from IVF-ET to early pregnancy within individuals. Vaginal swab samples were collected from subfertile women at the time of IVF-ET (n = 76) and at the eighth gestational week (n = 21) from those who achieved clinical pregnancy. The microbiota composition was analyzed using 16S rRNA gene amplicon sequencing. L. crispatus was more abundant among the 30 women who achieved clinical pregnancy (46.9% vs. 19.1%, q = 0.039) and the 26 women who had live birth (43.3% vs. 23.1%, q = 0.32) compared to those who did not. Lactobacilli, mainly L. crispatus (76.2%), dominated all early pregnancy samples. Microbiota remained the same, i.e., Lactobacillus-dominated type in 52% (11/21), shifted from one Lactobacillus-dominated type to another in 24% (5/21), or shifted from mixed community to Lactobacillus-dominated type in 24% (5/21) women, but never from Lactobacillus dominance to non-lactobacilli dominance. Our results emphasize the role of L. crispatus in the success of IVF-ET and in early pregnancy. During pregnancy, the microbiota shifted toward L. crispatus dominance even if it was undetectable before pregnancy, indicating that most women hold a reservoir of this beneficial Lactobacillus in their reproductive tract.IMPORTANCEInfertility is a global public health issue which leads many couples to seek fertility treatments, of which in vitro fertilization (IVF) is considered to be the most effective. Still, only about one-third of the women achieve live birth after the first IVF embryo transfer (IVF-ET). Factors affecting embryo implantation are poorly known, but the female reproductive tract microbiota may play a key role. Our study confirms the beneficial role of vaginal lactobacilli, especially Lactobacillus crispatus, in the probability of achieving clinical pregnancy and live birth following IVF-ET. Our findings regarding the intra-individual shift of vaginal microbiota between non-pregnancy and pregnancy states are novel and provide new information about the dynamics of microbiota in the early steps of human reproduction. These findings may help clinicians in their attempts to optimize the conditions for ET by microbiota screening or modulation and timing the ET when the microbiota is the most favorable.
 
 [Source](https://doi.org/10.1128/spectrum.01650-23)
+
+10.1128/spectrum.01650-23
+
+---
+
+## Machine Learning Algorithms Applied to Predict Autism Spectrum Disorder Based on Gut Microbiome Composition.
+ 30.10.2023, _JM Olaguez-Gonzalez, I Chairez, L Breton-Deval, M Alfaro-Ponce_
+
+
+The application of machine learning (ML) techniques stands as a reliable method for aiding in the diagnosis of complex diseases. Recent studies have related the composition of the gut microbiota to the presence of autism spectrum disorder (ASD), but until now, the results have been mostly contradictory. This work proposes using machine learning to study the gut microbiome composition and its role in the early diagnosis of ASD. We applied support vector machines (SVMs), artificial neural networks (ANNs), and random forest (RF) algorithms to classify subjects as neurotypical (NT) or having ASD, using published data on gut microbiome composition. Naive Bayes, k-nearest neighbors, ensemble learning, logistic regression, linear regression, and decision trees were also trained and validated; however, the ones presented showed the best performance and interpretability. All the ML methods were developed using the SAS Viya software platform. The microbiome's composition was determined using 16S rRNA sequencing technology. The application of ML yielded a classification accuracy as high as 90%, with a sensitivity of 96.97% and specificity reaching 85.29%. In the case of the ANN model, no errors occurred when classifying NT subjects from the first dataset, indicating a significant classification outcome compared to traditional tests and data-based approaches. This approach was repeated with two datasets, one from the USA and the other from China, resulting in similar findings. The main predictors in the obtained models differ between the analyzed datasets. The most important predictors identified from the analyzed datasets are Bacteroides, Lachnospira, Anaerobutyricum, and Ruminococcus torques. Notably, among the predictors in each model, there is the presence of bacteria that are usually considered insignificant in the microbiome's composition due to their low relative abundance. This outcome reinforces the conventional understanding of the microbiome's influence on ASD development, where an imbalance in the composition of the microbiota can lead to disrupted host-microbiota homeostasis. Considering that several previous studies focused on the most abundant genera and neglected smaller (and frequently not statistically significant) microbial communities, the impact of such communities has been poorly analyzed. The ML-based models suggest that more research should focus on these less abundant microbes. A novel hypothesis explains the contradictory results in this field and advocates for more in-depth research to be conducted on variables that may not exhibit statistical significance. The obtained results seem to contribute to an explanation of the contradictory findings regarding ASD and its relation with gut microbiota composition. While some research correlates higher ratios of Bacillota/Bacteroidota, others find the opposite. These discrepancies are closely linked to the minority organisms in the microbiome's composition, which may differ between populations but share similar metabolic functions. Therefore, the ratios of Bacillota/Bacteroidota regarding ASD may not be determinants in the manifestation of ASD.
+
+[Source](https://doi.org/10.1186/s13099-023-00575-8)
+
+10.3390/biomedicines11102633
 
 ---
 
@@ -155,15 +180,28 @@ Understanding the relationship between the composition of the human gut microbio
 
 ---
 
-## Host fecal DNA specific methylation signatures mark gut dysbiosis and inflammation in children affected by autism spectrum disorder
+## Host fecal DNA specific methylation signatures mark gut dysbiosis and inflammation in children affected by autism spectrum disorder.
+ 27.10.2023, _M Cuomo, L Coretti, D Costabile, R Della Monica, G De Riso, M Buonaiuto, F Trio, C Bravaccio, R Visconti, R Berni Canani, L Chiariotti, F Lembo_
+
+
+_Humans, Child, Child, Preschool, Autism Spectrum Disorder, Gastrointestinal Microbiome, Dysbiosis, DNA Methylation, Inflammation_
+The gut-brain axis involves several bidirectional pathway communications including microbiome, bacterial metabolites, neurotransmitters as well as immune system and is perturbed both in brain and in gastrointestinal disorders. Consistently, microbiota-gut-brain axis has been found altered in autism spectrum disorder (ASD). We reasoned that such alterations occurring in ASD may impact both on methylation signatures of human host fecal DNA (HFD) and possibly on the types of human cells shed in the stools from intestinal tract giving origin to HFD. To test this hypothesis, we have performed whole genome methylation analysis of HFD from an age-restricted cohort of young children with ASD (N = 8) and healthy controls (N = 7). In the same cohort we have previously investigated the fecal microbiota composition and here we refined such analysis and searched for eventual associations with data derived from HFD methylome analysis. Our results showed that specific epigenetic signatures in human fecal DNA, especially at genes related to inflammation, associated with the disease. By applying methylation-based deconvolution algorithm, we found that the HFD derived mainly from immune cells and the relative abundance of those differed between patients and controls. Consistently, most of differentially methylated regions fitted with genes involved in inflammatory response. Interestingly, using Horvath epigenetic clock, we found that ASD affected children showed both epigenetic and microbiota age accelerated. We believe that the present unprecedented approach may be useful for the identification of the ASD associated HFD epigenetic signatures and may be potentially extended to other brain disorders and intestinal inflammatory diseases.
 
 [Source](https://doi.org/10.1038/s41598-023-45132-0)
 
+10.1038/s41598-023-45132-0
+
 ---
 
-## Gut microbiome-derived ammonia modulates stress vulnerability in the host
+## Gut microbiome-derived ammonia modulates stress vulnerability in the host.
+ 23.10.2023, _P Wang, PF Wu, HJ Wang, F Liao, F Wang, JG Chen_
+
+
+Ammonia has been long recognized as a metabolic waste product with well-known neurotoxic effects. However, little is known about the beneficial function of endogenous ammonia. Here, we show that gut ammonia links microbe nitrogen metabolism to host stress vulnerability by maintaining brain glutamine availability in male mice. Chronic stress decreases blood ammonia levels by altering gut urease-positive microbiota. A representative urease-producing strain, Streptococcus thermophilus, can reverse depression-like behaviours induced by gut microbiota that was altered by stress, whereas pharmacological inhibition of gut ammonia production increases stress vulnerability. Notably, abnormally low blood ammonia levels limit the brain's availability of glutamine, a key metabolite produced by astrocytes that is required for presynaptic γ-aminobutyric acid (GABA) replenishment and confers stress vulnerability through cortical GABAergic dysfunction. Of therapeutic interest, ammonium chloride (NH4Cl), a commonly used expectorant in the clinic, can rescue behavioural abnormalities and GABAergic deficits in mouse models of depression. In sum, ammonia produced by the gut microbiome can help buffer stress in the host, providing a gut-brain signalling basis for emotional behaviour.
 
 [Source](https://doi.org/10.1038/s42255-023-00909-5)
+
+10.1038/s42255-023-00909-5
 
 ---
 
@@ -173,15 +211,27 @@ Understanding the relationship between the composition of the human gut microbio
 
 ---
 
-## Microbiome-based therapies for periodontitis and peri-implantitis
+## Microbiome-based therapies for periodontitis and peri-implantitis.
+ 27.10.2023, _X Wei, S Qian, Y Yang, J Mo_
+
+
+Periodontitis and peri-implantitis are oral infectious-inflammatory diseases associated with oral microbial dysbiosis. Microbiome-based therapies, characterized by manipulation of the microbiota, are emerging as promising therapeutic approaches to resolve the microbial dysbiosis and associated dysregulation of immune system. This review aims at summarizing recent progress on microbiome-based therapies in periodontitis and peri-implantitis, promoting a further understanding of the related therapeutic mechanisms.
 
 [Source](https://doi.org/10.1111/odi.14782)
 
+10.1111/odi.14782
+
 ---
 
-## Distinct gut microbial communities and functional predictions in divergent ophiuroid species: host differentiation, ecological niches, and adaptation to cold-water habitats
+## Distinct gut microbial communities and functional predictions in divergent ophiuroid species: host differentiation, ecological niches, and adaptation to cold-water habitats.
+ 27.10.2023, _Y Dong, Y Li, M Ge, T Takatsu, Z Wang, X Zhang, D Ding, Q Xu_
+
+
+Gastrointestinal microorganisms play a crucial role in host survival and adaptation, but information on host-specific selection or environmental factors that shape the microbiome in natural populations is limited. In this study, we employed 16S rRNA gene amplicon sequencing to investigate the composition and predicted the functions of gut microbiota of two ophiuroid species (Ophiura sarsii and its subspecies O. sarsii vadicola) from cold-water habitats across three geographically distant sea areas in the Northern Pacific Ocean. We also explored the potential influence of the host and environment on the microbiota. The two ophiuroids possessed diverse microbial communities, with Proteobacteria being the most dominant phylum in all four groups. Aliivibrio was the predominant genus in O. sarsii from the Bering Sea, while Candidatus Hepatoplasma was the dominant genus in O. sarsii from the Japan Sea and O. sarsii vadicola from the Yellow Sea. Predicted bacterial functions indicated that most of the pathways with significant differences belonged to metabolism and genetic information processing. Notably, no significant difference was observed between the two coexisting ophiuroid species in the Japan Sea. The high similarity in microbial communities between O. sarsii from the Japan Sea and O. sarsii vadicola from the Yellow Sea may be attributed to their analogous ecological niche. The host and the environment jointly shape the composition of the gut microbial community. The presence of specific microorganisms supports the ecological success of ophiuroids across diverse environments, providing a foundation for host adaptation to cold-water habitats.IMPORTANCEGastrointestinal microorganisms are critical to the survival and adaptation of hosts, and there are few studies on the differences and functions of gastrointestinal microbes in widely distributed species. This study investigated the gut microbes of two ophiuroid species (Ophiura sarsii and its subspecies O. sarsii vadicola) in cold-water habitats of the Northern Pacific Ocean. The results showed that a combination of host and environmental factors shapes the intestinal microbiota of ophiuroids. There was a high similarity in microbial communities between the two groups living in different regions, which may be related to their similar ecological niches. These microorganisms played a vital role in the ecological success of ophiuroids as the foundation for their adaptation to cold-water environments. This study revealed the complex relationship between hosts and their gut microbes, providing insights into the role they play in the adaptation and survival of marine species.
 
 [Source](https://doi.org/10.1128/spectrum.02073-23)
+
+10.1128/spectrum.02073-23
 
 ---
 
@@ -248,7 +298,7 @@ Plastic pollution is one of the most resilient types of pollution and is conside
 ---
 
 ## Antimicrobial resistance and whole genome sequencing of novel sequence types of Enterococcus faecalis, Enterococcus faecium, and Enterococcus durans isolated from livestock.
- 01.11.2023, _ME El Zowalaty, B Lamichhane, L Falgenhauer, S Mowlaboccus, OT Zishiri, S Forsythe, YA Hemly_
+ 02.11.2023, _ME El Zowalaty, B Lamichhane, L Falgenhauer, S Mowlaboccus, OT Zishiri, S Forsythe, YA Hemly_
 
 
 _Animals, Enterococcus faecalis, Enterococcus faecium, Anti-Bacterial Agents, Livestock, Phylogeny, Multilocus Sequence Typing, Drug Resistance, Bacterial, Enterococcus, Whole Genome Sequencing, South Africa, Microbial Sensitivity Tests, Gram-Positive Bacterial Infections_
