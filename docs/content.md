@@ -246,27 +246,54 @@ Understanding the relationship between the composition of the human gut microbio
 
 ---
 
-## ACR: metagenome-assembled prokaryotic and eukaryotic genome refinement tool
+## ACR: metagenome-assembled prokaryotic and eukaryotic genome refinement tool.
+ 02.11.2023, _HJ Seong, JJ Kim, WJ Sul_
+
+
+_Metagenome, Eukaryota, Microbiota, Algorithms, Metagenomics, Cluster Analysis_
+Microbial genome recovery from metagenomes can further explain microbial ecosystem structures, functions and dynamics. Thus, this study developed the Additional Clustering Refiner (ACR) to enhance high-purity prokaryotic and eukaryotic metagenome-assembled genome (MAGs) recovery. ACR refines low-quality MAGs by subjecting them to iterative k-means clustering predicated on contig abundance and increasing bin purity through validated universal marker genes. Synthetic and real-world metagenomic datasets, including short- and long-read sequences, evaluated ACR's effectiveness. The results demonstrated improved MAG purity and a significant increase in high- and medium-quality MAG recovery rates. In addition, ACR seamlessly integrates with various binning algorithms, augmenting their strengths without modifying core features. Furthermore, its multiple sequencing technology compatibilities expand its applicability. By efficiently recovering high-quality prokaryotic and eukaryotic genomes, ACR is a promising tool for deepening our understanding of microbial communities through genome-centric metagenomics.
 
 [Source](https://doi.org/10.1093/bib/bbad381)
 
+10.1093/bib/bbad381
+
 ---
 
-## dbAPIS: a database of anti-prokaryotic immune system genes
+## dbAPIS: a database of anti-prokaryotic immune system genes.
+ 27.10.2023, _Y Yan, J Zheng, X Zhang, Y Yin_
+
+
+Anti-prokaryotic immune system (APIS) proteins, typically encoded by phages, prophages, and plasmids, inhibit prokaryotic immune systems (e.g. restriction modification, toxin-antitoxin, CRISPR-Cas). A growing number of APIS genes have been characterized and dispersed in the literature. Here we developed dbAPIS (https://bcb.unl.edu/dbAPIS), as the first literature curated data repository for experimentally verified APIS genes and their associated protein families. The key features of dbAPIS include: (i) experimentally verified APIS genes with their protein sequences, functional annotation, PDB or AlphaFold predicted structures, genomic context, sequence and structural homologs from different microbiome/virome databases; (ii) classification of APIS proteins into sequence-based families and construction of hidden Markov models (HMMs); (iii) user-friendly web interface for data browsing by the inhibited immune system types or by the hosts, and functions for searching and batch downloading of pre-computed data; (iv) Inclusion of all types of APIS proteins (except for anti-CRISPRs) that inhibit a variety of prokaryotic defense systems (e.g. RM, TA, CBASS, Thoeris, Gabija). The current release of dbAPIS contains 41 verified APIS proteins and ∼4400 sequence homologs of 92 families and 38 clans. dbAPIS will facilitate the discovery of novel anti-defense genes and genomic islands in phages, by providing a user-friendly data repository and a web resource for an easy homology search against known APIS proteins.
 
 [Source](https://doi.org/10.1093/nar/gkad932)
 
+10.1093/nar/gkad932
+
 ---
 
-## Cellsnake: a user-friendly tool for single-cell RNA sequencing analysis
+## Cellsnake: a user-friendly tool for single-cell RNA sequencing analysis.
+ 30.10.2023, _SU Umu, K Rapp Vander-Elst, VT Karlsen, M Chouliara, ES Bækkevold, FL Jahnsen, D Domanska_
+
+
+_Software, Transcriptome, Single-Cell Analysis, Workflow, Sequence Analysis, RNA, Gene Expression Profiling, RNA_
+Single-cell RNA sequencing (scRNA-seq) provides high-resolution transcriptome data to understand the heterogeneity of cell populations at the single-cell level. The analysis of scRNA-seq data requires the utilization of numerous computational tools. However, nonexpert users usually experience installation issues, a lack of critical functionality or batch analysis modes, and the steep learning curves of existing pipelines.
 
 [Source](https://doi.org/10.1093/gigascience/giad091)
 
+10.1093/gigascience/giad091
+
 ---
 
-## aMeta: an accurate and memory-efficient ancient metagenomic profiling workflow
+## aMeta: an accurate and memory-efficient ancient metagenomic profiling workflow.
+ 30.10.2023, _Z Pochon, N Bergfeldt, E Kırdök, M Vicente, T Naidoo, T van der Valk, NE Altınışık, M Krzewińska, L Dalén, A Götherström, C Mirabello, P Unneberg, N Oskolkov_
+
+
+_Workflow, Metagenome, Metagenomics, Archaeology, DNA, Ancient_
+Analysis of microbial data from archaeological samples is a growing field with great potential for understanding ancient environments, lifestyles, and diseases. However, high error rates have been a challenge in ancient metagenomics, and the availability of computational frameworks that meet the demands of the field is limited. Here, we propose aMeta, an accurate metagenomic profiling workflow for ancient DNA designed to minimize the amount of false discoveries and computer memory requirements. Using simulated data, we benchmark aMeta against a current state-of-the-art workflow and demonstrate its superiority in microbial detection and authentication, as well as substantially lower usage of computer memory.
 
 [Source](https://doi.org/10.1186/s13059-023-03083-9)
+
+10.1186/s13059-023-03083-9
 
 ---
 
