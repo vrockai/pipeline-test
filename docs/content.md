@@ -109,16 +109,9 @@ The purpose of this study was to identify microorganisms isolated from various p
 
 ---
 
-## Smoking and salivary microbiota: a cross-sectional analysis of an Italian alpine population.
- 06.11.2023, _G Antonello, F Blostein, D Bhaumik, E Davis, M Gögele, R Melotti, P Pramstaller, C Pattaro, N Segata, B Foxman, C Fuchsberger_
-
-
-_Humans, Cross-Sectional Studies, Nitrates, Cigarette Smoking, Microbiota, Smokers, RNA, Ribosomal, 16S_
-The oral microbiota plays an important role in the exogenous nitrate reduction pathway and is associated with heart and periodontal disease and cigarette smoking. We describe smoking-related changes in oral microbiota composition and resulting potential metabolic pathway changes that may explain smoking-related changes in disease risk. We analyzed health information and salivary microbiota composition among 1601 Cooperative Health Research in South Tyrol participants collected 2017-2018. Salivary microbiota taxa were assigned from amplicon sequences of the 16S-V4 rRNA and used to describe microbiota composition and predict metabolic pathways. Aerobic taxa relative abundance decreased with daily smoking intensity and increased with years since cessation, as did inferred nitrate reduction. Former smokers tended to be more similar to Never smokers than to Current smokers, especially those who had quit for longer than 5 years. Cigarette smoking has a consistent, generalizable association on oral microbiota composition and predicted metabolic pathways, some of which associate in a dose-dependent fashion. Smokers who quit for longer than 5 years tend to have salivary microbiota profiles comparable to never smokers.
+## Smoking and salivary microbiota: a cross-sectional analysis of an Italian alpine population
 
 [Source](https://doi.org/10.1038/s41598-023-42474-7)
-
-10.1038/s41598-023-42474-7
 
 ---
 
@@ -235,16 +228,9 @@ Corals rely on a wide range of microorganisms for their functioning, including i
 
 ---
 
-## Microbial hitchhikers harbouring antimicrobial-resistance genes in the riverine plastisphere.
- 03.11.2023, _V Zadjelovic, RJ Wright, C Borsetto, J Quartey, TN Cairns, MGI Langille, EMH Wellington, JA Christie-Oleza_
-
-
-_Anti-Bacterial Agents, Bacteria, Lincosamides, Genes, Bacterial, Microbiota, Water_
-The widespread nature of plastic pollution has given rise to wide scientific and social concern regarding the capacity of these materials to serve as vectors for pathogenic bacteria and reservoirs for Antimicrobial Resistance Genes (ARG). In- and ex-situ incubations were used to characterise the riverine plastisphere taxonomically and functionally in order to determine whether antibiotics within the water influenced the ARG profiles in these microbiomes and how these compared to those on natural surfaces such as wood and their planktonic counterparts.
+## Microbial hitchhikers harbouring antimicrobial-resistance genes in the riverine plastisphere
 
 [Source](https://doi.org/10.1186/s40168-023-01662-3)
-
-10.1186/s40168-023-01662-3
 
 ---
 
@@ -254,40 +240,21 @@ The widespread nature of plastic pollution has given rise to wide scientific and
 
 ---
 
-## Microbial ecology of drinking water from source to tap.
- 01.11.2023, _L Abkar, HS Moghaddam, J Fowler_
-
-
-As drinking water travels from its source, through various treatment processes, hundreds to thousands of kilometres of distribution network pipes, to the taps in private homes and public buildings, it is exposed to numerous environmental changes, as well as other microbes living in both water and on surfaces. This review aims to identify the key locations and factors that are associated with changes in the drinking water microbiome throughout conventional urban drinking water systems from the source to the tap water. Over the past 15 years, improvements in cultivation-independent methods have enabled studies that allow us to answer such questions. As a result, we are beginning to move towards predicting the impacts of disturbances and interventions resulting ultimately in management of drinking water systems and microbial communities rather than mere observation. Many challenges still exist to achieve effective management, particularly within the premise plumbing environment, which exhibits diverse and inconsistent conditions that may lead to alterations in the microbiota, potentially presenting public health risks. Finally, we recommend the establishment of global collaborative projects on the drinking water microbiome that will enhance our current knowledge and lead to tools for operators and researchers alike to improve global access to high-quality drinking water.
+## Microbial ecology of drinking water from source to tap
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.168077)
 
-10.1016/j.scitotenv.2023.168077
-
 ---
 
-## Food4healthKG: Knowledge graphs for food recommendations based on gut microbiota and mental health.
- 06.11.2023, _C Fu, Z Huang, F van Harmelen, T He, X Jiang_
-
-
-_Humans, Gastrointestinal Microbiome, Mental Health, Pattern Recognition, Automated, Mental Disorders_
-Food is increasingly acknowledged as a powerful means to promote and maintain mental health. The introduction of the gut-brain axis has been instrumental in understanding the impact of food on mental health. It is widely reported that food can significantly influence gut microbiota metabolism, thereby playing a pivotal role in maintaining mental health. However, the vast amount of heterogeneous data published in recent research lacks systematic integration and application development. To remedy this, we construct a comprehensive knowledge graph, named Food4healthKG, focusing on food, gut microbiota, and mental diseases. The constructed workflow includes the integration of numerous heterogeneous data, entity linking to a normalized format, and the well-designed representation of the acquired knowledge. To illustrate the availability of Food4healthKG, we design two case studies: the knowledge query and the food recommendation based on Food4healthKG. Furthermore, we propose two evaluation methods to validate the quality of the results obtained from Food4healthKG. The results demonstrate the system's effectiveness in practical applications, particularly in providing convincing food recommendations based on gut microbiota and mental health. Food4healthKG is accessible at https://github.com/ccszbd/Food4healthKG.
+## Food4healthKG: Knowledge graphs for food recommendations based on gut microbiota and mental health
 
 [Source](https://doi.org/10.1016/j.artmed.2023.102677)
 
-10.1016/j.artmed.2023.102677
-
 ---
 
-## Testing latent classes in gut microbiome data using generalized Poisson regression models.
- 03.11.2023, _X Qiao, H He, L Sun, S Bai, P Ye_
-
-
-Human microbiome research has gained increasing importance due to its critical roles in comprehending human health and disease. Within the realm of microbiome research, the data generated often involves operational taxonomic unit counts, which can frequently present challenges such as over-dispersion and zero-inflation. To address dispersion-related concerns, the generalized Poisson model offers a flexible solution, effectively handling data characterized by over-dispersion, equi-dispersion, and under-dispersion. Furthermore, the realm of zero-inflated generalized Poisson models provides a strategic avenue to simultaneously tackle both over-dispersion and zero-inflation. The phenomenon of zero-inflation frequently stems from the heterogeneous nature of study populations. It emerges when specific microbial taxa fail to thrive in the microbial community of certain subjects, consequently resulting in a consistent count of zeros for these individuals. This subset of subjects represents a latent class, where their zeros originate from the genuine absence of the microbial taxa. In this paper, we introduce a novel testing methodology designed to uncover such latent classes within generalized Poisson regression models. We establish a closed-form test statistic and deduce its asymptotic distribution based on estimating equations. To assess its efficacy, we conduct an extensive array of simulation studies, and further apply the test to detect latent classes in human gut microbiome data from the Bogalusa Heart Study.
+## Testing latent classes in gut microbiome data using generalized Poisson regression models
 
 [Source](https://doi.org/10.1002/sim.9944)
-
-10.1002/sim.9944
 
 ---
 
