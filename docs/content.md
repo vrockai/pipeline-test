@@ -1,7 +1,8 @@
 ## Altered Gut Microbiota and Short-chain Fatty Acids in Chinese Children with Constipated Autism Spectrum Disorder.
- 05.11.2023, _J He, X Gong, B Hu, L Lin, X Lin, W Gong, B Zhang, M Cao, Y Xu, R Xia, G Zheng, S Wu, Y Zhang_
+ 06.11.2023, _J He, X Gong, B Hu, L Lin, X Lin, W Gong, B Zhang, M Cao, Y Xu, R Xia, G Zheng, S Wu, Y Zhang_
 
 
+_Humans, Child, Gastrointestinal Microbiome, Autism Spectrum Disorder, Propionates, RNA, Ribosomal, 16S, East Asian People, Constipation, Fatty Acids, Volatile, Lactobacillales, Veillonellaceae_
 Gastrointestinal symptoms are more prevalent in children with autism spectrum disorder (ASD) than in typically developing (TD) children. Constipation is a significant gastrointestinal comorbidity of ASD, but the associations among constipated autism spectrum disorder (C-ASD), microbiota and short-chain fatty acids (SCFAs) are still debated. We enrolled 80 children, divided into the C-ASD group (n = 40) and the TD group (n = 40). In this study, an integrated 16S rRNA gene sequencing and gas chromatography-mass spectrometry-based metabolomics approach was applied to explore the association of the gut microbiota and SCFAs in C-ASD children in China. The community diversity estimated by the Observe, Chao1, and ACE indices was significantly lower in the C-ASD group than in the TD group. We observed that Ruminococcaceae_UCG_002, Erysipelotrichaceae_UCG_003, Phascolarctobacterium, Megamonas, Ruminiclostridium_5, Parabacteroides, Prevotella_2, Fusobacterium, and Prevotella_9 were enriched in the C-ASD group, and Anaerostipes, Lactobacillus, Ruminococcus_gnavus_group, Lachnospiraceae_NK4A136_group, Ralstonia, Eubacterium_eligens_group, and Ruminococcus_1 were enriched in the TD group. The propionate levels, which were higher in the C-ASD group, were negatively correlated with the abundance of Lactobacillus taxa, but were positively correlated with the severity of ASD symptoms. The random forest model, based on the 16 representative discriminant genera, achieved a high accuracy (AUC = 0.924). In conclusion, we found that C-ASD is related to altered gut microbiota and SCFAs, especially decreased abundance of Lactobacillus and excessive propionate in faeces, which provide new clues to understand C-ASD and biomarkers for the diagnosis and potential strategies for treatment of the disorder. This study was registered in the Chinese Clinical Trial Registry ( www.chictr.org.cn ; trial registration number ChiCTR2100052106; date of registration: October 17, 2021).
 
 [Source](https://doi.org/10.1038/s41598-023-46566-2)
@@ -29,9 +30,10 @@ Necrotizing enterocolitis (NEC) is a challenging gastrointestinal disease that d
 ---
 
 ## Gut microbiota composition and diversity before, during, and two months after rifamycin-based tuberculosis preventive therapy.
- 05.11.2023, _MN Séraphin, J Bellot, E Klann, M Ukhanova, FG Saulsberry, CA Peloquin, V Mai_
+ 06.11.2023, _MN Séraphin, J Bellot, E Klann, M Ukhanova, FG Saulsberry, CA Peloquin, V Mai_
 
 
+_Humans, Gastrointestinal Microbiome, Dysbiosis, RNA, Ribosomal, 16S, Rifamycins, Latent Tuberculosis_
 Tuberculosis (TB) preventive therapy (TPT) is an effective strategy to eliminate TB in low-incidence settings. Shorter TPT regimens incorporating the antimicrobial class of rifamycins are designed to improve adherence and completion rates but carry the risk of modifications to the gut microbiota. We enrolled six subjects diagnosed with latent TB infection (LTBI) who accepted to initiate TPT. We also enrolled six healthy volunteers unexposed to the rifamycins. We profiled the gut microbiota using 16S rRNA amplicon sequencing (V1-V2 region) to document the immediate effect of rifamycin-based TPT on the gut microbiota composition and tracked recovery to baseline two months after TPT. Overall, TPT accounted for 17% of the variance in gut microbial community dissimilarity. This rifamycin-based TPT induced dysbiosis was characterized by a depletion of butyrate-producing taxa (Clostridium-XIVa and Roseburia) and expansion of potentially pathogenic taxa within the Firmicutes and Proteobacteria phyla. Recovery of the gut microbial composition was incomplete two months after TPT. Robust clinical studies are necessary to comprehensively catalogue TPT-induced gut microbiota dysbiosis to inform strategies to mitigate potential long-term sequelae of this important TB control intervention.
 
 [Source](https://doi.org/10.1038/s41598-023-44854-5)
@@ -108,9 +110,10 @@ The purpose of this study was to identify microorganisms isolated from various p
 ---
 
 ## Smoking and salivary microbiota: a cross-sectional analysis of an Italian alpine population.
- 05.11.2023, _G Antonello, F Blostein, D Bhaumik, E Davis, M Gögele, R Melotti, P Pramstaller, C Pattaro, N Segata, B Foxman, C Fuchsberger_
+ 06.11.2023, _G Antonello, F Blostein, D Bhaumik, E Davis, M Gögele, R Melotti, P Pramstaller, C Pattaro, N Segata, B Foxman, C Fuchsberger_
 
 
+_Humans, Cross-Sectional Studies, Nitrates, Cigarette Smoking, Microbiota, Smokers, RNA, Ribosomal, 16S_
 The oral microbiota plays an important role in the exogenous nitrate reduction pathway and is associated with heart and periodontal disease and cigarette smoking. We describe smoking-related changes in oral microbiota composition and resulting potential metabolic pathway changes that may explain smoking-related changes in disease risk. We analyzed health information and salivary microbiota composition among 1601 Cooperative Health Research in South Tyrol participants collected 2017-2018. Salivary microbiota taxa were assigned from amplicon sequences of the 16S-V4 rRNA and used to describe microbiota composition and predict metabolic pathways. Aerobic taxa relative abundance decreased with daily smoking intensity and increased with years since cessation, as did inferred nitrate reduction. Former smokers tended to be more similar to Never smokers than to Current smokers, especially those who had quit for longer than 5 years. Cigarette smoking has a consistent, generalizable association on oral microbiota composition and predicted metabolic pathways, some of which associate in a dose-dependent fashion. Smokers who quit for longer than 5 years tend to have salivary microbiota profiles comparable to never smokers.
 
 [Source](https://doi.org/10.1038/s41598-023-42474-7)
@@ -139,9 +142,10 @@ Face masks have become a common sight during the Coronavirus Disease 2019 (COVID
 ---
 
 ## A gut microbial metabolite of linoleic acid ameliorates liver fibrosis by inhibiting TGF-β signaling in hepatic stellate cells.
- 04.11.2023, _N Kasahara, Y Imi, R Amano, M Shinohara, K Okada, Y Hosokawa, M Imamori, C Tomimoto, J Kunisawa, S Kishino, J Ogawa, W Ogawa, T Hosooka_
+ 06.11.2023, _N Kasahara, Y Imi, R Amano, M Shinohara, K Okada, Y Hosokawa, M Imamori, C Tomimoto, J Kunisawa, S Kishino, J Ogawa, W Ogawa, T Hosooka_
 
 
+_Mice, Humans, Animals, Non-alcoholic Fatty Liver Disease, Pioglitazone, Linoleic Acid, Hepatic Stellate Cells, Gastrointestinal Microbiome, Mice, Inbred C57BL, Liver, Liver Cirrhosis, Fibrosis, Diet, High-Fat, Transforming Growth Factor beta_
 The antidiabetic drug pioglitazone ameliorates insulin resistance by activating the transcription factor PPARγ. In addition to its blood glucose-lowering action, pioglitazone exerts pleiotropic effects including amelioration of nonalcoholic fatty liver disease (NAFLD)/nonalcoholic steatohepatitis (NASH). The mechanism by which pioglitazone achieves this latter effect has remained unclear, however. We here show that pioglitazone administration increases the amount of linoleic acid (LA) metabolites in adipose tissue of KK-Ay mice. These metabolites are produced by lactic acid bacteria in the gut, and pioglitazone also increased the fraction of Lactobacillus in the gut microbiota. Administration of the LA metabolite HYA (10-hydroxy-cis-12-octadecenoic acid) to C57BL/6 J mice fed a high-fat diet improved liver histology including steatosis, inflammatory cell infiltration, and fibrosis. Gene ontology analysis of RNA-sequencing data for the liver revealed that the top category for genes downregulated by HYA treatment was related to extracellular matrix, and the expression of individual genes related to fibrosis was confirmed to be attenuated by HYA treatment. Mechanistically, HYA suppressed TGF-β-induced Smad3 phosphorylation and fibrosis-related gene expression in human hepatic stellate cells (LX-2). Our results implicate LA metabolites in the mechanism by which pioglitazone ameliorates liver fibrosis, and they suggest that HYA is a potential therapeutic for NAFLD/NASH.
 
 [Source](https://doi.org/10.1038/s41598-023-46404-5)
@@ -164,9 +168,10 @@ Multidrug-resistant organism (MDRO) colonization is a fundamental challenge in a
 ---
 
 ## Revealing the developmental characterization of rumen microbiome and its host in newly received cattle during receiving period contributes to formulating precise nutritional strategies.
- 04.11.2023, _Y Li, K Mao, Y Zang, G Lu, Q Qiu, K Ouyang, X Zhao, X Song, L Xu, H Liang, M Qu_
+ 06.11.2023, _Y Li, K Mao, Y Zang, G Lu, Q Qiu, K Ouyang, X Zhao, X Song, L Xu, H Liang, M Qu_
 
 
+_Cattle, Animals, Diet, Rumen, Microbiota, Bacteria, Archaea, Inflammation, Methane, Ornithine, Polyamines, Animal Feed, Fermentation_
 Minimizing mortality losses due to multiple stress and obtaining maximum performance are the production goals for newly received cattle. In recent years, vaccination and metaphylaxis treatment significantly decreased the mortality rate of newly received cattle, while the growth block induced by treatment is still obvious. Assessment of blood metabolites and behavior monitoring offer potential for early identification of morbid animals. Moreover, the ruminal microorganisms' homeostasis is a guarantee of beef steers' growth and health. The most critical period for newly received cattle is the first-month post-transport. Therefore, analyzing rumen metagenomics, rumen metabolomics, host metabolomics, and their interaction during receiving period (1 day before transport and at days 1/4, 16, and 30 after transport) is key to revealing the mechanism of growth retardation, and then to formulating management and nutritional practices for newly received cattle.
 
 [Source](https://doi.org/10.1186/s40168-023-01682-z)
@@ -262,9 +267,10 @@ As drinking water travels from its source, through various treatment processes, 
 ---
 
 ## Food4healthKG: Knowledge graphs for food recommendations based on gut microbiota and mental health.
- 04.11.2023, _C Fu, Z Huang, F van Harmelen, T He, X Jiang_
+ 06.11.2023, _C Fu, Z Huang, F van Harmelen, T He, X Jiang_
 
 
+_Humans, Gastrointestinal Microbiome, Mental Health, Pattern Recognition, Automated, Mental Disorders_
 Food is increasingly acknowledged as a powerful means to promote and maintain mental health. The introduction of the gut-brain axis has been instrumental in understanding the impact of food on mental health. It is widely reported that food can significantly influence gut microbiota metabolism, thereby playing a pivotal role in maintaining mental health. However, the vast amount of heterogeneous data published in recent research lacks systematic integration and application development. To remedy this, we construct a comprehensive knowledge graph, named Food4healthKG, focusing on food, gut microbiota, and mental diseases. The constructed workflow includes the integration of numerous heterogeneous data, entity linking to a normalized format, and the well-designed representation of the acquired knowledge. To illustrate the availability of Food4healthKG, we design two case studies: the knowledge query and the food recommendation based on Food4healthKG. Furthermore, we propose two evaluation methods to validate the quality of the results obtained from Food4healthKG. The results demonstrate the system's effectiveness in practical applications, particularly in providing convincing food recommendations based on gut microbiota and mental health. Food4healthKG is accessible at https://github.com/ccszbd/Food4healthKG.
 
 [Source](https://doi.org/10.1016/j.artmed.2023.102677)
