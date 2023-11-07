@@ -1,5 +1,5 @@
 ## Altered Gut Microbiota and Short-chain Fatty Acids in Chinese Children with Constipated Autism Spectrum Disorder.
- 06.11.2023, _J He, X Gong, B Hu, L Lin, X Lin, W Gong, B Zhang, M Cao, Y Xu, R Xia, G Zheng, S Wu, Y Zhang_
+ 07.11.2023, _J He, X Gong, B Hu, L Lin, X Lin, W Gong, B Zhang, M Cao, Y Xu, R Xia, G Zheng, S Wu, Y Zhang_
 
 
 _Child, Humans, Autism Spectrum Disorder, Constipation, East Asian People, Fatty Acids, Volatile, Gastrointestinal Microbiome, Lactobacillales, Propionates, RNA, Ribosomal, 16S, Veillonellaceae_
@@ -61,7 +61,7 @@ Genome-wide association studies (GWASs) have provided numerous associations betw
 ---
 
 ## Fecal short-chain fatty acids in non-constipated irritable bowel syndrome: a potential clinically relevant stratification factor based on catabotyping analysis.
- 03.11.2023, _G Gargari, G Mantegazza, V Taverniti, C Gardana, A Valenza, F Rossignoli, MR Barbaro, G Marasco, C Cremon, G Barbara, S Guglielmetti_
+ 07.11.2023, _G Gargari, G Mantegazza, V Taverniti, C Gardana, A Valenza, F Rossignoli, MR Barbaro, G Marasco, C Cremon, G Barbara, S Guglielmetti_
 
 
 _Humans, Irritable Bowel Syndrome, Diarrhea, RNA, Ribosomal, 16S, Chromatography, Liquid, Gastrointestinal Microbiome, Tandem Mass Spectrometry, Fatty Acids, Volatile, Feces_
@@ -168,7 +168,7 @@ Multidrug-resistant organism (MDRO) colonization is a fundamental challenge in a
 ---
 
 ## Revealing the developmental characterization of rumen microbiome and its host in newly received cattle during receiving period contributes to formulating precise nutritional strategies.
- 06.11.2023, _Y Li, K Mao, Y Zang, G Lu, Q Qiu, K Ouyang, X Zhao, X Song, L Xu, H Liang, M Qu_
+ 07.11.2023, _Y Li, K Mao, Y Zang, G Lu, Q Qiu, K Ouyang, X Zhao, X Song, L Xu, H Liang, M Qu_
 
 
 _Cattle, Animals, Diet, Rumen, Microbiota, Bacteria, Archaea, Inflammation, Methane, Ornithine, Polyamines, Animal Feed, Fermentation_
@@ -205,7 +205,7 @@ Members of the Enterobacteriaceae and Enterococcus are associated with persisten
 ---
 
 ## Estradiol mediates colonic epithelial protection in aged mice after stroke and is associated with shifts in the gut microbiome.
- 03.11.2023, _J Lee, P Peesh, V Quaicoe, C Tan, A Banerjee, P Mooz, BP Ganesh, J Petrosino, RM Bryan, LD McCullough, VR Venna_
+ 07.11.2023, _J Lee, P Peesh, V Quaicoe, C Tan, A Banerjee, P Mooz, BP Ganesh, J Petrosino, RM Bryan, LD McCullough, VR Venna_
 
 
 _Mice, Female, Male, Animals, Gastrointestinal Microbiome, Intestinal Mucosa, Estradiol, RNA, Ribosomal, 16S, Mucins, Brain Injuries_
