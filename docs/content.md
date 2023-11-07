@@ -123,7 +123,7 @@ The oral microbiota plays an important role in the exogenous nitrate reduction p
 ---
 
 ## Prolonged mask wearing changed nasal microbial characterization of young adults during the COVID-19 pandemic in Shanghai, China.
- 02.11.2023, _G Xiang, K Xu, Y Jian, L He, Z Shen, M Li, Q Liu_
+ 06.11.2023, _G Xiang, K Xu, Y Jian, L He, Z Shen, M Li, Q Liu_
 
 
 _Humans, Young Adult, COVID-19, Pandemics, China, Nose, Nasal Cavity_
