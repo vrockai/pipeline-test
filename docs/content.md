@@ -110,7 +110,7 @@ The purpose of this study was to identify microorganisms isolated from various p
 ---
 
 ## Smoking and salivary microbiota: a cross-sectional analysis of an Italian alpine population.
- 06.11.2023, _G Antonello, F Blostein, D Bhaumik, E Davis, M Gögele, R Melotti, P Pramstaller, C Pattaro, N Segata, B Foxman, C Fuchsberger_
+ 08.11.2023, _G Antonello, F Blostein, D Bhaumik, E Davis, M Gögele, R Melotti, P Pramstaller, C Pattaro, N Segata, B Foxman, C Fuchsberger_
 
 
 _Humans, Cross-Sectional Studies, Nitrates, Cigarette Smoking, Microbiota, Smokers, RNA, Ribosomal, 16S_
