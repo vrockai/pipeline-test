@@ -60,16 +60,9 @@ Genome-wide association studies (GWASs) have provided numerous associations betw
 
 ---
 
-## Fecal short-chain fatty acids in non-constipated irritable bowel syndrome: a potential clinically relevant stratification factor based on catabotyping analysis.
- 07.11.2023, _G Gargari, G Mantegazza, V Taverniti, C Gardana, A Valenza, F Rossignoli, MR Barbaro, G Marasco, C Cremon, G Barbara, S Guglielmetti_
-
-
-_Humans, Irritable Bowel Syndrome, Diarrhea, RNA, Ribosomal, 16S, Chromatography, Liquid, Gastrointestinal Microbiome, Tandem Mass Spectrometry, Fatty Acids, Volatile, Feces_
-The gut microbiota is believed to be a critical factor in the pathogenesis of IBS, and its metabolic byproducts, such as short-chain fatty acids (SCFAs), are known to influence gut function and host health. Despite this, the precise role of SCFAs in IBS remains a topic of debate. In this study, we examined the bacterial community structure by 16S rRNA gene profiling and SCFA levels by UPLC-MS/MS in fecal samples from healthy controls (HC; n = 100) and non-constipated patients (IBS-D and IBS-M; NC-IBS; n = 240) enrolled in 19 hospitals in Italy. Our findings suggest a significant difference between the fecal microbiomes of NC-IBS patients and HC subjects, with HC exhibiting higher intra-sample biodiversity. Furthermore, we were able to classify non-constipated patients into two distinct subgroups based on their fecal SCFA levels (fecal catabotype "high" and "low"), each characterized by unique taxonomic bacterial signatures. Our results suggest that the fecal catabotype with higher SCFA levels may represent a distinct clinical phenotype of IBS that could have implications for its diagnosis and treatment. This study provides a new perspective on the intricate relationship between the gut microbiome and bowel symptoms in IBS, underscoring the importance of personalized strategies for its management.
+## Fecal short-chain fatty acids in non-constipated irritable bowel syndrome: a potential clinically relevant stratification factor based on catabotyping analysis
 
 [Source](https://doi.org/10.1080/19490976.2023.2274128)
-
-10.1080/19490976.2023.2274128
 
 ---
 
