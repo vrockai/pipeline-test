@@ -1,5 +1,5 @@
 ## Altered Gut Microbiota and Short-chain Fatty Acids in Chinese Children with Constipated Autism Spectrum Disorder.
- 07.11.2023, _J He, X Gong, B Hu, L Lin, X Lin, W Gong, B Zhang, M Cao, Y Xu, R Xia, G Zheng, S Wu, Y Zhang_
+ 08.11.2023, _J He, X Gong, B Hu, L Lin, X Lin, W Gong, B Zhang, M Cao, Y Xu, R Xia, G Zheng, S Wu, Y Zhang_
 
 
 _Child, Humans, Autism Spectrum Disorder, Constipation, East Asian People, Fatty Acids, Volatile, Gastrointestinal Microbiome, Lactobacillales, Propionates, RNA, Ribosomal, 16S, Veillonellaceae_
@@ -30,7 +30,7 @@ Necrotizing enterocolitis (NEC) is a challenging gastrointestinal disease that d
 ---
 
 ## Gut microbiota composition and diversity before, during, and two months after rifamycin-based tuberculosis preventive therapy.
- 06.11.2023, _MN Séraphin, J Bellot, E Klann, M Ukhanova, FG Saulsberry, CA Peloquin, V Mai_
+ 08.11.2023, _MN Séraphin, J Bellot, E Klann, M Ukhanova, FG Saulsberry, CA Peloquin, V Mai_
 
 
 _Humans, Gastrointestinal Microbiome, Dysbiosis, RNA, Ribosomal, 16S, Rifamycins, Latent Tuberculosis_
@@ -142,7 +142,7 @@ Face masks have become a common sight during the Coronavirus Disease 2019 (COVID
 ---
 
 ## A gut microbial metabolite of linoleic acid ameliorates liver fibrosis by inhibiting TGF-β signaling in hepatic stellate cells.
- 06.11.2023, _N Kasahara, Y Imi, R Amano, M Shinohara, K Okada, Y Hosokawa, M Imamori, C Tomimoto, J Kunisawa, S Kishino, J Ogawa, W Ogawa, T Hosooka_
+ 08.11.2023, _N Kasahara, Y Imi, R Amano, M Shinohara, K Okada, Y Hosokawa, M Imamori, C Tomimoto, J Kunisawa, S Kishino, J Ogawa, W Ogawa, T Hosooka_
 
 
 _Mice, Humans, Animals, Non-alcoholic Fatty Liver Disease, Pioglitazone, Linoleic Acid, Hepatic Stellate Cells, Gastrointestinal Microbiome, Mice, Inbred C57BL, Liver, Liver Cirrhosis, Fibrosis, Diet, High-Fat, Transforming Growth Factor beta_
