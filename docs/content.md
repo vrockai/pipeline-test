@@ -11,18 +11,6 @@ Gastrointestinal symptoms are more prevalent in children with autism spectrum di
 
 ---
 
-## Clostridium butyricum and Clostridium tyrobutyricum: angel or devil for necrotizing enterocolitis?
- 03.11.2023, _R Tao, G Zong, Y Pan, H Li, P Cheng, R Deng, W Chen, A Wang, S Xia, W Tang, Y Lu, Z Wei_
-
-
-Necrotizing enterocolitis (NEC) is a challenging gastrointestinal disease that disproportionately affects premature neonates, with high incidence and case-fatality rates. Despite extensive research efforts, the pathogenesis and mechanisms of NEC remain unclear, making it difficult to effectively eradicate. However, it has been established that dysbiosis of gut microbes occurs before the onset of NEC, providing compelling evidence for the potential use of probiotic therapy. As such, we have focused our attention on two probiotics in particular: Clostridium butyricum and Clostridium tyrobutyricum, especially in light of recent breakthroughs that have linked several Clostridia species with NEC. To determine whether C. butyricum and C. tyrobutyricum are pathogenic or probiotic, we conducted a comparison of the phenotypic traits of NEC mice treated with each bacterium. Our results confirm that treatment with C. tyrobutyricum restores intestinal barrier integrity and alleviates inflammatory immune responses associated with NEC. In contrast, treatment with C. butyricum exacerbates intestinal barrier damage and promotes immune disorder, including increased numbers of macrophages, monocytes, and neutrophils in the intestinal lamina propria. Further analysis of the gut microbiome suggests that the positive effects of C. tyrobutyricum treatment are associated with an increase in Akkermansia muciniphila, while C. butyricum treatment decreases the level of A. muciniphila, which accounts for its negative effect on NEC. This study sheds light on the fact that treatment with C. tyrobutyricum, but not C. butyricum, has the potential to protect against NEC development. The opposite effects of these two probiotics on NEC may result from their different modulation of the level of A. muciniphila, a gut microbe that is closely associated with intestinal homeostasis. In summary, by improving the abundance of A. muciniphila to alleviate intestinal inflammation and enhance intestinal barrier integrity, supplementation with C. tyrobutyricum may become a promising therapy for NEC.IMPORTANCEThis study sheds light on that treatment with Clostridium tyrobutyricum but not Clostridium butyricum is entitled to protect against necrotizing enterocolitis (NEC) development potentially. The mechanisms behind the opposite effect on NEC may result in different modulation on the level of Akkermansia muciniphila, which is deeply associated with intestinal homoeostasis. Briefly, through improving the abundance of A. muciniphila to alleviate intestinal inflammation and enhance intestinal barrier integrity, C. tyrobutyricum supplement may become a promising therapy for NEC.
-
-[Source](https://doi.org/10.1128/msystems.00732-23)
-
-10.1128/msystems.00732-23
-
----
-
 ## <em>Clostridium butyricum</em> and <em>Clostridium tyrobutyricum</em>: angel or devil for necrotizing enterocolitis?
 
 [Source](https://doi.org/10.1128/msystems.00732-23)
@@ -60,9 +48,16 @@ Genome-wide association studies (GWASs) have provided numerous associations betw
 
 ---
 
-## Fecal short-chain fatty acids in non-constipated irritable bowel syndrome: a potential clinically relevant stratification factor based on catabotyping analysis
+## Fecal short-chain fatty acids in non-constipated irritable bowel syndrome: a potential clinically relevant stratification factor based on catabotyping analysis.
+ 07.11.2023, _G Gargari, G Mantegazza, V Taverniti, C Gardana, A Valenza, F Rossignoli, MR Barbaro, G Marasco, C Cremon, G Barbara, S Guglielmetti_
+
+
+_Humans, Irritable Bowel Syndrome, Diarrhea, RNA, Ribosomal, 16S, Chromatography, Liquid, Gastrointestinal Microbiome, Tandem Mass Spectrometry, Fatty Acids, Volatile, Feces_
+The gut microbiota is believed to be a critical factor in the pathogenesis of IBS, and its metabolic byproducts, such as short-chain fatty acids (SCFAs), are known to influence gut function and host health. Despite this, the precise role of SCFAs in IBS remains a topic of debate. In this study, we examined the bacterial community structure by 16S rRNA gene profiling and SCFA levels by UPLC-MS/MS in fecal samples from healthy controls (HC; n = 100) and non-constipated patients (IBS-D and IBS-M; NC-IBS; n = 240) enrolled in 19 hospitals in Italy. Our findings suggest a significant difference between the fecal microbiomes of NC-IBS patients and HC subjects, with HC exhibiting higher intra-sample biodiversity. Furthermore, we were able to classify non-constipated patients into two distinct subgroups based on their fecal SCFA levels (fecal catabotype "high" and "low"), each characterized by unique taxonomic bacterial signatures. Our results suggest that the fecal catabotype with higher SCFA levels may represent a distinct clinical phenotype of IBS that could have implications for its diagnosis and treatment. This study provides a new perspective on the intricate relationship between the gut microbiome and bowel symptoms in IBS, underscoring the importance of personalized strategies for its management.
 
 [Source](https://doi.org/10.1080/19490976.2023.2274128)
+
+10.1080/19490976.2023.2274128
 
 ---
 
@@ -197,16 +192,9 @@ Members of the Enterobacteriaceae and Enterococcus are associated with persisten
 
 ---
 
-## Estradiol mediates colonic epithelial protection in aged mice after stroke and is associated with shifts in the gut microbiome.
- 07.11.2023, _J Lee, P Peesh, V Quaicoe, C Tan, A Banerjee, P Mooz, BP Ganesh, J Petrosino, RM Bryan, LD McCullough, VR Venna_
-
-
-_Mice, Female, Male, Animals, Gastrointestinal Microbiome, Intestinal Mucosa, Estradiol, RNA, Ribosomal, 16S, Mucins, Brain Injuries_
-The gut is a major source of bacteria and antigens that contribute to neuroinflammation after brain injury. Colonic epithelial cells (ECs) are responsible for secreting major cellular components of the innate defense system, including antimicrobial proteins (AMP) and mucins. These cells serve as a critical regulator of gut barrier function and maintain host-microbe homeostasis. In this study, we determined post-stroke host defense responses at the colonic epithelial surface in mice. We then tested if the enhancement of these epithelial protective mechanisms is beneficial in young and aged mice after stroke. AMPs were significantly increased in the colonic ECs of young males, but not in young females after experimental stroke. In contrast, mucin-related genes were enhanced in young females and contributed to mucus formation that maintains the distance between the host and gut bacteria. Bacterial community profiling was done using universal amplification of 16S rRNA gene sequences. The sex-specific colonic epithelial defense responses after stroke in young females were reversed with ovariectomy and led to a shift from a predominately mucin response to the enhanced AMP expression seen in males after stroke. Estradiol (E2) replacement prior to stroke in aged females increased mucin gene expression in the colonic ECs. Interestingly, we found that E2 treatment reduced stroke-associated neuronal hyperactivity in the insular cortex, a brain region that interacts with visceral organs such as the gut, in parallel to an increase in the composition of Lactobacillus and Bifidobacterium in the gut microbiota. This is the first study demonstrating sex differences in host defense mechanisms in the gut after brain injury.
+## Estradiol mediates colonic epithelial protection in aged mice after stroke and is associated with shifts in the gut microbiome
 
 [Source](https://doi.org/10.1080/19490976.2023.2271629)
-
-10.1080/19490976.2023.2271629
 
 ---
 
