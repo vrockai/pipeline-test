@@ -16,18 +16,6 @@
 
 ---
 
-## Operating room efficiency of orthopedic surgery during the COVID-19 era.
- 10.11.2023, _SW Koester, S Chenard, C Ani, JM Young, DC Liles, R Dambrino, V Tiwari, BF Stephens_
-
-
-The COVID-19 pandemic forced operating rooms (ORs) to adopt new safety protocols. Although these measures protected the health of patients and providers, their impact on OR efficiency remains unclear. Our objective was to further elucidate the effects of COVID-19 on orthopedic surgery OR efficiency.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1719311652875612671?ref_src=twsrc%5Etfw)
-
-10.37765/ajmc.2023.89460
-
----
-
 ## October 31, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1719311652875612671?ref_src=twsrc%5Etfw)
@@ -176,18 +164,6 @@ Postoperative visual outcome is a major concern of neurosurgeons for patients wi
 ## https://t.co/Zs4Y7ziPQH
 
 [Source](https://t.co/Zs4Y7ziPQH)
-
----
-
-## Operating room efficiency of orthopedic surgery during the COVID-19 era.
- 10.11.2023, _SW Koester, S Chenard, C Ani, JM Young, DC Liles, R Dambrino, V Tiwari, BF Stephens_
-
-
-The COVID-19 pandemic forced operating rooms (ORs) to adopt new safety protocols. Although these measures protected the health of patients and providers, their impact on OR efficiency remains unclear. Our objective was to further elucidate the effects of COVID-19 on orthopedic surgery OR efficiency.
-
-[Source](https://twitter.com/SondraTurjeman/status/1719239282747908560?ref_src=twsrc%5Etfw)
-
-10.37765/ajmc.2023.89460
 
 ---
 
