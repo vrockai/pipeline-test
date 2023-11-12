@@ -172,28 +172,9 @@
 
 ---
 
-## A high-throughput and low-waste viability assay for microbes.
- 03.11.2023, _CT Meyer, GK Lynch, DF Stamo, EJ Miller, A Chatterjee, JM Kralj_
-
-
-Counting viable cells is a universal practice in microbiology. The colony-forming unit (CFU) assay has remained the gold standard to measure viability across disciplines, but it is time-intensive and resource-consuming. Here we describe the geometric viability assay (GVA) that replicates CFU measurements over 6 orders of magnitude while reducing over 10-fold the time and consumables required. GVA computes a sample's viable cell count on the basis of the distribution of embedded colonies growing inside a pipette tip. GVA is compatible with Gram-positive and Gram-negative planktonic bacteria (Escherichia coli, Pseudomonas aeruginosa and Bacillus subtilis), biofilms and fungi (Saccharomyces cerevisiae). Laborious CFU experiments such as checkerboard assays, treatment time-courses and drug screens against slow-growing cells are simplified by GVA. The ease and low cost of GVA evinces that it can replace existing viability assays and enable viability measurements at previously impractical scales.
+## A high-throughput and low-waste viability assay for microbes
 
 [Source](https://www.nature.com/articles/s41564-023-01513-9)
-
-10.1038/s41564-023-01513-9
-
----
-
-## Comparison of gene clustering criteria reveals intrinsic uncertainty in pangenome analyses.
- 07.11.2023, _S Manzano-Morales, Y Liu, S González-Bodí, J Huerta-Cepas, J Iranzo_
-
-
-_Phylogeny, Reproducibility of Results, Uncertainty, Genome Size, Cluster Analysis_
-A key step for comparative genomics is to group open reading frames into functionally and evolutionarily meaningful gene clusters. Gene clustering is complicated by intraspecific duplications and horizontal gene transfers that are frequent in prokaryotes. In consequence, gene clustering methods must deal with a trade-off between identifying vertically transmitted representatives of multicopy gene families, which are recognizable by synteny conservation, and retrieving complete sets of species-level orthologs. We studied the implications of adopting homology, orthology, or synteny conservation as formal criteria for gene clustering by performing comparative analyses of 125 prokaryotic pangenomes.
-
-[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03089-3)
-
-10.1186/s13059-023-03089-3
 
 ---
 
@@ -203,34 +184,15 @@ A key step for comparative genomics is to group open reading frames into functio
 
 ---
 
-## ACR: metagenome-assembled prokaryotic and eukaryotic genome refinement tool.
- 02.11.2023, _HJ Seong, JJ Kim, WJ Sul_
-
-
-_Metagenome, Eukaryota, Microbiota, Algorithms, Metagenomics, Cluster Analysis_
-Microbial genome recovery from metagenomes can further explain microbial ecosystem structures, functions and dynamics. Thus, this study developed the Additional Clustering Refiner (ACR) to enhance high-purity prokaryotic and eukaryotic metagenome-assembled genome (MAGs) recovery. ACR refines low-quality MAGs by subjecting them to iterative k-means clustering predicated on contig abundance and increasing bin purity through validated universal marker genes. Synthetic and real-world metagenomic datasets, including short- and long-read sequences, evaluated ACR's effectiveness. The results demonstrated improved MAG purity and a significant increase in high- and medium-quality MAG recovery rates. In addition, ACR seamlessly integrates with various binning algorithms, augmenting their strengths without modifying core features. Furthermore, its multiple sequencing technology compatibilities expand its applicability. By efficiently recovering high-quality prokaryotic and eukaryotic genomes, ACR is a promising tool for deepening our understanding of microbial communities through genome-centric metagenomics.
+## ACR: metagenome-assembled prokaryotic and eukaryotic genome refinement tool
 
 [Source](https://academic.oup.com/bib/article-abstract/24/6/bbad381/7330501)
-
-10.1093/bib/bbad381
 
 ---
 
 ## https://t.co/RVEkkmv13G
 
 [Source](https://t.co/RVEkkmv13G)
-
----
-
-## Arthrogryposis multiplex congenita: dental and maxillofacial phenotype - A scoping review.
- 11.11.2023, _D Taqi, S Nematollahi, S Lemin, F Rauch, R Hamdy, N Dahan-Oliel_
-
-
-Arthrogryposis multiplex congenita (AMC) is a heterogeneous group of disorders associated with decreased fetal movement, with a prevalence between 1/3000 and 1/5200 live births. Typical features of AMC include multiple joint contractures present at birth, and can affect all joints of the body, from the jaw, and involving the upper limbs, lower limbs and spine. The jaws may be affected in 25 % of individuals with AMC, with limited jaw movement and mouth opening. Other oral and maxillofacial deformities may be present in AMC, including cleft palate, micrognathia, periodontitis and delayed teething. To our knowledge, oral and maxillofacial abnormalities have not been systematically assessed in individuals with AMC. Therefore, this scoping review was conducted to identify, collect, and describe a comprehensive map of the existing knowledge on dental and maxillofacial involvement in individuals with AMC.
-
-[Source](https://twitter.com/HoonJeSeong1/status/1719231372362215759?ref_src=twsrc%5Etfw)
-
-10.1016/j.bone.2023.116955
 
 ---
 
