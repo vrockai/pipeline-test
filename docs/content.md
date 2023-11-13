@@ -58,18 +58,6 @@
 
 ---
 
-## Outbreak of foodborne disease in a boarding school, Negeri Sembilan state, Malaysia, 2021.
- 13.11.2023, _NNA Bujang, MSA Wahil, SA Abas, KHAK Amin, NI Zulkifli, SM Shah, NF Aziz, SAA Kamarudin, V Ganesan, NA Zainuddin, MHM Hasani, NKM Ali, MP Yusof_
-
-
-Foodborne disease is a significant global public health concern, with Bacillus cereus being a frequent cause of outbreaks. However, due to the relatively mild symptoms caused by infection with B. cereus, the shorter duration of illness and the challenges of testing for it in both stool and food samples, outbreaks are often underreported. This report describes the epidemiology of cases of foodborne illness, the causative agent and risk factors associated with an outbreak in a boarding school in Seremban district, Negeri Sembilan state, Malaysia, that occurred in November 2021.
-
-[Source](https://twitter.com/JennyRohn/status/1722341766584549741?ref_src=twsrc%5Etfw)
-
-10.5365/wpsar.2023.1.4.3.1043
-
----
-
 ## November 8, 2023
 
 [Source](https://twitter.com/JennyRohn/status/1722341766584549741?ref_src=twsrc%5Etfw)
@@ -196,34 +184,15 @@ Foodborne disease is a significant global public health concern, with Bacillus c
 
 ---
 
-## ACR: metagenome-assembled prokaryotic and eukaryotic genome refinement tool.
- 02.11.2023, _HJ Seong, JJ Kim, WJ Sul_
-
-
-_Metagenome, Eukaryota, Microbiota, Algorithms, Metagenomics, Cluster Analysis_
-Microbial genome recovery from metagenomes can further explain microbial ecosystem structures, functions and dynamics. Thus, this study developed the Additional Clustering Refiner (ACR) to enhance high-purity prokaryotic and eukaryotic metagenome-assembled genome (MAGs) recovery. ACR refines low-quality MAGs by subjecting them to iterative k-means clustering predicated on contig abundance and increasing bin purity through validated universal marker genes. Synthetic and real-world metagenomic datasets, including short- and long-read sequences, evaluated ACR's effectiveness. The results demonstrated improved MAG purity and a significant increase in high- and medium-quality MAG recovery rates. In addition, ACR seamlessly integrates with various binning algorithms, augmenting their strengths without modifying core features. Furthermore, its multiple sequencing technology compatibilities expand its applicability. By efficiently recovering high-quality prokaryotic and eukaryotic genomes, ACR is a promising tool for deepening our understanding of microbial communities through genome-centric metagenomics.
+## ACR: metagenome-assembled prokaryotic and eukaryotic genome refinement tool
 
 [Source](https://academic.oup.com/bib/article-abstract/24/6/bbad381/7330501)
-
-10.1093/bib/bbad381
 
 ---
 
 ## https://t.co/RVEkkmv13G
 
 [Source](https://t.co/RVEkkmv13G)
-
----
-
-## Comparison of clinical outcomes in patients with acute ischemic stroke who underwent endovascular treatment using different perfusion modalities: a real-world multicenter study.
- 13.11.2023, _J Gao, Z Jing, S Huang, J Yang, M Guan, S Zhang, H Li, Y Li, K Lu, M Yang, L Huang_
-
-
-Advanced perfusion modalities are increasingly popular for various diseases. However, few studies have focused on contrasting perfusion patterns.
-
-[Source](https://twitter.com/HoonJeSeong1/status/1719231372362215759?ref_src=twsrc%5Etfw)
-
-10.3389/fneur.2023.1275715
 
 ---
 
