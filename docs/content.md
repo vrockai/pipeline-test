@@ -40,18 +40,6 @@
 
 ---
 
-## The risk factors, antimicrobial resistance patterns, and outcomes associated with extended-spectrum β-lactamases-Producing pathogens in pediatric urinary tract infection.
- 11.11.2023, _XT He, CN Chang, CH Yu, CC Wang_
-
-
-Extended-spectrum β-lactamases-producing Escherichia coli, Klebsiella pneumoniae, and Proteus mirabilis (ESBL-producing-EKP) are an increasingly common cause of childhood urinary tract infection (UTI) worldwide. Recognizing the risk factors and antimicrobial resistance patterns may guide new management in this population.
-
-[Source](https://twitter.com/hashtag/UTI?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.pedneo.2023.04.021
-
----
-
 ## #UTI
 
 [Source](https://twitter.com/hashtag/UTI?src=hash&ref_src=twsrc%5Etfw)
@@ -67,6 +55,18 @@ Extended-spectrum β-lactamases-producing Escherichia coli, Klebsiella pneumonia
 ## @GlobalUti
 
 [Source](https://twitter.com/GlobalUti?ref_src=twsrc%5Etfw)
+
+---
+
+## Outbreak of foodborne disease in a boarding school, Negeri Sembilan state, Malaysia, 2021.
+ 13.11.2023, _NNA Bujang, MSA Wahil, SA Abas, KHAK Amin, NI Zulkifli, SM Shah, NF Aziz, SAA Kamarudin, V Ganesan, NA Zainuddin, MHM Hasani, NKM Ali, MP Yusof_
+
+
+Foodborne disease is a significant global public health concern, with Bacillus cereus being a frequent cause of outbreaks. However, due to the relatively mild symptoms caused by infection with B. cereus, the shorter duration of illness and the challenges of testing for it in both stool and food samples, outbreaks are often underreported. This report describes the epidemiology of cases of foodborne illness, the causative agent and risk factors associated with an outbreak in a boarding school in Seremban district, Negeri Sembilan state, Malaysia, that occurred in November 2021.
+
+[Source](https://twitter.com/JennyRohn/status/1722341766584549741?ref_src=twsrc%5Etfw)
+
+10.5365/wpsar.2023.1.4.3.1043
 
 ---
 
@@ -103,18 +103,6 @@ Extended-spectrum β-lactamases-producing Escherichia coli, Klebsiella pneumonia
 ## https://t.co/s4Tqnp9Kvj
 
 [Source](https://t.co/s4Tqnp9Kvj)
-
----
-
-## Efficacy, safety, and pharmacokinetics of MR13A11A, a generic of remifentanil, for pain management of Japanese patients in the intensive care unit: a double-blinded, fentanyl-controlled, randomized, non-inferiority phase 3 study.
- 12.11.2023, _M Doi, N Takahashi, R Nojiri, T Hiraoka, Y Kishimoto, S Inoue, N Oya_
-
-
-The aims of this study were to evaluate the efficacy, safety, and pharmacokinetics (PK) of continuous intravenous administration of remifentanil in mechanically ventilated patients in the intensive care unit (ICU).
-
-[Source](https://twitter.com/HaiderSManzer/status/1719688498884604319?ref_src=twsrc%5Etfw)
-
-10.1186/s40560-023-00698-9
 
 ---
 
@@ -160,16 +148,9 @@ The aims of this study were to evaluate the efficacy, safety, and pharmacokineti
 
 ---
 
-## Pet cats may shape the antibiotic resistome of their owner's gut and living environment.
- 30.10.2023, _Y Yang, X Hu, S Cai, N Hu, Y Yuan, Y Wu, Y Wang, J Mi, X Liao_
-
-
-_Animals, Humans, Cats, Anti-Bacterial Agents, Genes, Bacterial, Aminoglycosides, Tetracycline, Enterobacteriaceae_
-Companion animals can contribute to the physical and mental health of people and often live in very close association with their owners. However, the antibiotic resistome carried by companion animals and the impact they have on their owners and living environment remain unclear. In this study, we compared the ARG profiles of cats, humans, and their living environments using metagenomic analysis to identify the core ARGs in the cat and human gut and explore the potential impact of cats on ARGs in the human gut through the environment.
+## Pet cats may shape the antibiotic resistome of their owner’s gut and living environment
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01679-8)
-
-10.1186/s40168-023-01679-8
 
 ---
 
@@ -215,15 +196,34 @@ Companion animals can contribute to the physical and mental health of people and
 
 ---
 
-## ACR: metagenome-assembled prokaryotic and eukaryotic genome refinement tool
+## ACR: metagenome-assembled prokaryotic and eukaryotic genome refinement tool.
+ 02.11.2023, _HJ Seong, JJ Kim, WJ Sul_
+
+
+_Metagenome, Eukaryota, Microbiota, Algorithms, Metagenomics, Cluster Analysis_
+Microbial genome recovery from metagenomes can further explain microbial ecosystem structures, functions and dynamics. Thus, this study developed the Additional Clustering Refiner (ACR) to enhance high-purity prokaryotic and eukaryotic metagenome-assembled genome (MAGs) recovery. ACR refines low-quality MAGs by subjecting them to iterative k-means clustering predicated on contig abundance and increasing bin purity through validated universal marker genes. Synthetic and real-world metagenomic datasets, including short- and long-read sequences, evaluated ACR's effectiveness. The results demonstrated improved MAG purity and a significant increase in high- and medium-quality MAG recovery rates. In addition, ACR seamlessly integrates with various binning algorithms, augmenting their strengths without modifying core features. Furthermore, its multiple sequencing technology compatibilities expand its applicability. By efficiently recovering high-quality prokaryotic and eukaryotic genomes, ACR is a promising tool for deepening our understanding of microbial communities through genome-centric metagenomics.
 
 [Source](https://academic.oup.com/bib/article-abstract/24/6/bbad381/7330501)
+
+10.1093/bib/bbad381
 
 ---
 
 ## https://t.co/RVEkkmv13G
 
 [Source](https://t.co/RVEkkmv13G)
+
+---
+
+## Comparison of clinical outcomes in patients with acute ischemic stroke who underwent endovascular treatment using different perfusion modalities: a real-world multicenter study.
+ 13.11.2023, _J Gao, Z Jing, S Huang, J Yang, M Guan, S Zhang, H Li, Y Li, K Lu, M Yang, L Huang_
+
+
+Advanced perfusion modalities are increasingly popular for various diseases. However, few studies have focused on contrasting perfusion patterns.
+
+[Source](https://twitter.com/HoonJeSeong1/status/1719231372362215759?ref_src=twsrc%5Etfw)
+
+10.3389/fneur.2023.1275715
 
 ---
 
