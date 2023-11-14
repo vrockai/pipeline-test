@@ -22,9 +22,16 @@
 
 ---
 
-## A human urothelial microtissue model reveals shared colonization and survival strategies between uropathogens and commensals
+## A human urothelial microtissue model reveals shared colonization and survival strategies between uropathogens and commensals.
+ 10.11.2023, _C Flores, J Ling, A Loh, RG Maset, A Aw, IJ White, R Fernando, JL Rohn_
+
+
+_Animals, Humans, Escherichia coli, Fimbriae Proteins, Adhesins, Escherichia coli, Urinary Tract Infections, Escherichia coli Infections_
+Urinary tract infection is among the most common infections worldwide, typically studied in animals and cell lines with limited uropathogenic strains. Here, we assessed diverse bacterial species in a human urothelial microtissue model exhibiting full stratification, differentiation, innate epithelial responses, and urine tolerance. Several uropathogens invaded intracellularly, but also commensal Escherichia coli, suggesting that invasion is a shared survival strategy, not solely a virulence hallmark. The E. coli adhesin FimH was required for intracellular bacterial community formation, but not for invasion. Other shared lifestyles included filamentation (Gram-negatives), chaining (Gram-positives), and hijacking of exfoliating cells, while biofilm-like aggregates were formed mainly with Pseudomonas and Proteus. Urothelial cells expelled invasive bacteria in Rab-/LC3-decorated structures, while highly cytotoxic/invasive uropathogens, but not commensals, disrupted host barrier function and strongly induced exfoliation and cytokine production. Overall, this work highlights diverse species-/strain-specific infection strategies and corresponding host responses in a human urothelial microenvironment, providing insights at the microtissue, cell, and molecular level.
 
 [Source](https://www.science.org/doi/full/10.1126/sciadv.adi9834)
+
+10.1126/sciadv.adi9834
 
 ---
 
@@ -37,6 +44,18 @@
 ## @CarlosEBFlores
 
 [Source](https://twitter.com/CarlosEBFlores?ref_src=twsrc%5Etfw)
+
+---
+
+## Antibiotic utilization and symptom improvement in a retrospective cohort of women with urinary tract infection symptoms.
+ 14.11.2023, _AI Melnyk, N Meckes, HM Zyczynski, PJ Grosse, M Guirguis, MS Bradley_
+
+
+Urinary tract infections (UTIs) are one of the most common bacterial infections in women. We hypothesized that over half of those treated empirically would receive inappropriate antibiotics, those treated expectantly would have lower symptom improvement without antibiotics, and that overall progression to sequelae would be uncommon.
+
+[Source](https://twitter.com/hashtag/UTI?src=hash&ref_src=twsrc%5Etfw)
+
+10.1007/s00192-023-05676-1
 
 ---
 
@@ -58,15 +77,15 @@
 
 ---
 
-## Low booster uptake in cancer patients despite health benefits.
- 14.11.2023, _JC Figueiredo, J Levy, SY Choi, AM Xu, NM Merin, O Hamid, T Lemos, N Nguyen, M Nadri, A Gonzalez, S Mahov, JM Darrah, J Gong, RL Paquette, AC Mita, RA Vescio, SJ Salvy, I Mehmi, AE Hendifar, R Natale, WG Tourtellotte, V Krishnan Ramanujan, CA Huynh, K Sobhani, KL Reckamp, AA Merchant_
+## Trial of the Pluslife SARS-CoV-2 Nucleic Acid Rapid Test Kit: Prospective Cohort Study.
+ 14.11.2023, _D Zhu, J Huang, B Hu, D Cao, D Chen, X Song, J Chen, H Zhou, A Cen, T Hou_
 
 
-Patients with cancer are at increased risk of death from COVID-19 and have reduced immune responses to SARS-CoV2 vaccines, necessitating regular boosters. We performed comprehensive chart reviews, surveys of patients attitudes, serology for SARS-CoV-2 antibodies and T-cell receptor (TCR) β sequencing for cellular responses on a cohort of 982 cancer patients receiving active cancer therapy accrued between November-3-2020 and Mar-31-2023. We found that 92·3% of patients received the primer vaccine, 70·8% received one monovalent booster, but only 30·1% received a bivalent booster. Booster uptake was lower under age 50, and among African American or Hispanic patients. Nearly all patients seroconverted after 2+ booster vaccinations (&gt;99%) and improved cellular responses, demonstrating that repeated boosters could overcome poor response to vaccination. Receipt of booster vaccinations was associated with a lower risk of all-cause mortality (HR=0·61, P=0·024). Booster uptake in high-risk cancer patients remains low and strategies to encourage booster uptake are needed.
+In response to the SARS-CoV-2 epidemic, a convenient, rapid, and sensitive diagnostic method for detecting COVID-19 is crucial for patient control and timely treatment.
 
 [Source](https://twitter.com/JennyRohn/status/1722341766584549741?ref_src=twsrc%5Etfw)
 
-10.1101/2023.10.25.23297483
+10.2196/48107
 
 ---
 
@@ -106,6 +125,18 @@ Patients with cancer are at increased risk of death from COVID-19 and have reduc
 
 ---
 
+## Trial of the Pluslife SARS-CoV-2 Nucleic Acid Rapid Test Kit: Prospective Cohort Study.
+ 14.11.2023, _D Zhu, J Huang, B Hu, D Cao, D Chen, X Song, J Chen, H Zhou, A Cen, T Hou_
+
+
+In response to the SARS-CoV-2 epidemic, a convenient, rapid, and sensitive diagnostic method for detecting COVID-19 is crucial for patient control and timely treatment.
+
+[Source](https://twitter.com/HaiderSManzer/status/1719688498884604319?ref_src=twsrc%5Etfw)
+
+10.2196/48107
+
+---
+
 ## November 1, 2023
 
 [Source](https://twitter.com/HaiderSManzer/status/1719688498884604319?ref_src=twsrc%5Etfw)
@@ -136,15 +167,33 @@ Patients with cancer are at increased risk of death from COVID-19 and have reduc
 
 ---
 
+## Severe Respiratory Disease Among Children With and Without Medical Complexity During the COVID-19 Pandemic.
+ 14.11.2023, _C Belza, E Pullenayegum, KE Nelson, K Aoyama, L Fu, F Buchanan, S Diaz, O Goldberg, A Guttmann, CM Hepburn, S Mahant, R Martens, A Nathwani, NR Saunders, E Cohen_
+
+
+Severe respiratory disease declined during the COVID-19 pandemic, partially due to decreased circulation of respiratory pathogens. However, the outcomes of children with higher risk have not been described using population-based data.
+
+[Source](https://twitter.com/SondraTurjeman/status/1719239282747908560?ref_src=twsrc%5Etfw)
+
+10.1001/jamanetworkopen.2023.43318
+
+---
+
 ## October 31, 2023
 
 [Source](https://twitter.com/SondraTurjeman/status/1719239282747908560?ref_src=twsrc%5Etfw)
 
 ---
 
-## Establishment of tongue microbiota by 18 months of age and determinants of its microbial profile
+## Establishment of tongue microbiota by 18 months of age and determinants of its microbial profile.
+ 11.10.2023, _S Kageyama, J Ma, M Furuta, T Takeshita, M Asakawa, Y Okabe, Y Yamashita_
+
+
+Acquisition of oral bacteria early in life is considered to have an important role in the establishment of oral microbiota. In this study, we examined tongue swab samples collected from 216 infants at the 18-month checkup, along with samples collected from them and from their mothers at the 4-month checkup. The bacterial composition of each sample was determined using PacBio single-molecule long-read sequencing of the full-length 16S rRNA gene and amplicon sequence variant (ASV) analysis. At 18 months of age, the tongue microbiota was dominated by Streptococcus salivarius, Neisseria perflava, and Granulicatella adiacens; and the overall bacterial composition was more similar to that of the mothers than at 4 months of age. The bacterial composition at 18 months of age was classified into three microbiota profiles: S. salivarius-dominant, Neisseria-dominant, and infant profile dominated by 4 months specific ASVs such as S. salivarius, Streptococcus lactarius, and Streptococcus peroris. Those with infant profiles exhibited significantly higher rates of current breastfeeding, dental caries or white spot lesions, and dental plaque accumulation compared to infants with the other profiles. Comparison between the S. salivarius- and Neisseria-dominant profiles showed that incomplete weaning, low intake of fruits, and frequent intake of sweetened beverages or sweet snacks were significantly associated with the S. salivarius-dominant profile. Our findings, based on a high-resolution profiling approach, demonstrate that the foundation of the adult tongue microbiota is established by 18 months of age, and the bacterial profile is possibly determined by dietary habits during this period. IMPORTANCE Understanding the development of oral microbiota early in life and the factors that influence it is important for preventing the establishment of dysbiotic oral microbiota later in life. This study demonstrates that the tongue microbiota undergoes early development from 4 to 18 months of age and converges into two types of microbiota showing indications of adult characteristics, with either S. salivarius or Neisseria-dominance. Interestingly, their divergence was strongly determined by their weaning status and the dietary frequencies of sweetened beverages, snacks, and fruits, suggesting that dietary habits during this period might influence the establishment of the oral microbiota. These findings may contribute to the development of novel preventive strategies against oral microbiota-related diseases.
 
 [Source](https://journals.asm.org/doi/full/10.1128/mbio.01337-23)
+
+10.1128/mbio.01337-23
 
 ---
 
@@ -241,15 +290,15 @@ Microbial genome recovery from metagenomes can further explain microbial ecosyst
 
 ---
 
-## Education and Training Adaptations for Health Workers during the COVID-19 Pandemic: A Scoping Review of Lessons Learned and Innovations.
- 14.11.2023, _P Boutros, N Kassem, J Nieder, C Jaramillo, J von Petersdorff, FJ Walsh, T Bärnighausen, S Barteit_
+## Severe Respiratory Disease Among Children With and Without Medical Complexity During the COVID-19 Pandemic.
+ 14.11.2023, _C Belza, E Pullenayegum, KE Nelson, K Aoyama, L Fu, F Buchanan, S Diaz, O Goldberg, A Guttmann, CM Hepburn, S Mahant, R Martens, A Nathwani, NR Saunders, E Cohen_
 
 
-Introduction: The COVID-19 pandemic has considerably impacted the clinical education and training of health workers globally, causing severe disruptions to learning environments in healthcare facilities and limiting the acquisition of new clinical skills. Consequently, urgent adaptation measures, including simulation training and e-learning, have been implemented to mitigate the adverse effects of clinical education. This scoping review aims to assess the impact of COVID-19 on medical education and training, examine the implemented adaptation measures, and evaluate their effectiveness in improving health workers' education and training during the pandemic. Methods: Employing the PRISMA-ScR framework and Arksey and O'Malley's methodological guidance, we conducted a scoping review, systematically searching PubMed, medRxiv, Google, and DuckDuckGo databases to account for the grey literature. The search included studies published between 1 December 2019 and 13 October 2021, yielding 10,323 results. Of these, 88 studies focused on health worker education and training during the pandemic. Results: Our review incorporated 31,268 participants, including physicians, medical trainees, nurses, paramedics, students, and health educators. Most studies (71/88, 81%) were conducted in high-income and lower-middle-income countries. The pandemic's effects on health workers' clinical skills and abilities have necessitated training period extensions in some cases. We identified several positive outcomes from the implementation of simulation training and e-learning as adaptation strategies, such as enhanced technical and clinical performance, increased confidence and comfort, and an expanded global educational outreach. Conclusions: Despite challenges like insufficient practical experience, limited interpersonal interaction opportunities, and internet connectivity issues, simulation training, e-learning, and virtual training have proven effective in improving clinical education and training during the COVID-19 pandemic. Further research is required to bolster preparedness for future pandemics or similar situations.
+Severe respiratory disease declined during the COVID-19 pandemic, partially due to decreased circulation of respiratory pathogens. However, the outcomes of children with higher risk have not been described using population-based data.
 
 [Source](https://twitter.com/HoonJeSeong1/status/1719231372362215759?ref_src=twsrc%5Etfw)
 
-10.3390/healthcare11212902
+10.1001/jamanetworkopen.2023.43318
 
 ---
 
