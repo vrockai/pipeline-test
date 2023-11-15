@@ -94,18 +94,6 @@
 
 ---
 
-## Uptake of and intention to use oral pre-exposure prophylaxis for HIV among pregnant and post-natal women in Eswatini: a cross-sectional survey.
- 15.11.2023, _PN Khumalo, SS Mkhonta, K Kindandi, S Matse, PB Dlamini, V Tukei, R Machekano, G Woelk_
-
-
-In Eswatini, HIV incidence among women of childbearing age is 1.45%. Eswatini introduced oral pre-exposure prophylaxis (PrEP) for HIV prevention in 2016 and requires that all HIV-negative pregnant and post-natal women (PPW) visiting health care facilities be offered PrEP.
-
-[Source](https://twitter.com/HaiderSManzer/status/1719688498884604319?ref_src=twsrc%5Etfw)
-
-10.3389/frph.2023.1253384
-
----
-
 ## November 1, 2023
 
 [Source](https://twitter.com/HaiderSManzer/status/1719688498884604319?ref_src=twsrc%5Etfw)
