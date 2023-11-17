@@ -16,6 +16,18 @@
 
 ---
 
+## Views and Perceptions of Medical Representatives and Physicians about the Role of Medical Representatives and Pharmaceutical Advertisement in Saudi Arabia - A Pilot Study.
+ 16.11.2023, _S Faqeh, S Alansari, A Althagafi, A Abdulaziz, A Alhajjaji, A Kurdi, M Allihyani, M Qashlan, R Alhotirshi, R Alhassani, S Alsurayhi, O Alshareef, M Ali_
+
+
+Medical representatives (MRs) frequently interact with physicians who may have different perceptions about and expectations from product promotional activities by pharmaceutical companies, especially through MRs. This can affect their prescribing practice. We explored the views and perceptions of MRs and physicians about the role of MRs and pharmaceutical advertisements in Saudi Arabia.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1719311652875612671?ref_src=twsrc%5Etfw)
+
+10.4103/jrpp.jrpp_65_22
+
+---
+
 ## October 31, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1719311652875612671?ref_src=twsrc%5Etfw)
