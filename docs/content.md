@@ -16,15 +16,34 @@
 
 ---
 
+## Identification and Analysis of the Ankle Microbiome Using Next-Generation DNA Sequencing: An Observational Analysis.
+ 17.11.2023, _C Hoch, JR Allen, J Morningstar, SR Materon, DJ Scott, CE Gross_
+
+
+Next-generation DNA sequencing (NGS) technologies have increased the sensitivity for detecting the bacterial presence and have been used in other areas of orthopaedics to better understand the native microbiome of various joints. This study uses NGS to determine whether (1) a unique microbiome exists in human ankle tissues, (2) if components of the ankle microbiome affect patient outcomes, and (3) whether microbes found on the skin are a normal part of the ankle microbiome.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1719311652875612671?ref_src=twsrc%5Etfw)
+
+10.5435/JAAOS-D-23-00387
+
+---
+
 ## October 31, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1719311652875612671?ref_src=twsrc%5Etfw)
 
 ---
 
-## A human urothelial microtissue model reveals shared colonization and survival strategies between uropathogens and commensals
+## A human urothelial microtissue model reveals shared colonization and survival strategies between uropathogens and commensals.
+ 10.11.2023, _C Flores, J Ling, A Loh, RG Maset, A Aw, IJ White, R Fernando, JL Rohn_
+
+
+_Animals, Humans, Escherichia coli, Fimbriae Proteins, Adhesins, Escherichia coli, Urinary Tract Infections, Escherichia coli Infections_
+Urinary tract infection is among the most common infections worldwide, typically studied in animals and cell lines with limited uropathogenic strains. Here, we assessed diverse bacterial species in a human urothelial microtissue model exhibiting full stratification, differentiation, innate epithelial responses, and urine tolerance. Several uropathogens invaded intracellularly, but also commensal Escherichia coli, suggesting that invasion is a shared survival strategy, not solely a virulence hallmark. The E. coli adhesin FimH was required for intracellular bacterial community formation, but not for invasion. Other shared lifestyles included filamentation (Gram-negatives), chaining (Gram-positives), and hijacking of exfoliating cells, while biofilm-like aggregates were formed mainly with Pseudomonas and Proteus. Urothelial cells expelled invasive bacteria in Rab-/LC3-decorated structures, while highly cytotoxic/invasive uropathogens, but not commensals, disrupted host barrier function and strongly induced exfoliation and cytokine production. Overall, this work highlights diverse species-/strain-specific infection strategies and corresponding host responses in a human urothelial microenvironment, providing insights at the microtissue, cell, and molecular level.
 
 [Source](https://www.science.org/doi/full/10.1126/sciadv.adi9834)
+
+10.1126/sciadv.adi9834
 
 ---
 
@@ -37,6 +56,18 @@
 ## @CarlosEBFlores
 
 [Source](https://twitter.com/CarlosEBFlores?ref_src=twsrc%5Etfw)
+
+---
+
+## Assessing the impact of discordant antibiotic treatment on adverse outcomes in community-onset UTI: a retrospective cohort study.
+ 17.11.2023, _A Aryee, P Rockenschaub, J Robson, Z Ahmed, C Nic Fhogartaigh, D Ball, A Hayward, L Shallcross_
+
+
+To investigate the risk of adverse outcomes following discordant antibiotic treatment (urinary organism resistant) for culture-confirmed community-onset lower urinary tract infection (UTI).
+
+[Source](https://twitter.com/hashtag/UTI?src=hash&ref_src=twsrc%5Etfw)
+
+10.1093/jac/dkad357
 
 ---
 
@@ -94,6 +125,18 @@
 
 ---
 
+## Acute psychological symptom profiles in high school football players following sport-related concussion.
+ 17.11.2023, _MY Jawid, KL Williams, J Jo, TM Hill, OL Prosak, A Amedy, TJ Anesi, DP Terry, SL Zuckerman_
+
+
+In a cohort of high school football athletes, the authors sought to 1) describe the proportion of those with acute psychological symptoms postconcussion, 2) determine predictors of more acute psychological symptoms postconcussion, and 3) determine if acute psychological symptoms impact recovery.
+
+[Source](https://twitter.com/HaiderSManzer/status/1719688498884604319?ref_src=twsrc%5Etfw)
+
+10.3171/2023.9.PEDS23301
+
+---
+
 ## November 1, 2023
 
 [Source](https://twitter.com/HaiderSManzer/status/1719688498884604319?ref_src=twsrc%5Etfw)
@@ -121,6 +164,18 @@
 ## https://t.co/Zs4Y7ziPQH
 
 [Source](https://t.co/Zs4Y7ziPQH)
+
+---
+
+## Identification and Analysis of the Ankle Microbiome Using Next-Generation DNA Sequencing: An Observational Analysis.
+ 17.11.2023, _C Hoch, JR Allen, J Morningstar, SR Materon, DJ Scott, CE Gross_
+
+
+Next-generation DNA sequencing (NGS) technologies have increased the sensitivity for detecting the bacterial presence and have been used in other areas of orthopaedics to better understand the native microbiome of various joints. This study uses NGS to determine whether (1) a unique microbiome exists in human ankle tissues, (2) if components of the ankle microbiome affect patient outcomes, and (3) whether microbes found on the skin are a normal part of the ankle microbiome.
+
+[Source](https://twitter.com/SondraTurjeman/status/1719239282747908560?ref_src=twsrc%5Etfw)
+
+10.5435/JAAOS-D-23-00387
 
 ---
 
