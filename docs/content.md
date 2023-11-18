@@ -178,21 +178,53 @@
 
 ---
 
+## Comparison of gene clustering criteria reveals intrinsic uncertainty in pangenome analyses.
+ 07.11.2023, _S Manzano-Morales, Y Liu, S González-Bodí, J Huerta-Cepas, J Iranzo_
+
+
+_Phylogeny, Reproducibility of Results, Uncertainty, Genome Size, Cluster Analysis_
+A key step for comparative genomics is to group open reading frames into functionally and evolutionarily meaningful gene clusters. Gene clustering is complicated by intraspecific duplications and horizontal gene transfers that are frequent in prokaryotes. In consequence, gene clustering methods must deal with a trade-off between identifying vertically transmitted representatives of multicopy gene families, which are recognizable by synteny conservation, and retrieving complete sets of species-level orthologs. We studied the implications of adopting homology, orthology, or synteny conservation as formal criteria for gene clustering by performing comparative analyses of 125 prokaryotic pangenomes.
+
+[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03089-3)
+
+10.1186/s13059-023-03089-3
+
+---
+
 ## Comparison of gene clustering criteria reveals intrinsic uncertainty in pangenome analyses – Saioa Manzano-Morales
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03089-3)
 
 ---
 
-## ACR: metagenome-assembled prokaryotic and eukaryotic genome refinement tool
+## ACR: metagenome-assembled prokaryotic and eukaryotic genome refinement tool.
+ 02.11.2023, _HJ Seong, JJ Kim, WJ Sul_
+
+
+_Metagenome, Eukaryota, Microbiota, Algorithms, Metagenomics, Cluster Analysis_
+Microbial genome recovery from metagenomes can further explain microbial ecosystem structures, functions and dynamics. Thus, this study developed the Additional Clustering Refiner (ACR) to enhance high-purity prokaryotic and eukaryotic metagenome-assembled genome (MAGs) recovery. ACR refines low-quality MAGs by subjecting them to iterative k-means clustering predicated on contig abundance and increasing bin purity through validated universal marker genes. Synthetic and real-world metagenomic datasets, including short- and long-read sequences, evaluated ACR's effectiveness. The results demonstrated improved MAG purity and a significant increase in high- and medium-quality MAG recovery rates. In addition, ACR seamlessly integrates with various binning algorithms, augmenting their strengths without modifying core features. Furthermore, its multiple sequencing technology compatibilities expand its applicability. By efficiently recovering high-quality prokaryotic and eukaryotic genomes, ACR is a promising tool for deepening our understanding of microbial communities through genome-centric metagenomics.
 
 [Source](https://academic.oup.com/bib/article-abstract/24/6/bbad381/7330501)
+
+10.1093/bib/bbad381
 
 ---
 
 ## https://t.co/RVEkkmv13G
 
 [Source](https://t.co/RVEkkmv13G)
+
+---
+
+## Comorbidity Burden and Treatment Patterns of Psoriasis in Vietnam: Real-World Data from the EXPAND Study.
+ 17.11.2023, _HT Nguyen, AT Vu, NTU Pham, TNA Tran, NN Pham, HTT Bui, TT Pham, VTT Dinh, YT Bui, TTP Vu_
+
+
+Psoriasis is a multi-faceted, immune-mediated inflammatory disease associated with a wide range of comorbidities. Real-world data on treatment patterns, comorbidities, and economic burden in patients with psoriasis are needed for comprehensive patient care in Vietnam.
+
+[Source](https://twitter.com/HoonJeSeong1/status/1719231372362215759?ref_src=twsrc%5Etfw)
+
+10.1007/s13555-023-01062-3
 
 ---
 
