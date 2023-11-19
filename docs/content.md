@@ -58,18 +58,6 @@
 
 ---
 
-## Estimating the number of probable new SARS-CoV-2 infections among tested subjects from the number of confirmed cases.
- 18.11.2023, _YM Diarra, PM Wimba, PB Katchunga, J Bengehya, B Miganda, M Oyimangirwe, L Tshilolo, SM Ahuka, J Iwaz, JF Étard, R Écochard, P Vanhems, M Rabilloud_
-
-
-In most African countries, confirmed COVID-19 case counts underestimate the number of new SARS-CoV-2 infection cases. We propose a multiplying factor to approximate the number of biologically probable new infections from the number of confirmed cases.
-
-[Source](https://twitter.com/JennyRohn/status/1722341766584549741?ref_src=twsrc%5Etfw)
-
-10.1186/s12874-023-02077-2
-
----
-
 ## November 8, 2023
 
 [Source](https://twitter.com/JennyRohn/status/1722341766584549741?ref_src=twsrc%5Etfw)
@@ -196,34 +184,15 @@ In most African countries, confirmed COVID-19 case counts underestimate the numb
 
 ---
 
-## ACR: metagenome-assembled prokaryotic and eukaryotic genome refinement tool.
- 02.11.2023, _HJ Seong, JJ Kim, WJ Sul_
-
-
-_Metagenome, Eukaryota, Microbiota, Algorithms, Metagenomics, Cluster Analysis_
-Microbial genome recovery from metagenomes can further explain microbial ecosystem structures, functions and dynamics. Thus, this study developed the Additional Clustering Refiner (ACR) to enhance high-purity prokaryotic and eukaryotic metagenome-assembled genome (MAGs) recovery. ACR refines low-quality MAGs by subjecting them to iterative k-means clustering predicated on contig abundance and increasing bin purity through validated universal marker genes. Synthetic and real-world metagenomic datasets, including short- and long-read sequences, evaluated ACR's effectiveness. The results demonstrated improved MAG purity and a significant increase in high- and medium-quality MAG recovery rates. In addition, ACR seamlessly integrates with various binning algorithms, augmenting their strengths without modifying core features. Furthermore, its multiple sequencing technology compatibilities expand its applicability. By efficiently recovering high-quality prokaryotic and eukaryotic genomes, ACR is a promising tool for deepening our understanding of microbial communities through genome-centric metagenomics.
+## ACR: metagenome-assembled prokaryotic and eukaryotic genome refinement tool
 
 [Source](https://academic.oup.com/bib/article-abstract/24/6/bbad381/7330501)
-
-10.1093/bib/bbad381
 
 ---
 
 ## https://t.co/RVEkkmv13G
 
 [Source](https://t.co/RVEkkmv13G)
-
----
-
-## Comorbidity Burden and Treatment Patterns of Psoriasis in Vietnam: Real-World Data from the EXPAND Study.
- 17.11.2023, _HT Nguyen, AT Vu, NTU Pham, TNA Tran, NN Pham, HTT Bui, TT Pham, VTT Dinh, YT Bui, TTP Vu_
-
-
-Psoriasis is a multi-faceted, immune-mediated inflammatory disease associated with a wide range of comorbidities. Real-world data on treatment patterns, comorbidities, and economic burden in patients with psoriasis are needed for comprehensive patient care in Vietnam.
-
-[Source](https://twitter.com/HoonJeSeong1/status/1719231372362215759?ref_src=twsrc%5Etfw)
-
-10.1007/s13555-023-01062-3
 
 ---
 
