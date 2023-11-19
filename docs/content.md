@@ -124,21 +124,46 @@
 
 ---
 
+## Impact of a board certification system and adherence to the clinical practice guidelines for gastric cancer on risk-adjusted surgical mortality after distal and total gastrectomy in Japan: a questionnaire survey of departments registered in the National Clinical Database.
+ 18.11.2023, _H Yamamoto, A Nashimoto, I Miyashiro, H Miyata, Y Toh, M Gotoh, Y Kodera, Y Kakeji, Y Seto_
+
+
+The relationship between board certification, clinical guideline implementation, and quality of gastric cancer surgery remains unclear.
+
+[Source](https://twitter.com/SondraTurjeman/status/1719239282747908560?ref_src=twsrc%5Etfw)
+
+10.1007/s00595-023-02753-2
+
+---
+
 ## October 31, 2023
 
 [Source](https://twitter.com/SondraTurjeman/status/1719239282747908560?ref_src=twsrc%5Etfw)
 
 ---
 
-## Establishment of tongue microbiota by 18 months of age and determinants of its microbial profile
+## Establishment of tongue microbiota by 18 months of age and determinants of its microbial profile.
+ 19.11.2023, _S Kageyama, J Ma, M Furuta, T Takeshita, M Asakawa, Y Okabe, Y Yamashita_
+
+
+Acquisition of oral bacteria early in life is considered to have an important role in the establishment of oral microbiota. In this study, we examined tongue swab samples collected from 216 infants at the 18-month checkup, along with samples collected from them and from their mothers at the 4-month checkup. The bacterial composition of each sample was determined using PacBio single-molecule long-read sequencing of the full-length 16S rRNA gene and amplicon sequence variant (ASV) analysis. At 18 months of age, the tongue microbiota was dominated by Streptococcus salivarius, Neisseria perflava, and Granulicatella adiacens; and the overall bacterial composition was more similar to that of the mothers than at 4 months of age. The bacterial composition at 18 months of age was classified into three microbiota profiles: S. salivarius-dominant, Neisseria-dominant, and infant profile dominated by 4 months specific ASVs such as S. salivarius, Streptococcus lactarius, and Streptococcus peroris. Those with infant profiles exhibited significantly higher rates of current breastfeeding, dental caries or white spot lesions, and dental plaque accumulation compared to infants with the other profiles. Comparison between the S. salivarius- and Neisseria-dominant profiles showed that incomplete weaning, low intake of fruits, and frequent intake of sweetened beverages or sweet snacks were significantly associated with the S. salivarius-dominant profile. Our findings, based on a high-resolution profiling approach, demonstrate that the foundation of the adult tongue microbiota is established by 18 months of age, and the bacterial profile is possibly determined by dietary habits during this period. IMPORTANCE Understanding the development of oral microbiota early in life and the factors that influence it is important for preventing the establishment of dysbiotic oral microbiota later in life. This study demonstrates that the tongue microbiota undergoes early development from 4 to 18 months of age and converges into two types of microbiota showing indications of adult characteristics, with either S. salivarius or Neisseria-dominance. Interestingly, their divergence was strongly determined by their weaning status and the dietary frequencies of sweetened beverages, snacks, and fruits, suggesting that dietary habits during this period might influence the establishment of the oral microbiota. These findings may contribute to the development of novel preventive strategies against oral microbiota-related diseases.
 
 [Source](https://journals.asm.org/doi/full/10.1128/mbio.01337-23)
 
+10.1128/mbio.01337-23
+
 ---
 
-## Pet cats may shape the antibiotic resistome of their owner’s gut and living environment
+## Pet cats may shape the antibiotic resistome of their owner's gut and living environment.
+ 19.11.2023, _Y Yang, X Hu, S Cai, N Hu, Y Yuan, Y Wu, Y Wang, J Mi, X Liao_
+
+
+_Animals, Humans, Cats, Anti-Bacterial Agents, Genes, Bacterial, Aminoglycosides, Tetracycline, Enterobacteriaceae_
+Companion animals can contribute to the physical and mental health of people and often live in very close association with their owners. However, the antibiotic resistome carried by companion animals and the impact they have on their owners and living environment remain unclear. In this study, we compared the ARG profiles of cats, humans, and their living environments using metagenomic analysis to identify the core ARGs in the cat and human gut and explore the potential impact of cats on ARGs in the human gut through the environment.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01679-8)
+
+10.1186/s40168-023-01679-8
 
 ---
 
