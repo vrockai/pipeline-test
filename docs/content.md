@@ -16,15 +16,34 @@
 
 ---
 
+## Impact of a board certification system and adherence to the clinical practice guidelines for gastric cancer on risk-adjusted surgical mortality after distal and total gastrectomy in Japan: a questionnaire survey of departments registered in the National Clinical Database.
+ 18.11.2023, _H Yamamoto, A Nashimoto, I Miyashiro, H Miyata, Y Toh, M Gotoh, Y Kodera, Y Kakeji, Y Seto_
+
+
+The relationship between board certification, clinical guideline implementation, and quality of gastric cancer surgery remains unclear.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1719311652875612671?ref_src=twsrc%5Etfw)
+
+10.1007/s00595-023-02753-2
+
+---
+
 ## October 31, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1719311652875612671?ref_src=twsrc%5Etfw)
 
 ---
 
-## A human urothelial microtissue model reveals shared colonization and survival strategies between uropathogens and commensals
+## A human urothelial microtissue model reveals shared colonization and survival strategies between uropathogens and commensals.
+ 10.11.2023, _C Flores, J Ling, A Loh, RG Maset, A Aw, IJ White, R Fernando, JL Rohn_
+
+
+_Animals, Humans, Escherichia coli, Fimbriae Proteins, Adhesins, Escherichia coli, Urinary Tract Infections, Escherichia coli Infections_
+Urinary tract infection is among the most common infections worldwide, typically studied in animals and cell lines with limited uropathogenic strains. Here, we assessed diverse bacterial species in a human urothelial microtissue model exhibiting full stratification, differentiation, innate epithelial responses, and urine tolerance. Several uropathogens invaded intracellularly, but also commensal Escherichia coli, suggesting that invasion is a shared survival strategy, not solely a virulence hallmark. The E. coli adhesin FimH was required for intracellular bacterial community formation, but not for invasion. Other shared lifestyles included filamentation (Gram-negatives), chaining (Gram-positives), and hijacking of exfoliating cells, while biofilm-like aggregates were formed mainly with Pseudomonas and Proteus. Urothelial cells expelled invasive bacteria in Rab-/LC3-decorated structures, while highly cytotoxic/invasive uropathogens, but not commensals, disrupted host barrier function and strongly induced exfoliation and cytokine production. Overall, this work highlights diverse species-/strain-specific infection strategies and corresponding host responses in a human urothelial microenvironment, providing insights at the microtissue, cell, and molecular level.
 
 [Source](https://www.science.org/doi/full/10.1126/sciadv.adi9834)
+
+10.1126/sciadv.adi9834
 
 ---
 
@@ -37,6 +56,18 @@
 ## @CarlosEBFlores
 
 [Source](https://twitter.com/CarlosEBFlores?ref_src=twsrc%5Etfw)
+
+---
+
+## High frequency of Enterococcus faecalis detected in urinary tract infections in male outpatients - a retrospective, multicenter analysis, Germany 2015 to 2020.
+ 19.11.2023, _J Salm, F Salm, P Arendarski, TS Kramer_
+
+
+Urinary tract infections (UTI) in men differ relevantly to women by their pathogens. Gram-positive uropathogens play a relevant role in UTI in men. In this study, we aimed to analyze the epidemiology of Enterococcus faecalis in UTI in male outpatients.
+
+[Source](https://twitter.com/hashtag/UTI?src=hash&ref_src=twsrc%5Etfw)
+
+10.1186/s12879-023-08824-6
 
 ---
 
@@ -91,6 +122,18 @@
 ## https://t.co/s4Tqnp9Kvj
 
 [Source](https://t.co/s4Tqnp9Kvj)
+
+---
+
+## A multidisciplinary primary prevention intervention to increase adherence to the Mediterranean diet: a pilot study.
+ 19.11.2023, _S De Marco, E Marziali, L Nachira, P Arcaro, L Villani, V Galasso, S Bruno, P Laurenti_
+
+
+The role of the Mediterranean Diet (MD) in reducing cardiovascular (CV) risk is widely demonstrated and many studies have shown the effectiveness of educational interventions in primary prevention. This study aimed to evaluate the impact of a multidisciplinary educational intervention, that included nutritional, psychological and physical activity coaching, on adherence to MD and on CV risk.
+
+[Source](https://twitter.com/HaiderSManzer/status/1719688498884604319?ref_src=twsrc%5Etfw)
+
+10.1186/s12889-023-16893-0
 
 ---
 
@@ -197,9 +240,28 @@ Companion animals can contribute to the physical and mental health of people and
 
 ---
 
-## A high-throughput and low-waste viability assay for microbes
+## A high-throughput and low-waste viability assay for microbes.
+ 03.11.2023, _CT Meyer, GK Lynch, DF Stamo, EJ Miller, A Chatterjee, JM Kralj_
+
+
+Counting viable cells is a universal practice in microbiology. The colony-forming unit (CFU) assay has remained the gold standard to measure viability across disciplines, but it is time-intensive and resource-consuming. Here we describe the geometric viability assay (GVA) that replicates CFU measurements over 6 orders of magnitude while reducing over 10-fold the time and consumables required. GVA computes a sample's viable cell count on the basis of the distribution of embedded colonies growing inside a pipette tip. GVA is compatible with Gram-positive and Gram-negative planktonic bacteria (Escherichia coli, Pseudomonas aeruginosa and Bacillus subtilis), biofilms and fungi (Saccharomyces cerevisiae). Laborious CFU experiments such as checkerboard assays, treatment time-courses and drug screens against slow-growing cells are simplified by GVA. The ease and low cost of GVA evinces that it can replace existing viability assays and enable viability measurements at previously impractical scales.
 
 [Source](https://www.nature.com/articles/s41564-023-01513-9)
+
+10.1038/s41564-023-01513-9
+
+---
+
+## Comparison of gene clustering criteria reveals intrinsic uncertainty in pangenome analyses.
+ 07.11.2023, _S Manzano-Morales, Y Liu, S González-Bodí, J Huerta-Cepas, J Iranzo_
+
+
+_Phylogeny, Reproducibility of Results, Uncertainty, Genome Size, Cluster Analysis_
+A key step for comparative genomics is to group open reading frames into functionally and evolutionarily meaningful gene clusters. Gene clustering is complicated by intraspecific duplications and horizontal gene transfers that are frequent in prokaryotes. In consequence, gene clustering methods must deal with a trade-off between identifying vertically transmitted representatives of multicopy gene families, which are recognizable by synteny conservation, and retrieving complete sets of species-level orthologs. We studied the implications of adopting homology, orthology, or synteny conservation as formal criteria for gene clustering by performing comparative analyses of 125 prokaryotic pangenomes.
+
+[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03089-3)
+
+10.1186/s13059-023-03089-3
 
 ---
 
@@ -209,15 +271,34 @@ Companion animals can contribute to the physical and mental health of people and
 
 ---
 
-## ACR: metagenome-assembled prokaryotic and eukaryotic genome refinement tool
+## ACR: metagenome-assembled prokaryotic and eukaryotic genome refinement tool.
+ 02.11.2023, _HJ Seong, JJ Kim, WJ Sul_
+
+
+_Metagenome, Eukaryota, Microbiota, Algorithms, Metagenomics, Cluster Analysis_
+Microbial genome recovery from metagenomes can further explain microbial ecosystem structures, functions and dynamics. Thus, this study developed the Additional Clustering Refiner (ACR) to enhance high-purity prokaryotic and eukaryotic metagenome-assembled genome (MAGs) recovery. ACR refines low-quality MAGs by subjecting them to iterative k-means clustering predicated on contig abundance and increasing bin purity through validated universal marker genes. Synthetic and real-world metagenomic datasets, including short- and long-read sequences, evaluated ACR's effectiveness. The results demonstrated improved MAG purity and a significant increase in high- and medium-quality MAG recovery rates. In addition, ACR seamlessly integrates with various binning algorithms, augmenting their strengths without modifying core features. Furthermore, its multiple sequencing technology compatibilities expand its applicability. By efficiently recovering high-quality prokaryotic and eukaryotic genomes, ACR is a promising tool for deepening our understanding of microbial communities through genome-centric metagenomics.
 
 [Source](https://academic.oup.com/bib/article-abstract/24/6/bbad381/7330501)
+
+10.1093/bib/bbad381
 
 ---
 
 ## https://t.co/RVEkkmv13G
 
 [Source](https://t.co/RVEkkmv13G)
+
+---
+
+## Impact of a board certification system and adherence to the clinical practice guidelines for gastric cancer on risk-adjusted surgical mortality after distal and total gastrectomy in Japan: a questionnaire survey of departments registered in the National Clinical Database.
+ 18.11.2023, _H Yamamoto, A Nashimoto, I Miyashiro, H Miyata, Y Toh, M Gotoh, Y Kodera, Y Kakeji, Y Seto_
+
+
+The relationship between board certification, clinical guideline implementation, and quality of gastric cancer surgery remains unclear.
+
+[Source](https://twitter.com/HoonJeSeong1/status/1719231372362215759?ref_src=twsrc%5Etfw)
+
+10.1007/s00595-023-02753-2
 
 ---
 
