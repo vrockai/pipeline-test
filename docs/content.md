@@ -16,34 +16,15 @@
 
 ---
 
-## Integrating social care into gynecologic oncology: Identifying and addressing patient's social needs.
- 19.11.2023, _K Cotangco, E Pineda, V Hingarh, NC Nyakudarika, JG Cohen, CH Holschneider_
-
-
-We aimed to identify social needs of gynecologic oncology patients using a self-administered social needs assessment tool (SNAT), compare the SNAT to a formal social work assessment performed by cancer care navigators (CCN), and provide SNAT-informed community resources.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1719311652875612671?ref_src=twsrc%5Etfw)
-
-10.1016/j.ygyno.2023.11.001
-
----
-
 ## October 31, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1719311652875612671?ref_src=twsrc%5Etfw)
 
 ---
 
-## A human urothelial microtissue model reveals shared colonization and survival strategies between uropathogens and commensals.
- 10.11.2023, _C Flores, J Ling, A Loh, RG Maset, A Aw, IJ White, R Fernando, JL Rohn_
-
-
-_Animals, Humans, Escherichia coli, Fimbriae Proteins, Adhesins, Escherichia coli, Urinary Tract Infections, Escherichia coli Infections_
-Urinary tract infection is among the most common infections worldwide, typically studied in animals and cell lines with limited uropathogenic strains. Here, we assessed diverse bacterial species in a human urothelial microtissue model exhibiting full stratification, differentiation, innate epithelial responses, and urine tolerance. Several uropathogens invaded intracellularly, but also commensal Escherichia coli, suggesting that invasion is a shared survival strategy, not solely a virulence hallmark. The E. coli adhesin FimH was required for intracellular bacterial community formation, but not for invasion. Other shared lifestyles included filamentation (Gram-negatives), chaining (Gram-positives), and hijacking of exfoliating cells, while biofilm-like aggregates were formed mainly with Pseudomonas and Proteus. Urothelial cells expelled invasive bacteria in Rab-/LC3-decorated structures, while highly cytotoxic/invasive uropathogens, but not commensals, disrupted host barrier function and strongly induced exfoliation and cytokine production. Overall, this work highlights diverse species-/strain-specific infection strategies and corresponding host responses in a human urothelial microenvironment, providing insights at the microtissue, cell, and molecular level.
+## A human urothelial microtissue model reveals shared colonization and survival strategies between uropathogens and commensals
 
 [Source](https://www.science.org/doi/full/10.1126/sciadv.adi9834)
-
-10.1126/sciadv.adi9834
 
 ---
 
@@ -56,18 +37,6 @@ Urinary tract infection is among the most common infections worldwide, typically
 ## @CarlosEBFlores
 
 [Source](https://twitter.com/CarlosEBFlores?ref_src=twsrc%5Etfw)
-
----
-
-## Human Ribonuclease 6 has a Protective Role During Experimental Urinary Tract Infection.
- 19.11.2023, _JD Ruiz-Rosado, H Cortado, M Kercsmar, B Li, G Ballash, I Cotzomi-Ortega, YI Sanchez-Zamora, S Gupta, C Ching, E Boix, AR Jackson, JD Spencer, B Becknell_
-
-
-Mounting evidence suggests that antimicrobial peptides and proteins (AMPs) belonging to the RNase A superfamily have a critical role in defending the bladder and kidney from bacterial infection. RNase 6 has been identified as a potent, leukocyte-derived AMP, but its impact on urinary tract infection (UTI) in vivo has not been demonstrated. To test the functional role of human RNase 6, we generated RNASE6 transgenic mice and studied their susceptibility to experimental UTI. In addition, we generated bone marrow derived macrophages to study the impact of RNase 6 on antimicrobial activity within a cellular context. When subjected to experimental UTI, RNASE6 transgenic mice developed reduced UPEC burden, mucosal injury, and inflammation compared to non-transgenic controls. Monocytes and macrophages were the predominant cellular sources of RNase 6 during UTI, and RNASE6 transgenic macrophages were more proficient at intracellular UPEC killing than non-transgenic controls. Altogether, our findings indicate a protective role for human RNase 6 during experimental UTI.
-
-[Source](https://twitter.com/hashtag/UTI?src=hash&ref_src=twsrc%5Etfw)
-
-10.1159/000534736
 
 ---
 
@@ -86,18 +55,6 @@ Mounting evidence suggests that antimicrobial peptides and proteins (AMPs) belon
 ## @GlobalUti
 
 [Source](https://twitter.com/GlobalUti?ref_src=twsrc%5Etfw)
-
----
-
-## Frequency and risk factors of rebound after fingolimod discontinuation - A retrospective study.
- 19.11.2023, _A Maunula, S Atula, SM Laakso, PJ Tienari_
-
-
-Fingolimod (FTY) rebound, a phenomenon of unexpectedly severe disease activity following FTY discontinuation, has been reported to occur in 5-43 % of patients. Only a few larger cohorts have been analyzed. We aimed to determine the frequency and risk factors of FTY rebound in our hospital district in Southern Finland with a population of 1.7 million.
-
-[Source](https://twitter.com/JennyRohn/status/1722341766584549741?ref_src=twsrc%5Etfw)
-
-10.1016/j.msard.2023.105134
 
 ---
 
@@ -137,15 +94,15 @@ Fingolimod (FTY) rebound, a phenomenon of unexpectedly severe disease activity f
 
 ---
 
-## Preoperative Mediastinal Staging in Early-Stage Lung Cancer: Targeted Nodal Sampling is Not Inferior to Systematic Nodal Sampling.
- 19.11.2023, _KA Sullivan, F Farrokhyar, YS Patel, M Liberman, SR Turner, AV Gonzalez, R Nayak, K Yasufuku, WC Hanna_
+## [Clinical and laboratory features of SF3B1-mutated myeloproliferative neoplasms].
+ 20.11.2023, _L Peng, YH Zhang, GS Teng, CX Du, Y Wang, NB Hu, YQ Li, ZH Shao, J Bai_
 
 
-To determine whether Targeted Sampling (TS), which omits biopsy of Triple Normal lymph nodes (LNs) on PET, CT and EBUS is non-inferior to Systematic Sampling (SS) of mediastinal LNs during EBUS for staging of patients with early-stage NSCLC.
+Objective: To explore the clinical and laboratory characteristics of SF3B1 gene mutations in myeloproliferative neoplasms (MPN) patients. Methods: The clinical data of 273 MPN patients who were diagnosed MPN and treated in the Second Hospital of Tianjin Medical University from November 2017 to March 2023 were retrospectively analyzed. There were 133 males and 140 females, with a median age M(Q1,Q3)of 56(46, 67) years. The molecular biology and cytogenetic characteristics were detected by second-generation sequencing (NGS) and R+G banding techniques, and the clinical and laboratory characteristics of patients with SF3B1 gene mutation were analyzed. Results: SF3B1 gene mutations were found in 13 patients (4.8%, 13/273).The types of SF3B1 mutations included missense (92.3%, 12/13) and nonsense mutations (7.7%, 1/13).Compared to the non-mutant cohort, patients in SF3B1 mutant cohort had older ages [68(51, 76) vs 56(45, 66)years,P=0.025], higher proportion of splenomegaly [46.2%(6/13) vs 15.8%(41/259),P=0.014]and secondary tumor [23.1%(3/13)vs 3.8%(10/260), P=0.018]with higher proportion of bone marrow blast [0.5%(0, 1.5%) vs 0(0, 0.5%),P=0.002] and lower hemoglobin[(104±36) vs (137±40) g/L,P=0.004] and hematocrit [31%(22%, 40%) vs 41%(35%, 52%),P=0.003]. All of the 10 patients in the SF3B1 mutant cohort whose ring sideroblast (RS) could be evaluated showed no RS formation. The overall survival, thrombosis-free survival and leukemia free survival of MPN patients in SF3B1 mutant cohort were 4.0 (2.0, 6.0), 2.0 (0.5, 4.5) and 4.0 (2.0, 6.0) years, respectively, while patients in the non-mutant cohort were 6.0 (3.0, 10.0), 5.0 (1.0, 8.0), 6.0 (3.0, 10.0) years, respectively, there were no statistical significance between two groups (Z=3.69, 1.66, 2.05, all P&gt;0.05).The secondary tumor free survival of SF3B1 mutant cohort patients was 4.0 (2.0, 6.0) years, which was lower than that of non-mutant cohort patients [5.5 (3.0, 10.0) years, Z=18.18, P&lt;0.001). Conclusions: MPN patients with SF3B1 gene mutations are older, more prone to splenomegaly and secondary tumors. They also have a higher proportion of bone marrow blast, lower hemoglobin and hematocrit, and show no RS formation.
 
 [Source](https://twitter.com/HaiderSManzer/status/1719688498884604319?ref_src=twsrc%5Etfw)
 
-10.1016/j.jtcvs.2023.11.020
+10.3760/cma.j.cn112137-20230928-00609
 
 ---
 
@@ -179,33 +136,15 @@ To determine whether Targeted Sampling (TS), which omits biopsy of Triple Normal
 
 ---
 
-## Integrating social care into gynecologic oncology: Identifying and addressing patient's social needs.
- 19.11.2023, _K Cotangco, E Pineda, V Hingarh, NC Nyakudarika, JG Cohen, CH Holschneider_
-
-
-We aimed to identify social needs of gynecologic oncology patients using a self-administered social needs assessment tool (SNAT), compare the SNAT to a formal social work assessment performed by cancer care navigators (CCN), and provide SNAT-informed community resources.
-
-[Source](https://twitter.com/SondraTurjeman/status/1719239282747908560?ref_src=twsrc%5Etfw)
-
-10.1016/j.ygyno.2023.11.001
-
----
-
 ## October 31, 2023
 
 [Source](https://twitter.com/SondraTurjeman/status/1719239282747908560?ref_src=twsrc%5Etfw)
 
 ---
 
-## Establishment of tongue microbiota by 18 months of age and determinants of its microbial profile.
- 19.11.2023, _S Kageyama, J Ma, M Furuta, T Takeshita, M Asakawa, Y Okabe, Y Yamashita_
-
-
-Acquisition of oral bacteria early in life is considered to have an important role in the establishment of oral microbiota. In this study, we examined tongue swab samples collected from 216 infants at the 18-month checkup, along with samples collected from them and from their mothers at the 4-month checkup. The bacterial composition of each sample was determined using PacBio single-molecule long-read sequencing of the full-length 16S rRNA gene and amplicon sequence variant (ASV) analysis. At 18 months of age, the tongue microbiota was dominated by Streptococcus salivarius, Neisseria perflava, and Granulicatella adiacens; and the overall bacterial composition was more similar to that of the mothers than at 4 months of age. The bacterial composition at 18 months of age was classified into three microbiota profiles: S. salivarius-dominant, Neisseria-dominant, and infant profile dominated by 4 months specific ASVs such as S. salivarius, Streptococcus lactarius, and Streptococcus peroris. Those with infant profiles exhibited significantly higher rates of current breastfeeding, dental caries or white spot lesions, and dental plaque accumulation compared to infants with the other profiles. Comparison between the S. salivarius- and Neisseria-dominant profiles showed that incomplete weaning, low intake of fruits, and frequent intake of sweetened beverages or sweet snacks were significantly associated with the S. salivarius-dominant profile. Our findings, based on a high-resolution profiling approach, demonstrate that the foundation of the adult tongue microbiota is established by 18 months of age, and the bacterial profile is possibly determined by dietary habits during this period. IMPORTANCE Understanding the development of oral microbiota early in life and the factors that influence it is important for preventing the establishment of dysbiotic oral microbiota later in life. This study demonstrates that the tongue microbiota undergoes early development from 4 to 18 months of age and converges into two types of microbiota showing indications of adult characteristics, with either S. salivarius or Neisseria-dominance. Interestingly, their divergence was strongly determined by their weaning status and the dietary frequencies of sweetened beverages, snacks, and fruits, suggesting that dietary habits during this period might influence the establishment of the oral microbiota. These findings may contribute to the development of novel preventive strategies against oral microbiota-related diseases.
+## Establishment of tongue microbiota by 18 months of age and determinants of its microbial profile
 
 [Source](https://journals.asm.org/doi/full/10.1128/mbio.01337-23)
-
-10.1128/mbio.01337-23
 
 ---
 
@@ -252,9 +191,15 @@ Companion animals can contribute to the physical and mental health of people and
 
 ---
 
-## A high-throughput and low-waste viability assay for microbes
+## A high-throughput and low-waste viability assay for microbes.
+ 03.11.2023, _CT Meyer, GK Lynch, DF Stamo, EJ Miller, A Chatterjee, JM Kralj_
+
+
+Counting viable cells is a universal practice in microbiology. The colony-forming unit (CFU) assay has remained the gold standard to measure viability across disciplines, but it is time-intensive and resource-consuming. Here we describe the geometric viability assay (GVA) that replicates CFU measurements over 6 orders of magnitude while reducing over 10-fold the time and consumables required. GVA computes a sample's viable cell count on the basis of the distribution of embedded colonies growing inside a pipette tip. GVA is compatible with Gram-positive and Gram-negative planktonic bacteria (Escherichia coli, Pseudomonas aeruginosa and Bacillus subtilis), biofilms and fungi (Saccharomyces cerevisiae). Laborious CFU experiments such as checkerboard assays, treatment time-courses and drug screens against slow-growing cells are simplified by GVA. The ease and low cost of GVA evinces that it can replace existing viability assays and enable viability measurements at previously impractical scales.
 
 [Source](https://www.nature.com/articles/s41564-023-01513-9)
+
+10.1038/s41564-023-01513-9
 
 ---
 
@@ -296,15 +241,15 @@ Microbial genome recovery from metagenomes can further explain microbial ecosyst
 
 ---
 
-## Integrating social care into gynecologic oncology: Identifying and addressing patient's social needs.
- 19.11.2023, _K Cotangco, E Pineda, V Hingarh, NC Nyakudarika, JG Cohen, CH Holschneider_
+## Acceptance of COVID-19 boosters among hypertensive patients in China: A multicenter cross-sectional study.
+ 20.11.2023, _Y Yan, Q Chen, A Nuermaimaiti, Y Xiao, L Chang, H Ji, H Sun, Q Song, Y Gao, J Xu, L Wang_
 
 
-We aimed to identify social needs of gynecologic oncology patients using a self-administered social needs assessment tool (SNAT), compare the SNAT to a formal social work assessment performed by cancer care navigators (CCN), and provide SNAT-informed community resources.
+Hypertension, a prevalent chronic disease, has been associated with increased COVID-19 severity. To promote the COVID-19 booster vaccination of hypertensive patients, this study investigated the willingness to receive boosters and the related influencing factors based on the health belief model (HBM model). Between June and October 2022, 453 valid questionnaires were collected across three Chinese cities. The willingness to receive a booster vaccination was 72.2%. The main factors that influenced the willingness of patients with hypertension to receive a booster shot were male (χ2 = 7.008, p = .008), residence in rural (χ2 = 4.778, p = .029), being in employment (χ2 = 7.232, p = .007), taking no or less antihypertensive medication (χ2 = 9.372, p = .025), with less hypertension-related comorbidities (χ2 = 35.888, p &lt; .0001), and did not have any other chronic diseases (χ2 = 28.476, p &lt; .0001). Amid the evolving COVID-19 landscape, the willingness to receive annual booster vaccination was 59.4%, and employment status (χ2 = 10.058, p = .002), and presence of other chronic diseases (χ2 = 14.256, p &lt; .0001) are associated with the willingness of annual booster vaccination. Respondents with higher perceived severity, perceived benefits, perceived self-efficacy, and lower perceived barriers were more willing to receive booster shots. The mean and median value of willingness to pay (WTP) for a dose of booster were 53.17 CNY and 28.31 CNY. Concerns regarding booster safety and the need for professional advice were prevalent. Our findings highlight the importance of promoting booster safety knowledge and health-related management among hypertensive individuals through professional organizations and medical specialists.
 
 [Source](https://twitter.com/HoonJeSeong1/status/1719231372362215759?ref_src=twsrc%5Etfw)
 
-10.1016/j.ygyno.2023.11.001
+10.1080/21645515.2023.2283315
 
 ---
 
