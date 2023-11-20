@@ -16,15 +16,15 @@
 
 ---
 
-## Impact of a board certification system and adherence to the clinical practice guidelines for gastric cancer on risk-adjusted surgical mortality after distal and total gastrectomy in Japan: a questionnaire survey of departments registered in the National Clinical Database.
- 18.11.2023, _H Yamamoto, A Nashimoto, I Miyashiro, H Miyata, Y Toh, M Gotoh, Y Kodera, Y Kakeji, Y Seto_
+## Integrating social care into gynecologic oncology: Identifying and addressing patient's social needs.
+ 19.11.2023, _K Cotangco, E Pineda, V Hingarh, NC Nyakudarika, JG Cohen, CH Holschneider_
 
 
-The relationship between board certification, clinical guideline implementation, and quality of gastric cancer surgery remains unclear.
+We aimed to identify social needs of gynecologic oncology patients using a self-administered social needs assessment tool (SNAT), compare the SNAT to a formal social work assessment performed by cancer care navigators (CCN), and provide SNAT-informed community resources.
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1719311652875612671?ref_src=twsrc%5Etfw)
 
-10.1007/s00595-023-02753-2
+10.1016/j.ygyno.2023.11.001
 
 ---
 
@@ -59,15 +59,15 @@ Urinary tract infection is among the most common infections worldwide, typically
 
 ---
 
-## High frequency of Enterococcus faecalis detected in urinary tract infections in male outpatients - a retrospective, multicenter analysis, Germany 2015 to 2020.
- 19.11.2023, _J Salm, F Salm, P Arendarski, TS Kramer_
+## Human Ribonuclease 6 has a Protective Role During Experimental Urinary Tract Infection.
+ 19.11.2023, _JD Ruiz-Rosado, H Cortado, M Kercsmar, B Li, G Ballash, I Cotzomi-Ortega, YI Sanchez-Zamora, S Gupta, C Ching, E Boix, AR Jackson, JD Spencer, B Becknell_
 
 
-Urinary tract infections (UTI) in men differ relevantly to women by their pathogens. Gram-positive uropathogens play a relevant role in UTI in men. In this study, we aimed to analyze the epidemiology of Enterococcus faecalis in UTI in male outpatients.
+Mounting evidence suggests that antimicrobial peptides and proteins (AMPs) belonging to the RNase A superfamily have a critical role in defending the bladder and kidney from bacterial infection. RNase 6 has been identified as a potent, leukocyte-derived AMP, but its impact on urinary tract infection (UTI) in vivo has not been demonstrated. To test the functional role of human RNase 6, we generated RNASE6 transgenic mice and studied their susceptibility to experimental UTI. In addition, we generated bone marrow derived macrophages to study the impact of RNase 6 on antimicrobial activity within a cellular context. When subjected to experimental UTI, RNASE6 transgenic mice developed reduced UPEC burden, mucosal injury, and inflammation compared to non-transgenic controls. Monocytes and macrophages were the predominant cellular sources of RNase 6 during UTI, and RNASE6 transgenic macrophages were more proficient at intracellular UPEC killing than non-transgenic controls. Altogether, our findings indicate a protective role for human RNase 6 during experimental UTI.
 
 [Source](https://twitter.com/hashtag/UTI?src=hash&ref_src=twsrc%5Etfw)
 
-10.1186/s12879-023-08824-6
+10.1159/000534736
 
 ---
 
@@ -86,6 +86,18 @@ Urinary tract infections (UTI) in men differ relevantly to women by their pathog
 ## @GlobalUti
 
 [Source](https://twitter.com/GlobalUti?ref_src=twsrc%5Etfw)
+
+---
+
+## Frequency and risk factors of rebound after fingolimod discontinuation - A retrospective study.
+ 19.11.2023, _A Maunula, S Atula, SM Laakso, PJ Tienari_
+
+
+Fingolimod (FTY) rebound, a phenomenon of unexpectedly severe disease activity following FTY discontinuation, has been reported to occur in 5-43 % of patients. Only a few larger cohorts have been analyzed. We aimed to determine the frequency and risk factors of FTY rebound in our hospital district in Southern Finland with a population of 1.7 million.
+
+[Source](https://twitter.com/JennyRohn/status/1722341766584549741?ref_src=twsrc%5Etfw)
+
+10.1016/j.msard.2023.105134
 
 ---
 
@@ -125,15 +137,15 @@ Urinary tract infections (UTI) in men differ relevantly to women by their pathog
 
 ---
 
-## A multidisciplinary primary prevention intervention to increase adherence to the Mediterranean diet: a pilot study.
- 19.11.2023, _S De Marco, E Marziali, L Nachira, P Arcaro, L Villani, V Galasso, S Bruno, P Laurenti_
+## Preoperative Mediastinal Staging in Early-Stage Lung Cancer: Targeted Nodal Sampling is Not Inferior to Systematic Nodal Sampling.
+ 19.11.2023, _KA Sullivan, F Farrokhyar, YS Patel, M Liberman, SR Turner, AV Gonzalez, R Nayak, K Yasufuku, WC Hanna_
 
 
-The role of the Mediterranean Diet (MD) in reducing cardiovascular (CV) risk is widely demonstrated and many studies have shown the effectiveness of educational interventions in primary prevention. This study aimed to evaluate the impact of a multidisciplinary educational intervention, that included nutritional, psychological and physical activity coaching, on adherence to MD and on CV risk.
+To determine whether Targeted Sampling (TS), which omits biopsy of Triple Normal lymph nodes (LNs) on PET, CT and EBUS is non-inferior to Systematic Sampling (SS) of mediastinal LNs during EBUS for staging of patients with early-stage NSCLC.
 
 [Source](https://twitter.com/HaiderSManzer/status/1719688498884604319?ref_src=twsrc%5Etfw)
 
-10.1186/s12889-023-16893-0
+10.1016/j.jtcvs.2023.11.020
 
 ---
 
@@ -167,15 +179,15 @@ The role of the Mediterranean Diet (MD) in reducing cardiovascular (CV) risk is 
 
 ---
 
-## Impact of a board certification system and adherence to the clinical practice guidelines for gastric cancer on risk-adjusted surgical mortality after distal and total gastrectomy in Japan: a questionnaire survey of departments registered in the National Clinical Database.
- 18.11.2023, _H Yamamoto, A Nashimoto, I Miyashiro, H Miyata, Y Toh, M Gotoh, Y Kodera, Y Kakeji, Y Seto_
+## Integrating social care into gynecologic oncology: Identifying and addressing patient's social needs.
+ 19.11.2023, _K Cotangco, E Pineda, V Hingarh, NC Nyakudarika, JG Cohen, CH Holschneider_
 
 
-The relationship between board certification, clinical guideline implementation, and quality of gastric cancer surgery remains unclear.
+We aimed to identify social needs of gynecologic oncology patients using a self-administered social needs assessment tool (SNAT), compare the SNAT to a formal social work assessment performed by cancer care navigators (CCN), and provide SNAT-informed community resources.
 
 [Source](https://twitter.com/SondraTurjeman/status/1719239282747908560?ref_src=twsrc%5Etfw)
 
-10.1007/s00595-023-02753-2
+10.1016/j.ygyno.2023.11.001
 
 ---
 
@@ -240,15 +252,9 @@ Companion animals can contribute to the physical and mental health of people and
 
 ---
 
-## A high-throughput and low-waste viability assay for microbes.
- 03.11.2023, _CT Meyer, GK Lynch, DF Stamo, EJ Miller, A Chatterjee, JM Kralj_
-
-
-Counting viable cells is a universal practice in microbiology. The colony-forming unit (CFU) assay has remained the gold standard to measure viability across disciplines, but it is time-intensive and resource-consuming. Here we describe the geometric viability assay (GVA) that replicates CFU measurements over 6 orders of magnitude while reducing over 10-fold the time and consumables required. GVA computes a sample's viable cell count on the basis of the distribution of embedded colonies growing inside a pipette tip. GVA is compatible with Gram-positive and Gram-negative planktonic bacteria (Escherichia coli, Pseudomonas aeruginosa and Bacillus subtilis), biofilms and fungi (Saccharomyces cerevisiae). Laborious CFU experiments such as checkerboard assays, treatment time-courses and drug screens against slow-growing cells are simplified by GVA. The ease and low cost of GVA evinces that it can replace existing viability assays and enable viability measurements at previously impractical scales.
+## A high-throughput and low-waste viability assay for microbes
 
 [Source](https://www.nature.com/articles/s41564-023-01513-9)
-
-10.1038/s41564-023-01513-9
 
 ---
 
@@ -290,15 +296,15 @@ Microbial genome recovery from metagenomes can further explain microbial ecosyst
 
 ---
 
-## Impact of a board certification system and adherence to the clinical practice guidelines for gastric cancer on risk-adjusted surgical mortality after distal and total gastrectomy in Japan: a questionnaire survey of departments registered in the National Clinical Database.
- 18.11.2023, _H Yamamoto, A Nashimoto, I Miyashiro, H Miyata, Y Toh, M Gotoh, Y Kodera, Y Kakeji, Y Seto_
+## Integrating social care into gynecologic oncology: Identifying and addressing patient's social needs.
+ 19.11.2023, _K Cotangco, E Pineda, V Hingarh, NC Nyakudarika, JG Cohen, CH Holschneider_
 
 
-The relationship between board certification, clinical guideline implementation, and quality of gastric cancer surgery remains unclear.
+We aimed to identify social needs of gynecologic oncology patients using a self-administered social needs assessment tool (SNAT), compare the SNAT to a formal social work assessment performed by cancer care navigators (CCN), and provide SNAT-informed community resources.
 
 [Source](https://twitter.com/HoonJeSeong1/status/1719231372362215759?ref_src=twsrc%5Etfw)
 
-10.1007/s00595-023-02753-2
+10.1016/j.ygyno.2023.11.001
 
 ---
 
