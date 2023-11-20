@@ -1,261 +1,206 @@
-## https://t.co/n3ChfNAE2S
+## Association between microbiome and the development of adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure.
+ 20.11.2023, _AL Zeamer, MC Salive, X An, FL Beaudoin, SL House, JS Stevens, D Zeng, TC Neylan, GD Clifford, SD Linnstaedt, SL Rauch, AB Storrow, C Lewandowski, PI Musey, PL Hendry, S Sheikh, CW Jones, BE Punches, RA Swor, LA Hudak, JL Pascual, MJ Seamon, E Harris, C Pearson, DA Peak, RC Merchant, RM Domeier, NK Rathlev, BJ O'Neil, P Sergot, LD Sanchez, SE Bruce, RC Kessler, KC Koenen, SA McLean, V Bucci, JP Haran_
 
-[Source](https://t.co/n3ChfNAE2S)
 
----
+_Adult, Humans, Microbiota, Stress Disorders, Post-Traumatic, Gastrointestinal Microbiome, Feces, Biological Availability_
+Patients exposed to trauma often experience high rates of adverse post-traumatic neuropsychiatric sequelae (APNS). The biological mechanisms promoting APNS are currently unknown, but the microbiota-gut-brain axis offers an avenue to understanding mechanisms as well as possibilities for intervention. Microbiome composition after trauma exposure has been poorly examined regarding neuropsychiatric outcomes. We aimed to determine whether the gut microbiomes of trauma-exposed emergency department patients who develop APNS have dysfunctional gut microbiome profiles and discover potential associated mechanisms. We performed metagenomic analysis on stool samples (n = 51) from a subset of adults enrolled in the Advancing Understanding of RecOvery afteR traumA (AURORA) study. Two-, eight- and twelve-week post-trauma outcomes for post-traumatic stress disorder (PTSD) (PTSD checklist for DSM-5), normalized depression scores (PROMIS Depression Short Form 8b) and somatic symptom counts were collected. Generalized linear models were created for each outcome using microbial abundances and relevant demographics. Mixed-effect random forest machine learning models were used to identify associations between APNS outcomes and microbial features and encoded metabolic pathways from stool metagenomics. Microbial species, including Flavonifractor plautii, Ruminococcus gnavus and, Bifidobacterium species, which are prevalent commensal gut microbes, were found to be important in predicting worse APNS outcomes from microbial abundance data. Notably, through APNS outcome modeling using microbial metabolic pathways, worse APNS outcomes were highly predicted by decreased L-arginine related pathway genes and increased citrulline and ornithine pathways. Common commensal microbial species are enriched in individuals who develop APNS. More notably, we identified a biological mechanism through which the gut microbiome reduces global arginine bioavailability, a metabolic change that has also been demonstrated in the plasma of patients with PTSD.
 
-## @merenbey
+[Source](https://doi.org/10.1038/s41398-023-02643-8)
 
-[Source](https://twitter.com/merenbey?ref_src=twsrc%5Etfw)
-
----
-
-## pic.twitter.com/72YxwKWIvq
-
-[Source](https://t.co/72YxwKWIvq)
+10.1038/s41398-023-02643-8
 
 ---
 
-## October 31, 2023
+## The preterm human milk microbiota fluctuates by postpartum week and is characterized by gestational age and maternal BMI.
+ 17.11.2023, _EJ Filatava, Z Liu, J Xie, D-B Tran, K Chen, N El Habbal, G Weinstock, Y Zhou, KE Gregory_
 
-[Source](https://twitter.com/MicrobiomeVIF/status/1719311652875612671?ref_src=twsrc%5Etfw)
 
----
+Despite a growing recognition that the type of nutrition received by preterm infants influences their intestinal microbiome and health outcomes, the microbiota of mother's own milk (MOM), pasteurized donor human milk (PDHM), and infant formula remain poorly characterized. In our study, we found that the structure of microbial communities, bacterial diversity, and relative abundances of specific genera were significantly different between MOM, PDHM, and formula. Additionally, our results suggest that the microbiota of MOM changes as a function of time and maternal factors. Lastly, we identified three lactotypes within MOM that have distinct microbial compositions and described the maternal factors associated with them. These findings set the stage for future research aimed at advancing our knowledge of the microbiota of preterm infant nutrition and the specific influence it may have on health outcomes.
 
-## A human urothelial microtissue model reveals shared colonization and survival strategies between uropathogens and commensals
+[Source](https://doi.org/10.1128/mbio.02106-23)
 
-[Source](https://www.science.org/doi/full/10.1126/sciadv.adi9834)
-
----
-
-## @ScienceAdvances
-
-[Source](https://twitter.com/ScienceAdvances?ref_src=twsrc%5Etfw)
+10.1128/mbio.02106-23
 
 ---
 
-## @CarlosEBFlores
+## Strain-resolved metagenomic analysis of the gut as a reservoir for bloodstream infection pathogens among premature infants in Singapore
 
-[Source](https://twitter.com/CarlosEBFlores?ref_src=twsrc%5Etfw)
-
----
-
-## #UTI
-
-[Source](https://twitter.com/hashtag/UTI?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1186/s13099-023-00583-8)
 
 ---
 
-## https://t.co/gGjoGsuhHW
+## <em>Porphyromonas gingivalis</em> as a promotor in the development of the alcoholic liver disease via ferroptosis
 
-[Source](https://t.co/gGjoGsuhHW)
-
----
-
-## @GlobalUti
-
-[Source](https://twitter.com/GlobalUti?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1016/j.micinf.2023.105250)
 
 ---
 
-## November 8, 2023
+## The core phageome and its interrelationship with preterm human milk lipids
 
-[Source](https://twitter.com/JennyRohn/status/1722341766584549741?ref_src=twsrc%5Etfw)
-
----
-
-## <em>Gardnerella pickettii </em>sp. nov. (formerly <em>Gardnerella</em> genomic species 3) and <em>Gardnerella greenwoodii </em>sp. nov. (formerly <em>Gardnerella </em>genomic species 8) isolated from female urinary microbiome 
-
-[Source](https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.006140)
+[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01385-2)
 
 ---
 
-## <em>Lactobacillus isalae</em> sp. nov., isolated from the female reproductive tract 
+## Longitudinal analysis at three oral sites links oral microbiota to clinical outcomes in allogeneic hematopoietic stem-cell transplant
 
-[Source](https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.006038)
-
----
-
-## Identification of a DNA-cytosine methyltransferase that impacts global transcription to promote group B streptococcal vaginal colonization
-
-[Source](https://journals.asm.org/doi/10.1128/mbio.02306-23)
+[Source](https://doi.org/10.1128/spectrum.02910-23)
 
 ---
 
-## @KdoranLab
+## Gut inflammation associated with age and Alzheimer’s disease pathology: a human cohort study
 
-[Source](https://twitter.com/KdoranLab?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/s4Tqnp9Kvj
-
-[Source](https://t.co/s4Tqnp9Kvj)
+[Source](https://doi.org/10.1038/s41598-023-45929-z)
 
 ---
 
-## [Clinical and laboratory features of SF3B1-mutated myeloproliferative neoplasms].
- 20.11.2023, _L Peng, YH Zhang, GS Teng, CX Du, Y Wang, NB Hu, YQ Li, ZH Shao, J Bai_
+## Robust airway microbiome signatures in acute respiratory failure and hospital-acquired pneumonia
 
-
-Objective: To explore the clinical and laboratory characteristics of SF3B1 gene mutations in myeloproliferative neoplasms (MPN) patients. Methods: The clinical data of 273 MPN patients who were diagnosed MPN and treated in the Second Hospital of Tianjin Medical University from November 2017 to March 2023 were retrospectively analyzed. There were 133 males and 140 females, with a median age M(Q1,Q3)of 56(46, 67) years. The molecular biology and cytogenetic characteristics were detected by second-generation sequencing (NGS) and R+G banding techniques, and the clinical and laboratory characteristics of patients with SF3B1 gene mutation were analyzed. Results: SF3B1 gene mutations were found in 13 patients (4.8%, 13/273).The types of SF3B1 mutations included missense (92.3%, 12/13) and nonsense mutations (7.7%, 1/13).Compared to the non-mutant cohort, patients in SF3B1 mutant cohort had older ages [68(51, 76) vs 56(45, 66)years,P=0.025], higher proportion of splenomegaly [46.2%(6/13) vs 15.8%(41/259),P=0.014]and secondary tumor [23.1%(3/13)vs 3.8%(10/260), P=0.018]with higher proportion of bone marrow blast [0.5%(0, 1.5%) vs 0(0, 0.5%),P=0.002] and lower hemoglobin[(104±36) vs (137±40) g/L,P=0.004] and hematocrit [31%(22%, 40%) vs 41%(35%, 52%),P=0.003]. All of the 10 patients in the SF3B1 mutant cohort whose ring sideroblast (RS) could be evaluated showed no RS formation. The overall survival, thrombosis-free survival and leukemia free survival of MPN patients in SF3B1 mutant cohort were 4.0 (2.0, 6.0), 2.0 (0.5, 4.5) and 4.0 (2.0, 6.0) years, respectively, while patients in the non-mutant cohort were 6.0 (3.0, 10.0), 5.0 (1.0, 8.0), 6.0 (3.0, 10.0) years, respectively, there were no statistical significance between two groups (Z=3.69, 1.66, 2.05, all P&gt;0.05).The secondary tumor free survival of SF3B1 mutant cohort patients was 4.0 (2.0, 6.0) years, which was lower than that of non-mutant cohort patients [5.5 (3.0, 10.0) years, Z=18.18, P&lt;0.001). Conclusions: MPN patients with SF3B1 gene mutations are older, more prone to splenomegaly and secondary tumors. They also have a higher proportion of bone marrow blast, lower hemoglobin and hematocrit, and show no RS formation.
-
-[Source](https://twitter.com/HaiderSManzer/status/1719688498884604319?ref_src=twsrc%5Etfw)
-
-10.3760/cma.j.cn112137-20230928-00609
+[Source](https://doi.org/10.1038/s41591-023-02617-9)
 
 ---
 
-## November 1, 2023
+## Systematic mining of the human microbiome identifies antimicrobial peptides with diverse activity spectra.
+ 17.11.2023, _AM King, Z Zhang, E Glassey, P Siuti, J Clardy, CA Voigt_
 
-[Source](https://twitter.com/HaiderSManzer/status/1719688498884604319?ref_src=twsrc%5Etfw)
 
----
+Human-associated bacteria secrete modified peptides to control host physiology and remodel the microbiota species composition. Here we scanned 2,229 Human Microbiome Project genomes of species colonizing skin, gastrointestinal tract, urogenital tract, mouth and trachea for gene clusters encoding RiPPs (ribosomally synthesized and post-translationally modified peptides). We found 218 lanthipeptides and 25 lasso peptides, 70 of which were synthesized and expressed in E. coli and 23 could be purified and functionally characterized. They were tested for activity against bacteria associated with healthy human flora and pathogens. New antibiotics were identified against strains implicated in skin, nasal and vaginal dysbiosis as well as from oral strains selectively targeting those in the gut. Extended- and narrow-spectrum antibiotics were found against methicillin-resistant Staphylococcus aureus and vancomycin-resistant Enterococci. Mining natural products produced by human-associated microbes will enable the elucidation of ecological relationships and may be a rich resource for antimicrobial discovery.
 
-## Aggression: A gut reaction? The effects of the gut microbiome on aggression – Atara Uzan-Yulzari – bioRxiv
+[Source](https://doi.org/10.1038/s41564-023-01524-6)
 
-[Source](https://www.biorxiv.org/content/10.1101/2023.10.26.564110v1)
-
----
-
-## @KorenLab
-
-[Source](https://twitter.com/KorenLab?ref_src=twsrc%5Etfw)
+10.1038/s41564-023-01524-6
 
 ---
 
-## @evanelliottlab
+## Skin benefits of postbiotics derived from <em>Micrococcus luteus</em> derived from human skin: an untapped potential for dermatological health
 
-[Source](https://twitter.com/evanelliottlab?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/Zs4Y7ziPQH
-
-[Source](https://t.co/Zs4Y7ziPQH)
+[Source](https://doi.org/10.1007/s13258-023-01471-w)
 
 ---
 
-## October 31, 2023
+## <em>Akkermansia muciniphila</em> attenuated lipopolysaccharide-induced acute lung injury by modulating the gut microbiota and SCFAs in mice
 
-[Source](https://twitter.com/SondraTurjeman/status/1719239282747908560?ref_src=twsrc%5Etfw)
-
----
-
-## Establishment of tongue microbiota by 18 months of age and determinants of its microbial profile
-
-[Source](https://journals.asm.org/doi/full/10.1128/mbio.01337-23)
+[Source](https://doi.org/10.1039/d3fo04051h)
 
 ---
 
-## Pet cats may shape the antibiotic resistome of their owner's gut and living environment.
- 19.11.2023, _Y Yang, X Hu, S Cai, N Hu, Y Yuan, Y Wu, Y Wang, J Mi, X Liao_
+## The Potential of Meta-Proteomics and Artificial Intelligence to Establish the Next Generation of Probiotics for Personalized Healthcare.
+ 13.11.2023, _A Das, RN Behera, A Kapoor, K Ambatipudi_
 
 
-_Animals, Humans, Cats, Anti-Bacterial Agents, Genes, Bacterial, Aminoglycosides, Tetracycline, Enterobacteriaceae_
-Companion animals can contribute to the physical and mental health of people and often live in very close association with their owners. However, the antibiotic resistome carried by companion animals and the impact they have on their owners and living environment remain unclear. In this study, we compared the ARG profiles of cats, humans, and their living environments using metagenomic analysis to identify the core ARGs in the cat and human gut and explore the potential impact of cats on ARGs in the human gut through the environment.
+The symbiosis of probiotic bacteria with humans has rendered various health benefits while providing nutrition and a suitable environment for their survival. However, the probiotics must survive unfavorable gut conditions to exert beneficial effects. The intrinsic resistance of probiotics to survive harsh conditions results from a myriad of proteins. Interaction of microbial proteins with the host is indispensable for modulating the gut microbiome, such as interaction with cell receptors and protective action against pathogens. The complex interplay of proteins should be unraveled by utilizing metaproteomic strategies. The contribution of probiotics to health is now widely accepted. However, due to the inconsistency of generalized probiotics, contemporary research toward precision probiotics has gained momentum for customized treatment. This review explores the application of metaproteomics and AI/ML algorithms in resolving multiomics data analysis and in silico prediction of microbial features for screening specific beneficial probiotic organisms. Implementing these integrative strategies could augment the potential of precision probiotics for personalized healthcare.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01679-8)
+[Source](https://doi.org/10.1021/acs.jafc.3c03834)
 
-10.1186/s40168-023-01679-8
-
----
-
-## The impact of kit, environment and sampling contamination on the observed microbiome of bovine milk
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.11.07.566052v1)
+10.1021/acs.jafc.3c03834
 
 ---
 
-## Early life exposure to broccoli sprouts confers stronger protection against enterocolitis development in an immunological mouse model of inflammatory bowel disease
+## Gut microbiome in healthy aging versus those associated with frailty.
+ 17.11.2023, _MY Lim, YD Nam_
 
-[Source](https://journals.asm.org/doi/10.1128/msystems.00688-23)
 
----
+_Humans, Aged, Gastrointestinal Microbiome, Frailty, Healthy Aging, Prebiotics, Probiotics, Dysbiosis_
+As the proportion of older people in the world's population steadily increases, there is an urgent need to identify ways to support healthy aging. The gut microbiome has been proposed to be involved in aging-related diseases and has become an attractive target for improving health in older people. Herein, we cover the relationship between the gut microbiome and chronological age in adults, and then, we discuss the gut microbiome features associated with frailty, as a hallmark of unhealthy aging in older people. Furthermore, we describe the effects of microbiome-targeted interventions, such as dietary patterns and consumption of probiotics, prebiotics, and synbiotics, on modulating the gut microbiome composition and further promoting healthy aging. Further studies are needed to explore the underlying mechanisms of gut microbiome-induced aging complications and to develop personalized microbiome-based strategies for reducing the severity of frailty or preventing the onset of frailty in older adults.
 
-## Daily fluctuation of colonic microbiome in response to nutrient substrates in a pig model 
+[Source](https://doi.org/10.1080/19490976.2023.2278225)
 
-[Source](https://www.nature.com/articles/s41522-023-00453-w)
-
----
-
-## Assessing the impact of anti-microbial showerheads on the prevalence and abundance of opportunistic pathogens in shower water and shower water-associated aerosols
-
-[Source](https://www.frontiersin.org/articles/10.3389/frmbi.2023.1292571/full)
+10.1080/19490976.2023.2278225
 
 ---
 
-## Global abundance patterns, diversity, and ecology of Patescibacteria in wastewater treatment plant
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.10.25.562895v1)
-
----
-
-## A high-throughput and low-waste viability assay for microbes.
- 03.11.2023, _CT Meyer, GK Lynch, DF Stamo, EJ Miller, A Chatterjee, JM Kralj_
+## Host species and habitat shape fish-associated bacterial communities: phylosymbiosis between fish and their microbiome.
+ 20.11.2023, _J Sadeghi, SR Chaganti, TB Johnson, DD Heath_
 
 
-Counting viable cells is a universal practice in microbiology. The colony-forming unit (CFU) assay has remained the gold standard to measure viability across disciplines, but it is time-intensive and resource-consuming. Here we describe the geometric viability assay (GVA) that replicates CFU measurements over 6 orders of magnitude while reducing over 10-fold the time and consumables required. GVA computes a sample's viable cell count on the basis of the distribution of embedded colonies growing inside a pipette tip. GVA is compatible with Gram-positive and Gram-negative planktonic bacteria (Escherichia coli, Pseudomonas aeruginosa and Bacillus subtilis), biofilms and fungi (Saccharomyces cerevisiae). Laborious CFU experiments such as checkerboard assays, treatment time-courses and drug screens against slow-growing cells are simplified by GVA. The ease and low cost of GVA evinces that it can replace existing viability assays and enable viability measurements at previously impractical scales.
+While many studies have reported that the structure of the gut and skin microbiota is driven by both species-specific and habitat-specific factors, the relative importance of host-specific versus environmental factors in wild vertebrates remains poorly understood. The aim of this study was to determine the diversity and composition of fish skin, gut, and surrounding water bacterial communities (hereafter referred to as microbiota) and assess the extent to which host habitat and phylogeny predict microbiota similarity. Skin swabs and gut samples from 334 fish belonging to 17 species were sampled in three Laurentian Great Lakes (LGLs) habitats (Detroit River, Lake Erie, Lake Ontario). We also collected and filtered water samples at the time of fish collection. We analyzed bacterial community composition using 16S metabarcoding and tested for community variation.
 
-[Source](https://www.nature.com/articles/s41564-023-01513-9)
+[Source](https://doi.org/10.1186/s40168-023-01697-6)
 
-10.1038/s41564-023-01513-9
+10.1186/s40168-023-01697-6
 
 ---
 
-## Comparison of gene clustering criteria reveals intrinsic uncertainty in pangenome analyses.
- 07.11.2023, _S Manzano-Morales, Y Liu, S González-Bodí, J Huerta-Cepas, J Iranzo_
+## <em>Aedes aegypti</em> microbiome composition covaries with the density of <em>Wolbachia</em> infection
 
-
-_Phylogeny, Reproducibility of Results, Uncertainty, Genome Size, Cluster Analysis_
-A key step for comparative genomics is to group open reading frames into functionally and evolutionarily meaningful gene clusters. Gene clustering is complicated by intraspecific duplications and horizontal gene transfers that are frequent in prokaryotes. In consequence, gene clustering methods must deal with a trade-off between identifying vertically transmitted representatives of multicopy gene families, which are recognizable by synteny conservation, and retrieving complete sets of species-level orthologs. We studied the implications of adopting homology, orthology, or synteny conservation as formal criteria for gene clustering by performing comparative analyses of 125 prokaryotic pangenomes.
-
-[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03089-3)
-
-10.1186/s13059-023-03089-3
+[Source](https://doi.org/10.1186/s40168-023-01678-9)
 
 ---
 
-## Comparison of gene clustering criteria reveals intrinsic uncertainty in pangenome analyses – Saioa Manzano-Morales
+## Sequential host-bacteria and bacteria-bacteria interactions determine the microbiome establishment of <em>Nematostella vectensis</em>
 
-[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03089-3)
-
----
-
-## ACR: metagenome-assembled prokaryotic and eukaryotic genome refinement tool.
- 02.11.2023, _HJ Seong, JJ Kim, WJ Sul_
-
-
-_Metagenome, Eukaryota, Microbiota, Algorithms, Metagenomics, Cluster Analysis_
-Microbial genome recovery from metagenomes can further explain microbial ecosystem structures, functions and dynamics. Thus, this study developed the Additional Clustering Refiner (ACR) to enhance high-purity prokaryotic and eukaryotic metagenome-assembled genome (MAGs) recovery. ACR refines low-quality MAGs by subjecting them to iterative k-means clustering predicated on contig abundance and increasing bin purity through validated universal marker genes. Synthetic and real-world metagenomic datasets, including short- and long-read sequences, evaluated ACR's effectiveness. The results demonstrated improved MAG purity and a significant increase in high- and medium-quality MAG recovery rates. In addition, ACR seamlessly integrates with various binning algorithms, augmenting their strengths without modifying core features. Furthermore, its multiple sequencing technology compatibilities expand its applicability. By efficiently recovering high-quality prokaryotic and eukaryotic genomes, ACR is a promising tool for deepening our understanding of microbial communities through genome-centric metagenomics.
-
-[Source](https://academic.oup.com/bib/article-abstract/24/6/bbad381/7330501)
-
-10.1093/bib/bbad381
+[Source](https://doi.org/10.1186/s40168-023-01701-z)
 
 ---
 
-## https://t.co/RVEkkmv13G
+## Microbial symbionts are shared between ants and their associated beetles
 
-[Source](https://t.co/RVEkkmv13G)
-
----
-
-## Acceptance of COVID-19 boosters among hypertensive patients in China: A multicenter cross-sectional study.
- 20.11.2023, _Y Yan, Q Chen, A Nuermaimaiti, Y Xiao, L Chang, H Ji, H Sun, Q Song, Y Gao, J Xu, L Wang_
-
-
-Hypertension, a prevalent chronic disease, has been associated with increased COVID-19 severity. To promote the COVID-19 booster vaccination of hypertensive patients, this study investigated the willingness to receive boosters and the related influencing factors based on the health belief model (HBM model). Between June and October 2022, 453 valid questionnaires were collected across three Chinese cities. The willingness to receive a booster vaccination was 72.2%. The main factors that influenced the willingness of patients with hypertension to receive a booster shot were male (χ2 = 7.008, p = .008), residence in rural (χ2 = 4.778, p = .029), being in employment (χ2 = 7.232, p = .007), taking no or less antihypertensive medication (χ2 = 9.372, p = .025), with less hypertension-related comorbidities (χ2 = 35.888, p &lt; .0001), and did not have any other chronic diseases (χ2 = 28.476, p &lt; .0001). Amid the evolving COVID-19 landscape, the willingness to receive annual booster vaccination was 59.4%, and employment status (χ2 = 10.058, p = .002), and presence of other chronic diseases (χ2 = 14.256, p &lt; .0001) are associated with the willingness of annual booster vaccination. Respondents with higher perceived severity, perceived benefits, perceived self-efficacy, and lower perceived barriers were more willing to receive booster shots. The mean and median value of willingness to pay (WTP) for a dose of booster were 53.17 CNY and 28.31 CNY. Concerns regarding booster safety and the need for professional advice were prevalent. Our findings highlight the importance of promoting booster safety knowledge and health-related management among hypertensive individuals through professional organizations and medical specialists.
-
-[Source](https://twitter.com/HoonJeSeong1/status/1719231372362215759?ref_src=twsrc%5Etfw)
-
-10.1080/21645515.2023.2283315
+[Source](https://doi.org/10.1111/1462-2920.16544)
 
 ---
 
-## October 31, 2023
+## The gut microbiome mediates adaptation to scarce food in Coleoptera
 
-[Source](https://twitter.com/HoonJeSeong1/status/1719231372362215759?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1186/s40793-023-00537-2)
+
+---
+
+## Interplay of gut microbiota and host epithelial mitochondrial dysfunction is necessary for the development of spontaneous intestinal inflammation in mice
+
+[Source](https://doi.org/10.1186/s40168-023-01686-9)
+
+---
+
+## Microbial diversity and community structure dynamics in acid mine drainage: Acidic fire with dissolved heavy metals
+
+[Source](https://doi.org/10.1016/j.scitotenv.2023.168635)
+
+---
+
+## Polar lake microbiomes have distinct evolutionary histories
+
+[Source](https://doi.org/10.1126/sciadv.ade7130)
+
+---
+
+## PSKR1 balances the plant growth-defence trade-off in the rhizosphere microbiome.
+ 17.11.2023, _S Song, Z Morales Moreira, AL Briggs, XC Zhang, AC Diener, CH Haney_
+
+
+Microbiota benefit their hosts by improving nutrient uptake and pathogen protection. How host immunity restricts microbiota while avoiding autoimmunity is poorly understood. Here we show that the Arabidopsis phytosulfokine receptor 1 (pskr1) mutant displays autoimmunity (plant stunting, defence-gene expression and reduced rhizosphere bacterial growth) in response to growth-promoting Pseudomonas fluorescens. Microbiome profiling and microbiota colonization showed that PSKR1-mediated reduction in bacterial growth and stunting is largely specific to Pseudomonas. Transcriptional profiling demonstrated that PSKR1 regulates the growth-defence trade-off during Pseudomonas colonization: PSKR1 upregulates plant photosynthesis and root growth but suppresses salicylic-acid-mediated defences. Genetic epistasis experiments showed that pskr1 stunting and restriction of bacterial growth are salicylic acid dependent. Finally, we showed that Pseudomonas, but not other bacteria, induces PSKR1 expression in roots, suggesting that Pseudomonas might manipulate plant signalling to promote its colonization. Our data demonstrate a genetic mechanism to coordinate beneficial functions of the microbiome while preventing autoimmunity.
+
+[Source](https://doi.org/10.1038/s41477-023-01539-1)
+
+10.1038/s41477-023-01539-1
+
+---
+
+## <em>Streptomyces</em> alleviate abiotic stress in plant by producing pteridic acids
+
+[Source](https://doi.org/10.1038/s41467-023-43177-3)
+
+---
+
+## The pan-microbiome profiling system Taxa4Meta identifies clinical dysbiotic features and classifies diarrheal disease.
+ 14.11.2023, _Q Wu, S Badu, SY So, TJ Treangen, TC Savidge_
+
+
+Targeted metagenomic sequencing is an emerging strategy to survey disease- specific microbiome biomarkers for clinical diagnosis and prognosis. However, this approach often yields inconsistent or conflicting results due to inadequate study power and sequencing bias. We introduce Taxa4Meta, a bioinformatics pipeline explicitly designed to compensate for technical and demographic bias. We designed and validated Taxa4Meta for accurate taxonomic profiling of 16S rRNA amplicon data acquired from different sequencing strategies. Taxa4Meta offers significant potential in identifying clinical dysbiotic features that can reliably predict human disease, validated comprehensively via re-analysis of individual patient 16S datasets. We leveraged the power of Taxa4Meta's pan-microbiome profiling to generate 16S-based classifiers that exhibited excellent utility for stratification of diarrheal patients with Clostridioides difficile infection, irritable bowel syndrome or inflammatory bowel diseases, which represent common misdiagnoses and pose significant challenges for clinical management. We believe that Taxa4Meta represents a new "best practices" approach to individual microbiome surveys that can be used to define gut dysbiosis at a population-scale level.
+
+[Source](https://doi.org/10.1172/JCI170859)
+
+10.1172/JCI170859
+
+---
+
+## Machine learning for microbiologists.
+ 15.11.2023, _F Asnicar, AM Thomas, A Passerini, L Waldron, N Segata_
+
+
+Machine learning is increasingly important in microbiology where it is used for tasks such as predicting antibiotic resistance and associating human microbiome features with complex host diseases. The applications in microbiology are quickly expanding and the machine learning tools frequently used in basic and clinical research range from classification and regression to clustering and dimensionality reduction. In this Review, we examine the main machine learning concepts, tasks and applications that are relevant for experimental and clinical microbiologists. We provide the minimal toolbox for a microbiologist to be able to understand, interpret and use machine learning in their experimental and translational activities.
+
+[Source](https://doi.org/10.1038/s41579-023-00984-1)
+
+10.1038/s41579-023-00984-1
 
 ---
 
