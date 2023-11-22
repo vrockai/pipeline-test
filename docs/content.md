@@ -53,15 +53,27 @@ Despite a growing recognition that the type of nutrition received by preterm inf
 
 ---
 
-## Robust airway microbiome signatures in acute respiratory failure and hospital-acquired pneumonia
+## Robust airway microbiome signatures in acute respiratory failure and hospital-acquired pneumonia.
+ 13.11.2023, _E Montassier, GD Kitsios, JE Radder, Q Le Bastard, BJ Kelly, A Panzer, SV Lynch, CS Calfee, RP Dickson, A Roquilly_
+
+
+Respiratory microbial dysbiosis is associated with acute respiratory distress syndrome (ARDS) and hospital-acquired pneumonia (HAP) in critically ill patients. However, we lack reproducible respiratory microbiome signatures that can increase our understanding of these conditions and potential treatments. Here, we analyze 16S rRNA sequencing data from 2,177 respiratory samples collected from 1,029 critically ill patients (21.7% with ARDS and 26.3% with HAP) and 327 healthy controls, sourced from 17 published studies. After data harmonization and pooling of individual patient data, we identified microbiota signatures associated with ARDS, HAP and prolonged mechanical ventilation. Microbiota signatures for HAP and prolonged mechanical ventilation were characterized by depletion of a core group of microbes typical of healthy respiratory samples, and the ARDS microbiota signature was distinguished by enrichment of potentially pathogenic respiratory microbes, including Pseudomonas and Staphylococcus. Using machine learning models, we identified clinically informative, three- and four-factor signatures that predicted ARDS, HAP and prolonged mechanical ventilation with relatively high accuracy (area under the curve of 0.751, 0.72 and 0.727, respectively). We validated the signatures in an independent prospective cohort of 136 patients on mechanical ventillation and found that patients with microbiome signatures associated with ARDS, HAP or prolonged mechanical ventilation had longer times to successful extubation than patients lacking these signatures (hazard ratios of 1.56 (95% confidence interval (CI) 1.07-2.27), 1.51 (95% CI 1.02-2.23) and 1.50 (95% CI 1.03-2.18), respectively). Thus, we defined and validated robust respiratory microbiome signatures associated with ARDS and HAP that may help to identify promising targets for microbiome therapeutic modulation in critically ill patients.
 
 [Source](https://doi.org/10.1038/s41591-023-02617-9)
 
+10.1038/s41591-023-02617-9
+
 ---
 
-## Systematic mining of the human microbiome identifies antimicrobial peptides with diverse activity spectra
+## Systematic mining of the human microbiome identifies antimicrobial peptides with diverse activity spectra.
+ 17.11.2023, _AM King, Z Zhang, E Glassey, P Siuti, J Clardy, CA Voigt_
+
+
+Human-associated bacteria secrete modified peptides to control host physiology and remodel the microbiota species composition. Here we scanned 2,229 Human Microbiome Project genomes of species colonizing skin, gastrointestinal tract, urogenital tract, mouth and trachea for gene clusters encoding RiPPs (ribosomally synthesized and post-translationally modified peptides). We found 218 lanthipeptides and 25 lasso peptides, 70 of which were synthesized and expressed in E. coli and 23 could be purified and functionally characterized. They were tested for activity against bacteria associated with healthy human flora and pathogens. New antibiotics were identified against strains implicated in skin, nasal and vaginal dysbiosis as well as from oral strains selectively targeting those in the gut. Extended- and narrow-spectrum antibiotics were found against methicillin-resistant Staphylococcus aureus and vancomycin-resistant Enterococci. Mining natural products produced by human-associated microbes will enable the elucidation of ecological relationships and may be a rich resource for antimicrobial discovery.
 
 [Source](https://doi.org/10.1038/s41564-023-01524-6)
+
+10.1038/s41564-023-01524-6
 
 ---
 
@@ -89,16 +101,9 @@ Despite a growing recognition that the type of nutrition received by preterm inf
 
 ---
 
-## Host species and habitat shape fish-associated bacterial communities: phylosymbiosis between fish and their microbiome.
- 21.11.2023, _J Sadeghi, SR Chaganti, TB Johnson, DD Heath_
-
-
-_Animals, Phylogeny, Microbiota, Fishes, Gastrointestinal Microbiome, Water_
-While many studies have reported that the structure of the gut and skin microbiota is driven by both species-specific and habitat-specific factors, the relative importance of host-specific versus environmental factors in wild vertebrates remains poorly understood. The aim of this study was to determine the diversity and composition of fish skin, gut, and surrounding water bacterial communities (hereafter referred to as microbiota) and assess the extent to which host habitat and phylogeny predict microbiota similarity. Skin swabs and gut samples from 334 fish belonging to 17 species were sampled in three Laurentian Great Lakes (LGLs) habitats (Detroit River, Lake Erie, Lake Ontario). We also collected and filtered water samples at the time of fish collection. We analyzed bacterial community composition using 16S metabarcoding and tested for community variation.
+## Host species and habitat shape fish-associated bacterial communities: phylosymbiosis between fish and their microbiome
 
 [Source](https://doi.org/10.1186/s40168-023-01697-6)
-
-10.1186/s40168-023-01697-6
 
 ---
 
@@ -132,15 +137,9 @@ While many studies have reported that the structure of the gut and skin microbio
 
 ---
 
-## Microbial diversity and community structure dynamics in acid mine drainage: Acidic fire with dissolved heavy metals.
- 21.11.2023, _W Sajjad, N Ilahi, S Kang, A Bahadur, A Banerjee, S Zada, B Ali, M Rafiq, G Zheng_
-
-
-Acid mine drainage (AMD) is one of the leading causes of environmental pollution and is linked to public health and ecological consequences. Microbes-mineral interaction generates AMD, but microorganisms can also remedy AMD pollution. Exploring the microbial response to AMD effluents may reveal survival strategies in extreme ecosystems. Three distinct sites across a mine (inside the mine, the entrance of the mine, and outside) were selected to study their heavy metal concentrations due to significant variations in pH and physicochemical characteristics, and high-throughput sequencing was carried out to investigate the microbial diversity. The metal and ion concentrations followed the order SO42-, Fe, Cu, Zn, Mg, Pb, Co, Cr, and Ni from highest to lowest, respectively. Maximum sequences were allocated to Proteobacteria and Firmicutes. Among archaea, the abundance of Thaumarchaeota and Euryarchaeota was higher outside of mine. Most of the genera (23.12 %) were unclassified and unknown. The average OTUs (operational taxonomic units) were significantly higher outside the mine; however, diversity indices were not significantly different across the mine sites. Hierarchical clustering of selective genera and nMDS ordination of OTUs displayed greater segregation resolution inside and outside of mine, whereas the entrance samples clustered with greater similarity. Heterogeneous selection might be the main driver of community composition outside the mine, whereas stochastic processes became prominent inside the mine. However, the ANOSIM test shows a relatively even distribution of community composition within and between the groups. Microbial phyla showed both positive and negative correlations with physicochemical factors. A greater number of biomarkers were reported outside of the mine. Predictive functional investigation revealed the existence of putative degradative, metabolic, and biosynthetic pathways. This study presents a rare dataset in our understanding of microbial diversity and distribution as shaped by the ecological gradient and potential novelty in phylogenetic/taxonomic diversity in AMD, with potential biotechnological applications.
+## Microbial diversity and community structure dynamics in acid mine drainage: Acidic fire with dissolved heavy metals
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.168635)
-
-10.1016/j.scitotenv.2023.168635
 
 ---
 
