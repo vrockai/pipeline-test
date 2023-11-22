@@ -1,5 +1,5 @@
 ## Association between microbiome and the development of adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure.
- 21.11.2023, _AL Zeamer, MC Salive, X An, FL Beaudoin, SL House, JS Stevens, D Zeng, TC Neylan, GD Clifford, SD Linnstaedt, SL Rauch, AB Storrow, C Lewandowski, PI Musey, PL Hendry, S Sheikh, CW Jones, BE Punches, RA Swor, LA Hudak, JL Pascual, MJ Seamon, E Harris, C Pearson, DA Peak, RC Merchant, RM Domeier, NK Rathlev, BJ O'Neil, P Sergot, LD Sanchez, SE Bruce, RC Kessler, KC Koenen, SA McLean, V Bucci, JP Haran_
+ 22.11.2023, _AL Zeamer, MC Salive, X An, FL Beaudoin, SL House, JS Stevens, D Zeng, TC Neylan, GD Clifford, SD Linnstaedt, SL Rauch, AB Storrow, C Lewandowski, PI Musey, PL Hendry, S Sheikh, CW Jones, BE Punches, RA Swor, LA Hudak, JL Pascual, MJ Seamon, E Harris, C Pearson, DA Peak, RC Merchant, RM Domeier, NK Rathlev, BJ O'Neil, P Sergot, LD Sanchez, SE Bruce, RC Kessler, KC Koenen, SA McLean, V Bucci, JP Haran_
 
 
 _Adult, Humans, Microbiota, Stress Disorders, Post-Traumatic, Gastrointestinal Microbiome, Feces, Biological Availability_
@@ -35,15 +35,27 @@ Despite a growing recognition that the type of nutrition received by preterm inf
 
 ---
 
-## The core phageome and its interrelationship with preterm human milk lipids
+## The core phageome and its interrelationship with preterm human milk lipids.
+ 15.11.2023, _WC Yew, GR Young, A Nelson, W Cheung, CJ Stewart, SH Bridge, C Granger, JE Berrington, ND Embleton, DL Smith_
+
+
+Phages and lipids in human milk (HM) may benefit preterm infant health by preventing gastrointestinal pathobiont overgrowth and microbiome modulation. Lipid association may promote vertical transmission of phages to the infant. Despite this, interrelationships between lipids and phages are poorly characterized in preterm HM. Shotgun metagenomics and untargeted lipidomics of phage and lipid profiles from 99 preterm HM samples reveals that phages are abundant and prevalent from the first week and throughout the first 100 days of lactation. Phage-host richness of preterm HM increases longitudinally. Core phage communities characterized by Staphylococcus- and Propionibacterium-infecting phages are significantly correlated with long-chain fatty acid abundances over lactational age. We report here a phage-lipid interaction in preterm HM, highlighting the potential importance of phage carriage in preterm HM. These results reveal possible strategies for phage carriage in HM and their importance in early-life microbiota development.
 
 [Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01385-2)
 
+10.1016/j.celrep.2023.113373
+
 ---
 
-## Longitudinal analysis at three oral sites links oral microbiota to clinical outcomes in allogeneic hematopoietic stem-cell transplant
+## Longitudinal analysis at three oral sites links oral microbiota to clinical outcomes in allogeneic hematopoietic stem-cell transplant.
+ 15.11.2023, _V Heidrich, FH Knebel, JS Bruno, VC de Molla, W Miranda-Silva, PF Asprino, L Tucunduva, V Rocha, Y Novis, ER Fregnani, C Arrais-Rodrigues, AA Camargo_
+
+
+The oral cavity is the ultimate doorway for microbes entering the human body. We analyzed oral microbiota dynamics in allogeneic hematopoietic stem-cell transplant recipients and showed that microbiota injury and recovery patterns were highly informative on transplant complications and outcomes. Our results highlight the importance of tracking the recipient's microbiota changes during allogeneic hematopoietic stem-cell transplant to improve our understanding of its biology, safety, and efficacy.
 
 [Source](https://doi.org/10.1128/spectrum.02910-23)
+
+10.1128/spectrum.02910-23
 
 ---
 
@@ -89,21 +101,41 @@ Human-associated bacteria secrete modified peptides to control host physiology a
 
 ---
 
-## The Potential of Meta-Proteomics and Artificial Intelligence to Establish the Next Generation of Probiotics for Personalized Healthcare
+## The Potential of Meta-Proteomics and Artificial Intelligence to Establish the Next Generation of Probiotics for Personalized Healthcare.
+ 22.11.2023, _A Das, RN Behera, A Kapoor, K Ambatipudi_
+
+
+The symbiosis of probiotic bacteria with humans has rendered various health benefits while providing nutrition and a suitable environment for their survival. However, the probiotics must survive unfavorable gut conditions to exert beneficial effects. The intrinsic resistance of probiotics to survive harsh conditions results from a myriad of proteins. Interaction of microbial proteins with the host is indispensable for modulating the gut microbiome, such as interaction with cell receptors and protective action against pathogens. The complex interplay of proteins should be unraveled by utilizing metaproteomic strategies. The contribution of probiotics to health is now widely accepted. However, due to the inconsistency of generalized probiotics, contemporary research toward precision probiotics has gained momentum for customized treatment. This review explores the application of metaproteomics and AI/ML algorithms in resolving multiomics data analysis and in silico prediction of microbial features for screening specific beneficial probiotic organisms. Implementing these integrative strategies could augment the potential of precision probiotics for personalized healthcare.
 
 [Source](https://doi.org/10.1021/acs.jafc.3c03834)
 
+10.1021/acs.jafc.3c03834
+
 ---
 
-## Gut microbiome in healthy aging versus those associated with frailty
+## Gut microbiome in healthy aging versus those associated with frailty.
+ 17.11.2023, _MY Lim, YD Nam_
+
+
+_Humans, Aged, Gastrointestinal Microbiome, Frailty, Healthy Aging, Prebiotics, Probiotics, Dysbiosis_
+As the proportion of older people in the world's population steadily increases, there is an urgent need to identify ways to support healthy aging. The gut microbiome has been proposed to be involved in aging-related diseases and has become an attractive target for improving health in older people. Herein, we cover the relationship between the gut microbiome and chronological age in adults, and then, we discuss the gut microbiome features associated with frailty, as a hallmark of unhealthy aging in older people. Furthermore, we describe the effects of microbiome-targeted interventions, such as dietary patterns and consumption of probiotics, prebiotics, and synbiotics, on modulating the gut microbiome composition and further promoting healthy aging. Further studies are needed to explore the underlying mechanisms of gut microbiome-induced aging complications and to develop personalized microbiome-based strategies for reducing the severity of frailty or preventing the onset of frailty in older adults.
 
 [Source](https://doi.org/10.1080/19490976.2023.2278225)
 
+10.1080/19490976.2023.2278225
+
 ---
 
-## Host species and habitat shape fish-associated bacterial communities: phylosymbiosis between fish and their microbiome
+## Host species and habitat shape fish-associated bacterial communities: phylosymbiosis between fish and their microbiome.
+ 22.11.2023, _J Sadeghi, SR Chaganti, TB Johnson, DD Heath_
+
+
+_Animals, Phylogeny, Microbiota, Fishes, Gastrointestinal Microbiome, Water_
+While many studies have reported that the structure of the gut and skin microbiota is driven by both species-specific and habitat-specific factors, the relative importance of host-specific versus environmental factors in wild vertebrates remains poorly understood. The aim of this study was to determine the diversity and composition of fish skin, gut, and surrounding water bacterial communities (hereafter referred to as microbiota) and assess the extent to which host habitat and phylogeny predict microbiota similarity. Skin swabs and gut samples from 334 fish belonging to 17 species were sampled in three Laurentian Great Lakes (LGLs) habitats (Detroit River, Lake Erie, Lake Ontario). We also collected and filtered water samples at the time of fish collection. We analyzed bacterial community composition using 16S metabarcoding and tested for community variation.
 
 [Source](https://doi.org/10.1186/s40168-023-01697-6)
+
+10.1186/s40168-023-01697-6
 
 ---
 
@@ -137,9 +169,15 @@ Human-associated bacteria secrete modified peptides to control host physiology a
 
 ---
 
-## Microbial diversity and community structure dynamics in acid mine drainage: Acidic fire with dissolved heavy metals
+## Microbial diversity and community structure dynamics in acid mine drainage: Acidic fire with dissolved heavy metals.
+ 21.11.2023, _W Sajjad, N Ilahi, S Kang, A Bahadur, A Banerjee, S Zada, B Ali, M Rafiq, G Zheng_
+
+
+Acid mine drainage (AMD) is one of the leading causes of environmental pollution and is linked to public health and ecological consequences. Microbes-mineral interaction generates AMD, but microorganisms can also remedy AMD pollution. Exploring the microbial response to AMD effluents may reveal survival strategies in extreme ecosystems. Three distinct sites across a mine (inside the mine, the entrance of the mine, and outside) were selected to study their heavy metal concentrations due to significant variations in pH and physicochemical characteristics, and high-throughput sequencing was carried out to investigate the microbial diversity. The metal and ion concentrations followed the order SO42-, Fe, Cu, Zn, Mg, Pb, Co, Cr, and Ni from highest to lowest, respectively. Maximum sequences were allocated to Proteobacteria and Firmicutes. Among archaea, the abundance of Thaumarchaeota and Euryarchaeota was higher outside of mine. Most of the genera (23.12 %) were unclassified and unknown. The average OTUs (operational taxonomic units) were significantly higher outside the mine; however, diversity indices were not significantly different across the mine sites. Hierarchical clustering of selective genera and nMDS ordination of OTUs displayed greater segregation resolution inside and outside of mine, whereas the entrance samples clustered with greater similarity. Heterogeneous selection might be the main driver of community composition outside the mine, whereas stochastic processes became prominent inside the mine. However, the ANOSIM test shows a relatively even distribution of community composition within and between the groups. Microbial phyla showed both positive and negative correlations with physicochemical factors. A greater number of biomarkers were reported outside of the mine. Predictive functional investigation revealed the existence of putative degradative, metabolic, and biosynthetic pathways. This study presents a rare dataset in our understanding of microbial diversity and distribution as shaped by the ecological gradient and potential novelty in phylogenetic/taxonomic diversity in AMD, with potential biotechnological applications.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.168635)
+
+10.1016/j.scitotenv.2023.168635
 
 ---
 
@@ -167,9 +205,15 @@ Human-associated bacteria secrete modified peptides to control host physiology a
 
 ---
 
-## Machine learning for microbiologists
+## Machine learning for microbiologists.
+ 15.11.2023, _F Asnicar, AM Thomas, A Passerini, L Waldron, N Segata_
+
+
+Machine learning is increasingly important in microbiology where it is used for tasks such as predicting antibiotic resistance and associating human microbiome features with complex host diseases. The applications in microbiology are quickly expanding and the machine learning tools frequently used in basic and clinical research range from classification and regression to clustering and dimensionality reduction. In this Review, we examine the main machine learning concepts, tasks and applications that are relevant for experimental and clinical microbiologists. We provide the minimal toolbox for a microbiologist to be able to understand, interpret and use machine learning in their experimental and translational activities.
 
 [Source](https://doi.org/10.1038/s41579-023-00984-1)
+
+10.1038/s41579-023-00984-1
 
 ---
 
