@@ -59,15 +59,9 @@ Despite a growing recognition that the type of nutrition received by preterm inf
 
 ---
 
-## Systematic mining of the human microbiome identifies antimicrobial peptides with diverse activity spectra.
- 17.11.2023, _AM King, Z Zhang, E Glassey, P Siuti, J Clardy, CA Voigt_
-
-
-Human-associated bacteria secrete modified peptides to control host physiology and remodel the microbiota species composition. Here we scanned 2,229 Human Microbiome Project genomes of species colonizing skin, gastrointestinal tract, urogenital tract, mouth and trachea for gene clusters encoding RiPPs (ribosomally synthesized and post-translationally modified peptides). We found 218 lanthipeptides and 25 lasso peptides, 70 of which were synthesized and expressed in E. coli and 23 could be purified and functionally characterized. They were tested for activity against bacteria associated with healthy human flora and pathogens. New antibiotics were identified against strains implicated in skin, nasal and vaginal dysbiosis as well as from oral strains selectively targeting those in the gut. Extended- and narrow-spectrum antibiotics were found against methicillin-resistant Staphylococcus aureus and vancomycin-resistant Enterococci. Mining natural products produced by human-associated microbes will enable the elucidation of ecological relationships and may be a rich resource for antimicrobial discovery.
+## Systematic mining of the human microbiome identifies antimicrobial peptides with diverse activity spectra
 
 [Source](https://doi.org/10.1038/s41564-023-01524-6)
-
-10.1038/s41564-023-01524-6
 
 ---
 
@@ -83,28 +77,15 @@ Human-associated bacteria secrete modified peptides to control host physiology a
 
 ---
 
-## The Potential of Meta-Proteomics and Artificial Intelligence to Establish the Next Generation of Probiotics for Personalized Healthcare.
- 13.11.2023, _A Das, RN Behera, A Kapoor, K Ambatipudi_
-
-
-The symbiosis of probiotic bacteria with humans has rendered various health benefits while providing nutrition and a suitable environment for their survival. However, the probiotics must survive unfavorable gut conditions to exert beneficial effects. The intrinsic resistance of probiotics to survive harsh conditions results from a myriad of proteins. Interaction of microbial proteins with the host is indispensable for modulating the gut microbiome, such as interaction with cell receptors and protective action against pathogens. The complex interplay of proteins should be unraveled by utilizing metaproteomic strategies. The contribution of probiotics to health is now widely accepted. However, due to the inconsistency of generalized probiotics, contemporary research toward precision probiotics has gained momentum for customized treatment. This review explores the application of metaproteomics and AI/ML algorithms in resolving multiomics data analysis and in silico prediction of microbial features for screening specific beneficial probiotic organisms. Implementing these integrative strategies could augment the potential of precision probiotics for personalized healthcare.
+## The Potential of Meta-Proteomics and Artificial Intelligence to Establish the Next Generation of Probiotics for Personalized Healthcare
 
 [Source](https://doi.org/10.1021/acs.jafc.3c03834)
 
-10.1021/acs.jafc.3c03834
-
 ---
 
-## Gut microbiome in healthy aging versus those associated with frailty.
- 17.11.2023, _MY Lim, YD Nam_
-
-
-_Humans, Aged, Gastrointestinal Microbiome, Frailty, Healthy Aging, Prebiotics, Probiotics, Dysbiosis_
-As the proportion of older people in the world's population steadily increases, there is an urgent need to identify ways to support healthy aging. The gut microbiome has been proposed to be involved in aging-related diseases and has become an attractive target for improving health in older people. Herein, we cover the relationship between the gut microbiome and chronological age in adults, and then, we discuss the gut microbiome features associated with frailty, as a hallmark of unhealthy aging in older people. Furthermore, we describe the effects of microbiome-targeted interventions, such as dietary patterns and consumption of probiotics, prebiotics, and synbiotics, on modulating the gut microbiome composition and further promoting healthy aging. Further studies are needed to explore the underlying mechanisms of gut microbiome-induced aging complications and to develop personalized microbiome-based strategies for reducing the severity of frailty or preventing the onset of frailty in older adults.
+## Gut microbiome in healthy aging versus those associated with frailty
 
 [Source](https://doi.org/10.1080/19490976.2023.2278225)
-
-10.1080/19490976.2023.2278225
 
 ---
 
@@ -152,7 +133,7 @@ While many studies have reported that the structure of the gut and skin microbio
 ---
 
 ## Microbial diversity and community structure dynamics in acid mine drainage: Acidic fire with dissolved heavy metals.
- 19.11.2023, _W Sajjad, N Ilahi, S Kang, A Bahadur, A Banerjee, S Zada, B Ali, M Rafiq, G Zheng_
+ 21.11.2023, _W Sajjad, N Ilahi, S Kang, A Bahadur, A Banerjee, S Zada, B Ali, M Rafiq, G Zheng_
 
 
 Acid mine drainage (AMD) is one of the leading causes of environmental pollution and is linked to public health and ecological consequences. Microbes-mineral interaction generates AMD, but microorganisms can also remedy AMD pollution. Exploring the microbial response to AMD effluents may reveal survival strategies in extreme ecosystems. Three distinct sites across a mine (inside the mine, the entrance of the mine, and outside) were selected to study their heavy metal concentrations due to significant variations in pH and physicochemical characteristics, and high-throughput sequencing was carried out to investigate the microbial diversity. The metal and ion concentrations followed the order SO42-, Fe, Cu, Zn, Mg, Pb, Co, Cr, and Ni from highest to lowest, respectively. Maximum sequences were allocated to Proteobacteria and Firmicutes. Among archaea, the abundance of Thaumarchaeota and Euryarchaeota was higher outside of mine. Most of the genera (23.12 %) were unclassified and unknown. The average OTUs (operational taxonomic units) were significantly higher outside the mine; however, diversity indices were not significantly different across the mine sites. Hierarchical clustering of selective genera and nMDS ordination of OTUs displayed greater segregation resolution inside and outside of mine, whereas the entrance samples clustered with greater similarity. Heterogeneous selection might be the main driver of community composition outside the mine, whereas stochastic processes became prominent inside the mine. However, the ANOSIM test shows a relatively even distribution of community composition within and between the groups. Microbial phyla showed both positive and negative correlations with physicochemical factors. A greater number of biomarkers were reported outside of the mine. Predictive functional investigation revealed the existence of putative degradative, metabolic, and biosynthetic pathways. This study presents a rare dataset in our understanding of microbial diversity and distribution as shaped by the ecological gradient and potential novelty in phylogenetic/taxonomic diversity in AMD, with potential biotechnological applications.
