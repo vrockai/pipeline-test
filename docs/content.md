@@ -151,21 +151,40 @@ While many studies have reported that the structure of the gut and skin microbio
 
 ---
 
-## Microbial symbionts are shared between ants and their associated beetles
+## Microbial symbionts are shared between ants and their associated beetles.
+ 16.11.2023, _C Valdivia, JA Newton, C von Beeren, S O'Donnell, DJC Kronauer, JA Russell, P Łukasik_
+
+
+The transmission of microbial symbionts across animal species could strongly affect their biology and evolution, but our understanding of transmission patterns and dynamics is limited. Army ants (Formicidae: Dorylinae) and their hundreds of closely associated insect guest species (myrmecophiles) can provide unique insights into interspecific microbial symbiont sharing. Here, we compared the microbiota of workers and larvae of the army ant Eciton burchellii with those of 13 myrmecophile beetle species using 16S rRNA amplicon sequencing. We found that the previously characterized specialized bacterial symbionts of army ant workers were largely absent from ant larvae and myrmecophiles, whose microbial communities were usually dominated by Rickettsia, Wolbachia, Rickettsiella and/or Weissella. Strikingly, different species of myrmecophiles and ant larvae often shared identical 16S rRNA genotypes of these common bacteria. Protein-coding gene sequences confirmed the close relationship of Weissella strains colonizing army ant larvae, some workers and several myrmecophile species. Unexpectedly, these strains were also similar to strains infecting dissimilar animals inhabiting very different habitats: trout and whales. Together, our data show that closely interacting species can share much of their microbiota, and some versatile microbial species can inhabit and possibly transmit across a diverse range of hosts and environments.
 
 [Source](https://doi.org/10.1111/1462-2920.16544)
 
+10.1111/1462-2920.16544
+
 ---
 
-## The gut microbiome mediates adaptation to scarce food in Coleoptera
+## The gut microbiome mediates adaptation to scarce food in Coleoptera.
+ 16.11.2023, _OT Moldovan, AA Carrell, PA Bulzu, E Levei, R Bucur, C Sitar, L Faur, IC Mirea, M Șenilă, O Cadar, M Podar_
+
+
+Beetles are ubiquitous cave invertebrates worldwide that adapted to scarce subterranean resources when they colonized caves. Here, we investigated the potential role of gut microbiota in the adaptation of beetles to caves from different climatic regions of the Carpathians. The beetles' microbiota was host-specific, reflecting phylogenetic and nutritional adaptation. The microbial community structure further resolved conspecific beetles by caves suggesting microbiota-host coevolution and influences by local environmental factors. The detritivore species hosted a variety of bacteria known to decompose and ferment organic matter, suggesting turnover and host cooperative digestion of the sedimentary microbiota and allochthonous-derived nutrients. The cave Carabidae, with strong mandibula, adapted to predation and scavenging of animal and plant remains, had distinct microbiota dominated by symbiotic lineages Spiroplasma or Wolbachia. All beetles had relatively high levels of fermentative Carnobacterium and Vagococcus involved in lipid accumulation and a reduction of metabolic activity, and both features characterize adaptation to caves.
 
 [Source](https://doi.org/10.1186/s40793-023-00537-2)
 
+10.1186/s40793-023-00537-2
+
 ---
 
-## Interplay of gut microbiota and host epithelial mitochondrial dysfunction is necessary for the development of spontaneous intestinal inflammation in mice
+## Interplay of gut microbiota and host epithelial mitochondrial dysfunction is necessary for the development of spontaneous intestinal inflammation in mice.
+ 20.11.2023, _KM Alula, AS Dowdell, B LeBere, JS Lee, CL Levens, KA Kuhn, BA Kaipparettu, WE Thompson, RS Blumberg, SP Colgan, AL Theiss_
+
+
+_Humans, Animals, Mice, Crohn Disease, Gastrointestinal Microbiome, Ileitis, Inflammation, Inflammatory Bowel Diseases, Paneth Cells, Butyrates, Mitochondria, Intestinal Mucosa_
+Intestinal epithelial cell (IEC) mitochondrial dysfunction involvement in inflammatory bowel diseases (IBD), including Crohn's disease affecting the small intestine, is emerging in recent studies. As the interface between the self and the gut microbiota, IECs serve as hubs of bidirectional cross-talk between host and luminal microbiota. However, the role of mitochondrial-microbiota interaction in the ileum is largely unexplored. Prohibitin 1 (PHB1), a chaperone protein of the inner mitochondrial membrane required for optimal electron transport chain function, is decreased during IBD. We previously demonstrated that mice deficient in PHB1 specifically in IECs (Phb1i∆IEC) exhibited mitochondrial impairment, Paneth cell defects, gut microbiota dysbiosis, and spontaneous inflammation in the ileum (ileitis). Mice deficient in PHB1 in Paneth cells (epithelial secretory cells of the small intestine; Phb1∆PC) also exhibited mitochondrial impairment, Paneth cell defects, and spontaneous ileitis. Here, we determined whether this phenotype is driven by Phb1 deficiency-associated ileal microbiota alterations or direct effects of loss of PHB1 in host IECs.
 
 [Source](https://doi.org/10.1186/s40168-023-01686-9)
+
+10.1186/s40168-023-01686-9
 
 ---
 
@@ -187,9 +206,15 @@ Acid mine drainage (AMD) is one of the leading causes of environmental pollution
 
 ---
 
-## PSKR1 balances the plant growth-defence trade-off in the rhizosphere microbiome
+## PSKR1 balances the plant growth-defence trade-off in the rhizosphere microbiome.
+ 17.11.2023, _S Song, Z Morales Moreira, AL Briggs, XC Zhang, AC Diener, CH Haney_
+
+
+Microbiota benefit their hosts by improving nutrient uptake and pathogen protection. How host immunity restricts microbiota while avoiding autoimmunity is poorly understood. Here we show that the Arabidopsis phytosulfokine receptor 1 (pskr1) mutant displays autoimmunity (plant stunting, defence-gene expression and reduced rhizosphere bacterial growth) in response to growth-promoting Pseudomonas fluorescens. Microbiome profiling and microbiota colonization showed that PSKR1-mediated reduction in bacterial growth and stunting is largely specific to Pseudomonas. Transcriptional profiling demonstrated that PSKR1 regulates the growth-defence trade-off during Pseudomonas colonization: PSKR1 upregulates plant photosynthesis and root growth but suppresses salicylic-acid-mediated defences. Genetic epistasis experiments showed that pskr1 stunting and restriction of bacterial growth are salicylic acid dependent. Finally, we showed that Pseudomonas, but not other bacteria, induces PSKR1 expression in roots, suggesting that Pseudomonas might manipulate plant signalling to promote its colonization. Our data demonstrate a genetic mechanism to coordinate beneficial functions of the microbiome while preventing autoimmunity.
 
 [Source](https://doi.org/10.1038/s41477-023-01539-1)
+
+10.1038/s41477-023-01539-1
 
 ---
 
@@ -199,9 +224,15 @@ Acid mine drainage (AMD) is one of the leading causes of environmental pollution
 
 ---
 
-## The pan-microbiome profiling system Taxa4Meta identifies clinical dysbiotic features and classifies diarrheal disease
+## The pan-microbiome profiling system Taxa4Meta identifies clinical dysbiotic features and classifies diarrheal disease.
+ 14.11.2023, _Q Wu, S Badu, SY So, TJ Treangen, TC Savidge_
+
+
+Targeted metagenomic sequencing is an emerging strategy to survey disease- specific microbiome biomarkers for clinical diagnosis and prognosis. However, this approach often yields inconsistent or conflicting results due to inadequate study power and sequencing bias. We introduce Taxa4Meta, a bioinformatics pipeline explicitly designed to compensate for technical and demographic bias. We designed and validated Taxa4Meta for accurate taxonomic profiling of 16S rRNA amplicon data acquired from different sequencing strategies. Taxa4Meta offers significant potential in identifying clinical dysbiotic features that can reliably predict human disease, validated comprehensively via re-analysis of individual patient 16S datasets. We leveraged the power of Taxa4Meta's pan-microbiome profiling to generate 16S-based classifiers that exhibited excellent utility for stratification of diarrheal patients with Clostridioides difficile infection, irritable bowel syndrome or inflammatory bowel diseases, which represent common misdiagnoses and pose significant challenges for clinical management. We believe that Taxa4Meta represents a new "best practices" approach to individual microbiome surveys that can be used to define gut dysbiosis at a population-scale level.
 
 [Source](https://doi.org/10.1172/JCI170859)
+
+10.1172/JCI170859
 
 ---
 
