@@ -102,9 +102,10 @@ Human-associated bacteria secrete modified peptides to control host physiology a
 ---
 
 ## The Potential of Meta-Proteomics and Artificial Intelligence to Establish the Next Generation of Probiotics for Personalized Healthcare.
- 22.11.2023, _A Das, RN Behera, A Kapoor, K Ambatipudi_
+ 23.11.2023, _A Das, RN Behera, A Kapoor, K Ambatipudi_
 
 
+_Humans, Artificial Intelligence, Proteomics, Probiotics, Gastrointestinal Microbiome, Delivery of Health Care_
 The symbiosis of probiotic bacteria with humans has rendered various health benefits while providing nutrition and a suitable environment for their survival. However, the probiotics must survive unfavorable gut conditions to exert beneficial effects. The intrinsic resistance of probiotics to survive harsh conditions results from a myriad of proteins. Interaction of microbial proteins with the host is indispensable for modulating the gut microbiome, such as interaction with cell receptors and protective action against pathogens. The complex interplay of proteins should be unraveled by utilizing metaproteomic strategies. The contribution of probiotics to health is now widely accepted. However, due to the inconsistency of generalized probiotics, contemporary research toward precision probiotics has gained momentum for customized treatment. This review explores the application of metaproteomics and AI/ML algorithms in resolving multiomics data analysis and in silico prediction of microbial features for screening specific beneficial probiotic organisms. Implementing these integrative strategies could augment the potential of precision probiotics for personalized healthcare.
 
 [Source](https://doi.org/10.1021/acs.jafc.3c03834)
