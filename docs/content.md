@@ -77,15 +77,29 @@ Despite a growing recognition that the type of nutrition received by preterm inf
 
 ---
 
-## The Potential of Meta-Proteomics and Artificial Intelligence to Establish the Next Generation of Probiotics for Personalized Healthcare
+## The Potential of Meta-Proteomics and Artificial Intelligence to Establish the Next Generation of Probiotics for Personalized Healthcare.
+ 23.11.2023, _A Das, RN Behera, A Kapoor, K Ambatipudi_
+
+
+_Humans, Artificial Intelligence, Proteomics, Probiotics, Gastrointestinal Microbiome, Delivery of Health Care_
+The symbiosis of probiotic bacteria with humans has rendered various health benefits while providing nutrition and a suitable environment for their survival. However, the probiotics must survive unfavorable gut conditions to exert beneficial effects. The intrinsic resistance of probiotics to survive harsh conditions results from a myriad of proteins. Interaction of microbial proteins with the host is indispensable for modulating the gut microbiome, such as interaction with cell receptors and protective action against pathogens. The complex interplay of proteins should be unraveled by utilizing metaproteomic strategies. The contribution of probiotics to health is now widely accepted. However, due to the inconsistency of generalized probiotics, contemporary research toward precision probiotics has gained momentum for customized treatment. This review explores the application of metaproteomics and AI/ML algorithms in resolving multiomics data analysis and in silico prediction of microbial features for screening specific beneficial probiotic organisms. Implementing these integrative strategies could augment the potential of precision probiotics for personalized healthcare.
 
 [Source](https://doi.org/10.1021/acs.jafc.3c03834)
 
+10.1021/acs.jafc.3c03834
+
 ---
 
-## Gut microbiome in healthy aging versus those associated with frailty
+## Gut microbiome in healthy aging versus those associated with frailty.
+ 17.11.2023, _MY Lim, YD Nam_
+
+
+_Humans, Aged, Gastrointestinal Microbiome, Frailty, Healthy Aging, Prebiotics, Probiotics, Dysbiosis_
+As the proportion of older people in the world's population steadily increases, there is an urgent need to identify ways to support healthy aging. The gut microbiome has been proposed to be involved in aging-related diseases and has become an attractive target for improving health in older people. Herein, we cover the relationship between the gut microbiome and chronological age in adults, and then, we discuss the gut microbiome features associated with frailty, as a hallmark of unhealthy aging in older people. Furthermore, we describe the effects of microbiome-targeted interventions, such as dietary patterns and consumption of probiotics, prebiotics, and synbiotics, on modulating the gut microbiome composition and further promoting healthy aging. Further studies are needed to explore the underlying mechanisms of gut microbiome-induced aging complications and to develop personalized microbiome-based strategies for reducing the severity of frailty or preventing the onset of frailty in older adults.
 
 [Source](https://doi.org/10.1080/19490976.2023.2278225)
+
+10.1080/19490976.2023.2278225
 
 ---
 
@@ -107,52 +121,27 @@ Despite a growing recognition that the type of nutrition received by preterm inf
 
 ---
 
-## Microbial symbionts are shared between ants and their associated beetles.
- 16.11.2023, _C Valdivia, JA Newton, C von Beeren, S O'Donnell, DJC Kronauer, JA Russell, P Łukasik_
-
-
-The transmission of microbial symbionts across animal species could strongly affect their biology and evolution, but our understanding of transmission patterns and dynamics is limited. Army ants (Formicidae: Dorylinae) and their hundreds of closely associated insect guest species (myrmecophiles) can provide unique insights into interspecific microbial symbiont sharing. Here, we compared the microbiota of workers and larvae of the army ant Eciton burchellii with those of 13 myrmecophile beetle species using 16S rRNA amplicon sequencing. We found that the previously characterized specialized bacterial symbionts of army ant workers were largely absent from ant larvae and myrmecophiles, whose microbial communities were usually dominated by Rickettsia, Wolbachia, Rickettsiella and/or Weissella. Strikingly, different species of myrmecophiles and ant larvae often shared identical 16S rRNA genotypes of these common bacteria. Protein-coding gene sequences confirmed the close relationship of Weissella strains colonizing army ant larvae, some workers and several myrmecophile species. Unexpectedly, these strains were also similar to strains infecting dissimilar animals inhabiting very different habitats: trout and whales. Together, our data show that closely interacting species can share much of their microbiota, and some versatile microbial species can inhabit and possibly transmit across a diverse range of hosts and environments.
+## Microbial symbionts are shared between ants and their associated beetles
 
 [Source](https://doi.org/10.1111/1462-2920.16544)
 
-10.1111/1462-2920.16544
-
 ---
 
-## The gut microbiome mediates adaptation to scarce food in Coleoptera.
- 16.11.2023, _OT Moldovan, AA Carrell, PA Bulzu, E Levei, R Bucur, C Sitar, L Faur, IC Mirea, M Șenilă, O Cadar, M Podar_
-
-
-Beetles are ubiquitous cave invertebrates worldwide that adapted to scarce subterranean resources when they colonized caves. Here, we investigated the potential role of gut microbiota in the adaptation of beetles to caves from different climatic regions of the Carpathians. The beetles' microbiota was host-specific, reflecting phylogenetic and nutritional adaptation. The microbial community structure further resolved conspecific beetles by caves suggesting microbiota-host coevolution and influences by local environmental factors. The detritivore species hosted a variety of bacteria known to decompose and ferment organic matter, suggesting turnover and host cooperative digestion of the sedimentary microbiota and allochthonous-derived nutrients. The cave Carabidae, with strong mandibula, adapted to predation and scavenging of animal and plant remains, had distinct microbiota dominated by symbiotic lineages Spiroplasma or Wolbachia. All beetles had relatively high levels of fermentative Carnobacterium and Vagococcus involved in lipid accumulation and a reduction of metabolic activity, and both features characterize adaptation to caves.
+## The gut microbiome mediates adaptation to scarce food in Coleoptera
 
 [Source](https://doi.org/10.1186/s40793-023-00537-2)
 
-10.1186/s40793-023-00537-2
-
 ---
 
-## Interplay of gut microbiota and host epithelial mitochondrial dysfunction is necessary for the development of spontaneous intestinal inflammation in mice.
- 24.11.2023, _KM Alula, AS Dowdell, B LeBere, JS Lee, CL Levens, KA Kuhn, BA Kaipparettu, WE Thompson, RS Blumberg, SP Colgan, AL Theiss_
-
-
-_Humans, Animals, Mice, Crohn Disease, Gastrointestinal Microbiome, Ileitis, Inflammation, Inflammatory Bowel Diseases, Paneth Cells, Butyrates, Mitochondria, Intestinal Mucosa_
-Intestinal epithelial cell (IEC) mitochondrial dysfunction involvement in inflammatory bowel diseases (IBD), including Crohn's disease affecting the small intestine, is emerging in recent studies. As the interface between the self and the gut microbiota, IECs serve as hubs of bidirectional cross-talk between host and luminal microbiota. However, the role of mitochondrial-microbiota interaction in the ileum is largely unexplored. Prohibitin 1 (PHB1), a chaperone protein of the inner mitochondrial membrane required for optimal electron transport chain function, is decreased during IBD. We previously demonstrated that mice deficient in PHB1 specifically in IECs (Phb1i∆IEC) exhibited mitochondrial impairment, Paneth cell defects, gut microbiota dysbiosis, and spontaneous inflammation in the ileum (ileitis). Mice deficient in PHB1 in Paneth cells (epithelial secretory cells of the small intestine; Phb1∆PC) also exhibited mitochondrial impairment, Paneth cell defects, and spontaneous ileitis. Here, we determined whether this phenotype is driven by Phb1 deficiency-associated ileal microbiota alterations or direct effects of loss of PHB1 in host IECs.
+## Interplay of gut microbiota and host epithelial mitochondrial dysfunction is necessary for the development of spontaneous intestinal inflammation in mice
 
 [Source](https://doi.org/10.1186/s40168-023-01686-9)
 
-10.1186/s40168-023-01686-9
-
 ---
 
-## Microbial diversity and community structure dynamics in acid mine drainage: Acidic fire with dissolved heavy metals.
- 21.11.2023, _W Sajjad, N Ilahi, S Kang, A Bahadur, A Banerjee, S Zada, B Ali, M Rafiq, G Zheng_
-
-
-Acid mine drainage (AMD) is one of the leading causes of environmental pollution and is linked to public health and ecological consequences. Microbes-mineral interaction generates AMD, but microorganisms can also remedy AMD pollution. Exploring the microbial response to AMD effluents may reveal survival strategies in extreme ecosystems. Three distinct sites across a mine (inside the mine, the entrance of the mine, and outside) were selected to study their heavy metal concentrations due to significant variations in pH and physicochemical characteristics, and high-throughput sequencing was carried out to investigate the microbial diversity. The metal and ion concentrations followed the order SO42-, Fe, Cu, Zn, Mg, Pb, Co, Cr, and Ni from highest to lowest, respectively. Maximum sequences were allocated to Proteobacteria and Firmicutes. Among archaea, the abundance of Thaumarchaeota and Euryarchaeota was higher outside of mine. Most of the genera (23.12 %) were unclassified and unknown. The average OTUs (operational taxonomic units) were significantly higher outside the mine; however, diversity indices were not significantly different across the mine sites. Hierarchical clustering of selective genera and nMDS ordination of OTUs displayed greater segregation resolution inside and outside of mine, whereas the entrance samples clustered with greater similarity. Heterogeneous selection might be the main driver of community composition outside the mine, whereas stochastic processes became prominent inside the mine. However, the ANOSIM test shows a relatively even distribution of community composition within and between the groups. Microbial phyla showed both positive and negative correlations with physicochemical factors. A greater number of biomarkers were reported outside of the mine. Predictive functional investigation revealed the existence of putative degradative, metabolic, and biosynthetic pathways. This study presents a rare dataset in our understanding of microbial diversity and distribution as shaped by the ecological gradient and potential novelty in phylogenetic/taxonomic diversity in AMD, with potential biotechnological applications.
+## Microbial diversity and community structure dynamics in acid mine drainage: Acidic fire with dissolved heavy metals
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.168635)
-
-10.1016/j.scitotenv.2023.168635
 
 ---
 
