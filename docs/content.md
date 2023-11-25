@@ -77,29 +77,15 @@ Despite a growing recognition that the type of nutrition received by preterm inf
 
 ---
 
-## The Potential of Meta-Proteomics and Artificial Intelligence to Establish the Next Generation of Probiotics for Personalized Healthcare.
- 23.11.2023, _A Das, RN Behera, A Kapoor, K Ambatipudi_
-
-
-_Humans, Artificial Intelligence, Proteomics, Probiotics, Gastrointestinal Microbiome, Delivery of Health Care_
-The symbiosis of probiotic bacteria with humans has rendered various health benefits while providing nutrition and a suitable environment for their survival. However, the probiotics must survive unfavorable gut conditions to exert beneficial effects. The intrinsic resistance of probiotics to survive harsh conditions results from a myriad of proteins. Interaction of microbial proteins with the host is indispensable for modulating the gut microbiome, such as interaction with cell receptors and protective action against pathogens. The complex interplay of proteins should be unraveled by utilizing metaproteomic strategies. The contribution of probiotics to health is now widely accepted. However, due to the inconsistency of generalized probiotics, contemporary research toward precision probiotics has gained momentum for customized treatment. This review explores the application of metaproteomics and AI/ML algorithms in resolving multiomics data analysis and in silico prediction of microbial features for screening specific beneficial probiotic organisms. Implementing these integrative strategies could augment the potential of precision probiotics for personalized healthcare.
+## The Potential of Meta-Proteomics and Artificial Intelligence to Establish the Next Generation of Probiotics for Personalized Healthcare
 
 [Source](https://doi.org/10.1021/acs.jafc.3c03834)
 
-10.1021/acs.jafc.3c03834
-
 ---
 
-## Gut microbiome in healthy aging versus those associated with frailty.
- 17.11.2023, _MY Lim, YD Nam_
-
-
-_Humans, Aged, Gastrointestinal Microbiome, Frailty, Healthy Aging, Prebiotics, Probiotics, Dysbiosis_
-As the proportion of older people in the world's population steadily increases, there is an urgent need to identify ways to support healthy aging. The gut microbiome has been proposed to be involved in aging-related diseases and has become an attractive target for improving health in older people. Herein, we cover the relationship between the gut microbiome and chronological age in adults, and then, we discuss the gut microbiome features associated with frailty, as a hallmark of unhealthy aging in older people. Furthermore, we describe the effects of microbiome-targeted interventions, such as dietary patterns and consumption of probiotics, prebiotics, and synbiotics, on modulating the gut microbiome composition and further promoting healthy aging. Further studies are needed to explore the underlying mechanisms of gut microbiome-induced aging complications and to develop personalized microbiome-based strategies for reducing the severity of frailty or preventing the onset of frailty in older adults.
+## Gut microbiome in healthy aging versus those associated with frailty
 
 [Source](https://doi.org/10.1080/19490976.2023.2278225)
-
-10.1080/19490976.2023.2278225
 
 ---
 
@@ -151,9 +137,15 @@ As the proportion of older people in the world's population steadily increases, 
 
 ---
 
-## PSKR1 balances the plant growth-defence trade-off in the rhizosphere microbiome
+## PSKR1 balances the plant growth-defence trade-off in the rhizosphere microbiome.
+ 17.11.2023, _S Song, Z Morales Moreira, AL Briggs, XC Zhang, AC Diener, CH Haney_
+
+
+Microbiota benefit their hosts by improving nutrient uptake and pathogen protection. How host immunity restricts microbiota while avoiding autoimmunity is poorly understood. Here we show that the Arabidopsis phytosulfokine receptor 1 (pskr1) mutant displays autoimmunity (plant stunting, defence-gene expression and reduced rhizosphere bacterial growth) in response to growth-promoting Pseudomonas fluorescens. Microbiome profiling and microbiota colonization showed that PSKR1-mediated reduction in bacterial growth and stunting is largely specific to Pseudomonas. Transcriptional profiling demonstrated that PSKR1 regulates the growth-defence trade-off during Pseudomonas colonization: PSKR1 upregulates plant photosynthesis and root growth but suppresses salicylic-acid-mediated defences. Genetic epistasis experiments showed that pskr1 stunting and restriction of bacterial growth are salicylic acid dependent. Finally, we showed that Pseudomonas, but not other bacteria, induces PSKR1 expression in roots, suggesting that Pseudomonas might manipulate plant signalling to promote its colonization. Our data demonstrate a genetic mechanism to coordinate beneficial functions of the microbiome while preventing autoimmunity.
 
 [Source](https://doi.org/10.1038/s41477-023-01539-1)
+
+10.1038/s41477-023-01539-1
 
 ---
 
@@ -163,15 +155,27 @@ As the proportion of older people in the world's population steadily increases, 
 
 ---
 
-## The pan-microbiome profiling system Taxa4Meta identifies clinical dysbiotic features and classifies diarrheal disease
+## The pan-microbiome profiling system Taxa4Meta identifies clinical dysbiotic features and classifies diarrheal disease.
+ 14.11.2023, _Q Wu, S Badu, SY So, TJ Treangen, TC Savidge_
+
+
+Targeted metagenomic sequencing is an emerging strategy to survey disease- specific microbiome biomarkers for clinical diagnosis and prognosis. However, this approach often yields inconsistent or conflicting results due to inadequate study power and sequencing bias. We introduce Taxa4Meta, a bioinformatics pipeline explicitly designed to compensate for technical and demographic bias. We designed and validated Taxa4Meta for accurate taxonomic profiling of 16S rRNA amplicon data acquired from different sequencing strategies. Taxa4Meta offers significant potential in identifying clinical dysbiotic features that can reliably predict human disease, validated comprehensively via re-analysis of individual patient 16S datasets. We leveraged the power of Taxa4Meta's pan-microbiome profiling to generate 16S-based classifiers that exhibited excellent utility for stratification of diarrheal patients with Clostridioides difficile infection, irritable bowel syndrome or inflammatory bowel diseases, which represent common misdiagnoses and pose significant challenges for clinical management. We believe that Taxa4Meta represents a new "best practices" approach to individual microbiome surveys that can be used to define gut dysbiosis at a population-scale level.
 
 [Source](https://doi.org/10.1172/JCI170859)
 
+10.1172/JCI170859
+
 ---
 
-## Machine learning for microbiologists
+## Machine learning for microbiologists.
+ 15.11.2023, _F Asnicar, AM Thomas, A Passerini, L Waldron, N Segata_
+
+
+Machine learning is increasingly important in microbiology where it is used for tasks such as predicting antibiotic resistance and associating human microbiome features with complex host diseases. The applications in microbiology are quickly expanding and the machine learning tools frequently used in basic and clinical research range from classification and regression to clustering and dimensionality reduction. In this Review, we examine the main machine learning concepts, tasks and applications that are relevant for experimental and clinical microbiologists. We provide the minimal toolbox for a microbiologist to be able to understand, interpret and use machine learning in their experimental and translational activities.
 
 [Source](https://doi.org/10.1038/s41579-023-00984-1)
+
+10.1038/s41579-023-00984-1
 
 ---
 
