@@ -137,15 +137,9 @@ Despite a growing recognition that the type of nutrition received by preterm inf
 
 ---
 
-## PSKR1 balances the plant growth-defence trade-off in the rhizosphere microbiome.
- 17.11.2023, _S Song, Z Morales Moreira, AL Briggs, XC Zhang, AC Diener, CH Haney_
-
-
-Microbiota benefit their hosts by improving nutrient uptake and pathogen protection. How host immunity restricts microbiota while avoiding autoimmunity is poorly understood. Here we show that the Arabidopsis phytosulfokine receptor 1 (pskr1) mutant displays autoimmunity (plant stunting, defence-gene expression and reduced rhizosphere bacterial growth) in response to growth-promoting Pseudomonas fluorescens. Microbiome profiling and microbiota colonization showed that PSKR1-mediated reduction in bacterial growth and stunting is largely specific to Pseudomonas. Transcriptional profiling demonstrated that PSKR1 regulates the growth-defence trade-off during Pseudomonas colonization: PSKR1 upregulates plant photosynthesis and root growth but suppresses salicylic-acid-mediated defences. Genetic epistasis experiments showed that pskr1 stunting and restriction of bacterial growth are salicylic acid dependent. Finally, we showed that Pseudomonas, but not other bacteria, induces PSKR1 expression in roots, suggesting that Pseudomonas might manipulate plant signalling to promote its colonization. Our data demonstrate a genetic mechanism to coordinate beneficial functions of the microbiome while preventing autoimmunity.
+## PSKR1 balances the plant growth-defence trade-off in the rhizosphere microbiome
 
 [Source](https://doi.org/10.1038/s41477-023-01539-1)
-
-10.1038/s41477-023-01539-1
 
 ---
 
@@ -155,27 +149,15 @@ Microbiota benefit their hosts by improving nutrient uptake and pathogen protect
 
 ---
 
-## The pan-microbiome profiling system Taxa4Meta identifies clinical dysbiotic features and classifies diarrheal disease.
- 14.11.2023, _Q Wu, S Badu, SY So, TJ Treangen, TC Savidge_
-
-
-Targeted metagenomic sequencing is an emerging strategy to survey disease- specific microbiome biomarkers for clinical diagnosis and prognosis. However, this approach often yields inconsistent or conflicting results due to inadequate study power and sequencing bias. We introduce Taxa4Meta, a bioinformatics pipeline explicitly designed to compensate for technical and demographic bias. We designed and validated Taxa4Meta for accurate taxonomic profiling of 16S rRNA amplicon data acquired from different sequencing strategies. Taxa4Meta offers significant potential in identifying clinical dysbiotic features that can reliably predict human disease, validated comprehensively via re-analysis of individual patient 16S datasets. We leveraged the power of Taxa4Meta's pan-microbiome profiling to generate 16S-based classifiers that exhibited excellent utility for stratification of diarrheal patients with Clostridioides difficile infection, irritable bowel syndrome or inflammatory bowel diseases, which represent common misdiagnoses and pose significant challenges for clinical management. We believe that Taxa4Meta represents a new "best practices" approach to individual microbiome surveys that can be used to define gut dysbiosis at a population-scale level.
+## The pan-microbiome profiling system Taxa4Meta identifies clinical dysbiotic features and classifies diarrheal disease
 
 [Source](https://doi.org/10.1172/JCI170859)
 
-10.1172/JCI170859
-
 ---
 
-## Machine learning for microbiologists.
- 15.11.2023, _F Asnicar, AM Thomas, A Passerini, L Waldron, N Segata_
-
-
-Machine learning is increasingly important in microbiology where it is used for tasks such as predicting antibiotic resistance and associating human microbiome features with complex host diseases. The applications in microbiology are quickly expanding and the machine learning tools frequently used in basic and clinical research range from classification and regression to clustering and dimensionality reduction. In this Review, we examine the main machine learning concepts, tasks and applications that are relevant for experimental and clinical microbiologists. We provide the minimal toolbox for a microbiologist to be able to understand, interpret and use machine learning in their experimental and translational activities.
+## Machine learning for microbiologists
 
 [Source](https://doi.org/10.1038/s41579-023-00984-1)
-
-10.1038/s41579-023-00984-1
 
 ---
 
