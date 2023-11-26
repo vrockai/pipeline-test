@@ -77,16 +77,9 @@ Despite a growing recognition that the type of nutrition received by preterm inf
 
 ---
 
-## The Potential of Meta-Proteomics and Artificial Intelligence to Establish the Next Generation of Probiotics for Personalized Healthcare.
- 23.11.2023, _A Das, RN Behera, A Kapoor, K Ambatipudi_
-
-
-_Humans, Artificial Intelligence, Proteomics, Probiotics, Gastrointestinal Microbiome, Delivery of Health Care_
-The symbiosis of probiotic bacteria with humans has rendered various health benefits while providing nutrition and a suitable environment for their survival. However, the probiotics must survive unfavorable gut conditions to exert beneficial effects. The intrinsic resistance of probiotics to survive harsh conditions results from a myriad of proteins. Interaction of microbial proteins with the host is indispensable for modulating the gut microbiome, such as interaction with cell receptors and protective action against pathogens. The complex interplay of proteins should be unraveled by utilizing metaproteomic strategies. The contribution of probiotics to health is now widely accepted. However, due to the inconsistency of generalized probiotics, contemporary research toward precision probiotics has gained momentum for customized treatment. This review explores the application of metaproteomics and AI/ML algorithms in resolving multiomics data analysis and in silico prediction of microbial features for screening specific beneficial probiotic organisms. Implementing these integrative strategies could augment the potential of precision probiotics for personalized healthcare.
+## The Potential of Meta-Proteomics and Artificial Intelligence to Establish the Next Generation of Probiotics for Personalized Healthcare
 
 [Source](https://doi.org/10.1021/acs.jafc.3c03834)
-
-10.1021/acs.jafc.3c03834
 
 ---
 
@@ -96,16 +89,9 @@ The symbiosis of probiotic bacteria with humans has rendered various health bene
 
 ---
 
-## Host species and habitat shape fish-associated bacterial communities: phylosymbiosis between fish and their microbiome.
- 24.11.2023, _J Sadeghi, SR Chaganti, TB Johnson, DD Heath_
-
-
-_Animals, Phylogeny, Microbiota, Fishes, Gastrointestinal Microbiome, Water_
-While many studies have reported that the structure of the gut and skin microbiota is driven by both species-specific and habitat-specific factors, the relative importance of host-specific versus environmental factors in wild vertebrates remains poorly understood. The aim of this study was to determine the diversity and composition of fish skin, gut, and surrounding water bacterial communities (hereafter referred to as microbiota) and assess the extent to which host habitat and phylogeny predict microbiota similarity. Skin swabs and gut samples from 334 fish belonging to 17 species were sampled in three Laurentian Great Lakes (LGLs) habitats (Detroit River, Lake Erie, Lake Ontario). We also collected and filtered water samples at the time of fish collection. We analyzed bacterial community composition using 16S metabarcoding and tested for community variation.
+## Host species and habitat shape fish-associated bacterial communities: phylosymbiosis between fish and their microbiome
 
 [Source](https://doi.org/10.1186/s40168-023-01697-6)
-
-10.1186/s40168-023-01697-6
 
 ---
 
