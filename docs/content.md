@@ -47,15 +47,40 @@ Diet-derived nutrients are inextricably linked to human physiology by providing 
 
 ---
 
-## Gut microbiome and frailty: insight from genetic correlation and mendelian randomization
+## Gut microbiome and frailty: insight from genetic correlation and mendelian randomization.
+ 27.11.2023, _G Cui, S Li, H Ye, Y Yang, X Jia, M Lin, Y Chu, Y Feng, Z Wang, Z Shi, X Zhang_
+
+
+_Animals, Frailty, Gastrointestinal Microbiome, Genome-Wide Association Study, Mendelian Randomization Analysis, Animal Experimentation_
+Observational studies have shown that the gut microbiome is associated with frailty. However, whether these associations underlie causal effects remains unknown. Thus, this study aimed to assess the genetic correlation and causal relationships between the genetically predicted gut microbiome and frailty using linkage disequilibrium score regression (LDSC) and Mendelian Randomization (MR). Summary statistics for the gut microbiome were obtained from a genome-wide association study (GWAS) meta-analysis of the MiBioGen consortium (N = 18,340). Summary statistics for frailty were obtained from a GWAS meta-analysis, including the UK Biobank and TwinGene (N = 175,226). We used LDSC and MR analyses to estimate the genetic correlation and causality between the genetically predicted gut microbiome and frailty. Our findings indicate a suggestive genetic correlation between Christensenellaceae R-7 and frailty. Moreover, we found evidence for suggestive causal effects of twelve genus-level gut microbes on frailty using at least two MR methods. There was no evidence of horizontal pleiotropy or heterogeneity in the MR analysis. This study provides suggestive evidence for a potential genetic correlation and causal association between several genetically predicted gut microbes and frailty. More population-based observational studies and animal experiments are required to clarify this association and the underlying mechanisms.
 
 [Source](https://doi.org/10.1080/19490976.2023.2282795)
 
+10.1080/19490976.2023.2282795
+
 ---
 
-## Metabolic exchanges are ubiquitous in natural microbial communities
+## Metabolic exchanges are ubiquitous in natural microbial communities.
+ 23.11.2023, _C Kost, KR Patil, J Friedman, SL Garcia, M Ralser_
+
+
+Microbial communities drive global biogeochemical cycles and shape the health of plants and animals-including humans. Their structure and function are determined by ecological and environmental interactions that govern the assembly, stability and evolution of microbial communities. A widely held view is that antagonistic interactions such as competition predominate in microbial communities and are ecologically more important than synergistic interactions-for example, mutualism or commensalism. Over the past decade, however, a more nuanced picture has emerged, wherein bacteria, archaea and fungi exist within interactive networks in which they exchange essential and non-essential metabolites. These metabolic interactions profoundly impact not only the physiology, ecology and evolution of the strains involved, but are also central to the functioning of many, if not all, microbiomes. Therefore, we advocate for a balanced view of microbiome ecology that encompasses both synergistic and antagonistic interactions as key forces driving the structure and dynamics within microbial communities.
 
 [Source](https://doi.org/10.1038/s41564-023-01511-x)
+
+10.1038/s41564-023-01511-x
+
+---
+
+## Comprehensive probiogenomics analysis of the commensal Escherichia coli CEC15 as a potential probiotic strain.
+ 26.11.2023, _TF da Silva, RA Glória, TJ de Sousa, MF Americo, ADS Freitas, MVC Viana, LCL de Jesus, LC da Silva Prado, N Daniel, O Ménard, MF Cochet, D Dupont, J Jardin, AD Borges, SOA Fernandes, VN Cardoso, B Brenig, E Ferreira, R Profeta, FF Aburjaile, RDO de Carvalho, P Langella, Y Le Loir, C Cherbuy, G Jan, V Azevedo, É Guédon_
+
+
+Probiotics have gained attention for their potential maintaining gut and immune homeostasis. They have been found to confer protection against pathogen colonization, possess immunomodulatory effects, enhance gut barrier functionality, and mitigate inflammation. However, a thorough understanding of the unique mechanisms of effects triggered by individual strains is necessary to optimize their therapeutic efficacy. Probiogenomics, involving high-throughput techniques, can help identify uncharacterized strains and aid in the rational selection of new probiotics. This study evaluates the potential of the Escherichia coli CEC15 strain as a probiotic through in silico, in vitro, and in vivo analyses, comparing it to the well-known probiotic reference E. coli Nissle 1917. Genomic analysis was conducted to identify traits with potential beneficial activity and to assess the safety of each strain (genomic islands, bacteriocin production, antibiotic resistance, production of proteins involved in host homeostasis, and proteins with adhesive properties). In vitro studies assessed survival in gastrointestinal simulated conditions and adhesion to cultured human intestinal cells. Safety was evaluated in BALB/c mice, monitoring the impact of E. coli consumption on clinical signs, intestinal architecture, intestinal permeability, and fecal microbiota. Additionally, the protective effects of both strains were assessed in a murine model of 5-FU-induced mucositis.
+
+[Source](https://doi.org/10.3390/jcm12227184)
+
+10.1186/s12866-023-03112-4
 
 ---
 
@@ -65,9 +90,16 @@ Diet-derived nutrients are inextricably linked to human physiology by providing 
 
 ---
 
-## Evidence for the contribution of the gut microbiome to obesity and its reversal
+## Evidence for the contribution of the gut microbiome to obesity and its reversal.
+ 27.11.2023, _DF de Wit, NMJ Hanssen, K Wortelboer, H Herrema, E Rampanelli, M Nieuwdorp_
+
+
+_Humans, Gastrointestinal Microbiome, Obesity, Risk Factors, Probiotics_
+Obesity has become a worldwide pandemic affecting more than 650 million people and is associated with a high burden of morbidity. Alongside traditional risk factors for obesity, the gut microbiome has been identified as a potential factor in weight regulation. Although rodent studies suggest a link between the gut microbiome and body weight, human evidence for causality remains scarce. In this Review, we postulate that existing evidence remains to establish a contribution of the gut microbiome to the development of obesity in humans but that modified probiotic strains and supraphysiological dosages of microbial metabolites may be beneficial in combatting obesity.
 
 [Source](https://doi.org/10.1126/scitranslmed.adg2773)
+
+10.1126/scitranslmed.adg2773
 
 ---
 
@@ -77,9 +109,16 @@ Diet-derived nutrients are inextricably linked to human physiology by providing 
 
 ---
 
-## Galactooligosaccharide Mediates NF-κB Pathway to Improve Intestinal Barrier Function and Intestinal Microbiota
+## Galactooligosaccharide Mediates NF-κB Pathway to Improve Intestinal Barrier Function and Intestinal Microbiota.
+ 27.11.2023, _M Xi, G Hao, Q Yao, X Duan, W Ge_
+
+
+_Animals, Mice, Infant, Humans, Gastrointestinal Microbiome, NF-kappa B, RNA, Ribosomal, 16S, Intestines, Oligosaccharides_
+The use of antibiotics to treat diarrhea and other diseases early in life can lead to intestinal disorders in infants, which can cause a range of immune-related diseases. Intestinal microbiota diversity is closely related to dietary intake, with many oligosaccharides impacting intestinal microorganism structures and communities. Thus, oligosaccharide type and quantity are important for intestinal microbiota construction. Galactooligosaccharides (GOS) are functional oligosaccharides that can be supplemented with infant formula. Currently, information on GOS and its impact on intestinal microbiota diversity and disorders is lacking. Similarly, GOS is rarely reported within the context of intestinal barrier function. In this study, 16S rRNA sequencing, gas chromatography, and immunohistochemistry were used to investigate the effects of GOS on the intestinal microbiota and barrier pathways in antibiotic-treated mouse models. The results found that GOS promoted Bifidobacterium and Akkermansia proliferation, increased short-chain fatty acid levels, increased tight junction protein expression (occludin and ZO-1), increased secretory immunoglobulin A (SIgA) and albumin levels, significantly downregulated NF-κB expression, and reduced lipopolysaccharide (LPS), interleukin-IL-1β (IL-1β), and IL-6 levels. Also, a high GOS dose in ampicillin-supplemented animals provided resistance to intestinal damage.
 
 [Source](https://doi.org/10.3390/molecules28227611)
+
+10.3390/molecules28227611
 
 ---
 
