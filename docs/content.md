@@ -60,9 +60,15 @@ Observational studies have shown that the gut microbiome is associated with frai
 
 ---
 
-## Metabolic exchanges are ubiquitous in natural microbial communities
+## Metabolic exchanges are ubiquitous in natural microbial communities.
+ 23.11.2023, _C Kost, KR Patil, J Friedman, SL Garcia, M Ralser_
+
+
+Microbial communities drive global biogeochemical cycles and shape the health of plants and animals-including humans. Their structure and function are determined by ecological and environmental interactions that govern the assembly, stability and evolution of microbial communities. A widely held view is that antagonistic interactions such as competition predominate in microbial communities and are ecologically more important than synergistic interactions-for example, mutualism or commensalism. Over the past decade, however, a more nuanced picture has emerged, wherein bacteria, archaea and fungi exist within interactive networks in which they exchange essential and non-essential metabolites. These metabolic interactions profoundly impact not only the physiology, ecology and evolution of the strains involved, but are also central to the functioning of many, if not all, microbiomes. Therefore, we advocate for a balanced view of microbiome ecology that encompasses both synergistic and antagonistic interactions as key forces driving the structure and dynamics within microbial communities.
 
 [Source](https://doi.org/10.1038/s41564-023-01511-x)
+
+10.1038/s41564-023-01511-x
 
 ---
 
@@ -221,16 +227,9 @@ Symbiodiniaceae form associations with extra- and intracellular bacterial symbio
 
 ---
 
-## Combined application of microbial inoculant and kelp-soaking wastewater promotes wheat seedlings growth and improves structural diversity of rhizosphere microbial community.
- 27.11.2023, _X Song, R Zheng, Y Liu, Z Liu, J Yu, J Li, P Zhang, Q Gao, H Li, C Li, X Liu_
-
-
-_Agricultural Inoculants, Seedlings, Triticum, Kelp, Wastewater, Rhizosphere, Microbiota, Soil, Potassium, Soil Microbiology_
-Industrial processing of kelp generates large amounts of kelp-soaking wastewater (KSW), which contains a large amount of nutrient-containing substances. The plant growth-promoting effect might be further improved by combined application of growth-promoting bacteria and the nutrient-containing KSW. Here, a greenhouse experiment was conducted to determine the effect of the mixture of KSW and Bacillus methylotrophicus M4-1 (MS) vs. KSW alone (SE) on wheat seedlings, soil properties and the microbial community structure in wheat rhizosphere soil. The available potassium, available nitrogen, organic matter content and urease activity of MS soil as well as the available potassium of the SE soil were significantly different (p &lt; 0.05) from those of the CK with water only added, increased by 39.51%, 36.25%, 41.61%, 80.56% and 32.99%, respectively. The dry and fresh weight of wheat seedlings from MS plants increased by 166.17% and 50.62%, respectively, while plant height increased by 16.99%, compared with CK. Moreover, the abundance and diversity of fungi in the wheat rhizosphere soil were significantly increased (p &lt; 0.05), the relative abundance of Ascomycetes and Fusarium spp. decreased, while the relative abundance of Bacillus and Mortierella increased. Collectively, the combination of KSW and the plant growth-promoting strain M4-1 can promote wheat seedlings growth and improve the microecology of rhizosphere microorganisms, thereby solving the problems of resource waste and environmental pollution, ultimately turning waste into economic gain.
+## Combined application of microbial inoculant and kelp-soaking wastewater promotes wheat seedlings growth and improves structural diversity of rhizosphere microbial community
 
 [Source](https://doi.org/10.1038/s41598-023-48195-1)
-
-10.1038/s41598-023-48195-1
 
 ---
 
@@ -240,27 +239,15 @@ Industrial processing of kelp generates large amounts of kelp-soaking wastewater
 
 ---
 
-## Genomic evidence that microbial carbon degradation is dominated by iron redox metabolism in thawing permafrost.
- 26.11.2023, _KJ Romanowicz, BC Crump, GW Kling_
-
-
-Microorganisms drive many aspects of organic carbon cycling in thawing permafrost soils, but the compositional trajectory of the post-thaw microbiome and its metabolic activity remain uncertain, which limits our ability to predict permafrost-climate feedbacks in a warming world. Using quantitative metabarcoding and metagenomic sequencing, we determined relative and absolute changes in microbiome composition and functional gene abundance during thaw incubations of wet sedge tundra collected from northern Alaska, USA. Organic soils from the tundra active-layer (0-50 cm), transition-zone (50-70 cm), and permafrost (70+ cm) depths were incubated under reducing conditions at 4 °C for 30 days to mimic an extended thaw duration. Following extended thaw, we found that iron (Fe)-cycling Gammaproteobacteria, specifically the heterotrophic Fe(III)-reducing Rhodoferax sp. and chemoautotrophic Fe(II)-oxidizing Gallionella sp., increased by 3-5 orders of magnitude in absolute abundance within the transition-zone and permafrost microbiomes, accounting for 65% of community abundance. We also found that the abundance of genes for Fe(III) reduction (e.g., MtrE) and Fe(II) oxidation (e.g., Cyc1) increased concurrently with genes for benzoate degradation and pyruvate metabolism, in which pyruvate is used to generate acetate that can be oxidized, along with benzoate, to CO2 when coupled with Fe(III) reduction. Gene abundance for CH4 metabolism decreased following extended thaw, suggesting dissimilatory Fe(III) reduction suppresses acetoclastic methanogenesis under reducing conditions. Our genomic evidence indicates that microbial carbon degradation is dominated by iron redox metabolism via an increase in gene abundance associated with Fe(III) reduction and Fe(II) oxidation during initial permafrost thaw, likely increasing microbial respiration while suppressing methanogenesis in wet sedge tundra.
+## Genomic evidence that microbial carbon degradation is dominated by iron redox metabolism in thawing permafrost
 
 [Source](https://doi.org/10.1038/s43705-023-00326-5)
 
-10.1038/s43705-023-00326-5
-
 ---
 
-## PanDelos-frags: A methodology for discovering pangenomic content of incomplete microbial assemblies.
- 23.11.2023, _V Bonnici, C Mengoni, M Mangoni, G Franco, R Giugno_
-
-
-Pangenomics was originally defined as the problem of comparing the composition of genes into gene families within a set of bacterial isolates belonging to the same species. The problem requires the calculation of sequence homology among such genes. When combined with metagenomics, namely for human microbiome composition analysis, gene-oriented pangenome detection becomes a promising method to decipher ecosystem functions and population-level evolution. Established computational tools are able to investigate the genetic content of isolates for which a complete genomic sequence is available. However, there is a plethora of incomplete genomes that are available on public resources, which only a few tools may analyze. Incomplete means that the process for reconstructing their genomic sequence is not complete, and only fragments of their sequence are currently available. However, the information contained in these fragments may play an essential role in the analyses. Here, we present PanDelos-frags, a computational tool which exploits and extends previous results in analysing complete genomes. It provides a new methodology for inferring missing genetic information and thus for managing incomplete genomes. PanDelos-frags outperforms state-of-the-art approaches in reconstructing gene families in synthetic benchmarks and in a real use case of metagenomics. PanDelos-frags is publicly available at https://github.com/InfOmics/PanDelos-frags.
+## PanDelos-frags: A methodology for discovering pangenomic content of incomplete microbial assemblies
 
 [Source](https://doi.org/10.1016/j.jbi.2023.104552)
-
-10.1016/j.jbi.2023.104552
 
 ---
 
