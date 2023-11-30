@@ -160,15 +160,9 @@ Recently, there has been considerable interest in the functions of gut microbiot
 
 ---
 
-## Introducing an environmental microbiome to axenic Aedes aegypti mosquitoes documents bacterial responses to a blood meal.
- 28.11.2023, _JC LaReau, J Hyde, DE Brackney, B Steven_
-
-
-The blood meal of the female mosquito serves as a nutrition source to support egg development, so is an important aspect of its biology. Yet, the roles the microbiome may play in blood digestion are poorly characterized. We employed axenic mosquitoes to investigate how the microbiome differs between mosquitoes reared in the insectary versus mosquitoes that acquire their microbiome from the environment. Environmental microbiomes were more diverse and showed larger temporal shifts over the course of blood digestion. Importantly, only bacteria from the environmental microbiome performed hemolysis in culture, pointing to functional differences between bacterial populations. These data highlight that taxonomic differences between the microbiomes of insectary-reared and wild mosquitoes are potentially also related to their functional ecology. Thus, axenic mosquitoes colonized with environmental bacteria offer a way to investigate the role of bacteria from the wild in mosquito processes such as blood digestion, under controlled laboratory conditions.
+## Introducing an environmental microbiome to axenic Aedes aegypti mosquitoes documents bacterial responses to a blood meal
 
 [Source](https://journals.asm.org/doi/10.1128/aem.00959-23)
-
-10.1128/aem.00959-23
 
 ---
 
