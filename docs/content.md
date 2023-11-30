@@ -11,7 +11,7 @@ Cesarean section delivery is associated with altered early-life bacterial coloni
 ---
 
 ## Oral microbiota analyses of paediatric Saudi population reveals signatures of dental caries.
- 29.11.2023, _YM Alyousef, S Piotrowski, FA Alonaizan, A Alsulaiman, AA Alali, NN Almasood, C Vatte, L Hamilton, D Gandla, H Lad, FL Robinson, C Cyrus, RC Meng, A Dowdell, B Piening, BJ Keating, AK Al-Ali_
+ 30.11.2023, _YM Alyousef, S Piotrowski, FA Alonaizan, A Alsulaiman, AA Alali, NN Almasood, C Vatte, L Hamilton, D Gandla, H Lad, FL Robinson, C Cyrus, RC Meng, A Dowdell, B Piening, BJ Keating, AK Al-Ali_
 
 
 _Male, Child, Female, Humans, Dental Caries, Saudi Arabia, RNA, Ribosomal, 16S, Microbiota, Saliva_
@@ -30,7 +30,7 @@ Oral microbiome sequencing has revealed key links between microbiome dysfunction
 ---
 
 ## Butterflies in the gut: the interplay between intestinal microbiota and stress.
- 29.11.2023, _TT Lai, CW Liou, YH Tsai, YY Lin, WL Wu_
+ 30.11.2023, _TT Lai, CW Liou, YH Tsai, YY Lin, WL Wu_
 
 
 _Animals, Humans, Gastrointestinal Microbiome, Butterflies_
@@ -111,7 +111,7 @@ Increasing evidence shows that many human-targeted drugs alter the gut microbiom
 ---
 
 ## Mutual modulation of gut microbiota and the immune system in type 1 diabetes models.
- 29.11.2023, _E Rosell-Mases, A Santiago, M Corral-Pujol, F Yáñez, E Varela, L Egia-Mendikute, B Arpa, C Cosovanu, A Panosa, G Serrano-Gómez, C Mora, J Verdaguer, C Manichanh_
+ 30.11.2023, _E Rosell-Mases, A Santiago, M Corral-Pujol, F Yáñez, E Varela, L Egia-Mendikute, B Arpa, C Cosovanu, A Panosa, G Serrano-Gómez, C Mora, J Verdaguer, C Manichanh_
 
 
 _Mice, Animals, Diabetes Mellitus, Type 1, Mice, Inbred NOD, Gastrointestinal Microbiome, B-Lymphocytes, B-Lymphocyte Subsets_
@@ -148,7 +148,7 @@ Pulmonary fibrosis is a chronic and often fatal disease. The pathogenesis is cha
 ---
 
 ## High-altitude and low-altitude adapted chicken gut-microbes have different functional diversity.
- 29.11.2023, _NR Bhagat, P Chauhan, P Verma, A Mishra, VK Bharti_
+ 30.11.2023, _NR Bhagat, P Chauhan, P Verma, A Mishra, VK Bharti_
 
 
 _Animals, Altitude, Chickens, Glutamic Acid, Gastrointestinal Microbiome, Carbon_
@@ -160,9 +160,15 @@ Recently, there has been considerable interest in the functions of gut microbiot
 
 ---
 
-## Introducing an environmental microbiome to axenic Aedes aegypti mosquitoes documents bacterial responses to a blood meal
+## Introducing an environmental microbiome to axenic Aedes aegypti mosquitoes documents bacterial responses to a blood meal.
+ 28.11.2023, _JC LaReau, J Hyde, DE Brackney, B Steven_
+
+
+The blood meal of the female mosquito serves as a nutrition source to support egg development, so is an important aspect of its biology. Yet, the roles the microbiome may play in blood digestion are poorly characterized. We employed axenic mosquitoes to investigate how the microbiome differs between mosquitoes reared in the insectary versus mosquitoes that acquire their microbiome from the environment. Environmental microbiomes were more diverse and showed larger temporal shifts over the course of blood digestion. Importantly, only bacteria from the environmental microbiome performed hemolysis in culture, pointing to functional differences between bacterial populations. These data highlight that taxonomic differences between the microbiomes of insectary-reared and wild mosquitoes are potentially also related to their functional ecology. Thus, axenic mosquitoes colonized with environmental bacteria offer a way to investigate the role of bacteria from the wild in mosquito processes such as blood digestion, under controlled laboratory conditions.
 
 [Source](https://journals.asm.org/doi/10.1128/aem.00959-23)
+
+10.1128/aem.00959-23
 
 ---
 
@@ -191,7 +197,7 @@ Microbial metabolism sustains life on Earth. Sequencing surveys of communities i
 ---
 
 ## Metagenomic analysis reveals diverse microbial community and potential functional roles in Baner rivulet, India.
- 28.11.2023, _B Brar, R Kumar, D Sharma, AK Sharma, K Thakur, D Mahajan, R Kumar_
+ 30.11.2023, _B Brar, R Kumar, D Sharma, AK Sharma, K Thakur, D Mahajan, R Kumar_
 
 
 The health index of any population is directly correlated with the water quality, which in turn depends upon physicochemical characteristics and the microbiome of that aquatic source. For maintaining the water quality, knowledge of microbial diversity is a must. The present investigation attempts to evaluate the microflora of Baner. Metagenomics has been proven to be the technique for examining the genetic diversity of unculturable microbiota without using traditional culturing techniques. The microbial profile of Baner is analyzed using metagenomics for the first time to the best of our knowledge.
