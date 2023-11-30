@@ -66,9 +66,16 @@ Human aging is invariably accompanied by a decline in renal function, a process 
 
 ---
 
-## The changes of gut microbiota and metabolites in different drug-induced liver injuries
+## The changes of gut microbiota and metabolites in different drug-induced liver injuries.
+ 29.11.2023, _R Zhu, Y Gao, J Dong, Z Li, Z Ren_
+
+
+_Humans, Gastrointestinal Microbiome, Chemical and Drug Induced Liver Injury, Multiomics_
+The increasing incidence of drug-induced liver injury (DILI) has become a major concern. Gut microbiota, as another organ of the human body, has been studied in various tumors, cardiovascular metabolic diseases, inflammatory bowel disease and human immunity. The studies mentioned above have confirmed its important impact on the occurrence and development of DILI. The gut-liver axis explains the close relationship between the gut and the liver, and it may be a pathway by which gut microbes contribute to DILI. In addition, the interaction between drugs and gut microbes affects both separately, which in turn may have positive or negative effects on the body, including DILI. There are both common and specific changes in liver injury caused by different drugs. The alteration of metabolites in DILI is also a new direction of therapeutic exploration. The application of microbiomics, metabolomics and other multi-omics to DILI has also explored new ideas for DILI. In this review, we conclude the alterations of gut microbes and metabolites under different DILI, and the significance of applying gut microbiome-metabolomics to DILI, so as to explore the metabolic characteristics of DILI and possible novel metabolic biomarkers.
 
 [Source](https://www.microbiologyresearch.org/content/journal/jmm/10.1099/jmm.0.001778)
+
+10.1099/jmm.0.001778
 
 ---
 
