@@ -197,7 +197,7 @@ Microbial metabolism sustains life on Earth. Sequencing surveys of communities i
 ---
 
 ## Metagenomic analysis reveals diverse microbial community and potential functional roles in Baner rivulet, India.
- 30.11.2023, _B Brar, R Kumar, D Sharma, AK Sharma, K Thakur, D Mahajan, R Kumar_
+ 01.12.2023, _B Brar, R Kumar, D Sharma, AK Sharma, K Thakur, D Mahajan, R Kumar_
 
 
 The health index of any population is directly correlated with the water quality, which in turn depends upon physicochemical characteristics and the microbiome of that aquatic source. For maintaining the water quality, knowledge of microbial diversity is a must. The present investigation attempts to evaluate the microflora of Baner. Metagenomics has been proven to be the technique for examining the genetic diversity of unculturable microbiota without using traditional culturing techniques. The microbial profile of Baner is analyzed using metagenomics for the first time to the best of our knowledge.
