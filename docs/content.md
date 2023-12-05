@@ -196,15 +196,9 @@ Microbial metabolism sustains life on Earth. Sequencing surveys of communities i
 
 ---
 
-## Metagenomic analysis reveals diverse microbial community and potential functional roles in Baner rivulet, India.
- 01.12.2023, _B Brar, R Kumar, D Sharma, AK Sharma, K Thakur, D Mahajan, R Kumar_
-
-
-The health index of any population is directly correlated with the water quality, which in turn depends upon physicochemical characteristics and the microbiome of that aquatic source. For maintaining the water quality, knowledge of microbial diversity is a must. The present investigation attempts to evaluate the microflora of Baner. Metagenomics has been proven to be the technique for examining the genetic diversity of unculturable microbiota without using traditional culturing techniques. The microbial profile of Baner is analyzed using metagenomics for the first time to the best of our knowledge.
+## Metagenomic analysis reveals diverse microbial community and potential functional roles in Baner rivulet, India
 
 [Source](https://jgeb.springeropen.com/articles/10.1186/s43141-023-00601-x)
-
-10.1186/s43141-023-00601-x
 
 ---
 
@@ -220,27 +214,15 @@ Microbiota data encounters challenges arising from technical noise and the curse
 
 ---
 
-## Facilitating bioinformatics reproducibility with QIIME 2 provenance Replay.
- 27.11.2023, _CR Keefe, MR Dillon, E Gehret, C Herman, M Jewell, CV Wood, E Bolyen, JG Caporaso_
-
-
-Study reproducibility is essential to corroborate, build on, and learn from the results of scientific research but is notoriously challenging in bioinformatics, which often involves large data sets and complex analytic workflows involving many different tools. Additionally, many biologists are not trained in how to effectively record their bioinformatics analysis steps to ensure reproducibility, so critical information is often missing. Software tools used in bioinformatics can automate provenance tracking of the results they generate, removing most barriers to bioinformatics reproducibility. Here we present an implementation of that idea, Provenance Replay, a tool for generating new executable code from results generated with the QIIME 2 bioinformatics platform, and discuss considerations for bioinformatics developers who wish to implement similar functionality in their software.
+## Facilitating bioinformatics reproducibility with QIIME 2 provenance Replay
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011676)
 
-10.1371/journal.pcbi.1011676
-
 ---
 
-## High-throughput identification and quantification of bacterial cells in the microbiota based on 16S rRNA sequencing with single-base accuracy using BarBIQ.
- 27.11.2023, _J Jin, R Yamamoto, K Shiroguchi_
-
-
-Bacteria often function as a community, called the microbiota, consisting of many different bacterial species. The accurate identification of bacterial types and the simultaneous quantification of the cells of each bacterial type will advance our understanding of microbiota; however, this cannot be performed by conventional 16S rRNA sequencing methods as they only identify and quantify genes, which do not always represent cells. Here, we present a protocol for our developed method, barcoding bacteria for identification and quantification (BarBIQ). In BarBIQ, the 16S rRNA genes of single bacterial cells are amplified and attached to a unique cellular barcode in a droplet. Sequencing the tandemly linked cellular barcodes and 16S rRNA genes from many droplets (representing many cells with unique cellular barcodes) and clustering the sequences using the barcodes determines both the bacterial type for each cell based on 16S rRNA gene and the number of cells for each bacterial type based on the quantity of barcode types sequenced. Single-base accuracy for 16S rRNA sequencing is achieved via the barcodes and by avoiding chimera formation from 16S rRNA genes of different bacteria using droplets. For data processing, an easy-to-use bioinformatic pipeline is available ( https://github.com/Shiroguchi-Lab/BarBIQ_Pipeline_V1_2_0 ). This protocol allows researchers with experience in molecular biology but without bioinformatics experience to perform the process in ~2 weeks. We show the application of BarBIQ in mouse gut microbiota analysis as an example; however, this method is also applicable to other microbiota samples, including those from the mouth and skin, marine environments, soil and plants, as well as those from other terrestrial environments.
+## High-throughput identification and quantification of bacterial cells in the microbiota based on 16S rRNA sequencing with single-base accuracy using BarBIQ
 
 [Source](https://www.nature.com/articles/s41596-023-00906-8)
-
-10.1038/s41596-023-00906-8
 
 ---
 
