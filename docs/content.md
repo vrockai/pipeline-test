@@ -1,5 +1,5 @@
 ## Salivary microbiome changes distinguish response to chemoradiotherapy in patients with oral cancer.
- 04.12.2023, _MC Medeiros, S The, E Bellile, N Russo, L Schmitd, E Danella, P Singh, R Banerjee, C Bassis, GR Murphy, MA Sartor, I Lombaert, TM Schmidt, A Eisbruch, CA Murdoch-Kinch, L Rozek, GT Wolf, G Li, GY Chen, NJ D'Silva_
+ 06.12.2023, _MC Medeiros, S The, E Bellile, N Russo, L Schmitd, E Danella, P Singh, R Banerjee, C Bassis, GR Murphy, MA Sartor, I Lombaert, TM Schmidt, A Eisbruch, CA Murdoch-Kinch, L Rozek, GT Wolf, G Li, GY Chen, NJ D'Silva_
 
 
 _Humans, Mouth Neoplasms, Longitudinal Studies, Carcinoma, Squamous Cell, RNA, Ribosomal, 16S, Microbiota, Saliva, Bacteria, Calcium-Binding Proteins, DNA-Binding Proteins, Tumor Suppressor Proteins_
