@@ -108,15 +108,8 @@ Studies on the gut microbiota of animals have largely focused on vertebrates. Th
 ---
 
 ## Comparison of microbial community assemblages in the rhizosphere of three Amaranthus spp.
- 01.12.2023, _JC Chee-Sanford, LM Connor_
-
-
-_Amaranthus, Rhizosphere, RNA, Ribosomal, 16S, Plant Weeds, Soil, Microbiota_
-Weed management remains a major challenge in cropping systems worldwide, with rising interest in ecological based approaches that can be integrated with herbicide use. Soil microbial communities may play important, yet undiscovered, roles in weed success. Little is known about the rhizosphere communities associated with weeds like Amaranthus, commonly known as pigweeds, and considered some of the most problematic weeds in agricultural systems. In a greenhouse experiment that allowed controlled plant growth conditions and a high number of individual plant specimens to analyze for statistical robustness (n = 8 per species), we show that specific bacterial assemblages form in the rhizospheres of A. retroflexus L. (redroot pigweed), A. palmeri S. Watson (Palmer amaranth), and A. tuberculatus (Moq.) J. D. Sauer (waterhemp). Using a relatively rapid and easy approach of T-RFLP community profiling of the 16S rRNA genes, distinct assemblages corresponded to plant species (PERMANOVA F = 14.776, p = 0.001), and further within each species, similar communities (F = 11.449, p = 0.001) were associated with three rhizosphere soil fractions taken in increasing distances away from the root tissue. These results provide the first solid basis for distinct plant-microbe relationships within three closely related Amaranthus species, warranting closer examination of the identities and function of the microorganisms that appear to be selectively recruited from the extant soil community. More intensive efforts to obtain the microbial taxonomic identities via sequencing are underway that can lead to further detailed studies to elucidate important functional plant-microbe interactions that may associate with weed success. Such data provides underlying key information that may ultimately exploit weed-microbe interactions in development of new integrated weed control tactics.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294966)
-
-10.1371/journal.pone.0294966
 
 ---
 
