@@ -35,6 +35,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Analyzing microbial evolution through gene and genome phylogenies.
+ 06.11.2023, _S Teichman, MD Lee, AD Willis_
+
+
+Microbiome scientists critically need modern tools to explore and analyze microbial evolution. Often this involves studying the evolution of microbial genomes as a whole. However, different genes in a single genome can be subject to different evolutionary pressures, which can result in distinct gene-level evolutionary histories. To address this challenge, we propose to treat estimated gene-level phylogenies as data objects, and present an interactive method for the analysis of a collection of gene phylogenies. We use a local linear approximation of phylogenetic tree space to visualize estimated gene trees as points in low-dimensional Euclidean space, and address important practical limitations of existing related approaches, allowing an intuitive visualization of complex data objects. We demonstrate the utility of our proposed approach through microbial data analyses, including by identifying outlying gene histories in strains of Prevotella, and by contrasting Streptococcus phylogenies estimated using different gene sets. Our method is available as an open-source R package, and assists with estimating, visualizing, and interacting with a collection of bacterial gene phylogenies.
+
+[Source](https://twitter.com/sarah_teichman?ref_src=twsrc%5Etfw)
+
+10.1093/biostatistics/kxad025
+
+---
+
 ## @sarah_teichman
 
 [Source](https://twitter.com/sarah_teichman?ref_src=twsrc%5Etfw)
@@ -53,6 +65,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Latent tuberculosis infection (LTBI) in health-care workers: a cross-sectional study at a northern Peruvian hospital.
+ 15.12.2023, _ED Meregildo-Rodriguez, V Yuptón-Chávez, MG Asmat-Rubio, GA Vásquez-Tirado_
+
+
+Healthcare workers (HCWs) have a higher risk of latent tuberculosis infection (LTBI) and active tuberculosis than the general population. In HCWs, the risk of tuberculosis infection depends on the local tuberculosis prevalence, HCWs' characteristics, the healthcare facility, and prevention and control measures. We aimed to estimate the prevalence and risk factors for LTBI in HCWs at a northern Peruvian hospital.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1729043251989201108?ref_src=twsrc%5Etfw)
+
+10.3389/fmed.2023.1295299
+
+---
+
 ## November 27, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1729043251989201108?ref_src=twsrc%5Etfw)
@@ -65,9 +89,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## The maternal gut microbiome in pregnancy: implications for the developing immune system 
+## The maternal gut microbiome in pregnancy: implications for the developing immune system.
+ 14.12.2023, _O Koren, L Konnikova, P Brodin, IU Mysorekar, MC Collado_
+
+
+The gut microbiome has important roles in host metabolism and immunity, and microbial dysbiosis affects human physiology and health. Maternal immunity and microbial metabolites during pregnancy, microbial transfer during birth, and transfer of immune factors, microorganisms and metabolites via breastfeeding provide critical sources of early-life microbial and immune training, with important consequences for human health. Only a few studies have directly examined the interactions between the gut microbiome and the immune system during pregnancy, and the subsequent effect on offspring development. In this Review, we aim to describe how the maternal microbiome shapes overall pregnancy-associated maternal, fetal and early neonatal immune systems, focusing on the existing evidence and highlighting current gaps to promote further research.
 
 [Source](https://www.nature.com/articles/s41575-023-00864-2)
+
+10.1038/s41575-023-00864-2
 
 ---
 
@@ -77,9 +107,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Shotgun metagenomics reveals interkingdom association between intestinal bacteria and fungi involving competition for nutrients
+## Shotgun metagenomics reveals interkingdom association between intestinal bacteria and fungi involving competition for nutrients.
+ 15.12.2023, _Z Xie, A Canalda-Baltrons, C d'Enfert, C Manichanh_
+
+
+The accuracy of internal-transcribed-spacer (ITS) and shotgun metagenomics has not been robustly evaluated, and the effect of diet on the composition and function of the bacterial and fungal gut microbiome in a longitudinal setting has been poorly investigated. Here we compared two approaches to study the fungal community (ITS and shotgun metagenomics), proposed an enrichment protocol to perform a reliable mycobiome analysis using a comprehensive in-house fungal database, and correlated dietary data with both bacterial and fungal communities.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01693-w)
+
+10.1186/s40168-023-01693-w
 
 ---
 
@@ -89,9 +125,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Fiber-deficient diet inhibits colitis through the regulation of the niche and metabolism of a gut pathobiont
+## Fiber-deficient diet inhibits colitis through the regulation of the niche and metabolism of a gut pathobiont.
+ 15.12.2023, _P Kuffa, JM Pickard, A Campbell, M Yamashita, SR Schaus, EC Martens, TM Schmidt, N Inohara, G Núñez, R Caruso_
+
+
+Exclusive enteral nutrition (EEN) with fiber-free diets is an effective steroid-sparing treatment to induce clinical remission in children with Crohn's disease (CD). However, the mechanism underlying the beneficial effects of EEN remains obscure. Using a model of microbiota-dependent colitis with the hallmarks of CD, we find that the administration of a fiber-free diet prevents the development of colitis and inhibits intestinal inflammation in colitic animals. Remarkably, fiber-free diet alters the intestinal localization of Mucispirillum schaedleri, a mucus-dwelling pathobiont, which is required for triggering disease. Mechanistically, the absence of dietary fiber reduces nutrient availability and impairs the dissimilatory nitrate reduction to ammonia (DNRA) metabolic pathway of Mucispirillum, leading to its exclusion from the mucus layer and disease remission. Thus, appropriate localization of the specific pathobiont in the mucus layer is critical for disease development, which is disrupted by fiber exclusion. These results suggest strategies to treat CD by targeting the intestinal niche and metabolism of disease-causing microbes.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1931312823004201)
+
+10.1016/j.chom.2023.10.016
 
 ---
 
@@ -107,15 +149,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Distance to Health Centers and Effectiveness of Azithromycin Mass Administration for Children in Niger: A Secondary Analysis of the MORDOR Cluster Randomized Trial.
+ 15.12.2023, _DL Chao, AM Arzika, A Abdou, R Maliki, A Karamba, N Galo, D Beidi, N Harouna, M Abarchi, E Root, A Mishra, E Lebas, BF Arnold, CE Oldenburg, JD Keenan, TM Lietman, KS O'Brien_
+
+
+The MORDOR (Macrolides Oraux pour Réduire les Décès avec un Oeil sur la Résistance) trial demonstrated that mass azithromycin administration reduced mortality by 18% among children aged 1 to 59 months in Niger. The identification of high-risk subgroups to target with this intervention could reduce the risk of antimicrobial resistance.
+
+[Source](https://twitter.com/vhjarquind/status/1734652352089714928?ref_src=twsrc%5Etfw)
+
+10.1001/jamanetworkopen.2023.46840
+
+---
+
 ## December 12, 2023
 
 [Source](https://twitter.com/vhjarquind/status/1734652352089714928?ref_src=twsrc%5Etfw)
 
 ---
 
-## Turnover of strain-level diversity modulates functional traits in the honeybee gut microbiome between nurses and foragers
+## Turnover of strain-level diversity modulates functional traits in the honeybee gut microbiome between nurses and foragers.
+ 09.12.2023, _GLC Baud, A Prasad, KM Ellegaard, P Engel_
+
+
+Strain-level diversity is widespread among bacterial species and can expand the functional potential of natural microbial communities. However, to what extent communities undergo consistent shifts in strain composition in response to environmental/host changes is less well understood.
 
 [Source](https://link.springer.com/article/10.1186/s13059-023-03131-4)
+
+10.1186/s13059-023-03131-4
 
 ---
 
@@ -131,9 +191,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Infant gut DNA bacteriophage strain persistence during the first 3 years of life
+## Infant gut DNA bacteriophage strain persistence during the first 3 years of life.
+ 14.12.2023, _YC Lou, L Chen, AL Borges, J West-Roberts, BA Firek, MJ Morowitz, JF Banfield_
+
+
+Bacteriophages are key components of gut microbiomes, yet the phage colonization process in the infant gut remains uncertain. Here, we establish a large phage sequence database and use strain-resolved analyses to investigate DNA phage succession in infants throughout the first 3 years of life. Analysis of 819 fecal metagenomes collected from 28 full-term and 24 preterm infants and their mothers revealed that early-life phageome richness increases over time and reaches adult-like complexity by age 3. Approximately 9% of early phage colonizers, which are mostly maternally transmitted and infect Bacteroides, persist for 3 years and are more prevalent in full-term than in preterm infants. Although rare, phages with stop codon reassignment are more likely to persist than non-recoded phages and generally display an increase in in-frame reassigned stop codons over 3 years. Overall, maternal seeding, stop codon reassignment, host CRISPR-Cas locus prevalence, and diverse phage populations contribute to stable viral colonization.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1931312823004663)
+
+10.1016/j.chom.2023.11.015
 
 ---
 
@@ -167,15 +233,15 @@ Obstetric fistula is a preventable devastating condition that is mostly caused b
 
 ---
 
-## Psychosocial impact of recurrent urogenital infections: a review.
- 15.12.2023, _K Thomas-White, P Navarro, F Wever, L King, LR Dillard, J Krapf_
+## Gender diversity in a Chinese community sample and its associations with autism traits.
+ 15.12.2023, _AIR van der Miesen, SY Shi, HC Lei, CL Ngan, DP VanderLaan, WI Wong_
 
 
-Recurrent urogenital infections such as bacterial vaginosis, vulvovaginal candidiasis, and urinary tract infections have a high prevalence and pronounced psychosocial impact. However, no review has compared the psychosocial impacts across infection types. This narrative review discusses the impact of common recurrent urogenital infections on psychosocial aspects, including quality of life, stress, mental health, sexual health, work productivity, race and ethnicity, and satisfaction of medical care. Validated questionnaires show that women with recurrent vulvovaginal candidiasis and urinary tract infections have decreased scores on all aspects of quality of life. Those with recurrent vulvovaginal candidiasis and urinary tract infections show lower mental health scores compared to the general population, with increased risk of anxiety and depression. Recurrent urogenital infections affect sexual relationships and intimacy, including avoidance due to symptoms or as a method of prevention. Recurrent infections also increase medical cost and negatively affect work productivity, leading to a combined estimated cost of over US$13 billion per year. There are clear effects of racial inequality involving minority populations that affect diagnosis, treatment, prevalence, and reporting of recurrent urogenital infections. Satisfactory medical treatment improves quality of life and mental health in those suffering from these conditions. Research evaluating psychosocial aspects of recurrent urogenital infections is variable and is not comparable across vulvovaginal conditions. Even so, psychosocial factors are important in understanding contribution and consequence of urogenital infections. Education, awareness, normalization, community support, and access to care can help to alleviate the negative implications of recurrent urogenital infections.
+Emerging evidence suggests that gender dysphoria or gender diversity (GD) intersects frequently with autism spectrum disorder or autism traits. However, the magnitude and interpretation of this link continue to be debated. Most child studies on this topic were performed in clinical populations, and little is known about the generalizability of this co-occurrence to the broader community, especially to non-Western samples. Also, little is known about whether specific subdomains of autism are more strongly associated with GD. Therefore, we investigated GD and its association with autism traits in a Chinese community sample of 4-12-year-olds (N = 379; 51% birth-assigned girls). Parents provided information about GD characteristics using the standardized Gender Identity Questionnaire for Children and autism traits using the Chinese version of the Autism-Spectrum Quotient-Children. In addition, broader behavioral and emotional challenges were measured by the Behavior Problem Index (BPI) to account for psychological challenges other than autism traits. In this community sample of Chinese children, increased GD was associated with increased autism traits, even after accounting for the BPI. Of the four subscales, the Imagination and Patterns subscales in birth-assigned girls and the Imagination subscale in birth-assigned boys were especially associated with GD. These findings indicate that the association between GD and autism traits generalizes to a nonclinical, non-Western sample. Clinicians and researchers working with clinical as well as community children should thus pay attention to the co-occurrence of GD and autism traits, in and outside the West.
 
 [Source](https://www.nature.com/articles/s41596-023-00926-4)
 
-10.1177/17455057231216537
+10.1002/aur.3075
 
 ---
 
@@ -227,15 +293,15 @@ _Adaptive Immunity, Animals, Cytokines, Humans, Hypertension, Immunity, Immunity
 
 ---
 
-## Bronchoscopy-related outbreaks and pseudo-outbreaks: A systematic review.
- 15.12.2023, _L Kakoullis, S Economidou, P Mehrotra, G Panos, T Karampitsakos, G Stratakos, A Tzouvelekis, F Sampsonas_
+## Distance to Health Centers and Effectiveness of Azithromycin Mass Administration for Children in Niger: A Secondary Analysis of the MORDOR Cluster Randomized Trial.
+ 15.12.2023, _DL Chao, AM Arzika, A Abdou, R Maliki, A Karamba, N Galo, D Beidi, N Harouna, M Abarchi, E Root, A Mishra, E Lebas, BF Arnold, CE Oldenburg, JD Keenan, TM Lietman, KS O'Brien_
 
 
-To identify and report the pathogens and sources of contamination associated with bronchoscopy-related outbreaks and pseudo-outbreaks.
+The MORDOR (Macrolides Oraux pour Réduire les Décès avec un Oeil sur la Résistance) trial demonstrated that mass azithromycin administration reduced mortality by 18% among children aged 1 to 59 months in Niger. The identification of high-risk subgroups to target with this intervention could reduce the risk of antimicrobial resistance.
 
 [Source](https://twitter.com/FZMarques/status/1730731347285852161?ref_src=twsrc%5Etfw)
 
-10.1017/ice.2023.250
+10.1001/jamanetworkopen.2023.46840
 
 ---
 
