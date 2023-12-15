@@ -35,6 +35,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Analyzing microbial evolution through gene and genome phylogenies.
+ 06.11.2023, _S Teichman, MD Lee, AD Willis_
+
+
+Microbiome scientists critically need modern tools to explore and analyze microbial evolution. Often this involves studying the evolution of microbial genomes as a whole. However, different genes in a single genome can be subject to different evolutionary pressures, which can result in distinct gene-level evolutionary histories. To address this challenge, we propose to treat estimated gene-level phylogenies as data objects, and present an interactive method for the analysis of a collection of gene phylogenies. We use a local linear approximation of phylogenetic tree space to visualize estimated gene trees as points in low-dimensional Euclidean space, and address important practical limitations of existing related approaches, allowing an intuitive visualization of complex data objects. We demonstrate the utility of our proposed approach through microbial data analyses, including by identifying outlying gene histories in strains of Prevotella, and by contrasting Streptococcus phylogenies estimated using different gene sets. Our method is available as an open-source R package, and assists with estimating, visualizing, and interacting with a collection of bacterial gene phylogenies.
+
+[Source](https://twitter.com/sarah_teichman?ref_src=twsrc%5Etfw)
+
+10.1093/biostatistics/kxad025
+
+---
+
 ## @sarah_teichman
 
 [Source](https://twitter.com/sarah_teichman?ref_src=twsrc%5Etfw)
@@ -50,6 +62,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 ## pic.twitter.com/OwrJZ0nMmu
 
 [Source](https://t.co/OwrJZ0nMmu)
+
+---
+
+## Sleep Disturbances and Emotional and Behavioral Difficulties Among Preschool-Aged Children.
+ 14.12.2023, _Y Deng, Z Zhang, Y Gui, W Li, T Rong, Y Jiang, Q Zhu, J Zhao, Y Zhang, G Wang, F Jiang_
+
+
+Sleep disturbances and mental health problems are highly comorbid and bidirectionally correlated across childhood. The association between the natural history of sleep disturbances and the transition of mental health problems has not been quantified.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1729043251989201108?ref_src=twsrc%5Etfw)
+
+10.1001/jamanetworkopen.2023.47623
 
 ---
 
@@ -126,15 +150,15 @@ Exclusive enteral nutrition (EEN) with fiber-free diets is an effective steroid-
 
 ---
 
-## A Machine Learning Model to Predict Patients' Adherence Behavior and a Decision Support System for Patients With Metastatic Breast Cancer: Protocol for a Randomized Controlled Trial.
- 14.12.2023, _M Masiero, GE Spada, V Sanchini, E Munzone, R Pietrobon, L Teixeira, M Valencia, A Machiavelli, E Fragale, M Pezzolato, G Pravettoni_
+## Predicting school uptake of The Daily Mile in Northern Ireland- a data linkage study with School Census Data and Multiple Deprivation Measures.
+ 14.12.2023, _G Breslin, M Hillyard, N Brick, S Shannon, B McKay-Redmond, M Shevlin, B McConnell_
 
 
-Adherence to oral anticancer treatments is critical in the disease trajectory of patients with breast cancer. Given the impact of nonadherence on clinical outcomes and the associated economic burden for the health care system, finding ways to increase treatment adherence is particularly relevant.
+Participating in physical activity benefits health, yet a majority of children remain inactive. The Daily Mile™ (TDM) originated in Scotland in 2012 with the aim of increasing primary school children's physical fitness. Despite being a practically feasible and popular initiative, it remains unclear the extent to which schools implement TDM, and whether TDM core principles are adhered to (i.e., run or jog at least 3-days per week). In Northern Ireland it is unknown how many schools regularly participate in TDM, and whether there is an association between TDM participation with school type, school location, size, total number of children attending the school, school deprivation level, and/or motivation as measured by the COM-B model (Capabilities, Opportunities, Motivation model of behaviour). Therefore, this study aimed to quantify the uptake of TDM in Northern Ireland, assess whether schools are following the core principles, and analyse if there is an association between aforesaid demographic factors and TDM participation.
 
 [Source](https://twitter.com/vhjarquind/status/1734652352089714928?ref_src=twsrc%5Etfw)
 
-10.2196/48852
+10.1371/journal.pone.0294648
 
 ---
 
@@ -186,33 +210,21 @@ Strain-level diversity is widespread among bacterial species and can expand the 
 
 ---
 
-## A Machine Learning Model to Predict Patients' Adherence Behavior and a Decision Support System for Patients With Metastatic Breast Cancer: Protocol for a Randomized Controlled Trial.
- 14.12.2023, _M Masiero, GE Spada, V Sanchini, E Munzone, R Pietrobon, L Teixeira, M Valencia, A Machiavelli, E Fragale, M Pezzolato, G Pravettoni_
+## Potential risk of proton pump inhibitors for Parkinson's disease: A nationwide nested case-control study.
+ 14.12.2023, _JT Hong, HK Jung, KJ Lee, EJ Gong, CM Shin, JW Kim, YH Youn, B Lee_
 
 
-Adherence to oral anticancer treatments is critical in the disease trajectory of patients with breast cancer. Given the impact of nonadherence on clinical outcomes and the associated economic burden for the health care system, finding ways to increase treatment adherence is particularly relevant.
+Proton pump inhibitor (PPI) use is a potential risk factor for neurodegenerative disease development; however, its role in Parkinson's disease (PD) remains unclear. This study aimed to investigate the association between PPI use and PD risk. A total of 31,326 patients with newly diagnosed PD were matches by age, sex, body mass index, diabetes, and hypertension with 125,304 controls at a ratio of 1:4. The data were collected from the Korean National Health Insurance Services Database from January 2010 to December 2019. Cumulative defined daily doses of PPIs were extracted from treatment claims. We examined the association between PPI use and PD risk using conditional logistic regression. To prevent protopathic bias, we excluded patients diagnosed with PD within a 1-year lag period after PPI exposure. We applied 2- and 3-year lag periods for sensitivity analysis. PPI use was associated with an increased risk of PD when a 1-year lag period was applied between PPI exposure and PD development (adjusted odds ratio, 1.10; 95% confidence interval, 1.07-1.13). A significant positive dose-response relationship existed between the cumulative defined daily doses of PPIs and PD development (P&lt;0.001). Similar results were obtained for the 2- or 3-year lag periods. The association did not vary based on gender. Older age, a higher Charlson Comorbidity Index score, no alcohol consumption, and a non-smoking status were associated with a significantly increased PD risk with PPI use. We observed an association between PPI use and PD risk, although long-term follow-up studies are necessary to verify this association.
 
 [Source](https://twitter.com/ClareLou9/status/1734996133540417676?ref_src=twsrc%5Etfw)
 
-10.2196/48852
+10.1371/journal.pone.0295981
 
 ---
 
 ## December 13, 2023
 
 [Source](https://twitter.com/ClareLou9/status/1734996133540417676?ref_src=twsrc%5Etfw)
-
----
-
-## Digital Support Systems to Improve Child Health and Development in Peru: Protocol for a Randomized Controlled Trial.
- 14.12.2023, _SM Hartinger Pena, D Mäusezahl, L Jäggi, L Aguilar, M Alvarado Llatance, A Castellanos, ML Huaylinos Bustamante, K Hinckley, D Charles McCoy, C Zhang, G Fink_
-
-
-Children living in low and middle-income countries (LMICs) are at greater risk for experiencing adversities that can undermine their health and early development. Recently launched digital early childhood development (ECD) programs attempt to support families with young children in their home environments using digital technologies. However, relatively little is known regarding the effectiveness of these new technologies.
-
-[Source](https://www.nature.com/articles/s41596-023-00926-4)
-
-10.2196/50371
 
 ---
 
@@ -240,6 +252,18 @@ Children living in low and middle-income countries (LMICs) are at greater risk f
 
 ---
 
+## Inflammation, immunity, and hypertension.
+ 08.04.2022, _DG Harrison, TJ Guzik, HE Lob, MS Madhur, PJ Marvar, SR Thabet, A Vinh, CM Weyand_
+
+
+_Adaptive Immunity, Animals, Cytokines, Humans, Hypertension, Immunity, Immunity, Innate, Inflammation, Models, Immunological, T-Lymphocytes_
+
+[Source](https://twitter.com/endocelldoc?ref_src=twsrc%5Etfw)
+
+10.1161/HYPERTENSIONAHA.110.163576
+
+---
+
 ## @endocelldoc
 
 [Source](https://twitter.com/endocelldoc?ref_src=twsrc%5Etfw)
@@ -252,15 +276,15 @@ Children living in low and middle-income countries (LMICs) are at greater risk f
 
 ---
 
-## A Machine Learning Model to Predict Patients' Adherence Behavior and a Decision Support System for Patients With Metastatic Breast Cancer: Protocol for a Randomized Controlled Trial.
- 14.12.2023, _M Masiero, GE Spada, V Sanchini, E Munzone, R Pietrobon, L Teixeira, M Valencia, A Machiavelli, E Fragale, M Pezzolato, G Pravettoni_
+## Predicting school uptake of The Daily Mile in Northern Ireland- a data linkage study with School Census Data and Multiple Deprivation Measures.
+ 14.12.2023, _G Breslin, M Hillyard, N Brick, S Shannon, B McKay-Redmond, M Shevlin, B McConnell_
 
 
-Adherence to oral anticancer treatments is critical in the disease trajectory of patients with breast cancer. Given the impact of nonadherence on clinical outcomes and the associated economic burden for the health care system, finding ways to increase treatment adherence is particularly relevant.
+Participating in physical activity benefits health, yet a majority of children remain inactive. The Daily Mile™ (TDM) originated in Scotland in 2012 with the aim of increasing primary school children's physical fitness. Despite being a practically feasible and popular initiative, it remains unclear the extent to which schools implement TDM, and whether TDM core principles are adhered to (i.e., run or jog at least 3-days per week). In Northern Ireland it is unknown how many schools regularly participate in TDM, and whether there is an association between TDM participation with school type, school location, size, total number of children attending the school, school deprivation level, and/or motivation as measured by the COM-B model (Capabilities, Opportunities, Motivation model of behaviour). Therefore, this study aimed to quantify the uptake of TDM in Northern Ireland, assess whether schools are following the core principles, and analyse if there is an association between aforesaid demographic factors and TDM participation.
 
 [Source](https://twitter.com/FZMarques/status/1730731347285852161?ref_src=twsrc%5Etfw)
 
-10.2196/48852
+10.1371/journal.pone.0294648
 
 ---
 
