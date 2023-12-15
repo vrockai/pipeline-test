@@ -35,18 +35,6 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Analyzing microbial evolution through gene and genome phylogenies.
- 06.11.2023, _S Teichman, MD Lee, AD Willis_
-
-
-Microbiome scientists critically need modern tools to explore and analyze microbial evolution. Often this involves studying the evolution of microbial genomes as a whole. However, different genes in a single genome can be subject to different evolutionary pressures, which can result in distinct gene-level evolutionary histories. To address this challenge, we propose to treat estimated gene-level phylogenies as data objects, and present an interactive method for the analysis of a collection of gene phylogenies. We use a local linear approximation of phylogenetic tree space to visualize estimated gene trees as points in low-dimensional Euclidean space, and address important practical limitations of existing related approaches, allowing an intuitive visualization of complex data objects. We demonstrate the utility of our proposed approach through microbial data analyses, including by identifying outlying gene histories in strains of Prevotella, and by contrasting Streptococcus phylogenies estimated using different gene sets. Our method is available as an open-source R package, and assists with estimating, visualizing, and interacting with a collection of bacterial gene phylogenies.
-
-[Source](https://twitter.com/sarah_teichman?ref_src=twsrc%5Etfw)
-
-10.1093/biostatistics/kxad025
-
----
-
 ## @sarah_teichman
 
 [Source](https://twitter.com/sarah_teichman?ref_src=twsrc%5Etfw)
@@ -65,18 +53,6 @@ Microbiome scientists critically need modern tools to explore and analyze microb
 
 ---
 
-## Multi-scale failure mechanisms of hydraulic engineering exposed to seasonally frozen salinization environment: Integrating SBAS-InSAR and mechanical experiments.
- 14.12.2023, _Z Wang, C Cao, Q Yu, Q Wang, C Niu, J Shen, K Zhu, J Liu, M Han, H Fu, X Sun, W Xia, D Sun, H Shu, Y Ji, J Xue, X Shan_
-
-
-Constructing hydraulic engineering ensures agricultural development and improves salinization environments. However, in seasonally frozen salinization regions, hydraulic engineering is prone to deformation failure. Leakage from canal raises the regional groundwater level, triggering secondary salinization environmental issues. Exploring the instability mechanisms is thus necessary for hydraulic engineering. Traditional deformation monitoring techniques and soil experiments are constrained by observation scale and timeliness. In this study, Sentinel-1B data from November 2017 to August 2019 were acquired. The small baseline subset (SBAS) InSAR approach was employed to interpret the seasonal deformation characteristics in both the vertical and slope directions of a damaged canal segment in Songyuan, Northeast China. The mechanical properties of saline-alkali soil under varying water contents were quantified by integrating unconfined compression experiment (UCE). In May, as the soil thawed downward, a frozen lenses with poor permeability formed at a depth of approximately 100 cm, causing the accumulation of meltwater and infiltrated precipitation between the frozen layer and the melting layer in the canal. The soil water content at a depth of 80 to 140 cm exceeded 22 %, reaching a threshold for rapid reduction in unconfined compression strength (UCS). Consequently, in spring, the low soil strength between the frozen layer and the melting layer resulted in interface sliding, with a displacement of -133.88 mm in the canal slope direction. Furthermore, the differential projection of freeze-thaw deformation in the slope direction caused continuous creep of the canal towards the free face, with a value of -23.27 mm, exacerbating the formation of the late spring landslide. Integrating InSAR and engineering geological analysis is beneficial for addressing deformation issues in hydraulic engineering. Ensuring the sustainable operation of hydraulic engineering holds important implications for mitigating the salinization process.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1729043251989201108?ref_src=twsrc%5Etfw)
-
-10.1016/j.scitotenv.2023.169210
-
----
-
 ## November 27, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1729043251989201108?ref_src=twsrc%5Etfw)
@@ -89,15 +65,9 @@ Constructing hydraulic engineering ensures agricultural development and improves
 
 ---
 
-## The maternal gut microbiome in pregnancy: implications for the developing immune system.
- 14.12.2023, _O Koren, L Konnikova, P Brodin, IU Mysorekar, MC Collado_
-
-
-The gut microbiome has important roles in host metabolism and immunity, and microbial dysbiosis affects human physiology and health. Maternal immunity and microbial metabolites during pregnancy, microbial transfer during birth, and transfer of immune factors, microorganisms and metabolites via breastfeeding provide critical sources of early-life microbial and immune training, with important consequences for human health. Only a few studies have directly examined the interactions between the gut microbiome and the immune system during pregnancy, and the subsequent effect on offspring development. In this Review, we aim to describe how the maternal microbiome shapes overall pregnancy-associated maternal, fetal and early neonatal immune systems, focusing on the existing evidence and highlighting current gaps to promote further research.
+## The maternal gut microbiome in pregnancy: implications for the developing immune system 
 
 [Source](https://www.nature.com/articles/s41575-023-00864-2)
-
-10.1038/s41575-023-00864-2
 
 ---
 
@@ -119,15 +89,9 @@ The gut microbiome has important roles in host metabolism and immunity, and micr
 
 ---
 
-## Fiber-deficient diet inhibits colitis through the regulation of the niche and metabolism of a gut pathobiont.
- 14.12.2023, _P Kuffa, JM Pickard, A Campbell, M Yamashita, SR Schaus, EC Martens, TM Schmidt, N Inohara, G Núñez, R Caruso_
-
-
-Exclusive enteral nutrition (EEN) with fiber-free diets is an effective steroid-sparing treatment to induce clinical remission in children with Crohn's disease (CD). However, the mechanism underlying the beneficial effects of EEN remains obscure. Using a model of microbiota-dependent colitis with the hallmarks of CD, we find that the administration of a fiber-free diet prevents the development of colitis and inhibits intestinal inflammation in colitic animals. Remarkably, fiber-free diet alters the intestinal localization of Mucispirillum schaedleri, a mucus-dwelling pathobiont, which is required for triggering disease. Mechanistically, the absence of dietary fiber reduces nutrient availability and impairs the dissimilatory nitrate reduction to ammonia (DNRA) metabolic pathway of Mucispirillum, leading to its exclusion from the mucus layer and disease remission. Thus, appropriate localization of the specific pathobiont in the mucus layer is critical for disease development, which is disrupted by fiber exclusion. These results suggest strategies to treat CD by targeting the intestinal niche and metabolism of disease-causing microbes.
+## Fiber-deficient diet inhibits colitis through the regulation of the niche and metabolism of a gut pathobiont
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1931312823004201)
-
-10.1016/j.chom.2023.10.016
 
 ---
 
@@ -143,33 +107,15 @@ Exclusive enteral nutrition (EEN) with fiber-free diets is an effective steroid-
 
 ---
 
-## Improving the standardisation, timeliness and efficiency of the occupational therapy admission process in an older adult inpatient service.
- 14.12.2023, _JJ Ige, DF Hunt, A Mitchell, E Eaton, A Walker, R Fearn, L Kirkham, A Staples, A Giles, B Wilson_
-
-
-Occupational therapists (OTs) are at the forefront of providing recovery-oriented care for older people through timely assessments of patient's engagement in daily living activities among many other interventions. This aids a timely, safe and successful discharge from hospital.This project built on the foundations of previous work while considering the context and requirements of two older adult wards, the rates of admission and staff retention. The specific aim agreed was for 90% of patients admitted to the older adults' inpatient units to be assessed by the occupational therapy (OTY) team within days of admission by December 2022.The OTs worked in collaboration to initiate two tests of change with a total of five PDSA cycles.Our tests of change resulted in an increase of patients engaging in OTY initial assessments within seven days of admission from 47.65% (May to November 2021) to 78% (December 2021 to December 2022).Our team embarked on a quality improvement project to improve standardisation, efficiency and timeliness of the OTY process in an older adult inpatient service by using a pragmatic measure and tests of change evidenced in a previous study. This evidenced the generalisability of the findings of this study. While we were able to improve the timeliness of OTY initial assessments, we concluded that the overall impact on outcomes such as timely discharge was also dependent on other clinical and social factors.
-
-[Source](https://twitter.com/vhjarquind/status/1734652352089714928?ref_src=twsrc%5Etfw)
-
-10.1136/bmjoq-2023-002514
-
----
-
 ## December 12, 2023
 
 [Source](https://twitter.com/vhjarquind/status/1734652352089714928?ref_src=twsrc%5Etfw)
 
 ---
 
-## Turnover of strain-level diversity modulates functional traits in the honeybee gut microbiome between nurses and foragers.
- 09.12.2023, _GLC Baud, A Prasad, KM Ellegaard, P Engel_
-
-
-Strain-level diversity is widespread among bacterial species and can expand the functional potential of natural microbial communities. However, to what extent communities undergo consistent shifts in strain composition in response to environmental/host changes is less well understood.
+## Turnover of strain-level diversity modulates functional traits in the honeybee gut microbiome between nurses and foragers
 
 [Source](https://link.springer.com/article/10.1186/s13059-023-03131-4)
-
-10.1186/s13059-023-03131-4
 
 ---
 
@@ -185,15 +131,9 @@ Strain-level diversity is widespread among bacterial species and can expand the 
 
 ---
 
-## Infant gut DNA bacteriophage strain persistence during the first 3 years of life.
- 14.12.2023, _YC Lou, L Chen, AL Borges, J West-Roberts, BA Firek, MJ Morowitz, JF Banfield_
-
-
-Bacteriophages are key components of gut microbiomes, yet the phage colonization process in the infant gut remains uncertain. Here, we establish a large phage sequence database and use strain-resolved analyses to investigate DNA phage succession in infants throughout the first 3 years of life. Analysis of 819 fecal metagenomes collected from 28 full-term and 24 preterm infants and their mothers revealed that early-life phageome richness increases over time and reaches adult-like complexity by age 3. Approximately 9% of early phage colonizers, which are mostly maternally transmitted and infect Bacteroides, persist for 3 years and are more prevalent in full-term than in preterm infants. Although rare, phages with stop codon reassignment are more likely to persist than non-recoded phages and generally display an increase in in-frame reassigned stop codons over 3 years. Overall, maternal seeding, stop codon reassignment, host CRISPR-Cas locus prevalence, and diverse phage populations contribute to stable viral colonization.
+## Infant gut DNA bacteriophage strain persistence during the first 3 years of life
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1931312823004663)
-
-10.1016/j.chom.2023.11.015
 
 ---
 
@@ -209,15 +149,15 @@ Bacteriophages are key components of gut microbiomes, yet the phage colonization
 
 ---
 
-## Incidence of Acanthamoeba Keratitis in the United Kingdom in 2015: A Prospective National Survey.
- 14.12.2023, _H Jasim, M Grzeda, B Foot, D Tole, JJ Hoffman_
+## Knowledge and practice of obstetric care providers on prevention of obstetric fistula 2023: an institution-based cross-sectional study.
+ 15.12.2023, _SS Alemu, MT Agago, EY Ukumo, TS Hadero_
 
 
-The aims of this study were to quantify the incidence of Acanthamoeba keratitis (AK) in the United Kingdom and investigate risk factors and management parameters.
+Obstetric fistula is a preventable devastating condition that is mostly caused by obstructed labour. About 22% of obstructed labor is complicated by obstetric fistula. Skilled birth attendants during delivery are essential for the prevention of obstetric fistula. However, little is known about the status of the knowledge and practice of obstetric fistula prevention in the Gamo zone.
 
 [Source](https://twitter.com/ClareLou9/status/1734996133540417676?ref_src=twsrc%5Etfw)
 
-10.1097/ICO.0000000000003445
+10.3389/fgwh.2023.1234013
 
 ---
 
@@ -227,15 +167,15 @@ The aims of this study were to quantify the incidence of Acanthamoeba keratitis 
 
 ---
 
-## Validation of Longitudinal Progression Examinations for Prediction of APPE Readiness.
- 14.12.2023, _EP Black, M Jones, M Jones, H Williams, E Julian, DR Wilson_
+## Psychosocial impact of recurrent urogenital infections: a review.
+ 15.12.2023, _K Thomas-White, P Navarro, F Wever, L King, LR Dillard, J Krapf_
 
 
-To study curricular outcomes for the purpose of holistic improvement of the curriculum.
+Recurrent urogenital infections such as bacterial vaginosis, vulvovaginal candidiasis, and urinary tract infections have a high prevalence and pronounced psychosocial impact. However, no review has compared the psychosocial impacts across infection types. This narrative review discusses the impact of common recurrent urogenital infections on psychosocial aspects, including quality of life, stress, mental health, sexual health, work productivity, race and ethnicity, and satisfaction of medical care. Validated questionnaires show that women with recurrent vulvovaginal candidiasis and urinary tract infections have decreased scores on all aspects of quality of life. Those with recurrent vulvovaginal candidiasis and urinary tract infections show lower mental health scores compared to the general population, with increased risk of anxiety and depression. Recurrent urogenital infections affect sexual relationships and intimacy, including avoidance due to symptoms or as a method of prevention. Recurrent infections also increase medical cost and negatively affect work productivity, leading to a combined estimated cost of over US$13 billion per year. There are clear effects of racial inequality involving minority populations that affect diagnosis, treatment, prevalence, and reporting of recurrent urogenital infections. Satisfactory medical treatment improves quality of life and mental health in those suffering from these conditions. Research evaluating psychosocial aspects of recurrent urogenital infections is variable and is not comparable across vulvovaginal conditions. Even so, psychosocial factors are important in understanding contribution and consequence of urogenital infections. Education, awareness, normalization, community support, and access to care can help to alleviate the negative implications of recurrent urogenital infections.
 
 [Source](https://www.nature.com/articles/s41596-023-00926-4)
 
-10.1016/j.ajpe.2023.100137
+10.1177/17455057231216537
 
 ---
 
@@ -287,15 +227,15 @@ _Adaptive Immunity, Animals, Cytokines, Humans, Hypertension, Immunity, Immunity
 
 ---
 
-## Predictors and outcomes of same day discharge after minimally invasive hysterectomy in gynecologic oncology within the National Surgical Quality Improvement Program database.
- 14.12.2023, _T Milman, A Maeda, BE Swift, G Bouchard-Fortier_
+## Bronchoscopy-related outbreaks and pseudo-outbreaks: A systematic review.
+ 15.12.2023, _L Kakoullis, S Economidou, P Mehrotra, G Panos, T Karampitsakos, G Stratakos, A Tzouvelekis, F Sampsonas_
 
 
-To assess trends over time of same day discharge after minimally invasive hysterectomy in oncology, identify perioperative factors influencing same day discharge, and evaluate 30 day postoperative morbidity.
+To identify and report the pathogens and sources of contamination associated with bronchoscopy-related outbreaks and pseudo-outbreaks.
 
 [Source](https://twitter.com/FZMarques/status/1730731347285852161?ref_src=twsrc%5Etfw)
 
-10.1136/ijgc-2023-004970
+10.1017/ice.2023.250
 
 ---
 
