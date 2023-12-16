@@ -77,15 +77,9 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Shotgun metagenomics reveals interkingdom association between intestinal bacteria and fungi involving competition for nutrients.
- 15.12.2023, _Z Xie, A Canalda-Baltrons, C d'Enfert, C Manichanh_
-
-
-The accuracy of internal-transcribed-spacer (ITS) and shotgun metagenomics has not been robustly evaluated, and the effect of diet on the composition and function of the bacterial and fungal gut microbiome in a longitudinal setting has been poorly investigated. Here we compared two approaches to study the fungal community (ITS and shotgun metagenomics), proposed an enrichment protocol to perform a reliable mycobiome analysis using a comprehensive in-house fungal database, and correlated dietary data with both bacterial and fungal communities.
+## Shotgun metagenomics reveals interkingdom association between intestinal bacteria and fungi involving competition for nutrients
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01693-w)
-
-10.1186/s40168-023-01693-w
 
 ---
 
@@ -95,15 +89,9 @@ The accuracy of internal-transcribed-spacer (ITS) and shotgun metagenomics has n
 
 ---
 
-## Fiber-deficient diet inhibits colitis through the regulation of the niche and metabolism of a gut pathobiont.
- 15.12.2023, _P Kuffa, JM Pickard, A Campbell, M Yamashita, SR Schaus, EC Martens, TM Schmidt, N Inohara, G Núñez, R Caruso_
-
-
-Exclusive enteral nutrition (EEN) with fiber-free diets is an effective steroid-sparing treatment to induce clinical remission in children with Crohn's disease (CD). However, the mechanism underlying the beneficial effects of EEN remains obscure. Using a model of microbiota-dependent colitis with the hallmarks of CD, we find that the administration of a fiber-free diet prevents the development of colitis and inhibits intestinal inflammation in colitic animals. Remarkably, fiber-free diet alters the intestinal localization of Mucispirillum schaedleri, a mucus-dwelling pathobiont, which is required for triggering disease. Mechanistically, the absence of dietary fiber reduces nutrient availability and impairs the dissimilatory nitrate reduction to ammonia (DNRA) metabolic pathway of Mucispirillum, leading to its exclusion from the mucus layer and disease remission. Thus, appropriate localization of the specific pathobiont in the mucus layer is critical for disease development, which is disrupted by fiber exclusion. These results suggest strategies to treat CD by targeting the intestinal niche and metabolism of disease-causing microbes.
+## Fiber-deficient diet inhibits colitis through the regulation of the niche and metabolism of a gut pathobiont
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1931312823004201)
-
-10.1016/j.chom.2023.10.016
 
 ---
 
@@ -161,33 +149,9 @@ Exclusive enteral nutrition (EEN) with fiber-free diets is an effective steroid-
 
 ---
 
-## Pterional approach for tuberculum sellae meningiomas: a 17-year single-center experience.
- 15.12.2023, _M Grutza, P Dao Trong, K Zweckberger, A Unterberg_
-
-
-Tuberculum sellae meningiomas (TSMs) are typically in the proximity of the optic nerves and the optic chiasm, thus making the primary aim of surgery the enhancement or stabilization of the patients' visual acuity. The authors therefore undertook a retrospective review of their 17-year experience with the pterional approach to ascertain the resection rate, neurological outcome, and visual outcome.
-
-[Source](https://twitter.com/ClareLou9/status/1734996133540417676?ref_src=twsrc%5Etfw)
-
-10.3171/2023.9.JNS231657
-
----
-
 ## December 13, 2023
 
 [Source](https://twitter.com/ClareLou9/status/1734996133540417676?ref_src=twsrc%5Etfw)
-
----
-
-## Improving the knowledge management of marine megafauna strandings.
- 15.12.2023, _BSSP Oliveira, RG Santos, BA Santos_
-
-
-Although the marine megafauna often strands on beaches around the world, such as sea turtles and whales, stranding data are poorly managed and incorporated into management and conservation strategies. Here we use a knowledge value chain framework to call attention for the urgent need to improve our data architecture and knowledge management on marine megafauna strandings. We use Brazil, a continental megadiverse federative republic, as study model. After describing the main components and identifying the strengths and weaknesses of the current Brazilian data architecture, we propose 10 practical measures for its improvement involving researchers, companies, non-governmental organizations, legislators, policy makers, public agents, citizen scientists, and local communities. Although Brazil has notable strengths such as comprehensive environmental legislation, hundreds of scientists and dozens of prestigious research institutions, stranding data is not translated into technical-scientific knowledge; technical-scientific knowledge is not transformed into effective public regulations; deficient regulations lead to bad decisions and limited actions, which in turn result in ineffective management and conservation strategies. In light of the UN Decade of Ocean Science for Sustainable Development (2021-2030), we propose (1) expanding standardized beach monitoring projects to the entire Brazilian coast; (2) creating a governmental database with FAIR principles; (3) encouraging the development of broad citizen science initiatives; (4) funding scientists and research institutions; (5) boosting outreach activities among researchers to popularize the scientific knowledge; (6) raising awareness among legislators and policy makers on the problem of strandings; (7) updating the existing legal provisions on the environmental licensing of activities developed at sea; (8) hiring new environmental analysts and inspectors and improving the infrastructure of executing environmental agencies; (9) strengthening existing conservation networks with multiple stakeholders; and (10) making the results of the management and conservation strategies broadly accessible to society. These recommendations may also apply to other coastal countries around the world.
-
-[Source](https://www.nature.com/articles/s41596-023-00926-4)
-
-10.1016/j.jenvman.2023.119815
 
 ---
 
@@ -215,6 +179,18 @@ Although the marine megafauna often strands on beaches around the world, such as
 
 ---
 
+## Inflammation, immunity, and hypertension.
+ 08.04.2022, _DG Harrison, TJ Guzik, HE Lob, MS Madhur, PJ Marvar, SR Thabet, A Vinh, CM Weyand_
+
+
+_Adaptive Immunity, Animals, Cytokines, Humans, Hypertension, Immunity, Immunity, Innate, Inflammation, Models, Immunological, T-Lymphocytes_
+
+[Source](https://twitter.com/endocelldoc?ref_src=twsrc%5Etfw)
+
+10.1161/HYPERTENSIONAHA.110.163576
+
+---
+
 ## @endocelldoc
 
 [Source](https://twitter.com/endocelldoc?ref_src=twsrc%5Etfw)
@@ -227,15 +203,15 @@ Although the marine megafauna often strands on beaches around the world, such as
 
 ---
 
-## Pterional approach for tuberculum sellae meningiomas: a 17-year single-center experience.
- 15.12.2023, _M Grutza, P Dao Trong, K Zweckberger, A Unterberg_
+## Cardiovascular comorbidities and their prognostic value in small cell lung cancer patients with chemoradiotherapy.
+ 16.12.2023, _H Liang, T Wang, D Liu, H Wang, Z Ba, Y Xiao, Y Liu, J Yuan, W Yang_
 
 
-Tuberculum sellae meningiomas (TSMs) are typically in the proximity of the optic nerves and the optic chiasm, thus making the primary aim of surgery the enhancement or stabilization of the patients' visual acuity. The authors therefore undertook a retrospective review of their 17-year experience with the pterional approach to ascertain the resection rate, neurological outcome, and visual outcome.
+Small cell lung cancer (SCLC) is an extremely malignant subtype of lung cancer because of its high potential for metastases. Cardiac invasion of SCLC is a serious concern that may lead to systemic embolism or tract obstruction. It has aroused much concern that cardiovascular comorbidities may significantly affect the survival of SCLC patients and their treatment decisions.
 
 [Source](https://twitter.com/FZMarques/status/1730731347285852161?ref_src=twsrc%5Etfw)
 
-10.3171/2023.9.JNS231657
+10.1007/s12094-023-03359-3
 
 ---
 
