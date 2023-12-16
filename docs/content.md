@@ -77,9 +77,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Shotgun metagenomics reveals interkingdom association between intestinal bacteria and fungi involving competition for nutrients
+## Shotgun metagenomics reveals interkingdom association between intestinal bacteria and fungi involving competition for nutrients.
+ 15.12.2023, _Z Xie, A Canalda-Baltrons, C d'Enfert, C Manichanh_
+
+
+The accuracy of internal-transcribed-spacer (ITS) and shotgun metagenomics has not been robustly evaluated, and the effect of diet on the composition and function of the bacterial and fungal gut microbiome in a longitudinal setting has been poorly investigated. Here we compared two approaches to study the fungal community (ITS and shotgun metagenomics), proposed an enrichment protocol to perform a reliable mycobiome analysis using a comprehensive in-house fungal database, and correlated dietary data with both bacterial and fungal communities.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01693-w)
+
+10.1186/s40168-023-01693-w
 
 ---
 
@@ -89,9 +95,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Fiber-deficient diet inhibits colitis through the regulation of the niche and metabolism of a gut pathobiont
+## Fiber-deficient diet inhibits colitis through the regulation of the niche and metabolism of a gut pathobiont.
+ 15.12.2023, _P Kuffa, JM Pickard, A Campbell, M Yamashita, SR Schaus, EC Martens, TM Schmidt, N Inohara, G Núñez, R Caruso_
+
+
+Exclusive enteral nutrition (EEN) with fiber-free diets is an effective steroid-sparing treatment to induce clinical remission in children with Crohn's disease (CD). However, the mechanism underlying the beneficial effects of EEN remains obscure. Using a model of microbiota-dependent colitis with the hallmarks of CD, we find that the administration of a fiber-free diet prevents the development of colitis and inhibits intestinal inflammation in colitic animals. Remarkably, fiber-free diet alters the intestinal localization of Mucispirillum schaedleri, a mucus-dwelling pathobiont, which is required for triggering disease. Mechanistically, the absence of dietary fiber reduces nutrient availability and impairs the dissimilatory nitrate reduction to ammonia (DNRA) metabolic pathway of Mucispirillum, leading to its exclusion from the mucus layer and disease remission. Thus, appropriate localization of the specific pathobiont in the mucus layer is critical for disease development, which is disrupted by fiber exclusion. These results suggest strategies to treat CD by targeting the intestinal niche and metabolism of disease-causing microbes.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1931312823004201)
+
+10.1016/j.chom.2023.10.016
 
 ---
 
@@ -131,15 +143,9 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Infant gut DNA bacteriophage strain persistence during the first 3 years of life.
- 14.12.2023, _YC Lou, L Chen, AL Borges, J West-Roberts, BA Firek, MJ Morowitz, JF Banfield_
-
-
-Bacteriophages are key components of gut microbiomes, yet the phage colonization process in the infant gut remains uncertain. Here, we establish a large phage sequence database and use strain-resolved analyses to investigate DNA phage succession in infants throughout the first 3 years of life. Analysis of 819 fecal metagenomes collected from 28 full-term and 24 preterm infants and their mothers revealed that early-life phageome richness increases over time and reaches adult-like complexity by age 3. Approximately 9% of early phage colonizers, which are mostly maternally transmitted and infect Bacteroides, persist for 3 years and are more prevalent in full-term than in preterm infants. Although rare, phages with stop codon reassignment are more likely to persist than non-recoded phages and generally display an increase in in-frame reassigned stop codons over 3 years. Overall, maternal seeding, stop codon reassignment, host CRISPR-Cas locus prevalence, and diverse phage populations contribute to stable viral colonization.
+## Infant gut DNA bacteriophage strain persistence during the first 3 years of life
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1931312823004663)
-
-10.1016/j.chom.2023.11.015
 
 ---
 
@@ -155,9 +161,33 @@ Bacteriophages are key components of gut microbiomes, yet the phage colonization
 
 ---
 
+## Pterional approach for tuberculum sellae meningiomas: a 17-year single-center experience.
+ 15.12.2023, _M Grutza, P Dao Trong, K Zweckberger, A Unterberg_
+
+
+Tuberculum sellae meningiomas (TSMs) are typically in the proximity of the optic nerves and the optic chiasm, thus making the primary aim of surgery the enhancement or stabilization of the patients' visual acuity. The authors therefore undertook a retrospective review of their 17-year experience with the pterional approach to ascertain the resection rate, neurological outcome, and visual outcome.
+
+[Source](https://twitter.com/ClareLou9/status/1734996133540417676?ref_src=twsrc%5Etfw)
+
+10.3171/2023.9.JNS231657
+
+---
+
 ## December 13, 2023
 
 [Source](https://twitter.com/ClareLou9/status/1734996133540417676?ref_src=twsrc%5Etfw)
+
+---
+
+## Improving the knowledge management of marine megafauna strandings.
+ 15.12.2023, _BSSP Oliveira, RG Santos, BA Santos_
+
+
+Although the marine megafauna often strands on beaches around the world, such as sea turtles and whales, stranding data are poorly managed and incorporated into management and conservation strategies. Here we use a knowledge value chain framework to call attention for the urgent need to improve our data architecture and knowledge management on marine megafauna strandings. We use Brazil, a continental megadiverse federative republic, as study model. After describing the main components and identifying the strengths and weaknesses of the current Brazilian data architecture, we propose 10 practical measures for its improvement involving researchers, companies, non-governmental organizations, legislators, policy makers, public agents, citizen scientists, and local communities. Although Brazil has notable strengths such as comprehensive environmental legislation, hundreds of scientists and dozens of prestigious research institutions, stranding data is not translated into technical-scientific knowledge; technical-scientific knowledge is not transformed into effective public regulations; deficient regulations lead to bad decisions and limited actions, which in turn result in ineffective management and conservation strategies. In light of the UN Decade of Ocean Science for Sustainable Development (2021-2030), we propose (1) expanding standardized beach monitoring projects to the entire Brazilian coast; (2) creating a governmental database with FAIR principles; (3) encouraging the development of broad citizen science initiatives; (4) funding scientists and research institutions; (5) boosting outreach activities among researchers to popularize the scientific knowledge; (6) raising awareness among legislators and policy makers on the problem of strandings; (7) updating the existing legal provisions on the environmental licensing of activities developed at sea; (8) hiring new environmental analysts and inspectors and improving the infrastructure of executing environmental agencies; (9) strengthening existing conservation networks with multiple stakeholders; and (10) making the results of the management and conservation strategies broadly accessible to society. These recommendations may also apply to other coastal countries around the world.
+
+[Source](https://www.nature.com/articles/s41596-023-00926-4)
+
+10.1016/j.jenvman.2023.119815
 
 ---
 
@@ -194,6 +224,18 @@ Bacteriophages are key components of gut microbiomes, yet the phage colonization
 ## https://t.co/uEo64Oulbx
 
 [Source](https://t.co/uEo64Oulbx)
+
+---
+
+## Pterional approach for tuberculum sellae meningiomas: a 17-year single-center experience.
+ 15.12.2023, _M Grutza, P Dao Trong, K Zweckberger, A Unterberg_
+
+
+Tuberculum sellae meningiomas (TSMs) are typically in the proximity of the optic nerves and the optic chiasm, thus making the primary aim of surgery the enhancement or stabilization of the patients' visual acuity. The authors therefore undertook a retrospective review of their 17-year experience with the pterional approach to ascertain the resection rate, neurological outcome, and visual outcome.
+
+[Source](https://twitter.com/FZMarques/status/1730731347285852161?ref_src=twsrc%5Etfw)
+
+10.3171/2023.9.JNS231657
 
 ---
 
