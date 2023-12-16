@@ -77,15 +77,9 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Shotgun metagenomics reveals interkingdom association between intestinal bacteria and fungi involving competition for nutrients.
- 15.12.2023, _Z Xie, A Canalda-Baltrons, C d'Enfert, C Manichanh_
-
-
-The accuracy of internal-transcribed-spacer (ITS) and shotgun metagenomics has not been robustly evaluated, and the effect of diet on the composition and function of the bacterial and fungal gut microbiome in a longitudinal setting has been poorly investigated. Here we compared two approaches to study the fungal community (ITS and shotgun metagenomics), proposed an enrichment protocol to perform a reliable mycobiome analysis using a comprehensive in-house fungal database, and correlated dietary data with both bacterial and fungal communities.
+## Shotgun metagenomics reveals interkingdom association between intestinal bacteria and fungi involving competition for nutrients
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01693-w)
-
-10.1186/s40168-023-01693-w
 
 ---
 
@@ -95,15 +89,9 @@ The accuracy of internal-transcribed-spacer (ITS) and shotgun metagenomics has n
 
 ---
 
-## Fiber-deficient diet inhibits colitis through the regulation of the niche and metabolism of a gut pathobiont.
- 15.12.2023, _P Kuffa, JM Pickard, A Campbell, M Yamashita, SR Schaus, EC Martens, TM Schmidt, N Inohara, G Núñez, R Caruso_
-
-
-Exclusive enteral nutrition (EEN) with fiber-free diets is an effective steroid-sparing treatment to induce clinical remission in children with Crohn's disease (CD). However, the mechanism underlying the beneficial effects of EEN remains obscure. Using a model of microbiota-dependent colitis with the hallmarks of CD, we find that the administration of a fiber-free diet prevents the development of colitis and inhibits intestinal inflammation in colitic animals. Remarkably, fiber-free diet alters the intestinal localization of Mucispirillum schaedleri, a mucus-dwelling pathobiont, which is required for triggering disease. Mechanistically, the absence of dietary fiber reduces nutrient availability and impairs the dissimilatory nitrate reduction to ammonia (DNRA) metabolic pathway of Mucispirillum, leading to its exclusion from the mucus layer and disease remission. Thus, appropriate localization of the specific pathobiont in the mucus layer is critical for disease development, which is disrupted by fiber exclusion. These results suggest strategies to treat CD by targeting the intestinal niche and metabolism of disease-causing microbes.
+## Fiber-deficient diet inhibits colitis through the regulation of the niche and metabolism of a gut pathobiont
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1931312823004201)
-
-10.1016/j.chom.2023.10.016
 
 ---
 
@@ -206,18 +194,6 @@ Bacteriophages are key components of gut microbiomes, yet the phage colonization
 ## https://t.co/uEo64Oulbx
 
 [Source](https://t.co/uEo64Oulbx)
-
----
-
-## Pterional approach for tuberculum sellae meningiomas: a 17-year single-center experience.
- 15.12.2023, _M Grutza, P Dao Trong, K Zweckberger, A Unterberg_
-
-
-Tuberculum sellae meningiomas (TSMs) are typically in the proximity of the optic nerves and the optic chiasm, thus making the primary aim of surgery the enhancement or stabilization of the patients' visual acuity. The authors therefore undertook a retrospective review of their 17-year experience with the pterional approach to ascertain the resection rate, neurological outcome, and visual outcome.
-
-[Source](https://twitter.com/FZMarques/status/1730731347285852161?ref_src=twsrc%5Etfw)
-
-10.3171/2023.9.JNS231657
 
 ---
 
