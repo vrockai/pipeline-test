@@ -197,6 +197,18 @@ Bacteriophages are key components of gut microbiomes, yet the phage colonization
 
 ---
 
+## Use of the Afirma Xpression Atlas for cytologically indeterminate, Afirma Genomic Sequencing Classifier suspicious thyroid nodules: Clinicopathologic analysis with postoperative molecular testing.
+ 17.12.2023, _CA Munoz-Zuluaga, JJ Heymann, JP Solomon, A Patel, MT Siddiqui, T Scognamiglio, HN Gokozan_
+
+
+Afirma has recently introduced its Xpression Atlas (XA) as an adjunct to its Genomic Sequencing Classifier (GSC) for risk stratification of cytologically indeterminate thyroid nodules. We evaluated the performance of Afirma XA and associated pathologic findings for Afirma GSC suspicious nodules.
+
+[Source](https://twitter.com/FZMarques/status/1730731347285852161?ref_src=twsrc%5Etfw)
+
+10.1093/ajcp/aqad169
+
+---
+
 ## December 1, 2023
 
 [Source](https://twitter.com/FZMarques/status/1730731347285852161?ref_src=twsrc%5Etfw)
