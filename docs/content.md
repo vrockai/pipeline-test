@@ -65,6 +65,18 @@ Microbiome scientists critically need modern tools to explore and analyze microb
 
 ---
 
+## Outcome of patients with multivessel occlusion stroke after endovascular treatment.
+ 16.12.2023, _NE LeCouffe, KM Treurniet, M Kappelhof, IG Jansen, M Boers, HA Marquering, LF Beenen, J Boiten, WH van Zwam, LS Yo, CB Majoie, YB Roos, BJ Emmer, JM Coutinho_
+
+
+Little is known about the implications of multivessel occlusions (MVO) in large vessel occlusion stroke patients who undergo endovascular treatment (EVT).
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1729043251989201108?ref_src=twsrc%5Etfw)
+
+10.1177/23969873231216811
+
+---
+
 ## November 27, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1729043251989201108?ref_src=twsrc%5Etfw)
