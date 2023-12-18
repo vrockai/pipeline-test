@@ -131,15 +131,9 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Infant gut DNA bacteriophage strain persistence during the first 3 years of life.
- 14.12.2023, _YC Lou, L Chen, AL Borges, J West-Roberts, BA Firek, MJ Morowitz, JF Banfield_
-
-
-Bacteriophages are key components of gut microbiomes, yet the phage colonization process in the infant gut remains uncertain. Here, we establish a large phage sequence database and use strain-resolved analyses to investigate DNA phage succession in infants throughout the first 3 years of life. Analysis of 819 fecal metagenomes collected from 28 full-term and 24 preterm infants and their mothers revealed that early-life phageome richness increases over time and reaches adult-like complexity by age 3. Approximately 9% of early phage colonizers, which are mostly maternally transmitted and infect Bacteroides, persist for 3 years and are more prevalent in full-term than in preterm infants. Although rare, phages with stop codon reassignment are more likely to persist than non-recoded phages and generally display an increase in in-frame reassigned stop codons over 3 years. Overall, maternal seeding, stop codon reassignment, host CRISPR-Cas locus prevalence, and diverse phage populations contribute to stable viral colonization.
+## Infant gut DNA bacteriophage strain persistence during the first 3 years of life
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1931312823004663)
-
-10.1016/j.chom.2023.11.015
 
 ---
 
@@ -197,15 +191,15 @@ Bacteriophages are key components of gut microbiomes, yet the phage colonization
 
 ---
 
-## Use of the Afirma Xpression Atlas for cytologically indeterminate, Afirma Genomic Sequencing Classifier suspicious thyroid nodules: Clinicopathologic analysis with postoperative molecular testing.
- 17.12.2023, _CA Munoz-Zuluaga, JJ Heymann, JP Solomon, A Patel, MT Siddiqui, T Scognamiglio, HN Gokozan_
+## CD4 + T cells ferroptosis is associated with the development of sepsis in severe polytrauma patients.
+ 17.12.2023, _Z Kong, S Cai, W Xie, J Chen, J Xie, F Yang, Z Li, X Bai, T Liu_
 
 
-Afirma has recently introduced its Xpression Atlas (XA) as an adjunct to its Genomic Sequencing Classifier (GSC) for risk stratification of cytologically indeterminate thyroid nodules. We evaluated the performance of Afirma XA and associated pathologic findings for Afirma GSC suspicious nodules.
+Immunological disorder remains a great challenge in severe poly-trauma, in which lymphopenia is an important contributor. The purpose of present study is to explore whether ferroptosis, a new manner of programmed cell death (PCD), is involved in the lymphocyte depletion and predictive to the adverse prognosis of severe injuries.
 
 [Source](https://twitter.com/FZMarques/status/1730731347285852161?ref_src=twsrc%5Etfw)
 
-10.1093/ajcp/aqad169
+10.1016/j.intimp.2023.111377
 
 ---
 
