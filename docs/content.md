@@ -199,27 +199,15 @@ Complex traits are characterized by many biological and environmental factors, s
 
 ---
 
-## Benthic microbial biogeographic trends in the North Sea are shaped by an interplay of environmental drivers and bottom trawling effort.
- 18.12.2023, _G Bonthond, J Beermann, L Gutow, A Neumann, FR Barboza, A Desiderato, V Fofonova, SB Helber, S Khodami, C Kraan, H Neumann, S Rohde, PJ Schupp_
-
-
-Microbial composition and diversity in marine sediments are shaped by environmental, biological, and anthropogenic processes operating at different scales. However, our understanding of benthic microbial biogeography remains limited. Here, we used 16S rDNA amplicon sequencing to characterize benthic microbiota in the North Sea from the top centimeter of 339 sediment samples. We utilized spatially explicit statistical models, to disentangle the effects of the different predictors, including bottom trawling intensity, a prevalent industrial fishing practice which heavily impacts benthic ecosystems. Fitted models demonstrate how the geographic interplay of different environmental and anthropogenic drivers shapes the diversity, structure and potential metabolism of benthic microbial communities. Sediment properties were the primary determinants, with diversity increasing with sediment permeability but also with mud content, highlighting different underlying processes. Additionally, diversity and structure varied with total organic matter content, temperature, bottom shear stress and bottom trawling. Changes in diversity associated with bottom trawling intensity were accompanied by shifts in predicted energy metabolism. Specifically, with increasing trawling intensity, we observed a transition toward more aerobic heterotrophic and less denitrifying predicted metabolism. Our findings provide first insights into benthic microbial biogeographic patterns on a large spatial scale and illustrate how anthropogenic activity such as bottom trawling may influence the distribution and abundances of microbes and potential metabolism at macroecological scales.
+## Benthic microbial biogeographic trends in the North Sea are shaped by an interplay of environmental drivers and bottom trawling effort
 
 [Source](https://doi.org/10.1038/s43705-023-00336-3)
 
-10.1038/s43705-023-00336-3
-
 ---
 
-## Increased prokaryotic diversity in the Red Sea deep scattering layer.
- 17.12.2023, _TM Huete-Stauffer, R Logares, MI Ansari, A Røstad, ML Calleja, XAG Morán_
-
-
-The diel vertical migration (DVM) of fish provides an active transport of labile dissolved organic matter (DOM) to the deep ocean, fueling the metabolism of heterotrophic bacteria and archaea. We studied the impact of DVM on the mesopelagic prokaryotic diversity of the Red Sea focusing on the mesopelagic deep scattering layer (DSL) between 450-600 m.
+## Increased prokaryotic diversity in the Red Sea deep scattering layer
 
 [Source](https://doi.org/10.1186/s40793-023-00542-5)
-
-10.1186/s40793-023-00542-5
 
 ---
 
