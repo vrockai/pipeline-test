@@ -116,103 +116,51 @@ Complex traits are characterized by many biological and environmental factors, s
 
 ---
 
-## Twnbiome: a public database of the healthy Taiwanese gut microbiome.
- 17.12.2023, _A Chattopadhyay, CY Lee, YC Lee, CL Liu, HK Chen, YH Li, LC Lai, MH Tsai, YH Ni, HM Chiu, TP Lu, EY Chuang_
-
-
-_Humans, Gastrointestinal Microbiome, Computational Biology, Microbiota, Algorithms, Databases, Factual, High-Throughput Nucleotide Sequencing, Software_
-With new advances in next generation sequencing (NGS) technology at reduced costs, research on bacterial genomes in the environment has become affordable. Compared to traditional methods, NGS provides high-throughput sequencing reads and the ability to identify many species in the microbiome that were previously unknown. Numerous bioinformatics tools and algorithms have been developed to conduct such analyses. However, in order to obtain biologically meaningful results, the researcher must select the proper tools and combine them to construct an efficient pipeline. This complex procedure may include tens of tools, each of which require correct parameter settings. Furthermore, an NGS data analysis involves multiple series of command-line tools and requires extensive computational resources, which imposes a high barrier for biologists and clinicians to conduct NGS analysis and even interpret their own data. Therefore, we established a public gut microbiome database, which we call Twnbiome, created using healthy subjects from Taiwan, with the goal of enabling microbiota research for the Taiwanese population. Twnbiome provides users with a baseline gut microbiome panel from a healthy Taiwanese cohort, which can be utilized as a reference for conducting case-control studies for a variety of diseases. It is an interactive, informative, and user-friendly database. Twnbiome additionally offers an analysis pipeline, where users can upload their data and download analyzed results. Twnbiome offers an online database which non-bioinformatics users such as clinicians and doctors can not only utilize to access a control set of data, but also analyze raw data with a few easy clicks. All results are customizable with ready-made plots and easily downloadable tables. Database URL: http://twnbiome.cgm.ntu.edu.tw/ .
+## Twnbiome: a public database of the healthy Taiwanese gut microbiome
 
 [Source](https://doi.org/10.1186/s12859-023-05585-6)
 
-10.1186/s12859-023-05585-6
-
 ---
 
-## Identification of inulin-responsive bacteria in the gut microbiota via multi-modal activity-based sorting.
- 17.12.2023, _A Riva, H Rasoulimehrabani, JM Cruz-Rubio, SL Schnorr, C von Baeckmann, D Inan, G Nikolov, CW Herbold, B Hausmann, P Pjevac, A Schintlmeister, A Spittler, M Palatinszky, A Kadunic, N Hieger, G Del Favero, M von Bergen, N Jehmlich, M Watzka, KS Lee, J Wiesenbauer, S Khadem, H Viernstein, R Stocker, M Wagner, C Kaiser, A Richter, F Kleitz, D Berry_
-
-
-_Inulin, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Bacteria, Prebiotics_
-Prebiotics are defined as non-digestible dietary components that promote the growth of beneficial gut microorganisms. In many cases, however, this capability is not systematically evaluated. Here, we develop a methodology for determining prebiotic-responsive bacteria using the popular dietary supplement inulin. We first identify microbes with a capacity to bind inulin using mesoporous silica nanoparticles functionalized with inulin. 16S rRNA gene amplicon sequencing of sorted cells revealed that the ability to bind inulin was widespread in the microbiota. We further evaluate which taxa are metabolically stimulated by inulin and find that diverse taxa from the phyla Firmicutes and Actinobacteria respond to inulin, and several isolates of these taxa can degrade inulin. Incubation with another prebiotic, xylooligosaccharides (XOS), in contrast, shows a more robust bifidogenic effect. Interestingly, the Coriobacteriia Eggerthella lenta and Gordonibacter urolithinfaciens are indirectly stimulated by the inulin degradation process, expanding our knowledge of inulin-responsive bacteria.
+## Identification of inulin-responsive bacteria in the gut microbiota via multi-modal activity-based sorting
 
 [Source](https://doi.org/10.1038/s41467-023-43448-z)
 
-10.1038/s41467-023-43448-z
-
 ---
 
-## Application of omics technologies in cariology research: A critical review with bibliometric analysis.
- 17.12.2023, _JS Zhang, S Huang, Z Chen, CH Chu, N Takahashi, OY Yu_
-
-
-To review the application of omics technologies in the field of cariology research and provide critical insights into the emerging opportunities and challenges.
+## Application of omics technologies in cariology research: A critical review with bibliometric analysis
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0300571223003871?via%3Dihub)
 
-10.1016/j.jdent.2023.104801
-
 ---
 
-## Dysbiosis and associated stool features improve prediction of response to biological therapy in inflammatory bowel disease.
- 14.12.2023, _C Caenepeel, G Falony, K Machiels, B Verstockt, PJ Goncalves, M Ferrante, J Sabino, J Raes, S Vieira-Silva, S Vermeire_
-
-
-Dysbiosis of the gut microbiota is considered a key contributor to IBD aetiology. Here, we investigated potential associations between microbiota composition and the outcomes to biological therapies.
+## Dysbiosis and associated stool features improve prediction of response to biological therapy in inflammatory bowel disease
 
 [Source](https://www.gastrojournal.org/article/S0016-5085(23)05598-1/pdf)
 
-10.1053/j.gastro.2023.11.304
-
 ---
 
-## Culturomics in Unraveling the Upper Female Reproductive Tract Microbiota.
- 15.12.2023, _R Vanstokstraeten, T Demuyser, D Piérard, I Wybo, C Blockeel, S Mackens_
-
-
-In recent years, the study of the human microbiome has surged, shedding light on potential connections between microbiome composition and various diseases. One specific area of intense interest within this research is the female reproductive tract, as it holds the potential to influence the process of embryo implantation. Advanced sequencing technologies have delivered unprecedented insights into the microbial communities, also known as microbiota, residing in the female reproductive tract. However, their efficacy encounters significant challenges when analyzing low-biomass microbiota, such as those present in the endometrium. These molecular techniques are susceptible to contamination from laboratory reagents and extraction kits, leading to sequencing bias that can significantly alter the perceived taxonomy of a sample. Consequently, investigating the microbiota of the upper female reproductive tract necessitates the exploration of alternative methods. In this context, the current review delves into the application of culturomics in unraveling the upper female reproductive tract microbiota. While culturomics holds value in research, its transition to routine clinical practice appears remote, at least in the foreseeable future.
+## Culturomics in Unraveling the Upper Female Reproductive Tract Microbiota
 
 [Source](https://doi.org/10.1055/s-0043-1777758)
 
-10.1055/s-0043-1777758
-
 ---
 
-## A manifold-based framework for studying the dynamics of the vaginal microbiome.
- 18.12.2023, _M Tsamir-Rimon, E Borenstein_
-
-
-_Humans, Female, Vagina, Vaginosis, Bacterial, Lactobacillus, Microbiota_
-The vaginal microbiome plays a crucial role in our health. The composition of this community can be classified into five community state types (CSTs), four of which are primarily consisted of Lactobacillus species and considered healthy, while the fifth features non-Lactobacillus populations and signifies a disease state termed Bacterial vaginosis (BV), which is associated with various symptoms and increased susceptibility to diseases. Importantly, however, the exact mechanisms and dynamics underlying BV development are not yet fully understood, including specifically possible routes from a healthy to a BV state. To address this gap, this study set out to characterize the progression from healthy- to BV-associated compositions by analyzing 8026 vaginal samples and using a manifold-detection framework. This approach, inspired by single-cell analysis, aims to identify low-dimensional trajectories in the high-dimensional composition space. It further orders samples along these trajectories and assigns a score (pseudo-time) to each analyzed or new sample based on its proximity to the BV state. Our results reveal distinct routes of progression between healthy and BV states for each CST, with pseudo-time scores correlating with community diversity and quantifying the health state of each sample. Several BV indicators can also be successfully predicted based on pseudo-time scores, and key taxa involved in BV development can be identified using this approach. Taken together, these findings demonstrate how manifold detection can be used to successfully characterize the progression from healthy Lactobacillus-dominant populations to BV and to accurately quantify the health condition of new samples along the route of BV development.
+## A manifold-based framework for studying the dynamics of the vaginal microbiome
 
 [Source](https://doi.org/10.1038/s41522-023-00471-8)
 
-10.1038/s41522-023-00471-8
-
 ---
 
-## Culturomics reveals a hidden world of vaginal microbiota with the isolation of 206 bacteria from a single vaginal sample.
- 17.12.2023, _L Abou Chacra, A Benatmane, R Iwaza, C Ly, S Alibar, N Armstrong, O Mediannikov, F Bretelle, F Fenollar_
-
-
-_Humans, Female, Bacteria, Microbiota, Firmicutes, Vagina, Bacteroidetes_
-The composition of the vaginal microbiota is known to be influenced by various factors and to be associated with several disorders affecting women's health. Although metagenomics is currently a widely used method for studying the human microbiota, it has certain limitations, such as a lack of information on bacterial viability. It is therefore important to use culture-based methods such as culturomics. Here, we used 35 different culture conditions to comprehensively characterize the vaginal bacterial diversity of a single woman's flora. A total of 206 bacterial species, belonging to six phyla (for a little more than half to Firmicutes, followed mainly by Actinobacteria, Bacteroidetes, and Proteobacteria) and 45 families, and 2 fungal species were cultivated. While several species of lactobacilli have been isolated, a wide variety of other bacteria were also separated, including 65 never reported before in vaginal flora, including a new bacterial species, Porphyromonas vaginalis sp. nov. Extensive culture-based methods are essential to establish a comprehensive, evidence-based repertoire of bacterial viability. If combined with molecular methods, they can provide a much more thorough understanding of the vaginal microbiota and fulfil the unknown part of metagenomic studies.
+## Culturomics reveals a hidden world of vaginal microbiota with the isolation of 206 bacteria from a single vaginal sample
 
 [Source](https://doi.org/10.1007/s00203-023-03742-2)
 
-10.1007/s00203-023-03742-2
-
 ---
 
-## Effects of variation in sample storage conditions and swab order on 16S vaginal microbiome analyses.
- 14.12.2023, _T Kumar, M Bryant, K Cantrell, SJ Song, D McDonald, HM Tubb, S Farmer, A Lewis, ES Lukacz, L Brubaker, R Knight_
-
-
-The composition of the human vaginal microbiome has been linked to a variety of medical conditions including yeast infection, bacterial vaginosis, and sexually transmitted infection. The vaginal microbiome is becoming increasingly acknowledged as a key factor in personal health, and it is essential to establish methods to collect and process accurate samples with self-collection techniques to allow large, population-based studies. In this study, we investigate if using AssayAssure Genelock, a nucleic acid preservative, introduces microbial biases in self-collected vaginal samples. To our knowledge, we also contribute some of the first evidence regarding the impacts of multiple swabs taken at one time point. Vaginal samples have relatively low biomass, so the ability to collect multiple swabs from a unique participant at a single time would greatly improve the replicability and data available for future studies. This will hopefully lay the groundwork to gain a more complete and accurate understanding of the vaginal microbiome.
+## Effects of variation in sample storage conditions and swab order on 16S vaginal microbiome analyses
 
 [Source](https://doi.org/10.1128/spectrum.03712-23)
-
-10.1128/spectrum.03712-23
 
 ---
 
@@ -222,52 +170,27 @@ The composition of the human vaginal microbiome has been linked to a variety of 
 
 ---
 
-## Validation of method for faecal sampling in cats and dogs for faecal microbiome analysis.
- 18.12.2023, _X Langon_
-
-
-_Cats, Animals, Dogs, Cat Diseases, Dog Diseases, Feces, Microbiota, Bacteria, DNA, Bacterial_
-Reproducible and reliable studies of cat and dog faecal microbiomes are dependent on many methodology-based variables including how the faecal stools are sampled and stored prior to processing. The current study aimed to establish an appropriate method for sampling and storing faecal stools from cats and dogs which may also be applied to privately-owned pets. The approach investigated the effects of storing faeces for up to 12 h at room temperature and sampling from various locations within the stool in terms of microbial diversity, relative taxa abundances and DNA yield. Faeces were collected from 10 healthy cats and 10 healthy dogs and stored at room temperature (20 °C). Samples were taken from various locations within the stool (the first emitted part (i), the middle (ii) and the last emitted end (iii), at either surface or core) at 0, 0.5, 1, 2, 3, 6 and 12 h, stabilised and stored at -80 °C. DNA was extracted from all samples, using Illumina NovaSeq.
+## Validation of method for faecal sampling in cats and dogs for faecal microbiome analysis
 
 [Source](https://doi.org/10.1186/s12917-023-03842-7)
 
-10.1186/s12917-023-03842-7
-
 ---
 
-## Transmission of antimicrobial resistance in the gut microbiome of gregarious cockroaches: the importance of interaction between antibiotic exposed and non-exposed populations.
- 14.12.2023, _A Bogri, EEB Jensen, AV Borchert, C Brinch, S Otani, FM Aarestrup_
-
-
-Antimicrobial resistance is a rising threat to human and animal health. The spread of resistance through the transmission of the symbiotic gut microbiome is of concern and has been explored in theoretical modeling studies. In this study, we employ gregarious insect populations to examine the emergence and transmission of antimicrobial resistance in vivo and validate modeling hypotheses. We find that antimicrobial treatment increases the levels of resistance in treated populations. Most importantly, we show that resistance increased in untreated populations after interacting with the treated ones. The level of resistance transmission was affected by the magnitude and frequency of population mixing. Our results highlight the importance of microbial transmission in the spread of antimicrobial resistance.
+## Transmission of antimicrobial resistance in the gut microbiome of gregarious cockroaches: the importance of interaction between antibiotic exposed and non-exposed populations
 
 [Source](https://doi.org/10.1128/msystems.01018-23)
 
-10.1128/msystems.01018-23
-
 ---
 
-## Fungal community composition changes and reduced bacterial diversity drive improvements in the soil quality index during arable land restoration.
- 17.12.2023, _P Wan, Z Zhou, Z Yuan, H Wei, F Huang, Z Li, FM Li, F Zhang_
-
-
-Arable land is facing the growing challenge of land degradation due to intensive use and this is beginning to affect global food security. However, active and passive restoration can improve soil characteristics and reshape microbial communities. Despite the increasing focus on changes in microbial communities during restoration, the mechanisms underlying how microbes drive the soil quality index (SQI) in arable land restoration remain unclear. In this study, we selected conventional farmland (CF, heavily intensified) and two restoration strategies (AR, artificial restoration; NR, natural restoration), with the same context (including soil texture, climate, etc.), and measured the microbial indicators over 2 years to investigate the mechanisms driving SQI improvement on restored arable land. The AR and NR treatments resulted in a 50% and 58% increase in SQI, respectively, compared to CF as soil nutrient levels increased, resulting in higher microbial biomasses and enzyme activities. Microbial abundance on the AR land was approximately two times greater than on the NR land due to the introduction of legumes. Bacterial diversity declined, while fungi developed in a more diverse direction under the restoration strategies. The AR and NR areas were mainly enriched with rhizobium (Microvirga, Bradyrhizobium), which contribute to healthy plant growth. The pathogenic fungi (Gibberella, Fusarium, Volutella) were more abundant in the CF area and the plant pathogen guild was about five times higher in the restored areas. Following arable land restoration, microbial life history strategies shifted from r-to K-strategists due to the higher proportion of recalcitrant SOC (DOC/SOC decreased by 18%-30%). The altered microbial community in the restored areas created new levels of functionality, with a 2.6%-4.3% decrease in bacterial energy metabolism (oxidative phosphorylation, C fixation, and N metabolism decreased by 7%, 4%, and 6%, respectively). Structural equation modelling suggested that restoration strategy affected SQI either directly by increasing total soil nutrient levels or indirectly by altering the microbial community and that fungal community composition and bacterial diversity made the largest contributions to SQI. These results provided new insights into soil quality improvement from a microbial perspective and can help guide future arable land restoration.
+## Fungal community composition changes and reduced bacterial diversity drive improvements in the soil quality index during arable land restoration
 
 [Source](https://doi.org/10.1016/j.envres.2023.117931)
 
-10.1016/j.envres.2023.117931
-
 ---
 
-## Two-for-one: root microbiota orchestrates both soil pH and plant nutrition.
- 15.12.2023, _JA Siqueira, DG Gouveia, A Nunes-Nesi, WL Araújo_
-
-
-Aluminum (Al) toxicity is a crucial limiting factor for crop growth in acid soils. Recently, Liu et al. demonstrated that the root microbiota of rice modulates the responses to Al toxicity and phosphorus limitation, offering intriguing insights into microbiome function and opening new research opportunities.
+## Two-for-one: root microbiota orchestrates both soil pH and plant nutrition
 
 [Source](https://doi.org/10.1016/j.tplants.2023.11.026)
-
-10.1016/j.tplants.2023.11.026
 
 ---
 
@@ -277,27 +200,15 @@ Aluminum (Al) toxicity is a crucial limiting factor for crop growth in acid soil
 
 ---
 
-## Benthic microbial biogeographic trends in the North Sea are shaped by an interplay of environmental drivers and bottom trawling effort.
- 18.12.2023, _G Bonthond, J Beermann, L Gutow, A Neumann, FR Barboza, A Desiderato, V Fofonova, SB Helber, S Khodami, C Kraan, H Neumann, S Rohde, PJ Schupp_
-
-
-Microbial composition and diversity in marine sediments are shaped by environmental, biological, and anthropogenic processes operating at different scales. However, our understanding of benthic microbial biogeography remains limited. Here, we used 16S rDNA amplicon sequencing to characterize benthic microbiota in the North Sea from the top centimeter of 339 sediment samples. We utilized spatially explicit statistical models, to disentangle the effects of the different predictors, including bottom trawling intensity, a prevalent industrial fishing practice which heavily impacts benthic ecosystems. Fitted models demonstrate how the geographic interplay of different environmental and anthropogenic drivers shapes the diversity, structure and potential metabolism of benthic microbial communities. Sediment properties were the primary determinants, with diversity increasing with sediment permeability but also with mud content, highlighting different underlying processes. Additionally, diversity and structure varied with total organic matter content, temperature, bottom shear stress and bottom trawling. Changes in diversity associated with bottom trawling intensity were accompanied by shifts in predicted energy metabolism. Specifically, with increasing trawling intensity, we observed a transition toward more aerobic heterotrophic and less denitrifying predicted metabolism. Our findings provide first insights into benthic microbial biogeographic patterns on a large spatial scale and illustrate how anthropogenic activity such as bottom trawling may influence the distribution and abundances of microbes and potential metabolism at macroecological scales.
+## Benthic microbial biogeographic trends in the North Sea are shaped by an interplay of environmental drivers and bottom trawling effort
 
 [Source](https://doi.org/10.1038/s43705-023-00336-3)
 
-10.1038/s43705-023-00336-3
-
 ---
 
-## Increased prokaryotic diversity in the Red Sea deep scattering layer.
- 17.12.2023, _TM Huete-Stauffer, R Logares, MI Ansari, A Røstad, ML Calleja, XAG Morán_
-
-
-The diel vertical migration (DVM) of fish provides an active transport of labile dissolved organic matter (DOM) to the deep ocean, fueling the metabolism of heterotrophic bacteria and archaea. We studied the impact of DVM on the mesopelagic prokaryotic diversity of the Red Sea focusing on the mesopelagic deep scattering layer (DSL) between 450-600 m.
+## Increased prokaryotic diversity in the Red Sea deep scattering layer
 
 [Source](https://doi.org/10.1186/s40793-023-00542-5)
-
-10.1186/s40793-023-00542-5
 
 ---
 
