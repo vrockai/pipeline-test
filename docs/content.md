@@ -170,27 +170,52 @@ Complex traits are characterized by many biological and environmental factors, s
 
 ---
 
-## Validation of method for faecal sampling in cats and dogs for faecal microbiome analysis
+## Validation of method for faecal sampling in cats and dogs for faecal microbiome analysis.
+ 18.12.2023, _X Langon_
+
+
+_Cats, Animals, Dogs, Cat Diseases, Dog Diseases, Feces, Microbiota, Bacteria, DNA, Bacterial_
+Reproducible and reliable studies of cat and dog faecal microbiomes are dependent on many methodology-based variables including how the faecal stools are sampled and stored prior to processing. The current study aimed to establish an appropriate method for sampling and storing faecal stools from cats and dogs which may also be applied to privately-owned pets. The approach investigated the effects of storing faeces for up to 12 h at room temperature and sampling from various locations within the stool in terms of microbial diversity, relative taxa abundances and DNA yield. Faeces were collected from 10 healthy cats and 10 healthy dogs and stored at room temperature (20 °C). Samples were taken from various locations within the stool (the first emitted part (i), the middle (ii) and the last emitted end (iii), at either surface or core) at 0, 0.5, 1, 2, 3, 6 and 12 h, stabilised and stored at -80 °C. DNA was extracted from all samples, using Illumina NovaSeq.
 
 [Source](https://doi.org/10.1186/s12917-023-03842-7)
 
+10.1186/s12917-023-03842-7
+
 ---
 
-## Transmission of antimicrobial resistance in the gut microbiome of gregarious cockroaches: the importance of interaction between antibiotic exposed and non-exposed populations
+## Transmission of antimicrobial resistance in the gut microbiome of gregarious cockroaches: the importance of interaction between antibiotic exposed and non-exposed populations.
+ 14.12.2023, _A Bogri, EEB Jensen, AV Borchert, C Brinch, S Otani, FM Aarestrup_
+
+
+Antimicrobial resistance is a rising threat to human and animal health. The spread of resistance through the transmission of the symbiotic gut microbiome is of concern and has been explored in theoretical modeling studies. In this study, we employ gregarious insect populations to examine the emergence and transmission of antimicrobial resistance in vivo and validate modeling hypotheses. We find that antimicrobial treatment increases the levels of resistance in treated populations. Most importantly, we show that resistance increased in untreated populations after interacting with the treated ones. The level of resistance transmission was affected by the magnitude and frequency of population mixing. Our results highlight the importance of microbial transmission in the spread of antimicrobial resistance.
 
 [Source](https://doi.org/10.1128/msystems.01018-23)
 
+10.1128/msystems.01018-23
+
 ---
 
-## Fungal community composition changes and reduced bacterial diversity drive improvements in the soil quality index during arable land restoration
+## Fungal community composition changes and reduced bacterial diversity drive improvements in the soil quality index during arable land restoration.
+ 17.12.2023, _P Wan, Z Zhou, Z Yuan, H Wei, F Huang, Z Li, FM Li, F Zhang_
+
+
+Arable land is facing the growing challenge of land degradation due to intensive use and this is beginning to affect global food security. However, active and passive restoration can improve soil characteristics and reshape microbial communities. Despite the increasing focus on changes in microbial communities during restoration, the mechanisms underlying how microbes drive the soil quality index (SQI) in arable land restoration remain unclear. In this study, we selected conventional farmland (CF, heavily intensified) and two restoration strategies (AR, artificial restoration; NR, natural restoration), with the same context (including soil texture, climate, etc.), and measured the microbial indicators over 2 years to investigate the mechanisms driving SQI improvement on restored arable land. The AR and NR treatments resulted in a 50% and 58% increase in SQI, respectively, compared to CF as soil nutrient levels increased, resulting in higher microbial biomasses and enzyme activities. Microbial abundance on the AR land was approximately two times greater than on the NR land due to the introduction of legumes. Bacterial diversity declined, while fungi developed in a more diverse direction under the restoration strategies. The AR and NR areas were mainly enriched with rhizobium (Microvirga, Bradyrhizobium), which contribute to healthy plant growth. The pathogenic fungi (Gibberella, Fusarium, Volutella) were more abundant in the CF area and the plant pathogen guild was about five times higher in the restored areas. Following arable land restoration, microbial life history strategies shifted from r-to K-strategists due to the higher proportion of recalcitrant SOC (DOC/SOC decreased by 18%-30%). The altered microbial community in the restored areas created new levels of functionality, with a 2.6%-4.3% decrease in bacterial energy metabolism (oxidative phosphorylation, C fixation, and N metabolism decreased by 7%, 4%, and 6%, respectively). Structural equation modelling suggested that restoration strategy affected SQI either directly by increasing total soil nutrient levels or indirectly by altering the microbial community and that fungal community composition and bacterial diversity made the largest contributions to SQI. These results provided new insights into soil quality improvement from a microbial perspective and can help guide future arable land restoration.
 
 [Source](https://doi.org/10.1016/j.envres.2023.117931)
 
+10.1016/j.envres.2023.117931
+
 ---
 
-## Two-for-one: root microbiota orchestrates both soil pH and plant nutrition
+## Two-for-one: root microbiota orchestrates both soil pH and plant nutrition.
+ 15.12.2023, _JA Siqueira, DG Gouveia, A Nunes-Nesi, WL Araújo_
+
+
+Aluminum (Al) toxicity is a crucial limiting factor for crop growth in acid soils. Recently, Liu et al. demonstrated that the root microbiota of rice modulates the responses to Al toxicity and phosphorus limitation, offering intriguing insights into microbiome function and opening new research opportunities.
 
 [Source](https://doi.org/10.1016/j.tplants.2023.11.026)
+
+10.1016/j.tplants.2023.11.026
 
 ---
 
@@ -200,9 +225,15 @@ Complex traits are characterized by many biological and environmental factors, s
 
 ---
 
-## Benthic microbial biogeographic trends in the North Sea are shaped by an interplay of environmental drivers and bottom trawling effort
+## Benthic microbial biogeographic trends in the North Sea are shaped by an interplay of environmental drivers and bottom trawling effort.
+ 18.12.2023, _G Bonthond, J Beermann, L Gutow, A Neumann, FR Barboza, A Desiderato, V Fofonova, SB Helber, S Khodami, C Kraan, H Neumann, S Rohde, PJ Schupp_
+
+
+Microbial composition and diversity in marine sediments are shaped by environmental, biological, and anthropogenic processes operating at different scales. However, our understanding of benthic microbial biogeography remains limited. Here, we used 16S rDNA amplicon sequencing to characterize benthic microbiota in the North Sea from the top centimeter of 339 sediment samples. We utilized spatially explicit statistical models, to disentangle the effects of the different predictors, including bottom trawling intensity, a prevalent industrial fishing practice which heavily impacts benthic ecosystems. Fitted models demonstrate how the geographic interplay of different environmental and anthropogenic drivers shapes the diversity, structure and potential metabolism of benthic microbial communities. Sediment properties were the primary determinants, with diversity increasing with sediment permeability but also with mud content, highlighting different underlying processes. Additionally, diversity and structure varied with total organic matter content, temperature, bottom shear stress and bottom trawling. Changes in diversity associated with bottom trawling intensity were accompanied by shifts in predicted energy metabolism. Specifically, with increasing trawling intensity, we observed a transition toward more aerobic heterotrophic and less denitrifying predicted metabolism. Our findings provide first insights into benthic microbial biogeographic patterns on a large spatial scale and illustrate how anthropogenic activity such as bottom trawling may influence the distribution and abundances of microbes and potential metabolism at macroecological scales.
 
 [Source](https://doi.org/10.1038/s43705-023-00336-3)
+
+10.1038/s43705-023-00336-3
 
 ---
 
