@@ -1,8 +1,8 @@
 ## Microbiome diversity protects against pathogens by nutrient blocking.
- 16.12.2023, _F Spragge, E Bakkeren, MT Jahn, E B N Araujo, CF Pearson, X Wang, L Pankhurst, O Cunrath, KR Foster_
+ 21.12.2023, _F Spragge, E Bakkeren, MT Jahn, E B N Araujo, CF Pearson, X Wang, L Pankhurst, O Cunrath, KR Foster_
 
 
-_Animals, Humans, Mice, Microbiota, Gastrointestinal Microbiome, Bacteria, Nutrients_
+_Animals, Humans, Mice, Gastrointestinal Microbiome, Nutrients, Host-Pathogen Interactions, Klebsiella pneumoniae, Salmonella typhimurium, Symbiosis, Germ-Free Life, Klebsiella Infections, Salmonella Infections, Escherichia coli_
 The human gut microbiome plays an important role in resisting colonization of the host by pathogens, but we lack the ability to predict which communities will be protective. We studied how human gut bacteria influence colonization of two major bacterial pathogens, both in vitro and in gnotobiotic mice. Whereas single species alone had negligible effects, colonization resistance greatly increased with community diversity. Moreover, this community-level resistance rested critically upon certain species being present. We explained these ecological patterns through the collective ability of resistant communities to consume nutrients that overlap with those used by the pathogen. Furthermore, we applied our findings to successfully predict communities that resist a novel target strain. Our work provides a reason why microbiome diversity is beneficial and suggests a route for the rational design of pathogen-resistant communities.
 
 [Source](https://doi.org/10.1126/science.adj3502)
@@ -116,91 +116,45 @@ Complex traits are characterized by many biological and environmental factors, s
 
 ---
 
-## Twnbiome: a public database of the healthy Taiwanese gut microbiome.
- 17.12.2023, _A Chattopadhyay, CY Lee, YC Lee, CL Liu, HK Chen, YH Li, LC Lai, MH Tsai, YH Ni, HM Chiu, TP Lu, EY Chuang_
-
-
-_Humans, Gastrointestinal Microbiome, Computational Biology, Microbiota, Algorithms, Databases, Factual, High-Throughput Nucleotide Sequencing, Software_
-With new advances in next generation sequencing (NGS) technology at reduced costs, research on bacterial genomes in the environment has become affordable. Compared to traditional methods, NGS provides high-throughput sequencing reads and the ability to identify many species in the microbiome that were previously unknown. Numerous bioinformatics tools and algorithms have been developed to conduct such analyses. However, in order to obtain biologically meaningful results, the researcher must select the proper tools and combine them to construct an efficient pipeline. This complex procedure may include tens of tools, each of which require correct parameter settings. Furthermore, an NGS data analysis involves multiple series of command-line tools and requires extensive computational resources, which imposes a high barrier for biologists and clinicians to conduct NGS analysis and even interpret their own data. Therefore, we established a public gut microbiome database, which we call Twnbiome, created using healthy subjects from Taiwan, with the goal of enabling microbiota research for the Taiwanese population. Twnbiome provides users with a baseline gut microbiome panel from a healthy Taiwanese cohort, which can be utilized as a reference for conducting case-control studies for a variety of diseases. It is an interactive, informative, and user-friendly database. Twnbiome additionally offers an analysis pipeline, where users can upload their data and download analyzed results. Twnbiome offers an online database which non-bioinformatics users such as clinicians and doctors can not only utilize to access a control set of data, but also analyze raw data with a few easy clicks. All results are customizable with ready-made plots and easily downloadable tables. Database URL: http://twnbiome.cgm.ntu.edu.tw/ .
+## Twnbiome: a public database of the healthy Taiwanese gut microbiome
 
 [Source](https://doi.org/10.1186/s12859-023-05585-6)
 
-10.1186/s12859-023-05585-6
-
 ---
 
-## Identification of inulin-responsive bacteria in the gut microbiota via multi-modal activity-based sorting.
- 17.12.2023, _A Riva, H Rasoulimehrabani, JM Cruz-Rubio, SL Schnorr, C von Baeckmann, D Inan, G Nikolov, CW Herbold, B Hausmann, P Pjevac, A Schintlmeister, A Spittler, M Palatinszky, A Kadunic, N Hieger, G Del Favero, M von Bergen, N Jehmlich, M Watzka, KS Lee, J Wiesenbauer, S Khadem, H Viernstein, R Stocker, M Wagner, C Kaiser, A Richter, F Kleitz, D Berry_
-
-
-_Inulin, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Bacteria, Prebiotics_
-Prebiotics are defined as non-digestible dietary components that promote the growth of beneficial gut microorganisms. In many cases, however, this capability is not systematically evaluated. Here, we develop a methodology for determining prebiotic-responsive bacteria using the popular dietary supplement inulin. We first identify microbes with a capacity to bind inulin using mesoporous silica nanoparticles functionalized with inulin. 16S rRNA gene amplicon sequencing of sorted cells revealed that the ability to bind inulin was widespread in the microbiota. We further evaluate which taxa are metabolically stimulated by inulin and find that diverse taxa from the phyla Firmicutes and Actinobacteria respond to inulin, and several isolates of these taxa can degrade inulin. Incubation with another prebiotic, xylooligosaccharides (XOS), in contrast, shows a more robust bifidogenic effect. Interestingly, the Coriobacteriia Eggerthella lenta and Gordonibacter urolithinfaciens are indirectly stimulated by the inulin degradation process, expanding our knowledge of inulin-responsive bacteria.
+## Identification of inulin-responsive bacteria in the gut microbiota via multi-modal activity-based sorting
 
 [Source](https://doi.org/10.1038/s41467-023-43448-z)
 
-10.1038/s41467-023-43448-z
-
 ---
 
-## Application of omics technologies in cariology research: A critical review with bibliometric analysis.
- 17.12.2023, _JS Zhang, S Huang, Z Chen, CH Chu, N Takahashi, OY Yu_
-
-
-To review the application of omics technologies in the field of cariology research and provide critical insights into the emerging opportunities and challenges.
+## Application of omics technologies in cariology research: A critical review with bibliometric analysis
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0300571223003871?via%3Dihub)
 
-10.1016/j.jdent.2023.104801
-
 ---
 
-## Dysbiosis and associated stool features improve prediction of response to biological therapy in inflammatory bowel disease.
- 14.12.2023, _C Caenepeel, G Falony, K Machiels, B Verstockt, PJ Goncalves, M Ferrante, J Sabino, J Raes, S Vieira-Silva, S Vermeire_
-
-
-Dysbiosis of the gut microbiota is considered a key contributor to IBD aetiology. Here, we investigated potential associations between microbiota composition and the outcomes to biological therapies.
+## Dysbiosis and associated stool features improve prediction of response to biological therapy in inflammatory bowel disease
 
 [Source](https://www.gastrojournal.org/article/S0016-5085(23)05598-1/pdf)
 
-10.1053/j.gastro.2023.11.304
-
 ---
 
-## Culturomics in Unraveling the Upper Female Reproductive Tract Microbiota.
- 15.12.2023, _R Vanstokstraeten, T Demuyser, D Piérard, I Wybo, C Blockeel, S Mackens_
-
-
-In recent years, the study of the human microbiome has surged, shedding light on potential connections between microbiome composition and various diseases. One specific area of intense interest within this research is the female reproductive tract, as it holds the potential to influence the process of embryo implantation. Advanced sequencing technologies have delivered unprecedented insights into the microbial communities, also known as microbiota, residing in the female reproductive tract. However, their efficacy encounters significant challenges when analyzing low-biomass microbiota, such as those present in the endometrium. These molecular techniques are susceptible to contamination from laboratory reagents and extraction kits, leading to sequencing bias that can significantly alter the perceived taxonomy of a sample. Consequently, investigating the microbiota of the upper female reproductive tract necessitates the exploration of alternative methods. In this context, the current review delves into the application of culturomics in unraveling the upper female reproductive tract microbiota. While culturomics holds value in research, its transition to routine clinical practice appears remote, at least in the foreseeable future.
+## Culturomics in Unraveling the Upper Female Reproductive Tract Microbiota
 
 [Source](https://doi.org/10.1055/s-0043-1777758)
 
-10.1055/s-0043-1777758
-
 ---
 
-## A manifold-based framework for studying the dynamics of the vaginal microbiome.
- 19.12.2023, _M Tsamir-Rimon, E Borenstein_
-
-
-_Humans, Female, Vagina, Vaginosis, Bacterial, Lactobacillus, Microbiota_
-The vaginal microbiome plays a crucial role in our health. The composition of this community can be classified into five community state types (CSTs), four of which are primarily consisted of Lactobacillus species and considered healthy, while the fifth features non-Lactobacillus populations and signifies a disease state termed Bacterial vaginosis (BV), which is associated with various symptoms and increased susceptibility to diseases. Importantly, however, the exact mechanisms and dynamics underlying BV development are not yet fully understood, including specifically possible routes from a healthy to a BV state. To address this gap, this study set out to characterize the progression from healthy- to BV-associated compositions by analyzing 8026 vaginal samples and using a manifold-detection framework. This approach, inspired by single-cell analysis, aims to identify low-dimensional trajectories in the high-dimensional composition space. It further orders samples along these trajectories and assigns a score (pseudo-time) to each analyzed or new sample based on its proximity to the BV state. Our results reveal distinct routes of progression between healthy and BV states for each CST, with pseudo-time scores correlating with community diversity and quantifying the health state of each sample. Several BV indicators can also be successfully predicted based on pseudo-time scores, and key taxa involved in BV development can be identified using this approach. Taken together, these findings demonstrate how manifold detection can be used to successfully characterize the progression from healthy Lactobacillus-dominant populations to BV and to accurately quantify the health condition of new samples along the route of BV development.
+## A manifold-based framework for studying the dynamics of the vaginal microbiome
 
 [Source](https://doi.org/10.1038/s41522-023-00471-8)
 
-10.1038/s41522-023-00471-8
-
 ---
 
-## Culturomics reveals a hidden world of vaginal microbiota with the isolation of 206 bacteria from a single vaginal sample.
- 17.12.2023, _L Abou Chacra, A Benatmane, R Iwaza, C Ly, S Alibar, N Armstrong, O Mediannikov, F Bretelle, F Fenollar_
-
-
-_Humans, Female, Bacteria, Microbiota, Firmicutes, Vagina, Bacteroidetes_
-The composition of the vaginal microbiota is known to be influenced by various factors and to be associated with several disorders affecting women's health. Although metagenomics is currently a widely used method for studying the human microbiota, it has certain limitations, such as a lack of information on bacterial viability. It is therefore important to use culture-based methods such as culturomics. Here, we used 35 different culture conditions to comprehensively characterize the vaginal bacterial diversity of a single woman's flora. A total of 206 bacterial species, belonging to six phyla (for a little more than half to Firmicutes, followed mainly by Actinobacteria, Bacteroidetes, and Proteobacteria) and 45 families, and 2 fungal species were cultivated. While several species of lactobacilli have been isolated, a wide variety of other bacteria were also separated, including 65 never reported before in vaginal flora, including a new bacterial species, Porphyromonas vaginalis sp. nov. Extensive culture-based methods are essential to establish a comprehensive, evidence-based repertoire of bacterial viability. If combined with molecular methods, they can provide a much more thorough understanding of the vaginal microbiota and fulfil the unknown part of metagenomic studies.
+## Culturomics reveals a hidden world of vaginal microbiota with the isolation of 206 bacteria from a single vaginal sample
 
 [Source](https://doi.org/10.1007/s00203-023-03742-2)
-
-10.1007/s00203-023-03742-2
 
 ---
 
