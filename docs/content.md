@@ -116,15 +116,29 @@ Complex traits are characterized by many biological and environmental factors, s
 
 ---
 
-## Twnbiome: a public database of the healthy Taiwanese gut microbiome
+## Twnbiome: a public database of the healthy Taiwanese gut microbiome.
+ 17.12.2023, _A Chattopadhyay, CY Lee, YC Lee, CL Liu, HK Chen, YH Li, LC Lai, MH Tsai, YH Ni, HM Chiu, TP Lu, EY Chuang_
+
+
+_Humans, Gastrointestinal Microbiome, Computational Biology, Microbiota, Algorithms, Databases, Factual, High-Throughput Nucleotide Sequencing, Software_
+With new advances in next generation sequencing (NGS) technology at reduced costs, research on bacterial genomes in the environment has become affordable. Compared to traditional methods, NGS provides high-throughput sequencing reads and the ability to identify many species in the microbiome that were previously unknown. Numerous bioinformatics tools and algorithms have been developed to conduct such analyses. However, in order to obtain biologically meaningful results, the researcher must select the proper tools and combine them to construct an efficient pipeline. This complex procedure may include tens of tools, each of which require correct parameter settings. Furthermore, an NGS data analysis involves multiple series of command-line tools and requires extensive computational resources, which imposes a high barrier for biologists and clinicians to conduct NGS analysis and even interpret their own data. Therefore, we established a public gut microbiome database, which we call Twnbiome, created using healthy subjects from Taiwan, with the goal of enabling microbiota research for the Taiwanese population. Twnbiome provides users with a baseline gut microbiome panel from a healthy Taiwanese cohort, which can be utilized as a reference for conducting case-control studies for a variety of diseases. It is an interactive, informative, and user-friendly database. Twnbiome additionally offers an analysis pipeline, where users can upload their data and download analyzed results. Twnbiome offers an online database which non-bioinformatics users such as clinicians and doctors can not only utilize to access a control set of data, but also analyze raw data with a few easy clicks. All results are customizable with ready-made plots and easily downloadable tables. Database URL: http://twnbiome.cgm.ntu.edu.tw/ .
 
 [Source](https://doi.org/10.1186/s12859-023-05585-6)
 
+10.1186/s12859-023-05585-6
+
 ---
 
-## Identification of inulin-responsive bacteria in the gut microbiota via multi-modal activity-based sorting
+## Identification of inulin-responsive bacteria in the gut microbiota via multi-modal activity-based sorting.
+ 17.12.2023, _A Riva, H Rasoulimehrabani, JM Cruz-Rubio, SL Schnorr, C von Baeckmann, D Inan, G Nikolov, CW Herbold, B Hausmann, P Pjevac, A Schintlmeister, A Spittler, M Palatinszky, A Kadunic, N Hieger, G Del Favero, M von Bergen, N Jehmlich, M Watzka, KS Lee, J Wiesenbauer, S Khadem, H Viernstein, R Stocker, M Wagner, C Kaiser, A Richter, F Kleitz, D Berry_
+
+
+_Inulin, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Bacteria, Prebiotics_
+Prebiotics are defined as non-digestible dietary components that promote the growth of beneficial gut microorganisms. In many cases, however, this capability is not systematically evaluated. Here, we develop a methodology for determining prebiotic-responsive bacteria using the popular dietary supplement inulin. We first identify microbes with a capacity to bind inulin using mesoporous silica nanoparticles functionalized with inulin. 16S rRNA gene amplicon sequencing of sorted cells revealed that the ability to bind inulin was widespread in the microbiota. We further evaluate which taxa are metabolically stimulated by inulin and find that diverse taxa from the phyla Firmicutes and Actinobacteria respond to inulin, and several isolates of these taxa can degrade inulin. Incubation with another prebiotic, xylooligosaccharides (XOS), in contrast, shows a more robust bifidogenic effect. Interestingly, the Coriobacteriia Eggerthella lenta and Gordonibacter urolithinfaciens are indirectly stimulated by the inulin degradation process, expanding our knowledge of inulin-responsive bacteria.
 
 [Source](https://doi.org/10.1038/s41467-023-43448-z)
+
+10.1038/s41467-023-43448-z
 
 ---
 
