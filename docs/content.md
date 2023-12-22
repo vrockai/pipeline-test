@@ -134,27 +134,53 @@ Complex traits are characterized by many biological and environmental factors, s
 
 ---
 
-## Dysbiosis and associated stool features improve prediction of response to biological therapy in inflammatory bowel disease
+## Dysbiosis and associated stool features improve prediction of response to biological therapy in inflammatory bowel disease.
+ 14.12.2023, _C Caenepeel, G Falony, K Machiels, B Verstockt, PJ Goncalves, M Ferrante, J Sabino, J Raes, S Vieira-Silva, S Vermeire_
+
+
+Dysbiosis of the gut microbiota is considered a key contributor to IBD aetiology. Here, we investigated potential associations between microbiota composition and the outcomes to biological therapies.
 
 [Source](https://www.gastrojournal.org/article/S0016-5085(23)05598-1/pdf)
 
+10.1053/j.gastro.2023.11.304
+
 ---
 
-## Culturomics in Unraveling the Upper Female Reproductive Tract Microbiota
+## Culturomics in Unraveling the Upper Female Reproductive Tract Microbiota.
+ 15.12.2023, _R Vanstokstraeten, T Demuyser, D Piérard, I Wybo, C Blockeel, S Mackens_
+
+
+In recent years, the study of the human microbiome has surged, shedding light on potential connections between microbiome composition and various diseases. One specific area of intense interest within this research is the female reproductive tract, as it holds the potential to influence the process of embryo implantation. Advanced sequencing technologies have delivered unprecedented insights into the microbial communities, also known as microbiota, residing in the female reproductive tract. However, their efficacy encounters significant challenges when analyzing low-biomass microbiota, such as those present in the endometrium. These molecular techniques are susceptible to contamination from laboratory reagents and extraction kits, leading to sequencing bias that can significantly alter the perceived taxonomy of a sample. Consequently, investigating the microbiota of the upper female reproductive tract necessitates the exploration of alternative methods. In this context, the current review delves into the application of culturomics in unraveling the upper female reproductive tract microbiota. While culturomics holds value in research, its transition to routine clinical practice appears remote, at least in the foreseeable future.
 
 [Source](https://doi.org/10.1055/s-0043-1777758)
 
+10.1055/s-0043-1777758
+
 ---
 
-## A manifold-based framework for studying the dynamics of the vaginal microbiome
+## A manifold-based framework for studying the dynamics of the vaginal microbiome.
+ 19.12.2023, _M Tsamir-Rimon, E Borenstein_
+
+
+_Humans, Female, Vagina, Vaginosis, Bacterial, Lactobacillus, Microbiota_
+The vaginal microbiome plays a crucial role in our health. The composition of this community can be classified into five community state types (CSTs), four of which are primarily consisted of Lactobacillus species and considered healthy, while the fifth features non-Lactobacillus populations and signifies a disease state termed Bacterial vaginosis (BV), which is associated with various symptoms and increased susceptibility to diseases. Importantly, however, the exact mechanisms and dynamics underlying BV development are not yet fully understood, including specifically possible routes from a healthy to a BV state. To address this gap, this study set out to characterize the progression from healthy- to BV-associated compositions by analyzing 8026 vaginal samples and using a manifold-detection framework. This approach, inspired by single-cell analysis, aims to identify low-dimensional trajectories in the high-dimensional composition space. It further orders samples along these trajectories and assigns a score (pseudo-time) to each analyzed or new sample based on its proximity to the BV state. Our results reveal distinct routes of progression between healthy and BV states for each CST, with pseudo-time scores correlating with community diversity and quantifying the health state of each sample. Several BV indicators can also be successfully predicted based on pseudo-time scores, and key taxa involved in BV development can be identified using this approach. Taken together, these findings demonstrate how manifold detection can be used to successfully characterize the progression from healthy Lactobacillus-dominant populations to BV and to accurately quantify the health condition of new samples along the route of BV development.
 
 [Source](https://doi.org/10.1038/s41522-023-00471-8)
 
+10.1038/s41522-023-00471-8
+
 ---
 
-## Culturomics reveals a hidden world of vaginal microbiota with the isolation of 206 bacteria from a single vaginal sample
+## Culturomics reveals a hidden world of vaginal microbiota with the isolation of 206 bacteria from a single vaginal sample.
+ 17.12.2023, _L Abou Chacra, A Benatmane, R Iwaza, C Ly, S Alibar, N Armstrong, O Mediannikov, F Bretelle, F Fenollar_
+
+
+_Humans, Female, Bacteria, Microbiota, Firmicutes, Vagina, Bacteroidetes_
+The composition of the vaginal microbiota is known to be influenced by various factors and to be associated with several disorders affecting women's health. Although metagenomics is currently a widely used method for studying the human microbiota, it has certain limitations, such as a lack of information on bacterial viability. It is therefore important to use culture-based methods such as culturomics. Here, we used 35 different culture conditions to comprehensively characterize the vaginal bacterial diversity of a single woman's flora. A total of 206 bacterial species, belonging to six phyla (for a little more than half to Firmicutes, followed mainly by Actinobacteria, Bacteroidetes, and Proteobacteria) and 45 families, and 2 fungal species were cultivated. While several species of lactobacilli have been isolated, a wide variety of other bacteria were also separated, including 65 never reported before in vaginal flora, including a new bacterial species, Porphyromonas vaginalis sp. nov. Extensive culture-based methods are essential to establish a comprehensive, evidence-based repertoire of bacterial viability. If combined with molecular methods, they can provide a much more thorough understanding of the vaginal microbiota and fulfil the unknown part of metagenomic studies.
 
 [Source](https://doi.org/10.1007/s00203-023-03742-2)
+
+10.1007/s00203-023-03742-2
 
 ---
 
