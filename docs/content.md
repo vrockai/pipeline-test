@@ -128,9 +128,15 @@ Complex traits are characterized by many biological and environmental factors, s
 
 ---
 
-## Application of omics technologies in cariology research: A critical review with bibliometric analysis
+## Application of omics technologies in cariology research: A critical review with bibliometric analysis.
+ 17.12.2023, _JS Zhang, S Huang, Z Chen, CH Chu, N Takahashi, OY Yu_
+
+
+To review the application of omics technologies in the field of cariology research and provide critical insights into the emerging opportunities and challenges.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0300571223003871?via%3Dihub)
+
+10.1016/j.jdent.2023.104801
 
 ---
 
