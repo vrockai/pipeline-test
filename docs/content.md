@@ -232,63 +232,33 @@ It was found that with the increase of drug use years, the content of tryptamine
 
 ---
 
-## Nine (not so simple) steps: a practical guide to using machine learning in microbial ecology.
- 21.12.2023, _C Walsh, E Stallard-Olivera, N Fierer_
-
-
-Due to the complex nature of microbiome data, the field of microbial ecology has many current and potential uses for machine learning (ML) modeling. With the increased use of predictive ML models across many disciplines, including microbial ecology, there is extensive published information on the specific ML algorithms available and how those algorithms have been applied. Thus, our goal is not to summarize the breadth of ML models available or compare their performances. Rather, our goal is to provide more concrete and actionable information to guide microbial ecologists in how to select, run, and interpret ML algorithms to predict the taxa or genes associated with particular sample categories or environmental gradients of interest. Such microbial data often have unique characteristics that require careful consideration of how to apply ML models and how to interpret the associated results. This review is intended for practicing microbial ecologists who may be unfamiliar with some of the intricacies of ML models. We provide examples and discuss common opportunities and pitfalls specific to applying ML models to the types of data sets most frequently collected by microbial ecologists.
+## Nine (not so simple) steps: a practical guide to using machine learning in microbial ecology
 
 [Source](https://doi.org/10.1128/mbio.02050-23)
 
-10.1128/mbio.02050-23
-
 ---
 
-## SOHPIE: Statistical Approach via Pseudo-Value Information and Estimation for Differential Network Analysis of Microbiome Data.
- 22.12.2023, _S Ahn, S Datta_
-
-
-The SOHPIE R package implements a novel functionality for "multivariable" differential co-abundance network (DN, hereafter) analyses of microbiome data. It incorporates a regression approach that adjusts for additional covariates for DN analyses. This distinguishes from previous prominent approaches in DN analyses such as MDiNE and NetCoMi which do not feature a covariate adjustment of finding taxa that are differentially connected (DC, hereafter) between individuals with different clinical and phenotypic characteristics.
+## SOHPIE: Statistical Approach via Pseudo-Value Information and Estimation for Differential Network Analysis of Microbiome Data
 
 [Source](https://doi.org/10.1093/bioinformatics/btad766)
 
-10.1093/bioinformatics/btad766
-
 ---
 
-## Examining the functional space of gut microbiome-derived peptides.
- 22.12.2023, _YJ Lee_
-
-
-The human gut microbiome contains thousands of small, novel peptides that could play a role in microbe-microbe and host-microbe interactions, contributing to human health and disease. Although these peptides have not yet been systematically characterized, computational tools can be used to elucidate the bioactivities they may have. This article proposes probing the functional space of gut microbiome-derived peptides (MDPs) using in silico approaches for three bioactivities: antimicrobial, anticancer, and nucleomodulins. Machine learning programs that support peptide and protein queries are provided for each bioactivity. Considering the biases of an activity-centric approach, activity-agnostic tools using structural and chemical similarity and target prediction are also described. Gut MDPs represent a vast functional space that can not only contribute to our understanding of microbiome interactions but potentially even serve as a source of life-changing therapeutics.
+## Examining the functional space of gut microbiome-derived peptides
 
 [Source](https://doi.org/10.1002/mbo3.1393)
 
-10.1002/mbo3.1393
-
 ---
 
-## A new absolute quantitative method for peptide and metabolite detection.
- 19.12.2023, _C Brogna, S Cristoni_
-
-
-_Humans, Research Design, Arginine, Bacterial Proteins, Calibration, Peptides_
-Mass spectrometry is widely employed in various analytical fields for both compound identification and quantification. While in the case of compound identification, the high-resolution instrument has increased selectivity and characterization efficiency; in the case of quantitative analysis, some critical tasks actually remain. In particular, different compounds exhibit different ionization efficiency, and this introduces the need to have a calibration standard for each analyte. In this paper, we present a new elaborative data technology, which makes it possible to standardize calibration between different instruments and molecules, making it absolute. The method was applied to data acquired by means of liquid chromatography mass spectrometry by means of an ion trap analyzer. The approach is based on the correlation of the ion trap space charge effect and the analyte concentration. The method was validated in the analysis of compounds having different polarity: hydrossitirosol, arginine, thyodiglicolic acid, and a peptide mixture of bacteria cultures derived the human gut microbiome where was found poliovirus. Moreover, it was used to obtain the absolute quantitation of peptides originating from the tryptic digestion of bacterial proteins in the fecal samples. It was therefore possible to identify and quantify different derived bacterial proteins of the poliomyelitis virus coded in bacteria derived from the gastrointestinal tract.
+## A new absolute quantitative method for peptide and metabolite detection
 
 [Source](https://doi.org/10.1002/jms.4991)
 
-10.1002/jms.4991
-
 ---
 
-## Next steps in studying host-microbiome interactions in apical periodontitis.
- 19.12.2023, _AC Georgiou, BW Brandt, SV van der Waal_
-
-
+## Next steps in studying host-microbiome interactions in apical periodontitis
 
 [Source](https://doi.org/10.3389/froh.2023.1309170)
-
-10.3389/froh.2023.1309170
 
 ---
 
