@@ -154,15 +154,34 @@ It was found that with the increase of drug use years, the content of tryptamine
 
 ---
 
+## Oral health and cardiovascular disease.
+ 23.12.2023, _S Hopkins, S Gajagowni, Y Qadeer, Z Wang, SS Virani, JH Meurman, C Krittanawong_
+
+
+Several studies have examined a potential relationship between periodontal disease and cardiovascular disease. This article aims to update the evidence for a potential association by summarizing the evidence for causality between periodontitis and comorbidities linked to cardiovascular disease, including hypertension, atrial fibrillation, coronary artery disease, diabetes mellitus and hyperlipidemia. We additionally discuss the evidence for periodontal therapy as a means to improved management of these comorbidities, with the larger goal of examining the value of periodontal therapy on reduction of cardiovascular disease risk.
+
+[Source](https://doi.org/10.1128/msystems.01169-23)
+
+10.1016/j.amjmed.2023.11.022
+
+---
+
 ## Alterations of oral and gut viromes in hypertension and/or periodontitis
 
 [Source](https://doi.org/10.1128/msystems.01169-23)
 
 ---
 
-## Heterogeneous associations of gut microbiota with Crohn’s disease activity
+## Heterogeneous associations of gut microbiota with Crohn's disease activity.
+ 21.12.2023, _S Pinto, E Benincà, G Galazzo, D Jonkers, J Penders, JA Bogaards_
+
+
+_Humans, Crohn Disease, Gastrointestinal Microbiome, Inflammation, Bacteria, Bacteroidetes_
+The multi-factorial involvement of gut microbiota with Crohn's disease (CD) necessitates robust analysis to uncover possible associations with particular microbes. CD has been linked to specific bacteria, but reported associations vary widely across studies. This inconsistency may result from heterogeneous associations across individual patients, resulting in no apparent or only weak relationships with the means of bacterial abundances. We investigated the relationship between bacterial relative abundances and disease activity in a longitudinal cohort of CD patients (n = 57) and healthy controls (n = 15). We applied quantile regression, a statistical technique that allows investigation of possible relationships outside the mean response. We found several significant and mostly negative associations with CD, especially in lower quantiles of relative abundance on family or genus level. Associations found by quantile regression deviated from the mean response in relative abundances of Coriobacteriaceae, Pasteurellaceae, Peptostreptococcaceae, Prevotellaceae, and Ruminococcaceae. For the family Streptococcaceae we found a significant elevation in relative abundance for patients experiencing an exacerbation relative to those who remained without self-reported symptoms or measurable inflammation. Our analysis suggests that specific bacterial families are related to CD and exacerbation, but associations vary between patients due to heterogeneity in disease course, medication history, therapy response, gut microbiota composition and historical contingency. Our study underscores that microbial diversity is reduced in the gut of CD patients, but suggests that the process of diversity loss is rather irregular with respect to specific taxonomic groups. This novel insight may advance our ecological understanding of this complex disease.
 
 [Source](https://doi.org/10.1080/19490976.2023.2292239)
+
+10.1080/19490976.2023.2292239
 
 ---
 
@@ -184,16 +203,9 @@ It was found that with the increase of drug use years, the content of tryptamine
 
 ---
 
-## Potential therapeutic implications of histidine catabolism by the gut microbiota in NAFLD patients with morbid obesity.
- 22.12.2023, _S Quesada-Vázquez, A Castells-Nobau, J Latorre, N Oliveras-Cañellas, I Puig-Parnau, N Tejera, Y Tobajas, J Baudin, F Hildebrand, N Beraza, R Burcelin, L Martinez-Gili, J Chilloux, ME Dumas, M Federici, L Hoyles, A Caimari, JM Del Bas, X Escoté, JM Fernández-Real, J Mayneris-Perxachs_
-
-
-_Humans, Mice, Rats, Animals, Non-alcoholic Fatty Liver Disease, Histidine, Obesity, Morbid, Gastrointestinal Microbiome, Diet, High-Fat_
-The gut microbiota contributes to the pathophysiology of non-alcoholic fatty liver disease (NAFLD). Histidine is a key energy source for the microbiota, scavenging it from the host. Its role in NAFLD is poorly known. Plasma metabolomics, liver transcriptomics, and fecal metagenomics were performed in three human cohorts coupled with hepatocyte, rodent, and Drosophila models. Machine learning analyses identified plasma histidine as being strongly inversely associated with steatosis and linked to a hepatic transcriptomic signature involved in insulin signaling, inflammation, and trace amine-associated receptor 1. Circulating histidine was inversely associated with Proteobacteria and positively with bacteria lacking the histidine utilization (Hut) system. Histidine supplementation improved NAFLD in different animal models (diet-induced NAFLD in mouse and flies, ob/ob mouse, and ovariectomized rats) and reduced de novo lipogenesis. Fecal microbiota transplantation (FMT) from low-histidine donors and mono-colonization of germ-free flies with Enterobacter cloacae increased triglyceride accumulation and reduced histidine content. The interplay among microbiota, histidine catabolism, and NAFLD opens therapeutic opportunities.
+## Potential therapeutic implications of histidine catabolism by the gut microbiota in NAFLD patients with morbid obesity
 
 [Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00558-X)
-
-10.1016/j.xcrm.2023.101341
 
 ---
 
@@ -264,7 +276,7 @@ The SOHPIE R package implements a novel functionality for "multivariable" differ
 ---
 
 ## Examining the functional space of gut microbiome-derived peptides.
- 22.12.2023, _YJ Lee_
+ 24.12.2023, _YJ Lee_
 
 
 The human gut microbiome contains thousands of small, novel peptides that could play a role in microbe-microbe and host-microbe interactions, contributing to human health and disease. Although these peptides have not yet been systematically characterized, computational tools can be used to elucidate the bioactivities they may have. This article proposes probing the functional space of gut microbiome-derived peptides (MDPs) using in silico approaches for three bioactivities: antimicrobial, anticancer, and nucleomodulins. Machine learning programs that support peptide and protein queries are provided for each bioactivity. Considering the biases of an activity-centric approach, activity-agnostic tools using structural and chemical similarity and target prediction are also described. Gut MDPs represent a vast functional space that can not only contribute to our understanding of microbiome interactions but potentially even serve as a source of life-changing therapeutics.
