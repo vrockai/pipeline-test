@@ -154,15 +154,15 @@ It was found that with the increase of drug use years, the content of tryptamine
 
 ---
 
-## Dissociation of murine oral mucosal tissues for single cell applications.
- 24.12.2023, _T Ikeuchi, R Akhi, BC Rodriguez, D Fraser, D Williams, KT Sung, T Greenwell-Wild, A Overmiller, M Morasso, N Moutsopoulos_
+## A comparative evaluation of management of hyperpigmented gingiva using surgical stripping technique and diode laser: A clinical study.
+ 25.12.2023, _T Prasanth, O Jacob, A Karla_
 
 
-Single-cell RNA sequencing and flow cytometry approaches have been instrumental in understanding cellular states within various tissues and organs. However, tissue dissociation methods can potentially alter results and create bias due to preferential recovery of particular cell types. Here we present efforts to optimize methods for dissociation of murine oral mucosal tissues and provide three different protocols that can be utilized to isolate major cell populations in the oral mucosa. These methods can be used both in health and in states of inflammation, such as periodontitis. The optimized protocols use different enzymatic approaches (collagenase II, collagenase IV and the Miltenyi whole skin dissociation kit) and yield preferential recovery of immune, stromal and epithelial cells, respectively. We suggest choosing the dissociation method based on the cell population of interest to study, while understanding the limitations of each approach.
+To compare the treatment outcome of laser and its effectiveness in the management of gingival hyperpigmentation over scalpel surgical method.
 
 [Source](https://doi.org/10.1128/msystems.01169-23)
 
-10.1016/j.jim.2023.113605
+10.1016/j.mjafi.2021.08.005
 
 ---
 
@@ -320,9 +320,10 @@ The SOHPIE R package implements a novel functionality for "multivariable" differ
 ---
 
 ## Examining the functional space of gut microbiome-derived peptides.
- 24.12.2023, _YJ Lee_
+ 25.12.2023, _YJ Lee_
 
 
+_Humans, Gastrointestinal Microbiome, Microbiota, Host Microbial Interactions, Peptides, Anti-Infective Agents_
 The human gut microbiome contains thousands of small, novel peptides that could play a role in microbe-microbe and host-microbe interactions, contributing to human health and disease. Although these peptides have not yet been systematically characterized, computational tools can be used to elucidate the bioactivities they may have. This article proposes probing the functional space of gut microbiome-derived peptides (MDPs) using in silico approaches for three bioactivities: antimicrobial, anticancer, and nucleomodulins. Machine learning programs that support peptide and protein queries are provided for each bioactivity. Considering the biases of an activity-centric approach, activity-agnostic tools using structural and chemical similarity and target prediction are also described. Gut MDPs represent a vast functional space that can not only contribute to our understanding of microbiome interactions but potentially even serve as a source of life-changing therapeutics.
 
 [Source](https://doi.org/10.1002/mbo3.1393)
