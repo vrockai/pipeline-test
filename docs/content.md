@@ -245,9 +245,15 @@ The multi-factorial involvement of gut microbiota with Crohn's disease (CD) nece
 
 ---
 
-## Metagenomics-Based Microbial Ecological Community Threshold and Indicators of Anthropogenic Disturbances in Estuarine Sediments
+## Metagenomics-Based Microbial Ecological Community Threshold and Indicators of Anthropogenic Disturbances in Estuarine Sediments.
+ 20.12.2023, _Y Bao, Y Ruan, J Wu, WX Wang, KMY Leung, PKH Lee_
+
+
+Assessing the impacts of cumulative anthropogenic disturbances on estuarine ecosystem health is challenging. Using spatially distributed sediments from the Pearl River Estuary (PRE) in southern China, which are significantly influenced by anthropogenic activities, we demonstrated that metagenomics-based surveillance of benthic microbial communities is a robust approach to assess anthropogenic impacts on estuarine benthic ecosystems. Correlational and threshold analyses between microbial compositions and environmental conditions indicated that anthropogenic disturbances in the PRE sediments drove the taxonomic and functional variations in the benthic microbial communities. An ecological community threshold of anthropogenic disturbances was identified, which delineated the PRE sediments into two groups (H and L) with distinct taxa and functional traits. Group H, located nearshore and subjected to a higher level of anthropogenic disturbances, was enriched with pollutant degraders, putative human pathogens, fecal pollution indicators, and functional traits related to stress tolerance. In contrast, Group L, located offshore and subjected to a lower level of anthropogenic disturbances, was enriched with halotolerant and oligotrophic taxa and functional traits related to growth and resource acquisition. The machine learning random forest model identified a number of taxonomic and functional indicators that could differentiate PRE sediments between Groups H and L. The identified ecological community threshold and microbial indicators highlight the utility of metagenomics-based microbial surveillance in assessing the adverse impacts of anthropogenic disturbances in estuarine sediments, which can assist environmental management to better protect ecosystem health.
 
 [Source](https://doi.org/10.1021/acs.est.3c08076)
+
+10.1021/acs.est.3c08076
 
 ---
 
