@@ -154,15 +154,15 @@ It was found that with the increase of drug use years, the content of tryptamine
 
 ---
 
-## Effect of Incorporating Titanium Dioxide Nanoparticles into White Portland Cement, White Mineral Trioxide Aggregate, and Calcium Enriched Mixture Cement on the Push-out Bond Strength to Furcal Area Dentin.
- 27.12.2023, _S Shahi, M Samiei, M Bahari, H Yavari, M Rahbar Mahvarian_
+## Up-regulation of TNF-alpha/NFkB/SIRT1 axis drives aggressiveness and cancer stem cells accumulation in chemoresistant oral squamous cell carcinoma.
+ 27.12.2023, _LR de Castro, LD de Oliveira, TM Milan, APE Eskenazi, RL Bighetti-Trevisan, OGG de Almeida, MLM Amorim, CH Squarize, RM Castilho, LO de Almeida_
 
 
-Bond strength of furcation repair materials is an essential factor in clinical success. Studies on the effect of adding titanium dioxide (TiO2) nanoparticles on the push-out bond strength of commonly used endodontic cements for furcation perforation repair is limited.
+Tumor resistance remains an obstacle to successfully treating oral squamous cell carcinoma (OSCC). Cisplatin is widely used as a cytotoxic drug to treat solid tumors, including advanced OSCC, but with low efficacy due to chemoresistance. Therefore, identifying the pathways that contribute to chemoresistance may show new possibilities for improving the treatment. This work explored the role of the tumor necrosis factor-alpha (TNF-alpha)/NFkB signaling in driving the cisplatin resistance of OSCC and its potential as a pharmacological target to overcome chemoresistance. Differential accessibility analysis demonstrated the enrichment of opened chromatin regions in members of the TNF-alpha/NFkB signaling pathway, and RNA-Seq confirmed the upregulation of TNF-alpha/NFkB signaling in cisplatin-resistant cell lines. NFkB was accumulated in cisplatin-resistant cell lines and in cancer stem cells (CSC), and the administration of TNF-alpha increased the CSC, suggesting that TNF-alpha/NFkB signaling is involved in the accumulation of CSC. TNF-alpha stimulation also increased the histone deacetylases HDAC1 and SIRT1. Cisplatin-resistant cell lines were sensitive to the pharmacological inhibition of NFkB, and low doses of the NFkB inhibitors, CBL0137, and emetine, efficiently reduced the CSC and the levels of SIRT1, increasing histone acetylation. The NFkB inhibitors decreased stemness potential, clonogenicity, migration, and invasion of cisplatin-resistant cell lines. The administration of the emetine significantly reduced the tumor growth of cisplatin-resistant xenograft models, decreasing NFkB and SIRT1, increasing histone acetylation, and decreasing CSC. TNF-alpha/NFkB/SIRT1 signaling regulates the epigenetic machinery by modulating histone acetylation, CSC, and aggressiveness of cisplatin-resistant OSCC and the NFkB inhibition is a potential strategy to treat chemoresistant OSCC.
 
 [Source](https://doi.org/10.1128/msystems.01169-23)
 
-10.30476/dentjods.2023.92290.1627
+10.1002/jcp.31164
 
 ---
 
@@ -233,15 +233,33 @@ The multi-factorial involvement of gut microbiota with Crohn's disease (CD) nece
 
 ---
 
+## Microbiota regulates life-cycle transition and nematocyte dynamics in jellyfish.
+ 22.12.2023, _S Peng, L Ye, Y Li, F Wang, T Sun, L Wang, W Hao, J Zhao, Z Dong_
+
+
+Jellyfish represent one of the most basal animal groups with complex life cycles. The polyp-to-medusa transition, termed strobilation, is the pivotal process that determines the switch in swimming behavior and jellyfish blooms. Their microbiota plays an essential role in strobilation. Here, we investigated microbiota-mediated host phenotype dynamics during strobilation in the jellyfish Aurelia coerulea via antibiotic-induced microbiome alteration. Microbial depletion delayed the initiation of strobilation and resulted in fewer segments and ephyrae, which could be restored via microbial recolonization. Jellyfish-associated cyanobacteria, which were eliminated by antibiotics in the polyp stage, had the potential to supply retinal and trigger the retinoic acid signaling cascade, which drove the strobilation process. The microbiota regulated nematocyte development and differentiation, influencing the feeding and growth of the jellyfish. The findings improve our understanding of jellyfish-microbe interactions and provide new insights into the role of the microbiota in shaping feeding behavior through nematocyte dynamics.
+
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/jeb.14248)
+
+10.1016/j.isci.2023.108444
+
+---
+
 ## Evolutionary patterns and processes in animal microbiomes
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/jeb.14248)
 
 ---
 
-## Wheat fungal endophyte communities are inseparable from the host and influence plant development
+## Wheat fungal endophyte communities are inseparable from the host and influence plant development.
+ 22.12.2023, _O Sharon, N Kagan-Trushina, A Sharon_
+
+
+The native microbiome in a given plant must be considered when evaluating the effect of a single taxon or synthetic community. The pre-existing microbiome can interact with artificially added microbial cargo, which affects the final outcome. Such issues can be at least partially solved by the use of endophyte-free plants, which provide a clean background that should be useful in determining the effect of a single taxon, taxa combinations, or the entire microbiome on plant performance. Previous reports regarded plants as endophyte-free or axenic by the lack of fungal growth on culture media or the generation of plants from tissue cultures. We showed here that while fungi could not be isolated from fungicide-treated or tissue culture-regenerated plants, nevertheless, all plants contained rich fungal endophyte communities; namely, it was impossible to create fungi-free wheat plants. Our results call for rethinking fundamental microbiome-related concepts, such as core taxa, transmission mode, and functional species.
 
 [Source](https://doi.org/10.1128/mbio.02533-23)
+
+10.1128/mbio.02533-23
 
 ---
 
