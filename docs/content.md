@@ -154,15 +154,15 @@ It was found that with the increase of drug use years, the content of tryptamine
 
 ---
 
-## High-Throughput Combined Analysis of Saliva Microbiota and Metabolomic Profile in Chinese Periodontitis Patients: A Pilot Study.
- 26.12.2023, _J Ding, J Li, C Zhang, L Tan, C Zhao, L Gao_
+## Effect of Incorporating Titanium Dioxide Nanoparticles into White Portland Cement, White Mineral Trioxide Aggregate, and Calcium Enriched Mixture Cement on the Push-out Bond Strength to Furcal Area Dentin.
+ 27.12.2023, _S Shahi, M Samiei, M Bahari, H Yavari, M Rahbar Mahvarian_
 
 
-The onset and progression of periodontitis involves complicated interactions between the dysbiotic oral microbiota and disrupted host immune-inflammatory response, which can be mirrored by the changes in salivary metabolites profile. This pilot study sought to examine the saliva microbiome and metabolome in the Chinese population by the combined approach of 16s rRNA sequencing and high-throughput targeted metabolomics to discover potential cues for host-microbe metabolic interactions. Unstimulated whole saliva samples were collected from eighteen Stage III and IV periodontitis patients and thirteen healthy subjects. Full-mouth periodontal parameters were recorded. The taxonomic composition of microbiota was obtained by 16s rRNA sequencing, and the metabolites were identified and measured by ultra-high performance liquid chromatography and mass spectrometry-based metabolomic analysis. The oral microbiota composition displayed marked changes where the abundance of 93 microbial taxa differed significantly between the periodontitis and healthy group. Targeted metabolomics identified 103 differential metabolites between the patients and healthy individuals. Functional enrichment analysis demonstrated the upregulation of protein digestion and absorption, histidine metabolism, and nicotinate and nicotinamide metabolism pathways in the dysbiotic microbiota, while the ferroptosis, tryptophan metabolism, glutathione metabolism, and carbon metabolism pathways were upregulated in the patients. Correlation analysis confirmed positive relationships between the clinical parameters, pathogen abundances, and disease-related metabolite levels. The integral analysis of the saliva microbiome and metabolome yielded an accurate presentation of the dysbiotic oral microbiome and functional alterations in host-microbe metabolism. The microbial and metabolic profiling of the saliva could be a potential tool in the diagnosis, prognosis evaluation, and pathogenesis study of periodontitis.
+Bond strength of furcation repair materials is an essential factor in clinical success. Studies on the effect of adding titanium dioxide (TiO2) nanoparticles on the push-out bond strength of commonly used endodontic cements for furcation perforation repair is limited.
 
 [Source](https://doi.org/10.1128/msystems.01169-23)
 
-10.1007/s10753-023-01948-6
+10.30476/dentjods.2023.92290.1627
 
 ---
 
@@ -245,9 +245,15 @@ The multi-factorial involvement of gut microbiota with Crohn's disease (CD) nece
 
 ---
 
-## Metagenomics-Based Microbial Ecological Community Threshold and Indicators of Anthropogenic Disturbances in Estuarine Sediments
+## Metagenomics-Based Microbial Ecological Community Threshold and Indicators of Anthropogenic Disturbances in Estuarine Sediments.
+ 20.12.2023, _Y Bao, Y Ruan, J Wu, WX Wang, KMY Leung, PKH Lee_
+
+
+Assessing the impacts of cumulative anthropogenic disturbances on estuarine ecosystem health is challenging. Using spatially distributed sediments from the Pearl River Estuary (PRE) in southern China, which are significantly influenced by anthropogenic activities, we demonstrated that metagenomics-based surveillance of benthic microbial communities is a robust approach to assess anthropogenic impacts on estuarine benthic ecosystems. Correlational and threshold analyses between microbial compositions and environmental conditions indicated that anthropogenic disturbances in the PRE sediments drove the taxonomic and functional variations in the benthic microbial communities. An ecological community threshold of anthropogenic disturbances was identified, which delineated the PRE sediments into two groups (H and L) with distinct taxa and functional traits. Group H, located nearshore and subjected to a higher level of anthropogenic disturbances, was enriched with pollutant degraders, putative human pathogens, fecal pollution indicators, and functional traits related to stress tolerance. In contrast, Group L, located offshore and subjected to a lower level of anthropogenic disturbances, was enriched with halotolerant and oligotrophic taxa and functional traits related to growth and resource acquisition. The machine learning random forest model identified a number of taxonomic and functional indicators that could differentiate PRE sediments between Groups H and L. The identified ecological community threshold and microbial indicators highlight the utility of metagenomics-based microbial surveillance in assessing the adverse impacts of anthropogenic disturbances in estuarine sediments, which can assist environmental management to better protect ecosystem health.
 
 [Source](https://doi.org/10.1021/acs.est.3c08076)
+
+10.1021/acs.est.3c08076
 
 ---
 
