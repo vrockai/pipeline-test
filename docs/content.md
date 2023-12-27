@@ -191,21 +191,41 @@ The multi-factorial involvement of gut microbiota with Crohn's disease (CD) nece
 
 ---
 
-## The association of tonsillar microbiota with biochemical indices based on obesity and tonsillar hypertrophy in children
+## The association of tonsillar microbiota with biochemical indices based on obesity and tonsillar hypertrophy in children.
+ 23.12.2023, _J Park, KE Lee, DH Choi, YK Kim, WH Lee, MS Kim, HWJ Sung, JW Chang, YS Park_
+
+
+_Humans, Child, Palatine Tonsil, Pediatric Obesity, RNA, Ribosomal, 16S, Hypertrophy, Microbiota_
+The correlation between tonsil microbiome and tonsillar hypertrophy has not been well established. Given that oral dysbiosis is related to several metabolic diseases and that tonsillar hypertrophy leads to disordered breathing during sleep and obesity in children, it is necessary to investigate the relationship between the oral microbiome and tonsillar hypertrophy. After 16S rRNA amplicon sequencing of tonsillectomy samples, we evaluated the correlation between the tonsil microbiome and biochemical blood indices in pediatric patients who underwent tonsillectomy. Groups are classified into two categories: based on BMI, and grades 2, 3, and 4 based on tonsil size. Children with obesity and tonsillar hypertrophy have similar microbiome compositions and induce comparable changes in microbiome abundance and composition, confirming the association from a metagenomic perspective. In addition, obesity and tonsillar hypertrophy demonstrated a strong correlation with the Proteobacteria to Firmicutes (P/F) ratio, and among various biochemical indicators, alanine aminotransferase (ALT) levels increase with obesity and tonsillar hypertrophy, indicating a possible association of tonsil microbiome and liver metabolism. These novel findings demonstrate the significance of the tonsil microbiome and suggest the need for tonsil regulation, particularly during childhood.
 
 [Source](https://doi.org/10.1038/s41598-023-49871-y)
 
+10.1038/s41598-023-49871-y
+
 ---
 
-## Synergistic horizontal transfer of antibiotic resistance genes and transposons in the infant gut microbial genome
+## Synergistic horizontal transfer of antibiotic resistance genes and transposons in the infant gut microbial genome.
+ 19.12.2023, _Y Ding, X Jiang, J Wu, Y Wang, L Zhao, Y Pan, Y Xi, G Zhao, Z Li, L Zhang_
+
+
+The transfer of transposons carrying antibiotic resistance genes (ARGs) among microorganisms accelerates antibiotic resistance dissemination among infant gut microbiota. Nonetheless, it is unclear what the relationship between specific ARGs and specific transposons within the infant gut microbiota. K. pneumoniae, E. hormaechei_A, and E. coli_D were identified as key players in the nine robust association rules we discovered. Meanwhile, we found that infant gut microorganisms were more susceptible to horizontal gene transfer events about specific ARGs and specific transposons than adult gut microorganisms. These discoveries could enhance the understanding of microbial pathogenesis and the ARG dissemination dynamics within the infant gut microbiota.
 
 [Source](https://doi.org/10.1128/msphere.00608-23)
 
+10.1128/msphere.00608-23
+
 ---
 
-## Potential therapeutic implications of histidine catabolism by the gut microbiota in NAFLD patients with morbid obesity
+## Potential therapeutic implications of histidine catabolism by the gut microbiota in NAFLD patients with morbid obesity.
+ 22.12.2023, _S Quesada-Vázquez, A Castells-Nobau, J Latorre, N Oliveras-Cañellas, I Puig-Parnau, N Tejera, Y Tobajas, J Baudin, F Hildebrand, N Beraza, R Burcelin, L Martinez-Gili, J Chilloux, ME Dumas, M Federici, L Hoyles, A Caimari, JM Del Bas, X Escoté, JM Fernández-Real, J Mayneris-Perxachs_
+
+
+_Humans, Mice, Rats, Animals, Non-alcoholic Fatty Liver Disease, Histidine, Obesity, Morbid, Gastrointestinal Microbiome, Diet, High-Fat_
+The gut microbiota contributes to the pathophysiology of non-alcoholic fatty liver disease (NAFLD). Histidine is a key energy source for the microbiota, scavenging it from the host. Its role in NAFLD is poorly known. Plasma metabolomics, liver transcriptomics, and fecal metagenomics were performed in three human cohorts coupled with hepatocyte, rodent, and Drosophila models. Machine learning analyses identified plasma histidine as being strongly inversely associated with steatosis and linked to a hepatic transcriptomic signature involved in insulin signaling, inflammation, and trace amine-associated receptor 1. Circulating histidine was inversely associated with Proteobacteria and positively with bacteria lacking the histidine utilization (Hut) system. Histidine supplementation improved NAFLD in different animal models (diet-induced NAFLD in mouse and flies, ob/ob mouse, and ovariectomized rats) and reduced de novo lipogenesis. Fecal microbiota transplantation (FMT) from low-histidine donors and mono-colonization of germ-free flies with Enterobacter cloacae increased triglyceride accumulation and reduced histidine content. The interplay among microbiota, histidine catabolism, and NAFLD opens therapeutic opportunities.
 
 [Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00558-X)
+
+10.1016/j.xcrm.2023.101341
 
 ---
 
@@ -233,21 +253,45 @@ The multi-factorial involvement of gut microbiota with Crohn's disease (CD) nece
 
 ---
 
+## Microbiota regulates life-cycle transition and nematocyte dynamics in jellyfish.
+ 22.12.2023, _S Peng, L Ye, Y Li, F Wang, T Sun, L Wang, W Hao, J Zhao, Z Dong_
+
+
+Jellyfish represent one of the most basal animal groups with complex life cycles. The polyp-to-medusa transition, termed strobilation, is the pivotal process that determines the switch in swimming behavior and jellyfish blooms. Their microbiota plays an essential role in strobilation. Here, we investigated microbiota-mediated host phenotype dynamics during strobilation in the jellyfish Aurelia coerulea via antibiotic-induced microbiome alteration. Microbial depletion delayed the initiation of strobilation and resulted in fewer segments and ephyrae, which could be restored via microbial recolonization. Jellyfish-associated cyanobacteria, which were eliminated by antibiotics in the polyp stage, had the potential to supply retinal and trigger the retinoic acid signaling cascade, which drove the strobilation process. The microbiota regulated nematocyte development and differentiation, influencing the feeding and growth of the jellyfish. The findings improve our understanding of jellyfish-microbe interactions and provide new insights into the role of the microbiota in shaping feeding behavior through nematocyte dynamics.
+
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/jeb.14248)
+
+10.1016/j.isci.2023.108444
+
+---
+
 ## Evolutionary patterns and processes in animal microbiomes
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/jeb.14248)
 
 ---
 
-## Wheat fungal endophyte communities are inseparable from the host and influence plant development
+## Wheat fungal endophyte communities are inseparable from the host and influence plant development.
+ 22.12.2023, _O Sharon, N Kagan-Trushina, A Sharon_
+
+
+The native microbiome in a given plant must be considered when evaluating the effect of a single taxon or synthetic community. The pre-existing microbiome can interact with artificially added microbial cargo, which affects the final outcome. Such issues can be at least partially solved by the use of endophyte-free plants, which provide a clean background that should be useful in determining the effect of a single taxon, taxa combinations, or the entire microbiome on plant performance. Previous reports regarded plants as endophyte-free or axenic by the lack of fungal growth on culture media or the generation of plants from tissue cultures. We showed here that while fungi could not be isolated from fungicide-treated or tissue culture-regenerated plants, nevertheless, all plants contained rich fungal endophyte communities; namely, it was impossible to create fungi-free wheat plants. Our results call for rethinking fundamental microbiome-related concepts, such as core taxa, transmission mode, and functional species.
 
 [Source](https://doi.org/10.1128/mbio.02533-23)
 
+10.1128/mbio.02533-23
+
 ---
 
-## Metagenomics-Based Microbial Ecological Community Threshold and Indicators of Anthropogenic Disturbances in Estuarine Sediments
+## Metagenomics-Based Microbial Ecological Community Threshold and Indicators of Anthropogenic Disturbances in Estuarine Sediments.
+ 20.12.2023, _Y Bao, Y Ruan, J Wu, WX Wang, KMY Leung, PKH Lee_
+
+
+Assessing the impacts of cumulative anthropogenic disturbances on estuarine ecosystem health is challenging. Using spatially distributed sediments from the Pearl River Estuary (PRE) in southern China, which are significantly influenced by anthropogenic activities, we demonstrated that metagenomics-based surveillance of benthic microbial communities is a robust approach to assess anthropogenic impacts on estuarine benthic ecosystems. Correlational and threshold analyses between microbial compositions and environmental conditions indicated that anthropogenic disturbances in the PRE sediments drove the taxonomic and functional variations in the benthic microbial communities. An ecological community threshold of anthropogenic disturbances was identified, which delineated the PRE sediments into two groups (H and L) with distinct taxa and functional traits. Group H, located nearshore and subjected to a higher level of anthropogenic disturbances, was enriched with pollutant degraders, putative human pathogens, fecal pollution indicators, and functional traits related to stress tolerance. In contrast, Group L, located offshore and subjected to a lower level of anthropogenic disturbances, was enriched with halotolerant and oligotrophic taxa and functional traits related to growth and resource acquisition. The machine learning random forest model identified a number of taxonomic and functional indicators that could differentiate PRE sediments between Groups H and L. The identified ecological community threshold and microbial indicators highlight the utility of metagenomics-based microbial surveillance in assessing the adverse impacts of anthropogenic disturbances in estuarine sediments, which can assist environmental management to better protect ecosystem health.
 
 [Source](https://doi.org/10.1021/acs.est.3c08076)
+
+10.1021/acs.est.3c08076
 
 ---
 
@@ -288,16 +332,9 @@ The human gut microbiome contains thousands of small, novel peptides that could 
 
 ---
 
-## A new absolute quantitative method for peptide and metabolite detection.
- 19.12.2023, _C Brogna, S Cristoni_
-
-
-_Humans, Research Design, Arginine, Bacterial Proteins, Calibration, Peptides_
-Mass spectrometry is widely employed in various analytical fields for both compound identification and quantification. While in the case of compound identification, the high-resolution instrument has increased selectivity and characterization efficiency; in the case of quantitative analysis, some critical tasks actually remain. In particular, different compounds exhibit different ionization efficiency, and this introduces the need to have a calibration standard for each analyte. In this paper, we present a new elaborative data technology, which makes it possible to standardize calibration between different instruments and molecules, making it absolute. The method was applied to data acquired by means of liquid chromatography mass spectrometry by means of an ion trap analyzer. The approach is based on the correlation of the ion trap space charge effect and the analyte concentration. The method was validated in the analysis of compounds having different polarity: hydrossitirosol, arginine, thyodiglicolic acid, and a peptide mixture of bacteria cultures derived the human gut microbiome where was found poliovirus. Moreover, it was used to obtain the absolute quantitation of peptides originating from the tryptic digestion of bacterial proteins in the fecal samples. It was therefore possible to identify and quantify different derived bacterial proteins of the poliomyelitis virus coded in bacteria derived from the gastrointestinal tract.
+## A new absolute quantitative method for peptide and metabolite detection
 
 [Source](https://doi.org/10.1002/jms.4991)
-
-10.1002/jms.4991
 
 ---
 
