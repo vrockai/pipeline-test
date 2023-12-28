@@ -154,15 +154,15 @@ It was found that with the increase of drug use years, the content of tryptamine
 
 ---
 
-## Up-regulation of TNF-alpha/NFkB/SIRT1 axis drives aggressiveness and cancer stem cells accumulation in chemoresistant oral squamous cell carcinoma.
- 27.12.2023, _LR de Castro, LD de Oliveira, TM Milan, APE Eskenazi, RL Bighetti-Trevisan, OGG de Almeida, MLM Amorim, CH Squarize, RM Castilho, LO de Almeida_
+## Association between periodontitis and its treatment on mortality rates of end-stage renal disease: A systematic review and meta-analysis.
+ 27.12.2023, _H Chen, J Li_
 
 
-Tumor resistance remains an obstacle to successfully treating oral squamous cell carcinoma (OSCC). Cisplatin is widely used as a cytotoxic drug to treat solid tumors, including advanced OSCC, but with low efficacy due to chemoresistance. Therefore, identifying the pathways that contribute to chemoresistance may show new possibilities for improving the treatment. This work explored the role of the tumor necrosis factor-alpha (TNF-alpha)/NFkB signaling in driving the cisplatin resistance of OSCC and its potential as a pharmacological target to overcome chemoresistance. Differential accessibility analysis demonstrated the enrichment of opened chromatin regions in members of the TNF-alpha/NFkB signaling pathway, and RNA-Seq confirmed the upregulation of TNF-alpha/NFkB signaling in cisplatin-resistant cell lines. NFkB was accumulated in cisplatin-resistant cell lines and in cancer stem cells (CSC), and the administration of TNF-alpha increased the CSC, suggesting that TNF-alpha/NFkB signaling is involved in the accumulation of CSC. TNF-alpha stimulation also increased the histone deacetylases HDAC1 and SIRT1. Cisplatin-resistant cell lines were sensitive to the pharmacological inhibition of NFkB, and low doses of the NFkB inhibitors, CBL0137, and emetine, efficiently reduced the CSC and the levels of SIRT1, increasing histone acetylation. The NFkB inhibitors decreased stemness potential, clonogenicity, migration, and invasion of cisplatin-resistant cell lines. The administration of the emetine significantly reduced the tumor growth of cisplatin-resistant xenograft models, decreasing NFkB and SIRT1, increasing histone acetylation, and decreasing CSC. TNF-alpha/NFkB/SIRT1 signaling regulates the epigenetic machinery by modulating histone acetylation, CSC, and aggressiveness of cisplatin-resistant OSCC and the NFkB inhibition is a potential strategy to treat chemoresistant OSCC.
+The association between periodontitis and systemic diseases is widely researched. Conflicting literature exists on the relationship between periodontitis and the outcomes of end-stage renal disease (ESRD) patients. We hereby reviewed evidence to examine if periodontitis and its management impact the mortality rates of ESRD patients.
 
 [Source](https://doi.org/10.1128/msystems.01169-23)
 
-10.1002/jcp.31164
+10.4317/medoral.26307
 
 ---
 
@@ -191,21 +191,41 @@ The multi-factorial involvement of gut microbiota with Crohn's disease (CD) nece
 
 ---
 
-## The association of tonsillar microbiota with biochemical indices based on obesity and tonsillar hypertrophy in children
+## The association of tonsillar microbiota with biochemical indices based on obesity and tonsillar hypertrophy in children.
+ 23.12.2023, _J Park, KE Lee, DH Choi, YK Kim, WH Lee, MS Kim, HWJ Sung, JW Chang, YS Park_
+
+
+_Humans, Child, Palatine Tonsil, Pediatric Obesity, RNA, Ribosomal, 16S, Hypertrophy, Microbiota_
+The correlation between tonsil microbiome and tonsillar hypertrophy has not been well established. Given that oral dysbiosis is related to several metabolic diseases and that tonsillar hypertrophy leads to disordered breathing during sleep and obesity in children, it is necessary to investigate the relationship between the oral microbiome and tonsillar hypertrophy. After 16S rRNA amplicon sequencing of tonsillectomy samples, we evaluated the correlation between the tonsil microbiome and biochemical blood indices in pediatric patients who underwent tonsillectomy. Groups are classified into two categories: based on BMI, and grades 2, 3, and 4 based on tonsil size. Children with obesity and tonsillar hypertrophy have similar microbiome compositions and induce comparable changes in microbiome abundance and composition, confirming the association from a metagenomic perspective. In addition, obesity and tonsillar hypertrophy demonstrated a strong correlation with the Proteobacteria to Firmicutes (P/F) ratio, and among various biochemical indicators, alanine aminotransferase (ALT) levels increase with obesity and tonsillar hypertrophy, indicating a possible association of tonsil microbiome and liver metabolism. These novel findings demonstrate the significance of the tonsil microbiome and suggest the need for tonsil regulation, particularly during childhood.
 
 [Source](https://doi.org/10.1038/s41598-023-49871-y)
 
+10.1038/s41598-023-49871-y
+
 ---
 
-## Synergistic horizontal transfer of antibiotic resistance genes and transposons in the infant gut microbial genome
+## Synergistic horizontal transfer of antibiotic resistance genes and transposons in the infant gut microbial genome.
+ 19.12.2023, _Y Ding, X Jiang, J Wu, Y Wang, L Zhao, Y Pan, Y Xi, G Zhao, Z Li, L Zhang_
+
+
+The transfer of transposons carrying antibiotic resistance genes (ARGs) among microorganisms accelerates antibiotic resistance dissemination among infant gut microbiota. Nonetheless, it is unclear what the relationship between specific ARGs and specific transposons within the infant gut microbiota. K. pneumoniae, E. hormaechei_A, and E. coli_D were identified as key players in the nine robust association rules we discovered. Meanwhile, we found that infant gut microorganisms were more susceptible to horizontal gene transfer events about specific ARGs and specific transposons than adult gut microorganisms. These discoveries could enhance the understanding of microbial pathogenesis and the ARG dissemination dynamics within the infant gut microbiota.
 
 [Source](https://doi.org/10.1128/msphere.00608-23)
 
+10.1128/msphere.00608-23
+
 ---
 
-## Potential therapeutic implications of histidine catabolism by the gut microbiota in NAFLD patients with morbid obesity
+## Potential therapeutic implications of histidine catabolism by the gut microbiota in NAFLD patients with morbid obesity.
+ 22.12.2023, _S Quesada-Vázquez, A Castells-Nobau, J Latorre, N Oliveras-Cañellas, I Puig-Parnau, N Tejera, Y Tobajas, J Baudin, F Hildebrand, N Beraza, R Burcelin, L Martinez-Gili, J Chilloux, ME Dumas, M Federici, L Hoyles, A Caimari, JM Del Bas, X Escoté, JM Fernández-Real, J Mayneris-Perxachs_
+
+
+_Humans, Mice, Rats, Animals, Non-alcoholic Fatty Liver Disease, Histidine, Obesity, Morbid, Gastrointestinal Microbiome, Diet, High-Fat_
+The gut microbiota contributes to the pathophysiology of non-alcoholic fatty liver disease (NAFLD). Histidine is a key energy source for the microbiota, scavenging it from the host. Its role in NAFLD is poorly known. Plasma metabolomics, liver transcriptomics, and fecal metagenomics were performed in three human cohorts coupled with hepatocyte, rodent, and Drosophila models. Machine learning analyses identified plasma histidine as being strongly inversely associated with steatosis and linked to a hepatic transcriptomic signature involved in insulin signaling, inflammation, and trace amine-associated receptor 1. Circulating histidine was inversely associated with Proteobacteria and positively with bacteria lacking the histidine utilization (Hut) system. Histidine supplementation improved NAFLD in different animal models (diet-induced NAFLD in mouse and flies, ob/ob mouse, and ovariectomized rats) and reduced de novo lipogenesis. Fecal microbiota transplantation (FMT) from low-histidine donors and mono-colonization of germ-free flies with Enterobacter cloacae increased triglyceride accumulation and reduced histidine content. The interplay among microbiota, histidine catabolism, and NAFLD opens therapeutic opportunities.
 
 [Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00558-X)
+
+10.1016/j.xcrm.2023.101341
 
 ---
 
