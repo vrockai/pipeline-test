@@ -23,7 +23,7 @@ Chronic hepatitis B virus (HBV) infection is associated with a reduced risk of d
 ---
 
 ## Commensal bacteria maintain a Qa-1b-restricted unconventional CD8+ T population in gut epithelium.
- 23.12.2023, _J Guan, JD Peske, M Manoharan Valerio, C Park, EA Robey, S Sadegh-Nasseri_
+ 28.12.2023, _J Guan, JD Peske, M Manoharan Valerio, C Park, EA Robey, S Sadegh-Nasseri_
 
 
 _Animals, Mice, CD8-Positive T-Lymphocytes, Epithelium, Bacteria, Cytokines, Intestinal Mucosa_
@@ -154,15 +154,15 @@ It was found that with the increase of drug use years, the content of tryptamine
 
 ---
 
-## Improving astaxanthin-loaded chitosan/polyvinyl alcohol/graphene oxide nanofiber membranes and their application in periodontitis.
- 27.12.2023, _P Li, T Xu, X Dang, L Shao, L Yan, X Yang, L Lin, L Ren, R Song_
+## Salivary Amylase and Mucin in Chronic Periodontitis: Pre- /Posttherapy.
+ 28.12.2023, _E Mani, I Nirmala, P Sivasankar, P Saketharaman, S Pannnerselvam, L Priyanka_
 
 
-Periodontitis is a chronic inflammatory disease primarily driven by host inflammation and plaque-induced immune responses. Controlling the host inflammatory response and improving the periodontal inflammatory microenvironment are crucial to promoting periodontal tissue regeneration. In this study, the blended nanofiber membranes previously prepared by our research group were improved, and we developed multifunctional chitosan/polyvinyl alcohol/graphene oxide/astaxanthin coaxial nanofiber membranes. Scanning electron microscopy showed that the prepared nanofibers had a smooth surface and a uniform diameter distribution. The mechanical property test results showed that the coaxial nanofiber membranes exhibited higher tensile strength compared to the blended nanofiber membranes, which increased from 4.50 ± 0.32 and 3.70 ± 0.45 MPa to 7.12 ± 0.22 and 5.62 ± 0.79 MPa respectively. Drug release studies indicated that the "shell-core" structure of coaxial nanofibers significantly reduced the initial burst release of astaxanthin (ASTA), with only 13.49 % and 10.71 % release in the first 24 h, and drug release lasted for over a week. Animal experiments confirmed that the coaxial nanofiber membranes loaded with ASTA promoted periodontal bone defect repair while inhibiting periodontal inflammation. In conclusion, the prepared coaxial nanofiber membranes are a promising sustained-release drug system for treating periodontitis.
+The study aims to investigate the potential of salivary amylase as a reliable biochemical marker for assessing periodontal disease progression, establishing a potential correlation between salivary amylase levels and periodontal disease severity.
 
 [Source](https://doi.org/10.1128/msystems.01169-23)
 
-10.1016/j.ijbiomac.2023.128980
+10.5005/jp-journals-10024-3549
 
 ---
 
@@ -233,51 +233,106 @@ The multi-factorial involvement of gut microbiota with Crohn's disease (CD) nece
 
 ---
 
+## Microbiota regulates life-cycle transition and nematocyte dynamics in jellyfish.
+ 22.12.2023, _S Peng, L Ye, Y Li, F Wang, T Sun, L Wang, W Hao, J Zhao, Z Dong_
+
+
+Jellyfish represent one of the most basal animal groups with complex life cycles. The polyp-to-medusa transition, termed strobilation, is the pivotal process that determines the switch in swimming behavior and jellyfish blooms. Their microbiota plays an essential role in strobilation. Here, we investigated microbiota-mediated host phenotype dynamics during strobilation in the jellyfish Aurelia coerulea via antibiotic-induced microbiome alteration. Microbial depletion delayed the initiation of strobilation and resulted in fewer segments and ephyrae, which could be restored via microbial recolonization. Jellyfish-associated cyanobacteria, which were eliminated by antibiotics in the polyp stage, had the potential to supply retinal and trigger the retinoic acid signaling cascade, which drove the strobilation process. The microbiota regulated nematocyte development and differentiation, influencing the feeding and growth of the jellyfish. The findings improve our understanding of jellyfish-microbe interactions and provide new insights into the role of the microbiota in shaping feeding behavior through nematocyte dynamics.
+
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/jeb.14248)
+
+10.1016/j.isci.2023.108444
+
+---
+
 ## Evolutionary patterns and processes in animal microbiomes
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/jeb.14248)
 
 ---
 
-## Wheat fungal endophyte communities are inseparable from the host and influence plant development
+## Wheat fungal endophyte communities are inseparable from the host and influence plant development.
+ 22.12.2023, _O Sharon, N Kagan-Trushina, A Sharon_
+
+
+The native microbiome in a given plant must be considered when evaluating the effect of a single taxon or synthetic community. The pre-existing microbiome can interact with artificially added microbial cargo, which affects the final outcome. Such issues can be at least partially solved by the use of endophyte-free plants, which provide a clean background that should be useful in determining the effect of a single taxon, taxa combinations, or the entire microbiome on plant performance. Previous reports regarded plants as endophyte-free or axenic by the lack of fungal growth on culture media or the generation of plants from tissue cultures. We showed here that while fungi could not be isolated from fungicide-treated or tissue culture-regenerated plants, nevertheless, all plants contained rich fungal endophyte communities; namely, it was impossible to create fungi-free wheat plants. Our results call for rethinking fundamental microbiome-related concepts, such as core taxa, transmission mode, and functional species.
 
 [Source](https://doi.org/10.1128/mbio.02533-23)
 
+10.1128/mbio.02533-23
+
 ---
 
-## Metagenomics-Based Microbial Ecological Community Threshold and Indicators of Anthropogenic Disturbances in Estuarine Sediments
+## Metagenomics-Based Microbial Ecological Community Threshold and Indicators of Anthropogenic Disturbances in Estuarine Sediments.
+ 20.12.2023, _Y Bao, Y Ruan, J Wu, WX Wang, KMY Leung, PKH Lee_
+
+
+Assessing the impacts of cumulative anthropogenic disturbances on estuarine ecosystem health is challenging. Using spatially distributed sediments from the Pearl River Estuary (PRE) in southern China, which are significantly influenced by anthropogenic activities, we demonstrated that metagenomics-based surveillance of benthic microbial communities is a robust approach to assess anthropogenic impacts on estuarine benthic ecosystems. Correlational and threshold analyses between microbial compositions and environmental conditions indicated that anthropogenic disturbances in the PRE sediments drove the taxonomic and functional variations in the benthic microbial communities. An ecological community threshold of anthropogenic disturbances was identified, which delineated the PRE sediments into two groups (H and L) with distinct taxa and functional traits. Group H, located nearshore and subjected to a higher level of anthropogenic disturbances, was enriched with pollutant degraders, putative human pathogens, fecal pollution indicators, and functional traits related to stress tolerance. In contrast, Group L, located offshore and subjected to a lower level of anthropogenic disturbances, was enriched with halotolerant and oligotrophic taxa and functional traits related to growth and resource acquisition. The machine learning random forest model identified a number of taxonomic and functional indicators that could differentiate PRE sediments between Groups H and L. The identified ecological community threshold and microbial indicators highlight the utility of metagenomics-based microbial surveillance in assessing the adverse impacts of anthropogenic disturbances in estuarine sediments, which can assist environmental management to better protect ecosystem health.
 
 [Source](https://doi.org/10.1021/acs.est.3c08076)
 
+10.1021/acs.est.3c08076
+
 ---
 
-## Nine (not so simple) steps: a practical guide to using machine learning in microbial ecology
+## Nine (not so simple) steps: a practical guide to using machine learning in microbial ecology.
+ 21.12.2023, _C Walsh, E Stallard-Olivera, N Fierer_
+
+
+Due to the complex nature of microbiome data, the field of microbial ecology has many current and potential uses for machine learning (ML) modeling. With the increased use of predictive ML models across many disciplines, including microbial ecology, there is extensive published information on the specific ML algorithms available and how those algorithms have been applied. Thus, our goal is not to summarize the breadth of ML models available or compare their performances. Rather, our goal is to provide more concrete and actionable information to guide microbial ecologists in how to select, run, and interpret ML algorithms to predict the taxa or genes associated with particular sample categories or environmental gradients of interest. Such microbial data often have unique characteristics that require careful consideration of how to apply ML models and how to interpret the associated results. This review is intended for practicing microbial ecologists who may be unfamiliar with some of the intricacies of ML models. We provide examples and discuss common opportunities and pitfalls specific to applying ML models to the types of data sets most frequently collected by microbial ecologists.
 
 [Source](https://doi.org/10.1128/mbio.02050-23)
 
+10.1128/mbio.02050-23
+
 ---
 
-## SOHPIE: Statistical Approach via Pseudo-Value Information and Estimation for Differential Network Analysis of Microbiome Data
+## SOHPIE: Statistical Approach via Pseudo-Value Information and Estimation for Differential Network Analysis of Microbiome Data.
+ 22.12.2023, _S Ahn, S Datta_
+
+
+The SOHPIE R package implements a novel functionality for "multivariable" differential co-abundance network (DN, hereafter) analyses of microbiome data. It incorporates a regression approach that adjusts for additional covariates for DN analyses. This distinguishes from previous prominent approaches in DN analyses such as MDiNE and NetCoMi which do not feature a covariate adjustment of finding taxa that are differentially connected (DC, hereafter) between individuals with different clinical and phenotypic characteristics.
 
 [Source](https://doi.org/10.1093/bioinformatics/btad766)
 
+10.1093/bioinformatics/btad766
+
 ---
 
-## Examining the functional space of gut microbiome-derived peptides
+## Examining the functional space of gut microbiome-derived peptides.
+ 25.12.2023, _YJ Lee_
+
+
+_Humans, Gastrointestinal Microbiome, Microbiota, Host Microbial Interactions, Peptides, Anti-Infective Agents_
+The human gut microbiome contains thousands of small, novel peptides that could play a role in microbe-microbe and host-microbe interactions, contributing to human health and disease. Although these peptides have not yet been systematically characterized, computational tools can be used to elucidate the bioactivities they may have. This article proposes probing the functional space of gut microbiome-derived peptides (MDPs) using in silico approaches for three bioactivities: antimicrobial, anticancer, and nucleomodulins. Machine learning programs that support peptide and protein queries are provided for each bioactivity. Considering the biases of an activity-centric approach, activity-agnostic tools using structural and chemical similarity and target prediction are also described. Gut MDPs represent a vast functional space that can not only contribute to our understanding of microbiome interactions but potentially even serve as a source of life-changing therapeutics.
 
 [Source](https://doi.org/10.1002/mbo3.1393)
 
+10.1002/mbo3.1393
+
 ---
 
-## A new absolute quantitative method for peptide and metabolite detection
+## A new absolute quantitative method for peptide and metabolite detection.
+ 19.12.2023, _C Brogna, S Cristoni_
+
+
+_Humans, Research Design, Arginine, Bacterial Proteins, Calibration, Peptides_
+Mass spectrometry is widely employed in various analytical fields for both compound identification and quantification. While in the case of compound identification, the high-resolution instrument has increased selectivity and characterization efficiency; in the case of quantitative analysis, some critical tasks actually remain. In particular, different compounds exhibit different ionization efficiency, and this introduces the need to have a calibration standard for each analyte. In this paper, we present a new elaborative data technology, which makes it possible to standardize calibration between different instruments and molecules, making it absolute. The method was applied to data acquired by means of liquid chromatography mass spectrometry by means of an ion trap analyzer. The approach is based on the correlation of the ion trap space charge effect and the analyte concentration. The method was validated in the analysis of compounds having different polarity: hydrossitirosol, arginine, thyodiglicolic acid, and a peptide mixture of bacteria cultures derived the human gut microbiome where was found poliovirus. Moreover, it was used to obtain the absolute quantitation of peptides originating from the tryptic digestion of bacterial proteins in the fecal samples. It was therefore possible to identify and quantify different derived bacterial proteins of the poliomyelitis virus coded in bacteria derived from the gastrointestinal tract.
 
 [Source](https://doi.org/10.1002/jms.4991)
 
+10.1002/jms.4991
+
 ---
 
-## Next steps in studying host-microbiome interactions in apical periodontitis
+## Next steps in studying host-microbiome interactions in apical periodontitis.
+ 19.12.2023, _AC Georgiou, BW Brandt, SV van der Waal_
+
+
 
 [Source](https://doi.org/10.3389/froh.2023.1309170)
+
+10.3389/froh.2023.1309170
 
 ---
 
