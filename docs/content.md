@@ -154,15 +154,15 @@ It was found that with the increase of drug use years, the content of tryptamine
 
 ---
 
-## Salivary Amylase and Mucin in Chronic Periodontitis: Pre- /Posttherapy.
- 28.12.2023, _E Mani, I Nirmala, P Sivasankar, P Saketharaman, S Pannnerselvam, L Priyanka_
+## Decreased bone mineral density is associated with an increased number of teeth with periodontitis progression: a 5-year retrospective cohort study.
+ 28.12.2023, _P Khunthananithi, A Lertpimonchai, C Sritara, SS Srithanyarat, L Thienpramuk, S Mongkornkarn_
 
 
-The study aims to investigate the potential of salivary amylase as a reliable biochemical marker for assessing periodontal disease progression, establishing a potential correlation between salivary amylase levels and periodontal disease severity.
+Longitudinal studies on the systemic bone loss-periodontitis relationship are limited with disparate results. The aim of this study was to investigate the association between bone mineral density (BMD) and periodontitis progression, controlling for other covariables in a Thai population.
 
 [Source](https://doi.org/10.1128/msystems.01169-23)
 
-10.5005/jp-journals-10024-3549
+10.1007/s00784-023-05463-8
 
 ---
 
@@ -233,45 +233,21 @@ The multi-factorial involvement of gut microbiota with Crohn's disease (CD) nece
 
 ---
 
-## Microbiota regulates life-cycle transition and nematocyte dynamics in jellyfish.
- 22.12.2023, _S Peng, L Ye, Y Li, F Wang, T Sun, L Wang, W Hao, J Zhao, Z Dong_
-
-
-Jellyfish represent one of the most basal animal groups with complex life cycles. The polyp-to-medusa transition, termed strobilation, is the pivotal process that determines the switch in swimming behavior and jellyfish blooms. Their microbiota plays an essential role in strobilation. Here, we investigated microbiota-mediated host phenotype dynamics during strobilation in the jellyfish Aurelia coerulea via antibiotic-induced microbiome alteration. Microbial depletion delayed the initiation of strobilation and resulted in fewer segments and ephyrae, which could be restored via microbial recolonization. Jellyfish-associated cyanobacteria, which were eliminated by antibiotics in the polyp stage, had the potential to supply retinal and trigger the retinoic acid signaling cascade, which drove the strobilation process. The microbiota regulated nematocyte development and differentiation, influencing the feeding and growth of the jellyfish. The findings improve our understanding of jellyfish-microbe interactions and provide new insights into the role of the microbiota in shaping feeding behavior through nematocyte dynamics.
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/jeb.14248)
-
-10.1016/j.isci.2023.108444
-
----
-
 ## Evolutionary patterns and processes in animal microbiomes
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/jeb.14248)
 
 ---
 
-## Wheat fungal endophyte communities are inseparable from the host and influence plant development.
- 22.12.2023, _O Sharon, N Kagan-Trushina, A Sharon_
-
-
-The native microbiome in a given plant must be considered when evaluating the effect of a single taxon or synthetic community. The pre-existing microbiome can interact with artificially added microbial cargo, which affects the final outcome. Such issues can be at least partially solved by the use of endophyte-free plants, which provide a clean background that should be useful in determining the effect of a single taxon, taxa combinations, or the entire microbiome on plant performance. Previous reports regarded plants as endophyte-free or axenic by the lack of fungal growth on culture media or the generation of plants from tissue cultures. We showed here that while fungi could not be isolated from fungicide-treated or tissue culture-regenerated plants, nevertheless, all plants contained rich fungal endophyte communities; namely, it was impossible to create fungi-free wheat plants. Our results call for rethinking fundamental microbiome-related concepts, such as core taxa, transmission mode, and functional species.
+## Wheat fungal endophyte communities are inseparable from the host and influence plant development
 
 [Source](https://doi.org/10.1128/mbio.02533-23)
 
-10.1128/mbio.02533-23
-
 ---
 
-## Metagenomics-Based Microbial Ecological Community Threshold and Indicators of Anthropogenic Disturbances in Estuarine Sediments.
- 20.12.2023, _Y Bao, Y Ruan, J Wu, WX Wang, KMY Leung, PKH Lee_
-
-
-Assessing the impacts of cumulative anthropogenic disturbances on estuarine ecosystem health is challenging. Using spatially distributed sediments from the Pearl River Estuary (PRE) in southern China, which are significantly influenced by anthropogenic activities, we demonstrated that metagenomics-based surveillance of benthic microbial communities is a robust approach to assess anthropogenic impacts on estuarine benthic ecosystems. Correlational and threshold analyses between microbial compositions and environmental conditions indicated that anthropogenic disturbances in the PRE sediments drove the taxonomic and functional variations in the benthic microbial communities. An ecological community threshold of anthropogenic disturbances was identified, which delineated the PRE sediments into two groups (H and L) with distinct taxa and functional traits. Group H, located nearshore and subjected to a higher level of anthropogenic disturbances, was enriched with pollutant degraders, putative human pathogens, fecal pollution indicators, and functional traits related to stress tolerance. In contrast, Group L, located offshore and subjected to a lower level of anthropogenic disturbances, was enriched with halotolerant and oligotrophic taxa and functional traits related to growth and resource acquisition. The machine learning random forest model identified a number of taxonomic and functional indicators that could differentiate PRE sediments between Groups H and L. The identified ecological community threshold and microbial indicators highlight the utility of metagenomics-based microbial surveillance in assessing the adverse impacts of anthropogenic disturbances in estuarine sediments, which can assist environmental management to better protect ecosystem health.
+## Metagenomics-Based Microbial Ecological Community Threshold and Indicators of Anthropogenic Disturbances in Estuarine Sediments
 
 [Source](https://doi.org/10.1021/acs.est.3c08076)
-
-10.1021/acs.est.3c08076
 
 ---
 
@@ -287,15 +263,9 @@ Due to the complex nature of microbiome data, the field of microbial ecology has
 
 ---
 
-## SOHPIE: Statistical Approach via Pseudo-Value Information and Estimation for Differential Network Analysis of Microbiome Data.
- 22.12.2023, _S Ahn, S Datta_
-
-
-The SOHPIE R package implements a novel functionality for "multivariable" differential co-abundance network (DN, hereafter) analyses of microbiome data. It incorporates a regression approach that adjusts for additional covariates for DN analyses. This distinguishes from previous prominent approaches in DN analyses such as MDiNE and NetCoMi which do not feature a covariate adjustment of finding taxa that are differentially connected (DC, hereafter) between individuals with different clinical and phenotypic characteristics.
+## SOHPIE: Statistical Approach via Pseudo-Value Information and Estimation for Differential Network Analysis of Microbiome Data
 
 [Source](https://doi.org/10.1093/bioinformatics/btad766)
-
-10.1093/bioinformatics/btad766
 
 ---
 
