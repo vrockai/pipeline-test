@@ -154,14 +154,15 @@ It was found that with the increase of drug use years, the content of tryptamine
 
 ---
 
-## Queries regarding immediate dentoskeletal and periodontal effects of miniscrew-assisted rapid palatal expansion.
- 28.12.2023, _P Rai, R Sobti_
+## Advances in the prevention and treatment of Alzheimer's disease based on oral bacteria.
+ 29.12.2023, _M Zhang, N Mi, Z Ying, X Lin, Y Jin_
 
 
+With the global population undergoing demographic shift towards aging, the prevalence of Alzheimer's disease (AD), a prominent neurodegenerative disorder that primarily afflicts individuals aged 65 and above, has increased across various geographical regions. This phenomenon is accompanied by a concomitant decline in immune functionality and oral hygiene capacity among the elderly, precipitating compromised oral functionality and an augmented burden of dental plaque. Accordingly, oral afflictions, including dental caries and periodontal disease, manifest with frequency among the geriatric population worldwide. Recent scientific investigations have unveiled the potential role of oral bacteria in instigating both local and systemic chronic inflammation, thereby delineating a putative nexus between oral health and the genesis and progression of AD. They further proposed the oral microbiome as a potentially modifiable risk factor in AD development, although the precise pathological mechanisms and degree of association have yet to be fully elucidated. This review summarizes current research on the relationship between oral bacteria and AD, describing the epidemiological and pathological mechanisms that may potentially link them. The purpose is to enrich early diagnostic approaches by incorporating emerging biomarkers, offering novel insights for clinicians in the early detection of AD. Additionally, it explores the potential of vaccination strategies and guidance for clinical pharmacotherapy. It proposes the development of maintenance measures specifically targeting oral health in older adults and advocates for guiding elderly patients in adopting healthy lifestyle habits, ultimately aiming to indirectly mitigate the progression of AD while promoting oral health in the elderly.
 
 [Source](https://doi.org/10.1128/msystems.01169-23)
 
-10.1016/j.ajodo.2023.10.007
+10.3389/fpsyt.2023.1291455
 
 ---
 
@@ -276,27 +277,52 @@ The gut microbiota contributes to the pathophysiology of non-alcoholic fatty liv
 
 ---
 
-## SOHPIE: Statistical Approach via Pseudo-Value Information and Estimation for Differential Network Analysis of Microbiome Data
+## SOHPIE: Statistical Approach via Pseudo-Value Information and Estimation for Differential Network Analysis of Microbiome Data.
+ 22.12.2023, _S Ahn, S Datta_
+
+
+The SOHPIE R package implements a novel functionality for "multivariable" differential co-abundance network (DN, hereafter) analyses of microbiome data. It incorporates a regression approach that adjusts for additional covariates for DN analyses. This distinguishes from previous prominent approaches in DN analyses such as MDiNE and NetCoMi which do not feature a covariate adjustment of finding taxa that are differentially connected (DC, hereafter) between individuals with different clinical and phenotypic characteristics.
 
 [Source](https://doi.org/10.1093/bioinformatics/btad766)
 
+10.1093/bioinformatics/btad766
+
 ---
 
-## Examining the functional space of gut microbiome-derived peptides
+## Examining the functional space of gut microbiome-derived peptides.
+ 25.12.2023, _YJ Lee_
+
+
+_Humans, Gastrointestinal Microbiome, Microbiota, Host Microbial Interactions, Peptides, Anti-Infective Agents_
+The human gut microbiome contains thousands of small, novel peptides that could play a role in microbe-microbe and host-microbe interactions, contributing to human health and disease. Although these peptides have not yet been systematically characterized, computational tools can be used to elucidate the bioactivities they may have. This article proposes probing the functional space of gut microbiome-derived peptides (MDPs) using in silico approaches for three bioactivities: antimicrobial, anticancer, and nucleomodulins. Machine learning programs that support peptide and protein queries are provided for each bioactivity. Considering the biases of an activity-centric approach, activity-agnostic tools using structural and chemical similarity and target prediction are also described. Gut MDPs represent a vast functional space that can not only contribute to our understanding of microbiome interactions but potentially even serve as a source of life-changing therapeutics.
 
 [Source](https://doi.org/10.1002/mbo3.1393)
 
+10.1002/mbo3.1393
+
 ---
 
-## A new absolute quantitative method for peptide and metabolite detection
+## A new absolute quantitative method for peptide and metabolite detection.
+ 19.12.2023, _C Brogna, S Cristoni_
+
+
+_Humans, Research Design, Arginine, Bacterial Proteins, Calibration, Peptides_
+Mass spectrometry is widely employed in various analytical fields for both compound identification and quantification. While in the case of compound identification, the high-resolution instrument has increased selectivity and characterization efficiency; in the case of quantitative analysis, some critical tasks actually remain. In particular, different compounds exhibit different ionization efficiency, and this introduces the need to have a calibration standard for each analyte. In this paper, we present a new elaborative data technology, which makes it possible to standardize calibration between different instruments and molecules, making it absolute. The method was applied to data acquired by means of liquid chromatography mass spectrometry by means of an ion trap analyzer. The approach is based on the correlation of the ion trap space charge effect and the analyte concentration. The method was validated in the analysis of compounds having different polarity: hydrossitirosol, arginine, thyodiglicolic acid, and a peptide mixture of bacteria cultures derived the human gut microbiome where was found poliovirus. Moreover, it was used to obtain the absolute quantitation of peptides originating from the tryptic digestion of bacterial proteins in the fecal samples. It was therefore possible to identify and quantify different derived bacterial proteins of the poliomyelitis virus coded in bacteria derived from the gastrointestinal tract.
 
 [Source](https://doi.org/10.1002/jms.4991)
 
+10.1002/jms.4991
+
 ---
 
-## Next steps in studying host-microbiome interactions in apical periodontitis
+## Next steps in studying host-microbiome interactions in apical periodontitis.
+ 19.12.2023, _AC Georgiou, BW Brandt, SV van der Waal_
+
+
 
 [Source](https://doi.org/10.3389/froh.2023.1309170)
+
+10.3389/froh.2023.1309170
 
 ---
 
