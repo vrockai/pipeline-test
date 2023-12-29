@@ -154,15 +154,14 @@ It was found that with the increase of drug use years, the content of tryptamine
 
 ---
 
-## Decreased bone mineral density is associated with an increased number of teeth with periodontitis progression: a 5-year retrospective cohort study.
- 28.12.2023, _P Khunthananithi, A Lertpimonchai, C Sritara, SS Srithanyarat, L Thienpramuk, S Mongkornkarn_
+## Queries regarding immediate dentoskeletal and periodontal effects of miniscrew-assisted rapid palatal expansion.
+ 28.12.2023, _P Rai, R Sobti_
 
 
-Longitudinal studies on the systemic bone loss-periodontitis relationship are limited with disparate results. The aim of this study was to investigate the association between bone mineral density (BMD) and periodontitis progression, controlling for other covariables in a Thai population.
 
 [Source](https://doi.org/10.1128/msystems.01169-23)
 
-10.1007/s00784-023-05463-8
+10.1016/j.ajodo.2023.10.007
 
 ---
 
@@ -191,21 +190,41 @@ The multi-factorial involvement of gut microbiota with Crohn's disease (CD) nece
 
 ---
 
-## The association of tonsillar microbiota with biochemical indices based on obesity and tonsillar hypertrophy in children
+## The association of tonsillar microbiota with biochemical indices based on obesity and tonsillar hypertrophy in children.
+ 28.12.2023, _J Park, KE Lee, DH Choi, YK Kim, WH Lee, MS Kim, HWJ Sung, JW Chang, YS Park_
+
+
+_Humans, Child, Palatine Tonsil, Pediatric Obesity, RNA, Ribosomal, 16S, Hypertrophy, Microbiota_
+The correlation between tonsil microbiome and tonsillar hypertrophy has not been well established. Given that oral dysbiosis is related to several metabolic diseases and that tonsillar hypertrophy leads to disordered breathing during sleep and obesity in children, it is necessary to investigate the relationship between the oral microbiome and tonsillar hypertrophy. After 16S rRNA amplicon sequencing of tonsillectomy samples, we evaluated the correlation between the tonsil microbiome and biochemical blood indices in pediatric patients who underwent tonsillectomy. Groups are classified into two categories: based on BMI, and grades 2, 3, and 4 based on tonsil size. Children with obesity and tonsillar hypertrophy have similar microbiome compositions and induce comparable changes in microbiome abundance and composition, confirming the association from a metagenomic perspective. In addition, obesity and tonsillar hypertrophy demonstrated a strong correlation with the Proteobacteria to Firmicutes (P/F) ratio, and among various biochemical indicators, alanine aminotransferase (ALT) levels increase with obesity and tonsillar hypertrophy, indicating a possible association of tonsil microbiome and liver metabolism. These novel findings demonstrate the significance of the tonsil microbiome and suggest the need for tonsil regulation, particularly during childhood.
 
 [Source](https://doi.org/10.1038/s41598-023-49871-y)
 
+10.1038/s41598-023-49871-y
+
 ---
 
-## Synergistic horizontal transfer of antibiotic resistance genes and transposons in the infant gut microbial genome
+## Synergistic horizontal transfer of antibiotic resistance genes and transposons in the infant gut microbial genome.
+ 19.12.2023, _Y Ding, X Jiang, J Wu, Y Wang, L Zhao, Y Pan, Y Xi, G Zhao, Z Li, L Zhang_
+
+
+The transfer of transposons carrying antibiotic resistance genes (ARGs) among microorganisms accelerates antibiotic resistance dissemination among infant gut microbiota. Nonetheless, it is unclear what the relationship between specific ARGs and specific transposons within the infant gut microbiota. K. pneumoniae, E. hormaechei_A, and E. coli_D were identified as key players in the nine robust association rules we discovered. Meanwhile, we found that infant gut microorganisms were more susceptible to horizontal gene transfer events about specific ARGs and specific transposons than adult gut microorganisms. These discoveries could enhance the understanding of microbial pathogenesis and the ARG dissemination dynamics within the infant gut microbiota.
 
 [Source](https://doi.org/10.1128/msphere.00608-23)
 
+10.1128/msphere.00608-23
+
 ---
 
-## Potential therapeutic implications of histidine catabolism by the gut microbiota in NAFLD patients with morbid obesity
+## Potential therapeutic implications of histidine catabolism by the gut microbiota in NAFLD patients with morbid obesity.
+ 22.12.2023, _S Quesada-Vázquez, A Castells-Nobau, J Latorre, N Oliveras-Cañellas, I Puig-Parnau, N Tejera, Y Tobajas, J Baudin, F Hildebrand, N Beraza, R Burcelin, L Martinez-Gili, J Chilloux, ME Dumas, M Federici, L Hoyles, A Caimari, JM Del Bas, X Escoté, JM Fernández-Real, J Mayneris-Perxachs_
+
+
+_Humans, Mice, Rats, Animals, Non-alcoholic Fatty Liver Disease, Histidine, Obesity, Morbid, Gastrointestinal Microbiome, Diet, High-Fat_
+The gut microbiota contributes to the pathophysiology of non-alcoholic fatty liver disease (NAFLD). Histidine is a key energy source for the microbiota, scavenging it from the host. Its role in NAFLD is poorly known. Plasma metabolomics, liver transcriptomics, and fecal metagenomics were performed in three human cohorts coupled with hepatocyte, rodent, and Drosophila models. Machine learning analyses identified plasma histidine as being strongly inversely associated with steatosis and linked to a hepatic transcriptomic signature involved in insulin signaling, inflammation, and trace amine-associated receptor 1. Circulating histidine was inversely associated with Proteobacteria and positively with bacteria lacking the histidine utilization (Hut) system. Histidine supplementation improved NAFLD in different animal models (diet-induced NAFLD in mouse and flies, ob/ob mouse, and ovariectomized rats) and reduced de novo lipogenesis. Fecal microbiota transplantation (FMT) from low-histidine donors and mono-colonization of germ-free flies with Enterobacter cloacae increased triglyceride accumulation and reduced histidine content. The interplay among microbiota, histidine catabolism, and NAFLD opens therapeutic opportunities.
 
 [Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00558-X)
+
+10.1016/j.xcrm.2023.101341
 
 ---
 
@@ -245,76 +264,39 @@ The multi-factorial involvement of gut microbiota with Crohn's disease (CD) nece
 
 ---
 
-## Metagenomics-Based Microbial Ecological Community Threshold and Indicators of Anthropogenic Disturbances in Estuarine Sediments.
- 20.12.2023, _Y Bao, Y Ruan, J Wu, WX Wang, KMY Leung, PKH Lee_
-
-
-Assessing the impacts of cumulative anthropogenic disturbances on estuarine ecosystem health is challenging. Using spatially distributed sediments from the Pearl River Estuary (PRE) in southern China, which are significantly influenced by anthropogenic activities, we demonstrated that metagenomics-based surveillance of benthic microbial communities is a robust approach to assess anthropogenic impacts on estuarine benthic ecosystems. Correlational and threshold analyses between microbial compositions and environmental conditions indicated that anthropogenic disturbances in the PRE sediments drove the taxonomic and functional variations in the benthic microbial communities. An ecological community threshold of anthropogenic disturbances was identified, which delineated the PRE sediments into two groups (H and L) with distinct taxa and functional traits. Group H, located nearshore and subjected to a higher level of anthropogenic disturbances, was enriched with pollutant degraders, putative human pathogens, fecal pollution indicators, and functional traits related to stress tolerance. In contrast, Group L, located offshore and subjected to a lower level of anthropogenic disturbances, was enriched with halotolerant and oligotrophic taxa and functional traits related to growth and resource acquisition. The machine learning random forest model identified a number of taxonomic and functional indicators that could differentiate PRE sediments between Groups H and L. The identified ecological community threshold and microbial indicators highlight the utility of metagenomics-based microbial surveillance in assessing the adverse impacts of anthropogenic disturbances in estuarine sediments, which can assist environmental management to better protect ecosystem health.
+## Metagenomics-Based Microbial Ecological Community Threshold and Indicators of Anthropogenic Disturbances in Estuarine Sediments
 
 [Source](https://doi.org/10.1021/acs.est.3c08076)
 
-10.1021/acs.est.3c08076
-
 ---
 
-## Nine (not so simple) steps: a practical guide to using machine learning in microbial ecology.
- 21.12.2023, _C Walsh, E Stallard-Olivera, N Fierer_
-
-
-Due to the complex nature of microbiome data, the field of microbial ecology has many current and potential uses for machine learning (ML) modeling. With the increased use of predictive ML models across many disciplines, including microbial ecology, there is extensive published information on the specific ML algorithms available and how those algorithms have been applied. Thus, our goal is not to summarize the breadth of ML models available or compare their performances. Rather, our goal is to provide more concrete and actionable information to guide microbial ecologists in how to select, run, and interpret ML algorithms to predict the taxa or genes associated with particular sample categories or environmental gradients of interest. Such microbial data often have unique characteristics that require careful consideration of how to apply ML models and how to interpret the associated results. This review is intended for practicing microbial ecologists who may be unfamiliar with some of the intricacies of ML models. We provide examples and discuss common opportunities and pitfalls specific to applying ML models to the types of data sets most frequently collected by microbial ecologists.
+## Nine (not so simple) steps: a practical guide to using machine learning in microbial ecology
 
 [Source](https://doi.org/10.1128/mbio.02050-23)
 
-10.1128/mbio.02050-23
-
 ---
 
-## SOHPIE: Statistical Approach via Pseudo-Value Information and Estimation for Differential Network Analysis of Microbiome Data.
- 22.12.2023, _S Ahn, S Datta_
-
-
-The SOHPIE R package implements a novel functionality for "multivariable" differential co-abundance network (DN, hereafter) analyses of microbiome data. It incorporates a regression approach that adjusts for additional covariates for DN analyses. This distinguishes from previous prominent approaches in DN analyses such as MDiNE and NetCoMi which do not feature a covariate adjustment of finding taxa that are differentially connected (DC, hereafter) between individuals with different clinical and phenotypic characteristics.
+## SOHPIE: Statistical Approach via Pseudo-Value Information and Estimation for Differential Network Analysis of Microbiome Data
 
 [Source](https://doi.org/10.1093/bioinformatics/btad766)
 
-10.1093/bioinformatics/btad766
-
 ---
 
-## Examining the functional space of gut microbiome-derived peptides.
- 25.12.2023, _YJ Lee_
-
-
-_Humans, Gastrointestinal Microbiome, Microbiota, Host Microbial Interactions, Peptides, Anti-Infective Agents_
-The human gut microbiome contains thousands of small, novel peptides that could play a role in microbe-microbe and host-microbe interactions, contributing to human health and disease. Although these peptides have not yet been systematically characterized, computational tools can be used to elucidate the bioactivities they may have. This article proposes probing the functional space of gut microbiome-derived peptides (MDPs) using in silico approaches for three bioactivities: antimicrobial, anticancer, and nucleomodulins. Machine learning programs that support peptide and protein queries are provided for each bioactivity. Considering the biases of an activity-centric approach, activity-agnostic tools using structural and chemical similarity and target prediction are also described. Gut MDPs represent a vast functional space that can not only contribute to our understanding of microbiome interactions but potentially even serve as a source of life-changing therapeutics.
+## Examining the functional space of gut microbiome-derived peptides
 
 [Source](https://doi.org/10.1002/mbo3.1393)
 
-10.1002/mbo3.1393
-
 ---
 
-## A new absolute quantitative method for peptide and metabolite detection.
- 19.12.2023, _C Brogna, S Cristoni_
-
-
-_Humans, Research Design, Arginine, Bacterial Proteins, Calibration, Peptides_
-Mass spectrometry is widely employed in various analytical fields for both compound identification and quantification. While in the case of compound identification, the high-resolution instrument has increased selectivity and characterization efficiency; in the case of quantitative analysis, some critical tasks actually remain. In particular, different compounds exhibit different ionization efficiency, and this introduces the need to have a calibration standard for each analyte. In this paper, we present a new elaborative data technology, which makes it possible to standardize calibration between different instruments and molecules, making it absolute. The method was applied to data acquired by means of liquid chromatography mass spectrometry by means of an ion trap analyzer. The approach is based on the correlation of the ion trap space charge effect and the analyte concentration. The method was validated in the analysis of compounds having different polarity: hydrossitirosol, arginine, thyodiglicolic acid, and a peptide mixture of bacteria cultures derived the human gut microbiome where was found poliovirus. Moreover, it was used to obtain the absolute quantitation of peptides originating from the tryptic digestion of bacterial proteins in the fecal samples. It was therefore possible to identify and quantify different derived bacterial proteins of the poliomyelitis virus coded in bacteria derived from the gastrointestinal tract.
+## A new absolute quantitative method for peptide and metabolite detection
 
 [Source](https://doi.org/10.1002/jms.4991)
 
-10.1002/jms.4991
-
 ---
 
-## Next steps in studying host-microbiome interactions in apical periodontitis.
- 19.12.2023, _AC Georgiou, BW Brandt, SV van der Waal_
-
-
+## Next steps in studying host-microbiome interactions in apical periodontitis
 
 [Source](https://doi.org/10.3389/froh.2023.1309170)
-
-10.3389/froh.2023.1309170
 
 ---
 
