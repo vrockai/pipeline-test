@@ -108,6 +108,18 @@ The onset and progression of periodontitis involves complicated interactions bet
 
 ---
 
+## Wound healing of experimental equine skin wounds and concurrent microbiota in wound dressings following topical propylene glycol gel treatment.
+ 29.12.2023, _R Labens, S Raidal, C Borgen-Nielsen, S Pyecroft, SD Pant, T De Ridder_
+
+
+Topical wound treatments rely on carrier formulations with little to no biological impact. The potential for a common vehicle, a propylene glycol (PG) gel, to affect wound healing measures including microbiota is not known. Microbiome characterization, based on next generation sequencing methods is typically performed on tissue or directly obtained wound fluid samples. The utility for primary wound dressings to characterize equine wound microbiota in the context of topical treatments is currently unknown. This investigation reports the topical effect of an 80% PG based gel on wound healing and microbiota in wound dressings.
+
+[Source](https://doi.org/10.3390/ijms242417318)
+
+10.3389/fvets.2023.1294021
+
+---
+
 ## Wound Microbiota and Its Impact on Wound Healing
 
 [Source](https://doi.org/10.3390/ijms242417318)
