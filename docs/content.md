@@ -114,27 +114,54 @@ The onset and progression of periodontitis involves complicated interactions bet
 
 ---
 
-## Microbial collaborations and conflicts: unraveling interactions in the gut ecosystem
+## Microbial collaborations and conflicts: unraveling interactions in the gut ecosystem.
+ 28.12.2023, _S Wang, L Mu, C Yu, Y He, X Hu, Y Jiao, Z Xu, S You, SL Liu, H Bao_
+
+
+_Animals, Humans, Gastrointestinal Microbiome, Microbiota, Bacteriocins, Microbial Interactions, Mammals_
+The human gut microbiota constitutes a vast and complex community of microorganisms. The myriad of microorganisms present in the intestinal tract exhibits highly intricate interactions, which play a crucial role in maintaining the stability and balance of the gut microbial ecosystem. These interactions, in turn, influence the overall health of the host. The mammalian gut microbes have evolved a wide range of mechanisms to suppress or even eliminate their competitors for nutrients and space. Simultaneously, extensive cooperative interactions exist among different microbes to optimize resource utilization and enhance their own fitness. This review will focus on the competitive mechanisms among members of the gut microorganisms and discuss key modes of actions, including bacterial secretion systems, bacteriocins, membrane vesicles (MVs) etc. Additionally, we will summarize the current knowledge of the often-overlooked positive interactions within the gut microbiota, and showcase representative machineries. This information will serve as a reference for better understanding the complex interactions occurring within the mammalian gut environment. Understanding the interaction dynamics of competition and cooperation within the gut microbiota is crucial to unraveling the ecology of the mammalian gut microbial communities. Targeted interventions aimed at modulating these interactions may offer potential therapeutic strategies for disease conditions.
 
 [Source](https://doi.org/10.1080/19490976.2023.2296603)
 
+10.1080/19490976.2023.2296603
+
 ---
 
-## Gut microbiome responds to alteration in female sex hormone status and exacerbates metabolic dysfunction
+## Gut microbiome responds to alteration in female sex hormone status and exacerbates metabolic dysfunction.
+ 29.12.2023, _TL Cross, AMR Simpson, CY Lin, NM Hottmann, AP Bhatt, SJ Pellock, ER Nelson, BR Loman, MA Wallig, EI Vivas, J Suchodolski, MR Redinbo, FE Rey, KS Swanson_
+
+
+_Humans, Female, Mice, Animals, Gastrointestinal Microbiome, Obesity, Liver, Diet, High-Fat, Inflammation, Gonadal Steroid Hormones, Mice, Inbred C57BL_
+Women are at significantly greater risk of metabolic dysfunction after menopause, which subsequently leads to numerous chronic illnesses. The gut microbiome is associated with obesity and metabolic dysfunction, but its interaction with female sex hormone status and the resulting impact on host metabolism remains unclear. Herein, we characterized inflammatory and metabolic phenotypes as well as the gut microbiome associated with ovariectomy and high-fat diet feeding, compared to gonadal intact and low-fat diet controls. We then performed fecal microbiota transplantation (FMT) using gnotobiotic mice to identify the impact of ovariectomy-associated gut microbiome on inflammatory and metabolic outcomes. We demonstrated that ovariectomy led to greater gastrointestinal permeability and inflammation of the gut and metabolic organs, and that a high-fat diet exacerbated these phenotypes. Ovariectomy also led to alteration of the gut microbiome, including greater fecal β-glucuronidase activity. However, differential changes in the gut microbiome only occurred when fed a low-fat diet, not the high-fat diet. Gnotobiotic mice that received the gut microbiome from ovariectomized mice fed the low-fat diet had greater weight gain and hepatic gene expression related to metabolic dysfunction and inflammation than those that received intact sham control-associated microbiome. These results indicate that the gut microbiome responds to alterations in female sex hormone status and contributes to metabolic dysfunction. Identifying and developing gut microbiome-targeted modulators to regulate sex hormones may be useful therapeutically in remediating menopause-related diseases.
 
 [Source](https://doi.org/10.1080/19490976.2023.2295429)
 
+10.1080/19490976.2023.2295429
+
 ---
 
-## Oral fecal transplantation enriches Lachnospiraceae and butyrate to mitigate acute liver injury
+## Oral fecal transplantation enriches Lachnospiraceae and butyrate to mitigate acute liver injury.
+ 28.12.2023, _CJ Yang, HC Chang, PC Sung, MC Ge, HY Tang, ML Cheng, HT Cheng, HH Chou, CY Lin, WR Lin, YS Lee, SY Hsieh_
+
+
+While fecal microbiota transplantation (FMT) shows promise in treating human diseases, oral capsule FMT is more accepted and accessible to patients. However, microbe selection in the upper gastrointestinal tract (UGIT) through oral administration remains unclear. Here, we demonstrate that short-term oral fecal gavage (OFG) alleviates acetaminophen-induced acute liver injury (AILI) in mice, regardless of the divergent effects of commensal gut microbes. Pasteurized fecal gavage yields similar therapeutic effects. OFG enriches gut Lachnospiraceae and butyrate compared to donor feces. Butyrate mitigates AILI-induced ferroptosis via AMPK-ULK1-p62 signaling to simultaneously induce mitophagy and Nrf2 antioxidant responses. Combined N-acetylcysteine and butyrate administration significantly improves AILI mouse survival rates. These observations indicate the significance of the UGIT in modulating the implanted fecal microbes through oral administration and its potential biological and clinical impacts. Our findings also highlight a possible strategy for applying microbial metabolites to treat acute liver injury.
 
 [Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01603-0)
 
+10.1016/j.celrep.2023.113591
+
 ---
 
-## Impact of various high fat diets on gene expression and the microbiome across the mouse intestines
+## Impact of various high fat diets on gene expression and the microbiome across the mouse intestines.
+ 29.12.2023, _J Martinez-Lomeli, P Deol, JR Deans, T Jiang, P Ruegger, J Borneman, FM Sladek_
+
+
+_Animals, Mice, Diet, High-Fat, Soybean Oil, Dietary Fats, Microbiota, Fatty Acids, Ileum, Gene Expression, Colonic Neoplasms, Inflammatory Bowel Diseases_
+High fat diets (HFDs) have been linked to several diseases including obesity, diabetes, fatty liver, inflammatory bowel disease (IBD) and colon cancer. In this study, we examined the impact on intestinal gene expression of three isocaloric HFDs that differed only in their fatty acid composition-coconut oil (saturated fats), conventional soybean oil (polyunsaturated fats) and a genetically modified soybean oil (monounsaturated fats). Four functionally distinct segments of the mouse intestinal tract were analyzed using RNA-seq-duodenum, jejunum, terminal ileum and proximal colon. We found considerable dysregulation of genes in multiple tissues with the different diets, including those encoding nuclear receptors and genes involved in xenobiotic and drug metabolism, epithelial barrier function, IBD and colon cancer as well as genes associated with the microbiome and COVID-19. Network analysis shows that genes involved in metabolism tend to be upregulated by the HFDs while genes related to the immune system are downregulated; neurotransmitter signaling was also dysregulated by the HFDs. Genomic sequencing also revealed a microbiome altered by the HFDs. This study highlights the potential impact of different HFDs on gut health with implications for the organism as a whole and will serve as a reference for gene expression along the length of the intestines.
 
 [Source](https://doi.org/10.1038/s41598-023-49555-7)
+
+10.1038/s41598-023-49555-7
 
 ---
 
@@ -156,39 +183,21 @@ The onset and progression of periodontitis involves complicated interactions bet
 
 ---
 
-## Unveiling the significance of rhizosphere: Implications for plant growth, stress response, and sustainable agriculture.
- 27.12.2023, _W Solomon, T Janda, Z Molnár_
-
-
-In the rhizosphere, the activities within all processes and functions are primarily influenced by plant roots, microorganisms present in the rhizosphere, and the interactions between roots and microorganisms. The rhizosphere, a dynamic zone surrounding the roots, provides an ideal environment for a diverse microbial community, which significantly shapes plant growth and development. Microbial activity in the rhizosphere can promote plant growth by increasing nutrient availability, influencing plant hormonal signaling, and repelling or outcompeting pathogenic microbial strains. Understanding the associations between plant roots and soil microorganisms has the potential to revolutionize crop yields, improve productivity, minimize reliance on chemical fertilizers, and promote sustainable plant growth technologies. The rhizosphere microbiome could play a vital role in the next green revolution and contribute to sustainable and eco-friendly agriculture. However, there are still knowledge gaps concerning plant root-environment interactions, particularly regarding roots and microorganisms. Advances in metabolomics have helped to understand the chemical communication between plants and soil biota, yet challenges persist. This article provides an overview of the latest advancements in comprehending the communication and interplay between plant roots and microbes, which have been shown to impact crucial factors such as plant growth, gene expression, nutrient absorption, pest and disease resistance, and the alleviation of abiotic stress. By improving these aspects, sustainable agriculture practices can be implemented to increase the overall productivity of plant ecosystems.
+## Unveiling the significance of rhizosphere: Implications for plant growth, stress response, and sustainable agriculture
 
 [Source](https://doi.org/10.1016/j.plaphy.2023.108290)
 
-10.1016/j.plaphy.2023.108290
-
 ---
 
-## Connecting molecular biomarkers, mineralogical composition, and microbial diversity from Mars analog lava tubes.
- 28.12.2023, _V Palma, JL González-Pimentel, NT Jimenez-Morillo, F Sauro, S Gutiérrez-Patricio, JM De la Rosa, I Tomasi, M Massironi, BP Onac, I Tiago, JA González-Pérez, L Laiz, AT Caldeira, B Cubero, AZ Miller_
-
-
-Lanzarote (Canary Islands, Spain) is one of the best terrestrial analogs to Martian volcanology. Particularly, Lanzarote lava tubes may offer access to recognizably preserved chemical and morphological biosignatures valuable for astrobiology. By combining microbiological, mineralogical, and organic geochemistry tools, an in-depth characterization of speleothems and associated microbial communities in lava tubes of Lanzarote is provided. The aim is to untangle the underlying factors influencing microbial colonization in Earth's subsurface to gain insight into the possibility of similar subsurface microbial habitats on Mars and to identify biosignatures preserved in lava tubes unequivocally. The microbial communities with relevant representativeness comprise chemoorganotrophic, halophiles, and/or halotolerant bacteria that have evolved as a result of the surrounding oceanic environmental conditions. Many of these bacteria have a fundamental role in reshaping cave deposits due to their carbonatogenic ability, leaving behind an organic record that can provide evidence of past or present life. Based on functional profiling, we infer that Crossiella is involved in fluorapatite precipitation via urea hydrolysis and propose its Ca-rich precipitates as compelling biosignatures valuable for astrobiology. In this sense, analytical pyrolysis, stable isotope analysis, and chemometrics were conducted to characterize the complex organic fraction preserved in the speleothems and find relationships among organic families, microbial taxa, and precipitated minerals. We relate organic compounds with subsurface microbial taxa, showing that organic families drive the microbiota of Lanzarote lava tubes. Our data indicate that bacterial communities are important contributors to biomarker records in volcanic-hosted speleothems. Within them, the lipid fraction primarily consists of low molecular weight n-alkanes, α-alkenes, and branched-alkenes, providing further evidence that microorganisms serve as the origin of organic matter in these formations. The ongoing research in Lanzarote's lava tubes will help develop protocols, routines, and predictive models that could provide guidance on choosing locations and methodologies for searching potential biosignatures on Mars.
+## Connecting molecular biomarkers, mineralogical composition, and microbial diversity from Mars analog lava tubes
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.169583)
 
-10.1016/j.scitotenv.2023.169583
-
 ---
 
-## The undiscovered biosynthetic potential of the Greenland Ice Sheet microbiome.
- 28.12.2023, _AH Jaarsma, A Zervas, K Sipes, F Campuzano Jiménez, AC Smith, LV Svendsen, MS Thøgersen, P Stougaard, LG Benning, M Tranter, AM Anesio_
-
-
-The Greenland Ice Sheet is a biome which is mainly microbially driven. Several different niches can be found within the glacial biome for those microbes able to withstand the harsh conditions, e.g., low temperatures, low nutrient conditions, high UV radiation in summer, and contrasting long and dark winters. Eukaryotic algae can form blooms during the summer on the ice surface, interacting with communities of bacteria, fungi, and viruses. Cryoconite holes and snow are also habitats with their own microbial community. Nevertheless, the microbiome of supraglacial habitats remains poorly studied, leading to a lack of representative genomes from these environments. Under-investigated extremophiles, like those living on the Greenland Ice Sheet, may provide an untapped reservoir of chemical diversity that is yet to be discovered. In this study, an inventory of the biosynthetic potential of these organisms is made, through cataloging the presence of biosynthetic gene clusters in their genomes. There were 133 high-quality metagenome-assembled genomes (MAGs) and 28 whole genomes of bacteria obtained from samples of the ice sheet surface, cryoconite, biofilm, and snow using culturing-dependent and -independent approaches. AntiSMASH and BiG-SCAPE were used to mine these genomes and subsequently analyze the resulting predicted gene clusters. Extensive sets of predicted Biosynthetic Gene Clusters (BGCs) were collected from the genome collection, with limited overlap between isolates and MAGs. Additionally, little overlap was found in the biosynthetic potential among different environments, suggesting specialization of organisms in specific habitats. The median number of BGCs per genome was significantly higher for the isolates compared to the MAGs. The most talented producers were found among Proteobacteria. We found evidence for the capacity of these microbes to produce antimicrobials, carotenoid pigments, siderophores, and osmoprotectants, indicating potential survival mechanisms to cope with extreme conditions. The majority of identified BGCs, including those in the most prevalent gene cluster families, have unknown functions, presenting a substantial potential for bioprospecting. This study underscores the diverse biosynthetic potential in Greenland Ice Sheet genomes, revealing insights into survival strategies and highlighting the need for further exploration and characterization of these untapped resources.
+## The undiscovered biosynthetic potential of the Greenland Ice Sheet microbiome
 
 [Source](https://doi.org/10.3389/fmicb.2023.1285791)
-
-10.3389/fmicb.2023.1285791
 
 ---
 
