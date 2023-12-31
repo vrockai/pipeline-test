@@ -108,18 +108,6 @@ The onset and progression of periodontitis involves complicated interactions bet
 
 ---
 
-## Wound healing of experimental equine skin wounds and concurrent microbiota in wound dressings following topical propylene glycol gel treatment.
- 29.12.2023, _R Labens, S Raidal, C Borgen-Nielsen, S Pyecroft, SD Pant, T De Ridder_
-
-
-Topical wound treatments rely on carrier formulations with little to no biological impact. The potential for a common vehicle, a propylene glycol (PG) gel, to affect wound healing measures including microbiota is not known. Microbiome characterization, based on next generation sequencing methods is typically performed on tissue or directly obtained wound fluid samples. The utility for primary wound dressings to characterize equine wound microbiota in the context of topical treatments is currently unknown. This investigation reports the topical effect of an 80% PG based gel on wound healing and microbiota in wound dressings.
-
-[Source](https://doi.org/10.3390/ijms242417318)
-
-10.3389/fvets.2023.1294021
-
----
-
 ## Wound Microbiota and Its Impact on Wound Healing
 
 [Source](https://doi.org/10.3390/ijms242417318)
@@ -195,33 +183,45 @@ High fat diets (HFDs) have been linked to several diseases including obesity, di
 
 ---
 
-## Unveiling the significance of rhizosphere: Implications for plant growth, stress response, and sustainable agriculture
+## Unveiling the significance of rhizosphere: Implications for plant growth, stress response, and sustainable agriculture.
+ 27.12.2023, _W Solomon, T Janda, Z Molnár_
+
+
+In the rhizosphere, the activities within all processes and functions are primarily influenced by plant roots, microorganisms present in the rhizosphere, and the interactions between roots and microorganisms. The rhizosphere, a dynamic zone surrounding the roots, provides an ideal environment for a diverse microbial community, which significantly shapes plant growth and development. Microbial activity in the rhizosphere can promote plant growth by increasing nutrient availability, influencing plant hormonal signaling, and repelling or outcompeting pathogenic microbial strains. Understanding the associations between plant roots and soil microorganisms has the potential to revolutionize crop yields, improve productivity, minimize reliance on chemical fertilizers, and promote sustainable plant growth technologies. The rhizosphere microbiome could play a vital role in the next green revolution and contribute to sustainable and eco-friendly agriculture. However, there are still knowledge gaps concerning plant root-environment interactions, particularly regarding roots and microorganisms. Advances in metabolomics have helped to understand the chemical communication between plants and soil biota, yet challenges persist. This article provides an overview of the latest advancements in comprehending the communication and interplay between plant roots and microbes, which have been shown to impact crucial factors such as plant growth, gene expression, nutrient absorption, pest and disease resistance, and the alleviation of abiotic stress. By improving these aspects, sustainable agriculture practices can be implemented to increase the overall productivity of plant ecosystems.
 
 [Source](https://doi.org/10.1016/j.plaphy.2023.108290)
 
+10.1016/j.plaphy.2023.108290
+
 ---
 
-## Connecting molecular biomarkers, mineralogical composition, and microbial diversity from Mars analog lava tubes
+## Connecting molecular biomarkers, mineralogical composition, and microbial diversity from Mars analog lava tubes.
+ 28.12.2023, _V Palma, JL González-Pimentel, NT Jimenez-Morillo, F Sauro, S Gutiérrez-Patricio, JM De la Rosa, I Tomasi, M Massironi, BP Onac, I Tiago, JA González-Pérez, L Laiz, AT Caldeira, B Cubero, AZ Miller_
+
+
+Lanzarote (Canary Islands, Spain) is one of the best terrestrial analogs to Martian volcanology. Particularly, Lanzarote lava tubes may offer access to recognizably preserved chemical and morphological biosignatures valuable for astrobiology. By combining microbiological, mineralogical, and organic geochemistry tools, an in-depth characterization of speleothems and associated microbial communities in lava tubes of Lanzarote is provided. The aim is to untangle the underlying factors influencing microbial colonization in Earth's subsurface to gain insight into the possibility of similar subsurface microbial habitats on Mars and to identify biosignatures preserved in lava tubes unequivocally. The microbial communities with relevant representativeness comprise chemoorganotrophic, halophiles, and/or halotolerant bacteria that have evolved as a result of the surrounding oceanic environmental conditions. Many of these bacteria have a fundamental role in reshaping cave deposits due to their carbonatogenic ability, leaving behind an organic record that can provide evidence of past or present life. Based on functional profiling, we infer that Crossiella is involved in fluorapatite precipitation via urea hydrolysis and propose its Ca-rich precipitates as compelling biosignatures valuable for astrobiology. In this sense, analytical pyrolysis, stable isotope analysis, and chemometrics were conducted to characterize the complex organic fraction preserved in the speleothems and find relationships among organic families, microbial taxa, and precipitated minerals. We relate organic compounds with subsurface microbial taxa, showing that organic families drive the microbiota of Lanzarote lava tubes. Our data indicate that bacterial communities are important contributors to biomarker records in volcanic-hosted speleothems. Within them, the lipid fraction primarily consists of low molecular weight n-alkanes, α-alkenes, and branched-alkenes, providing further evidence that microorganisms serve as the origin of organic matter in these formations. The ongoing research in Lanzarote's lava tubes will help develop protocols, routines, and predictive models that could provide guidance on choosing locations and methodologies for searching potential biosignatures on Mars.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.169583)
 
+10.1016/j.scitotenv.2023.169583
+
 ---
 
-## The undiscovered biosynthetic potential of the Greenland Ice Sheet microbiome
+## The undiscovered biosynthetic potential of the Greenland Ice Sheet microbiome.
+ 28.12.2023, _AH Jaarsma, A Zervas, K Sipes, F Campuzano Jiménez, AC Smith, LV Svendsen, MS Thøgersen, P Stougaard, LG Benning, M Tranter, AM Anesio_
+
+
+The Greenland Ice Sheet is a biome which is mainly microbially driven. Several different niches can be found within the glacial biome for those microbes able to withstand the harsh conditions, e.g., low temperatures, low nutrient conditions, high UV radiation in summer, and contrasting long and dark winters. Eukaryotic algae can form blooms during the summer on the ice surface, interacting with communities of bacteria, fungi, and viruses. Cryoconite holes and snow are also habitats with their own microbial community. Nevertheless, the microbiome of supraglacial habitats remains poorly studied, leading to a lack of representative genomes from these environments. Under-investigated extremophiles, like those living on the Greenland Ice Sheet, may provide an untapped reservoir of chemical diversity that is yet to be discovered. In this study, an inventory of the biosynthetic potential of these organisms is made, through cataloging the presence of biosynthetic gene clusters in their genomes. There were 133 high-quality metagenome-assembled genomes (MAGs) and 28 whole genomes of bacteria obtained from samples of the ice sheet surface, cryoconite, biofilm, and snow using culturing-dependent and -independent approaches. AntiSMASH and BiG-SCAPE were used to mine these genomes and subsequently analyze the resulting predicted gene clusters. Extensive sets of predicted Biosynthetic Gene Clusters (BGCs) were collected from the genome collection, with limited overlap between isolates and MAGs. Additionally, little overlap was found in the biosynthetic potential among different environments, suggesting specialization of organisms in specific habitats. The median number of BGCs per genome was significantly higher for the isolates compared to the MAGs. The most talented producers were found among Proteobacteria. We found evidence for the capacity of these microbes to produce antimicrobials, carotenoid pigments, siderophores, and osmoprotectants, indicating potential survival mechanisms to cope with extreme conditions. The majority of identified BGCs, including those in the most prevalent gene cluster families, have unknown functions, presenting a substantial potential for bioprospecting. This study underscores the diverse biosynthetic potential in Greenland Ice Sheet genomes, revealing insights into survival strategies and highlighting the need for further exploration and characterization of these untapped resources.
 
 [Source](https://doi.org/10.3389/fmicb.2023.1285791)
 
+10.3389/fmicb.2023.1285791
+
 ---
 
-## A global review on the abundance and threats of microplastics in soils to terrestrial ecosystem and human health.
- 28.12.2023, _W Shi, N Wu, Z Zhang, Y Liu, J Chen, J Li_
-
-
-Soil is the source and sink of microplastics (MPs), which is more polluted than water and air. In this paper, the pollution levels of MPs in the agriculture, roadside, urban and landfill soils were reviewed, and the influence of MPs on soil ecosystem, including soil properties, microorganisms, animals and plants, was discussed. According to the results of in vivo and in vitro experiments, the possible risks of MPs to soil ecosystem and human health were predicted. Finally, in light of the current status of MPs research, several prospects are provided for future research directions to better evaluate the ecological risk and human health risk of MPs. MPs concentrations in global agricultural soils, roadside soils, urban soils and landfill soils had a great variance in different studies and locations. The participation of MPs has an impact on all aspects of terrestrial ecosystems. For soil properties, pH value, bulk density, pore space and evapotranspiration can be changed by MPs. For microorganisms, MPs can alter the diversity and abundance of microbiome, and different MPs have different effects on bacteria and fungi differently. For plants, MPs may interfere with their biochemical and physiological conditions and produce a wide range of toxic effects, such as inhibiting plant growth, delaying or reducing seed germination, reducing biological and fruit yield, and interfering with photosynthesis. For soil animals, MPs can affect their mobility, growth rate and reproductive capacity. At present epidemiological evidences regarding MPs exposure and negative human health effects are unavailable, but in vitro and in vivo data suggest that they pose various threats to human health, including respiratory system, digestive system, urinary system, endocrine system, nervous system, and circulation system. In conclusion, the existence and danger of MPs cannot be ignored and requires a global effort.
+## A global review on the abundance and threats of microplastics in soils to terrestrial ecosystem and human health
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.169469)
-
-10.1016/j.scitotenv.2023.169469
 
 ---
 
