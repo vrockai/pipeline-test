@@ -84,27 +84,63 @@ The onset and progression of periodontitis involves complicated interactions bet
 
 ---
 
-## Impact of dietary inflammatory index on gingival health
+## Impact of dietary inflammatory index on gingival health.
+ 28.12.2023, _RA Reis, CS Stolf, HA de Carvalho Sampaio, BY da Costa Silva, T Özlü, EB Kenger, MMV Miguel, MP Santamaria, MF Monteiro, MZ Casati, RCV Casarin_
+
+
+Periodontal disease is a biofilm-dependent chronic inflammatory condition triggered by a host response. Several factors impact systemic inflammation and could lead to changes in disease pathogenesis. Recently, studies have assessed the influence of nutritional patterns on the development of periodontitis. In the present cross-sectional study, we evaluated the dietary inflammatory profile on periodontal conditions, focusing on clinical, subgingival microbial, and cytokine assessment of individuals with periodontal health or gingivitis.
 
 [Source](https://doi.org/10.1002/JPER.23-0292)
 
+10.1002/JPER.23-0292
+
 ---
 
-## Air particulate pollution exposure associated with impaired cognition via microbiota gut-brain axis: an evidence from rural elderly female in northwest China
+## Air particulate pollution exposure associated with impaired cognition via microbiota gut-brain axis: an evidence from rural elderly female in northwest China.
+ 27.12.2023, _J Yuan, H Tan, Y Cheng, X Ma, S Jiang, X Hou, S Li, L Shi, P Li, H Xu, J Lv, B Han_
+
+
+This study aimed to reveal harm of exposure to indoor air pollution to cognitive function through "gut-brain-axis" among rural elderly residents. There were 120 participants recruited in rural villages of northwest China from December 2021 to February 2022. The cognitive level was assessed by eight-item ascertain dementia (AD) questionnaire, and indoor air pollution exposure was measured by air quality sensor. Inflammatory cytokines and oxidative stress-related index were detected in blood serum. Fecal samples were collected for gut microbiota analysis. The 120 participants were divided into impaired cognition (AD8) (81/67.5%) and cognition normal (NG) (39/32.5%). And there had more female in AD8 (FAD) (55/67.9%) than NG (FNG) (18/46.2%) (P = 0.003). Exposure of air pollution in FAD was higher than FNG (PM1, PM2.5, PM10, P &lt; 0.001; NO2, P &lt; 0.001; CO, P = 0.014; O3, P = 0.002). The risk of cognitive impairment increases 6.8%, 3.6%, 2.6%, 11%, and 2.4% in female for every 1 μg/m3 increased in exposure of PM1, PM2.5, PM10, NO2, and O3, separately. And GSH-Px and T-SOD in FAD were significantly lower than the FNG group (P = 0.011, P = 0.019). Gut microbiota in FAD is disordered with lower richness and diversity. Relative abundance of core bacteria Faecalibacterium (top 1 genus) in FAD was reduced (13.65% vs 19.81%, P = 0.0235), while Escherichia_Shigella and Akkermansia was increased. Correlation analysis showed Faecalibacterium was negatively correlated with age, and exposure of O3, PM1, PM2.5, and PM10; Akkermansia and Monoglobus were positively correlated with exposure of PM1, PM2.5 and PM10; Escherichia_Shigella was significantly positively correlated with NO2. Indoor air pollution exposure impaired cognitive function in elderly people, especially female, which may cause systemic inflammation, dysbiosis of the gut microbiota, and ultimately leading to early cognitive impairment through the gut-brain axis.
 
 [Source](https://doi.org/10.1007/s11356-023-31504-6)
 
+10.1007/s11356-023-31504-6
+
 ---
 
-## Metabolic flux and catabolic kinetics of prebiotic-like dietary polyphenol phlorizin in association with gut microbiota in vitro
+## Metabolic flux and catabolic kinetics of prebiotic-like dietary polyphenol phlorizin in association with gut microbiota in vitro.
+ 27.12.2023, _J Chen, Y Deng, SY Long, HY Xu, YT Zeng, T Peng, CM Yang, J Du, XY Zhang_
+
+
+As ubiquitous components among fruits, polyphenols, including flavonoids and phenolic acids, are somewhat embarrassed on their health benefits but low bioavailability, triggering a hotspot on their interaction with microbiota. Due to its structural characteristics similar to flavonoids and phenolic acids, dihydrochalcone phlorizin (PHZ) was selected as a reference, to illustrate its step-by-step metabolic fate associated with microbiota. The results confirmed that the metabolic flux of PHZ starts with its conversion to phloretin (PHT), sequentially followed by the formation of 3-(4-hydroxyphenyl) propionic acid (PHA), and 4-hydroxyphenylacetic acid (4-HPAA). Catabolic characteristics was comparatively elucidated by introducing apparent and potential kinetics. Besides, coupling catabolic processes with microbial changes suggested several potential bacteria involving in PHZ metabolism, as well as those regulated by PHZ and its metabolites. In particular, seven strains from Lactobacillus were selectively isolated and confirmed to be essential for deglycosylation of PHZ, implying a potential synergistic effect between PHZ and Lactobacillus.
 
 [Source](https://doi.org/10.1016/j.foodchem.2023.138240)
 
+10.1016/j.foodchem.2023.138240
+
 ---
 
-## Genital tract microbiota composition profiles and use of prebiotics and probiotics in gynaecological cancer prevention: review of the current evidence, the European Society of Gynaecological Oncology prevention committee statement
+## Genital tract microbiota composition profiles and use of prebiotics and probiotics in gynaecological cancer prevention: review of the current evidence, the European Society of Gynaecological Oncology prevention committee statement.
+ 23.12.2023, _A Mitra, M Gultekin, L Burney Ellis, N Bizzari, S Bowden, N Taumberger, T Bracic, P Vieira-Baptista, J Sehouli, M Kyrgiou_
+
+
+Female genital tract (FGT) microbiota has been associated with the development of gynaecological cancers. Thus, the possibility of whether manipulation of the FGT microbiota can help in the prevention of disease should be investigated. Various prebiotics, probiotics, and other non-clinician prescribed agents have been reported to have therapeutic effects in cervical disease. Numerous studies have reported an association between human papillomavirus infection and subsequent cervical dysplasia and a decrease in the abundance of Lactobacillus species. A continuum of microbiota composition is observed from the vagina to the upper parts of the FGT, but no evidence suggests that manipulation of the vaginal microbiota can help to modify the composition of other FGT compartments. Although prebiotics and probiotics have been reported to be beneficial, the studies are small and of varying design, and high-quality evidence to support their use is lacking. Currently, no studies have examined these therapeutics in other gynaecological malignancies. Thus, recommendation of probiotics, prebiotics, or other over-the-counter supplements for the prevention of gynaecological cancers warrants larger, well designed studies.
 
 [Source](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(23)00257-4/fulltext)
+
+10.1016/S2666-5247(23)00257-4
+
+---
+
+## Wound healing of experimental equine skin wounds and concurrent microbiota in wound dressings following topical propylene glycol gel treatment.
+ 29.12.2023, _R Labens, S Raidal, C Borgen-Nielsen, S Pyecroft, SD Pant, T De Ridder_
+
+
+Topical wound treatments rely on carrier formulations with little to no biological impact. The potential for a common vehicle, a propylene glycol (PG) gel, to affect wound healing measures including microbiota is not known. Microbiome characterization, based on next generation sequencing methods is typically performed on tissue or directly obtained wound fluid samples. The utility for primary wound dressings to characterize equine wound microbiota in the context of topical treatments is currently unknown. This investigation reports the topical effect of an 80% PG based gel on wound healing and microbiota in wound dressings.
+
+[Source](https://doi.org/10.3390/ijms242417318)
+
+10.3389/fvets.2023.1294021
 
 ---
 
@@ -219,9 +255,15 @@ The Greenland Ice Sheet is a biome which is mainly microbially driven. Several d
 
 ---
 
-## A global review on the abundance and threats of microplastics in soils to terrestrial ecosystem and human health
+## A global review on the abundance and threats of microplastics in soils to terrestrial ecosystem and human health.
+ 28.12.2023, _W Shi, N Wu, Z Zhang, Y Liu, J Chen, J Li_
+
+
+Soil is the source and sink of microplastics (MPs), which is more polluted than water and air. In this paper, the pollution levels of MPs in the agriculture, roadside, urban and landfill soils were reviewed, and the influence of MPs on soil ecosystem, including soil properties, microorganisms, animals and plants, was discussed. According to the results of in vivo and in vitro experiments, the possible risks of MPs to soil ecosystem and human health were predicted. Finally, in light of the current status of MPs research, several prospects are provided for future research directions to better evaluate the ecological risk and human health risk of MPs. MPs concentrations in global agricultural soils, roadside soils, urban soils and landfill soils had a great variance in different studies and locations. The participation of MPs has an impact on all aspects of terrestrial ecosystems. For soil properties, pH value, bulk density, pore space and evapotranspiration can be changed by MPs. For microorganisms, MPs can alter the diversity and abundance of microbiome, and different MPs have different effects on bacteria and fungi differently. For plants, MPs may interfere with their biochemical and physiological conditions and produce a wide range of toxic effects, such as inhibiting plant growth, delaying or reducing seed germination, reducing biological and fruit yield, and interfering with photosynthesis. For soil animals, MPs can affect their mobility, growth rate and reproductive capacity. At present epidemiological evidences regarding MPs exposure and negative human health effects are unavailable, but in vitro and in vivo data suggest that they pose various threats to human health, including respiratory system, digestive system, urinary system, endocrine system, nervous system, and circulation system. In conclusion, the existence and danger of MPs cannot be ignored and requires a global effort.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.169469)
+
+10.1016/j.scitotenv.2023.169469
 
 ---
 
