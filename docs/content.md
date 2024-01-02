@@ -84,15 +84,9 @@ The onset and progression of periodontitis involves complicated interactions bet
 
 ---
 
-## Impact of dietary inflammatory index on gingival health.
- 28.12.2023, _RA Reis, CS Stolf, HA de Carvalho Sampaio, BY da Costa Silva, T Özlü, EB Kenger, MMV Miguel, MP Santamaria, MF Monteiro, MZ Casati, RCV Casarin_
-
-
-Periodontal disease is a biofilm-dependent chronic inflammatory condition triggered by a host response. Several factors impact systemic inflammation and could lead to changes in disease pathogenesis. Recently, studies have assessed the influence of nutritional patterns on the development of periodontitis. In the present cross-sectional study, we evaluated the dietary inflammatory profile on periodontal conditions, focusing on clinical, subgingival microbial, and cytokine assessment of individuals with periodontal health or gingivitis.
+## Impact of dietary inflammatory index on gingival health
 
 [Source](https://doi.org/10.1002/JPER.23-0292)
-
-10.1002/JPER.23-0292
 
 ---
 
@@ -133,7 +127,7 @@ Female genital tract (FGT) microbiota has been associated with the development o
 ---
 
 ## Wound healing of experimental equine skin wounds and concurrent microbiota in wound dressings following topical propylene glycol gel treatment.
- 29.12.2023, _R Labens, S Raidal, C Borgen-Nielsen, S Pyecroft, SD Pant, T De Ridder_
+ 30.12.2023, _R Labens, S Raidal, C Borgen-Nielsen, S Pyecroft, SD Pant, T De Ridder_
 
 
 Topical wound treatments rely on carrier formulations with little to no biological impact. The potential for a common vehicle, a propylene glycol (PG) gel, to affect wound healing measures including microbiota is not known. Microbiome characterization, based on next generation sequencing methods is typically performed on tissue or directly obtained wound fluid samples. The utility for primary wound dressings to characterize equine wound microbiota in the context of topical treatments is currently unknown. This investigation reports the topical effect of an 80% PG based gel on wound healing and microbiota in wound dressings.
@@ -189,7 +183,7 @@ While fecal microbiota transplantation (FMT) shows promise in treating human dis
 ---
 
 ## Impact of various high fat diets on gene expression and the microbiome across the mouse intestines.
- 29.12.2023, _J Martinez-Lomeli, P Deol, JR Deans, T Jiang, P Ruegger, J Borneman, FM Sladek_
+ 02.01.2024, _J Martinez-Lomeli, P Deol, JR Deans, T Jiang, P Ruegger, J Borneman, FM Sladek_
 
 
 _Animals, Mice, Diet, High-Fat, Soybean Oil, Dietary Fats, Microbiota, Fatty Acids, Ileum, Gene Expression, Colonic Neoplasms, Inflammatory Bowel Diseases_
@@ -219,15 +213,9 @@ High fat diets (HFDs) have been linked to several diseases including obesity, di
 
 ---
 
-## Unveiling the significance of rhizosphere: Implications for plant growth, stress response, and sustainable agriculture.
- 27.12.2023, _W Solomon, T Janda, Z Molnár_
-
-
-In the rhizosphere, the activities within all processes and functions are primarily influenced by plant roots, microorganisms present in the rhizosphere, and the interactions between roots and microorganisms. The rhizosphere, a dynamic zone surrounding the roots, provides an ideal environment for a diverse microbial community, which significantly shapes plant growth and development. Microbial activity in the rhizosphere can promote plant growth by increasing nutrient availability, influencing plant hormonal signaling, and repelling or outcompeting pathogenic microbial strains. Understanding the associations between plant roots and soil microorganisms has the potential to revolutionize crop yields, improve productivity, minimize reliance on chemical fertilizers, and promote sustainable plant growth technologies. The rhizosphere microbiome could play a vital role in the next green revolution and contribute to sustainable and eco-friendly agriculture. However, there are still knowledge gaps concerning plant root-environment interactions, particularly regarding roots and microorganisms. Advances in metabolomics have helped to understand the chemical communication between plants and soil biota, yet challenges persist. This article provides an overview of the latest advancements in comprehending the communication and interplay between plant roots and microbes, which have been shown to impact crucial factors such as plant growth, gene expression, nutrient absorption, pest and disease resistance, and the alleviation of abiotic stress. By improving these aspects, sustainable agriculture practices can be implemented to increase the overall productivity of plant ecosystems.
+## Unveiling the significance of rhizosphere: Implications for plant growth, stress response, and sustainable agriculture
 
 [Source](https://doi.org/10.1016/j.plaphy.2023.108290)
-
-10.1016/j.plaphy.2023.108290
 
 ---
 
@@ -256,7 +244,7 @@ The Greenland Ice Sheet is a biome which is mainly microbially driven. Several d
 ---
 
 ## A global review on the abundance and threats of microplastics in soils to terrestrial ecosystem and human health.
- 28.12.2023, _W Shi, N Wu, Z Zhang, Y Liu, J Chen, J Li_
+ 30.12.2023, _W Shi, N Wu, Z Zhang, Y Liu, J Chen, J Li_
 
 
 Soil is the source and sink of microplastics (MPs), which is more polluted than water and air. In this paper, the pollution levels of MPs in the agriculture, roadside, urban and landfill soils were reviewed, and the influence of MPs on soil ecosystem, including soil properties, microorganisms, animals and plants, was discussed. According to the results of in vivo and in vitro experiments, the possible risks of MPs to soil ecosystem and human health were predicted. Finally, in light of the current status of MPs research, several prospects are provided for future research directions to better evaluate the ecological risk and human health risk of MPs. MPs concentrations in global agricultural soils, roadside soils, urban soils and landfill soils had a great variance in different studies and locations. The participation of MPs has an impact on all aspects of terrestrial ecosystems. For soil properties, pH value, bulk density, pore space and evapotranspiration can be changed by MPs. For microorganisms, MPs can alter the diversity and abundance of microbiome, and different MPs have different effects on bacteria and fungi differently. For plants, MPs may interfere with their biochemical and physiological conditions and produce a wide range of toxic effects, such as inhibiting plant growth, delaying or reducing seed germination, reducing biological and fruit yield, and interfering with photosynthesis. For soil animals, MPs can affect their mobility, growth rate and reproductive capacity. At present epidemiological evidences regarding MPs exposure and negative human health effects are unavailable, but in vitro and in vivo data suggest that they pose various threats to human health, including respiratory system, digestive system, urinary system, endocrine system, nervous system, and circulation system. In conclusion, the existence and danger of MPs cannot be ignored and requires a global effort.
@@ -298,7 +286,7 @@ Motivated by emerging applications in ecology, microbiology, and neuroscience, t
 ---
 
 ## Single-cell and spatiotemporal transcriptomic analyses reveal the effects of microorganisms on immunity and metabolism in the mouse liver.
- 28.12.2023, _R Zhao, W Cheng, J Shen, W Liang, Z Zhang, Y Sheng, T Chai, X Chen, Y Zhang, X Huang, H Yang, C Song, L Pang, C Nan, Y Zhang, R Chen, J Mei, H Wei, X Fang_
+ 29.12.2023, _R Zhao, W Cheng, J Shen, W Liang, Z Zhang, Y Sheng, T Chai, X Chen, Y Zhang, X Huang, H Yang, C Song, L Pang, C Nan, Y Zhang, R Chen, J Mei, H Wei, X Fang_
 
 
 The gut-liver axis is a complex bidirectional communication pathway between the intestine and the liver in which microorganisms and their metabolites flow from the intestine through the portal vein to the liver and influence liver function. In a sterile environment, the phenotype or function of the liver is altered, but few studies have investigated the specific cellular and molecular effects of microorganisms on the liver. To this end, we constructed single-cell and spatial transcriptomic (ST) profiles of germ-free (GF) and specific-pathogen-free (SPF) mouse livers. Single-cell RNA sequencing (scRNA-seq) and single-nucleus RNA sequencing (snRNA-seq) revealed that the ratio of most immune cells was altered in the liver of GF mice; in particular, natural killer T (NKT) cells, IgA plasma cells (IgAs) and Kupffer cells (KCs) were significantly reduced in GF mice. Spatial enhanced resolution omics sequencing (Stereo-seq) confirmed that microorganisms mediated the accumulation of Kupffer cells in the periportal zone. Unexpectedly, IgA plasma cells were more numerous and concentrated in the periportal vein in liver sections from SPF mice but less numerous and scattered in GF mice. ST technology also enables the precise zonation of liver lobules into eight layers and three patterns based on the gene expression level in each layer, allowing us to further investigate the effects of microbes on gene zonation patterns and functions. Furthermore, untargeted metabolism experiments of the liver revealed that the propionic acid levels were significantly lower in GF mice, and this reduction may be related to the control of genes involved in bile acid and fatty acid metabolism. In conclusion, the combination of sc/snRNA-seq, Stereo-seq, and untargeted metabolomics revealed immune system defects as well as altered bile acid and lipid metabolic processes at the single-cell and spatial levels in the livers of GF mice. This study will be of great value for understanding host-microbiota interactions.
