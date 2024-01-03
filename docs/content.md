@@ -156,27 +156,51 @@ The onset and progression of periodontitis involves complicated interactions bet
 
 ---
 
-## Unveiling the significance of rhizosphere: Implications for plant growth, stress response, and sustainable agriculture
+## Unveiling the significance of rhizosphere: Implications for plant growth, stress response, and sustainable agriculture.
+ 27.12.2023, _W Solomon, T Janda, Z Molnár_
+
+
+In the rhizosphere, the activities within all processes and functions are primarily influenced by plant roots, microorganisms present in the rhizosphere, and the interactions between roots and microorganisms. The rhizosphere, a dynamic zone surrounding the roots, provides an ideal environment for a diverse microbial community, which significantly shapes plant growth and development. Microbial activity in the rhizosphere can promote plant growth by increasing nutrient availability, influencing plant hormonal signaling, and repelling or outcompeting pathogenic microbial strains. Understanding the associations between plant roots and soil microorganisms has the potential to revolutionize crop yields, improve productivity, minimize reliance on chemical fertilizers, and promote sustainable plant growth technologies. The rhizosphere microbiome could play a vital role in the next green revolution and contribute to sustainable and eco-friendly agriculture. However, there are still knowledge gaps concerning plant root-environment interactions, particularly regarding roots and microorganisms. Advances in metabolomics have helped to understand the chemical communication between plants and soil biota, yet challenges persist. This article provides an overview of the latest advancements in comprehending the communication and interplay between plant roots and microbes, which have been shown to impact crucial factors such as plant growth, gene expression, nutrient absorption, pest and disease resistance, and the alleviation of abiotic stress. By improving these aspects, sustainable agriculture practices can be implemented to increase the overall productivity of plant ecosystems.
 
 [Source](https://doi.org/10.1016/j.plaphy.2023.108290)
 
+10.1016/j.plaphy.2023.108290
+
 ---
 
-## Connecting molecular biomarkers, mineralogical composition, and microbial diversity from Mars analog lava tubes
+## Connecting molecular biomarkers, mineralogical composition, and microbial diversity from Mars analog lava tubes.
+ 28.12.2023, _V Palma, JL González-Pimentel, NT Jimenez-Morillo, F Sauro, S Gutiérrez-Patricio, JM De la Rosa, I Tomasi, M Massironi, BP Onac, I Tiago, JA González-Pérez, L Laiz, AT Caldeira, B Cubero, AZ Miller_
+
+
+Lanzarote (Canary Islands, Spain) is one of the best terrestrial analogs to Martian volcanology. Particularly, Lanzarote lava tubes may offer access to recognizably preserved chemical and morphological biosignatures valuable for astrobiology. By combining microbiological, mineralogical, and organic geochemistry tools, an in-depth characterization of speleothems and associated microbial communities in lava tubes of Lanzarote is provided. The aim is to untangle the underlying factors influencing microbial colonization in Earth's subsurface to gain insight into the possibility of similar subsurface microbial habitats on Mars and to identify biosignatures preserved in lava tubes unequivocally. The microbial communities with relevant representativeness comprise chemoorganotrophic, halophiles, and/or halotolerant bacteria that have evolved as a result of the surrounding oceanic environmental conditions. Many of these bacteria have a fundamental role in reshaping cave deposits due to their carbonatogenic ability, leaving behind an organic record that can provide evidence of past or present life. Based on functional profiling, we infer that Crossiella is involved in fluorapatite precipitation via urea hydrolysis and propose its Ca-rich precipitates as compelling biosignatures valuable for astrobiology. In this sense, analytical pyrolysis, stable isotope analysis, and chemometrics were conducted to characterize the complex organic fraction preserved in the speleothems and find relationships among organic families, microbial taxa, and precipitated minerals. We relate organic compounds with subsurface microbial taxa, showing that organic families drive the microbiota of Lanzarote lava tubes. Our data indicate that bacterial communities are important contributors to biomarker records in volcanic-hosted speleothems. Within them, the lipid fraction primarily consists of low molecular weight n-alkanes, α-alkenes, and branched-alkenes, providing further evidence that microorganisms serve as the origin of organic matter in these formations. The ongoing research in Lanzarote's lava tubes will help develop protocols, routines, and predictive models that could provide guidance on choosing locations and methodologies for searching potential biosignatures on Mars.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.169583)
 
+10.1016/j.scitotenv.2023.169583
+
 ---
 
-## The undiscovered biosynthetic potential of the Greenland Ice Sheet microbiome
+## The undiscovered biosynthetic potential of the Greenland Ice Sheet microbiome.
+ 28.12.2023, _AH Jaarsma, A Zervas, K Sipes, F Campuzano Jiménez, AC Smith, LV Svendsen, MS Thøgersen, P Stougaard, LG Benning, M Tranter, AM Anesio_
+
+
+The Greenland Ice Sheet is a biome which is mainly microbially driven. Several different niches can be found within the glacial biome for those microbes able to withstand the harsh conditions, e.g., low temperatures, low nutrient conditions, high UV radiation in summer, and contrasting long and dark winters. Eukaryotic algae can form blooms during the summer on the ice surface, interacting with communities of bacteria, fungi, and viruses. Cryoconite holes and snow are also habitats with their own microbial community. Nevertheless, the microbiome of supraglacial habitats remains poorly studied, leading to a lack of representative genomes from these environments. Under-investigated extremophiles, like those living on the Greenland Ice Sheet, may provide an untapped reservoir of chemical diversity that is yet to be discovered. In this study, an inventory of the biosynthetic potential of these organisms is made, through cataloging the presence of biosynthetic gene clusters in their genomes. There were 133 high-quality metagenome-assembled genomes (MAGs) and 28 whole genomes of bacteria obtained from samples of the ice sheet surface, cryoconite, biofilm, and snow using culturing-dependent and -independent approaches. AntiSMASH and BiG-SCAPE were used to mine these genomes and subsequently analyze the resulting predicted gene clusters. Extensive sets of predicted Biosynthetic Gene Clusters (BGCs) were collected from the genome collection, with limited overlap between isolates and MAGs. Additionally, little overlap was found in the biosynthetic potential among different environments, suggesting specialization of organisms in specific habitats. The median number of BGCs per genome was significantly higher for the isolates compared to the MAGs. The most talented producers were found among Proteobacteria. We found evidence for the capacity of these microbes to produce antimicrobials, carotenoid pigments, siderophores, and osmoprotectants, indicating potential survival mechanisms to cope with extreme conditions. The majority of identified BGCs, including those in the most prevalent gene cluster families, have unknown functions, presenting a substantial potential for bioprospecting. This study underscores the diverse biosynthetic potential in Greenland Ice Sheet genomes, revealing insights into survival strategies and highlighting the need for further exploration and characterization of these untapped resources.
 
 [Source](https://doi.org/10.3389/fmicb.2023.1285791)
 
+10.3389/fmicb.2023.1285791
+
 ---
 
-## A global review on the abundance and threats of microplastics in soils to terrestrial ecosystem and human health
+## A global review on the abundance and threats of microplastics in soils to terrestrial ecosystem and human health.
+ 30.12.2023, _W Shi, N Wu, Z Zhang, Y Liu, J Chen, J Li_
+
+
+Soil is the source and sink of microplastics (MPs), which is more polluted than water and air. In this paper, the pollution levels of MPs in the agriculture, roadside, urban and landfill soils were reviewed, and the influence of MPs on soil ecosystem, including soil properties, microorganisms, animals and plants, was discussed. According to the results of in vivo and in vitro experiments, the possible risks of MPs to soil ecosystem and human health were predicted. Finally, in light of the current status of MPs research, several prospects are provided for future research directions to better evaluate the ecological risk and human health risk of MPs. MPs concentrations in global agricultural soils, roadside soils, urban soils and landfill soils had a great variance in different studies and locations. The participation of MPs has an impact on all aspects of terrestrial ecosystems. For soil properties, pH value, bulk density, pore space and evapotranspiration can be changed by MPs. For microorganisms, MPs can alter the diversity and abundance of microbiome, and different MPs have different effects on bacteria and fungi differently. For plants, MPs may interfere with their biochemical and physiological conditions and produce a wide range of toxic effects, such as inhibiting plant growth, delaying or reducing seed germination, reducing biological and fruit yield, and interfering with photosynthesis. For soil animals, MPs can affect their mobility, growth rate and reproductive capacity. At present epidemiological evidences regarding MPs exposure and negative human health effects are unavailable, but in vitro and in vivo data suggest that they pose various threats to human health, including respiratory system, digestive system, urinary system, endocrine system, nervous system, and circulation system. In conclusion, the existence and danger of MPs cannot be ignored and requires a global effort.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.169469)
+
+10.1016/j.scitotenv.2023.169469
 
 ---
 
@@ -186,15 +210,33 @@ The onset and progression of periodontitis involves complicated interactions bet
 
 ---
 
+## GENERALIZED MATRIX DECOMPOSITION REGRESSION: ESTIMATION AND INFERENCE FOR TWO-WAY STRUCTURED DATA.
+ 28.12.2023, _Y Wang, A Shojaie, T Randolph, P Knight, J Ma_
+
+
+Motivated by emerging applications in ecology, microbiology, and neuroscience, this paper studies high-dimensional regression with two-way structured data. To estimate the high-dimensional coefficient vector, we propose the generalized matrix decomposition regression (GMDR) to efficiently leverage auxiliary information on row and column structures. GMDR extends the principal component regression (PCR) to two-way structured data, but unlike PCR, GMDR selects the components that are most predictive of the outcome, leading to more accurate prediction. For inference on regression coefficients of individual variables, we propose the generalized matrix decomposition inference (GMDI), a general high-dimensional inferential framework for a large family of estimators that include the proposed GMDR estimator. GMDI provides more flexibility for incorporating relevant auxiliary row and column structures. As a result, GMDI does not require the true regression coefficients to be sparse, but constrains the coordinate system representing the regression coefficients according to the column structure. GMDI also allows dependent and heteroscedastic observations. We study the theoretical properties of GMDI in terms of both the type-I error rate and power and demonstrate the effectiveness of GMDR and GMDI in simulation studies and an application to human microbiome data.
+
+[Source](https://doi.org/10.1214/23-aoas1746)
+
+10.1214/23-aoas1746
+
+---
+
 ## Generalized matrix decomposition regression: estimation and inference for two-way structured data
 
 [Source](https://doi.org/10.1214/23-aoas1746)
 
 ---
 
-## Single-cell and spatiotemporal transcriptomic analyses reveal the effects of microorganisms on immunity and metabolism in the mouse liver
+## Single-cell and spatiotemporal transcriptomic analyses reveal the effects of microorganisms on immunity and metabolism in the mouse liver.
+ 29.12.2023, _R Zhao, W Cheng, J Shen, W Liang, Z Zhang, Y Sheng, T Chai, X Chen, Y Zhang, X Huang, H Yang, C Song, L Pang, C Nan, Y Zhang, R Chen, J Mei, H Wei, X Fang_
+
+
+The gut-liver axis is a complex bidirectional communication pathway between the intestine and the liver in which microorganisms and their metabolites flow from the intestine through the portal vein to the liver and influence liver function. In a sterile environment, the phenotype or function of the liver is altered, but few studies have investigated the specific cellular and molecular effects of microorganisms on the liver. To this end, we constructed single-cell and spatial transcriptomic (ST) profiles of germ-free (GF) and specific-pathogen-free (SPF) mouse livers. Single-cell RNA sequencing (scRNA-seq) and single-nucleus RNA sequencing (snRNA-seq) revealed that the ratio of most immune cells was altered in the liver of GF mice; in particular, natural killer T (NKT) cells, IgA plasma cells (IgAs) and Kupffer cells (KCs) were significantly reduced in GF mice. Spatial enhanced resolution omics sequencing (Stereo-seq) confirmed that microorganisms mediated the accumulation of Kupffer cells in the periportal zone. Unexpectedly, IgA plasma cells were more numerous and concentrated in the periportal vein in liver sections from SPF mice but less numerous and scattered in GF mice. ST technology also enables the precise zonation of liver lobules into eight layers and three patterns based on the gene expression level in each layer, allowing us to further investigate the effects of microbes on gene zonation patterns and functions. Furthermore, untargeted metabolism experiments of the liver revealed that the propionic acid levels were significantly lower in GF mice, and this reduction may be related to the control of genes involved in bile acid and fatty acid metabolism. In conclusion, the combination of sc/snRNA-seq, Stereo-seq, and untargeted metabolomics revealed immune system defects as well as altered bile acid and lipid metabolic processes at the single-cell and spatial levels in the livers of GF mice. This study will be of great value for understanding host-microbiota interactions.
 
 [Source](https://doi.org/10.1016/j.csbj.2023.06.020)
+
+10.1016/j.csbj.2023.06.020
 
 ---
 
@@ -204,15 +246,27 @@ The onset and progression of periodontitis involves complicated interactions bet
 
 ---
 
-## Mock microbial community meta-analysis using different trimming of amplicon read lengths
+## Mock microbial community meta-analysis using different trimming of amplicon read lengths.
+ 27.12.2023, _D Haider, MW Hall, J LaRoche, RG Beiko_
+
+
+Trimming of sequencing reads is a pre-processing step that aims to discard sequence segments such as primers, adapters and low quality nucleotides that will interfere with clustering and classification steps. We evaluated the impact of trimming length of paired-end 16S and 18S rRNA amplicon reads on the ability to reconstruct the taxonomic composition and relative abundances of communities with a known composition in both even and uneven proportions. We found that maximizing read retention maximizes recall but reduces precision by increasing false positives. The presence of expected taxa was accurately predicted across broad trim length ranges but recovering original relative proportions remains a difficult challenge. We show that parameters that maximize taxonomic recovery do not simultaneously maximize relative abundance accuracy. Trim length represents one of several experimental parameters that have non-uniform impact across microbial clades, making it a difficult parameter to optimize. This study offers insights, guidelines, and helps researchers assess the significance of their decisions when trimming raw reads in a microbiome analysis based on overlapping or non-overlapping paired-end amplicons.
 
 [Source](https://doi.org/10.1111/1462-2920.16566)
 
+10.1111/1462-2920.16566
+
 ---
 
-## In Vitro Models for Investigating Intestinal Host-Pathogen Interactions
+## In Vitro Models for Investigating Intestinal Host-Pathogen Interactions.
+ 28.12.2023, _R McCoy, S Oldroyd, W Yang, K Wang, D Hoven, D Bulmer, M Zilbauer, RM Owens_
+
+
+Infectious diseases are increasingly recognized as a major threat worldwide due to the rise of antimicrobial resistance and the emergence of novel pathogens. In vitro models that can adequately mimic in vivo gastrointestinal physiology are in high demand to elucidate mechanisms behind pathogen infectivity, and to aid the design of effective preventive and therapeutic interventions. There exists a trade-off between simple and high throughput models and those that are more complex and physiologically relevant. The complexity of the model used shall be guided by the biological question to be addressed. This review provides an overview of the structure and function of the intestine and the models that are developed to emulate this. Conventional models are discussed in addition to emerging models which employ engineering principles to equip them with necessary advanced monitoring capabilities for intestinal host-pathogen interrogation. Limitations of current models and future perspectives on the field are presented.
 
 [Source](https://doi.org/10.1002/advs.202306727)
+
+10.1002/advs.202306727
 
 ---
 
