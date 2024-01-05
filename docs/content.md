@@ -84,51 +84,27 @@ The onset and progression of periodontitis involves complicated interactions bet
 
 ---
 
-## Impact of dietary inflammatory index on gingival health.
- 28.12.2023, _RA Reis, CS Stolf, HA de Carvalho Sampaio, BY da Costa Silva, T Özlü, EB Kenger, MMV Miguel, MP Santamaria, MF Monteiro, MZ Casati, RCV Casarin_
-
-
-Periodontal disease is a biofilm-dependent chronic inflammatory condition triggered by a host response. Several factors impact systemic inflammation and could lead to changes in disease pathogenesis. Recently, studies have assessed the influence of nutritional patterns on the development of periodontitis. In the present cross-sectional study, we evaluated the dietary inflammatory profile on periodontal conditions, focusing on clinical, subgingival microbial, and cytokine assessment of individuals with periodontal health or gingivitis.
+## Impact of dietary inflammatory index on gingival health
 
 [Source](https://doi.org/10.1002/JPER.23-0292)
 
-10.1002/JPER.23-0292
-
 ---
 
-## Air particulate pollution exposure associated with impaired cognition via microbiota gut-brain axis: an evidence from rural elderly female in northwest China.
- 27.12.2023, _J Yuan, H Tan, Y Cheng, X Ma, S Jiang, X Hou, S Li, L Shi, P Li, H Xu, J Lv, B Han_
-
-
-This study aimed to reveal harm of exposure to indoor air pollution to cognitive function through "gut-brain-axis" among rural elderly residents. There were 120 participants recruited in rural villages of northwest China from December 2021 to February 2022. The cognitive level was assessed by eight-item ascertain dementia (AD) questionnaire, and indoor air pollution exposure was measured by air quality sensor. Inflammatory cytokines and oxidative stress-related index were detected in blood serum. Fecal samples were collected for gut microbiota analysis. The 120 participants were divided into impaired cognition (AD8) (81/67.5%) and cognition normal (NG) (39/32.5%). And there had more female in AD8 (FAD) (55/67.9%) than NG (FNG) (18/46.2%) (P = 0.003). Exposure of air pollution in FAD was higher than FNG (PM1, PM2.5, PM10, P &lt; 0.001; NO2, P &lt; 0.001; CO, P = 0.014; O3, P = 0.002). The risk of cognitive impairment increases 6.8%, 3.6%, 2.6%, 11%, and 2.4% in female for every 1 μg/m3 increased in exposure of PM1, PM2.5, PM10, NO2, and O3, separately. And GSH-Px and T-SOD in FAD were significantly lower than the FNG group (P = 0.011, P = 0.019). Gut microbiota in FAD is disordered with lower richness and diversity. Relative abundance of core bacteria Faecalibacterium (top 1 genus) in FAD was reduced (13.65% vs 19.81%, P = 0.0235), while Escherichia_Shigella and Akkermansia was increased. Correlation analysis showed Faecalibacterium was negatively correlated with age, and exposure of O3, PM1, PM2.5, and PM10; Akkermansia and Monoglobus were positively correlated with exposure of PM1, PM2.5 and PM10; Escherichia_Shigella was significantly positively correlated with NO2. Indoor air pollution exposure impaired cognitive function in elderly people, especially female, which may cause systemic inflammation, dysbiosis of the gut microbiota, and ultimately leading to early cognitive impairment through the gut-brain axis.
+## Air particulate pollution exposure associated with impaired cognition via microbiota gut-brain axis: an evidence from rural elderly female in northwest China
 
 [Source](https://doi.org/10.1007/s11356-023-31504-6)
 
-10.1007/s11356-023-31504-6
-
 ---
 
-## Metabolic flux and catabolic kinetics of prebiotic-like dietary polyphenol phlorizin in association with gut microbiota in vitro.
- 27.12.2023, _J Chen, Y Deng, SY Long, HY Xu, YT Zeng, T Peng, CM Yang, J Du, XY Zhang_
-
-
-As ubiquitous components among fruits, polyphenols, including flavonoids and phenolic acids, are somewhat embarrassed on their health benefits but low bioavailability, triggering a hotspot on their interaction with microbiota. Due to its structural characteristics similar to flavonoids and phenolic acids, dihydrochalcone phlorizin (PHZ) was selected as a reference, to illustrate its step-by-step metabolic fate associated with microbiota. The results confirmed that the metabolic flux of PHZ starts with its conversion to phloretin (PHT), sequentially followed by the formation of 3-(4-hydroxyphenyl) propionic acid (PHA), and 4-hydroxyphenylacetic acid (4-HPAA). Catabolic characteristics was comparatively elucidated by introducing apparent and potential kinetics. Besides, coupling catabolic processes with microbial changes suggested several potential bacteria involving in PHZ metabolism, as well as those regulated by PHZ and its metabolites. In particular, seven strains from Lactobacillus were selectively isolated and confirmed to be essential for deglycosylation of PHZ, implying a potential synergistic effect between PHZ and Lactobacillus.
+## Metabolic flux and catabolic kinetics of prebiotic-like dietary polyphenol phlorizin in association with gut microbiota in vitro
 
 [Source](https://doi.org/10.1016/j.foodchem.2023.138240)
 
-10.1016/j.foodchem.2023.138240
-
 ---
 
-## Genital tract microbiota composition profiles and use of prebiotics and probiotics in gynaecological cancer prevention: review of the current evidence, the European Society of Gynaecological Oncology prevention committee statement.
- 23.12.2023, _A Mitra, M Gultekin, L Burney Ellis, N Bizzari, S Bowden, N Taumberger, T Bracic, P Vieira-Baptista, J Sehouli, M Kyrgiou_
-
-
-Female genital tract (FGT) microbiota has been associated with the development of gynaecological cancers. Thus, the possibility of whether manipulation of the FGT microbiota can help in the prevention of disease should be investigated. Various prebiotics, probiotics, and other non-clinician prescribed agents have been reported to have therapeutic effects in cervical disease. Numerous studies have reported an association between human papillomavirus infection and subsequent cervical dysplasia and a decrease in the abundance of Lactobacillus species. A continuum of microbiota composition is observed from the vagina to the upper parts of the FGT, but no evidence suggests that manipulation of the vaginal microbiota can help to modify the composition of other FGT compartments. Although prebiotics and probiotics have been reported to be beneficial, the studies are small and of varying design, and high-quality evidence to support their use is lacking. Currently, no studies have examined these therapeutics in other gynaecological malignancies. Thus, recommendation of probiotics, prebiotics, or other over-the-counter supplements for the prevention of gynaecological cancers warrants larger, well designed studies.
+## Genital tract microbiota composition profiles and use of prebiotics and probiotics in gynaecological cancer prevention: review of the current evidence, the European Society of Gynaecological Oncology prevention committee statement
 
 [Source](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(23)00257-4/fulltext)
-
-10.1016/S2666-5247(23)00257-4
 
 ---
 
@@ -163,15 +139,28 @@ The human gut microbiota constitutes a vast and complex community of microorgani
 
 ---
 
-## Gut microbiome responds to alteration in female sex hormone status and exacerbates metabolic dysfunction
+## Gut microbiome responds to alteration in female sex hormone status and exacerbates metabolic dysfunction.
+ 04.01.2024, _TL Cross, AMR Simpson, CY Lin, NM Hottmann, AP Bhatt, SJ Pellock, ER Nelson, BR Loman, MA Wallig, EI Vivas, J Suchodolski, MR Redinbo, FE Rey, KS Swanson_
+
+
+_Humans, Female, Mice, Animals, Gastrointestinal Microbiome, Obesity, Liver, Diet, High-Fat, Inflammation, Gonadal Steroid Hormones, Mice, Inbred C57BL_
+Women are at significantly greater risk of metabolic dysfunction after menopause, which subsequently leads to numerous chronic illnesses. The gut microbiome is associated with obesity and metabolic dysfunction, but its interaction with female sex hormone status and the resulting impact on host metabolism remains unclear. Herein, we characterized inflammatory and metabolic phenotypes as well as the gut microbiome associated with ovariectomy and high-fat diet feeding, compared to gonadal intact and low-fat diet controls. We then performed fecal microbiota transplantation (FMT) using gnotobiotic mice to identify the impact of ovariectomy-associated gut microbiome on inflammatory and metabolic outcomes. We demonstrated that ovariectomy led to greater gastrointestinal permeability and inflammation of the gut and metabolic organs, and that a high-fat diet exacerbated these phenotypes. Ovariectomy also led to alteration of the gut microbiome, including greater fecal β-glucuronidase activity. However, differential changes in the gut microbiome only occurred when fed a low-fat diet, not the high-fat diet. Gnotobiotic mice that received the gut microbiome from ovariectomized mice fed the low-fat diet had greater weight gain and hepatic gene expression related to metabolic dysfunction and inflammation than those that received intact sham control-associated microbiome. These results indicate that the gut microbiome responds to alterations in female sex hormone status and contributes to metabolic dysfunction. Identifying and developing gut microbiome-targeted modulators to regulate sex hormones may be useful therapeutically in remediating menopause-related diseases.
 
 [Source](https://doi.org/10.1080/19490976.2023.2295429)
 
+10.1080/19490976.2023.2295429
+
 ---
 
-## Oral fecal transplantation enriches Lachnospiraceae and butyrate to mitigate acute liver injury
+## Oral fecal transplantation enriches Lachnospiraceae and butyrate to mitigate acute liver injury.
+ 28.12.2023, _CJ Yang, HC Chang, PC Sung, MC Ge, HY Tang, ML Cheng, HT Cheng, HH Chou, CY Lin, WR Lin, YS Lee, SY Hsieh_
+
+
+While fecal microbiota transplantation (FMT) shows promise in treating human diseases, oral capsule FMT is more accepted and accessible to patients. However, microbe selection in the upper gastrointestinal tract (UGIT) through oral administration remains unclear. Here, we demonstrate that short-term oral fecal gavage (OFG) alleviates acetaminophen-induced acute liver injury (AILI) in mice, regardless of the divergent effects of commensal gut microbes. Pasteurized fecal gavage yields similar therapeutic effects. OFG enriches gut Lachnospiraceae and butyrate compared to donor feces. Butyrate mitigates AILI-induced ferroptosis via AMPK-ULK1-p62 signaling to simultaneously induce mitophagy and Nrf2 antioxidant responses. Combined N-acetylcysteine and butyrate administration significantly improves AILI mouse survival rates. These observations indicate the significance of the UGIT in modulating the implanted fecal microbes through oral administration and its potential biological and clinical impacts. Our findings also highlight a possible strategy for applying microbial metabolites to treat acute liver injury.
 
 [Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01603-0)
+
+10.1016/j.celrep.2023.113591
 
 ---
 
