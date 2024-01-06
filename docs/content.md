@@ -108,33 +108,72 @@ The onset and progression of periodontitis involves complicated interactions bet
 
 ---
 
+## Wound healing of experimental equine skin wounds and concurrent microbiota in wound dressings following topical propylene glycol gel treatment.
+ 30.12.2023, _R Labens, S Raidal, C Borgen-Nielsen, S Pyecroft, SD Pant, T De Ridder_
+
+
+Topical wound treatments rely on carrier formulations with little to no biological impact. The potential for a common vehicle, a propylene glycol (PG) gel, to affect wound healing measures including microbiota is not known. Microbiome characterization, based on next generation sequencing methods is typically performed on tissue or directly obtained wound fluid samples. The utility for primary wound dressings to characterize equine wound microbiota in the context of topical treatments is currently unknown. This investigation reports the topical effect of an 80% PG based gel on wound healing and microbiota in wound dressings.
+
+[Source](https://doi.org/10.3390/ijms242417318)
+
+10.3389/fvets.2023.1294021
+
+---
+
 ## Wound Microbiota and Its Impact on Wound Healing
 
 [Source](https://doi.org/10.3390/ijms242417318)
 
 ---
 
-## Microbial collaborations and conflicts: unraveling interactions in the gut ecosystem
+## Microbial collaborations and conflicts: unraveling interactions in the gut ecosystem.
+ 04.01.2024, _S Wang, L Mu, C Yu, Y He, X Hu, Y Jiao, Z Xu, S You, SL Liu, H Bao_
+
+
+_Animals, Humans, Gastrointestinal Microbiome, Microbiota, Bacteriocins, Microbial Interactions, Mammals_
+The human gut microbiota constitutes a vast and complex community of microorganisms. The myriad of microorganisms present in the intestinal tract exhibits highly intricate interactions, which play a crucial role in maintaining the stability and balance of the gut microbial ecosystem. These interactions, in turn, influence the overall health of the host. The mammalian gut microbes have evolved a wide range of mechanisms to suppress or even eliminate their competitors for nutrients and space. Simultaneously, extensive cooperative interactions exist among different microbes to optimize resource utilization and enhance their own fitness. This review will focus on the competitive mechanisms among members of the gut microorganisms and discuss key modes of actions, including bacterial secretion systems, bacteriocins, membrane vesicles (MVs) etc. Additionally, we will summarize the current knowledge of the often-overlooked positive interactions within the gut microbiota, and showcase representative machineries. This information will serve as a reference for better understanding the complex interactions occurring within the mammalian gut environment. Understanding the interaction dynamics of competition and cooperation within the gut microbiota is crucial to unraveling the ecology of the mammalian gut microbial communities. Targeted interventions aimed at modulating these interactions may offer potential therapeutic strategies for disease conditions.
 
 [Source](https://doi.org/10.1080/19490976.2023.2296603)
 
+10.1080/19490976.2023.2296603
+
 ---
 
-## Gut microbiome responds to alteration in female sex hormone status and exacerbates metabolic dysfunction
+## Gut microbiome responds to alteration in female sex hormone status and exacerbates metabolic dysfunction.
+ 04.01.2024, _TL Cross, AMR Simpson, CY Lin, NM Hottmann, AP Bhatt, SJ Pellock, ER Nelson, BR Loman, MA Wallig, EI Vivas, J Suchodolski, MR Redinbo, FE Rey, KS Swanson_
+
+
+_Humans, Female, Mice, Animals, Gastrointestinal Microbiome, Obesity, Liver, Diet, High-Fat, Inflammation, Gonadal Steroid Hormones, Mice, Inbred C57BL_
+Women are at significantly greater risk of metabolic dysfunction after menopause, which subsequently leads to numerous chronic illnesses. The gut microbiome is associated with obesity and metabolic dysfunction, but its interaction with female sex hormone status and the resulting impact on host metabolism remains unclear. Herein, we characterized inflammatory and metabolic phenotypes as well as the gut microbiome associated with ovariectomy and high-fat diet feeding, compared to gonadal intact and low-fat diet controls. We then performed fecal microbiota transplantation (FMT) using gnotobiotic mice to identify the impact of ovariectomy-associated gut microbiome on inflammatory and metabolic outcomes. We demonstrated that ovariectomy led to greater gastrointestinal permeability and inflammation of the gut and metabolic organs, and that a high-fat diet exacerbated these phenotypes. Ovariectomy also led to alteration of the gut microbiome, including greater fecal β-glucuronidase activity. However, differential changes in the gut microbiome only occurred when fed a low-fat diet, not the high-fat diet. Gnotobiotic mice that received the gut microbiome from ovariectomized mice fed the low-fat diet had greater weight gain and hepatic gene expression related to metabolic dysfunction and inflammation than those that received intact sham control-associated microbiome. These results indicate that the gut microbiome responds to alterations in female sex hormone status and contributes to metabolic dysfunction. Identifying and developing gut microbiome-targeted modulators to regulate sex hormones may be useful therapeutically in remediating menopause-related diseases.
 
 [Source](https://doi.org/10.1080/19490976.2023.2295429)
 
+10.1080/19490976.2023.2295429
+
 ---
 
-## Oral fecal transplantation enriches Lachnospiraceae and butyrate to mitigate acute liver injury
+## Oral fecal transplantation enriches Lachnospiraceae and butyrate to mitigate acute liver injury.
+ 28.12.2023, _CJ Yang, HC Chang, PC Sung, MC Ge, HY Tang, ML Cheng, HT Cheng, HH Chou, CY Lin, WR Lin, YS Lee, SY Hsieh_
+
+
+While fecal microbiota transplantation (FMT) shows promise in treating human diseases, oral capsule FMT is more accepted and accessible to patients. However, microbe selection in the upper gastrointestinal tract (UGIT) through oral administration remains unclear. Here, we demonstrate that short-term oral fecal gavage (OFG) alleviates acetaminophen-induced acute liver injury (AILI) in mice, regardless of the divergent effects of commensal gut microbes. Pasteurized fecal gavage yields similar therapeutic effects. OFG enriches gut Lachnospiraceae and butyrate compared to donor feces. Butyrate mitigates AILI-induced ferroptosis via AMPK-ULK1-p62 signaling to simultaneously induce mitophagy and Nrf2 antioxidant responses. Combined N-acetylcysteine and butyrate administration significantly improves AILI mouse survival rates. These observations indicate the significance of the UGIT in modulating the implanted fecal microbes through oral administration and its potential biological and clinical impacts. Our findings also highlight a possible strategy for applying microbial metabolites to treat acute liver injury.
 
 [Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01603-0)
 
+10.1016/j.celrep.2023.113591
+
 ---
 
-## Impact of various high fat diets on gene expression and the microbiome across the mouse intestines
+## Impact of various high fat diets on gene expression and the microbiome across the mouse intestines.
+ 02.01.2024, _J Martinez-Lomeli, P Deol, JR Deans, T Jiang, P Ruegger, J Borneman, FM Sladek_
+
+
+_Animals, Mice, Diet, High-Fat, Soybean Oil, Dietary Fats, Microbiota, Fatty Acids, Ileum, Gene Expression, Colonic Neoplasms, Inflammatory Bowel Diseases_
+High fat diets (HFDs) have been linked to several diseases including obesity, diabetes, fatty liver, inflammatory bowel disease (IBD) and colon cancer. In this study, we examined the impact on intestinal gene expression of three isocaloric HFDs that differed only in their fatty acid composition-coconut oil (saturated fats), conventional soybean oil (polyunsaturated fats) and a genetically modified soybean oil (monounsaturated fats). Four functionally distinct segments of the mouse intestinal tract were analyzed using RNA-seq-duodenum, jejunum, terminal ileum and proximal colon. We found considerable dysregulation of genes in multiple tissues with the different diets, including those encoding nuclear receptors and genes involved in xenobiotic and drug metabolism, epithelial barrier function, IBD and colon cancer as well as genes associated with the microbiome and COVID-19. Network analysis shows that genes involved in metabolism tend to be upregulated by the HFDs while genes related to the immune system are downregulated; neurotransmitter signaling was also dysregulated by the HFDs. Genomic sequencing also revealed a microbiome altered by the HFDs. This study highlights the potential impact of different HFDs on gut health with implications for the organism as a whole and will serve as a reference for gene expression along the length of the intestines.
 
 [Source](https://doi.org/10.1038/s41598-023-49555-7)
+
+10.1038/s41598-023-49555-7
 
 ---
 
@@ -168,15 +207,9 @@ The onset and progression of periodontitis involves complicated interactions bet
 
 ---
 
-## The undiscovered biosynthetic potential of the Greenland Ice Sheet microbiome.
- 28.12.2023, _AH Jaarsma, A Zervas, K Sipes, F Campuzano Jiménez, AC Smith, LV Svendsen, MS Thøgersen, P Stougaard, LG Benning, M Tranter, AM Anesio_
-
-
-The Greenland Ice Sheet is a biome which is mainly microbially driven. Several different niches can be found within the glacial biome for those microbes able to withstand the harsh conditions, e.g., low temperatures, low nutrient conditions, high UV radiation in summer, and contrasting long and dark winters. Eukaryotic algae can form blooms during the summer on the ice surface, interacting with communities of bacteria, fungi, and viruses. Cryoconite holes and snow are also habitats with their own microbial community. Nevertheless, the microbiome of supraglacial habitats remains poorly studied, leading to a lack of representative genomes from these environments. Under-investigated extremophiles, like those living on the Greenland Ice Sheet, may provide an untapped reservoir of chemical diversity that is yet to be discovered. In this study, an inventory of the biosynthetic potential of these organisms is made, through cataloging the presence of biosynthetic gene clusters in their genomes. There were 133 high-quality metagenome-assembled genomes (MAGs) and 28 whole genomes of bacteria obtained from samples of the ice sheet surface, cryoconite, biofilm, and snow using culturing-dependent and -independent approaches. AntiSMASH and BiG-SCAPE were used to mine these genomes and subsequently analyze the resulting predicted gene clusters. Extensive sets of predicted Biosynthetic Gene Clusters (BGCs) were collected from the genome collection, with limited overlap between isolates and MAGs. Additionally, little overlap was found in the biosynthetic potential among different environments, suggesting specialization of organisms in specific habitats. The median number of BGCs per genome was significantly higher for the isolates compared to the MAGs. The most talented producers were found among Proteobacteria. We found evidence for the capacity of these microbes to produce antimicrobials, carotenoid pigments, siderophores, and osmoprotectants, indicating potential survival mechanisms to cope with extreme conditions. The majority of identified BGCs, including those in the most prevalent gene cluster families, have unknown functions, presenting a substantial potential for bioprospecting. This study underscores the diverse biosynthetic potential in Greenland Ice Sheet genomes, revealing insights into survival strategies and highlighting the need for further exploration and characterization of these untapped resources.
+## The undiscovered biosynthetic potential of the Greenland Ice Sheet microbiome
 
 [Source](https://doi.org/10.3389/fmicb.2023.1285791)
-
-10.3389/fmicb.2023.1285791
 
 ---
 
@@ -240,15 +273,27 @@ The gut-liver axis is a complex bidirectional communication pathway between the 
 
 ---
 
-## Mock microbial community meta-analysis using different trimming of amplicon read lengths
+## Mock microbial community meta-analysis using different trimming of amplicon read lengths.
+ 27.12.2023, _D Haider, MW Hall, J LaRoche, RG Beiko_
+
+
+Trimming of sequencing reads is a pre-processing step that aims to discard sequence segments such as primers, adapters and low quality nucleotides that will interfere with clustering and classification steps. We evaluated the impact of trimming length of paired-end 16S and 18S rRNA amplicon reads on the ability to reconstruct the taxonomic composition and relative abundances of communities with a known composition in both even and uneven proportions. We found that maximizing read retention maximizes recall but reduces precision by increasing false positives. The presence of expected taxa was accurately predicted across broad trim length ranges but recovering original relative proportions remains a difficult challenge. We show that parameters that maximize taxonomic recovery do not simultaneously maximize relative abundance accuracy. Trim length represents one of several experimental parameters that have non-uniform impact across microbial clades, making it a difficult parameter to optimize. This study offers insights, guidelines, and helps researchers assess the significance of their decisions when trimming raw reads in a microbiome analysis based on overlapping or non-overlapping paired-end amplicons.
 
 [Source](https://doi.org/10.1111/1462-2920.16566)
 
+10.1111/1462-2920.16566
+
 ---
 
-## In Vitro Models for Investigating Intestinal Host-Pathogen Interactions
+## In Vitro Models for Investigating Intestinal Host-Pathogen Interactions.
+ 28.12.2023, _R McCoy, S Oldroyd, W Yang, K Wang, D Hoven, D Bulmer, M Zilbauer, RM Owens_
+
+
+Infectious diseases are increasingly recognized as a major threat worldwide due to the rise of antimicrobial resistance and the emergence of novel pathogens. In vitro models that can adequately mimic in vivo gastrointestinal physiology are in high demand to elucidate mechanisms behind pathogen infectivity, and to aid the design of effective preventive and therapeutic interventions. There exists a trade-off between simple and high throughput models and those that are more complex and physiologically relevant. The complexity of the model used shall be guided by the biological question to be addressed. This review provides an overview of the structure and function of the intestine and the models that are developed to emulate this. Conventional models are discussed in addition to emerging models which employ engineering principles to equip them with necessary advanced monitoring capabilities for intestinal host-pathogen interrogation. Limitations of current models and future perspectives on the field are presented.
 
 [Source](https://doi.org/10.1002/advs.202306727)
+
+10.1002/advs.202306727
 
 ---
 
