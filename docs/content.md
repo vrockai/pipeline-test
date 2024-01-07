@@ -96,15 +96,39 @@ The onset and progression of periodontitis involves complicated interactions bet
 
 ---
 
-## Metabolic flux and catabolic kinetics of prebiotic-like dietary polyphenol phlorizin in association with gut microbiota in vitro
+## Metabolic flux and catabolic kinetics of prebiotic-like dietary polyphenol phlorizin in association with gut microbiota in vitro.
+ 27.12.2023, _J Chen, Y Deng, SY Long, HY Xu, YT Zeng, T Peng, CM Yang, J Du, XY Zhang_
+
+
+As ubiquitous components among fruits, polyphenols, including flavonoids and phenolic acids, are somewhat embarrassed on their health benefits but low bioavailability, triggering a hotspot on their interaction with microbiota. Due to its structural characteristics similar to flavonoids and phenolic acids, dihydrochalcone phlorizin (PHZ) was selected as a reference, to illustrate its step-by-step metabolic fate associated with microbiota. The results confirmed that the metabolic flux of PHZ starts with its conversion to phloretin (PHT), sequentially followed by the formation of 3-(4-hydroxyphenyl) propionic acid (PHA), and 4-hydroxyphenylacetic acid (4-HPAA). Catabolic characteristics was comparatively elucidated by introducing apparent and potential kinetics. Besides, coupling catabolic processes with microbial changes suggested several potential bacteria involving in PHZ metabolism, as well as those regulated by PHZ and its metabolites. In particular, seven strains from Lactobacillus were selectively isolated and confirmed to be essential for deglycosylation of PHZ, implying a potential synergistic effect between PHZ and Lactobacillus.
 
 [Source](https://doi.org/10.1016/j.foodchem.2023.138240)
 
+10.1016/j.foodchem.2023.138240
+
 ---
 
-## Genital tract microbiota composition profiles and use of prebiotics and probiotics in gynaecological cancer prevention: review of the current evidence, the European Society of Gynaecological Oncology prevention committee statement
+## Genital tract microbiota composition profiles and use of prebiotics and probiotics in gynaecological cancer prevention: review of the current evidence, the European Society of Gynaecological Oncology prevention committee statement.
+ 23.12.2023, _A Mitra, M Gultekin, L Burney Ellis, N Bizzari, S Bowden, N Taumberger, T Bracic, P Vieira-Baptista, J Sehouli, M Kyrgiou_
+
+
+Female genital tract (FGT) microbiota has been associated with the development of gynaecological cancers. Thus, the possibility of whether manipulation of the FGT microbiota can help in the prevention of disease should be investigated. Various prebiotics, probiotics, and other non-clinician prescribed agents have been reported to have therapeutic effects in cervical disease. Numerous studies have reported an association between human papillomavirus infection and subsequent cervical dysplasia and a decrease in the abundance of Lactobacillus species. A continuum of microbiota composition is observed from the vagina to the upper parts of the FGT, but no evidence suggests that manipulation of the vaginal microbiota can help to modify the composition of other FGT compartments. Although prebiotics and probiotics have been reported to be beneficial, the studies are small and of varying design, and high-quality evidence to support their use is lacking. Currently, no studies have examined these therapeutics in other gynaecological malignancies. Thus, recommendation of probiotics, prebiotics, or other over-the-counter supplements for the prevention of gynaecological cancers warrants larger, well designed studies.
 
 [Source](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(23)00257-4/fulltext)
+
+10.1016/S2666-5247(23)00257-4
+
+---
+
+## Wound healing of experimental equine skin wounds and concurrent microbiota in wound dressings following topical propylene glycol gel treatment.
+ 30.12.2023, _R Labens, S Raidal, C Borgen-Nielsen, S Pyecroft, SD Pant, T De Ridder_
+
+
+Topical wound treatments rely on carrier formulations with little to no biological impact. The potential for a common vehicle, a propylene glycol (PG) gel, to affect wound healing measures including microbiota is not known. Microbiome characterization, based on next generation sequencing methods is typically performed on tissue or directly obtained wound fluid samples. The utility for primary wound dressings to characterize equine wound microbiota in the context of topical treatments is currently unknown. This investigation reports the topical effect of an 80% PG based gel on wound healing and microbiota in wound dressings.
+
+[Source](https://doi.org/10.3390/ijms242417318)
+
+10.3389/fvets.2023.1294021
 
 ---
 
@@ -114,21 +138,41 @@ The onset and progression of periodontitis involves complicated interactions bet
 
 ---
 
-## Microbial collaborations and conflicts: unraveling interactions in the gut ecosystem
+## Microbial collaborations and conflicts: unraveling interactions in the gut ecosystem.
+ 04.01.2024, _S Wang, L Mu, C Yu, Y He, X Hu, Y Jiao, Z Xu, S You, SL Liu, H Bao_
+
+
+_Animals, Humans, Gastrointestinal Microbiome, Microbiota, Bacteriocins, Microbial Interactions, Mammals_
+The human gut microbiota constitutes a vast and complex community of microorganisms. The myriad of microorganisms present in the intestinal tract exhibits highly intricate interactions, which play a crucial role in maintaining the stability and balance of the gut microbial ecosystem. These interactions, in turn, influence the overall health of the host. The mammalian gut microbes have evolved a wide range of mechanisms to suppress or even eliminate their competitors for nutrients and space. Simultaneously, extensive cooperative interactions exist among different microbes to optimize resource utilization and enhance their own fitness. This review will focus on the competitive mechanisms among members of the gut microorganisms and discuss key modes of actions, including bacterial secretion systems, bacteriocins, membrane vesicles (MVs) etc. Additionally, we will summarize the current knowledge of the often-overlooked positive interactions within the gut microbiota, and showcase representative machineries. This information will serve as a reference for better understanding the complex interactions occurring within the mammalian gut environment. Understanding the interaction dynamics of competition and cooperation within the gut microbiota is crucial to unraveling the ecology of the mammalian gut microbial communities. Targeted interventions aimed at modulating these interactions may offer potential therapeutic strategies for disease conditions.
 
 [Source](https://doi.org/10.1080/19490976.2023.2296603)
 
+10.1080/19490976.2023.2296603
+
 ---
 
-## Gut microbiome responds to alteration in female sex hormone status and exacerbates metabolic dysfunction
+## Gut microbiome responds to alteration in female sex hormone status and exacerbates metabolic dysfunction.
+ 04.01.2024, _TL Cross, AMR Simpson, CY Lin, NM Hottmann, AP Bhatt, SJ Pellock, ER Nelson, BR Loman, MA Wallig, EI Vivas, J Suchodolski, MR Redinbo, FE Rey, KS Swanson_
+
+
+_Humans, Female, Mice, Animals, Gastrointestinal Microbiome, Obesity, Liver, Diet, High-Fat, Inflammation, Gonadal Steroid Hormones, Mice, Inbred C57BL_
+Women are at significantly greater risk of metabolic dysfunction after menopause, which subsequently leads to numerous chronic illnesses. The gut microbiome is associated with obesity and metabolic dysfunction, but its interaction with female sex hormone status and the resulting impact on host metabolism remains unclear. Herein, we characterized inflammatory and metabolic phenotypes as well as the gut microbiome associated with ovariectomy and high-fat diet feeding, compared to gonadal intact and low-fat diet controls. We then performed fecal microbiota transplantation (FMT) using gnotobiotic mice to identify the impact of ovariectomy-associated gut microbiome on inflammatory and metabolic outcomes. We demonstrated that ovariectomy led to greater gastrointestinal permeability and inflammation of the gut and metabolic organs, and that a high-fat diet exacerbated these phenotypes. Ovariectomy also led to alteration of the gut microbiome, including greater fecal β-glucuronidase activity. However, differential changes in the gut microbiome only occurred when fed a low-fat diet, not the high-fat diet. Gnotobiotic mice that received the gut microbiome from ovariectomized mice fed the low-fat diet had greater weight gain and hepatic gene expression related to metabolic dysfunction and inflammation than those that received intact sham control-associated microbiome. These results indicate that the gut microbiome responds to alterations in female sex hormone status and contributes to metabolic dysfunction. Identifying and developing gut microbiome-targeted modulators to regulate sex hormones may be useful therapeutically in remediating menopause-related diseases.
 
 [Source](https://doi.org/10.1080/19490976.2023.2295429)
 
+10.1080/19490976.2023.2295429
+
 ---
 
-## Oral fecal transplantation enriches Lachnospiraceae and butyrate to mitigate acute liver injury
+## Oral fecal transplantation enriches Lachnospiraceae and butyrate to mitigate acute liver injury.
+ 28.12.2023, _CJ Yang, HC Chang, PC Sung, MC Ge, HY Tang, ML Cheng, HT Cheng, HH Chou, CY Lin, WR Lin, YS Lee, SY Hsieh_
+
+
+While fecal microbiota transplantation (FMT) shows promise in treating human diseases, oral capsule FMT is more accepted and accessible to patients. However, microbe selection in the upper gastrointestinal tract (UGIT) through oral administration remains unclear. Here, we demonstrate that short-term oral fecal gavage (OFG) alleviates acetaminophen-induced acute liver injury (AILI) in mice, regardless of the divergent effects of commensal gut microbes. Pasteurized fecal gavage yields similar therapeutic effects. OFG enriches gut Lachnospiraceae and butyrate compared to donor feces. Butyrate mitigates AILI-induced ferroptosis via AMPK-ULK1-p62 signaling to simultaneously induce mitophagy and Nrf2 antioxidant responses. Combined N-acetylcysteine and butyrate administration significantly improves AILI mouse survival rates. These observations indicate the significance of the UGIT in modulating the implanted fecal microbes through oral administration and its potential biological and clinical impacts. Our findings also highlight a possible strategy for applying microbial metabolites to treat acute liver injury.
 
 [Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01603-0)
+
+10.1016/j.celrep.2023.113591
 
 ---
 
@@ -169,27 +213,51 @@ High fat diets (HFDs) have been linked to several diseases including obesity, di
 
 ---
 
-## Connecting molecular biomarkers, mineralogical composition, and microbial diversity from Mars analog lava tubes
+## Connecting molecular biomarkers, mineralogical composition, and microbial diversity from Mars analog lava tubes.
+ 04.01.2024, _V Palma, JL González-Pimentel, NT Jimenez-Morillo, F Sauro, S Gutiérrez-Patricio, JM De la Rosa, I Tomasi, M Massironi, BP Onac, I Tiago, JA González-Pérez, L Laiz, AT Caldeira, B Cubero, AZ Miller_
+
+
+Lanzarote (Canary Islands, Spain) is one of the best terrestrial analogs to Martian volcanology. Particularly, Lanzarote lava tubes may offer access to recognizably preserved chemical and morphological biosignatures valuable for astrobiology. By combining microbiological, mineralogical, and organic geochemistry tools, an in-depth characterization of speleothems and associated microbial communities in lava tubes of Lanzarote is provided. The aim is to untangle the underlying factors influencing microbial colonization in Earth's subsurface to gain insight into the possibility of similar subsurface microbial habitats on Mars and to identify biosignatures preserved in lava tubes unequivocally. The microbial communities with relevant representativeness comprise chemoorganotrophic, halophiles, and/or halotolerant bacteria that have evolved as a result of the surrounding oceanic environmental conditions. Many of these bacteria have a fundamental role in reshaping cave deposits due to their carbonatogenic ability, leaving behind an organic record that can provide evidence of past or present life. Based on functional profiling, we infer that Crossiella is involved in fluorapatite precipitation via urea hydrolysis and propose its Ca-rich precipitates as compelling biosignatures valuable for astrobiology. In this sense, analytical pyrolysis, stable isotope analysis, and chemometrics were conducted to characterize the complex organic fraction preserved in the speleothems and find relationships among organic families, microbial taxa, and precipitated minerals. We relate organic compounds with subsurface microbial taxa, showing that organic families drive the microbiota of Lanzarote lava tubes. Our data indicate that bacterial communities are important contributors to biomarker records in volcanic-hosted speleothems. Within them, the lipid fraction primarily consists of low molecular weight n-alkanes, α-alkenes, and branched-alkenes, providing further evidence that microorganisms serve as the origin of organic matter in these formations. The ongoing research in Lanzarote's lava tubes will help develop protocols, routines, and predictive models that could provide guidance on choosing locations and methodologies for searching potential biosignatures on Mars.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.169583)
 
+10.1016/j.scitotenv.2023.169583
+
 ---
 
-## The undiscovered biosynthetic potential of the Greenland Ice Sheet microbiome
+## The undiscovered biosynthetic potential of the Greenland Ice Sheet microbiome.
+ 28.12.2023, _AH Jaarsma, A Zervas, K Sipes, F Campuzano Jiménez, AC Smith, LV Svendsen, MS Thøgersen, P Stougaard, LG Benning, M Tranter, AM Anesio_
+
+
+The Greenland Ice Sheet is a biome which is mainly microbially driven. Several different niches can be found within the glacial biome for those microbes able to withstand the harsh conditions, e.g., low temperatures, low nutrient conditions, high UV radiation in summer, and contrasting long and dark winters. Eukaryotic algae can form blooms during the summer on the ice surface, interacting with communities of bacteria, fungi, and viruses. Cryoconite holes and snow are also habitats with their own microbial community. Nevertheless, the microbiome of supraglacial habitats remains poorly studied, leading to a lack of representative genomes from these environments. Under-investigated extremophiles, like those living on the Greenland Ice Sheet, may provide an untapped reservoir of chemical diversity that is yet to be discovered. In this study, an inventory of the biosynthetic potential of these organisms is made, through cataloging the presence of biosynthetic gene clusters in their genomes. There were 133 high-quality metagenome-assembled genomes (MAGs) and 28 whole genomes of bacteria obtained from samples of the ice sheet surface, cryoconite, biofilm, and snow using culturing-dependent and -independent approaches. AntiSMASH and BiG-SCAPE were used to mine these genomes and subsequently analyze the resulting predicted gene clusters. Extensive sets of predicted Biosynthetic Gene Clusters (BGCs) were collected from the genome collection, with limited overlap between isolates and MAGs. Additionally, little overlap was found in the biosynthetic potential among different environments, suggesting specialization of organisms in specific habitats. The median number of BGCs per genome was significantly higher for the isolates compared to the MAGs. The most talented producers were found among Proteobacteria. We found evidence for the capacity of these microbes to produce antimicrobials, carotenoid pigments, siderophores, and osmoprotectants, indicating potential survival mechanisms to cope with extreme conditions. The majority of identified BGCs, including those in the most prevalent gene cluster families, have unknown functions, presenting a substantial potential for bioprospecting. This study underscores the diverse biosynthetic potential in Greenland Ice Sheet genomes, revealing insights into survival strategies and highlighting the need for further exploration and characterization of these untapped resources.
 
 [Source](https://doi.org/10.3389/fmicb.2023.1285791)
 
+10.3389/fmicb.2023.1285791
+
 ---
 
-## A global review on the abundance and threats of microplastics in soils to terrestrial ecosystem and human health
+## A global review on the abundance and threats of microplastics in soils to terrestrial ecosystem and human health.
+ 30.12.2023, _W Shi, N Wu, Z Zhang, Y Liu, J Chen, J Li_
+
+
+Soil is the source and sink of microplastics (MPs), which is more polluted than water and air. In this paper, the pollution levels of MPs in the agriculture, roadside, urban and landfill soils were reviewed, and the influence of MPs on soil ecosystem, including soil properties, microorganisms, animals and plants, was discussed. According to the results of in vivo and in vitro experiments, the possible risks of MPs to soil ecosystem and human health were predicted. Finally, in light of the current status of MPs research, several prospects are provided for future research directions to better evaluate the ecological risk and human health risk of MPs. MPs concentrations in global agricultural soils, roadside soils, urban soils and landfill soils had a great variance in different studies and locations. The participation of MPs has an impact on all aspects of terrestrial ecosystems. For soil properties, pH value, bulk density, pore space and evapotranspiration can be changed by MPs. For microorganisms, MPs can alter the diversity and abundance of microbiome, and different MPs have different effects on bacteria and fungi differently. For plants, MPs may interfere with their biochemical and physiological conditions and produce a wide range of toxic effects, such as inhibiting plant growth, delaying or reducing seed germination, reducing biological and fruit yield, and interfering with photosynthesis. For soil animals, MPs can affect their mobility, growth rate and reproductive capacity. At present epidemiological evidences regarding MPs exposure and negative human health effects are unavailable, but in vitro and in vivo data suggest that they pose various threats to human health, including respiratory system, digestive system, urinary system, endocrine system, nervous system, and circulation system. In conclusion, the existence and danger of MPs cannot be ignored and requires a global effort.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.169469)
 
+10.1016/j.scitotenv.2023.169469
+
 ---
 
-## VIBES: A consensus subtyping of the vaginal microbiota reveals novel classification criteria
+## VIBES: A consensus subtyping of the vaginal microbiota reveals novel classification criteria.
+ 25.12.2023, _D Fernández-Edreira, J Liñares-Blanco, P V-Del-Río, C Fernandez-Lozano_
+
+
+This study aimed to develop a robust classification scheme for stratifying patients based on vaginal microbiome. By employing consensus clustering analysis, we identified four distinct clusters using a cohort that includes individuals diagnosed with Bacterial Vaginosis (BV) as well as control participants, each characterized by unique patterns of microbiome species abundances. Notably, the consistent distribution of these clusters was observed across multiple external cohorts, such as SRA022855, SRA051298, PRJNA208535, PRJNA797778, and PRJNA302078 obtained from public repositories, demonstrating the generalizability of our findings. We further trained an elastic net model to predict these clusters, and its performance was evaluated in various external cohorts. Moreover, we developed VIBES, a user-friendly R package that encapsulates the model for convenient implementation and enables easy predictions on new data. Remarkably, we explored the applicability of this new classification scheme in providing valuable insights into disease progression, treatment response, and potential clinical outcomes in BV patients. Specifically, we demonstrated that the combined output of VIBES and VALENCIA scores could effectively predict the response to metronidazole antibiotic treatment in BV patients. Therefore, this study's outcomes contribute to our understanding of BV heterogeneity and lay the groundwork for personalized approaches to BV management and treatment selection.
 
 [Source](https://www.csbj.org/article/S2001-0370(23)00465-8/fulltext)
+
+10.1016/j.csbj.2023.11.050
 
 ---
 
