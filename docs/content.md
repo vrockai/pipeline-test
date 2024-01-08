@@ -36,27 +36,15 @@ Gut environments harbour dense microbial ecosystems in which plasmids are widely
 
 ---
 
-## Oral microbiome-driven virulence factors: A novel approach to pancreatic cancer diagnosis.
- 28.12.2023, _X Zeng, D Ren, R Liu, Q Zhang, X Yan, X Yuan_
-
-
-Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive malignancy, often associated with a poor prognosis for patients. One of the major challenges in managing PDAC is the difficulty in early diagnosis, owing to the limited and invasive nature of current diagnostic methods. Recent studies have identified the oral microbiome as a potential source of non-invasive biomarkers for diseases, including PDAC. In this study, we focused on leveraging the differential expression of virulence factors (VFs) encoded by the oral microbiome to create a diagnostic tool for PDAC. We observed a higher alpha diversity in VF categories among PDAC patients compared to healthy controls. We then identified a panel of VF categories that were significantly upregulated in PDAC patients, these being associated with bacterial adherence, exoenzyme production, and nutritional/metabolic processes. Moreover, Streptococcus-derived VFs were notably enriched in PDAC patients. We developed a diagnostic model using random forest analysis based on the levels of these VFs. The model's diagnostic accuracy was evaluated using receiver operating characteristic (ROC) curve analysis, with an area under the curve (AUC) of 0.88, indicating high accuracy in differentiating PDAC patients from healthy controls. Our findings suggest that VFs encoded by the oral microbiome hold potential as diagnostic tools for PDAC, offering a non-invasive approach that could significantly enhance early detection and prognosis, ultimately leading to improved patient outcomes.
+## Oral microbiome-driven virulence factors: A novel approach to pancreatic cancer diagnosis
 
 [Source](https://doi.org/10.17305/bb.2023.9934)
 
-10.17305/bb.2023.9934
-
 ---
 
-## The Gut Microbiome: A Primer for the Clinician.
- 29.12.2023, _OC Aroniadis, AM Grinspan_
-
-
-_Humans, Gastrointestinal Microbiome_
+## The Gut Microbiome: A Primer for the Clinician
 
 [Source](https://doi.org/10.14309/ajg.0000000000002583)
-
-10.14309/ajg.0000000000002583
 
 ---
 
@@ -66,15 +54,9 @@ _Humans, Gastrointestinal Microbiome_
 
 ---
 
-## High-Throughput Combined Analysis of Saliva Microbiota and Metabolomic Profile in Chinese Periodontitis Patients: A Pilot Study.
- 26.12.2023, _J Ding, J Li, C Zhang, L Tan, C Zhao, L Gao_
-
-
-The onset and progression of periodontitis involves complicated interactions between the dysbiotic oral microbiota and disrupted host immune-inflammatory response, which can be mirrored by the changes in salivary metabolites profile. This pilot study sought to examine the saliva microbiome and metabolome in the Chinese population by the combined approach of 16s rRNA sequencing and high-throughput targeted metabolomics to discover potential cues for host-microbe metabolic interactions. Unstimulated whole saliva samples were collected from eighteen Stage III and IV periodontitis patients and thirteen healthy subjects. Full-mouth periodontal parameters were recorded. The taxonomic composition of microbiota was obtained by 16s rRNA sequencing, and the metabolites were identified and measured by ultra-high performance liquid chromatography and mass spectrometry-based metabolomic analysis. The oral microbiota composition displayed marked changes where the abundance of 93 microbial taxa differed significantly between the periodontitis and healthy group. Targeted metabolomics identified 103 differential metabolites between the patients and healthy individuals. Functional enrichment analysis demonstrated the upregulation of protein digestion and absorption, histidine metabolism, and nicotinate and nicotinamide metabolism pathways in the dysbiotic microbiota, while the ferroptosis, tryptophan metabolism, glutathione metabolism, and carbon metabolism pathways were upregulated in the patients. Correlation analysis confirmed positive relationships between the clinical parameters, pathogen abundances, and disease-related metabolite levels. The integral analysis of the saliva microbiome and metabolome yielded an accurate presentation of the dysbiotic oral microbiome and functional alterations in host-microbe metabolism. The microbial and metabolic profiling of the saliva could be a potential tool in the diagnosis, prognosis evaluation, and pathogenesis study of periodontitis.
+## High-Throughput Combined Analysis of Saliva Microbiota and Metabolomic Profile in Chinese Periodontitis Patients: A Pilot Study
 
 [Source](https://doi.org/10.1007/s10753-023-01948-6)
-
-10.1007/s10753-023-01948-6
 
 ---
 
@@ -84,63 +66,27 @@ The onset and progression of periodontitis involves complicated interactions bet
 
 ---
 
-## Impact of dietary inflammatory index on gingival health.
- 28.12.2023, _RA Reis, CS Stolf, HA de Carvalho Sampaio, BY da Costa Silva, T Özlü, EB Kenger, MMV Miguel, MP Santamaria, MF Monteiro, MZ Casati, RCV Casarin_
-
-
-Periodontal disease is a biofilm-dependent chronic inflammatory condition triggered by a host response. Several factors impact systemic inflammation and could lead to changes in disease pathogenesis. Recently, studies have assessed the influence of nutritional patterns on the development of periodontitis. In the present cross-sectional study, we evaluated the dietary inflammatory profile on periodontal conditions, focusing on clinical, subgingival microbial, and cytokine assessment of individuals with periodontal health or gingivitis.
+## Impact of dietary inflammatory index on gingival health
 
 [Source](https://doi.org/10.1002/JPER.23-0292)
 
-10.1002/JPER.23-0292
-
 ---
 
-## Air particulate pollution exposure associated with impaired cognition via microbiota gut-brain axis: an evidence from rural elderly female in northwest China.
- 27.12.2023, _J Yuan, H Tan, Y Cheng, X Ma, S Jiang, X Hou, S Li, L Shi, P Li, H Xu, J Lv, B Han_
-
-
-This study aimed to reveal harm of exposure to indoor air pollution to cognitive function through "gut-brain-axis" among rural elderly residents. There were 120 participants recruited in rural villages of northwest China from December 2021 to February 2022. The cognitive level was assessed by eight-item ascertain dementia (AD) questionnaire, and indoor air pollution exposure was measured by air quality sensor. Inflammatory cytokines and oxidative stress-related index were detected in blood serum. Fecal samples were collected for gut microbiota analysis. The 120 participants were divided into impaired cognition (AD8) (81/67.5%) and cognition normal (NG) (39/32.5%). And there had more female in AD8 (FAD) (55/67.9%) than NG (FNG) (18/46.2%) (P = 0.003). Exposure of air pollution in FAD was higher than FNG (PM1, PM2.5, PM10, P &lt; 0.001; NO2, P &lt; 0.001; CO, P = 0.014; O3, P = 0.002). The risk of cognitive impairment increases 6.8%, 3.6%, 2.6%, 11%, and 2.4% in female for every 1 μg/m3 increased in exposure of PM1, PM2.5, PM10, NO2, and O3, separately. And GSH-Px and T-SOD in FAD were significantly lower than the FNG group (P = 0.011, P = 0.019). Gut microbiota in FAD is disordered with lower richness and diversity. Relative abundance of core bacteria Faecalibacterium (top 1 genus) in FAD was reduced (13.65% vs 19.81%, P = 0.0235), while Escherichia_Shigella and Akkermansia was increased. Correlation analysis showed Faecalibacterium was negatively correlated with age, and exposure of O3, PM1, PM2.5, and PM10; Akkermansia and Monoglobus were positively correlated with exposure of PM1, PM2.5 and PM10; Escherichia_Shigella was significantly positively correlated with NO2. Indoor air pollution exposure impaired cognitive function in elderly people, especially female, which may cause systemic inflammation, dysbiosis of the gut microbiota, and ultimately leading to early cognitive impairment through the gut-brain axis.
+## Air particulate pollution exposure associated with impaired cognition via microbiota gut-brain axis: an evidence from rural elderly female in northwest China
 
 [Source](https://doi.org/10.1007/s11356-023-31504-6)
 
-10.1007/s11356-023-31504-6
-
 ---
 
-## Metabolic flux and catabolic kinetics of prebiotic-like dietary polyphenol phlorizin in association with gut microbiota in vitro.
- 27.12.2023, _J Chen, Y Deng, SY Long, HY Xu, YT Zeng, T Peng, CM Yang, J Du, XY Zhang_
-
-
-As ubiquitous components among fruits, polyphenols, including flavonoids and phenolic acids, are somewhat embarrassed on their health benefits but low bioavailability, triggering a hotspot on their interaction with microbiota. Due to its structural characteristics similar to flavonoids and phenolic acids, dihydrochalcone phlorizin (PHZ) was selected as a reference, to illustrate its step-by-step metabolic fate associated with microbiota. The results confirmed that the metabolic flux of PHZ starts with its conversion to phloretin (PHT), sequentially followed by the formation of 3-(4-hydroxyphenyl) propionic acid (PHA), and 4-hydroxyphenylacetic acid (4-HPAA). Catabolic characteristics was comparatively elucidated by introducing apparent and potential kinetics. Besides, coupling catabolic processes with microbial changes suggested several potential bacteria involving in PHZ metabolism, as well as those regulated by PHZ and its metabolites. In particular, seven strains from Lactobacillus were selectively isolated and confirmed to be essential for deglycosylation of PHZ, implying a potential synergistic effect between PHZ and Lactobacillus.
+## Metabolic flux and catabolic kinetics of prebiotic-like dietary polyphenol phlorizin in association with gut microbiota in vitro
 
 [Source](https://doi.org/10.1016/j.foodchem.2023.138240)
 
-10.1016/j.foodchem.2023.138240
-
 ---
 
-## Genital tract microbiota composition profiles and use of prebiotics and probiotics in gynaecological cancer prevention: review of the current evidence, the European Society of Gynaecological Oncology prevention committee statement.
- 23.12.2023, _A Mitra, M Gultekin, L Burney Ellis, N Bizzari, S Bowden, N Taumberger, T Bracic, P Vieira-Baptista, J Sehouli, M Kyrgiou_
-
-
-Female genital tract (FGT) microbiota has been associated with the development of gynaecological cancers. Thus, the possibility of whether manipulation of the FGT microbiota can help in the prevention of disease should be investigated. Various prebiotics, probiotics, and other non-clinician prescribed agents have been reported to have therapeutic effects in cervical disease. Numerous studies have reported an association between human papillomavirus infection and subsequent cervical dysplasia and a decrease in the abundance of Lactobacillus species. A continuum of microbiota composition is observed from the vagina to the upper parts of the FGT, but no evidence suggests that manipulation of the vaginal microbiota can help to modify the composition of other FGT compartments. Although prebiotics and probiotics have been reported to be beneficial, the studies are small and of varying design, and high-quality evidence to support their use is lacking. Currently, no studies have examined these therapeutics in other gynaecological malignancies. Thus, recommendation of probiotics, prebiotics, or other over-the-counter supplements for the prevention of gynaecological cancers warrants larger, well designed studies.
+## Genital tract microbiota composition profiles and use of prebiotics and probiotics in gynaecological cancer prevention: review of the current evidence, the European Society of Gynaecological Oncology prevention committee statement
 
 [Source](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(23)00257-4/fulltext)
-
-10.1016/S2666-5247(23)00257-4
-
----
-
-## Wound healing of experimental equine skin wounds and concurrent microbiota in wound dressings following topical propylene glycol gel treatment.
- 30.12.2023, _R Labens, S Raidal, C Borgen-Nielsen, S Pyecroft, SD Pant, T De Ridder_
-
-
-Topical wound treatments rely on carrier formulations with little to no biological impact. The potential for a common vehicle, a propylene glycol (PG) gel, to affect wound healing measures including microbiota is not known. Microbiome characterization, based on next generation sequencing methods is typically performed on tissue or directly obtained wound fluid samples. The utility for primary wound dressings to characterize equine wound microbiota in the context of topical treatments is currently unknown. This investigation reports the topical effect of an 80% PG based gel on wound healing and microbiota in wound dressings.
-
-[Source](https://doi.org/10.3390/ijms242417318)
-
-10.3389/fvets.2023.1294021
 
 ---
 
@@ -150,16 +96,9 @@ Topical wound treatments rely on carrier formulations with little to no biologic
 
 ---
 
-## Microbial collaborations and conflicts: unraveling interactions in the gut ecosystem.
- 04.01.2024, _S Wang, L Mu, C Yu, Y He, X Hu, Y Jiao, Z Xu, S You, SL Liu, H Bao_
-
-
-_Animals, Humans, Gastrointestinal Microbiome, Microbiota, Bacteriocins, Microbial Interactions, Mammals_
-The human gut microbiota constitutes a vast and complex community of microorganisms. The myriad of microorganisms present in the intestinal tract exhibits highly intricate interactions, which play a crucial role in maintaining the stability and balance of the gut microbial ecosystem. These interactions, in turn, influence the overall health of the host. The mammalian gut microbes have evolved a wide range of mechanisms to suppress or even eliminate their competitors for nutrients and space. Simultaneously, extensive cooperative interactions exist among different microbes to optimize resource utilization and enhance their own fitness. This review will focus on the competitive mechanisms among members of the gut microorganisms and discuss key modes of actions, including bacterial secretion systems, bacteriocins, membrane vesicles (MVs) etc. Additionally, we will summarize the current knowledge of the often-overlooked positive interactions within the gut microbiota, and showcase representative machineries. This information will serve as a reference for better understanding the complex interactions occurring within the mammalian gut environment. Understanding the interaction dynamics of competition and cooperation within the gut microbiota is crucial to unraveling the ecology of the mammalian gut microbial communities. Targeted interventions aimed at modulating these interactions may offer potential therapeutic strategies for disease conditions.
+## Microbial collaborations and conflicts: unraveling interactions in the gut ecosystem
 
 [Source](https://doi.org/10.1080/19490976.2023.2296603)
-
-10.1080/19490976.2023.2296603
 
 ---
 
@@ -176,15 +115,9 @@ Women are at significantly greater risk of metabolic dysfunction after menopause
 
 ---
 
-## Oral fecal transplantation enriches Lachnospiraceae and butyrate to mitigate acute liver injury.
- 28.12.2023, _CJ Yang, HC Chang, PC Sung, MC Ge, HY Tang, ML Cheng, HT Cheng, HH Chou, CY Lin, WR Lin, YS Lee, SY Hsieh_
-
-
-While fecal microbiota transplantation (FMT) shows promise in treating human diseases, oral capsule FMT is more accepted and accessible to patients. However, microbe selection in the upper gastrointestinal tract (UGIT) through oral administration remains unclear. Here, we demonstrate that short-term oral fecal gavage (OFG) alleviates acetaminophen-induced acute liver injury (AILI) in mice, regardless of the divergent effects of commensal gut microbes. Pasteurized fecal gavage yields similar therapeutic effects. OFG enriches gut Lachnospiraceae and butyrate compared to donor feces. Butyrate mitigates AILI-induced ferroptosis via AMPK-ULK1-p62 signaling to simultaneously induce mitophagy and Nrf2 antioxidant responses. Combined N-acetylcysteine and butyrate administration significantly improves AILI mouse survival rates. These observations indicate the significance of the UGIT in modulating the implanted fecal microbes through oral administration and its potential biological and clinical impacts. Our findings also highlight a possible strategy for applying microbial metabolites to treat acute liver injury.
+## Oral fecal transplantation enriches Lachnospiraceae and butyrate to mitigate acute liver injury
 
 [Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01603-0)
-
-10.1016/j.celrep.2023.113591
 
 ---
 
@@ -219,39 +152,21 @@ High fat diets (HFDs) have been linked to several diseases including obesity, di
 
 ---
 
-## Unveiling the significance of rhizosphere: Implications for plant growth, stress response, and sustainable agriculture.
- 27.12.2023, _W Solomon, T Janda, Z Molnár_
-
-
-In the rhizosphere, the activities within all processes and functions are primarily influenced by plant roots, microorganisms present in the rhizosphere, and the interactions between roots and microorganisms. The rhizosphere, a dynamic zone surrounding the roots, provides an ideal environment for a diverse microbial community, which significantly shapes plant growth and development. Microbial activity in the rhizosphere can promote plant growth by increasing nutrient availability, influencing plant hormonal signaling, and repelling or outcompeting pathogenic microbial strains. Understanding the associations between plant roots and soil microorganisms has the potential to revolutionize crop yields, improve productivity, minimize reliance on chemical fertilizers, and promote sustainable plant growth technologies. The rhizosphere microbiome could play a vital role in the next green revolution and contribute to sustainable and eco-friendly agriculture. However, there are still knowledge gaps concerning plant root-environment interactions, particularly regarding roots and microorganisms. Advances in metabolomics have helped to understand the chemical communication between plants and soil biota, yet challenges persist. This article provides an overview of the latest advancements in comprehending the communication and interplay between plant roots and microbes, which have been shown to impact crucial factors such as plant growth, gene expression, nutrient absorption, pest and disease resistance, and the alleviation of abiotic stress. By improving these aspects, sustainable agriculture practices can be implemented to increase the overall productivity of plant ecosystems.
+## Unveiling the significance of rhizosphere: Implications for plant growth, stress response, and sustainable agriculture
 
 [Source](https://doi.org/10.1016/j.plaphy.2023.108290)
 
-10.1016/j.plaphy.2023.108290
-
 ---
 
-## Connecting molecular biomarkers, mineralogical composition, and microbial diversity from Mars analog lava tubes.
- 04.01.2024, _V Palma, JL González-Pimentel, NT Jimenez-Morillo, F Sauro, S Gutiérrez-Patricio, JM De la Rosa, I Tomasi, M Massironi, BP Onac, I Tiago, JA González-Pérez, L Laiz, AT Caldeira, B Cubero, AZ Miller_
-
-
-Lanzarote (Canary Islands, Spain) is one of the best terrestrial analogs to Martian volcanology. Particularly, Lanzarote lava tubes may offer access to recognizably preserved chemical and morphological biosignatures valuable for astrobiology. By combining microbiological, mineralogical, and organic geochemistry tools, an in-depth characterization of speleothems and associated microbial communities in lava tubes of Lanzarote is provided. The aim is to untangle the underlying factors influencing microbial colonization in Earth's subsurface to gain insight into the possibility of similar subsurface microbial habitats on Mars and to identify biosignatures preserved in lava tubes unequivocally. The microbial communities with relevant representativeness comprise chemoorganotrophic, halophiles, and/or halotolerant bacteria that have evolved as a result of the surrounding oceanic environmental conditions. Many of these bacteria have a fundamental role in reshaping cave deposits due to their carbonatogenic ability, leaving behind an organic record that can provide evidence of past or present life. Based on functional profiling, we infer that Crossiella is involved in fluorapatite precipitation via urea hydrolysis and propose its Ca-rich precipitates as compelling biosignatures valuable for astrobiology. In this sense, analytical pyrolysis, stable isotope analysis, and chemometrics were conducted to characterize the complex organic fraction preserved in the speleothems and find relationships among organic families, microbial taxa, and precipitated minerals. We relate organic compounds with subsurface microbial taxa, showing that organic families drive the microbiota of Lanzarote lava tubes. Our data indicate that bacterial communities are important contributors to biomarker records in volcanic-hosted speleothems. Within them, the lipid fraction primarily consists of low molecular weight n-alkanes, α-alkenes, and branched-alkenes, providing further evidence that microorganisms serve as the origin of organic matter in these formations. The ongoing research in Lanzarote's lava tubes will help develop protocols, routines, and predictive models that could provide guidance on choosing locations and methodologies for searching potential biosignatures on Mars.
+## Connecting molecular biomarkers, mineralogical composition, and microbial diversity from Mars analog lava tubes
 
 [Source](https://doi.org/10.1016/j.scitotenv.2023.169583)
 
-10.1016/j.scitotenv.2023.169583
-
 ---
 
-## The undiscovered biosynthetic potential of the Greenland Ice Sheet microbiome.
- 28.12.2023, _AH Jaarsma, A Zervas, K Sipes, F Campuzano Jiménez, AC Smith, LV Svendsen, MS Thøgersen, P Stougaard, LG Benning, M Tranter, AM Anesio_
-
-
-The Greenland Ice Sheet is a biome which is mainly microbially driven. Several different niches can be found within the glacial biome for those microbes able to withstand the harsh conditions, e.g., low temperatures, low nutrient conditions, high UV radiation in summer, and contrasting long and dark winters. Eukaryotic algae can form blooms during the summer on the ice surface, interacting with communities of bacteria, fungi, and viruses. Cryoconite holes and snow are also habitats with their own microbial community. Nevertheless, the microbiome of supraglacial habitats remains poorly studied, leading to a lack of representative genomes from these environments. Under-investigated extremophiles, like those living on the Greenland Ice Sheet, may provide an untapped reservoir of chemical diversity that is yet to be discovered. In this study, an inventory of the biosynthetic potential of these organisms is made, through cataloging the presence of biosynthetic gene clusters in their genomes. There were 133 high-quality metagenome-assembled genomes (MAGs) and 28 whole genomes of bacteria obtained from samples of the ice sheet surface, cryoconite, biofilm, and snow using culturing-dependent and -independent approaches. AntiSMASH and BiG-SCAPE were used to mine these genomes and subsequently analyze the resulting predicted gene clusters. Extensive sets of predicted Biosynthetic Gene Clusters (BGCs) were collected from the genome collection, with limited overlap between isolates and MAGs. Additionally, little overlap was found in the biosynthetic potential among different environments, suggesting specialization of organisms in specific habitats. The median number of BGCs per genome was significantly higher for the isolates compared to the MAGs. The most talented producers were found among Proteobacteria. We found evidence for the capacity of these microbes to produce antimicrobials, carotenoid pigments, siderophores, and osmoprotectants, indicating potential survival mechanisms to cope with extreme conditions. The majority of identified BGCs, including those in the most prevalent gene cluster families, have unknown functions, presenting a substantial potential for bioprospecting. This study underscores the diverse biosynthetic potential in Greenland Ice Sheet genomes, revealing insights into survival strategies and highlighting the need for further exploration and characterization of these untapped resources.
+## The undiscovered biosynthetic potential of the Greenland Ice Sheet microbiome
 
 [Source](https://doi.org/10.3389/fmicb.2023.1285791)
-
-10.3389/fmicb.2023.1285791
 
 ---
 
@@ -327,15 +242,9 @@ Trimming of sequencing reads is a pre-processing step that aims to discard seque
 
 ---
 
-## In Vitro Models for Investigating Intestinal Host-Pathogen Interactions.
- 28.12.2023, _R McCoy, S Oldroyd, W Yang, K Wang, D Hoven, D Bulmer, M Zilbauer, RM Owens_
-
-
-Infectious diseases are increasingly recognized as a major threat worldwide due to the rise of antimicrobial resistance and the emergence of novel pathogens. In vitro models that can adequately mimic in vivo gastrointestinal physiology are in high demand to elucidate mechanisms behind pathogen infectivity, and to aid the design of effective preventive and therapeutic interventions. There exists a trade-off between simple and high throughput models and those that are more complex and physiologically relevant. The complexity of the model used shall be guided by the biological question to be addressed. This review provides an overview of the structure and function of the intestine and the models that are developed to emulate this. Conventional models are discussed in addition to emerging models which employ engineering principles to equip them with necessary advanced monitoring capabilities for intestinal host-pathogen interrogation. Limitations of current models and future perspectives on the field are presented.
+## In Vitro Models for Investigating Intestinal Host-Pathogen Interactions
 
 [Source](https://doi.org/10.1002/advs.202306727)
-
-10.1002/advs.202306727
 
 ---
 
