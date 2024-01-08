@@ -84,15 +84,27 @@ The onset and progression of periodontitis involves complicated interactions bet
 
 ---
 
-## Impact of dietary inflammatory index on gingival health
+## Impact of dietary inflammatory index on gingival health.
+ 28.12.2023, _RA Reis, CS Stolf, HA de Carvalho Sampaio, BY da Costa Silva, T Özlü, EB Kenger, MMV Miguel, MP Santamaria, MF Monteiro, MZ Casati, RCV Casarin_
+
+
+Periodontal disease is a biofilm-dependent chronic inflammatory condition triggered by a host response. Several factors impact systemic inflammation and could lead to changes in disease pathogenesis. Recently, studies have assessed the influence of nutritional patterns on the development of periodontitis. In the present cross-sectional study, we evaluated the dietary inflammatory profile on periodontal conditions, focusing on clinical, subgingival microbial, and cytokine assessment of individuals with periodontal health or gingivitis.
 
 [Source](https://doi.org/10.1002/JPER.23-0292)
 
+10.1002/JPER.23-0292
+
 ---
 
-## Air particulate pollution exposure associated with impaired cognition via microbiota gut-brain axis: an evidence from rural elderly female in northwest China
+## Air particulate pollution exposure associated with impaired cognition via microbiota gut-brain axis: an evidence from rural elderly female in northwest China.
+ 27.12.2023, _J Yuan, H Tan, Y Cheng, X Ma, S Jiang, X Hou, S Li, L Shi, P Li, H Xu, J Lv, B Han_
+
+
+This study aimed to reveal harm of exposure to indoor air pollution to cognitive function through "gut-brain-axis" among rural elderly residents. There were 120 participants recruited in rural villages of northwest China from December 2021 to February 2022. The cognitive level was assessed by eight-item ascertain dementia (AD) questionnaire, and indoor air pollution exposure was measured by air quality sensor. Inflammatory cytokines and oxidative stress-related index were detected in blood serum. Fecal samples were collected for gut microbiota analysis. The 120 participants were divided into impaired cognition (AD8) (81/67.5%) and cognition normal (NG) (39/32.5%). And there had more female in AD8 (FAD) (55/67.9%) than NG (FNG) (18/46.2%) (P = 0.003). Exposure of air pollution in FAD was higher than FNG (PM1, PM2.5, PM10, P &lt; 0.001; NO2, P &lt; 0.001; CO, P = 0.014; O3, P = 0.002). The risk of cognitive impairment increases 6.8%, 3.6%, 2.6%, 11%, and 2.4% in female for every 1 μg/m3 increased in exposure of PM1, PM2.5, PM10, NO2, and O3, separately. And GSH-Px and T-SOD in FAD were significantly lower than the FNG group (P = 0.011, P = 0.019). Gut microbiota in FAD is disordered with lower richness and diversity. Relative abundance of core bacteria Faecalibacterium (top 1 genus) in FAD was reduced (13.65% vs 19.81%, P = 0.0235), while Escherichia_Shigella and Akkermansia was increased. Correlation analysis showed Faecalibacterium was negatively correlated with age, and exposure of O3, PM1, PM2.5, and PM10; Akkermansia and Monoglobus were positively correlated with exposure of PM1, PM2.5 and PM10; Escherichia_Shigella was significantly positively correlated with NO2. Indoor air pollution exposure impaired cognitive function in elderly people, especially female, which may cause systemic inflammation, dysbiosis of the gut microbiota, and ultimately leading to early cognitive impairment through the gut-brain axis.
 
 [Source](https://doi.org/10.1007/s11356-023-31504-6)
+
+10.1007/s11356-023-31504-6
 
 ---
 
@@ -207,9 +219,15 @@ High fat diets (HFDs) have been linked to several diseases including obesity, di
 
 ---
 
-## Unveiling the significance of rhizosphere: Implications for plant growth, stress response, and sustainable agriculture
+## Unveiling the significance of rhizosphere: Implications for plant growth, stress response, and sustainable agriculture.
+ 27.12.2023, _W Solomon, T Janda, Z Molnár_
+
+
+In the rhizosphere, the activities within all processes and functions are primarily influenced by plant roots, microorganisms present in the rhizosphere, and the interactions between roots and microorganisms. The rhizosphere, a dynamic zone surrounding the roots, provides an ideal environment for a diverse microbial community, which significantly shapes plant growth and development. Microbial activity in the rhizosphere can promote plant growth by increasing nutrient availability, influencing plant hormonal signaling, and repelling or outcompeting pathogenic microbial strains. Understanding the associations between plant roots and soil microorganisms has the potential to revolutionize crop yields, improve productivity, minimize reliance on chemical fertilizers, and promote sustainable plant growth technologies. The rhizosphere microbiome could play a vital role in the next green revolution and contribute to sustainable and eco-friendly agriculture. However, there are still knowledge gaps concerning plant root-environment interactions, particularly regarding roots and microorganisms. Advances in metabolomics have helped to understand the chemical communication between plants and soil biota, yet challenges persist. This article provides an overview of the latest advancements in comprehending the communication and interplay between plant roots and microbes, which have been shown to impact crucial factors such as plant growth, gene expression, nutrient absorption, pest and disease resistance, and the alleviation of abiotic stress. By improving these aspects, sustainable agriculture practices can be implemented to increase the overall productivity of plant ecosystems.
 
 [Source](https://doi.org/10.1016/j.plaphy.2023.108290)
+
+10.1016/j.plaphy.2023.108290
 
 ---
 
