@@ -1,250 +1,482 @@
-## Differential responses of the gut microbiome and resistome to antibiotic exposures in infants and adults.
- 25.12.2023, _X Li, A Brejnrod, J Thorsen, T Zachariasen, U Trivedi, J Russel, GA Vestergaard, J Stokholm, MA Rasmussen, SJ Sørensen_
+## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
+ 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
 
 
-_Infant, Young Adult, Humans, Anti-Bacterial Agents, Gastrointestinal Microbiome, Escherichia coli, Bacteria, Drug Resistance, Microbial, Genes, Bacterial_
-Despite their crucial importance for human health, there is still relatively limited knowledge on how the gut resistome changes or responds to antibiotic treatment across ages, especially in the latter case. Here, we use fecal metagenomic data from 662 Danish infants and 217 young adults to fill this gap. The gut resistomes are characterized by a bimodal distribution driven by E. coli composition. The typical profile of the gut resistome differs significantly between adults and infants, with the latter distinguished by higher gene and plasmid abundances. However, the predominant antibiotic resistance genes (ARGs) are the same. Antibiotic treatment reduces bacterial diversity and increased ARG and plasmid abundances in both cohorts, especially core ARGs. The effects of antibiotic treatments on the gut microbiome last longer in adults than in infants, and different antibiotics are associated with distinct impacts. Overall, this study broadens our current understanding of gut resistome dynamics and the impact of antibiotic treatment across age groups.
+_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
+This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
 
-[Source](https://doi.org/10.1038/s41467-023-44289-6)
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
 
-10.1038/s41467-023-44289-6
-
----
-
-## Social anxiety disorder-associated gut microbiota increases social fear.
- 28.12.2023, _NL Ritz, M Brocka, MI Butler, CSM Cowan, C Barrera-Bugueño, CJR Turkington, LA Draper, TFS Bastiaanssen, V Turpin, L Morales, D Campos, CE Gheorghe, A Ratsika, V Sharma, AV Golubeva, MR Aburto, AN Shkoporov, GM Moloney, C Hill, G Clarke, DA Slattery, TG Dinan, JF Cryan_
-
-
-_Humans, Animals, Mice, Phobia, Social, Gastrointestinal Microbiome, Oxytocin, RNA, Ribosomal, 16S, Fear, Anxiety_
-Social anxiety disorder (SAD) is a crippling psychiatric disorder characterized by intense fear or anxiety in social situations and their avoidance. However, the underlying biology of SAD is unclear and better treatments are needed. Recently, the gut microbiota has emerged as a key regulator of both brain and behaviour, especially those related to social function. Moreover, increasing data supports a role for immune function and oxytocin signalling in social responses. To investigate whether the gut microbiota plays a causal role in modulating behaviours relevant to SAD, we transplanted the microbiota from SAD patients, which was identified by 16S rRNA sequencing to be of a differential composition compared to healthy controls, to mice. Although the mice that received the SAD microbiota had normal behaviours across a battery of tests designed to assess depression and general anxiety-like behaviours, they had a specific heightened sensitivity to social fear, a model of SAD. This distinct heightened social fear response was coupled with changes in central and peripheral immune function and oxytocin expression in the bed nucleus of the stria terminalis. This work demonstrates an interkingdom basis for social fear responses and posits the microbiome as a potential therapeutic target for SAD.
-
-[Source](https://doi.org/10.1073/pnas.2308706120)
-
-10.1073/pnas.2308706120
+10.3390/ijerph19010099
 
 ---
 
-## Plasmid-encoded toxin defence mediates mutualistic microbial interactions.
- 05.01.2024, _S Moraïs, M Mazor, O Tovar-Herrera, T Zehavi, A Zorea, M Ifrach, D Bogumil, A Brandis, J Walter, N Elia, E Gur, I Mizrahi_
+## #MVIF
 
-
-Gut environments harbour dense microbial ecosystems in which plasmids are widely distributed. Plasmids facilitate the exchange of genetic material among microorganisms while enabling the transfer of a diverse array of accessory functions. However, their precise impact on microbial community composition and function remains largely unexplored. Here we identify a prevalent bacterial toxin and a plasmid-encoded resistance mechanism that mediates the interaction between Lactobacilli and Enterococci. This plasmid is widespread across ecosystems, including the rumen and human gut microbiota. Biochemical characterization of the plasmid revealed a defence mechanism against reuterin, a toxin produced by various gut microbes, such as Limosilactobacillus reuteri. Using a targeted metabolomic approach, we find reuterin to be prevalent across rumen ecosystems with impacts on microbial community structure. Enterococcus strains carrying the protective plasmid were isolated and their interactions with L. reuteri, the toxin producer, were studied in vitro. Interestingly, we found that by conferring resistance against reuterin, the plasmid mediates metabolic exchange between the defending and the attacking microbial species, resulting in a beneficial relationship or mutualism. Hence, we reveal here an ecological role for a plasmid-coded defence system in mediating a beneficial interaction.
-
-[Source](https://doi.org/10.1038/s41564-023-01521-9)
-
-10.1038/s41564-023-01521-9
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Oral microbiome-driven virulence factors: A novel approach to pancreatic cancer diagnosis
+## @JenWargoMD
 
-[Source](https://doi.org/10.17305/bb.2023.9934)
-
----
-
-## The Gut Microbiome: A Primer for the Clinician
-
-[Source](https://doi.org/10.14309/ajg.0000000000002583)
+[Source](https://twitter.com/JenWargoMD?ref_src=twsrc%5Etfw)
 
 ---
 
-## Exploring the role of gut microbiota in migraine risk: a two-sample Mendelian randomization study
+## @NikolayOskolkov
 
-[Source](https://doi.org/10.1080/00365521.2023.2298370)
-
----
-
-## High-Throughput Combined Analysis of Saliva Microbiota and Metabolomic Profile in Chinese Periodontitis Patients: A Pilot Study
-
-[Source](https://doi.org/10.1007/s10753-023-01948-6)
+[Source](https://twitter.com/NikolayOskolkov?ref_src=twsrc%5Etfw)
 
 ---
 
-## Microbiome preterm birth DREAM challenge: Crowdsourcing machine learning approaches to advance preterm birth research
+## @SondraTurjeman
 
-[Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00567-0)
-
----
-
-## Impact of dietary inflammatory index on gingival health
-
-[Source](https://doi.org/10.1002/JPER.23-0292)
+[Source](https://twitter.com/SondraTurjeman?ref_src=twsrc%5Etfw)
 
 ---
 
-## Air particulate pollution exposure associated with impaired cognition via microbiota gut-brain axis: an evidence from rural elderly female in northwest China
+## @MireiaVallesc
 
-[Source](https://doi.org/10.1007/s11356-023-31504-6)
-
----
-
-## Metabolic flux and catabolic kinetics of prebiotic-like dietary polyphenol phlorizin in association with gut microbiota in vitro
-
-[Source](https://doi.org/10.1016/j.foodchem.2023.138240)
+[Source](https://twitter.com/MireiaVallesc?ref_src=twsrc%5Etfw)
 
 ---
 
-## Genital tract microbiota composition profiles and use of prebiotics and probiotics in gynaecological cancer prevention: review of the current evidence, the European Society of Gynaecological Oncology prevention committee statement
+## https://t.co/5lRK9Mj8hN
 
-[Source](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(23)00257-4/fulltext)
-
----
-
-## Wound Microbiota and Its Impact on Wound Healing
-
-[Source](https://doi.org/10.3390/ijms242417318)
+[Source](https://t.co/5lRK9Mj8hN)
 
 ---
 
-## Microbial collaborations and conflicts: unraveling interactions in the gut ecosystem
+## https://t.co/EAD6ZZoxTC
 
-[Source](https://doi.org/10.1080/19490976.2023.2296603)
-
----
-
-## Gut microbiome responds to alteration in female sex hormone status and exacerbates metabolic dysfunction.
- 04.01.2024, _TL Cross, AMR Simpson, CY Lin, NM Hottmann, AP Bhatt, SJ Pellock, ER Nelson, BR Loman, MA Wallig, EI Vivas, J Suchodolski, MR Redinbo, FE Rey, KS Swanson_
-
-
-_Humans, Female, Mice, Animals, Gastrointestinal Microbiome, Obesity, Liver, Diet, High-Fat, Inflammation, Gonadal Steroid Hormones, Mice, Inbred C57BL_
-Women are at significantly greater risk of metabolic dysfunction after menopause, which subsequently leads to numerous chronic illnesses. The gut microbiome is associated with obesity and metabolic dysfunction, but its interaction with female sex hormone status and the resulting impact on host metabolism remains unclear. Herein, we characterized inflammatory and metabolic phenotypes as well as the gut microbiome associated with ovariectomy and high-fat diet feeding, compared to gonadal intact and low-fat diet controls. We then performed fecal microbiota transplantation (FMT) using gnotobiotic mice to identify the impact of ovariectomy-associated gut microbiome on inflammatory and metabolic outcomes. We demonstrated that ovariectomy led to greater gastrointestinal permeability and inflammation of the gut and metabolic organs, and that a high-fat diet exacerbated these phenotypes. Ovariectomy also led to alteration of the gut microbiome, including greater fecal β-glucuronidase activity. However, differential changes in the gut microbiome only occurred when fed a low-fat diet, not the high-fat diet. Gnotobiotic mice that received the gut microbiome from ovariectomized mice fed the low-fat diet had greater weight gain and hepatic gene expression related to metabolic dysfunction and inflammation than those that received intact sham control-associated microbiome. These results indicate that the gut microbiome responds to alterations in female sex hormone status and contributes to metabolic dysfunction. Identifying and developing gut microbiome-targeted modulators to regulate sex hormones may be useful therapeutically in remediating menopause-related diseases.
-
-[Source](https://doi.org/10.1080/19490976.2023.2295429)
-
-10.1080/19490976.2023.2295429
+[Source](https://t.co/EAD6ZZoxTC)
 
 ---
 
-## Oral fecal transplantation enriches Lachnospiraceae and butyrate to mitigate acute liver injury
+## pic.twitter.com/3c240LsCsC
 
-[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01603-0)
-
----
-
-## Impact of various high fat diets on gene expression and the microbiome across the mouse intestines.
- 02.01.2024, _J Martinez-Lomeli, P Deol, JR Deans, T Jiang, P Ruegger, J Borneman, FM Sladek_
-
-
-_Animals, Mice, Diet, High-Fat, Soybean Oil, Dietary Fats, Microbiota, Fatty Acids, Ileum, Gene Expression, Colonic Neoplasms, Inflammatory Bowel Diseases_
-High fat diets (HFDs) have been linked to several diseases including obesity, diabetes, fatty liver, inflammatory bowel disease (IBD) and colon cancer. In this study, we examined the impact on intestinal gene expression of three isocaloric HFDs that differed only in their fatty acid composition-coconut oil (saturated fats), conventional soybean oil (polyunsaturated fats) and a genetically modified soybean oil (monounsaturated fats). Four functionally distinct segments of the mouse intestinal tract were analyzed using RNA-seq-duodenum, jejunum, terminal ileum and proximal colon. We found considerable dysregulation of genes in multiple tissues with the different diets, including those encoding nuclear receptors and genes involved in xenobiotic and drug metabolism, epithelial barrier function, IBD and colon cancer as well as genes associated with the microbiome and COVID-19. Network analysis shows that genes involved in metabolism tend to be upregulated by the HFDs while genes related to the immune system are downregulated; neurotransmitter signaling was also dysregulated by the HFDs. Genomic sequencing also revealed a microbiome altered by the HFDs. This study highlights the potential impact of different HFDs on gut health with implications for the organism as a whole and will serve as a reference for gene expression along the length of the intestines.
-
-[Source](https://doi.org/10.1038/s41598-023-49555-7)
-
-10.1038/s41598-023-49555-7
+[Source](https://t.co/3c240LsCsC)
 
 ---
 
-## Characteristics of gut microbiota in captive Asian elephants (<em>Elephas maximus</em>) from infant to elderly
+## THE EFFECT OF IN-BED LEG CYCLING EXERCISES ON MUSCLE STRENGTH IN PATIENTS WITH INTENSIVE CARE UNIT-ACQUIRED WEAKNESS: A SINGLE-CENTER RETROSPECTIVE STUDY.
+ 08.01.2024, _A Shinohara, H Kagaya, H Komura, Y Ozaki, T Teranishi, T Nakamura, O Nishida, Y Otaka_
 
-[Source](https://doi.org/10.1038/s41598-023-50429-1)
 
----
+To examine the effect of in-bed leg cycling exercise on patients with intensive care unit-acquired weakness (ICU-AW).
 
-## Honeybee symbiont <em>Bombella apis</em> could restore larval-to-pupal transition disrupted by antibiotic treatment
+[Source](https://twitter.com/MicrobiomeVIF/status/1737811126937645489?ref_src=twsrc%5Etfw)
 
-[Source](https://doi.org/10.1016/j.jinsphys.2023.104601)
-
----
-
-## Toll receptor ligand Spätzle 4 responses to the highly pathogenic <em>Enterococcus faecalis</em> from Varroa mites in honeybees
-
-[Source](https://doi.org/10.1371/journal.ppat.1011897)
+10.2340/jrmcc.v6.18434
 
 ---
 
-## Unveiling the significance of rhizosphere: Implications for plant growth, stress response, and sustainable agriculture
+## December 21, 2023
 
-[Source](https://doi.org/10.1016/j.plaphy.2023.108290)
-
----
-
-## Connecting molecular biomarkers, mineralogical composition, and microbial diversity from Mars analog lava tubes
-
-[Source](https://doi.org/10.1016/j.scitotenv.2023.169583)
+[Source](https://twitter.com/MicrobiomeVIF/status/1737811126937645489?ref_src=twsrc%5Etfw)
 
 ---
 
-## The undiscovered biosynthetic potential of the Greenland Ice Sheet microbiome
+## Vaginal <em>Lactobacillus </em>fatty acid response mechanisms reveal a novel strategy for bacterial vaginosis treatment
 
-[Source](https://doi.org/10.3389/fmicb.2023.1285791)
-
----
-
-## A global review on the abundance and threats of microplastics in soils to terrestrial ecosystem and human health.
- 30.12.2023, _W Shi, N Wu, Z Zhang, Y Liu, J Chen, J Li_
-
-
-Soil is the source and sink of microplastics (MPs), which is more polluted than water and air. In this paper, the pollution levels of MPs in the agriculture, roadside, urban and landfill soils were reviewed, and the influence of MPs on soil ecosystem, including soil properties, microorganisms, animals and plants, was discussed. According to the results of in vivo and in vitro experiments, the possible risks of MPs to soil ecosystem and human health were predicted. Finally, in light of the current status of MPs research, several prospects are provided for future research directions to better evaluate the ecological risk and human health risk of MPs. MPs concentrations in global agricultural soils, roadside soils, urban soils and landfill soils had a great variance in different studies and locations. The participation of MPs has an impact on all aspects of terrestrial ecosystems. For soil properties, pH value, bulk density, pore space and evapotranspiration can be changed by MPs. For microorganisms, MPs can alter the diversity and abundance of microbiome, and different MPs have different effects on bacteria and fungi differently. For plants, MPs may interfere with their biochemical and physiological conditions and produce a wide range of toxic effects, such as inhibiting plant growth, delaying or reducing seed germination, reducing biological and fruit yield, and interfering with photosynthesis. For soil animals, MPs can affect their mobility, growth rate and reproductive capacity. At present epidemiological evidences regarding MPs exposure and negative human health effects are unavailable, but in vitro and in vivo data suggest that they pose various threats to human health, including respiratory system, digestive system, urinary system, endocrine system, nervous system, and circulation system. In conclusion, the existence and danger of MPs cannot be ignored and requires a global effort.
-
-[Source](https://doi.org/10.1016/j.scitotenv.2023.169469)
-
-10.1016/j.scitotenv.2023.169469
+[Source](https://www.biorxiv.org/content/10.1101/2023.12.30.573720v1)
 
 ---
 
-## VIBES: A consensus subtyping of the vaginal microbiota reveals novel classification criteria.
- 25.12.2023, _D Fernández-Edreira, J Liñares-Blanco, P V-Del-Río, C Fernandez-Lozano_
+## Effect of Laser and Energy-based Device Therapies to Minimize Surgical Scar Formation: A Systematic Review and Network Meta-analysis.
+ 08.01.2024, _S Yenyuwadee, P Achavanuntakul, P Phisalprapa, M Levin, S Saokaew, S Kanchanasurakit, W Manuskiatti_
 
 
-This study aimed to develop a robust classification scheme for stratifying patients based on vaginal microbiome. By employing consensus clustering analysis, we identified four distinct clusters using a cohort that includes individuals diagnosed with Bacterial Vaginosis (BV) as well as control participants, each characterized by unique patterns of microbiome species abundances. Notably, the consistent distribution of these clusters was observed across multiple external cohorts, such as SRA022855, SRA051298, PRJNA208535, PRJNA797778, and PRJNA302078 obtained from public repositories, demonstrating the generalizability of our findings. We further trained an elastic net model to predict these clusters, and its performance was evaluated in various external cohorts. Moreover, we developed VIBES, a user-friendly R package that encapsulates the model for convenient implementation and enables easy predictions on new data. Remarkably, we explored the applicability of this new classification scheme in providing valuable insights into disease progression, treatment response, and potential clinical outcomes in BV patients. Specifically, we demonstrated that the combined output of VIBES and VALENCIA scores could effectively predict the response to metronidazole antibiotic treatment in BV patients. Therefore, this study's outcomes contribute to our understanding of BV heterogeneity and lay the groundwork for personalized approaches to BV management and treatment selection.
+Utilization of lasers and energy-based devices for surgical scar minimization has been substantially evaluated in placebo-controlled trials. The aim of this study was to compare reported measures of efficacy of lasers and energy-based devices in clinical trials in preventing surgical scar formation in a systematic review and network meta-analyses. Five electronic databases, PubMed, Scopus, Embase, ClinicalTrials.gov, and the Cochrane Library, were searched to retrieve relevant articles. The search was limited to randomized controlled trials that reported on clinical outcomes of surgical scars with treatment initiation no later than 6 months after surgery and a follow-up period of at least 3 months. A total of 18 randomized controlled trials involving 482 participants and 671 postsurgical wounds were included in the network meta-analyses. The results showed that the most efficacious treatments were achieved using low-level laser therapy) (weighted mean difference -3.78; 95% confidence interval (95% CI) -6.32, -1.24) and pulsed dye laser (weighted mean difference -2.46; 95% CI -4.53, -0.38). Nevertheless, low-level laser therapy and pulsed dye laser demonstrated comparable outcomes in surgical scar minimization (weighted mean difference -1.32, 95% CI -3.53, 0.89). The findings of this network meta-analyses suggest that low-level laser therapy and pulsed dye laser are both effective treatments for minimization of scar formation following primary closure of surgical wounds with comparable treatment outcomes.
 
-[Source](https://www.csbj.org/article/S2001-0370(23)00465-8/fulltext)
+[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.csbj.2023.11.050
-
----
-
-## GENERALIZED MATRIX DECOMPOSITION REGRESSION: ESTIMATION AND INFERENCE FOR TWO-WAY STRUCTURED DATA.
- 28.12.2023, _Y Wang, A Shojaie, T Randolph, P Knight, J Ma_
-
-
-Motivated by emerging applications in ecology, microbiology, and neuroscience, this paper studies high-dimensional regression with two-way structured data. To estimate the high-dimensional coefficient vector, we propose the generalized matrix decomposition regression (GMDR) to efficiently leverage auxiliary information on row and column structures. GMDR extends the principal component regression (PCR) to two-way structured data, but unlike PCR, GMDR selects the components that are most predictive of the outcome, leading to more accurate prediction. For inference on regression coefficients of individual variables, we propose the generalized matrix decomposition inference (GMDI), a general high-dimensional inferential framework for a large family of estimators that include the proposed GMDR estimator. GMDI provides more flexibility for incorporating relevant auxiliary row and column structures. As a result, GMDI does not require the true regression coefficients to be sparse, but constrains the coordinate system representing the regression coefficients according to the column structure. GMDI also allows dependent and heteroscedastic observations. We study the theoretical properties of GMDI in terms of both the type-I error rate and power and demonstrate the effectiveness of GMDR and GMDI in simulation studies and an application to human microbiome data.
-
-[Source](https://doi.org/10.1214/23-aoas1746)
-
-10.1214/23-aoas1746
+10.2340/actadv.v104.18477
 
 ---
 
-## Generalized matrix decomposition regression: estimation and inference for two-way structured data
+## #microbiome
 
-[Source](https://doi.org/10.1214/23-aoas1746)
-
----
-
-## Single-cell and spatiotemporal transcriptomic analyses reveal the effects of microorganisms on immunity and metabolism in the mouse liver.
- 29.12.2023, _R Zhao, W Cheng, J Shen, W Liang, Z Zhang, Y Sheng, T Chai, X Chen, Y Zhang, X Huang, H Yang, C Song, L Pang, C Nan, Y Zhang, R Chen, J Mei, H Wei, X Fang_
-
-
-The gut-liver axis is a complex bidirectional communication pathway between the intestine and the liver in which microorganisms and their metabolites flow from the intestine through the portal vein to the liver and influence liver function. In a sterile environment, the phenotype or function of the liver is altered, but few studies have investigated the specific cellular and molecular effects of microorganisms on the liver. To this end, we constructed single-cell and spatial transcriptomic (ST) profiles of germ-free (GF) and specific-pathogen-free (SPF) mouse livers. Single-cell RNA sequencing (scRNA-seq) and single-nucleus RNA sequencing (snRNA-seq) revealed that the ratio of most immune cells was altered in the liver of GF mice; in particular, natural killer T (NKT) cells, IgA plasma cells (IgAs) and Kupffer cells (KCs) were significantly reduced in GF mice. Spatial enhanced resolution omics sequencing (Stereo-seq) confirmed that microorganisms mediated the accumulation of Kupffer cells in the periportal zone. Unexpectedly, IgA plasma cells were more numerous and concentrated in the periportal vein in liver sections from SPF mice but less numerous and scattered in GF mice. ST technology also enables the precise zonation of liver lobules into eight layers and three patterns based on the gene expression level in each layer, allowing us to further investigate the effects of microbes on gene zonation patterns and functions. Furthermore, untargeted metabolism experiments of the liver revealed that the propionic acid levels were significantly lower in GF mice, and this reduction may be related to the control of genes involved in bile acid and fatty acid metabolism. In conclusion, the combination of sc/snRNA-seq, Stereo-seq, and untargeted metabolomics revealed immune system defects as well as altered bile acid and lipid metabolic processes at the single-cell and spatial levels in the livers of GF mice. This study will be of great value for understanding host-microbiota interactions.
-
-[Source](https://doi.org/10.1016/j.csbj.2023.06.020)
-
-10.1016/j.csbj.2023.06.020
+[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## PETR: A novel peristaltic mixed tubular bioreactor simulating human colonic conditions
-
-[Source](https://doi.org/10.1002/bit.28636)
-
----
-
-## Mock microbial community meta-analysis using different trimming of amplicon read lengths.
- 27.12.2023, _D Haider, MW Hall, J LaRoche, RG Beiko_
+## Canagliflozin attenuates kidney injury, gut-derived toxins, and gut microbiota imbalance in high-salt diet-fed Dahl salt-sensitive rats.
+ 08.01.2024, _L He, Q Zuo, S Ma, G Zhang, Z Wang, T Zhang, J Zhai, Y Guo_
 
 
-Trimming of sequencing reads is a pre-processing step that aims to discard sequence segments such as primers, adapters and low quality nucleotides that will interfere with clustering and classification steps. We evaluated the impact of trimming length of paired-end 16S and 18S rRNA amplicon reads on the ability to reconstruct the taxonomic composition and relative abundances of communities with a known composition in both even and uneven proportions. We found that maximizing read retention maximizes recall but reduces precision by increasing false positives. The presence of expected taxa was accurately predicted across broad trim length ranges but recovering original relative proportions remains a difficult challenge. We show that parameters that maximize taxonomic recovery do not simultaneously maximize relative abundance accuracy. Trim length represents one of several experimental parameters that have non-uniform impact across microbial clades, making it a difficult parameter to optimize. This study offers insights, guidelines, and helps researchers assess the significance of their decisions when trimming raw reads in a microbiome analysis based on overlapping or non-overlapping paired-end amplicons.
+To investigate the effects of canagliflozin (20 mg/kg) on Dahl salt-sensitive (DSS) rat gut microbiota and salt-sensitive hypertension-induced kidney injury and further explore its possible mechanism.
 
-[Source](https://doi.org/10.1111/1462-2920.16566)
+[Source](https://twitter.com/hashtag/Lactobacillus?src=hash&ref_src=twsrc%5Etfw)
 
-10.1111/1462-2920.16566
+10.1080/0886022X.2023.2300314
 
 ---
 
-## In Vitro Models for Investigating Intestinal Host-Pathogen Interactions
+## #Lactobacillus
 
-[Source](https://doi.org/10.1002/advs.202306727)
+[Source](https://twitter.com/hashtag/Lactobacillus?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Characteristics and hormonal contraception use patterns of levonorgestrel 13.5 mg intrauterine device users in Sweden 2014-2016.
+ 16.10.2023, _M Linder, J Schoendorf, F Pisa, R Schulze-Rath, CE Cesta_
+
+
+The levonorgestrel-releasing intrauterine device containing 13.5 mg of levonorgestrel (LNG 13.5 mg IUD), Jaydess®, was approved for contraception by the European Medicines Agency in 2013. We aimed to describe the characteristics of new users of LNG 13.5 mg IUD in Sweden within the first 3 years after approval (2014-2016).
+
+[Source](https://twitter.com/hashtag/WomensHealth?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.contraception.2023.110309
+
+---
+
+## #WomensHealth
+
+[Source](https://twitter.com/hashtag/WomensHealth?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/8Rx5qpeXtz
+
+[Source](https://t.co/8Rx5qpeXtz)
+
+---
+
+## Successful multidisciplinary team management of placenta accreta spectrum disorder: A referral center model in a middle-income country.
+ 08.01.2024, _K Muadtongon, A Rattanaburi, T Ajimakul, Y Suphasynth, I Jiamset, K Nantamongkolkul, T Suntharasaj, C Suwanrath, N Pruksanusak, C Petpichetchian, M Suksai, N Chainarong, R Sawaddisan, S Pranpanus_
+
+
+The aim of the study was to evaluate the outcomes of placenta accreta spectrum (PAS) disorder managed by a multidisciplinary care team (MCT) compared with a conventional care team (CCT) in a PAS referral center in Thailand.
+
+[Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
+
+10.1002/ijgo.15339
+
+---
+
+## January 3, 2024
+
+[Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
+
+---
+
+## BilR is a gut microbial enzyme that reduces bilirubin to urobilinogen.
+ 08.01.2024, _B Hall, S Levy, K Dufault-Thompson, G Arp, A Zhong, GM Ndjite, A Weiss, D Braccia, C Jenkins, MR Grant, S Abeysinghe, Y Yang, MD Jermain, CH Wu, B Ma, X Jiang_
+
+
+_Infant, Newborn, Adult, Humans, Bilirubin, Urobilinogen, Gastrointestinal Microbiome, Liver, Bacteria_
+Metabolism of haem by-products such as bilirubin by humans and their gut microbiota is essential to human health, as excess serum bilirubin can cause jaundice and even neurological damage. The bacterial enzymes that reduce bilirubin to urobilinogen, a key step in this pathway, have remained unidentified. Here we used biochemical analyses and comparative genomics to identify BilR as a gut-microbiota-derived bilirubin reductase that reduces bilirubin to urobilinogen. We delineated the BilR sequences from similar reductases through the identification of key residues critical for bilirubin reduction and found that BilR is predominantly encoded by Firmicutes species. Analysis of human gut metagenomes revealed that BilR is nearly ubiquitous in healthy adults, but prevalence is decreased in neonates and individuals with inflammatory bowel disease. This discovery sheds light on the role of the gut microbiome in bilirubin metabolism and highlights the significance of the gut-liver axis in maintaining bilirubin homeostasis.
+
+[Source](https://www.nature.com/articles/s41564-023-01549-x)
+
+10.1038/s41564-023-01549-x
+
+---
+
+## Influence of feeding practices in the composition and functionality of infant gut microbiota and its relationship with health.
+ 06.01.2024, _M Martínez-Martínez, M Martínez-Martínez, R Soria-Guerra, S Gamiño-Gutiérrez, C Senés-Guerrero, A Santacruz, R Flores-Ramírez, A Salazar-Martínez, D Portales-Pérez, H Bach, F Martínez-Gutiérrez_
+
+
+_Infant, Newborn, Infant, Female, Child, Humans, Gastrointestinal Microbiome, Cross-Sectional Studies, Volatile Organic Compounds, Breast Feeding, Immunoglobulin A, Infant Formula_
+Establishing the infant's gut microbiota has long-term implications on health and immunity. Breastfeeding is recognized as the best practice of infant nutrition in comparison with formula feeding. We evaluated the effects of the primary feeding practices by analyzing the infant growth and the potential association with gut diseases. A cross-sectional and observational study was designed. This study included 55 mothers with infants, who were divided according to their feeding practices in breastfeeding (BF), formula feeding (FF), and combined breast and formula feeding (CF). Anthropometric measurements of the participants were recorded. Additionally, non-invasive fecal samples from the infants were collected to analyze the microbiota by sequencing, immunoglobulin A (IgA) concentration (ELISA), and volatile organic compounds (gas chromatography with an electronic nose). Results showed that the microbiota diversity in the BF group was the highest compared to the other two groups. The IgA levels in the BF group were twice as high as those in the FF group. Moreover, the child´s growth in the BF group showed the best infant development when the data were compared at birth to the recollection time, as noted by the correlation with a decreased concentration of toxic volatile organic compounds. Interestingly, the CF group showed a significant difference in health status when the data were compared with the FF group. We conclude that early health practices influence children's growth, which is relevant to further research about how those infants' health evolved.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294494)
+
+10.1371/journal.pone.0294494
+
+---
+
+## Mucin-degrading gut bacteria promote anti-parasitic immunity
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.02.28.482289v2)
+
+---
+
+## Host genetic regulation of human gut microbial structural variation 
+
+[Source](https://www.nature.com/articles/s41586-023-06893-w)
+
+---
+
+## Deciphering the gut microbiome of grass carp through multi-omics approach.
+ 06.01.2024, _M Li, H Liang, H Yang, Q Ding, R Xia, J Chen, W Zhou, Y Yang, Z Zhang, Y Yao, C Ran, Z Zhou_
+
+
+_Animals, Gastrointestinal Microbiome, Carps, Multiomics, Microbiota, Proteobacteria, Fusobacteria, Bacteroidetes, Firmicutes, Fusobacterium, RNA, Ribosomal, 16S, Mammals_
+Aquaculture plays an important role in global protein supplies and food security. The ban on antibiotics as feed additive proposes urgent need to develop alternatives. Gut microbiota plays important roles in the metabolism and immunity of fish and has the potential to give rise to novel solutions for challenges confronted by fish culture. However, our understanding of fish gut microbiome is still lacking.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01715-7)
+
+10.1186/s40168-023-01715-7
+
+---
+
+## Spotting disease disrupts the microbiome of infected purple sea urchins, <em>Strongylocentrotus purpuratus</em>
+
+[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-023-03161-9)
+
+---
+
+## <em>Desulfovibrio vulgaris </em>interacts with novel gut epithelial immune receptor LRRC19 and exacerbates colitis 
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01722-8)
+
+---
+
+## Individualized microbiotas dictate the impact of dietary fiber on colitis sensitivity.
+ 08.01.2024, _E Bonazzi, A Bretin, L Vigué, F Hao, AD Patterson, AT Gewirtz, B Chassaing_
+
+
+_Humans, Mice, Animals, Psyllium, Inulin, Colitis, Dietary Fiber, Gastrointestinal Microbiome, Inflammatory Bowel Diseases_
+The observation that the intestinal microbiota is central in the development of IBD suggests that dietary fiber, the microbiota's primary source of nourishment, could play a central role in these diseases. Accordingly, enriching diets with specific soluble fibers remodels microbiota and modulates colitis sensitivity. In humans, a recent study suggests that the microbiota of select IBD patients might influence the impacts they would experience upon fiber exposure. We sought here to define the extent to which individual microbiotas varied in their responsiveness to purified soluble fiber inulin and psyllium. Moreover, the extent to which such variance might impact proneness to colitis.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01724-6)
+
+10.1186/s40168-023-01724-6
+
+---
+
+## A consortia of clinical<em> E. coli</em> strains with distinct in vitro adherent/invasive properties establish their own co-colonization niche and shape the intestinal microbiota in inflammation-susceptible mice
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01710-y)
+
+---
+
+## A unified compendium of prokaryotic and viral genomes from over 300 anaerobic digestion microbiomes.
+ 05.01.2024, _VB Centurion, A Rossi, E Orellana, G Ghiotto, B Kakuk, MS Morlino, A Basile, G Zampieri, L Treu, S Campanaro_
+
+
+The anaerobic digestion process degrades organic matter into simpler compounds and occurs in strictly anaerobic and microaerophilic environments. The process is carried out by a diverse community of microorganisms where each species has a unique role and it has relevant biotechnological applications since it is used for biogas production. Some aspects of the microbiome, including its interaction with phages, remains still unclear: a better comprehension of the community composition and role of each species is crucial for a cured understanding of the carbon cycle in anaerobic systems and improving biogas production.
+
+[Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-023-00545-2)
+
+10.1186/s40793-023-00545-2
+
+---
+
+## Effects of blackcurrant extract on indole and ammonia productions in an in vitro human fecal culture model.
+ 08.01.2024, _N Ishiguro, T Hayashi, M Okayama, T Yamaguchi, M Kohno, H Kawakami, T Mitsunaga, K Nakamura, M Inagaki_
+
+
+Blackcurrant is available as a traditional medicine in Europe. However, the detailed effects of blackcurrant on the human gut microbiota remain unknown. In this study, we investigated the prebiotic effects of a blackcurrant extract using a human fecal culture model in six healthy subjects. Feces were individually inoculated into a medium with or without the blackcurrant extract and then fermented for 48 hr under anaerobic conditions. The results obtained from analysis of samples from the fermented medium demonstrated that after 48 hr of fermentation, the pH of the medium with the blackcurrant extract was significantly decreased (control, 6.62 ± 0.20; blackcurrant extract, 6.41 ± 0.33; p=0.0312). A 16S rRNA gene sequencing analysis of the microbiota of the fermented medium showed a significant increase in the relative abundance of Bifidobacteriaceae. In measuring the concentrations of putrefactive components in the fermented medium, we found that the blackcurrant extract significantly reduced ammonia levels and displayed a tendency toward reduced indole levels. Our results suggest that blackcurrant extract could be a potential ingredient for relief of putrefactive components in the gut.
+
+[Source](https://twitter.com/hashtag/anaerobic?src=hash&ref_src=twsrc%5Etfw)
+
+10.12938/bmfh.2022-094
+
+---
+
+## #anaerobic
+
+[Source](https://twitter.com/hashtag/anaerobic?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Rice gluten meal as a substitute for soybean meal in the diets for growing rabbits.
+ 08.01.2024, _FA Hassan, RA Alhotan, YA Attia, KM Mahrose, HF Amin, IH Salim, LF Abdel-Mawla, F Bovera, AM Mansour, I Michalak_
+
+
+The impacts of different dietary levels of rice gluten meal (RGM) on growth performance, digestibility, carcass characteristics, and blood traits of growing New Zealand White (NZW) rabbits were studied. One hundred and twenty, 6 weeks old weaned male rabbits (body weight; 682 [g] ± 23) were randomly allotted into four groups. The control diet contained 160 [g/kg] soybean meal (SBM), while the other three diets were obtained by replacing 40, 80, and 120 [g/kg] SBM with RGM (RGM40, RGM80, and RGM120, respectively). The results showed that RGM contained higher levels of dry matter (DM), crude protein (CP), ether extract (EE), ash, and gross energy than SBM. RGM contained a high level of arginine followed by leucine and valine as essential amino acids and high levels of glutamic, aspartic acid, and alanine as non-essential amino acids. The obtained results showed that the final body weight of rabbits fed diets containing 40, 80, and 120 [g/kg] RGM was higher than those fed the control diet. The daily weight gain of rabbits fed RGM diets increased (p &lt; 0.05) by 10.50%, 6.50%, and 10.00%, respectively, compared to the control group. Rabbits fed RGM80 showed the highest (p &lt; 0.05) digestibility of DM, organic matter (OM), EE, neutral detergent fibre (NDF), and acid detergent fibre (ADF) compared to the other tested levels. Rabbits fed RGM120 had the highest (p &lt; 0.05) digestible energy (DE) and digestible crude protein (DCP) values. RGM inclusion levels of 40 and 80 [g/kg] increased (p &lt; 0.05) plasma total protein and albumin compared to the control group. Rabbits fed a diet containing RGM40 had the highest (p &lt; 0.05) globulin level. The highest (p &lt; 0.05) plasma urea concentration level was measured in the rabbit group fed the RGM120 diet. Conclusively, RGM could be a valuable ingredient for growing rabbits, as at all the tested levels improved growth performance, digestibility, and nutritional values.
+
+[Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
+
+10.1080/1745039X.2023.2284529
+
+---
+
+## #digestion
+
+[Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Effect of Laser and Energy-based Device Therapies to Minimize Surgical Scar Formation: A Systematic Review and Network Meta-analysis.
+ 08.01.2024, _S Yenyuwadee, P Achavanuntakul, P Phisalprapa, M Levin, S Saokaew, S Kanchanasurakit, W Manuskiatti_
+
+
+Utilization of lasers and energy-based devices for surgical scar minimization has been substantially evaluated in placebo-controlled trials. The aim of this study was to compare reported measures of efficacy of lasers and energy-based devices in clinical trials in preventing surgical scar formation in a systematic review and network meta-analyses. Five electronic databases, PubMed, Scopus, Embase, ClinicalTrials.gov, and the Cochrane Library, were searched to retrieve relevant articles. The search was limited to randomized controlled trials that reported on clinical outcomes of surgical scars with treatment initiation no later than 6 months after surgery and a follow-up period of at least 3 months. A total of 18 randomized controlled trials involving 482 participants and 671 postsurgical wounds were included in the network meta-analyses. The results showed that the most efficacious treatments were achieved using low-level laser therapy) (weighted mean difference -3.78; 95% confidence interval (95% CI) -6.32, -1.24) and pulsed dye laser (weighted mean difference -2.46; 95% CI -4.53, -0.38). Nevertheless, low-level laser therapy and pulsed dye laser demonstrated comparable outcomes in surgical scar minimization (weighted mean difference -1.32, 95% CI -3.53, 0.89). The findings of this network meta-analyses suggest that low-level laser therapy and pulsed dye laser are both effective treatments for minimization of scar formation following primary closure of surgical wounds with comparable treatment outcomes.
+
+[Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
+
+10.2340/actadv.v104.18477
+
+---
+
+## #microbiomes
+
+[Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/GhTcYWnDnf
+
+[Source](https://t.co/GhTcYWnDnf)
+
+---
+
+## Effect of Laser and Energy-based Device Therapies to Minimize Surgical Scar Formation: A Systematic Review and Network Meta-analysis.
+ 08.01.2024, _S Yenyuwadee, P Achavanuntakul, P Phisalprapa, M Levin, S Saokaew, S Kanchanasurakit, W Manuskiatti_
+
+
+Utilization of lasers and energy-based devices for surgical scar minimization has been substantially evaluated in placebo-controlled trials. The aim of this study was to compare reported measures of efficacy of lasers and energy-based devices in clinical trials in preventing surgical scar formation in a systematic review and network meta-analyses. Five electronic databases, PubMed, Scopus, Embase, ClinicalTrials.gov, and the Cochrane Library, were searched to retrieve relevant articles. The search was limited to randomized controlled trials that reported on clinical outcomes of surgical scars with treatment initiation no later than 6 months after surgery and a follow-up period of at least 3 months. A total of 18 randomized controlled trials involving 482 participants and 671 postsurgical wounds were included in the network meta-analyses. The results showed that the most efficacious treatments were achieved using low-level laser therapy) (weighted mean difference -3.78; 95% confidence interval (95% CI) -6.32, -1.24) and pulsed dye laser (weighted mean difference -2.46; 95% CI -4.53, -0.38). Nevertheless, low-level laser therapy and pulsed dye laser demonstrated comparable outcomes in surgical scar minimization (weighted mean difference -1.32, 95% CI -3.53, 0.89). The findings of this network meta-analyses suggest that low-level laser therapy and pulsed dye laser are both effective treatments for minimization of scar formation following primary closure of surgical wounds with comparable treatment outcomes.
+
+[Source](https://twitter.com/hashtag/Microbiome?src=hash&ref_src=twsrc%5Etfw)
+
+10.2340/actadv.v104.18477
+
+---
+
+## #Microbiome
+
+[Source](https://twitter.com/hashtag/Microbiome?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Efficient SARS-CoV-2 infection antagonization by rhACE2 ectodomain multimerized onto the Avidin-Nucleic-Acid-NanoASsembly.
+ 03.01.2024, _S Bernardotto, I Frasson, S Faravelli, A Morelli, E Schiavon, GY Moscatiello, MB Violatto, A Pinnola, A Canciani, A Mattarei, G Rossi, M Brini, L Pasetto, V Bonetto, P Bigini, F Forneris, SN Richter, M Morpurgo_
+
+
+_Animals, Humans, Mice, COVID-19, SARS-CoV-2, Avidin, Angiotensin-Converting Enzyme 2, Nucleic Acids, Tissue Distribution, Protein Binding, Receptors, Virus, Lipids_
+Nanodecoy systems based on analogues of viral cellular receptors assembled onto fluid lipid-based membranes of nano/extravescicles are potential new tools to complement classic therapeutic or preventive antiviral approaches. The need for lipid-based membranes for transmembrane receptor anchorage may pose technical challenges along industrial translation, calling for alternative geometries for receptor multimerization. Here we developed a semisynthetic self-assembling SARS-CoV-2 nanodecoy by multimerizing the biotin labelled virus cell receptor -ACE2- ectodomain onto a poly-avidin nanoparticle (NP) based on the Avidin-Nucleic-Acid-NanoASsembly-ANANAS. The ability of the assembly to prevent SARS-CoV-2 infection in human lung cells and the affinity of the ACE2:viral receptor-binding domain (RBD) interaction were measured at different ACE2:NP ratios. At ACE2:NP = 30, 90 % SARS-CoV-2 infection inhibition at ACE2 nanomolar concentration was registered on both Wuhan and Omicron variants, with ten-fold higher potency than the monomeric protein. Lower and higher ACE2 densities were less efficient suggesting that functional recognition between multi-ligand NPs and multi-receptor virus surfaces requires optimal geometrical relationships. In vivo studies in mice showed that the biodistribution and safety profiles of the nanodecoy are potentially suitable for preventing viral infection upon nasal instillation. Viral receptor multimerization using ANANAS is a convenient process which, in principle, could be rapidly adapted to counteract also other viral infections.
+
+[Source](https://twitter.com/DiBio_UniPD?ref_src=twsrc%5Etfw)
+
+10.1016/j.biomaterials.2023.122394
+
+---
+
+## @DiBio_UniPD
+
+[Source](https://twitter.com/DiBio_UniPD?ref_src=twsrc%5Etfw)
+
+---
+
+## @LauraTreu
+
+[Source](https://twitter.com/LauraTreu?ref_src=twsrc%5Etfw)
+
+---
+
+## A unified compendium of prokaryotic and viral genomes from over 300 anaerobic digestion microbiomes.
+ 05.01.2024, _VB Centurion, A Rossi, E Orellana, G Ghiotto, B Kakuk, MS Morlino, A Basile, G Zampieri, L Treu, S Campanaro_
+
+
+The anaerobic digestion process degrades organic matter into simpler compounds and occurs in strictly anaerobic and microaerophilic environments. The process is carried out by a diverse community of microorganisms where each species has a unique role and it has relevant biotechnological applications since it is used for biogas production. Some aspects of the microbiome, including its interaction with phages, remains still unclear: a better comprehension of the community composition and role of each species is crucial for a cured understanding of the carbon cycle in anaerobic systems and improving biogas production.
+
+[Source](https://twitter.com/guido_zampieri?ref_src=twsrc%5Etfw)
+
+10.1186/s40793-023-00545-2
+
+---
+
+## @guido_zampieri
+
+[Source](https://twitter.com/guido_zampieri?ref_src=twsrc%5Etfw)
+
+---
+
+## @orellanaest
+
+[Source](https://twitter.com/orellanaest?ref_src=twsrc%5Etfw)
+
+---
+
+## @GabrieleGhiotto
+
+[Source](https://twitter.com/GabrieleGhiotto?ref_src=twsrc%5Etfw)
+
+---
+
+## pic.twitter.com/tghPIRUyvZ
+
+[Source](https://t.co/tghPIRUyvZ)
+
+---
+
+## Successful multidisciplinary team management of placenta accreta spectrum disorder: A referral center model in a middle-income country.
+ 08.01.2024, _K Muadtongon, A Rattanaburi, T Ajimakul, Y Suphasynth, I Jiamset, K Nantamongkolkul, T Suntharasaj, C Suwanrath, N Pruksanusak, C Petpichetchian, M Suksai, N Chainarong, R Sawaddisan, S Pranpanus_
+
+
+The aim of the study was to evaluate the outcomes of placenta accreta spectrum (PAS) disorder managed by a multidisciplinary care team (MCT) compared with a conventional care team (CCT) in a PAS referral center in Thailand.
+
+[Source](https://twitter.com/campanarostef/status/1742576845915070538?ref_src=twsrc%5Etfw)
+
+10.1002/ijgo.15339
+
+---
+
+## January 3, 2024
+
+[Source](https://twitter.com/campanarostef/status/1742576845915070538?ref_src=twsrc%5Etfw)
+
+---
+
+## Unraveling the interplay between root exudates, microbiota, and rhizosheath formation in pearl millet.
+ 06.01.2024, _A Alahmad, M Harir, S Fochesato, J Tulumello, A Walker, M Barakat, PMS Ndour, P Schmitt-Kopplin, L Cournac, L Laplaze, T Heulin, W Achouak_
+
+
+_Pennisetum, RNA, Ribosomal, 16S, Plant Roots, Microbiota, Soil, Plants, Exudates and Transudates, Soil Microbiology, Rhizosphere_
+The rhizosheath, a cohesive soil layer firmly adhering to plant roots, plays a vital role in facilitating water and mineral uptake. In pearl millet, rhizosheath formation is genetically controlled and influenced by root exudates. Here, we investigated the impact of root exudates on the microbiota composition, interactions, and assembly processes, and rhizosheath structure in pearl millet using four distinct lines with contrasting soil aggregation abilities.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01727-3)
+
+10.1186/s40168-023-01727-3
+
+---
+
+## mEnrich-seq: methylation-guided enrichment sequencing of bacterial taxa of interest from microbiome.
+ 04.01.2024, _L Cao, Y Kong, Y Fan, M Ni, A Tourancheau, M Ksiezarek, EA Mead, T Koo, M Gitman, XS Zhang, G Fang_
+
+
+Metagenomics has enabled the comprehensive study of microbiomes. However, many applications would benefit from a method that sequences specific bacterial taxa of interest, but not most background taxa. We developed mEnrich-seq (in which 'm' stands for methylation and seq for sequencing) for enriching taxa of interest from metagenomic DNA before sequencing. The core idea is to exploit the self versus nonself differentiation by natural bacterial DNA methylation and rationally choose methylation-sensitive restriction enzymes, individually or in combination, to deplete host and background taxa while enriching targeted taxa. This idea is integrated with library preparation procedures and applied in several applications to enrich (up to 117-fold) pathogenic or beneficial bacteria from human urine and fecal samples, including species that are hard to culture or of low abundance. We assessed 4,601 bacterial strains with mapped methylomes so far and showed broad applicability of mEnrich-seq. mEnrich-seq provides microbiome researchers with a versatile and cost-effective approach for selective sequencing of diverse taxa of interest.
+
+[Source](https://www.nature.com/articles/s41592-023-02125-1)
+
+10.1038/s41592-023-02125-1
+
+---
+
+## Host genetic determinants drive compartment-specific assembly of tea plant microbiomes.
+ 01.11.2022, _X Tan, H Xie, J Yu, Y Wang, J Xu, P Xu, B Ma_
+
+
+_Soil Microbiology, Camellia sinensis, Genome-Wide Association Study, Bacteria, Plant Roots, Microbiota, Tea_
+Diverse host factors drive microbial variation in plant-associated environments, whereas their genetic mechanisms remain largely unexplored. To address this, we coupled the analyses of plant genetics and microbiomes in this study. Using 100 tea plant (Camellia sinensis) cultivars, the microbiomes of rhizosphere, root endosphere and phyllosphere showed clear compartment-specific assembly, whereas the subpopulation differentiation of tea cultivars exhibited small effects on microbial variation in each compartment. Through microbiome genome-wide association studies, we examined the interactions between tea genetic loci and microbial variation. Notably, genes related to the cell wall and carbon catabolism were heavily linked to root endosphere microbial composition, whereas genes related to the metabolism of metal ions and small organic molecules were overrepresented in association with rhizosphere microbial composition. Moreover, a set of tea genetic variants, including the cytoskeleton-related formin homology interacting protein 1 gene, were strongly associated with the β-diversity of phyllosphere microbiomes, implying their interactions with the overall structure of microbial communities. Our results create a catalogue of tea genetic determinants interacting with microbiomes and reveal the compartment-specific microbiome assembly driven by host genetics.
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.12.27.573469v1)
+
+10.1111/pbi.13897
+
+---
+
+## A catalogue of small proteins from the global microbiome 
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.12.27.573469v1)
+
+---
+
+## https://t.co/otRNegCrYR
+
+[Source](https://t.co/otRNegCrYR)
+
+---
+
+## Outpatient cross-titration to buprenorphine for chronic pain: A retrospective analysis.
+ 08.01.2024, _S Ito, M Welsh, C Bockman, R Dale, D Pilkington, K Peperzak_
+
+
+To determine the effectiveness and safety of the University of Washington's buprenorphine cross-titration protocol for chronic pain in the outpatient setting.
+
+[Source](https://twitter.com/BigDataBiology/status/1740567854985203910?ref_src=twsrc%5Etfw)
+
+10.5055/jom.0839
+
+---
+
+## December 29, 2023
+
+[Source](https://twitter.com/BigDataBiology/status/1740567854985203910?ref_src=twsrc%5Etfw)
 
 ---
 
