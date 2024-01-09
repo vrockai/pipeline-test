@@ -71,51 +71,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Chronic stress dampens Lactobacillus johnsonii-mediated tumor suppression to enhance colorectal cancer progression.
- 08.01.2024, _Q Cao, M Zhao, Y Su, S Liu, Y Lin, H Da, C Yue, Y Liu, D Jing, Q Zhao, N Liu, J Du, Z Zuo, Y Fu, A Chen, L Birnbaumer, Y Yang, B Dai, X Gao_
-
-
-Colorectal cancer (CRC) development and outcome are impacted by modifiable risk factors, including psychological stress. The gut microbiota has also been shown to be linked to psychological factors. Here, we found a marked deteriorative effect of chronic stress in multiple CRC models, including chemically-induced (AOM/DSS), genetically engineered (APCmin/+), and xenograft tumor mouse models. RNA-seq data from colon tissues revealed that expression of stemness-related genes was upregulated in the stressed CRC group by activated β-catenin signaling, which was further confirmed by results from ex vivo organoid analyses as well as in vitro and in vivo cell tumorigenicity assays. 16S rRNA sequencing of the gut microbiota showed that chronic stress disrupted gut microbes, and antibiotic treatment and fecal microbiota transplantation abolished the stimulatory effects of chronic stress on CRC progression. Stressed CRC mice displayed a significant decrease in Lactobacillus johnsonii (L. johnsonii) abundance, which was inversely correlated with tumor load. Moreover, protocatechuic acid (PCA) was identified as a beneficial metabolite produced by L. johnsonii based on metabolome sequencing and LC‒MS/MS analysis. Replenishment of L. johnsonii or PCA blocked chronic stress-induced CRC progression by decreasing β-catenin expression. Furthermore, PCA activated the cGMP pathway, and the cGMP agonist sildenafil abolished the effects of chronic stress on CRC. Altogether, these data identify that stress impacts the gut microbiome to support CRC progression.
-
-[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
-
-10.1158/0008-5472.CAN-22-3705
-
----
-
 ## #microbiome
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Chronic stress dampens Lactobacillus johnsonii-mediated tumor suppression to enhance colorectal cancer progression.
- 08.01.2024, _Q Cao, M Zhao, Y Su, S Liu, Y Lin, H Da, C Yue, Y Liu, D Jing, Q Zhao, N Liu, J Du, Z Zuo, Y Fu, A Chen, L Birnbaumer, Y Yang, B Dai, X Gao_
-
-
-Colorectal cancer (CRC) development and outcome are impacted by modifiable risk factors, including psychological stress. The gut microbiota has also been shown to be linked to psychological factors. Here, we found a marked deteriorative effect of chronic stress in multiple CRC models, including chemically-induced (AOM/DSS), genetically engineered (APCmin/+), and xenograft tumor mouse models. RNA-seq data from colon tissues revealed that expression of stemness-related genes was upregulated in the stressed CRC group by activated β-catenin signaling, which was further confirmed by results from ex vivo organoid analyses as well as in vitro and in vivo cell tumorigenicity assays. 16S rRNA sequencing of the gut microbiota showed that chronic stress disrupted gut microbes, and antibiotic treatment and fecal microbiota transplantation abolished the stimulatory effects of chronic stress on CRC progression. Stressed CRC mice displayed a significant decrease in Lactobacillus johnsonii (L. johnsonii) abundance, which was inversely correlated with tumor load. Moreover, protocatechuic acid (PCA) was identified as a beneficial metabolite produced by L. johnsonii based on metabolome sequencing and LC‒MS/MS analysis. Replenishment of L. johnsonii or PCA blocked chronic stress-induced CRC progression by decreasing β-catenin expression. Furthermore, PCA activated the cGMP pathway, and the cGMP agonist sildenafil abolished the effects of chronic stress on CRC. Altogether, these data identify that stress impacts the gut microbiome to support CRC progression.
-
-[Source](https://twitter.com/hashtag/Lactobacillus?src=hash&ref_src=twsrc%5Etfw)
-
-10.1158/0008-5472.CAN-22-3705
-
----
-
 ## #Lactobacillus
 
 [Source](https://twitter.com/hashtag/Lactobacillus?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Characteristics and hormonal contraception use patterns of levonorgestrel 13.5 mg intrauterine device users in Sweden 2014-2016.
- 16.10.2023, _M Linder, J Schoendorf, F Pisa, R Schulze-Rath, CE Cesta_
-
-
-The levonorgestrel-releasing intrauterine device containing 13.5 mg of levonorgestrel (LNG 13.5 mg IUD), Jaydess®, was approved for contraception by the European Medicines Agency in 2013. We aimed to describe the characteristics of new users of LNG 13.5 mg IUD in Sweden within the first 3 years after approval (2014-2016).
-
-[Source](https://twitter.com/hashtag/WomensHealth?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.contraception.2023.110309
 
 ---
 
@@ -131,47 +95,21 @@ The levonorgestrel-releasing intrauterine device containing 13.5 mg of levonorge
 
 ---
 
-## Application of an ARFIMA Model to Estimate Hepatitis C Epidemics in Henan, China.
- 08.01.2024, _Y Wang, Z Liang, S Qing, X Liu, C Xu_
-
-
-Hepatitis C (HC) presents a substantial burden, and a goal has been established for ending HC epidemics by 2030. This study aimed to monitor HC epidemics by designing a paradigmatic autoregressive fractionally integrated moving average (ARFIMA) for projections until 2030, and evaluating its efficacy compared with the autoregressive integrated moving average (ARIMA). Monthly HC incidence data in Henan from January 2004 to June 2023 were obtained. Two periods (January 2004 to June 2022 and January 2004 to December 2015) were treated as training sets to build both models, whereas the remaining periods served as test sets to perform performance evaluation. There were 465,196 HC cases, with an escalation in incidence (average annual percentage change = 8.64, 95% CI: 3.71-13.80) and a peak in March and a trough in February. For both the 12 and 90 holdout data forecasts, ARFIMA generated lower errors than ARIMA across various metrics: mean absolute deviation (252.93 versus 262.28 and 235.37 versus 1,689.65), mean absolute percentage error (0.17 versus 0.18 and 0.14 versus 0.87), root mean square error (350.31 versus 362.31 and 311.96 versus 1,905.71), mean error rate (0.14 versus 0.15 and 0.11 versus 0.82), and root mean square percentage error (0.26 versus 0.26 and 0.24 versus 1.01). Autoregressive fractionally integrated moving average predicted 181,650 (95% CI: 46,518-316,783) HC cases, averaging 22,706 (95% CI: 5,815-39,598) cases annually during 2023-2030. Henan faces challenges in eliminating HC epidemics, emphasizing the need for strengthened strategies. Autoregressive fractionally integrated moving average can offer evidence-based insights for public health measures.
-
-[Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
-
-10.4269/ajtmh.23-0561
-
----
-
 ## January 3, 2024
 
 [Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
 
 ---
 
-## BilR is a gut microbial enzyme that reduces bilirubin to urobilinogen.
- 08.01.2024, _B Hall, S Levy, K Dufault-Thompson, G Arp, A Zhong, GM Ndjite, A Weiss, D Braccia, C Jenkins, MR Grant, S Abeysinghe, Y Yang, MD Jermain, CH Wu, B Ma, X Jiang_
-
-
-_Infant, Newborn, Adult, Humans, Bilirubin, Urobilinogen, Gastrointestinal Microbiome, Liver, Bacteria_
-Metabolism of haem by-products such as bilirubin by humans and their gut microbiota is essential to human health, as excess serum bilirubin can cause jaundice and even neurological damage. The bacterial enzymes that reduce bilirubin to urobilinogen, a key step in this pathway, have remained unidentified. Here we used biochemical analyses and comparative genomics to identify BilR as a gut-microbiota-derived bilirubin reductase that reduces bilirubin to urobilinogen. We delineated the BilR sequences from similar reductases through the identification of key residues critical for bilirubin reduction and found that BilR is predominantly encoded by Firmicutes species. Analysis of human gut metagenomes revealed that BilR is nearly ubiquitous in healthy adults, but prevalence is decreased in neonates and individuals with inflammatory bowel disease. This discovery sheds light on the role of the gut microbiome in bilirubin metabolism and highlights the significance of the gut-liver axis in maintaining bilirubin homeostasis.
+## BilR is a gut microbial enzyme that reduces bilirubin to urobilinogen
 
 [Source](https://www.nature.com/articles/s41564-023-01549-x)
 
-10.1038/s41564-023-01549-x
-
 ---
 
-## Influence of feeding practices in the composition and functionality of infant gut microbiota and its relationship with health.
- 06.01.2024, _M Martínez-Martínez, M Martínez-Martínez, R Soria-Guerra, S Gamiño-Gutiérrez, C Senés-Guerrero, A Santacruz, R Flores-Ramírez, A Salazar-Martínez, D Portales-Pérez, H Bach, F Martínez-Gutiérrez_
-
-
-_Infant, Newborn, Infant, Female, Child, Humans, Gastrointestinal Microbiome, Cross-Sectional Studies, Volatile Organic Compounds, Breast Feeding, Immunoglobulin A, Infant Formula_
-Establishing the infant's gut microbiota has long-term implications on health and immunity. Breastfeeding is recognized as the best practice of infant nutrition in comparison with formula feeding. We evaluated the effects of the primary feeding practices by analyzing the infant growth and the potential association with gut diseases. A cross-sectional and observational study was designed. This study included 55 mothers with infants, who were divided according to their feeding practices in breastfeeding (BF), formula feeding (FF), and combined breast and formula feeding (CF). Anthropometric measurements of the participants were recorded. Additionally, non-invasive fecal samples from the infants were collected to analyze the microbiota by sequencing, immunoglobulin A (IgA) concentration (ELISA), and volatile organic compounds (gas chromatography with an electronic nose). Results showed that the microbiota diversity in the BF group was the highest compared to the other two groups. The IgA levels in the BF group were twice as high as those in the FF group. Moreover, the child´s growth in the BF group showed the best infant development when the data were compared at birth to the recollection time, as noted by the correlation with a decreased concentration of toxic volatile organic compounds. Interestingly, the CF group showed a significant difference in health status when the data were compared with the FF group. We conclude that early health practices influence children's growth, which is relevant to further research about how those infants' health evolved.
+## Influence of feeding practices in the composition and functionality of infant gut microbiota and its relationship with health
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294494)
-
-10.1371/journal.pone.0294494
 
 ---
 
@@ -187,16 +125,9 @@ Establishing the infant's gut microbiota has long-term implications on health an
 
 ---
 
-## Deciphering the gut microbiome of grass carp through multi-omics approach.
- 06.01.2024, _M Li, H Liang, H Yang, Q Ding, R Xia, J Chen, W Zhou, Y Yang, Z Zhang, Y Yao, C Ran, Z Zhou_
-
-
-_Animals, Gastrointestinal Microbiome, Carps, Multiomics, Microbiota, Proteobacteria, Fusobacteria, Bacteroidetes, Firmicutes, Fusobacterium, RNA, Ribosomal, 16S, Mammals_
-Aquaculture plays an important role in global protein supplies and food security. The ban on antibiotics as feed additive proposes urgent need to develop alternatives. Gut microbiota plays important roles in the metabolism and immunity of fish and has the potential to give rise to novel solutions for challenges confronted by fish culture. However, our understanding of fish gut microbiome is still lacking.
+## Deciphering the gut microbiome of grass carp through multi-omics approach 
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01715-7)
-
-10.1186/s40168-023-01715-7
 
 ---
 
@@ -212,16 +143,9 @@ Aquaculture plays an important role in global protein supplies and food security
 
 ---
 
-## Individualized microbiotas dictate the impact of dietary fiber on colitis sensitivity.
- 08.01.2024, _E Bonazzi, A Bretin, L Vigué, F Hao, AD Patterson, AT Gewirtz, B Chassaing_
-
-
-_Humans, Mice, Animals, Psyllium, Inulin, Colitis, Dietary Fiber, Gastrointestinal Microbiome, Inflammatory Bowel Diseases_
-The observation that the intestinal microbiota is central in the development of IBD suggests that dietary fiber, the microbiota's primary source of nourishment, could play a central role in these diseases. Accordingly, enriching diets with specific soluble fibers remodels microbiota and modulates colitis sensitivity. In humans, a recent study suggests that the microbiota of select IBD patients might influence the impacts they would experience upon fiber exposure. We sought here to define the extent to which individual microbiotas varied in their responsiveness to purified soluble fiber inulin and psyllium. Moreover, the extent to which such variance might impact proneness to colitis.
+## Individualized microbiotas dictate the impact of dietary fiber on colitis sensitivity
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01724-6)
-
-10.1186/s40168-023-01724-6
 
 ---
 
@@ -243,15 +167,15 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 
 ---
 
-## Hydrolysis of ionic liquid-treated substrate with an Iocasia fonsfrigidae strain SP3-1 endoglucanase.
- 08.01.2024, _S Heng, S Sutheeworapong, C Wangnai, V Champreda, A Kosugi, K Ratanakhanokchai, C Tachaapaikoon, RM Ceballos_
+## Carbon reduction trade-off between pretreatment and anaerobic digestion: A field study of an industrial-scale biogas plant.
+ 08.01.2024, _Z Shi, P He, J Guo, J Zou, W Peng, H Zhang, F Lü_
 
 
-Recently, we reported the discovery of a novel endoglucanase of the glycoside hydrolase family 12 (GH12), designated IfCelS12A, from the haloalkaliphilic anaerobic bacterium Iocasia fonsfrigidae strain SP3-1, which was isolated from a hypersaline pond in the Samut Sakhon province of Thailand (ca. 2017). IfCelS12A exhibits high substrate specificity on carboxymethyl cellulose and amorphous cellulose but low substrate specificity on b-1,3;1,4-glucan. Unlike some endoglucanases of the GH12 family, IfCelS12A does not exhibit hydrolytic activity on crystalline cellulose (i.e., Avicel™). High-Pressure Liquid Chromatography (HPLC) and Thin Layer Chromatography (TLC) analyses of products resulting from IfCelS12-mediated hydrolysis indicate mode of action for this enzyme. Notably, IfCelS12A preferentially hydrolyzes cellotetraoses, cellopentaoses, and cellohexaoses with negligible activity on cellobiose or cellotriose. Kinetic analysis with cellopentaose and barely b-D-glucan as cellulosic substrates were conducted. On cellopentaose, IfCelS12A demonstrates a 16-fold increase in activity (KM = 0.27 mM; kcat = 0.36 s-1; kcat/KM = 1.34 mM-1 s-1) compared to the enzymatic hydrolysis of barley b-D-glucan (KM: 0.04 mM, kcat: 0.51 s-1, kcat/KM = 0.08 mM-1 s-1). Moreover, IfCelS12A enzymatic efficacy is stable in hypersaline sodium chlorids (NaCl) solutions (up to 10% NaCl). Specifically, IfCel12A retains notable activity after 24 h at 2M NaCl (10% saline solution). IfCelS12A used as a cocktail component with other cellulolytic enzymes and in conjunction with mobile sequestration platform technology offers additional options for deconstruction of ionic liquid-pretreated cellulosic feedstock. KEY POINTS: • IfCelS12A from an anaerobic alkaliphile Iocasia fronsfrigidae shows salt tolerance • IfCelS12A in cocktails with other enzymes efficiently degrades cellulosic biomass • IfCelS12A used with mobile enzyme sequestration platforms enhances hydrolysis.
+With the implementation of municipal solid waste source segregation, the enormous sorted biogenic waste has become an issue that needs to be seriously considered. Anaerobic digestion, which can produce biogas and extract floating oil for biodiesel production, is the most prevalent treatment in China for waste management and greenhouse gas (GHG) emissions reduction, in accordance with Sustainable Development Goal 13 of the United Nations. Herein, a large-scale biogas plant with a capacity of 1000 tonnes of biogenic waste (400 tonnes of restaurant biogenic waste and 600 tonnes of kitchen biogenic waste) per day was investigated onsite using material flow analysis, and the parts of the biogas plant were thoroughly analyzed, especially the pretreatment system for biogenic waste impurity removal and homogenization. The results indicated that the loss of the total biodegradable organic matter was 41.8% (w/w) of daily feedstock and the loss of biogas potential was 18.8% (v/v) of daily feedstock. Life cycle assessment revealed that the 100-year GHG emissions were -61.2 kgCO2-eq per tonne biogenic waste. According to the sensitivity analysis, pretreatment efficiency, including biodegradable organic matter recovery and floating oil extraction, considerably affected carbon reduction potential. However, when the pretreatment efficiency deteriorated, GHG benefits of waste source segregation and the subsequent biogenic waste anaerobic digestion would be reduced.
 
 [Source](https://twitter.com/hashtag/anaerobic?src=hash&ref_src=twsrc%5Etfw)
 
-10.1007/s00253-023-12918-1
+10.1016/j.envres.2024.118139
 
 ---
 
@@ -261,33 +185,21 @@ Recently, we reported the discovery of a novel endoglucanase of the glycoside hy
 
 ---
 
-## SCARPET: Site-specific quantification of methylated and non-methylated adenosines reveals m6A stoichiometry.
- 08.01.2024, _AH Mirza, Y Bram, RE Schwartz, SR Jaffrey_
+## Depletion of JunB increases adipocyte thermogenic capacity and ameliorates diet-induced insulin resistance.
+ 08.01.2024, _X Zhang, X Ding, C Wang, Q Le, D Wu, A Song, G Huang, L Luo, Y Luo, X Yang, AE Goins, SP Desai, C Qiu, FD Silva, LE Feldman, J Zhou, MF Spafford, NH Boyd, ER Prossnitz, XO Yang, QA Wang, M Liu_
 
 
-m6A has different stoichiometry at different positions in different mRNAs. However, the exact stoichiometry of m6A is difficult to measure. Here we describe SCARPET (site-specific cleavage and radioactive-labeling followed by purification, exonuclease digestion, and thin-layer chromatography), a simple and streamlined biochemical assay for quantifying m6A at any specific site in any mRNA. SCARPET involves a site-specific cleavage of mRNA immediately 5' of an adenosine site in an mRNA. This site is radiolabeled with 32P, and after a series of steps to purify the RNA and to remove nonspecific signals, the nucleotide is resolved by TLC to visualize A and m6A at this site. Quantification of these spots reveals the m6A stoichiometry at the site of interest. SCARPET can be applied to poly(A)-enriched RNA, or preferably purified mRNA, which produces more accurate m6A stoichiometry measurements. We show that sample processing steps of SCARPET can be performed in a single day, and results in a specific and accurate measurement of m6A stoichiometry at specific sites in mRNA. SCARPET will be useful for testing specific sites for their m6A stoichiometry and to assess how m6A stoichiometry changes in different conditions and cellular contexts.
+The coexistence of brown adipocytes with low and high thermogenic activity is a fundamental feature of brown adipose tissue heterogeneity and plasticity. However, the mechanisms that govern thermogenic adipocyte heterogeneity and its significance in obesity and metabolic disease remain poorly understood. Here we show that in male mice, a population of transcription factor jun-B (JunB)-enriched (JunB+) adipocytes within the brown adipose tissue exhibits lower thermogenic capacity compared to high-thermogenic adipocytes. The JunB+ adipocyte population expands in obesity. Depletion of JunB in adipocytes increases the fraction of adipocytes exhibiting high thermogenic capacity, leading to enhanced basal and cold-induced energy expenditure and protection against diet-induced obesity and insulin resistance. Mechanistically, JunB antagonizes the stimulatory effects of PPARγ coactivator-1α on high-thermogenic adipocyte formation by directly binding to the promoter of oestrogen-related receptor alpha, a PPARγ coactivator-1α downstream effector. Taken together, our study uncovers that JunB shapes thermogenic adipocyte heterogeneity, serving a critical role in maintaining systemic metabolic health.
 
 [Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
 
-10.1261/rna.079776.123
+10.1038/s42255-023-00945-1
 
 ---
 
 ## #digestion
 
 [Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Chronic stress dampens Lactobacillus johnsonii-mediated tumor suppression to enhance colorectal cancer progression.
- 08.01.2024, _Q Cao, M Zhao, Y Su, S Liu, Y Lin, H Da, C Yue, Y Liu, D Jing, Q Zhao, N Liu, J Du, Z Zuo, Y Fu, A Chen, L Birnbaumer, Y Yang, B Dai, X Gao_
-
-
-Colorectal cancer (CRC) development and outcome are impacted by modifiable risk factors, including psychological stress. The gut microbiota has also been shown to be linked to psychological factors. Here, we found a marked deteriorative effect of chronic stress in multiple CRC models, including chemically-induced (AOM/DSS), genetically engineered (APCmin/+), and xenograft tumor mouse models. RNA-seq data from colon tissues revealed that expression of stemness-related genes was upregulated in the stressed CRC group by activated β-catenin signaling, which was further confirmed by results from ex vivo organoid analyses as well as in vitro and in vivo cell tumorigenicity assays. 16S rRNA sequencing of the gut microbiota showed that chronic stress disrupted gut microbes, and antibiotic treatment and fecal microbiota transplantation abolished the stimulatory effects of chronic stress on CRC progression. Stressed CRC mice displayed a significant decrease in Lactobacillus johnsonii (L. johnsonii) abundance, which was inversely correlated with tumor load. Moreover, protocatechuic acid (PCA) was identified as a beneficial metabolite produced by L. johnsonii based on metabolome sequencing and LC‒MS/MS analysis. Replenishment of L. johnsonii or PCA blocked chronic stress-induced CRC progression by decreasing β-catenin expression. Furthermore, PCA activated the cGMP pathway, and the cGMP agonist sildenafil abolished the effects of chronic stress on CRC. Altogether, these data identify that stress impacts the gut microbiome to support CRC progression.
-
-[Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
-
-10.1158/0008-5472.CAN-22-3705
 
 ---
 
@@ -303,15 +215,15 @@ Colorectal cancer (CRC) development and outcome are impacted by modifiable risk 
 
 ---
 
-## Chronic stress dampens Lactobacillus johnsonii-mediated tumor suppression to enhance colorectal cancer progression.
- 08.01.2024, _Q Cao, M Zhao, Y Su, S Liu, Y Lin, H Da, C Yue, Y Liu, D Jing, Q Zhao, N Liu, J Du, Z Zuo, Y Fu, A Chen, L Birnbaumer, Y Yang, B Dai, X Gao_
+## A single intranasal dose of essential oil spray confers modulation of the nasopharyngeal microbiota and short-term inhibition of Mannheimia in feedlot cattle: a pilot study.
+ 09.01.2024, _G Magossi, KN Schmidt, TM Winders, ZE Carlson, DB Holman, SR Underdahl, KC Swanson, S Amat_
 
 
-Colorectal cancer (CRC) development and outcome are impacted by modifiable risk factors, including psychological stress. The gut microbiota has also been shown to be linked to psychological factors. Here, we found a marked deteriorative effect of chronic stress in multiple CRC models, including chemically-induced (AOM/DSS), genetically engineered (APCmin/+), and xenograft tumor mouse models. RNA-seq data from colon tissues revealed that expression of stemness-related genes was upregulated in the stressed CRC group by activated β-catenin signaling, which was further confirmed by results from ex vivo organoid analyses as well as in vitro and in vivo cell tumorigenicity assays. 16S rRNA sequencing of the gut microbiota showed that chronic stress disrupted gut microbes, and antibiotic treatment and fecal microbiota transplantation abolished the stimulatory effects of chronic stress on CRC progression. Stressed CRC mice displayed a significant decrease in Lactobacillus johnsonii (L. johnsonii) abundance, which was inversely correlated with tumor load. Moreover, protocatechuic acid (PCA) was identified as a beneficial metabolite produced by L. johnsonii based on metabolome sequencing and LC‒MS/MS analysis. Replenishment of L. johnsonii or PCA blocked chronic stress-induced CRC progression by decreasing β-catenin expression. Furthermore, PCA activated the cGMP pathway, and the cGMP agonist sildenafil abolished the effects of chronic stress on CRC. Altogether, these data identify that stress impacts the gut microbiome to support CRC progression.
+Five essential oils (EOs) were previously characterized in vitro and identified as candidate EOs for the development of an intranasal EO spray to mitigate bovine respiratory disease (BRD) pathogens. In the present study, these EOs were evaluated for their potential to (i) reduce BRD pathogens, (ii) modulate nasopharyngeal microbiota, and (iii) influence animal performance, feeding behavior and immune response when a single dose administered intranasally to feedlot cattle. Forty beef steer calves (7-8 months old, Initial body weight = 284 ± 5 kg [SE]) received either an intranasal EO spray (ajowan, thyme, fennel, cinnamon leaf, and citronella) or PBS (Control; n = 20/group) on day 0. Deep nasopharyngeal swabs were collected on days (d) -1, 1, 2, 7, 14, 28, and 42 and processed for 16S rRNA gene sequencing, qPCR, and culturing. Significant effects of EO on community structure (d1), microbial richness and diversity, relative abundance of some dominant phyla (d1, d2, and d14), and the overall interaction network structure of the nasopharyngeal microbiota were detected. The relative abundance of Mannheimia was lower in the EO calves (4.34%) than in Control calves (10.4%) on d2, and M. haemolytica prevalence on d7 as compared to control calves. Feed intake, average daily gain, feeding behavior, and blood cell counts were not affected by EO treatment. Overall, a single intranasal dose of EO spray resulted in moderate modulation of nasopharyngeal microbiota and short-term inhibition of Mannheimia while not influencing animal performance, feeding behavior or immune response. Our study, for the first time, shows the potential use of intranasal EO to mitigate BRD in feedlot cattle.
 
 [Source](https://twitter.com/hashtag/Microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1158/0008-5472.CAN-22-3705
+10.1038/s41598-023-50704-1
 
 ---
 
@@ -382,59 +294,21 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 
 ---
 
-## Application of an ARFIMA Model to Estimate Hepatitis C Epidemics in Henan, China.
- 08.01.2024, _Y Wang, Z Liang, S Qing, X Liu, C Xu_
-
-
-Hepatitis C (HC) presents a substantial burden, and a goal has been established for ending HC epidemics by 2030. This study aimed to monitor HC epidemics by designing a paradigmatic autoregressive fractionally integrated moving average (ARFIMA) for projections until 2030, and evaluating its efficacy compared with the autoregressive integrated moving average (ARIMA). Monthly HC incidence data in Henan from January 2004 to June 2023 were obtained. Two periods (January 2004 to June 2022 and January 2004 to December 2015) were treated as training sets to build both models, whereas the remaining periods served as test sets to perform performance evaluation. There were 465,196 HC cases, with an escalation in incidence (average annual percentage change = 8.64, 95% CI: 3.71-13.80) and a peak in March and a trough in February. For both the 12 and 90 holdout data forecasts, ARFIMA generated lower errors than ARIMA across various metrics: mean absolute deviation (252.93 versus 262.28 and 235.37 versus 1,689.65), mean absolute percentage error (0.17 versus 0.18 and 0.14 versus 0.87), root mean square error (350.31 versus 362.31 and 311.96 versus 1,905.71), mean error rate (0.14 versus 0.15 and 0.11 versus 0.82), and root mean square percentage error (0.26 versus 0.26 and 0.24 versus 1.01). Autoregressive fractionally integrated moving average predicted 181,650 (95% CI: 46,518-316,783) HC cases, averaging 22,706 (95% CI: 5,815-39,598) cases annually during 2023-2030. Henan faces challenges in eliminating HC epidemics, emphasizing the need for strengthened strategies. Autoregressive fractionally integrated moving average can offer evidence-based insights for public health measures.
-
-[Source](https://twitter.com/campanarostef/status/1742576845915070538?ref_src=twsrc%5Etfw)
-
-10.4269/ajtmh.23-0561
-
----
-
 ## January 3, 2024
 
 [Source](https://twitter.com/campanarostef/status/1742576845915070538?ref_src=twsrc%5Etfw)
 
 ---
 
-## Unraveling the interplay between root exudates, microbiota, and rhizosheath formation in pearl millet.
- 06.01.2024, _A Alahmad, M Harir, S Fochesato, J Tulumello, A Walker, M Barakat, PMS Ndour, P Schmitt-Kopplin, L Cournac, L Laplaze, T Heulin, W Achouak_
-
-
-_Pennisetum, RNA, Ribosomal, 16S, Plant Roots, Microbiota, Soil, Plants, Exudates and Transudates, Soil Microbiology, Rhizosphere_
-The rhizosheath, a cohesive soil layer firmly adhering to plant roots, plays a vital role in facilitating water and mineral uptake. In pearl millet, rhizosheath formation is genetically controlled and influenced by root exudates. Here, we investigated the impact of root exudates on the microbiota composition, interactions, and assembly processes, and rhizosheath structure in pearl millet using four distinct lines with contrasting soil aggregation abilities.
+## Unraveling the interplay between root exudates, microbiota, and rhizosheath formation in pearl millet
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01727-3)
 
-10.1186/s40168-023-01727-3
-
 ---
 
-## mEnrich-seq: methylation-guided enrichment sequencing of bacterial taxa of interest from microbiome.
- 04.01.2024, _L Cao, Y Kong, Y Fan, M Ni, A Tourancheau, M Ksiezarek, EA Mead, T Koo, M Gitman, XS Zhang, G Fang_
-
-
-Metagenomics has enabled the comprehensive study of microbiomes. However, many applications would benefit from a method that sequences specific bacterial taxa of interest, but not most background taxa. We developed mEnrich-seq (in which 'm' stands for methylation and seq for sequencing) for enriching taxa of interest from metagenomic DNA before sequencing. The core idea is to exploit the self versus nonself differentiation by natural bacterial DNA methylation and rationally choose methylation-sensitive restriction enzymes, individually or in combination, to deplete host and background taxa while enriching targeted taxa. This idea is integrated with library preparation procedures and applied in several applications to enrich (up to 117-fold) pathogenic or beneficial bacteria from human urine and fecal samples, including species that are hard to culture or of low abundance. We assessed 4,601 bacterial strains with mapped methylomes so far and showed broad applicability of mEnrich-seq. mEnrich-seq provides microbiome researchers with a versatile and cost-effective approach for selective sequencing of diverse taxa of interest.
+## mEnrich-seq: methylation-guided enrichment sequencing of bacterial taxa of interest from microbiome
 
 [Source](https://www.nature.com/articles/s41592-023-02125-1)
-
-10.1038/s41592-023-02125-1
-
----
-
-## Host genetic determinants drive compartment-specific assembly of tea plant microbiomes.
- 01.11.2022, _X Tan, H Xie, J Yu, Y Wang, J Xu, P Xu, B Ma_
-
-
-_Soil Microbiology, Camellia sinensis, Genome-Wide Association Study, Bacteria, Plant Roots, Microbiota, Tea_
-Diverse host factors drive microbial variation in plant-associated environments, whereas their genetic mechanisms remain largely unexplored. To address this, we coupled the analyses of plant genetics and microbiomes in this study. Using 100 tea plant (Camellia sinensis) cultivars, the microbiomes of rhizosphere, root endosphere and phyllosphere showed clear compartment-specific assembly, whereas the subpopulation differentiation of tea cultivars exhibited small effects on microbial variation in each compartment. Through microbiome genome-wide association studies, we examined the interactions between tea genetic loci and microbial variation. Notably, genes related to the cell wall and carbon catabolism were heavily linked to root endosphere microbial composition, whereas genes related to the metabolism of metal ions and small organic molecules were overrepresented in association with rhizosphere microbial composition. Moreover, a set of tea genetic variants, including the cytoskeleton-related formin homology interacting protein 1 gene, were strongly associated with the β-diversity of phyllosphere microbiomes, implying their interactions with the overall structure of microbial communities. Our results create a catalogue of tea genetic determinants interacting with microbiomes and reveal the compartment-specific microbiome assembly driven by host genetics.
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.12.27.573469v1)
-
-10.1111/pbi.13897
 
 ---
 
@@ -447,18 +321,6 @@ Diverse host factors drive microbial variation in plant-associated environments,
 ## https://t.co/otRNegCrYR
 
 [Source](https://t.co/otRNegCrYR)
-
----
-
-## Multicentral Study of Rotavirus Infection, Diversity of Circulating Genotypes and Clinical Outcomes in Children ≤5 Years Old in Iran.
- 08.01.2024, _R Mansour Ghanaiee, T Fallah, A Karimi, I Sedighi, M Tariverdi, T Nazari, N Nahanmoghaddam, P Sedighi, A Nateghian, A Amirali, SH Monavari, M Fallahi, SM Zahraei, S Mahmoudi, A Elikaei, M Alebouyeh_
-
-
-To determine the epidemiology of rotavirus group A (RVA) infection in symptomatic children, and analyze genotype diversity in association with clinical characteristics, geographical and seasonal changes.
-
-[Source](https://twitter.com/BigDataBiology/status/1740567854985203910?ref_src=twsrc%5Etfw)
-
-10.1097/INF.0000000000004231
 
 ---
 
