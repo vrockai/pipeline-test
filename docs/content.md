@@ -77,9 +77,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Microbiome and Abdominopelvic Radiotherapy Related Chronic Enteritis: A Microbiome-based Mechanistic Role of Probiotics and Antibiotics.
+ 09.01.2024, _P Giridhar, S Pradhan, S Dokania, B Venkatesulu, R Sarode, JS Welsh_
+
+
+Chronic diarrhea and abdominal pain after radiotherapy continue to be a problem in cancer survivors. Gut microbiomes are essential for preventing intestinal inflammation, maintaining intestinal integrity, maintaining enterohepatic circulation, regulating bile acid metabolism, and absorption of nutrients, including fat-soluble vitamins. Gut microbiome dysbiosis is expected to cause inflammation, bile acid malabsorption, malnutrition, and associated symptoms. Postradiotherapy, Firmicutes and Bacteroidetes phylum are significantly decreased while Fusobacteria and other unclassified bacteria are increased. Available evidence suggests harmful bacteria Veillonella, Erysipelotrichaceae, and Ruminococcus are sensitive to Metronidazole or Ciprofloxacin. Beneficial bacteria lactobacillus and Bifidobacterium are relatively resistant to metronidazole. We hypothesize and provide an evidence-based review that short-course targeted antibiotics followed by specific probiotics may lead to alleviation of radiation enteritis.
+
+[Source](https://twitter.com/hashtag/Lactobacillus?src=hash&ref_src=twsrc%5Etfw)
+
+10.1097/COC.0000000000001082
+
+---
+
 ## #Lactobacillus
 
 [Source](https://twitter.com/hashtag/Lactobacillus?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Characteristics and hormonal contraception use patterns of levonorgestrel 13.5 mg intrauterine device users in Sweden 2014-2016.
+ 16.10.2023, _M Linder, J Schoendorf, F Pisa, R Schulze-Rath, CE Cesta_
+
+
+The levonorgestrel-releasing intrauterine device containing 13.5 mg of levonorgestrel (LNG 13.5 mg IUD), Jaydess®, was approved for contraception by the European Medicines Agency in 2013. We aimed to describe the characteristics of new users of LNG 13.5 mg IUD in Sweden within the first 3 years after approval (2014-2016).
+
+[Source](https://twitter.com/hashtag/WomensHealth?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.contraception.2023.110309
 
 ---
 
@@ -95,21 +119,47 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## The Association Between Inter-Hospital Transfers and the Prognosis of Pediatric Injury in the Emergency Department.
+ 09.01.2024, _D Jung, JH Jung, JH Kim, JH Jue, JW Park, DK Kim, JY Jung, EJ Lee, JH Lee, D Suh, H Kwon_
+
+
+Inter-hospital transfers of severely injured patients are inevitable due to limited resources. We investigated the association between inter-hospital transfer and the prognosis of pediatric injury using the Korean multi-institutional injury registry.
+
+[Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
+
+10.3346/jkms.2024.39.e2
+
+---
+
 ## January 3, 2024
 
 [Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
 
 ---
 
-## BilR is a gut microbial enzyme that reduces bilirubin to urobilinogen
+## BilR is a gut microbial enzyme that reduces bilirubin to urobilinogen.
+ 08.01.2024, _B Hall, S Levy, K Dufault-Thompson, G Arp, A Zhong, GM Ndjite, A Weiss, D Braccia, C Jenkins, MR Grant, S Abeysinghe, Y Yang, MD Jermain, CH Wu, B Ma, X Jiang_
+
+
+_Infant, Newborn, Adult, Humans, Bilirubin, Urobilinogen, Gastrointestinal Microbiome, Liver, Bacteria_
+Metabolism of haem by-products such as bilirubin by humans and their gut microbiota is essential to human health, as excess serum bilirubin can cause jaundice and even neurological damage. The bacterial enzymes that reduce bilirubin to urobilinogen, a key step in this pathway, have remained unidentified. Here we used biochemical analyses and comparative genomics to identify BilR as a gut-microbiota-derived bilirubin reductase that reduces bilirubin to urobilinogen. We delineated the BilR sequences from similar reductases through the identification of key residues critical for bilirubin reduction and found that BilR is predominantly encoded by Firmicutes species. Analysis of human gut metagenomes revealed that BilR is nearly ubiquitous in healthy adults, but prevalence is decreased in neonates and individuals with inflammatory bowel disease. This discovery sheds light on the role of the gut microbiome in bilirubin metabolism and highlights the significance of the gut-liver axis in maintaining bilirubin homeostasis.
 
 [Source](https://www.nature.com/articles/s41564-023-01549-x)
 
+10.1038/s41564-023-01549-x
+
 ---
 
-## Influence of feeding practices in the composition and functionality of infant gut microbiota and its relationship with health
+## Influence of feeding practices in the composition and functionality of infant gut microbiota and its relationship with health.
+ 06.01.2024, _M Martínez-Martínez, M Martínez-Martínez, R Soria-Guerra, S Gamiño-Gutiérrez, C Senés-Guerrero, A Santacruz, R Flores-Ramírez, A Salazar-Martínez, D Portales-Pérez, H Bach, F Martínez-Gutiérrez_
+
+
+_Infant, Newborn, Infant, Female, Child, Humans, Gastrointestinal Microbiome, Cross-Sectional Studies, Volatile Organic Compounds, Breast Feeding, Immunoglobulin A, Infant Formula_
+Establishing the infant's gut microbiota has long-term implications on health and immunity. Breastfeeding is recognized as the best practice of infant nutrition in comparison with formula feeding. We evaluated the effects of the primary feeding practices by analyzing the infant growth and the potential association with gut diseases. A cross-sectional and observational study was designed. This study included 55 mothers with infants, who were divided according to their feeding practices in breastfeeding (BF), formula feeding (FF), and combined breast and formula feeding (CF). Anthropometric measurements of the participants were recorded. Additionally, non-invasive fecal samples from the infants were collected to analyze the microbiota by sequencing, immunoglobulin A (IgA) concentration (ELISA), and volatile organic compounds (gas chromatography with an electronic nose). Results showed that the microbiota diversity in the BF group was the highest compared to the other two groups. The IgA levels in the BF group were twice as high as those in the FF group. Moreover, the child´s growth in the BF group showed the best infant development when the data were compared at birth to the recollection time, as noted by the correlation with a decreased concentration of toxic volatile organic compounds. Interestingly, the CF group showed a significant difference in health status when the data were compared with the FF group. We conclude that early health practices influence children's growth, which is relevant to further research about how those infants' health evolved.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294494)
+
+10.1371/journal.pone.0294494
 
 ---
 
@@ -167,15 +217,15 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 
 ---
 
-## Carbon reduction trade-off between pretreatment and anaerobic digestion: A field study of an industrial-scale biogas plant.
- 08.01.2024, _Z Shi, P He, J Guo, J Zou, W Peng, H Zhang, F Lü_
+## Water self-purification via electron donation effect of emerging contaminants arousing oxygen activation over ordered carbon-enhanced CoFe quantum dots.
+ 09.01.2024, _Y Shi, D Yang, C Hu, L Lyu_
 
 
-With the implementation of municipal solid waste source segregation, the enormous sorted biogenic waste has become an issue that needs to be seriously considered. Anaerobic digestion, which can produce biogas and extract floating oil for biodiesel production, is the most prevalent treatment in China for waste management and greenhouse gas (GHG) emissions reduction, in accordance with Sustainable Development Goal 13 of the United Nations. Herein, a large-scale biogas plant with a capacity of 1000 tonnes of biogenic waste (400 tonnes of restaurant biogenic waste and 600 tonnes of kitchen biogenic waste) per day was investigated onsite using material flow analysis, and the parts of the biogas plant were thoroughly analyzed, especially the pretreatment system for biogenic waste impurity removal and homogenization. The results indicated that the loss of the total biodegradable organic matter was 41.8% (w/w) of daily feedstock and the loss of biogas potential was 18.8% (v/v) of daily feedstock. Life cycle assessment revealed that the 100-year GHG emissions were -61.2 kgCO2-eq per tonne biogenic waste. According to the sensitivity analysis, pretreatment efficiency, including biodegradable organic matter recovery and floating oil extraction, considerably affected carbon reduction potential. However, when the pretreatment efficiency deteriorated, GHG benefits of waste source segregation and the subsequent biogenic waste anaerobic digestion would be reduced.
+The release of emerging contaminants (ECs) into aquatic environments poses a significant risk to global water security. Advanced oxidation processes (AOPs), while effective in removing ECs, are often resource and energy-intensive. Here, we introduce a novel catalyst, CoFe quantum dots embedded in graphene nanowires (CoFeQds@GN-Nws), synthesized through anaerobic polymerization. It uniquely features electron-rich and electron-poor micro-regions on its surface, enabling a self-purification mechanism in wastewater. This is achieved by harnessing the internal energy of wastewater, particularly the bonding energy of pollutants and dissolved oxygen (DO). It demonstrates exceptional efficiency in removing ECs at ambient temperature and pressure without the need for external oxidants, achieving a removal rate of nearly 100.0%. The catalyst's structure-activity relationship reveals that CoFe quantum dots facilitate an unbalanced electron distribution, forming these micro-regions. This leads to a continuous electron-donation effect, where pollutants are effectively cleaved or oxidized. Concurrently, DO is activated into superoxide anions (O2•-), synergistically aiding in pollutant removal. This approach reduces resource and energy demands typically associated with AOPs, marking a sustainable advancement in wastewater treatment technologies.
 
 [Source](https://twitter.com/hashtag/anaerobic?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.envres.2024.118139
+10.1016/j.ese.2023.100356
 
 ---
 
@@ -185,21 +235,33 @@ With the implementation of municipal solid waste source segregation, the enormou
 
 ---
 
-## Depletion of JunB increases adipocyte thermogenic capacity and ameliorates diet-induced insulin resistance.
- 08.01.2024, _X Zhang, X Ding, C Wang, Q Le, D Wu, A Song, G Huang, L Luo, Y Luo, X Yang, AE Goins, SP Desai, C Qiu, FD Silva, LE Feldman, J Zhou, MF Spafford, NH Boyd, ER Prossnitz, XO Yang, QA Wang, M Liu_
+## Integrated gut metabolome and microbiome fingerprinting reveals that dysbiosis precedes allergic inflammation in IgE-mediated pediatric cow's milk allergy.
+ 09.01.2024, _E De Paepe, V Plekhova, P Vangeenderhuysen, N Baeck, D Bullens, T Claeys, M De Graeve, K Kamoen, A Notebaert, T Van de Wiele, W Van Den Broeck, K Vanlede, M Van Winckel, L Vereecke, C Elliott, E Cox, L Vanhaecke_
 
 
-The coexistence of brown adipocytes with low and high thermogenic activity is a fundamental feature of brown adipose tissue heterogeneity and plasticity. However, the mechanisms that govern thermogenic adipocyte heterogeneity and its significance in obesity and metabolic disease remain poorly understood. Here we show that in male mice, a population of transcription factor jun-B (JunB)-enriched (JunB+) adipocytes within the brown adipose tissue exhibits lower thermogenic capacity compared to high-thermogenic adipocytes. The JunB+ adipocyte population expands in obesity. Depletion of JunB in adipocytes increases the fraction of adipocytes exhibiting high thermogenic capacity, leading to enhanced basal and cold-induced energy expenditure and protection against diet-induced obesity and insulin resistance. Mechanistically, JunB antagonizes the stimulatory effects of PPARγ coactivator-1α on high-thermogenic adipocyte formation by directly binding to the promoter of oestrogen-related receptor alpha, a PPARγ coactivator-1α downstream effector. Taken together, our study uncovers that JunB shapes thermogenic adipocyte heterogeneity, serving a critical role in maintaining systemic metabolic health.
+IgE-mediated cow's milk allergy (IgE-CMA) is one of the first allergies to arise in early childhood and may result from exposure to various milk allergens, of which β-lactoglobulin (BLG) and casein are the most important. Understanding the underlying mechanisms behind IgE-CMA is imperative for the discovery of novel biomarkers and the design of innovative treatment and prevention strategies.
 
 [Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
 
-10.1038/s42255-023-00945-1
+10.1111/all.16005
 
 ---
 
 ## #digestion
 
 [Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Microbiome and Abdominopelvic Radiotherapy Related Chronic Enteritis: A Microbiome-based Mechanistic Role of Probiotics and Antibiotics.
+ 09.01.2024, _P Giridhar, S Pradhan, S Dokania, B Venkatesulu, R Sarode, JS Welsh_
+
+
+Chronic diarrhea and abdominal pain after radiotherapy continue to be a problem in cancer survivors. Gut microbiomes are essential for preventing intestinal inflammation, maintaining intestinal integrity, maintaining enterohepatic circulation, regulating bile acid metabolism, and absorption of nutrients, including fat-soluble vitamins. Gut microbiome dysbiosis is expected to cause inflammation, bile acid malabsorption, malnutrition, and associated symptoms. Postradiotherapy, Firmicutes and Bacteroidetes phylum are significantly decreased while Fusobacteria and other unclassified bacteria are increased. Available evidence suggests harmful bacteria Veillonella, Erysipelotrichaceae, and Ruminococcus are sensitive to Metronidazole or Ciprofloxacin. Beneficial bacteria lactobacillus and Bifidobacterium are relatively resistant to metronidazole. We hypothesize and provide an evidence-based review that short-course targeted antibiotics followed by specific probiotics may lead to alleviation of radiation enteritis.
+
+[Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
+
+10.1097/COC.0000000000001082
 
 ---
 
@@ -215,15 +277,15 @@ The coexistence of brown adipocytes with low and high thermogenic activity is a 
 
 ---
 
-## A single intranasal dose of essential oil spray confers modulation of the nasopharyngeal microbiota and short-term inhibition of Mannheimia in feedlot cattle: a pilot study.
- 09.01.2024, _G Magossi, KN Schmidt, TM Winders, ZE Carlson, DB Holman, SR Underdahl, KC Swanson, S Amat_
+## Microbiome and Abdominopelvic Radiotherapy Related Chronic Enteritis: A Microbiome-based Mechanistic Role of Probiotics and Antibiotics.
+ 09.01.2024, _P Giridhar, S Pradhan, S Dokania, B Venkatesulu, R Sarode, JS Welsh_
 
 
-Five essential oils (EOs) were previously characterized in vitro and identified as candidate EOs for the development of an intranasal EO spray to mitigate bovine respiratory disease (BRD) pathogens. In the present study, these EOs were evaluated for their potential to (i) reduce BRD pathogens, (ii) modulate nasopharyngeal microbiota, and (iii) influence animal performance, feeding behavior and immune response when a single dose administered intranasally to feedlot cattle. Forty beef steer calves (7-8 months old, Initial body weight = 284 ± 5 kg [SE]) received either an intranasal EO spray (ajowan, thyme, fennel, cinnamon leaf, and citronella) or PBS (Control; n = 20/group) on day 0. Deep nasopharyngeal swabs were collected on days (d) -1, 1, 2, 7, 14, 28, and 42 and processed for 16S rRNA gene sequencing, qPCR, and culturing. Significant effects of EO on community structure (d1), microbial richness and diversity, relative abundance of some dominant phyla (d1, d2, and d14), and the overall interaction network structure of the nasopharyngeal microbiota were detected. The relative abundance of Mannheimia was lower in the EO calves (4.34%) than in Control calves (10.4%) on d2, and M. haemolytica prevalence on d7 as compared to control calves. Feed intake, average daily gain, feeding behavior, and blood cell counts were not affected by EO treatment. Overall, a single intranasal dose of EO spray resulted in moderate modulation of nasopharyngeal microbiota and short-term inhibition of Mannheimia while not influencing animal performance, feeding behavior or immune response. Our study, for the first time, shows the potential use of intranasal EO to mitigate BRD in feedlot cattle.
+Chronic diarrhea and abdominal pain after radiotherapy continue to be a problem in cancer survivors. Gut microbiomes are essential for preventing intestinal inflammation, maintaining intestinal integrity, maintaining enterohepatic circulation, regulating bile acid metabolism, and absorption of nutrients, including fat-soluble vitamins. Gut microbiome dysbiosis is expected to cause inflammation, bile acid malabsorption, malnutrition, and associated symptoms. Postradiotherapy, Firmicutes and Bacteroidetes phylum are significantly decreased while Fusobacteria and other unclassified bacteria are increased. Available evidence suggests harmful bacteria Veillonella, Erysipelotrichaceae, and Ruminococcus are sensitive to Metronidazole or Ciprofloxacin. Beneficial bacteria lactobacillus and Bifidobacterium are relatively resistant to metronidazole. We hypothesize and provide an evidence-based review that short-course targeted antibiotics followed by specific probiotics may lead to alleviation of radiation enteritis.
 
 [Source](https://twitter.com/hashtag/Microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1038/s41598-023-50704-1
+10.1097/COC.0000000000001082
 
 ---
 
