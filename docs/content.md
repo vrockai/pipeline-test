@@ -59,15 +59,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Relationship between Facet Joint Tropism with Lumbar Disc Herniation at A Particular Motion Segment.
- 10.01.2024, _S Shrestha, RB Lakhey, S Paudel, S Paudel_
+## Global Prevalence of Adolescent Use of Nonprescription Weight-Loss Products: A Systematic Review and Meta-Analysis.
+ 10.01.2024, _NY Hall, DM Hetti Pathirannahalage, C Mihalopoulos, SB Austin, L Le_
 
 
-Lumbar disc herniation is one of the important and common causes of low back pain. There are various modifiable and non-modifiable risk factors for the development of lumbar disc herniation. Any change in the orientation or asymmetry of the facet joint i.e. facet tropism may lead to abnormal shearing stress on the intervertebral disc and may lead to development of disc herniation.
+Use of nonprescribed weight-loss products in adolescents is a public health concern that is associated with negative physical and psychological consequences. However, the prevalence of nonprescribed weight-loss product use in adolescents is unknown.
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1737811126937645489?ref_src=twsrc%5Etfw)
 
-10.33314/jnhrc.v21i02.4515
+10.1001/jamanetworkopen.2023.50940
 
 ---
 
@@ -83,15 +83,15 @@ Lumbar disc herniation is one of the important and common causes of low back pai
 
 ---
 
-## Gut microbiome-derived butyrate inhibits the immunosuppressive factors PD-L1 and IL-10 in tumor-associated macrophages in gastric cancer.
- 10.01.2024, _SY Lee, J Jhun, JS Woo, KH Lee, SH Hwang, J Moon, G Park, SS Choi, SJ Kim, YJ Jung, KY Song, ML Cho_
+## Genetic support of the causal association between gut microbiota and peripheral artery disease: a bidirectional Mendelian randomization study.
+ 10.01.2024, _H Shi, X Yuan, F Wu, X Li, W Fan, X Yang, G Liu_
 
 
-Early detection and surgical treatment are essential to achieve a good outcome in gastric cancer (GC). Stage IV and recurrent GC have a poor prognosis. Therefore, new treatments for GC are needed. We investigated the intestinal microbiome of GC patients and attempted to reverse the immunosuppression of the immune and cancer cells of GC patients through the modulation of microbiome metabolites. We evaluated the levels of programmed death-ligand 1 (PD-L1) and interleukin (IL)-10 in the peripheral blood immunocytes of GC patients. Cancer tissues were obtained from patients who underwent surgical resection of GC, and stained sections of cancer tissues were visualized via confocal microscopy. The intestinal microbiome was analyzed using stool samples of healthy individuals and GC patients. Patient-derived avatar model was developed by injecting peripheral blood mononuclear cells (PBMCs) from advanced GC (AGC) patients into NSG mice, followed by injection of AGS cells. PD-L1 and IL-10 had higher expression levels in immune cells of GC patients than in those of healthy controls. The levels of immunosuppressive factors were increased in the immune and tumor cells of tumor tissues of GC patients. The abundances of Faecalibacterium and Bifidobacterium in the intestinal flora were lower in GC patients than in healthy individuals. Butyrate, a representative microbiome metabolite, suppressed the expression levels of PD-L1 and IL-10 in immune cells. In addition, the PBMCs of AGC patients showed increased levels of immunosuppressive factors in the avatar mouse model. Butyrate inhibited tumor growth in mice. Restoration of the intestinal microbiome and its metabolic functions inhibit tumor growth and reverse the immunosuppression due to increased PD-L1 and IL-10 levels in PBMCs and tumor cells of GC patients.
+The causal relationship between gut microbiota and peripheral artery disease (PAD) is still not clear. In this research, we employed the Mendelian randomization (MR) technique to explore the potential causal connection between 211 gut microbiota species and PAD. We also investigated whether the causal effects operate in both directions.
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1080/19490976.2023.2300846
+10.18632/aging.205417
 
 ---
 
@@ -101,15 +101,15 @@ Early detection and surgical treatment are essential to achieve a good outcome i
 
 ---
 
-## Calcium-sensing receptor alleviates gut damage caused by endotoxemia by regulating gut microbiota.
- 10.01.2024, _Y Sun, J Song, H Liu, L Li, K Xiao, W Mao, C Jiang_
+## Lactobacillus reuteri inhibits Staphylococcus aureus-induced mastitis by regulating oxytocin releasing and gut microbiota in mice.
+ 10.01.2024, _Z He, W Li, W Yuan, Y He, J Xu, C Yuan, C Zhao, N Zhang, Y Fu, X Hu_
 
 
-Growing evidence points to an association between the gut microbiota and neonatal diseases. Calcium-sensing receptor (CaSR) is a major modulator of tissue responses associated with calcium homeostasis and is highly expressed in the mammalian gut. CaSR may affect the composition and balance of the intestinal microenvironment.
+Mastitis is the most frequent disease of cows and has well-recognized detrimental effects on animal wellbeing and dairy farm profitability. With the advent of the postantibiotic era, alternative antibiotic agents, especially probiotics, have received increasing attention in the treatment of mastitis. Based on research showing that Lactobacillus reuteri (L. reuteri) has anti-inflammatory effects, this study explored the protective effects and mechanisms of L. reuteri against mastitis induced by Staphylococcus aureus (S. aureus) in mice. First, mice with S. aureus-induced mastitis were orally administered L. reuteri, and the inflammatory response in the mammary gland was observed. The results showed that L. reuteri significantly inhibited S. aureus-induced mastitis. Moreover, the concentration of oxytocin (OT) and protein expression of oxytocin receptor (OTR) were measured, and inhibition of OTR or vagotomy reversed the protective effect of L. reuteri or its culture supernatant (LCS) on S. aureus-induced mastitis. In addition, in mouse mammary epithelial cells (MMECs), OT inhibited the inflammation induced by S. aureus by inhibiting the protein expression of OTR. It was suggested that L. reuteri protected against S. aureus-induced mastitis by releasing OT. Furthermore, microbiological analysis showed that the composition of the microbiota was altered, and the relative abundance of Lactobacillus was significantly increased in gut and mammary gland after treatment with L. reuteri or LCS. In conclusion, our study found the L. reuteri inhibited the mastitis-induced by S. aureus via promoting the release of OT, and treatment with L. reuteri increased the abundance of Lactobacillus in both gut and mammary gland.
 
 [Source](https://twitter.com/hashtag/Lactobacillus?src=hash&ref_src=twsrc%5Etfw)
 
-10.21037/tp-23-327
+10.1096/fj.202301961R
 
 ---
 
@@ -143,15 +143,15 @@ The levonorgestrel-releasing intrauterine device containing 13.5 mg of levonorge
 
 ---
 
-## Diagnostic accuracy of prenatal ultrasound in coarctation of aorta: systematic review and individual participant data meta-analysis.
- 10.01.2024, _C Villalaín, F D'Antonio, ME Flacco, E Gómez-Montes, I Herraiz, L Deiros-Bronte, SA Maskatia, AA Phillips, E Contro, K Fricke, A Bhawna, MJ Beattie, AJ Moon-Grady, I Durand, M Slodki, M Respondek-Liberska, C Patel, H Kawamura, G Rizzo, G Pagani, A Galindo_
+## Cumulative Update of a Systematic Overview Evaluating Interventions Addressing Polypharmacy.
+ 10.01.2024, _MS Keller, N Qureshi, AM Mays, CA Sarkisian, JM Pevnick_
 
 
-to determine the diagnostic accuracy of prenatal ultrasound (US) in detecting coarctation of aorta (CoA).
+Polypharmacy is associated with mortality, falls, hospitalizations, and functional and cognitive decline. The study of polypharmacy-related interventions has increased substantially, prompting the need for an updated, more focused systematic overview.
 
 [Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
 
-10.1002/uog.27576
+10.1001/jamanetworkopen.2023.50963
 
 ---
 
@@ -255,15 +255,15 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 
 ---
 
-## Impact analysis of hydraulic residence time and dissolved oxygen on performance efficiency and microbial community in N, N-dimethylformamide wastewater treated by an AnSBR-ASBR.
- 09.01.2024, _Y Wang, L Cao, Y Lu, J Liao, Y Lu, C Su, S Gao_
+## Spinal cord abnormal autophagy and mitochondria energy metabolism are modified by swim training in SOD1-G93A mice.
+ 10.01.2024, _KP Dzik, DJ Flis, KB Kaczor-Keller, ZK Bytowska, MJ Karnia, W Ziółkowski, JJ Kaczor_
 
 
-Suitable operating parameters are one of the key factors to efficient and stable biological wastewater treatment of N, N-dimethylformamide (DMF) wastewater. In this study, an improved AnSBR-ASBR reactor (anaerobic sequencing batch reactor, AnSBR, and aerobic SBR, ASBR, run in series) was used to investigated the effects of operating conditions such as hydraulic residence time (HRT), AnSBR stirring speed and ASBR dissolved oxygen (DO) for DMF wastewater treatment. When HRT decreased from 24 h to 12 h, the average removal rates of COD by the AnSBR were 34.59% and 39.54%, respectively. Meanwhile, the removal rate of NH4+-N by ASBR decreased from 88.38% to 62.81%. The DMF removal rate reached the best at 18 h and the expression of dehydrogenase was the highest in the AnSBR. The abundance of Megasphaera, the dominant sugar-degrading bacteria in the AnSBR, continued to decline due to the decrease of HRT. The relative abundance of Methanobacterium gradually increased to 80.2% with the decrease of HRT and that hydrotrophic methanogenesis dominated the methanogenic process. The HRT decrease promoted butyrate and pyruvate metabolism in anaerobic sludge, but the proportion of glycolysis and methane metabolism decreased. The AnSBR-ASBR reactor had the best operation performance when HRT was 18 h, AnSBR speed was 220 r/min, and ASBR DO content was 3-4 mg/L. This study provided an effective reference for the reasonable selection of operating parameters in the treatment of DMF-containing wastewater by the AnSBR-ASBR.
+Amyotrophic lateral sclerosis (ALS) may result from the dysfunctions of various mechanisms such as protein accumulation, mitophagy, and biogenesis of mitochondria. The purpose of the study was to evaluate the molecular mechanisms in ALS development and the impact of swim training on these processes. In the present study, an animal model of ALS, SOD1-G93A mice, was used with the wild-type mice as controls. Mice swam five times per week for 30 min. Mice were analyzed before ALS onset (70 days old), at ALS 1 disease onset (116 days old), and at the terminal stage of the disease ALS (130 days old), and compared with the corresponding ALS untrained groups and normalized to the wild-type group. Enzyme activity and protein content were analyzed in the spinal cord homogenates. The results show autophagy disruptions causing accumulation of p62 accompanied by low PGC-1α and IGF-1 content in the spinal cord of SOD1-G93A mice. Swim training triggered a neuroprotective effect, attenuation of NF-l degradation, less accumulated p62, and lower autophagy initiation. The IGF-1 pathway induces pathophysiological adaptation to maintain energy demands through anaerobic metabolism and mitochondrial protection. KEY MESSAGES: The increased protein content of p62 in the spinal cord of SOD1-G93A mice suggests that autophagic clearance and transportation are disrupted. Swim training attenuates neurofilament light destruction in the spinal cord of SOD1-G93A mice. Swim training reducing OGDH provokes suppression of ATP-consuming anabolic pathways. Swim training induces energy metabolic changes and mitochondria protection through the IGF-1 signaling pathway.
 
 [Source](https://twitter.com/hashtag/anaerobic?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.envpol.2024.123326
+10.1007/s00109-023-02410-8
 
 ---
 
@@ -273,33 +273,21 @@ Suitable operating parameters are one of the key factors to efficient and stable
 
 ---
 
-## Nutritional quality of the traditionally cooked Zamnè, a wild legume and a delicacy in Burkina Faso: assessment of the process effectiveness and the properties of cooking alkalis.
- 10.01.2024, _MS Drabo, H Shumoy, B De Meulenaer, A Savadogo, K Raes_
-
-
-Zamnè is a wild legume and a famine food that attracts interest for its health benefits and has become a delicacy in Burkina Faso. This study aimed to determine the nutritional quality of the traditionally cooked Zamnè, appreciate the effectiveness of the traditional cooking process, and compare the properties of the traditionally used cooking alkalis (i.e., potash or plant ash leachate and sodium bicarbonate). Yet, as shown, the traditional cooking of Zamnè is a very aggressive process that results in high disintegration of cell walls and membranes and leaching of most water-soluble constituents and nutrients (i.e., free amino acids, soluble nitrogen, sugars, soluble dietary fibers, and soluble phenolics). In addition, the extensive boiling and the cooking alkalis induced the sequestration of calcium, iron, magnesium, and zinc, significantly impairing their bioaccessibility. Despite the difference in the modus operandi of the cooking alkalis, there was no significant difference in the cooking outcomes. The traditionally cooked Zamnè presented high dietary protein (4.8 g), lipid (3.3 g), fiber (6.7-7.7 g), and metabolizable energy (63-65 kcal) contents (per 100 g fresh weight). Most antinutritional factors (i.e., non-protein nitrogen, tannins, and trypsin inhibitors) were eliminated. The proteins were relatively well preserved despite the aggressive alkaline processing. They demonstrated an appreciable digestibility (75%) and predicted PER (1.5) and a fairly balanced essential amino acid composition - which should completely meet the requirements for adults. The lipid content and composition were also well preserved and contained predominantly linoleic (C18:2n-6), oleic (C18:1c9), stearic (C18:0), and palmitic (C16:0) acids (33, 34, 10, and 15% total fatty acids, respectively). Overall, though extensive alkaline cooking seems a straightforward option to overcome the hard-to-cook problem of Zamnè, processing alternatives might be useful to reduce nutrient losses, improve the digestibility of the final product, and capture its full nutritional value.
-
-[Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
-
-10.1039/d3fo02912c
-
----
-
 ## #digestion
 
 [Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Gut microbiome-derived butyrate inhibits the immunosuppressive factors PD-L1 and IL-10 in tumor-associated macrophages in gastric cancer.
- 10.01.2024, _SY Lee, J Jhun, JS Woo, KH Lee, SH Hwang, J Moon, G Park, SS Choi, SJ Kim, YJ Jung, KY Song, ML Cho_
+## Genetic support of the causal association between gut microbiota and peripheral artery disease: a bidirectional Mendelian randomization study.
+ 10.01.2024, _H Shi, X Yuan, F Wu, X Li, W Fan, X Yang, G Liu_
 
 
-Early detection and surgical treatment are essential to achieve a good outcome in gastric cancer (GC). Stage IV and recurrent GC have a poor prognosis. Therefore, new treatments for GC are needed. We investigated the intestinal microbiome of GC patients and attempted to reverse the immunosuppression of the immune and cancer cells of GC patients through the modulation of microbiome metabolites. We evaluated the levels of programmed death-ligand 1 (PD-L1) and interleukin (IL)-10 in the peripheral blood immunocytes of GC patients. Cancer tissues were obtained from patients who underwent surgical resection of GC, and stained sections of cancer tissues were visualized via confocal microscopy. The intestinal microbiome was analyzed using stool samples of healthy individuals and GC patients. Patient-derived avatar model was developed by injecting peripheral blood mononuclear cells (PBMCs) from advanced GC (AGC) patients into NSG mice, followed by injection of AGS cells. PD-L1 and IL-10 had higher expression levels in immune cells of GC patients than in those of healthy controls. The levels of immunosuppressive factors were increased in the immune and tumor cells of tumor tissues of GC patients. The abundances of Faecalibacterium and Bifidobacterium in the intestinal flora were lower in GC patients than in healthy individuals. Butyrate, a representative microbiome metabolite, suppressed the expression levels of PD-L1 and IL-10 in immune cells. In addition, the PBMCs of AGC patients showed increased levels of immunosuppressive factors in the avatar mouse model. Butyrate inhibited tumor growth in mice. Restoration of the intestinal microbiome and its metabolic functions inhibit tumor growth and reverse the immunosuppression due to increased PD-L1 and IL-10 levels in PBMCs and tumor cells of GC patients.
+The causal relationship between gut microbiota and peripheral artery disease (PAD) is still not clear. In this research, we employed the Mendelian randomization (MR) technique to explore the potential causal connection between 211 gut microbiota species and PAD. We also investigated whether the causal effects operate in both directions.
 
 [Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
 
-10.1080/19490976.2023.2300846
+10.18632/aging.205417
 
 ---
 
@@ -315,21 +303,34 @@ Early detection and surgical treatment are essential to achieve a good outcome i
 
 ---
 
-## Gut microbiome-derived butyrate inhibits the immunosuppressive factors PD-L1 and IL-10 in tumor-associated macrophages in gastric cancer.
- 10.01.2024, _SY Lee, J Jhun, JS Woo, KH Lee, SH Hwang, J Moon, G Park, SS Choi, SJ Kim, YJ Jung, KY Song, ML Cho_
+## Genetic support of the causal association between gut microbiota and peripheral artery disease: a bidirectional Mendelian randomization study.
+ 10.01.2024, _H Shi, X Yuan, F Wu, X Li, W Fan, X Yang, G Liu_
 
 
-Early detection and surgical treatment are essential to achieve a good outcome in gastric cancer (GC). Stage IV and recurrent GC have a poor prognosis. Therefore, new treatments for GC are needed. We investigated the intestinal microbiome of GC patients and attempted to reverse the immunosuppression of the immune and cancer cells of GC patients through the modulation of microbiome metabolites. We evaluated the levels of programmed death-ligand 1 (PD-L1) and interleukin (IL)-10 in the peripheral blood immunocytes of GC patients. Cancer tissues were obtained from patients who underwent surgical resection of GC, and stained sections of cancer tissues were visualized via confocal microscopy. The intestinal microbiome was analyzed using stool samples of healthy individuals and GC patients. Patient-derived avatar model was developed by injecting peripheral blood mononuclear cells (PBMCs) from advanced GC (AGC) patients into NSG mice, followed by injection of AGS cells. PD-L1 and IL-10 had higher expression levels in immune cells of GC patients than in those of healthy controls. The levels of immunosuppressive factors were increased in the immune and tumor cells of tumor tissues of GC patients. The abundances of Faecalibacterium and Bifidobacterium in the intestinal flora were lower in GC patients than in healthy individuals. Butyrate, a representative microbiome metabolite, suppressed the expression levels of PD-L1 and IL-10 in immune cells. In addition, the PBMCs of AGC patients showed increased levels of immunosuppressive factors in the avatar mouse model. Butyrate inhibited tumor growth in mice. Restoration of the intestinal microbiome and its metabolic functions inhibit tumor growth and reverse the immunosuppression due to increased PD-L1 and IL-10 levels in PBMCs and tumor cells of GC patients.
+The causal relationship between gut microbiota and peripheral artery disease (PAD) is still not clear. In this research, we employed the Mendelian randomization (MR) technique to explore the potential causal connection between 211 gut microbiota species and PAD. We also investigated whether the causal effects operate in both directions.
 
 [Source](https://twitter.com/hashtag/Microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1080/19490976.2023.2300846
+10.18632/aging.205417
 
 ---
 
 ## #Microbiome
 
 [Source](https://twitter.com/hashtag/Microbiome?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Efficient SARS-CoV-2 infection antagonization by rhACE2 ectodomain multimerized onto the Avidin-Nucleic-Acid-NanoASsembly.
+ 03.01.2024, _S Bernardotto, I Frasson, S Faravelli, A Morelli, E Schiavon, GY Moscatiello, MB Violatto, A Pinnola, A Canciani, A Mattarei, G Rossi, M Brini, L Pasetto, V Bonetto, P Bigini, F Forneris, SN Richter, M Morpurgo_
+
+
+_Animals, Humans, Mice, COVID-19, SARS-CoV-2, Avidin, Angiotensin-Converting Enzyme 2, Nucleic Acids, Tissue Distribution, Protein Binding, Receptors, Virus, Lipids_
+Nanodecoy systems based on analogues of viral cellular receptors assembled onto fluid lipid-based membranes of nano/extravescicles are potential new tools to complement classic therapeutic or preventive antiviral approaches. The need for lipid-based membranes for transmembrane receptor anchorage may pose technical challenges along industrial translation, calling for alternative geometries for receptor multimerization. Here we developed a semisynthetic self-assembling SARS-CoV-2 nanodecoy by multimerizing the biotin labelled virus cell receptor -ACE2- ectodomain onto a poly-avidin nanoparticle (NP) based on the Avidin-Nucleic-Acid-NanoASsembly-ANANAS. The ability of the assembly to prevent SARS-CoV-2 infection in human lung cells and the affinity of the ACE2:viral receptor-binding domain (RBD) interaction were measured at different ACE2:NP ratios. At ACE2:NP = 30, 90 % SARS-CoV-2 infection inhibition at ACE2 nanomolar concentration was registered on both Wuhan and Omicron variants, with ten-fold higher potency than the monomeric protein. Lower and higher ACE2 densities were less efficient suggesting that functional recognition between multi-ligand NPs and multi-receptor virus surfaces requires optimal geometrical relationships. In vivo studies in mice showed that the biodistribution and safety profiles of the nanodecoy are potentially suitable for preventing viral infection upon nasal instillation. Viral receptor multimerization using ANANAS is a convenient process which, in principle, could be rapidly adapted to counteract also other viral infections.
+
+[Source](https://twitter.com/DiBio_UniPD?ref_src=twsrc%5Etfw)
+
+10.1016/j.biomaterials.2023.122394
 
 ---
 
@@ -381,15 +382,15 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 
 ---
 
-## Diagnostic accuracy of prenatal ultrasound in coarctation of aorta: systematic review and individual participant data meta-analysis.
- 10.01.2024, _C Villalaín, F D'Antonio, ME Flacco, E Gómez-Montes, I Herraiz, L Deiros-Bronte, SA Maskatia, AA Phillips, E Contro, K Fricke, A Bhawna, MJ Beattie, AJ Moon-Grady, I Durand, M Slodki, M Respondek-Liberska, C Patel, H Kawamura, G Rizzo, G Pagani, A Galindo_
+## Cumulative Update of a Systematic Overview Evaluating Interventions Addressing Polypharmacy.
+ 10.01.2024, _MS Keller, N Qureshi, AM Mays, CA Sarkisian, JM Pevnick_
 
 
-to determine the diagnostic accuracy of prenatal ultrasound (US) in detecting coarctation of aorta (CoA).
+Polypharmacy is associated with mortality, falls, hospitalizations, and functional and cognitive decline. The study of polypharmacy-related interventions has increased substantially, prompting the need for an updated, more focused systematic overview.
 
 [Source](https://twitter.com/campanarostef/status/1742576845915070538?ref_src=twsrc%5Etfw)
 
-10.1002/uog.27576
+10.1001/jamanetworkopen.2023.50963
 
 ---
 
