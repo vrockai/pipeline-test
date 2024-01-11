@@ -59,18 +59,6 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Prevalence and pattern of functional gastrointestinal disorders among secondary school adolescents in Lagos, Nigeria.
- 10.01.2024, _T Kumolu-Johnson, IO Senbanjo_
-
-
-Limited data exist on functional gastrointestinal disorders (FGIDs) among sub-Saharan African children. This study aimed to determine FGID prevalence and pattern among secondary school adolescents in Lagos, Nigeria.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1737811126937645489?ref_src=twsrc%5Etfw)
-
-10.1093/tropej/fmad048
-
----
-
 ## December 21, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1737811126937645489?ref_src=twsrc%5Etfw)
@@ -101,15 +89,15 @@ Recent decades have seen an exponential rise in global obesity prevalence, with 
 
 ---
 
-## Antibacterial properties and urease suppression ability of Lactobacillus inhibit the development of infectious urinary stones caused by Proteus mirabilis.
- 10.01.2024, _D Szczerbiec, K Bednarska-Szczepaniak, A Torzewska_
+## Core and variable antimicrobial resistance genes in the gut microbiomes of Chinese and European pigs.
+ 10.01.2024, _CH Tong, ZP Huo, L Diao, DY Xiao, RN Zhao, ZL Zeng, WG Xiong_
 
 
-Infectious urolithiasis is a type of urolithiasis, that is caused by infections of the urinary tract by bacteria producing urease such as Proteus mirabilis. Lactobacillus spp. have an antagonistic effect against many pathogens by secreting molecules, including organic acids. The aim of the study was to determine the impact of Lactobacillus strains isolated from human urine on crystallization of urine components caused by P. mirabilis by measuring bacterial viability (CFU/mL), pH, ammonia release, concentration of crystallized salts and by observing crystals by phase contrast microscopy. Moreover, the effect of lactic acid on the activity of urease was examined by the kinetic method and in silico study. In the presence of selected Lactobacillus strains, the crystallization process was inhibited. The results indicate that one of the mechanisms of this action was the antibacterial effect of Lactobacillus, especially in the presence of L. gasseri, where ten times less P. mirabilis bacteria was observed, compared to the control. It was also demonstrated that lactic acid inhibited urease activity by a competitive mechanism and had a higher binding affinity to the enzyme than urea. These results demonstrate that Lactobacillus and lactic acid have a great impact on the urinary stones development, which in the future may help to support the treatment of this health problem.
+Monitoring the prevalence of antimicrobial resistance genes (ARGs) is vital for addressing the global crisis of antibiotic-resistant bacterial infections. Despite its importance, the characterization of ARGs and microbiome structures, as well as the identification of indicators for routine ARG monitoring in pig farms, are still lacking, particularly concerning variations in antimicrobial exposure in different countries or regions. Here, metagenomics and random forest machine learning were used to elucidate the ARG profiles, microbiome structures, and ARG contamination indicators in pig manure under different antimicrobial pressures between China and Europe. Results showed that Chinese pigs exposed to high-level antimicrobials exhibited higher total and plasmid-mediated ARG abundances compared to those in European pigs ( P&lt;0.05). ANT(6)-Ib, APH(3')-IIIa, and tet(40) were identified as shared core ARGs between the two pig populations. Furthermore, the core ARGs identified in pig populations were correlated with those found in human populations within the same geographical regions. Lactobacillus and Prevotella were identified as the dominant genera in the core microbiomes of Chinese and European pigs, respectively. Forty ARG markers and 43 biomarkers were able to differentiate between the Chinese and European pig manure samples with accuracies of 100% and 98.7%, respectively. Indicators for assessing ARG contamination in Chinese and European pigs also achieved high accuracy ( r=0.72-0.88). Escherichia flexneri in both Chinese and European pig populations carried between 21 and 37 ARGs. The results of this study emphasize the importance of global collaboration in reducing antimicrobial resistance risk and provide validated indicators for evaluating the risk of ARG contamination in pig farms.
 
 [Source](https://twitter.com/hashtag/Lactobacillus?src=hash&ref_src=twsrc%5Etfw)
 
-10.1038/s41598-024-51323-0
+10.24272/j.issn.2095-8137.2023.012
 
 ---
 
@@ -199,16 +187,9 @@ Establishing the infant's gut microbiota has long-term implications on health an
 
 ---
 
-## Deciphering the gut microbiome of grass carp through multi-omics approach.
- 06.01.2024, _M Li, H Liang, H Yang, Q Ding, R Xia, J Chen, W Zhou, Y Yang, Z Zhang, Y Yao, C Ran, Z Zhou_
-
-
-_Animals, Gastrointestinal Microbiome, Carps, Multiomics, Microbiota, Proteobacteria, Fusobacteria, Bacteroidetes, Firmicutes, Fusobacterium, RNA, Ribosomal, 16S, Mammals_
-Aquaculture plays an important role in global protein supplies and food security. The ban on antibiotics as feed additive proposes urgent need to develop alternatives. Gut microbiota plays important roles in the metabolism and immunity of fish and has the potential to give rise to novel solutions for challenges confronted by fish culture. However, our understanding of fish gut microbiome is still lacking.
+## Deciphering the gut microbiome of grass carp through multi-omics approach 
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01715-7)
-
-10.1186/s40168-023-01715-7
 
 ---
 
@@ -255,15 +236,15 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 
 ---
 
-## Unravelling the role of anaerobic metabolism (pta-ackA) and virulence (misL and ssa) genes in Salmonella Heidelberg shedding using chicken infection model.
- 10.01.2024, _DFM Monte, MMS Saraiva, JM Cabrera, AM de Almeida, OC de Freitas Neto, PA Barrow, AB Junior_
+## Larger hydroxyapatite aggregation from Ca2+ adhesion in ANAMMOX granular sludge caused by high dissolved oxygen.
+ 10.01.2024, _M Yuan, Q Shan, M Fu, M Deng, J Wang, F Deng_
 
 
-The mechanism of colonisation of the chicken intestine by Salmonella remains poorly understood, while the severity of infections vary enormously depending on the serovar and the age of the bird. Several metabolism and virulence genes have been identified in Salmonella Heidelberg; however, information on their roles in infection, particularly in the chicken infection model, remains scarce. In the present publication, we investigated three Salmonella Heidelberg mutants containing deletions in misL, ssa, and pta-ackA genes by using signature-tagged mutagenesis. We found that mutations in these genes of S. Heidelberg result in an increase in fitness in the chicken model. The exception was perhaps the pta-ackA mutant where colonisation was slightly reduced (2, 7, 14, and 21 days post-infection) although some birds were still excreting at the end of the experiment. Our results suggest that for intestinal colonisation of the chicken caecum, substrate-level phosphorylation is likely to be more important than the MisL outer membrane protein or even the secretion system apparatus. These findings validate previous work that demonstrated the contribution of ackA and pta mutants to virulence in chickens, suggesting that the anaerobic metabolism genes such as pta-ackA could be a promising mitigation strategy to reduce S. Heidelberg virulence.
+Anaerobic ammonia oxidation (ANAMMOX) -a sustainable biological process-is promising to remove NH4+-N from municipal sewage. In this study, results showed that the anammox granular sludge morphology changes with the alternation of dissolved oxygen (DO), mainly attributing to the adhesion of calcium ions (Ca2+) to the surface of sludge particles. Diverse characterization methods revealed that gray adhesions in the form of hydroxyapatite covered the original holes on the anammox granular sludge surface, including Scanning Electron Microscopy (SEM), digital camera images, Energy Dispersive Spectrometer (EDS), and X-ray diffraction (XRD). Ex-situ degradation of NH4+-N and NO2--N yielded diverse outcomes. The protein to polysaccharide ratio (PN/PS) in the total extracellular polymeric substances (EPS) across 4 size groups demonstrated a decrease under O2 exposure. Microbial community analysis indicated norank_f_A4b and Nitrolancea being the most abundant genus under O2 exposure at day 1 and day 100, respectively. These findings offer an effective strategy to prevent size-larger granular sludge from deteriorating through changing DO and Ca2+ in municipal wastewater in ANAMMOX.
 
 [Source](https://twitter.com/hashtag/anaerobic?src=hash&ref_src=twsrc%5Etfw)
 
-10.1007/s42770-023-01241-6
+10.1016/j.chemosphere.2024.141158
 
 ---
 
@@ -394,59 +375,21 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 
 ---
 
-## The flexural strength of 3D-printed provisional restorations fabricated with different resins: a systematic review and meta-analysis.
- 10.01.2024, _RS Saini, V Gurumurthy, SA Quadri, SS Bavabeedu, KM Abdelaziz, A Okshah, AAF Alshadidi, L Yessayan, SA Mosaddad, A Heboyan_
-
-
-Three-dimensional (3D) printing technology has revolutionized dentistry, particularly in fabricating provisional restorations. This systematic review and meta-analysis aimed to thoroughly evaluate the flexural strength of provisional restorations produced using 3D printing while considering the impact of different resin materials.
-
-[Source](https://twitter.com/campanarostef/status/1742576845915070538?ref_src=twsrc%5Etfw)
-
-10.1186/s12903-023-03826-x
-
----
-
 ## January 3, 2024
 
 [Source](https://twitter.com/campanarostef/status/1742576845915070538?ref_src=twsrc%5Etfw)
 
 ---
 
-## Unraveling the interplay between root exudates, microbiota, and rhizosheath formation in pearl millet.
- 06.01.2024, _A Alahmad, M Harir, S Fochesato, J Tulumello, A Walker, M Barakat, PMS Ndour, P Schmitt-Kopplin, L Cournac, L Laplaze, T Heulin, W Achouak_
-
-
-_Pennisetum, RNA, Ribosomal, 16S, Plant Roots, Microbiota, Soil, Plants, Exudates and Transudates, Soil Microbiology, Rhizosphere_
-The rhizosheath, a cohesive soil layer firmly adhering to plant roots, plays a vital role in facilitating water and mineral uptake. In pearl millet, rhizosheath formation is genetically controlled and influenced by root exudates. Here, we investigated the impact of root exudates on the microbiota composition, interactions, and assembly processes, and rhizosheath structure in pearl millet using four distinct lines with contrasting soil aggregation abilities.
+## Unraveling the interplay between root exudates, microbiota, and rhizosheath formation in pearl millet
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01727-3)
 
-10.1186/s40168-023-01727-3
-
 ---
 
-## mEnrich-seq: methylation-guided enrichment sequencing of bacterial taxa of interest from microbiome.
- 04.01.2024, _L Cao, Y Kong, Y Fan, M Ni, A Tourancheau, M Ksiezarek, EA Mead, T Koo, M Gitman, XS Zhang, G Fang_
-
-
-Metagenomics has enabled the comprehensive study of microbiomes. However, many applications would benefit from a method that sequences specific bacterial taxa of interest, but not most background taxa. We developed mEnrich-seq (in which 'm' stands for methylation and seq for sequencing) for enriching taxa of interest from metagenomic DNA before sequencing. The core idea is to exploit the self versus nonself differentiation by natural bacterial DNA methylation and rationally choose methylation-sensitive restriction enzymes, individually or in combination, to deplete host and background taxa while enriching targeted taxa. This idea is integrated with library preparation procedures and applied in several applications to enrich (up to 117-fold) pathogenic or beneficial bacteria from human urine and fecal samples, including species that are hard to culture or of low abundance. We assessed 4,601 bacterial strains with mapped methylomes so far and showed broad applicability of mEnrich-seq. mEnrich-seq provides microbiome researchers with a versatile and cost-effective approach for selective sequencing of diverse taxa of interest.
+## mEnrich-seq: methylation-guided enrichment sequencing of bacterial taxa of interest from microbiome
 
 [Source](https://www.nature.com/articles/s41592-023-02125-1)
-
-10.1038/s41592-023-02125-1
-
----
-
-## Host genetic determinants drive compartment-specific assembly of tea plant microbiomes.
- 01.11.2022, _X Tan, H Xie, J Yu, Y Wang, J Xu, P Xu, B Ma_
-
-
-_Soil Microbiology, Camellia sinensis, Genome-Wide Association Study, Bacteria, Plant Roots, Microbiota, Tea_
-Diverse host factors drive microbial variation in plant-associated environments, whereas their genetic mechanisms remain largely unexplored. To address this, we coupled the analyses of plant genetics and microbiomes in this study. Using 100 tea plant (Camellia sinensis) cultivars, the microbiomes of rhizosphere, root endosphere and phyllosphere showed clear compartment-specific assembly, whereas the subpopulation differentiation of tea cultivars exhibited small effects on microbial variation in each compartment. Through microbiome genome-wide association studies, we examined the interactions between tea genetic loci and microbial variation. Notably, genes related to the cell wall and carbon catabolism were heavily linked to root endosphere microbial composition, whereas genes related to the metabolism of metal ions and small organic molecules were overrepresented in association with rhizosphere microbial composition. Moreover, a set of tea genetic variants, including the cytoskeleton-related formin homology interacting protein 1 gene, were strongly associated with the β-diversity of phyllosphere microbiomes, implying their interactions with the overall structure of microbial communities. Our results create a catalogue of tea genetic determinants interacting with microbiomes and reveal the compartment-specific microbiome assembly driven by host genetics.
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.12.27.573469v1)
-
-10.1111/pbi.13897
 
 ---
 
@@ -459,18 +402,6 @@ Diverse host factors drive microbial variation in plant-associated environments,
 ## https://t.co/otRNegCrYR
 
 [Source](https://t.co/otRNegCrYR)
-
----
-
-## Comprehensive Evaluation of the Ability of Comorbidity and Health Status Indices to Improve the Prediction of Perioperative Morbidity and Long-Term Survival Outcomes After Radical Cystectomy.
- 10.01.2024, _M von Deimling, M Rink, J Klemm, M Koelker, V Schuettfort, F König, P Gild, TA Ludwig, P Marks, R Dahlem, M Fisch, SF Shariat, MW Vetterlein_
-
-
-In the era of standardized outcome reporting, it remains unclear if widely used comorbidity and health status indices can enhance predictive accuracy for morbidity and long-term survival outcomes after radical cystectomy (RC).
-
-[Source](https://twitter.com/BigDataBiology/status/1740567854985203910?ref_src=twsrc%5Etfw)
-
-10.1016/j.clgc.2023.12.002
 
 ---
 
