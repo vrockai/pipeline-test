@@ -59,6 +59,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Prevalence and pattern of functional gastrointestinal disorders among secondary school adolescents in Lagos, Nigeria.
+ 10.01.2024, _T Kumolu-Johnson, IO Senbanjo_
+
+
+Limited data exist on functional gastrointestinal disorders (FGIDs) among sub-Saharan African children. This study aimed to determine FGID prevalence and pattern among secondary school adolescents in Lagos, Nigeria.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1737811126937645489?ref_src=twsrc%5Etfw)
+
+10.1093/tropej/fmad048
+
+---
+
 ## December 21, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1737811126937645489?ref_src=twsrc%5Etfw)
@@ -71,15 +83,51 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Sex differences in a mouse model of diet-induced obesity: the role of the gut microbiome.
+ 10.01.2024, _S Stapleton, G Welch, L DiBerardo, LR Freeman_
+
+
+Recent decades have seen an exponential rise in global obesity prevalence, with rates nearly doubling in a span of 40 years. A comprehensive knowledge base regarding the systemic effects of obesity is required to create new preventative and therapeutic agents effective at combating the current obesity epidemic. Previous studies of diet-induced obesity utilizing mouse models have demonstrated a difference in bodyweight gain by sex. In such studies, female mice gained significantly less weight than male mice when given the same high fat (HF) diet, indicating a resistance to diet-induced obesity. Research has also shown sex differences in gut microbiome composition between males and females, indicated to be in part a result of sex hormones. Understanding metabolic differences between sexes could assist in the development of new measures for obesity prevention and treatment. This study aimed to characterize sex differences in weight gain, plasma lipid profiles, fecal microbiota composition, and fecal short chain fatty acid levels. We hypothesized a role for the gut microbiome in these sex differences that would be normalized following microbiome depletion.
+
+[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
+
+10.1186/s13293-023-00580-1
+
+---
+
 ## #microbiome
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
+## Antibacterial properties and urease suppression ability of Lactobacillus inhibit the development of infectious urinary stones caused by Proteus mirabilis.
+ 10.01.2024, _D Szczerbiec, K Bednarska-Szczepaniak, A Torzewska_
+
+
+Infectious urolithiasis is a type of urolithiasis, that is caused by infections of the urinary tract by bacteria producing urease such as Proteus mirabilis. Lactobacillus spp. have an antagonistic effect against many pathogens by secreting molecules, including organic acids. The aim of the study was to determine the impact of Lactobacillus strains isolated from human urine on crystallization of urine components caused by P. mirabilis by measuring bacterial viability (CFU/mL), pH, ammonia release, concentration of crystallized salts and by observing crystals by phase contrast microscopy. Moreover, the effect of lactic acid on the activity of urease was examined by the kinetic method and in silico study. In the presence of selected Lactobacillus strains, the crystallization process was inhibited. The results indicate that one of the mechanisms of this action was the antibacterial effect of Lactobacillus, especially in the presence of L. gasseri, where ten times less P. mirabilis bacteria was observed, compared to the control. It was also demonstrated that lactic acid inhibited urease activity by a competitive mechanism and had a higher binding affinity to the enzyme than urea. These results demonstrate that Lactobacillus and lactic acid have a great impact on the urinary stones development, which in the future may help to support the treatment of this health problem.
+
+[Source](https://twitter.com/hashtag/Lactobacillus?src=hash&ref_src=twsrc%5Etfw)
+
+10.1038/s41598-024-51323-0
+
+---
+
 ## #Lactobacillus
 
 [Source](https://twitter.com/hashtag/Lactobacillus?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Characteristics and hormonal contraception use patterns of levonorgestrel 13.5 mg intrauterine device users in Sweden 2014-2016.
+ 16.10.2023, _M Linder, J Schoendorf, F Pisa, R Schulze-Rath, CE Cesta_
+
+
+The levonorgestrel-releasing intrauterine device containing 13.5 mg of levonorgestrel (LNG 13.5 mg IUD), Jaydess®, was approved for contraception by the European Medicines Agency in 2013. We aimed to describe the characteristics of new users of LNG 13.5 mg IUD in Sweden within the first 3 years after approval (2014-2016).
+
+[Source](https://twitter.com/hashtag/WomensHealth?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.contraception.2023.110309
 
 ---
 
@@ -95,15 +143,34 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## The flexural strength of 3D-printed provisional restorations fabricated with different resins: a systematic review and meta-analysis.
+ 10.01.2024, _RS Saini, V Gurumurthy, SA Quadri, SS Bavabeedu, KM Abdelaziz, A Okshah, AAF Alshadidi, L Yessayan, SA Mosaddad, A Heboyan_
+
+
+Three-dimensional (3D) printing technology has revolutionized dentistry, particularly in fabricating provisional restorations. This systematic review and meta-analysis aimed to thoroughly evaluate the flexural strength of provisional restorations produced using 3D printing while considering the impact of different resin materials.
+
+[Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
+
+10.1186/s12903-023-03826-x
+
+---
+
 ## January 3, 2024
 
 [Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
 
 ---
 
-## BilR is a gut microbial enzyme that reduces bilirubin to urobilinogen
+## BilR is a gut microbial enzyme that reduces bilirubin to urobilinogen.
+ 08.01.2024, _B Hall, S Levy, K Dufault-Thompson, G Arp, A Zhong, GM Ndjite, A Weiss, D Braccia, C Jenkins, MR Grant, S Abeysinghe, Y Yang, MD Jermain, CH Wu, B Ma, X Jiang_
+
+
+_Infant, Newborn, Adult, Humans, Bilirubin, Urobilinogen, Gastrointestinal Microbiome, Liver, Bacteria_
+Metabolism of haem by-products such as bilirubin by humans and their gut microbiota is essential to human health, as excess serum bilirubin can cause jaundice and even neurological damage. The bacterial enzymes that reduce bilirubin to urobilinogen, a key step in this pathway, have remained unidentified. Here we used biochemical analyses and comparative genomics to identify BilR as a gut-microbiota-derived bilirubin reductase that reduces bilirubin to urobilinogen. We delineated the BilR sequences from similar reductases through the identification of key residues critical for bilirubin reduction and found that BilR is predominantly encoded by Firmicutes species. Analysis of human gut metagenomes revealed that BilR is nearly ubiquitous in healthy adults, but prevalence is decreased in neonates and individuals with inflammatory bowel disease. This discovery sheds light on the role of the gut microbiome in bilirubin metabolism and highlights the significance of the gut-liver axis in maintaining bilirubin homeostasis.
 
 [Source](https://www.nature.com/articles/s41564-023-01549-x)
+
+10.1038/s41564-023-01549-x
 
 ---
 
@@ -132,9 +199,16 @@ Establishing the infant's gut microbiota has long-term implications on health an
 
 ---
 
-## Deciphering the gut microbiome of grass carp through multi-omics approach 
+## Deciphering the gut microbiome of grass carp through multi-omics approach.
+ 06.01.2024, _M Li, H Liang, H Yang, Q Ding, R Xia, J Chen, W Zhou, Y Yang, Z Zhang, Y Yao, C Ran, Z Zhou_
+
+
+_Animals, Gastrointestinal Microbiome, Carps, Multiomics, Microbiota, Proteobacteria, Fusobacteria, Bacteroidetes, Firmicutes, Fusobacterium, RNA, Ribosomal, 16S, Mammals_
+Aquaculture plays an important role in global protein supplies and food security. The ban on antibiotics as feed additive proposes urgent need to develop alternatives. Gut microbiota plays important roles in the metabolism and immunity of fish and has the potential to give rise to novel solutions for challenges confronted by fish culture. However, our understanding of fish gut microbiome is still lacking.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01715-7)
+
+10.1186/s40168-023-01715-7
 
 ---
 
@@ -150,9 +224,16 @@ Establishing the infant's gut microbiota has long-term implications on health an
 
 ---
 
-## Individualized microbiotas dictate the impact of dietary fiber on colitis sensitivity
+## Individualized microbiotas dictate the impact of dietary fiber on colitis sensitivity.
+ 08.01.2024, _E Bonazzi, A Bretin, L Vigué, F Hao, AD Patterson, AT Gewirtz, B Chassaing_
+
+
+_Humans, Mice, Animals, Psyllium, Inulin, Colitis, Dietary Fiber, Gastrointestinal Microbiome, Inflammatory Bowel Diseases_
+The observation that the intestinal microbiota is central in the development of IBD suggests that dietary fiber, the microbiota's primary source of nourishment, could play a central role in these diseases. Accordingly, enriching diets with specific soluble fibers remodels microbiota and modulates colitis sensitivity. In humans, a recent study suggests that the microbiota of select IBD patients might influence the impacts they would experience upon fiber exposure. We sought here to define the extent to which individual microbiotas varied in their responsiveness to purified soluble fiber inulin and psyllium. Moreover, the extent to which such variance might impact proneness to colitis.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01724-6)
+
+10.1186/s40168-023-01724-6
 
 ---
 
@@ -162,9 +243,27 @@ Establishing the infant's gut microbiota has long-term implications on health an
 
 ---
 
-## A unified compendium of prokaryotic and viral genomes from over 300 anaerobic digestion microbiomes
+## A unified compendium of prokaryotic and viral genomes from over 300 anaerobic digestion microbiomes.
+ 05.01.2024, _VB Centurion, A Rossi, E Orellana, G Ghiotto, B Kakuk, MS Morlino, A Basile, G Zampieri, L Treu, S Campanaro_
+
+
+The anaerobic digestion process degrades organic matter into simpler compounds and occurs in strictly anaerobic and microaerophilic environments. The process is carried out by a diverse community of microorganisms where each species has a unique role and it has relevant biotechnological applications since it is used for biogas production. Some aspects of the microbiome, including its interaction with phages, remains still unclear: a better comprehension of the community composition and role of each species is crucial for a cured understanding of the carbon cycle in anaerobic systems and improving biogas production.
 
 [Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-023-00545-2)
+
+10.1186/s40793-023-00545-2
+
+---
+
+## Unravelling the role of anaerobic metabolism (pta-ackA) and virulence (misL and ssa) genes in Salmonella Heidelberg shedding using chicken infection model.
+ 10.01.2024, _DFM Monte, MMS Saraiva, JM Cabrera, AM de Almeida, OC de Freitas Neto, PA Barrow, AB Junior_
+
+
+The mechanism of colonisation of the chicken intestine by Salmonella remains poorly understood, while the severity of infections vary enormously depending on the serovar and the age of the bird. Several metabolism and virulence genes have been identified in Salmonella Heidelberg; however, information on their roles in infection, particularly in the chicken infection model, remains scarce. In the present publication, we investigated three Salmonella Heidelberg mutants containing deletions in misL, ssa, and pta-ackA genes by using signature-tagged mutagenesis. We found that mutations in these genes of S. Heidelberg result in an increase in fitness in the chicken model. The exception was perhaps the pta-ackA mutant where colonisation was slightly reduced (2, 7, 14, and 21 days post-infection) although some birds were still excreting at the end of the experiment. Our results suggest that for intestinal colonisation of the chicken caecum, substrate-level phosphorylation is likely to be more important than the MisL outer membrane protein or even the secretion system apparatus. These findings validate previous work that demonstrated the contribution of ackA and pta mutants to virulence in chickens, suggesting that the anaerobic metabolism genes such as pta-ackA could be a promising mitigation strategy to reduce S. Heidelberg virulence.
+
+[Source](https://twitter.com/hashtag/anaerobic?src=hash&ref_src=twsrc%5Etfw)
+
+10.1007/s42770-023-01241-6
 
 ---
 
@@ -174,9 +273,33 @@ Establishing the infant's gut microbiota has long-term implications on health an
 
 ---
 
+## Short-term outcomes and long-term quality of life of reconstruction methods after proximal gastrectomy: a systematic review and meta-analysis.
+ 10.01.2024, _B Li, Y Wang, B Li, F Shan, Z Li_
+
+
+The optimal reconstruction method after proximal gastrectomy remains unclear. This systematic review and meta-analysis aimed to compare the short-term outcomes and long-term quality of life of various reconstruction methods.
+
+[Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
+
+10.1186/s12885-024-11827-4
+
+---
+
 ## #digestion
 
 [Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Sex differences in a mouse model of diet-induced obesity: the role of the gut microbiome.
+ 10.01.2024, _S Stapleton, G Welch, L DiBerardo, LR Freeman_
+
+
+Recent decades have seen an exponential rise in global obesity prevalence, with rates nearly doubling in a span of 40 years. A comprehensive knowledge base regarding the systemic effects of obesity is required to create new preventative and therapeutic agents effective at combating the current obesity epidemic. Previous studies of diet-induced obesity utilizing mouse models have demonstrated a difference in bodyweight gain by sex. In such studies, female mice gained significantly less weight than male mice when given the same high fat (HF) diet, indicating a resistance to diet-induced obesity. Research has also shown sex differences in gut microbiome composition between males and females, indicated to be in part a result of sex hormones. Understanding metabolic differences between sexes could assist in the development of new measures for obesity prevention and treatment. This study aimed to characterize sex differences in weight gain, plasma lipid profiles, fecal microbiota composition, and fecal short chain fatty acid levels. We hypothesized a role for the gut microbiome in these sex differences that would be normalized following microbiome depletion.
+
+[Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
+
+10.1186/s13293-023-00580-1
 
 ---
 
@@ -192,9 +315,34 @@ Establishing the infant's gut microbiota has long-term implications on health an
 
 ---
 
+## Sex differences in a mouse model of diet-induced obesity: the role of the gut microbiome.
+ 10.01.2024, _S Stapleton, G Welch, L DiBerardo, LR Freeman_
+
+
+Recent decades have seen an exponential rise in global obesity prevalence, with rates nearly doubling in a span of 40 years. A comprehensive knowledge base regarding the systemic effects of obesity is required to create new preventative and therapeutic agents effective at combating the current obesity epidemic. Previous studies of diet-induced obesity utilizing mouse models have demonstrated a difference in bodyweight gain by sex. In such studies, female mice gained significantly less weight than male mice when given the same high fat (HF) diet, indicating a resistance to diet-induced obesity. Research has also shown sex differences in gut microbiome composition between males and females, indicated to be in part a result of sex hormones. Understanding metabolic differences between sexes could assist in the development of new measures for obesity prevention and treatment. This study aimed to characterize sex differences in weight gain, plasma lipid profiles, fecal microbiota composition, and fecal short chain fatty acid levels. We hypothesized a role for the gut microbiome in these sex differences that would be normalized following microbiome depletion.
+
+[Source](https://twitter.com/hashtag/Microbiome?src=hash&ref_src=twsrc%5Etfw)
+
+10.1186/s13293-023-00580-1
+
+---
+
 ## #Microbiome
 
 [Source](https://twitter.com/hashtag/Microbiome?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Efficient SARS-CoV-2 infection antagonization by rhACE2 ectodomain multimerized onto the Avidin-Nucleic-Acid-NanoASsembly.
+ 03.01.2024, _S Bernardotto, I Frasson, S Faravelli, A Morelli, E Schiavon, GY Moscatiello, MB Violatto, A Pinnola, A Canciani, A Mattarei, G Rossi, M Brini, L Pasetto, V Bonetto, P Bigini, F Forneris, SN Richter, M Morpurgo_
+
+
+_Animals, Humans, Mice, COVID-19, SARS-CoV-2, Avidin, Angiotensin-Converting Enzyme 2, Nucleic Acids, Tissue Distribution, Protein Binding, Receptors, Virus, Lipids_
+Nanodecoy systems based on analogues of viral cellular receptors assembled onto fluid lipid-based membranes of nano/extravescicles are potential new tools to complement classic therapeutic or preventive antiviral approaches. The need for lipid-based membranes for transmembrane receptor anchorage may pose technical challenges along industrial translation, calling for alternative geometries for receptor multimerization. Here we developed a semisynthetic self-assembling SARS-CoV-2 nanodecoy by multimerizing the biotin labelled virus cell receptor -ACE2- ectodomain onto a poly-avidin nanoparticle (NP) based on the Avidin-Nucleic-Acid-NanoASsembly-ANANAS. The ability of the assembly to prevent SARS-CoV-2 infection in human lung cells and the affinity of the ACE2:viral receptor-binding domain (RBD) interaction were measured at different ACE2:NP ratios. At ACE2:NP = 30, 90 % SARS-CoV-2 infection inhibition at ACE2 nanomolar concentration was registered on both Wuhan and Omicron variants, with ten-fold higher potency than the monomeric protein. Lower and higher ACE2 densities were less efficient suggesting that functional recognition between multi-ligand NPs and multi-receptor virus surfaces requires optimal geometrical relationships. In vivo studies in mice showed that the biodistribution and safety profiles of the nanodecoy are potentially suitable for preventing viral infection upon nasal instillation. Viral receptor multimerization using ANANAS is a convenient process which, in principle, could be rapidly adapted to counteract also other viral infections.
+
+[Source](https://twitter.com/DiBio_UniPD?ref_src=twsrc%5Etfw)
+
+10.1016/j.biomaterials.2023.122394
 
 ---
 
@@ -246,15 +394,15 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 
 ---
 
-## Human alveolar echinococcosis in Slovakia: Epidemiology and genetic diversity of Echinococcus multilocularis, 2000-2023.
- 10.01.2024, _D Antolová, V Šnábel, J Jarošová, S Cavallero, S D'Amelio, Y Syrota, R Rosoľanka, M Avdičová, M Miterpáková_
+## The flexural strength of 3D-printed provisional restorations fabricated with different resins: a systematic review and meta-analysis.
+ 10.01.2024, _RS Saini, V Gurumurthy, SA Quadri, SS Bavabeedu, KM Abdelaziz, A Okshah, AAF Alshadidi, L Yessayan, SA Mosaddad, A Heboyan_
 
 
-Human alveolar echinococcosis (AE) is a serious parasitic disease caused by larval stages of Echinococcus multilocularis. Between January 2000 and October 2023, 137 AE cases were confirmed in Slovakia. The average annual incidence increased from 0.031 per 100,000 inhabitants between 2000 and 2011, to an average of 0.187 since 2012, i.e. about six times. Among patients, 45.3% were men and 54.7% were women; the mean age at the time of diagnosis was 52.8 years. Most cases were diagnosed in the age groups 51-60 years and 61-70 years (33 cases each), and eight patients fell into the age category ≤ 20 years. To better recognize the gene diversity in clinical samples, metacestodes from 21 patients collected between 2013 and 2021 were subjected to DNA sequencing of four mitochondrial genes. Using concatenated sequences of cob (603 bp), nad2 (882 bp) and cox1 (789 bp) gene fragments, 14 isolates (66.7%) were assigned to the European E5 profile of E. multilocularis, two isolates (9.5%) to the E5a subtype, four isolates (19%) to the E4 profile, and one isolate (4.8%) to haplogroup E1/E2. The E5-type profiles and E4 profiles were distributed throughout the country, whereas the E1/E2 profile was found in the patient from western Slovakia. According to the data obtained and GenBank sequences, the E5-type dispersal is so far limited to central-eastern Europe and the variant seems to be indigenous to that region. The admixture with the haplotypes E4 and E1/E2 could have taken place from a historical endemic focus during the fox expansion in the last decades. By employing the nad1 fragment, a typical European haplotype was observed in all 21 resolved Slovak samples. The acceleration in the AE incidence in the last decade suggests the emergence of the disease and the need for further research on human and animal isolates.
+Three-dimensional (3D) printing technology has revolutionized dentistry, particularly in fabricating provisional restorations. This systematic review and meta-analysis aimed to thoroughly evaluate the flexural strength of provisional restorations produced using 3D printing while considering the impact of different resin materials.
 
 [Source](https://twitter.com/campanarostef/status/1742576845915070538?ref_src=twsrc%5Etfw)
 
-10.1371/journal.pntd.0011876
+10.1186/s12903-023-03826-x
 
 ---
 
@@ -314,15 +462,15 @@ Diverse host factors drive microbial variation in plant-associated environments,
 
 ---
 
-## [Variability in Drug Procurement within Group 1B of the Pharmaceutical Specialized Scheme in Brazil].
- 10.01.2024, _P Rossignoli, R Pontarolo, F Fernandez-Llimos_
+## Comprehensive Evaluation of the Ability of Comorbidity and Health Status Indices to Improve the Prediction of Perioperative Morbidity and Long-Term Survival Outcomes After Radical Cystectomy.
+ 10.01.2024, _M von Deimling, M Rink, J Klemm, M Koelker, V Schuettfort, F König, P Gild, TA Ludwig, P Marks, R Dahlem, M Fisch, SF Shariat, MW Vetterlein_
 
 
-In the Brazilian Health System (SUS), drugs covered by the Specialized Pharmaceutical Scheme (CEAF) receive federal funding and can be procured either centrally (Group 1A) or by individual states (Federal Units - UF) (Group 1B). Unlike other countries where national procurement prices are negotiated centrally by the government, public procurement in Brazil follows a public auction procedure, potentially resulting in varying purchase prices. To facilitate price comparisons, it is a legal requirement to register public acquisitions in the Health Prices Registry (BPS). This study aimed to assess the variability in the procurement prices for Group 1B drugs across the 27 Brazilian states during 2021. Data on the acquisitions of Group 1B drugs by the 27 Health Secretariats were obtained from the BPS. Drugs with no reported reimbursement prices as of December 2021 were excluded from the analysis. The total reimbursement amount for each state was sourced from the SUS Ambulatory Information System. The findings revealed significant variability in drug procurement prices both across and within states. The study underscored a potential disparity in CEAF access, favoring wealthier states (those with larger populations and higher economic status) by securing lower drug prices.
+In the era of standardized outcome reporting, it remains unclear if widely used comorbidity and health status indices can enhance predictive accuracy for morbidity and long-term survival outcomes after radical cystectomy (RC).
 
 [Source](https://twitter.com/BigDataBiology/status/1740567854985203910?ref_src=twsrc%5Etfw)
 
-10.1590/1413-81232024291.18142022
+10.1016/j.clgc.2023.12.002
 
 ---
 
