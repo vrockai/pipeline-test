@@ -59,6 +59,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Efficacy and Safety of Brivaracetam in Persons With Epilepsy in a Real-World Setting: A Prospective, Non-Interventional Study.
+ 11.01.2024, _F Siddiqui, BA Soomro, M Badshah, EU Rehman, A Numan, A Ikram, MWA Khan, S Ali, H Hashim, JU Salam, A Akram, M Irfan Hashmat, S Iqbal, M Zeeshan Javed, SZ Iqbal, A Maqsood, A Khan, N Maheshwary, MA Khan_
+
+
+Epilepsy stands out as one of the most prevalent neurological conditions. Brivaracetam (BRV) is a noteworthy antiseizure medication (ASM) distinguished by its pronounced and selective interaction with the synaptic vesicle protein 2A (SV2A) within the brain. Prior investigations, including regulatory trials, post-marketing assessments, and comparative meta-analyses, have consistently underscored BRV's equivalency in efficacy and superior tolerability when pitted against other antiseizure drugs. This study aimed to evaluate the effectiveness, safety, and acceptability of BRV in treating epileptic patients in the Pakistani population.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1737811126937645489?ref_src=twsrc%5Etfw)
+
+10.7759/cureus.50313
+
+---
+
 ## December 21, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1737811126937645489?ref_src=twsrc%5Etfw)
@@ -71,15 +83,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Sex differences in a mouse model of diet-induced obesity: the role of the gut microbiome.
- 10.01.2024, _S Stapleton, G Welch, L DiBerardo, LR Freeman_
+## Revisiting the Role of Valeric Acid in Manipulating Ulcerative Colitis.
+ 11.01.2024, _M Liu, Y Zhang, J Liu, C Xiang, Q Lu, H Lu, T Yang, X Wang, Q Zhang, C Fan, C Feng, D Zou, H Li, W Tang_
 
 
-Recent decades have seen an exponential rise in global obesity prevalence, with rates nearly doubling in a span of 40 years. A comprehensive knowledge base regarding the systemic effects of obesity is required to create new preventative and therapeutic agents effective at combating the current obesity epidemic. Previous studies of diet-induced obesity utilizing mouse models have demonstrated a difference in bodyweight gain by sex. In such studies, female mice gained significantly less weight than male mice when given the same high fat (HF) diet, indicating a resistance to diet-induced obesity. Research has also shown sex differences in gut microbiome composition between males and females, indicated to be in part a result of sex hormones. Understanding metabolic differences between sexes could assist in the development of new measures for obesity prevention and treatment. This study aimed to characterize sex differences in weight gain, plasma lipid profiles, fecal microbiota composition, and fecal short chain fatty acid levels. We hypothesized a role for the gut microbiome in these sex differences that would be normalized following microbiome depletion.
+Ulcerative colitis (UC) is characterized by a complicated interaction between mucosal inflammation, epithelial dysfunction, abnormal activation of innate immune responses, and gut microbiota dysbiosis. Though valeric acid (VA), one type of short-chain fatty acids (SCFAs), has been identified in other inflammatory disorders and cancer development, the pathological role of VA and underlying mechanism of VA in UC remain under further investigation.
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1186/s13293-023-00580-1
+10.1093/ibd/izad187
 
 ---
 
@@ -89,15 +101,15 @@ Recent decades have seen an exponential rise in global obesity prevalence, with 
 
 ---
 
-## Core and variable antimicrobial resistance genes in the gut microbiomes of Chinese and European pigs.
- 10.01.2024, _CH Tong, ZP Huo, L Diao, DY Xiao, RN Zhao, ZL Zeng, WG Xiong_
+## Cholesterol lowering in diet-induced hypercholesterolemic mice using Lactobacillus bile salt hydrolases with different substrate specificities.
+ 11.01.2024, _M Zhao, W Kuang, J Yang, Y Liu, M Yang, Y Chen, H Zhu, Y Yang_
 
 
-Monitoring the prevalence of antimicrobial resistance genes (ARGs) is vital for addressing the global crisis of antibiotic-resistant bacterial infections. Despite its importance, the characterization of ARGs and microbiome structures, as well as the identification of indicators for routine ARG monitoring in pig farms, are still lacking, particularly concerning variations in antimicrobial exposure in different countries or regions. Here, metagenomics and random forest machine learning were used to elucidate the ARG profiles, microbiome structures, and ARG contamination indicators in pig manure under different antimicrobial pressures between China and Europe. Results showed that Chinese pigs exposed to high-level antimicrobials exhibited higher total and plasmid-mediated ARG abundances compared to those in European pigs ( P&lt;0.05). ANT(6)-Ib, APH(3')-IIIa, and tet(40) were identified as shared core ARGs between the two pig populations. Furthermore, the core ARGs identified in pig populations were correlated with those found in human populations within the same geographical regions. Lactobacillus and Prevotella were identified as the dominant genera in the core microbiomes of Chinese and European pigs, respectively. Forty ARG markers and 43 biomarkers were able to differentiate between the Chinese and European pig manure samples with accuracies of 100% and 98.7%, respectively. Indicators for assessing ARG contamination in Chinese and European pigs also achieved high accuracy ( r=0.72-0.88). Escherichia flexneri in both Chinese and European pig populations carried between 21 and 37 ARGs. The results of this study emphasize the importance of global collaboration in reducing antimicrobial resistance risk and provide validated indicators for evaluating the risk of ARG contamination in pig farms.
+The cholesterol-lowering effect of lactic acid bacteria with high activity of bile salt hydrolase (BSH) is unclear. We believe that distinguishing BSH substrate specificity is necessary to study the effect of various BSH enzymes. We engineered a BSH mutant enzyme recombinant strain named F67A, which exclusively hydrolyzes taurocholic acid (TCA) using site-directed mutagenesis, and a previously lab-constructed BSH recombinant strain, YB81 that exclusively hydrolyzes glycocholic acid (GCA). We also constructed the recombinant strain named NB5462, which carries the empty pSIP411 plasmid and was used as a blank control strain. The intestinal flora in pseudo-germ-free (PGF) mice in which intestinal flora were eliminated via antibiotics, and F67A successfully reduced serum cholesterol levels in high-cholesterol diet-fed mice, whereas YB81 did not yield the same results. However, YB81 regained its cholesterol-lowering capacity in specific pathogen-free (SPF) mice with intact intestinal flora. The cholesterol-lowering mechanism of F67A involved modifying the bile acid pool through BSH enzyme activity. This adjustment regulated the expression of intestinal farnesoid X receptor and subsequently elevated hepatic cholesterol 7α-hydroxylase (CYP7A1), effectively reducing cholesterol levels. Conversely, GCA, the substrate of YB81, was found in minimal quantities in mice, preventing it from inducing changes in bile acid pools. In the presence of intestinal flora, the YB81 BSH enzyme induced notable alterations in bile acids by regulating changes in the intestinal flora and BSH within the flora, ultimately resulting in cholesterol reduction. This is the first study investigating the substrate specificity of BSH, demonstrating that different substrate-specific BSH enzymes exhibit cholesterol-lowering properties. Additionally, we elaborate on the mechanism of BSH-mediated enterohepatic axis regulation.
 
 [Source](https://twitter.com/hashtag/Lactobacillus?src=hash&ref_src=twsrc%5Etfw)
 
-10.24272/j.issn.2095-8137.2023.012
+10.1039/d3fo04871c
 
 ---
 
@@ -128,18 +140,6 @@ The levonorgestrel-releasing intrauterine device containing 13.5 mg of levonorge
 ## https://t.co/8Rx5qpeXtz
 
 [Source](https://t.co/8Rx5qpeXtz)
-
----
-
-## The flexural strength of 3D-printed provisional restorations fabricated with different resins: a systematic review and meta-analysis.
- 10.01.2024, _RS Saini, V Gurumurthy, SA Quadri, SS Bavabeedu, KM Abdelaziz, A Okshah, AAF Alshadidi, L Yessayan, SA Mosaddad, A Heboyan_
-
-
-Three-dimensional (3D) printing technology has revolutionized dentistry, particularly in fabricating provisional restorations. This systematic review and meta-analysis aimed to thoroughly evaluate the flexural strength of provisional restorations produced using 3D printing while considering the impact of different resin materials.
-
-[Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
-
-10.1186/s12903-023-03826-x
 
 ---
 
@@ -187,9 +187,16 @@ Establishing the infant's gut microbiota has long-term implications on health an
 
 ---
 
-## Deciphering the gut microbiome of grass carp through multi-omics approach 
+## Deciphering the gut microbiome of grass carp through multi-omics approach.
+ 06.01.2024, _M Li, H Liang, H Yang, Q Ding, R Xia, J Chen, W Zhou, Y Yang, Z Zhang, Y Yao, C Ran, Z Zhou_
+
+
+_Animals, Gastrointestinal Microbiome, Carps, Multiomics, Microbiota, Proteobacteria, Fusobacteria, Bacteroidetes, Firmicutes, Fusobacterium, RNA, Ribosomal, 16S, Mammals_
+Aquaculture plays an important role in global protein supplies and food security. The ban on antibiotics as feed additive proposes urgent need to develop alternatives. Gut microbiota plays important roles in the metabolism and immunity of fish and has the potential to give rise to novel solutions for challenges confronted by fish culture. However, our understanding of fish gut microbiome is still lacking.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01715-7)
+
+10.1186/s40168-023-01715-7
 
 ---
 
@@ -236,15 +243,15 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 
 ---
 
-## Larger hydroxyapatite aggregation from Ca2+ adhesion in ANAMMOX granular sludge caused by high dissolved oxygen.
- 10.01.2024, _M Yuan, Q Shan, M Fu, M Deng, J Wang, F Deng_
+## Evolution of Rhodopseudomonas palustris to degrade halogenated aromatic compounds involves changes in pathway regulation and enzyme specificity.
+ 11.01.2024, _IU Haq, A Christensen, KR Fixen_
 
 
-Anaerobic ammonia oxidation (ANAMMOX) -a sustainable biological process-is promising to remove NH4+-N from municipal sewage. In this study, results showed that the anammox granular sludge morphology changes with the alternation of dissolved oxygen (DO), mainly attributing to the adhesion of calcium ions (Ca2+) to the surface of sludge particles. Diverse characterization methods revealed that gray adhesions in the form of hydroxyapatite covered the original holes on the anammox granular sludge surface, including Scanning Electron Microscopy (SEM), digital camera images, Energy Dispersive Spectrometer (EDS), and X-ray diffraction (XRD). Ex-situ degradation of NH4+-N and NO2--N yielded diverse outcomes. The protein to polysaccharide ratio (PN/PS) in the total extracellular polymeric substances (EPS) across 4 size groups demonstrated a decrease under O2 exposure. Microbial community analysis indicated norank_f_A4b and Nitrolancea being the most abundant genus under O2 exposure at day 1 and day 100, respectively. These findings offer an effective strategy to prevent size-larger granular sludge from deteriorating through changing DO and Ca2+ in municipal wastewater in ANAMMOX.
+Biodegradation of man-made compounds often involves the activity of promiscuous enzymes whose native substrate is structurally similar to the man-made compound. Based on the enzymes involved, it is possible to predict what microorganisms are likely involved in biodegradation of anthropogenic compounds. However, there are examples of organisms that contain the required enzyme(s) and yet cannot metabolize these compounds. We found that even when the purple nonsulfur bacterium, Rhodopseudomonas palustris, encodes all the enzymes required for degradation of a halogenated aromatic compound, it is unable to metabolize that compound. Using adaptive evolution, we found that a regulatory mutation and a variant of promiscuous enzyme with increased substrate specificity were required. This work provides insight into how an environmental isolate evolved to use a halogenated aromatic compound.
 
 [Source](https://twitter.com/hashtag/anaerobic?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.chemosphere.2024.141158
+10.1128/aem.02104-23
 
 ---
 
@@ -254,15 +261,14 @@ Anaerobic ammonia oxidation (ANAMMOX) -a sustainable biological process-is promi
 
 ---
 
-## Short-term outcomes and long-term quality of life of reconstruction methods after proximal gastrectomy: a systematic review and meta-analysis.
- 10.01.2024, _B Li, Y Wang, B Li, F Shan, Z Li_
+## HIMALAYA Overall Survival Prominence and Other Routes to the Peak-Reply.
+ 11.01.2024, _JM Llovet, S Cappuyns, RS Finn_
 
 
-The optimal reconstruction method after proximal gastrectomy remains unclear. This systematic review and meta-analysis aimed to compare the short-term outcomes and long-term quality of life of various reconstruction methods.
 
 [Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
 
-10.1186/s12885-024-11827-4
+10.1001/jamaoncol.2023.6271
 
 ---
 
@@ -272,15 +278,15 @@ The optimal reconstruction method after proximal gastrectomy remains unclear. Th
 
 ---
 
-## Sex differences in a mouse model of diet-induced obesity: the role of the gut microbiome.
- 10.01.2024, _S Stapleton, G Welch, L DiBerardo, LR Freeman_
+## Revisiting the Role of Valeric Acid in Manipulating Ulcerative Colitis.
+ 11.01.2024, _M Liu, Y Zhang, J Liu, C Xiang, Q Lu, H Lu, T Yang, X Wang, Q Zhang, C Fan, C Feng, D Zou, H Li, W Tang_
 
 
-Recent decades have seen an exponential rise in global obesity prevalence, with rates nearly doubling in a span of 40 years. A comprehensive knowledge base regarding the systemic effects of obesity is required to create new preventative and therapeutic agents effective at combating the current obesity epidemic. Previous studies of diet-induced obesity utilizing mouse models have demonstrated a difference in bodyweight gain by sex. In such studies, female mice gained significantly less weight than male mice when given the same high fat (HF) diet, indicating a resistance to diet-induced obesity. Research has also shown sex differences in gut microbiome composition between males and females, indicated to be in part a result of sex hormones. Understanding metabolic differences between sexes could assist in the development of new measures for obesity prevention and treatment. This study aimed to characterize sex differences in weight gain, plasma lipid profiles, fecal microbiota composition, and fecal short chain fatty acid levels. We hypothesized a role for the gut microbiome in these sex differences that would be normalized following microbiome depletion.
+Ulcerative colitis (UC) is characterized by a complicated interaction between mucosal inflammation, epithelial dysfunction, abnormal activation of innate immune responses, and gut microbiota dysbiosis. Though valeric acid (VA), one type of short-chain fatty acids (SCFAs), has been identified in other inflammatory disorders and cancer development, the pathological role of VA and underlying mechanism of VA in UC remain under further investigation.
 
 [Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
 
-10.1186/s13293-023-00580-1
+10.1093/ibd/izad187
 
 ---
 
@@ -296,15 +302,15 @@ Recent decades have seen an exponential rise in global obesity prevalence, with 
 
 ---
 
-## Sex differences in a mouse model of diet-induced obesity: the role of the gut microbiome.
- 10.01.2024, _S Stapleton, G Welch, L DiBerardo, LR Freeman_
+## Revisiting the Role of Valeric Acid in Manipulating Ulcerative Colitis.
+ 11.01.2024, _M Liu, Y Zhang, J Liu, C Xiang, Q Lu, H Lu, T Yang, X Wang, Q Zhang, C Fan, C Feng, D Zou, H Li, W Tang_
 
 
-Recent decades have seen an exponential rise in global obesity prevalence, with rates nearly doubling in a span of 40 years. A comprehensive knowledge base regarding the systemic effects of obesity is required to create new preventative and therapeutic agents effective at combating the current obesity epidemic. Previous studies of diet-induced obesity utilizing mouse models have demonstrated a difference in bodyweight gain by sex. In such studies, female mice gained significantly less weight than male mice when given the same high fat (HF) diet, indicating a resistance to diet-induced obesity. Research has also shown sex differences in gut microbiome composition between males and females, indicated to be in part a result of sex hormones. Understanding metabolic differences between sexes could assist in the development of new measures for obesity prevention and treatment. This study aimed to characterize sex differences in weight gain, plasma lipid profiles, fecal microbiota composition, and fecal short chain fatty acid levels. We hypothesized a role for the gut microbiome in these sex differences that would be normalized following microbiome depletion.
+Ulcerative colitis (UC) is characterized by a complicated interaction between mucosal inflammation, epithelial dysfunction, abnormal activation of innate immune responses, and gut microbiota dysbiosis. Though valeric acid (VA), one type of short-chain fatty acids (SCFAs), has been identified in other inflammatory disorders and cancer development, the pathological role of VA and underlying mechanism of VA in UC remain under further investigation.
 
 [Source](https://twitter.com/hashtag/Microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1186/s13293-023-00580-1
+10.1093/ibd/izad187
 
 ---
 
@@ -381,15 +387,41 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 
 ---
 
-## Unraveling the interplay between root exudates, microbiota, and rhizosheath formation in pearl millet
+## Unraveling the interplay between root exudates, microbiota, and rhizosheath formation in pearl millet.
+ 06.01.2024, _A Alahmad, M Harir, S Fochesato, J Tulumello, A Walker, M Barakat, PMS Ndour, P Schmitt-Kopplin, L Cournac, L Laplaze, T Heulin, W Achouak_
+
+
+_Pennisetum, RNA, Ribosomal, 16S, Plant Roots, Microbiota, Soil, Plants, Exudates and Transudates, Soil Microbiology, Rhizosphere_
+The rhizosheath, a cohesive soil layer firmly adhering to plant roots, plays a vital role in facilitating water and mineral uptake. In pearl millet, rhizosheath formation is genetically controlled and influenced by root exudates. Here, we investigated the impact of root exudates on the microbiota composition, interactions, and assembly processes, and rhizosheath structure in pearl millet using four distinct lines with contrasting soil aggregation abilities.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01727-3)
 
+10.1186/s40168-023-01727-3
+
 ---
 
-## mEnrich-seq: methylation-guided enrichment sequencing of bacterial taxa of interest from microbiome
+## mEnrich-seq: methylation-guided enrichment sequencing of bacterial taxa of interest from microbiome.
+ 04.01.2024, _L Cao, Y Kong, Y Fan, M Ni, A Tourancheau, M Ksiezarek, EA Mead, T Koo, M Gitman, XS Zhang, G Fang_
+
+
+Metagenomics has enabled the comprehensive study of microbiomes. However, many applications would benefit from a method that sequences specific bacterial taxa of interest, but not most background taxa. We developed mEnrich-seq (in which 'm' stands for methylation and seq for sequencing) for enriching taxa of interest from metagenomic DNA before sequencing. The core idea is to exploit the self versus nonself differentiation by natural bacterial DNA methylation and rationally choose methylation-sensitive restriction enzymes, individually or in combination, to deplete host and background taxa while enriching targeted taxa. This idea is integrated with library preparation procedures and applied in several applications to enrich (up to 117-fold) pathogenic or beneficial bacteria from human urine and fecal samples, including species that are hard to culture or of low abundance. We assessed 4,601 bacterial strains with mapped methylomes so far and showed broad applicability of mEnrich-seq. mEnrich-seq provides microbiome researchers with a versatile and cost-effective approach for selective sequencing of diverse taxa of interest.
 
 [Source](https://www.nature.com/articles/s41592-023-02125-1)
+
+10.1038/s41592-023-02125-1
+
+---
+
+## Host genetic determinants drive compartment-specific assembly of tea plant microbiomes.
+ 01.11.2022, _X Tan, H Xie, J Yu, Y Wang, J Xu, P Xu, B Ma_
+
+
+_Soil Microbiology, Camellia sinensis, Genome-Wide Association Study, Bacteria, Plant Roots, Microbiota, Tea_
+Diverse host factors drive microbial variation in plant-associated environments, whereas their genetic mechanisms remain largely unexplored. To address this, we coupled the analyses of plant genetics and microbiomes in this study. Using 100 tea plant (Camellia sinensis) cultivars, the microbiomes of rhizosphere, root endosphere and phyllosphere showed clear compartment-specific assembly, whereas the subpopulation differentiation of tea cultivars exhibited small effects on microbial variation in each compartment. Through microbiome genome-wide association studies, we examined the interactions between tea genetic loci and microbial variation. Notably, genes related to the cell wall and carbon catabolism were heavily linked to root endosphere microbial composition, whereas genes related to the metabolism of metal ions and small organic molecules were overrepresented in association with rhizosphere microbial composition. Moreover, a set of tea genetic variants, including the cytoskeleton-related formin homology interacting protein 1 gene, were strongly associated with the β-diversity of phyllosphere microbiomes, implying their interactions with the overall structure of microbial communities. Our results create a catalogue of tea genetic determinants interacting with microbiomes and reveal the compartment-specific microbiome assembly driven by host genetics.
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.12.27.573469v1)
+
+10.1111/pbi.13897
 
 ---
 
@@ -402,6 +434,18 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 ## https://t.co/otRNegCrYR
 
 [Source](https://t.co/otRNegCrYR)
+
+---
+
+## Steady Decline of HBV DNA Load under NAs in Lymphoma Patients and a Higher Level of qAnti-HBc Predict HBV Reactivation.
+ 11.01.2024, _Y Liu, R Nuersulitan, C Zhang, N Huo, J Li, Y Song, J Zhu, W Liu, H Zhao_
+
+
+Background: Patients with lymphoma and chronic hepatitis B virus infection need to be treated with both chemotherapy and nucleotide analogue (NA) therapy. However, dynamic changes in HBV DNA loads with increasing chemotherapy cycles are lacking. It is unknown whether HBV replication markers, namely, the quantitative hepatitis B core antibody (qAnti-HBc), HBV RNA, and the hepatitis B virus core-related antigen (HBcrAg), are also markers for predicting HBV reactivation (HBVr). Methods: From 29 June 2010 to 6 December 2021, the data of patients with single-site diffuse large B-cell lymphoma and HBV infection (HBsAg+ and HBsAg-/anti-HBc+) were collected from a hospital medical record system, retrospectively. Serum HBV DNA loads (using real-time fluorescent quantitative PCR tests), qAnti-HBc levels (using a newly developed chemiluminescent particle immunoassay), HBV RNA levels (using the simultaneous amplification testing method based on real-time fluorescence detection), and HBcrAg levels (using a Lumipulse G HBcrAg assay) were tested, and factors related to HBVr were analyzed. Results: Under NAs, the HBV DNA loads of 69 HBsAg+ lymphoma patients declined from 3.15 (2.13-4.73) lg IU/mL to 1.00 (1.00-1.75) lg IU/mL, and further declined to 1.00 (1.00-1.04) lg IU/mL at the end of a 24-month follow-up. The qAnti-HBc levels decreased gradually during chemotherapy in HBsAg+ lymphoma patients (F = 7.090, p = 0.009). The HBV RNA and HBcrAg levels remained stable. A multivariate analysis revealed that higher qAnti-HBc levels (1.97 ± 1.20 vs. 1.12 ± 0.84 lg IU/mL, OR = 6.369, [95% CI: 1.523-26.641], p = 0.011) and higher HBV RNA levels (1.00 ± 1.13 vs. 0.37 ± 0.80 lg copies/mL, OR = 3.299, [95% CI: 1.229-8.854], p = 0.018) were related to HBVr in HBsAg-/anti-HBc+ lymphoma patients. Conclusions: HBV DNA loads declined under NAs during chemotherapy in lymphoma patients. In HBsAg-/anti-HBc+ lymphoma patients, a higher level of baseline serum qAnti-HBc and HBV RNA levels can predict the likelihood of HBVr during chemotherapy.
+
+[Source](https://twitter.com/BigDataBiology/status/1740567854985203910?ref_src=twsrc%5Etfw)
+
+10.3390/jcm13010023
 
 ---
 
