@@ -83,15 +83,15 @@ Epilepsy stands out as one of the most prevalent neurological conditions. Brivar
 
 ---
 
-## Revisiting the Role of Valeric Acid in Manipulating Ulcerative Colitis.
- 11.01.2024, _M Liu, Y Zhang, J Liu, C Xiang, Q Lu, H Lu, T Yang, X Wang, Q Zhang, C Fan, C Feng, D Zou, H Li, W Tang_
+## Characteristics of the gut microbiome of Swiss elite athletes with a spinal cord injury: An exploratory study.
+ 11.01.2024, _E Valido, A Bertolo, A Hertig-Godeschalk, JL Flueck, B Ruettimann, M Glisic, J Stoyanov_
 
 
-Ulcerative colitis (UC) is characterized by a complicated interaction between mucosal inflammation, epithelial dysfunction, abnormal activation of innate immune responses, and gut microbiota dysbiosis. Though valeric acid (VA), one type of short-chain fatty acids (SCFAs), has been identified in other inflammatory disorders and cancer development, the pathological role of VA and underlying mechanism of VA in UC remain under further investigation.
+To illustrate and explore associations between the gut microbiome and spinal cord injury (SCI) characteristics, physical training, dietary intake, body composition, and blood biomarkers of elite Swiss athletes.
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1093/ibd/izad187
+10.1080/10790268.2023.2265610
 
 ---
 
@@ -140,6 +140,18 @@ The levonorgestrel-releasing intrauterine device containing 13.5 mg of levonorge
 ## https://t.co/8Rx5qpeXtz
 
 [Source](https://t.co/8Rx5qpeXtz)
+
+---
+
+## Regulations and Funding to Create Enterprise Architecture for a Nationwide Health Data Ecosystem.
+ 11.01.2024, _G Seidman, A AlKasir, K Ricker, JT Lane, AB Zink, MA Williams_
+
+
+The COVID-19 pandemic highlighted the United States' lack of a nationwide infrastructure for collecting, sharing, and using health data, especially for secondary uses (e.g., population health management and public health). The federal government is taking several important steps to upgrade the nation's health data ecosystem-notably, the Centers for Disease Control and Prevention's Data Modernization Initiative and the Office of the National Coordinator for Health Information Technology's Trusted Exchange Framework and Common Agreement. However, substantial barriers remain. Inconsistent regulations, infrastructure, and governance across federal and state levels and between states significantly impede the exchange and analysis of health data. Siloed systems and insufficient funding block effective integration of clinical, public health, and social determinants data within and between states. In this analytic essay, we propose strategies to develop a nationwide health data ecosystem. We focus on providing federal guidance and incentives to develop state-designated entities responsible for the collection, integration, and analysis of clinical, public health, social determinants of health, claims, administrative, and other relevant data. These recommendations include a regulatory clearinghouse, federal guidance, model legislation and templated regulation, funding to incentive enterprise architecture, regulatory sandboxes, and a 3-pronged research agenda. (Am J Public Health. Published online ahead of print January 11, 2024:e1-e9. https://doi.org/10.2105/AJPH.2023.307477).
+
+[Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
+
+10.2105/AJPH.2023.307477
 
 ---
 
@@ -243,15 +255,15 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 
 ---
 
-## Evolution of Rhodopseudomonas palustris to degrade halogenated aromatic compounds involves changes in pathway regulation and enzyme specificity.
- 11.01.2024, _IU Haq, A Christensen, KR Fixen_
+## The salivary microbiota of patients with acute lower respiratory tract infection-A multicenter cohort study.
+ 11.01.2024, _MB Rogers, A Harner, M Buhay, B Firek, B Methé, A Morris, OMP Palmer, SB Promes, RL Sherwin, L Southerland, AR Vieira, S Yende, MJ Morowitz, DT Huang_
 
 
-Biodegradation of man-made compounds often involves the activity of promiscuous enzymes whose native substrate is structurally similar to the man-made compound. Based on the enzymes involved, it is possible to predict what microorganisms are likely involved in biodegradation of anthropogenic compounds. However, there are examples of organisms that contain the required enzyme(s) and yet cannot metabolize these compounds. We found that even when the purple nonsulfur bacterium, Rhodopseudomonas palustris, encodes all the enzymes required for degradation of a halogenated aromatic compound, it is unable to metabolize that compound. Using adaptive evolution, we found that a regulatory mutation and a variant of promiscuous enzyme with increased substrate specificity were required. This work provides insight into how an environmental isolate evolved to use a halogenated aromatic compound.
+The human microbiome contributes to health and disease, but the oral microbiota is understudied relative to the gut microbiota. The salivary microbiota is easily accessible, underexplored, and may provide insight into response to infections. We sought to determine the composition, association with clinical features, and heterogeneity of the salivary microbiota in patients with acute lower respiratory tract infection (LRTI). We conducted a multicenter prospective cohort study of 147 adults with acute LRTI presenting to the emergency department of seven hospitals in three states (Pennsylvania, Michigan, and Ohio) between May 2017 and November 2018. Salivary samples were collected in the emergency department, at days 2-5 if hospitalized, and at day 30, as well as fecal samples if patients were willing. We compared salivary microbiota profiles from patients to those of healthy adult volunteers by sequencing and analyzing bacterial 16-rRNA. Compared to healthy volunteers, the salivary microbiota of patients with LRTI was highly distinct and strongly enriched with intestinal anaerobes such as Bacteroidaceae, Ruminococcaceae, and Lachnospiraceae (e.g., mean 10% relative abundance of Bacteroides vs &lt; 1% in healthy volunteers). Within the LRTI population, COPD exacerbation was associated with altered salivary microbiota composition compared to other LRTI conditions. The largest determinant of microbiota variation within the LRTI population was geography (city in which the hospital was located).
 
 [Source](https://twitter.com/hashtag/anaerobic?src=hash&ref_src=twsrc%5Etfw)
 
-10.1128/aem.02104-23
+10.1371/journal.pone.0290062
 
 ---
 
@@ -261,32 +273,21 @@ Biodegradation of man-made compounds often involves the activity of promiscuous 
 
 ---
 
-## HIMALAYA Overall Survival Prominence and Other Routes to the Peak-Reply.
- 11.01.2024, _JM Llovet, S Cappuyns, RS Finn_
-
-
-
-[Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
-
-10.1001/jamaoncol.2023.6271
-
----
-
 ## #digestion
 
 [Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Revisiting the Role of Valeric Acid in Manipulating Ulcerative Colitis.
- 11.01.2024, _M Liu, Y Zhang, J Liu, C Xiang, Q Lu, H Lu, T Yang, X Wang, Q Zhang, C Fan, C Feng, D Zou, H Li, W Tang_
+## Characteristics of the gut microbiome of Swiss elite athletes with a spinal cord injury: An exploratory study.
+ 11.01.2024, _E Valido, A Bertolo, A Hertig-Godeschalk, JL Flueck, B Ruettimann, M Glisic, J Stoyanov_
 
 
-Ulcerative colitis (UC) is characterized by a complicated interaction between mucosal inflammation, epithelial dysfunction, abnormal activation of innate immune responses, and gut microbiota dysbiosis. Though valeric acid (VA), one type of short-chain fatty acids (SCFAs), has been identified in other inflammatory disorders and cancer development, the pathological role of VA and underlying mechanism of VA in UC remain under further investigation.
+To illustrate and explore associations between the gut microbiome and spinal cord injury (SCI) characteristics, physical training, dietary intake, body composition, and blood biomarkers of elite Swiss athletes.
 
 [Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
 
-10.1093/ibd/izad187
+10.1080/10790268.2023.2265610
 
 ---
 
@@ -302,15 +303,15 @@ Ulcerative colitis (UC) is characterized by a complicated interaction between mu
 
 ---
 
-## Revisiting the Role of Valeric Acid in Manipulating Ulcerative Colitis.
- 11.01.2024, _M Liu, Y Zhang, J Liu, C Xiang, Q Lu, H Lu, T Yang, X Wang, Q Zhang, C Fan, C Feng, D Zou, H Li, W Tang_
+## Characteristics of the gut microbiome of Swiss elite athletes with a spinal cord injury: An exploratory study.
+ 11.01.2024, _E Valido, A Bertolo, A Hertig-Godeschalk, JL Flueck, B Ruettimann, M Glisic, J Stoyanov_
 
 
-Ulcerative colitis (UC) is characterized by a complicated interaction between mucosal inflammation, epithelial dysfunction, abnormal activation of innate immune responses, and gut microbiota dysbiosis. Though valeric acid (VA), one type of short-chain fatty acids (SCFAs), has been identified in other inflammatory disorders and cancer development, the pathological role of VA and underlying mechanism of VA in UC remain under further investigation.
+To illustrate and explore associations between the gut microbiome and spinal cord injury (SCI) characteristics, physical training, dietary intake, body composition, and blood biomarkers of elite Swiss athletes.
 
 [Source](https://twitter.com/hashtag/Microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1093/ibd/izad187
+10.1080/10790268.2023.2265610
 
 ---
 
@@ -381,6 +382,18 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 
 ---
 
+## Regulations and Funding to Create Enterprise Architecture for a Nationwide Health Data Ecosystem.
+ 11.01.2024, _G Seidman, A AlKasir, K Ricker, JT Lane, AB Zink, MA Williams_
+
+
+The COVID-19 pandemic highlighted the United States' lack of a nationwide infrastructure for collecting, sharing, and using health data, especially for secondary uses (e.g., population health management and public health). The federal government is taking several important steps to upgrade the nation's health data ecosystem-notably, the Centers for Disease Control and Prevention's Data Modernization Initiative and the Office of the National Coordinator for Health Information Technology's Trusted Exchange Framework and Common Agreement. However, substantial barriers remain. Inconsistent regulations, infrastructure, and governance across federal and state levels and between states significantly impede the exchange and analysis of health data. Siloed systems and insufficient funding block effective integration of clinical, public health, and social determinants data within and between states. In this analytic essay, we propose strategies to develop a nationwide health data ecosystem. We focus on providing federal guidance and incentives to develop state-designated entities responsible for the collection, integration, and analysis of clinical, public health, social determinants of health, claims, administrative, and other relevant data. These recommendations include a regulatory clearinghouse, federal guidance, model legislation and templated regulation, funding to incentive enterprise architecture, regulatory sandboxes, and a 3-pronged research agenda. (Am J Public Health. Published online ahead of print January 11, 2024:e1-e9. https://doi.org/10.2105/AJPH.2023.307477).
+
+[Source](https://twitter.com/campanarostef/status/1742576845915070538?ref_src=twsrc%5Etfw)
+
+10.2105/AJPH.2023.307477
+
+---
+
 ## January 3, 2024
 
 [Source](https://twitter.com/campanarostef/status/1742576845915070538?ref_src=twsrc%5Etfw)
@@ -437,15 +450,15 @@ Diverse host factors drive microbial variation in plant-associated environments,
 
 ---
 
-## Steady Decline of HBV DNA Load under NAs in Lymphoma Patients and a Higher Level of qAnti-HBc Predict HBV Reactivation.
- 11.01.2024, _Y Liu, R Nuersulitan, C Zhang, N Huo, J Li, Y Song, J Zhu, W Liu, H Zhao_
+## Democratizing Native Hawaiian and Pacific Islander Data: Examining Community Accessibility of Data for Health and the Social Drivers of Health.
+ 11.01.2024, _BN Morey, CS Penaia, ' Tulua, RC Chang, R Tanghal, JH Tran, NA Ponce_
 
 
-Background: Patients with lymphoma and chronic hepatitis B virus infection need to be treated with both chemotherapy and nucleotide analogue (NA) therapy. However, dynamic changes in HBV DNA loads with increasing chemotherapy cycles are lacking. It is unknown whether HBV replication markers, namely, the quantitative hepatitis B core antibody (qAnti-HBc), HBV RNA, and the hepatitis B virus core-related antigen (HBcrAg), are also markers for predicting HBV reactivation (HBVr). Methods: From 29 June 2010 to 6 December 2021, the data of patients with single-site diffuse large B-cell lymphoma and HBV infection (HBsAg+ and HBsAg-/anti-HBc+) were collected from a hospital medical record system, retrospectively. Serum HBV DNA loads (using real-time fluorescent quantitative PCR tests), qAnti-HBc levels (using a newly developed chemiluminescent particle immunoassay), HBV RNA levels (using the simultaneous amplification testing method based on real-time fluorescence detection), and HBcrAg levels (using a Lumipulse G HBcrAg assay) were tested, and factors related to HBVr were analyzed. Results: Under NAs, the HBV DNA loads of 69 HBsAg+ lymphoma patients declined from 3.15 (2.13-4.73) lg IU/mL to 1.00 (1.00-1.75) lg IU/mL, and further declined to 1.00 (1.00-1.04) lg IU/mL at the end of a 24-month follow-up. The qAnti-HBc levels decreased gradually during chemotherapy in HBsAg+ lymphoma patients (F = 7.090, p = 0.009). The HBV RNA and HBcrAg levels remained stable. A multivariate analysis revealed that higher qAnti-HBc levels (1.97 ± 1.20 vs. 1.12 ± 0.84 lg IU/mL, OR = 6.369, [95% CI: 1.523-26.641], p = 0.011) and higher HBV RNA levels (1.00 ± 1.13 vs. 0.37 ± 0.80 lg copies/mL, OR = 3.299, [95% CI: 1.229-8.854], p = 0.018) were related to HBVr in HBsAg-/anti-HBc+ lymphoma patients. Conclusions: HBV DNA loads declined under NAs during chemotherapy in lymphoma patients. In HBsAg-/anti-HBc+ lymphoma patients, a higher level of baseline serum qAnti-HBc and HBV RNA levels can predict the likelihood of HBVr during chemotherapy.
+Making data accessible to communities is essential for developing community-driven solutions to address health inequities. In this analytic essay, we highlight the importance of democratizing data for Native Hawaiians and Pacific Islanders (NHPIs)-diverse populations that historically have had little access to their data-in the context of achieving equity in health and the social drivers of health. We provide a framework for evaluating community accessibility of data, which includes concepts of data availability, salience, cost, and report back. We apply the framework to evaluate community accessibility of NHPI data from 29 federal data sources. In addition, we provide results from a survey of NHPI-serving community organizations in California conducted from December 2021 to February 2022 to assess community data needs. Findings reveal federal gaps in data accessibility, as well as NHPI community organizational needs for increased data accessibility, data saliency, and technical capacity. Furthermore, organization leads expressed concerns about data privacy, security, and misuse. We provide recommendations for data custodians to improve accessibility of timely, accurate, and robust data to support NHPI communities. (Am J Public Health. 2024;114(S1):S103-S111. https://doi.org/10.2105/AJPH.2023.307503).
 
 [Source](https://twitter.com/BigDataBiology/status/1740567854985203910?ref_src=twsrc%5Etfw)
 
-10.3390/jcm13010023
+10.2105/AJPH.2023.307503
 
 ---
 
