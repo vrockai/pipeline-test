@@ -83,6 +83,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Characteristics and hormonal contraception use patterns of levonorgestrel 13.5 mg intrauterine device users in Sweden 2014-2016.
+ 16.10.2023, _M Linder, J Schoendorf, F Pisa, R Schulze-Rath, CE Cesta_
+
+
+The levonorgestrel-releasing intrauterine device containing 13.5 mg of levonorgestrel (LNG 13.5 mg IUD), Jaydess®, was approved for contraception by the European Medicines Agency in 2013. We aimed to describe the characteristics of new users of LNG 13.5 mg IUD in Sweden within the first 3 years after approval (2014-2016).
+
+[Source](https://twitter.com/hashtag/WomensHealth?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.contraception.2023.110309
+
+---
+
 ## #WomensHealth
 
 [Source](https://twitter.com/hashtag/WomensHealth?src=hash&ref_src=twsrc%5Etfw)
@@ -95,21 +107,47 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Rosie, a Health Education Question-and-Answer Chatbot for New Mothers: Randomized Pilot Study.
+ 12.01.2024, _QC Nguyen, EM Aparicio, M Jasczynski, A Channell Doig, X Yue, H Mane, N Srikanth, FXM Gutierrez, N Delcid, X He, J Boyd-Graber_
+
+
+Stark disparities exist in maternal and child outcomes and there is a need to provide timely and accurate health information.
+
+[Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
+
+10.2196/51361
+
+---
+
 ## January 3, 2024
 
 [Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
 
 ---
 
-## BilR is a gut microbial enzyme that reduces bilirubin to urobilinogen
+## BilR is a gut microbial enzyme that reduces bilirubin to urobilinogen.
+ 08.01.2024, _B Hall, S Levy, K Dufault-Thompson, G Arp, A Zhong, GM Ndjite, A Weiss, D Braccia, C Jenkins, MR Grant, S Abeysinghe, Y Yang, MD Jermain, CH Wu, B Ma, X Jiang_
+
+
+_Infant, Newborn, Adult, Humans, Bilirubin, Urobilinogen, Gastrointestinal Microbiome, Liver, Bacteria_
+Metabolism of haem by-products such as bilirubin by humans and their gut microbiota is essential to human health, as excess serum bilirubin can cause jaundice and even neurological damage. The bacterial enzymes that reduce bilirubin to urobilinogen, a key step in this pathway, have remained unidentified. Here we used biochemical analyses and comparative genomics to identify BilR as a gut-microbiota-derived bilirubin reductase that reduces bilirubin to urobilinogen. We delineated the BilR sequences from similar reductases through the identification of key residues critical for bilirubin reduction and found that BilR is predominantly encoded by Firmicutes species. Analysis of human gut metagenomes revealed that BilR is nearly ubiquitous in healthy adults, but prevalence is decreased in neonates and individuals with inflammatory bowel disease. This discovery sheds light on the role of the gut microbiome in bilirubin metabolism and highlights the significance of the gut-liver axis in maintaining bilirubin homeostasis.
 
 [Source](https://www.nature.com/articles/s41564-023-01549-x)
 
+10.1038/s41564-023-01549-x
+
 ---
 
-## Influence of feeding practices in the composition and functionality of infant gut microbiota and its relationship with health
+## Influence of feeding practices in the composition and functionality of infant gut microbiota and its relationship with health.
+ 06.01.2024, _M Martínez-Martínez, M Martínez-Martínez, R Soria-Guerra, S Gamiño-Gutiérrez, C Senés-Guerrero, A Santacruz, R Flores-Ramírez, A Salazar-Martínez, D Portales-Pérez, H Bach, F Martínez-Gutiérrez_
+
+
+_Infant, Newborn, Infant, Female, Child, Humans, Gastrointestinal Microbiome, Cross-Sectional Studies, Volatile Organic Compounds, Breast Feeding, Immunoglobulin A, Infant Formula_
+Establishing the infant's gut microbiota has long-term implications on health and immunity. Breastfeeding is recognized as the best practice of infant nutrition in comparison with formula feeding. We evaluated the effects of the primary feeding practices by analyzing the infant growth and the potential association with gut diseases. A cross-sectional and observational study was designed. This study included 55 mothers with infants, who were divided according to their feeding practices in breastfeeding (BF), formula feeding (FF), and combined breast and formula feeding (CF). Anthropometric measurements of the participants were recorded. Additionally, non-invasive fecal samples from the infants were collected to analyze the microbiota by sequencing, immunoglobulin A (IgA) concentration (ELISA), and volatile organic compounds (gas chromatography with an electronic nose). Results showed that the microbiota diversity in the BF group was the highest compared to the other two groups. The IgA levels in the BF group were twice as high as those in the FF group. Moreover, the child´s growth in the BF group showed the best infant development when the data were compared at birth to the recollection time, as noted by the correlation with a decreased concentration of toxic volatile organic compounds. Interestingly, the CF group showed a significant difference in health status when the data were compared with the FF group. We conclude that early health practices influence children's growth, which is relevant to further research about how those infants' health evolved.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294494)
+
+10.1371/journal.pone.0294494
 
 ---
 
@@ -125,9 +163,16 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Deciphering the gut microbiome of grass carp through multi-omics approach 
+## Deciphering the gut microbiome of grass carp through multi-omics approach.
+ 06.01.2024, _M Li, H Liang, H Yang, Q Ding, R Xia, J Chen, W Zhou, Y Yang, Z Zhang, Y Yao, C Ran, Z Zhou_
+
+
+_Animals, Gastrointestinal Microbiome, Carps, Multiomics, Microbiota, Proteobacteria, Fusobacteria, Bacteroidetes, Firmicutes, Fusobacterium, RNA, Ribosomal, 16S, Mammals_
+Aquaculture plays an important role in global protein supplies and food security. The ban on antibiotics as feed additive proposes urgent need to develop alternatives. Gut microbiota plays important roles in the metabolism and immunity of fish and has the potential to give rise to novel solutions for challenges confronted by fish culture. However, our understanding of fish gut microbiome is still lacking.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01715-7)
+
+10.1186/s40168-023-01715-7
 
 ---
 
@@ -143,9 +188,16 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Individualized microbiotas dictate the impact of dietary fiber on colitis sensitivity
+## Individualized microbiotas dictate the impact of dietary fiber on colitis sensitivity.
+ 08.01.2024, _E Bonazzi, A Bretin, L Vigué, F Hao, AD Patterson, AT Gewirtz, B Chassaing_
+
+
+_Humans, Mice, Animals, Psyllium, Inulin, Colitis, Dietary Fiber, Gastrointestinal Microbiome, Inflammatory Bowel Diseases_
+The observation that the intestinal microbiota is central in the development of IBD suggests that dietary fiber, the microbiota's primary source of nourishment, could play a central role in these diseases. Accordingly, enriching diets with specific soluble fibers remodels microbiota and modulates colitis sensitivity. In humans, a recent study suggests that the microbiota of select IBD patients might influence the impacts they would experience upon fiber exposure. We sought here to define the extent to which individual microbiotas varied in their responsiveness to purified soluble fiber inulin and psyllium. Moreover, the extent to which such variance might impact proneness to colitis.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01724-6)
+
+10.1186/s40168-023-01724-6
 
 ---
 
@@ -155,21 +207,27 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## A unified compendium of prokaryotic and viral genomes from over 300 anaerobic digestion microbiomes
+## A unified compendium of prokaryotic and viral genomes from over 300 anaerobic digestion microbiomes.
+ 05.01.2024, _VB Centurion, A Rossi, E Orellana, G Ghiotto, B Kakuk, MS Morlino, A Basile, G Zampieri, L Treu, S Campanaro_
+
+
+The anaerobic digestion process degrades organic matter into simpler compounds and occurs in strictly anaerobic and microaerophilic environments. The process is carried out by a diverse community of microorganisms where each species has a unique role and it has relevant biotechnological applications since it is used for biogas production. Some aspects of the microbiome, including its interaction with phages, remains still unclear: a better comprehension of the community composition and role of each species is crucial for a cured understanding of the carbon cycle in anaerobic systems and improving biogas production.
 
 [Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-023-00545-2)
 
+10.1186/s40793-023-00545-2
+
 ---
 
-## Effect of UV pretreatment on the source control of floR during subsequent biotreatment of florfenicol wastewater.
- 12.01.2024, _Y Ding, H Feng, J Han, W Jiang, S Dong, H Cheng, M Wang, A Wang_
+## Cellulomonas alba sp. nov. and Cellulomonas edaphi sp. nov., isolated from wetland soils.
+ 12.01.2024, _S Park, I Kim, G Chhetri, Y Jung, H Woo, T Seo_
 
 
-UV photolysis has been recommended as an alternative pretreatment method for the elimination of antibacterial activity of antibiotics against the indicator strain, but the pretreated antibiotic intermediates might not lose their potential to induce antibiotic resistance genes (ARGs) proliferation during subsequent biotreatment processes. The presence of florfenicol (FLO) in wastewater seriously inhibits the metabolic performance of anaerobic sludge microorganisms, especially the positive correlation between UV irradiation doses and ATP content, while it did not significantly affect the organics utilization ability and protein biosynthetic process of aerobic microorganisms. After sufficient UV pretreatment, the relative abundances of floR from genomic or plasmid DNA in subsequent aerobic and anaerobic biotreatment processes both decreased by two orders of magnitude, maintained at the level of the groups without FLO selective pressure. Meanwhile, the abundances of floR under anaerobic condition were always lower than that under aerobic condition, suggesting that anaerobic biotreatment systems might be more suitable for the effective control of target ARGs. The higher abundance of floR in plasmid DNA than in genome also indicated that the potential transmission risk of mobile ARGs should not be ignored. In addition, the relative abundance of intI1 was positively correlated with floR in its corresponding genomic or plasmid DNA (p &lt; 0.05), which also increased the potential horizontal transfer risk of target ARGs. This study provides new insights into the effect of preferential UV photolysis as a pretreatment method for the enhancement of metabolic performance and source control of target ARGs in subsequent biotreatment processes. KEY POINTS: • Sufficient UV photolytic pretreatment efficiently controlled the abundance of floR • A synchronous decrease in abundance of intI1 reduced the risk of horizontal transfer • An appreciable abundance of floR in plasmid DNA was a potential source of total ARGs.
+Two novel strains were isolated from wetland soils in Goyang, Republic of Korea. The two Gram-stain-positive, facultatively anaerobic, rod-shaped bacterial-type strains were designated MW4T and MW9T. Phylogenomic analysis based on whole-genome sequences suggested that both strains belonged to the genus Cellulomonas. The cells of strain MW4T were non-motile and grew at 20-40 °C (optimum, 35 °C), at pH 6.0-10.0 (optimum, pH 8.0) and in the presence of 0-1.0% NaCl (optimum, 0 %). The cells of strain MW9T were non-motile and grew at 20-40 °C (optimum, 35 °C), at pH 5.0-9.0 (optimum, pH 8.0) and in the presence of 0-1.0% NaCl (optimum, 0 %). The average nucleotide identity (77.1-88.1 %) and digital DNA-DNA hybridization values (21.0-34.8 %) between the two novel strains and with their closely related strains fell within the range for the genus Cellulomonas. The novel strains MW4T and MW9T and reference strains possessed alkane synthesis gene clusters (oleA, oleB, oleC and oleD). Phylogenomic, phylogenetic, average nucleotide identity, digital DNA-DNA hybridization, physiological and biochemical data indicated that the novel strains were distinct from other members of the family Cellulomonadaceae. We propose the names Cellulomonas alba sp. nov. (type strain MW4T=KACC 23260T=TBRC 17645T) and Cellulomons edaphi sp. nov. (type strain MW9T=KACC 23261T=TBRC 17646T) for the two strains.
 
 [Source](https://twitter.com/hashtag/anaerobic?src=hash&ref_src=twsrc%5Etfw)
 
-10.1007/s00253-023-12826-4
+10.1099/ijsem.0.006235
 
 ---
 
@@ -179,15 +237,15 @@ UV photolysis has been recommended as an alternative pretreatment method for the
 
 ---
 
-## Knickkopf (LmKnk) is required for chitin organization in the foregut of Locusta migratoria.
- 12.01.2024, _RR Yu, JQ Duan, XM Zhao, M Abbas, YP Zhang, XK Shi, N Chen, JZ Zhang_
+## Mathematical modeling of fluid dynamics in in vitro gut fermentation systems: A new tool to improve the interpretation of microbial metabolism.
+ 12.01.2024, _J Lessard-Lord, J Lupien-Meilleur, C Roussel, B Gosselin-Cliche, C Silvestri, V Di Marzo, D Roy, E Rousseau, Y Desjardins_
 
 
-The foregut, located at the front of the digestive tract, serves a vital role in insects by storing and grinding food into small particles. The innermost layer of the foregut known as the chitinous intima, comes into direct contact with the food and acts as a protective barrier against abrasive particles. Knickkopf (Knk) is required for chitin organization in the chitinous exoskeleton, tracheae and wings. Despite its significance, little is known about the biological function of Knk in the foregut. In this study, we found that LmKnk was stably expressed in the foregut, and highly expressed before molting in Locusta migratoria. To ascertain the biological function of LmKnk in the foregut, we synthesized specific double-stranded LmKnk (dsLmKnk) and injected it into locusts. Our findings showed a significant decrease in the foregut size, along with reduced food intake and accumulation of residues in the foregut after dsLmKnk injection. Morphological observations revealed that newly formed intima became thinner and lacked chitin lamella. Furthermore, fluorescence immunohistochemistry revealed that LmKnk was located in the apical region of new intima and epithelial cells. Taken together, this study provides insights into the biological function of LmKnk in the foregut, and identifies the potential target gene for exploring biological pest management strategies.
+In vitro systems are widely employed to assess the impact of dietary compounds on the gut microbiota and their conversion into beneficial bacterial metabolites. However, the complex fluid dynamics and multi-segmented nature of these systems can complicate the comprehensive analysis of dietary compound fate, potentially confounding physical dilution or washout with microbial catabolism. In this study, we developed fluid dynamics models based on sets of ordinary differential equations to simulate the behavior of an inert compound within two commonly used in vitro systems: the continuous two-stage PolyFermS system and the semi-continuous multi-segmented SHIME® system as well as into various declinations of those systems. The models were validated by investigating the fate of blue dextran, demonstrating excellent agreement between experimental and modeling data (with r2 values ranging from 0.996 to 0.86 for different approaches). As a proof of concept for the utility of fluid dynamics models in in vitro system, we applied generated models to interpret metabolomic data of procyanidin A2 (ProA2) generated from the addition of proanthocyanidin (PAC)-rich cranberry extract to both the PolyFermS and SHIME® systems. The results suggested ProA2 degradation by the gut microbiota when compared to the modeling of an inert compound. Models of fluid dynamics developed in this study provide a foundation for comprehensive analysis of gut metabolic data in commonly utilized in vitro PolyFermS and SHIME® bioreactor systems and can enable a more accurate understanding of the contribution of bacterial metabolism to the variability in the concentration of target metabolites.
 
 [Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
 
-10.1111/1744-7917.13313
+10.1096/fj.202301739RR
 
 ---
 
@@ -197,15 +255,15 @@ The foregut, located at the front of the digestive tract, serves a vital role in
 
 ---
 
-## Short- and long-term effects of continuous compost amendment on soil microbiome community.
- 12.01.2024, _J Kraut-Cohen, A Zolti, N Rotbart, A Bar-Tal, Y Laor, S Medina, R Shawahna, I Saadi, M Raviv, SJ Green, U Yermiyahu, D Minz_
+## Mathematical modeling of fluid dynamics in in vitro gut fermentation systems: A new tool to improve the interpretation of microbial metabolism.
+ 12.01.2024, _J Lessard-Lord, J Lupien-Meilleur, C Roussel, B Gosselin-Cliche, C Silvestri, V Di Marzo, D Roy, E Rousseau, Y Desjardins_
 
 
-Organic amendment, and especially the use of composts, is a well-accepted sustainable agricultural practice. Compost increases soil carbon and microbial biomass, changes enzymatic activity, and enriches soil carbon and nitrogen stocks. However, relatively little is known about the immediate and long-term temporal dynamics of agricultural soil microbial communities following repeated compost applications. Our study was conducted at two field sites: Newe Ya'ar (NY, Mediterranean climate) and Gilat (G, semi-arid climate), both managed organically over 4 years under either conventional fertilization (0, zero compost) or three levels of compost amendment (20, 40 and 60 m3/ha or 2, 4, 6 L/m2). Microbial community dynamics in the soils was examined by high- and low-time-resolution analyses. Annual community composition in compost-amended soils was significantly affected by compost amendment levels in G (first, second and third years) and in NY (third year). Repeated sampling at high resolution (9-10 times over 1 year) showed that at both sites, compost application initially induced a strong shift in microbial communities, lasting for up to 1 month, followed by a milder response. Compost application significantly elevated alpha diversity at both sites, but differed in the compost-dose correlation effect. We demonstrate higher abundance of taxa putatively involved in organic decomposition and characterized compost-related indicator taxa and a compost-derived core microbiome at both sites. Overall, this study describes temporal changes in the ecology of soil microbiomes in response to compost vs. conventional fertilization.
+In vitro systems are widely employed to assess the impact of dietary compounds on the gut microbiota and their conversion into beneficial bacterial metabolites. However, the complex fluid dynamics and multi-segmented nature of these systems can complicate the comprehensive analysis of dietary compound fate, potentially confounding physical dilution or washout with microbial catabolism. In this study, we developed fluid dynamics models based on sets of ordinary differential equations to simulate the behavior of an inert compound within two commonly used in vitro systems: the continuous two-stage PolyFermS system and the semi-continuous multi-segmented SHIME® system as well as into various declinations of those systems. The models were validated by investigating the fate of blue dextran, demonstrating excellent agreement between experimental and modeling data (with r2 values ranging from 0.996 to 0.86 for different approaches). As a proof of concept for the utility of fluid dynamics models in in vitro system, we applied generated models to interpret metabolomic data of procyanidin A2 (ProA2) generated from the addition of proanthocyanidin (PAC)-rich cranberry extract to both the PolyFermS and SHIME® systems. The results suggested ProA2 degradation by the gut microbiota when compared to the modeling of an inert compound. Models of fluid dynamics developed in this study provide a foundation for comprehensive analysis of gut metabolic data in commonly utilized in vitro PolyFermS and SHIME® bioreactor systems and can enable a more accurate understanding of the contribution of bacterial metabolism to the variability in the concentration of target metabolites.
 
 [Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.csbj.2023.05.030
+10.1096/fj.202301739RR
 
 ---
 
@@ -221,15 +279,15 @@ Organic amendment, and especially the use of composts, is a well-accepted sustai
 
 ---
 
-## Short- and long-term effects of continuous compost amendment on soil microbiome community.
- 12.01.2024, _J Kraut-Cohen, A Zolti, N Rotbart, A Bar-Tal, Y Laor, S Medina, R Shawahna, I Saadi, M Raviv, SJ Green, U Yermiyahu, D Minz_
+## Mathematical modeling of fluid dynamics in in vitro gut fermentation systems: A new tool to improve the interpretation of microbial metabolism.
+ 12.01.2024, _J Lessard-Lord, J Lupien-Meilleur, C Roussel, B Gosselin-Cliche, C Silvestri, V Di Marzo, D Roy, E Rousseau, Y Desjardins_
 
 
-Organic amendment, and especially the use of composts, is a well-accepted sustainable agricultural practice. Compost increases soil carbon and microbial biomass, changes enzymatic activity, and enriches soil carbon and nitrogen stocks. However, relatively little is known about the immediate and long-term temporal dynamics of agricultural soil microbial communities following repeated compost applications. Our study was conducted at two field sites: Newe Ya'ar (NY, Mediterranean climate) and Gilat (G, semi-arid climate), both managed organically over 4 years under either conventional fertilization (0, zero compost) or three levels of compost amendment (20, 40 and 60 m3/ha or 2, 4, 6 L/m2). Microbial community dynamics in the soils was examined by high- and low-time-resolution analyses. Annual community composition in compost-amended soils was significantly affected by compost amendment levels in G (first, second and third years) and in NY (third year). Repeated sampling at high resolution (9-10 times over 1 year) showed that at both sites, compost application initially induced a strong shift in microbial communities, lasting for up to 1 month, followed by a milder response. Compost application significantly elevated alpha diversity at both sites, but differed in the compost-dose correlation effect. We demonstrate higher abundance of taxa putatively involved in organic decomposition and characterized compost-related indicator taxa and a compost-derived core microbiome at both sites. Overall, this study describes temporal changes in the ecology of soil microbiomes in response to compost vs. conventional fertilization.
+In vitro systems are widely employed to assess the impact of dietary compounds on the gut microbiota and their conversion into beneficial bacterial metabolites. However, the complex fluid dynamics and multi-segmented nature of these systems can complicate the comprehensive analysis of dietary compound fate, potentially confounding physical dilution or washout with microbial catabolism. In this study, we developed fluid dynamics models based on sets of ordinary differential equations to simulate the behavior of an inert compound within two commonly used in vitro systems: the continuous two-stage PolyFermS system and the semi-continuous multi-segmented SHIME® system as well as into various declinations of those systems. The models were validated by investigating the fate of blue dextran, demonstrating excellent agreement between experimental and modeling data (with r2 values ranging from 0.996 to 0.86 for different approaches). As a proof of concept for the utility of fluid dynamics models in in vitro system, we applied generated models to interpret metabolomic data of procyanidin A2 (ProA2) generated from the addition of proanthocyanidin (PAC)-rich cranberry extract to both the PolyFermS and SHIME® systems. The results suggested ProA2 degradation by the gut microbiota when compared to the modeling of an inert compound. Models of fluid dynamics developed in this study provide a foundation for comprehensive analysis of gut metabolic data in commonly utilized in vitro PolyFermS and SHIME® bioreactor systems and can enable a more accurate understanding of the contribution of bacterial metabolism to the variability in the concentration of target metabolites.
 
 [Source](https://twitter.com/hashtag/Microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.csbj.2023.05.030
+10.1096/fj.202301739RR
 
 ---
 
@@ -300,15 +358,15 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 
 ---
 
-## Risk of T2 lesions when discontinuing fingolimod: a nationwide predictive and comparative study.
- 12.01.2024, _MF Wandall-Holm, RP Holm, A Heick, AR Langkilde, M Magyari_
+## Rosie, a Health Education Question-and-Answer Chatbot for New Mothers: Randomized Pilot Study.
+ 12.01.2024, _QC Nguyen, EM Aparicio, M Jasczynski, A Channell Doig, X Yue, H Mane, N Srikanth, FXM Gutierrez, N Delcid, X He, J Boyd-Graber_
 
 
-Fingolimod is a frequently used disease-modifying therapy in relapsing-remitting multiple sclerosis. However, case reports and small observational studies indicate a highly increased risk of disease reactivation after discontinuation. We aimed to investigate the risk of radiological disease reactivation in patients discontinuing fingolimod. We performed a nationwide cohort study in Denmark, including patients who discontinued fingolimod between January 2014 and January 2023. Eligibility was a diagnosis with relapsing-remitting multiple sclerosis and two MRIs performed respectively within 1 year before and after discontinuing fingolimod. The included patients were compared with those discontinuing dimethyl fumarate with the same eligibility criteria in an unadjusted and matched propensity score analysis. Matching was done on age, sex, Expanded Disability Status Scale, MRI data, cause for treatment discontinuation, treatment duration and relapse rate. The main outcome was the presence of new T2 lesions on the first MRI after treatment discontinuation. To identify high-risk patients among those discontinuing fingolimod, we made a predictive model assessing risk factors for obtaining new T2 lesions. Of 1324 patients discontinuing fingolimod in the study period, 752 were eligible for inclusion [mean age (standard deviation), years, 41 (10); 552 females (73%); median Expanded Disability Status Scale (Q1-Q3), 2.5 (2.0-3.5); mean disease duration (standard deviation), years, 12 (8)]. Of 2044 patients discontinuing dimethyl fumarate in the study period, 957 were eligible for inclusion, presenting similar baseline characteristics. Among patients discontinuing fingolimod, 127 (17%) had 1-2 new T2 lesions, and 124 (17%) had ≥3 new T2 lesions compared with 114 (12%) and 45 (5%), respectively, for those discontinuing dimethyl fumarate, corresponding to odds ratios (95% confidence interval) of 1.8 (1.3-2.3) and 4.4 (3.1-6.3). The predictive model, including 509 of the 752 patients discontinuing fingolimod, showed a highly increased risk of new T2 lesions among those with disease activity during fingolimod treatment and among females under 40 years. This nationwide study suggests that discontinuing fingolimod in some cases carries a risk of developing new T2 lesions, emphasizing the importance of clinical awareness. If feasible, clinicians should prioritize the prompt initiation of new disease-modifying therapies, particularly among young females.
+Stark disparities exist in maternal and child outcomes and there is a need to provide timely and accurate health information.
 
 [Source](https://twitter.com/campanarostef/status/1742576845915070538?ref_src=twsrc%5Etfw)
 
-10.1093/braincomms/fcad358
+10.2196/51361
 
 ---
 
