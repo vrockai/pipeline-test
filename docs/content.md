@@ -71,15 +71,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Does dietary supplementation with lettuce seed oil enhance broiler performance, immunity, lipid profile, liver and kidney functions, antioxidant parameters, and intestinal microbiota?
- 12.01.2024, _MS Soliman, SYA Qattan, FM Reda, LA Mohamed, SA Mahgoub, SI Othman, AA Allam, G Tellez-Isaias, M Alagawany_
+## The role of probiotics in women's health: An update narrative review.
+ 12.01.2024, _LY Wu, TH Yang, YC Ou, H Lin_
 
 
-The aim of this research was to evaluate the influence of lettuce seed oil (LSO) on the performance, carcass yield, kidney and liver indices, immunity, lipid profile, and cecal microbiota of fattening chicks. A total of 200, 7-day-old Cobb-500 were distributed into 5 experimental groups; each group contained 5 replicates with 8 birds each. The first group 1) the basal diet (only); 2) the basal diet plus lettuce seed oil (0.50 mL/kg); 3) the basal diet plus lettuce seed oil (1.00 mL/kg); 4) the basal diet plus lettuce seed oil (1.50 mL/kg); and 5) the basal diet plus lettuce seed oil (2.00 mL/kg). No significant effect was observed on growth performance, carcass traits, or kidney function at any level of oil. But, liver function was significantly affected due to LSO levels. Serum lipid profiles (total cholesterol-TC, triglyceride-TG, low-density lipoprotein-LDL, and very low-density lipoprotein-VLDL) were significantly reduced by using LSO levels compared to the control group. Dietary LSO significantly increased immunological and antioxidant parameters, except for malondialdehyde-MDA, which was reduced. On the other hand, the cecal microbiota was significantly improved by LSO additives. It was concluded that the dietary supplementation of LSO had beneficial effects on liver and kidney functions, lipid profile, immunity, antioxidant parameters, and the bacteriology of fattening chicks.
+Probiotics, live microorganisms that confer health benefits to the host when administered in adequate amounts, have gained considerable attention for their potential role in maintaining women's health. This overview summarizes key clinical findings on the beneficial effects of probiotics in various aspects of women's health. Probiotics, particularly Lactobacillus species, contribute to vaginal health by promoting a balanced vaginal microbiome to prevent infections and maintain an acidic environment. In gynecologic conditions, probiotics show potential in preventing and managing bacterial vaginosis, vulvovaginal candidiasis, and sexually transmitted infections. Probiotic supplementation has also been associated with improvements in metabolic parameters and menstrual irregularities in polycystic ovary syndrome patients. During pregnancy, probiotics may be helpful in reducing the risk of gestational diabetes, maternal group B streptococcal colonization, obstetric anemia, and postpartum mastitis. In recent years, the potential role of probiotics in the prevention and management of gynecologic cancer has gained attention. Further research is needed to better understand the specific mechanisms and determine the optimal Lactobacillus strains and dosages regimens for gynecologic cancer prevention and therapy. In conclusion, probiotics offer a non-invasive and cost-effective approach to support women's health and prevent obstetric and gynecologic complications.
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.psj.2023.103409
+10.1016/j.tjog.2023.09.018
 
 ---
 
@@ -89,15 +89,15 @@ The aim of this research was to evaluate the influence of lettuce seed oil (LSO)
 
 ---
 
-## Improving the thermostability and modulating the inulin profile of inulosucrase through rational glycine-to-proline substitution.
- 12.01.2024, _T Charoenwongpaiboon, N Sommanat, K Wangpaiboon, M Puangpathanachai, P Pongsawasdi, R Pichyangkura_
+## The role of probiotics in women's health: An update narrative review.
+ 12.01.2024, _LY Wu, TH Yang, YC Ou, H Lin_
 
 
-The flexibility of protein structure plays a crucial role in enzyme stability and catalysis. Among the amino acids, glycine is particularly important in conferring flexibility to proteins. In this study, the effects of flexible glycine residues in Lactobacillus reuteri 121 inulosucrase (LrInu) on stability and inulin profile were investigated through glycine-to-proline substitutions. Molecular dynamics (MD) simulations were employed to discover the flexible glycine residues, and eight glycine residues, including Gly217, Gly298, Gly330, Gly416, Gly450, Gly624, Gly627, Gly629, were selected for site-directed mutagenesis. The results demonstrated significant changes in both thermostability and inulin profiles of the variants. Particularly, the G624P and G627P variants showed reduced production of long-chain oligosaccharides compared to the WT. This can be ascribed to the increased rigidity of the active site, which is crucial for the induction-fit mechanism. Overall, this study provides valuable insights into the role of flexible glycine residues in the activity, stability, and inulin synthesis of LrInu.
+Probiotics, live microorganisms that confer health benefits to the host when administered in adequate amounts, have gained considerable attention for their potential role in maintaining women's health. This overview summarizes key clinical findings on the beneficial effects of probiotics in various aspects of women's health. Probiotics, particularly Lactobacillus species, contribute to vaginal health by promoting a balanced vaginal microbiome to prevent infections and maintain an acidic environment. In gynecologic conditions, probiotics show potential in preventing and managing bacterial vaginosis, vulvovaginal candidiasis, and sexually transmitted infections. Probiotic supplementation has also been associated with improvements in metabolic parameters and menstrual irregularities in polycystic ovary syndrome patients. During pregnancy, probiotics may be helpful in reducing the risk of gestational diabetes, maternal group B streptococcal colonization, obstetric anemia, and postpartum mastitis. In recent years, the potential role of probiotics in the prevention and management of gynecologic cancer has gained attention. Further research is needed to better understand the specific mechanisms and determine the optimal Lactobacillus strains and dosages regimens for gynecologic cancer prevention and therapy. In conclusion, probiotics offer a non-invasive and cost-effective approach to support women's health and prevent obstetric and gynecologic complications.
 
 [Source](https://twitter.com/hashtag/Lactobacillus?src=hash&ref_src=twsrc%5Etfw)
 
-10.1039/d3ra06896j
+10.1016/j.tjog.2023.09.018
 
 ---
 
@@ -131,15 +131,15 @@ The levonorgestrel-releasing intrauterine device containing 13.5 mg of levonorge
 
 ---
 
-## Outcome Comparison of Transconjunctival Müller's Muscle Recession With Levator Disinsertion (TMRLD) to Gold Weight Implantation in the Treatment of Paralytic Lagophthalmos.
- 12.01.2024, _JK Park, B Campbell, T Shipchandler, HBH Lee_
+## Circulating Galectin-3 levels in women with polycystic ovary syndrome: A meta-analysis.
+ 12.01.2024, _SS Bahreiny, MN Bastani, M Aghaei, MR Dabbagh, AH Mahdizade_
 
 
-To compare clinical outcomes of transconjunctival Müller's muscle recession with levator disinsertion (TMRLD) to the traditional gold weight implantation in patients with paralytic lagophthalmos.
+Polycystic ovary syndrome (PCOS) is a highly prevalent endocrine disorder characterized by multifactorial and intricate pathogenesis. The discovery of novel markers has been a significant step toward understanding the mechanisms of PCOS. Galectin-3 has emerged as a novel factor in metabolic disorders. This meta-analysis examines the association between circulating Galectin-3 and PCOS. A systematic review and meta-analysis were performed to identify relevant articles in the electronic databases PubMed, Web of Science, Scopus, Cochrane, EMBASE, and Google Scholar. The search covered the period from January 2000 to March 2023 and followed a predefined search strategy. Eight articles were included in the analysis with a total of 594 participants (322 patients with PCOS and 272 controls). Pooled standardized mean difference (SMD) and 95 % confidence interval [CI] were used to evaluate the association between Galectin-3 levels and PCOS. The results indicated a significant association between PCOS and galectin-3 levels (SMD = 0.58; 95 % CI: 0.15-1.01; p = 0.007). In addition, subgroup analysis showed a significant difference in serum Galectin-3 levels in women with PCOS and a higher homeostatic model assessment for insulin resistance ratio (SMD = 0.89; 95 % CI: 0.45-1.33; p &lt; 0.001). The researchers also performed meta-regression and subgroup analyses to specify sources of heterogeneity. The results of our meta-analysis suggest an association between increased levels of galectin-3 and PCOS. Galectin-3 plays a significant role in the progression of PCOS and could be used as a novel diagnostic biomarker. Nevertheless, it is essential to perform further studies to confirm and support our conclusions.
 
 [Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
 
-10.1097/IOP.0000000000002582
+10.1016/j.tjog.2023.10.003
 
 ---
 
@@ -187,16 +187,9 @@ Establishing the infant's gut microbiota has long-term implications on health an
 
 ---
 
-## Deciphering the gut microbiome of grass carp through multi-omics approach.
- 06.01.2024, _M Li, H Liang, H Yang, Q Ding, R Xia, J Chen, W Zhou, Y Yang, Z Zhang, Y Yao, C Ran, Z Zhou_
-
-
-_Animals, Gastrointestinal Microbiome, Carps, Multiomics, Microbiota, Proteobacteria, Fusobacteria, Bacteroidetes, Firmicutes, Fusobacterium, RNA, Ribosomal, 16S, Mammals_
-Aquaculture plays an important role in global protein supplies and food security. The ban on antibiotics as feed additive proposes urgent need to develop alternatives. Gut microbiota plays important roles in the metabolism and immunity of fish and has the potential to give rise to novel solutions for challenges confronted by fish culture. However, our understanding of fish gut microbiome is still lacking.
+## Deciphering the gut microbiome of grass carp through multi-omics approach 
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01715-7)
-
-10.1186/s40168-023-01715-7
 
 ---
 
@@ -212,16 +205,9 @@ Aquaculture plays an important role in global protein supplies and food security
 
 ---
 
-## Individualized microbiotas dictate the impact of dietary fiber on colitis sensitivity.
- 08.01.2024, _E Bonazzi, A Bretin, L Vigué, F Hao, AD Patterson, AT Gewirtz, B Chassaing_
-
-
-_Humans, Mice, Animals, Psyllium, Inulin, Colitis, Dietary Fiber, Gastrointestinal Microbiome, Inflammatory Bowel Diseases_
-The observation that the intestinal microbiota is central in the development of IBD suggests that dietary fiber, the microbiota's primary source of nourishment, could play a central role in these diseases. Accordingly, enriching diets with specific soluble fibers remodels microbiota and modulates colitis sensitivity. In humans, a recent study suggests that the microbiota of select IBD patients might influence the impacts they would experience upon fiber exposure. We sought here to define the extent to which individual microbiotas varied in their responsiveness to purified soluble fiber inulin and psyllium. Moreover, the extent to which such variance might impact proneness to colitis.
+## Individualized microbiotas dictate the impact of dietary fiber on colitis sensitivity
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01724-6)
-
-10.1186/s40168-023-01724-6
 
 ---
 
@@ -231,27 +217,9 @@ The observation that the intestinal microbiota is central in the development of 
 
 ---
 
-## A unified compendium of prokaryotic and viral genomes from over 300 anaerobic digestion microbiomes.
- 05.01.2024, _VB Centurion, A Rossi, E Orellana, G Ghiotto, B Kakuk, MS Morlino, A Basile, G Zampieri, L Treu, S Campanaro_
-
-
-The anaerobic digestion process degrades organic matter into simpler compounds and occurs in strictly anaerobic and microaerophilic environments. The process is carried out by a diverse community of microorganisms where each species has a unique role and it has relevant biotechnological applications since it is used for biogas production. Some aspects of the microbiome, including its interaction with phages, remains still unclear: a better comprehension of the community composition and role of each species is crucial for a cured understanding of the carbon cycle in anaerobic systems and improving biogas production.
+## A unified compendium of prokaryotic and viral genomes from over 300 anaerobic digestion microbiomes
 
 [Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-023-00545-2)
-
-10.1186/s40793-023-00545-2
-
----
-
-## Discovery of a Biotin Synthase That Utilizes an Auxiliary 4Fe-5S Cluster for Sulfur Insertion.
- 12.01.2024, _JC Lachowicz, D Lennox-Hvenekilde, N Myling-Petersen, B Salomonsen, G Verkleij, CG Acevedo-Rocha, B Caddell, LS Gronenberg, SC Almo, MOA Sommer, HJ Genee, TL Grove_
-
-
-Biotin synthase (BioB) is a member of the Radical SAM superfamily of enzymes that catalyzes the terminal step of biotin (vitamin B7) biosynthesis, in which it inserts a sulfur atom in desthiobiotin to form a thiolane ring. How BioB accomplishes this difficult reaction has been the subject of much controversy, mainly around the source of the sulfur atom. However, it is now widely accepted that the sulfur atom inserted to form biotin stems from the sacrifice of the auxiliary 2Fe-2S cluster of BioB. Here, we bioinformatically explore the diversity of BioBs available in sequence databases and find an unexpected variation in the coordination of the auxiliary iron-sulfur cluster. After in vitro characterization, including the determination of biotin formation and representative crystal structures, we report a new type of BioB utilized by virtually all obligate anaerobic organisms. Instead of a 2Fe-2S cluster, this novel type of BioB utilizes an auxiliary 4Fe-5S cluster. Interestingly, this auxiliary 4Fe-5S cluster contains a ligated sulfide that we propose is used for biotin formation. We have termed this novel type of BioB, Type II BioB, with the E. coli 2Fe-2S cluster sacrificial BioB representing Type I. This surprisingly ubiquitous Type II BioB has implications for our understanding of the function and evolution of Fe-S clusters in enzyme catalysis, highlighting the difference in strategies between the anaerobic and aerobic world.
-
-[Source](https://twitter.com/hashtag/anaerobic?src=hash&ref_src=twsrc%5Etfw)
-
-10.1021/jacs.3c05481
 
 ---
 
@@ -261,15 +229,14 @@ Biotin synthase (BioB) is a member of the Radical SAM superfamily of enzymes tha
 
 ---
 
-## Dietary supplementation with a mixture of Dunaliella salina and Spirulina enhances broiler performance by improving growth, immunity, digestive enzymes and gut microbiota.
- 12.01.2024, _MA Alghamdi, MI Elbaz, IE Ismail, FM Reda, M Alagawany, KA El-Tarabily, AS Abdelgeliel_
+## New horizons in polyp size estimation.
+ 12.01.2024, _Y Mori_
 
 
-The aim of this study is to evaluate the effect of Dunaliella salina and Spirulina (D + S) mixture on performance, carcass yield, kidney and liver markers, lipid profile, and immune responses of fattening chicks. Two hundred broiler chicks at 7 days old were distributed into 5 experimental groups, 5 replicates each with 8 chicks each. Group 1 was fed on only basal diet; group 2 was fed with basal diet and 0.50 g/kg (D + S); group 3 was fed with basal diet and 1.00 g/kg (D + S); group 4 was fed with basal diet and 1.50 g/kg (D + S); and group 5 was fed with basal diet supplemented with 2.00 g/kg (D + S). The additive mixture (D + S) consisted of (1 D. salina: 1 Spirulina). The experiment lasted for 6 wk. The results demonstrated significantly improved better live body weight, body weight gain, and feed conversion ratio (P&lt;0.01) for groups that received (D + S) at levels of 1.0 and 1.5 g/kg diet compared to other groups at 6 wk of age. There was no significant influence of different levels of dietary feed additives on feed intake or carcass traits. The lipid profile was improved through a reduction of total cholesterol and low-density lipoprotein (LDL) values and increasing high-density lipoprotein (HDL) values, as well as the immune response, which was improved through increasing values of complement 3, immunoglobulin M (IgM), and immunoglobulin G (IgG) in the birds treated with (D + S) compared to the control group. The inclusion of all levels of (D + S)/kg decreased triglyceride, while total protein, albumen, and globulin values (P&lt;0.05 or P&lt;0.01) were higher compared to other groups. The inclusion of the different levels of (D + S)/kg improved liver function, whereas aspartate aminotransferase (AST) and alanine aminotransferase (ALT) values were lower than in other groups (P&lt;0.001). The lowest values of creatinine, urea, and uric acid were noted in birds fed a diet supplemented with 1.50 g (D + S)/kg. Antioxidant levels were improved through increasing values of catalase (CAT) and reduced glutathione (GSH) enzymes in the treated birds with (D + S) compared with the control chicks. Furthermore, digestive enzymes and microbial content were improved in broiler checks fed on diet supplemented with (D + S) compared to the control group. In conclusion, supplementing broiler chicks with a dietary D. salina and Spirulina combination increased their productive performance, immunity, kidney and liver function, lipid profile, and digestive enzymes.
 
 [Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.psj.2023.103337
+10.1055/a-2224-0756
 
 ---
 
@@ -279,15 +246,15 @@ The aim of this study is to evaluate the effect of Dunaliella salina and Spiruli
 
 ---
 
-## Does dietary supplementation with lettuce seed oil enhance broiler performance, immunity, lipid profile, liver and kidney functions, antioxidant parameters, and intestinal microbiota?
- 12.01.2024, _MS Soliman, SYA Qattan, FM Reda, LA Mohamed, SA Mahgoub, SI Othman, AA Allam, G Tellez-Isaias, M Alagawany_
+## The role of probiotics in women's health: An update narrative review.
+ 12.01.2024, _LY Wu, TH Yang, YC Ou, H Lin_
 
 
-The aim of this research was to evaluate the influence of lettuce seed oil (LSO) on the performance, carcass yield, kidney and liver indices, immunity, lipid profile, and cecal microbiota of fattening chicks. A total of 200, 7-day-old Cobb-500 were distributed into 5 experimental groups; each group contained 5 replicates with 8 birds each. The first group 1) the basal diet (only); 2) the basal diet plus lettuce seed oil (0.50 mL/kg); 3) the basal diet plus lettuce seed oil (1.00 mL/kg); 4) the basal diet plus lettuce seed oil (1.50 mL/kg); and 5) the basal diet plus lettuce seed oil (2.00 mL/kg). No significant effect was observed on growth performance, carcass traits, or kidney function at any level of oil. But, liver function was significantly affected due to LSO levels. Serum lipid profiles (total cholesterol-TC, triglyceride-TG, low-density lipoprotein-LDL, and very low-density lipoprotein-VLDL) were significantly reduced by using LSO levels compared to the control group. Dietary LSO significantly increased immunological and antioxidant parameters, except for malondialdehyde-MDA, which was reduced. On the other hand, the cecal microbiota was significantly improved by LSO additives. It was concluded that the dietary supplementation of LSO had beneficial effects on liver and kidney functions, lipid profile, immunity, antioxidant parameters, and the bacteriology of fattening chicks.
+Probiotics, live microorganisms that confer health benefits to the host when administered in adequate amounts, have gained considerable attention for their potential role in maintaining women's health. This overview summarizes key clinical findings on the beneficial effects of probiotics in various aspects of women's health. Probiotics, particularly Lactobacillus species, contribute to vaginal health by promoting a balanced vaginal microbiome to prevent infections and maintain an acidic environment. In gynecologic conditions, probiotics show potential in preventing and managing bacterial vaginosis, vulvovaginal candidiasis, and sexually transmitted infections. Probiotic supplementation has also been associated with improvements in metabolic parameters and menstrual irregularities in polycystic ovary syndrome patients. During pregnancy, probiotics may be helpful in reducing the risk of gestational diabetes, maternal group B streptococcal colonization, obstetric anemia, and postpartum mastitis. In recent years, the potential role of probiotics in the prevention and management of gynecologic cancer has gained attention. Further research is needed to better understand the specific mechanisms and determine the optimal Lactobacillus strains and dosages regimens for gynecologic cancer prevention and therapy. In conclusion, probiotics offer a non-invasive and cost-effective approach to support women's health and prevent obstetric and gynecologic complications.
 
 [Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.psj.2023.103409
+10.1016/j.tjog.2023.09.018
 
 ---
 
@@ -303,15 +270,15 @@ The aim of this research was to evaluate the influence of lettuce seed oil (LSO)
 
 ---
 
-## Does dietary supplementation with lettuce seed oil enhance broiler performance, immunity, lipid profile, liver and kidney functions, antioxidant parameters, and intestinal microbiota?
- 12.01.2024, _MS Soliman, SYA Qattan, FM Reda, LA Mohamed, SA Mahgoub, SI Othman, AA Allam, G Tellez-Isaias, M Alagawany_
+## The role of probiotics in women's health: An update narrative review.
+ 12.01.2024, _LY Wu, TH Yang, YC Ou, H Lin_
 
 
-The aim of this research was to evaluate the influence of lettuce seed oil (LSO) on the performance, carcass yield, kidney and liver indices, immunity, lipid profile, and cecal microbiota of fattening chicks. A total of 200, 7-day-old Cobb-500 were distributed into 5 experimental groups; each group contained 5 replicates with 8 birds each. The first group 1) the basal diet (only); 2) the basal diet plus lettuce seed oil (0.50 mL/kg); 3) the basal diet plus lettuce seed oil (1.00 mL/kg); 4) the basal diet plus lettuce seed oil (1.50 mL/kg); and 5) the basal diet plus lettuce seed oil (2.00 mL/kg). No significant effect was observed on growth performance, carcass traits, or kidney function at any level of oil. But, liver function was significantly affected due to LSO levels. Serum lipid profiles (total cholesterol-TC, triglyceride-TG, low-density lipoprotein-LDL, and very low-density lipoprotein-VLDL) were significantly reduced by using LSO levels compared to the control group. Dietary LSO significantly increased immunological and antioxidant parameters, except for malondialdehyde-MDA, which was reduced. On the other hand, the cecal microbiota was significantly improved by LSO additives. It was concluded that the dietary supplementation of LSO had beneficial effects on liver and kidney functions, lipid profile, immunity, antioxidant parameters, and the bacteriology of fattening chicks.
+Probiotics, live microorganisms that confer health benefits to the host when administered in adequate amounts, have gained considerable attention for their potential role in maintaining women's health. This overview summarizes key clinical findings on the beneficial effects of probiotics in various aspects of women's health. Probiotics, particularly Lactobacillus species, contribute to vaginal health by promoting a balanced vaginal microbiome to prevent infections and maintain an acidic environment. In gynecologic conditions, probiotics show potential in preventing and managing bacterial vaginosis, vulvovaginal candidiasis, and sexually transmitted infections. Probiotic supplementation has also been associated with improvements in metabolic parameters and menstrual irregularities in polycystic ovary syndrome patients. During pregnancy, probiotics may be helpful in reducing the risk of gestational diabetes, maternal group B streptococcal colonization, obstetric anemia, and postpartum mastitis. In recent years, the potential role of probiotics in the prevention and management of gynecologic cancer has gained attention. Further research is needed to better understand the specific mechanisms and determine the optimal Lactobacillus strains and dosages regimens for gynecologic cancer prevention and therapy. In conclusion, probiotics offer a non-invasive and cost-effective approach to support women's health and prevent obstetric and gynecologic complications.
 
 [Source](https://twitter.com/hashtag/Microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.psj.2023.103409
+10.1016/j.tjog.2023.09.018
 
 ---
 
@@ -382,59 +349,21 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 
 ---
 
-## Outcome Comparison of Transconjunctival Müller's Muscle Recession With Levator Disinsertion (TMRLD) to Gold Weight Implantation in the Treatment of Paralytic Lagophthalmos.
- 12.01.2024, _JK Park, B Campbell, T Shipchandler, HBH Lee_
-
-
-To compare clinical outcomes of transconjunctival Müller's muscle recession with levator disinsertion (TMRLD) to the traditional gold weight implantation in patients with paralytic lagophthalmos.
-
-[Source](https://twitter.com/campanarostef/status/1742576845915070538?ref_src=twsrc%5Etfw)
-
-10.1097/IOP.0000000000002582
-
----
-
 ## January 3, 2024
 
 [Source](https://twitter.com/campanarostef/status/1742576845915070538?ref_src=twsrc%5Etfw)
 
 ---
 
-## Unraveling the interplay between root exudates, microbiota, and rhizosheath formation in pearl millet.
- 06.01.2024, _A Alahmad, M Harir, S Fochesato, J Tulumello, A Walker, M Barakat, PMS Ndour, P Schmitt-Kopplin, L Cournac, L Laplaze, T Heulin, W Achouak_
-
-
-_Pennisetum, RNA, Ribosomal, 16S, Plant Roots, Microbiota, Soil, Plants, Exudates and Transudates, Soil Microbiology, Rhizosphere_
-The rhizosheath, a cohesive soil layer firmly adhering to plant roots, plays a vital role in facilitating water and mineral uptake. In pearl millet, rhizosheath formation is genetically controlled and influenced by root exudates. Here, we investigated the impact of root exudates on the microbiota composition, interactions, and assembly processes, and rhizosheath structure in pearl millet using four distinct lines with contrasting soil aggregation abilities.
+## Unraveling the interplay between root exudates, microbiota, and rhizosheath formation in pearl millet
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01727-3)
 
-10.1186/s40168-023-01727-3
-
 ---
 
-## mEnrich-seq: methylation-guided enrichment sequencing of bacterial taxa of interest from microbiome.
- 04.01.2024, _L Cao, Y Kong, Y Fan, M Ni, A Tourancheau, M Ksiezarek, EA Mead, T Koo, M Gitman, XS Zhang, G Fang_
-
-
-Metagenomics has enabled the comprehensive study of microbiomes. However, many applications would benefit from a method that sequences specific bacterial taxa of interest, but not most background taxa. We developed mEnrich-seq (in which 'm' stands for methylation and seq for sequencing) for enriching taxa of interest from metagenomic DNA before sequencing. The core idea is to exploit the self versus nonself differentiation by natural bacterial DNA methylation and rationally choose methylation-sensitive restriction enzymes, individually or in combination, to deplete host and background taxa while enriching targeted taxa. This idea is integrated with library preparation procedures and applied in several applications to enrich (up to 117-fold) pathogenic or beneficial bacteria from human urine and fecal samples, including species that are hard to culture or of low abundance. We assessed 4,601 bacterial strains with mapped methylomes so far and showed broad applicability of mEnrich-seq. mEnrich-seq provides microbiome researchers with a versatile and cost-effective approach for selective sequencing of diverse taxa of interest.
+## mEnrich-seq: methylation-guided enrichment sequencing of bacterial taxa of interest from microbiome
 
 [Source](https://www.nature.com/articles/s41592-023-02125-1)
-
-10.1038/s41592-023-02125-1
-
----
-
-## Host genetic determinants drive compartment-specific assembly of tea plant microbiomes.
- 01.11.2022, _X Tan, H Xie, J Yu, Y Wang, J Xu, P Xu, B Ma_
-
-
-_Soil Microbiology, Camellia sinensis, Genome-Wide Association Study, Bacteria, Plant Roots, Microbiota, Tea_
-Diverse host factors drive microbial variation in plant-associated environments, whereas their genetic mechanisms remain largely unexplored. To address this, we coupled the analyses of plant genetics and microbiomes in this study. Using 100 tea plant (Camellia sinensis) cultivars, the microbiomes of rhizosphere, root endosphere and phyllosphere showed clear compartment-specific assembly, whereas the subpopulation differentiation of tea cultivars exhibited small effects on microbial variation in each compartment. Through microbiome genome-wide association studies, we examined the interactions between tea genetic loci and microbial variation. Notably, genes related to the cell wall and carbon catabolism were heavily linked to root endosphere microbial composition, whereas genes related to the metabolism of metal ions and small organic molecules were overrepresented in association with rhizosphere microbial composition. Moreover, a set of tea genetic variants, including the cytoskeleton-related formin homology interacting protein 1 gene, were strongly associated with the β-diversity of phyllosphere microbiomes, implying their interactions with the overall structure of microbial communities. Our results create a catalogue of tea genetic determinants interacting with microbiomes and reveal the compartment-specific microbiome assembly driven by host genetics.
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.12.27.573469v1)
-
-10.1111/pbi.13897
 
 ---
 
@@ -447,18 +376,6 @@ Diverse host factors drive microbial variation in plant-associated environments,
 ## https://t.co/otRNegCrYR
 
 [Source](https://t.co/otRNegCrYR)
-
----
-
-## Mycoplasma pneumoniae epidemic in Denmark, October to December, 2023.
- 12.01.2024, _AC Nordholm, B Søborg, P Jokelainen, K Lauenborg Møller, L Flink Sørensen, T Grove Krause, S Anker Uldum, HD Emborg_
-
-
-We report a surge of patients, especially children and adolescents, with respiratory disease caused by Mycoplasma pneumoniae in Denmark since October 2023. While the surge has reached an epidemic level, no impact on hospital capacity has been observed; only 14% (446/3,195) of cases, primarily adults, required hospitalisation. Macrolide resistance was detected in less than 2% of samples tested. Timely monitoring of hospitalisations linked to M. pneumoniae infections has been established to inform the healthcare system, decisionmakers and the public.
-
-[Source](https://twitter.com/BigDataBiology/status/1740567854985203910?ref_src=twsrc%5Etfw)
-
-10.2807/1560-7917.ES.2024.29.2.2300707
 
 ---
 
