@@ -71,9 +71,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Does dietary supplementation with lettuce seed oil enhance broiler performance, immunity, lipid profile, liver and kidney functions, antioxidant parameters, and intestinal microbiota?
+ 12.01.2024, _MS Soliman, SYA Qattan, FM Reda, LA Mohamed, SA Mahgoub, SI Othman, AA Allam, G Tellez-Isaias, M Alagawany_
+
+
+The aim of this research was to evaluate the influence of lettuce seed oil (LSO) on the performance, carcass yield, kidney and liver indices, immunity, lipid profile, and cecal microbiota of fattening chicks. A total of 200, 7-day-old Cobb-500 were distributed into 5 experimental groups; each group contained 5 replicates with 8 birds each. The first group 1) the basal diet (only); 2) the basal diet plus lettuce seed oil (0.50 mL/kg); 3) the basal diet plus lettuce seed oil (1.00 mL/kg); 4) the basal diet plus lettuce seed oil (1.50 mL/kg); and 5) the basal diet plus lettuce seed oil (2.00 mL/kg). No significant effect was observed on growth performance, carcass traits, or kidney function at any level of oil. But, liver function was significantly affected due to LSO levels. Serum lipid profiles (total cholesterol-TC, triglyceride-TG, low-density lipoprotein-LDL, and very low-density lipoprotein-VLDL) were significantly reduced by using LSO levels compared to the control group. Dietary LSO significantly increased immunological and antioxidant parameters, except for malondialdehyde-MDA, which was reduced. On the other hand, the cecal microbiota was significantly improved by LSO additives. It was concluded that the dietary supplementation of LSO had beneficial effects on liver and kidney functions, lipid profile, immunity, antioxidant parameters, and the bacteriology of fattening chicks.
+
+[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.psj.2023.103409
+
+---
+
 ## #microbiome
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Improving the thermostability and modulating the inulin profile of inulosucrase through rational glycine-to-proline substitution.
+ 12.01.2024, _T Charoenwongpaiboon, N Sommanat, K Wangpaiboon, M Puangpathanachai, P Pongsawasdi, R Pichyangkura_
+
+
+The flexibility of protein structure plays a crucial role in enzyme stability and catalysis. Among the amino acids, glycine is particularly important in conferring flexibility to proteins. In this study, the effects of flexible glycine residues in Lactobacillus reuteri 121 inulosucrase (LrInu) on stability and inulin profile were investigated through glycine-to-proline substitutions. Molecular dynamics (MD) simulations were employed to discover the flexible glycine residues, and eight glycine residues, including Gly217, Gly298, Gly330, Gly416, Gly450, Gly624, Gly627, Gly629, were selected for site-directed mutagenesis. The results demonstrated significant changes in both thermostability and inulin profiles of the variants. Particularly, the G624P and G627P variants showed reduced production of long-chain oligosaccharides compared to the WT. This can be ascribed to the increased rigidity of the active site, which is crucial for the induction-fit mechanism. Overall, this study provides valuable insights into the role of flexible glycine residues in the activity, stability, and inulin synthesis of LrInu.
+
+[Source](https://twitter.com/hashtag/Lactobacillus?src=hash&ref_src=twsrc%5Etfw)
+
+10.1039/d3ra06896j
 
 ---
 
@@ -107,15 +131,15 @@ The levonorgestrel-releasing intrauterine device containing 13.5 mg of levonorge
 
 ---
 
-## Rosie, a Health Education Question-and-Answer Chatbot for New Mothers: Randomized Pilot Study.
- 12.01.2024, _QC Nguyen, EM Aparicio, M Jasczynski, A Channell Doig, X Yue, H Mane, N Srikanth, FXM Gutierrez, N Delcid, X He, J Boyd-Graber_
+## Outcome Comparison of Transconjunctival Müller's Muscle Recession With Levator Disinsertion (TMRLD) to Gold Weight Implantation in the Treatment of Paralytic Lagophthalmos.
+ 12.01.2024, _JK Park, B Campbell, T Shipchandler, HBH Lee_
 
 
-Stark disparities exist in maternal and child outcomes and there is a need to provide timely and accurate health information.
+To compare clinical outcomes of transconjunctival Müller's muscle recession with levator disinsertion (TMRLD) to the traditional gold weight implantation in patients with paralytic lagophthalmos.
 
 [Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
 
-10.2196/51361
+10.1097/IOP.0000000000002582
 
 ---
 
@@ -219,15 +243,15 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 
 ---
 
-## Cellulomonas alba sp. nov. and Cellulomonas edaphi sp. nov., isolated from wetland soils.
- 12.01.2024, _S Park, I Kim, G Chhetri, Y Jung, H Woo, T Seo_
+## Discovery of a Biotin Synthase That Utilizes an Auxiliary 4Fe-5S Cluster for Sulfur Insertion.
+ 12.01.2024, _JC Lachowicz, D Lennox-Hvenekilde, N Myling-Petersen, B Salomonsen, G Verkleij, CG Acevedo-Rocha, B Caddell, LS Gronenberg, SC Almo, MOA Sommer, HJ Genee, TL Grove_
 
 
-Two novel strains were isolated from wetland soils in Goyang, Republic of Korea. The two Gram-stain-positive, facultatively anaerobic, rod-shaped bacterial-type strains were designated MW4T and MW9T. Phylogenomic analysis based on whole-genome sequences suggested that both strains belonged to the genus Cellulomonas. The cells of strain MW4T were non-motile and grew at 20-40 °C (optimum, 35 °C), at pH 6.0-10.0 (optimum, pH 8.0) and in the presence of 0-1.0% NaCl (optimum, 0 %). The cells of strain MW9T were non-motile and grew at 20-40 °C (optimum, 35 °C), at pH 5.0-9.0 (optimum, pH 8.0) and in the presence of 0-1.0% NaCl (optimum, 0 %). The average nucleotide identity (77.1-88.1 %) and digital DNA-DNA hybridization values (21.0-34.8 %) between the two novel strains and with their closely related strains fell within the range for the genus Cellulomonas. The novel strains MW4T and MW9T and reference strains possessed alkane synthesis gene clusters (oleA, oleB, oleC and oleD). Phylogenomic, phylogenetic, average nucleotide identity, digital DNA-DNA hybridization, physiological and biochemical data indicated that the novel strains were distinct from other members of the family Cellulomonadaceae. We propose the names Cellulomonas alba sp. nov. (type strain MW4T=KACC 23260T=TBRC 17645T) and Cellulomons edaphi sp. nov. (type strain MW9T=KACC 23261T=TBRC 17646T) for the two strains.
+Biotin synthase (BioB) is a member of the Radical SAM superfamily of enzymes that catalyzes the terminal step of biotin (vitamin B7) biosynthesis, in which it inserts a sulfur atom in desthiobiotin to form a thiolane ring. How BioB accomplishes this difficult reaction has been the subject of much controversy, mainly around the source of the sulfur atom. However, it is now widely accepted that the sulfur atom inserted to form biotin stems from the sacrifice of the auxiliary 2Fe-2S cluster of BioB. Here, we bioinformatically explore the diversity of BioBs available in sequence databases and find an unexpected variation in the coordination of the auxiliary iron-sulfur cluster. After in vitro characterization, including the determination of biotin formation and representative crystal structures, we report a new type of BioB utilized by virtually all obligate anaerobic organisms. Instead of a 2Fe-2S cluster, this novel type of BioB utilizes an auxiliary 4Fe-5S cluster. Interestingly, this auxiliary 4Fe-5S cluster contains a ligated sulfide that we propose is used for biotin formation. We have termed this novel type of BioB, Type II BioB, with the E. coli 2Fe-2S cluster sacrificial BioB representing Type I. This surprisingly ubiquitous Type II BioB has implications for our understanding of the function and evolution of Fe-S clusters in enzyme catalysis, highlighting the difference in strategies between the anaerobic and aerobic world.
 
 [Source](https://twitter.com/hashtag/anaerobic?src=hash&ref_src=twsrc%5Etfw)
 
-10.1099/ijsem.0.006235
+10.1021/jacs.3c05481
 
 ---
 
@@ -237,15 +261,15 @@ Two novel strains were isolated from wetland soils in Goyang, Republic of Korea.
 
 ---
 
-## Mathematical modeling of fluid dynamics in in vitro gut fermentation systems: A new tool to improve the interpretation of microbial metabolism.
- 12.01.2024, _J Lessard-Lord, J Lupien-Meilleur, C Roussel, B Gosselin-Cliche, C Silvestri, V Di Marzo, D Roy, E Rousseau, Y Desjardins_
+## Dietary supplementation with a mixture of Dunaliella salina and Spirulina enhances broiler performance by improving growth, immunity, digestive enzymes and gut microbiota.
+ 12.01.2024, _MA Alghamdi, MI Elbaz, IE Ismail, FM Reda, M Alagawany, KA El-Tarabily, AS Abdelgeliel_
 
 
-In vitro systems are widely employed to assess the impact of dietary compounds on the gut microbiota and their conversion into beneficial bacterial metabolites. However, the complex fluid dynamics and multi-segmented nature of these systems can complicate the comprehensive analysis of dietary compound fate, potentially confounding physical dilution or washout with microbial catabolism. In this study, we developed fluid dynamics models based on sets of ordinary differential equations to simulate the behavior of an inert compound within two commonly used in vitro systems: the continuous two-stage PolyFermS system and the semi-continuous multi-segmented SHIME® system as well as into various declinations of those systems. The models were validated by investigating the fate of blue dextran, demonstrating excellent agreement between experimental and modeling data (with r2 values ranging from 0.996 to 0.86 for different approaches). As a proof of concept for the utility of fluid dynamics models in in vitro system, we applied generated models to interpret metabolomic data of procyanidin A2 (ProA2) generated from the addition of proanthocyanidin (PAC)-rich cranberry extract to both the PolyFermS and SHIME® systems. The results suggested ProA2 degradation by the gut microbiota when compared to the modeling of an inert compound. Models of fluid dynamics developed in this study provide a foundation for comprehensive analysis of gut metabolic data in commonly utilized in vitro PolyFermS and SHIME® bioreactor systems and can enable a more accurate understanding of the contribution of bacterial metabolism to the variability in the concentration of target metabolites.
+The aim of this study is to evaluate the effect of Dunaliella salina and Spirulina (D + S) mixture on performance, carcass yield, kidney and liver markers, lipid profile, and immune responses of fattening chicks. Two hundred broiler chicks at 7 days old were distributed into 5 experimental groups, 5 replicates each with 8 chicks each. Group 1 was fed on only basal diet; group 2 was fed with basal diet and 0.50 g/kg (D + S); group 3 was fed with basal diet and 1.00 g/kg (D + S); group 4 was fed with basal diet and 1.50 g/kg (D + S); and group 5 was fed with basal diet supplemented with 2.00 g/kg (D + S). The additive mixture (D + S) consisted of (1 D. salina: 1 Spirulina). The experiment lasted for 6 wk. The results demonstrated significantly improved better live body weight, body weight gain, and feed conversion ratio (P&lt;0.01) for groups that received (D + S) at levels of 1.0 and 1.5 g/kg diet compared to other groups at 6 wk of age. There was no significant influence of different levels of dietary feed additives on feed intake or carcass traits. The lipid profile was improved through a reduction of total cholesterol and low-density lipoprotein (LDL) values and increasing high-density lipoprotein (HDL) values, as well as the immune response, which was improved through increasing values of complement 3, immunoglobulin M (IgM), and immunoglobulin G (IgG) in the birds treated with (D + S) compared to the control group. The inclusion of all levels of (D + S)/kg decreased triglyceride, while total protein, albumen, and globulin values (P&lt;0.05 or P&lt;0.01) were higher compared to other groups. The inclusion of the different levels of (D + S)/kg improved liver function, whereas aspartate aminotransferase (AST) and alanine aminotransferase (ALT) values were lower than in other groups (P&lt;0.001). The lowest values of creatinine, urea, and uric acid were noted in birds fed a diet supplemented with 1.50 g (D + S)/kg. Antioxidant levels were improved through increasing values of catalase (CAT) and reduced glutathione (GSH) enzymes in the treated birds with (D + S) compared with the control chicks. Furthermore, digestive enzymes and microbial content were improved in broiler checks fed on diet supplemented with (D + S) compared to the control group. In conclusion, supplementing broiler chicks with a dietary D. salina and Spirulina combination increased their productive performance, immunity, kidney and liver function, lipid profile, and digestive enzymes.
 
 [Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
 
-10.1096/fj.202301739RR
+10.1016/j.psj.2023.103337
 
 ---
 
@@ -255,15 +279,15 @@ In vitro systems are widely employed to assess the impact of dietary compounds o
 
 ---
 
-## Mathematical modeling of fluid dynamics in in vitro gut fermentation systems: A new tool to improve the interpretation of microbial metabolism.
- 12.01.2024, _J Lessard-Lord, J Lupien-Meilleur, C Roussel, B Gosselin-Cliche, C Silvestri, V Di Marzo, D Roy, E Rousseau, Y Desjardins_
+## Does dietary supplementation with lettuce seed oil enhance broiler performance, immunity, lipid profile, liver and kidney functions, antioxidant parameters, and intestinal microbiota?
+ 12.01.2024, _MS Soliman, SYA Qattan, FM Reda, LA Mohamed, SA Mahgoub, SI Othman, AA Allam, G Tellez-Isaias, M Alagawany_
 
 
-In vitro systems are widely employed to assess the impact of dietary compounds on the gut microbiota and their conversion into beneficial bacterial metabolites. However, the complex fluid dynamics and multi-segmented nature of these systems can complicate the comprehensive analysis of dietary compound fate, potentially confounding physical dilution or washout with microbial catabolism. In this study, we developed fluid dynamics models based on sets of ordinary differential equations to simulate the behavior of an inert compound within two commonly used in vitro systems: the continuous two-stage PolyFermS system and the semi-continuous multi-segmented SHIME® system as well as into various declinations of those systems. The models were validated by investigating the fate of blue dextran, demonstrating excellent agreement between experimental and modeling data (with r2 values ranging from 0.996 to 0.86 for different approaches). As a proof of concept for the utility of fluid dynamics models in in vitro system, we applied generated models to interpret metabolomic data of procyanidin A2 (ProA2) generated from the addition of proanthocyanidin (PAC)-rich cranberry extract to both the PolyFermS and SHIME® systems. The results suggested ProA2 degradation by the gut microbiota when compared to the modeling of an inert compound. Models of fluid dynamics developed in this study provide a foundation for comprehensive analysis of gut metabolic data in commonly utilized in vitro PolyFermS and SHIME® bioreactor systems and can enable a more accurate understanding of the contribution of bacterial metabolism to the variability in the concentration of target metabolites.
+The aim of this research was to evaluate the influence of lettuce seed oil (LSO) on the performance, carcass yield, kidney and liver indices, immunity, lipid profile, and cecal microbiota of fattening chicks. A total of 200, 7-day-old Cobb-500 were distributed into 5 experimental groups; each group contained 5 replicates with 8 birds each. The first group 1) the basal diet (only); 2) the basal diet plus lettuce seed oil (0.50 mL/kg); 3) the basal diet plus lettuce seed oil (1.00 mL/kg); 4) the basal diet plus lettuce seed oil (1.50 mL/kg); and 5) the basal diet plus lettuce seed oil (2.00 mL/kg). No significant effect was observed on growth performance, carcass traits, or kidney function at any level of oil. But, liver function was significantly affected due to LSO levels. Serum lipid profiles (total cholesterol-TC, triglyceride-TG, low-density lipoprotein-LDL, and very low-density lipoprotein-VLDL) were significantly reduced by using LSO levels compared to the control group. Dietary LSO significantly increased immunological and antioxidant parameters, except for malondialdehyde-MDA, which was reduced. On the other hand, the cecal microbiota was significantly improved by LSO additives. It was concluded that the dietary supplementation of LSO had beneficial effects on liver and kidney functions, lipid profile, immunity, antioxidant parameters, and the bacteriology of fattening chicks.
 
 [Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
 
-10.1096/fj.202301739RR
+10.1016/j.psj.2023.103409
 
 ---
 
@@ -279,15 +303,15 @@ In vitro systems are widely employed to assess the impact of dietary compounds o
 
 ---
 
-## Mathematical modeling of fluid dynamics in in vitro gut fermentation systems: A new tool to improve the interpretation of microbial metabolism.
- 12.01.2024, _J Lessard-Lord, J Lupien-Meilleur, C Roussel, B Gosselin-Cliche, C Silvestri, V Di Marzo, D Roy, E Rousseau, Y Desjardins_
+## Does dietary supplementation with lettuce seed oil enhance broiler performance, immunity, lipid profile, liver and kidney functions, antioxidant parameters, and intestinal microbiota?
+ 12.01.2024, _MS Soliman, SYA Qattan, FM Reda, LA Mohamed, SA Mahgoub, SI Othman, AA Allam, G Tellez-Isaias, M Alagawany_
 
 
-In vitro systems are widely employed to assess the impact of dietary compounds on the gut microbiota and their conversion into beneficial bacterial metabolites. However, the complex fluid dynamics and multi-segmented nature of these systems can complicate the comprehensive analysis of dietary compound fate, potentially confounding physical dilution or washout with microbial catabolism. In this study, we developed fluid dynamics models based on sets of ordinary differential equations to simulate the behavior of an inert compound within two commonly used in vitro systems: the continuous two-stage PolyFermS system and the semi-continuous multi-segmented SHIME® system as well as into various declinations of those systems. The models were validated by investigating the fate of blue dextran, demonstrating excellent agreement between experimental and modeling data (with r2 values ranging from 0.996 to 0.86 for different approaches). As a proof of concept for the utility of fluid dynamics models in in vitro system, we applied generated models to interpret metabolomic data of procyanidin A2 (ProA2) generated from the addition of proanthocyanidin (PAC)-rich cranberry extract to both the PolyFermS and SHIME® systems. The results suggested ProA2 degradation by the gut microbiota when compared to the modeling of an inert compound. Models of fluid dynamics developed in this study provide a foundation for comprehensive analysis of gut metabolic data in commonly utilized in vitro PolyFermS and SHIME® bioreactor systems and can enable a more accurate understanding of the contribution of bacterial metabolism to the variability in the concentration of target metabolites.
+The aim of this research was to evaluate the influence of lettuce seed oil (LSO) on the performance, carcass yield, kidney and liver indices, immunity, lipid profile, and cecal microbiota of fattening chicks. A total of 200, 7-day-old Cobb-500 were distributed into 5 experimental groups; each group contained 5 replicates with 8 birds each. The first group 1) the basal diet (only); 2) the basal diet plus lettuce seed oil (0.50 mL/kg); 3) the basal diet plus lettuce seed oil (1.00 mL/kg); 4) the basal diet plus lettuce seed oil (1.50 mL/kg); and 5) the basal diet plus lettuce seed oil (2.00 mL/kg). No significant effect was observed on growth performance, carcass traits, or kidney function at any level of oil. But, liver function was significantly affected due to LSO levels. Serum lipid profiles (total cholesterol-TC, triglyceride-TG, low-density lipoprotein-LDL, and very low-density lipoprotein-VLDL) were significantly reduced by using LSO levels compared to the control group. Dietary LSO significantly increased immunological and antioxidant parameters, except for malondialdehyde-MDA, which was reduced. On the other hand, the cecal microbiota was significantly improved by LSO additives. It was concluded that the dietary supplementation of LSO had beneficial effects on liver and kidney functions, lipid profile, immunity, antioxidant parameters, and the bacteriology of fattening chicks.
 
 [Source](https://twitter.com/hashtag/Microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1096/fj.202301739RR
+10.1016/j.psj.2023.103409
 
 ---
 
@@ -358,15 +382,15 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 
 ---
 
-## Rosie, a Health Education Question-and-Answer Chatbot for New Mothers: Randomized Pilot Study.
- 12.01.2024, _QC Nguyen, EM Aparicio, M Jasczynski, A Channell Doig, X Yue, H Mane, N Srikanth, FXM Gutierrez, N Delcid, X He, J Boyd-Graber_
+## Outcome Comparison of Transconjunctival Müller's Muscle Recession With Levator Disinsertion (TMRLD) to Gold Weight Implantation in the Treatment of Paralytic Lagophthalmos.
+ 12.01.2024, _JK Park, B Campbell, T Shipchandler, HBH Lee_
 
 
-Stark disparities exist in maternal and child outcomes and there is a need to provide timely and accurate health information.
+To compare clinical outcomes of transconjunctival Müller's muscle recession with levator disinsertion (TMRLD) to the traditional gold weight implantation in patients with paralytic lagophthalmos.
 
 [Source](https://twitter.com/campanarostef/status/1742576845915070538?ref_src=twsrc%5Etfw)
 
-10.2196/51361
+10.1097/IOP.0000000000002582
 
 ---
 
