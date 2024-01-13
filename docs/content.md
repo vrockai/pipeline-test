@@ -71,51 +71,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## The role of probiotics in women's health: An update narrative review.
- 12.01.2024, _LY Wu, TH Yang, YC Ou, H Lin_
-
-
-Probiotics, live microorganisms that confer health benefits to the host when administered in adequate amounts, have gained considerable attention for their potential role in maintaining women's health. This overview summarizes key clinical findings on the beneficial effects of probiotics in various aspects of women's health. Probiotics, particularly Lactobacillus species, contribute to vaginal health by promoting a balanced vaginal microbiome to prevent infections and maintain an acidic environment. In gynecologic conditions, probiotics show potential in preventing and managing bacterial vaginosis, vulvovaginal candidiasis, and sexually transmitted infections. Probiotic supplementation has also been associated with improvements in metabolic parameters and menstrual irregularities in polycystic ovary syndrome patients. During pregnancy, probiotics may be helpful in reducing the risk of gestational diabetes, maternal group B streptococcal colonization, obstetric anemia, and postpartum mastitis. In recent years, the potential role of probiotics in the prevention and management of gynecologic cancer has gained attention. Further research is needed to better understand the specific mechanisms and determine the optimal Lactobacillus strains and dosages regimens for gynecologic cancer prevention and therapy. In conclusion, probiotics offer a non-invasive and cost-effective approach to support women's health and prevent obstetric and gynecologic complications.
-
-[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.tjog.2023.09.018
-
----
-
 ## #microbiome
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## The role of probiotics in women's health: An update narrative review.
- 12.01.2024, _LY Wu, TH Yang, YC Ou, H Lin_
-
-
-Probiotics, live microorganisms that confer health benefits to the host when administered in adequate amounts, have gained considerable attention for their potential role in maintaining women's health. This overview summarizes key clinical findings on the beneficial effects of probiotics in various aspects of women's health. Probiotics, particularly Lactobacillus species, contribute to vaginal health by promoting a balanced vaginal microbiome to prevent infections and maintain an acidic environment. In gynecologic conditions, probiotics show potential in preventing and managing bacterial vaginosis, vulvovaginal candidiasis, and sexually transmitted infections. Probiotic supplementation has also been associated with improvements in metabolic parameters and menstrual irregularities in polycystic ovary syndrome patients. During pregnancy, probiotics may be helpful in reducing the risk of gestational diabetes, maternal group B streptococcal colonization, obstetric anemia, and postpartum mastitis. In recent years, the potential role of probiotics in the prevention and management of gynecologic cancer has gained attention. Further research is needed to better understand the specific mechanisms and determine the optimal Lactobacillus strains and dosages regimens for gynecologic cancer prevention and therapy. In conclusion, probiotics offer a non-invasive and cost-effective approach to support women's health and prevent obstetric and gynecologic complications.
-
-[Source](https://twitter.com/hashtag/Lactobacillus?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.tjog.2023.09.018
-
----
-
 ## #Lactobacillus
 
 [Source](https://twitter.com/hashtag/Lactobacillus?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Characteristics and hormonal contraception use patterns of levonorgestrel 13.5 mg intrauterine device users in Sweden 2014-2016.
- 16.10.2023, _M Linder, J Schoendorf, F Pisa, R Schulze-Rath, CE Cesta_
-
-
-The levonorgestrel-releasing intrauterine device containing 13.5 mg of levonorgestrel (LNG 13.5 mg IUD), Jaydess®, was approved for contraception by the European Medicines Agency in 2013. We aimed to describe the characteristics of new users of LNG 13.5 mg IUD in Sweden within the first 3 years after approval (2014-2016).
-
-[Source](https://twitter.com/hashtag/WomensHealth?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.contraception.2023.110309
 
 ---
 
@@ -131,34 +95,15 @@ The levonorgestrel-releasing intrauterine device containing 13.5 mg of levonorge
 
 ---
 
-## Circulating Galectin-3 levels in women with polycystic ovary syndrome: A meta-analysis.
- 12.01.2024, _SS Bahreiny, MN Bastani, M Aghaei, MR Dabbagh, AH Mahdizade_
-
-
-Polycystic ovary syndrome (PCOS) is a highly prevalent endocrine disorder characterized by multifactorial and intricate pathogenesis. The discovery of novel markers has been a significant step toward understanding the mechanisms of PCOS. Galectin-3 has emerged as a novel factor in metabolic disorders. This meta-analysis examines the association between circulating Galectin-3 and PCOS. A systematic review and meta-analysis were performed to identify relevant articles in the electronic databases PubMed, Web of Science, Scopus, Cochrane, EMBASE, and Google Scholar. The search covered the period from January 2000 to March 2023 and followed a predefined search strategy. Eight articles were included in the analysis with a total of 594 participants (322 patients with PCOS and 272 controls). Pooled standardized mean difference (SMD) and 95 % confidence interval [CI] were used to evaluate the association between Galectin-3 levels and PCOS. The results indicated a significant association between PCOS and galectin-3 levels (SMD = 0.58; 95 % CI: 0.15-1.01; p = 0.007). In addition, subgroup analysis showed a significant difference in serum Galectin-3 levels in women with PCOS and a higher homeostatic model assessment for insulin resistance ratio (SMD = 0.89; 95 % CI: 0.45-1.33; p &lt; 0.001). The researchers also performed meta-regression and subgroup analyses to specify sources of heterogeneity. The results of our meta-analysis suggest an association between increased levels of galectin-3 and PCOS. Galectin-3 plays a significant role in the progression of PCOS and could be used as a novel diagnostic biomarker. Nevertheless, it is essential to perform further studies to confirm and support our conclusions.
-
-[Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
-
-10.1016/j.tjog.2023.10.003
-
----
-
 ## January 3, 2024
 
 [Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
 
 ---
 
-## BilR is a gut microbial enzyme that reduces bilirubin to urobilinogen.
- 08.01.2024, _B Hall, S Levy, K Dufault-Thompson, G Arp, A Zhong, GM Ndjite, A Weiss, D Braccia, C Jenkins, MR Grant, S Abeysinghe, Y Yang, MD Jermain, CH Wu, B Ma, X Jiang_
-
-
-_Infant, Newborn, Adult, Humans, Bilirubin, Urobilinogen, Gastrointestinal Microbiome, Liver, Bacteria_
-Metabolism of haem by-products such as bilirubin by humans and their gut microbiota is essential to human health, as excess serum bilirubin can cause jaundice and even neurological damage. The bacterial enzymes that reduce bilirubin to urobilinogen, a key step in this pathway, have remained unidentified. Here we used biochemical analyses and comparative genomics to identify BilR as a gut-microbiota-derived bilirubin reductase that reduces bilirubin to urobilinogen. We delineated the BilR sequences from similar reductases through the identification of key residues critical for bilirubin reduction and found that BilR is predominantly encoded by Firmicutes species. Analysis of human gut metagenomes revealed that BilR is nearly ubiquitous in healthy adults, but prevalence is decreased in neonates and individuals with inflammatory bowel disease. This discovery sheds light on the role of the gut microbiome in bilirubin metabolism and highlights the significance of the gut-liver axis in maintaining bilirubin homeostasis.
+## BilR is a gut microbial enzyme that reduces bilirubin to urobilinogen
 
 [Source](https://www.nature.com/articles/s41564-023-01549-x)
-
-10.1038/s41564-023-01549-x
 
 ---
 
@@ -217,9 +162,27 @@ Establishing the infant's gut microbiota has long-term implications on health an
 
 ---
 
-## A unified compendium of prokaryotic and viral genomes from over 300 anaerobic digestion microbiomes
+## A unified compendium of prokaryotic and viral genomes from over 300 anaerobic digestion microbiomes.
+ 05.01.2024, _VB Centurion, A Rossi, E Orellana, G Ghiotto, B Kakuk, MS Morlino, A Basile, G Zampieri, L Treu, S Campanaro_
+
+
+The anaerobic digestion process degrades organic matter into simpler compounds and occurs in strictly anaerobic and microaerophilic environments. The process is carried out by a diverse community of microorganisms where each species has a unique role and it has relevant biotechnological applications since it is used for biogas production. Some aspects of the microbiome, including its interaction with phages, remains still unclear: a better comprehension of the community composition and role of each species is crucial for a cured understanding of the carbon cycle in anaerobic systems and improving biogas production.
 
 [Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-023-00545-2)
+
+10.1186/s40793-023-00545-2
+
+---
+
+## Bacteroides and related species: The keystone taxa of the human gut microbiota.
+ 12.01.2024, _JH Shin, G Tillotson, TN MacKenzie, C Warren, HM Wexler, E Goldstein_
+
+
+Microbial communities play a significant role in maintaining ecosystems in a healthy homeostasis. Presently, in the human gastrointestinal tract, there are certain taxonomic groups of importance, though there is no single species that plays a keystone role. Bacteroides spp. are known to be major players in the maintenance of eubiosis in the human gastrointestinal tract. Here we review the critical role that Bacteroides play in the human gut, their potential pathogenic role outside of the gut, and their various methods of adapting to the environment, with a focus on data for B. fragilis and B. thetaiotaomicron. Bacteroides are anaerobic non-sporing gram-negative organisms that are also resistant to bile acids, generally thriving in the gut and having a beneficial relationship with the host. While they are generally commensal organisms, some Bacteroides spp. can be opportunistic pathogens in scenarios of GI disease, trauma, cancer, or GI surgery, and cause infection, most commonly intra-abdominal infection. B. fragilis can develop antimicrobial resistance through multiple mechanisms in large part due to its plasticity and fluid genome. Bacteroidota (formerly, Bacteroidetes) have a very broad metabolic potential in the GI microbiota and can rapidly adapt their carbohydrate metabolism to the available nutrients. Gastrointestinal Bacteroidota species produce short-chain fatty acids such as succinate, acetate, butyrate, and occasionally propionate, as the major end-products, which have wide-ranging and many beneficial influences on the host. Bacteroidota, via bile acid metabolism, also play a role in in colonization-resistance of other organisms, including Clostridioides difficile, and maintenance of gut integrity.
+
+[Source](https://twitter.com/hashtag/anaerobic?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.anaerobe.2024.102819
 
 ---
 
@@ -229,14 +192,15 @@ Establishing the infant's gut microbiota has long-term implications on health an
 
 ---
 
-## New horizons in polyp size estimation.
- 12.01.2024, _Y Mori_
+## Impact of Helicobacter pylori colonization density and depth on gastritis severity.
+ 12.01.2024, _J Peng, J Xie, D Liu, K Yang, S Wu, D Liu, D Huang, Y Xie_
 
 
+Helicobacter pylori (H. pylori) infection is the most common etiology of chronic gastric. H. pylori gastritis would gradually evolve into gastric atrophy, intestinal metaplasia, dysplasia and malignant lesions. Herein, this study aimed to investigate the potential impact of H. pylori colonization density and depth on the severity of histological parameters of gastritis.
 
 [Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
 
-10.1055/a-2224-0756
+10.1186/s12941-024-00666-7
 
 ---
 
@@ -246,15 +210,15 @@ Establishing the infant's gut microbiota has long-term implications on health an
 
 ---
 
-## The role of probiotics in women's health: An update narrative review.
- 12.01.2024, _LY Wu, TH Yang, YC Ou, H Lin_
+## Sex-dependent circadian alterations of both central and peripheral clock genes expression and gut-microbiota composition during activity-based anorexia in mice.
+ 12.01.2024, _C Salaün, M Courvalet, L Rousseau, K Cailleux, J Breton, C Bôle-Feysot, C Guérin, M Huré, A Goichon, JC do Rego, P Déchelotte, D Ribet, N Achamrah, M Coëffier_
 
 
-Probiotics, live microorganisms that confer health benefits to the host when administered in adequate amounts, have gained considerable attention for their potential role in maintaining women's health. This overview summarizes key clinical findings on the beneficial effects of probiotics in various aspects of women's health. Probiotics, particularly Lactobacillus species, contribute to vaginal health by promoting a balanced vaginal microbiome to prevent infections and maintain an acidic environment. In gynecologic conditions, probiotics show potential in preventing and managing bacterial vaginosis, vulvovaginal candidiasis, and sexually transmitted infections. Probiotic supplementation has also been associated with improvements in metabolic parameters and menstrual irregularities in polycystic ovary syndrome patients. During pregnancy, probiotics may be helpful in reducing the risk of gestational diabetes, maternal group B streptococcal colonization, obstetric anemia, and postpartum mastitis. In recent years, the potential role of probiotics in the prevention and management of gynecologic cancer has gained attention. Further research is needed to better understand the specific mechanisms and determine the optimal Lactobacillus strains and dosages regimens for gynecologic cancer prevention and therapy. In conclusion, probiotics offer a non-invasive and cost-effective approach to support women's health and prevent obstetric and gynecologic complications.
+Patients with anorexia nervosa (AN) often present sleep disorders and circadian hormonal dysregulation. The role of the microbiota-gut-brain axis in the regulation of feeding behavior has emerged during the last decades but its relationships with the circadian rhythm remains poorly documented. Thus, we aimed to characterize the circadian clock genes expression in peripheral and central tissues in the activity-based anorexia mouse model (ABA), as well as the dynamics of the gut-microbiota composition.
 
 [Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.tjog.2023.09.018
+10.1186/s13293-023-00576-x
 
 ---
 
@@ -270,15 +234,15 @@ Probiotics, live microorganisms that confer health benefits to the host when adm
 
 ---
 
-## The role of probiotics in women's health: An update narrative review.
- 12.01.2024, _LY Wu, TH Yang, YC Ou, H Lin_
+## Sex-dependent circadian alterations of both central and peripheral clock genes expression and gut-microbiota composition during activity-based anorexia in mice.
+ 12.01.2024, _C Salaün, M Courvalet, L Rousseau, K Cailleux, J Breton, C Bôle-Feysot, C Guérin, M Huré, A Goichon, JC do Rego, P Déchelotte, D Ribet, N Achamrah, M Coëffier_
 
 
-Probiotics, live microorganisms that confer health benefits to the host when administered in adequate amounts, have gained considerable attention for their potential role in maintaining women's health. This overview summarizes key clinical findings on the beneficial effects of probiotics in various aspects of women's health. Probiotics, particularly Lactobacillus species, contribute to vaginal health by promoting a balanced vaginal microbiome to prevent infections and maintain an acidic environment. In gynecologic conditions, probiotics show potential in preventing and managing bacterial vaginosis, vulvovaginal candidiasis, and sexually transmitted infections. Probiotic supplementation has also been associated with improvements in metabolic parameters and menstrual irregularities in polycystic ovary syndrome patients. During pregnancy, probiotics may be helpful in reducing the risk of gestational diabetes, maternal group B streptococcal colonization, obstetric anemia, and postpartum mastitis. In recent years, the potential role of probiotics in the prevention and management of gynecologic cancer has gained attention. Further research is needed to better understand the specific mechanisms and determine the optimal Lactobacillus strains and dosages regimens for gynecologic cancer prevention and therapy. In conclusion, probiotics offer a non-invasive and cost-effective approach to support women's health and prevent obstetric and gynecologic complications.
+Patients with anorexia nervosa (AN) often present sleep disorders and circadian hormonal dysregulation. The role of the microbiota-gut-brain axis in the regulation of feeding behavior has emerged during the last decades but its relationships with the circadian rhythm remains poorly documented. Thus, we aimed to characterize the circadian clock genes expression in peripheral and central tissues in the activity-based anorexia mouse model (ABA), as well as the dynamics of the gut-microbiota composition.
 
 [Source](https://twitter.com/hashtag/Microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.tjog.2023.09.018
+10.1186/s13293-023-00576-x
 
 ---
 
