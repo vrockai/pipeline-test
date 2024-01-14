@@ -1,458 +1,250 @@
-## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
- 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
+## Linking microbial genes to plasma and stool metabolites uncovers host-microbial interactions underlying ulcerative colitis disease course.
+ 12.01.2024, _M Schirmer, M Stražar, J Avila-Pacheco, DF Rojas-Tapias, EM Brown, E Temple, A Deik, K Bullock, S Jeanfavre, K Pierce, S Jin, R Invernizzi, MM Pust, Z Costliow, DR Mack, AM Griffiths, T Walters, BM Boyle, S Kugathasan, H Vlamakis, J Hyams, L Denson, CB Clish, RJ Xavier_
 
 
-_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
-This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
+Understanding the role of the microbiome in inflammatory diseases requires the identification of microbial effector molecules. We established an approach to link disease-associated microbes to microbial metabolites by integrating paired metagenomics, stool and plasma metabolomics, and culturomics. We identified host-microbial interactions correlated with disease activity, inflammation, and the clinical course of ulcerative colitis (UC) in the Predicting Response to Standardized Colitis Therapy (PROTECT) pediatric inception cohort. In severe disease, metabolite changes included increased dipeptides and tauro-conjugated bile acids (BAs) and decreased amino-acid-conjugated BAs in stool, whereas in plasma polyamines (N-acetylputrescine and N1-acetylspermidine) increased. Using patient samples and Veillonella parvula as a model, we uncovered nitrate- and lactate-dependent metabolic pathways, experimentally linking V. parvula expansion to immunomodulatory tryptophan metabolite production. Additionally, V. parvula metabolizes immunosuppressive thiopurine drugs through xdhA xanthine dehydrogenase, potentially impairing the therapeutic response. Our findings demonstrate that the microbiome contributes to disease-associated metabolite changes, underscoring the importance of these interactions in disease pathology and treatment.
 
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1016/j.chom.2023.12.013)
 
-10.3390/ijerph19010099
-
----
-
-## #MVIF
-
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+10.1016/j.chom.2023.12.013
 
 ---
 
-## @JenWargoMD
+## Incorporating metabolic activity, taxonomy and community structure to improve microbiome-based predictive models for host phenotype prediction.
+ 12.01.2024, _M Monshizadeh, Y Ye_
 
-[Source](https://twitter.com/JenWargoMD?ref_src=twsrc%5Etfw)
 
----
+We developed MicroKPNN, a prior-knowledge guided interpretable neural network for microbiome-based human host phenotype prediction. The prior knowledge used in MicroKPNN includes the metabolic activities of different bacterial species, phylogenetic relationships, and bacterial community structure, all in a shallow neural network. Application of MicroKPNN to seven gut microbiome datasets (involving five different human diseases including inflammatory bowel disease, type 2 diabetes, liver cirrhosis, colorectal cancer, and obesity) shows that incorporation of the prior knowledge helped improve the microbiome-based host phenotype prediction. MicroKPNN outperformed fully connected neural network-based approaches in all seven cases, with the most improvement of accuracy in the prediction of type 2 diabetes. MicroKPNN outperformed a recently developed deep-learning based approach DeepMicro, which selects the best combination of autoencoder and machine learning approach to make predictions, in all of the seven cases. Importantly, we showed that MicroKPNN provides a way for interpretation of the predictive models. Using importance scores estimated for the hidden nodes, MicroKPNN could provide explanations for prior research findings by highlighting the roles of specific microbiome components in phenotype predictions. In addition, it may suggest potential future research directions for studying the impacts of microbiome on host health and diseases. MicroKPNN is publicly available at https://github.com/mgtools/MicroKPNN.
 
-## @NikolayOskolkov
+[Source](https://doi.org/10.1080/19490976.2024.2302076)
 
-[Source](https://twitter.com/NikolayOskolkov?ref_src=twsrc%5Etfw)
-
----
-
-## @SondraTurjeman
-
-[Source](https://twitter.com/SondraTurjeman?ref_src=twsrc%5Etfw)
+10.1080/19490976.2024.2302076
 
 ---
 
-## @MireiaVallesc
+## Microbiota and mucosal gene expression of fecal microbiota transplantation or placebo treated patients with chronic pouchitis.
+ 12.01.2024, _AK Hartikainen, I Khan, EK Karjalainen, L Renkonen-Sinisalo, P Arkkila, J Jalanka, AH Lepistö, R Satokari_
 
-[Source](https://twitter.com/MireiaVallesc?ref_src=twsrc%5Etfw)
 
----
+Altered microbiota and impaired host immune function have been linked to the pathogenesis of pouchitis. We used 16S rRNA gene sequencing and RNA sequencing data from a previous randomized clinical trial (RCT) on fecal microbiota transplantation (FMT) therapy in 26 chronic pouchitis patients with one-year follow-up. We analyzed changes in both luminal and mucosal microbiota composition, as well as in host mucosal gene expression to gain insights into the host-microbiota interactions possibly underlying clinical outcomes of the patients. Antibiotic type and pattern of use were significant drivers of the luminal microbiota at baseline. Differential gene expression analysis indicated transition from ileal to colonic gene expression in the pouch, and upregulation in inflammation- and immune system-related pathways in the pouch. At 4 weeks, the non-relapsed FMT patients had a lower microbiota dissimilarity to the donor than the non-relapsed placebo patients (p = .02). While two FMT-treated patients showed a shift toward the donor's microbiota during the one-year follow-up, the overall FMT microbiota modulation effect was low. Patient's luminal and mucosal microbiota profiles were unstable in both FMT and placebo groups. Expression of the chemokine receptor CXCR4 was downregulated at 52 weeks compared to the baseline in the non-relapsed patients in both FMT and placebo groups. Microbiota modulation by FMT seems to be low in this patient group. The microbiota composition or alterations did not explain the relapse status of the patients. Some evidence for remission-related host gene expression pattern was found; specifically, CXCR4 expression may have a role in sustained remission.
 
-## https://t.co/5lRK9Mj8hN
+[Source](https://doi.org/10.1080/19490976.2023.2295445)
 
-[Source](https://t.co/5lRK9Mj8hN)
-
----
-
-## https://t.co/EAD6ZZoxTC
-
-[Source](https://t.co/EAD6ZZoxTC)
+10.1080/19490976.2023.2295445
 
 ---
 
-## pic.twitter.com/3c240LsCsC
+## A robust microbiome signature for autism spectrum disorder across different studies using machine learning.
+ 11.01.2024, _LN Peralta-Marzal, D Rojas-Velazquez, D Rigters, N Prince, J Garssen, AD Kraneveld, P Perez-Pardo, A Lopez-Rincon_
 
-[Source](https://t.co/3c240LsCsC)
 
----
+_Child, Humans, Autism Spectrum Disorder, RNA, Ribosomal, 16S, Microbiota, Gastrointestinal Microbiome, Machine Learning_
+Autism spectrum disorder (ASD) is a highly complex neurodevelopmental disorder characterized by deficits in sociability and repetitive behaviour, however there is a great heterogeneity within other comorbidities that accompany ASD. Recently, gut microbiome has been pointed out as a plausible contributing factor for ASD development as individuals diagnosed with ASD often suffer from intestinal problems and show a differentiated intestinal microbial composition. Nevertheless, gut microbiome studies in ASD rarely agree on the specific bacterial taxa involved in this disorder. Regarding the potential role of gut microbiome in ASD pathophysiology, our aim is to investigate whether there is a set of bacterial taxa relevant for ASD classification by using a sibling-controlled dataset. Additionally, we aim to validate these results across two independent cohorts as several confounding factors, such as lifestyle, influence both ASD and gut microbiome studies. A machine learning approach, recursive ensemble feature selection (REFS), was applied to 16S rRNA gene sequencing data from 117 subjects (60 ASD cases and 57 siblings) identifying 26 bacterial taxa that discriminate ASD cases from controls. The average area under the curve (AUC) of this specific set of bacteria in the sibling-controlled dataset was 81.6%. Moreover, we applied the selected bacterial taxa in a tenfold cross-validation scheme using two independent cohorts (a total of 223 samples-125 ASD cases and 98 controls). We obtained average AUCs of 74.8% and 74%, respectively. Analysis of the gut microbiome using REFS identified a set of bacterial taxa that can be used to predict the ASD status of children in three distinct cohorts with AUC over 80% for the best-performing classifiers. Our results indicate that the gut microbiome has a strong association with ASD and should not be disregarded as a potential target for therapeutic interventions. Furthermore, our work can contribute to use the proposed approach for identifying microbiome signatures across other 16S rRNA gene sequencing datasets.
 
-## December 21, 2023
+[Source](https://doi.org/10.1038/s41598-023-50601-7)
 
-[Source](https://twitter.com/MicrobiomeVIF/status/1737811126937645489?ref_src=twsrc%5Etfw)
-
----
-
-## Vaginal <em>Lactobacillus </em>fatty acid response mechanisms reveal a novel strategy for bacterial vaginosis treatment
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.12.30.573720v1)
+10.1038/s41598-023-50601-7
 
 ---
 
-## Changes in the fecal microbiota of breast cancer patients based on 16S rRNA gene sequencing: a systematic review and meta-analysis.
- 13.01.2024, _B Luan, F Ge, X Lu, Z Li, H Zhang, J Wu, Q Yang, L Chen, W Zhang, W Chen_
+## The spatial dissimilarities and connections of the microbiota in the upper and lower respiratory tract of beef cattle.
+ 16.12.2023, _Z Zhang, C Zhang, Y Zhong, S Yang, F Deng, Y Li, J Chai_
 
 
-Breast cancer (BC) is a devastating disease for women. Microbial influences may be involved in the development and progression of breast cancer. This study aimed to investigate the difference in intestinal flora abundance between breast cancer patients and healthy controls (HC) based on previous 16S ribosomal RNA (rRNA) gene sequencing results, which have been scattered and inconsistent in previous studies.
+_Cattle, Animals, Nasopharynx, Nose, Bacteria, Cattle Diseases, Lung, Microbiota_
+Bovine respiratory disease (BRD) causes morbidity and mortality in cattle. The critical roles of the respiratory microbiota in BRD have been widely studied. The nasopharynx was the most popular sampling niche for BRD pathogen studies. The oral cavity and other niches within the respiratory tract, such as nostrils and lung, are less assessed. In this study, oropharyngeal swabs (OS), nasal swabs (NS), nasopharyngeal swabs (NP), and bronchoalveolar lavage (BAL) were collected from calves located in four countries and analyzed for investigation of the dissimilarities and connections of the respiratory microbiota. The results showed that the microbial diversity, structure, and composition in the upper and lower respiratory tract in beef cattle from China, the USA, Canada, and Italy were significantly different. The microbial taxa for each sampling niche were specific and associated with their local physiology and geography. The signature microbiota for OS, NS, NP, and BAL were identified using the LEfSe algorithm. Although the spatial dissimilarities among the respiratory niches existed, the microbial connections were observed in beef cattle regardless of geography. Notably, the nostril and nasopharynx had more similar microbiomes compared to lung communities. The major bacterial immigration patterns in the bovine respiratory tract were estimated and some of them were associated with geography. In addition, the contribution of oral microbiota to the nasal and lung ecosystems was confirmed. Lastly, microbial interactions were characterized to reveal the correlation between the commercial microbiota and BRD-associated pathogens. In conclusion, shared airway microbiota among niches and geography provides the possibility to investigate the common knowledge for bovine respiratory health and diseases. In spite of the dissimilarities of the respiratory microbiota in cattle, the spatial connections among these sampling niches not only allow us to deeply understand the airway ecosystem but also benefit the research and development of probiotics for BRD.
 
-[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://www.cysticfibrosisjournal.com/article/S1569-1993(23)01735-6/fulltext)
 
-10.1007/s12094-023-03373-5
-
----
-
-## #microbiome
-
-[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
+10.3389/fcimb.2023.1269726
 
 ---
 
-## Adjuvant administration of probiotic effects on sexual function in depressant women undergoing SSRIs treatment: a double-blinded randomized controlled trial.
- 12.01.2024, _N Hashemi-Mohammadabad, SA Taghavi, N Lambert, R Moshtaghi, F Bazarganipour, M Sharifi_
+## Nasal lavage microbiome, but not nasal swab microbiome, correlates with sinonasal inflammation in children with cystic fibrosis
 
-
-According to the Institute of Health Metrics and Evaluation's Global Health Data Exchange (2023) it is estimated that 5% of all adults will experience depressive disorder. Amongst the general loss of pleasure and interest in everyday activities that are symptoms of low mood, reduced sexual desire and sexual dysfunction can be particularly overlooked. Human sexuality is complex, but finding solutions based on scientific evidence to limit the symptoms of depressive disorder and the iatrogenic impact of antidepressant treatment to improve this outcome is an important step in promoting psychological health and general wellbeing.
-
-[Source](https://twitter.com/hashtag/Lactobacillus?src=hash&ref_src=twsrc%5Etfw)
-
-10.1186/s12888-023-05429-w
+[Source](https://www.cysticfibrosisjournal.com/article/S1569-1993(23)01735-6/fulltext)
 
 ---
 
-## #Lactobacillus
-
-[Source](https://twitter.com/hashtag/Lactobacillus?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Characteristics and hormonal contraception use patterns of levonorgestrel 13.5 mg intrauterine device users in Sweden 2014-2016.
- 16.10.2023, _M Linder, J Schoendorf, F Pisa, R Schulze-Rath, CE Cesta_
+## A Gpr35-tuned gut microbe-brain metabolic axis regulates depressive-like behavior.
+ 10.01.2024, _L Cheng, H Wu, X Cai, Y Zhang, S Yu, Y Hou, Z Yin, Q Yan, Q Wang, T Sun, G Wang, Y Yuan, X Zhang, H Hao, X Zheng_
 
 
-The levonorgestrel-releasing intrauterine device containing 13.5 mg of levonorgestrel (LNG 13.5 mg IUD), Jaydess®, was approved for contraception by the European Medicines Agency in 2013. We aimed to describe the characteristics of new users of LNG 13.5 mg IUD in Sweden within the first 3 years after approval (2014-2016).
+Gene-environment interactions shape behavior and susceptibility to depression. However, little is known about the signaling pathways integrating genetic and environmental inputs to impact neurobehavioral outcomes. We report that gut G-protein-coupled receptor, Gpr35, engages a microbe-to-brain metabolic pathway to modulate neuronal plasticity and depressive behavior in mice. Psychological stress decreases intestinal epithelial Gpr35, genetic deletion of which induces depressive-like behavior in a microbiome-dependent manner. Gpr35-/- mice and individuals with depression have increased Parabacteroides distasonis, and its colonization to wild-type mice induces depression. Gpr35-/- and Parabacteroides distasonis-colonized mice show reduced indole-3-carboxaldehyde (IAld) and increased indole-3-lactate (ILA), which are produced from opposing branches along the bacterial catabolic pathway of tryptophan. IAld and ILA counteractively modulate neuroplasticity in the nucleus accumbens, a brain region linked to depression. IAld supplementation produces anti-depressant effects in mice with stress or gut epithelial Gpr35 deficiency. Together, these findings elucidate a gut microbe-brain signaling mechanism that underlies susceptibility to depression.
 
-[Source](https://twitter.com/hashtag/WomensHealth?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1016/j.chom.2023.12.009)
 
-10.1016/j.contraception.2023.110309
+10.1016/j.chom.2023.12.009
 
 ---
 
-## #WomensHealth
-
-[Source](https://twitter.com/hashtag/WomensHealth?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/8Rx5qpeXtz
-
-[Source](https://t.co/8Rx5qpeXtz)
-
----
-
-## Relocation of lower pole renal stones helps improve the stone-free rate during flexible ureteroscopy with a low complication rate.
- 13.01.2024, _R Huang, JC Chen, YQ Zhou, JJ Wang, CC Hui, MJ Jiang, C Xu_
+## The salivary microbiota of patients with acute lower respiratory tract infection-A multicenter cohort study.
+ 13.01.2024, _MB Rogers, A Harner, M Buhay, B Firek, B Methé, A Morris, OMP Palmer, SB Promes, RL Sherwin, L Southerland, AR Vieira, S Yende, MJ Morowitz, DT Huang_
 
 
-To compare the efficacy and safety of relocating the lower pole stones to a favorable pole during flexible ureteroscopy with in situ lithotripsy for the treatment of 10-20 mm lower pole stone (LPS).
+The human microbiome contributes to health and disease, but the oral microbiota is understudied relative to the gut microbiota. The salivary microbiota is easily accessible, underexplored, and may provide insight into response to infections. We sought to determine the composition, association with clinical features, and heterogeneity of the salivary microbiota in patients with acute lower respiratory tract infection (LRTI). We conducted a multicenter prospective cohort study of 147 adults with acute LRTI presenting to the emergency department of seven hospitals in three states (Pennsylvania, Michigan, and Ohio) between May 2017 and November 2018. Salivary samples were collected in the emergency department, at days 2-5 if hospitalized, and at day 30, as well as fecal samples if patients were willing. We compared salivary microbiota profiles from patients to those of healthy adult volunteers by sequencing and analyzing bacterial 16-rRNA. Compared to healthy volunteers, the salivary microbiota of patients with LRTI was highly distinct and strongly enriched with intestinal anaerobes such as Bacteroidaceae, Ruminococcaceae, and Lachnospiraceae (e.g., mean 10% relative abundance of Bacteroides vs &lt; 1% in healthy volunteers). Within the LRTI population, COPD exacerbation was associated with altered salivary microbiota composition compared to other LRTI conditions. The largest determinant of microbiota variation within the LRTI population was geography (city in which the hospital was located).
 
-[Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1371/journal.pone.0290062)
 
-10.1007/s00345-023-04703-6
+10.1371/journal.pone.0290062
 
 ---
 
-## January 3, 2024
-
-[Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
-
----
-
-## BilR is a gut microbial enzyme that reduces bilirubin to urobilinogen.
- 08.01.2024, _B Hall, S Levy, K Dufault-Thompson, G Arp, A Zhong, GM Ndjite, A Weiss, D Braccia, C Jenkins, MR Grant, S Abeysinghe, Y Yang, MD Jermain, CH Wu, B Ma, X Jiang_
+## Clinical Relevance of Vaginal and Endometrial Microbiome Investigation in Women with Repeated Implantation Failure and Recurrent Pregnancy Loss.
+ 13.01.2024, _X Gao, YV Louwers, JSE Laven, S Schoenmakers_
 
 
-_Infant, Newborn, Adult, Humans, Bilirubin, Urobilinogen, Gastrointestinal Microbiome, Liver, Bacteria_
-Metabolism of haem by-products such as bilirubin by humans and their gut microbiota is essential to human health, as excess serum bilirubin can cause jaundice and even neurological damage. The bacterial enzymes that reduce bilirubin to urobilinogen, a key step in this pathway, have remained unidentified. Here we used biochemical analyses and comparative genomics to identify BilR as a gut-microbiota-derived bilirubin reductase that reduces bilirubin to urobilinogen. We delineated the BilR sequences from similar reductases through the identification of key residues critical for bilirubin reduction and found that BilR is predominantly encoded by Firmicutes species. Analysis of human gut metagenomes revealed that BilR is nearly ubiquitous in healthy adults, but prevalence is decreased in neonates and individuals with inflammatory bowel disease. This discovery sheds light on the role of the gut microbiome in bilirubin metabolism and highlights the significance of the gut-liver axis in maintaining bilirubin homeostasis.
+_Pregnancy, Female, Humans, Clinical Relevance, Vagina, Uterus, Lactobacillus, Microbiota, Abortion, Habitual_
+Recent studies have investigated if and how the vaginal and endometrial microbiome might affect endometrial receptivity and reproductive health. Although there is no consensus on the existence of a core uterine microbiome yet, evidence shows that the dominance of Lactobacillus spp. in the female reproductive tract is generally associated with eubiosis and improved chances of successful implantation and an ongoing pregnancy. Conversely, vaginal and endometrial dysbiosis can cause local inflammation and an increase of pro-inflammatory cytokines, compromising the integrity and receptivity of the endometrial mucosa and potentially hampering successful embryonic implantation. This review provides a critical appraisal of the influence of the vaginal and endometrial microbiome as parts of the female reproductive tract on fertility outcomes, focusing on repeated implantation failure (RIF) and recurrent pregnancy loss (RPL). It seems that RIF as well as RPL are both associated with an increase in microbiome diversity and a loss of Lactobacillus dominance in the lower female reproductive system.
 
-[Source](https://www.nature.com/articles/s41564-023-01549-x)
+[Source](https://doi.org/10.1093/humrep/dead274)
 
-10.1038/s41564-023-01549-x
+10.3390/ijms25010622
 
 ---
 
-## Influence of feeding practices in the composition and functionality of infant gut microbiota and its relationship with health.
- 06.01.2024, _M Martínez-Martínez, M Martínez-Martínez, R Soria-Guerra, S Gamiño-Gutiérrez, C Senés-Guerrero, A Santacruz, R Flores-Ramírez, A Salazar-Martínez, D Portales-Pérez, H Bach, F Martínez-Gutiérrez_
+## The endometrial microbiota and early pregnancy loss
 
-
-_Infant, Newborn, Infant, Female, Child, Humans, Gastrointestinal Microbiome, Cross-Sectional Studies, Volatile Organic Compounds, Breast Feeding, Immunoglobulin A, Infant Formula_
-Establishing the infant's gut microbiota has long-term implications on health and immunity. Breastfeeding is recognized as the best practice of infant nutrition in comparison with formula feeding. We evaluated the effects of the primary feeding practices by analyzing the infant growth and the potential association with gut diseases. A cross-sectional and observational study was designed. This study included 55 mothers with infants, who were divided according to their feeding practices in breastfeeding (BF), formula feeding (FF), and combined breast and formula feeding (CF). Anthropometric measurements of the participants were recorded. Additionally, non-invasive fecal samples from the infants were collected to analyze the microbiota by sequencing, immunoglobulin A (IgA) concentration (ELISA), and volatile organic compounds (gas chromatography with an electronic nose). Results showed that the microbiota diversity in the BF group was the highest compared to the other two groups. The IgA levels in the BF group were twice as high as those in the FF group. Moreover, the child´s growth in the BF group showed the best infant development when the data were compared at birth to the recollection time, as noted by the correlation with a decreased concentration of toxic volatile organic compounds. Interestingly, the CF group showed a significant difference in health status when the data were compared with the FF group. We conclude that early health practices influence children's growth, which is relevant to further research about how those infants' health evolved.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294494)
-
-10.1371/journal.pone.0294494
+[Source](https://doi.org/10.1093/humrep/dead274)
 
 ---
 
-## Mucin-degrading gut bacteria promote anti-parasitic immunity
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.02.28.482289v2)
-
----
-
-## Host genetic regulation of human gut microbial structural variation 
-
-[Source](https://www.nature.com/articles/s41586-023-06893-w)
-
----
-
-## Deciphering the gut microbiome of grass carp through multi-omics approach.
- 06.01.2024, _M Li, H Liang, H Yang, Q Ding, R Xia, J Chen, W Zhou, Y Yang, Z Zhang, Y Yao, C Ran, Z Zhou_
+## Multi-omics of the gut microbial ecosystem in patients with microsatellite-instability-high gastrointestinal cancer resistant to immunotherapy.
+ 09.01.2024, _S Cheng, Z Han, D Dai, F Li, X Zhang, M Lu, Z Lu, X Wang, J Zhou, J Li, X Guo, P Song, C Qiu, W Shen, Q Zhang, N Zhu, X Wang, Y Tan, Y Kou, X Yin, L Shen, Z Peng_
 
 
-_Animals, Gastrointestinal Microbiome, Carps, Multiomics, Microbiota, Proteobacteria, Fusobacteria, Bacteroidetes, Firmicutes, Fusobacterium, RNA, Ribosomal, 16S, Mammals_
-Aquaculture plays an important role in global protein supplies and food security. The ban on antibiotics as feed additive proposes urgent need to develop alternatives. Gut microbiota plays important roles in the metabolism and immunity of fish and has the potential to give rise to novel solutions for challenges confronted by fish culture. However, our understanding of fish gut microbiome is still lacking.
+Despite the encouraging efficacy of anti-PD-1/PD-L1 immunotherapy in microsatellite-instability-high/deficient mismatch repair (MSI-H/dMMR) advanced gastrointestinal cancer, many patients exhibit primary or acquired resistance. Using multi-omics approaches, we interrogate gut microbiome, blood metabolome, and cytokines/chemokines of patients with MSI-H/dMMR gastrointestinal cancer (N = 77) at baseline and during the treatment. We identify a number of microbes (e.g., Porphyromonadaceae) and metabolites (e.g., arginine) highly associated with primary resistance to immunotherapy. An independent validation cohort (N = 39) and mouse model are used to further confirm our findings. A predictive machine learning model for primary resistance is also built and achieves an accuracy of 0.79 on the external validation set. Furthermore, several microbes are pinpointed that gradually changed during the process of acquired resistance. In summary, our study demonstrates the essential role of gut microbiome in drug resistance, and this can be utilized as a preventative diagnosis tool and therapeutic target in the future.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01715-7)
+[Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00572-4)
 
-10.1186/s40168-023-01715-7
+10.1016/j.xcrm.2023.101355
 
 ---
 
-## Spotting disease disrupts the microbiome of infected purple sea urchins, <em>Strongylocentrotus purpuratus</em>
+## The microbial metabolite urolithin A reduces <em>Clostridioides difficile </em>toxin expression and toxin-induced epithelial damage
 
-[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-023-03161-9)
-
----
-
-## <em>Desulfovibrio vulgaris </em>interacts with novel gut epithelial immune receptor LRRC19 and exacerbates colitis 
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01722-8)
+[Source](https://doi.org/10.1128/msystems.01255-23)
 
 ---
 
-## Individualized microbiotas dictate the impact of dietary fiber on colitis sensitivity.
- 08.01.2024, _E Bonazzi, A Bretin, L Vigué, F Hao, AD Patterson, AT Gewirtz, B Chassaing_
+## Impact of Periodontitis on the Leakage of Oral Bacteria to the Gut
 
-
-_Humans, Mice, Animals, Psyllium, Inulin, Colitis, Dietary Fiber, Gastrointestinal Microbiome, Inflammatory Bowel Diseases_
-The observation that the intestinal microbiota is central in the development of IBD suggests that dietary fiber, the microbiota's primary source of nourishment, could play a central role in these diseases. Accordingly, enriching diets with specific soluble fibers remodels microbiota and modulates colitis sensitivity. In humans, a recent study suggests that the microbiota of select IBD patients might influence the impacts they would experience upon fiber exposure. We sought here to define the extent to which individual microbiotas varied in their responsiveness to purified soluble fiber inulin and psyllium. Moreover, the extent to which such variance might impact proneness to colitis.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01724-6)
-
-10.1186/s40168-023-01724-6
+[Source](https://doi.org/10.1177/00220345231221709)
 
 ---
 
-## A consortia of clinical<em> E. coli</em> strains with distinct in vitro adherent/invasive properties establish their own co-colonization niche and shape the intestinal microbiota in inflammation-susceptible mice
+## Changes in the fecal microbiota of breast cancer patients based on 16S rRNA gene sequencing: a systematic review and meta-analysis
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01710-y)
-
----
-
-## A unified compendium of prokaryotic and viral genomes from over 300 anaerobic digestion microbiomes.
- 05.01.2024, _VB Centurion, A Rossi, E Orellana, G Ghiotto, B Kakuk, MS Morlino, A Basile, G Zampieri, L Treu, S Campanaro_
-
-
-The anaerobic digestion process degrades organic matter into simpler compounds and occurs in strictly anaerobic and microaerophilic environments. The process is carried out by a diverse community of microorganisms where each species has a unique role and it has relevant biotechnological applications since it is used for biogas production. Some aspects of the microbiome, including its interaction with phages, remains still unclear: a better comprehension of the community composition and role of each species is crucial for a cured understanding of the carbon cycle in anaerobic systems and improving biogas production.
-
-[Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-023-00545-2)
-
-10.1186/s40793-023-00545-2
+[Source](https://doi.org/10.1007/s12094-023-03373-5)
 
 ---
 
-## Helicovermis profundi gen. nov., sp. nov., a novel mesophilic, asporogenous bacterium within the Clostridia isolated from a deep-sea hydrothermal vent chimney.
- 13.01.2024, _U Miyazaki, D Mizutani, Y Hashimoto, A Tame, S Sawayama, J Miyazaki, K Takai, S Nakagawa_
+## <em>Bacteroides </em>and related species: The keystone taxa of the human gut microbiota
 
-
-A novel mesophilic bacterial strain, designated S502T, was isolated from a deep-sea hydrothermal vent at Suiyo Seamount, Japan. Cells were Gram-positive, asporogenous, motile, and curved rods, measuring 1.6-5.6 µm in length. The strain was an obligate anaerobe that grew fermentatively on complex substrates such as yeast extract and Bacto peptone. Elemental sulfur stimulated the growth of the strain, and was reduced to hydrogen sulfide. The strain grew within a temperature range of 10-23 °C (optimum at 20 °C), pH range of 4.8-8.3 (optimum at 7.4), and a NaCl concentration range of 1.0-4.0% (w/v) (optimum at 3.0%, w/v). Phylogenetic analysis based on the 16S rRNA gene sequence revealed that the isolate was a member of the class Clostridia, with Fusibacter paucivorans strain SEBR 4211T (91.1% sequence identity) being its closest relative. The total size of the genome of the strain was 3.12 Mbp, and a G + C content was 28.2 mol%. The highest values for average nucleotide identity (ANI), average amino acid identity (AAI), and digital DNA-DNA hybridization (dDDH) value of strain S502T with relatives were 67.5% (with Marinisporobacter balticus strain 59.4MT), 51.5% (with M. balticus strain 59.4MT), and 40.9% (with Alkaliphilus serpentinus strain LacTT), respectively. Based on a combination of phylogenetic, genomic, and phenotypic characteristics, we propose strain S502T to represent a novel genus and species, Helicovermis profundi gen. nov., sp. nov., with the type strain S502T (= DSM 112048T = JCM 39167T).
-
-[Source](https://twitter.com/hashtag/anaerobic?src=hash&ref_src=twsrc%5Etfw)
-
-10.1007/s10482-023-01919-9
+[Source](https://doi.org/10.1016/j.anaerobe.2024.102819)
 
 ---
 
-## #anaerobic
+## Enhancing microbiome research in sub-Saharan Africa
 
-[Source](https://twitter.com/hashtag/anaerobic?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Drug-Induced Liver Injury in the Elderly: Consensus Statements and Recommendations from the IQ-DILI Initiative.
- 13.01.2024, _EB Cohen, M Patwardhan, R Raheja, DH Alpers, RJ Andrade, MI Avigan, JH Lewis, DC Rockey, F Chui, AM Iacob, CC Linardi, A Regev, J Shick, MI Lucena_
-
-
-The elderly demographic is the fastest-growing segment of the world's population and is projected to exceed 1.5 billion people by 2050. With multimorbidity, polypharmacy, susceptibility to drug-drug interactions, and frailty as distinct risk factors, elderly patients are especially vulnerable to developing potentially life-threatening safety events such as serious forms of drug-induced liver injury (DILI). It has been a longstanding shortcoming that elderly individuals are often a vulnerable population underrepresented in clinical trials. As such, an improved understanding of DILI in the elderly is a high-priority, unmet need. This challenge is underscored by recent documents put forward by the U.S. Food and Drug Administration (FDA) and European Medicines Agency (EMA) that encourage data collection in the elderly and recommend improved practices that will facilitate a more inclusive approach. To establish what is already known about DILI in the elderly and pinpoint key gaps of knowledge in this arena, a working definition of "elderly" is required that accounts for both chronologic and biologic ages and varying states of frailty. In addition, it is critical to characterize the biological role of aging on liver function, as well as the different epidemiological factors such as polypharmacy and inappropriate prescribing that are common practices. While data may not show that elderly people are more susceptible to DILI, DILI due to specific drugs might be more common in this population. Improved characterization of DILI in the elderly may enhance diagnostic and prognostic capabilities and improve the way in which liver safety is monitored during clinical trials. This summary of the published literature provides a framework to understand and evaluate the risk of DILI in the elderly. Consensus statements and recommendations can help to optimize medical care and catalyze collaborations between academic clinicians, drug manufacturers, and regulatory scientists to enable the generation of high-quality research data relevant to the elderly population.
-
-[Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
-
-10.1007/s40264-023-01390-5
+[Source](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(23)00321-9)
 
 ---
 
-## #digestion
+## Early microbial intervention reshapes phenotypes of newborn <em>Bos taurus </em>through metabolic regulations
 
-[Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Changes in the fecal microbiota of breast cancer patients based on 16S rRNA gene sequencing: a systematic review and meta-analysis.
- 13.01.2024, _B Luan, F Ge, X Lu, Z Li, H Zhang, J Wu, Q Yang, L Chen, W Zhang, W Chen_
-
-
-Breast cancer (BC) is a devastating disease for women. Microbial influences may be involved in the development and progression of breast cancer. This study aimed to investigate the difference in intestinal flora abundance between breast cancer patients and healthy controls (HC) based on previous 16S ribosomal RNA (rRNA) gene sequencing results, which have been scattered and inconsistent in previous studies.
-
-[Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
-
-10.1007/s12094-023-03373-5
+[Source](https://doi.org/10.1093/gigascience/giad118)
 
 ---
 
-## #microbiomes
+## Gut microbiota variations in wild yellow baboons (<em>Papio cynocephalus</em>) are associated with sex and habitat disturbance
 
-[Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/GhTcYWnDnf
-
-[Source](https://t.co/GhTcYWnDnf)
+[Source](https://doi.org/10.1038/s41598-023-50126-z)
 
 ---
 
-## Changes in the fecal microbiota of breast cancer patients based on 16S rRNA gene sequencing: a systematic review and meta-analysis.
- 13.01.2024, _B Luan, F Ge, X Lu, Z Li, H Zhang, J Wu, Q Yang, L Chen, W Zhang, W Chen_
+## Genetic mutation in <em>Escherichia coli </em>genome during adaptation to the murine intestine is optimized for the host diet
 
-
-Breast cancer (BC) is a devastating disease for women. Microbial influences may be involved in the development and progression of breast cancer. This study aimed to investigate the difference in intestinal flora abundance between breast cancer patients and healthy controls (HC) based on previous 16S ribosomal RNA (rRNA) gene sequencing results, which have been scattered and inconsistent in previous studies.
-
-[Source](https://twitter.com/hashtag/Microbiome?src=hash&ref_src=twsrc%5Etfw)
-
-10.1007/s12094-023-03373-5
+[Source](https://doi.org/10.1128/msystems.01123-23)
 
 ---
 
-## #Microbiome
+## <em>Candidatus </em>Methanosphaera massiliense sp. nov., a methanogenic archaeal species found in a human fecal sample and prevalent in pigs and red kangaroos
 
-[Source](https://twitter.com/hashtag/Microbiome?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Efficient SARS-CoV-2 infection antagonization by rhACE2 ectodomain multimerized onto the Avidin-Nucleic-Acid-NanoASsembly.
- 03.01.2024, _S Bernardotto, I Frasson, S Faravelli, A Morelli, E Schiavon, GY Moscatiello, MB Violatto, A Pinnola, A Canciani, A Mattarei, G Rossi, M Brini, L Pasetto, V Bonetto, P Bigini, F Forneris, SN Richter, M Morpurgo_
-
-
-_Animals, Humans, Mice, COVID-19, SARS-CoV-2, Avidin, Angiotensin-Converting Enzyme 2, Nucleic Acids, Tissue Distribution, Protein Binding, Receptors, Virus, Lipids_
-Nanodecoy systems based on analogues of viral cellular receptors assembled onto fluid lipid-based membranes of nano/extravescicles are potential new tools to complement classic therapeutic or preventive antiviral approaches. The need for lipid-based membranes for transmembrane receptor anchorage may pose technical challenges along industrial translation, calling for alternative geometries for receptor multimerization. Here we developed a semisynthetic self-assembling SARS-CoV-2 nanodecoy by multimerizing the biotin labelled virus cell receptor -ACE2- ectodomain onto a poly-avidin nanoparticle (NP) based on the Avidin-Nucleic-Acid-NanoASsembly-ANANAS. The ability of the assembly to prevent SARS-CoV-2 infection in human lung cells and the affinity of the ACE2:viral receptor-binding domain (RBD) interaction were measured at different ACE2:NP ratios. At ACE2:NP = 30, 90 % SARS-CoV-2 infection inhibition at ACE2 nanomolar concentration was registered on both Wuhan and Omicron variants, with ten-fold higher potency than the monomeric protein. Lower and higher ACE2 densities were less efficient suggesting that functional recognition between multi-ligand NPs and multi-receptor virus surfaces requires optimal geometrical relationships. In vivo studies in mice showed that the biodistribution and safety profiles of the nanodecoy are potentially suitable for preventing viral infection upon nasal instillation. Viral receptor multimerization using ANANAS is a convenient process which, in principle, could be rapidly adapted to counteract also other viral infections.
-
-[Source](https://twitter.com/DiBio_UniPD?ref_src=twsrc%5Etfw)
-
-10.1016/j.biomaterials.2023.122394
+[Source](https://doi.org/10.1128/spectrum.05141-22)
 
 ---
 
-## @DiBio_UniPD
+## A novel plant growth-promoting rhizobacterium, <em>Rhizosphaericola mali </em>gen. nov., sp. nov., isolated from healthy apple tree soil
 
-[Source](https://twitter.com/DiBio_UniPD?ref_src=twsrc%5Etfw)
-
----
-
-## @LauraTreu
-
-[Source](https://twitter.com/LauraTreu?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1038/s41598-024-51492-y)
 
 ---
 
-## A unified compendium of prokaryotic and viral genomes from over 300 anaerobic digestion microbiomes.
- 05.01.2024, _VB Centurion, A Rossi, E Orellana, G Ghiotto, B Kakuk, MS Morlino, A Basile, G Zampieri, L Treu, S Campanaro_
+## Manipulation of the seagrass-associated microbiome reduces disease severity.
+ 09.01.2024, _OJ Graham, EM Adamczyk, S Schenk, P Dawkins, S Burke, E Chei, K Cisz, S Dayal, J Elstner, ALP Hausner, T Hughes, O Manglani, M McDonald, C Mikles, A Poslednik, A Vinton, L Wegener Parfrey, CD Harvell_
 
 
-The anaerobic digestion process degrades organic matter into simpler compounds and occurs in strictly anaerobic and microaerophilic environments. The process is carried out by a diverse community of microorganisms where each species has a unique role and it has relevant biotechnological applications since it is used for biogas production. Some aspects of the microbiome, including its interaction with phages, remains still unclear: a better comprehension of the community composition and role of each species is crucial for a cured understanding of the carbon cycle in anaerobic systems and improving biogas production.
+Host-associated microbes influence host health and function and can be a first line of defence against infections. While research increasingly shows that terrestrial plant microbiomes contribute to bacterial, fungal, and oomycete disease resistance, no comparable experimental work has investigated marine plant microbiomes or more diverse disease agents. We test the hypothesis that the eelgrass (Zostera marina) leaf microbiome increases resistance to seagrass wasting disease. From field eelgrass with paired diseased and asymptomatic tissue, 16S rRNA gene amplicon sequencing revealed that bacterial composition and richness varied markedly between diseased and asymptomatic tissue in one of the two years. This suggests that the influence of disease on eelgrass microbial communities may vary with environmental conditions. We next experimentally reduced the eelgrass microbiome with antibiotics and bleach, then inoculated plants with Labyrinthula zosterae, the causative agent of wasting disease. We detected significantly higher disease severity in eelgrass with a native microbiome than an experimentally reduced microbiome. Our results over multiple experiments do not support a protective role of the eelgrass microbiome against L. zosterae. Further studies of these marine host-microbe-pathogen relationships may continue to show new relationships between plant microbiomes and diseases.
 
-[Source](https://twitter.com/guido_zampieri?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1111/1462-2920.16582)
 
-10.1186/s40793-023-00545-2
-
----
-
-## @guido_zampieri
-
-[Source](https://twitter.com/guido_zampieri?ref_src=twsrc%5Etfw)
+10.1111/1462-2920.16582
 
 ---
 
-## @orellanaest
+## Assessment of DNA extraction methods for human gut mycobiome analysis.
+ 12.01.2024, _P Rintarhat, YJ Cho, H Koh, S Park, EJ Lee, H Lim, J Noh, DW Lee, WH Jung_
 
-[Source](https://twitter.com/orellanaest?ref_src=twsrc%5Etfw)
 
----
+The gut mycobiome plays an important role in the health and disease of the human gut, but its exact function is still under investigation. While there is a wealth of information available on the bacterial community of the human gut microbiome, research on the fungal community is still relatively limited. In particular, technical methodologies for mycobiome analysis, especially the DNA extraction method for human faecal samples, varied in different studies. In the current study, two commercial kits commonly used in DNA extraction, the QIAamp® Fast DNA Stool Mini Kit and DNeasy PowerSoil Pro Kit, and one manual method, the International Human Microbiome Standards Protocol Q, were compared. Furthermore, the effectiveness of two different bead-beating machines, the Mini-Beadbeater-16 and FastPrep-24TM 5G, was compared in parallel. A mock fungal community with a known composition of fungal strains was also generated and included to compare different DNA extraction methods. Our results suggested that the method using the DNeasy PowerSoil Pro Kit and Mini-Beadbeater-16 provides the best results to extract DNA from human faecal samples. Based on our data, we propose a standard operating procedure for DNA extraction from human faecal samples for mycobiome analysis.
 
-## @GabrieleGhiotto
+[Source](https://doi.org/10.1098/rsos.231129)
 
-[Source](https://twitter.com/GabrieleGhiotto?ref_src=twsrc%5Etfw)
-
----
-
-## pic.twitter.com/tghPIRUyvZ
-
-[Source](https://t.co/tghPIRUyvZ)
+10.1098/rsos.231129
 
 ---
 
-## January 3, 2024
-
-[Source](https://twitter.com/campanarostef/status/1742576845915070538?ref_src=twsrc%5Etfw)
-
----
-
-## Unraveling the interplay between root exudates, microbiota, and rhizosheath formation in pearl millet.
- 06.01.2024, _A Alahmad, M Harir, S Fochesato, J Tulumello, A Walker, M Barakat, PMS Ndour, P Schmitt-Kopplin, L Cournac, L Laplaze, T Heulin, W Achouak_
+## NanoDeep: a deep learning framework for nanopore adaptive sampling on microbial sequencing.
+ 10.01.2024, _Y Lin, Y Zhang, H Sun, H Jiang, X Zhao, X Teng, J Lin, B Shu, H Sun, Y Liao, J Zhou_
 
 
-_Pennisetum, RNA, Ribosomal, 16S, Plant Roots, Microbiota, Soil, Plants, Exudates and Transudates, Soil Microbiology, Rhizosphere_
-The rhizosheath, a cohesive soil layer firmly adhering to plant roots, plays a vital role in facilitating water and mineral uptake. In pearl millet, rhizosheath formation is genetically controlled and influenced by root exudates. Here, we investigated the impact of root exudates on the microbiota composition, interactions, and assembly processes, and rhizosheath structure in pearl millet using four distinct lines with contrasting soil aggregation abilities.
+_Humans, Deep Learning, Nanopores, Nanopore Sequencing, Gene Library, Genome, Bacterial_
+Nanopore sequencers can enrich or deplete the targeted DNA molecules in a library by reversing the voltage across individual nanopores. However, it requires substantial computational resources to achieve rapid operations in parallel at read-time sequencing. We present a deep learning framework, NanoDeep, to overcome these limitations by incorporating convolutional neural network and squeeze and excitation. We first showed that the raw squiggle derived from native DNA sequences determines the origin of microbial and human genomes. Then, we demonstrated that NanoDeep successfully classified bacterial reads from the pooled library with human sequence and showed enrichment for bacterial sequence compared with routine nanopore sequencing setting. Further, we showed that NanoDeep improves the sequencing efficiency and preserves the fidelity of bacterial genomes in the mock sample. In addition, NanoDeep performs well in the enrichment of metagenome sequences of gut samples, showing its potential applications in the enrichment of unknown microbiota. Our toolkit is available at https://github.com/lysovosyl/NanoDeep.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01727-3)
+[Source](https://doi.org/10.1093/bib/bbad499)
 
-10.1186/s40168-023-01727-3
+10.1093/bib/bbad499
 
 ---
 
-## mEnrich-seq: methylation-guided enrichment sequencing of bacterial taxa of interest from microbiome.
- 04.01.2024, _L Cao, Y Kong, Y Fan, M Ni, A Tourancheau, M Ksiezarek, EA Mead, T Koo, M Gitman, XS Zhang, G Fang_
+## BactInt: A domain driven transfer learning approach for extracting inter-bacterial associations from biomedical text.
+ 10.01.2024, _K Das Baksi, V Pokhrel, AE Pudavar, SS Mande, BK Kuntal_
 
 
-Metagenomics has enabled the comprehensive study of microbiomes. However, many applications would benefit from a method that sequences specific bacterial taxa of interest, but not most background taxa. We developed mEnrich-seq (in which 'm' stands for methylation and seq for sequencing) for enriching taxa of interest from metagenomic DNA before sequencing. The core idea is to exploit the self versus nonself differentiation by natural bacterial DNA methylation and rationally choose methylation-sensitive restriction enzymes, individually or in combination, to deplete host and background taxa while enriching targeted taxa. This idea is integrated with library preparation procedures and applied in several applications to enrich (up to 117-fold) pathogenic or beneficial bacteria from human urine and fecal samples, including species that are hard to culture or of low abundance. We assessed 4,601 bacterial strains with mapped methylomes so far and showed broad applicability of mEnrich-seq. mEnrich-seq provides microbiome researchers with a versatile and cost-effective approach for selective sequencing of diverse taxa of interest.
+The healthy as well as dysbiotic state of an ecosystem like human body is known to be influenced not only by the presence of the bacterial groups in it, but also with respect to the associations within themselves. Evidence reported in biomedical text serves as a reliable source for identifying and ascertaining such inter bacterial associations. However, the complexity of the reported text as well as the ever-increasing volume of information necessitates development of methods for automated and accurate extraction of such knowledge.
 
-[Source](https://www.nature.com/articles/s41592-023-02125-1)
+[Source](https://doi.org/10.1016/j.compbiolchem.2023.108012)
 
-10.1038/s41592-023-02125-1
-
----
-
-## Host genetic determinants drive compartment-specific assembly of tea plant microbiomes.
- 01.11.2022, _X Tan, H Xie, J Yu, Y Wang, J Xu, P Xu, B Ma_
-
-
-_Soil Microbiology, Camellia sinensis, Genome-Wide Association Study, Bacteria, Plant Roots, Microbiota, Tea_
-Diverse host factors drive microbial variation in plant-associated environments, whereas their genetic mechanisms remain largely unexplored. To address this, we coupled the analyses of plant genetics and microbiomes in this study. Using 100 tea plant (Camellia sinensis) cultivars, the microbiomes of rhizosphere, root endosphere and phyllosphere showed clear compartment-specific assembly, whereas the subpopulation differentiation of tea cultivars exhibited small effects on microbial variation in each compartment. Through microbiome genome-wide association studies, we examined the interactions between tea genetic loci and microbial variation. Notably, genes related to the cell wall and carbon catabolism were heavily linked to root endosphere microbial composition, whereas genes related to the metabolism of metal ions and small organic molecules were overrepresented in association with rhizosphere microbial composition. Moreover, a set of tea genetic variants, including the cytoskeleton-related formin homology interacting protein 1 gene, were strongly associated with the β-diversity of phyllosphere microbiomes, implying their interactions with the overall structure of microbial communities. Our results create a catalogue of tea genetic determinants interacting with microbiomes and reveal the compartment-specific microbiome assembly driven by host genetics.
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.12.27.573469v1)
-
-10.1111/pbi.13897
+10.1016/j.compbiolchem.2023.108012
 
 ---
 
-## A catalogue of small proteins from the global microbiome 
+## The African Human Microbiome Portal: a public web portal of curated metagenomic metadata
 
-[Source](https://www.biorxiv.org/content/10.1101/2023.12.27.573469v1)
-
----
-
-## https://t.co/otRNegCrYR
-
-[Source](https://t.co/otRNegCrYR)
+[Source](https://doi.org/10.1093/database/baad092)
 
 ---
 
-## Mycoplasma pneumoniae epidemic in Denmark, October to December, 2023.
- 13.01.2024, _AC Nordholm, B Søborg, P Jokelainen, K Lauenborg Møller, L Flink Sørensen, T Grove Krause, S Anker Uldum, HD Emborg_
+## MK-BMC: a Multi-Kernel framework with Boosted distance metrics for Microbiome data for Classification.
+ 10.01.2024, _H Xu, T Wang, Y Miao, M Qian, Y Yang, S Wang_
 
 
-We report a surge of patients, especially children and adolescents, with respiratory disease caused by Mycoplasma pneumoniae in Denmark since October 2023. While the surge has reached an epidemic level, no impact on hospital capacity has been observed; only 14% (446/3,195) of cases, primarily adults, required hospitalisation. Macrolide resistance was detected in less than 2% of samples tested. Timely monitoring of hospitalisations linked to M. pneumoniae infections has been established to inform the healthcare system, decisionmakers and the public.
+Research on human microbiome have suggested associations with human health, opening opportunities to predict health outcomes using microbiome. Studies have also suggested that diverse forms of taxa such as rare taxa that are evolutionally-related and abundant taxa that are evolutionally-unrelated could be associated with or predictive of a health outcome. Although prediction models were developed for microbiome data, no prediction models currently exist that use multiple forms of microbiome-outcome associations.
 
-[Source](https://twitter.com/BigDataBiology/status/1740567854985203910?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1093/bioinformatics/btad757)
 
-10.2807/1560-7917.ES.2024.29.2.2300707
-
----
-
-## December 29, 2023
-
-[Source](https://twitter.com/BigDataBiology/status/1740567854985203910?ref_src=twsrc%5Etfw)
+10.1093/bioinformatics/btad757
 
 ---
 
