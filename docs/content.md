@@ -187,9 +187,16 @@ Establishing the infant's gut microbiota has long-term implications on health an
 
 ---
 
-## Deciphering the gut microbiome of grass carp through multi-omics approach 
+## Deciphering the gut microbiome of grass carp through multi-omics approach.
+ 06.01.2024, _M Li, H Liang, H Yang, Q Ding, R Xia, J Chen, W Zhou, Y Yang, Z Zhang, Y Yao, C Ran, Z Zhou_
+
+
+_Animals, Gastrointestinal Microbiome, Carps, Multiomics, Microbiota, Proteobacteria, Fusobacteria, Bacteroidetes, Firmicutes, Fusobacterium, RNA, Ribosomal, 16S, Mammals_
+Aquaculture plays an important role in global protein supplies and food security. The ban on antibiotics as feed additive proposes urgent need to develop alternatives. Gut microbiota plays important roles in the metabolism and immunity of fish and has the potential to give rise to novel solutions for challenges confronted by fish culture. However, our understanding of fish gut microbiome is still lacking.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01715-7)
+
+10.1186/s40168-023-01715-7
 
 ---
 
@@ -205,9 +212,16 @@ Establishing the infant's gut microbiota has long-term implications on health an
 
 ---
 
-## Individualized microbiotas dictate the impact of dietary fiber on colitis sensitivity
+## Individualized microbiotas dictate the impact of dietary fiber on colitis sensitivity.
+ 08.01.2024, _E Bonazzi, A Bretin, L Vigué, F Hao, AD Patterson, AT Gewirtz, B Chassaing_
+
+
+_Humans, Mice, Animals, Psyllium, Inulin, Colitis, Dietary Fiber, Gastrointestinal Microbiome, Inflammatory Bowel Diseases_
+The observation that the intestinal microbiota is central in the development of IBD suggests that dietary fiber, the microbiota's primary source of nourishment, could play a central role in these diseases. Accordingly, enriching diets with specific soluble fibers remodels microbiota and modulates colitis sensitivity. In humans, a recent study suggests that the microbiota of select IBD patients might influence the impacts they would experience upon fiber exposure. We sought here to define the extent to which individual microbiotas varied in their responsiveness to purified soluble fiber inulin and psyllium. Moreover, the extent to which such variance might impact proneness to colitis.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01724-6)
+
+10.1186/s40168-023-01724-6
 
 ---
 
@@ -374,15 +388,41 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 
 ---
 
-## Unraveling the interplay between root exudates, microbiota, and rhizosheath formation in pearl millet
+## Unraveling the interplay between root exudates, microbiota, and rhizosheath formation in pearl millet.
+ 06.01.2024, _A Alahmad, M Harir, S Fochesato, J Tulumello, A Walker, M Barakat, PMS Ndour, P Schmitt-Kopplin, L Cournac, L Laplaze, T Heulin, W Achouak_
+
+
+_Pennisetum, RNA, Ribosomal, 16S, Plant Roots, Microbiota, Soil, Plants, Exudates and Transudates, Soil Microbiology, Rhizosphere_
+The rhizosheath, a cohesive soil layer firmly adhering to plant roots, plays a vital role in facilitating water and mineral uptake. In pearl millet, rhizosheath formation is genetically controlled and influenced by root exudates. Here, we investigated the impact of root exudates on the microbiota composition, interactions, and assembly processes, and rhizosheath structure in pearl millet using four distinct lines with contrasting soil aggregation abilities.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01727-3)
 
+10.1186/s40168-023-01727-3
+
 ---
 
-## mEnrich-seq: methylation-guided enrichment sequencing of bacterial taxa of interest from microbiome
+## mEnrich-seq: methylation-guided enrichment sequencing of bacterial taxa of interest from microbiome.
+ 04.01.2024, _L Cao, Y Kong, Y Fan, M Ni, A Tourancheau, M Ksiezarek, EA Mead, T Koo, M Gitman, XS Zhang, G Fang_
+
+
+Metagenomics has enabled the comprehensive study of microbiomes. However, many applications would benefit from a method that sequences specific bacterial taxa of interest, but not most background taxa. We developed mEnrich-seq (in which 'm' stands for methylation and seq for sequencing) for enriching taxa of interest from metagenomic DNA before sequencing. The core idea is to exploit the self versus nonself differentiation by natural bacterial DNA methylation and rationally choose methylation-sensitive restriction enzymes, individually or in combination, to deplete host and background taxa while enriching targeted taxa. This idea is integrated with library preparation procedures and applied in several applications to enrich (up to 117-fold) pathogenic or beneficial bacteria from human urine and fecal samples, including species that are hard to culture or of low abundance. We assessed 4,601 bacterial strains with mapped methylomes so far and showed broad applicability of mEnrich-seq. mEnrich-seq provides microbiome researchers with a versatile and cost-effective approach for selective sequencing of diverse taxa of interest.
 
 [Source](https://www.nature.com/articles/s41592-023-02125-1)
+
+10.1038/s41592-023-02125-1
+
+---
+
+## Host genetic determinants drive compartment-specific assembly of tea plant microbiomes.
+ 01.11.2022, _X Tan, H Xie, J Yu, Y Wang, J Xu, P Xu, B Ma_
+
+
+_Soil Microbiology, Camellia sinensis, Genome-Wide Association Study, Bacteria, Plant Roots, Microbiota, Tea_
+Diverse host factors drive microbial variation in plant-associated environments, whereas their genetic mechanisms remain largely unexplored. To address this, we coupled the analyses of plant genetics and microbiomes in this study. Using 100 tea plant (Camellia sinensis) cultivars, the microbiomes of rhizosphere, root endosphere and phyllosphere showed clear compartment-specific assembly, whereas the subpopulation differentiation of tea cultivars exhibited small effects on microbial variation in each compartment. Through microbiome genome-wide association studies, we examined the interactions between tea genetic loci and microbial variation. Notably, genes related to the cell wall and carbon catabolism were heavily linked to root endosphere microbial composition, whereas genes related to the metabolism of metal ions and small organic molecules were overrepresented in association with rhizosphere microbial composition. Moreover, a set of tea genetic variants, including the cytoskeleton-related formin homology interacting protein 1 gene, were strongly associated with the β-diversity of phyllosphere microbiomes, implying their interactions with the overall structure of microbial communities. Our results create a catalogue of tea genetic determinants interacting with microbiomes and reveal the compartment-specific microbiome assembly driven by host genetics.
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.12.27.573469v1)
+
+10.1111/pbi.13897
 
 ---
 
