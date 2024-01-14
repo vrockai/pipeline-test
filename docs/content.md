@@ -71,15 +71,51 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Changes in the fecal microbiota of breast cancer patients based on 16S rRNA gene sequencing: a systematic review and meta-analysis.
+ 13.01.2024, _B Luan, F Ge, X Lu, Z Li, H Zhang, J Wu, Q Yang, L Chen, W Zhang, W Chen_
+
+
+Breast cancer (BC) is a devastating disease for women. Microbial influences may be involved in the development and progression of breast cancer. This study aimed to investigate the difference in intestinal flora abundance between breast cancer patients and healthy controls (HC) based on previous 16S ribosomal RNA (rRNA) gene sequencing results, which have been scattered and inconsistent in previous studies.
+
+[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
+
+10.1007/s12094-023-03373-5
+
+---
+
 ## #microbiome
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
+## Adjuvant administration of probiotic effects on sexual function in depressant women undergoing SSRIs treatment: a double-blinded randomized controlled trial.
+ 12.01.2024, _N Hashemi-Mohammadabad, SA Taghavi, N Lambert, R Moshtaghi, F Bazarganipour, M Sharifi_
+
+
+According to the Institute of Health Metrics and Evaluation's Global Health Data Exchange (2023) it is estimated that 5% of all adults will experience depressive disorder. Amongst the general loss of pleasure and interest in everyday activities that are symptoms of low mood, reduced sexual desire and sexual dysfunction can be particularly overlooked. Human sexuality is complex, but finding solutions based on scientific evidence to limit the symptoms of depressive disorder and the iatrogenic impact of antidepressant treatment to improve this outcome is an important step in promoting psychological health and general wellbeing.
+
+[Source](https://twitter.com/hashtag/Lactobacillus?src=hash&ref_src=twsrc%5Etfw)
+
+10.1186/s12888-023-05429-w
+
+---
+
 ## #Lactobacillus
 
 [Source](https://twitter.com/hashtag/Lactobacillus?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Characteristics and hormonal contraception use patterns of levonorgestrel 13.5 mg intrauterine device users in Sweden 2014-2016.
+ 16.10.2023, _M Linder, J Schoendorf, F Pisa, R Schulze-Rath, CE Cesta_
+
+
+The levonorgestrel-releasing intrauterine device containing 13.5 mg of levonorgestrel (LNG 13.5 mg IUD), Jaydess®, was approved for contraception by the European Medicines Agency in 2013. We aimed to describe the characteristics of new users of LNG 13.5 mg IUD in Sweden within the first 3 years after approval (2014-2016).
+
+[Source](https://twitter.com/hashtag/WomensHealth?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.contraception.2023.110309
 
 ---
 
@@ -169,16 +205,9 @@ Establishing the infant's gut microbiota has long-term implications on health an
 
 ---
 
-## Individualized microbiotas dictate the impact of dietary fiber on colitis sensitivity.
- 08.01.2024, _E Bonazzi, A Bretin, L Vigué, F Hao, AD Patterson, AT Gewirtz, B Chassaing_
-
-
-_Humans, Mice, Animals, Psyllium, Inulin, Colitis, Dietary Fiber, Gastrointestinal Microbiome, Inflammatory Bowel Diseases_
-The observation that the intestinal microbiota is central in the development of IBD suggests that dietary fiber, the microbiota's primary source of nourishment, could play a central role in these diseases. Accordingly, enriching diets with specific soluble fibers remodels microbiota and modulates colitis sensitivity. In humans, a recent study suggests that the microbiota of select IBD patients might influence the impacts they would experience upon fiber exposure. We sought here to define the extent to which individual microbiotas varied in their responsiveness to purified soluble fiber inulin and psyllium. Moreover, the extent to which such variance might impact proneness to colitis.
+## Individualized microbiotas dictate the impact of dietary fiber on colitis sensitivity
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01724-6)
-
-10.1186/s40168-023-01724-6
 
 ---
 
@@ -366,6 +395,18 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 ## https://t.co/otRNegCrYR
 
 [Source](https://t.co/otRNegCrYR)
+
+---
+
+## Mycoplasma pneumoniae epidemic in Denmark, October to December, 2023.
+ 13.01.2024, _AC Nordholm, B Søborg, P Jokelainen, K Lauenborg Møller, L Flink Sørensen, T Grove Krause, S Anker Uldum, HD Emborg_
+
+
+We report a surge of patients, especially children and adolescents, with respiratory disease caused by Mycoplasma pneumoniae in Denmark since October 2023. While the surge has reached an epidemic level, no impact on hospital capacity has been observed; only 14% (446/3,195) of cases, primarily adults, required hospitalisation. Macrolide resistance was detected in less than 2% of samples tested. Timely monitoring of hospitalisations linked to M. pneumoniae infections has been established to inform the healthcare system, decisionmakers and the public.
+
+[Source](https://twitter.com/BigDataBiology/status/1740567854985203910?ref_src=twsrc%5Etfw)
+
+10.2807/1560-7917.ES.2024.29.2.2300707
 
 ---
 
