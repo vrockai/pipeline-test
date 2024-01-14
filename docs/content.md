@@ -95,6 +95,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Relocation of lower pole renal stones helps improve the stone-free rate during flexible ureteroscopy with a low complication rate.
+ 13.01.2024, _R Huang, JC Chen, YQ Zhou, JJ Wang, CC Hui, MJ Jiang, C Xu_
+
+
+To compare the efficacy and safety of relocating the lower pole stones to a favorable pole during flexible ureteroscopy with in situ lithotripsy for the treatment of 10-20 mm lower pole stone (LPS).
+
+[Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
+
+10.1007/s00345-023-04703-6
+
+---
+
 ## January 3, 2024
 
 [Source](https://twitter.com/mzhu_ology/status/1742564944120516923?ref_src=twsrc%5Etfw)
@@ -139,16 +151,9 @@ Establishing the infant's gut microbiota has long-term implications on health an
 
 ---
 
-## Deciphering the gut microbiome of grass carp through multi-omics approach.
- 06.01.2024, _M Li, H Liang, H Yang, Q Ding, R Xia, J Chen, W Zhou, Y Yang, Z Zhang, Y Yao, C Ran, Z Zhou_
-
-
-_Animals, Gastrointestinal Microbiome, Carps, Multiomics, Microbiota, Proteobacteria, Fusobacteria, Bacteroidetes, Firmicutes, Fusobacterium, RNA, Ribosomal, 16S, Mammals_
-Aquaculture plays an important role in global protein supplies and food security. The ban on antibiotics as feed additive proposes urgent need to develop alternatives. Gut microbiota plays important roles in the metabolism and immunity of fish and has the potential to give rise to novel solutions for challenges confronted by fish culture. However, our understanding of fish gut microbiome is still lacking.
+## Deciphering the gut microbiome of grass carp through multi-omics approach 
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01715-7)
-
-10.1186/s40168-023-01715-7
 
 ---
 
@@ -195,15 +200,15 @@ The anaerobic digestion process degrades organic matter into simpler compounds a
 
 ---
 
-## Bacteroides and related species: The keystone taxa of the human gut microbiota.
- 12.01.2024, _JH Shin, G Tillotson, TN MacKenzie, C Warren, HM Wexler, E Goldstein_
+## Helicovermis profundi gen. nov., sp. nov., a novel mesophilic, asporogenous bacterium within the Clostridia isolated from a deep-sea hydrothermal vent chimney.
+ 13.01.2024, _U Miyazaki, D Mizutani, Y Hashimoto, A Tame, S Sawayama, J Miyazaki, K Takai, S Nakagawa_
 
 
-Microbial communities play a significant role in maintaining ecosystems in a healthy homeostasis. Presently, in the human gastrointestinal tract, there are certain taxonomic groups of importance, though there is no single species that plays a keystone role. Bacteroides spp. are known to be major players in the maintenance of eubiosis in the human gastrointestinal tract. Here we review the critical role that Bacteroides play in the human gut, their potential pathogenic role outside of the gut, and their various methods of adapting to the environment, with a focus on data for B. fragilis and B. thetaiotaomicron. Bacteroides are anaerobic non-sporing gram-negative organisms that are also resistant to bile acids, generally thriving in the gut and having a beneficial relationship with the host. While they are generally commensal organisms, some Bacteroides spp. can be opportunistic pathogens in scenarios of GI disease, trauma, cancer, or GI surgery, and cause infection, most commonly intra-abdominal infection. B. fragilis can develop antimicrobial resistance through multiple mechanisms in large part due to its plasticity and fluid genome. Bacteroidota (formerly, Bacteroidetes) have a very broad metabolic potential in the GI microbiota and can rapidly adapt their carbohydrate metabolism to the available nutrients. Gastrointestinal Bacteroidota species produce short-chain fatty acids such as succinate, acetate, butyrate, and occasionally propionate, as the major end-products, which have wide-ranging and many beneficial influences on the host. Bacteroidota, via bile acid metabolism, also play a role in in colonization-resistance of other organisms, including Clostridioides difficile, and maintenance of gut integrity.
+A novel mesophilic bacterial strain, designated S502T, was isolated from a deep-sea hydrothermal vent at Suiyo Seamount, Japan. Cells were Gram-positive, asporogenous, motile, and curved rods, measuring 1.6-5.6 µm in length. The strain was an obligate anaerobe that grew fermentatively on complex substrates such as yeast extract and Bacto peptone. Elemental sulfur stimulated the growth of the strain, and was reduced to hydrogen sulfide. The strain grew within a temperature range of 10-23 °C (optimum at 20 °C), pH range of 4.8-8.3 (optimum at 7.4), and a NaCl concentration range of 1.0-4.0% (w/v) (optimum at 3.0%, w/v). Phylogenetic analysis based on the 16S rRNA gene sequence revealed that the isolate was a member of the class Clostridia, with Fusibacter paucivorans strain SEBR 4211T (91.1% sequence identity) being its closest relative. The total size of the genome of the strain was 3.12 Mbp, and a G + C content was 28.2 mol%. The highest values for average nucleotide identity (ANI), average amino acid identity (AAI), and digital DNA-DNA hybridization (dDDH) value of strain S502T with relatives were 67.5% (with Marinisporobacter balticus strain 59.4MT), 51.5% (with M. balticus strain 59.4MT), and 40.9% (with Alkaliphilus serpentinus strain LacTT), respectively. Based on a combination of phylogenetic, genomic, and phenotypic characteristics, we propose strain S502T to represent a novel genus and species, Helicovermis profundi gen. nov., sp. nov., with the type strain S502T (= DSM 112048T = JCM 39167T).
 
 [Source](https://twitter.com/hashtag/anaerobic?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.anaerobe.2024.102819
+10.1007/s10482-023-01919-9
 
 ---
 
@@ -213,15 +218,15 @@ Microbial communities play a significant role in maintaining ecosystems in a hea
 
 ---
 
-## Impact of Helicobacter pylori colonization density and depth on gastritis severity.
- 12.01.2024, _J Peng, J Xie, D Liu, K Yang, S Wu, D Liu, D Huang, Y Xie_
+## Drug-Induced Liver Injury in the Elderly: Consensus Statements and Recommendations from the IQ-DILI Initiative.
+ 13.01.2024, _EB Cohen, M Patwardhan, R Raheja, DH Alpers, RJ Andrade, MI Avigan, JH Lewis, DC Rockey, F Chui, AM Iacob, CC Linardi, A Regev, J Shick, MI Lucena_
 
 
-Helicobacter pylori (H. pylori) infection is the most common etiology of chronic gastric. H. pylori gastritis would gradually evolve into gastric atrophy, intestinal metaplasia, dysplasia and malignant lesions. Herein, this study aimed to investigate the potential impact of H. pylori colonization density and depth on the severity of histological parameters of gastritis.
+The elderly demographic is the fastest-growing segment of the world's population and is projected to exceed 1.5 billion people by 2050. With multimorbidity, polypharmacy, susceptibility to drug-drug interactions, and frailty as distinct risk factors, elderly patients are especially vulnerable to developing potentially life-threatening safety events such as serious forms of drug-induced liver injury (DILI). It has been a longstanding shortcoming that elderly individuals are often a vulnerable population underrepresented in clinical trials. As such, an improved understanding of DILI in the elderly is a high-priority, unmet need. This challenge is underscored by recent documents put forward by the U.S. Food and Drug Administration (FDA) and European Medicines Agency (EMA) that encourage data collection in the elderly and recommend improved practices that will facilitate a more inclusive approach. To establish what is already known about DILI in the elderly and pinpoint key gaps of knowledge in this arena, a working definition of "elderly" is required that accounts for both chronologic and biologic ages and varying states of frailty. In addition, it is critical to characterize the biological role of aging on liver function, as well as the different epidemiological factors such as polypharmacy and inappropriate prescribing that are common practices. While data may not show that elderly people are more susceptible to DILI, DILI due to specific drugs might be more common in this population. Improved characterization of DILI in the elderly may enhance diagnostic and prognostic capabilities and improve the way in which liver safety is monitored during clinical trials. This summary of the published literature provides a framework to understand and evaluate the risk of DILI in the elderly. Consensus statements and recommendations can help to optimize medical care and catalyze collaborations between academic clinicians, drug manufacturers, and regulatory scientists to enable the generation of high-quality research data relevant to the elderly population.
 
 [Source](https://twitter.com/hashtag/digestion?src=hash&ref_src=twsrc%5Etfw)
 
-10.1186/s12941-024-00666-7
+10.1007/s40264-023-01390-5
 
 ---
 
@@ -231,15 +236,15 @@ Helicobacter pylori (H. pylori) infection is the most common etiology of chronic
 
 ---
 
-## Sex-dependent circadian alterations of both central and peripheral clock genes expression and gut-microbiota composition during activity-based anorexia in mice.
- 12.01.2024, _C Salaün, M Courvalet, L Rousseau, K Cailleux, J Breton, C Bôle-Feysot, C Guérin, M Huré, A Goichon, JC do Rego, P Déchelotte, D Ribet, N Achamrah, M Coëffier_
+## Changes in the fecal microbiota of breast cancer patients based on 16S rRNA gene sequencing: a systematic review and meta-analysis.
+ 13.01.2024, _B Luan, F Ge, X Lu, Z Li, H Zhang, J Wu, Q Yang, L Chen, W Zhang, W Chen_
 
 
-Patients with anorexia nervosa (AN) often present sleep disorders and circadian hormonal dysregulation. The role of the microbiota-gut-brain axis in the regulation of feeding behavior has emerged during the last decades but its relationships with the circadian rhythm remains poorly documented. Thus, we aimed to characterize the circadian clock genes expression in peripheral and central tissues in the activity-based anorexia mouse model (ABA), as well as the dynamics of the gut-microbiota composition.
+Breast cancer (BC) is a devastating disease for women. Microbial influences may be involved in the development and progression of breast cancer. This study aimed to investigate the difference in intestinal flora abundance between breast cancer patients and healthy controls (HC) based on previous 16S ribosomal RNA (rRNA) gene sequencing results, which have been scattered and inconsistent in previous studies.
 
 [Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
 
-10.1186/s13293-023-00576-x
+10.1007/s12094-023-03373-5
 
 ---
 
@@ -255,15 +260,15 @@ Patients with anorexia nervosa (AN) often present sleep disorders and circadian 
 
 ---
 
-## Sex-dependent circadian alterations of both central and peripheral clock genes expression and gut-microbiota composition during activity-based anorexia in mice.
- 12.01.2024, _C Salaün, M Courvalet, L Rousseau, K Cailleux, J Breton, C Bôle-Feysot, C Guérin, M Huré, A Goichon, JC do Rego, P Déchelotte, D Ribet, N Achamrah, M Coëffier_
+## Changes in the fecal microbiota of breast cancer patients based on 16S rRNA gene sequencing: a systematic review and meta-analysis.
+ 13.01.2024, _B Luan, F Ge, X Lu, Z Li, H Zhang, J Wu, Q Yang, L Chen, W Zhang, W Chen_
 
 
-Patients with anorexia nervosa (AN) often present sleep disorders and circadian hormonal dysregulation. The role of the microbiota-gut-brain axis in the regulation of feeding behavior has emerged during the last decades but its relationships with the circadian rhythm remains poorly documented. Thus, we aimed to characterize the circadian clock genes expression in peripheral and central tissues in the activity-based anorexia mouse model (ABA), as well as the dynamics of the gut-microbiota composition.
+Breast cancer (BC) is a devastating disease for women. Microbial influences may be involved in the development and progression of breast cancer. This study aimed to investigate the difference in intestinal flora abundance between breast cancer patients and healthy controls (HC) based on previous 16S ribosomal RNA (rRNA) gene sequencing results, which have been scattered and inconsistent in previous studies.
 
 [Source](https://twitter.com/hashtag/Microbiome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1186/s13293-023-00576-x
+10.1007/s12094-023-03373-5
 
 ---
 
