@@ -205,9 +205,15 @@ Host-associated microbes influence host health and function and can be a first l
 
 ---
 
-## Assessment of DNA extraction methods for human gut mycobiome analysis
+## Assessment of DNA extraction methods for human gut mycobiome analysis.
+ 12.01.2024, _P Rintarhat, YJ Cho, H Koh, S Park, EJ Lee, H Lim, J Noh, DW Lee, WH Jung_
+
+
+The gut mycobiome plays an important role in the health and disease of the human gut, but its exact function is still under investigation. While there is a wealth of information available on the bacterial community of the human gut microbiome, research on the fungal community is still relatively limited. In particular, technical methodologies for mycobiome analysis, especially the DNA extraction method for human faecal samples, varied in different studies. In the current study, two commercial kits commonly used in DNA extraction, the QIAamp® Fast DNA Stool Mini Kit and DNeasy PowerSoil Pro Kit, and one manual method, the International Human Microbiome Standards Protocol Q, were compared. Furthermore, the effectiveness of two different bead-beating machines, the Mini-Beadbeater-16 and FastPrep-24TM 5G, was compared in parallel. A mock fungal community with a known composition of fungal strains was also generated and included to compare different DNA extraction methods. Our results suggested that the method using the DNeasy PowerSoil Pro Kit and Mini-Beadbeater-16 provides the best results to extract DNA from human faecal samples. Based on our data, we propose a standard operating procedure for DNA extraction from human faecal samples for mycobiome analysis.
 
 [Source](https://doi.org/10.1098/rsos.231129)
+
+10.1098/rsos.231129
 
 ---
 
