@@ -11,9 +11,10 @@ Understanding the role of the microbiome in inflammatory diseases requires the i
 ---
 
 ## Incorporating metabolic activity, taxonomy and community structure to improve microbiome-based predictive models for host phenotype prediction.
- 12.01.2024, _M Monshizadeh, Y Ye_
+ 15.01.2024, _M Monshizadeh, Y Ye_
 
 
+_Humans, Gastrointestinal Microbiome, Phylogeny, Diabetes Mellitus, Type 2, Microbiota, Phenotype_
 We developed MicroKPNN, a prior-knowledge guided interpretable neural network for microbiome-based human host phenotype prediction. The prior knowledge used in MicroKPNN includes the metabolic activities of different bacterial species, phylogenetic relationships, and bacterial community structure, all in a shallow neural network. Application of MicroKPNN to seven gut microbiome datasets (involving five different human diseases including inflammatory bowel disease, type 2 diabetes, liver cirrhosis, colorectal cancer, and obesity) shows that incorporation of the prior knowledge helped improve the microbiome-based host phenotype prediction. MicroKPNN outperformed fully connected neural network-based approaches in all seven cases, with the most improvement of accuracy in the prediction of type 2 diabetes. MicroKPNN outperformed a recently developed deep-learning based approach DeepMicro, which selects the best combination of autoencoder and machine learning approach to make predictions, in all of the seven cases. Importantly, we showed that MicroKPNN provides a way for interpretation of the predictive models. Using importance scores estimated for the hidden nodes, MicroKPNN could provide explanations for prior research findings by highlighting the roles of specific microbiome components in phenotype predictions. In addition, it may suggest potential future research directions for studying the impacts of microbiome on host health and diseases. MicroKPNN is publicly available at https://github.com/mgtools/MicroKPNN.
 
 [Source](https://doi.org/10.1080/19490976.2024.2302076)
@@ -23,9 +24,10 @@ We developed MicroKPNN, a prior-knowledge guided interpretable neural network fo
 ---
 
 ## Microbiota and mucosal gene expression of fecal microbiota transplantation or placebo treated patients with chronic pouchitis.
- 12.01.2024, _AK Hartikainen, I Khan, EK Karjalainen, L Renkonen-Sinisalo, P Arkkila, J Jalanka, AH Lepistö, R Satokari_
+ 15.01.2024, _AK Hartikainen, I Khan, EK Karjalainen, L Renkonen-Sinisalo, P Arkkila, J Jalanka, AH Lepistö, R Satokari_
 
 
+_Humans, Fecal Microbiota Transplantation, Pouchitis, Colitis, Ulcerative, Gastrointestinal Microbiome, Microbiota, Gene Expression, Feces_
 Altered microbiota and impaired host immune function have been linked to the pathogenesis of pouchitis. We used 16S rRNA gene sequencing and RNA sequencing data from a previous randomized clinical trial (RCT) on fecal microbiota transplantation (FMT) therapy in 26 chronic pouchitis patients with one-year follow-up. We analyzed changes in both luminal and mucosal microbiota composition, as well as in host mucosal gene expression to gain insights into the host-microbiota interactions possibly underlying clinical outcomes of the patients. Antibiotic type and pattern of use were significant drivers of the luminal microbiota at baseline. Differential gene expression analysis indicated transition from ileal to colonic gene expression in the pouch, and upregulation in inflammation- and immune system-related pathways in the pouch. At 4 weeks, the non-relapsed FMT patients had a lower microbiota dissimilarity to the donor than the non-relapsed placebo patients (p = .02). While two FMT-treated patients showed a shift toward the donor's microbiota during the one-year follow-up, the overall FMT microbiota modulation effect was low. Patient's luminal and mucosal microbiota profiles were unstable in both FMT and placebo groups. Expression of the chemokine receptor CXCR4 was downregulated at 52 weeks compared to the baseline in the non-relapsed patients in both FMT and placebo groups. Microbiota modulation by FMT seems to be low in this patient group. The microbiota composition or alterations did not explain the relapse status of the patients. Some evidence for remission-related host gene expression pattern was found; specifically, CXCR4 expression may have a role in sustained remission.
 
 [Source](https://doi.org/10.1080/19490976.2023.2295445)
@@ -79,9 +81,10 @@ Gene-environment interactions shape behavior and susceptibility to depression. H
 ---
 
 ## The salivary microbiota of patients with acute lower respiratory tract infection-A multicenter cohort study.
- 13.01.2024, _MB Rogers, A Harner, M Buhay, B Firek, B Methé, A Morris, OMP Palmer, SB Promes, RL Sherwin, L Southerland, AR Vieira, S Yende, MJ Morowitz, DT Huang_
+ 15.01.2024, _MB Rogers, A Harner, M Buhay, B Firek, B Methé, A Morris, OMP Palmer, SB Promes, RL Sherwin, L Southerland, AR Vieira, S Yende, MJ Morowitz, DT Huang_
 
 
+_Adult, Humans, Prospective Studies, Microbiota, Respiratory Tract Infections, Gastrointestinal Microbiome, Feces, RNA, Ribosomal, 16S_
 The human microbiome contributes to health and disease, but the oral microbiota is understudied relative to the gut microbiota. The salivary microbiota is easily accessible, underexplored, and may provide insight into response to infections. We sought to determine the composition, association with clinical features, and heterogeneity of the salivary microbiota in patients with acute lower respiratory tract infection (LRTI). We conducted a multicenter prospective cohort study of 147 adults with acute LRTI presenting to the emergency department of seven hospitals in three states (Pennsylvania, Michigan, and Ohio) between May 2017 and November 2018. Salivary samples were collected in the emergency department, at days 2-5 if hospitalized, and at day 30, as well as fecal samples if patients were willing. We compared salivary microbiota profiles from patients to those of healthy adult volunteers by sequencing and analyzing bacterial 16-rRNA. Compared to healthy volunteers, the salivary microbiota of patients with LRTI was highly distinct and strongly enriched with intestinal anaerobes such as Bacteroidaceae, Ruminococcaceae, and Lachnospiraceae (e.g., mean 10% relative abundance of Bacteroides vs &lt; 1% in healthy volunteers). Within the LRTI population, COPD exacerbation was associated with altered salivary microbiota composition compared to other LRTI conditions. The largest determinant of microbiota variation within the LRTI population was geography (city in which the hospital was located).
 
 [Source](https://doi.org/10.1371/journal.pone.0290062)
