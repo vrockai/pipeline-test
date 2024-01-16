@@ -36,16 +36,21 @@ Altered microbiota and impaired host immune function have been linked to the pat
 
 ---
 
-## A robust microbiome signature for autism spectrum disorder across different studies using machine learning.
- 11.01.2024, _LN Peralta-Marzal, D Rojas-Velazquez, D Rigters, N Prince, J Garssen, AD Kraneveld, P Perez-Pardo, A Lopez-Rincon_
+## Methodology for biomarker discovery with reproducibility in microbiome data using machine learning.
+ 15.01.2024, _D Rojas-Velazquez, S Kidwai, AD Kraneveld, A Tonda, D Oberski, J Garssen, A Lopez-Rincon_
 
 
-_Child, Humans, Autism Spectrum Disorder, RNA, Ribosomal, 16S, Microbiota, Gastrointestinal Microbiome, Machine Learning_
-Autism spectrum disorder (ASD) is a highly complex neurodevelopmental disorder characterized by deficits in sociability and repetitive behaviour, however there is a great heterogeneity within other comorbidities that accompany ASD. Recently, gut microbiome has been pointed out as a plausible contributing factor for ASD development as individuals diagnosed with ASD often suffer from intestinal problems and show a differentiated intestinal microbial composition. Nevertheless, gut microbiome studies in ASD rarely agree on the specific bacterial taxa involved in this disorder. Regarding the potential role of gut microbiome in ASD pathophysiology, our aim is to investigate whether there is a set of bacterial taxa relevant for ASD classification by using a sibling-controlled dataset. Additionally, we aim to validate these results across two independent cohorts as several confounding factors, such as lifestyle, influence both ASD and gut microbiome studies. A machine learning approach, recursive ensemble feature selection (REFS), was applied to 16S rRNA gene sequencing data from 117 subjects (60 ASD cases and 57 siblings) identifying 26 bacterial taxa that discriminate ASD cases from controls. The average area under the curve (AUC) of this specific set of bacteria in the sibling-controlled dataset was 81.6%. Moreover, we applied the selected bacterial taxa in a tenfold cross-validation scheme using two independent cohorts (a total of 223 samples-125 ASD cases and 98 controls). We obtained average AUCs of 74.8% and 74%, respectively. Analysis of the gut microbiome using REFS identified a set of bacterial taxa that can be used to predict the ASD status of children in three distinct cohorts with AUC over 80% for the best-performing classifiers. Our results indicate that the gut microbiome has a strong association with ASD and should not be disregarded as a potential target for therapeutic interventions. Furthermore, our work can contribute to use the proposed approach for identifying microbiome signatures across other 16S rRNA gene sequencing datasets.
+In recent years, human microbiome studies have received increasing attention as this field is considered a potential source for clinical applications. With the advancements in omics technologies and AI, research focused on the discovery for potential biomarkers in the human microbiome using machine learning tools has produced positive outcomes. Despite the promising results, several issues can still be found in these studies such as datasets with small number of samples, inconsistent results, lack of uniform processing and methodologies, and other additional factors lead to lack of reproducibility in biomedical research. In this work, we propose a methodology that combines the DADA2 pipeline for 16s rRNA sequences processing and the Recursive Ensemble Feature Selection (REFS) in multiple datasets to increase reproducibility and obtain robust and reliable results in biomedical research.
 
 [Source](https://doi.org/10.1038/s41598-023-50601-7)
 
-10.1038/s41598-023-50601-7
+10.1186/s12859-024-05639-3
+
+---
+
+## A robust microbiome signature for autism spectrum disorder across different studies using machine learning
+
+[Source](https://doi.org/10.1038/s41598-023-50601-7)
 
 ---
 
