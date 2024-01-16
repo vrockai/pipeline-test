@@ -141,15 +141,9 @@ Despite the encouraging efficacy of anti-PD-1/PD-L1 immunotherapy in microsatell
 
 ---
 
-## Changes in the fecal microbiota of breast cancer patients based on 16S rRNA gene sequencing: a systematic review and meta-analysis.
- 13.01.2024, _B Luan, F Ge, X Lu, Z Li, H Zhang, J Wu, Q Yang, L Chen, W Zhang, W Chen_
-
-
-Breast cancer (BC) is a devastating disease for women. Microbial influences may be involved in the development and progression of breast cancer. This study aimed to investigate the difference in intestinal flora abundance between breast cancer patients and healthy controls (HC) based on previous 16S ribosomal RNA (rRNA) gene sequencing results, which have been scattered and inconsistent in previous studies.
+## Changes in the fecal microbiota of breast cancer patients based on 16S rRNA gene sequencing: a systematic review and meta-analysis
 
 [Source](https://doi.org/10.1007/s12094-023-03373-5)
-
-10.1007/s12094-023-03373-5
 
 ---
 
@@ -159,15 +153,9 @@ Breast cancer (BC) is a devastating disease for women. Microbial influences may 
 
 ---
 
-## Enhancing microbiome research in sub-Saharan Africa.
- 11.01.2024, _KI Ayeni, D Berry, CN Ezekiel, B Warth_
-
-
-While there are lighthouse examples of microbiome research in sub-Saharan Africa (SSA), a significant proportion of local researchers face several challenges. Here, we highlight prevailing issues limiting microbiome research in SSA and suggest potential technological, societal, and research-based solutions. We emphasize the need for considerable investment in infrastructures, training, and appropriate funding to democratize modern technologies with a view to providing useful data to improve human health.
+## Enhancing microbiome research in sub-Saharan Africa
 
 [Source](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(23)00321-9)
-
-10.1016/j.tim.2023.11.003
 
 ---
 
@@ -201,15 +189,9 @@ While there are lighthouse examples of microbiome research in sub-Saharan Africa
 
 ---
 
-## Manipulation of the seagrass-associated microbiome reduces disease severity.
- 09.01.2024, _OJ Graham, EM Adamczyk, S Schenk, P Dawkins, S Burke, E Chei, K Cisz, S Dayal, J Elstner, ALP Hausner, T Hughes, O Manglani, M McDonald, C Mikles, A Poslednik, A Vinton, L Wegener Parfrey, CD Harvell_
-
-
-Host-associated microbes influence host health and function and can be a first line of defence against infections. While research increasingly shows that terrestrial plant microbiomes contribute to bacterial, fungal, and oomycete disease resistance, no comparable experimental work has investigated marine plant microbiomes or more diverse disease agents. We test the hypothesis that the eelgrass (Zostera marina) leaf microbiome increases resistance to seagrass wasting disease. From field eelgrass with paired diseased and asymptomatic tissue, 16S rRNA gene amplicon sequencing revealed that bacterial composition and richness varied markedly between diseased and asymptomatic tissue in one of the two years. This suggests that the influence of disease on eelgrass microbial communities may vary with environmental conditions. We next experimentally reduced the eelgrass microbiome with antibiotics and bleach, then inoculated plants with Labyrinthula zosterae, the causative agent of wasting disease. We detected significantly higher disease severity in eelgrass with a native microbiome than an experimentally reduced microbiome. Our results over multiple experiments do not support a protective role of the eelgrass microbiome against L. zosterae. Further studies of these marine host-microbe-pathogen relationships may continue to show new relationships between plant microbiomes and diseases.
+## Manipulation of the seagrass-associated microbiome reduces disease severity
 
 [Source](https://doi.org/10.1111/1462-2920.16582)
-
-10.1111/1462-2920.16582
 
 ---
 
