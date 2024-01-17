@@ -52,9 +52,15 @@ Locomotor activity is an innate behavior that can be triggered by gut-motivated 
 
 ---
 
-## Nonylphenol induces depressive behavior in rats and affects gut microbiota: A dose–dependent effect
+## Nonylphenol induces depressive behavior in rats and affects gut microbiota: A dose-dependent effect.
+ 16.01.2024, _J Pan, D Lu, L Yu, Z Ye, H Duan, A Narbad, J Zhao, Q Zhai, F Tian, W Chen_
+
+
+Nonylphenol (NP), an endocrine disruptor absorbed through food intake, was investigated in this study for its potential dose-response relationship with the manifestation of depression-like behavior in rats. Based on this, the mechanisms of NP-induced depressive behavior, encompassing neurotransmitters, gut barrier function, inflammatory response, gut microbiota composition and metabolites were further explored. At medium and high NP doses, both mRNA and protein levels of zonula occludens protein-1 and claudin-1 were considerably downregulated, concomitant with an elevation in tumor necrosis factor-α and interleukin-1β expression in a dose-dependent effect, resulting in damage to the gut mucosa. Despite a minimal impact on behavior and gut barriers at low NP doses, alterations in gut microbiota composition were observed. During NP exposure, dose-dependent changes in the gut microbiota revealed a decline in microbial diversity linked to the synthesis of short-chain fatty acids. NP not only adversely affected the gut microbiota structure but also exacerbated central nervous system damage through the gut-brain axis. The accumulation of NP may cause neurotransmitter disturbances and inflammatory responses in the hippocampus, which also exacerbate depressed behavior in rats. Therefore, NP could exacerbate the inflammatory response in the hippocampus and colon by compromising intestinal barrier integrity, facilitating the proliferation of pathogenic bacteria, impairing butyrate metabolism, and perturbing neurotransmitter homeostasis, thus aggravating the depressive behavior of rats. It is noteworthy that the changes in these indicators were related to the NP exposure dose.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S026974912400071X)
+
+10.1016/j.envpol.2024.123357
 
 ---
 
@@ -110,7 +116,7 @@ Antarctica and its unique biodiversity are increasingly at risk from the effects
 ---
 
 ## Comparison of the DNBSEQ platform and Illumina HiSeq 2000 for bacterial genome assembly.
- 16.01.2024, _T Hu, J Chen, X Lin, W He, H Liang, M Wang, W Li, Z Wu, M Han, X Jin, K Kristiansen, L Xiao, Y Zou_
+ 17.01.2024, _T Hu, J Chen, X Lin, W He, H Liang, M Wang, W Li, Z Wu, M Han, X Jin, K Kristiansen, L Xiao, Y Zou_
 
 
 _RNA, Ribosomal, 16S, Sequence Analysis, DNA, Genome, Bacterial, DNA, High-Throughput Nucleotide Sequencing, Bacteria_
