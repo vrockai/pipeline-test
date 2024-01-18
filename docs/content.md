@@ -26,7 +26,7 @@ The early microbial colonization of the gastrointestinal tract can have long-ter
  18.01.2024, _A Rashidi, H Gem, JS McLean, K Kerns, DR Dean, N Dey, S Minot_
 
 
-_Adult, Humans, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Metagenome, Microbiota, Mouth, Bacteria_
+_Adult, Humans, Gastrointestinal Microbiome, Metagenome, Microbiota, Mouth, RNA, Ribosomal, 16S_
 The multitude of barriers between the mouth and colon may eliminate swallowed oral bacteria. Ascertaining the presence of the same bacteria in the mouth and colon is methodologically challenging partly because 16S rRNA gene sequencing - the most commonly used method to characterize the human microbiota - has low confidence in taxonomic assignments deeper than genus for most bacteria. As different species of the same genus can have low-level variation across the same 16S rRNA gene region, shotgun sequencing is needed to identify a true overlap. We analyzed a curated, multi-cohort, shotgun metagenomic database with species-level taxonomy and clade-specific marker genes to fill this knowledge gap. Using 500 paired fecal/oral (4 oral sites) samples from 4 healthy adult cohorts, we found a minute overlap between the two niches. Comparing marker genes between paired oral and fecal samples with species-level overlap, the pattern of overlap in only 7 individuals was consistent with same-strain colonization. These findings argue against ectopic colonization of oral bacteria in the distal gut in healthy adults.
 
 [Source](https://www.nature.com/articles/s41597-024-02916-x)
