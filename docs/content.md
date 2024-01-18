@@ -23,9 +23,10 @@ The early microbial colonization of the gastrointestinal tract can have long-ter
 ---
 
 ## Multi-cohort shotgun metagenomic analysis of oral and gut microbiota overlap in healthy adults.
- 16.01.2024, _A Rashidi, H Gem, JS McLean, K Kerns, DR Dean, N Dey, S Minot_
+ 18.01.2024, _A Rashidi, H Gem, JS McLean, K Kerns, DR Dean, N Dey, S Minot_
 
 
+_Adult, Humans, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Metagenome, Microbiota, Mouth, Bacteria_
 The multitude of barriers between the mouth and colon may eliminate swallowed oral bacteria. Ascertaining the presence of the same bacteria in the mouth and colon is methodologically challenging partly because 16S rRNA gene sequencing - the most commonly used method to characterize the human microbiota - has low confidence in taxonomic assignments deeper than genus for most bacteria. As different species of the same genus can have low-level variation across the same 16S rRNA gene region, shotgun sequencing is needed to identify a true overlap. We analyzed a curated, multi-cohort, shotgun metagenomic database with species-level taxonomy and clade-specific marker genes to fill this knowledge gap. Using 500 paired fecal/oral (4 oral sites) samples from 4 healthy adult cohorts, we found a minute overlap between the two niches. Comparing marker genes between paired oral and fecal samples with species-level overlap, the pattern of overlap in only 7 individuals was consistent with same-strain colonization. These findings argue against ectopic colonization of oral bacteria in the distal gut in healthy adults.
 
 [Source](https://www.nature.com/articles/s41597-024-02916-x)
@@ -47,9 +48,10 @@ Antibiotics and cystic fibrosis transmembrane conductance regulator (CFTR) modul
 ---
 
 ## The gut microbiota modulate locomotion via vagus-dependent glucagon-like peptide-1 signaling.
- 16.01.2024, _TT Lai, YH Tsai, CW Liou, CH Fan, YT Hou, TH Yao, HL Chuang, WL Wu_
+ 18.01.2024, _TT Lai, YH Tsai, CW Liou, CH Fan, YT Hou, TH Yao, HL Chuang, WL Wu_
 
 
+_Mice, Animals, Glucagon-Like Peptide 1, Gastrointestinal Microbiome, Glucagon-Like Peptide-1 Receptor, Vagus Nerve, Signal Transduction_
 Locomotor activity is an innate behavior that can be triggered by gut-motivated conditions, such as appetite and metabolic condition. Various nutrient-sensing receptors distributed in the vagal terminal in the gut are crucial for signal transduction from the gut to the brain. The levels of gut hormones are closely associated with the colonization status of the gut microbiota, suggesting a complicated interaction among gut bacteria, gut hormones, and the brain. However, the detailed mechanism underlying gut microbiota-mediated endocrine signaling in the modulation of locomotion is still unclear. Herein, we show that broad-spectrum antibiotic cocktail (ABX)-treated mice displayed hypolocomotion and elevated levels of the gut hormone glucagon-like peptide-1 (GLP-1). Blockade of the GLP-1 receptor and subdiaphragmatic vagal transmission rescued the deficient locomotor phenotype in ABX-treated mice. Activation of the GLP-1 receptor and vagal projecting brain regions led to hypolocomotion. Finally, selective antibiotic treatment dramatically increased serum GLP-1 levels and decreased locomotion. Colonizing Lactobacillus reuteri and Bacteroides thetaiotaomicron in microbiota-deficient mice suppressed GLP-1 levels and restored the hypolocomotor phenotype. Our findings identify a mechanism by which specific gut microbes mediate host motor behavior via the enteroendocrine and vagal-dependent neural pathways.
 
 [Source](https://www.nature.com/articles/s41522-024-00477-w)
@@ -121,9 +123,16 @@ Antarctica and its unique biodiversity are increasingly at risk from the effects
 
 ---
 
-## Comparison of the DNBSEQ platform and Illumina HiSeq 2000 for bacterial genome assembly
+## Comparison of the DNBSEQ platform and Illumina HiSeq 2000 for bacterial genome assembly.
+ 17.01.2024, _T Hu, J Chen, X Lin, W He, H Liang, M Wang, W Li, Z Wu, M Han, X Jin, K Kristiansen, L Xiao, Y Zou_
+
+
+_RNA, Ribosomal, 16S, Sequence Analysis, DNA, Genome, Bacterial, DNA, High-Throughput Nucleotide Sequencing, Bacteria_
+The Illumina HiSeq platform has been a commonly used option for bacterial genome sequencing. Now the BGI DNA nanoball (DNB) nanoarrays platform may provide an alternative platform for sequencing of bacterial genomes. To explore the impact of sequencing platforms on bacterial genome assembly, quality assessment, sequence alignment, functional annotation, mutation detection, and metagenome mapping, we compared genome assemblies based on sequencing of cultured bacterial species using the HiSeq 2000 and BGISEQ-500 platforms. In addition, simulated reads were used to evaluate the impact of insert size on genome assembly. Genome assemblies based on BGISEQ-500 sequencing exhibited higher completeness and fewer N bases in high GC genomes, whereas HiSeq 2000 assemblies exhibited higher N50. The majority of assembly assessment parameters, sequences of 16S rRNA genes and genomes, numbers of single nucleotide variants (SNV), and mapping to metagenome data did not differ significantly between platforms. More insertions were detected in HiSeq 2000 genome assemblies, whereas more deletions were detected in BGISEQ-500 genome assemblies. Insert size had no significant impact on genome assembly. Taken together, our results suggest that DNBSEQ platforms would be a valid substitute for HiSeq 2000 for bacterial genome sequencing.
 
 [Source](https://www.nature.com/articles/s41598-024-51725-0)
+
+10.1038/s41598-024-51725-0
 
 ---
 
