@@ -34,9 +34,15 @@ The multitude of barriers between the mouth and colon may eliminate swallowed or
 
 ---
 
-## Positioning the preventive potential of microbiome treatments for cystic fibrosis in the context of current therapies
+## Positioning the preventive potential of microbiome treatments for cystic fibrosis in the context of current therapies.
+ 17.01.2024, _E Cauwenberghs, I De Boeck, I Spacova, I Van Tente, J Bastiaenssen, E Lammertyn, S Verhulst, K Van Hoorenbeeck, S Lebeer_
+
+
+Antibiotics and cystic fibrosis transmembrane conductance regulator (CFTR) modulators play a pivotal role in cystic fibrosis (CF) treatment, but both have limitations. Antibiotics are linked to antibiotic resistance and disruption of the airway microbiome, while CFTR modulators are not widely accessible, and structural lung damage and pathogen overgrowth still occur. Complementary strategies that can beneficially modulate the airway microbiome in a preventive way are highly needed. This could be mediated via oral probiotics, which have shown some improvement of lung function and reduction of airway infections and exacerbations, as a cost-effective approach. However, recent data suggest that specific and locally administered probiotics in the respiratory tract might be a more targeted approach to prevent pathogen outgrowth in the lower airways. This review aims to summarize the current knowledge on the CF airway microbiome and possibilities of microbiome treatments to prevent bacterial and/or viral infections and position them in the context of current CF therapies.
 
 [Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00600-6)
+
+10.1016/j.xcrm.2023.101371
 
 ---
 
@@ -115,16 +121,9 @@ Antarctica and its unique biodiversity are increasingly at risk from the effects
 
 ---
 
-## Comparison of the DNBSEQ platform and Illumina HiSeq 2000 for bacterial genome assembly.
- 17.01.2024, _T Hu, J Chen, X Lin, W He, H Liang, M Wang, W Li, Z Wu, M Han, X Jin, K Kristiansen, L Xiao, Y Zou_
-
-
-_RNA, Ribosomal, 16S, Sequence Analysis, DNA, Genome, Bacterial, DNA, High-Throughput Nucleotide Sequencing, Bacteria_
-The Illumina HiSeq platform has been a commonly used option for bacterial genome sequencing. Now the BGI DNA nanoball (DNB) nanoarrays platform may provide an alternative platform for sequencing of bacterial genomes. To explore the impact of sequencing platforms on bacterial genome assembly, quality assessment, sequence alignment, functional annotation, mutation detection, and metagenome mapping, we compared genome assemblies based on sequencing of cultured bacterial species using the HiSeq 2000 and BGISEQ-500 platforms. In addition, simulated reads were used to evaluate the impact of insert size on genome assembly. Genome assemblies based on BGISEQ-500 sequencing exhibited higher completeness and fewer N bases in high GC genomes, whereas HiSeq 2000 assemblies exhibited higher N50. The majority of assembly assessment parameters, sequences of 16S rRNA genes and genomes, numbers of single nucleotide variants (SNV), and mapping to metagenome data did not differ significantly between platforms. More insertions were detected in HiSeq 2000 genome assemblies, whereas more deletions were detected in BGISEQ-500 genome assemblies. Insert size had no significant impact on genome assembly. Taken together, our results suggest that DNBSEQ platforms would be a valid substitute for HiSeq 2000 for bacterial genome sequencing.
+## Comparison of the DNBSEQ platform and Illumina HiSeq 2000 for bacterial genome assembly
 
 [Source](https://www.nature.com/articles/s41598-024-51725-0)
-
-10.1038/s41598-024-51725-0
 
 ---
 
