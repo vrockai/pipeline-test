@@ -23,7 +23,7 @@ The early microbial colonization of the gastrointestinal tract can have long-ter
 ---
 
 ## Multi-cohort shotgun metagenomic analysis of oral and gut microbiota overlap in healthy adults.
- 18.01.2024, _A Rashidi, H Gem, JS McLean, K Kerns, DR Dean, N Dey, S Minot_
+ 19.01.2024, _A Rashidi, H Gem, JS McLean, K Kerns, DR Dean, N Dey, S Minot_
 
 
 _Adult, Humans, Gastrointestinal Microbiome, Metagenome, Microbiota, Mouth, RNA, Ribosomal, 16S_
@@ -49,7 +49,7 @@ Antibiotics and cystic fibrosis transmembrane conductance regulator (CFTR) modul
 ---
 
 ## The gut microbiota modulate locomotion via vagus-dependent glucagon-like peptide-1 signaling.
- 18.01.2024, _TT Lai, YH Tsai, CW Liou, CH Fan, YT Hou, TH Yao, HL Chuang, WL Wu_
+ 19.01.2024, _TT Lai, YH Tsai, CW Liou, CH Fan, YT Hou, TH Yao, HL Chuang, WL Wu_
 
 
 _Mice, Animals, Glucagon-Like Peptide 1, Gastrointestinal Microbiome, Glucagon-Like Peptide-1 Receptor, Vagus Nerve, Signal Transduction_
