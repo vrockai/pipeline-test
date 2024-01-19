@@ -123,16 +123,9 @@ Antarctica and its unique biodiversity are increasingly at risk from the effects
 
 ---
 
-## Comparison of the DNBSEQ platform and Illumina HiSeq 2000 for bacterial genome assembly.
- 17.01.2024, _T Hu, J Chen, X Lin, W He, H Liang, M Wang, W Li, Z Wu, M Han, X Jin, K Kristiansen, L Xiao, Y Zou_
-
-
-_RNA, Ribosomal, 16S, Sequence Analysis, DNA, Genome, Bacterial, DNA, High-Throughput Nucleotide Sequencing, Bacteria_
-The Illumina HiSeq platform has been a commonly used option for bacterial genome sequencing. Now the BGI DNA nanoball (DNB) nanoarrays platform may provide an alternative platform for sequencing of bacterial genomes. To explore the impact of sequencing platforms on bacterial genome assembly, quality assessment, sequence alignment, functional annotation, mutation detection, and metagenome mapping, we compared genome assemblies based on sequencing of cultured bacterial species using the HiSeq 2000 and BGISEQ-500 platforms. In addition, simulated reads were used to evaluate the impact of insert size on genome assembly. Genome assemblies based on BGISEQ-500 sequencing exhibited higher completeness and fewer N bases in high GC genomes, whereas HiSeq 2000 assemblies exhibited higher N50. The majority of assembly assessment parameters, sequences of 16S rRNA genes and genomes, numbers of single nucleotide variants (SNV), and mapping to metagenome data did not differ significantly between platforms. More insertions were detected in HiSeq 2000 genome assemblies, whereas more deletions were detected in BGISEQ-500 genome assemblies. Insert size had no significant impact on genome assembly. Taken together, our results suggest that DNBSEQ platforms would be a valid substitute for HiSeq 2000 for bacterial genome sequencing.
+## Comparison of the DNBSEQ platform and Illumina HiSeq 2000 for bacterial genome assembly
 
 [Source](https://www.nature.com/articles/s41598-024-51725-0)
-
-10.1038/s41598-024-51725-0
 
 ---
 
