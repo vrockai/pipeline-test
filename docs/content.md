@@ -1,132 +1,236 @@
-## Human milk cream alters intestinal microbiome of preterm infants: a prospective cohort study.
- 16.01.2024, _GO Adeniyi-Ipadeola, KL Hoffman, H Yang, SJ Javornik Cregeen, GA Preidis, S Ramani, AB Hair_
+## Gut microbiome for predicting immune checkpoint blockade-associated adverse events.
+ 19.01.2024, _M Hu, X Lin, T Sun, X Shao, X Huang, W Du, M Guo, X Zhu, Y Zhou, T Tong, F Guo, T Han, X Wu, Y Shi, X Xiao, Y Zhang, J Hong, H Chen_
 
 
-In very low birth weight (VLBW) infants, human milk cream added to standard human milk fortification is used to improve growth. This study aimed to evaluate the impact of cream supplement on the intestinal microbiome of VLBW infants.
+The impact of the gut microbiome on the initiation and intensity of immune-related adverse events (irAEs) prompted by immune checkpoint inhibitors (ICIs) is widely acknowledged. Nevertheless, there is inconsistency in the gut microbial associations with irAEs reported across various studies.
 
-[Source](https://www.nature.com/articles/s41390-023-02948-w)
+[Source](https://doi.org/10.1186/s13073-024-01285-9)
 
-10.1038/s41390-023-02948-w
-
----
-
-## A bacterial sialidase mediates early-life colonization by a pioneering gut commensal.
- 16.01.2024, _E Buzun, CY Hsu, K Sejane, RE Oles, A Vasquez Ayala, LR Loomis, J Zhao, LA Rossitto, DM McGrosso, DJ Gonzalez, L Bode, H Chu_
-
-
-The early microbial colonization of the gastrointestinal tract can have long-term impacts on development and health. Keystone species, including Bacteroides spp., are prominent in early life and play crucial roles in maintaining the structure of the intestinal ecosystem. However, the process by which a resilient community is curated during early life remains inadequately understood. Here, we show that a single sialidase, NanH, in Bacteroides fragilis mediates stable occupancy of the intestinal mucosa in early life and regulates a commensal colonization program. This program is triggered by sialylated glycans, including those found in human milk oligosaccharides and intestinal mucus. NanH is required for vertical transmission from dams to pups and promotes B. fragilis dominance during early life. Furthermore, NanH facilitates commensal resilience and recovery after antibiotic treatment in a defined microbial community. Collectively, our study reveals a co-evolutionary mechanism between the host and microbiota mediated through host-derived glycans to promote stable colonization.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S1931312823005097)
-
-10.1016/j.chom.2023.12.014
+10.1186/s13073-024-01285-9
 
 ---
 
-## Multi-cohort shotgun metagenomic analysis of oral and gut microbiota overlap in healthy adults.
- 19.01.2024, _A Rashidi, H Gem, JS McLean, K Kerns, DR Dean, N Dey, S Minot_
+## The fusion of multi-omics profile and multimodal EEG data contributes to the personalized diagnostic strategy for neurocognitive disorders
 
-
-_Adult, Humans, Gastrointestinal Microbiome, Metagenome, Microbiota, Mouth, RNA, Ribosomal, 16S_
-The multitude of barriers between the mouth and colon may eliminate swallowed oral bacteria. Ascertaining the presence of the same bacteria in the mouth and colon is methodologically challenging partly because 16S rRNA gene sequencing - the most commonly used method to characterize the human microbiota - has low confidence in taxonomic assignments deeper than genus for most bacteria. As different species of the same genus can have low-level variation across the same 16S rRNA gene region, shotgun sequencing is needed to identify a true overlap. We analyzed a curated, multi-cohort, shotgun metagenomic database with species-level taxonomy and clade-specific marker genes to fill this knowledge gap. Using 500 paired fecal/oral (4 oral sites) samples from 4 healthy adult cohorts, we found a minute overlap between the two niches. Comparing marker genes between paired oral and fecal samples with species-level overlap, the pattern of overlap in only 7 individuals was consistent with same-strain colonization. These findings argue against ectopic colonization of oral bacteria in the distal gut in healthy adults.
-
-[Source](https://www.nature.com/articles/s41597-024-02916-x)
-
-10.1038/s41597-024-02916-x
+[Source](https://doi.org/10.1186/s40168-023-01717-5)
 
 ---
 
-## Positioning the preventive potential of microbiome treatments for cystic fibrosis in the context of current therapies.
- 19.01.2024, _E Cauwenberghs, I De Boeck, I Spacova, I Van Tente, J Bastiaenssen, E Lammertyn, S Verhulst, K Van Hoorenbeeck, S Lebeer_
+## Prediction of lung cancer using novel biomarkers based on microbiome profiling of bronchoalveolar lavage fluid.
+ 19.01.2024, _G Kim, C Park, YK Yoon, D Park, JE Lee, D Lee, P Sun, S Park, C Yun, DH Kang, C Chung_
 
 
-_Humans, Cystic Fibrosis, Cystic Fibrosis Transmembrane Conductance Regulator, Microbiota, Lung, Anti-Bacterial Agents_
-Antibiotics and cystic fibrosis transmembrane conductance regulator (CFTR) modulators play a pivotal role in cystic fibrosis (CF) treatment, but both have limitations. Antibiotics are linked to antibiotic resistance and disruption of the airway microbiome, while CFTR modulators are not widely accessible, and structural lung damage and pathogen overgrowth still occur. Complementary strategies that can beneficially modulate the airway microbiome in a preventive way are highly needed. This could be mediated via oral probiotics, which have shown some improvement of lung function and reduction of airway infections and exacerbations, as a cost-effective approach. However, recent data suggest that specific and locally administered probiotics in the respiratory tract might be a more targeted approach to prevent pathogen outgrowth in the lower airways. This review aims to summarize the current knowledge on the CF airway microbiome and possibilities of microbiome treatments to prevent bacterial and/or viral infections and position them in the context of current CF therapies.
+There is an unmet need for biomarkers for the diagnosis of lung cancer and decision criteria for lung biopsy. We comparatively investigated the lung microbiomes of patients with lung cancer and benign lung diseases. Patients who underwent bronchoscopy at Chungnam National University Hospital between June 2021 and June 2022 were enrolled. Bronchoalveolar lavage fluid (BALF) was collected from 24 patients each with lung cancer and benign lung diseases. The samples were analyzed using 16S rRNA-based metagenomic sequencing. We found that alpha diversity and the beta diversity distribution (P = 0.001) differed significantly between patients with benign lung diseases and those with lung cancer. Firmicutes was the most abundant phylum in patients with lung cancer (33.39% ± 17.439), whereas Bacteroidota was the most abundant phylum in patients with benign lung disease (31.132% ± 22.505), respectively. In differential abundance analysis, the most differentially abundant microbiota taxon was unclassified_SAR202_clade, belonging to the phylum Chloroflexi. The established prediction model distinguished patients with benign lung disease from those with lung cancer with a high accuracy (micro area under the curve [AUC] = 0.98 and macro AUC = 0.99). The BALF microbiome may be a novel biomarker for the detection of lung cancer.
 
-[Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00600-6)
+[Source](https://doi.org/10.1038/s41598-024-52296-w)
 
-10.1016/j.xcrm.2023.101371
-
----
-
-## The gut microbiota modulate locomotion via vagus-dependent glucagon-like peptide-1 signaling.
- 19.01.2024, _TT Lai, YH Tsai, CW Liou, CH Fan, YT Hou, TH Yao, HL Chuang, WL Wu_
-
-
-_Mice, Animals, Glucagon-Like Peptide 1, Gastrointestinal Microbiome, Glucagon-Like Peptide-1 Receptor, Vagus Nerve, Signal Transduction_
-Locomotor activity is an innate behavior that can be triggered by gut-motivated conditions, such as appetite and metabolic condition. Various nutrient-sensing receptors distributed in the vagal terminal in the gut are crucial for signal transduction from the gut to the brain. The levels of gut hormones are closely associated with the colonization status of the gut microbiota, suggesting a complicated interaction among gut bacteria, gut hormones, and the brain. However, the detailed mechanism underlying gut microbiota-mediated endocrine signaling in the modulation of locomotion is still unclear. Herein, we show that broad-spectrum antibiotic cocktail (ABX)-treated mice displayed hypolocomotion and elevated levels of the gut hormone glucagon-like peptide-1 (GLP-1). Blockade of the GLP-1 receptor and subdiaphragmatic vagal transmission rescued the deficient locomotor phenotype in ABX-treated mice. Activation of the GLP-1 receptor and vagal projecting brain regions led to hypolocomotion. Finally, selective antibiotic treatment dramatically increased serum GLP-1 levels and decreased locomotion. Colonizing Lactobacillus reuteri and Bacteroides thetaiotaomicron in microbiota-deficient mice suppressed GLP-1 levels and restored the hypolocomotor phenotype. Our findings identify a mechanism by which specific gut microbes mediate host motor behavior via the enteroendocrine and vagal-dependent neural pathways.
-
-[Source](https://www.nature.com/articles/s41522-024-00477-w)
-
-10.1038/s41522-024-00477-w
+10.1038/s41598-024-52296-w
 
 ---
 
-## Nonylphenol induces depressive behavior in rats and affects gut microbiota: A dose-dependent effect.
- 16.01.2024, _J Pan, D Lu, L Yu, Z Ye, H Duan, A Narbad, J Zhao, Q Zhai, F Tian, W Chen_
+## Exploring the intestinal ecosystem: from gut microbiota to associations with subtypes of inflammatory bowel disease.
+ 19.01.2024, _F Li, C Yu, Q Zhao, Z Wang, Z Wang, Y Chang, Z Xu, X Han, H Li, Y Liu, S Hu, S Chang, T Tang, Y Li_
 
 
-Nonylphenol (NP), an endocrine disruptor absorbed through food intake, was investigated in this study for its potential dose-response relationship with the manifestation of depression-like behavior in rats. Based on this, the mechanisms of NP-induced depressive behavior, encompassing neurotransmitters, gut barrier function, inflammatory response, gut microbiota composition and metabolites were further explored. At medium and high NP doses, both mRNA and protein levels of zonula occludens protein-1 and claudin-1 were considerably downregulated, concomitant with an elevation in tumor necrosis factor-α and interleukin-1β expression in a dose-dependent effect, resulting in damage to the gut mucosa. Despite a minimal impact on behavior and gut barriers at low NP doses, alterations in gut microbiota composition were observed. During NP exposure, dose-dependent changes in the gut microbiota revealed a decline in microbial diversity linked to the synthesis of short-chain fatty acids. NP not only adversely affected the gut microbiota structure but also exacerbated central nervous system damage through the gut-brain axis. The accumulation of NP may cause neurotransmitter disturbances and inflammatory responses in the hippocampus, which also exacerbate depressed behavior in rats. Therefore, NP could exacerbate the inflammatory response in the hippocampus and colon by compromising intestinal barrier integrity, facilitating the proliferation of pathogenic bacteria, impairing butyrate metabolism, and perturbing neurotransmitter homeostasis, thus aggravating the depressive behavior of rats. It is noteworthy that the changes in these indicators were related to the NP exposure dose.
+Significant differences have been discovered between subtypes of Crohn's disease (CD) and ulcerative colitis (UC). The role of gut microbiota in promoting the onset of UC and CD is established, but conclusions regarding subtype-specific analyses remain limited.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S026974912400071X)
+[Source](https://doi.org/10.3389/fcimb.2023.1304858)
 
-10.1016/j.envpol.2024.123357
-
----
-
-## Ocular mucosal homeostasis of teleost fish provides insight into the coevolution between microbiome and mucosal immunity.
- 16.01.2024, _W Kong, G Cheng, J Cao, J Yu, X Wang, Z Xu_
-
-
-_Animals, Immunity, Mucosal, Mucous Membrane, Microbiota, Fishes, Homeostasis, Mammals_
-The visual organ plays a crucial role in sensing environmental information. However, its mucosal surfaces are constantly exposed to selective pressures from aquatic or airborne pathogens and microbial communities. Although few studies have characterized the conjunctival-associated lymphoid tissue (CALT) in the ocular mucosa (OM) of birds and mammals, little is known regarding the evolutionary origins and functions of immune defense and microbiota homeostasis of the OM in the early vertebrates.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01716-6)
-
-10.1186/s40168-023-01716-6
+10.3389/fcimb.2023.1304858
 
 ---
 
-## Unraveling the interplay between root exudates, microbiota, and rhizosheath formation in pearl millet.
- 06.01.2024, _A Alahmad, M Harir, S Fochesato, J Tulumello, A Walker, M Barakat, PMS Ndour, P Schmitt-Kopplin, L Cournac, L Laplaze, T Heulin, W Achouak_
+## Simulated digestions of free oligosaccharides and mucin-type O-glycans reveal a potential role for<em> Clostridium perfringens</em>
 
-
-_Pennisetum, RNA, Ribosomal, 16S, Plant Roots, Microbiota, Soil, Plants, Exudates and Transudates, Soil Microbiology, Rhizosphere_
-The rhizosheath, a cohesive soil layer firmly adhering to plant roots, plays a vital role in facilitating water and mineral uptake. In pearl millet, rhizosheath formation is genetically controlled and influenced by root exudates. Here, we investigated the impact of root exudates on the microbiota composition, interactions, and assembly processes, and rhizosheath structure in pearl millet using four distinct lines with contrasting soil aggregation abilities.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01727-3)
-
-10.1186/s40168-023-01727-3
+[Source](https://doi.org/10.1038/s41598-023-51012-4)
 
 ---
 
-## Biogeographic survey of soil bacterial communities across Antarctica.
- 15.01.2024, _G Varliero, PH Lebre, B Adams, SL Chown, P Convey, PG Dennis, D Fan, B Ferrari, B Frey, ID Hogg, DW Hopkins, W Kong, T Makhalanyane, G Matcher, KK Newsham, MI Stevens, KV Weigh, DA Cowan_
+## Oral microbiome associated with differential ratios of <em>Porphyromonas gingivalis </em>and <em>Streptococcus cristatus</em>
 
-
-_Humans, Antarctic Regions, Phylogeny, Soil, Cyanobacteria, Biodiversity, Soil Microbiology_
-Antarctica and its unique biodiversity are increasingly at risk from the effects of global climate change and other human influences. A significant recent element underpinning strategies for Antarctic conservation has been the development of a system of Antarctic Conservation Biogeographic Regions (ACBRs). The datasets supporting this classification are, however, dominated by eukaryotic taxa, with contributions from the bacterial domain restricted to Actinomycetota and Cyanobacteriota. Nevertheless, the ice-free areas of the Antarctic continent and the sub-Antarctic islands are dominated in terms of diversity by bacteria. Our study aims to generate a comprehensive phylogenetic dataset of Antarctic bacteria with wide geographical coverage on the continent and sub-Antarctic islands, to investigate whether bacterial diversity and distribution is reflected in the current ACBRs.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01719-3)
-
-10.1186/s40168-023-01719-3
+[Source](https://doi.org/10.1128/spectrum.03482-23)
 
 ---
 
-## Testing microbial biomining from asteroidal material onboard the International Space Station
+## Impact of intratumoral microbiome on tumor immunity and prognosis in human pancreatic ductal adenocarcinoma
 
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.13.575412v1.abstract)
-
----
-
-## AnnoView enables large-scale analysis, comparison, and visualization of microbial gene neighborhoods
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.15.575735v1)
+[Source](https://doi.org/10.1007/s00535-023-02069-5)
 
 ---
 
-## Comparison of the DNBSEQ platform and Illumina HiSeq 2000 for bacterial genome assembly
+## Evaluation of gut microbiota predictive potential associated with phenotypic characteristics to identify multifactorial diseases
 
-[Source](https://www.nature.com/articles/s41598-024-51725-0)
+[Source](https://doi.org/10.1080/19490976.2023.2297815)
+
+---
+
+## The Gut Microbiome Affects Atherosclerosis by Regulating Reverse Cholesterol Transport
+
+[Source](https://doi.org/10.1007/s12265-024-10480-3)
+
+---
+
+## Role of vertical and horizontal microbial transmission of antimicrobial resistance genes in early life: insights from maternal-infant dyads
+
+[Source](https://www.sciencedirect.com/science/article/pii/S1369527423001613)
+
+---
+
+## Complement in breast milk modifies offspring gut microbiota to promote infant health
+
+[Source](https://www.cell.com/cell/fulltext/S0092-8674(23)01384-3)
+
+---
+
+## An Oral Nanomedicine Elicits In Situ Vaccination Effect against Colorectal Cancer
+
+[Source](https://doi.org/10.1021/acsnano.3c11436)
+
+---
+
+## Oral bacteria accelerate pancreatic cancer development in mice
+
+[Source](https://doi.org/10.1136/gutjnl-2023-330941)
+
+---
+
+## Bacterial community and diversity in the rumen of 11 Mongolian cattle as revealed by 16S rRNA amplicon sequencing
+
+[Source](https://doi.org/10.1038/s41598-024-51828-8)
+
+---
+
+## Novel taxonomic and functional diversity of eight bacteria from the upper digestive tract of chicken.
+ 18.01.2024, _B Rios-Galicia, JS Sáenz, T Yergaliyev, C Roth, A Camarinha-Silva, J Seifert_
+
+
+_Animals, Chickens, Phylogeny, Sequence Analysis, DNA, RNA, Ribosomal, 16S, DNA, Bacterial, Bacterial Typing Techniques, Base Composition, Fatty Acids, Gastrointestinal Tract_
+
+[Source](https://doi.org/10.1099/ijsem.0.006210)
+
+10.1099/ijsem.0.006210
+
+---
+
+## A tripartite bacterial-fungal-plant symbiosis in the mycorrhiza-shaped microbiome drives plant growth and mycorrhization.
+ 19.01.2024, _C Zhang, MGA van der Heijden, BK Dodds, TB Nguyen, J Spooren, A Valzano-Held, M Cosme, RL Berendsen_
+
+
+Plant microbiomes play crucial roles in nutrient cycling and plant growth, and are shaped by a complex interplay between plants, microbes, and the environment. The role of bacteria as mediators of the 400-million-year-old partnership between the majority of land plants and, arbuscular mycorrhizal (AM) fungi is still poorly understood. Here, we test whether AM hyphae-associated bacteria influence the success of the AM symbiosis.
+
+[Source](https://doi.org/10.1186/s40168-023-01726-4)
+
+10.1186/s40168-023-01726-4
+
+---
+
+## Host genotype, soil composition, and geo-climatic factors shape the fonio seed microbiome.
+ 19.01.2024, _N Tabassum, HI Ahmed, S Parween, AH Sheikh, MM Saad, SG Krattinger, H Hirt_
+
+
+_Soil, Genome-Wide Association Study, Seeds, Microbiota, Plants, Endophytes, Genotype, Bacteria_
+Fonio (Digitaria exilis), an orphan millet crop, is the oldest indigenous crop in West Africa. Although the yield is low due to pre-domestication characteristics, the quick maturation time, drought tolerance, and the ability to thrive on poor soils make fonio a climate-smart crop. Being holobionts, plants evolve in close interaction with microbial partners, which is crucial for plant phenology and fitness. As seeds are the bottleneck of vertically transmitting plant microbiota, we proposed to unravel the seed microbiome of the under-domesticated and resilient crop fonio. Our study investigated the bacterial seed endophyte diversity across 126 sequenced fonio accessions from distinct locations in West Africa. We conducted a correlation study of the structures and functions of the seed-associated microbiomes with the native geo-climate and soil structure data. We also performed Genome-wide association studies (GWAS) to identify genetic loci associated with seed endophyte diversity.
+
+[Source](https://doi.org/10.1186/s40168-023-01725-5)
+
+10.1186/s40168-023-01725-5
+
+---
+
+## The role of plants in ironstone evolution: iron and aluminium cycling in the rhizosphere.
+ 19.01.2024, _A Paz, EJ Gagen, A Levett, MWM Jones, PM Kopittke, G Southam_
+
+
+The Carajás plateaus in Brazil host endemic epilithic vegetation ("campo rupestre") on top of ironstone duricrusts, known as canga. This capping rock is primarily composed of iron(III) oxide minerals and forms a physically resistant horizon. Field observations reveal an intimate interaction between canga's surface and two native sedges (Rhynchospora barbata and Bulbostylis cangae). These observations suggest that certain plants contribute to the biogeochemical cycling of iron. Iron dissolution features at the root-rock interface were characterised using synchrotron-based techniques, Raman spectroscopy and scanning electron microscopy. These microscale characterisations indicate that iron is preferentially leached in the rhizosphere, enriching the comparatively insoluble aluminium around root channels. Oxalic acid and other exudates were detected in active root channels, signifying ligand-controlled iron oxide dissolution, likely driven by the plants' requirements for goethite-associated nutrients such as phosphorus. The excess iron not uptaken by the plant can reprecipitate in and around roots, line root channels and cement detrital fragments in the soil crust at the base of the plants. The reprecipitation of iron is significant as it provides a continuously forming cement, which makes canga horizons a 'self-healing' cover and contributes to them being the world's most stable continuously exposed land surfaces. Aluminium hydroxide precipitates ("gibbsite cutans") were also detected, coating some of the root cavities, often in alternating layers with goethite. This alternating pattern may correspond with oscillating oxygen concentrations in the rhizosphere. Microbial lineages known to contain iron-reducing bacteria were identified in the sedge rhizospheric microbiome and likely contribute to the reductive dissolution of iron(III) oxides within canga. Drying or percolation of oxygenated water to these anaerobic niches have led to iron mineralisation of biofilms, detected in many root channels. This study sheds light on plants' direct and indirect involvement in canga evolution, with possible implications for revegetation and surface restoration of iron mine sites.
+
+[Source](https://doi.org/10.1016/j.scitotenv.2024.170119)
+
+10.1016/j.scitotenv.2024.170119
+
+---
+
+## Consistent effects of independent domestication events on the plant microbiota.
+ 17.01.2024, _R Soldan, M Fusi, M Cardinale, F Homma, LG Santos, P Wenzl, M Bach-Pages, E Bitocchi, MI Chacon Sanchez, D Daffonchio, GM Preston_
+
+
+The effect of plant domestication on plant-microbe interactions remains difficult to prove. In this study, we provide evidence of a domestication effect on the composition and abundance of the plant microbiota. We focused on the genus Phaseolus, which underwent four independent domestication events within two species (P. vulgaris and P. lunatus), providing multiple replicates of a process spanning thousands of years. We targeted Phaseolus seeds to identify a link between domesticated traits and bacterial community composition as Phaseolus seeds have been subject to large and consistent phenotypic changes during these independent domestication events. The seed bacterial communities of representative plant accessions from subpopulations descended from each domestication event were analyzed under controlled and field conditions. The results showed that independent domestication events led to similar seed bacterial community signatures in independently domesticated plant populations, which could be partially explained by selection for common domesticated plant phenotypes. Our results therefore provide evidence of a consistent effect of plant domestication on seed microbial community composition and abundance and offer avenues for applying knowledge of the impact of plant domestication on the plant microbiota to improve microbial applications in agriculture.
+
+[Source](https://www.cell.com/current-biology/fulltext/S0960-9822(23)01756-6)
+
+10.1016/j.cub.2023.12.056
+
+---
+
+## Inactivation of siderophore iron-chelating moieties by the fungal wheat root symbiont <em>Pyrenophora biseptata</em>
+
+[Source](https://doi.org/10.1111/1758-2229.13234)
+
+---
+
+## New insights into inhibition of high Fe(III) content on anaerobic digestion of waste-activated sludge.
+ 19.01.2024, _X Wang, Y Gong, C Sun, Z Wang, Y Sun, Q Yu, Y Zhang_
+
+
+The impacts of the increased iron in the waste-activated sludge (WAS) on its anaerobic digestion were investigated. It was found that low Fe(III) content (&lt; 750 mg/L) promoted WAS anaerobic digestion, while the continual increase of Fe(III) inhibited CH4 production and total chemical oxygen demand (TCOD) removal. As the Fe(III) content increased to 1470 mg/L, methane production has been slightly inhibited about 5 % compared with the group containing 35 mg/L Fe(III). Particularly, as Fe(III) concentration was up to 2900 mg/L, CH4 production, and TCOD removal decreased by 43.6 % and 37.5 %, respectively, compared with the group with 35 mg/L Fe(III). Furthermore, the percentage of CO2 of the group with 2900 mg/L Fe(III) decreased by 52.8 % compared with the group containing 35 mg/L Fe(III). It indicated that Fe(II) generated by the dissimilatory iron reduction might cause CO2 consumption, which was confirmed by X-ray diffraction that siderite (FeCO3) was generated in the group with 2900 mg/L Fe(III). Further study revealed that Fe(III) promoted the WAS solubilization and hydrolysis, but inhibited acidification and methane production. The methanogenesis test with H2/CO2 as a substrate showed that CO2 consumption weakened hydrogenotrophic methanogenesis and then increased H2 partial pressure, further causing VFA accumulation. Microbial community analysis indicated that the abundance of hydrogen-utilizing methanogens decreased with the high Fe(III) content. Our study suggested that the increase of Fe(III) in sludge might inhibit methanogenesis by consuming or precipitating CO2. To achieve maximum bioenergy conversion, the iron content should be controlled to lower than 750 mg/L. The study may provide new insights into the mechanistic understanding of the inhibition of high Fe(III) content on the anaerobic digestion of WAS.
+
+[Source](https://doi.org/10.1016/j.scitotenv.2024.170147)
+
+10.1016/j.scitotenv.2024.170147
+
+---
+
+## Drying as an effective method to store soil samples for DNA-based microbial community analyses: a comparative study.
+ 19.01.2024, _E Smenderovac, C Emilson, K Rheault, É Brazeau, MJ Morency, P Gagné, L Venier, C Martineau_
+
+
+Soil sampling for environmental DNA in remote and semi-remote locations is often limited due to logistical constraints surrounding sample preservation, including no or limited access to a freezer. Freezing at - 20 °C is a common DNA preservation strategy, however, other methods such as desiccation, ethanol or commercial preservatives are available as potential alternative DNA preservation methods for room temperature storage. In this study, we assessed five preservation methods (CD1 solution, 95% Ethanol, Dry &amp; Dry silica gel packs, RNAlater, LifeGuard) along with freezing at - 20 °C, against immediate extraction on organic and mineral soils for up to three weeks of preservation. We assessed direct effects on DNA concentration and quality, and used DNA metabarcoding to assess effects on bacterial and fungal communities. Drying with Dry &amp; Dry led to no significant differences from immediate extraction. RNAlater led to lower DNA concentrations, but effects on community structures were comparable to freezing. CD1, LifeGuard and Ethanol either caused immediate significant shifts in community structure, degradation of DNA quality or changes in diversity metrics. Overall, our study supports the use of drying with silica gel packs as a cost-effective, and easily applied method for the short-term storage at room temperature for DNA-based microbial community analyses.
+
+[Source](https://doi.org/10.1038/s41598-023-50541-2)
+
+10.1038/s41598-023-50541-2
+
+---
+
+## Mock community taxonomic classification performance of publicly available shotgun metagenomics pipelines.
+ 19.01.2024, _EM Valencia, KA Maki, JN Dootz, JJ Barb_
+
+
+_Bacteria, Gastrointestinal Microbiome, Metagenome, Metagenomics, Sequence Analysis, DNA_
+Shotgun metagenomic sequencing comprehensively samples the DNA of a microbial sample. Choosing the best bioinformatics processing package can be daunting due to the wide variety of tools available. Here, we assessed publicly available shotgun metagenomics processing packages/pipelines including bioBakery, Just a Microbiology System (JAMS), Whole metaGenome Sequence Assembly V2 (WGSA2), and Woltka using 19 publicly available mock community samples and a set of five constructed pathogenic gut microbiome samples. Also included is a workflow for labelling bacterial scientific names with NCBI taxonomy identifiers for better resolution in assessing results. The Aitchison distance, a sensitivity metric, and total False Positive Relative Abundance were used for accuracy assessments for all pipelines and mock samples. Overall, bioBakery4 performed the best with most of the accuracy metrics, while JAMS and WGSA2, had the highest sensitivities. Furthermore, bioBakery is commonly used and only requires a basic knowledge of command line usage. This work provides an unbiased assessment of shotgun metagenomics packages and presents results assessing the performance of the packages using mock community sequence data.
+
+[Source](https://doi.org/10.1038/s41597-023-02877-7)
+
+10.1038/s41597-023-02877-7
+
+---
+
+## Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics.
+ 17.01.2024, _G Marinos, IK Hamerich, R Debray, N Obeng, C Petersen, J Taubenheim, J Zimmermann, D Blackburn, BS Samuel, K Dierking, A Franke, M Laudes, S Waschina, H Schulenburg, C Kaleta_
+
+
+While various mechanisms through which the microbiome influences disease processes in the host have been identified, there are still only few approaches that allow for targeted manipulation of microbiome composition as a first step toward microbiome-based therapies. Here, we propose the concept of precision prebiotics that allow to boost the abundance of already resident health-beneficial microbial species in a microbiome. We present a constraint-based modeling pipeline to predict precision prebiotics for a minimal microbial community in the worm Caenorhabditis elegans comprising the host-beneficial Pseudomonas lurida MYb11 and the persistent colonizer Ochrobactrum vermis MYb71 with the aim to boost the growth of MYb11. Experimentally testing four of the predicted precision prebiotics, we confirm that they are specifically able to increase the abundance of MYb11 in vitro and in vivo. These results demonstrate that constraint-based modeling could be an important tool for the development of targeted microbiome-based therapies against human diseases.
+
+[Source](https://doi.org/10.1128/spectrum.01144-23)
+
+10.1128/spectrum.01144-23
+
+---
+
+## Metagenomes and metagenome-assembled genomes from ex vivo fecal incubations of six unique donors.
+ 18.01.2024, _AB Narrowe, L Liu, JMS Lemons, JA Firrman, KK Mahalak, S Deyaert, A Baudot, P Van den Abbeele_
+
+
+We present a donor-specific collection of 78 metagenomes (13/donor) and 143 metagenome-assembled genomes (MAGs), representing the gut microbiomes of six healthy adult human donors. In addition to adding to the catalog of publicly available human gut MAGs, this resource permits a genome-resolved look into microbial co-occurrence across six individuals.
+
+[Source](https://doi.org/10.1128/mra.00862-23)
+
+10.1128/mra.00862-23
+
+---
+
+## Bioinformatic Approach to Investigate Larvae Gut Microbiota <em>Cellulosimicrobium protaetiae </em>via Whole-Genome Analysis
+
+[Source](https://doi.org/10.1007/s12033-023-00984-9)
 
 ---
 
