@@ -52,15 +52,9 @@ Significant differences have been discovered between subtypes of Crohn's disease
 
 ---
 
-## Impact of intratumoral microbiome on tumor immunity and prognosis in human pancreatic ductal adenocarcinoma.
- 19.01.2024, _S Abe, A Masuda, T Matsumoto, J Inoue, H Toyama, A Sakai, T Kobayashi, T Tanaka, M Tsujimae, K Yamakawa, M Gonda, S Masuda, H Uemura, S Kohashi, N Inomata, K Nagao, Y Harada, M Miki, Y Irie, N Juri, T Ko, Y Yokotani, Y Oka, S Ota, M Kanzawa, T Itoh, T Imai, T Fukumoto, E Hara, Y Kodama_
-
-
-Recent evidence suggests that the presence of microbiome within human pancreatic ductal adenocarcinoma (PDAC) tissue potentially influences cancer progression and prognosis. However, the significance of tumor-resident microbiome remains unclear. We aimed to elucidate the impact of intratumoral bacteria on the pathophysiology and prognosis of human PDAC.
+## Impact of intratumoral microbiome on tumor immunity and prognosis in human pancreatic ductal adenocarcinoma
 
 [Source](https://doi.org/10.1007/s00535-023-02069-5)
-
-10.1007/s00535-023-02069-5
 
 ---
 
