@@ -1,5 +1,5 @@
 ## Gut microbiome for predicting immune checkpoint blockade-associated adverse events.
- 19.01.2024, _M Hu, X Lin, T Sun, X Shao, X Huang, W Du, M Guo, X Zhu, Y Zhou, T Tong, F Guo, T Han, X Wu, Y Shi, X Xiao, Y Zhang, J Hong, H Chen_
+ 21.01.2024, _M Hu, X Lin, T Sun, X Shao, X Huang, W Du, M Guo, X Zhu, Y Zhou, T Tong, F Guo, T Han, X Wu, Y Shi, X Xiao, Y Zhang, J Hong, H Chen_
 
 
 The impact of the gut microbiome on the initiation and intensity of immune-related adverse events (irAEs) prompted by immune checkpoint inhibitors (ICIs) is widely acknowledged. Nevertheless, there is inconsistency in the gut microbial associations with irAEs reported across various studies.
@@ -29,7 +29,7 @@ There is an unmet need for biomarkers for the diagnosis of lung cancer and decis
 ---
 
 ## Exploring the intestinal ecosystem: from gut microbiota to associations with subtypes of inflammatory bowel disease.
- 19.01.2024, _F Li, C Yu, Q Zhao, Z Wang, Z Wang, Y Chang, Z Xu, X Han, H Li, Y Liu, S Hu, S Chang, T Tang, Y Li_
+ 21.01.2024, _F Li, C Yu, Q Zhao, Z Wang, Z Wang, Y Chang, Z Xu, X Han, H Li, Y Liu, S Hu, S Chang, T Tang, Y Li_
 
 
 Significant differences have been discovered between subtypes of Crohn's disease (CD) and ulcerative colitis (UC). The role of gut microbiota in promoting the onset of UC and CD is established, but conclusions regarding subtype-specific analyses remain limited.
@@ -58,28 +58,15 @@ Significant differences have been discovered between subtypes of Crohn's disease
 
 ---
 
-## Evaluation of gut microbiota predictive potential associated with phenotypic characteristics to identify multifactorial diseases.
- 19.01.2024, _DC Fonseca, I Marques Gomes da Rocha, B Depieri Balmant, L Callado, AP Aguiar Prudêncio, J Tepedino Martins Alves, RS Torrinhas, G da Rocha Fernandes, D Linetzky Waitzberg_
-
-
-_Humans, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Diabetes Mellitus, Type 2, Biomarkers_
-Gut microbiota has been implicated in various clinical conditions, yet the substantial heterogeneity in gut microbiota research results necessitates a more sophisticated approach than merely identifying statistically different microbial taxa between healthy and unhealthy individuals. Our study seeks to not only select microbial taxa but also explore their synergy with phenotypic host variables to develop novel predictive models for specific clinical conditions.
+## Evaluation of gut microbiota predictive potential associated with phenotypic characteristics to identify multifactorial diseases
 
 [Source](https://doi.org/10.1080/19490976.2023.2297815)
 
-10.1080/19490976.2023.2297815
-
 ---
 
-## The Gut Microbiome Affects Atherosclerosis by Regulating Reverse Cholesterol Transport.
- 17.01.2024, _Y Jiang, S Pang, X Liu, L Wang, Y Liu_
-
-
-The human system's secret organ, the gut microbiome, has received considerable attention. Emerging research has yielded substantial scientific evidence indicating that changes in gut microbial composition and microbial metabolites may contribute to the development of atherosclerotic cardiovascular disease. The burden of cardiovascular disease on healthcare systems is exacerbated by atherosclerotic cardiovascular disease, which continues to be the leading cause of mortality globally. Reverse cholesterol transport is a powerful protective mechanism that effectively prevents excessive accumulation of cholesterol for atherosclerotic cardiovascular disease. It has been revealed how the gut microbiota modulates reverse cholesterol transport in patients with atherosclerotic risk. In this review, we highlight the complex interactions between microbes, their metabolites, and their potential impacts in reverse cholesterol transport. We also explore the feasibility of modulating gut microbes and metabolites to facilitate reverse cholesterol transport as a novel therapy for atherosclerosis.
+## The Gut Microbiome Affects Atherosclerosis by Regulating Reverse Cholesterol Transport
 
 [Source](https://doi.org/10.1007/s12265-024-10480-3)
-
-10.1007/s12265-024-10480-3
 
 ---
 
@@ -132,7 +119,7 @@ Epidemiological studies highlight an association between pancreatic ductal adeno
 ---
 
 ## Bacterial community and diversity in the rumen of 11 Mongolian cattle as revealed by 16S rRNA amplicon sequencing.
- 19.01.2024, _Y Jia, Y Shi, H Qiao_
+ 21.01.2024, _Y Jia, Y Shi, H Qiao_
 
 
 _Cattle, Animals, RNA, Ribosomal, 16S, Rumen, Bacteria, Ruminants, Animal Feed_
@@ -157,7 +144,7 @@ _Animals, Chickens, Phylogeny, Sequence Analysis, DNA, RNA, Ribosomal, 16S, DNA,
 ---
 
 ## A tripartite bacterial-fungal-plant symbiosis in the mycorrhiza-shaped microbiome drives plant growth and mycorrhization.
- 19.01.2024, _C Zhang, MGA van der Heijden, BK Dodds, TB Nguyen, J Spooren, A Valzano-Held, M Cosme, RL Berendsen_
+ 21.01.2024, _C Zhang, MGA van der Heijden, BK Dodds, TB Nguyen, J Spooren, A Valzano-Held, M Cosme, RL Berendsen_
 
 
 Plant microbiomes play crucial roles in nutrient cycling and plant growth, and are shaped by a complex interplay between plants, microbes, and the environment. The role of bacteria as mediators of the 400-million-year-old partnership between the majority of land plants and, arbuscular mycorrhizal (AM) fungi is still poorly understood. Here, we test whether AM hyphae-associated bacteria influence the success of the AM symbiosis.
@@ -236,7 +223,7 @@ Soil sampling for environmental DNA in remote and semi-remote locations is often
 ---
 
 ## Mock community taxonomic classification performance of publicly available shotgun metagenomics pipelines.
- 19.01.2024, _EM Valencia, KA Maki, JN Dootz, JJ Barb_
+ 21.01.2024, _EM Valencia, KA Maki, JN Dootz, JJ Barb_
 
 
 _Bacteria, Gastrointestinal Microbiome, Metagenome, Metagenomics, Sequence Analysis, DNA_
