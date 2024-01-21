@@ -52,51 +52,101 @@ Significant differences have been discovered between subtypes of Crohn's disease
 
 ---
 
-## Impact of intratumoral microbiome on tumor immunity and prognosis in human pancreatic ductal adenocarcinoma
+## Impact of intratumoral microbiome on tumor immunity and prognosis in human pancreatic ductal adenocarcinoma.
+ 19.01.2024, _S Abe, A Masuda, T Matsumoto, J Inoue, H Toyama, A Sakai, T Kobayashi, T Tanaka, M Tsujimae, K Yamakawa, M Gonda, S Masuda, H Uemura, S Kohashi, N Inomata, K Nagao, Y Harada, M Miki, Y Irie, N Juri, T Ko, Y Yokotani, Y Oka, S Ota, M Kanzawa, T Itoh, T Imai, T Fukumoto, E Hara, Y Kodama_
+
+
+Recent evidence suggests that the presence of microbiome within human pancreatic ductal adenocarcinoma (PDAC) tissue potentially influences cancer progression and prognosis. However, the significance of tumor-resident microbiome remains unclear. We aimed to elucidate the impact of intratumoral bacteria on the pathophysiology and prognosis of human PDAC.
 
 [Source](https://doi.org/10.1007/s00535-023-02069-5)
 
+10.1007/s00535-023-02069-5
+
 ---
 
-## Evaluation of gut microbiota predictive potential associated with phenotypic characteristics to identify multifactorial diseases
+## Evaluation of gut microbiota predictive potential associated with phenotypic characteristics to identify multifactorial diseases.
+ 19.01.2024, _DC Fonseca, I Marques Gomes da Rocha, B Depieri Balmant, L Callado, AP Aguiar Prudêncio, J Tepedino Martins Alves, RS Torrinhas, G da Rocha Fernandes, D Linetzky Waitzberg_
+
+
+_Humans, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Diabetes Mellitus, Type 2, Biomarkers_
+Gut microbiota has been implicated in various clinical conditions, yet the substantial heterogeneity in gut microbiota research results necessitates a more sophisticated approach than merely identifying statistically different microbial taxa between healthy and unhealthy individuals. Our study seeks to not only select microbial taxa but also explore their synergy with phenotypic host variables to develop novel predictive models for specific clinical conditions.
 
 [Source](https://doi.org/10.1080/19490976.2023.2297815)
 
+10.1080/19490976.2023.2297815
+
 ---
 
-## The Gut Microbiome Affects Atherosclerosis by Regulating Reverse Cholesterol Transport
+## The Gut Microbiome Affects Atherosclerosis by Regulating Reverse Cholesterol Transport.
+ 17.01.2024, _Y Jiang, S Pang, X Liu, L Wang, Y Liu_
+
+
+The human system's secret organ, the gut microbiome, has received considerable attention. Emerging research has yielded substantial scientific evidence indicating that changes in gut microbial composition and microbial metabolites may contribute to the development of atherosclerotic cardiovascular disease. The burden of cardiovascular disease on healthcare systems is exacerbated by atherosclerotic cardiovascular disease, which continues to be the leading cause of mortality globally. Reverse cholesterol transport is a powerful protective mechanism that effectively prevents excessive accumulation of cholesterol for atherosclerotic cardiovascular disease. It has been revealed how the gut microbiota modulates reverse cholesterol transport in patients with atherosclerotic risk. In this review, we highlight the complex interactions between microbes, their metabolites, and their potential impacts in reverse cholesterol transport. We also explore the feasibility of modulating gut microbes and metabolites to facilitate reverse cholesterol transport as a novel therapy for atherosclerosis.
 
 [Source](https://doi.org/10.1007/s12265-024-10480-3)
 
+10.1007/s12265-024-10480-3
+
 ---
 
-## Role of vertical and horizontal microbial transmission of antimicrobial resistance genes in early life: insights from maternal-infant dyads
+## Role of vertical and horizontal microbial transmission of antimicrobial resistance genes in early life: insights from maternal-infant dyads.
+ 18.01.2024, _M Bernabeu, E Cabello-Yeves, E Flores, A Samarra, J Kimberley Summers, A Marina, MC Collado_
+
+
+Early life represents a critical window for metabolic, cognitive and immune system development, which is influenced by the maternal microbiome as well as the infant gut microbiome. Antibiotic exposure, mode of delivery and breastfeeding practices modulate the gut microbiome and the reservoir of antibiotic resistance genes (ARGs). Vertical and horizontal microbial gene transfer during early life and the mechanisms behind these transfers are being uncovered. In this review, we aim to provide an overview of the current knowledge on the transfer of antibiotic resistance in the mother-infant dyad through vertical and horizontal transmission and to highlight the main gaps and challenges in this area.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1369527423001613)
 
+10.1016/j.mib.2023.102424
+
 ---
 
-## Complement in breast milk modifies offspring gut microbiota to promote infant health
+## Complement in breast milk modifies offspring gut microbiota to promote infant health.
+ 19.01.2024, _D Xu, S Zhou, Y Liu, AL Scott, J Yang, F Wan_
+
+
+Breastfeeding offers demonstrable benefits to newborns and infants by providing nourishment and immune protection and by shaping the gut commensal microbiota. Although it has been appreciated for decades that breast milk contains complement components, the physiological relevance of complement in breast milk remains undefined. Here, we demonstrate that weanling mice fostered by complement-deficient dams rapidly succumb when exposed to murine pathogen Citrobacter rodentium (CR), whereas pups fostered on complement-containing milk complement components in breast milk were shown to directly lyse specific members of gram-positive gut commensal microbiota via a C1-dependent, antibody-independent mechanism, resulting in the deposition of the membrane attack complex and subsequent bacterial lysis. By selectively eliminating members of the commensal gut community, complement components from breast milk shape neonate and infant gut microbial composition to be protective against environmental pathogens such as CR.
 
 [Source](https://www.cell.com/cell/fulltext/S0092-8674(23)01384-3)
 
+10.1016/j.cell.2023.12.019
+
 ---
 
-## An Oral Nanomedicine Elicits In Situ Vaccination Effect against Colorectal Cancer
+## An Oral Nanomedicine Elicits In Situ Vaccination Effect against Colorectal Cancer.
+ 19.01.2024, _M Zu, Y Ma, J Zhang, J Sun, MA Shahbazi, G Pan, RL Reis, SC Kundu, J Liu, B Xiao_
+
+
+Oral administration is the most preferred approach for treating colon diseases, and in situ vaccination has emerged as a promising cancer therapeutic strategy. However, the lack of effective drug delivery platforms hampered the application of in situ vaccination strategy in oral treatment of colorectal cancer (CRC). Here, we construct an oral core-shell nanomedicine by preparing a silk fibroin-based dual sonosensitizer (chlorin e6, Ce6)- and immunoadjuvant (imiquimod, R837)-loaded nanoparticle as the core, with its surface coated with plant-extracted lipids and pluronic F127 (p127). The resultant nanomedicines (Ce6/R837@Lp127NPs) maintain stability during their passage through the gastrointestinal tract and exert improved locomotor activities under ultrasound irradiation, achieving efficient colonic mucus infiltration and specific tumor penetration. Thereafter, Ce6/R837@Lp127NPs induce immunogenic death of colorectal tumor cells by sonodynamic treatment, and the generated neoantigens in the presence of R837 serve as a potent in situ vaccine. By integrating with immune checkpoint blockades, the combined treatment modality inhibits orthotopic tumors, eradicates distant tumors, and modulates intestinal microbiota. As the first oral in situ vaccination, this work spotlights a robust oral nanoplatform for producing a personalized vaccine against CRC.
 
 [Source](https://doi.org/10.1021/acsnano.3c11436)
 
+10.1021/acsnano.3c11436
+
 ---
 
-## Oral bacteria accelerate pancreatic cancer development in mice
+## Oral bacteria accelerate pancreatic cancer development in mice.
+ 17.01.2024, _E Saba, M Farhat, A Daoud, A Khashan, E Forkush, NH Menahem, H Makkawi, K Pandi, S Angabo, H Kawasaki, I Plaschkes, O Parnas, G Zamir, K Atlan, M Elkin, L Katz, G Nussbaum_
+
+
+Epidemiological studies highlight an association between pancreatic ductal adenocarcinoma (PDAC) and oral carriage of the anaerobic bacterium Porphyromonas gingivalis, a species highly linked to periodontal disease. We analysed the potential for P. gingivalis to promote pancreatic cancer development in an animal model and probed underlying mechanisms.
 
 [Source](https://doi.org/10.1136/gutjnl-2023-330941)
 
+10.1136/gutjnl-2023-330941
+
 ---
 
-## Bacterial community and diversity in the rumen of 11 Mongolian cattle as revealed by 16S rRNA amplicon sequencing
+## Bacterial community and diversity in the rumen of 11 Mongolian cattle as revealed by 16S rRNA amplicon sequencing.
+ 19.01.2024, _Y Jia, Y Shi, H Qiao_
+
+
+_Cattle, Animals, RNA, Ribosomal, 16S, Rumen, Bacteria, Ruminants, Animal Feed_
+Through microorganism in the rumen of ruminant, plant fiber can be converted to edible food such as meat and milk. Ruminants had a rich and complex microbial community within the rumen, and the bacteria comprised the dominant proportion of the ruminal microbes. High-throughput sequencing offered a viable solution for the study of rumen microbes. In this study, rumen fluid samples were taken from 11 cattle from Inner Mongolian, the DNA of 11 rumen fluid samples were extracted and bacterial amplicons of the V4 regions of 16S rRNA were subjected to Illumina sequencing. More than 90,000 raw reads and 60,000 effect Tags per sample were obtained. 28,122 operational taxonomic units (OTUs) were observed from 11 samples, in average 2557 ± 361 OTUs for each sample. Bacteroidetes (44.41 ± 7.31%), Firmicutes (29.07 ± 3.78%), and Proteobacteria (7.18 ± 5.63%) were the dominant phyla among the bacteria of rumen, accounting for 82%. At the genus level, the highest relative abundance was Prevotella. Their functions were predicted using the Kyoto Encyclopedia of Genes and Genomes (KEGG). The results showed that they included metabolism, genetic information processing, environmental information processing and cellular processes. It explored the bacterial community diversity and composition of the rumen of Mongolian cattle. On the whole, our research showed that there was a high diversity as well as rich bacterial flora function of rumen bacteria in Mongolian cattle. Meanwhile, these findings provided information for further studies on the relationship between the community, diversity, functions of rumen bacteria and the nutritional physiological functions of the host.
 
 [Source](https://doi.org/10.1038/s41598-024-51828-8)
+
+10.1038/s41598-024-51828-8
 
 ---
 
