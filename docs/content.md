@@ -1,7 +1,8 @@
 ## Gut microbiome for predicting immune checkpoint blockade-associated adverse events.
- 21.01.2024, _M Hu, X Lin, T Sun, X Shao, X Huang, W Du, M Guo, X Zhu, Y Zhou, T Tong, F Guo, T Han, X Wu, Y Shi, X Xiao, Y Zhang, J Hong, H Chen_
+ 22.01.2024, _M Hu, X Lin, T Sun, X Shao, X Huang, W Du, M Guo, X Zhu, Y Zhou, T Tong, F Guo, T Han, X Wu, Y Shi, X Xiao, Y Zhang, J Hong, H Chen_
 
 
+_Humans, Neoplasms, Immune Checkpoint Inhibitors, Gastrointestinal Microbiome, Antineoplastic Agents, Immunological, RNA, Ribosomal, 16S, Vitamin K 2, Drug-Related Side Effects and Adverse Reactions, Immunotherapy, Programmed Cell Death 1 Receptor, Immune System Diseases, Retrospective Studies, Lung Neoplasms_
 The impact of the gut microbiome on the initiation and intensity of immune-related adverse events (irAEs) prompted by immune checkpoint inhibitors (ICIs) is widely acknowledged. Nevertheless, there is inconsistency in the gut microbial associations with irAEs reported across various studies.
 
 [Source](https://doi.org/10.1186/s13073-024-01285-9)
@@ -17,9 +18,10 @@ The impact of the gut microbiome on the initiation and intensity of immune-relat
 ---
 
 ## Prediction of lung cancer using novel biomarkers based on microbiome profiling of bronchoalveolar lavage fluid.
- 19.01.2024, _G Kim, C Park, YK Yoon, D Park, JE Lee, D Lee, P Sun, S Park, C Yun, DH Kang, C Chung_
+ 22.01.2024, _G Kim, C Park, YK Yoon, D Park, JE Lee, D Lee, P Sun, S Park, C Yun, DH Kang, C Chung_
 
 
+_Humans, Lung Neoplasms, Bronchoalveolar Lavage Fluid, RNA, Ribosomal, 16S, Biomarkers, Lung, Lung Diseases, Microbiota_
 There is an unmet need for biomarkers for the diagnosis of lung cancer and decision criteria for lung biopsy. We comparatively investigated the lung microbiomes of patients with lung cancer and benign lung diseases. Patients who underwent bronchoscopy at Chungnam National University Hospital between June 2021 and June 2022 were enrolled. Bronchoalveolar lavage fluid (BALF) was collected from 24 patients each with lung cancer and benign lung diseases. The samples were analyzed using 16S rRNA-based metagenomic sequencing. We found that alpha diversity and the beta diversity distribution (P = 0.001) differed significantly between patients with benign lung diseases and those with lung cancer. Firmicutes was the most abundant phylum in patients with lung cancer (33.39% ± 17.439), whereas Bacteroidota was the most abundant phylum in patients with benign lung disease (31.132% ± 22.505), respectively. In differential abundance analysis, the most differentially abundant microbiota taxon was unclassified_SAR202_clade, belonging to the phylum Chloroflexi. The established prediction model distinguished patients with benign lung disease from those with lung cancer with a high accuracy (micro area under the curve [AUC] = 0.98 and macro AUC = 0.99). The BALF microbiome may be a novel biomarker for the detection of lung cancer.
 
 [Source](https://doi.org/10.1038/s41598-024-52296-w)
@@ -29,9 +31,10 @@ There is an unmet need for biomarkers for the diagnosis of lung cancer and decis
 ---
 
 ## Exploring the intestinal ecosystem: from gut microbiota to associations with subtypes of inflammatory bowel disease.
- 21.01.2024, _F Li, C Yu, Q Zhao, Z Wang, Z Wang, Y Chang, Z Xu, X Han, H Li, Y Liu, S Hu, S Chang, T Tang, Y Li_
+ 22.01.2024, _F Li, C Yu, Q Zhao, Z Wang, Z Wang, Y Chang, Z Xu, X Han, H Li, Y Liu, S Hu, S Chang, T Tang, Y Li_
 
 
+_Humans, Gastrointestinal Microbiome, Ecosystem, Inflammatory Bowel Diseases, Intestines, Colitis, Ulcerative, Crohn Disease, Clostridiales, Genome-Wide Association Study_
 Significant differences have been discovered between subtypes of Crohn's disease (CD) and ulcerative colitis (UC). The role of gut microbiota in promoting the onset of UC and CD is established, but conclusions regarding subtype-specific analyses remain limited.
 
 [Source](https://doi.org/10.3389/fcimb.2023.1304858)
@@ -163,9 +166,10 @@ _Animals, Chickens, Phylogeny, Sequence Analysis, DNA, RNA, Ribosomal, 16S, DNA,
 ---
 
 ## A tripartite bacterial-fungal-plant symbiosis in the mycorrhiza-shaped microbiome drives plant growth and mycorrhization.
- 21.01.2024, _C Zhang, MGA van der Heijden, BK Dodds, TB Nguyen, J Spooren, A Valzano-Held, M Cosme, RL Berendsen_
+ 22.01.2024, _C Zhang, MGA van der Heijden, BK Dodds, TB Nguyen, J Spooren, A Valzano-Held, M Cosme, RL Berendsen_
 
 
+_Mycorrhizae, Symbiosis, Plant Roots, Plants, Bacteria, Soil_
 Plant microbiomes play crucial roles in nutrient cycling and plant growth, and are shaped by a complex interplay between plants, microbes, and the environment. The role of bacteria as mediators of the 400-million-year-old partnership between the majority of land plants and, arbuscular mycorrhizal (AM) fungi is still poorly understood. Here, we test whether AM hyphae-associated bacteria influence the success of the AM symbiosis.
 
 [Source](https://doi.org/10.1186/s40168-023-01726-4)
@@ -230,9 +234,10 @@ The impacts of the increased iron in the waste-activated sludge (WAS) on its ana
 ---
 
 ## Drying as an effective method to store soil samples for DNA-based microbial community analyses: a comparative study.
- 19.01.2024, _E Smenderovac, C Emilson, K Rheault, É Brazeau, MJ Morency, P Gagné, L Venier, C Martineau_
+ 22.01.2024, _E Smenderovac, C Emilson, K Rheault, É Brazeau, MJ Morency, P Gagné, L Venier, C Martineau_
 
 
+_Silica Gel, DNA, Microbiota, Soil, Ethanol_
 Soil sampling for environmental DNA in remote and semi-remote locations is often limited due to logistical constraints surrounding sample preservation, including no or limited access to a freezer. Freezing at - 20 °C is a common DNA preservation strategy, however, other methods such as desiccation, ethanol or commercial preservatives are available as potential alternative DNA preservation methods for room temperature storage. In this study, we assessed five preservation methods (CD1 solution, 95% Ethanol, Dry &amp; Dry silica gel packs, RNAlater, LifeGuard) along with freezing at - 20 °C, against immediate extraction on organic and mineral soils for up to three weeks of preservation. We assessed direct effects on DNA concentration and quality, and used DNA metabarcoding to assess effects on bacterial and fungal communities. Drying with Dry &amp; Dry led to no significant differences from immediate extraction. RNAlater led to lower DNA concentrations, but effects on community structures were comparable to freezing. CD1, LifeGuard and Ethanol either caused immediate significant shifts in community structure, degradation of DNA quality or changes in diversity metrics. Overall, our study supports the use of drying with silica gel packs as a cost-effective, and easily applied method for the short-term storage at room temperature for DNA-based microbial community analyses.
 
 [Source](https://doi.org/10.1038/s41598-023-50541-2)
