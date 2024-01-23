@@ -91,21 +91,22 @@ Significant differences have been discovered between subtypes of Crohn's disease
 
 ---
 
-## Oral bacteria accelerate pancreatic cancer development in mice.
- 17.01.2024, _E Saba, M Farhat, A Daoud, A Khashan, E Forkush, NH Menahem, H Makkawi, K Pandi, S Angabo, H Kawasaki, I Plaschkes, O Parnas, G Zamir, K Atlan, M Elkin, L Katz, G Nussbaum_
-
-
-Epidemiological studies highlight an association between pancreatic ductal adenocarcinoma (PDAC) and oral carriage of the anaerobic bacterium Porphyromonas gingivalis, a species highly linked to periodontal disease. We analysed the potential for P. gingivalis to promote pancreatic cancer development in an animal model and probed underlying mechanisms.
+## Oral bacteria accelerate pancreatic cancer development in mice
 
 [Source](https://doi.org/10.1136/gutjnl-2023-330941)
 
-10.1136/gutjnl-2023-330941
-
 ---
 
-## Bacterial community and diversity in the rumen of 11 Mongolian cattle as revealed by 16S rRNA amplicon sequencing
+## Bacterial community and diversity in the rumen of 11 Mongolian cattle as revealed by 16S rRNA amplicon sequencing.
+ 21.01.2024, _Y Jia, Y Shi, H Qiao_
+
+
+_Cattle, Animals, RNA, Ribosomal, 16S, Rumen, Bacteria, Ruminants, Animal Feed_
+Through microorganism in the rumen of ruminant, plant fiber can be converted to edible food such as meat and milk. Ruminants had a rich and complex microbial community within the rumen, and the bacteria comprised the dominant proportion of the ruminal microbes. High-throughput sequencing offered a viable solution for the study of rumen microbes. In this study, rumen fluid samples were taken from 11 cattle from Inner Mongolian, the DNA of 11 rumen fluid samples were extracted and bacterial amplicons of the V4 regions of 16S rRNA were subjected to Illumina sequencing. More than 90,000 raw reads and 60,000 effect Tags per sample were obtained. 28,122 operational taxonomic units (OTUs) were observed from 11 samples, in average 2557 ± 361 OTUs for each sample. Bacteroidetes (44.41 ± 7.31%), Firmicutes (29.07 ± 3.78%), and Proteobacteria (7.18 ± 5.63%) were the dominant phyla among the bacteria of rumen, accounting for 82%. At the genus level, the highest relative abundance was Prevotella. Their functions were predicted using the Kyoto Encyclopedia of Genes and Genomes (KEGG). The results showed that they included metabolism, genetic information processing, environmental information processing and cellular processes. It explored the bacterial community diversity and composition of the rumen of Mongolian cattle. On the whole, our research showed that there was a high diversity as well as rich bacterial flora function of rumen bacteria in Mongolian cattle. Meanwhile, these findings provided information for further studies on the relationship between the community, diversity, functions of rumen bacteria and the nutritional physiological functions of the host.
 
 [Source](https://doi.org/10.1038/s41598-024-51828-8)
+
+10.1038/s41598-024-51828-8
 
 ---
 
