@@ -55,15 +55,28 @@ Significant differences have been discovered between subtypes of Crohn's disease
 
 ---
 
-## Impact of intratumoral microbiome on tumor immunity and prognosis in human pancreatic ductal adenocarcinoma
+## Impact of intratumoral microbiome on tumor immunity and prognosis in human pancreatic ductal adenocarcinoma.
+ 19.01.2024, _S Abe, A Masuda, T Matsumoto, J Inoue, H Toyama, A Sakai, T Kobayashi, T Tanaka, M Tsujimae, K Yamakawa, M Gonda, S Masuda, H Uemura, S Kohashi, N Inomata, K Nagao, Y Harada, M Miki, Y Irie, N Juri, T Ko, Y Yokotani, Y Oka, S Ota, M Kanzawa, T Itoh, T Imai, T Fukumoto, E Hara, Y Kodama_
+
+
+Recent evidence suggests that the presence of microbiome within human pancreatic ductal adenocarcinoma (PDAC) tissue potentially influences cancer progression and prognosis. However, the significance of tumor-resident microbiome remains unclear. We aimed to elucidate the impact of intratumoral bacteria on the pathophysiology and prognosis of human PDAC.
 
 [Source](https://doi.org/10.1007/s00535-023-02069-5)
 
+10.1007/s00535-023-02069-5
+
 ---
 
-## Evaluation of gut microbiota predictive potential associated with phenotypic characteristics to identify multifactorial diseases
+## Evaluation of gut microbiota predictive potential associated with phenotypic characteristics to identify multifactorial diseases.
+ 21.01.2024, _DC Fonseca, I Marques Gomes da Rocha, B Depieri Balmant, L Callado, AP Aguiar Prudêncio, J Tepedino Martins Alves, RS Torrinhas, G da Rocha Fernandes, D Linetzky Waitzberg_
+
+
+_Humans, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Diabetes Mellitus, Type 2, Biomarkers_
+Gut microbiota has been implicated in various clinical conditions, yet the substantial heterogeneity in gut microbiota research results necessitates a more sophisticated approach than merely identifying statistically different microbial taxa between healthy and unhealthy individuals. Our study seeks to not only select microbial taxa but also explore their synergy with phenotypic host variables to develop novel predictive models for specific clinical conditions.
 
 [Source](https://doi.org/10.1080/19490976.2023.2297815)
+
+10.1080/19490976.2023.2297815
 
 ---
 
