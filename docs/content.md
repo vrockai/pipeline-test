@@ -1,215 +1,132 @@
-## Gut microbiome for predicting immune checkpoint blockade-associated adverse events.
- 22.01.2024, _M Hu, X Lin, T Sun, X Shao, X Huang, W Du, M Guo, X Zhu, Y Zhou, T Tong, F Guo, T Han, X Wu, Y Shi, X Xiao, Y Zhang, J Hong, H Chen_
+## Crosstalk between gut microbiome and neuroinflammation in pathogenesis of HIV-associated neurocognitive disorder.
+ 23.01.2024, _X Chen, J Wei, Y Zhang, Y Zhang, T Zhang_
 
 
-_Humans, Neoplasms, Immune Checkpoint Inhibitors, Gastrointestinal Microbiome, Antineoplastic Agents, Immunological, RNA, Ribosomal, 16S, Vitamin K 2, Drug-Related Side Effects and Adverse Reactions, Immunotherapy, Programmed Cell Death 1 Receptor, Immune System Diseases, Retrospective Studies, Lung Neoplasms_
-The impact of the gut microbiome on the initiation and intensity of immune-related adverse events (irAEs) prompted by immune checkpoint inhibitors (ICIs) is widely acknowledged. Nevertheless, there is inconsistency in the gut microbial associations with irAEs reported across various studies.
+HIV-associated neurocognitive disorder (HAND) has become a chronic neurodegenerative disease affecting the quality of life in people living with HIV (PLWH). Despite an established association between HAND and neuroinflammation induced by HIV proteins (gp120, Tat, Rev., Nef, and Vpr), the pathogenesis of HAND remains to be fully elucidated. Accumulating evidence demonstrated that the gut microbiome is emerging as a critical regulator of various neurodegenerative diseases (e.g., Parkinson's disease, Alzheimer's disease), suggesting that the crosstalk between the gut microbiome and neuroinflammation may contribute to the development of these diseases, for example, gut dysbiosis and microbiota-derived metabolites can trigger inflammation in the brain. However, the potential role of the gut microbiome in the pathogenesis of HAND remains largely unexplored. In this review, we aim to discuss and elucidate the HAND pathogenesis correlated with gut microbiome and neuroinflammation, and intend to explore the probable intervention strategies for HAND.
 
-[Source](https://doi.org/10.1186/s13073-024-01285-9)
+[Source](https://www.sciencedirect.com/science/article/pii/S0022510X24000248)
 
-10.1186/s13073-024-01285-9
-
----
-
-## The fusion of multi-omics profile and multimodal EEG data contributes to the personalized diagnostic strategy for neurocognitive disorders
-
-[Source](https://doi.org/10.1186/s40168-023-01717-5)
+10.1016/j.jns.2024.122889
 
 ---
 
-## Prediction of lung cancer using novel biomarkers based on microbiome profiling of bronchoalveolar lavage fluid.
- 22.01.2024, _G Kim, C Park, YK Yoon, D Park, JE Lee, D Lee, P Sun, S Park, C Yun, DH Kang, C Chung_
+## Purified diet affects intestinal epithelial proliferation and barrier functions through gut microbial alterations.
+ 23.01.2024, _H Shiratori, KM Hattori, K Nakata, T Okawa, S Komiyama, Y Kinashi, Y Kabumoto, Y Kaneko, M Nagai, T Shindo, N Moritoki, YI Kawamura, T Dohi, D Takahashi, S Kimura, K Hase_
 
 
-_Humans, Lung Neoplasms, Bronchoalveolar Lavage Fluid, RNA, Ribosomal, 16S, Biomarkers, Lung, Lung Diseases, Microbiota_
-There is an unmet need for biomarkers for the diagnosis of lung cancer and decision criteria for lung biopsy. We comparatively investigated the lung microbiomes of patients with lung cancer and benign lung diseases. Patients who underwent bronchoscopy at Chungnam National University Hospital between June 2021 and June 2022 were enrolled. Bronchoalveolar lavage fluid (BALF) was collected from 24 patients each with lung cancer and benign lung diseases. The samples were analyzed using 16S rRNA-based metagenomic sequencing. We found that alpha diversity and the beta diversity distribution (P = 0.001) differed significantly between patients with benign lung diseases and those with lung cancer. Firmicutes was the most abundant phylum in patients with lung cancer (33.39% ± 17.439), whereas Bacteroidota was the most abundant phylum in patients with benign lung disease (31.132% ± 22.505), respectively. In differential abundance analysis, the most differentially abundant microbiota taxon was unclassified_SAR202_clade, belonging to the phylum Chloroflexi. The established prediction model distinguished patients with benign lung disease from those with lung cancer with a high accuracy (micro area under the curve [AUC] = 0.98 and macro AUC = 0.99). The BALF microbiome may be a novel biomarker for the detection of lung cancer.
+The gut microbiota plays a crucial role in maintaining epithelial barrier function. Although multiple studies have demonstrated the significance of dietary factors on gut microbiota and mucosal barrier function, the impact of a purified diet, which has long been used in various animal experiments, on intestinal homeostasis remains to be elucidated. Here, we compared the impact of two different types of diets, a crude diet and an AIN-93G-formula purified diet, on epithelial integrity and the gut microbiota. Purified diet-fed mice exhibited shorter villi and crypt lengths and slower epithelial turnover, particularly in the ileum. In addition, antimicrobial products, including islet-derived protein 3γ (REG3γ), were substantially decreased in purified diet-fed mice. Purified diet feeding also suppressed α1,2-fucosylation on the epithelial surface. Furthermore, purified diet induced metabolic rewiring to fatty acid oxidation and ketogenesis. 16S ribosomal RNA gene sequencing of the ileal contents and mucus layer revealed distinct gut microbiota compositions between the purified and crude diet-fed mice. Purified diet feeding reduced the abundance of segmented filamentous bacteria (SFB), which potently upregulate REG3γ and fucosyltransferase 2 (Fut2) by stimulating group 3 innate lymphoid cells (ILC3) to produce IL-22. These observations illustrate that the intake of a crude diet secures epithelial barrier function by facilitating SFB colonization, whereas a purified diet insufficiently establishes the epithelial barrier, at least partly owing to the loss of SFB. Our data suggest that the influence of purified diets on the epithelial barrier integrity should be considered in experiments using purified diets.
 
-[Source](https://doi.org/10.1038/s41598-024-52296-w)
+[Source](https://academic.oup.com/intimm/advance-article/doi/10.1093/intimm/dxae003/7585870)
 
-10.1038/s41598-024-52296-w
-
----
-
-## Exploring the intestinal ecosystem: from gut microbiota to associations with subtypes of inflammatory bowel disease.
- 22.01.2024, _F Li, C Yu, Q Zhao, Z Wang, Z Wang, Y Chang, Z Xu, X Han, H Li, Y Liu, S Hu, S Chang, T Tang, Y Li_
-
-
-_Humans, Gastrointestinal Microbiome, Ecosystem, Inflammatory Bowel Diseases, Intestines, Colitis, Ulcerative, Crohn Disease, Clostridiales, Genome-Wide Association Study_
-Significant differences have been discovered between subtypes of Crohn's disease (CD) and ulcerative colitis (UC). The role of gut microbiota in promoting the onset of UC and CD is established, but conclusions regarding subtype-specific analyses remain limited.
-
-[Source](https://doi.org/10.3389/fcimb.2023.1304858)
-
-10.3389/fcimb.2023.1304858
+10.1093/intimm/dxae003
 
 ---
 
-## Simulated digestions of free oligosaccharides and mucin-type O-glycans reveal a potential role for<em> Clostridium perfringens</em>
+## A snapshot of gut microbiota of an adult urban population from Western region of India.
+ 14.11.2018, _D Tandon, MM Haque, S R, S Shaikh, S P, AK Dubey, SS Mande_
 
-[Source](https://doi.org/10.1038/s41598-023-51012-4)
 
----
+_Actinobacteria, Adult, Bacteroidetes, Cohort Studies, Diet, Female, Finland, Firmicutes, Gastrointestinal Microbiome, Humans, India, Japan, Male, Microbial Consortia, Phylogeography, Prevotella, Proteobacteria, Species Specificity, United States, Urban Population, Young Adult_
+The human gut microbiome contributes to a broad range of biochemical and metabolic functions that directly or indirectly affect human physiology. Several recent studies have indicated that factors like age, geographical location, genetic makeup, and individual health status significantly influence the diversity, stability, and resilience of the gut microbiome. Of the mentioned factors, geographical location (and related dietary/socio-economic context) appears to explain a significant portion of microbiome variation observed in various previously conducted base-line studies on human gut microbiome. Given this context, we have undertaken a microbiome study with the objective of cataloguing the taxonomic diversity of gut microbiomes sampled from an urban cohort from Ahmedabad city in Western India. Computational analysis of microbiome sequence data corresponding to 160 stool samples (collected from 80 healthy individuals at two time-points, 60 days apart) has indicated a Prevotella-dominated microbial community. Given that the typical diet of participants included carbohydrate and fibre-rich components (predominantly whole grains and legume-based preparations), results appear to validate the proposed correlation between diet/geography and microbiome composition. Comparative analysis of obtained gut microbiome profiles with previously published microbiome profiles from US, China, Finland, and Japan additionally reveals a distinct taxonomic and (inferred) functional niche for the sampled microbiomes.
 
-## Oral microbiome associated with differential ratios of <em>Porphyromonas gingivalis </em>and <em>Streptococcus cristatus</em>
+[Source](https://www.biorxiv.org/content/10.1101/2024.01.23.574598v1.abstract)
 
-[Source](https://doi.org/10.1128/spectrum.03482-23)
-
----
-
-## Impact of intratumoral microbiome on tumor immunity and prognosis in human pancreatic ductal adenocarcinoma
-
-[Source](https://doi.org/10.1007/s00535-023-02069-5)
+10.1371/journal.pone.0195643
 
 ---
 
-## Evaluation of gut microbiota predictive potential associated with phenotypic characteristics to identify multifactorial diseases
+## Gut environmental factors explain variations in the gut microbiome composition and metabolism within and between healthy adults
 
-[Source](https://doi.org/10.1080/19490976.2023.2297815)
-
----
-
-## The Gut Microbiome Affects Atherosclerosis by Regulating Reverse Cholesterol Transport
-
-[Source](https://doi.org/10.1007/s12265-024-10480-3)
+[Source](https://www.biorxiv.org/content/10.1101/2024.01.23.574598v1.abstract)
 
 ---
 
-## Role of vertical and horizontal microbial transmission of antimicrobial resistance genes in early life: insights from maternal-infant dyads
+## Causal relationship between gut microbiota and gastrointestinal diseases: a mendelian randomization study.
+ 23.01.2024, _K Wu, Q Luo, Y Liu, A Li, D Xia, X Sun_
 
-[Source](https://www.sciencedirect.com/science/article/pii/S1369527423001613)
 
----
+Recent research increasingly highlights a strong correlation between gut microbiota and the risk of gastrointestinal diseases. However, whether this relationship is causal or merely coincidental remains uncertain. To address this, a Mendelian randomization (MR) analysis was undertaken to explore the connections between gut microbiota and prevalent gastrointestinal diseases.
 
-## Complement in breast milk modifies offspring gut microbiota to promote infant health
+[Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-04894-5)
 
-[Source](https://www.cell.com/cell/fulltext/S0092-8674(23)01384-3)
-
----
-
-## An Oral Nanomedicine Elicits In Situ Vaccination Effect against Colorectal Cancer
-
-[Source](https://doi.org/10.1021/acsnano.3c11436)
+10.1186/s12967-024-04894-5
 
 ---
 
-## Oral bacteria accelerate pancreatic cancer development in mice
+## Psychological stress-induced microbial metabolite indole-3-acetate disrupts intestinal cell lineage commitment
 
-[Source](https://doi.org/10.1136/gutjnl-2023-330941)
-
----
-
-## Bacterial community and diversity in the rumen of 11 Mongolian cattle as revealed by 16S rRNA amplicon sequencing
-
-[Source](https://doi.org/10.1038/s41598-024-51828-8)
+[Source](https://www.sciencedirect.com/science/article/pii/S1550413123004771)
 
 ---
 
-## Novel taxonomic and functional diversity of eight bacteria from the upper digestive tract of chicken
+## Effect of composting and storage on the microbiome and resistome of cattle manure from a commercial dairy farm in Poland
 
-[Source](https://doi.org/10.1099/ijsem.0.006210)
+[Source](https://www.biorxiv.org/content/10.1101/2023.12.04.569838v2.abstract)
 
 ---
 
-## A tripartite bacterial-fungal-plant symbiosis in the mycorrhiza-shaped microbiome drives plant growth and mycorrhization
+## Assessing the microbiota of the snail intermediate host of trematodes, Galba truncatula
 
-[Source](https://doi.org/10.1186/s40168-023-01726-4)
+[Source](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-024-06118-7)
 
 ---
 
 ## Host genotype, soil composition, and geo-climatic factors shape the fonio seed microbiome
 
-[Source](https://doi.org/10.1186/s40168-023-01725-5)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01725-5)
 
 ---
 
-## The role of plants in ironstone evolution: iron and aluminium cycling in the rhizosphere
+## A tripartite bacterial-fungal-plant symbiosis in the mycorrhiza-shaped microbiome drives plant growth and mycorrhization
 
-[Source](https://doi.org/10.1016/j.scitotenv.2024.170119)
-
----
-
-## Consistent effects of independent domestication events on the plant microbiota.
- 17.01.2024, _R Soldan, M Fusi, M Cardinale, F Homma, LG Santos, P Wenzl, M Bach-Pages, E Bitocchi, MI Chacon Sanchez, D Daffonchio, GM Preston_
-
-
-The effect of plant domestication on plant-microbe interactions remains difficult to prove. In this study, we provide evidence of a domestication effect on the composition and abundance of the plant microbiota. We focused on the genus Phaseolus, which underwent four independent domestication events within two species (P. vulgaris and P. lunatus), providing multiple replicates of a process spanning thousands of years. We targeted Phaseolus seeds to identify a link between domesticated traits and bacterial community composition as Phaseolus seeds have been subject to large and consistent phenotypic changes during these independent domestication events. The seed bacterial communities of representative plant accessions from subpopulations descended from each domestication event were analyzed under controlled and field conditions. The results showed that independent domestication events led to similar seed bacterial community signatures in independently domesticated plant populations, which could be partially explained by selection for common domesticated plant phenotypes. Our results therefore provide evidence of a consistent effect of plant domestication on seed microbial community composition and abundance and offer avenues for applying knowledge of the impact of plant domestication on the plant microbiota to improve microbial applications in agriculture.
-
-[Source](https://www.cell.com/current-biology/fulltext/S0960-9822(23)01756-6)
-
-10.1016/j.cub.2023.12.056
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01726-4)
 
 ---
 
-## Inactivation of siderophore iron-chelating moieties by the fungal wheat root symbiont <em>Pyrenophora biseptata</em>
+## Identification and classification of the genomes of novel Microviruses in a poultry slaughterhouse
 
-[Source](https://doi.org/10.1111/1758-2229.13234)
-
----
-
-## New insights into inhibition of high Fe(III) content on anaerobic digestion of waste-activated sludge.
- 19.01.2024, _X Wang, Y Gong, C Sun, Z Wang, Y Sun, Q Yu, Y Zhang_
-
-
-The impacts of the increased iron in the waste-activated sludge (WAS) on its anaerobic digestion were investigated. It was found that low Fe(III) content (&lt; 750 mg/L) promoted WAS anaerobic digestion, while the continual increase of Fe(III) inhibited CH4 production and total chemical oxygen demand (TCOD) removal. As the Fe(III) content increased to 1470 mg/L, methane production has been slightly inhibited about 5 % compared with the group containing 35 mg/L Fe(III). Particularly, as Fe(III) concentration was up to 2900 mg/L, CH4 production, and TCOD removal decreased by 43.6 % and 37.5 %, respectively, compared with the group with 35 mg/L Fe(III). Furthermore, the percentage of CO2 of the group with 2900 mg/L Fe(III) decreased by 52.8 % compared with the group containing 35 mg/L Fe(III). It indicated that Fe(II) generated by the dissimilatory iron reduction might cause CO2 consumption, which was confirmed by X-ray diffraction that siderite (FeCO3) was generated in the group with 2900 mg/L Fe(III). Further study revealed that Fe(III) promoted the WAS solubilization and hydrolysis, but inhibited acidification and methane production. The methanogenesis test with H2/CO2 as a substrate showed that CO2 consumption weakened hydrogenotrophic methanogenesis and then increased H2 partial pressure, further causing VFA accumulation. Microbial community analysis indicated that the abundance of hydrogen-utilizing methanogens decreased with the high Fe(III) content. Our study suggested that the increase of Fe(III) in sludge might inhibit methanogenesis by consuming or precipitating CO2. To achieve maximum bioenergy conversion, the iron content should be controlled to lower than 750 mg/L. The study may provide new insights into the mechanistic understanding of the inhibition of high Fe(III) content on the anaerobic digestion of WAS.
-
-[Source](https://doi.org/10.1016/j.scitotenv.2024.170147)
-
-10.1016/j.scitotenv.2024.170147
+[Source](https://www.biorxiv.org/content/10.1101/2024.01.22.576691v1.abstract)
 
 ---
 
-## Drying as an effective method to store soil samples for DNA-based microbial community analyses: a comparative study.
- 22.01.2024, _E Smenderovac, C Emilson, K Rheault, É Brazeau, MJ Morency, P Gagné, L Venier, C Martineau_
+## iVirP: An integrative, efficient, and user-friendly pipeline to annotate viral contigs from raw reads of metagenome or VLP sequencing
 
-
-_Silica Gel, DNA, Microbiota, Soil, Ethanol_
-Soil sampling for environmental DNA in remote and semi-remote locations is often limited due to logistical constraints surrounding sample preservation, including no or limited access to a freezer. Freezing at - 20 °C is a common DNA preservation strategy, however, other methods such as desiccation, ethanol or commercial preservatives are available as potential alternative DNA preservation methods for room temperature storage. In this study, we assessed five preservation methods (CD1 solution, 95% Ethanol, Dry &amp; Dry silica gel packs, RNAlater, LifeGuard) along with freezing at - 20 °C, against immediate extraction on organic and mineral soils for up to three weeks of preservation. We assessed direct effects on DNA concentration and quality, and used DNA metabarcoding to assess effects on bacterial and fungal communities. Drying with Dry &amp; Dry led to no significant differences from immediate extraction. RNAlater led to lower DNA concentrations, but effects on community structures were comparable to freezing. CD1, LifeGuard and Ethanol either caused immediate significant shifts in community structure, degradation of DNA quality or changes in diversity metrics. Overall, our study supports the use of drying with silica gel packs as a cost-effective, and easily applied method for the short-term storage at room temperature for DNA-based microbial community analyses.
-
-[Source](https://doi.org/10.1038/s41598-023-50541-2)
-
-10.1038/s41598-023-50541-2
+[Source](https://www.biorxiv.org/content/10.1101/2024.01.21.576577v1)
 
 ---
 
-## Mock community taxonomic classification performance of publicly available shotgun metagenomics pipelines.
- 21.01.2024, _EM Valencia, KA Maki, JN Dootz, JJ Barb_
+## Microbiome-based correction of nutrient profiles derived from self-reported dietary assessments.
+ 18.12.2023, _T Wang, Y Fu, M Shuai, JS Zheng, L Zhu, Q Sun, FB Hu, ST Weiss, YY Liu_
 
 
-_Bacteria, Gastrointestinal Microbiome, Metagenome, Metagenomics, Sequence Analysis, DNA_
-Shotgun metagenomic sequencing comprehensively samples the DNA of a microbial sample. Choosing the best bioinformatics processing package can be daunting due to the wide variety of tools available. Here, we assessed publicly available shotgun metagenomics processing packages/pipelines including bioBakery, Just a Microbiology System (JAMS), Whole metaGenome Sequence Assembly V2 (WGSA2), and Woltka using 19 publicly available mock community samples and a set of five constructed pathogenic gut microbiome samples. Also included is a workflow for labelling bacterial scientific names with NCBI taxonomy identifiers for better resolution in assessing results. The Aitchison distance, a sensitivity metric, and total False Positive Relative Abundance were used for accuracy assessments for all pipelines and mock samples. Overall, bioBakery4 performed the best with most of the accuracy metrics, while JAMS and WGSA2, had the highest sensitivities. Furthermore, bioBakery is commonly used and only requires a basic knowledge of command line usage. This work provides an unbiased assessment of shotgun metagenomics packages and presents results assessing the performance of the packages using mock community sequence data.
+Since dietary intake is hard to directly measure in large-scale cohort studies, we often rely on self-reported instruments (e.g., food frequency questionnaires, diet recall surveys, and diet diary methods) developed in nutritional epidemiology. Those self-reported instruments are prone to measurement errors. The measurement errors eventually lead to inaccuracies in the calculation of nutrient profiles. Currently, there is a lack of computational methods to address this problem. To fill the gap, we introduce a deep-learning approach --- Microbiome-based nutrient profile corrector (METRIC), which leverages gut microbial compositions to correct the errors in nutrient profiles due to measurement errors in self-reported dietary assessments. We demonstrate the excellent performance of METRIC in minimizing the simulated random errors in both synthetic and three real-world datasets. METRIC has the potential to significantly improve the accuracy of self-reported dietary assessments and hence facilitate the research of nutritional epidemiology.
 
-[Source](https://doi.org/10.1038/s41597-023-02877-7)
+[Source](https://www.biorxiv.org/content/10.1101/2023.11.21.568102v2.abstract)
 
-10.1038/s41597-023-02877-7
-
----
-
-## Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics.
- 17.01.2024, _G Marinos, IK Hamerich, R Debray, N Obeng, C Petersen, J Taubenheim, J Zimmermann, D Blackburn, BS Samuel, K Dierking, A Franke, M Laudes, S Waschina, H Schulenburg, C Kaleta_
-
-
-While various mechanisms through which the microbiome influences disease processes in the host have been identified, there are still only few approaches that allow for targeted manipulation of microbiome composition as a first step toward microbiome-based therapies. Here, we propose the concept of precision prebiotics that allow to boost the abundance of already resident health-beneficial microbial species in a microbiome. We present a constraint-based modeling pipeline to predict precision prebiotics for a minimal microbial community in the worm Caenorhabditis elegans comprising the host-beneficial Pseudomonas lurida MYb11 and the persistent colonizer Ochrobactrum vermis MYb71 with the aim to boost the growth of MYb11. Experimentally testing four of the predicted precision prebiotics, we confirm that they are specifically able to increase the abundance of MYb11 in vitro and in vivo. These results demonstrate that constraint-based modeling could be an important tool for the development of targeted microbiome-based therapies against human diseases.
-
-[Source](https://doi.org/10.1128/spectrum.01144-23)
-
-10.1128/spectrum.01144-23
+10.1101/2023.11.21.568102
 
 ---
 
-## Metagenomes and metagenome-assembled genomes from ex vivo fecal incubations of six unique donors.
- 18.01.2024, _AB Narrowe, L Liu, JMS Lemons, JA Firrman, KK Mahalak, S Deyaert, A Baudot, P Van den Abbeele_
+## Microbiome-based correction for random errors in nutrient profiles derived from self-reported dietary assessments
 
-
-We present a donor-specific collection of 78 metagenomes (13/donor) and 143 metagenome-assembled genomes (MAGs), representing the gut microbiomes of six healthy adult human donors. In addition to adding to the catalog of publicly available human gut MAGs, this resource permits a genome-resolved look into microbial co-occurrence across six individuals.
-
-[Source](https://doi.org/10.1128/mra.00862-23)
-
-10.1128/mra.00862-23
+[Source](https://www.biorxiv.org/content/10.1101/2023.11.21.568102v2.abstract)
 
 ---
 
-## Bioinformatic Approach to Investigate Larvae Gut Microbiota <em>Cellulosimicrobium protaetiae </em>via Whole-Genome Analysis
+## MicroFisher: Fungal taxonomic classification for metatranscriptomic and metagenomic data using multiple short hypervariable markers
 
-[Source](https://doi.org/10.1007/s12033-023-00984-9)
+[Source](https://www.biorxiv.org/content/10.1101/2024.01.20.576350v1)
+
+---
+
+## How does chronic stress harm the gut? New clues emerge.
+ 23.01.2024, _M Kozlov_
+
+
+
+[Source](https://www.nature.com/articles/d41586-024-00188-4)
+
+10.1038/d41586-024-00188-4
 
 ---
 
