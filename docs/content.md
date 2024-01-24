@@ -89,6 +89,18 @@ Recent research increasingly highlights a strong correlation between gut microbi
 
 ---
 
+## VLP-Based Model for Study of Airborne Viral Pathogens.
+ 23.01.2024, _M Caffrey, N Jayakumar, V Caffrey, V Anirudan, L Rong, I Paprotny_
+
+
+The recent COVID-19 pandemic has underscored the danger of airborne viral pathogens. The lack of model systems to study airborne pathogens limits the understanding of airborne pathogen distribution, as well as potential surveillance and mitigation strategies. In this work, we develop a novel model system to study airborne pathogens using virus like particles (VLP). Specifically, we demonstrate the ability to aerosolize VLP and detect and quantify aerosolized VLP RNA by Reverse Transcription-Loop-Mediated Isothermal Amplification (RT-LAMP) in real-time fluorescent and colorimetric assays. Importantly, the VLP model presents many advantages for the study of airborne viral pathogens: (i) similarity in size and surface components; (ii) ease of generation and noninfectious nature enabling study of BSL3 and BSL4 viruses; (iii) facile characterization of aerosolization parameters; (iv) ability to adapt the system to other viral envelope proteins including those of newly discovered pathogens and mutant variants; (v) the ability to introduce viral sequences to develop nucleic acid amplification assays.
+
+[Source](https://www.biorxiv.org/content/10.1101/2024.01.21.576577v1)
+
+10.1101/2024.01.03.574055
+
+---
+
 ## iVirP: An integrative, efficient, and user-friendly pipeline to annotate viral contigs from raw reads of metagenome or VLP sequencing
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.01.21.576577v1)
