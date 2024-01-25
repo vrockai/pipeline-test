@@ -53,9 +53,15 @@ Recent research increasingly highlights a strong correlation between gut microbi
 
 ---
 
-## Psychological stress-induced microbial metabolite indole-3-acetate disrupts intestinal cell lineage commitment
+## Psychological stress-induced microbial metabolite indole-3-acetate disrupts intestinal cell lineage commitment.
+ 24.01.2024, _W Wei, Y Liu, Y Hou, S Cao, Z Chen, Y Zhang, X Cai, Q Yan, Z Li, Y Yuan, G Wang, X Zheng, H Hao_
+
+
+The brain and gut are intricately connected and respond to various stimuli. Stress-induced brain-gut communication is implicated in the pathogenesis and relapse of gut disorders. The mechanism that relays psychological stress to the intestinal epithelium, resulting in maladaptation, remains poorly understood. Here, we describe a stress-responsive brain-to-gut metabolic axis that impairs intestinal stem cell (ISC) lineage commitment. Psychological stress-triggered sympathetic output enriches gut commensal Lactobacillus murinus, increasing the production of indole-3-acetate (IAA), which contributes to a transferrable loss of intestinal secretory cells. Bacterial IAA disrupts ISC mitochondrial bioenergetics and thereby prevents secretory lineage commitment in a cell-intrinsic manner. Oral α-ketoglutarate supplementation bolsters ISC differentiation and confers resilience to stress-triggered intestinal epithelial injury. We confirm that fecal IAA is higher in patients with mental distress and is correlated with gut dysfunction. These findings uncover a microbe-mediated brain-gut pathway that could be therapeutically targeted for stress-driven gut-brain comorbidities.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1550413123004771)
+
+10.1016/j.cmet.2023.12.026
 
 ---
 
