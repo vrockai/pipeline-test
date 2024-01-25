@@ -65,21 +65,41 @@ Recent research increasingly highlights a strong correlation between gut microbi
 
 ---
 
-## Assessing the microbiota of the snail intermediate host of trematodes, Galba truncatula
+## Assessing the microbiota of the snail intermediate host of trematodes, Galba truncatula.
+ 23.01.2024, _P McCann, C McFarland, J Megaw, K Siu-Ting, C Cantacessi, G Rinaldi, GN Gobert_
+
+
+The microbiome is known to play key roles in health and disease, including host susceptibility to parasite infections. The freshwater snail Galba truncatula is the intermediate host for many trematode species, including the liver and rumen flukes Fasciola hepatica and Calicophoron daubneyi, respectively. The snail-parasite system has previously been investigated. However, the specific interaction between the snail-associated microbiota and intra-snail developmental stages of trematodes has yet to be explored.
 
 [Source](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-024-06118-7)
 
+10.1186/s13071-024-06118-7
+
 ---
 
-## Host genotype, soil composition, and geo-climatic factors shape the fonio seed microbiome
+## Host genotype, soil composition, and geo-climatic factors shape the fonio seed microbiome.
+ 19.01.2024, _N Tabassum, HI Ahmed, S Parween, AH Sheikh, MM Saad, SG Krattinger, H Hirt_
+
+
+_Soil, Genome-Wide Association Study, Seeds, Microbiota, Plants, Endophytes, Genotype, Bacteria_
+Fonio (Digitaria exilis), an orphan millet crop, is the oldest indigenous crop in West Africa. Although the yield is low due to pre-domestication characteristics, the quick maturation time, drought tolerance, and the ability to thrive on poor soils make fonio a climate-smart crop. Being holobionts, plants evolve in close interaction with microbial partners, which is crucial for plant phenology and fitness. As seeds are the bottleneck of vertically transmitting plant microbiota, we proposed to unravel the seed microbiome of the under-domesticated and resilient crop fonio. Our study investigated the bacterial seed endophyte diversity across 126 sequenced fonio accessions from distinct locations in West Africa. We conducted a correlation study of the structures and functions of the seed-associated microbiomes with the native geo-climate and soil structure data. We also performed Genome-wide association studies (GWAS) to identify genetic loci associated with seed endophyte diversity.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01725-5)
 
+10.1186/s40168-023-01725-5
+
 ---
 
-## A tripartite bacterial-fungal-plant symbiosis in the mycorrhiza-shaped microbiome drives plant growth and mycorrhization
+## A tripartite bacterial-fungal-plant symbiosis in the mycorrhiza-shaped microbiome drives plant growth and mycorrhization.
+ 22.01.2024, _C Zhang, MGA van der Heijden, BK Dodds, TB Nguyen, J Spooren, A Valzano-Held, M Cosme, RL Berendsen_
+
+
+_Mycorrhizae, Symbiosis, Plant Roots, Plants, Bacteria, Soil_
+Plant microbiomes play crucial roles in nutrient cycling and plant growth, and are shaped by a complex interplay between plants, microbes, and the environment. The role of bacteria as mediators of the 400-million-year-old partnership between the majority of land plants and, arbuscular mycorrhizal (AM) fungi is still poorly understood. Here, we test whether AM hyphae-associated bacteria influence the success of the AM symbiosis.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01726-4)
+
+10.1186/s40168-023-01726-4
 
 ---
 
