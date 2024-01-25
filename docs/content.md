@@ -42,9 +42,10 @@ The human gut microbiome contributes to a broad range of biochemical and metabol
 ---
 
 ## Causal relationship between gut microbiota and gastrointestinal diseases: a mendelian randomization study.
- 23.01.2024, _K Wu, Q Luo, Y Liu, A Li, D Xia, X Sun_
+ 25.01.2024, _K Wu, Q Luo, Y Liu, A Li, D Xia, X Sun_
 
 
+_Humans, Gastrointestinal Microbiome, Genome-Wide Association Study, Mendelian Randomization Analysis, Reproducibility of Results, Gastrointestinal Diseases_
 Recent research increasingly highlights a strong correlation between gut microbiota and the risk of gastrointestinal diseases. However, whether this relationship is causal or merely coincidental remains uncertain. To address this, a Mendelian randomization (MR) analysis was undertaken to explore the connections between gut microbiota and prevalent gastrointestinal diseases.
 
 [Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-04894-5)
@@ -72,9 +73,10 @@ The brain and gut are intricately connected and respond to various stimuli. Stre
 ---
 
 ## Assessing the microbiota of the snail intermediate host of trematodes, Galba truncatula.
- 23.01.2024, _P McCann, C McFarland, J Megaw, K Siu-Ting, C Cantacessi, G Rinaldi, GN Gobert_
+ 25.01.2024, _P McCann, C McFarland, J Megaw, K Siu-Ting, C Cantacessi, G Rinaldi, GN Gobert_
 
 
+_Animals, Trematoda, Fasciola hepatica, Microbiota, Snails_
 The microbiome is known to play key roles in health and disease, including host susceptibility to parasite infections. The freshwater snail Galba truncatula is the intermediate host for many trematode species, including the liver and rumen flukes Fasciola hepatica and Calicophoron daubneyi, respectively. The snail-parasite system has previously been investigated. However, the specific interaction between the snail-associated microbiota and intra-snail developmental stages of trematodes has yet to be explored.
 
 [Source](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-024-06118-7)
