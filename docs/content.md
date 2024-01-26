@@ -73,7 +73,7 @@ The brain and gut are intricately connected and respond to various stimuli. Stre
 ---
 
 ## Assessing the microbiota of the snail intermediate host of trematodes, Galba truncatula.
- 25.01.2024, _P McCann, C McFarland, J Megaw, K Siu-Ting, C Cantacessi, G Rinaldi, GN Gobert_
+ 26.01.2024, _P McCann, C McFarland, J Megaw, K Siu-Ting, C Cantacessi, G Rinaldi, GN Gobert_
 
 
 _Animals, Trematoda, Fasciola hepatica, Microbiota, Snails_
