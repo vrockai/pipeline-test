@@ -42,7 +42,7 @@ The human gut microbiome contributes to a broad range of biochemical and metabol
 ---
 
 ## Causal relationship between gut microbiota and gastrointestinal diseases: a mendelian randomization study.
- 25.01.2024, _K Wu, Q Luo, Y Liu, A Li, D Xia, X Sun_
+ 27.01.2024, _K Wu, Q Luo, Y Liu, A Li, D Xia, X Sun_
 
 
 _Humans, Gastrointestinal Microbiome, Genome-Wide Association Study, Mendelian Randomization Analysis, Reproducibility of Results, Gastrointestinal Diseases_
