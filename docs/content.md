@@ -136,7 +136,7 @@ The recent COVID-19 pandemic has underscored the danger of airborne viral pathog
 ---
 
 ## Microbiome-based correction for random errors in nutrient profiles derived from self-reported dietary assessments.
- 26.01.2024, _T Wang, Y Fu, M Shuai, JS Zheng, L Zhu, AT Chan, Q Sun, FB Hu, ST Weiss, YY Liu_
+ 28.01.2024, _T Wang, Y Fu, M Shuai, JS Zheng, L Zhu, AT Chan, Q Sun, FB Hu, ST Weiss, YY Liu_
 
 
 Since dietary intake is challenging to directly measure in large-scale cohort studies, we often rely on self-reported instruments (e.g., food frequency questionnaires, 24-hour recalls, and diet records) developed in nutritional epidemiology. Those self-reported instruments are prone to measurement errors, which can lead to inaccuracies in the calculation of nutrient profiles. Currently, few computational methods exist to address this problem. In the present study, we introduce a deep-learning approach --- Microbiome-based nutrient profile corrector (METRIC), which leverages gut microbial compositions to correct random errors in self-reported dietary assessments using 24-hour recalls or diet records. We demonstrate the excellent performance of METRIC in minimizing the simulated random errors, particularly for nutrients metabolized by gut bacteria in both synthetic and three real-world datasets. Further research is warranted to examine the utility of METRIC to correct actual measurement errors in self-reported dietary assessment instruments.
