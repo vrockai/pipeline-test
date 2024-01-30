@@ -41,16 +41,22 @@ The human gut microbiome contributes to a broad range of biochemical and metabol
 
 ---
 
-## Causal relationship between gut microbiota and gastrointestinal diseases: a mendelian randomization study.
- 27.01.2024, _K Wu, Q Luo, Y Liu, A Li, D Xia, X Sun_
+## Causal relationship between gut microbiota and kidney diseases: a two-sample Mendelian randomization study.
+ 30.01.2024, _Z Feng, Y Zhang, Y Lai, C Jia, F Wu, D Chen_
 
 
-_Humans, Gastrointestinal Microbiome, Genome-Wide Association Study, Mendelian Randomization Analysis, Reproducibility of Results, Gastrointestinal Diseases_
-Recent research increasingly highlights a strong correlation between gut microbiota and the risk of gastrointestinal diseases. However, whether this relationship is causal or merely coincidental remains uncertain. To address this, a Mendelian randomization (MR) analysis was undertaken to explore the connections between gut microbiota and prevalent gastrointestinal diseases.
+_Humans, Gastrointestinal Microbiome, Nephrotic Syndrome, Glomerulonephritis, Membranous, Genome-Wide Association Study, Mendelian Randomization Analysis, Nephritis, Interstitial, Glomerulonephritis, Renal Insufficiency, Chronic_
+The interplay between gut microbiome genera and inflammatory kidney-related diseases, such as nephrotic syndrome, glomerulonephritis, tubulo-interstitial nephritis, and chronic kidney disease, has been observed. However, the causal relationships between specific bacterial genera and these renal diseases have not been fully elucidated.
 
 [Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-04894-5)
 
-10.1186/s12967-024-04894-5
+10.3389/fimmu.2023.1277554
+
+---
+
+## Causal relationship between gut microbiota and gastrointestinal diseases: a mendelian randomization study
+
+[Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-04894-5)
 
 ---
 
