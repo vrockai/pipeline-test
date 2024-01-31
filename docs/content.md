@@ -160,7 +160,7 @@ Since dietary intake is challenging to directly measure in large-scale cohort st
 ---
 
 ## How does chronic stress harm the gut? New clues emerge.
- 23.01.2024, _M Kozlov_
+ 30.01.2024, _M Kozlov_
 
 
 
