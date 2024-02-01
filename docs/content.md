@@ -12,7 +12,7 @@ Candida auris is a newly emerged multidrug-resistant fungus capable of causing i
 ---
 
 ## A pilot study of fecal pH and redox as functional markers in the premature infant gut microbiome.
- 27.01.2024, _J Letourneau, L Walker, SH Han, LA David, N Younge_
+ 01.02.2024, _J Letourneau, L Walker, SH Han, LA David, N Younge_
 
 
 _Infant, Infant, Newborn, Humans, Infant, Premature, Gastrointestinal Microbiome, Pilot Projects, RNA, Ribosomal, 16S, Oxidation-Reduction, Alkalosis, Biomarkers, Hydrogen-Ion Concentration_
@@ -160,59 +160,21 @@ The gut microbiome of domestic animals carries antibiotic resistance genes (ARGs
 
 ---
 
-## Community succession of the grapevine fungal microbiome in the annual growth cycle.
- 31.05.2022, _D Liu, K Howell_
-
-
-_Fungi, Mycobiome, Vitis, Wine_
-Microbial ecology and activity in wine production influences grapevine health and productivity, conversion of sugar to ethanol during fermentation, wine aroma, wine quality and distinctiveness. Fungi in the vineyard ecosystem are not well described. Here, we characterized the spatial and temporal dynamics of fungal communities associated with the grapevine (grapes, flowers, leaves, and roots) and soils over an annual growth cycle in two vineyards to investigate the influences of grape habitat, plant developmental stage (flowering, fruit set, veraison, and harvest), vineyards, and climatic conditions. Fungi were influenced by both the grapevine habitat and plant development stage. The core microbiome was prioritized over space and time, and the identified core members drove seasonal community succession. The developmental stage of veraison, where the grapes undergo a dramatic change in metabolism and start accumulating sugar, coincided with a distinct shift in fungal communities. Co-occurrence networks showed strong correlations between the plant microbiome, the soil microbiome, and weather indices. Our study describes the complex ecological dynamics that occur in microbial assemblages over a growing season and highlight succession of the core community in vineyards.
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.15.574562v2.abstract)
-
-10.1111/1462-2920.15172
-
----
-
 ## Temporal and spatial dynamics within the fungal microbiome of grape fermentation
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.01.15.574562v2.abstract)
 
 ---
 
-## Autotrophic biofilms sustained by deeply sourced groundwater host diverse bacteria implicated in sulfur and hydrogen metabolism.
- 29.01.2024, _LE Valentin-Alvarado, SC Fakra, AJ Probst, JR Giska, AL Jaffe, LM Oltrogge, J West-Roberts, J Rowland, M Manga, DF Savage, C Greening, BJ Baker, JF Banfield_
-
-
-_Ecosystem, Bacteria, Sulfides, Oxidation-Reduction, Groundwater, Sulfur, Biofilms, Hydrogen, Phylogeny_
-Biofilms in sulfide-rich springs present intricate microbial communities that play pivotal roles in biogeochemical cycling. We studied chemoautotrophically based biofilms that host diverse CPR bacteria and grow in sulfide-rich springs to investigate microbial controls on biogeochemical cycling.
+## Autotrophic biofilms sustained by deeply sourced groundwater host diverse bacteria implicated in sulfur and hydrogen metabolism
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01704-w)
 
-10.1186/s40168-023-01704-w
-
 ---
 
-## Viroid-like colonists of human microbiomes.
- 31.01.2024, _IN Zheludev, RC Edgar, MJ Lopez-Galiano, M de la Peña, A Babaian, AS Bhatt, AZ Fire_
-
-
-Here, we describe the "Obelisks," a previously unrecognised class of viroid-like elements that we first identified in human gut metatranscriptomic data. "Obelisks" share several properties: (i) apparently circular RNA ∼1kb genome assemblies, (ii) predicted rod-like secondary structures encompassing the entire genome, and (iii) open reading frames coding for a novel protein superfamily, which we call the "Oblins". We find that Obelisks form their own distinct phylogenetic group with no detectable sequence or structural similarity to known biological agents. Further, Obelisks are prevalent in tested human microbiome metatranscriptomes with representatives detected in ∼7% of analysed stool metatranscriptomes (29/440) and in ∼50% of analysed oral metatranscriptomes (17/32). Obelisk compositions appear to differ between the anatomic sites and are capable of persisting in individuals, with continued presence over &gt;300 days observed in one case. Large scale searches identified 29,959 Obelisks (clustered at 90% nucleotide identity), with examples from all seven continents and in diverse ecological niches. From this search, a subset of Obelisks are identified to code for Obelisk-specific variants of the hammerhead type-III self-cleaving ribozyme. Lastly, we identified one case of a bacterial species ( Streptococcus sanguinis ) in which a subset of defined laboratory strains harboured a specific Obelisk RNA population. As such, Obelisks comprise a class of diverse RNAs that have colonised, and gone unnoticed in, human, and global microbiomes.
+## Viroid-like colonists of human microbiomes
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.01.20.576352v1)
-
-10.1101/2024.01.20.576352
-
----
-
-## Citrobacter rodentium possesses a functional type II secretion system necessary for successful host infection.
- 01.02.2024, _Z Krekhno, SE Woodward, A Serapio-Palacios, J Peña-Díaz, KM Moon, LJ Foster, BB Finlay_
-
-
-Infectious diarrheal diseases are the third leading cause of mortality in young children, many of which are driven by Gram-negative bacterial pathogens. To establish successful host infections these pathogens employ a plethora of virulence factors necessary to compete with the resident microbiota, and evade and subvert the host defenses. The type II secretion system (T2SS) is one such conserved molecular machine that allows for the delivery of effector proteins into the extracellular milieu. To explore the role of the T2SS during natural host infection, we used Citrobacter rodentium, a murine enteric pathogen, as a model of human intestinal disease caused by pathogenic Escherichia coli such as Enteropathogenic and Enterohemorrhagic E. coli (EPEC and EHEC). In this study, we determined that the C. rodentium genome encodes one T2SS and 22 potential T2SS-secreted protein effectors, as predicted via sequence homology. We demonstrated that this system was functional in vitro, identifying a role in intestinal mucin degradation allowing for its utilization as a carbon source, and promoting C. rodentium attachment to a mucus-producing colon cell line. During host infection, loss of the T2SS or associated effectors led to a significant colonization defect and lack of systemic spread. In mice susceptible to lethal infection, T2SS-deficient C. rodentium was strongly attenuated, resulting in reduced morbidity and mortality in infected hosts. Together these data highlight the important role of the T2SS and its effector repertoire during C. rodentium pathogenesis, aiding in successful host mucosal colonization.
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.28.577602v1)
-
-10.1080/19490976.2024.2308049
 
 ---
 
@@ -228,16 +190,9 @@ Infectious diarrheal diseases are the third leading cause of mortality in young 
 
 ---
 
-## Unraveling metagenomics through long-read sequencing: a comprehensive review.
- 31.01.2024, _C Kim, M Pongpanich, T Porntaveetus_
-
-
-_RNA, Ribosomal, 16S, High-Throughput Nucleotide Sequencing, Metagenomics, Sequence Analysis, DNA, Genomics_
-The study of microbial communities has undergone significant advancements, starting from the initial use of 16S rRNA sequencing to the adoption of shotgun metagenomics. However, a new era has emerged with the advent of long-read sequencing (LRS), which offers substantial improvements over its predecessor, short-read sequencing (SRS). LRS produces reads that are several kilobases long, enabling researchers to obtain more complete and contiguous genomic information, characterize structural variations, and study epigenetic modifications. The current leaders in LRS technologies are Pacific Biotechnologies (PacBio) and Oxford Nanopore Technologies (ONT), each offering a distinct set of advantages. This review covers the workflow of long-read metagenomics sequencing, including sample preparation (sample collection, sample extraction, and library preparation), sequencing, processing (quality control, assembly, and binning), and analysis (taxonomic annotation and functional annotation). Each section provides a concise outline of the key concept of the methodology, presenting the original concept as well as how it is challenged or modified in the context of LRS. Additionally, the section introduces a range of tools that are compatible with LRS and can be utilized to execute the LRS process. This review aims to present the workflow of metagenomics, highlight the transformative impact of LRS, and provide researchers with a selection of tools suitable for this task.
+## Unraveling metagenomics through long-read sequencing: a comprehensive review
 
 [Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-04917-1)
-
-10.1186/s12967-024-04917-1
 
 ---
 
