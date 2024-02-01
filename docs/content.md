@@ -73,39 +73,77 @@ Coprolites contain various kinds of ancient DNAs derived from gut micro-organism
 
 ---
 
-## Streptococcus anginosus promotes gastric inflammation, atrophy, and tumorigenesis in mice
+## Streptococcus anginosus promotes gastric inflammation, atrophy, and tumorigenesis in mice.
+ 31.01.2024, _K Fu, AHK Cheung, CC Wong, W Liu, Y Zhou, F Wang, P Huang, K Yuan, OO Coker, Y Pan, D Chen, NM Lam, M Gao, X Zhang, H Huang, KF To, JJY Sung, J Yu_
+
+
+Streptococcus anginosus (S. anginosus) was enriched in the gastric mucosa of patients with gastric cancer (GC). Here, we show that S. anginosus colonized the mouse stomach and induced acute gastritis. S. anginosus infection spontaneously induced progressive chronic gastritis, parietal cell atrophy, mucinous metaplasia, and dysplasia in conventional mice, and the findings were confirmed in germ-free mice. In addition, S. anginosus accelerated GC progression in carcinogen-induced gastric tumorigenesis and YTN16 GC cell allografts. Consistently, S. anginosus disrupted gastric barrier function, promoted cell proliferation, and inhibited apoptosis. Mechanistically, we identified an S. anginosus surface protein, TMPC, that interacts with Annexin A2 (ANXA2) receptor on gastric epithelial cells. Interaction of TMPC with ANXA2 mediated attachment and colonization of S. anginosus and induced mitogen-activated protein kinase (MAPK) activation. ANXA2 knockout abrogated the induction of MAPK by S. anginosus. Thus, this study reveals S. anginosus as a pathogen that promotes gastric tumorigenesis via direct interactions with gastric epithelial cells in the TMPC-ANXA2-MAPK axis.
 
 [Source](https://www.cell.com/cell/fulltext/S0092-8674(24)00006-0)
 
+10.1016/j.cell.2024.01.004
+
 ---
 
-## Gut complement induced by the microbiota combats pathogens and spares commensals
+## Gut complement induced by the microbiota combats pathogens and spares commensals.
+ 27.01.2024, _M Wu, W Zheng, X Song, B Bao, Y Wang, D Ramanan, D Yang, R Liu, JC Macbeth, EA Do, WA Andrade, T Yang, HS Cho, FS Gazzaniga, M Ilves, D Coronado, C Thompson, S Hang, IM Chiu, JR Moffitt, A Hsiao, JJ Mekalanos, C Benoist, DL Kasper_
+
+
+Canonically, the complement system is known for its rapid response to remove microbes in the bloodstream. However, relatively little is known about a functioning complement system on intestinal mucosal surfaces. Herein, we report the local synthesis of complement component 3 (C3) in the gut, primarily by stromal cells. C3 is expressed upon commensal colonization and is regulated by the composition of the microbiota in healthy humans and mice, leading to an individual host's specific luminal C3 levels. The absence of membrane attack complex (MAC) components in the gut ensures that C3 deposition does not result in the lysis of commensals. Pathogen infection triggers the immune system to recruit neutrophils to the infection site for pathogen clearance. Basal C3 levels directly correlate with protection against enteric infection. Our study reveals the gut complement system as an innate immune mechanism acting as a vigilant sentinel that combats pathogens and spares commensals.
 
 [Source](https://www.cell.com/cell/fulltext/S0092-8674(24)00001-1)
 
+10.1016/j.cell.2023.12.036
+
 ---
 
-## Complement in breast milk modifies offspring gut microbiota to promote infant health
+## Complement in breast milk modifies offspring gut microbiota to promote infant health.
+ 24.01.2024, _D Xu, S Zhou, Y Liu, AL Scott, J Yang, F Wan_
+
+
+Breastfeeding offers demonstrable benefits to newborns and infants by providing nourishment and immune protection and by shaping the gut commensal microbiota. Although it has been appreciated for decades that breast milk contains complement components, the physiological relevance of complement in breast milk remains undefined. Here, we demonstrate that weanling mice fostered by complement-deficient dams rapidly succumb when exposed to murine pathogen Citrobacter rodentium (CR), whereas pups fostered on complement-containing milk from wild-type dams can tolerate CR challenge. The complement components in breast milk were shown to directly lyse specific members of gram-positive gut commensal microbiota via a C1-dependent, antibody-independent mechanism, resulting in the deposition of the membrane attack complex and subsequent bacterial lysis. By selectively eliminating members of the commensal gut community, complement components from breast milk shape neonate and infant gut microbial composition to be protective against environmental pathogens such as CR.
 
 [Source](https://www.cell.com/cell/fulltext/S0092-8674(23)01384-3)
 
+10.1016/j.cell.2023.12.019
+
 ---
 
-## Antidiabetic effects and mechanism of γ-polyglutamic acid on type II diabetes mice
+## Antidiabetic effects and mechanism of γ-polyglutamic acid on type II diabetes mice.
+ 30.01.2024, _Y Li, W Zhang, C Tang, C Wang, C Liu, Q Chen, K Yang, Y Gu, P Lei, H Xu, R Wang_
+
+
+Diabetes is one of the foremost chronic non-communicable diseases worldwide, which significantly impacts people's quality of life. This study aimed to investigate the hypoglycemic effects of γ-polyglutamic acid (γ-PGA) on STZ-induced type II diabetes mice and its potential mechanisms. The results indicated that γ-PGA intervention contributed to reducing fasting blood glucose levels in diabetic mice, regulating lipid metabolism in type II diabetes mice, and improving insulin resistance. Additionally, γ-PGA could alleviate liver inflammation, enhancing the activity of hepatic antioxidant enzymes. Investigation into the insulin signaling pathway revealed that γ-PGA significantly increased the expression of INSR, IRS-1, Akt, PI3K in diabetic mice, thereby enhancing insulin sensitivity and improving insulin resistance to regulate glucose metabolism. High-throughput sequencing of mouse gut microbiota using 16S rRNA showed that γ-PGA increased the abundance and evenness of beneficial bacteria in the intestines of type II diabetic mice, inhibited the growth of harmful bacteria, and may exerted hypoglycemic effects by modulating and improving relevant metabolic pathways associated with diabetes symptoms. This study provides new insights into the treatment of type II diabetes and highlights the significant potential of γ-PGA in treating type II diabetes.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0141813024006123)
 
+10.1016/j.ijbiomac.2024.129809
+
 ---
 
-## Bacterial microbiome associated with cigarette beetle Lasioderma serricorne (F.) and its microbial plasticity in relation to diet sources
+## Bacterial microbiome associated with cigarette beetle Lasioderma serricorne (F.) and its microbial plasticity in relation to diet sources.
+ 22.01.2024, _TS Srinivasan, K Premachandran, PX Clinton_
+
+
+_Animals, Coleoptera, Bacteria, Diet, Microbiota, Tobacco Products_
+Insect-microbial symbiosis contributes positively to the physiology of the insect and diet is considered as one important factor determining microbial symbiosis. In this study, we have characterized the microbiota of cigarette beetle, Lasioderma serricorne (Fabricius) on different diets and phases. The beetles were reared on different diet sources (exposed phase) for six generations and were reverted to their natal source (reverted phase) and further maintained for six more generations. The bacterial diversity and richness were higher in the exposed phase and once reverted to the natal source, the microbial abundance has re-assembled according to the natal diet source. There was re-assemblage of microbial composition in accordance to the diet and the bacterial cells are able to establish and proliferate on reverting to their natal source. The bacterial composition of the beetle was mainly dynamic and not transient where the bacterial cells were maintained at low abundance and were re-established according to the diet source. Overall, we found that the microbiota of cigarette beetle to be dynamic and bacterial composition to re-assemble in a diet-specific manner. The study provides insights on diet associated microbial plasticity of cigarette beetle and a further comprehensive understanding on mechanisms involved in microbial plasticity will help develop novel pest management strategies for this invasive insect pest.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289215)
 
+10.1371/journal.pone.0289215
+
 ---
 
-## Metagenomics reveals the temporal dynamics of the rumen resistome and microbiome in goat kids
+## Metagenomics reveals the temporal dynamics of the rumen resistome and microbiome in goat kids.
+ 27.01.2024, _J Chai, Y Zhuang, K Cui, Y Bi, N Zhang_
+
+
+_Animals, Humans, Goats, Rumen, Microbiota, Animals, Domestic, Gastrointestinal Microbiome, Anti-Bacterial Agents_
+The gut microbiome of domestic animals carries antibiotic resistance genes (ARGs) which can be transmitted to the environment and humans, resulting in challenges of antibiotic resistance. Although it has been reported that the rumen microbiome of ruminants may be a reservoir of ARGs, the factors affecting the temporal dynamics of the rumen resistome are still unclear. Here, we collected rumen content samples of goats at 1, 7, 14, 28, 42, 56, 70, and 84 days of age, analyzed their microbiome and resistome profiles using metagenomics, and assessed the temporal dynamics of the rumen resistome in goats at the early stage of life under a conventional feeding system.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01733-5)
+
+10.1186/s40168-023-01733-5
 
 ---
 
@@ -121,59 +159,21 @@ Coprolites contain various kinds of ancient DNAs derived from gut micro-organism
 
 ---
 
-## Community succession of the grapevine fungal microbiome in the annual growth cycle.
- 31.05.2022, _D Liu, K Howell_
-
-
-_Fungi, Mycobiome, Vitis, Wine_
-Microbial ecology and activity in wine production influences grapevine health and productivity, conversion of sugar to ethanol during fermentation, wine aroma, wine quality and distinctiveness. Fungi in the vineyard ecosystem are not well described. Here, we characterized the spatial and temporal dynamics of fungal communities associated with the grapevine (grapes, flowers, leaves, and roots) and soils over an annual growth cycle in two vineyards to investigate the influences of grape habitat, plant developmental stage (flowering, fruit set, veraison, and harvest), vineyards, and climatic conditions. Fungi were influenced by both the grapevine habitat and plant development stage. The core microbiome was prioritized over space and time, and the identified core members drove seasonal community succession. The developmental stage of veraison, where the grapes undergo a dramatic change in metabolism and start accumulating sugar, coincided with a distinct shift in fungal communities. Co-occurrence networks showed strong correlations between the plant microbiome, the soil microbiome, and weather indices. Our study describes the complex ecological dynamics that occur in microbial assemblages over a growing season and highlight succession of the core community in vineyards.
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.15.574562v2.abstract)
-
-10.1111/1462-2920.15172
-
----
-
 ## Temporal and spatial dynamics within the fungal microbiome of grape fermentation
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.01.15.574562v2.abstract)
 
 ---
 
-## Autotrophic biofilms sustained by deeply sourced groundwater host diverse bacteria implicated in sulfur and hydrogen metabolism.
- 29.01.2024, _LE Valentin-Alvarado, SC Fakra, AJ Probst, JR Giska, AL Jaffe, LM Oltrogge, J West-Roberts, J Rowland, M Manga, DF Savage, C Greening, BJ Baker, JF Banfield_
-
-
-_Ecosystem, Bacteria, Sulfides, Oxidation-Reduction, Groundwater, Sulfur, Biofilms, Hydrogen, Phylogeny_
-Biofilms in sulfide-rich springs present intricate microbial communities that play pivotal roles in biogeochemical cycling. We studied chemoautotrophically based biofilms that host diverse CPR bacteria and grow in sulfide-rich springs to investigate microbial controls on biogeochemical cycling.
+## Autotrophic biofilms sustained by deeply sourced groundwater host diverse bacteria implicated in sulfur and hydrogen metabolism
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01704-w)
 
-10.1186/s40168-023-01704-w
-
 ---
 
-## Viroid-like colonists of human microbiomes.
- 31.01.2024, _IN Zheludev, RC Edgar, MJ Lopez-Galiano, M de la Peña, A Babaian, AS Bhatt, AZ Fire_
-
-
-Here, we describe the "Obelisks," a previously unrecognised class of viroid-like elements that we first identified in human gut metatranscriptomic data. "Obelisks" share several properties: (i) apparently circular RNA ∼1kb genome assemblies, (ii) predicted rod-like secondary structures encompassing the entire genome, and (iii) open reading frames coding for a novel protein superfamily, which we call the "Oblins". We find that Obelisks form their own distinct phylogenetic group with no detectable sequence or structural similarity to known biological agents. Further, Obelisks are prevalent in tested human microbiome metatranscriptomes with representatives detected in ∼7% of analysed stool metatranscriptomes (29/440) and in ∼50% of analysed oral metatranscriptomes (17/32). Obelisk compositions appear to differ between the anatomic sites and are capable of persisting in individuals, with continued presence over &gt;300 days observed in one case. Large scale searches identified 29,959 Obelisks (clustered at 90% nucleotide identity), with examples from all seven continents and in diverse ecological niches. From this search, a subset of Obelisks are identified to code for Obelisk-specific variants of the hammerhead type-III self-cleaving ribozyme. Lastly, we identified one case of a bacterial species ( Streptococcus sanguinis ) in which a subset of defined laboratory strains harboured a specific Obelisk RNA population. As such, Obelisks comprise a class of diverse RNAs that have colonised, and gone unnoticed in, human, and global microbiomes.
+## Viroid-like colonists of human microbiomes
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.01.20.576352v1)
-
-10.1101/2024.01.20.576352
-
----
-
-## Spatially-assembled binary carbon anode synergizing directional electron transfer and enriched microbe accommodation for wastewater treatment and energy conversion: From simulation to experiments.
- 31.01.2024, _M Yin, B Fu, T Xu, X Cao, X Huang, X Zhang_
-
-
-Bioelectrochemical systems (BESs) hold prospects in wastewater energy and resource recovery. Anode optimization is important for simultaneous enhancement of wastewater energy conversion and effluent quality in BESs. In this study, a multi-physics model coupling fluid flow, organic degradation and electrochemical process was constructed to guide the design and optimization of BES anodes. Based on the multi-physics simulation, spatially-assembled binary carbon anodes composed of three-dimensional carbon mesh skeleton and granular activated carbon were proposed and established. The granular activated carbon conducive to microbe accommodation played a vital role in improving effluent water quality, while the carbon mesh skeleton favoring electron collection and transfer could enhance the bioelectricity output. With an average chemical oxygen demand (COD) removal rate of 0.442 kg m-3 d-1, a maximum power density of 20.6 W m-3 was achieved in the optimized composite anode BES, which was 25% and 154% higher than carbon mesh skeleton BES and granular activated carbon BES. Electroactive bacteria were enriched in composite anodes and performed important functions related to microbial metabolism and energy production. The spatially-assembled binary carbon anode with low carbon mesh packing density was more cost-effective with a daily energy output per anode cost of 221 J d-1 RMB-1. This study not only provides a cost-efficient alternative anode to simultaneously improve organic degradation and power generation performance, but also demonstrates the potential of multi-physics simulation in offering theoretical support and prediction for BES configuration design as well as optimization.
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.28.577602v1)
-
-10.1016/j.watres.2024.121104
 
 ---
 
@@ -189,16 +189,9 @@ Bioelectrochemical systems (BESs) hold prospects in wastewater energy and resour
 
 ---
 
-## Unraveling metagenomics through long-read sequencing: a comprehensive review.
- 31.01.2024, _C Kim, M Pongpanich, T Porntaveetus_
-
-
-_RNA, Ribosomal, 16S, High-Throughput Nucleotide Sequencing, Metagenomics, Sequence Analysis, DNA, Genomics_
-The study of microbial communities has undergone significant advancements, starting from the initial use of 16S rRNA sequencing to the adoption of shotgun metagenomics. However, a new era has emerged with the advent of long-read sequencing (LRS), which offers substantial improvements over its predecessor, short-read sequencing (SRS). LRS produces reads that are several kilobases long, enabling researchers to obtain more complete and contiguous genomic information, characterize structural variations, and study epigenetic modifications. The current leaders in LRS technologies are Pacific Biotechnologies (PacBio) and Oxford Nanopore Technologies (ONT), each offering a distinct set of advantages. This review covers the workflow of long-read metagenomics sequencing, including sample preparation (sample collection, sample extraction, and library preparation), sequencing, processing (quality control, assembly, and binning), and analysis (taxonomic annotation and functional annotation). Each section provides a concise outline of the key concept of the methodology, presenting the original concept as well as how it is challenged or modified in the context of LRS. Additionally, the section introduces a range of tools that are compatible with LRS and can be utilized to execute the LRS process. This review aims to present the workflow of metagenomics, highlight the transformative impact of LRS, and provide researchers with a selection of tools suitable for this task.
+## Unraveling metagenomics through long-read sequencing: a comprehensive review
 
 [Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-04917-1)
-
-10.1186/s12967-024-04917-1
 
 ---
 
