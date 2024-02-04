@@ -178,18 +178,6 @@ The gut microbiome of domestic animals carries antibiotic resistance genes (ARGs
 
 ---
 
-## The live biotherapeutic SYNB1353 decreases plasma methionine via directed degradation in animal models and healthy volunteers.
- 03.02.2024, _M Perreault, J Means, E Gerson, M James, S Cotton, CG Bergeron, M Simon, DA Carlin, N Schmidt, TC Moore, J Blasbalg, N Sondheimer, K Ndugga-Kabuye, WS Denney, VM Isabella, D Lubkowicz, A Brennan, DL Hava_
-
-
-Methionine is an essential proteinogenic amino acid, but its excess can lead to deleterious effects. Inborn errors of methionine metabolism resulting from loss of function in cystathionine β-synthase (CBS) cause classic homocystinuria (HCU), which is managed by a methionine-restricted diet. Synthetic biotics are gastrointestinal tract-targeted live biotherapeutics that can be engineered to replicate the benefits of dietary restriction. In this study, we assess whether SYNB1353, an E. coli Nissle 1917 derivative, impacts circulating methionine and homocysteine levels in animals and healthy volunteers. In both mice and nonhuman primates (NHPs), SYNB1353 blunts the appearance of plasma methionine and plasma homocysteine in response to an oral methionine load. A phase 1 clinical study conducted in healthy volunteers subjected to an oral methionine challenge demonstrates that SYNB1353 is well tolerated and blunts plasma methionine by 26%. Overall, SYNB1353 represents a promising approach for methionine reduction with potential utility for the treatment of HCU.
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.28.577602v1)
-
-10.1016/j.chom.2024.01.005
-
----
-
 ## DeepGOMeta: Predicting functions for microbes
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.01.28.577602v1)
@@ -202,16 +190,9 @@ Methionine is an essential proteinogenic amino acid, but its excess can lead to 
 
 ---
 
-## Unraveling metagenomics through long-read sequencing: a comprehensive review.
- 31.01.2024, _C Kim, M Pongpanich, T Porntaveetus_
-
-
-_RNA, Ribosomal, 16S, High-Throughput Nucleotide Sequencing, Metagenomics, Sequence Analysis, DNA, Genomics_
-The study of microbial communities has undergone significant advancements, starting from the initial use of 16S rRNA sequencing to the adoption of shotgun metagenomics. However, a new era has emerged with the advent of long-read sequencing (LRS), which offers substantial improvements over its predecessor, short-read sequencing (SRS). LRS produces reads that are several kilobases long, enabling researchers to obtain more complete and contiguous genomic information, characterize structural variations, and study epigenetic modifications. The current leaders in LRS technologies are Pacific Biotechnologies (PacBio) and Oxford Nanopore Technologies (ONT), each offering a distinct set of advantages. This review covers the workflow of long-read metagenomics sequencing, including sample preparation (sample collection, sample extraction, and library preparation), sequencing, processing (quality control, assembly, and binning), and analysis (taxonomic annotation and functional annotation). Each section provides a concise outline of the key concept of the methodology, presenting the original concept as well as how it is challenged or modified in the context of LRS. Additionally, the section introduces a range of tools that are compatible with LRS and can be utilized to execute the LRS process. This review aims to present the workflow of metagenomics, highlight the transformative impact of LRS, and provide researchers with a selection of tools suitable for this task.
+## Unraveling metagenomics through long-read sequencing: a comprehensive review
 
 [Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-04917-1)
-
-10.1186/s12967-024-04917-1
 
 ---
 
