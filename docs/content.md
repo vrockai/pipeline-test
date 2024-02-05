@@ -111,7 +111,7 @@ Breastfeeding offers demonstrable benefits to newborns and infants by providing 
 ---
 
 ## Antidiabetic effects and mechanism of γ-polyglutamic acid on type II diabetes mice.
- 30.01.2024, _Y Li, W Zhang, C Tang, C Wang, C Liu, Q Chen, K Yang, Y Gu, P Lei, H Xu, R Wang_
+ 04.02.2024, _Y Li, W Zhang, C Tang, C Wang, C Liu, Q Chen, K Yang, Y Gu, P Lei, H Xu, R Wang_
 
 
 Diabetes is one of the foremost chronic non-communicable diseases worldwide, which significantly impacts people's quality of life. This study aimed to investigate the hypoglycemic effects of γ-polyglutamic acid (γ-PGA) on STZ-induced type II diabetes mice and its potential mechanisms. The results indicated that γ-PGA intervention contributed to reducing fasting blood glucose levels in diabetic mice, regulating lipid metabolism in type II diabetes mice, and improving insulin resistance. Additionally, γ-PGA could alleviate liver inflammation, enhancing the activity of hepatic antioxidant enzymes. Investigation into the insulin signaling pathway revealed that γ-PGA significantly increased the expression of INSR, IRS-1, Akt, PI3K in diabetic mice, thereby enhancing insulin sensitivity and improving insulin resistance to regulate glucose metabolism. High-throughput sequencing of mouse gut microbiota using 16S rRNA showed that γ-PGA increased the abundance and evenness of beneficial bacteria in the intestines of type II diabetic mice, inhibited the growth of harmful bacteria, and may exerted hypoglycemic effects by modulating and improving relevant metabolic pathways associated with diabetes symptoms. This study provides new insights into the treatment of type II diabetes and highlights the significant potential of γ-PGA in treating type II diabetes.
@@ -160,21 +160,47 @@ The gut microbiome of domestic animals carries antibiotic resistance genes (ARGs
 
 ---
 
+## Community succession of the grapevine fungal microbiome in the annual growth cycle.
+ 31.05.2022, _D Liu, K Howell_
+
+
+_Fungi, Mycobiome, Vitis, Wine_
+Microbial ecology and activity in wine production influences grapevine health and productivity, conversion of sugar to ethanol during fermentation, wine aroma, wine quality and distinctiveness. Fungi in the vineyard ecosystem are not well described. Here, we characterized the spatial and temporal dynamics of fungal communities associated with the grapevine (grapes, flowers, leaves, and roots) and soils over an annual growth cycle in two vineyards to investigate the influences of grape habitat, plant developmental stage (flowering, fruit set, veraison, and harvest), vineyards, and climatic conditions. Fungi were influenced by both the grapevine habitat and plant development stage. The core microbiome was prioritized over space and time, and the identified core members drove seasonal community succession. The developmental stage of veraison, where the grapes undergo a dramatic change in metabolism and start accumulating sugar, coincided with a distinct shift in fungal communities. Co-occurrence networks showed strong correlations between the plant microbiome, the soil microbiome, and weather indices. Our study describes the complex ecological dynamics that occur in microbial assemblages over a growing season and highlight succession of the core community in vineyards.
+
+[Source](https://www.biorxiv.org/content/10.1101/2024.01.15.574562v2.abstract)
+
+10.1111/1462-2920.15172
+
+---
+
 ## Temporal and spatial dynamics within the fungal microbiome of grape fermentation
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.01.15.574562v2.abstract)
 
 ---
 
-## Autotrophic biofilms sustained by deeply sourced groundwater host diverse bacteria implicated in sulfur and hydrogen metabolism
+## Autotrophic biofilms sustained by deeply sourced groundwater host diverse bacteria implicated in sulfur and hydrogen metabolism.
+ 29.01.2024, _LE Valentin-Alvarado, SC Fakra, AJ Probst, JR Giska, AL Jaffe, LM Oltrogge, J West-Roberts, J Rowland, M Manga, DF Savage, C Greening, BJ Baker, JF Banfield_
+
+
+_Ecosystem, Bacteria, Sulfides, Oxidation-Reduction, Groundwater, Sulfur, Biofilms, Hydrogen, Phylogeny_
+Biofilms in sulfide-rich springs present intricate microbial communities that play pivotal roles in biogeochemical cycling. We studied chemoautotrophically based biofilms that host diverse CPR bacteria and grow in sulfide-rich springs to investigate microbial controls on biogeochemical cycling.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01704-w)
 
+10.1186/s40168-023-01704-w
+
 ---
 
-## Viroid-like colonists of human microbiomes
+## Viroid-like colonists of human microbiomes.
+ 31.01.2024, _IN Zheludev, RC Edgar, MJ Lopez-Galiano, M de la Peña, A Babaian, AS Bhatt, AZ Fire_
+
+
+Here, we describe the "Obelisks," a previously unrecognised class of viroid-like elements that we first identified in human gut metatranscriptomic data. "Obelisks" share several properties: (i) apparently circular RNA ∼1kb genome assemblies, (ii) predicted rod-like secondary structures encompassing the entire genome, and (iii) open reading frames coding for a novel protein superfamily, which we call the "Oblins". We find that Obelisks form their own distinct phylogenetic group with no detectable sequence or structural similarity to known biological agents. Further, Obelisks are prevalent in tested human microbiome metatranscriptomes with representatives detected in ∼7% of analysed stool metatranscriptomes (29/440) and in ∼50% of analysed oral metatranscriptomes (17/32). Obelisk compositions appear to differ between the anatomic sites and are capable of persisting in individuals, with continued presence over &gt;300 days observed in one case. Large scale searches identified 29,959 Obelisks (clustered at 90% nucleotide identity), with examples from all seven continents and in diverse ecological niches. From this search, a subset of Obelisks are identified to code for Obelisk-specific variants of the hammerhead type-III self-cleaving ribozyme. Lastly, we identified one case of a bacterial species ( Streptococcus sanguinis ) in which a subset of defined laboratory strains harboured a specific Obelisk RNA population. As such, Obelisks comprise a class of diverse RNAs that have colonised, and gone unnoticed in, human, and global microbiomes.
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.01.20.576352v1)
+
+10.1101/2024.01.20.576352
 
 ---
 
