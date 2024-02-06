@@ -99,10 +99,10 @@ Canonically, the complement system is known for its rapid response to remove mic
 ---
 
 ## Complement in breast milk modifies offspring gut microbiota to promote infant health.
- 05.02.2024, _D Xu, S Zhou, Y Liu, AL Scott, J Yang, F Wan_
+ 06.02.2024, _D Xu, S Zhou, Y Liu, AL Scott, J Yang, F Wan_
 
 
-_Humans, Infant, Female, Animals, Mice, Milk, Human, Gastrointestinal Microbiome, Infant Health, Breast Feeding, Bacteria, Immunologic Factors, Complement System Proteins, Citrobacter rodentium_
+_Animals, Female, Humans, Infant, Mice, Bacteria, Breast Feeding, Citrobacter rodentium, Complement System Proteins, Gastrointestinal Microbiome, Immunologic Factors, Infant Health, Milk, Human, Milk, Enterobacteriaceae Infections_
 Breastfeeding offers demonstrable benefits to newborns and infants by providing nourishment and immune protection and by shaping the gut commensal microbiota. Although it has been appreciated for decades that breast milk contains complement components, the physiological relevance of complement in breast milk remains undefined. Here, we demonstrate that weanling mice fostered by complement-deficient dams rapidly succumb when exposed to murine pathogen Citrobacter rodentium (CR), whereas pups fostered on complement-containing milk from wild-type dams can tolerate CR challenge. The complement components in breast milk were shown to directly lyse specific members of gram-positive gut commensal microbiota via a C1-dependent, antibody-independent mechanism, resulting in the deposition of the membrane attack complex and subsequent bacterial lysis. By selectively eliminating members of the commensal gut community, complement components from breast milk shape neonate and infant gut microbial composition to be protective against environmental pathogens such as CR.
 
 [Source](https://www.cell.com/cell/fulltext/S0092-8674(23)01384-3)
