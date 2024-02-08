@@ -24,9 +24,15 @@ The infant gut microbiome is a crucial factor in health and development. In pret
 
 ---
 
-## Assembly, stability, and dynamics of the infant gut microbiome are linked to bacterial strains and functions in mother’s milk
+## Assembly, stability, and dynamics of the infant gut microbiome are linked to bacterial strains and functions in mother's milk.
+ 08.02.2024, _M Allert, P Ferretti, KE Johnson, T Heisel, S Gonia, D Knights, DA Fields, FW Albert, EW Demerath, CA Gale, R Blekhman_
+
+
+The establishment of the gut microbiome in early life is critical for healthy infant development. Although human milk is recommended as the sole source of nutrition for the human infant, little is known about how variation in milk composition, and especially the milk microbiome, shapes the microbial communities in the infant gut. Here, we quantified the similarity between the maternal milk and the infant gut microbiome using 507 metagenomic samples collected from 195 mother-infant pairs at one, three, and six months postpartum. We found that the microbial taxonomic overlap between milk and the infant gut was driven by bifidobacteria, in particular by B. longum . Infant stool samples dominated by B. longum also showed higher temporal stability compared to samples dominated by other species. We identified two instances of strain sharing between maternal milk and the infant gut, one involving a commensal ( B. longum ) and one a pathobiont ( K. pneumoniae ). In addition, strain sharing between unrelated infants was higher among infants born at the same hospital compared to infants born in different hospitals, suggesting a potential role of the hospital environment in shaping the infant gut microbiome composition. The infant gut microbiome at one month compared to six months of age was enriched in metabolic pathways associated with de-novo molecule biosynthesis, suggesting that early colonisers might be more versatile and metabolically independent compared to later colonizers. Lastly, we found a significant overlap in antimicrobial resistance genes carriage between the mother's milk and their infant's gut microbiome. Taken together, our results suggest that the human milk microbiome has an important role in the assembly, composition, and stability of the infant gut microbiome.
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.01.28.577594v1.abstract)
+
+10.1101/2024.01.28.577594
 
 ---
 
@@ -161,21 +167,59 @@ The gut microbiome of domestic animals carries antibiotic resistance genes (ARGs
 
 ---
 
+## Community succession of the grapevine fungal microbiome in the annual growth cycle.
+ 31.05.2022, _D Liu, K Howell_
+
+
+_Fungi, Mycobiome, Vitis, Wine_
+Microbial ecology and activity in wine production influences grapevine health and productivity, conversion of sugar to ethanol during fermentation, wine aroma, wine quality and distinctiveness. Fungi in the vineyard ecosystem are not well described. Here, we characterized the spatial and temporal dynamics of fungal communities associated with the grapevine (grapes, flowers, leaves, and roots) and soils over an annual growth cycle in two vineyards to investigate the influences of grape habitat, plant developmental stage (flowering, fruit set, veraison, and harvest), vineyards, and climatic conditions. Fungi were influenced by both the grapevine habitat and plant development stage. The core microbiome was prioritized over space and time, and the identified core members drove seasonal community succession. The developmental stage of veraison, where the grapes undergo a dramatic change in metabolism and start accumulating sugar, coincided with a distinct shift in fungal communities. Co-occurrence networks showed strong correlations between the plant microbiome, the soil microbiome, and weather indices. Our study describes the complex ecological dynamics that occur in microbial assemblages over a growing season and highlight succession of the core community in vineyards.
+
+[Source](https://www.biorxiv.org/content/10.1101/2024.01.15.574562v2.abstract)
+
+10.1111/1462-2920.15172
+
+---
+
 ## Temporal and spatial dynamics within the fungal microbiome of grape fermentation
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.01.15.574562v2.abstract)
 
 ---
 
-## Autotrophic biofilms sustained by deeply sourced groundwater host diverse bacteria implicated in sulfur and hydrogen metabolism
+## Autotrophic biofilms sustained by deeply sourced groundwater host diverse bacteria implicated in sulfur and hydrogen metabolism.
+ 29.01.2024, _LE Valentin-Alvarado, SC Fakra, AJ Probst, JR Giska, AL Jaffe, LM Oltrogge, J West-Roberts, J Rowland, M Manga, DF Savage, C Greening, BJ Baker, JF Banfield_
+
+
+_Ecosystem, Bacteria, Sulfides, Oxidation-Reduction, Groundwater, Sulfur, Biofilms, Hydrogen, Phylogeny_
+Biofilms in sulfide-rich springs present intricate microbial communities that play pivotal roles in biogeochemical cycling. We studied chemoautotrophically based biofilms that host diverse CPR bacteria and grow in sulfide-rich springs to investigate microbial controls on biogeochemical cycling.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01704-w)
 
+10.1186/s40168-023-01704-w
+
 ---
 
-## Viroid-like colonists of human microbiomes
+## Viroid-like colonists of human microbiomes.
+ 08.02.2024, _IN Zheludev, RC Edgar, MJ Lopez-Galiano, M de la Peña, A Babaian, AS Bhatt, AZ Fire_
+
+
+Here, we describe the "Obelisks," a previously unrecognised class of viroid-like elements that we first identified in human gut metatranscriptomic data. "Obelisks" share several properties: (i) apparently circular RNA ~1kb genome assemblies, (ii) predicted rod-like secondary structures encompassing the entire genome, and (iii) open reading frames coding for a novel protein superfamily, which we call the "Oblins". We find that Obelisks form their own distinct phylogenetic group with no detectable sequence or structural similarity to known biological agents. Further, Obelisks are prevalent in tested human microbiome metatranscriptomes with representatives detected in ~7% of analysed stool metatranscriptomes (29/440) and in ~50% of analysed oral metatranscriptomes (17/32). Obelisk compositions appear to differ between the anatomic sites and are capable of persisting in individuals, with continued presence over &gt;300 days observed in one case. Large scale searches identified 29,959 Obelisks (clustered at 90% nucleotide identity), with examples from all seven continents and in diverse ecological niches. From this search, a subset of Obelisks are identified to code for Obelisk-specific variants of the hammerhead type-III self-cleaving ribozyme. Lastly, we identified one case of a bacterial species (Streptococcus sanguinis) in which a subset of defined laboratory strains harboured a specific Obelisk RNA population. As such, Obelisks comprise a class of diverse RNAs that have colonised, and gone unnoticed in, human, and global microbiomes.
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.01.20.576352v1)
+
+10.1101/2024.01.20.576352
+
+---
+
+## Novel sterol binding domains in bacteria.
+ 08.02.2024, _L Zhai, AC Bonds, CA Smith, H Oo, JC Chou, PV Welander, LMK Dassama_
+
+
+Sterol lipids are widely present in eukaryotes and play essential roles in signaling and modulating membrane fluidity. Although rare, some bacteria also produce sterols, but their function in bacteria is not known. Moreover, many more species, including pathogens and commensal microbes, acquire or modify sterols from eukaryotic hosts through poorly understood molecular mechanisms. The aerobic methanotroph Methylococcus capsulatus was the first bacterium shown to synthesize sterols, producing a mixture of C-4 methylated sterols that are distinct from those observed in eukaryotes. C-4 methylated sterols are synthesized in the cytosol and localized to the outer membrane, suggesting that a bacterial sterol transport machinery exists. Until now, the identity of such machinery remained a mystery. In this study, we identified three novel proteins that may be the first examples of transporters for bacterial sterol lipids. The proteins, which all belong to well-studied families of bacterial metabolite transporters, are predicted to reside in the inner membrane, periplasm, and outer membrane of M. capsulatus, and may work as a conduit to move modified sterols to the outer membrane. Quantitative analysis of ligand binding revealed their remarkable specificity for 4-methylsterols, and crystallographic structures coupled with docking and molecular dynamics simulations revealed the structural bases for substrate binding by two of the putative transporters. Their striking structural divergence from eukaryotic sterol transporters signals that they form a distinct sterol transport system within the bacterial domain. Finally, bioinformatics revealed the widespread presence of similar transporters in bacterial genomes, including in some pathogens that use host sterol lipids to construct their cell envelopes. The unique folds of these bacterial sterol binding proteins should now guide the discovery of other proteins that handle this essential metabolite.
+
+[Source](https://www.biorxiv.org/content/10.1101/2024.01.28.577602v1)
+
+10.7554/eLife.90696
 
 ---
 
@@ -191,9 +235,16 @@ The gut microbiome of domestic animals carries antibiotic resistance genes (ARGs
 
 ---
 
-## Unraveling metagenomics through long-read sequencing: a comprehensive review
+## Unraveling metagenomics through long-read sequencing: a comprehensive review.
+ 31.01.2024, _C Kim, M Pongpanich, T Porntaveetus_
+
+
+_RNA, Ribosomal, 16S, High-Throughput Nucleotide Sequencing, Metagenomics, Sequence Analysis, DNA, Genomics_
+The study of microbial communities has undergone significant advancements, starting from the initial use of 16S rRNA sequencing to the adoption of shotgun metagenomics. However, a new era has emerged with the advent of long-read sequencing (LRS), which offers substantial improvements over its predecessor, short-read sequencing (SRS). LRS produces reads that are several kilobases long, enabling researchers to obtain more complete and contiguous genomic information, characterize structural variations, and study epigenetic modifications. The current leaders in LRS technologies are Pacific Biotechnologies (PacBio) and Oxford Nanopore Technologies (ONT), each offering a distinct set of advantages. This review covers the workflow of long-read metagenomics sequencing, including sample preparation (sample collection, sample extraction, and library preparation), sequencing, processing (quality control, assembly, and binning), and analysis (taxonomic annotation and functional annotation). Each section provides a concise outline of the key concept of the methodology, presenting the original concept as well as how it is challenged or modified in the context of LRS. Additionally, the section introduces a range of tools that are compatible with LRS and can be utilized to execute the LRS process. This review aims to present the workflow of metagenomics, highlight the transformative impact of LRS, and provide researchers with a selection of tools suitable for this task.
 
 [Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-04917-1)
+
+10.1186/s12967-024-04917-1
 
 ---
 
