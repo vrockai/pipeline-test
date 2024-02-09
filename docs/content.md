@@ -185,18 +185,6 @@ The gut microbiome of domestic animals carries antibiotic resistance genes (ARGs
 
 ---
 
-## Novel sterol binding domains in bacteria.
- 08.02.2024, _L Zhai, AC Bonds, CA Smith, H Oo, JC Chou, PV Welander, LMK Dassama_
-
-
-Sterol lipids are widely present in eukaryotes and play essential roles in signaling and modulating membrane fluidity. Although rare, some bacteria also produce sterols, but their function in bacteria is not known. Moreover, many more species, including pathogens and commensal microbes, acquire or modify sterols from eukaryotic hosts through poorly understood molecular mechanisms. The aerobic methanotroph Methylococcus capsulatus was the first bacterium shown to synthesize sterols, producing a mixture of C-4 methylated sterols that are distinct from those observed in eukaryotes. C-4 methylated sterols are synthesized in the cytosol and localized to the outer membrane, suggesting that a bacterial sterol transport machinery exists. Until now, the identity of such machinery remained a mystery. In this study, we identified three novel proteins that may be the first examples of transporters for bacterial sterol lipids. The proteins, which all belong to well-studied families of bacterial metabolite transporters, are predicted to reside in the inner membrane, periplasm, and outer membrane of M. capsulatus, and may work as a conduit to move modified sterols to the outer membrane. Quantitative analysis of ligand binding revealed their remarkable specificity for 4-methylsterols, and crystallographic structures coupled with docking and molecular dynamics simulations revealed the structural bases for substrate binding by two of the putative transporters. Their striking structural divergence from eukaryotic sterol transporters signals that they form a distinct sterol transport system within the bacterial domain. Finally, bioinformatics revealed the widespread presence of similar transporters in bacterial genomes, including in some pathogens that use host sterol lipids to construct their cell envelopes. The unique folds of these bacterial sterol binding proteins should now guide the discovery of other proteins that handle this essential metabolite.
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.28.577602v1)
-
-10.7554/eLife.90696
-
----
-
 ## DeepGOMeta: Predicting functions for microbes
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.01.28.577602v1)
@@ -209,16 +197,9 @@ Sterol lipids are widely present in eukaryotes and play essential roles in signa
 
 ---
 
-## Unraveling metagenomics through long-read sequencing: a comprehensive review.
- 31.01.2024, _C Kim, M Pongpanich, T Porntaveetus_
-
-
-_RNA, Ribosomal, 16S, High-Throughput Nucleotide Sequencing, Metagenomics, Sequence Analysis, DNA, Genomics_
-The study of microbial communities has undergone significant advancements, starting from the initial use of 16S rRNA sequencing to the adoption of shotgun metagenomics. However, a new era has emerged with the advent of long-read sequencing (LRS), which offers substantial improvements over its predecessor, short-read sequencing (SRS). LRS produces reads that are several kilobases long, enabling researchers to obtain more complete and contiguous genomic information, characterize structural variations, and study epigenetic modifications. The current leaders in LRS technologies are Pacific Biotechnologies (PacBio) and Oxford Nanopore Technologies (ONT), each offering a distinct set of advantages. This review covers the workflow of long-read metagenomics sequencing, including sample preparation (sample collection, sample extraction, and library preparation), sequencing, processing (quality control, assembly, and binning), and analysis (taxonomic annotation and functional annotation). Each section provides a concise outline of the key concept of the methodology, presenting the original concept as well as how it is challenged or modified in the context of LRS. Additionally, the section introduces a range of tools that are compatible with LRS and can be utilized to execute the LRS process. This review aims to present the workflow of metagenomics, highlight the transformative impact of LRS, and provide researchers with a selection of tools suitable for this task.
+## Unraveling metagenomics through long-read sequencing: a comprehensive review
 
 [Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-04917-1)
-
-10.1186/s12967-024-04917-1
 
 ---
 
