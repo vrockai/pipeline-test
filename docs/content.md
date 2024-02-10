@@ -167,59 +167,21 @@ The gut microbiome of domestic animals carries antibiotic resistance genes (ARGs
 
 ---
 
-## Community succession of the grapevine fungal microbiome in the annual growth cycle.
- 31.05.2022, _D Liu, K Howell_
-
-
-_Fungi, Mycobiome, Vitis, Wine_
-Microbial ecology and activity in wine production influences grapevine health and productivity, conversion of sugar to ethanol during fermentation, wine aroma, wine quality and distinctiveness. Fungi in the vineyard ecosystem are not well described. Here, we characterized the spatial and temporal dynamics of fungal communities associated with the grapevine (grapes, flowers, leaves, and roots) and soils over an annual growth cycle in two vineyards to investigate the influences of grape habitat, plant developmental stage (flowering, fruit set, veraison, and harvest), vineyards, and climatic conditions. Fungi were influenced by both the grapevine habitat and plant development stage. The core microbiome was prioritized over space and time, and the identified core members drove seasonal community succession. The developmental stage of veraison, where the grapes undergo a dramatic change in metabolism and start accumulating sugar, coincided with a distinct shift in fungal communities. Co-occurrence networks showed strong correlations between the plant microbiome, the soil microbiome, and weather indices. Our study describes the complex ecological dynamics that occur in microbial assemblages over a growing season and highlight succession of the core community in vineyards.
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.15.574562v2.abstract)
-
-10.1111/1462-2920.15172
-
----
-
 ## Temporal and spatial dynamics within the fungal microbiome of grape fermentation
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.01.15.574562v2.abstract)
 
 ---
 
-## Autotrophic biofilms sustained by deeply sourced groundwater host diverse bacteria implicated in sulfur and hydrogen metabolism.
- 29.01.2024, _LE Valentin-Alvarado, SC Fakra, AJ Probst, JR Giska, AL Jaffe, LM Oltrogge, J West-Roberts, J Rowland, M Manga, DF Savage, C Greening, BJ Baker, JF Banfield_
-
-
-_Ecosystem, Bacteria, Sulfides, Oxidation-Reduction, Groundwater, Sulfur, Biofilms, Hydrogen, Phylogeny_
-Biofilms in sulfide-rich springs present intricate microbial communities that play pivotal roles in biogeochemical cycling. We studied chemoautotrophically based biofilms that host diverse CPR bacteria and grow in sulfide-rich springs to investigate microbial controls on biogeochemical cycling.
+## Autotrophic biofilms sustained by deeply sourced groundwater host diverse bacteria implicated in sulfur and hydrogen metabolism
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01704-w)
 
-10.1186/s40168-023-01704-w
-
 ---
 
-## Viroid-like colonists of human microbiomes.
- 08.02.2024, _IN Zheludev, RC Edgar, MJ Lopez-Galiano, M de la Peña, A Babaian, AS Bhatt, AZ Fire_
-
-
-Here, we describe the "Obelisks," a previously unrecognised class of viroid-like elements that we first identified in human gut metatranscriptomic data. "Obelisks" share several properties: (i) apparently circular RNA ~1kb genome assemblies, (ii) predicted rod-like secondary structures encompassing the entire genome, and (iii) open reading frames coding for a novel protein superfamily, which we call the "Oblins". We find that Obelisks form their own distinct phylogenetic group with no detectable sequence or structural similarity to known biological agents. Further, Obelisks are prevalent in tested human microbiome metatranscriptomes with representatives detected in ~7% of analysed stool metatranscriptomes (29/440) and in ~50% of analysed oral metatranscriptomes (17/32). Obelisk compositions appear to differ between the anatomic sites and are capable of persisting in individuals, with continued presence over &gt;300 days observed in one case. Large scale searches identified 29,959 Obelisks (clustered at 90% nucleotide identity), with examples from all seven continents and in diverse ecological niches. From this search, a subset of Obelisks are identified to code for Obelisk-specific variants of the hammerhead type-III self-cleaving ribozyme. Lastly, we identified one case of a bacterial species (Streptococcus sanguinis) in which a subset of defined laboratory strains harboured a specific Obelisk RNA population. As such, Obelisks comprise a class of diverse RNAs that have colonised, and gone unnoticed in, human, and global microbiomes.
+## Viroid-like colonists of human microbiomes
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.01.20.576352v1)
-
-10.1101/2024.01.20.576352
-
----
-
-## FurC (PerR) contributes to the regulation of peptidoglycan remodeling and intercellular molecular transfer in the cyanobacterium Anabaena sp. strain PCC 7120.
- 09.02.2024, _C Sarasa-Buisan, M Nieves-Morión, S Arévalo, RF Helm, E Sevilla, I Luque, MF Fillat_
-
-
-Microbial extracellular proteins and metabolites provide valuable information concerning how microbes adapt to changing environments. In cyanobacteria, dynamic acclimation strategies involve a variety of regulatory mechanisms, being ferric uptake regulator proteins as key players in this process. In the nitrogen-fixing cyanobacterium Anabaena sp. strain PCC 7120, FurC (PerR) is a global regulator that modulates the peroxide response and several genes involved in photosynthesis and nitrogen metabolism. To investigate the possible role of FurC in shaping the extracellular environment of Anabaena, the analysis of the extracellular metabolites and proteins of a furC-overexpressing variant was compared to that of the wild-type strain. There were 96 differentially abundant proteins, 78 of which were found for the first time in the extracellular fraction of Anabaena. While these proteins belong to different functional categories, most of them are predicted to be secreted or have a peripheral location. Several stress-related proteins, including PrxA, flavodoxin, and the Dps homolog All1173, accumulated in the exoproteome of furC-overexpressing cells, while decreased levels of FurA and a subset of membrane proteins, including several export proteins and amiC gene products, responsible for nanopore formation, were detected. Direct repression by FurC of some of those genes, including amiC1 and amiC2, could account for odd septal nanopore formation and impaired intercellular molecular transfer observed in the furC-overexpressing variant. Assessment of the exometabolome from both strains revealed the release of two peptidoglycan fragments in furC-overexpressing cells, namely 1,6-anhydro-N-acetyl-β-D-muramic acid (anhydroMurNAc) and its associated disaccharide (β-D-GlcNAc-(1-4)-anhydroMurNAc), suggesting alterations in peptidoglycan breakdown and recycling.IMPORTANCECyanobacteria are ubiquitous photosynthetic prokaryotes that can adapt to environmental stresses by modulating their extracellular contents. Measurements of the organization and composition of the extracellular milieu provide useful information about cyanobacterial adaptive processes, which can potentially lead to biomimetic approaches to stabilizing biological systems to adverse conditions. Anabaena sp. strain PCC 7120 is a multicellular, nitrogen-fixing cyanobacterium whose intercellular molecular exchange is mediated by septal junctions that traverse the septal peptidoglycan through nanopores. FurC (PerR) is an essential transcriptional regulator in Anabaena, which modulates the response to several stresses. Here, we show that furC-overexpressing cells result in a modified exoproteome and the release of peptidoglycan fragments. Phenotypically, important alterations in nanopore formation and cell-to-cell communication were observed. Our results expand the roles of FurC to the modulation of cell-wall biogenesis and recycling, as well as in intercellular molecular transfer.
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.28.577602v1)
-
-10.1128/mbio.03231-23
 
 ---
 
@@ -235,16 +197,9 @@ Microbial extracellular proteins and metabolites provide valuable information co
 
 ---
 
-## Unraveling metagenomics through long-read sequencing: a comprehensive review.
- 31.01.2024, _C Kim, M Pongpanich, T Porntaveetus_
-
-
-_RNA, Ribosomal, 16S, High-Throughput Nucleotide Sequencing, Metagenomics, Sequence Analysis, DNA, Genomics_
-The study of microbial communities has undergone significant advancements, starting from the initial use of 16S rRNA sequencing to the adoption of shotgun metagenomics. However, a new era has emerged with the advent of long-read sequencing (LRS), which offers substantial improvements over its predecessor, short-read sequencing (SRS). LRS produces reads that are several kilobases long, enabling researchers to obtain more complete and contiguous genomic information, characterize structural variations, and study epigenetic modifications. The current leaders in LRS technologies are Pacific Biotechnologies (PacBio) and Oxford Nanopore Technologies (ONT), each offering a distinct set of advantages. This review covers the workflow of long-read metagenomics sequencing, including sample preparation (sample collection, sample extraction, and library preparation), sequencing, processing (quality control, assembly, and binning), and analysis (taxonomic annotation and functional annotation). Each section provides a concise outline of the key concept of the methodology, presenting the original concept as well as how it is challenged or modified in the context of LRS. Additionally, the section introduces a range of tools that are compatible with LRS and can be utilized to execute the LRS process. This review aims to present the workflow of metagenomics, highlight the transformative impact of LRS, and provide researchers with a selection of tools suitable for this task.
+## Unraveling metagenomics through long-read sequencing: a comprehensive review
 
 [Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-04917-1)
-
-10.1186/s12967-024-04917-1
 
 ---
 
