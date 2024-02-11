@@ -197,9 +197,16 @@ The gut microbiome of domestic animals carries antibiotic resistance genes (ARGs
 
 ---
 
-## Unraveling metagenomics through long-read sequencing: a comprehensive review
+## Unraveling metagenomics through long-read sequencing: a comprehensive review.
+ 31.01.2024, _C Kim, M Pongpanich, T Porntaveetus_
+
+
+_RNA, Ribosomal, 16S, High-Throughput Nucleotide Sequencing, Metagenomics, Sequence Analysis, DNA, Genomics_
+The study of microbial communities has undergone significant advancements, starting from the initial use of 16S rRNA sequencing to the adoption of shotgun metagenomics. However, a new era has emerged with the advent of long-read sequencing (LRS), which offers substantial improvements over its predecessor, short-read sequencing (SRS). LRS produces reads that are several kilobases long, enabling researchers to obtain more complete and contiguous genomic information, characterize structural variations, and study epigenetic modifications. The current leaders in LRS technologies are Pacific Biotechnologies (PacBio) and Oxford Nanopore Technologies (ONT), each offering a distinct set of advantages. This review covers the workflow of long-read metagenomics sequencing, including sample preparation (sample collection, sample extraction, and library preparation), sequencing, processing (quality control, assembly, and binning), and analysis (taxonomic annotation and functional annotation). Each section provides a concise outline of the key concept of the methodology, presenting the original concept as well as how it is challenged or modified in the context of LRS. Additionally, the section introduces a range of tools that are compatible with LRS and can be utilized to execute the LRS process. This review aims to present the workflow of metagenomics, highlight the transformative impact of LRS, and provide researchers with a selection of tools suitable for this task.
 
 [Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-04917-1)
+
+10.1186/s12967-024-04917-1
 
 ---
 
