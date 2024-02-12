@@ -167,35 +167,15 @@ The gut microbiome of domestic animals carries antibiotic resistance genes (ARGs
 
 ---
 
-## Community succession of the grapevine fungal microbiome in the annual growth cycle.
- 31.05.2022, _D Liu, K Howell_
-
-
-_Fungi, Mycobiome, Vitis, Wine_
-Microbial ecology and activity in wine production influences grapevine health and productivity, conversion of sugar to ethanol during fermentation, wine aroma, wine quality and distinctiveness. Fungi in the vineyard ecosystem are not well described. Here, we characterized the spatial and temporal dynamics of fungal communities associated with the grapevine (grapes, flowers, leaves, and roots) and soils over an annual growth cycle in two vineyards to investigate the influences of grape habitat, plant developmental stage (flowering, fruit set, veraison, and harvest), vineyards, and climatic conditions. Fungi were influenced by both the grapevine habitat and plant development stage. The core microbiome was prioritized over space and time, and the identified core members drove seasonal community succession. The developmental stage of veraison, where the grapes undergo a dramatic change in metabolism and start accumulating sugar, coincided with a distinct shift in fungal communities. Co-occurrence networks showed strong correlations between the plant microbiome, the soil microbiome, and weather indices. Our study describes the complex ecological dynamics that occur in microbial assemblages over a growing season and highlight succession of the core community in vineyards.
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.15.574562v2.abstract)
-
-10.1111/1462-2920.15172
-
----
-
 ## Temporal and spatial dynamics within the fungal microbiome of grape fermentation
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.01.15.574562v2.abstract)
 
 ---
 
-## Autotrophic biofilms sustained by deeply sourced groundwater host diverse bacteria implicated in sulfur and hydrogen metabolism.
- 29.01.2024, _LE Valentin-Alvarado, SC Fakra, AJ Probst, JR Giska, AL Jaffe, LM Oltrogge, J West-Roberts, J Rowland, M Manga, DF Savage, C Greening, BJ Baker, JF Banfield_
-
-
-_Ecosystem, Bacteria, Sulfides, Oxidation-Reduction, Groundwater, Sulfur, Biofilms, Hydrogen, Phylogeny_
-Biofilms in sulfide-rich springs present intricate microbial communities that play pivotal roles in biogeochemical cycling. We studied chemoautotrophically based biofilms that host diverse CPR bacteria and grow in sulfide-rich springs to investigate microbial controls on biogeochemical cycling.
+## Autotrophic biofilms sustained by deeply sourced groundwater host diverse bacteria implicated in sulfur and hydrogen metabolism
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01704-w)
-
-10.1186/s40168-023-01704-w
 
 ---
 
