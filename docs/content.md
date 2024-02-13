@@ -1,5 +1,5 @@
 ## Finding Candida auris in public metagenomic repositories.
- 22.01.2024, _JE Mario-Vasquez, UR Bagal, E Lowe, A Morgulis, J Phan, DJ Sexton, S Shiryev, R Slatkevičius, R Welsh, AP Litvintseva, M Blumberg, R Agarwala, NA Chow_
+ 01.02.2024, _JE Mario-Vasquez, UR Bagal, E Lowe, A Morgulis, J Phan, DJ Sexton, S Shiryev, R Slatkevičius, R Welsh, AP Litvintseva, M Blumberg, R Agarwala, NA Chow_
 
 
 _Humans, Candida, Candidiasis, Candida auris, Prospective Studies, Metagenomics, Antifungal Agents_
@@ -62,7 +62,7 @@ Nutrition has broad impacts on all physiological processes. However, how nutriti
 ---
 
 ## Metagenomic analyses of 7000 to 5500 years old coprolites excavated from the Torihama shell-mound site in the Japanese archipelago.
- 27.01.2024, _L Nishimura, A Tanino, M Ajimoto, T Katsumura, M Ogawa, K Koganebuchi, D Waku, M Kumagai, R Sugimoto, H Nakaoka, H Oota, I Inoue_
+ 06.02.2024, _L Nishimura, A Tanino, M Ajimoto, T Katsumura, M Ogawa, K Koganebuchi, D Waku, M Kumagai, R Sugimoto, H Nakaoka, H Oota, I Inoue_
 
 
 _Humans, Japan, Metagenome, Metagenomics, Genomics, Archaeology_
@@ -130,7 +130,7 @@ Diabetes is one of the foremost chronic non-communicable diseases worldwide, whi
 ---
 
 ## Bacterial microbiome associated with cigarette beetle Lasioderma serricorne (F.) and its microbial plasticity in relation to diet sources.
- 22.01.2024, _TS Srinivasan, K Premachandran, PX Clinton_
+ 01.02.2024, _TS Srinivasan, K Premachandran, PX Clinton_
 
 
 _Animals, Coleoptera, Bacteria, Diet, Microbiota, Tobacco Products_
@@ -143,7 +143,7 @@ Insect-microbial symbiosis contributes positively to the physiology of the insec
 ---
 
 ## Metagenomics reveals the temporal dynamics of the rumen resistome and microbiome in goat kids.
- 27.01.2024, _J Chai, Y Zhuang, K Cui, Y Bi, N Zhang_
+ 02.02.2024, _J Chai, Y Zhuang, K Cui, Y Bi, N Zhang_
 
 
 _Animals, Humans, Goats, Rumen, Microbiota, Animals, Domestic, Gastrointestinal Microbiome, Anti-Bacterial Agents_
@@ -179,27 +179,9 @@ The gut microbiome of domestic animals carries antibiotic resistance genes (ARGs
 
 ---
 
-## Viroid-like colonists of human microbiomes.
- 10.02.2024, _IN Zheludev, RC Edgar, MJ Lopez-Galiano, M de la Peña, A Babaian, AS Bhatt, AZ Fire_
-
-
-Here, we describe the "Obelisks," a previously unrecognised class of viroid-like elements that we first identified in human gut metatranscriptomic data. "Obelisks" share several properties: (i) apparently circular RNA ~1kb genome assemblies, (ii) predicted rod-like secondary structures encompassing the entire genome, and (iii) open reading frames coding for a novel protein superfamily, which we call the "Oblins". We find that Obelisks form their own distinct phylogenetic group with no detectable sequence or structural similarity to known biological agents. Further, Obelisks are prevalent in tested human microbiome metatranscriptomes with representatives detected in ~7% of analysed stool metatranscriptomes (29/440) and in ~50% of analysed oral metatranscriptomes (17/32). Obelisk compositions appear to differ between the anatomic sites and are capable of persisting in individuals, with continued presence over &gt;300 days observed in one case. Large scale searches identified 29,959 Obelisks (clustered at 90% nucleotide identity), with examples from all seven continents and in diverse ecological niches. From this search, a subset of Obelisks are identified to code for Obelisk-specific variants of the hammerhead type-III self-cleaving ribozyme. Lastly, we identified one case of a bacterial species (Streptococcus sanguinis) in which a subset of defined laboratory strains harboured a specific Obelisk RNA population. As such, Obelisks comprise a class of diverse RNAs that have colonised, and gone unnoticed in, human, and global microbiomes.
+## Viroid-like colonists of human microbiomes
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.01.20.576352v1)
-
-10.1101/2024.01.20.576352
-
----
-
-## Expression Analysis of Nitrogen Metabolism Genes in Lelliottia amnigena PTJIIT1005, Comparison with Escherichia coli K12 and Validation of Nitrogen Metabolism Genes.
- 10.02.2024, _P Thakur, P Gauba_
-
-
-Escherichia coli K12 and Lelliottia amnigena PTJIIT1005 bacteria were isolated from the polluted Yamuna River (Delhi, India) site, which can remediate nitrate from groundwater media under anaerobic conditions. BV-BRC (Bacterial and Viral Bioinformatics Resource Center) information system, RAST, and PGAP servers were used to annotate the nitrogen metabolism genes from the genome sequence of these microbes. Here we compared the strains L. amnigena PTJIIT1005 with E. coli K12 in the context of nitrogen metabolism genes. Sequence alignment, similarity percentage, and phylogenetic analysis were done to find similarities between the genes. Common nitrogen genes of these strains, like respiratory nitrate reductase, nitrite reductase, nitric oxide reductase, glutamine synthetase, and hydroxylamine reductase, have found good sequence similarity (83-94%) with each other. The PATRIC tool identified N-operons, and the nitrate reductase gene clusters were also determined as per literature survey. Protein-protein interaction network was constructed using STRING 12.0 database and Cytoscape v 3.10.0 software plug-in Network analyzer. On the basis of network topological parameters NarG, NarZ, NarY, NarH, NarI, NarV, NirB, NirD, NapA, and NapB are the key genes in network of E. coli K12 strain. Nar, NirB, NirD, NasA, NasB, NasC, NasD, NasE, and GlnA are the key genes in network of L. amnigena PTJIIT1005. Among these, NarG and NirB are the superhub genes because of having highest Betweenness centrality (BC) and node degree. The functional enrichment analysis was determined using PANTHER GENE ONTOLOGY and DAVID software exhibited their role in nitrogen metabolism pathway and nitrate assimilation. Further, SWISS-MODEL was used to predict the 3D protein structure of these enzymes, and after, these structures were validated by Ramachandran plot using the PROCHECK tool. The Real-Time Quantitative Reverse Transcription PCR (qRT-PCR) method was used to determine the N-genes expression level in both strains. This study showed that E. coli K12 and L. amnigena PTJIIT1005 have common nitrogen metabolism genes involved in the same functional role, like the denitrification pathway. Additionally, operon arrangement study and PPI network revealed that E. coli K12 has only a denitrification pathway, while L. amnigena PTJIIT1005 has both an assimilation and denitrification pathway. PCR successfully amplified selected N-metabolizing genes, and the expression level of N-genes was high in strain L. amnigena PTJIIT1005. Our previous experimental study exhibited a better nitrate remediation rate in L. amnigena PTJIIT1005 over E. coli K12. This study confirmed the presence of assimilation and denitrification process through amplified N-metabolizing genes and showed high expression of N-genes in L. amnigena PTJIIT1005, which favor the evidence of better nitrate remediation in L. amnigena PTJIIT1005 over E. coli K12.
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.28.577602v1)
-
-10.1007/s10528-024-10677-w
 
 ---
 
@@ -215,16 +197,9 @@ Escherichia coli K12 and Lelliottia amnigena PTJIIT1005 bacteria were isolated f
 
 ---
 
-## Unraveling metagenomics through long-read sequencing: a comprehensive review.
- 31.01.2024, _C Kim, M Pongpanich, T Porntaveetus_
-
-
-_RNA, Ribosomal, 16S, High-Throughput Nucleotide Sequencing, Metagenomics, Sequence Analysis, DNA, Genomics_
-The study of microbial communities has undergone significant advancements, starting from the initial use of 16S rRNA sequencing to the adoption of shotgun metagenomics. However, a new era has emerged with the advent of long-read sequencing (LRS), which offers substantial improvements over its predecessor, short-read sequencing (SRS). LRS produces reads that are several kilobases long, enabling researchers to obtain more complete and contiguous genomic information, characterize structural variations, and study epigenetic modifications. The current leaders in LRS technologies are Pacific Biotechnologies (PacBio) and Oxford Nanopore Technologies (ONT), each offering a distinct set of advantages. This review covers the workflow of long-read metagenomics sequencing, including sample preparation (sample collection, sample extraction, and library preparation), sequencing, processing (quality control, assembly, and binning), and analysis (taxonomic annotation and functional annotation). Each section provides a concise outline of the key concept of the methodology, presenting the original concept as well as how it is challenged or modified in the context of LRS. Additionally, the section introduces a range of tools that are compatible with LRS and can be utilized to execute the LRS process. This review aims to present the workflow of metagenomics, highlight the transformative impact of LRS, and provide researchers with a selection of tools suitable for this task.
+## Unraveling metagenomics through long-read sequencing: a comprehensive review
 
 [Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-04917-1)
-
-10.1186/s12967-024-04917-1
 
 ---
 
