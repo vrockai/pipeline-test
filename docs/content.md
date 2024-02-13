@@ -1,256 +1,180 @@
-## Finding Candida auris in public metagenomic repositories.
- 01.02.2024, _JE Mario-Vasquez, UR Bagal, E Lowe, A Morgulis, J Phan, DJ Sexton, S Shiryev, R Slatkevičius, R Welsh, AP Litvintseva, M Blumberg, R Agarwala, NA Chow_
+## Model-free prediction of microbiome compositions.
+ 06.02.2024, _EE Asher, A Bashan_
 
 
-_Humans, Candida, Candidiasis, Candida auris, Prospective Studies, Metagenomics, Antifungal Agents_
-Candida auris is a newly emerged multidrug-resistant fungus capable of causing invasive infections with high mortality. Despite intense efforts to understand how this pathogen rapidly emerged and spread worldwide, its environmental reservoirs are poorly understood. Here, we present a collaborative effort between the U.S. Centers for Disease Control and Prevention, the National Center for Biotechnology Information, and GridRepublic (a volunteer computing platform) to identify C. auris sequences in publicly available metagenomic datasets. We developed the MetaNISH pipeline that uses SRPRISM to align sequences to a set of reference genomes and computes a score for each reference genome. We used MetaNISH to scan ~300,000 SRA metagenomic runs from 2010 onwards and identified five datasets containing C. auris reads. Finally, GridRepublic has implemented a prospective C. auris molecular monitoring system using MetaNISH and volunteer computing.
+_Humans, Microbiota, Metagenome_
+The recent recognition of the importance of the microbiome to the host's health and well-being has yielded efforts to develop therapies that aim to shift the microbiome from a disease-associated state to a healthier one. Direct manipulation techniques of the species' assemblage are currently available, e.g., using probiotics or narrow-spectrum antibiotics to introduce or eliminate specific taxa. However, predicting the species' abundances at the new state remains a challenge, mainly due to the difficulties of deciphering the delicate underlying network of ecological interactions or constructing a predictive model for such complex ecosystems.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291406)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01721-9)
 
-10.1371/journal.pone.0291406
-
----
-
-## A pilot study of fecal pH and redox as functional markers in the premature infant gut microbiome.
- 05.02.2024, _J Letourneau, L Walker, SH Han, LA David, N Younge_
-
-
-_Infant, Infant, Newborn, Humans, Infant, Premature, Gastrointestinal Microbiome, Pilot Projects, RNA, Ribosomal, 16S, Oxidation-Reduction, Alkalosis, Biomarkers, Hydrogen-Ion Concentration_
-The infant gut microbiome is a crucial factor in health and development. In preterm infants, altered gut microbiome composition and function have been linked to serious neonatal complications such as necrotizing enterocolitis and sepsis, which can lead to long-term disability. Although many studies have described links between microbiome composition and disease risk, there is a need for biomarkers to identify infants at risk of these complications in practice. In this pilot study, we obtained stool samples from preterm infant participants longitudinally during the first postnatal months, and measured pH and redox, as well as SCFA content and microbiome composition by 16S rRNA gene amplicon sequencing. These outcomes were compared to clinical data to better understand the role of pH and redox in infant gut microbiome development and overall health, and to assess the potential utility of pH and redox as biomarkers. We found that infants born earlier or exposed to antibiotics exhibited increased fecal pH, and that redox potential increased with postnatal age. These differences may be linked to changes in SCFA content, which was correlated with pH and increased with age. Microbiome composition was also related to birth weight, age, pH, and redox. Our findings suggest that pH and redox may serve as biomarkers of metabolic state in the preterm infant gut.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290598)
-
-10.1371/journal.pone.0290598
+10.1186/s40168-023-01721-9
 
 ---
 
-## Assembly, stability, and dynamics of the infant gut microbiome are linked to bacterial strains and functions in mother's milk.
- 08.02.2024, _M Allert, P Ferretti, KE Johnson, T Heisel, S Gonia, D Knights, DA Fields, FW Albert, EW Demerath, CA Gale, R Blekhman_
+## Divergent maturational patterns of the infant bacterial and fungal gut microbiome in the first year of life are associated with inter-kingdom community dynamics and infant nutrition.
+ 10.02.2024, _EM Mercer, HR Ramay, S Moossavi, I Laforest-Lapointe, ME Reyna, AB Becker, E Simons, PJ Mandhane, SE Turvey, TJ Moraes, MR Sears, P Subbarao, MB Azad, MC Arrieta_
 
 
-The establishment of the gut microbiome in early life is critical for healthy infant development. Although human milk is recommended as the sole source of nutrition for the human infant, little is known about how variation in milk composition, and especially the milk microbiome, shapes the microbial communities in the infant gut. Here, we quantified the similarity between the maternal milk and the infant gut microbiome using 507 metagenomic samples collected from 195 mother-infant pairs at one, three, and six months postpartum. We found that the microbial taxonomic overlap between milk and the infant gut was driven by bifidobacteria, in particular by B. longum . Infant stool samples dominated by B. longum also showed higher temporal stability compared to samples dominated by other species. We identified two instances of strain sharing between maternal milk and the infant gut, one involving a commensal ( B. longum ) and one a pathobiont ( K. pneumoniae ). In addition, strain sharing between unrelated infants was higher among infants born at the same hospital compared to infants born in different hospitals, suggesting a potential role of the hospital environment in shaping the infant gut microbiome composition. The infant gut microbiome at one month compared to six months of age was enriched in metabolic pathways associated with de-novo molecule biosynthesis, suggesting that early colonisers might be more versatile and metabolically independent compared to later colonizers. Lastly, we found a significant overlap in antimicrobial resistance genes carriage between the mother's milk and their infant's gut microbiome. Taken together, our results suggest that the human milk microbiome has an important role in the assembly, composition, and stability of the infant gut microbiome.
+_Humans, Infant, Gastrointestinal Microbiome, Mycobiome, Cohort Studies, Sweetening Agents, Microbiota, Bacteria_
+The gut microbiome undergoes primary ecological succession over the course of early life before achieving ecosystem stability around 3 years of age. These maturational patterns have been well-characterized for bacteria, but limited descriptions exist for other microbiota members, such as fungi. Further, our current understanding of the prevalence of different patterns of bacterial and fungal microbiome maturation and how inter-kingdom dynamics influence early-life microbiome establishment is limited.
 
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.28.577594v1.abstract)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01735-3)
 
-10.1101/2024.01.28.577594
-
----
-
-## A genome-wide association study reveals the relationship between human genetic variation and the nasal microbiome.
- 02.02.2024, _X Liu, X Tong, L Zou, Y Ju, M Liu, M Han, H Lu, H Yang, J Wang, Y Zong, W Liu, X Xu, X Jin, L Xiao, H Jia, R Guo, T Zhang_
-
-
-_Humans, Genome-Wide Association Study, Nose, Microbiota, Genetic Variation, Cardiovascular Diseases_
-The nasal cavity harbors diverse microbiota that contributes to human health and respiratory diseases. However, whether and to what extent the host genome shapes the nasal microbiome remains largely unknown. Here, by dissecting the human genome and nasal metagenome data from 1401 healthy individuals, we demonstrated that the top three host genetic principal components strongly correlated with the nasal microbiota diversity and composition. The genetic association analyses identified 63 genome-wide significant loci affecting the nasal microbial taxa and functions, of which 2 loci reached study-wide significance (p &lt; 1.7 × 10-10): rs73268759 within CAMK2A associated with genus Actinomyces and family Actinomycetaceae; and rs35211877 near POM121L12 with Gemella asaccharolytica. In addition to respiratory-related diseases, the associated loci are mainly implicated in cardiometabolic or neuropsychiatric diseases. Functional analysis showed the associated genes were most significantly expressed in the nasal airway epithelium tissue and enriched in the calcium signaling and hippo signaling pathway. Further observational correlation and Mendelian randomization analyses consistently suggested the causal effects of Serratia grimesii and Yokenella regensburgei on cardiometabolic biomarkers (cystine, glutamic acid, and creatine). This study suggested that the host genome plays an important role in shaping the nasal microbiome.
-
-[Source](https://www.nature.com/articles/s42003-024-05822-5)
-
-10.1038/s42003-024-05822-5
+10.1186/s40168-023-01735-3
 
 ---
 
-## Differential peripheral immune signatures elicited by vegan versus ketogenic diets in humans.
- 30.01.2024, _VM Link, P Subramanian, F Cheung, KL Han, A Stacy, L Chi, BA Sellers, G Koroleva, AB Courville, S Mistry, A Burns, R Apps, KD Hall, Y Belkaid_
+## Genomic attributes of airway commensal bacteria and mucosa.
+ 12.02.2024, _L Cuthbertson, U Löber, JS Ish-Horowicz, CN McBrien, C Churchward, JC Parker, MT Olanipekun, C Burke, A McGowan, GA Davies, KE Lewis, JM Hopkin, KF Chung, O O'Carroll, J Faul, J Creaser-Thomas, M Andrews, R Ghosal, S Piatek, SAG Willis-Owen, TUP Bartolomaeus, T Birkner, S Dwyer, N Kumar, EM Turek, A William Musk, J Hui, M Hunter, A James, ME Dumas, S Filippi, MJ Cox, TD Lawley, SK Forslund, MF Moffatt, WOC Cookson_
 
 
-Nutrition has broad impacts on all physiological processes. However, how nutrition affects human immunity remains largely unknown. Here we explored the impact of a dietary intervention on both immunity and the microbiota by performing a post hoc analysis of a clinical trial in which each of the 20 participants sequentially consumed vegan or ketogenic diets for 2 weeks ( NCT03878108 ). Using a multiomics approach including multidimensional flow cytometry, transcriptomic, proteomic, metabolomic and metagenomic datasets, we assessed the impact of each diet, and dietary switch, on host immunity and the microbiota. Our data revealed that overall, a ketogenic diet was associated with a significant upregulation of pathways and enrichment in cells associated with the adaptive immune system. In contrast, a vegan diet had a significant impact on the innate immune system, including upregulation of pathways associated with antiviral immunity. Both diets significantly and differentially impacted the microbiome and host-associated amino acid metabolism, with a strong downregulation of most microbial pathways following ketogenic diet compared with baseline and vegan diet. Despite the diversity of participants, we also observed a tightly connected network between datasets driven by compounds associated with amino acids, lipids and the immune system. Collectively, this work demonstrates that in diverse participants 2 weeks of controlled dietary intervention is sufficient to significantly and divergently impact host immunity, which could have implications for precision nutritional interventions. ClinicalTrials.gov registration: NCT03878108 .
+Microbial communities at the airway mucosal barrier are conserved and highly ordered, in likelihood reflecting co-evolution with human host factors. Freed of selection to digest nutrients, the airway microbiome underpins cognate management of mucosal immunity and pathogen resistance. We show here the initial results of systematic culture and whole-genome sequencing of the thoracic airway bacteria, identifying 52 novel species amongst 126 organisms that constitute 75% of commensals typically present in heathy individuals. Clinically relevant genes encode antimicrobial synthesis, adhesion and biofilm formation, immune modulation, iron utilisation, nitrous oxide (NO) metabolism and sphingolipid signalling. Using whole-genome content we identify dysbiotic features that may influence asthma and chronic obstructive pulmonary disease. We match isolate gene content to transcripts and metabolites expressed late in airway epithelial differentiation, identifying pathways to sustain host interactions with microbiota. Our results provide a systematic basis for decrypting interactions between commensals, pathogens, and mucosa in lung diseases of global significance.
 
-[Source](https://www.nature.com/articles/s41591-023-02761-2)
+[Source](https://www.nature.com/articles/s42003-024-05840-3)
 
-10.1038/s41591-023-02761-2
-
----
-
-## Metagenomic analyses of 7000 to 5500 years old coprolites excavated from the Torihama shell-mound site in the Japanese archipelago.
- 06.02.2024, _L Nishimura, A Tanino, M Ajimoto, T Katsumura, M Ogawa, K Koganebuchi, D Waku, M Kumagai, R Sugimoto, H Nakaoka, H Oota, I Inoue_
-
-
-_Humans, Japan, Metagenome, Metagenomics, Genomics, Archaeology_
-Coprolites contain various kinds of ancient DNAs derived from gut micro-organisms, viruses, and foods, which can help to determine the gut environment of ancient peoples. Their genomic information should be helpful in elucidating the interaction between hosts and microbes for thousands of years, as well as characterizing the dietary behaviors of ancient people. We performed shotgun metagenomic sequencing on four coprolites excavated from the Torihama shell-mound site in the Japanese archipelago. The coprolites were found in the layers of the Early Jomon period, corresponding stratigraphically to 7000 to 5500 years ago. After shotgun sequencing, we found that a significant number of reads showed homology with known gut microbe, viruses, and food genomes typically found in the feces of modern humans. We detected reads derived from several types of phages and their host bacteria simultaneously, suggesting the coexistence of viruses and their hosts. The food genomes provide biological evidence for the dietary behavior of the Jomon people, consistent with previous archaeological findings. These results indicate that ancient genomic analysis of coprolites is useful for understanding the gut environment and lifestyle of ancient peoples.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295924)
-
-10.1371/journal.pone.0295924
+10.1038/s42003-024-05840-3
 
 ---
 
-## Unravelling the ancient fungal DNA from the Iceman’s gut
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.24.576930v1)
-
----
-
-## Streptococcus anginosus promotes gastric inflammation, atrophy, and tumorigenesis in mice.
- 31.01.2024, _K Fu, AHK Cheung, CC Wong, W Liu, Y Zhou, F Wang, P Huang, K Yuan, OO Coker, Y Pan, D Chen, NM Lam, M Gao, X Zhang, H Huang, KF To, JJY Sung, J Yu_
+## Triggers for the onset and recurrence of psoriasis: a review and update.
+ 12.02.2024, _S Liu, M He, J Jiang, X Duan, B Chai, J Zhang, Q Tao, H Chen_
 
 
-Streptococcus anginosus (S. anginosus) was enriched in the gastric mucosa of patients with gastric cancer (GC). Here, we show that S. anginosus colonized the mouse stomach and induced acute gastritis. S. anginosus infection spontaneously induced progressive chronic gastritis, parietal cell atrophy, mucinous metaplasia, and dysplasia in conventional mice, and the findings were confirmed in germ-free mice. In addition, S. anginosus accelerated GC progression in carcinogen-induced gastric tumorigenesis and YTN16 GC cell allografts. Consistently, S. anginosus disrupted gastric barrier function, promoted cell proliferation, and inhibited apoptosis. Mechanistically, we identified an S. anginosus surface protein, TMPC, that interacts with Annexin A2 (ANXA2) receptor on gastric epithelial cells. Interaction of TMPC with ANXA2 mediated attachment and colonization of S. anginosus and induced mitogen-activated protein kinase (MAPK) activation. ANXA2 knockout abrogated the induction of MAPK by S. anginosus. Thus, this study reveals S. anginosus as a pathogen that promotes gastric tumorigenesis via direct interactions with gastric epithelial cells in the TMPC-ANXA2-MAPK axis.
+Psoriasis is an immune-mediated inflammatory skin disease, involving a complex interplay between genetic and environmental factors. Previous studies have demonstrated that genetic factors play a major role in the pathogenesis of psoriasis. However, non-genetic factors are also necessary to trigger the onset and recurrence of psoriasis in genetically predisposed individuals, which include infections, microbiota dysbiosis of the skin and gut, dysregulated lipid metabolism, dysregulated sex hormones, and mental illness. Psoriasis can also be induced by other environmental triggers, such as skin trauma, unhealthy lifestyles, and medications. Understanding how these triggers play a role in the onset and recurrence of psoriasis provides insights into psoriasis pathogenesis, as well as better clinical administration. In this review, we summarize the triggers for the onset and recurrence of psoriasis and update the current evidence on the underlying mechanism of how these factors elicit the disease. Video Abstract.
 
-[Source](https://www.cell.com/cell/fulltext/S0092-8674(24)00006-0)
+[Source](https://biosignaling.biomedcentral.com/articles/10.1186/s12964-023-01381-0)
 
-10.1016/j.cell.2024.01.004
+10.1186/s12964-023-01381-0
 
 ---
 
-## Gut complement induced by the microbiota combats pathogens and spares commensals.
- 27.01.2024, _M Wu, W Zheng, X Song, B Bao, Y Wang, D Ramanan, D Yang, R Liu, JC Macbeth, EA Do, WA Andrade, T Yang, HS Cho, FS Gazzaniga, M Ilves, D Coronado, C Thompson, S Hang, IM Chiu, JR Moffitt, A Hsiao, JJ Mekalanos, C Benoist, DL Kasper_
+## Uterine fibroids and longitudinal profiles of the vaginal microbiota in a cohort presenting for transvaginal ultrasound
 
-
-Canonically, the complement system is known for its rapid response to remove microbes in the bloodstream. However, relatively little is known about a functioning complement system on intestinal mucosal surfaces. Herein, we report the local synthesis of complement component 3 (C3) in the gut, primarily by stromal cells. C3 is expressed upon commensal colonization and is regulated by the composition of the microbiota in healthy humans and mice, leading to an individual host's specific luminal C3 levels. The absence of membrane attack complex (MAC) components in the gut ensures that C3 deposition does not result in the lysis of commensals. Pathogen infection triggers the immune system to recruit neutrophils to the infection site for pathogen clearance. Basal C3 levels directly correlate with protection against enteric infection. Our study reveals the gut complement system as an innate immune mechanism acting as a vigilant sentinel that combats pathogens and spares commensals.
-
-[Source](https://www.cell.com/cell/fulltext/S0092-8674(24)00001-1)
-
-10.1016/j.cell.2023.12.036
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296346)
 
 ---
 
-## Complement in breast milk modifies offspring gut microbiota to promote infant health.
- 06.02.2024, _D Xu, S Zhou, Y Liu, AL Scott, J Yang, F Wan_
+## Microbial-derived imidazole propionate links the heart failure-associated microbiome alterations to disease severity.
+ 13.02.2024, _SC Raju, A Molinaro, A Awoyemi, SF Jørgensen, PR Braadland, A Nendl, I Seljeflot, PM Ueland, A McCann, P Aukrust, B Vestad, C Mayerhofer, K Broch, L Gullestad, KT Lappegård, B Halvorsen, K Kristiansen, JR Hov, M Trøseid_
 
 
-_Animals, Female, Humans, Infant, Mice, Bacteria, Breast Feeding, Citrobacter rodentium, Complement System Proteins, Gastrointestinal Microbiome, Immunologic Factors, Infant Health, Milk, Human, Milk, Enterobacteriaceae Infections_
-Breastfeeding offers demonstrable benefits to newborns and infants by providing nourishment and immune protection and by shaping the gut commensal microbiota. Although it has been appreciated for decades that breast milk contains complement components, the physiological relevance of complement in breast milk remains undefined. Here, we demonstrate that weanling mice fostered by complement-deficient dams rapidly succumb when exposed to murine pathogen Citrobacter rodentium (CR), whereas pups fostered on complement-containing milk from wild-type dams can tolerate CR challenge. The complement components in breast milk were shown to directly lyse specific members of gram-positive gut commensal microbiota via a C1-dependent, antibody-independent mechanism, resulting in the deposition of the membrane attack complex and subsequent bacterial lysis. By selectively eliminating members of the commensal gut community, complement components from breast milk shape neonate and infant gut microbial composition to be protective against environmental pathogens such as CR.
+_Humans, Microbiota, Heart Failure, Imidazoles, Patient Acuity, Dysbiosis_
+Interactions between the gut microbiota, diet, and host metabolism contribute to the development of cardiovascular disease, but a firm link between disease-specific gut microbiota alterations and circulating metabolites is lacking.
 
-[Source](https://www.cell.com/cell/fulltext/S0092-8674(23)01384-3)
+[Source](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01296-6)
 
-10.1016/j.cell.2023.12.019
-
----
-
-## Antidiabetic effects and mechanism of γ-polyglutamic acid on type II diabetes mice.
- 04.02.2024, _Y Li, W Zhang, C Tang, C Wang, C Liu, Q Chen, K Yang, Y Gu, P Lei, H Xu, R Wang_
-
-
-Diabetes is one of the foremost chronic non-communicable diseases worldwide, which significantly impacts people's quality of life. This study aimed to investigate the hypoglycemic effects of γ-polyglutamic acid (γ-PGA) on STZ-induced type II diabetes mice and its potential mechanisms. The results indicated that γ-PGA intervention contributed to reducing fasting blood glucose levels in diabetic mice, regulating lipid metabolism in type II diabetes mice, and improving insulin resistance. Additionally, γ-PGA could alleviate liver inflammation, enhancing the activity of hepatic antioxidant enzymes. Investigation into the insulin signaling pathway revealed that γ-PGA significantly increased the expression of INSR, IRS-1, Akt, PI3K in diabetic mice, thereby enhancing insulin sensitivity and improving insulin resistance to regulate glucose metabolism. High-throughput sequencing of mouse gut microbiota using 16S rRNA showed that γ-PGA increased the abundance and evenness of beneficial bacteria in the intestines of type II diabetic mice, inhibited the growth of harmful bacteria, and may exerted hypoglycemic effects by modulating and improving relevant metabolic pathways associated with diabetes symptoms. This study provides new insights into the treatment of type II diabetes and highlights the significant potential of γ-PGA in treating type II diabetes.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0141813024006123)
-
-10.1016/j.ijbiomac.2024.129809
+10.1186/s13073-024-01296-6
 
 ---
 
-## Bacterial microbiome associated with cigarette beetle Lasioderma serricorne (F.) and its microbial plasticity in relation to diet sources.
- 01.02.2024, _TS Srinivasan, K Premachandran, PX Clinton_
+## Horizontal gene transfer after faecal microbiota transplantation in adolescents with obesity.
+ 12.02.2024, _AH Behling, BC Wilson, D Ho, WS Cutfield, T Vatanen, JM O'Sullivan_
 
 
-_Animals, Coleoptera, Bacteria, Diet, Microbiota, Tobacco Products_
-Insect-microbial symbiosis contributes positively to the physiology of the insect and diet is considered as one important factor determining microbial symbiosis. In this study, we have characterized the microbiota of cigarette beetle, Lasioderma serricorne (Fabricius) on different diets and phases. The beetles were reared on different diet sources (exposed phase) for six generations and were reverted to their natal source (reverted phase) and further maintained for six more generations. The bacterial diversity and richness were higher in the exposed phase and once reverted to the natal source, the microbial abundance has re-assembled according to the natal diet source. There was re-assemblage of microbial composition in accordance to the diet and the bacterial cells are able to establish and proliferate on reverting to their natal source. The bacterial composition of the beetle was mainly dynamic and not transient where the bacterial cells were maintained at low abundance and were re-established according to the diet source. Overall, we found that the microbiota of cigarette beetle to be dynamic and bacterial composition to re-assemble in a diet-specific manner. The study provides insights on diet associated microbial plasticity of cigarette beetle and a further comprehensive understanding on mechanisms involved in microbial plasticity will help develop novel pest management strategies for this invasive insect pest.
+Horizontal gene transfer (HGT) describes the transmission of DNA outside of direct ancestral lineages. The process is best characterised within the bacterial kingdom and can enable the acquisition of genetic traits that support bacterial adaptation to novel niches. The adaptation of bacteria to novel niches has particular relevance for faecal microbiota transplantation (FMT), a therapeutic procedure which aims to resolve gut-related health conditions of individuals, through transplanted gut microbiota from healthy donors.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289215)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01748-6)
 
-10.1371/journal.pone.0289215
-
----
-
-## Metagenomics reveals the temporal dynamics of the rumen resistome and microbiome in goat kids.
- 02.02.2024, _J Chai, Y Zhuang, K Cui, Y Bi, N Zhang_
-
-
-_Animals, Humans, Goats, Rumen, Microbiota, Animals, Domestic, Gastrointestinal Microbiome, Anti-Bacterial Agents_
-The gut microbiome of domestic animals carries antibiotic resistance genes (ARGs) which can be transmitted to the environment and humans, resulting in challenges of antibiotic resistance. Although it has been reported that the rumen microbiome of ruminants may be a reservoir of ARGs, the factors affecting the temporal dynamics of the rumen resistome are still unclear. Here, we collected rumen content samples of goats at 1, 7, 14, 28, 42, 56, 70, and 84 days of age, analyzed their microbiome and resistome profiles using metagenomics, and assessed the temporal dynamics of the rumen resistome in goats at the early stage of life under a conventional feeding system.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01733-5)
-
-10.1186/s40168-023-01733-5
+10.1186/s40168-024-01748-6
 
 ---
 
-## Thermal fluctuations independently modulate physiological plasticity and the dynamics of the gut microbiome in a tropical rocky shore oyster
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.02.08.527599v2.abstract)
-
----
-
-## Diversity and structure of the deep-sea sponge microbiome in the equatorial Atlantic Ocean
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.24.577104v1.abstract)
-
----
-
-## Community succession of the grapevine fungal microbiome in the annual growth cycle.
- 31.05.2022, _D Liu, K Howell_
+## Differential effects of antiretroviral treatment on immunity and gut microbiome composition in people living with HIV in rural versus urban Zimbabwe.
+ 12.02.2024, _AS Burkhart Colorado, A Lazzaro, CP Neff, N Nusbacher, K Boyd, S Fiorillo, C Martin, JC Siebert, TB Campbell, M Borok, BE Palmer, C Lozupone_
 
 
-_Fungi, Mycobiome, Vitis, Wine_
-Microbial ecology and activity in wine production influences grapevine health and productivity, conversion of sugar to ethanol during fermentation, wine aroma, wine quality and distinctiveness. Fungi in the vineyard ecosystem are not well described. Here, we characterized the spatial and temporal dynamics of fungal communities associated with the grapevine (grapes, flowers, leaves, and roots) and soils over an annual growth cycle in two vineyards to investigate the influences of grape habitat, plant developmental stage (flowering, fruit set, veraison, and harvest), vineyards, and climatic conditions. Fungi were influenced by both the grapevine habitat and plant development stage. The core microbiome was prioritized over space and time, and the identified core members drove seasonal community succession. The developmental stage of veraison, where the grapes undergo a dramatic change in metabolism and start accumulating sugar, coincided with a distinct shift in fungal communities. Co-occurrence networks showed strong correlations between the plant microbiome, the soil microbiome, and weather indices. Our study describes the complex ecological dynamics that occur in microbial assemblages over a growing season and highlight succession of the core community in vineyards.
+_Humans, Gastrointestinal Microbiome, Zimbabwe, Anti-Retroviral Agents, HIV Infections, Inflammation_
+The widespread availability of antiretroviral therapy (ART) has dramatically reduced mortality and improved life expectancy for people living with HIV (PLWH). However, even with HIV-1 suppression, chronic immune activation and elevated inflammation persist and have been linked to a pro-inflammatory gut microbiome composition and compromised intestinal barrier integrity. PLWH in urban versus rural areas of sub-Saharan Africa experience differences in environmental factors that may impact the gut microbiome and immune system, in response to ART, yet this has not previously been investigated in these groups. To address this, we measured T cell activation/exhaustion/trafficking markers, plasma inflammatory markers, and fecal microbiome composition in PLWH and healthy participants recruited from an urban clinic in the city of Harare, Zimbabwe, and a district hospital that services surrounding rural villages. PLWH were either ART naïve at baseline and sampled again after 24 weeks of first-line ART and the antibiotic cotrimoxazole or were ART-experienced at both timepoints.
 
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.15.574562v2.abstract)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01718-4)
 
-10.1111/1462-2920.15172
+10.1186/s40168-023-01718-4
 
 ---
 
-## Temporal and spatial dynamics within the fungal microbiome of grape fermentation
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.15.574562v2.abstract)
-
----
-
-## Autotrophic biofilms sustained by deeply sourced groundwater host diverse bacteria implicated in sulfur and hydrogen metabolism.
- 06.02.2024, _LE Valentin-Alvarado, SC Fakra, AJ Probst, JR Giska, AL Jaffe, LM Oltrogge, J West-Roberts, J Rowland, M Manga, DF Savage, C Greening, BJ Baker, JF Banfield_
+## Gut microbiome signature of metabolically healthy obese individuals according to anthropometric, metabolic and inflammatory parameters.
+ 11.02.2024, _HK Lee, NE Kim, CM Shin, TJ Oh, H Yoon, YS Park, N Kim, S Won, DH Lee_
 
 
-_Ecosystem, Bacteria, Sulfides, Oxidation-Reduction, Groundwater, Sulfur, Biofilms, Hydrogen, Phylogeny_
-Biofilms in sulfide-rich springs present intricate microbial communities that play pivotal roles in biogeochemical cycling. We studied chemoautotrophically based biofilms that host diverse CPR bacteria and grow in sulfide-rich springs to investigate microbial controls on biogeochemical cycling.
+In this study, we investigated the characteristics of gut microbiome in the metabolically healthy obese (MHO) patients, and how they correlate with metabolic and inflammatory profiles. A total of 120 obese people without metabolic comorbidities were recruited, and their clinical phenotypes, metabolic and inflammatory parameters were analysed. The faecal microbial markers originating from bacterial cell and extracellular vesicle (EV) were profiled using 16S rDNA sequencing. The total study population could be classified into two distinct enterotypes (enterotype I: Prevotellaceae-predominant, enterotype II: Akkermansia/Bacteroides-predominant), based on their stool EV-derived microbiome profile. When comparing the metabolic and inflammatory profiles, subjects in enterotype I had higher levels of serum IL-1β [false discovery rate (FDR) q = 0.050] and had a lower level of microbial diversity than enterotype II (Wilcoxon rank-sum test p &lt; 0.01). Subjects in enterotype I had relatively higher abundance of Bacteroidetes, Prevotellaceae and Prevotella-derived EVs, and lower abundance of Actinobacteria, Firmicutes, Proteobacteria, Akkermansia and Bacteroides-derived EVs (FDR q &lt; 0.05). In conclusion, HMO patients can be categorised into two distinct enterotypes by the faecal EV-derived microbiome profile. The enterotyping may be associated with different metabolic and inflammatory profiles. Further studies are warranted to elucidate the long-term prognostic impact of EV-derived microbiome in the obese population.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01704-w)
+[Source](https://www.nature.com/articles/s41598-024-53837-z)
 
-10.1186/s40168-023-01704-w
+10.1038/s41598-024-53837-z
 
 ---
 
-## Viroid-like colonists of human microbiomes.
- 10.02.2024, _IN Zheludev, RC Edgar, MJ Lopez-Galiano, M de la Peña, A Babaian, AS Bhatt, AZ Fire_
+## Metagenome-assembled genome reveals species and functional composition of Jianghan chicken gut microbiota and isolation of Pediococcus acidilactic with probiotic properties.
+ 12.02.2024, _H Shen, T Wang, W Dong, G Sun, J Liu, N Peng, S Zhao_
 
 
-Here, we describe the "Obelisks," a previously unrecognised class of viroid-like elements that we first identified in human gut metatranscriptomic data. "Obelisks" share several properties: (i) apparently circular RNA ~1kb genome assemblies, (ii) predicted rod-like secondary structures encompassing the entire genome, and (iii) open reading frames coding for a novel protein superfamily, which we call the "Oblins". We find that Obelisks form their own distinct phylogenetic group with no detectable sequence or structural similarity to known biological agents. Further, Obelisks are prevalent in tested human microbiome metatranscriptomes with representatives detected in ~7% of analysed stool metatranscriptomes (29/440) and in ~50% of analysed oral metatranscriptomes (17/32). Obelisk compositions appear to differ between the anatomic sites and are capable of persisting in individuals, with continued presence over &gt;300 days observed in one case. Large scale searches identified 29,959 Obelisks (clustered at 90% nucleotide identity), with examples from all seven continents and in diverse ecological niches. From this search, a subset of Obelisks are identified to code for Obelisk-specific variants of the hammerhead type-III self-cleaving ribozyme. Lastly, we identified one case of a bacterial species (Streptococcus sanguinis) in which a subset of defined laboratory strains harboured a specific Obelisk RNA population. As such, Obelisks comprise a class of diverse RNAs that have colonised, and gone unnoticed in, human, and global microbiomes.
+Chickens are one of the most widely farmed animals worldwide and play a crucial role in meat and egg production. Gut microbiota is essential for chickens' health, disease, growth, and egg production. However, native chickens such as Jianghan chickens have better meat and egg production quality than centralized chickens, their intestinal microbial diversity is richer, and the potential gut microbial resources may bring health benefits to the host.
 
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.20.576352v1)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01745-1)
 
-10.1101/2024.01.20.576352
-
----
-
-## Expression Analysis of Nitrogen Metabolism Genes in Lelliottia amnigena PTJIIT1005, Comparison with Escherichia coli K12 and Validation of Nitrogen Metabolism Genes.
- 10.02.2024, _P Thakur, P Gauba_
-
-
-Escherichia coli K12 and Lelliottia amnigena PTJIIT1005 bacteria were isolated from the polluted Yamuna River (Delhi, India) site, which can remediate nitrate from groundwater media under anaerobic conditions. BV-BRC (Bacterial and Viral Bioinformatics Resource Center) information system, RAST, and PGAP servers were used to annotate the nitrogen metabolism genes from the genome sequence of these microbes. Here we compared the strains L. amnigena PTJIIT1005 with E. coli K12 in the context of nitrogen metabolism genes. Sequence alignment, similarity percentage, and phylogenetic analysis were done to find similarities between the genes. Common nitrogen genes of these strains, like respiratory nitrate reductase, nitrite reductase, nitric oxide reductase, glutamine synthetase, and hydroxylamine reductase, have found good sequence similarity (83-94%) with each other. The PATRIC tool identified N-operons, and the nitrate reductase gene clusters were also determined as per literature survey. Protein-protein interaction network was constructed using STRING 12.0 database and Cytoscape v 3.10.0 software plug-in Network analyzer. On the basis of network topological parameters NarG, NarZ, NarY, NarH, NarI, NarV, NirB, NirD, NapA, and NapB are the key genes in network of E. coli K12 strain. Nar, NirB, NirD, NasA, NasB, NasC, NasD, NasE, and GlnA are the key genes in network of L. amnigena PTJIIT1005. Among these, NarG and NirB are the superhub genes because of having highest Betweenness centrality (BC) and node degree. The functional enrichment analysis was determined using PANTHER GENE ONTOLOGY and DAVID software exhibited their role in nitrogen metabolism pathway and nitrate assimilation. Further, SWISS-MODEL was used to predict the 3D protein structure of these enzymes, and after, these structures were validated by Ramachandran plot using the PROCHECK tool. The Real-Time Quantitative Reverse Transcription PCR (qRT-PCR) method was used to determine the N-genes expression level in both strains. This study showed that E. coli K12 and L. amnigena PTJIIT1005 have common nitrogen metabolism genes involved in the same functional role, like the denitrification pathway. Additionally, operon arrangement study and PPI network revealed that E. coli K12 has only a denitrification pathway, while L. amnigena PTJIIT1005 has both an assimilation and denitrification pathway. PCR successfully amplified selected N-metabolizing genes, and the expression level of N-genes was high in strain L. amnigena PTJIIT1005. Our previous experimental study exhibited a better nitrate remediation rate in L. amnigena PTJIIT1005 over E. coli K12. This study confirmed the presence of assimilation and denitrification process through amplified N-metabolizing genes and showed high expression of N-genes in L. amnigena PTJIIT1005, which favor the evidence of better nitrate remediation in L. amnigena PTJIIT1005 over E. coli K12.
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.28.577602v1)
-
-10.1007/s10528-024-10677-w
+10.1186/s40168-023-01745-1
 
 ---
 
-## DeepGOMeta: Predicting functions for microbes
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.28.577602v1)
-
----
-
-## Predicting microbial genome-scale metabolic networks directly from 16S rRNA gene sequences
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.01.26.576649v1)
-
----
-
-## Unraveling metagenomics through long-read sequencing: a comprehensive review.
- 06.02.2024, _C Kim, M Pongpanich, T Porntaveetus_
+## Falcon gut microbiota is shaped by diet and enriched in Salmonella.
+ 06.02.2024, _AR Ahmad, S Ridgeway, AA Shibl, Y Idaghdour, AR Jha_
 
 
-_RNA, Ribosomal, 16S, High-Throughput Nucleotide Sequencing, Metagenomics, Sequence Analysis, DNA, Genomics_
-The study of microbial communities has undergone significant advancements, starting from the initial use of 16S rRNA sequencing to the adoption of shotgun metagenomics. However, a new era has emerged with the advent of long-read sequencing (LRS), which offers substantial improvements over its predecessor, short-read sequencing (SRS). LRS produces reads that are several kilobases long, enabling researchers to obtain more complete and contiguous genomic information, characterize structural variations, and study epigenetic modifications. The current leaders in LRS technologies are Pacific Biotechnologies (PacBio) and Oxford Nanopore Technologies (ONT), each offering a distinct set of advantages. This review covers the workflow of long-read metagenomics sequencing, including sample preparation (sample collection, sample extraction, and library preparation), sequencing, processing (quality control, assembly, and binning), and analysis (taxonomic annotation and functional annotation). Each section provides a concise outline of the key concept of the methodology, presenting the original concept as well as how it is challenged or modified in the context of LRS. Additionally, the section introduces a range of tools that are compatible with LRS and can be utilized to execute the LRS process. This review aims to present the workflow of metagenomics, highlight the transformative impact of LRS, and provide researchers with a selection of tools suitable for this task.
+_Animals, Humans, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Phylogeny, Diet, Salmonella, Falconiformes_
+The gut microbiome is increasingly being appreciated as a master regulator of animal health. However, avian gut microbiome studies commonly focus on birds of economic importance and the gut microbiomes of raptors remain underexplored. Here we examine the gut microbiota of 29 captive falcons-raptors of historic importance-in the context of avian evolution by sequencing the V4 region of the 16S rRNA gene. Our results reveal that evolutionary histories and diet are significantly associated with avian gut microbiota in general, whereas diet plays a major role in shaping the falcon gut microbiota. Multiple analyses revealed that gut microbial diversity, composition, and relative abundance of key diet-discriminating bacterial genera in the falcon gut closely resemble those of carnivorous raptors rather than those of their closest phylogenetic relatives. Furthermore, the falcon microbiota is dominated by Firmicutes and contains Salmonella at appreciable levels. Salmonella presence was associated with altered functional capacity of the falcon gut microbiota as its abundance is associated with depletion of multiple predicted metabolic pathways involved in protein mass buildup, muscle maintenance, and enrichment of antimicrobial compound degradation, thus increasing the pathogenic potential of the falcon gut. Our results point to the necessity of screening for Salmonella and other human pathogens in captive birds to safeguard both the health of falcons and individuals who come in contact with these birds.
 
-[Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-04917-1)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293895)
 
-10.1186/s12967-024-04917-1
+10.1371/journal.pone.0293895
 
 ---
 
-## Non-prescription therapeutics for IBS: where are we?
+## Sex differences in colonic gene expression and fecal microbiota composition in a mouse model of obesity-associated colorectal cancer
 
-[Source](https://www.gutmicrobiotaforhealth.com/non-prescription-therapeutics-for-ibs-where-are-we/)
+[Source](https://www.nature.com/articles/s41598-024-53861-z)
+
+---
+
+## A conserved interdomain microbial network underpins cadaver decomposition despite environmental variables.
+ 12.02.2024, _ZM Burcham, AD Belk, BB McGivern, A Bouslimani, P Ghadermazi, C Martino, L Shenhav, AR Zhang, P Shi, A Emmons, HL Deel, ZZ Xu, V Nieciecki, Q Zhu, M Shaffer, M Panitchpakdi, KC Weldon, K Cantrell, A Ben-Hur, SC Reed, GC Humphry, G Ackermann, D McDonald, SHJ Chan, M Connor, D Boyd, J Smith, JMS Watson, G Vidoli, D Steadman, AM Lynne, S Bucheli, PC Dorrestein, KC Wrighton, DO Carter, R Knight, JL Metcalf_
+
+
+Microbial breakdown of organic matter is one of the most important processes on Earth, yet the controls of decomposition are poorly understood. Here we track 36 terrestrial human cadavers in three locations and show that a phylogenetically distinct, interdomain microbial network assembles during decomposition despite selection effects of location, climate and season. We generated a metagenome-assembled genome library from cadaver-associated soils and integrated it with metabolomics data to identify links between taxonomy and function. This universal network of microbial decomposers is characterized by cross-feeding to metabolize labile decomposition products. The key bacterial and fungal decomposers are rare across non-decomposition environments and appear unique to the breakdown of terrestrial decaying flesh, including humans, swine, mice and cattle, with insects as likely important vectors for dispersal. The observed lockstep of microbial interactions further underlies a robust microbial forensic tool with the potential to aid predictions of the time since death.
+
+[Source](https://www.nature.com/articles/s41564-023-01580-y)
+
+10.1038/s41564-023-01580-y
+
+---
+
+## YACHT: an ANI-based statistical test to detect microbial presence/absence in a metagenomic sample
+
+[Source](https://academic.oup.com/bioinformatics/article/40/2/btae047/7588873)
+
+---
+
+## Gut microbiome-metabolome interactions predict host condition.
+ 12.02.2024, _O Shtossel, O Koren, I Shai, E Rinott, Y Louzoun_
+
+
+The effect of microbes on their human host is often mediated through changes in metabolite concentrations. As such, multiple tools have been proposed to predict metabolite concentrations from microbial taxa frequencies. Such tools typically fail to capture the dependence of the microbiome-metabolite relation on the environment.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01737-1)
+
+10.1186/s40168-023-01737-1
+
+---
+
+## Fecal microbiome composition and diversity of cryopreserved canine stool at different duration and storage conditions.
+ 10.02.2024, _P Barko, J Nguyen-Edquilang, DA Williams, A Gal_
+
+
+_Humans, Dogs, Animals, Specimen Handling, Feces, Microbiota, Cryopreservation, Gastrointestinal Tract, Bacteria, RNA, Ribosomal, 16S_
+Fresh-frozen stool banks intended for humans with gastrointestinal and metabolic disorders have been recently established and there are ongoing efforts to establish the first veterinary fresh-frozen stool bank. Fresh frozen stored feces provide an advantage of increased availability and accessibility to high-quality optimal donor fecal material. The stability of frozen canine feces regarding fecal microbiome composition and diversity has not been reported in dogs, providing the basis for this study. We hypothesized that fecal microbial composition and diversity of healthy dogs would remain stable when stored at -20°C and -80°C for up to 12 months compared to baseline samples evaluated before freezing. Stool samples were collected from 20 apparently healthy dogs, manually homogenized, cryopreserved in 20% glycerol and aliquoted, frozen in liquid nitrogen and stored at -20°C or -80°C for 3, 6, 9, and 12 months. At baseline and after period of storage, aliquots were thawed and treated with propidium monoazide before fecal DNA extraction. Following long-read 16S-rRNA amplicon sequencing, bacterial community composition and diversity were compared among treatment groups. We demonstrated that fresh-frozen canine stools collected from 20 apparently healthy dogs could be stored for up to 12 months at -80°C with minimal change in microbial community composition and diversity and that storage at -80°C is superior to storage at -20°C. We also found that differences between dogs had the largest effect on community composition and diversity. Relative abundances of certain bacterial taxa, including those known to be short-chain fatty acid producers, varied significantly with specific storage temperatures and duration. Further work is required to ascertain whether fecal donor material that differs in bacterial community composition and diversity across storage conditions and duration could lead to differences in clinical efficacy for specific clinical indications of fecal microbiota transplantation.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294730)
+
+10.1371/journal.pone.0294730
 
 ---
 
