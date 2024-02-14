@@ -154,7 +154,7 @@ Microbial breakdown of organic matter is one of the most important processes on 
 ---
 
 ## Gut microbiome-metabolome interactions predict host condition.
- 12.02.2024, _O Shtossel, O Koren, I Shai, E Rinott, Y Louzoun_
+ 13.02.2024, _O Shtossel, O Koren, I Shai, E Rinott, Y Louzoun_
 
 
 The effect of microbes on their human host is often mediated through changes in metabolite concentrations. As such, multiple tools have been proposed to predict metabolite concentrations from microbial taxa frequencies. Such tools typically fail to capture the dependence of the microbiome-metabolite relation on the environment.
