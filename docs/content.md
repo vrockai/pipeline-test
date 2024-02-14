@@ -25,9 +25,10 @@ The gut microbiome undergoes primary ecological succession over the course of ea
 ---
 
 ## Genomic attributes of airway commensal bacteria and mucosa.
- 12.02.2024, _L Cuthbertson, U Löber, JS Ish-Horowicz, CN McBrien, C Churchward, JC Parker, MT Olanipekun, C Burke, A McGowan, GA Davies, KE Lewis, JM Hopkin, KF Chung, O O'Carroll, J Faul, J Creaser-Thomas, M Andrews, R Ghosal, S Piatek, SAG Willis-Owen, TUP Bartolomaeus, T Birkner, S Dwyer, N Kumar, EM Turek, A William Musk, J Hui, M Hunter, A James, ME Dumas, S Filippi, MJ Cox, TD Lawley, SK Forslund, MF Moffatt, WOC Cookson_
+ 14.02.2024, _L Cuthbertson, U Löber, JS Ish-Horowicz, CN McBrien, C Churchward, JC Parker, MT Olanipekun, C Burke, A McGowan, GA Davies, KE Lewis, JM Hopkin, KF Chung, O O'Carroll, J Faul, J Creaser-Thomas, M Andrews, R Ghosal, S Piatek, SAG Willis-Owen, TUP Bartolomaeus, T Birkner, S Dwyer, N Kumar, EM Turek, A William Musk, J Hui, M Hunter, A James, ME Dumas, S Filippi, MJ Cox, TD Lawley, SK Forslund, MF Moffatt, WOC Cookson_
 
 
+_Humans, Mucous Membrane, Bacteria, Symbiosis, Immunity, Mucosal, Genomics_
 Microbial communities at the airway mucosal barrier are conserved and highly ordered, in likelihood reflecting co-evolution with human host factors. Freed of selection to digest nutrients, the airway microbiome underpins cognate management of mucosal immunity and pathogen resistance. We show here the initial results of systematic culture and whole-genome sequencing of the thoracic airway bacteria, identifying 52 novel species amongst 126 organisms that constitute 75% of commensals typically present in heathy individuals. Clinically relevant genes encode antimicrobial synthesis, adhesion and biofilm formation, immune modulation, iron utilisation, nitrous oxide (NO) metabolism and sphingolipid signalling. Using whole-genome content we identify dysbiotic features that may influence asthma and chronic obstructive pulmonary disease. We match isolate gene content to transcripts and metabolites expressed late in airway epithelial differentiation, identifying pathways to sustain host interactions with microbiota. Our results provide a systematic basis for decrypting interactions between commensals, pathogens, and mucosa in lung diseases of global significance.
 
 [Source](https://www.nature.com/articles/s42003-024-05840-3)
@@ -37,9 +38,10 @@ Microbial communities at the airway mucosal barrier are conserved and highly ord
 ---
 
 ## Triggers for the onset and recurrence of psoriasis: a review and update.
- 12.02.2024, _S Liu, M He, J Jiang, X Duan, B Chai, J Zhang, Q Tao, H Chen_
+ 14.02.2024, _S Liu, M He, J Jiang, X Duan, B Chai, J Zhang, Q Tao, H Chen_
 
 
+_Humans, Psoriasis, Skin, Microbiota_
 Psoriasis is an immune-mediated inflammatory skin disease, involving a complex interplay between genetic and environmental factors. Previous studies have demonstrated that genetic factors play a major role in the pathogenesis of psoriasis. However, non-genetic factors are also necessary to trigger the onset and recurrence of psoriasis in genetically predisposed individuals, which include infections, microbiota dysbiosis of the skin and gut, dysregulated lipid metabolism, dysregulated sex hormones, and mental illness. Psoriasis can also be induced by other environmental triggers, such as skin trauma, unhealthy lifestyles, and medications. Understanding how these triggers play a role in the onset and recurrence of psoriasis provides insights into psoriasis pathogenesis, as well as better clinical administration. In this review, we summarize the triggers for the onset and recurrence of psoriasis and update the current evidence on the underlying mechanism of how these factors elicit the disease. Video Abstract.
 
 [Source](https://biosignaling.biomedcentral.com/articles/10.1186/s12964-023-01381-0)
@@ -55,7 +57,7 @@ Psoriasis is an immune-mediated inflammatory skin disease, involving a complex i
 ---
 
 ## Microbial-derived imidazole propionate links the heart failure-associated microbiome alterations to disease severity.
- 13.02.2024, _SC Raju, A Molinaro, A Awoyemi, SF Jørgensen, PR Braadland, A Nendl, I Seljeflot, PM Ueland, A McCann, P Aukrust, B Vestad, C Mayerhofer, K Broch, L Gullestad, KT Lappegård, B Halvorsen, K Kristiansen, JR Hov, M Trøseid_
+ 14.02.2024, _SC Raju, A Molinaro, A Awoyemi, SF Jørgensen, PR Braadland, A Nendl, I Seljeflot, PM Ueland, A McCann, P Aukrust, B Vestad, C Mayerhofer, K Broch, L Gullestad, KT Lappegård, B Halvorsen, K Kristiansen, JR Hov, M Trøseid_
 
 
 _Humans, Microbiota, Heart Failure, Imidazoles, Patient Acuity, Dysbiosis_
@@ -68,9 +70,10 @@ Interactions between the gut microbiota, diet, and host metabolism contribute to
 ---
 
 ## Horizontal gene transfer after faecal microbiota transplantation in adolescents with obesity.
- 12.02.2024, _AH Behling, BC Wilson, D Ho, WS Cutfield, T Vatanen, JM O'Sullivan_
+ 14.02.2024, _AH Behling, BC Wilson, D Ho, WS Cutfield, T Vatanen, JM O'Sullivan_
 
 
+_Adolescent, Humans, Fecal Microbiota Transplantation, Gene Transfer, Horizontal, Pediatric Obesity, Microbiota, Gastrointestinal Microbiome, Bacteria, Feces, Treatment Outcome_
 Horizontal gene transfer (HGT) describes the transmission of DNA outside of direct ancestral lineages. The process is best characterised within the bacterial kingdom and can enable the acquisition of genetic traits that support bacterial adaptation to novel niches. The adaptation of bacteria to novel niches has particular relevance for faecal microbiota transplantation (FMT), a therapeutic procedure which aims to resolve gut-related health conditions of individuals, through transplanted gut microbiota from healthy donors.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01748-6)
@@ -93,9 +96,10 @@ The widespread availability of antiretroviral therapy (ART) has dramatically red
 ---
 
 ## Gut microbiome signature of metabolically healthy obese individuals according to anthropometric, metabolic and inflammatory parameters.
- 13.02.2024, _HK Lee, NE Kim, CM Shin, TJ Oh, H Yoon, YS Park, N Kim, S Won, DH Lee_
+ 14.02.2024, _HK Lee, NE Kim, CM Shin, TJ Oh, H Yoon, YS Park, N Kim, S Won, DH Lee_
 
 
+_Humans, Gastrointestinal Microbiome, Obesity, Bacteria, Feces, Firmicutes, Bacteroidetes, RNA, Ribosomal, 16S_
 In this study, we investigated the characteristics of gut microbiome in the metabolically healthy obese (MHO) patients, and how they correlate with metabolic and inflammatory profiles. A total of 120 obese people without metabolic comorbidities were recruited, and their clinical phenotypes, metabolic and inflammatory parameters were analysed. The faecal microbial markers originating from bacterial cell and extracellular vesicle (EV) were profiled using 16S rDNA sequencing. The total study population could be classified into two distinct enterotypes (enterotype I: Prevotellaceae-predominant, enterotype II: Akkermansia/Bacteroides-predominant), based on their stool EV-derived microbiome profile. When comparing the metabolic and inflammatory profiles, subjects in enterotype I had higher levels of serum IL-1β [false discovery rate (FDR) q = 0.050] and had a lower level of microbial diversity than enterotype II (Wilcoxon rank-sum test p &lt; 0.01). Subjects in enterotype I had relatively higher abundance of Bacteroidetes, Prevotellaceae and Prevotella-derived EVs, and lower abundance of Actinobacteria, Firmicutes, Proteobacteria, Akkermansia and Bacteroides-derived EVs (FDR q &lt; 0.05). In conclusion, HMO patients can be categorised into two distinct enterotypes by the faecal EV-derived microbiome profile. The enterotyping may be associated with different metabolic and inflammatory profiles. Further studies are warranted to elucidate the long-term prognostic impact of EV-derived microbiome in the obese population.
 
 [Source](https://www.nature.com/articles/s41598-024-53837-z)
@@ -105,9 +109,10 @@ In this study, we investigated the characteristics of gut microbiome in the meta
 ---
 
 ## Metagenome-assembled genome reveals species and functional composition of Jianghan chicken gut microbiota and isolation of Pediococcus acidilactic with probiotic properties.
- 12.02.2024, _H Shen, T Wang, W Dong, G Sun, J Liu, N Peng, S Zhao_
+ 14.02.2024, _H Shen, T Wang, W Dong, G Sun, J Liu, N Peng, S Zhao_
 
 
+_Animals, Chickens, Gastrointestinal Microbiome, Metagenome, Pediococcus, Anti-Bacterial Agents, Probiotics, Bacteroidetes_
 Chickens are one of the most widely farmed animals worldwide and play a crucial role in meat and egg production. Gut microbiota is essential for chickens' health, disease, growth, and egg production. However, native chickens such as Jianghan chickens have better meat and egg production quality than centralized chickens, their intestinal microbial diversity is richer, and the potential gut microbial resources may bring health benefits to the host.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01745-1)
@@ -154,9 +159,10 @@ Microbial breakdown of organic matter is one of the most important processes on 
 ---
 
 ## Gut microbiome-metabolome interactions predict host condition.
- 13.02.2024, _O Shtossel, O Koren, I Shai, E Rinott, Y Louzoun_
+ 14.02.2024, _O Shtossel, O Koren, I Shai, E Rinott, Y Louzoun_
 
 
+_Humans, Gastrointestinal Microbiome, Metabolomics, RNA, Ribosomal, 16S, Metabolome, Microbiota_
 The effect of microbes on their human host is often mediated through changes in metabolite concentrations. As such, multiple tools have been proposed to predict metabolite concentrations from microbial taxa frequencies. Such tools typically fail to capture the dependence of the microbiome-metabolite relation on the environment.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01737-1)
