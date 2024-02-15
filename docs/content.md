@@ -60,7 +60,7 @@ Psoriasis is an immune-mediated inflammatory skin disease, involving a complex i
  14.02.2024, _SC Raju, A Molinaro, A Awoyemi, SF Jørgensen, PR Braadland, A Nendl, I Seljeflot, PM Ueland, A McCann, P Aukrust, B Vestad, C Mayerhofer, K Broch, L Gullestad, KT Lappegård, B Halvorsen, K Kristiansen, JR Hov, M Trøseid_
 
 
-_Humans, Microbiota, Heart Failure, Imidazoles, Patient Acuity, Dysbiosis_
+_Humans, Dysbiosis, Heart Failure, Imidazoles, Microbiota, Patient Acuity_
 Interactions between the gut microbiota, diet, and host metabolism contribute to the development of cardiovascular disease, but a firm link between disease-specific gut microbiota alterations and circulating metabolites is lacking.
 
 [Source](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01296-6)
