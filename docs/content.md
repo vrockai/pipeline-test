@@ -1,186 +1,157 @@
-## Model-free prediction of microbiome compositions.
- 06.02.2024, _EE Asher, A Bashan_
+## Gastrointestinal and brain barriers: unlocking gates of communication across the microbiota-gut-brain axis.
+ 14.02.2024, _MR Aburto, JF Cryan_
 
 
-_Humans, Microbiota, Metagenome_
-The recent recognition of the importance of the microbiome to the host's health and well-being has yielded efforts to develop therapies that aim to shift the microbiome from a disease-associated state to a healthier one. Direct manipulation techniques of the species' assemblage are currently available, e.g., using probiotics or narrow-spectrum antibiotics to introduce or eliminate specific taxa. However, predicting the species' abundances at the new state remains a challenge, mainly due to the difficulties of deciphering the delicate underlying network of ecological interactions or constructing a predictive model for such complex ecosystems.
+Crosstalk between gut and brain has long been appreciated in health and disease, and the gut microbiota is a key player in communication between these two distant organs. Yet, the mechanisms through which the microbiota influences development and function of the gut-brain axis remain largely unknown. Barriers present in the gut and brain are specialized cellular interfaces that maintain strict homeostasis of different compartments across this axis. These barriers include the gut epithelial barrier, the blood-brain barrier and the blood-cerebrospinal fluid barrier. Barriers are ideally positioned to receive and communicate gut microbial signals constituting a gateway for gut-microbiota-brain communication. In this Review, we focus on how modulation of these barriers by the gut microbiota can constitute an important channel of communication across the gut-brain axis. Moreover, barrier malfunction upon alterations in gut microbial composition could form the basis of various conditions, including often comorbid neurological and gastrointestinal disorders. Thus, we should focus on unravelling the molecular and cellular basis of this communication and move from simplistic framing as 'leaky gut'. A mechanistic understanding of gut microbiota modulation of barriers, especially during critical windows of development, could be key to understanding the aetiology of gastrointestinal and neurological disorders.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01721-9)
+[Source](https://doi.org/10.1038/s41575-023-00890-0)
 
-10.1186/s40168-023-01721-9
-
----
-
-## Divergent maturational patterns of the infant bacterial and fungal gut microbiome in the first year of life are associated with inter-kingdom community dynamics and infant nutrition.
- 10.02.2024, _EM Mercer, HR Ramay, S Moossavi, I Laforest-Lapointe, ME Reyna, AB Becker, E Simons, PJ Mandhane, SE Turvey, TJ Moraes, MR Sears, P Subbarao, MB Azad, MC Arrieta_
-
-
-_Humans, Infant, Gastrointestinal Microbiome, Mycobiome, Cohort Studies, Sweetening Agents, Microbiota, Bacteria_
-The gut microbiome undergoes primary ecological succession over the course of early life before achieving ecosystem stability around 3 years of age. These maturational patterns have been well-characterized for bacteria, but limited descriptions exist for other microbiota members, such as fungi. Further, our current understanding of the prevalence of different patterns of bacterial and fungal microbiome maturation and how inter-kingdom dynamics influence early-life microbiome establishment is limited.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01735-3)
-
-10.1186/s40168-023-01735-3
+10.1038/s41575-023-00890-0
 
 ---
 
-## Genomic attributes of airway commensal bacteria and mucosa.
- 14.02.2024, _L Cuthbertson, U Löber, JS Ish-Horowicz, CN McBrien, C Churchward, JC Parker, MT Olanipekun, C Burke, A McGowan, GA Davies, KE Lewis, JM Hopkin, KF Chung, O O'Carroll, J Faul, J Creaser-Thomas, M Andrews, R Ghosal, S Piatek, SAG Willis-Owen, TUP Bartolomaeus, T Birkner, S Dwyer, N Kumar, EM Turek, A William Musk, J Hui, M Hunter, A James, ME Dumas, S Filippi, MJ Cox, TD Lawley, SK Forslund, MF Moffatt, WOC Cookson_
+## Alterations of gut microbiota in infants with biliary atresia identified by 16S rRNA-sequencing.
+ 14.02.2024, _F Liu, R Wei, X Xu, M Lan, B Tao, Z Liang, J Zeng_
 
 
-_Humans, Mucous Membrane, Bacteria, Symbiosis, Immunity, Mucosal, Genomics_
-Microbial communities at the airway mucosal barrier are conserved and highly ordered, in likelihood reflecting co-evolution with human host factors. Freed of selection to digest nutrients, the airway microbiome underpins cognate management of mucosal immunity and pathogen resistance. We show here the initial results of systematic culture and whole-genome sequencing of the thoracic airway bacteria, identifying 52 novel species amongst 126 organisms that constitute 75% of commensals typically present in heathy individuals. Clinically relevant genes encode antimicrobial synthesis, adhesion and biofilm formation, immune modulation, iron utilisation, nitrous oxide (NO) metabolism and sphingolipid signalling. Using whole-genome content we identify dysbiotic features that may influence asthma and chronic obstructive pulmonary disease. We match isolate gene content to transcripts and metabolites expressed late in airway epithelial differentiation, identifying pathways to sustain host interactions with microbiota. Our results provide a systematic basis for decrypting interactions between commensals, pathogens, and mucosa in lung diseases of global significance.
+Biliary atresia (BA) is a severe neonatal disease with progressive intra- and extra-hepatic bile ducts inflammation and hepatic fibrosis. Characterization of gut microbiome profiles in infants with biliary atresia can provide valuable information and potential disease biomarkers. Our study aims to explore the relationship between gut microbiota and biliary atresia.
 
-[Source](https://www.nature.com/articles/s42003-024-05840-3)
+[Source](https://doi.org/10.1186/s12887-024-04582-9)
 
-10.1038/s42003-024-05840-3
-
----
-
-## Triggers for the onset and recurrence of psoriasis: a review and update.
- 14.02.2024, _S Liu, M He, J Jiang, X Duan, B Chai, J Zhang, Q Tao, H Chen_
-
-
-_Humans, Psoriasis, Skin, Microbiota_
-Psoriasis is an immune-mediated inflammatory skin disease, involving a complex interplay between genetic and environmental factors. Previous studies have demonstrated that genetic factors play a major role in the pathogenesis of psoriasis. However, non-genetic factors are also necessary to trigger the onset and recurrence of psoriasis in genetically predisposed individuals, which include infections, microbiota dysbiosis of the skin and gut, dysregulated lipid metabolism, dysregulated sex hormones, and mental illness. Psoriasis can also be induced by other environmental triggers, such as skin trauma, unhealthy lifestyles, and medications. Understanding how these triggers play a role in the onset and recurrence of psoriasis provides insights into psoriasis pathogenesis, as well as better clinical administration. In this review, we summarize the triggers for the onset and recurrence of psoriasis and update the current evidence on the underlying mechanism of how these factors elicit the disease. Video Abstract.
-
-[Source](https://biosignaling.biomedcentral.com/articles/10.1186/s12964-023-01381-0)
-
-10.1186/s12964-023-01381-0
+10.1186/s12887-024-04582-9
 
 ---
 
-## Uterine fibroids and longitudinal profiles of the vaginal microbiota in a cohort presenting for transvaginal ultrasound
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296346)
-
----
-
-## Microbial-derived imidazole propionate links the heart failure-associated microbiome alterations to disease severity.
- 14.02.2024, _SC Raju, A Molinaro, A Awoyemi, SF Jørgensen, PR Braadland, A Nendl, I Seljeflot, PM Ueland, A McCann, P Aukrust, B Vestad, C Mayerhofer, K Broch, L Gullestad, KT Lappegård, B Halvorsen, K Kristiansen, JR Hov, M Trøseid_
+## Culture- and non-culture-based approaches reveal unique features of the ocular microbiome in dry eye patients.
+ 14.02.2024, _M Naqvi, F Fineide, TP Utheim, C Charnock_
 
 
-_Humans, Dysbiosis, Heart Failure, Imidazoles, Microbiota, Patient Acuity_
-Interactions between the gut microbiota, diet, and host metabolism contribute to the development of cardiovascular disease, but a firm link between disease-specific gut microbiota alterations and circulating metabolites is lacking.
+The purpose of this study was to investigate the ocular microbiome in individuals with dry eye disease and to identify features of their ocular microbiome of possible health and diagnostic significance.
 
-[Source](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01296-6)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S1542012424000247?via%3Dihub)
 
-10.1186/s13073-024-01296-6
+10.1016/j.jtos.2024.02.002
 
 ---
 
-## Horizontal gene transfer after faecal microbiota transplantation in adolescents with obesity.
- 14.02.2024, _AH Behling, BC Wilson, D Ho, WS Cutfield, T Vatanen, JM O'Sullivan_
+## Herptile gut microbiomes: a natural system to study multi-kingdom interactions between filamentous fungi and bacteria.
+ 13.02.2024, _L Vargas-Gastélum, AS Romer, M Ghotbi, JW Dallas, NR Alexander, KC Moe, KL McPhail, GF Neuhaus, L Shadmani, JW Spatafora, JE Stajich, JF Tabima, DM Walker_
 
 
-_Adolescent, Humans, Fecal Microbiota Transplantation, Gene Transfer, Horizontal, Pediatric Obesity, Microbiota, Gastrointestinal Microbiome, Bacteria, Feces, Treatment Outcome_
-Horizontal gene transfer (HGT) describes the transmission of DNA outside of direct ancestral lineages. The process is best characterised within the bacterial kingdom and can enable the acquisition of genetic traits that support bacterial adaptation to novel niches. The adaptation of bacteria to novel niches has particular relevance for faecal microbiota transplantation (FMT), a therapeutic procedure which aims to resolve gut-related health conditions of individuals, through transplanted gut microbiota from healthy donors.
+Reptiles and amphibians (herptiles) are some of the most endangered and threatened species on the planet and numerous conservation strategies are being implemented with the goal of ensuring species recovery. Little is known, however, about the gut microbiome of wild herptiles and how it relates to the health of these populations. Here, we report results from the gut microbiome characterization of both a broad survey of herptiles, and the correlation between the fungus Basidiobolus, and the bacterial community supported by a deeper, more intensive sampling of Plethodon glutinosus, known as slimy salamanders. We demonstrate that bacterial communities sampled from frogs, lizards, and salamanders are structured by the host taxonomy and that Basidiobolus is a common and natural component of these wild gut microbiomes. Intensive sampling of multiple hosts across the ecoregions of Tennessee revealed that geography and host:geography interactions are strong predictors of distinct Basidiobolus operational taxonomic units present within a given host. Co-occurrence analyses of Basidiobolus and bacterial community diversity support a correlation and interaction between Basidiobolus and bacteria, suggesting that Basidiobolus may play a role in structuring the bacterial community. We further the hypothesis that this interaction is advanced by unique specialized metabolism originating from horizontal gene transfer from bacteria to Basidiobolus and demonstrate that Basidiobolus is capable of producing a diversity of specialized metabolites including small cyclic peptides.IMPORTANCEThis work significantly advances our understanding of biodiversity and microbial interactions in herptile microbiomes, the role that fungi play as a structural and functional members of herptile gut microbiomes, and the chemical functions that structure microbiome phenotypes. We also provide an important observational system of how the gut microbiome represents a unique environment that selects for novel metabolic functions through horizontal gene transfer between fungi and bacteria. Such studies are needed to better understand the complexity of gut microbiomes in nature and will inform conservation strategies for threatened species of herpetofauna.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01748-6)
+[Source](https://doi.org/10.1128/msphere.00475-23)
 
-10.1186/s40168-024-01748-6
-
----
-
-## Differential effects of antiretroviral treatment on immunity and gut microbiome composition in people living with HIV in rural versus urban Zimbabwe.
- 12.02.2024, _AS Burkhart Colorado, A Lazzaro, CP Neff, N Nusbacher, K Boyd, S Fiorillo, C Martin, JC Siebert, TB Campbell, M Borok, BE Palmer, C Lozupone_
-
-
-_Humans, Gastrointestinal Microbiome, Zimbabwe, Anti-Retroviral Agents, HIV Infections, Inflammation_
-The widespread availability of antiretroviral therapy (ART) has dramatically reduced mortality and improved life expectancy for people living with HIV (PLWH). However, even with HIV-1 suppression, chronic immune activation and elevated inflammation persist and have been linked to a pro-inflammatory gut microbiome composition and compromised intestinal barrier integrity. PLWH in urban versus rural areas of sub-Saharan Africa experience differences in environmental factors that may impact the gut microbiome and immune system, in response to ART, yet this has not previously been investigated in these groups. To address this, we measured T cell activation/exhaustion/trafficking markers, plasma inflammatory markers, and fecal microbiome composition in PLWH and healthy participants recruited from an urban clinic in the city of Harare, Zimbabwe, and a district hospital that services surrounding rural villages. PLWH were either ART naïve at baseline and sampled again after 24 weeks of first-line ART and the antibiotic cotrimoxazole or were ART-experienced at both timepoints.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01718-4)
-
-10.1186/s40168-023-01718-4
+10.1128/msphere.00475-23
 
 ---
 
-## Gut microbiome signature of metabolically healthy obese individuals according to anthropometric, metabolic and inflammatory parameters.
- 14.02.2024, _HK Lee, NE Kim, CM Shin, TJ Oh, H Yoon, YS Park, N Kim, S Won, DH Lee_
+## Colonic probiotic insufflation: clinical proposal for an economical game-changer for restoration of the gut microbiome in colorectal cancer and beyond.
+ 13.02.2024, _R Varghese, K Pal, V Gota, MF Islam_
 
 
-_Humans, Gastrointestinal Microbiome, Obesity, Bacteria, Feces, Firmicutes, Bacteroidetes, RNA, Ribosomal, 16S_
-In this study, we investigated the characteristics of gut microbiome in the metabolically healthy obese (MHO) patients, and how they correlate with metabolic and inflammatory profiles. A total of 120 obese people without metabolic comorbidities were recruited, and their clinical phenotypes, metabolic and inflammatory parameters were analysed. The faecal microbial markers originating from bacterial cell and extracellular vesicle (EV) were profiled using 16S rDNA sequencing. The total study population could be classified into two distinct enterotypes (enterotype I: Prevotellaceae-predominant, enterotype II: Akkermansia/Bacteroides-predominant), based on their stool EV-derived microbiome profile. When comparing the metabolic and inflammatory profiles, subjects in enterotype I had higher levels of serum IL-1β [false discovery rate (FDR) q = 0.050] and had a lower level of microbial diversity than enterotype II (Wilcoxon rank-sum test p &lt; 0.01). Subjects in enterotype I had relatively higher abundance of Bacteroidetes, Prevotellaceae and Prevotella-derived EVs, and lower abundance of Actinobacteria, Firmicutes, Proteobacteria, Akkermansia and Bacteroides-derived EVs (FDR q &lt; 0.05). In conclusion, HMO patients can be categorised into two distinct enterotypes by the faecal EV-derived microbiome profile. The enterotyping may be associated with different metabolic and inflammatory profiles. Further studies are warranted to elucidate the long-term prognostic impact of EV-derived microbiome in the obese population.
 
-[Source](https://www.nature.com/articles/s41598-024-53837-z)
+[Source](https://doi.org/10.1097/JS9.0000000000001192)
 
-10.1038/s41598-024-53837-z
+10.1097/JS9.0000000000001192
 
 ---
 
-## Metagenome-assembled genome reveals species and functional composition of Jianghan chicken gut microbiota and isolation of Pediococcus acidilactic with probiotic properties.
- 14.02.2024, _H Shen, T Wang, W Dong, G Sun, J Liu, N Peng, S Zhao_
+## Neuroprotective Effect of a Multistrain Probiotic Mixture in SOD1G93A Mice by Reducing SOD1 Aggregation and Targeting the Microbiota-Gut-Brain Axis.
+ 13.02.2024, _Z Xin, C Xin, J Huo, Q Liu, H Dong, R Li, Y Liu_
 
 
-_Animals, Chickens, Gastrointestinal Microbiome, Metagenome, Pediococcus, Anti-Bacterial Agents, Probiotics, Bacteroidetes_
-Chickens are one of the most widely farmed animals worldwide and play a crucial role in meat and egg production. Gut microbiota is essential for chickens' health, disease, growth, and egg production. However, native chickens such as Jianghan chickens have better meat and egg production quality than centralized chickens, their intestinal microbial diversity is richer, and the potential gut microbial resources may bring health benefits to the host.
+Amyotrophic lateral sclerosis (ALS) is a devastating neurodegenerative disease characterized by the selective loss of motor neurons. A bidirectional communication system known as the "microbiota-gut-brain" axis has a regulatory function in neurodegenerative disorders. The impact of probiotics on ALS through the "microbiota-gut-brain" axis remains uncertain. A longitudinal investigation was conducted to examine the alterations in the structure of the ileum and colon in mutant superoxide dismutase 1 (SOD1G93A) transgenic mice models of ALS by using immunofluorescence and Western blotting. Subsequently, the mice were administered a multistrain probiotic mixture (LBE) or vehicle orally, starting from 60 days of age until the terminal stage of the disease. The effects of these agents on the behavior, gut microbiota, microbial metabolites, and pathological processes of the spinal and intestine of SOD1G93A mice were analyzed, with a focus on exploring potential protective mechanisms. SOD1G93A mice exhibit various structural abnormalities in the intestine. Oral administration of LBE improved the proinflammatory response, reduced aberrant superoxide dismutase 1 (SOD1) aggregation, and protected neuronal cells in the intestine and spinal cord of SOD1G93A mice. Furthermore, LBE treatment resulted in a change in intestinal microbiota, an increase in short-chain fatty acid levels, and an enhancement in autophagy flux. SOD1G93A mice exhibited various structural abnormalities in the intestine. LBE can improve the proinflammatory response, reduce aberrant SOD1 aggregation, and protect neuronal cells in the spinal cord and intestine of SOD1G93A mice. The positive effect of LBE can be attributed to increased short-chain fatty acids and enhanced autophagy flux.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01745-1)
+[Source](https://doi.org/10.1007/s12035-024-03988-x)
 
-10.1186/s40168-023-01745-1
-
----
-
-## Falcon gut microbiota is shaped by diet and enriched in Salmonella.
- 06.02.2024, _AR Ahmad, S Ridgeway, AA Shibl, Y Idaghdour, AR Jha_
-
-
-_Animals, Humans, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Phylogeny, Diet, Salmonella, Falconiformes_
-The gut microbiome is increasingly being appreciated as a master regulator of animal health. However, avian gut microbiome studies commonly focus on birds of economic importance and the gut microbiomes of raptors remain underexplored. Here we examine the gut microbiota of 29 captive falcons-raptors of historic importance-in the context of avian evolution by sequencing the V4 region of the 16S rRNA gene. Our results reveal that evolutionary histories and diet are significantly associated with avian gut microbiota in general, whereas diet plays a major role in shaping the falcon gut microbiota. Multiple analyses revealed that gut microbial diversity, composition, and relative abundance of key diet-discriminating bacterial genera in the falcon gut closely resemble those of carnivorous raptors rather than those of their closest phylogenetic relatives. Furthermore, the falcon microbiota is dominated by Firmicutes and contains Salmonella at appreciable levels. Salmonella presence was associated with altered functional capacity of the falcon gut microbiota as its abundance is associated with depletion of multiple predicted metabolic pathways involved in protein mass buildup, muscle maintenance, and enrichment of antimicrobial compound degradation, thus increasing the pathogenic potential of the falcon gut. Our results point to the necessity of screening for Salmonella and other human pathogens in captive birds to safeguard both the health of falcons and individuals who come in contact with these birds.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293895)
-
-10.1371/journal.pone.0293895
+10.1007/s12035-024-03988-x
 
 ---
 
-## Sex differences in colonic gene expression and fecal microbiota composition in a mouse model of obesity-associated colorectal cancer
+## Metagenomic and biochemical analyses reveal the potential of silicon to alleviate arsenic toxicity in rice (<em>Oryza sativa</em> L.)
 
-[Source](https://www.nature.com/articles/s41598-024-53861-z)
-
----
-
-## A conserved interdomain microbial network underpins cadaver decomposition despite environmental variables.
- 12.02.2024, _ZM Burcham, AD Belk, BB McGivern, A Bouslimani, P Ghadermazi, C Martino, L Shenhav, AR Zhang, P Shi, A Emmons, HL Deel, ZZ Xu, V Nieciecki, Q Zhu, M Shaffer, M Panitchpakdi, KC Weldon, K Cantrell, A Ben-Hur, SC Reed, GC Humphry, G Ackermann, D McDonald, SHJ Chan, M Connor, D Boyd, J Smith, JMS Watson, G Vidoli, D Steadman, AM Lynne, S Bucheli, PC Dorrestein, KC Wrighton, DO Carter, R Knight, JL Metcalf_
-
-
-Microbial breakdown of organic matter is one of the most important processes on Earth, yet the controls of decomposition are poorly understood. Here we track 36 terrestrial human cadavers in three locations and show that a phylogenetically distinct, interdomain microbial network assembles during decomposition despite selection effects of location, climate and season. We generated a metagenome-assembled genome library from cadaver-associated soils and integrated it with metabolomics data to identify links between taxonomy and function. This universal network of microbial decomposers is characterized by cross-feeding to metabolize labile decomposition products. The key bacterial and fungal decomposers are rare across non-decomposition environments and appear unique to the breakdown of terrestrial decaying flesh, including humans, swine, mice and cattle, with insects as likely important vectors for dispersal. The observed lockstep of microbial interactions further underlies a robust microbial forensic tool with the potential to aid predictions of the time since death.
-
-[Source](https://www.nature.com/articles/s41564-023-01580-y)
-
-10.1038/s41564-023-01580-y
+[Source](https://doi.org/10.1016/j.envpol.2024.123537)
 
 ---
 
-## YACHT: an ANI-based statistical test to detect microbial presence/absence in a metagenomic sample
+## Mechanisms on salt tolerant o<em>f Paenibacillus polymyxa</em> SC2 and its growth-promoting effects on maize seedlings under saline conditions
 
-[Source](https://academic.oup.com/bioinformatics/article/40/2/btae047/7588873)
-
----
-
-## Gut microbiome-metabolome interactions predict host condition.
- 14.02.2024, _O Shtossel, O Koren, I Shai, E Rinott, Y Louzoun_
-
-
-_Humans, Gastrointestinal Microbiome, Metabolomics, RNA, Ribosomal, 16S, Metabolome, Microbiota_
-The effect of microbes on their human host is often mediated through changes in metabolite concentrations. As such, multiple tools have been proposed to predict metabolite concentrations from microbial taxa frequencies. Such tools typically fail to capture the dependence of the microbiome-metabolite relation on the environment.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01737-1)
-
-10.1186/s40168-023-01737-1
+[Source](https://doi.org/10.1016/j.micres.2024.127639)
 
 ---
 
-## Fecal microbiome composition and diversity of cryopreserved canine stool at different duration and storage conditions.
- 10.02.2024, _P Barko, J Nguyen-Edquilang, DA Williams, A Gal_
+## Novel insights into the rhizosphere and seawater microbiome of Zostera marina in diverse mariculture zones.
+ 15.02.2024, _H Sun, T Wang, S Liu, X Tang, J Sun, X Liu, Y Zhao, P Shen, Y Zhang_
 
 
-_Humans, Dogs, Animals, Specimen Handling, Feces, Microbiota, Cryopreservation, Gastrointestinal Tract, Bacteria, RNA, Ribosomal, 16S_
-Fresh-frozen stool banks intended for humans with gastrointestinal and metabolic disorders have been recently established and there are ongoing efforts to establish the first veterinary fresh-frozen stool bank. Fresh frozen stored feces provide an advantage of increased availability and accessibility to high-quality optimal donor fecal material. The stability of frozen canine feces regarding fecal microbiome composition and diversity has not been reported in dogs, providing the basis for this study. We hypothesized that fecal microbial composition and diversity of healthy dogs would remain stable when stored at -20°C and -80°C for up to 12 months compared to baseline samples evaluated before freezing. Stool samples were collected from 20 apparently healthy dogs, manually homogenized, cryopreserved in 20% glycerol and aliquoted, frozen in liquid nitrogen and stored at -20°C or -80°C for 3, 6, 9, and 12 months. At baseline and after period of storage, aliquots were thawed and treated with propidium monoazide before fecal DNA extraction. Following long-read 16S-rRNA amplicon sequencing, bacterial community composition and diversity were compared among treatment groups. We demonstrated that fresh-frozen canine stools collected from 20 apparently healthy dogs could be stored for up to 12 months at -80°C with minimal change in microbial community composition and diversity and that storage at -80°C is superior to storage at -20°C. We also found that differences between dogs had the largest effect on community composition and diversity. Relative abundances of certain bacterial taxa, including those known to be short-chain fatty acid producers, varied significantly with specific storage temperatures and duration. Further work is required to ascertain whether fecal donor material that differs in bacterial community composition and diversity across storage conditions and duration could lead to differences in clinical efficacy for specific clinical indications of fecal microbiota transplantation.
+_Humans, Rhizosphere, Zosteraceae, Seawater, Microbiota, Bacteria, Edible Seaweeds, Laminaria_
+Seagrasses offer various ecosystem services and possess high levels of primary productivity. However, the development of mariculture has affected the homeostasis of seagrass meadow ecosystems. Plant-microbiome associations are essential for seagrasses health, but little is known about the role of environmental microbiomes and how they affect seagrass in a mariculture environment. In this study, we investigated the influence of mariculture on the rhizosphere and seawater microbiome surrounding Zostera marina and focused on the bacterial, eukaryotic, and fungal components in the composition, diversity, metabolism, and responses to mariculture-related environmental factors.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294730)
+[Source](https://doi.org/10.1186/s40168-024-01759-3)
 
-10.1371/journal.pone.0294730
+10.1186/s40168-024-01759-3
+
+---
+
+## Biogeography and assembly processes of abundant and rare soil microbial taxa in the southern part of the Qilian Mountain National Park, China.
+ 15.02.2024, _Z Feng, N Li, Y Deng, Y Yu, Q Gao, J Wang, SL Chen, R Xing_
+
+
+Soil microorganisms play vital roles in regulating multiple ecosystem functions. Recent studies have revealed that the rare microbial taxa (with extremely low relative abundances, which are still largely ignored) are also crucial in maintaining the health and biodiversity of the soil and may respond differently to environmental pressure. However, little is known about the soil community structures of abundant and rare taxa and their assembly processes in different soil layers on the Qinghai-Tibet Plateau (QTP). The present study investigated the community structure and assembly processes of soil abundant and rare microbial taxa on the northeastern edge of the QTP. Soil microbial abundance was defined by abundant taxa, whereas rare taxa contributed to soil microbial diversity. The results of null model show that the stochastic process ruled the assembly processes of all sub-communities. Dispersal limitation contributed more to the assembly of abundant microbial taxa in the different soil layers. In contrast, drift played a more critical role in the assembly processes of the rare microbial taxa. In addition, in contrast to previous studies, the abundant taxa played more important roles in co-occurrence networks, most likely because of the heterogeneity of the soil, the sparsity of amplicon sequencing, the sampling strategy, and the limited samples in the present study. The results of this study improve our understanding of soil microbiome assemblies on the QTP and highlight the role of abundant taxa in sustaining the stability of microbial co-occurrence networks in different soil layers.
+
+[Source](https://doi.org/10.1002/ece3.11001)
+
+10.1002/ece3.11001
+
+---
+
+## A Clinical Breathomics Dataset.
+ 14.02.2024, _PH Kuo, YC Jhong, TC Kuo, YT Hsu, CH Kuo, YJ Tseng_
+
+
+This study entailed a comprehensive GC‒MS analysis conducted on 121 patient samples to generate a clinical breathomics dataset. Breath molecules, indicative of diverse conditions such as psychological and pathological states and the microbiome, were of particular interest due to their non-invasive nature. The highlighted noninvasive approach for detecting these breath molecules significantly enhances diagnostic and monitoring capacities. This dataset cataloged volatile organic compounds (VOCs) from the breath of individuals with asthma, bronchiectasis, and chronic obstructive pulmonary disease. Uniform and consistent sample collection protocols were strictly adhered to during the accumulation of this extensive dataset, ensuring its reliability. It encapsulates extensive human clinical breath molecule data pertinent to three specific diseases. This consequential clinical breathomics dataset is a crucial resource for researchers and clinicians in identifying and exploring important compounds within the patient's breath, thereby augmenting future diagnostic and therapeutic initiatives.
+
+[Source](https://doi.org/10.1038/s41597-024-03052-2)
+
+10.1038/s41597-024-03052-2
+
+---
+
+## DeepMPTB: a vaginal microbiome-based deep neural network as artificial intelligence strategy for efficient preterm birth prediction.
+ 14.02.2024, _O Chakoory, V Barra, E Rochette, L Blanchon, V Sapin, E Merlin, M Pons, D Gallot, S Comtet-Marre, P Peyret_
+
+
+In recent decades, preterm birth (PTB) has become a significant research focus in the healthcare field, as it is a leading cause of neonatal mortality worldwide. Using five independent study cohorts including 1290 vaginal samples from 561 pregnant women who delivered at term (n = 1029) or prematurely (n = 261), we analysed vaginal metagenomics data for precise microbiome structure characterization. Then, a deep neural network (DNN) was trained to predict term birth (TB) and PTB with an accuracy of 84.10% and an area under the receiver operating characteristic curve (AUROC) of 0.875 ± 0.11. During a benchmarking process, we demonstrated that our DL model outperformed seven currently used machine learning algorithms. Finally, our results indicate that overall diversity of the vaginal microbiota should be taken in account to predict PTB and not specific species. This artificial-intelligence based strategy should be highly helpful for clinicians in predicting preterm birth risk, allowing personalized assistance to address various health issues. DeepMPTB is open source and free for academic use. It is licensed under a GNU Affero General Public License 3.0 and is available at https://deepmptb.streamlit.app/ . Source code is available at https://github.com/oschakoory/DeepMPTB and can be easily installed using Docker ( https://www.docker.com/ ).
+
+[Source](https://doi.org/10.1186/s40364-024-00557-1)
+
+10.1186/s40364-024-00557-1
+
+---
+
+## MicroMPN: methods and software for high-throughput screening of microbe suppression in mixed populations.
+ 14.02.2024, _K Franco Meléndez, L Schuster, MC Donahey, E Kairalla, MA Jansen, C Reisch, AR Rivers_
+
+
+Screening assays are used to test if one or more microbes suppress a pathogen of interest. In the presence of more than one microbe, the screening method must be able to accurately distinguish viable pathogen cells from non-viable and non-target microbes in a sample. Current screening methods are time-consuming and require special reagents to detect viability in mixed microbial communities. Screening assays performed using soil or other complex matrices present additional challenges for screening. Here, we develop an experimental workflow based on the most probable number (MPN) assay for testing the ability of synthetic microbial communities to suppress a soil-borne pathogen. Our approach, fluorMPN, uses a fluorescently labeled pathogen and microplate format to enable high-throughput comparative screening. In parallel, we developed a command-line tool, MicroMPN, which significantly reduces the complexity of calculating MPN values from microplates. We compared the performance of the fluorMPN assay with spotting on agar and found that both methods produced strongly correlated counts of equal precision. The suppressive effect of synthetic communities on the pathogen was equally recoverable by both methods. The application of this workflow for discriminating which communities lead to pathogen reduction helps narrow down candidates for additional characterization. Together, the resources offered here are meant to facilitate and simplify the application of MPN-based assays for comparative screening projects.IMPORTANCEWe created a unified set of software and laboratory protocols for screening microbe libraries to assess the suppression of a pathogen in a mixed microbial community. Existing methods of fluorescent labeling were combined with the most probable number (MPN) assay in a microplate format to enumerate the reduction of a pathogenic soil microbe from complex soil matrices. This work provides a fluorescent expression vector available from Addgene, step-by-step laboratory protocols hosted by protocols.io, and MicroMPN, a command-line software for processing plate reader outputs. MicroMPN simplifies MPN estimation from 96- and 384-well microplates. The microplate screening assay is amenable to robotic automation with standard liquid handling robots, further reducing the hands-on processing time. This tool was designed to evaluate synthetic microbial communities for use as microbial inoculates or probiotics. The fluorMPN method is also useful for screening chemical and antimicrobial libraries for pathogen suppression in complex bacterial communities like soil.
+
+[Source](https://doi.org/10.1128/spectrum.03578-23)
+
+10.1128/spectrum.03578-23
+
+---
+
+## Nanopore sequencing of infectious fluid is a promising supplement for gold-standard culture in real-world clinical scenario.
+ 15.02.2024, _M Zhao, Y Zhang, L Chen, X Yan, T Xu, M Fu, Y Han, Y Zhang, B Zhang, J Cao, J Lin, D Shen, S Li, C Zhu, W Zhao_
+
+
+_Humans, Microbial Sensitivity Tests, Nanopore Sequencing, Mycobacterium tuberculosis, Communicable Diseases, Staphylococcal Infections, Escherichia coli, High-Throughput Nucleotide Sequencing, Metagenomics, Sensitivity and Specificity_
+Infectious diseases are major causes of morbidity and mortality worldwide, necessitating the rapid identification and accurate diagnosis of pathogens. While unbiased metagenomic next-generation sequencing (mNGS) has been extensively utilized in clinical pathogen identification and scientific microbiome detection, there is limited research about the application of nanopore platform-based mNGS in the diagnostic performance of various infectious fluid samples.
+
+[Source](https://doi.org/10.3389/fcimb.2024.1330788)
+
+10.3389/fcimb.2024.1330788
 
 ---
 
