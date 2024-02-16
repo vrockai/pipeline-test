@@ -11,9 +11,10 @@ Crosstalk between gut and brain has long been appreciated in health and disease,
 ---
 
 ## Alterations of gut microbiota in infants with biliary atresia identified by 16S rRNA-sequencing.
- 14.02.2024, _F Liu, R Wei, X Xu, M Lan, B Tao, Z Liang, J Zeng_
+ 16.02.2024, _F Liu, R Wei, X Xu, M Lan, B Tao, Z Liang, J Zeng_
 
 
+_Infant, Newborn, Infant, Humans, Gastrointestinal Microbiome, Biliary Atresia, RNA, Ribosomal, 16S, Microbiota, Bacteria_
 Biliary atresia (BA) is a severe neonatal disease with progressive intra- and extra-hepatic bile ducts inflammation and hepatic fibrosis. Characterization of gut microbiome profiles in infants with biliary atresia can provide valuable information and potential disease biomarkers. Our study aims to explore the relationship between gut microbiota and biliary atresia.
 
 [Source](https://doi.org/10.1186/s12887-024-04582-9)
@@ -107,9 +108,10 @@ Soil microorganisms play vital roles in regulating multiple ecosystem functions.
 ---
 
 ## A Clinical Breathomics Dataset.
- 14.02.2024, _PH Kuo, YC Jhong, TC Kuo, YT Hsu, CH Kuo, YJ Tseng_
+ 16.02.2024, _PH Kuo, YC Jhong, TC Kuo, YT Hsu, CH Kuo, YJ Tseng_
 
 
+_Humans, Reproducibility of Results, Breath Tests, Exhalation, Asthma, Volatile Organic Compounds_
 This study entailed a comprehensive GC‒MS analysis conducted on 121 patient samples to generate a clinical breathomics dataset. Breath molecules, indicative of diverse conditions such as psychological and pathological states and the microbiome, were of particular interest due to their non-invasive nature. The highlighted noninvasive approach for detecting these breath molecules significantly enhances diagnostic and monitoring capacities. This dataset cataloged volatile organic compounds (VOCs) from the breath of individuals with asthma, bronchiectasis, and chronic obstructive pulmonary disease. Uniform and consistent sample collection protocols were strictly adhered to during the accumulation of this extensive dataset, ensuring its reliability. It encapsulates extensive human clinical breath molecule data pertinent to three specific diseases. This consequential clinical breathomics dataset is a crucial resource for researchers and clinicians in identifying and exploring important compounds within the patient's breath, thereby augmenting future diagnostic and therapeutic initiatives.
 
 [Source](https://doi.org/10.1038/s41597-024-03052-2)
