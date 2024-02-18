@@ -11,7 +11,7 @@ Crosstalk between gut and brain has long been appreciated in health and disease,
 ---
 
 ## Alterations of gut microbiota in infants with biliary atresia identified by 16S rRNA-sequencing.
- 16.02.2024, _F Liu, R Wei, X Xu, M Lan, B Tao, Z Liang, J Zeng_
+ 17.02.2024, _F Liu, R Wei, X Xu, M Lan, B Tao, Z Liang, J Zeng_
 
 
 _Infant, Newborn, Infant, Humans, Gastrointestinal Microbiome, Biliary Atresia, RNA, Ribosomal, 16S, Microbiota, Bacteria_
@@ -108,7 +108,7 @@ Soil microorganisms play vital roles in regulating multiple ecosystem functions.
 ---
 
 ## A Clinical Breathomics Dataset.
- 16.02.2024, _PH Kuo, YC Jhong, TC Kuo, YT Hsu, CH Kuo, YJ Tseng_
+ 17.02.2024, _PH Kuo, YC Jhong, TC Kuo, YT Hsu, CH Kuo, YJ Tseng_
 
 
 _Humans, Reproducibility of Results, Breath Tests, Exhalation, Asthma, Volatile Organic Compounds_
@@ -121,7 +121,7 @@ This study entailed a comprehensive GC‒MS analysis conducted on 121 patient sa
 ---
 
 ## DeepMPTB: a vaginal microbiome-based deep neural network as artificial intelligence strategy for efficient preterm birth prediction.
- 14.02.2024, _O Chakoory, V Barra, E Rochette, L Blanchon, V Sapin, E Merlin, M Pons, D Gallot, S Comtet-Marre, P Peyret_
+ 17.02.2024, _O Chakoory, V Barra, E Rochette, L Blanchon, V Sapin, E Merlin, M Pons, D Gallot, S Comtet-Marre, P Peyret_
 
 
 In recent decades, preterm birth (PTB) has become a significant research focus in the healthcare field, as it is a leading cause of neonatal mortality worldwide. Using five independent study cohorts including 1290 vaginal samples from 561 pregnant women who delivered at term (n = 1029) or prematurely (n = 261), we analysed vaginal metagenomics data for precise microbiome structure characterization. Then, a deep neural network (DNN) was trained to predict term birth (TB) and PTB with an accuracy of 84.10% and an area under the receiver operating characteristic curve (AUROC) of 0.875 ± 0.11. During a benchmarking process, we demonstrated that our DL model outperformed seven currently used machine learning algorithms. Finally, our results indicate that overall diversity of the vaginal microbiota should be taken in account to predict PTB and not specific species. This artificial-intelligence based strategy should be highly helpful for clinicians in predicting preterm birth risk, allowing personalized assistance to address various health issues. DeepMPTB is open source and free for academic use. It is licensed under a GNU Affero General Public License 3.0 and is available at https://deepmptb.streamlit.app/ . Source code is available at https://github.com/oschakoory/DeepMPTB and can be easily installed using Docker ( https://www.docker.com/ ).
