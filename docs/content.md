@@ -108,7 +108,7 @@ Micritization is an early diagenetic process that gradually alters primary carbo
 ---
 
 ## Unveiling the microbial communities and metabolic pathways of Keem, a traditional starter culture, through whole-genome sequencing.
- 20.02.2024, _B Rana, R Chandola, P Sanwal, GK Joshi_
+ 21.02.2024, _B Rana, R Chandola, P Sanwal, GK Joshi_
 
 
 _Microbiota, Bacteria, Firmicutes, Archaea, Metabolic Networks and Pathways_
