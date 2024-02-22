@@ -5,7 +5,7 @@
 ---
 
 ## Favorable subgingival plaque microbiome shifts are associated with clinical treatment for peri-implant diseases.
- 21.02.2024, _D Bazzani, V Heidrich, P Manghi, A Blanco-Miguez, F Asnicar, F Armanini, S Cavaliere, A Bertelle, F Dell'Acqua, E Dellasega, R Waldner, D Vicentini, M Bolzan, C Tomasi, N Segata, E Pasolli, P Ghensi_
+ 22.02.2024, _D Bazzani, V Heidrich, P Manghi, A Blanco-Miguez, F Asnicar, F Armanini, S Cavaliere, A Bertelle, F Dell'Acqua, E Dellasega, R Waldner, D Vicentini, M Bolzan, C Tomasi, N Segata, E Pasolli, P Ghensi_
 
 
 _Humans, Peri-Implantitis, Microbiota_
