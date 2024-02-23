@@ -1,12 +1,12 @@
-## Revisiting Cardiovascular Benefits of Blood Pressure Reduction in Primary and Secondary Prevention: Focus on Targets and Residual Risk-A Systematic Review and Meta-Analysis.
- 23.02.2024, _E Manta, C Thomopoulos, M Kariori, D Polyzos, C Mihas, D Konstantinidis, D Farmakis, G Mancia, K Tsioufis_
+## Changes in Oral Health and Dental Esthetic in Smokers Switching to Combustion-Free Nicotine Alternatives: Protocol for a Multicenter and Prospective Randomized Controlled Trial.
+ 23.02.2024, _G Conte, SA Pacino, S Urso, D Greiling, P Caponnetto, E Pedullà, L Generali, U Consolo, V Checchi, S Gospodaru, G Bordeniuc, V Fala, J Kowalski, M Nowak, R Górska, A Amaliya, I Chapple, M Milward, R Maclure, GM Nardi, R Polosa_
 
 
-Previous meta-analyses resurrected the debated statement "the lower, the better" following blood pressure (BP)-lowering treatment. We investigated the benefits of BP-lowering treatment at different BP targets by prevention category.
+Although the detrimental effects of conventional combustible cigarettes on oral health and dental esthetics are well known, there is limited information about the long-term impact of combustion-free nicotine alternatives (C-F NA) such as e-cigarettes or heated tobacco products.
 
 [Source](https://www.gofundme.com/f/me-mvif)
 
-10.1161/HYPERTENSIONAHA.123.22610
+10.2196/53222
 
 ---
 
@@ -34,16 +34,9 @@ Previous meta-analyses resurrected the debated statement "the lower, the better"
 
 ---
 
-## Favorable subgingival plaque microbiome shifts are associated with clinical treatment for peri-implant diseases.
- 22.02.2024, _D Bazzani, V Heidrich, P Manghi, A Blanco-Miguez, F Asnicar, F Armanini, S Cavaliere, A Bertelle, F Dell'Acqua, E Dellasega, R Waldner, D Vicentini, M Bolzan, C Tomasi, N Segata, E Pasolli, P Ghensi_
-
-
-_Humans, Peri-Implantitis, Microbiota_
-We performed a longitudinal shotgun metagenomic investigation of the plaque microbiome associated with peri-implant diseases in a cohort of 91 subjects with 320 quality-controlled metagenomes. Through recently improved taxonomic profiling methods, we identified the most discriminative species between healthy and diseased subjects at baseline, evaluated their change over time, and provided evidence that clinical treatment had a positive effect on plaque microbiome composition in patients affected by mucositis and peri-implantitis.
+## Favorable subgingival plaque microbiome shifts are associated with clinical treatment for peri-implant diseases
 
 [Source](https://link.springer.com/article/10.1038/s41522-024-00482-z)
-
-10.1038/s41522-024-00482-z
 
 ---
 
@@ -65,33 +58,9 @@ We performed a longitudinal shotgun metagenomic investigation of the plaque micr
 
 ---
 
-## Treatment status of psychiatric disorders and falls in the workplace among Japanese workers: a nationwide cross-sectional study.
- 22.02.2024, _A Yama, T Nagata, K Odagami, NP Adi, M Nagata, K Mori, FT W S-Ohpm Study_
-
-
-In Japan, the most common injury requiring sick leave is a fall in the workplace; therefore, it is very important to prevent falls. Most measures to prevent falls involve aspects of the workplace environment and safety. However, few measures consider the perspective of individual health. We investigated the relationship between psychiatric disorders and falls in the workplace and whether treatment status for a psychiatric disorder is associated with workplace falls.
-
-[Source](https://twitter.com/SimonHeilbronn1/status/1760237858521026946?ref_src=twsrc%5Etfw)
-
-10.1093/joccuh/uiae011
-
----
-
 ## February 21, 2024
 
 [Source](https://twitter.com/SimonHeilbronn1/status/1760237858521026946?ref_src=twsrc%5Etfw)
-
----
-
-## Clinical effectiveness of spindle-view intracytoplasmic sperm injection compared to conventional intracytoplasmic sperm injection in patients with poor ovarian response and previous implantation failure.
- 18.02.2024, _S Kim, M Cho, S Chun, TW Park, JH Joo, YH Koo, YC Lee_
-
-
-This study aimed to determine the clinical advantage of spindle-view intracytoplasmic sperm injection (SVICSI; a novel technology) over conventional intracytoplasmic sperm injection (cICSI) in patients with poor ovarian response (POR) and previous implantation failure.
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.02.18.580923v1)
-
-10.5468/ogs.23268
 
 ---
 
@@ -125,19 +94,6 @@ This study aimed to determine the clinical advantage of spindle-view intracytopl
 
 ---
 
-## Longitudinal quantification of Bifidobacterium longum subsp. infantis reveals late colonization in the infant gut independent of maternal milk HMO composition.
- 06.02.2024, _D Ennis, S Shmorak, E Jantscher-Krenn, M Yassour_
-
-
-_Infant, Female, Humans, Health Maintenance Organizations, Longitudinal Studies, Milk, Human, Bifidobacterium, Oligosaccharides, Bifidobacterium longum_
-Breast milk contains human milk oligosaccharides (HMOs) that cannot be digested by infants, yet nourish their developing gut microbiome. While Bifidobacterium are the best-known utilizers of individual HMOs, a longitudinal study examining the evolving microbial community at high-resolution coupled with mothers' milk HMO composition is lacking. Here, we developed a high-throughput method to quantify Bifidobacterium longum subsp. infantis (BL. infantis), a proficient HMO-utilizer, and applied it to a longitudinal cohort consisting of 21 mother-infant dyads. We observed substantial changes in the infant gut microbiome over the course of several months, while the HMO composition in mothers' milk remained relatively stable. Although Bifidobacterium species significantly influenced sample variation, no specific HMOs correlated with Bifidobacterium species abundance. Surprisingly, we found that BL. infantis colonization began late in the breastfeeding period both in our cohort and in other geographic locations, highlighting the importance of focusing on BL. infantis dynamics in the infant gut.
-
-[Source](https://twitter.com/dena_ennis?ref_src=twsrc%5Etfw)
-
-10.1038/s41467-024-45209-y
-
----
-
 ## @dena_ennis
 
 [Source](https://twitter.com/dena_ennis?ref_src=twsrc%5Etfw)
@@ -150,15 +106,15 @@ Breast milk contains human milk oligosaccharides (HMOs) that cannot be digested 
 
 ---
 
-## Development of the NOCSAE Standard to Reduce the Risk of Commotio Cordis.
- 23.02.2024, _N Dau, C Bir, E McCalley, D Halstead, MS Link_
+## The Use of ICD-9-CM Coding to Identify COVID-19 Diagnoses and Determine Risk Factors for 30-Day Death Rate in Hospitalized Patients in Italy: Retrospective Study.
+ 23.02.2024, _B Giordani, A Burgio, F Grippo, A Barone, E Eugeni, G Baglio_
 
 
-Commotio cordis, sudden cardiac death (SCD) caused by relatively innocent impact to the chest, is one of the leading causes of SCD in sports. Commercial chest protectors have not been demonstrated to mitigate the risk of these SCDs.
+In Italy, it has been difficult to accurately quantify hospital admissions of patients with a COVID-19 diagnosis using the Hospital Information System (HIS), mainly due to the heterogeneity of codes used in the hospital discharge records during different waves of the COVID-19 pandemic.
 
 [Source](https://twitter.com/KijnerSivan/status/1742872144420192568?ref_src=twsrc%5Etfw)
 
-10.1161/CIRCEP.123.011966
+10.2196/44062
 
 ---
 
@@ -243,15 +199,15 @@ Gut bacteriome dysbiosis is known to be implicated in the pathogenesis of inflam
 
 ---
 
-## The gut ileal mucosal virome is disturbed in patients with Crohn's disease and exacerbates intestinal inflammation in mice.
- 22.02.2024, _Z Cao, D Fan, Y Sun, Z Huang, Y Li, R Su, F Zhang, Q Li, H Yang, F Zhang, Y Miao, P Lan, X Wu, T Zuo_
+## Five Species of Wild Freshwater Sport Fish in Wisconsin, USA, Reveal Highly Diverse Viromes.
+ 23.02.2024, _CE Ford, CD Dunn, EM Leis, WA Thiel, TL Goldberg_
 
 
-Gut bacteriome dysbiosis is known to be implicated in the pathogenesis of inflammatory bowel disease (IBD). Crohn's disease (CD) is an IBD subtype with extensive mucosal inflammation, yet the mucosal virome, an empirical modulator of the bacteriome and mucosal immunity, remains largely unclear regarding its composition and role. Here, we exploited trans-cohort CD patients and healthy individuals to compositionally and functionally investigate the small bowel (terminal ileum) virome and bacteriome. The CD ileal virome was characterised by an under-representation of both lytic and temperate bacteriophages (especially those targeting bacterial pathogens), particularly in patients with flare-up. Meanwhile, the virome-bacteriome ecology in CD ileal mucosa was featured by a lack of Bifidobacterium- and Lachnospiraceae-led mutualistic interactions between bacteria and bacteriophages; surprisingly it was more pronounced in CD remission than flare-up, underlining the refractory and recurrent nature of mucosal inflammation in CD. Lastly, we substantiated that ileal virions from CD patients causally exacerbated intestinal inflammation in IBD mouse models, by reshaping a gut virome-bacteriome ecology preceding intestinal inflammation (microbial trigger) and augmenting microbial sensing/defence pathways in the intestine cells (host response). Altogether, our results highlight the significance of mucosal virome in CD pathogenesis and importance of mucosal virome restoration in CD therapeutics.
+Studies of marine fish have revealed distant relatives of viruses important to global fish and animal health, but few such studies exist for freshwater fish. To investigate whether freshwater fish also host such viruses, we characterized the viromes of five wild species of freshwater fish in Wisconsin, USA: bluegill (Lepomis macrochirus), brown trout (Salmo trutta), lake sturgeon (Acipenser fulvescens), northern pike (Esox lucius), and walleye (Sander vitreus). We analyzed 103 blood serum samples collected during a state-wide survey from 2016 to 2020 and used a metagenomic approach for virus detection to identify known and previously uncharacterized virus sequences. We then characterized viruses phylogenetically and quantified prevalence, richness, and relative abundance for each virus. Within these viromes, we identified 19 viruses from 11 viral families: Amnoonviridae, Circoviridae, Coronaviridae, Hepadnaviridae, Peribunyaviridae, Picobirnaviridae, Picornaviridae, Matonaviridae, Narnaviridae, Nudnaviridae, and Spinareoviridae, 17 of which were previously undescribed. Among these viruses was the first fish-associated coronavirus from the Gammacoronavirus genus, which was present in 11/15 (73%) of S. vitreus. These results demonstrate that, similar to marine fish, freshwater fish also harbor diverse relatives of viruses important to the health of fish and other animals, although it currently remains unknown what effect, if any, the viruses we identified may have on fish health.
 
 [Source](https://twitter.com/hashtag/virome?src=hash&ref_src=twsrc%5Etfw)
 
-10.1038/s41467-024-45794-y
+10.3390/pathogens13020150
 
 ---
 
@@ -261,15 +217,15 @@ Gut bacteriome dysbiosis is known to be implicated in the pathogenesis of inflam
 
 ---
 
-## TH17 cell: a double-edged sword in the development of inflammatory bowel disease.
- 23.02.2024, _Y Wen, H Wang, D Tian, G Wang_
+## WAY-262611 ameliorates the inflammatory bowel disease by activating Wnt/β-catenin pathway.
+ 23.02.2024, _B Du, S Luo, X Zhu, M Hu, X Feng, Q Yu, B Bai, J Xu, J Wang_
 
 
-Inflammatory bowel disease (IBD) is a chronic nonspecific inflammatory disease of the gastrointestinal tract, and its pathogenesis has not been fully understood. Extensive dysregulation of the intestinal mucosal immune system is critical in the development and progression of IBD. T helper (Th) 17 cells have the characteristics of plasticity. They can transdifferentiate into subpopulations with different functions in response to different factors in the surrounding environment, thus taking on different roles in regulating the intestinal immune responses. In this review, we will focus on the plasticity of Th17 cells as well as the function of Th17 cells and their related cytokines in IBD. We will summarize their pathogenic and protective roles in IBD under different conditions, respectively, hoping to further deepen the understanding of the pathological mechanisms underlying IBD and provide insights for future treatment.
+Inflammatory bowel disease (IBD) is a non-specific and relapsing intestinal inflammation. The injury and repair of intestinal epithelial together determine the occurrence and development of IBD. Wnt/β-catenin pathway is considered as the key role in the proliferation and differentiation of intestinal stem cells which is negative regulated by Dickkiop (DKKs). WAY-262611 is a novel inhibitor of DKK-1, and has demonstrated therapeutic effect on some disease including osteoporosis. Thus, we investigated the effect of WAY-262611 on IBD. Firstly, a mice model of IBD was established by DSS induction, by which the expression of Wnt3a and DKK-1 were detected by immumohistochemical staining to display their correlation. Next, using WAY-262611 the ameliorative effect on IBD was validated by histopathological staining. Using Mode-k cells the experiments in vitro were also conducted, in which the viability and apoptosis were determined. By detecting expression of Wnt3a and DKK-1 and observing nuclear translocation of β-catenin, the activation of Wnt/β-catenin pathway was validated. Finally, the incidence of the orthotopic colorectal cancer was calculated under continuous administration by DSS. Results demonstrated that the expression of Wnt3a is negative correlated with DKK-1. WAY-262611 ameliorated the IBD and reduced apoptosis of Mode-k cells induced by DSS. The protective effect of WAY-262611 on Mode-k cells is mediated by Wnt/β-catenin pathway activation. In addition, WAY-262611 lowered the incidence rate of orthotopic colorectal cancer. All these results concluded that WAY-262611 could mitigate the IBD by activating Wnt/β-catenin pathway in mice.
 
 [Source](https://twitter.com/hashtag/IBD?src=hash&ref_src=twsrc%5Etfw)
 
-10.1177/17562848241230896
+10.1007/s11626-023-00809-8
 
 ---
 
@@ -279,15 +235,15 @@ Inflammatory bowel disease (IBD) is a chronic nonspecific inflammatory disease o
 
 ---
 
-## Tracking cell layer contribution during repair of the tympanic membrane.
- 23.02.2024, _OM Dinwoodie, AS Tucker, J Fons-Romero_
+## EPA and DHA Alleviated Chronic Dextran Sulfate Sodium Exposure-Induced Depressive-like Behaviors in Mice and Potential Mechanisms Involved.
+ 23.02.2024, _XY Wang, SS He, MM Zhou, XR Li, CC Wang, YC Zhao, CH Xue, HX Che_
 
 
-The tympanic membrane (or ear drum) sits at the interface between the middle and external ear. The membrane is composed of three layers: an outer ectodermally-derived layer, a middle neural crest-derived fibroblast layer with contribution from the mesoderm-derived vasculature, and an inner endodermally-derived mucosal layer. These layers form a thin sandwich that is often perforated as a consequence of trauma, pressure changes, or middle ear inflammation. During healing, cells need to bridge the perforation in the absence of an initial scaffold. Here we assess the contribution, timing, and interaction of the different layers during membrane repair using markers and reporter mice. We show that the ectodermal layer retracts after perforation, before proliferating away from the wound edge, with Keratin 5 basal cells migrating over the hole to bridge the gap. The mesenchymal and mucosal layers then use this scaffold to complete the repair, followed by advancement of the vasculature. Finally, differentiation of the epithelium leads to formation of a scab. Our results reveal the dynamics and interconnections between the embryonic germ layers during repair and highlight how defects might occur.
+Patients with ulcerative colitis (UC) have higher rates of depression. However, the mechanism of depression development remains unclear. The improvements of EPA and DHA on dextran sulfate sodium (DSS)-induced UC have been verified. Therefore, the present study mainly focused on the effects of EPA and DHA on UC-induced depression in C57BL/6 mice and the possible mechanisms involved. A forced swimming test and tail suspension experiment showed that EPA and DHA significantly improved DSS-induced depressive-like behavior. Further analysis demonstrated that EPA and DHA could significantly suppress the inflammation response of the gut and brain by regulating the NLRP3/ASC signal pathway. Moreover, intestine and brain barriers were maintained by enhancing ZO-1 and occludin expression. In addition, EPA and DHA also increased the serotonin (5-HT) concentration and synaptic proteins. Interestingly, EPA and DHA treatments increased the proportion of dominant bacteria, alpha diversity, and beta diversity. In conclusion, oral administration of EPA and DHA alleviated UC-induced depressive-like behavior in mice by modulating the inflammation, maintaining the mucosal and brain barriers, suppressing neuronal damage and reverting microbiota changes.
 
 [Source](https://twitter.com/hashtag/mucosal?src=hash&ref_src=twsrc%5Etfw)
 
-10.1242/dmm.050466
+10.3390/md22020076
 
 ---
 
@@ -303,15 +259,15 @@ The tympanic membrane (or ear drum) sits at the interface between the middle and
 
 ---
 
-## Satisfaction Rate After Laser Correction of Presbyopia (Presbyond) Among Patients Aged 40 Years and Older in Taif, Saudi Arabia.
- 23.02.2024, _TA Althomali, AN Aloufi, AA Alharbi, AH Hafiz, AH Altowairqi, MH Fattah, AK Alzahrani, RK Althomali, WK Althomali_
+## Childhood Factors Associated With Unnatural Death Through Midadulthood.
+ 23.02.2024, _KB Roth, G Kahn, CL Storr, HC Wilcox_
 
 
-Background Presbyopia is a physiological condition arising due to the loss of accommodation within the crystalline lens. One of the most widely accepted theories of the mechanism of accommodation was that in response to ciliary muscle contraction, the crystalline lens thickness increases, the lens diameter decreases, and both the anterior and posterior curvature of the lens increase, resulting in an increase in lenticular power therefore, accommodation. A contrasting theory suggests that ciliary muscle contraction leads to a selective increase in equatorial zonular tension, with the lens equator moving toward the sclera and the equatorial diameter of the lens increasing. This results in a change of lens optical power. Until now, clinical approaches to correct presbyopia have included monovision, multifocality, and extended depth of focus, all three of which can be achieved surgically on the cornea or by lens surgery. Methods This was a cross-sectional study adopted among patients who had Presbyond surgery in Taif City, Saudi Arabia, and were aged 40 years and older. The data was collected by conducting phone interviews to increase the response rate with a prepared questionnaire that was studied to achieve equality between participants to determine whether they were satisfied or not about the results after this surgery. The contact information was retrieved based on hospital records about patients who underwent Presbyond surgery. Data was analyzed using IBM SPSS Statistics for Windows, Version 22 (Released 2013; IBM Corp., Armonk, New York, United States). The data was collected for the period beginning on the first of January 2019 until the first of February 2023. Results From the study findings, a significant number of participants (28.1%, n=25) reported experiencing complete improvement and returning to normal life within 1-30 days after surgery. A slightly larger percentage (39.2%, n=35) experienced this within 1-3 months. Most of the participants (80.9%, n=72) reported an overall improvement in their quality of life after the surgery. This included activities such as reading and using a mobile phone. This indicates that the surgery had a positive impact on their daily lives and activities. In terms of recommendations, a total of 49 (55.1%, n=49) participants stated that they were very likely to recommend refractive surgery to a family member or friend experiencing vision problems. The study found that the mean patients' satisfaction score after one month of surgery is 2.494 units higher than the mean satisfaction score before surgery. This difference was statistically significant (p &lt; .001). Conclusion The majority of participants did not experience any problems during the surgery, and most were able to resume their normal activities within a relatively brief period of time. The surgery achieved its goals for the majority of participants, resulting in an improvement in their quality of life. However, some short-term discomfort or adjustment period was reported. Overall, the participants were satisfied with the surgery, with the majority being very likely to recommend it to others. There is room for improvement in addressing concerns such as blurred vision, the need for glasses, and dry eyes. The study also found that patient satisfaction increased significantly after one month of surgery, and the timing of complete improvement and perception of achieving surgical goals were strongly associated with perceived outcomes.
+Life expectancy is decreasing in the US. Without national efforts to address factors that support policies and programs directed at children living in areas of concentrated poverty, life expectancy will likely continue to decline while costs and suffering associated with unnatural deaths will increase.
 
 [Source](https://twitter.com/Tao_Zuo_/status/1760815206023000312?ref_src=twsrc%5Etfw)
 
-10.7759/cureus.52776
+10.1001/jamanetworkopen.2024.0327
 
 ---
 
@@ -345,18 +301,6 @@ Background Presbyopia is a physiological condition arising due to the loss of ac
 
 ---
 
-## Decoding muscle-resident Schwann cell dynamics during neuromuscular junction remodeling.
- 19.02.2024, _SD Guzman, A Abu-Mahfouz, CS Davis, LP Ruiz, PC Macpherson, SV Brooks_
-
-
-Understanding neuromuscular junction (NMJ) repair mechanisms is essential for addressing degenerative neuromuscular conditions. Here, we focus on the role of muscle-resident Schwann cells in NMJ reinnervation. In young Sod1 -/- mice, a model of progressive NMJ degeneration, we identified a clear NMJ 'regenerative window' that allowed us to define regulators of reinnervation and crossing Sod1 -/- mice with S100GFP -tg mice permitted visualization and analysis of Schwann cells. High-resolution imaging and single-cell RNA sequencing provide a detailed analysis of Schwann cell number, morphology, and transcriptome revealing multiple subtypes, including a previously unrecognized terminal Schwann cell (tSC) population expressing a synapse promoting signature. We also discovered a novel SPP1-driven cellular interaction between myelin Schwann cells and tSCs and show that it promotes tSC proliferation and reinnervation following nerve injury in wild type mice. Our findings offer important insights into molecular regulators critical in NMJ reinnervation that are mediated through tSCs to maintain NMJ function.
-
-[Source](https://twitter.com/biorxiv_micrbio?ref_src=twsrc%5Etfw)
-
-10.1101/2023.10.06.561193
-
----
-
 ## @biorxiv_micrbio
 
 [Source](https://twitter.com/biorxiv_micrbio?ref_src=twsrc%5Etfw)
@@ -372,18 +316,6 @@ Understanding neuromuscular junction (NMJ) repair mechanisms is essential for ad
 ## https://t.co/dwDsJnXH4N
 
 [Source](https://t.co/dwDsJnXH4N)
-
----
-
-## Treatment status of psychiatric disorders and falls in the workplace among Japanese workers: a nationwide cross-sectional study.
- 22.02.2024, _A Yama, T Nagata, K Odagami, NP Adi, M Nagata, K Mori, FT W S-Ohpm Study_
-
-
-In Japan, the most common injury requiring sick leave is a fall in the workplace; therefore, it is very important to prevent falls. Most measures to prevent falls involve aspects of the workplace environment and safety. However, few measures consider the perspective of individual health. We investigated the relationship between psychiatric disorders and falls in the workplace and whether treatment status for a psychiatric disorder is associated with workplace falls.
-
-[Source](https://twitter.com/cibiocm/status/1760304965489144181?ref_src=twsrc%5Etfw)
-
-10.1093/joccuh/uiae011
 
 ---
 
