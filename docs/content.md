@@ -28,18 +28,6 @@ Although the detrimental effects of conventional combustible cigarettes on oral 
 
 ---
 
-## Toxic Relationships Described by People With Breast Cancer on Reddit: Topic Modeling Study.
- 23.02.2024, _CA Davidson, R Booth, KT Jackson, T Mantler_
-
-
-Social support is essential to promoting optimal health outcomes for women with breast cancer. However, an estimated 12% of women with breast cancer simultaneously experience intimate partner violence (IPV; physical, psychological, or sexual abuse by an intimate partner). Women who experience IPV during breast cancer may lack traditional social support, and thus seek out alternative sources of support. Online community forums, such as Reddit, can provide accessible social connections within breast cancer-specific communities. However, it is largely unknown how women with breast cancer use Reddit to describe and seek support for experiences of IPV.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1756998291537936384?ref_src=twsrc%5Etfw)
-
-10.2196/48860
-
----
-
 ## February 12, 2024
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1756998291537936384?ref_src=twsrc%5Etfw)
@@ -77,33 +65,9 @@ We performed a longitudinal shotgun metagenomic investigation of the plaque micr
 
 ---
 
-## Spontaneous Breathing Trial Techniques for Extubating Adults and Children Who Are Critically Ill: A Systematic Review and Meta-Analysis.
- 23.02.2024, _KEA Burns, J Khan, V Phoophiboon, V Trivedi, JC Gomez-Builes, B Giammarioli, K Lewis, D Chaudhuri, K Desai, JO Friedrich_
-
-
-Considerable controversy exists regarding the best spontaneous breathing trial (SBT) technique to use.
-
-[Source](https://twitter.com/SimonHeilbronn1/status/1760237858521026946?ref_src=twsrc%5Etfw)
-
-10.1001/jamanetworkopen.2023.56794
-
----
-
 ## February 21, 2024
 
 [Source](https://twitter.com/SimonHeilbronn1/status/1760237858521026946?ref_src=twsrc%5Etfw)
-
----
-
-## Decrease in Sperm Parameters in the 21st Century: Obesity, Lifestyle, or Environmental Factors? An Updated Narrative Review.
- 23.02.2024, _R Sciorio, L Tramontano, M Adel, S Fleming_
-
-
-Semen quality represents a compelling factor for fertility, and delineating the normal values has proven difficult. In the last four decades, several authors have reported a noticeable decline in sperm parameters. Also, studies investigating 'time to pregnancy' have shown that fecundity begins to be reduced when sperm numbers decrease below 30 million, even though according to the 6th edition of the WHO manual, the normal value is currently 16 million/mL or 39 million per ejaculate. There exists sufficient data to suggest a decline in sperm counts over time, even though the clear reason for this adverse trend is not well established, but some associations have been hypothesised, such as maternal smoking during pregnancy. Additional potential factors have yet to be fully illustrated but involve poor diet, increased obesity, and exposure to environmental toxins. Moreover, the change in environmental conditions and more common exposure to endocrine-disrupting chemicals (EDCs), such as pesticides and herbicides, as well as bisphenol A, phthalates, polychlorinated biphenyls, and heavy metals, starting from prenatal life and continuing into adulthood, may exhibit probable features explaining the reduction in sperm parameters. Therefore, the main goal of this narrative review is to furnish an overview of the possible effects of exposure to EDCs on testicular function and spermatogenesis and, also, to summarise the evidence regarding a decrease in sperm quality and examine its potential consequences.
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.02.18.580923v1)
-
-10.3390/jpm14020198
 
 ---
 
@@ -353,18 +317,6 @@ Epstein-Barr virus mucocutaneous ulcers (EBVMCUs) were officially recognized as 
 ## Discovering and exploring the hidden diversity of human gut viruses using highly enriched virome samples
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.02.19.580813v1.full.pdf)
-
----
-
-## Decoding muscle-resident Schwann cell dynamics during neuromuscular junction remodeling.
- 19.02.2024, _SD Guzman, A Abu-Mahfouz, CS Davis, LP Ruiz, PC Macpherson, SV Brooks_
-
-
-Understanding neuromuscular junction (NMJ) repair mechanisms is essential for addressing degenerative neuromuscular conditions. Here, we focus on the role of muscle-resident Schwann cells in NMJ reinnervation. In young Sod1 -/- mice, a model of progressive NMJ degeneration, we identified a clear NMJ 'regenerative window' that allowed us to define regulators of reinnervation and crossing Sod1 -/- mice with S100GFP -tg mice permitted visualization and analysis of Schwann cells. High-resolution imaging and single-cell RNA sequencing provide a detailed analysis of Schwann cell number, morphology, and transcriptome revealing multiple subtypes, including a previously unrecognized terminal Schwann cell (tSC) population expressing a synapse promoting signature. We also discovered a novel SPP1-driven cellular interaction between myelin Schwann cells and tSCs and show that it promotes tSC proliferation and reinnervation following nerve injury in wild type mice. Our findings offer important insights into molecular regulators critical in NMJ reinnervation that are mediated through tSCs to maintain NMJ function.
-
-[Source](https://twitter.com/biorxiv_micrbio?ref_src=twsrc%5Etfw)
-
-10.1101/2023.10.06.561193
 
 ---
 
