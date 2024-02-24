@@ -28,15 +28,34 @@ Although the detrimental effects of conventional combustible cigarettes on oral 
 
 ---
 
+## Toxic Relationships Described by People With Breast Cancer on Reddit: Topic Modeling Study.
+ 23.02.2024, _CA Davidson, R Booth, KT Jackson, T Mantler_
+
+
+Social support is essential to promoting optimal health outcomes for women with breast cancer. However, an estimated 12% of women with breast cancer simultaneously experience intimate partner violence (IPV; physical, psychological, or sexual abuse by an intimate partner). Women who experience IPV during breast cancer may lack traditional social support, and thus seek out alternative sources of support. Online community forums, such as Reddit, can provide accessible social connections within breast cancer-specific communities. However, it is largely unknown how women with breast cancer use Reddit to describe and seek support for experiences of IPV.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1756998291537936384?ref_src=twsrc%5Etfw)
+
+10.2196/48860
+
+---
+
 ## February 12, 2024
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1756998291537936384?ref_src=twsrc%5Etfw)
 
 ---
 
-## Favorable subgingival plaque microbiome shifts are associated with clinical treatment for peri-implant diseases
+## Favorable subgingival plaque microbiome shifts are associated with clinical treatment for peri-implant diseases.
+ 22.02.2024, _D Bazzani, V Heidrich, P Manghi, A Blanco-Miguez, F Asnicar, F Armanini, S Cavaliere, A Bertelle, F Dell'Acqua, E Dellasega, R Waldner, D Vicentini, M Bolzan, C Tomasi, N Segata, E Pasolli, P Ghensi_
+
+
+_Humans, Peri-Implantitis, Microbiota_
+We performed a longitudinal shotgun metagenomic investigation of the plaque microbiome associated with peri-implant diseases in a cohort of 91 subjects with 320 quality-controlled metagenomes. Through recently improved taxonomic profiling methods, we identified the most discriminative species between healthy and diseased subjects at baseline, evaluated their change over time, and provided evidence that clinical treatment had a positive effect on plaque microbiome composition in patients affected by mucositis and peri-implantitis.
 
 [Source](https://link.springer.com/article/10.1038/s41522-024-00482-z)
+
+10.1038/s41522-024-00482-z
 
 ---
 
@@ -58,9 +77,33 @@ Although the detrimental effects of conventional combustible cigarettes on oral 
 
 ---
 
+## Spontaneous Breathing Trial Techniques for Extubating Adults and Children Who Are Critically Ill: A Systematic Review and Meta-Analysis.
+ 23.02.2024, _KEA Burns, J Khan, V Phoophiboon, V Trivedi, JC Gomez-Builes, B Giammarioli, K Lewis, D Chaudhuri, K Desai, JO Friedrich_
+
+
+Considerable controversy exists regarding the best spontaneous breathing trial (SBT) technique to use.
+
+[Source](https://twitter.com/SimonHeilbronn1/status/1760237858521026946?ref_src=twsrc%5Etfw)
+
+10.1001/jamanetworkopen.2023.56794
+
+---
+
 ## February 21, 2024
 
 [Source](https://twitter.com/SimonHeilbronn1/status/1760237858521026946?ref_src=twsrc%5Etfw)
+
+---
+
+## Decrease in Sperm Parameters in the 21st Century: Obesity, Lifestyle, or Environmental Factors? An Updated Narrative Review.
+ 23.02.2024, _R Sciorio, L Tramontano, M Adel, S Fleming_
+
+
+Semen quality represents a compelling factor for fertility, and delineating the normal values has proven difficult. In the last four decades, several authors have reported a noticeable decline in sperm parameters. Also, studies investigating 'time to pregnancy' have shown that fecundity begins to be reduced when sperm numbers decrease below 30 million, even though according to the 6th edition of the WHO manual, the normal value is currently 16 million/mL or 39 million per ejaculate. There exists sufficient data to suggest a decline in sperm counts over time, even though the clear reason for this adverse trend is not well established, but some associations have been hypothesised, such as maternal smoking during pregnancy. Additional potential factors have yet to be fully illustrated but involve poor diet, increased obesity, and exposure to environmental toxins. Moreover, the change in environmental conditions and more common exposure to endocrine-disrupting chemicals (EDCs), such as pesticides and herbicides, as well as bisphenol A, phthalates, polychlorinated biphenyls, and heavy metals, starting from prenatal life and continuing into adulthood, may exhibit probable features explaining the reduction in sperm parameters. Therefore, the main goal of this narrative review is to furnish an overview of the possible effects of exposure to EDCs on testicular function and spermatogenesis and, also, to summarise the evidence regarding a decrease in sperm quality and examine its potential consequences.
+
+[Source](https://www.biorxiv.org/content/10.1101/2024.02.18.580923v1)
+
+10.3390/jpm14020198
 
 ---
 
@@ -94,6 +137,19 @@ Although the detrimental effects of conventional combustible cigarettes on oral 
 
 ---
 
+## Longitudinal quantification of Bifidobacterium longum subsp. infantis reveals late colonization in the infant gut independent of maternal milk HMO composition.
+ 06.02.2024, _D Ennis, S Shmorak, E Jantscher-Krenn, M Yassour_
+
+
+_Infant, Female, Humans, Health Maintenance Organizations, Longitudinal Studies, Milk, Human, Bifidobacterium, Oligosaccharides, Bifidobacterium longum_
+Breast milk contains human milk oligosaccharides (HMOs) that cannot be digested by infants, yet nourish their developing gut microbiome. While Bifidobacterium are the best-known utilizers of individual HMOs, a longitudinal study examining the evolving microbial community at high-resolution coupled with mothers' milk HMO composition is lacking. Here, we developed a high-throughput method to quantify Bifidobacterium longum subsp. infantis (BL. infantis), a proficient HMO-utilizer, and applied it to a longitudinal cohort consisting of 21 mother-infant dyads. We observed substantial changes in the infant gut microbiome over the course of several months, while the HMO composition in mothers' milk remained relatively stable. Although Bifidobacterium species significantly influenced sample variation, no specific HMOs correlated with Bifidobacterium species abundance. Surprisingly, we found that BL. infantis colonization began late in the breastfeeding period both in our cohort and in other geographic locations, highlighting the importance of focusing on BL. infantis dynamics in the infant gut.
+
+[Source](https://twitter.com/dena_ennis?ref_src=twsrc%5Etfw)
+
+10.1038/s41467-024-45209-y
+
+---
+
 ## @dena_ennis
 
 [Source](https://twitter.com/dena_ennis?ref_src=twsrc%5Etfw)
@@ -106,15 +162,15 @@ Although the detrimental effects of conventional combustible cigarettes on oral 
 
 ---
 
-## The Use of ICD-9-CM Coding to Identify COVID-19 Diagnoses and Determine Risk Factors for 30-Day Death Rate in Hospitalized Patients in Italy: Retrospective Study.
- 23.02.2024, _B Giordani, A Burgio, F Grippo, A Barone, E Eugeni, G Baglio_
+## Impact of collagen matrix on reconstructive material selection and postoperative complications in endoscopic endonasal skull base surgery.
+ 23.02.2024, _M Tanji, M Oishi, N Sano, Y Terada, M Kikuchi, T Nakagawa, T Sakamoto, M Matsunaga, F Kuwata, Y Kitada, M Yamashita, Y Mineharu, S Miyamoto, Y Arakawa_
 
 
-In Italy, it has been difficult to accurately quantify hospital admissions of patients with a COVID-19 diagnosis using the Hospital Information System (HIS), mainly due to the heterogeneity of codes used in the hospital discharge records during different waves of the COVID-19 pandemic.
+The aim of this study was to investigate the impact of collagen matrix on reconstructive material selection and postoperative complications in endoscopic endonasal skull base surgery.
 
 [Source](https://twitter.com/KijnerSivan/status/1742872144420192568?ref_src=twsrc%5Etfw)
 
-10.2196/44062
+10.3171/2023.12.JNS231406
 
 ---
 
@@ -217,15 +273,15 @@ Studies of marine fish have revealed distant relatives of viruses important to g
 
 ---
 
-## WAY-262611 ameliorates the inflammatory bowel disease by activating Wnt/β-catenin pathway.
- 23.02.2024, _B Du, S Luo, X Zhu, M Hu, X Feng, Q Yu, B Bai, J Xu, J Wang_
+## No potential causal link between HP infection and IBD: A 2way Mendelian randomization study.
+ 23.02.2024, _K Yang, Y Ding, J Chen, X Sun_
 
 
-Inflammatory bowel disease (IBD) is a non-specific and relapsing intestinal inflammation. The injury and repair of intestinal epithelial together determine the occurrence and development of IBD. Wnt/β-catenin pathway is considered as the key role in the proliferation and differentiation of intestinal stem cells which is negative regulated by Dickkiop (DKKs). WAY-262611 is a novel inhibitor of DKK-1, and has demonstrated therapeutic effect on some disease including osteoporosis. Thus, we investigated the effect of WAY-262611 on IBD. Firstly, a mice model of IBD was established by DSS induction, by which the expression of Wnt3a and DKK-1 were detected by immumohistochemical staining to display their correlation. Next, using WAY-262611 the ameliorative effect on IBD was validated by histopathological staining. Using Mode-k cells the experiments in vitro were also conducted, in which the viability and apoptosis were determined. By detecting expression of Wnt3a and DKK-1 and observing nuclear translocation of β-catenin, the activation of Wnt/β-catenin pathway was validated. Finally, the incidence of the orthotopic colorectal cancer was calculated under continuous administration by DSS. Results demonstrated that the expression of Wnt3a is negative correlated with DKK-1. WAY-262611 ameliorated the IBD and reduced apoptosis of Mode-k cells induced by DSS. The protective effect of WAY-262611 on Mode-k cells is mediated by Wnt/β-catenin pathway activation. In addition, WAY-262611 lowered the incidence rate of orthotopic colorectal cancer. All these results concluded that WAY-262611 could mitigate the IBD by activating Wnt/β-catenin pathway in mice.
+Recent epidemiological research suggests a possible negative correlation between Helicobacter pylori infection and inflammatory bowel disease (IBD). However, conflicting studies have provided unclear evidence regarding these causal relationships. Therefore, recommending specific prevention and treatment strategies for H. pylori infection and IBD is challenging. We used various antibodies (anti-H. pylori IgG, VacA, and GroEl) related to H. pylori infection as indicators. We acquired relevant genetic variants from public databases within the Genome-wide Association Studies (GWAS) dataset using IBDs tool variables from 2 different GWAS datasets. We thoroughly examined the data and screened for IVs that fulfilled these criteria. Subsequently, Bidirectional Mendelian randomization (MR) was conducted to predict the potential causality between the 2. To ensure the accuracy and robustness of our results, we conducted a series of sensitivity analyses. Based on our comprehensive MR analysis, no potential causal relationship was observed between H. pylori infection and IBD. Across various methodologies, including IVW, MR-Egger, and weighted median, our findings showed P values &gt; .05. The only exception was observed in the reverse MR analysis using the MR-Egger method, which yielded a P value of &lt; .05. However, because the IVW method is considered the most statistically significant method for MR, and its P value was &gt; .05, we do not believe that a potential causal relationship exists between them. Our sensitivity analysis did not suggest significant horizontal pleiotropism. Although heterogeneity was detected in the analysis of IBD (IIBDGC source) versus H. pylori GroEL antibody levels (MR-Egger, Qp = 0.038; IVW, Qp = 0.043), the results remained reliable because we selected IVW as a random-effects model in our MR analysis method. Based on our MR research, no direct correlation was observed between H. pylori infection and IBD risk. This implies that eradicating H. pylori may not provide substantial benefits in preventing or treating regional IBD, and vice versa. Nevertheless, the use of H. pylori serological index substitution has limitations, and further research using histological diagnosis and additional MR studies is required to comprehensively assess the link between H. pylori infection and IBD.
 
 [Source](https://twitter.com/hashtag/IBD?src=hash&ref_src=twsrc%5Etfw)
 
-10.1007/s11626-023-00809-8
+10.1097/MD.0000000000037175
 
 ---
 
@@ -235,15 +291,15 @@ Inflammatory bowel disease (IBD) is a non-specific and relapsing intestinal infl
 
 ---
 
-## EPA and DHA Alleviated Chronic Dextran Sulfate Sodium Exposure-Induced Depressive-like Behaviors in Mice and Potential Mechanisms Involved.
- 23.02.2024, _XY Wang, SS He, MM Zhou, XR Li, CC Wang, YC Zhao, CH Xue, HX Che_
+## Importance of differential diagnosis of EBV mucocutaneous ulcer and EBV-positive diffuse large B-cell lymphoma: A case report.
+ 23.02.2024, _YR Hong, JS Kwon, HJ Ahn, SY Han, E Cho, BE Kim_
 
 
-Patients with ulcerative colitis (UC) have higher rates of depression. However, the mechanism of depression development remains unclear. The improvements of EPA and DHA on dextran sulfate sodium (DSS)-induced UC have been verified. Therefore, the present study mainly focused on the effects of EPA and DHA on UC-induced depression in C57BL/6 mice and the possible mechanisms involved. A forced swimming test and tail suspension experiment showed that EPA and DHA significantly improved DSS-induced depressive-like behavior. Further analysis demonstrated that EPA and DHA could significantly suppress the inflammation response of the gut and brain by regulating the NLRP3/ASC signal pathway. Moreover, intestine and brain barriers were maintained by enhancing ZO-1 and occludin expression. In addition, EPA and DHA also increased the serotonin (5-HT) concentration and synaptic proteins. Interestingly, EPA and DHA treatments increased the proportion of dominant bacteria, alpha diversity, and beta diversity. In conclusion, oral administration of EPA and DHA alleviated UC-induced depressive-like behavior in mice by modulating the inflammation, maintaining the mucosal and brain barriers, suppressing neuronal damage and reverting microbiota changes.
+Epstein-Barr virus mucocutaneous ulcers (EBVMCUs) were officially recognized as a clinicopathologic entity in the 2017 revision of the World Health Organization classification, which often occurs in the elderly or in immunosuppressive condition presented as an isolated ulcerative lesion. EBVMCUs are defined as "shallow, sharply circumscribed, mucosal or cutaneous ulcers with underlying polymorphous infiltration." It mostly involves oral mucosa, but some appear in skin or gastrointestinal tract. Typically, patients with EBVMCUs display a slow disease progression and may even undergo spontaneous regression.
 
 [Source](https://twitter.com/hashtag/mucosal?src=hash&ref_src=twsrc%5Etfw)
 
-10.3390/md22020076
+10.1097/MD.0000000000037243
 
 ---
 
@@ -259,15 +315,14 @@ Patients with ulcerative colitis (UC) have higher rates of depression. However, 
 
 ---
 
-## Childhood Factors Associated With Unnatural Death Through Midadulthood.
- 23.02.2024, _KB Roth, G Kahn, CL Storr, HC Wilcox_
+## Update February 2024.
+ 23.02.2024, _F Blei_
 
 
-Life expectancy is decreasing in the US. Without national efforts to address factors that support policies and programs directed at children living in areas of concentrated poverty, life expectancy will likely continue to decline while costs and suffering associated with unnatural deaths will increase.
 
 [Source](https://twitter.com/Tao_Zuo_/status/1760815206023000312?ref_src=twsrc%5Etfw)
 
-10.1001/jamanetworkopen.2024.0327
+10.1089/lrb.2024.29157.fb
 
 ---
 
@@ -298,6 +353,18 @@ Life expectancy is decreasing in the US. Without national efforts to address fac
 ## Discovering and exploring the hidden diversity of human gut viruses using highly enriched virome samples
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.02.19.580813v1.full.pdf)
+
+---
+
+## Decoding muscle-resident Schwann cell dynamics during neuromuscular junction remodeling.
+ 19.02.2024, _SD Guzman, A Abu-Mahfouz, CS Davis, LP Ruiz, PC Macpherson, SV Brooks_
+
+
+Understanding neuromuscular junction (NMJ) repair mechanisms is essential for addressing degenerative neuromuscular conditions. Here, we focus on the role of muscle-resident Schwann cells in NMJ reinnervation. In young Sod1 -/- mice, a model of progressive NMJ degeneration, we identified a clear NMJ 'regenerative window' that allowed us to define regulators of reinnervation and crossing Sod1 -/- mice with S100GFP -tg mice permitted visualization and analysis of Schwann cells. High-resolution imaging and single-cell RNA sequencing provide a detailed analysis of Schwann cell number, morphology, and transcriptome revealing multiple subtypes, including a previously unrecognized terminal Schwann cell (tSC) population expressing a synapse promoting signature. We also discovered a novel SPP1-driven cellular interaction between myelin Schwann cells and tSCs and show that it promotes tSC proliferation and reinnervation following nerve injury in wild type mice. Our findings offer important insights into molecular regulators critical in NMJ reinnervation that are mediated through tSCs to maintain NMJ function.
+
+[Source](https://twitter.com/biorxiv_micrbio?ref_src=twsrc%5Etfw)
+
+10.1101/2023.10.06.561193
 
 ---
 
