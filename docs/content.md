@@ -106,47 +106,21 @@ Although the detrimental effects of conventional combustible cigarettes on oral 
 
 ---
 
-## Efficacy and safety of camrelizumab combined with oxaliplatin and S-1 as neoadjuvant treatment in locally advanced gastric or gastroesophageal junction cancer: A phase II, single-arm study.
- 24.02.2024, _WJ Zhong, JA Lin, CY Wu, J Wang, JX Chen, H Zheng, K Ye_
-
-
-In the present study, we aimed to evaluate the efficacy and safety of camrelizumab combined with oxaliplatin plus S-1 in patients with resectable gastric or gastroesophageal junction cancer.
-
-[Source](https://twitter.com/KijnerSivan/status/1742872144420192568?ref_src=twsrc%5Etfw)
-
-10.1002/cam4.7006
-
----
-
 ## January 4, 2024
 
 [Source](https://twitter.com/KijnerSivan/status/1742872144420192568?ref_src=twsrc%5Etfw)
 
 ---
 
-## Microbiome features associated with performance measures in athletic and non-athletic individuals: A case-control study.
- 23.02.2024, _K Humińska-Lisowska, K Zielińska, J Mieszkowski, M Michałowska-Sawczyn, P Cięszczyk, PP Łabaj, B Wasąg, B Frączek, A Grzywacz, A Kochanowicz, T Kosciolek_
-
-
-_Humans, Case-Control Studies, Sports, Exercise, Cardiorespiratory Fitness, Gastrointestinal Microbiome, Athletic Performance_
-The influence of human gut microbiota on health and disease is now commonly appreciated. Therefore, it is not surprising that microbiome research has found interest in the sports community, hoping to improve health and optimize performance. Comparative studies found new species or pathways that were more enriched in elites than sedentary controls. In addition, sport-specific and performance-level-specific microbiome features have been identified. However, the results remain inconclusive and indicate the need for further assessment. In this case-control study, we tested two athletic populations (i.e. strength athletes, endurance athletes) and a non-athletic, but physically active, control group across two acute exercise bouts, separated by a 2-week period, that measured explosive and high intensity fitness level (repeated 30-s all-out Wingate test (WT)) and cardiorespiratory fitness level (Bruce Treadmill Test). While we did not identify any group differences in alpha and beta diversity or significant differential abundance of microbiome components at baseline, one-third of the species identified were unique to each group. Longitudinal sample (pre- and post-exercise) analysis revealed an abundance of Alistipes communis in the strength group during the WT and 88 species with notable between-group differences during the Bruce Test. SparCC recognized Bifidobacterium longum and Bifidobacterium adolescentis, short-chain fatty acid producers with probiotic properties, species strongly associated with VO2max. Ultimately, we identified several taxa with different baseline abundances and longitudinal changes when comparing individuals based on their VO2max, average power, and maximal power parameters. Our results confirmed that the health status of individuals are consistent with assumptions about microbiome health. Furthermore, our findings indicate that microbiome features are associated with better performance previously identified in elite athletes.
+## Microbiome features associated with performance measures in athletic and non-athletic individuals: A case-control study
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297858)
 
-10.1371/journal.pone.0297858
-
 ---
 
-## The impact of iron supplementation on the preterm neonatal gut microbiome: A pilot study.
- 23.02.2024, _M VanOrmer, M Thompson, M Thoene, JJ Riethoven, SK Natarajan, C Hanson, A Anderson-Berry_
-
-
-_Infant, Infant, Newborn, Humans, Infant, Premature, Gastrointestinal Microbiome, Pilot Projects, Dysbiosis, Iron, RNA, Ribosomal, 16S, Dietary Supplements, Feces_
-The gastrointestinal microbiome in preterm infants exhibits significant influence on optimal outcomes-with dysbiosis shown to substantially increase the risk of the life-threatening necrotizing enterocolitis. Iron is a vital nutrient especially during the perinatal window of rapid hemoglobin production, tissue growth, and foundational neurodevelopment. However, excess colonic iron exhibits potent oxidation capacity and alters the gut microbiome-potentially facilitating the proliferation of pathological bacterial strains. Breastfed preterm infants routinely receive iron supplementation starting 14 days after delivery and are highly vulnerable to morbidities associated with gastrointestinal dysbiosis. Therefore, we set out to determine if routine iron supplementation alters the preterm gut microbiome.
+## The impact of iron supplementation on the preterm neonatal gut microbiome: A pilot study
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297558)
-
-10.1371/journal.pone.0297558
 
 ---
 
@@ -156,28 +130,15 @@ The gastrointestinal microbiome in preterm infants exhibits significant influenc
 
 ---
 
-## Insights into gut microbiomes in stem cell transplantation by comprehensive shotgun long-read sequencing.
- 22.02.2024, _P Spohr, S Scharf, A Rommerskirchen, B Henrich, P Jäger, GW Klau, R Haas, A Dilthey, K Pfeffer_
-
-
-_Humans, Gastrointestinal Microbiome, Microbiota, Hematopoietic Stem Cell Transplantation, Bacteria, Anti-Bacterial Agents, Fungi, DNA, Ribosomal, Metagenomics_
-The gut microbiome is a diverse ecosystem, dominated by bacteria; however, fungi, phages/viruses, archaea, and protozoa are also important members of the gut microbiota. Exploration of taxonomic compositions beyond bacteria as well as an understanding of the interaction between the bacteriome with the other members is limited using 16S rDNA sequencing. Here, we developed a pipeline enabling the simultaneous interrogation of the gut microbiome (bacteriome, mycobiome, archaeome, eukaryome, DNA virome) and of antibiotic resistance genes based on optimized long-read shotgun metagenomics protocols and custom bioinformatics. Using our pipeline we investigated the longitudinal composition of the gut microbiome in an exploratory clinical study in patients undergoing allogeneic hematopoietic stem cell transplantation (alloHSCT; n = 31). Pre-transplantation microbiomes exhibited a 3-cluster structure, characterized by Bacteroides spp. /Phocaeicola spp., mixed composition and Enterococcus abundances. We revealed substantial inter-individual and temporal variabilities of microbial domain compositions, human DNA, and antibiotic resistance genes during the course of alloHSCT. Interestingly, viruses and fungi accounted for substantial proportions of microbiome content in individual samples. In the course of HSCT, bacterial strains were stable or newly acquired. Our results demonstrate the disruptive potential of alloHSCTon the gut microbiome and pave the way for future comprehensive microbiome studies based on long-read metagenomics.
+## Insights into gut microbiomes in stem cell transplantation by comprehensive shotgun long-read sequencing
 
 [Source](https://www.nature.com/articles/s41598-024-53506-1)
 
-10.1038/s41598-024-53506-1
-
 ---
 
-## Donor-recipient intermicrobial interactions impact transfer of subspecies and fecal microbiota transplantation outcome.
- 17.02.2024, _Q Chen, C Wu, J Xu, C Ye, X Chen, H Tian, N Zong, S Zhang, L Li, Y Gao, D Zhao, X Lv, Q Yang, L Wang, J Cui, Z Lin, J Lu, R Yang, F Yin, N Qin, N Li, Q Xu, H Qin_
-
-
-Studies on fecal microbiota transplantation (FMT) have reported inconsistent connections between clinical outcomes and donor strain engraftment. Analyses of subspecies-level crosstalk and its influences on lineage transfer in metagenomic FMT datasets have proved challenging, as single-nucleotide polymorphisms (SNPs) are generally not linked and are often absent. Here, we utilized species genome bin (SGB), which employs co-abundance binning, to investigate subspecies-level microbiome dynamics in patients with autism spectrum disorder (ASD) who had gastrointestinal comorbidities and underwent encapsulated FMT (Chinese Clinical Trial: 2100043906). We found that interactions between donor and recipient microbes, which were overwhelmingly phylogenetically divergent, were important for subspecies transfer and positive clinical outcomes. Additionally, a donor-recipient SGB match was indicative of a high likelihood of strain transfer. Importantly, these ecodynamics were shared across FMT datasets encompassing multiple diseases. Collectively, these findings provide detailed insight into specific microbial interactions and dynamics that determine FMT success.
+## Donor-recipient intermicrobial interactions impact transfer of subspecies and fecal microbiota transplantation outcome 
 
 [Source](https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00017-9)
-
-10.1016/j.chom.2024.01.013
 
 ---
 
