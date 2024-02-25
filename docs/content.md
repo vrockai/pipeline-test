@@ -106,6 +106,18 @@ Although the detrimental effects of conventional combustible cigarettes on oral 
 
 ---
 
+## Impact of treatment guidelines and pivotal clinical trial results on a surgeon's decision regarding treatment for gastric cancer: a retrospective cohort study using the National Clinical Database.
+ 24.02.2024, _S Nunobe, H Endo, M Honda, M Watanabe, H Yamamoto, S Kanaji, Y Kakeji, Y Kodera, Y Kitagawa_
+
+
+The present study evaluated the impact of clinical guidelines for gastric cancer surgery on surgeons' choice of procedure in real-world practice. We focused on the 2014 guideline revision recommending laparoscopic surgery and the evidence concerning splenectomy for prophylactic lymphadenectomy reported in 2015 using the National Clinical Database, which is the most comprehensive database in Japan.
+
+[Source](https://twitter.com/KijnerSivan/status/1742872144420192568?ref_src=twsrc%5Etfw)
+
+10.1007/s00595-024-02814-0
+
+---
+
 ## January 4, 2024
 
 [Source](https://twitter.com/KijnerSivan/status/1742872144420192568?ref_src=twsrc%5Etfw)
@@ -118,9 +130,16 @@ Although the detrimental effects of conventional combustible cigarettes on oral 
 
 ---
 
-## The impact of iron supplementation on the preterm neonatal gut microbiome: A pilot study
+## The impact of iron supplementation on the preterm neonatal gut microbiome: A pilot study.
+ 24.02.2024, _M VanOrmer, M Thompson, M Thoene, JJ Riethoven, SK Natarajan, C Hanson, A Anderson-Berry_
+
+
+_Infant, Infant, Newborn, Humans, Infant, Premature, Gastrointestinal Microbiome, Pilot Projects, Dysbiosis, Iron, RNA, Ribosomal, 16S, Dietary Supplements, Feces_
+The gastrointestinal microbiome in preterm infants exhibits significant influence on optimal outcomes-with dysbiosis shown to substantially increase the risk of the life-threatening necrotizing enterocolitis. Iron is a vital nutrient especially during the perinatal window of rapid hemoglobin production, tissue growth, and foundational neurodevelopment. However, excess colonic iron exhibits potent oxidation capacity and alters the gut microbiome-potentially facilitating the proliferation of pathological bacterial strains. Breastfed preterm infants routinely receive iron supplementation starting 14 days after delivery and are highly vulnerable to morbidities associated with gastrointestinal dysbiosis. Therefore, we set out to determine if routine iron supplementation alters the preterm gut microbiome.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297558)
+
+10.1371/journal.pone.0297558
 
 ---
 
@@ -130,20 +149,33 @@ Although the detrimental effects of conventional combustible cigarettes on oral 
 
 ---
 
-## Insights into gut microbiomes in stem cell transplantation by comprehensive shotgun long-read sequencing
+## Insights into gut microbiomes in stem cell transplantation by comprehensive shotgun long-read sequencing.
+ 22.02.2024, _P Spohr, S Scharf, A Rommerskirchen, B Henrich, P Jäger, GW Klau, R Haas, A Dilthey, K Pfeffer_
+
+
+_Humans, Gastrointestinal Microbiome, Microbiota, Hematopoietic Stem Cell Transplantation, Bacteria, Anti-Bacterial Agents, Fungi, DNA, Ribosomal, Metagenomics_
+The gut microbiome is a diverse ecosystem, dominated by bacteria; however, fungi, phages/viruses, archaea, and protozoa are also important members of the gut microbiota. Exploration of taxonomic compositions beyond bacteria as well as an understanding of the interaction between the bacteriome with the other members is limited using 16S rDNA sequencing. Here, we developed a pipeline enabling the simultaneous interrogation of the gut microbiome (bacteriome, mycobiome, archaeome, eukaryome, DNA virome) and of antibiotic resistance genes based on optimized long-read shotgun metagenomics protocols and custom bioinformatics. Using our pipeline we investigated the longitudinal composition of the gut microbiome in an exploratory clinical study in patients undergoing allogeneic hematopoietic stem cell transplantation (alloHSCT; n = 31). Pre-transplantation microbiomes exhibited a 3-cluster structure, characterized by Bacteroides spp. /Phocaeicola spp., mixed composition and Enterococcus abundances. We revealed substantial inter-individual and temporal variabilities of microbial domain compositions, human DNA, and antibiotic resistance genes during the course of alloHSCT. Interestingly, viruses and fungi accounted for substantial proportions of microbiome content in individual samples. In the course of HSCT, bacterial strains were stable or newly acquired. Our results demonstrate the disruptive potential of alloHSCTon the gut microbiome and pave the way for future comprehensive microbiome studies based on long-read metagenomics.
 
 [Source](https://www.nature.com/articles/s41598-024-53506-1)
 
+10.1038/s41598-024-53506-1
+
 ---
 
-## Donor-recipient intermicrobial interactions impact transfer of subspecies and fecal microbiota transplantation outcome 
+## Donor-recipient intermicrobial interactions impact transfer of subspecies and fecal microbiota transplantation outcome.
+ 17.02.2024, _Q Chen, C Wu, J Xu, C Ye, X Chen, H Tian, N Zong, S Zhang, L Li, Y Gao, D Zhao, X Lv, Q Yang, L Wang, J Cui, Z Lin, J Lu, R Yang, F Yin, N Qin, N Li, Q Xu, H Qin_
+
+
+Studies on fecal microbiota transplantation (FMT) have reported inconsistent connections between clinical outcomes and donor strain engraftment. Analyses of subspecies-level crosstalk and its influences on lineage transfer in metagenomic FMT datasets have proved challenging, as single-nucleotide polymorphisms (SNPs) are generally not linked and are often absent. Here, we utilized species genome bin (SGB), which employs co-abundance binning, to investigate subspecies-level microbiome dynamics in patients with autism spectrum disorder (ASD) who had gastrointestinal comorbidities and underwent encapsulated FMT (Chinese Clinical Trial: 2100043906). We found that interactions between donor and recipient microbes, which were overwhelmingly phylogenetically divergent, were important for subspecies transfer and positive clinical outcomes. Additionally, a donor-recipient SGB match was indicative of a high likelihood of strain transfer. Importantly, these ecodynamics were shared across FMT datasets encompassing multiple diseases. Collectively, these findings provide detailed insight into specific microbial interactions and dynamics that determine FMT success.
 
 [Source](https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00017-9)
+
+10.1016/j.chom.2024.01.013
 
 ---
 
 ## The gut ileal mucosal virome is disturbed in patients with Crohn's disease and exacerbates intestinal inflammation in mice.
- 23.02.2024, _Z Cao, D Fan, Y Sun, Z Huang, Y Li, R Su, F Zhang, Q Li, H Yang, F Zhang, Y Miao, P Lan, X Wu, T Zuo_
+ 24.02.2024, _Z Cao, D Fan, Y Sun, Z Huang, Y Li, R Su, F Zhang, Q Li, H Yang, F Zhang, Y Miao, P Lan, X Wu, T Zuo_
 
 
 Gut bacteriome dysbiosis is known to be implicated in the pathogenesis of inflammatory bowel disease (IBD). Crohn's disease (CD) is an IBD subtype with extensive mucosal inflammation, yet the mucosal virome, an empirical modulator of the bacteriome and mucosal immunity, remains largely unclear regarding its composition and role. Here, we exploited trans-cohort CD patients and healthy individuals to compositionally and functionally investigate the small bowel (terminal ileum) virome and bacteriome. The CD ileal virome was characterised by an under-representation of both lytic and temperate bacteriophages (especially those targeting bacterial pathogens), particularly in patients with flare-up. Meanwhile, the virome-bacteriome ecology in CD ileal mucosa was featured by a lack of Bifidobacterium- and Lachnospiraceae-led mutualistic interactions between bacteria and bacteriophages; surprisingly it was more pronounced in CD remission than flare-up, underlining the refractory and recurrent nature of mucosal inflammation in CD. Lastly, we substantiated that ileal virions from CD patients causally exacerbated intestinal inflammation in IBD mouse models, by reshaping a gut virome-bacteriome ecology preceding intestinal inflammation (microbial trigger) and augmenting microbial sensing/defence pathways in the intestine cells (host response). Altogether, our results highlight the significance of mucosal virome in CD pathogenesis and importance of mucosal virome restoration in CD therapeutics.
@@ -178,15 +210,15 @@ Chinese bayberry (Myrica rubra) is an economically significant fruit tree native
 
 ---
 
-## The Anti-SARS-CoV-2 IgG1 and IgG3 Antibody Isotypes with Limited Neutralizing Capacity against Omicron Elicited in a Latin Population a Switch toward IgG4 after Multiple Doses with the mRNA Pfizer-BioNTech Vaccine.
- 24.02.2024, _AM Espino, A Armina-Rodriguez, L Alvarez, C Ocasio-Malavé, R Ramos-Nieves, EI Rodriguez Martinó, P López-Marte, EA Torres, CA Sariol_
+## Formulation and development of novel Sulfasalazine bilayer tablets for the treatment of arthritis associated with IBD: In-vitro and In-vivo Investigations.
+ 24.02.2024, _S Jadiya, N Upmanyu, A Sathiyanarayanan, V Jain, R Dubey, P Buwade_
 
 
-The aim of this study was to analyze the profiles of IgG subclasses in COVID-19 convalescent Puerto Rican subjects and compare these profiles with those of non-infected immunocompetent or immunocompromised subjects that received two or more doses of an mRNA vaccine. The most notable findings from this study are as follows: (1) Convalescent subjects that were not hospitalized developed high and long-lasting antibody responses. (2) Both IgG1 and IgG3 subclasses were more prevalent in the SARS-CoV-2-infected population, whereas IgG1 was more prevalent after vaccination. (3) Individuals that were infected and then later received two doses of an mRNA vaccine exhibited a more robust neutralizing capacity against Omicron than those that were never infected and received two doses of an mRNA vaccine. (4) A class switch toward the "anti-inflammatory" antibody isotype IgG4 was induced a few weeks after the third dose, which peaked abruptly and remained at high levels for a long period. Moreover, the high levels of IgG4 were concurrent with high neutralizing percentages against various VOCs including Omicron. (5) Subjects with IBD also produced IgG4 antibodies after the third dose, although these antibody levels had a limited effect on the neutralizing capacity. Knowing that the mRNA vaccines do not prevent infections, the Omicron subvariants have been shown to be less pathogenic, and IgG4 levels have been associated with immunotolerance and numerous negative effects, the recommendations for the successive administration of booster vaccinations to people should be revised.
+Sulfasalazine needs frequent daily dosing and the administration of numerous tablets per day pose challenges to patient compliance, contributing to increased adverse effects and difficulties in disease control. These inconveniences result in less effective treatment for arthritis associated with inflammatory bowel disease i.e. ulcerative colitis etc. To improve drug bioavailability, a delayed-release mechanism that releases the drug at the colon is necessary. To develop and optimise colon-targeted controlled release bilayer tablets coated with pH-dependent polymers. The bilayer tablets containing the immediate release part and sustained release part were developed. The tablets were coated with enteric-coated with Eudragit® S-100 and L-100 to achieve release in the colon. Granule properties and tablets were evaluated. The physicochemical parameters of the tablets were evaluated including, stability study, and drug release in 0.1 N HCl (pH 1.2), pH 6.8 phosphate buffer, pH 7.4 phosphate buffer for 2, 1, and up to 24 hours respectively. Radiographic imaging and in vivo pharmacokinetic studies were also done in Rabbits. The bilayer tablets containing immediate and sustained release were successfully developed for the colon targeting. The granule properties were found within the acceptable range indicating good flow properties. The physicochemical properties of the tablets were also found acceptable. The tablets did not show release in 0.1 N HCl and 6.8 phosphate buffer but drug release was found under control in the 7.4 pH buffer. Sulfasalazine coated bilayer tablets were found stable and no significant changes were observed in the stability studies. Based on the X-ray studies, the formulated tablet remained discernible in the stomach, small intestine, and colon for a duration of up to 24 hours. Finally, by the 32nd hour, the tablet was no longer visible in the X-ray examination, leading to the conclusion of complete drug release. The drug concentration in plasma remained within the therapeutic range for up to 24 hours in vivo. These novel formulations present substantial advantages, providing prolonged targeted drug release and reducing systemic adverse effects. The results suggest promising potential for treating arthritis in Inflammatory bowel disease (IBD) patients, offering a solution to current delivery systems.
 
 [Source](https://twitter.com/hashtag/IBD?src=hash&ref_src=twsrc%5Etfw)
 
-10.3390/v16020187
+10.1016/j.xphs.2024.02.019
 
 ---
 
@@ -196,15 +228,15 @@ The aim of this study was to analyze the profiles of IgG subclasses in COVID-19 
 
 ---
 
-## Phase I study of sapanisertib (CB-228/TAK-228/MLN0128) in combination with ziv-aflibercept in patients with advanced solid tumors.
- 24.02.2024, _N Coleman, B Stephen, S Fu, D Karp, V Subbiah, JR Ahnert, SA Piha-Paul, J Wright, SN Fessahaye, F Ouyang, B Yilmaz, F Meric-Bernstam, A Naing_
+## Inter-epitope spacer variation within polytopic L2-based human papillomavirus antigens affects immunogenicity.
+ 24.02.2024, _Y Zhang, FC Mariz, P Sehr, G Spagnoli, KM Koenig, S Çelikyürekli, T Kreuziger, X Zhao, A Bolchi, S Ottonello, M Müller_
 
 
-Sapanisertib is a potent ATP-competitive, dual inhibitor of mTORC1/2. Ziv-aflibercept is a recombinant fusion protein comprising human VEGF receptor extracellular domains fused to human immunoglobulin G1. HIF-1α inhibition in combination with anti-angiogenic therapy is a promising anti-tumor strategy. This Phase 1 dose-escalation/expansion study assessed safety/ tolerability of sapanisertib in combination with ziv-aflibercept in advanced solid tumors.
+The human papillomavirus minor capsid protein L2 is being extensively explored in pre-clinical studies as an attractive vaccine antigen capable of inducing broad-spectrum prophylactic antibody responses. Recently, we have developed two HPV vaccine antigens - PANHPVAX and CUT-PANHPVAX- both based on heptameric nanoparticle antigens displaying polytopes of the L2 major cross-neutralizing epitopes of eight mucosal and twelve cutaneous HPV types, respectively. Prompted by the variable neutralizing antibody responses against some of the HPV types targeted by the antigens observed in previous studies, here we investigated the influence on immunogenicity of six distinct glycine-proline spacers inserted upstream to a specific L2 epitope. We show that spacer variants differentially influence antigen immunogenicity in a mouse model, with the antigen constructs M8merV6 and C12merV6 displaying a superior ability in the induction of neutralizing antibodies as determined by pseudovirus-based neutralization assays (PBNAs). L2-peptide enzyme-linked immunosorbent assay (ELISA) assessments determined the total anti-L2 antibody level for each antigen variant, showing for the majority of sera a correlation with their repective neutralizing antibody level. Surface Plasmon Resonance revealed that L2 epitope-specific, neutralizing monoclonal antibodies (mAbs) display distinct avidities to different antigen spacer variants. Furthermore, mAb affinity toward individual spacer variants was well correlated with their neutralizing antibody induction capacity, indicating that the mAb affinity assay predicts L2-based antigen immunogenicity. These observations provide insights on the development and optimization of L2-based HPV vaccines.
 
 [Source](https://twitter.com/hashtag/mucosal?src=hash&ref_src=twsrc%5Etfw)
 
-10.1002/cam4.6877
+10.1038/s41541-024-00832-0
 
 ---
 
@@ -220,15 +252,15 @@ Sapanisertib is a potent ATP-competitive, dual inhibitor of mTORC1/2. Ziv-aflibe
 
 ---
 
-## Correlation of Plasmatic Amyloid Beta Peptides (Aβ-40, Aβ-42) with Myocardial Injury and Inflammatory Biomarkers in Acute Coronary Syndrome.
- 24.02.2024, _LE Del Moral, C Lerma, H González-Pacheco, AC Chávez-Lázaro, F Massó, E Rodriguez_
+## Cardiac rehabilitation for children and young people (CardioActive): protocol for a single-blind randomised feasibility and acceptability study of a centre-based cardiac rehabilitation programme versus usual care in 11-16 years with heart conditions.
+ 24.02.2024, _L Capobianco, M Hann, E McManus, S Peters, PJ Doherty, G Ciotti, J Murray, A Wells_
 
 
-Background/Objective: Amyloid beta (β) -40 levels increase with age and inflammation states and appear to be associated with clinical manifestations of acute coronary syndrome (ACS). We investigated the correlation of Aβ peptides with myocardial injury and inflammation biomarkers in patients with or without ST elevation myocardial infarction (STEMI, NSTEMI). Methods: This singe-center, cross-sectional, observational, and correlation study included 65 patients with ACS (n = 34 STEMI, 29 males, age = 58 ± 12 years; n = 31 NSTEMI, 22 males, age = 60 ± 12 years) who were enrolled in the coronary care unit within 12 h after symptom onset from February 2022 to May 2023. Aβ peptide levels and biochemical parameters were assessed. Results: NSTEMI patients had a higher prevalence of hypertension (p = 0.039), diabetes (p = 0.043), smoking (p = 0.003), and prior myocardial infarction (p = 0.010) compared to STEMI patients. We observed a higher level of Aβ-42 in NSTEMI (p = 0.001) but no difference in Aβ-40 levels. We also found a correlation between age and NT-proBNP with both Aβ peptides (Aβ-40, Aβ-42) (p = 0.001, p = 0.002 respectively). Conclusions: Our results show that patients with NSTEMI had a higher prevalence of cardiovascular risk factors (hypertension, diabetes, smoking, and prior myocardial infarction). Considering these results, we propose that Aβ-42 can add value to risk stratification in NSTEMI patients.
+Congenital heart conditions are among the most common non-communicable diseases in children and young people (CYP), affecting 13.9 million CYP globally. While survival rates are increasing, support for young people adjusting to life with a heart condition is lacking. Furthermore, one in three CYP with heart conditions also experiences anxiety, depression or adjustment disorder, for which little support is offered. While adults are offered cardiac rehabilitation (CR) to support their mental and physical health, this is not offered for CYP.One way to overcome this is to evaluate a CR programme comprising exercise with mental health support (CardioActive; CA) for CYP with heart conditions. The exercise and mental health components are informed by the metacognitive model, which has been shown to be effective in treating anxiety and depression in CYP and associated with improving psychological outcomes in adult CR.
 
 [Source](https://twitter.com/Tao_Zuo_/status/1760815206023000312?ref_src=twsrc%5Etfw)
 
-10.3390/jcm13041117
+10.1136/bmjopen-2023-077958
 
 ---
 
