@@ -160,18 +160,6 @@ Although the detrimental effects of conventional combustible cigarettes on oral 
 
 ---
 
-## Formulation and development of novel Sulfasalazine bilayer tablets for the treatment of arthritis associated with IBD: In-vitro and In-vivo Investigations.
- 24.02.2024, _S Jadiya, N Upmanyu, A Sathiyanarayanan, V Jain, R Dubey, P Buwade_
-
-
-Sulfasalazine needs frequent daily dosing and the administration of numerous tablets per day pose challenges to patient compliance, contributing to increased adverse effects and difficulties in disease control. These inconveniences result in less effective treatment for arthritis associated with inflammatory bowel disease i.e. ulcerative colitis etc. To improve drug bioavailability, a delayed-release mechanism that releases the drug at the colon is necessary. To develop and optimise colon-targeted controlled release bilayer tablets coated with pH-dependent polymers. The bilayer tablets containing the immediate release part and sustained release part were developed. The tablets were coated with enteric-coated with Eudragit® S-100 and L-100 to achieve release in the colon. Granule properties and tablets were evaluated. The physicochemical parameters of the tablets were evaluated including, stability study, and drug release in 0.1 N HCl (pH 1.2), pH 6.8 phosphate buffer, pH 7.4 phosphate buffer for 2, 1, and up to 24 hours respectively. Radiographic imaging and in vivo pharmacokinetic studies were also done in Rabbits. The bilayer tablets containing immediate and sustained release were successfully developed for the colon targeting. The granule properties were found within the acceptable range indicating good flow properties. The physicochemical properties of the tablets were also found acceptable. The tablets did not show release in 0.1 N HCl and 6.8 phosphate buffer but drug release was found under control in the 7.4 pH buffer. Sulfasalazine coated bilayer tablets were found stable and no significant changes were observed in the stability studies. Based on the X-ray studies, the formulated tablet remained discernible in the stomach, small intestine, and colon for a duration of up to 24 hours. Finally, by the 32nd hour, the tablet was no longer visible in the X-ray examination, leading to the conclusion of complete drug release. The drug concentration in plasma remained within the therapeutic range for up to 24 hours in vivo. These novel formulations present substantial advantages, providing prolonged targeted drug release and reducing systemic adverse effects. The results suggest promising potential for treating arthritis in Inflammatory bowel disease (IBD) patients, offering a solution to current delivery systems.
-
-[Source](https://twitter.com/hashtag/IBD?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.xphs.2024.02.019
-
----
-
 ## #IBD
 
 [Source](https://twitter.com/hashtag/IBD?src=hash&ref_src=twsrc%5Etfw)
@@ -199,6 +187,18 @@ The human papillomavirus minor capsid protein L2 is being extensively explored i
 ## https://t.co/SlH2zmBmMD
 
 [Source](https://t.co/SlH2zmBmMD)
+
+---
+
+## Cardiac rehabilitation for children and young people (CardioActive): protocol for a single-blind randomised feasibility and acceptability study of a centre-based cardiac rehabilitation programme versus usual care in 11-16 years with heart conditions.
+ 24.02.2024, _L Capobianco, M Hann, E McManus, S Peters, PJ Doherty, G Ciotti, J Murray, A Wells_
+
+
+Congenital heart conditions are among the most common non-communicable diseases in children and young people (CYP), affecting 13.9 million CYP globally. While survival rates are increasing, support for young people adjusting to life with a heart condition is lacking. Furthermore, one in three CYP with heart conditions also experiences anxiety, depression or adjustment disorder, for which little support is offered. While adults are offered cardiac rehabilitation (CR) to support their mental and physical health, this is not offered for CYP.One way to overcome this is to evaluate a CR programme comprising exercise with mental health support (CardioActive; CA) for CYP with heart conditions. The exercise and mental health components are informed by the metacognitive model, which has been shown to be effective in treating anxiety and depression in CYP and associated with improving psychological outcomes in adult CR.
+
+[Source](https://twitter.com/Tao_Zuo_/status/1760815206023000312?ref_src=twsrc%5Etfw)
+
+10.1136/bmjopen-2023-077958
 
 ---
 
