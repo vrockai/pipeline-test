@@ -35,7 +35,7 @@ Thrombosis represents the leading cause of death and disability upon major adver
 ---
 
 ## How probiotics, prebiotics, synbiotics, and postbiotics prevent dental caries: an oral microbiota perspective.
- 26.02.2024, _SC Luo, SM Wei, XT Luo, QQ Yang, KH Wong, PCK Cheung, BB Zhang_
+ 27.02.2024, _SC Luo, SM Wei, XT Luo, QQ Yang, KH Wong, PCK Cheung, BB Zhang_
 
 
 _Female, Humans, Prebiotics, Synbiotics, Dental Caries, Probiotics, Microbiota, Mouth_
@@ -59,40 +59,21 @@ Dental caries, a highly prevalent oral disease, impacts a significant portion of
 
 ---
 
-## Root endophyte-mediated alteration in plant H2O2 homeostasis regulates symbiosis outcome and reshapes the rhizosphere microbiota.
- 23.02.2024, _K Sun, YT Pan, HJ Jiang, JY Xu, CY Ma, J Zhou, Y Liu, S Shabala, W Zhang, CC Dai_
-
-
-Endophytic symbioses between plants and fungi are a dominant feature of many terrestrial ecosystems, yet little is known about the signaling that defines these symbiotic associations. Hydrogen peroxide (H2O2) is recognized as a key signal mediating the plant adaptive response to both biotic and abiotic stresses. However, the role of H2O2 in plant-fungal symbiosis remains elusive. Using a combination of physiological analysis, plant and fungal deletion mutants, and comparative transcriptomics, we reported that various environmental conditions differentially affect the interaction between Arabidopsis and a root endophyte Phomopsis liquidambaris, and link this process to alterations in H2O2 levels and H2O2 fluxes across root tips. We found that enhanced H2O2 efflux leading to a moderate increase in H2O2 levels at the plant-fungal interface is required for maintaining plant-fungal symbiosis. Disturbance of plant H2O2 homeostasis compromises the symbiotic ability of plant roots. Moreover, the fungus-regulated H2O2 dynamics modulate the rhizosphere microbiome by selectively enriching for the phylum Cyanobacteria, with strong antioxidant defenses. Our results demonstrated that the regulation of H2O2 dynamics at the plant-fungal interface affects the symbiotic outcome in response to external conditions and highlight the importance of root endophyte in reshaping the rhizosphere microbiota.
+## Root endophyte-mediated alteration in plant H2O2 homeostasis regulates symbiosis outcome and reshapes the rhizosphere microbiota
 
 [Source](https://doi.org/10.1093/jxb/erae069)
 
-10.1093/jxb/erae069
-
 ---
 
-## Micronutrient-microbiome interplay: a critical regulator of soil-plant health.
- 23.02.2024, _M Noman, T Ahmed, J Wang, JC White_
-
-
-The delicate balance between soil micronutrients and the phytobeneficial microbiome is crucial for maintaining soil-plant health. Recently, Dai et al. established a correlation between elemental micronutrients and the soil microbiome that regulates plant quality and productivity, offering innovative and sustainable solutions to increase agricultural production in a changing climate.
+## Micronutrient-microbiome interplay: a critical regulator of soil-plant health
 
 [Source](https://www.cell.com/trends/microbiology/abstract/S0966-842X(24)00048-9)
 
-10.1016/j.tim.2024.02.008
-
 ---
 
-## Dynamic root microbiome sustains soybean productivity under unbalanced fertilization.
- 26.02.2024, _M Wang, AH Ge, X Ma, X Wang, Q Xie, L Wang, X Song, M Jiang, W Yang, JD Murray, Y Wang, H Liu, X Cao, E Wang_
-
-
-_Glycine max, Fertilizers, Microbiota, Bacteria, Soil, Rhizosphere, Plants, Soil Microbiology, Plant Roots_
-Root-associated microbiomes contribute to plant growth and health, and are dynamically affected by plant development and changes in the soil environment. However, how different fertilizer regimes affect quantitative changes in microbial assembly to effect plant growth remains obscure. Here, we explore the temporal dynamics of the root-associated bacteria of soybean using quantitative microbiome profiling (QMP) to examine its response to unbalanced fertilizer treatments (i.e., lacking either N, P or K) and its role in sustaining plant growth after four decades of unbalanced fertilization. We show that the root-associated bacteria exhibit strong succession during plant development, and bacterial loads largely increase at later stages, particularly for Bacteroidetes. Unbalanced fertilization has a significant effect on the assembly of the soybean rhizosphere bacteria, and in the absence of N fertilizer the bacterial community diverges from that of fertilized plants, while lacking P fertilizer impedes the total load and turnover of rhizosphere bacteria. Importantly, a SynCom derived from the low-nitrogen-enriched cluster is capable of stimulating plant growth, corresponding with the stabilized soybean productivity in the absence of N fertilizer. These findings provide new insights in the quantitative dynamics of the root-associated microbiome and highlight a key ecological cluster with prospects for sustainable agricultural management.
+## Dynamic root microbiome sustains soybean productivity under unbalanced fertilization
 
 [Source](https://doi.org/10.1038/s41467-024-45925-5)
-
-10.1038/s41467-024-45925-5
 
 ---
 
@@ -102,15 +83,9 @@ Root-associated microbiomes contribute to plant growth and health, and are dynam
 
 ---
 
-## Effects of running time on biological activated carbon filters: water purification performance and microbial community evolution.
- 23.02.2024, _S Shi, F Wang, Y Hu, J Zhou, H Zhang, C He_
-
-
-Ozone-biologically activated carbon (BAC) filtration is an advanced treatment process that can be applied to remove recalcitrant organic micro-pollutants in drinking water treatment plants (DWTPs). In this study, we continuously monitored a new and an old BAC filter in a DWTP for 1 year to compare their water purification performance and microbial community evolution. The results revealed that, compared with the new filter, the use of the old BAC filter facilitated a slightly lower rate of dissolved organic carbon (DOC) removal. In the case of the new BAC filter, we recorded general increases in the biomass and microbial diversity of the biofilm with a prolongation of operating time, with the biomass stabilizing after 7 months. For both new and old BAC filters, Proteobacteria and Acidobacteria were the dominant bacterial phyla. At the genus level, the microbial community gradually shifted over the course of operation from a predominance of Herminiimonas and Hydrogenophaga to one predominated by Bradyrhizbium, Bryobacter, Hyphomicrobium, and Pedomicrobium, with Bradyrhizobium being established as the most abundant genus in the old BAC filter. Regarding spatial distribution, we detected reductions in the biomass and number of operational taxonomic units with increasing biofilm depth, whereas there was a corresponding increase in microbial diversity. However, compared with the effects of time, the influence of depth on the composition of the biofilm microbial community was considerably smaller. Furthermore, co-occurrence network analysis revealed that the microbial community network of the new filter after 11 months of operation was the most tightly connected, although its modular coefficient was the lowest of those assessed. We speculate that the positive and negative interactions within the network may be attributable to symbiotic or competitive relationships among species. Moreover, there may have been a significant negative interaction between SWB02 and Acidovorax, plausibly associated with a competition for substrates.
+## Effects of running time on biological activated carbon filters: water purification performance and microbial community evolution
 
 [Source](https://doi.org/10.1007/s11356-024-32421-y)
-
-10.1007/s11356-024-32421-y
 
 ---
 
