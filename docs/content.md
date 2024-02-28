@@ -1,116 +1,199 @@
-## <em>Fusobacterium nucleatum</em> promotes tumor progression in KRAS p.G12D-mutant colorectal cancer by binding to DHX15
-
-[Source](https://doi.org/10.1038/s41467-024-45572-w)
-
----
-
-## Gut microbial co-metabolite 2-methylbutyrylcarnitine exacerbates thrombosis via binding to and activating integrin α2β1.
- 24.02.2024, _K Huang, Z Li, X He, J Dai, B Huang, Y Shi, D Fan, Z Zhang, Y Liu, N Li, Z Zhang, J Peng, C Liu, R Zeng, Z Cen, T Wang, W Yang, M Cen, J Li, S Yuan, L Zhang, D Hu, S Huang, P Chen, P Lai, L Lin, J Wen, Z Zhao, X Huang, L Yuan, L Zhou, H Wu, L Huang, K Feng, J Wang, B Liao, W Cai, X Deng, Y Li, J Li, Z Hu, L Yang, J Li, Y Zhuo, F Zhang, L Lin, Y Luo, W Zhang, Q Ni, X Hong, G Chang, Y Zhang, D Guan, W Cai, Y Lu, F Li, L Yan, M Ren, L Li, S Chen_
+## Distinct intestinal microbial signatures linked to accelerated systemic and intestinal biological aging.
+ 27.02.2024, _S Singh, LB Giron, MW Shaikh, S Shankaran, PA Engen, ZR Bogin, SA Bambi, AR Goldman, JLLC Azevedo, L Orgaz, N de Pedro, P González, M Giera, A Verhoeven, E Sánchez-López, I Pandrea, T Kannan, CE Tanes, K Bittinger, AL Landay, MJ Corley, A Keshavarzian, M Abdel-Mohsen_
 
 
-Thrombosis represents the leading cause of death and disability upon major adverse cardiovascular events (MACEs). Numerous pathological conditions such as COVID-19 and metabolic disorders can lead to a heightened thrombotic risk; however, the underlying mechanisms remain poorly understood. Our study illustrates that 2-methylbutyrylcarnitine (2MBC), a branched-chain acylcarnitine, is accumulated in patients with COVID-19 and in patients with MACEs. 2MBC enhances platelet hyperreactivity and thrombus formation in mice. Mechanistically, 2MBC binds to integrin α2β1 in platelets, potentiating cytosolic phospholipase A2 (cPLA2) activation and platelet hyperresponsiveness. Genetic depletion or pharmacological inhibition of integrin α2β1 largely reverses the pro-thrombotic effects of 2MBC. Notably, 2MBC can be generated in a gut-microbiota-dependent manner, whereas the accumulation of plasma 2MBC and its thrombosis-aggravating effect are largely ameliorated following antibiotic-induced microbial depletion. Our study implicates 2MBC as a metabolite that links gut microbiota dysbiosis to elevated thrombotic risk, providing mechanistic insight and a potential therapeutic strategy for thrombosis.
+_Humans, Female, Male, HIV Infections, Dysbiosis, Gastrointestinal Microbiome, Intestines, Aging, Bacteria, Inflammation, Anti-Inflammatory Agents_
+People living with HIV (PLWH), even when viral replication is controlled through antiretroviral therapy (ART), experience persistent inflammation. This inflammation is partly attributed to intestinal microbial dysbiosis and translocation, which may lead to non-AIDS-related aging-associated comorbidities. The extent to which living with HIV - influenced by the infection itself, ART usage, sexual orientation, or other associated factors - affects the biological age of the intestines is unclear. Furthermore, the role of microbial dysbiosis and translocation in the biological aging of PLWH remains to be elucidated. To investigate these uncertainties, we used a systems biology approach, analyzing colon and ileal biopsies, blood samples, and stool specimens from PLWH on ART and people living without HIV (PLWoH) as controls.
 
-[Source](https://doi.org/10.1016/j.cmet.2024.01.014)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01758-4)
 
-10.1016/j.cmet.2024.01.014
+10.1186/s40168-024-01758-4
 
 ---
 
-## Robustness of cancer microbiome signals over a broad range of methodological variation
+## Safety, feasibility, and impact on the gut microbiome of kefir administration in critically ill adults.
+ 24.02.2024, _VK Gupta, S Rajendraprasad, M Ozkan, D Ramachandran, S Ahmad, JS Bakken, K Laudanski, O Gajic, B Bauer, S Zec, DW Freeman, S Khanna, A Shah, JH Skalski, J Sung, LV Karnatovskaia_
 
-[Source](https://doi.org/10.1038/s41388-024-02974-w)
 
----
+_Adult, Humans, Kefir, Gastrointestinal Microbiome, Critical Illness, Dysbiosis, Feasibility Studies_
+Dysbiosis of the gut microbiome is frequent in the intensive care unit (ICU), potentially leading to a heightened risk of nosocomial infections. Enhancing the gut microbiome has been proposed as a strategic approach to mitigate potential adverse outcomes. While prior research on select probiotic supplements has not successfully shown to improve gut microbial diversity, fermented foods offer a promising alternative. In this open-label phase I safety and feasibility study, we examined the safety and feasibility of kefir as an initial step towards utilizing fermented foods to mitigate gut dysbiosis in critically ill patients.
 
-## A cross-sectional study observing the association of psychosocial stress and dietary intake with gut microbiota genera and alpha diversity among a young adult cohort of black and white women in Birmingham, Alabama
+[Source](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-024-03299-x)
 
-[Source](https://doi.org/10.1186/s12905-024-02968-6)
-
----
-
-## Faecal hsa-miR-7704 inhibits the growth and adhesion of <em>Bifidobacterium longum </em>by suppressing ProB and aggravates hepatic encephalopathy
-
-[Source](https://doi.org/10.1038/s41522-024-00487-8)
+10.1186/s12916-024-03299-x
 
 ---
 
-## How probiotics, prebiotics, synbiotics, and postbiotics prevent dental caries: an oral microbiota perspective.
- 27.02.2024, _SC Luo, SM Wei, XT Luo, QQ Yang, KH Wong, PCK Cheung, BB Zhang_
+## Dissecting Gut-Microbial Community Interactions using a Gut Microbiome-on-a-Chip.
+ 28.02.2024, _J Lee, N Menon, CT Lim_
 
 
-_Female, Humans, Prebiotics, Synbiotics, Dental Caries, Probiotics, Microbiota, Mouth_
-Dental caries, a highly prevalent oral disease, impacts a significant portion of the global population. Conventional approaches that indiscriminately eradicate microbes disrupt the natural equilibrium of the oral microbiota. In contrast, biointervention strategies aim to restore this balance by introducing beneficial microorganisms or inhibiting cariogenic ones. Over the past three decades, microbial preparations have garnered considerable attention in dental research for the prevention and treatment of dental caries. However, unlike related pathologies in the gastrointestinal, vaginal, and respiratory tracts, dental caries occurs on hard tissues such as tooth enamel and is closely associated with localized acid overproduction facilitated by cariogenic biofilms. Therefore, it is insufficient to rely solely on previous mechanisms to delineate the role of microbial preparations in the oral cavity. A more comprehensive perspective should involve considering the concepts of cariogenic biofilms. This review elucidates the latest research progress, mechanisms of action, challenges, and future research directions regarding probiotics, prebiotics, synbiotics, and postbiotics for the prevention and treatment of dental caries, taking into account the unique pathogenic mechanisms of dental caries. With an enhanced understanding of oral microbiota, personalized microbial therapy will emerge as a critical future research trend.
+While the human gut microbiota has a significant impact on gut health and disease, understanding of the roles of gut microbes, interactions, and collective impact of gut microbes on various aspects of human gut health is limited by the lack of suitable in vitro model system that can accurately replicate gut-like environment and enable the close visualization on causal and mechanistic relationships between microbial constitutents and the gut. , In this study, we present a scalable Gut Microbiome-on-a-Chip (GMoC) with great imaging capability and scalability, providing a physiologically relevant dynamic gut-microbes interfaces. This chip features a reproducible 3D stratified gut epithelium derived from Caco-2 cells (µGut), mimicking key intestinal architecture, functions, and cellular complexity, providing a physiolocially relevant gut environment for microbes residing in the gut. Incorporating tumorigenic bacteria, enterotoxigenic Bacteroides fragilis (ETBF), into the GMoC enable the observation of pathogenic behaviors of ETBF, leading to µGut disruption and pro-tumorigenic signaling activations. Pre-treating the µGut with a beneficial gut microbe Lactobacillus spp., effectively prevent ETBF-mediated gut pathogenesis, preserving the healthy state of the µGut through competition-mediated colonization resistance. The GMoC holds potential as a valuable tool for exploring unknown roles of gut microbes in microbe-induced pathogenesis and microbe-based therapeutic development.
 
-[Source](https://doi.org/10.1038/s41522-024-00488-7)
+[Source](https://onlinelibrary.wiley.com/doi/10.1002/advs.202302113)
 
-10.1038/s41522-024-00488-7
-
----
-
-## <em>Limosilactobacillus fermentum </em>Strains as Novel Probiotic Candidates to Promote Host Health Benefits and Development of Biotherapeutics: A Comprehensive Review
-
-[Source](https://doi.org/10.1007/s12602-024-10235-1)
+10.1002/advs.202302113
 
 ---
 
-## AGA Clinical Practice Guideline on Fecal Microbiota-Based Therapies for Select Gastrointestinal Diseases
-
-[Source](https://www.gastrojournal.org/article/S0016-5085(24)00041-6/fulltext)
-
----
-
-## Root endophyte-mediated alteration in plant H2O2 homeostasis regulates symbiosis outcome and reshapes the rhizosphere microbiota.
- 23.02.2024, _K Sun, YT Pan, HJ Jiang, JY Xu, CY Ma, J Zhou, Y Liu, S Shabala, W Zhang, CC Dai_
+## CRB1-associated retinal degeneration is dependent on bacterial translocation from the gut.
+ 27.02.2024, _S Peng, JJ Li, W Song, Y Li, L Zeng, Q Liang, X Wen, H Shang, K Liu, P Peng, W Xue, B Zou, L Yang, J Liang, Z Zhang, S Guo, T Chen, W Li, M Jin, XB Xing, P Wan, C Liu, H Lin, H Wei, RWJ Lee, F Zhang, L Wei_
 
 
-Endophytic symbioses between plants and fungi are a dominant feature of many terrestrial ecosystems, yet little is known about the signaling that defines these symbiotic associations. Hydrogen peroxide (H2O2) is recognized as a key signal mediating the plant adaptive response to both biotic and abiotic stresses. However, the role of H2O2 in plant-fungal symbiosis remains elusive. Using a combination of physiological analysis, plant and fungal deletion mutants, and comparative transcriptomics, we reported that various environmental conditions differentially affect the interaction between Arabidopsis and a root endophyte Phomopsis liquidambaris, and link this process to alterations in H2O2 levels and H2O2 fluxes across root tips. We found that enhanced H2O2 efflux leading to a moderate increase in H2O2 levels at the plant-fungal interface is required for maintaining plant-fungal symbiosis. Disturbance of plant H2O2 homeostasis compromises the symbiotic ability of plant roots. Moreover, the fungus-regulated H2O2 dynamics modulate the rhizosphere microbiome by selectively enriching for the phylum Cyanobacteria, with strong antioxidant defenses. Our results demonstrated that the regulation of H2O2 dynamics at the plant-fungal interface affects the symbiotic outcome in response to external conditions and highlight the importance of root endophyte in reshaping the rhizosphere microbiota.
+The Crumbs homolog 1 (CRB1) gene is associated with retinal degeneration, most commonly Leber congenital amaurosis (LCA) and retinitis pigmentosa (RP). Here, we demonstrate that murine retinas bearing the Rd8 mutation of Crb1 are characterized by the presence of intralesional bacteria. While normal CRB1 expression was enriched in the apical junctional complexes of retinal pigment epithelium and colonic enterocytes, Crb1 mutations dampened its expression at both sites. Consequent impairment of the outer blood retinal barrier and colonic intestinal epithelial barrier in Rd8 mice led to the translocation of intestinal bacteria from the lower gastrointestinal (GI) tract to the retina, resulting in secondary retinal degeneration. Either the depletion of bacteria systemically or the reintroduction of normal Crb1 expression colonically rescued Rd8-mutation-associated retinal degeneration without reversing the retinal barrier breach. Our data elucidate the pathogenesis of Crb1-mutation-associated retinal degenerations and suggest that antimicrobial agents have the potential to treat this devastating blinding disease.
 
-[Source](https://doi.org/10.1093/jxb/erae069)
+[Source](https://www.cell.com/cell/abstract/S0092-8674(24)00108-9)
 
-10.1093/jxb/erae069
+10.1016/j.cell.2024.01.040
 
 ---
 
-## Micronutrient-microbiome interplay: a critical regulator of soil-plant health.
- 23.02.2024, _M Noman, T Ahmed, J Wang, JC White_
+## Amino acid formula induces microbiota dysbiosis and depressive-like behavior in mice.
+ 27.02.2024, _J Hu, K He, Y Yang, C Huang, Y Dou, H Wang, G Zhang, J Wang, C Niu, G Bi, L Zhang, S Zhu_
 
 
-The delicate balance between soil micronutrients and the phytobeneficial microbiome is crucial for maintaining soil-plant health. Recently, Dai et al. established a correlation between elemental micronutrients and the soil microbiome that regulates plant quality and productivity, offering innovative and sustainable solutions to increase agricultural production in a changing climate.
+Amino acid formula (AAF) is increasingly consumed in infants with cow's milk protein allergy; however, the long-term influences on health are less described. In this study, we established a mouse model by subjecting neonatal mice to an amino acid diet (AAD) to mimic the feeding regimen of infants on AAF. Surprisingly, AAD-fed mice exhibited dysbiotic microbiota and increased neuronal activity in both the intestine and brain, as well as gastrointestinal peristalsis disorders and depressive-like behavior. Furthermore, fecal microbiota transplantation from AAD-fed mice or AAF-fed infants to recipient mice led to elevated neuronal activations and exacerbated depressive-like behaviors compared to that from normal chow-fed mice or cow's-milk-formula-fed infants, respectively. Our findings highlight the necessity to avoid the excessive use of AAF, which may influence the neuronal development and mental health of children.
 
-[Source](https://www.cell.com/trends/microbiology/abstract/S0966-842X(24)00048-9)
+[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)00145-1)
 
-10.1016/j.tim.2024.02.008
-
----
-
-## Dynamic root microbiome sustains soybean productivity under unbalanced fertilization.
- 27.02.2024, _M Wang, AH Ge, X Ma, X Wang, Q Xie, L Wang, X Song, M Jiang, W Yang, JD Murray, Y Wang, H Liu, X Cao, E Wang_
-
-
-_Glycine max, Fertilizers, Microbiota, Bacteria, Soil, Rhizosphere, Plants, Soil Microbiology, Plant Roots_
-Root-associated microbiomes contribute to plant growth and health, and are dynamically affected by plant development and changes in the soil environment. However, how different fertilizer regimes affect quantitative changes in microbial assembly to effect plant growth remains obscure. Here, we explore the temporal dynamics of the root-associated bacteria of soybean using quantitative microbiome profiling (QMP) to examine its response to unbalanced fertilizer treatments (i.e., lacking either N, P or K) and its role in sustaining plant growth after four decades of unbalanced fertilization. We show that the root-associated bacteria exhibit strong succession during plant development, and bacterial loads largely increase at later stages, particularly for Bacteroidetes. Unbalanced fertilization has a significant effect on the assembly of the soybean rhizosphere bacteria, and in the absence of N fertilizer the bacterial community diverges from that of fertilized plants, while lacking P fertilizer impedes the total load and turnover of rhizosphere bacteria. Importantly, a SynCom derived from the low-nitrogen-enriched cluster is capable of stimulating plant growth, corresponding with the stabilized soybean productivity in the absence of N fertilizer. These findings provide new insights in the quantitative dynamics of the root-associated microbiome and highlight a key ecological cluster with prospects for sustainable agricultural management.
-
-[Source](https://doi.org/10.1038/s41467-024-45925-5)
-
-10.1038/s41467-024-45925-5
+10.1016/j.celrep.2024.113817
 
 ---
 
-## Adaptive response of prokaryotic communities to extreme pollution flooding in a Paleolithic rock art cave (Pindal Cave, northern Spain)
+## Bacteroides fragilis aggravates high-fat diet-induced non-alcoholic fatty liver disease by regulating lipid metabolism and remodeling gut microbiota.
+ 27.02.2024, _Y Huang, J Cao, M Zhu, Z Wang, Z Jin, Z Xiong_
 
-[Source](https://doi.org/10.1016/j.scitotenv.2024.171137)
+
+Gut microbiota dysbiosis is a prominent determinant that significantly contributes to the disruption of lipid metabolism. Consequently, it is essential to the occurrence and development of non-alcoholic fatty liver disease (NAFLD). Nevertheless, the connection between diet and symbiotic gut microbiota in the progression of NAFLD remains uncertain. The purpose of this study was to explore the role of supplementing commensal Bacteroides fragilis (B. fragilis) on lipid metabolism, gut microbiota, and metabolites in high-fat diet (HFD)-fed mice, elucidating the impact of gut microbiota and metabolites on the development of NAFLD. Our study revealed that supplementation with B. fragilis exacerbated both weight gain and obesity in mice. B. fragilis exacerbated blood glucose levels and liver dysfunction in mice. Furthermore, an increase in liver lipid accumulation and the upregulation of genes correlated with lipid metabolism were observed in mice. Under an HFD, supplementation of commensal B. fragilis resulted in alterations in the gut microbiota, notably a significant increase in Desulfovibrionaceae, which led to elevated endotoxin levels and thereby influenced the progression of NAFLD. It was interesting that the simultaneous examination of gut microbiota metabolites revealed a more pronounced impact of diet on short-chain fatty acids. This study represented the pioneering investigation into the impact of B. fragilis on NAFLD. Our findings demonstrated that B. fragilis induced dysregulation in the intestinal microbiota, leading to elevated levels of lipopolysaccharide and dysfunction in glucose and lipid metabolism, thereby exacerbating NAFLD.IMPORTANCESome intestinal symbiotic microbes are involved in the occurrence of the metabolic disorders. Our study investigated the impact of supplementing commensal Bacteroides fragilis on host metabolism in high-fat diet-fed mice. Research results indicated that adding a specific bacterial strain to the complex intestinal microecology can worsen metabolic conditions. This effect mainly affects the structural diversity of intestinal microorganisms, the increase in harmful bacteria in the gut, and the elevation of endotoxin levels, blood glucose, and lipid metabolism, thereby impacting the progression of non-alcoholic fatty liver disease (NAFLD). Understanding the principles that govern the establishment of microbial communities comprising multiple species is crucial for preventing or repairing dysfunctions in these communities, thereby enhancing host health and facilitating disease treatment. This study demonstrated that gut microbiota dysbiosis could contribute to metabolic dysfunction and provides new insights into how to promote gut microbiota in the prevention and therapy of NAFLD.
+
+[Source](https://journals.asm.org/doi/10.1128/spectrum.03393-23)
+
+10.1128/spectrum.03393-23
 
 ---
 
-## Effects of running time on biological activated carbon filters: water purification performance and microbial community evolution.
- 23.02.2024, _S Shi, F Wang, Y Hu, J Zhou, H Zhang, C He_
+## Gut microbiota modulation enhances the immune capacity of lizards under climate warming.
+ 26.02.2024, _J Yang, W Liu, X Han, X Hao, Q Yao, W Du_
 
 
-Ozone-biologically activated carbon (BAC) filtration is an advanced treatment process that can be applied to remove recalcitrant organic micro-pollutants in drinking water treatment plants (DWTPs). In this study, we continuously monitored a new and an old BAC filter in a DWTP for 1 year to compare their water purification performance and microbial community evolution. The results revealed that, compared with the new filter, the use of the old BAC filter facilitated a slightly lower rate of dissolved organic carbon (DOC) removal. In the case of the new BAC filter, we recorded general increases in the biomass and microbial diversity of the biofilm with a prolongation of operating time, with the biomass stabilizing after 7 months. For both new and old BAC filters, Proteobacteria and Acidobacteria were the dominant bacterial phyla. At the genus level, the microbial community gradually shifted over the course of operation from a predominance of Herminiimonas and Hydrogenophaga to one predominated by Bradyrhizbium, Bryobacter, Hyphomicrobium, and Pedomicrobium, with Bradyrhizobium being established as the most abundant genus in the old BAC filter. Regarding spatial distribution, we detected reductions in the biomass and number of operational taxonomic units with increasing biofilm depth, whereas there was a corresponding increase in microbial diversity. However, compared with the effects of time, the influence of depth on the composition of the biofilm microbial community was considerably smaller. Furthermore, co-occurrence network analysis revealed that the microbial community network of the new filter after 11 months of operation was the most tightly connected, although its modular coefficient was the lowest of those assessed. We speculate that the positive and negative interactions within the network may be attributable to symbiotic or competitive relationships among species. Moreover, there may have been a significant negative interaction between SWB02 and Acidovorax, plausibly associated with a competition for substrates.
+_Animals, Gastrointestinal Microbiome, Lizards, Climate Change, Bacteria, Anti-Bacterial Agents_
+Host-microbial interactions are expected to affect species' adaptability to climate change but have rarely been explored in ectothermic animals. Some studies have shown that short-term warming reduced gut microbial diversity that could hamper host functional performance.
 
-[Source](https://doi.org/10.1007/s11356-024-32421-y)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01736-2)
 
-10.1007/s11356-024-32421-y
+10.1186/s40168-023-01736-2
+
+---
+
+## Gut microbiota contribute to variations in honey bee foraging intensity.
+ 27.02.2024, _CL Vernier, LA Nguyen, T Gernat, AC Ahmed, Z Chen, GE Robinson_
+
+
+Gut microbiomes are increasingly recognized for mediating diverse biological aspects of their hosts, including complex behavioral phenotypes. Although many studies have reported that experimental disruptions to the gut microbial community result in atypical host behavior, studies that address how gut microbes contribute to adaptive behavioral trait variation are rare. Eusocial insects represent a powerful model to test this, due to their simple gut microbiota and complex division of labor characterized by colony-level variation in behavioral phenotypes. Although previous studies report correlational differences in gut microbial community associated with division of labor, here, we provide evidence that gut microbes play a causal role in defining differences in foraging behavior between European honey bees (Apis mellifera). We found that gut microbial community structure differed between hive-based nurse bees and bees that leave the hive to forage for floral resources. These differences were associated with variation in the abundance of individual microbes, including Bifidobacterium asteroides, Bombilactobacillus mellis, and Lactobacillus melliventris. Manipulations of colony demography and individual foraging experience suggested that differences in gut microbial community composition were associated with task experience. Moreover, single-microbe inoculations with B. asteroides, B. mellis, and L. melliventris caused effects on foraging intensity. These results demonstrate that gut microbes contribute to division of labor in a social insect, and support a role of gut microbes in modulating host behavioral trait variation.
+
+[Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae030/7614857)
+
+10.1093/ismejo/wrae030
+
+---
+
+## Virome diversity shaped by genetic evolution and ecological landscape of Haemaphysalis longicornis
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01753-9)
+
+---
+
+## Multi-omics reveal mechanisms of high enteral starch diet mediated colonic dysbiosis via microbiome-host interactions in young ruminant.
+ 27.02.2024, _C Jin, S Wu, Z Liang, J Zhang, X Lei, H Bai, G Liang, X Su, X Chen, P Wang, Y Wang, L Guan, J Yao_
+
+
+_Animals, Multiomics, Dysbiosis, Ruminants, Microbiota, Goats, Cytokines, Diet, Starch_
+Although rumen development is crucial, hindgut undertakes a significant role in young ruminants' physiological development. High-starch diet is usually used to accelerate rumen development for young ruminants, but always leading to the enteral starch overload and hindgut dysbiosis. However, the mechanism behind remains unclear. The combination of colonic transcriptome, colonic luminal metabolome, and metagenome together with histological analysis was conducted using a goat model, with the aim to identify the potential molecular mechanisms behind the disrupted hindgut homeostasis by overload starch in young ruminants.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01760-w)
+
+10.1186/s40168-024-01760-w
+
+---
+
+## Cover Crop Root Exudates Impact Soil Microbiome Functional Trajectories in Agricultural Soils.
+ 27.02.2024, _VA Seitz, BB McGivern, MA Borton, JM Chaparro, ME Schipanski, JE Prenni, KC Wrighton_
+
+
+Background Cover cropping is an agricultural practice that uses secondary crops to support the growth of primary crops through various mechanisms including erosion control, weed suppression, nutrient management, and enhanced biodiversity. Cover crops may elicit some of these ecosystem services through chemical interactions with the soil microbiome via root exudation, or the release of plant metabolites from roots. Phytohormones are one metabolite type exuded by plants that activate the rhizosphere microbiome, yet managing this chemical interaction remains an untapped mechanism for optimizing plant-soil microbiome interactions. Currently, there is limited understanding on the diversity of cover crop phytohormone root exudation patterns and how these chemical messages selectively enrich specific microbial taxa and functionalities in agricultural soils. Results Here, we link variability in cover crop root exudate composition to changes in soil microbiome functionality. Exudate chemical profiles from 4 cover crop species ( Sorghum bicolor , Vicia villosa , Brassica napus , and Secale cereal ) were used as the chemical inputs to decipher microbial responses. These distinct exudate profiles, along with a no exudate control, were amended to agricultural soil microcosms with microbial responses tracked over time using metabolomes and genome-resolved metatranscriptomes. Our findings illustrated microbial metabolic patterns were unique in response to cover crop exudate inputs over time, particularly by sorghum and cereal rye amended microcosms where we identify novel microbial members (at the genera and family level) who produced IAA and GA 4 over time. We also identify broad changes in microbial nitrogen cycling in response chemical inputs. Conclusions We highlight that root exudate amendments alter microbial community function and phytohormone metabolisms, particularly in response to root exudates isolated from cereal rye and sorghum plants. Additionally, we constructed a soil microbial genomic catalog of microorganisms responding to commonly used cover crops, a public resource for agriculturally-relevant microbes. Many of our exudate-stimulated microorganisms are representatives from poorly characterized or novel taxa, highlighting the yet to be discovered metabolic reservoir harbored in agricultural soils. Our findings emphasize the tractability of high-resolution multiomics approaches to investigate processes relevant for agricultural soils, opening the possibility of targeting specific soil biogeochemical outcomes through biological precision agricultural practices that use cover crops and the microbiome as levers for enhanced crop production.
+
+[Source](https://www.researchsquare.com/article/rs-3956430/v1)
+
+10.21203/rs.3.rs-3956430/v1
+
+---
+
+## Stronger compensatory thermal adaptation of soil microbial respiration with higher substrate availability.
+ 17.02.2024, _L Qu, C Wang, S Manzoni, M Dacal, FT Maestre, E Bai_
+
+
+Ongoing global warming is expected to augment soil respiration by increasing microbial activity, driving self-reinforcing feedback to climate change. However, the compensatory thermal adaptation of soil microorganisms and substrate depletion may weaken the effects of rising temperature on soil respiration. To test this hypothesis, we collected soils along a large-scale forest transect in eastern China spanning a natural temperature gradient, and incubated the soils at different temperatures with or without substrate addition. We combined the exponential thermal response function and a data-driven model to study the interaction effect of thermal adaptation and substrate availability on microbial respiration and compared our results to those from two additional continental and global independent datasets. Modelled results suggested that the effect of thermal adaptation on microbial respiration was greater in areas with higher mean annual temperatures, consistent with the compensatory response to warming. In addition, the effect of thermal adaptation on microbial respiration was greater under substrate addition than under substrate depletion, which was also true for the independent datasets reanalyzed using our approach. Our results indicate that thermal adaptation in warmer regions could exert a more pronounced negative impact on microbial respiration when substrate availability is abundant. These findings improve the body of knowledge on how substrate availability influences soil microbial community-temperature interactions, which could improve estimates of projected soil carbon losses to the atmosphere through respiration.
+
+[Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae025/7606641)
+
+10.1093/ismejo/wrae025
+
+---
+
+## Effects of operational parameters on bacterial communities in Hong Kong and global wastewater treatment plants
+
+[Source](https://journals.asm.org/doi/10.1128/msystems.01333-23)
+
+---
+
+## Novel functional insights into the microbiome inhabiting marine plastic debris: critical considerations to counteract the challenges of thin biofilms using multi-omics and comparative metaproteomics.
+ 26.02.2024, _LF Messer, CE Lee, R Wattiez, S Matallana-Surget_
+
+
+_Plastics, Bacteria, Multiomics, Biofilms, Biodegradation, Environmental, Microbiota_
+Microbial functioning on marine plastic surfaces has been poorly documented, especially within cold climates where temperature likely impacts microbial activity and the presence of hydrocarbonoclastic microorganisms. To date, only two studies have used metaproteomics to unravel microbial genotype-phenotype linkages in the marine 'plastisphere', and these have revealed the dominance of photosynthetic microorganisms within warm climates. Advancing the functional representation of the marine plastisphere is vital for the development of specific databases cataloging the functional diversity of the associated microorganisms and their peptide and protein sequences, to fuel biotechnological discoveries. Here, we provide a comprehensive assessment for plastisphere metaproteomics, using multi-omics and data mining on thin plastic biofilms to provide unique insights into plastisphere metabolism. Our robust experimental design assessed DNA/protein co-extraction and cell lysis strategies, proteomics workflows, and diverse protein search databases, to resolve the active plastisphere taxa and their expressed functions from an understudied cold environment.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01751-x)
+
+10.1186/s40168-024-01751-x
+
+---
+
+## Particle-attached bacteria act as gatekeepers in the decomposition of complex phytoplankton polysaccharides.
+ 22.02.2024, _FQ Wang, D Bartosik, C Sidhu, R Siebers, DC Lu, A Trautwein-Schult, D Becher, B Huettel, J Rick, IV Kirstein, KH Wiltshire, T Schweder, BM Fuchs, MM Bengtsson, H Teeling, RI Amann_
+
+
+_Phytoplankton, Eutrophication, Polysaccharides, Flavobacteriaceae, Microalgae_
+Marine microalgae (phytoplankton) mediate almost half of the worldwide photosynthetic carbon dioxide fixation and therefore play a pivotal role in global carbon cycling, most prominently during massive phytoplankton blooms. Phytoplankton biomass consists of considerable proportions of polysaccharides, substantial parts of which are rapidly remineralized by heterotrophic bacteria. We analyzed the diversity, activity, and functional potential of such polysaccharide-degrading bacteria in different size fractions during a diverse spring phytoplankton bloom at Helgoland Roads (southern North Sea) at high temporal resolution using microscopic, physicochemical, biodiversity, metagenome, and metaproteome analyses.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01757-5)
+
+10.1186/s40168-024-01757-5
+
+---
+
+## Dynamics of Gut Bacteria Across Different Zooplankton Genera in the Baltic Sea.
+ 28.02.2024, _T Xu, A Novotny, S Zamora-Terol, PA Hambäck, M Winder_
+
+
+_Animals, Zooplankton, RNA, Ribosomal, 16S, Bacteria, Gastrointestinal Microbiome, Microbiota, Rotifera_
+In aquatic ecosystems, zooplankton-associated bacteria potentially have a great impact on the structure of ecosystems and trophic networks by providing various metabolic pathways and altering the ecological niche of host species. To understand the composition and drivers of zooplankton gut microbiota, we investigated the associated microbial communities of four zooplankton genera from different seasons in the Baltic Sea using the 16S rRNA gene. Among the 143 ASVs (amplified sequence variants) observed belonging to heterotrophic bacteria, 28 ASVs were shared across all zooplankton hosts over the season, and these shared core ASVs represented more than 25% and up to 60% of relative abundance in zooplankton hosts but were present at low relative abundance in the filtered water. Zooplankton host identity had stronger effects on bacterial composition than seasonal variation, with the composition of gut bacterial communities showing host-specific clustering patterns. Although bacterial compositions and dominating core bacteria were different between zooplankton hosts, higher gut bacteria diversity and more bacteria contributing to the temporal variation were found in Temora and Pseudocalanus, compared to Acartia and Synchaeta. Diet diatom and filamentous cyanobacteria negatively correlated with gut bacteria diversity, but the difference in diet composition did not explain the dissimilarity of gut bacteria composition, suggesting a general effect of diet on the inner conditions in the zooplankton gut. Synchaeta maintained high stability of gut bacterial communities with unexpectedly low bacteria-bacteria interactions as compared to the copepods, indicating host-specific regulation traits. Our results suggest that the patterns of gut bacteria dynamics are host-specific and the variability of gut bacteria is not only related to host taxonomy but also related to host behavior and life history traits.
+
+[Source](https://link.springer.com/article/10.1007/s00248-024-02362-7)
+
+10.1007/s00248-024-02362-7
+
+---
+
+## Enhancing Recovery from Gut Microbiome Dysbiosis and Alleviating DSS-Induced Colitis in Mice with a Consortium of Rare Short-Chain Fatty Acid-Producing Bacteria
+
+[Source](https://www.biorxiv.org/content/biorxiv/early/2024/02/26/2023.09.11.556543.full.pdf)
+
+---
+
+## Neuroprotective Effects of Bifidobacterium animalis subsp. lactis NJ241 in a Mouse Model of Parkinson’s Disease: Implications for Gut Microbiota and PGC-1α
+
+[Source](https://link.springer.com/article/10.1007/s12035-024-04038-2)
 
 ---
 
