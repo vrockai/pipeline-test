@@ -103,40 +103,21 @@ Gut microbiomes are increasingly recognized for mediating diverse biological asp
 
 ---
 
-## Multi-omics reveal mechanisms of high enteral starch diet mediated colonic dysbiosis via microbiome-host interactions in young ruminant.
- 27.02.2024, _C Jin, S Wu, Z Liang, J Zhang, X Lei, H Bai, G Liang, X Su, X Chen, P Wang, Y Wang, L Guan, J Yao_
-
-
-_Animals, Multiomics, Dysbiosis, Ruminants, Microbiota, Goats, Cytokines, Diet, Starch_
-Although rumen development is crucial, hindgut undertakes a significant role in young ruminants' physiological development. High-starch diet is usually used to accelerate rumen development for young ruminants, but always leading to the enteral starch overload and hindgut dysbiosis. However, the mechanism behind remains unclear. The combination of colonic transcriptome, colonic luminal metabolome, and metagenome together with histological analysis was conducted using a goat model, with the aim to identify the potential molecular mechanisms behind the disrupted hindgut homeostasis by overload starch in young ruminants.
+## Multi-omics reveal mechanisms of high enteral starch diet mediated colonic dysbiosis via microbiome-host interactions in young ruminant
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01760-w)
 
-10.1186/s40168-024-01760-w
-
 ---
 
-## Cover Crop Root Exudates Impact Soil Microbiome Functional Trajectories in Agricultural Soils.
- 27.02.2024, _VA Seitz, BB McGivern, MA Borton, JM Chaparro, ME Schipanski, JE Prenni, KC Wrighton_
-
-
-Background Cover cropping is an agricultural practice that uses secondary crops to support the growth of primary crops through various mechanisms including erosion control, weed suppression, nutrient management, and enhanced biodiversity. Cover crops may elicit some of these ecosystem services through chemical interactions with the soil microbiome via root exudation, or the release of plant metabolites from roots. Phytohormones are one metabolite type exuded by plants that activate the rhizosphere microbiome, yet managing this chemical interaction remains an untapped mechanism for optimizing plant-soil microbiome interactions. Currently, there is limited understanding on the diversity of cover crop phytohormone root exudation patterns and how these chemical messages selectively enrich specific microbial taxa and functionalities in agricultural soils. Results Here, we link variability in cover crop root exudate composition to changes in soil microbiome functionality. Exudate chemical profiles from 4 cover crop species ( Sorghum bicolor , Vicia villosa , Brassica napus , and Secale cereal ) were used as the chemical inputs to decipher microbial responses. These distinct exudate profiles, along with a no exudate control, were amended to agricultural soil microcosms with microbial responses tracked over time using metabolomes and genome-resolved metatranscriptomes. Our findings illustrated microbial metabolic patterns were unique in response to cover crop exudate inputs over time, particularly by sorghum and cereal rye amended microcosms where we identify novel microbial members (at the genera and family level) who produced IAA and GA 4 over time. We also identify broad changes in microbial nitrogen cycling in response chemical inputs. Conclusions We highlight that root exudate amendments alter microbial community function and phytohormone metabolisms, particularly in response to root exudates isolated from cereal rye and sorghum plants. Additionally, we constructed a soil microbial genomic catalog of microorganisms responding to commonly used cover crops, a public resource for agriculturally-relevant microbes. Many of our exudate-stimulated microorganisms are representatives from poorly characterized or novel taxa, highlighting the yet to be discovered metabolic reservoir harbored in agricultural soils. Our findings emphasize the tractability of high-resolution multiomics approaches to investigate processes relevant for agricultural soils, opening the possibility of targeting specific soil biogeochemical outcomes through biological precision agricultural practices that use cover crops and the microbiome as levers for enhanced crop production.
+## Cover Crop Root Exudates Impact Soil Microbiome Functional Trajectories in Agricultural Soils
 
 [Source](https://www.researchsquare.com/article/rs-3956430/v1)
 
-10.21203/rs.3.rs-3956430/v1
-
 ---
 
-## Stronger compensatory thermal adaptation of soil microbial respiration with higher substrate availability.
- 17.02.2024, _L Qu, C Wang, S Manzoni, M Dacal, FT Maestre, E Bai_
-
-
-Ongoing global warming is expected to augment soil respiration by increasing microbial activity, driving self-reinforcing feedback to climate change. However, the compensatory thermal adaptation of soil microorganisms and substrate depletion may weaken the effects of rising temperature on soil respiration. To test this hypothesis, we collected soils along a large-scale forest transect in eastern China spanning a natural temperature gradient, and incubated the soils at different temperatures with or without substrate addition. We combined the exponential thermal response function and a data-driven model to study the interaction effect of thermal adaptation and substrate availability on microbial respiration and compared our results to those from two additional continental and global independent datasets. Modelled results suggested that the effect of thermal adaptation on microbial respiration was greater in areas with higher mean annual temperatures, consistent with the compensatory response to warming. In addition, the effect of thermal adaptation on microbial respiration was greater under substrate addition than under substrate depletion, which was also true for the independent datasets reanalyzed using our approach. Our results indicate that thermal adaptation in warmer regions could exert a more pronounced negative impact on microbial respiration when substrate availability is abundant. These findings improve the body of knowledge on how substrate availability influences soil microbial community-temperature interactions, which could improve estimates of projected soil carbon losses to the atmosphere through respiration.
+## Stronger compensatory thermal adaptation of soil microbial respiration with higher substrate availability
 
 [Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae025/7606641)
-
-10.1093/ismejo/wrae025
 
 ---
 
@@ -146,29 +127,15 @@ Ongoing global warming is expected to augment soil respiration by increasing mic
 
 ---
 
-## Novel functional insights into the microbiome inhabiting marine plastic debris: critical considerations to counteract the challenges of thin biofilms using multi-omics and comparative metaproteomics.
- 26.02.2024, _LF Messer, CE Lee, R Wattiez, S Matallana-Surget_
-
-
-_Plastics, Bacteria, Multiomics, Biofilms, Biodegradation, Environmental, Microbiota_
-Microbial functioning on marine plastic surfaces has been poorly documented, especially within cold climates where temperature likely impacts microbial activity and the presence of hydrocarbonoclastic microorganisms. To date, only two studies have used metaproteomics to unravel microbial genotype-phenotype linkages in the marine 'plastisphere', and these have revealed the dominance of photosynthetic microorganisms within warm climates. Advancing the functional representation of the marine plastisphere is vital for the development of specific databases cataloging the functional diversity of the associated microorganisms and their peptide and protein sequences, to fuel biotechnological discoveries. Here, we provide a comprehensive assessment for plastisphere metaproteomics, using multi-omics and data mining on thin plastic biofilms to provide unique insights into plastisphere metabolism. Our robust experimental design assessed DNA/protein co-extraction and cell lysis strategies, proteomics workflows, and diverse protein search databases, to resolve the active plastisphere taxa and their expressed functions from an understudied cold environment.
+## Novel functional insights into the microbiome inhabiting marine plastic debris: critical considerations to counteract the challenges of thin biofilms using multi-omics and comparative metaproteomics
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01751-x)
 
-10.1186/s40168-024-01751-x
-
 ---
 
-## Particle-attached bacteria act as gatekeepers in the decomposition of complex phytoplankton polysaccharides.
- 22.02.2024, _FQ Wang, D Bartosik, C Sidhu, R Siebers, DC Lu, A Trautwein-Schult, D Becher, B Huettel, J Rick, IV Kirstein, KH Wiltshire, T Schweder, BM Fuchs, MM Bengtsson, H Teeling, RI Amann_
-
-
-_Phytoplankton, Eutrophication, Polysaccharides, Flavobacteriaceae, Microalgae_
-Marine microalgae (phytoplankton) mediate almost half of the worldwide photosynthetic carbon dioxide fixation and therefore play a pivotal role in global carbon cycling, most prominently during massive phytoplankton blooms. Phytoplankton biomass consists of considerable proportions of polysaccharides, substantial parts of which are rapidly remineralized by heterotrophic bacteria. We analyzed the diversity, activity, and functional potential of such polysaccharide-degrading bacteria in different size fractions during a diverse spring phytoplankton bloom at Helgoland Roads (southern North Sea) at high temporal resolution using microscopic, physicochemical, biodiversity, metagenome, and metaproteome analyses.
+## Particle-attached bacteria act as gatekeepers in the decomposition of complex phytoplankton polysaccharides 
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01757-5)
-
-10.1186/s40168-024-01757-5
 
 ---
 
