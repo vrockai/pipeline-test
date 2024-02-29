@@ -1,166 +1,122 @@
-## Distinct intestinal microbial signatures linked to accelerated systemic and intestinal biological aging.
- 27.02.2024, _S Singh, LB Giron, MW Shaikh, S Shankaran, PA Engen, ZR Bogin, SA Bambi, AR Goldman, JLLC Azevedo, L Orgaz, N de Pedro, P González, M Giera, A Verhoeven, E Sánchez-López, I Pandrea, T Kannan, CE Tanes, K Bittinger, AL Landay, MJ Corley, A Keshavarzian, M Abdel-Mohsen_
+## Using formalin fixed paraffin embedded tissue to characterize the microbiota in p16-positive and p16-negative tongue squamous cell carcinoma: a pilot study.
+ 28.02.2024, _Z Yuanbo, L Tianyi, S Xuejing, L Xinpeng, W Jianqun, X Wenxia, G Jingshu_
 
 
-_Humans, Female, Male, HIV Infections, Dysbiosis, Gastrointestinal Microbiome, Intestines, Aging, Bacteria, Inflammation, Anti-Inflammatory Agents_
-People living with HIV (PLWH), even when viral replication is controlled through antiretroviral therapy (ART), experience persistent inflammation. This inflammation is partly attributed to intestinal microbial dysbiosis and translocation, which may lead to non-AIDS-related aging-associated comorbidities. The extent to which living with HIV - influenced by the infection itself, ART usage, sexual orientation, or other associated factors - affects the biological age of the intestines is unclear. Furthermore, the role of microbial dysbiosis and translocation in the biological aging of PLWH remains to be elucidated. To investigate these uncertainties, we used a systems biology approach, analyzing colon and ileal biopsies, blood samples, and stool specimens from PLWH on ART and people living without HIV (PLWoH) as controls.
+Tongue squamous cell carcinoma (TSCC) is the most common oral cavity cancer, and p16 immunohistochemistry is an exact and available tool in the prognostic and predictive characterization of squamous cell cancers in the head and neck. Microorganisms have a close relationship with the development of TSCC. However, the association between oral bacteria and p16 status has not been well defined in the case of TSCC. Compared with traditional clinical microbial collection methods, formalin-fixed paraffin-embedded (FFPE) tissue samples have several advantages.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01758-4)
+[Source](https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-024-04051-w)
 
-10.1186/s40168-024-01758-4
-
----
-
-## Safety, feasibility, and impact on the gut microbiome of kefir administration in critically ill adults.
- 24.02.2024, _VK Gupta, S Rajendraprasad, M Ozkan, D Ramachandran, S Ahmad, JS Bakken, K Laudanski, O Gajic, B Bauer, S Zec, DW Freeman, S Khanna, A Shah, JH Skalski, J Sung, LV Karnatovskaia_
-
-
-_Adult, Humans, Kefir, Gastrointestinal Microbiome, Critical Illness, Dysbiosis, Feasibility Studies_
-Dysbiosis of the gut microbiome is frequent in the intensive care unit (ICU), potentially leading to a heightened risk of nosocomial infections. Enhancing the gut microbiome has been proposed as a strategic approach to mitigate potential adverse outcomes. While prior research on select probiotic supplements has not successfully shown to improve gut microbial diversity, fermented foods offer a promising alternative. In this open-label phase I safety and feasibility study, we examined the safety and feasibility of kefir as an initial step towards utilizing fermented foods to mitigate gut dysbiosis in critically ill patients.
-
-[Source](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-024-03299-x)
-
-10.1186/s12916-024-03299-x
+10.1186/s12903-024-04051-w
 
 ---
 
-## Dissecting Gut-Microbial Community Interactions using a Gut Microbiome-on-a-Chip.
- 28.02.2024, _J Lee, N Menon, CT Lim_
+## Inflammation and bacteriophages affect DNA inversion states and functionality of the gut microbiota
 
-
-While the human gut microbiota has a significant impact on gut health and disease, understanding of the roles of gut microbes, interactions, and collective impact of gut microbes on various aspects of human gut health is limited by the lack of suitable in vitro model system that can accurately replicate gut-like environment and enable the close visualization on causal and mechanistic relationships between microbial constitutents and the gut. , In this study, we present a scalable Gut Microbiome-on-a-Chip (GMoC) with great imaging capability and scalability, providing a physiologically relevant dynamic gut-microbes interfaces. This chip features a reproducible 3D stratified gut epithelium derived from Caco-2 cells (µGut), mimicking key intestinal architecture, functions, and cellular complexity, providing a physiolocially relevant gut environment for microbes residing in the gut. Incorporating tumorigenic bacteria, enterotoxigenic Bacteroides fragilis (ETBF), into the GMoC enable the observation of pathogenic behaviors of ETBF, leading to µGut disruption and pro-tumorigenic signaling activations. Pre-treating the µGut with a beneficial gut microbe Lactobacillus spp., effectively prevent ETBF-mediated gut pathogenesis, preserving the healthy state of the µGut through competition-mediated colonization resistance. The GMoC holds potential as a valuable tool for exploring unknown roles of gut microbes in microbe-induced pathogenesis and microbe-based therapeutic development.
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1002/advs.202302113)
-
-10.1002/advs.202302113
+[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(24)00042-8)
 
 ---
 
-## CRB1-associated retinal degeneration is dependent on bacterial translocation from the gut.
- 27.02.2024, _S Peng, JJ Li, W Song, Y Li, L Zeng, Q Liang, X Wen, H Shang, K Liu, P Peng, W Xue, B Zou, L Yang, J Liang, Z Zhang, S Guo, T Chen, W Li, M Jin, XB Xing, P Wan, C Liu, H Lin, H Wei, RWJ Lee, F Zhang, L Wei_
+## Integrated multi-omics analysis reveals gut microbiota dysbiosis and systemic disturbance in major depressive disorder.
+ 28.02.2024, _Z Xie, J Huang, G Sun, S He, Z Luo, L Zhang, L Li, M Yao, C Du, W Yu, Y Feng, D Yang, J Zhang, C Ge, H Li, M Geng_
 
 
-The Crumbs homolog 1 (CRB1) gene is associated with retinal degeneration, most commonly Leber congenital amaurosis (LCA) and retinitis pigmentosa (RP). Here, we demonstrate that murine retinas bearing the Rd8 mutation of Crb1 are characterized by the presence of intralesional bacteria. While normal CRB1 expression was enriched in the apical junctional complexes of retinal pigment epithelium and colonic enterocytes, Crb1 mutations dampened its expression at both sites. Consequent impairment of the outer blood retinal barrier and colonic intestinal epithelial barrier in Rd8 mice led to the translocation of intestinal bacteria from the lower gastrointestinal (GI) tract to the retina, resulting in secondary retinal degeneration. Either the depletion of bacteria systemically or the reintroduction of normal Crb1 expression colonically rescued Rd8-mutation-associated retinal degeneration without reversing the retinal barrier breach. Our data elucidate the pathogenesis of Crb1-mutation-associated retinal degenerations and suggest that antimicrobial agents have the potential to treat this devastating blinding disease.
+Major depressive disorder (MDD) involves systemic changes in peripheral blood and gut microbiota, but the current understanding is incomplete. Herein, we conducted a multi-omics analysis of fecal and blood samples obtained from an observational cohort including MDD patients (n = 99) and healthy control (HC, n = 50). 16S rRNA sequencing of gut microbiota showed structural alterations in MDD, as characterized by increased Enterococcus. Metagenomics sequencing of gut microbiota showed substantial functional alterations including upregulation in the superpathway of the glyoxylate cycle and fatty acid degradation and downregulation in various metabolic pathways in MDD. Plasma metabolomics revealed decreased amino acids and bile acids, together with increased sphingolipids and cholesterol esters in MDD. Notably, metabolites involved in arginine and proline metabolism were decreased while sphingolipid metabolic pathway were increased. Mass cytometry analysis of blood immune cell subtypes showed rises in proinflammatory immune subsets and declines in anti-inflammatory immune subsets in MDD. Furthermore, our findings revealed disease severity-related factors of MDD. Interestingly, we classified MDD into two immune subtypes that were highly correlated with disease relapse. Moreover, we established discriminative signatures that differentiate MDD from HC. These findings contribute to a comprehensive understanding of the MDD pathogenesis and provide valuable resources for the discovery of biomarkers.
 
-[Source](https://www.cell.com/cell/abstract/S0092-8674(24)00108-9)
+[Source](https://www.sciencedirect.com/science/article/pii/S0165178124000891)
 
-10.1016/j.cell.2024.01.040
-
----
-
-## Amino acid formula induces microbiota dysbiosis and depressive-like behavior in mice.
- 27.02.2024, _J Hu, K He, Y Yang, C Huang, Y Dou, H Wang, G Zhang, J Wang, C Niu, G Bi, L Zhang, S Zhu_
-
-
-Amino acid formula (AAF) is increasingly consumed in infants with cow's milk protein allergy; however, the long-term influences on health are less described. In this study, we established a mouse model by subjecting neonatal mice to an amino acid diet (AAD) to mimic the feeding regimen of infants on AAF. Surprisingly, AAD-fed mice exhibited dysbiotic microbiota and increased neuronal activity in both the intestine and brain, as well as gastrointestinal peristalsis disorders and depressive-like behavior. Furthermore, fecal microbiota transplantation from AAD-fed mice or AAF-fed infants to recipient mice led to elevated neuronal activations and exacerbated depressive-like behaviors compared to that from normal chow-fed mice or cow's-milk-formula-fed infants, respectively. Our findings highlight the necessity to avoid the excessive use of AAF, which may influence the neuronal development and mental health of children.
-
-[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)00145-1)
-
-10.1016/j.celrep.2024.113817
+10.1016/j.psychres.2024.115804
 
 ---
 
-## Bacteroides fragilis aggravates high-fat diet-induced non-alcoholic fatty liver disease by regulating lipid metabolism and remodeling gut microbiota.
- 27.02.2024, _Y Huang, J Cao, M Zhu, Z Wang, Z Jin, Z Xiong_
+## Long-term beneficial effect of faecal microbiota transplantation on colonisation of multidrug-resistant bacteria and resistome abundance in patients with recurrent Clostridioides difficile infection
 
-
-Gut microbiota dysbiosis is a prominent determinant that significantly contributes to the disruption of lipid metabolism. Consequently, it is essential to the occurrence and development of non-alcoholic fatty liver disease (NAFLD). Nevertheless, the connection between diet and symbiotic gut microbiota in the progression of NAFLD remains uncertain. The purpose of this study was to explore the role of supplementing commensal Bacteroides fragilis (B. fragilis) on lipid metabolism, gut microbiota, and metabolites in high-fat diet (HFD)-fed mice, elucidating the impact of gut microbiota and metabolites on the development of NAFLD. Our study revealed that supplementation with B. fragilis exacerbated both weight gain and obesity in mice. B. fragilis exacerbated blood glucose levels and liver dysfunction in mice. Furthermore, an increase in liver lipid accumulation and the upregulation of genes correlated with lipid metabolism were observed in mice. Under an HFD, supplementation of commensal B. fragilis resulted in alterations in the gut microbiota, notably a significant increase in Desulfovibrionaceae, which led to elevated endotoxin levels and thereby influenced the progression of NAFLD. It was interesting that the simultaneous examination of gut microbiota metabolites revealed a more pronounced impact of diet on short-chain fatty acids. This study represented the pioneering investigation into the impact of B. fragilis on NAFLD. Our findings demonstrated that B. fragilis induced dysregulation in the intestinal microbiota, leading to elevated levels of lipopolysaccharide and dysfunction in glucose and lipid metabolism, thereby exacerbating NAFLD.IMPORTANCESome intestinal symbiotic microbes are involved in the occurrence of the metabolic disorders. Our study investigated the impact of supplementing commensal Bacteroides fragilis on host metabolism in high-fat diet-fed mice. Research results indicated that adding a specific bacterial strain to the complex intestinal microecology can worsen metabolic conditions. This effect mainly affects the structural diversity of intestinal microorganisms, the increase in harmful bacteria in the gut, and the elevation of endotoxin levels, blood glucose, and lipid metabolism, thereby impacting the progression of non-alcoholic fatty liver disease (NAFLD). Understanding the principles that govern the establishment of microbial communities comprising multiple species is crucial for preventing or repairing dysfunctions in these communities, thereby enhancing host health and facilitating disease treatment. This study demonstrated that gut microbiota dysbiosis could contribute to metabolic dysfunction and provides new insights into how to promote gut microbiota in the prevention and therapy of NAFLD.
-
-[Source](https://journals.asm.org/doi/10.1128/spectrum.03393-23)
-
-10.1128/spectrum.03393-23
+[Source](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01306-7)
 
 ---
 
-## Gut microbiota modulation enhances the immune capacity of lizards under climate warming.
- 26.02.2024, _J Yang, W Liu, X Han, X Hao, Q Yao, W Du_
+## Bacteroides salyersiae is a potent chondroitin sulfate-degrading species in the human gut microbiota.
+ 28.02.2024, _Y Wang, M Ma, W Dai, Q Shang, G Yu_
 
 
-_Animals, Gastrointestinal Microbiome, Lizards, Climate Change, Bacteria, Anti-Bacterial Agents_
-Host-microbial interactions are expected to affect species' adaptability to climate change but have rarely been explored in ectothermic animals. Some studies have shown that short-term warming reduced gut microbial diversity that could hamper host functional performance.
+Chondroitin sulfate (CS) has widely been used as a symptomatic slow-acting drug or a dietary supplement for the treatment and prevention of osteoarthritis. However, CS could not be absorbed after oral intake due to its polyanionic nature and large molecular weight. Gut microbiota has recently been proposed to play a pivotal role in the metabolism of drugs and nutrients. Nonetheless, how CS is degraded by the human gut microbiota has not been fully characterized. In the present study, we demonstrated that each human gut microbiota was characterized with a unique capability for CS degradation. Degradation and fermentation of CS by the human gut microbiota produced significant amounts of unsaturated CS oligosaccharides (CSOSs) and short-chain fatty acids. To uncover which microbes were responsible for CS degradation, we isolated a total of 586 bacterial strains with a potential CS-degrading capability from 23 human fecal samples. Bacteroides salyersiae was a potent species for CS degradation in the human gut microbiota and produced the highest amount of CSOSs as compared to other well-recognized CS-degraders, including Bacteroides finegoldii, Bacteroides thetaiotaomicron, Bacteroides xylanisolvens, and Bacteroides ovatus. Genomic analysis suggested that B. salyersiae was armed with multiple carbohydrate-active enzymes that could potentially degrade CS into CSOSs. By using a spent medium assay, we further demonstrated that the unsaturated tetrasaccharide (udp4) produced by the primary degrader B. salyersiae could serve as a "public goods" molecule for the growth of Bacteroides stercoris, a secondary CS-degrader that was proficient at fermenting CSOSs but not CS. Taken together, our study provides insights into the metabolism of CS by the human gut microbiota, which has promising implications for the development of medical and nutritional therapies for osteoarthritis. Video Abstract.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01736-2)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01768-2)
 
-10.1186/s40168-023-01736-2
-
----
-
-## Gut microbiota contribute to variations in honey bee foraging intensity.
- 27.02.2024, _CL Vernier, LA Nguyen, T Gernat, AC Ahmed, Z Chen, GE Robinson_
-
-
-Gut microbiomes are increasingly recognized for mediating diverse biological aspects of their hosts, including complex behavioral phenotypes. Although many studies have reported that experimental disruptions to the gut microbial community result in atypical host behavior, studies that address how gut microbes contribute to adaptive behavioral trait variation are rare. Eusocial insects represent a powerful model to test this, due to their simple gut microbiota and complex division of labor characterized by colony-level variation in behavioral phenotypes. Although previous studies report correlational differences in gut microbial community associated with division of labor, here, we provide evidence that gut microbes play a causal role in defining differences in foraging behavior between European honey bees (Apis mellifera). We found that gut microbial community structure differed between hive-based nurse bees and bees that leave the hive to forage for floral resources. These differences were associated with variation in the abundance of individual microbes, including Bifidobacterium asteroides, Bombilactobacillus mellis, and Lactobacillus melliventris. Manipulations of colony demography and individual foraging experience suggested that differences in gut microbial community composition were associated with task experience. Moreover, single-microbe inoculations with B. asteroides, B. mellis, and L. melliventris caused effects on foraging intensity. These results demonstrate that gut microbes contribute to division of labor in a social insect, and support a role of gut microbes in modulating host behavioral trait variation.
-
-[Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae030/7614857)
-
-10.1093/ismejo/wrae030
+10.1186/s40168-024-01768-2
 
 ---
 
-## Virome diversity shaped by genetic evolution and ecological landscape of Haemaphysalis longicornis
+## Elemental iron protects gut microbiota against oxygen-induced dysbiosis.
+ 29.02.2024, _I Ostrov, Y Gong, JB Zuk, PCK Wickramasinghe, I Tmenova, DE Roopchand, L Zhao, I Raskin_
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01753-9)
 
----
+_Humans, Gastrointestinal Microbiome, Oxygen, Dysbiosis, Antioxidants, Iron, RNA, Ribosomal, 16S, Bacteria, Lactobacillales_
+Gut dysbiosis induced by oxygen and reactive oxygen species may be related to the development of inflammation, resulting in metabolic syndrome and associated-conditions in the gut. Here we show that elemental iron can serve as an antioxidant and reverse the oxygen-induced dysbiosis. Fecal samples from three healthy donors were fermented with elemental iron and/or oxygen. 16S rRNA analysis revealed that elemental iron reversed the oxygen-induced disruption of Shannon index diversity of the gut microbiota.The bacteria lacking enzymatic antioxidant systems also increased after iron treatment. Inter-individual differences, which corresponded to iron oxidation patterns, were observed for the tested donors. Gut bacteria responding to oxygen and iron treatments were identified as guilds, among which, Escherichia-Shigella was promoted by oxygen and depressed by elemental iron, while changes in bacteria such as Bifidobacterium, Blautia, Eubacterium, Ruminococcaceae, Flavonifractor, Oscillibacter, and Lachnospiraceae were reversed by elemental iron after oxygen treatment. Short-chain fatty acid production was inhibited by oxygen and this effect was partially reversed by elemental iron. These results suggested that elemental iron can regulate the oxygen/ROS state and protect the gut microbiota from oxidative stress.
 
-## Multi-omics reveal mechanisms of high enteral starch diet mediated colonic dysbiosis via microbiome-host interactions in young ruminant
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298592)
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01760-w)
-
----
-
-## Cover Crop Root Exudates Impact Soil Microbiome Functional Trajectories in Agricultural Soils
-
-[Source](https://www.researchsquare.com/article/rs-3956430/v1)
+10.1371/journal.pone.0298592
 
 ---
 
-## Stronger compensatory thermal adaptation of soil microbial respiration with higher substrate availability
+## Fecal microbiota transplantation ameliorates abdominal obesity through inhibiting microbiota-mediated intestinal barrier damage and inflammation in mice.
+ 28.02.2024, _X Zhu, L Zhao, L Lei, Y Zhu, J Xu, L Liu_
 
-[Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae025/7606641)
 
----
+Abdominal obesity (AO), characterized by the excessive abdominal fat accumulation, has emerged as a significant public health concern due to its metabolic complications and escalating prevalence worldwide, posing a more pronounced threat to human health than general obesity. While certain studies have indicated that intestinal flora contributed to diet-induced general obesity, the precise involvement of gut microbiota in the development of AO, specifically the accumulation of abdominal fat, remains inadequately explored. In this study, the 16 S rDNA sequencing was employed to analyze gut flora alterations, and the intestinal microbiota dysbiosis characterized by a vanishing decline of Akkermansia was found in the AO group. Along with notable gut microbiota changes, the intestinal mucosal barrier damage and metabolic inflammation were detected, which collectively promoted metabolic dysregulation in AO. Furthermore, the metabolic inflammation and AO were ameliorated after the intestinal microbiota depletion with antibiotics (ABX) drinking, underscoring a significant involvement of gut microbiota dysbiosis in the progression of AO. More importantly, our findings demonstrated that the transplantation of healthy intestinal flora successfully reversed the gut microbiota dysbiosis, particularly the decline of Akkermansia in the AO group. The gut flora reshaping has led to the repair of gut barrier damage and mitigation of metabolic inflammation, which ultimately ameliorated abdominal fat deposition. Our study established the role of interactions between gut flora, mucus barrier, and metabolic inflammation in the development of AO, thereby offering a theoretical foundation for the clinical application of fecal microbiota transplantation (FMT) as a treatment for AO.
 
-## Effects of operational parameters on bacterial communities in Hong Kong and global wastewater treatment plants
+[Source](https://www.sciencedirect.com/science/article/pii/S0944501324000557)
 
-[Source](https://journals.asm.org/doi/10.1128/msystems.01333-23)
-
----
-
-## Novel functional insights into the microbiome inhabiting marine plastic debris: critical considerations to counteract the challenges of thin biofilms using multi-omics and comparative metaproteomics
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01751-x)
+10.1016/j.micres.2024.127654
 
 ---
 
-## Particle-attached bacteria act as gatekeepers in the decomposition of complex phytoplankton polysaccharides 
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01757-5)
-
----
-
-## Dynamics of Gut Bacteria Across Different Zooplankton Genera in the Baltic Sea.
- 28.02.2024, _T Xu, A Novotny, S Zamora-Terol, PA Hambäck, M Winder_
+## Exploring the modulatory effects of brown seaweed meal and extracts on intestinal microbiota and morphology of broiler chickens challenged with heat stress.
+ 28.02.2024, _F Oretomiloye, D Adewole_
 
 
-_Animals, Zooplankton, RNA, Ribosomal, 16S, Bacteria, Gastrointestinal Microbiome, Microbiota, Rotifera_
-In aquatic ecosystems, zooplankton-associated bacteria potentially have a great impact on the structure of ecosystems and trophic networks by providing various metabolic pathways and altering the ecological niche of host species. To understand the composition and drivers of zooplankton gut microbiota, we investigated the associated microbial communities of four zooplankton genera from different seasons in the Baltic Sea using the 16S rRNA gene. Among the 143 ASVs (amplified sequence variants) observed belonging to heterotrophic bacteria, 28 ASVs were shared across all zooplankton hosts over the season, and these shared core ASVs represented more than 25% and up to 60% of relative abundance in zooplankton hosts but were present at low relative abundance in the filtered water. Zooplankton host identity had stronger effects on bacterial composition than seasonal variation, with the composition of gut bacterial communities showing host-specific clustering patterns. Although bacterial compositions and dominating core bacteria were different between zooplankton hosts, higher gut bacteria diversity and more bacteria contributing to the temporal variation were found in Temora and Pseudocalanus, compared to Acartia and Synchaeta. Diet diatom and filamentous cyanobacteria negatively correlated with gut bacteria diversity, but the difference in diet composition did not explain the dissimilarity of gut bacteria composition, suggesting a general effect of diet on the inner conditions in the zooplankton gut. Synchaeta maintained high stability of gut bacterial communities with unexpectedly low bacteria-bacteria interactions as compared to the copepods, indicating host-specific regulation traits. Our results suggest that the patterns of gut bacteria dynamics are host-specific and the variability of gut bacteria is not only related to host taxonomy but also related to host behavior and life history traits.
+Brown seaweed (Ascophyllum nodosum) is known for its prebiotic roles and can improve animal intestinal health by enhancing the growth of beneficial microbes and inhibiting pathogenic ones. However, the gut health-modulatory roles of brown seaweed on chickens challenged with heat stress (HS) are rarely studied. The current study examined the effects of brown seaweed meal (SWM) and extract (SWE) on the ceca microbiota and small intestinal morphology of chickens challenged or unchallenged with HS. Three hundred and thirty-six 1-day-old Ross 308 broiler chicks were randomly assigned to either a thermoneutral (TN; 24 ± 1°C); or HS room (HS; 32-34°C, 8 h/d from d 21 to 27). All birds in each room were randomly allotted to 4 treatments - control (CON), CON + 1 mL/L seaweed extract (SWE) in drinking water, CON + 2 mL/L SWE in drinking water, and CON + 2% seaweed meal (SWM) in feed and raised for 28 d. On d 14 and 28, 12 and 24 birds per treatment group, respectively, were euthanized to collect the ceca content for gut microbiota analysis and small intestinal tissues for morphological examination. On d 14, 2% SWM increased (P = 0.047) the relative abundance of cecal Fecalibacterium and all brown seaweed treatments improved jejunal villus height (VH) and VH:CD compared to the CON diet. On d 28, HS significantly reduced (P &lt; 0.05) ileal VH, VW, and VH:CD, and duodenal VH and VH:CD. Among the HS group, 2% SWM and 2 mL/L SWE significantly increased (P &lt; 0.05) the relative abundance of Lactobacillus, Sellimonas, and Fournierella, compared to the CON diet. HS birds fed with 2% SWM had higher ileal VH and VH:CD compared to other treatments. In summary, SWM and SWE enhanced the abundance of beneficial microbes and improved small intestinal morphology among HS chickens. This implies that seaweed could potentially alleviate HS-induced intestinal impairment in chickens.
 
-[Source](https://link.springer.com/article/10.1007/s00248-024-02362-7)
+[Source](https://www.sciencedirect.com/science/article/pii/S003257912400141X)
 
-10.1007/s00248-024-02362-7
+10.1016/j.psj.2024.103562
 
 ---
 
-## Enhancing Recovery from Gut Microbiome Dysbiosis and Alleviating DSS-Induced Colitis in Mice with a Consortium of Rare Short-Chain Fatty Acid-Producing Bacteria
+## Synthetic microbe-to-plant communication channels.
+ 28.02.2024, _A Boo, T Toth, Q Yu, A Pfotenhauer, BD Fields, SC Lenaghan, CN Stewart, CA Voigt_
 
-[Source](https://www.biorxiv.org/content/biorxiv/early/2024/02/26/2023.09.11.556543.full.pdf)
+
+Plants and microbes communicate to collaborate to stop pests, scavenge nutrients, and react to environmental change. Microbiota consisting of thousands of species interact with each other and plants using a large chemical language that is interpreted by complex regulatory networks. In this work, we develop modular interkingdom communication channels, enabling bacteria to convey environmental stimuli to plants. We introduce a "sender device" in Pseudomonas putida and Klebsiella pneumoniae, that produces the small molecule p-coumaroyl-homoserine lactone (pC-HSL) when the output of a sensor or circuit turns on. This molecule triggers a "receiver device" in the plant to activate gene expression. We validate this system in Arabidopsis thaliana and Solanum tuberosum (potato) grown hydroponically and in soil, demonstrating its modularity by swapping bacteria that process different stimuli, including IPTG, aTc and arsenic. Programmable communication channels between bacteria and plants will enable microbial sentinels to transmit information to crops and provide the building blocks for designing artificial consortia.
+
+[Source](https://www.nature.com/articles/s41467-024-45897-6)
+
+10.1038/s41467-024-45897-6
 
 ---
 
-## Neuroprotective Effects of Bifidobacterium animalis subsp. lactis NJ241 in a Mouse Model of Parkinson’s Disease: Implications for Gut Microbiota and PGC-1α
+## Time-shifted expression of acetoclastic and methylotrophic methanogenesis by a single Methanosarcina genomospecies predominates the methanogen dynamics in Philippine rice field soil.
+ 28.02.2024, _X Li, Q Bei, M Rabiei Nematabad, J Peng, W Liesack_
 
-[Source](https://link.springer.com/article/10.1007/s12035-024-04038-2)
+
+_Methanosarcina, Soil, Oryza, RNA, Ribosomal, 16S, Philippines, Bacteria, Methane_
+The final step in the anaerobic decomposition of biopolymers is methanogenesis. Rice field soils are a major anthropogenic source of methane, with straw commonly used as a fertilizer in rice farming. Here, we aimed to decipher the structural and functional responses of the methanogenic community to rice straw addition during an extended anoxic incubation (120 days) of Philippine paddy soil. The research combined process measurements, quantitative real-time PCR and RT-PCR of particular biomarkers (16S rRNA, mcrA), and meta-omics (environmental genomics and transcriptomics).
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01739-z)
+
+10.1186/s40168-023-01739-z
+
+---
+
+## Influence of climatic variation on microbial communities during organic Pinot noir wine production.
+ 28.02.2024, _A Ohwofasa, M Dhami, J Zhang, B Tian, C Winefield, SLW On_
+
+
+To assess the possible impact of climatic variation on microbial community composition in organic winemaking, we employed a metabarcoding approach to scrutinize the microbiome in a commercial, organic, Pinot noir wine production system that utilizes autochthonous fermentation. We assessed microbial composition across two vintages (2018 and 2021) using biological replicates co-located at the same winery. Microbial dynamics were monitored over four important fermentation time points and correlated with contemporaneous climate data. Bacterial (RANOSIM = 0.4743, p = 0.0001) and fungal (RANOSIM = 0.4738, p = 0.0001) compositions were different in both vintages. For bacteria, Lactococcus dominated the diversity associated with the 2018 vintage, while Tatumella dominated the 2021 vintage. For fungal populations, while Saccharomyces were abundant in both vintages, key differences included Starmerella, copious in the 2018 vintage; and Metschnikowia, substantive in the 2021 vintage. Ordination plots correlated the climatic variables with microbial population differences, indicating temperature as a particularly important influence; humidity values also differed significantly between these vintages. Our data illustrates how climatic conditions may influence microbial diversity during winemaking, and further highlights the effect climate change could have on wine production.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296859)
+
+10.1371/journal.pone.0296859
 
 ---
 
