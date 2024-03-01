@@ -34,27 +34,52 @@ Major depressive disorder (MDD) involves systemic changes in peripheral blood an
 
 ---
 
-## Bacteroides salyersiae is a potent chondroitin sulfate-degrading species in the human gut microbiota
+## Bacteroides salyersiae is a potent chondroitin sulfate-degrading species in the human gut microbiota.
+ 28.02.2024, _Y Wang, M Ma, W Dai, Q Shang, G Yu_
+
+
+Chondroitin sulfate (CS) has widely been used as a symptomatic slow-acting drug or a dietary supplement for the treatment and prevention of osteoarthritis. However, CS could not be absorbed after oral intake due to its polyanionic nature and large molecular weight. Gut microbiota has recently been proposed to play a pivotal role in the metabolism of drugs and nutrients. Nonetheless, how CS is degraded by the human gut microbiota has not been fully characterized. In the present study, we demonstrated that each human gut microbiota was characterized with a unique capability for CS degradation. Degradation and fermentation of CS by the human gut microbiota produced significant amounts of unsaturated CS oligosaccharides (CSOSs) and short-chain fatty acids. To uncover which microbes were responsible for CS degradation, we isolated a total of 586 bacterial strains with a potential CS-degrading capability from 23 human fecal samples. Bacteroides salyersiae was a potent species for CS degradation in the human gut microbiota and produced the highest amount of CSOSs as compared to other well-recognized CS-degraders, including Bacteroides finegoldii, Bacteroides thetaiotaomicron, Bacteroides xylanisolvens, and Bacteroides ovatus. Genomic analysis suggested that B. salyersiae was armed with multiple carbohydrate-active enzymes that could potentially degrade CS into CSOSs. By using a spent medium assay, we further demonstrated that the unsaturated tetrasaccharide (udp4) produced by the primary degrader B. salyersiae could serve as a "public goods" molecule for the growth of Bacteroides stercoris, a secondary CS-degrader that was proficient at fermenting CSOSs but not CS. Taken together, our study provides insights into the metabolism of CS by the human gut microbiota, which has promising implications for the development of medical and nutritional therapies for osteoarthritis. Video Abstract.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01768-2)
 
+10.1186/s40168-024-01768-2
+
 ---
 
-## Elemental iron protects gut microbiota against oxygen-induced dysbiosis
+## Elemental iron protects gut microbiota against oxygen-induced dysbiosis.
+ 29.02.2024, _I Ostrov, Y Gong, JB Zuk, PCK Wickramasinghe, I Tmenova, DE Roopchand, L Zhao, I Raskin_
+
+
+_Humans, Gastrointestinal Microbiome, Oxygen, Dysbiosis, Antioxidants, Iron, RNA, Ribosomal, 16S, Bacteria, Lactobacillales_
+Gut dysbiosis induced by oxygen and reactive oxygen species may be related to the development of inflammation, resulting in metabolic syndrome and associated-conditions in the gut. Here we show that elemental iron can serve as an antioxidant and reverse the oxygen-induced dysbiosis. Fecal samples from three healthy donors were fermented with elemental iron and/or oxygen. 16S rRNA analysis revealed that elemental iron reversed the oxygen-induced disruption of Shannon index diversity of the gut microbiota.The bacteria lacking enzymatic antioxidant systems also increased after iron treatment. Inter-individual differences, which corresponded to iron oxidation patterns, were observed for the tested donors. Gut bacteria responding to oxygen and iron treatments were identified as guilds, among which, Escherichia-Shigella was promoted by oxygen and depressed by elemental iron, while changes in bacteria such as Bifidobacterium, Blautia, Eubacterium, Ruminococcaceae, Flavonifractor, Oscillibacter, and Lachnospiraceae were reversed by elemental iron after oxygen treatment. Short-chain fatty acid production was inhibited by oxygen and this effect was partially reversed by elemental iron. These results suggested that elemental iron can regulate the oxygen/ROS state and protect the gut microbiota from oxidative stress.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298592)
 
+10.1371/journal.pone.0298592
+
 ---
 
-## Fecal microbiota transplantation ameliorates abdominal obesity through inhibiting microbiota-mediated intestinal barrier damage and inflammation in mice
+## Fecal microbiota transplantation ameliorates abdominal obesity through inhibiting microbiota-mediated intestinal barrier damage and inflammation in mice.
+ 28.02.2024, _X Zhu, L Zhao, L Lei, Y Zhu, J Xu, L Liu_
+
+
+Abdominal obesity (AO), characterized by the excessive abdominal fat accumulation, has emerged as a significant public health concern due to its metabolic complications and escalating prevalence worldwide, posing a more pronounced threat to human health than general obesity. While certain studies have indicated that intestinal flora contributed to diet-induced general obesity, the precise involvement of gut microbiota in the development of AO, specifically the accumulation of abdominal fat, remains inadequately explored. In this study, the 16 S rDNA sequencing was employed to analyze gut flora alterations, and the intestinal microbiota dysbiosis characterized by a vanishing decline of Akkermansia was found in the AO group. Along with notable gut microbiota changes, the intestinal mucosal barrier damage and metabolic inflammation were detected, which collectively promoted metabolic dysregulation in AO. Furthermore, the metabolic inflammation and AO were ameliorated after the intestinal microbiota depletion with antibiotics (ABX) drinking, underscoring a significant involvement of gut microbiota dysbiosis in the progression of AO. More importantly, our findings demonstrated that the transplantation of healthy intestinal flora successfully reversed the gut microbiota dysbiosis, particularly the decline of Akkermansia in the AO group. The gut flora reshaping has led to the repair of gut barrier damage and mitigation of metabolic inflammation, which ultimately ameliorated abdominal fat deposition. Our study established the role of interactions between gut flora, mucus barrier, and metabolic inflammation in the development of AO, thereby offering a theoretical foundation for the clinical application of fecal microbiota transplantation (FMT) as a treatment for AO.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0944501324000557)
 
+10.1016/j.micres.2024.127654
+
 ---
 
-## Exploring the modulatory effects of brown seaweed meal and extracts on intestinal microbiota and morphology of broiler chickens challenged with heat stress
+## Exploring the modulatory effects of brown seaweed meal and extracts on intestinal microbiota and morphology of broiler chickens challenged with heat stress.
+ 28.02.2024, _F Oretomiloye, D Adewole_
+
+
+Brown seaweed (Ascophyllum nodosum) is known for its prebiotic roles and can improve animal intestinal health by enhancing the growth of beneficial microbes and inhibiting pathogenic ones. However, the gut health-modulatory roles of brown seaweed on chickens challenged with heat stress (HS) are rarely studied. The current study examined the effects of brown seaweed meal (SWM) and extract (SWE) on the ceca microbiota and small intestinal morphology of chickens challenged or unchallenged with HS. Three hundred and thirty-six 1-day-old Ross 308 broiler chicks were randomly assigned to either a thermoneutral (TN; 24 ± 1°C); or HS room (HS; 32-34°C, 8 h/d from d 21 to 27). All birds in each room were randomly allotted to 4 treatments - control (CON), CON + 1 mL/L seaweed extract (SWE) in drinking water, CON + 2 mL/L SWE in drinking water, and CON + 2% seaweed meal (SWM) in feed and raised for 28 d. On d 14 and 28, 12 and 24 birds per treatment group, respectively, were euthanized to collect the ceca content for gut microbiota analysis and small intestinal tissues for morphological examination. On d 14, 2% SWM increased (P = 0.047) the relative abundance of cecal Fecalibacterium and all brown seaweed treatments improved jejunal villus height (VH) and VH:CD compared to the CON diet. On d 28, HS significantly reduced (P &lt; 0.05) ileal VH, VW, and VH:CD, and duodenal VH and VH:CD. Among the HS group, 2% SWM and 2 mL/L SWE significantly increased (P &lt; 0.05) the relative abundance of Lactobacillus, Sellimonas, and Fournierella, compared to the CON diet. HS birds fed with 2% SWM had higher ileal VH and VH:CD compared to other treatments. In summary, SWM and SWE enhanced the abundance of beneficial microbes and improved small intestinal morphology among HS chickens. This implies that seaweed could potentially alleviate HS-induced intestinal impairment in chickens.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S003257912400141X)
+
+10.1016/j.psj.2024.103562
 
 ---
 
