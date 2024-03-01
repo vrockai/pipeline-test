@@ -10,9 +10,15 @@ Tongue squamous cell carcinoma (TSCC) is the most common oral cavity cancer, and
 
 ---
 
-## Inflammation and bacteriophages affect DNA inversion states and functionality of the gut microbiota
+## Inflammation and bacteriophages affect DNA inversion states and functionality of the gut microbiota.
+ 29.02.2024, _S Carasso, R Zaatry, H Hajjo, D Kadosh-Kariti, N Ben-Assa, R Naddaf, N Mandelbaum, S Pressman, Y Chowers, T Gefen, KL Jeffrey, J Jofre, MJ Coyne, LE Comstock, I Sharon, N Geva-Zatorsky_
+
+
+Reversible genomic DNA inversions control the expression of numerous gut bacterial molecules, but how this impacts disease remains uncertain. By analyzing metagenomic samples from inflammatory bowel disease (IBD) cohorts, we identified multiple invertible regions where a particular orientation correlated with disease. These include the promoter of polysaccharide A (PSA) of Bacteroides fragilis, which induces regulatory T cells (Tregs) and ameliorates experimental colitis. The PSA promoter was mostly oriented "OFF" in IBD patients, which correlated with increased B. fragilis-associated bacteriophages. Similarly, in mice colonized with a healthy human microbiota and B. fragilis, induction of colitis caused a decline of PSA in the "ON" orientation that reversed as inflammation resolved. Monocolonization of mice with B. fragilis revealed that bacteriophage infection increased the frequency of PSA in the "OFF" orientation, causing reduced PSA expression and decreased Treg cells. Altogether, we reveal dynamic bacterial phase variations driven by bacteriophages and host inflammation, signifying bacterial functional plasticity during disease.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(24)00042-8)
+
+10.1016/j.chom.2024.02.003
 
 ---
 
@@ -84,7 +90,7 @@ Brown seaweed (Ascophyllum nodosum) is known for its prebiotic roles and can imp
 ---
 
 ## Synthetic microbe-to-plant communication channels.
- 28.02.2024, _A Boo, T Toth, Q Yu, A Pfotenhauer, BD Fields, SC Lenaghan, CN Stewart, CA Voigt_
+ 29.02.2024, _A Boo, T Toth, Q Yu, A Pfotenhauer, BD Fields, SC Lenaghan, CN Stewart, CA Voigt_
 
 
 Plants and microbes communicate to collaborate to stop pests, scavenge nutrients, and react to environmental change. Microbiota consisting of thousands of species interact with each other and plants using a large chemical language that is interpreted by complex regulatory networks. In this work, we develop modular interkingdom communication channels, enabling bacteria to convey environmental stimuli to plants. We introduce a "sender device" in Pseudomonas putida and Klebsiella pneumoniae, that produces the small molecule p-coumaroyl-homoserine lactone (pC-HSL) when the output of a sensor or circuit turns on. This molecule triggers a "receiver device" in the plant to activate gene expression. We validate this system in Arabidopsis thaliana and Solanum tuberosum (potato) grown hydroponically and in soil, demonstrating its modularity by swapping bacteria that process different stimuli, including IPTG, aTc and arsenic. Programmable communication channels between bacteria and plants will enable microbial sentinels to transmit information to crops and provide the building blocks for designing artificial consortia.
