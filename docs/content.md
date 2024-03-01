@@ -71,29 +71,15 @@ Major depressive disorder (MDD) involves systemic changes in peripheral blood an
 
 ---
 
-## Time-shifted expression of acetoclastic and methylotrophic methanogenesis by a single Methanosarcina genomospecies predominates the methanogen dynamics in Philippine rice field soil.
- 29.02.2024, _X Li, Q Bei, M Rabiei Nematabad, J Peng, W Liesack_
-
-
-_Methanosarcina, Soil, Oryza, RNA, Ribosomal, 16S, Philippines, Bacteria, Methane_
-The final step in the anaerobic decomposition of biopolymers is methanogenesis. Rice field soils are a major anthropogenic source of methane, with straw commonly used as a fertilizer in rice farming. Here, we aimed to decipher the structural and functional responses of the methanogenic community to rice straw addition during an extended anoxic incubation (120 days) of Philippine paddy soil. The research combined process measurements, quantitative real-time PCR and RT-PCR of particular biomarkers (16S rRNA, mcrA), and meta-omics (environmental genomics and transcriptomics).
+## Time-shifted expression of acetoclastic and methylotrophic methanogenesis by a single Methanosarcina genomospecies predominates the methanogen dynamics in Philippine rice field soil
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01739-z)
 
-10.1186/s40168-023-01739-z
-
 ---
 
-## Influence of climatic variation on microbial communities during organic Pinot noir wine production.
- 01.03.2024, _A Ohwofasa, M Dhami, J Zhang, B Tian, C Winefield, SLW On_
-
-
-_Wine, Saccharomyces, Bacteria, Microbiota, Fermentation, Vitis_
-To assess the possible impact of climatic variation on microbial community composition in organic winemaking, we employed a metabarcoding approach to scrutinize the microbiome in a commercial, organic, Pinot noir wine production system that utilizes autochthonous fermentation. We assessed microbial composition across two vintages (2018 and 2021) using biological replicates co-located at the same winery. Microbial dynamics were monitored over four important fermentation time points and correlated with contemporaneous climate data. Bacterial (RANOSIM = 0.4743, p = 0.0001) and fungal (RANOSIM = 0.4738, p = 0.0001) compositions were different in both vintages. For bacteria, Lactococcus dominated the diversity associated with the 2018 vintage, while Tatumella dominated the 2021 vintage. For fungal populations, while Saccharomyces were abundant in both vintages, key differences included Starmerella, copious in the 2018 vintage; and Metschnikowia, substantive in the 2021 vintage. Ordination plots correlated the climatic variables with microbial population differences, indicating temperature as a particularly important influence; humidity values also differed significantly between these vintages. Our data illustrates how climatic conditions may influence microbial diversity during winemaking, and further highlights the effect climate change could have on wine production.
+## Influence of climatic variation on microbial communities during organic Pinot noir wine production
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296859)
-
-10.1371/journal.pone.0296859
 
 ---
 
