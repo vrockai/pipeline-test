@@ -1,132 +1,145 @@
-## Using formalin fixed paraffin embedded tissue to characterize the microbiota in p16-positive and p16-negative tongue squamous cell carcinoma: a pilot study.
- 02.03.2024, _Z Yuanbo, L Tianyi, S Xuejing, L Xinpeng, W Jianqun, X Wenxia, G Jingshu_
+## The influence of placenta microbiota of normal term pregnant women on immune regulation during pregnancy.
+ 02.03.2024, _P Yang, T Lu, X Liang, T Huang, L Wu, Z He, X Xiao, S Fan_
 
 
-_Humans, Carcinoma, Squamous Cell, Pilot Projects, Paraffin Embedding, Tongue Neoplasms, Formaldehyde, DNA, Microbiota, Tongue, Papillomavirus Infections_
-Tongue squamous cell carcinoma (TSCC) is the most common oral cavity cancer, and p16 immunohistochemistry is an exact and available tool in the prognostic and predictive characterization of squamous cell cancers in the head and neck. Microorganisms have a close relationship with the development of TSCC. However, the association between oral bacteria and p16 status has not been well defined in the case of TSCC. Compared with traditional clinical microbial collection methods, formalin-fixed paraffin-embedded (FFPE) tissue samples have several advantages.
+The concerted regulation of placenta microbiota and the immune responses secures the occurrence and development of pregnancy, while few studies reported this correlation. This study aimed to explore the relationship between the placenta microbiota and immune regulation during pregnancy.
 
-[Source](https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-024-04051-w)
+[Source](https://doi.org/10.1186/s12884-024-06353-x)
 
-10.1186/s12903-024-04051-w
-
----
-
-## Inflammation and bacteriophages affect DNA inversion states and functionality of the gut microbiota.
- 29.02.2024, _S Carasso, R Zaatry, H Hajjo, D Kadosh-Kariti, N Ben-Assa, R Naddaf, N Mandelbaum, S Pressman, Y Chowers, T Gefen, KL Jeffrey, J Jofre, MJ Coyne, LE Comstock, I Sharon, N Geva-Zatorsky_
-
-
-Reversible genomic DNA inversions control the expression of numerous gut bacterial molecules, but how this impacts disease remains uncertain. By analyzing metagenomic samples from inflammatory bowel disease (IBD) cohorts, we identified multiple invertible regions where a particular orientation correlated with disease. These include the promoter of polysaccharide A (PSA) of Bacteroides fragilis, which induces regulatory T cells (Tregs) and ameliorates experimental colitis. The PSA promoter was mostly oriented "OFF" in IBD patients, which correlated with increased B. fragilis-associated bacteriophages. Similarly, in mice colonized with a healthy human microbiota and B. fragilis, induction of colitis caused a decline of PSA in the "ON" orientation that reversed as inflammation resolved. Monocolonization of mice with B. fragilis revealed that bacteriophage infection increased the frequency of PSA in the "OFF" orientation, causing reduced PSA expression and decreased Treg cells. Altogether, we reveal dynamic bacterial phase variations driven by bacteriophages and host inflammation, signifying bacterial functional plasticity during disease.
-
-[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(24)00042-8)
-
-10.1016/j.chom.2024.02.003
+10.1186/s12884-024-06353-x
 
 ---
 
-## Integrated multi-omics analysis reveals gut microbiota dysbiosis and systemic disturbance in major depressive disorder.
- 28.02.2024, _Z Xie, J Huang, G Sun, S He, Z Luo, L Zhang, L Li, M Yao, C Du, W Yu, Y Feng, D Yang, J Zhang, C Ge, H Li, M Geng_
+## Effect of gut microbiome modulation on muscle function and cognition: the PROMOTe randomised controlled trial.
+ 02.03.2024, _M Ni Lochlainn, RCE Bowyer, JM Moll, MP García, S Wadge, AF Baleanu, A Nessa, A Sheedy, G Akdag, D Hart, G Raffaele, PT Seed, C Murphy, SDR Harridge, AA Welch, C Greig, K Whelan, CJ Steves_
 
 
-Major depressive disorder (MDD) involves systemic changes in peripheral blood and gut microbiota, but the current understanding is incomplete. Herein, we conducted a multi-omics analysis of fecal and blood samples obtained from an observational cohort including MDD patients (n = 99) and healthy control (HC, n = 50). 16S rRNA sequencing of gut microbiota showed structural alterations in MDD, as characterized by increased Enterococcus. Metagenomics sequencing of gut microbiota showed substantial functional alterations including upregulation in the superpathway of the glyoxylate cycle and fatty acid degradation and downregulation in various metabolic pathways in MDD. Plasma metabolomics revealed decreased amino acids and bile acids, together with increased sphingolipids and cholesterol esters in MDD. Notably, metabolites involved in arginine and proline metabolism were decreased while sphingolipid metabolic pathway were increased. Mass cytometry analysis of blood immune cell subtypes showed rises in proinflammatory immune subsets and declines in anti-inflammatory immune subsets in MDD. Furthermore, our findings revealed disease severity-related factors of MDD. Interestingly, we classified MDD into two immune subtypes that were highly correlated with disease relapse. Moreover, we established discriminative signatures that differentiate MDD from HC. These findings contribute to a comprehensive understanding of the MDD pathogenesis and provide valuable resources for the discovery of biomarkers.
+Studies suggest that inducing gut microbiota changes may alter both muscle physiology and cognitive behaviour. Gut microbiota may play a role in both anabolic resistance of older muscle, and cognition. In this placebo controlled double blinded randomised controlled trial of 36 twin pairs (72 individuals), aged ≥60, each twin pair are block randomised to receive either placebo or prebiotic daily for 12 weeks. Resistance exercise and branched chain amino acid (BCAA) supplementation is prescribed to all participants. Outcomes are physical function and cognition. The trial is carried out remotely using video visits, online questionnaires and cognitive testing, and posting of equipment and biological samples. The prebiotic supplement is well tolerated and results in a changed gut microbiome [e.g., increased relative Bifidobacterium abundance]. There is no significant difference between prebiotic and placebo for the primary outcome of chair rise time (β = 0.579; 95% CI -1.080-2.239 p = 0.494). The prebiotic improves cognition (factor score versus placebo (β = -0.482; 95% CI,-0.813, -0.141; p = 0.014)). Our results demonstrate that cheap and readily available gut microbiome interventions may improve cognition in our ageing population. We illustrate the feasibility of remotely delivered trials for older people, which could reduce under-representation of older people in clinical trials. ClinicalTrials.gov registration: NCT04309292.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0165178124000891)
+[Source](https://doi.org/10.1038/s41467-024-46116-y)
 
-10.1016/j.psychres.2024.115804
-
----
-
-## Long-term beneficial effect of faecal microbiota transplantation on colonisation of multidrug-resistant bacteria and resistome abundance in patients with recurrent Clostridioides difficile infection
-
-[Source](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01306-7)
+10.1038/s41467-024-46116-y
 
 ---
 
-## Bacteroides salyersiae is a potent chondroitin sulfate-degrading species in the human gut microbiota.
- 02.03.2024, _Y Wang, M Ma, W Dai, Q Shang, G Yu_
+## A metagenomic catalog of the early-life human gut virome.
+ 02.03.2024, _S Zeng, A Almeida, S Li, J Ying, H Wang, Y Qu, R Paul Ross, C Stanton, Z Zhou, X Niu, D Mu, S Wang_
 
 
-_Humans, Chondroitin Sulfates, Gastrointestinal Microbiome, Oligosaccharides, Osteoarthritis, Bacteroides_
-Chondroitin sulfate (CS) has widely been used as a symptomatic slow-acting drug or a dietary supplement for the treatment and prevention of osteoarthritis. However, CS could not be absorbed after oral intake due to its polyanionic nature and large molecular weight. Gut microbiota has recently been proposed to play a pivotal role in the metabolism of drugs and nutrients. Nonetheless, how CS is degraded by the human gut microbiota has not been fully characterized. In the present study, we demonstrated that each human gut microbiota was characterized with a unique capability for CS degradation. Degradation and fermentation of CS by the human gut microbiota produced significant amounts of unsaturated CS oligosaccharides (CSOSs) and short-chain fatty acids. To uncover which microbes were responsible for CS degradation, we isolated a total of 586 bacterial strains with a potential CS-degrading capability from 23 human fecal samples. Bacteroides salyersiae was a potent species for CS degradation in the human gut microbiota and produced the highest amount of CSOSs as compared to other well-recognized CS-degraders, including Bacteroides finegoldii, Bacteroides thetaiotaomicron, Bacteroides xylanisolvens, and Bacteroides ovatus. Genomic analysis suggested that B. salyersiae was armed with multiple carbohydrate-active enzymes that could potentially degrade CS into CSOSs. By using a spent medium assay, we further demonstrated that the unsaturated tetrasaccharide (udp4) produced by the primary degrader B. salyersiae could serve as a "public goods" molecule for the growth of Bacteroides stercoris, a secondary CS-degrader that was proficient at fermenting CSOSs but not CS. Taken together, our study provides insights into the metabolism of CS by the human gut microbiota, which has promising implications for the development of medical and nutritional therapies for osteoarthritis. Video Abstract.
+Early-life human gut microbiome is a pivotal driver of gut homeostasis and infant health. However, the viral component (known as "virome") remains mostly unexplored. Here, we establish the Early-Life Gut Virome (ELGV), a catalog of 160,478 non-redundant DNA and RNA viral sequences from 8130 gut virus-like particles (VLPs) enriched or bulk metagenomes in the first three years of life. By clustering, 82,141 viral species are identified, 68.3% of which are absent in existing databases built mainly from adults, and 64 and 8 viral species based on VLPs-enriched and bulk metagenomes, respectively, exhibit potentials as biomarkers to distinguish infants from adults. With the largest longitudinal population of infants profiled by either VLPs-enriched or bulk metagenomic sequencing, we track the inherent instability and temporal development of the early-life human gut virome, and identify differential viruses associated with multiple clinical factors. The mother-infant shared virome and interactions between gut virome and bacteriome early in life are further expanded. Together, the ELGV catalog provides the most comprehensive and complete metagenomic blueprint of the early-life human gut virome, facilitating the discovery of pediatric disease-virome associations in future.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01768-2)
+[Source](https://doi.org/10.1038/s41467-024-45793-z)
 
-10.1186/s40168-024-01768-2
-
----
-
-## Elemental iron protects gut microbiota against oxygen-induced dysbiosis.
- 29.02.2024, _I Ostrov, Y Gong, JB Zuk, PCK Wickramasinghe, I Tmenova, DE Roopchand, L Zhao, I Raskin_
-
-
-_Humans, Gastrointestinal Microbiome, Oxygen, Dysbiosis, Antioxidants, Iron, RNA, Ribosomal, 16S, Bacteria, Lactobacillales_
-Gut dysbiosis induced by oxygen and reactive oxygen species may be related to the development of inflammation, resulting in metabolic syndrome and associated-conditions in the gut. Here we show that elemental iron can serve as an antioxidant and reverse the oxygen-induced dysbiosis. Fecal samples from three healthy donors were fermented with elemental iron and/or oxygen. 16S rRNA analysis revealed that elemental iron reversed the oxygen-induced disruption of Shannon index diversity of the gut microbiota.The bacteria lacking enzymatic antioxidant systems also increased after iron treatment. Inter-individual differences, which corresponded to iron oxidation patterns, were observed for the tested donors. Gut bacteria responding to oxygen and iron treatments were identified as guilds, among which, Escherichia-Shigella was promoted by oxygen and depressed by elemental iron, while changes in bacteria such as Bifidobacterium, Blautia, Eubacterium, Ruminococcaceae, Flavonifractor, Oscillibacter, and Lachnospiraceae were reversed by elemental iron after oxygen treatment. Short-chain fatty acid production was inhibited by oxygen and this effect was partially reversed by elemental iron. These results suggested that elemental iron can regulate the oxygen/ROS state and protect the gut microbiota from oxidative stress.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298592)
-
-10.1371/journal.pone.0298592
+10.1038/s41467-024-45793-z
 
 ---
 
-## Fecal microbiota transplantation ameliorates abdominal obesity through inhibiting microbiota-mediated intestinal barrier damage and inflammation in mice.
- 28.02.2024, _X Zhu, L Zhao, L Lei, Y Zhu, J Xu, L Liu_
+## Exploring the gut DNA virome in fecal immunochemical test stool samples reveals associations with lifestyle in a large population-based study
 
-
-Abdominal obesity (AO), characterized by the excessive abdominal fat accumulation, has emerged as a significant public health concern due to its metabolic complications and escalating prevalence worldwide, posing a more pronounced threat to human health than general obesity. While certain studies have indicated that intestinal flora contributed to diet-induced general obesity, the precise involvement of gut microbiota in the development of AO, specifically the accumulation of abdominal fat, remains inadequately explored. In this study, the 16 S rDNA sequencing was employed to analyze gut flora alterations, and the intestinal microbiota dysbiosis characterized by a vanishing decline of Akkermansia was found in the AO group. Along with notable gut microbiota changes, the intestinal mucosal barrier damage and metabolic inflammation were detected, which collectively promoted metabolic dysregulation in AO. Furthermore, the metabolic inflammation and AO were ameliorated after the intestinal microbiota depletion with antibiotics (ABX) drinking, underscoring a significant involvement of gut microbiota dysbiosis in the progression of AO. More importantly, our findings demonstrated that the transplantation of healthy intestinal flora successfully reversed the gut microbiota dysbiosis, particularly the decline of Akkermansia in the AO group. The gut flora reshaping has led to the repair of gut barrier damage and mitigation of metabolic inflammation, which ultimately ameliorated abdominal fat deposition. Our study established the role of interactions between gut flora, mucus barrier, and metabolic inflammation in the development of AO, thereby offering a theoretical foundation for the clinical application of fecal microbiota transplantation (FMT) as a treatment for AO.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0944501324000557)
-
-10.1016/j.micres.2024.127654
+[Source](https://doi.org/10.1038/s41467-024-46033-0)
 
 ---
 
-## Exploring the modulatory effects of brown seaweed meal and extracts on intestinal microbiota and morphology of broiler chickens challenged with heat stress.
- 28.02.2024, _F Oretomiloye, D Adewole_
+## Bisphenol A exposure affects specific gut taxa and drives microbiota dynamics in childhood obesity.
+ 01.03.2024, _A Lopez-Moreno, K Cerk, L Rodrigo, A Suarez, M Aguilera, A Ruiz-Rodriguez_
 
 
-Brown seaweed (Ascophyllum nodosum) is known for its prebiotic roles and can improve animal intestinal health by enhancing the growth of beneficial microbes and inhibiting pathogenic ones. However, the gut health-modulatory roles of brown seaweed on chickens challenged with heat stress (HS) are rarely studied. The current study examined the effects of brown seaweed meal (SWM) and extract (SWE) on the ceca microbiota and small intestinal morphology of chickens challenged or unchallenged with HS. Three hundred and thirty-six 1-day-old Ross 308 broiler chicks were randomly assigned to either a thermoneutral (TN; 24 ± 1°C); or HS room (HS; 32-34°C, 8 h/d from d 21 to 27). All birds in each room were randomly allotted to 4 treatments - control (CON), CON + 1 mL/L seaweed extract (SWE) in drinking water, CON + 2 mL/L SWE in drinking water, and CON + 2% seaweed meal (SWM) in feed and raised for 28 d. On d 14 and 28, 12 and 24 birds per treatment group, respectively, were euthanized to collect the ceca content for gut microbiota analysis and small intestinal tissues for morphological examination. On d 14, 2% SWM increased (P = 0.047) the relative abundance of cecal Fecalibacterium and all brown seaweed treatments improved jejunal villus height (VH) and VH:CD compared to the CON diet. On d 28, HS significantly reduced (P &lt; 0.05) ileal VH, VW, and VH:CD, and duodenal VH and VH:CD. Among the HS group, 2% SWM and 2 mL/L SWE significantly increased (P &lt; 0.05) the relative abundance of Lactobacillus, Sellimonas, and Fournierella, compared to the CON diet. HS birds fed with 2% SWM had higher ileal VH and VH:CD compared to other treatments. In summary, SWM and SWE enhanced the abundance of beneficial microbes and improved small intestinal morphology among HS chickens. This implies that seaweed could potentially alleviate HS-induced intestinal impairment in chickens.
+Cumulative xenobiotic exposure has an environmental and human health impact which is currently assessed under the One Health approach. Bisphenol A (BPA) exposure and its potential link with childhood obesity that has parallelly increased during the last decades deserve special attention. It stands during prenatal or early life and could trigger comorbidities and non-communicable diseases along life. Accumulation in the nature of synthetic chemicals supports the "environmental obesogen" hypothesis, such as BPA. This estrogen-mimicking xenobiotic has shown endocrine disruptive and obesogenic effects accompanied by gut microbiota misbalance that is not yet well elucidated. This study aimed to investigate specific microbiota taxa isolated and selected by direct BPA exposure and reveal its role on the overall children microbiota community and dynamics, driving toward specific obesity dysbiosis. A total of 333 BPA-resistant isolated species obtained through culturing after several exposure conditions were evaluated for their role and interplay with the global microbial community. The selected BPA-cultured taxa biomarkers showed a significant impact on alpha diversity. Specifically, Clostridium and Romboutsia were positively associated promoting the richness of microbiota communities, while Intestinibacter, Escherichia-Shigella, Bifidobacterium, and Lactobacillus were negatively associated. Microbial community dynamics and networks analyses showed differences according to the study groups. The normal-weight children group exhibited a more enriched, structured, and connected taxa network compared to overweight and obese groups, which could represent a more resilient community to xenobiotic substances. In this sense, subnetwork analysis generated with the BPA-cultured genera showed a correlation between taxa connectivity and more diverse potential enzymatic BPA degradation capacities.IMPORTANCEOur findings indicate how gut microbiota taxa with the capacity to grow in BPA were differentially represented within differential body mass index children study groups and how these taxa affected the overall dynamics toward patterns of diversity generally recognized in dysbiosis. Community network and subnetwork analyses corroborated the better connectedness and stability profiles for normal-weight group compared to the overweight and obese groups.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S003257912400141X)
+[Source](https://doi.org/10.1128/msystems.00957-23)
 
-10.1016/j.psj.2024.103562
-
----
-
-## Synthetic microbe-to-plant communication channels.
- 02.03.2024, _A Boo, T Toth, Q Yu, A Pfotenhauer, BD Fields, SC Lenaghan, CN Stewart, CA Voigt_
-
-
-_Arabidopsis, Microbiota, Crops, Agricultural, Solanum tuberosum, Pseudomonas putida_
-Plants and microbes communicate to collaborate to stop pests, scavenge nutrients, and react to environmental change. Microbiota consisting of thousands of species interact with each other and plants using a large chemical language that is interpreted by complex regulatory networks. In this work, we develop modular interkingdom communication channels, enabling bacteria to convey environmental stimuli to plants. We introduce a "sender device" in Pseudomonas putida and Klebsiella pneumoniae, that produces the small molecule p-coumaroyl-homoserine lactone (pC-HSL) when the output of a sensor or circuit turns on. This molecule triggers a "receiver device" in the plant to activate gene expression. We validate this system in Arabidopsis thaliana and Solanum tuberosum (potato) grown hydroponically and in soil, demonstrating its modularity by swapping bacteria that process different stimuli, including IPTG, aTc and arsenic. Programmable communication channels between bacteria and plants will enable microbial sentinels to transmit information to crops and provide the building blocks for designing artificial consortia.
-
-[Source](https://www.nature.com/articles/s41467-024-45897-6)
-
-10.1038/s41467-024-45897-6
+10.1128/msystems.00957-23
 
 ---
 
-## Time-shifted expression of acetoclastic and methylotrophic methanogenesis by a single Methanosarcina genomospecies predominates the methanogen dynamics in Philippine rice field soil.
- 29.02.2024, _X Li, Q Bei, M Rabiei Nematabad, J Peng, W Liesack_
+## <em>Prevotella</em>, a dominant bacterium in young people with stage Ⅲ periodontitis, related to the arachidonic acid metabolism pathway
 
-
-_Methanosarcina, Soil, Oryza, RNA, Ribosomal, 16S, Philippines, Bacteria, Methane_
-The final step in the anaerobic decomposition of biopolymers is methanogenesis. Rice field soils are a major anthropogenic source of methane, with straw commonly used as a fertilizer in rice farming. Here, we aimed to decipher the structural and functional responses of the methanogenic community to rice straw addition during an extended anoxic incubation (120 days) of Philippine paddy soil. The research combined process measurements, quantitative real-time PCR and RT-PCR of particular biomarkers (16S rRNA, mcrA), and meta-omics (environmental genomics and transcriptomics).
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01739-z)
-
-10.1186/s40168-023-01739-z
+[Source](https://doi.org/10.1016/j.micinf.2024.105316)
 
 ---
 
-## Influence of climatic variation on microbial communities during organic Pinot noir wine production.
- 01.03.2024, _A Ohwofasa, M Dhami, J Zhang, B Tian, C Winefield, SLW On_
+## Dual membrane-spanning anti-sigma factors regulate vesiculation in <em>Bacteroides thetaiotaomicron</em>
+
+[Source](https://doi.org/10.1073/pnas.2321910121)
+
+---
+
+## <em>Blautia coccoides </em>is a Newly Identified Bacterium Increased by Leucine Deprivation and has a Novel Function in Improving Metabolic Disorders
+
+[Source](https://doi.org/10.1002/advs.202309255)
+
+---
+
+## Fecal Microbiota Transplantation in Amyotrophic Lateral Sclerosis: Clinical Protocol and Evaluation of Microbiota Immunity Axis
+
+[Source](https://doi.org/10.1007/978-1-0716-3662-6_27)
+
+---
+
+## Effect of <em>Lactobacillus reuteri</em> NCIMB 30351 drops on symptoms of infantile functional gastrointestinal disorders and gut microbiota in early infants: Results from a randomized, placebo-controlled clinical trial
+
+[Source](https://doi.org/10.1007/s00431-024-05473-y)
+
+---
+
+## Gut microbiota facilitate adaptation of invasive moths to new host plants
+
+[Source](https://doi.org/10.1093/ismejo/wrae031)
+
+---
+
+## A Synthetic Microbiome Based on Dominant Microbes in Wild Rice Rhizosphere to Promote Sulfur Utilization
+
+[Source](https://doi.org/10.1186/s12284-024-00695-y)
+
+---
+
+## Life at the borderlands: microbiomes of interfaces critical to One Health
+
+[Source](https://doi.org/10.1093/femsre/fuae008)
+
+---
+
+## Neural network establishes co-occurrence links between transformation products of the contaminant and the soil microbiome
+
+[Source](https://doi.org/10.1016/j.scitotenv.2024.171287)
+
+---
+
+## Transforming Big Data into AI-ready data for nutrition and obesity research
+
+[Source](https://doi.org/10.1002/oby.23989)
+
+---
+
+## Explainable artificial intelligence for microbiome data analysis in colorectal cancer biomarker identification
+
+[Source](https://doi.org/10.3389/fmicb.2024.1348974)
+
+---
+
+## A metatranscriptomics strategy for efficient characterization of the microbiome in human tissues with low microbial biomass.
+ 01.03.2024, _J Pereira-Marques, RM Ferreira, C Figueiredo_
 
 
-_Wine, Saccharomyces, Bacteria, Microbiota, Fermentation, Vitis_
-To assess the possible impact of climatic variation on microbial community composition in organic winemaking, we employed a metabarcoding approach to scrutinize the microbiome in a commercial, organic, Pinot noir wine production system that utilizes autochthonous fermentation. We assessed microbial composition across two vintages (2018 and 2021) using biological replicates co-located at the same winery. Microbial dynamics were monitored over four important fermentation time points and correlated with contemporaneous climate data. Bacterial (RANOSIM = 0.4743, p = 0.0001) and fungal (RANOSIM = 0.4738, p = 0.0001) compositions were different in both vintages. For bacteria, Lactococcus dominated the diversity associated with the 2018 vintage, while Tatumella dominated the 2021 vintage. For fungal populations, while Saccharomyces were abundant in both vintages, key differences included Starmerella, copious in the 2018 vintage; and Metschnikowia, substantive in the 2021 vintage. Ordination plots correlated the climatic variables with microbial population differences, indicating temperature as a particularly important influence; humidity values also differed significantly between these vintages. Our data illustrates how climatic conditions may influence microbial diversity during winemaking, and further highlights the effect climate change could have on wine production.
+The high background of host RNA poses a major challenge to metatranscriptome analysis of human samples. Hence, metatranscriptomics has been mainly applied to microbe-rich samples, while its application in human tissues with low ratio of microbial to host cells has yet to be explored. Since there is no computational workflow specifically designed for the taxonomic and functional analysis of this type of samples, we propose an effective metatranscriptomics strategy to accurately characterize the microbiome in human tissues with a low ratio of microbial to host content. We experimentally generated synthetic samples with well-characterized bacterial and host cell compositions, and mimicking human samples with high and low microbial loads. These synthetic samples were used for optimizing and establishing the workflow in a controlled setting. Our results show that the integration of the taxonomic analysis of optimized Kraken 2/Bracken with the functional analysis of HUMAnN 3 in samples with low microbial content, enables the accurate identification of a large number of microbial species with a low false-positive rate, while improving the detection of microbial functions. The effectiveness of our metatranscriptomics workflow was demonstrated in synthetic samples, simulated datasets, and most importantly, human gastric tissue specimens, thus providing a proof of concept for its applicability on mucosal tissues of the gastrointestinal tract. The use of an accurate and reliable metatranscriptomics approach for human tissues with low microbial content will expand our understanding of the functional activity of the mucosal microbiome, uncovering critical interactions between the microbiome and the host in health and disease.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296859)
+[Source](https://doi.org/10.1080/19490976.2024.2323235)
 
-10.1371/journal.pone.0296859
+10.1080/19490976.2024.2323235
+
+---
+
+## On the limits of 16S rRNA gene-based metagenome prediction and functional profiling.
+ 01.03.2024, _MS Matchado, M Rühlemann, S Reitmeier, T Kacprowski, F Frost, D Haller, J Baumbach, M List_
+
+
+_Humans, Metagenome, RNA, Ribosomal, 16S, Genes, rRNA, Microbiota, Algorithms_
+Molecular profiling techniques such as metagenomics, metatranscriptomics or metabolomics offer important insights into the functional diversity of the microbiome. In contrast, 16S rRNA gene sequencing, a widespread and cost-effective technique to measure microbial diversity, only allows for indirect estimation of microbial function. To mitigate this, tools such as PICRUSt2, Tax4Fun2, PanFP and MetGEM infer functional profiles from 16S rRNA gene sequencing data using different algorithms. Prior studies have cast doubts on the quality of these predictions, motivating us to systematically evaluate these tools using matched 16S rRNA gene sequencing, metagenomic datasets, and simulated data. Our contribution is threefold: (i) using simulated data, we investigate if technical biases could explain the discordance between inferred and expected results; (ii) considering human cohorts for type two diabetes, colorectal cancer and obesity, we test if health-related differential abundance measures of functional categories are concordant between 16S rRNA gene-inferred and metagenome-derived profiles and; (iii) since 16S rRNA gene copy number is an important confounder in functional profiles inference, we investigate if a customised copy number normalisation with the rrnDB database could improve the results. Our results show that 16S rRNA gene-based functional inference tools generally do not have the necessary sensitivity to delineate health-related functional changes in the microbiome and should thus be used with care. Furthermore, we outline important differences in the individual tools tested and offer recommendations for tool selection.
+
+[Source](https://doi.org/10.1099/mgen.0.001203)
+
+10.1099/mgen.0.001203
 
 ---
 
