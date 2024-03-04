@@ -118,28 +118,15 @@ Cumulative xenobiotic exposure has an environmental and human health impact whic
 
 ---
 
-## A metatranscriptomics strategy for efficient characterization of the microbiome in human tissues with low microbial biomass.
- 01.03.2024, _J Pereira-Marques, RM Ferreira, C Figueiredo_
-
-
-The high background of host RNA poses a major challenge to metatranscriptome analysis of human samples. Hence, metatranscriptomics has been mainly applied to microbe-rich samples, while its application in human tissues with low ratio of microbial to host cells has yet to be explored. Since there is no computational workflow specifically designed for the taxonomic and functional analysis of this type of samples, we propose an effective metatranscriptomics strategy to accurately characterize the microbiome in human tissues with a low ratio of microbial to host content. We experimentally generated synthetic samples with well-characterized bacterial and host cell compositions, and mimicking human samples with high and low microbial loads. These synthetic samples were used for optimizing and establishing the workflow in a controlled setting. Our results show that the integration of the taxonomic analysis of optimized Kraken 2/Bracken with the functional analysis of HUMAnN 3 in samples with low microbial content, enables the accurate identification of a large number of microbial species with a low false-positive rate, while improving the detection of microbial functions. The effectiveness of our metatranscriptomics workflow was demonstrated in synthetic samples, simulated datasets, and most importantly, human gastric tissue specimens, thus providing a proof of concept for its applicability on mucosal tissues of the gastrointestinal tract. The use of an accurate and reliable metatranscriptomics approach for human tissues with low microbial content will expand our understanding of the functional activity of the mucosal microbiome, uncovering critical interactions between the microbiome and the host in health and disease.
+## A metatranscriptomics strategy for efficient characterization of the microbiome in human tissues with low microbial biomass
 
 [Source](https://doi.org/10.1080/19490976.2024.2323235)
 
-10.1080/19490976.2024.2323235
-
 ---
 
-## On the limits of 16S rRNA gene-based metagenome prediction and functional profiling.
- 01.03.2024, _MS Matchado, M Rühlemann, S Reitmeier, T Kacprowski, F Frost, D Haller, J Baumbach, M List_
-
-
-_Humans, Metagenome, RNA, Ribosomal, 16S, Genes, rRNA, Microbiota, Algorithms_
-Molecular profiling techniques such as metagenomics, metatranscriptomics or metabolomics offer important insights into the functional diversity of the microbiome. In contrast, 16S rRNA gene sequencing, a widespread and cost-effective technique to measure microbial diversity, only allows for indirect estimation of microbial function. To mitigate this, tools such as PICRUSt2, Tax4Fun2, PanFP and MetGEM infer functional profiles from 16S rRNA gene sequencing data using different algorithms. Prior studies have cast doubts on the quality of these predictions, motivating us to systematically evaluate these tools using matched 16S rRNA gene sequencing, metagenomic datasets, and simulated data. Our contribution is threefold: (i) using simulated data, we investigate if technical biases could explain the discordance between inferred and expected results; (ii) considering human cohorts for type two diabetes, colorectal cancer and obesity, we test if health-related differential abundance measures of functional categories are concordant between 16S rRNA gene-inferred and metagenome-derived profiles and; (iii) since 16S rRNA gene copy number is an important confounder in functional profiles inference, we investigate if a customised copy number normalisation with the rrnDB database could improve the results. Our results show that 16S rRNA gene-based functional inference tools generally do not have the necessary sensitivity to delineate health-related functional changes in the microbiome and should thus be used with care. Furthermore, we outline important differences in the individual tools tested and offer recommendations for tool selection.
+## On the limits of 16S rRNA gene-based metagenome prediction and functional profiling
 
 [Source](https://doi.org/10.1099/mgen.0.001203)
-
-10.1099/mgen.0.001203
 
 ---
 
