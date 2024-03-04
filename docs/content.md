@@ -1,5 +1,5 @@
 ## The influence of placenta microbiota of normal term pregnant women on immune regulation during pregnancy.
- 02.03.2024, _P Yang, T Lu, X Liang, T Huang, L Wu, Z He, X Xiao, S Fan_
+ 03.03.2024, _P Yang, T Lu, X Liang, T Huang, L Wu, Z He, X Xiao, S Fan_
 
 
 The concerted regulation of placenta microbiota and the immune responses secures the occurrence and development of pregnancy, while few studies reported this correlation. This study aimed to explore the relationship between the placenta microbiota and immune regulation during pregnancy.
@@ -11,7 +11,7 @@ The concerted regulation of placenta microbiota and the immune responses secures
 ---
 
 ## Effect of gut microbiome modulation on muscle function and cognition: the PROMOTe randomised controlled trial.
- 02.03.2024, _M Ni Lochlainn, RCE Bowyer, JM Moll, MP García, S Wadge, AF Baleanu, A Nessa, A Sheedy, G Akdag, D Hart, G Raffaele, PT Seed, C Murphy, SDR Harridge, AA Welch, C Greig, K Whelan, CJ Steves_
+ 03.03.2024, _M Ni Lochlainn, RCE Bowyer, JM Moll, MP García, S Wadge, AF Baleanu, A Nessa, A Sheedy, G Akdag, D Hart, G Raffaele, PT Seed, C Murphy, SDR Harridge, AA Welch, C Greig, K Whelan, CJ Steves_
 
 
 Studies suggest that inducing gut microbiota changes may alter both muscle physiology and cognitive behaviour. Gut microbiota may play a role in both anabolic resistance of older muscle, and cognition. In this placebo controlled double blinded randomised controlled trial of 36 twin pairs (72 individuals), aged ≥60, each twin pair are block randomised to receive either placebo or prebiotic daily for 12 weeks. Resistance exercise and branched chain amino acid (BCAA) supplementation is prescribed to all participants. Outcomes are physical function and cognition. The trial is carried out remotely using video visits, online questionnaires and cognitive testing, and posting of equipment and biological samples. The prebiotic supplement is well tolerated and results in a changed gut microbiome [e.g., increased relative Bifidobacterium abundance]. There is no significant difference between prebiotic and placebo for the primary outcome of chair rise time (β = 0.579; 95% CI -1.080-2.239 p = 0.494). The prebiotic improves cognition (factor score versus placebo (β = -0.482; 95% CI,-0.813, -0.141; p = 0.014)). Our results demonstrate that cheap and readily available gut microbiome interventions may improve cognition in our ageing population. We illustrate the feasibility of remotely delivered trials for older people, which could reduce under-representation of older people in clinical trials. ClinicalTrials.gov registration: NCT04309292.
@@ -23,7 +23,7 @@ Studies suggest that inducing gut microbiota changes may alter both muscle physi
 ---
 
 ## A metagenomic catalog of the early-life human gut virome.
- 02.03.2024, _S Zeng, A Almeida, S Li, J Ying, H Wang, Y Qu, R Paul Ross, C Stanton, Z Zhou, X Niu, D Mu, S Wang_
+ 03.03.2024, _S Zeng, A Almeida, S Li, J Ying, H Wang, Y Qu, R Paul Ross, C Stanton, Z Zhou, X Niu, D Mu, S Wang_
 
 
 Early-life human gut microbiome is a pivotal driver of gut homeostasis and infant health. However, the viral component (known as "virome") remains mostly unexplored. Here, we establish the Early-Life Gut Virome (ELGV), a catalog of 160,478 non-redundant DNA and RNA viral sequences from 8130 gut virus-like particles (VLPs) enriched or bulk metagenomes in the first three years of life. By clustering, 82,141 viral species are identified, 68.3% of which are absent in existing databases built mainly from adults, and 64 and 8 viral species based on VLPs-enriched and bulk metagenomes, respectively, exhibit potentials as biomarkers to distinguish infants from adults. With the largest longitudinal population of infants profiled by either VLPs-enriched or bulk metagenomic sequencing, we track the inherent instability and temporal development of the early-life human gut virome, and identify differential viruses associated with multiple clinical factors. The mother-infant shared virome and interactions between gut virome and bacteriome early in life are further expanded. Together, the ELGV catalog provides the most comprehensive and complete metagenomic blueprint of the early-life human gut virome, facilitating the discovery of pediatric disease-virome associations in future.
