@@ -73,9 +73,16 @@ Cumulative xenobiotic exposure has an environmental and human health impact whic
 
 ---
 
-## Fecal Microbiota Transplantation in Amyotrophic Lateral Sclerosis: Clinical Protocol and Evaluation of Microbiota Immunity Axis
+## Fecal Microbiota Transplantation in Amyotrophic Lateral Sclerosis: Clinical Protocol and Evaluation of Microbiota Immunity Axis.
+ 04.03.2024, _E Niccolai, I Martinelli, G Quaranta, G Nannini, E Zucchi, F De Maio, G Gianferrari, S Bibbò, G Cammarota, J Mandrioli, L Masucci, A Amedei_
+
+
+_Humans, Fecal Microbiota Transplantation, Amyotrophic Lateral Sclerosis, Microbiota, Gastrointestinal Microbiome, Clinical Protocols, Multicenter Studies as Topic, Randomized Controlled Trials as Topic_
+The fecal microbial transplantation (FMT) is a therapeutic transplant of fecal microbiota from healthy donors to patients. This practice is aimed at restoring eubiosis and rebalancing the enteric and systemic immune responses, and then eliminating pathogenic triggers of multiple disease, including neurodegenerative diseases. Alterations of gut microbiota (GM) affect the central nervous system (CNS) health, impacting neuro-immune interactions, synaptic plasticity, myelination, and skeletal muscle function. T-regulatory lymphocytes (Treg) are among the most important players in the pathogenesis of amyotrophic lateral sclerosis (ALS), altering the disease course. Along with circulating neuropeptides, other immune cells, and the gut-brain axis, the GM influences immunological tolerance and controls Treg's number and suppressive functions. A double-blind, controlled, multicenter study on FMT in ALS patients has been designed to evaluate if FMT can modulate neuroinflammation, by restoring Treg number, thus modifying disease activity and progression.
 
 [Source](https://doi.org/10.1007/978-1-0716-3662-6_27)
+
+10.1007/978-1-0716-3662-6_27
 
 ---
 
