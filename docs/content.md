@@ -73,16 +73,9 @@ Cumulative xenobiotic exposure has an environmental and human health impact whic
 
 ---
 
-## Fecal Microbiota Transplantation in Amyotrophic Lateral Sclerosis: Clinical Protocol and Evaluation of Microbiota Immunity Axis.
- 04.03.2024, _E Niccolai, I Martinelli, G Quaranta, G Nannini, E Zucchi, F De Maio, G Gianferrari, S Bibbò, G Cammarota, J Mandrioli, L Masucci, A Amedei_
-
-
-_Humans, Fecal Microbiota Transplantation, Amyotrophic Lateral Sclerosis, Microbiota, Gastrointestinal Microbiome, Clinical Protocols, Multicenter Studies as Topic, Randomized Controlled Trials as Topic_
-The fecal microbial transplantation (FMT) is a therapeutic transplant of fecal microbiota from healthy donors to patients. This practice is aimed at restoring eubiosis and rebalancing the enteric and systemic immune responses, and then eliminating pathogenic triggers of multiple disease, including neurodegenerative diseases. Alterations of gut microbiota (GM) affect the central nervous system (CNS) health, impacting neuro-immune interactions, synaptic plasticity, myelination, and skeletal muscle function. T-regulatory lymphocytes (Treg) are among the most important players in the pathogenesis of amyotrophic lateral sclerosis (ALS), altering the disease course. Along with circulating neuropeptides, other immune cells, and the gut-brain axis, the GM influences immunological tolerance and controls Treg's number and suppressive functions. A double-blind, controlled, multicenter study on FMT in ALS patients has been designed to evaluate if FMT can modulate neuroinflammation, by restoring Treg number, thus modifying disease activity and progression.
+## Fecal Microbiota Transplantation in Amyotrophic Lateral Sclerosis: Clinical Protocol and Evaluation of Microbiota Immunity Axis
 
 [Source](https://doi.org/10.1007/978-1-0716-3662-6_27)
-
-10.1007/978-1-0716-3662-6_27
 
 ---
 
@@ -128,9 +121,15 @@ Microbiomes are foundational components of the environment that provide essentia
 
 ---
 
-## Neural network establishes co-occurrence links between transformation products of the contaminant and the soil microbiome
+## Neural network establishes co-occurrence links between transformation products of the contaminant and the soil microbiome.
+ 29.02.2024, _Y Xiang, Y Yu, J Wang, W Li, Y Rong, H Ling, Z Chen, Y Qian, X Han, J Sun, Y Yang, L Chen, C Zhao, J Li, K Chen_
+
+
+It remains challenging to establish reliable links between transformation products (TPs) of contaminants and corresponding microbes. This challenge arises due to the sophisticated experimental regime required for TP discovery and the compositional nature of 16S rRNA gene amplicon sequencing and mass spectrometry datasets, which can potentially confound statistical inference. In this study, we present a new strategy by combining the use of 2H-labeled Stable Isotope-Assisted Metabolomics (2H-SIAM) with a neural network-based algorithm (i.e., MMvec) to explore links between TPs of pyrene and the soil microbiome. The links established by this novel strategy were further validated using different approaches. Briefly, a metagenomic study provided indirect evidence for the established links, while the identification of pyrene degraders from soils, and a DNA-based stable isotope probing (DNA-SIP) study offered direct evidence. The comparison among different approaches, including Pearson's and Spearman's correlations, further confirmed the superior performance of our strategy. In conclusion, we summarize the unique features of the combined use of 2H-SIAM and MMvec. This study not only addresses the challenges in linking TPs to microbes but also introduces an innovative and effective approach for such investigations. Environmental Implication: Taxonomically diverse bacteria performing successive metabolic steps of the contaminant were firstly depicted in the environmental matrix.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2024.171287)
+
+10.1016/j.scitotenv.2024.171287
 
 ---
 
