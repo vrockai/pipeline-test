@@ -1,5 +1,5 @@
 ## Toward an integrative framework for microbial community coalescence.
- 06.03.2024, _GF Custer, L Bresciani, F Dini-Andreote_
+ 07.03.2024, _GF Custer, L Bresciani, F Dini-Andreote_
 
 
 Community coalescence is defined as the mixing of intact ecological communities. From river confluences to fecal microbiota transplantation, community coalescence constitutes a common ecological occurrence affecting natural and engineered microbial systems. In this opinion article, we propose an integrative framework for microbial community coalescence to guide advances in our understanding of this important - yet underexplored - ecological phenomenon. We start by aligning community coalescence with the unified framework of biological invasion and enumerate commonalities and idiosyncrasies between these two analogous processes. Then, we discuss how organismal interactions and cohesive establishment affect coalescence outcomes with direct implications for community functioning. Last, we propose the use of ecological null modeling to study the interplay of ecological processes structuring community reassembly following coalescence.
@@ -96,7 +96,7 @@ Gut microbes have many beneficial functions for host animals, such as food diges
 ---
 
 ## Fungal infection of insects: molecular insights and prospects.
- 06.03.2024, _S Hong, J Shang, Y Sun, G Tang, C Wang_
+ 07.03.2024, _S Hong, J Shang, Y Sun, G Tang, C Wang_
 
 
 Entomopathogenic fungi (EPF) distribute in different fungal phyla with variable host ranges and play essential role in regulating insect populations by infecting hosts via cuticle penetration. The representative ascomycete EPF of Metarhizium and Beauveria species have been widely used in mechanistic investigations of fungus-insect interactions and as ecofriendly mycoinsecticides. Here, we review the function of diverse genes, pathways, and secondary metabolites associated with EPF stepwise infections. In particular, emerging evidence has shown that EPF have to outcompete insect ectomicrobiotas prior to penetrating cuticles, and subvert or evade host antifungal immunity by using effector-like proteins and chemicals like plant pathogens. Future prospects are discussed for a better understanding of fungal pathobiology, which will provide novel insights into microbe-animal interactions.
