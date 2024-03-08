@@ -1,7 +1,8 @@
 ## Toward an integrative framework for microbial community coalescence.
- 07.03.2024, _GF Custer, L Bresciani, F Dini-Andreote_
+ 08.03.2024, _GF Custer, L Bresciani, F Dini-Andreote_
 
 
+_Microbiota_
 Community coalescence is defined as the mixing of intact ecological communities. From river confluences to fecal microbiota transplantation, community coalescence constitutes a common ecological occurrence affecting natural and engineered microbial systems. In this opinion article, we propose an integrative framework for microbial community coalescence to guide advances in our understanding of this important - yet underexplored - ecological phenomenon. We start by aligning community coalescence with the unified framework of biological invasion and enumerate commonalities and idiosyncrasies between these two analogous processes. Then, we discuss how organismal interactions and cohesive establishment affect coalescence outcomes with direct implications for community functioning. Last, we propose the use of ecological null modeling to study the interplay of ecological processes structuring community reassembly following coalescence.
 
 [Source](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(23)00262-7)
@@ -11,9 +12,10 @@ Community coalescence is defined as the mixing of intact ecological communities.
 ---
 
 ## Studying mixed-species biofilms of Candida albicans and Staphylococcus aureus using evolutionary game theory.
- 06.03.2024, _S Dühring, S Schuster_
+ 08.03.2024, _S Dühring, S Schuster_
 
 
+_Humans, Staphylococcus aureus, Candida albicans, Farnesol, Game Theory, Non-alcoholic Fatty Liver Disease, Biofilms, Staphylococcal Infections_
 Mixed-species biofilms of Candida albicans and Staphylococcus aureus pose a significant clinical challenge due to their resistance to the human immune system and antimicrobial therapy. Using evolutionary game theory and nonlinear dynamics, we analyse the complex interactions between these organisms to understand their coexistence in the human host. We determine the Nash equilibria and evolutionary stable strategies of the game between C. albicans and S. aureus and point out different states of the mixed-species biofilm. Using replicator equations we study the fungal-bacterial interactions on a population level. Our focus is on the influence of available nutrients and the quorum sensing molecule farnesol, including the potential therapeutic use of artificially added farnesol. We also investigate the impact of the suggested scavenging of C. albicans hyphae by S. aureus. Contrary to common assumptions, we confirm the hypothesis that under certain conditions, mixed-species biofilms are not universally beneficial. Instead, different Nash equilibria occur depending on encountered conditions (i.e. varying farnesol levels, either produced by C. albicans or artificially added), including antagonism. We further show that the suggested scavenging of C. albicans' hyphae by S. aureus does not influence the overall outcome of the game. Moreover, artificially added farnesol strongly affects the dynamics of the game, although its use as a medical adjuvant (add-on medication) may pose challenges.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297307)
@@ -35,9 +37,10 @@ Periodontitis is a chronic progressive disease and the leading cause of tooth lo
 ---
 
 ## Unlocking the secrets: exploring the influence of the aryl hydrocarbon receptor and microbiome on cancer development.
- 06.03.2024, _M Rayan, TS Sayed, OJ Hussein, L Therachiyil, ZH Maayah, C Maccalli, S Uddin, JHM Prehn, HM Korashy_
+ 08.03.2024, _M Rayan, TS Sayed, OJ Hussein, L Therachiyil, ZH Maayah, C Maccalli, S Uddin, JHM Prehn, HM Korashy_
 
 
+_Humans, Receptors, Aryl Hydrocarbon, Neoplasms, Microbiota, Carcinogenesis, Environmental Pollutants, Tumor Microenvironment_
 Gut microbiota regulates various aspects of human physiology by producing metabolites, metabolizing enzymes, and toxins. Many studies have linked microbiota with human health and altered microbiome configurations with the occurrence of several diseases, including cancer. Accumulating evidence suggests that the microbiome can influence the initiation and progression of several cancers. Moreover, some microbiotas of the gut and oral cavity have been reported to infect tumors, initiate metastasis, and promote the spread of cancer to distant organs, thereby influencing the clinical outcome of cancer patients. The gut microbiome has recently been reported to interact with environmental factors such as diet and exposure to environmental toxicants. Exposure to environmental pollutants such as polycyclic aromatic hydrocarbons (PAHs) induces a shift in the gut microbiome metabolic pathways, favoring a proinflammatory microenvironment. In addition, other studies have also correlated cancer incidence with exposure to PAHs. PAHs are known to induce organ carcinogenesis through activating a ligand-activated transcriptional factor termed the aryl hydrocarbon receptor (AhR), which metabolizes PAHs to highly reactive carcinogenic intermediates. However, the crosstalk between AhR and the microbiome in mediating carcinogenesis is poorly reviewed. This review aims to discuss the role of exposure to environmental pollutants and activation of AhR on microbiome-associated cancer progression and explore the underlying molecular mechanisms involved in cancer development.
 
 [Source](https://cmbl.biomedcentral.com/articles/10.1186/s11658-024-00538-0)
@@ -47,9 +50,10 @@ Gut microbiota regulates various aspects of human physiology by producing metabo
 ---
 
 ## Short term supplementation with cranberry extract modulates gut microbiota in human and displays a bifidogenic effect.
- 06.03.2024, _J Lessard-Lord, C Roussel, J Lupien-Meilleur, P Généreux, V Richard, V Guay, D Roy, Y Desjardins_
+ 08.03.2024, _J Lessard-Lord, C Roussel, J Lupien-Meilleur, P Généreux, V Richard, V Guay, D Roy, Y Desjardins_
 
 
+_Animals, Humans, Gastrointestinal Microbiome, Vaccinium macrocarpon, Butyrates, Phenols, Plant Extracts, Oligosaccharides, Dietary Supplements_
 Cranberry is associated with multiple health benefits, which are mostly attributed to its high content of (poly)phenols, particularly flavan-3-ols. However, clinical trials attempting to demonstrate these positive effects have yielded heterogeneous results, partly due to the high inter-individual variability associated with gut microbiota interaction with these molecules. In fact, several studies have demonstrated the ability of these molecules to modulate the gut microbiota in animal and in vitro models, but there is a scarcity of information in human subjects. In addition, it has been recently reported that cranberry also contains high concentrations of oligosaccharides, which could contribute to its bioactivity. Hence, the aim of this study was to fully characterize the (poly)phenolic and oligosaccharidic contents of a commercially available cranberry extract and evaluate its capacity to positively modulate the gut microbiota of 28 human subjects. After only four days, the (poly)phenols and oligosaccharides-rich cranberry extract, induced a strong bifidogenic effect, along with an increase in the abundance of several butyrate-producing bacteria, such as Clostridium and Anaerobutyricum. Plasmatic and fecal short-chain fatty acids profiles were also altered by the cranberry extract with a decrease in acetate ratio and an increase in butyrate ratio. Finally, to characterize the inter-individual variability, we stratified the participants according to the alterations observed in the fecal microbiota following supplementation. Interestingly, individuals having a microbiota characterized by the presence of Prevotella benefited from an increase in Faecalibacterium with the cranberry extract supplementation.
 
 [Source](https://www.nature.com/articles/s41522-024-00493-w)
@@ -59,9 +63,10 @@ Cranberry is associated with multiple health benefits, which are mostly attribut
 ---
 
 ## Fecal microbiota impacts development of Cryptosporidium parvum in the mouse.
- 06.03.2024, _G Widmer, HN Creasey_
+ 08.03.2024, _G Widmer, HN Creasey_
 
 
+_Animals, Mice, Cryptosporidium parvum, Cryptosporidium, Cryptosporidiosis, Enterocytes, Microbiota, Oocysts_
 The dependence of Cryptosporidium parasites on host cell metabolites suggests that the development of nutritional interventions to limit parasite proliferation should be feasible. Based on this concept, we are testing dietary interventions to affect the enterocytes' metabolism in a manner that limits intracellular multiplication of the parasite. We hypothesize that changes in the metabolic pathways encoded by the gastro-intestinal tract microbiota may restrict parasite proliferation. To identify taxonomic and metabolic features of the microbiota associated with severity of cryptosporidiosis, as determined by estimating oocyst output, we characterized the fecal microbiota from mice experimentally infected with Cryptosporidium parvum. To eliminate the confounding effect of the interaction between co-housed mice, as well as facilitate the identification of microbiota markers associated with severity of cryptosporidiosis, fecal microbiota from individually caged mice were analyzed. Variation partitioning analysis applied to 16S sequence data from 25 mice belonging to four experiments shows that experiment was by far the biggest source of microbiota variation. Severity of cryptosporidiosis explained a smaller, though significant, fraction of microbiota variation. Notably, this effect was significant in the pre-patent phase of the infection, before mice excreted oocysts. These results are consistent with the pre-patent intestinal microbiota having a modest, but measurable, effect on cryptosporidiosis.
 
 [Source](https://www.nature.com/articles/s41598-024-56184-1)
@@ -83,22 +88,29 @@ The objectives were 1) to characterize a Göttingen Minipig model of metabolic s
 
 ---
 
-## Gustatory Responsiveness of Honey Bees Colonized with a Defined or Conventional Gut Microbiota.
- 06.03.2024, _S Suenami, M Sato, R Miyazaki_
+## Antiobesity effect of healthy food crops and functional foods: A systematic review of their mechanisms.
+ 08.03.2024, _BM Oladimeji, OA Adebo_
 
 
-Gut microbes have many beneficial functions for host animals, such as food digestion and development of the immune system. An increasing number of studies report that gut bacteria also affect host neural function and behavior. The sucrose responsiveness of the western honey bee Apis mellifera, which harbors a characteristic gut microbiota, was recently reported to be increased by the presence of gut microbes. However, this responsiveness may vary depending on the experimental design, as animal behavior may be modulated by physiological states and environmental conditions. To evaluate the robustness of the effects of the gut microbiota on host gustatory responsiveness, we herein examined the sucrose responsiveness of honey bees colonized with a defined bacterial community or a conventional gut microbiota extracted from a field-collected bee. Although colonization was experimentally verified, sucrose responsiveness did not significantly differ among treatments after the 2- or 5-h starvation period. We concluded that the sucrose responsiveness of A. mellifera is not always affected by its gut microbiota. Therefore, host physiological conditions and environmental factors need to be considered when evaluating the impact of the gut microbiota on host neural function and behavior.
+Diet is a modifiable risk factor in the prevention and management of obesity, and various foods have the potential to aid in obesity management by modulating different pathways involved in the disease's pathology. We performed a systematic review of literature, using CINAHL, PubMed, and Google Scholar, focusing on the antiobesity potential of foods crops and functional food products, and their mechanisms of action and clinical evidence. Sixty-four articles were identified, of which 41 investigated food crops, while 23 investigated functional products. Food crops, such as cereals, vegetables, fruits, mushrooms, seaweeds, legumes, herbs, spices, and cocoa seeds, have antiobesity effects through mechanisms such as altering the metabolism of glucolipids by inhibiting enzymes like α-amylase and α-glucosidase, stimulating the bioenergetics of thermogenic fat, modulating gut microbiota, and inhibiting lipogenesis and storage. In addition, developed functional teas, beverages, and yoghurt have antiobesity effects through similar or different mechanisms, such as enhancing energy expenditure and satiety, suppressing adipogenesis and lipolysis, improving glucose and lipid metabolism, and altering hormonal secretion. This review reemphasized the significance of food in the control of obesity, and highlights the distinct methods these explored foods exert their antiobesity effects. In conclusion, foods are safe and effective means of combating obesity without the side effects of conventional drugs, which can help inform dietary choices, assist professionals in providing more accurate advice, and also lead to better understanding of food and its effect on overall health of the public. This approach will eradicate global diseases, especially if more underutilized and indigenous food crops are extensively researched.
 
 [Source](https://www.jstage.jst.go.jp/article/jsme2/39/1/39_ME23081/_article)
 
-10.1264/jsme2.ME23081
+10.1002/fsn3.3856
+
+---
+
+## Gustatory Responsiveness of Honey Bees Colonized with a Defined or Conventional Gut Microbiota
+
+[Source](https://www.jstage.jst.go.jp/article/jsme2/39/1/39_ME23081/_article)
 
 ---
 
 ## Fungal infection of insects: molecular insights and prospects.
- 07.03.2024, _S Hong, J Shang, Y Sun, G Tang, C Wang_
+ 08.03.2024, _S Hong, J Shang, Y Sun, G Tang, C Wang_
 
 
+_Animals, Insecta, Mycoses, Metarhizium, Beauveria, Host Specificity, Fungal Proteins_
 Entomopathogenic fungi (EPF) distribute in different fungal phyla with variable host ranges and play essential role in regulating insect populations by infecting hosts via cuticle penetration. The representative ascomycete EPF of Metarhizium and Beauveria species have been widely used in mechanistic investigations of fungus-insect interactions and as ecofriendly mycoinsecticides. Here, we review the function of diverse genes, pathways, and secondary metabolites associated with EPF stepwise infections. In particular, emerging evidence has shown that EPF have to outcompete insect ectomicrobiotas prior to penetrating cuticles, and subvert or evade host antifungal immunity by using effector-like proteins and chemicals like plant pathogens. Future prospects are discussed for a better understanding of fungal pathobiology, which will provide novel insights into microbe-animal interactions.
 
 [Source](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(23)00266-4)
