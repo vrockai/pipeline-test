@@ -88,15 +88,15 @@ The objectives were 1) to characterize a Göttingen Minipig model of metabolic s
 
 ---
 
-## Antiobesity effect of healthy food crops and functional foods: A systematic review of their mechanisms.
- 08.03.2024, _BM Oladimeji, OA Adebo_
+## Gut microbiome-derived bacterial extracellular vesicles in patients with solid tumours.
+ 08.03.2024, _S Mishra, MV Tejesvi, J Hekkala, J Turunen, N Kandikanti, A Kaisanlahti, M Suokas, S Leppä, P Vihinen, H Kuitunen, K Sunela, J Koivunen, A Jukkola, I Kalashnikov, P Auvinen, OS Kääriäinen, T Peñate Medina, O Peñate Medina, J Saarnio, S Meriläinen, T Rautio, R Aro, R Häivälä, J Suojanen, M Laine, P Erawijattari, L Lahti, P Karihtala, TS Ruuska, J Reunanen_
 
 
-Diet is a modifiable risk factor in the prevention and management of obesity, and various foods have the potential to aid in obesity management by modulating different pathways involved in the disease's pathology. We performed a systematic review of literature, using CINAHL, PubMed, and Google Scholar, focusing on the antiobesity potential of foods crops and functional food products, and their mechanisms of action and clinical evidence. Sixty-four articles were identified, of which 41 investigated food crops, while 23 investigated functional products. Food crops, such as cereals, vegetables, fruits, mushrooms, seaweeds, legumes, herbs, spices, and cocoa seeds, have antiobesity effects through mechanisms such as altering the metabolism of glucolipids by inhibiting enzymes like α-amylase and α-glucosidase, stimulating the bioenergetics of thermogenic fat, modulating gut microbiota, and inhibiting lipogenesis and storage. In addition, developed functional teas, beverages, and yoghurt have antiobesity effects through similar or different mechanisms, such as enhancing energy expenditure and satiety, suppressing adipogenesis and lipolysis, improving glucose and lipid metabolism, and altering hormonal secretion. This review reemphasized the significance of food in the control of obesity, and highlights the distinct methods these explored foods exert their antiobesity effects. In conclusion, foods are safe and effective means of combating obesity without the side effects of conventional drugs, which can help inform dietary choices, assist professionals in providing more accurate advice, and also lead to better understanding of food and its effect on overall health of the public. This approach will eradicate global diseases, especially if more underutilized and indigenous food crops are extensively researched.
+Gut microbiome-derived nanoparticles, known as bacterial extracellular vesicles (bEVs), have garnered interest as promising tools for studying the link between the gut microbiome and human health. The diverse composition of bEVs, including their proteins, mRNAs, metabolites, and lipids, makes them useful for investigating diseases such as cancer. However, conventional approaches for studying gut microbiome composition alone may not be accurate in deciphering host-gut microbiome communication. In clinical microbiome research, there is a gap in the knowledge on the role of bEVs in solid tumor patients.
 
 [Source](https://www.jstage.jst.go.jp/article/jsme2/39/1/39_ME23081/_article)
 
-10.1002/fsn3.3856
+10.1016/j.jare.2024.03.003
 
 ---
 
