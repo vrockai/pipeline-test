@@ -37,7 +37,7 @@ Periodontitis is a chronic progressive disease and the leading cause of tooth lo
 ---
 
 ## Unlocking the secrets: exploring the influence of the aryl hydrocarbon receptor and microbiome on cancer development.
- 08.03.2024, _M Rayan, TS Sayed, OJ Hussein, L Therachiyil, ZH Maayah, C Maccalli, S Uddin, JHM Prehn, HM Korashy_
+ 09.03.2024, _M Rayan, TS Sayed, OJ Hussein, L Therachiyil, ZH Maayah, C Maccalli, S Uddin, JHM Prehn, HM Korashy_
 
 
 _Humans, Receptors, Aryl Hydrocarbon, Neoplasms, Microbiota, Carcinogenesis, Environmental Pollutants, Tumor Microenvironment_
@@ -50,7 +50,7 @@ Gut microbiota regulates various aspects of human physiology by producing metabo
 ---
 
 ## Short term supplementation with cranberry extract modulates gut microbiota in human and displays a bifidogenic effect.
- 08.03.2024, _J Lessard-Lord, C Roussel, J Lupien-Meilleur, P Généreux, V Richard, V Guay, D Roy, Y Desjardins_
+ 09.03.2024, _J Lessard-Lord, C Roussel, J Lupien-Meilleur, P Généreux, V Richard, V Guay, D Roy, Y Desjardins_
 
 
 _Animals, Humans, Gastrointestinal Microbiome, Vaccinium macrocarpon, Butyrates, Phenols, Plant Extracts, Oligosaccharides, Dietary Supplements_
@@ -63,7 +63,7 @@ Cranberry is associated with multiple health benefits, which are mostly attribut
 ---
 
 ## Fecal microbiota impacts development of Cryptosporidium parvum in the mouse.
- 08.03.2024, _G Widmer, HN Creasey_
+ 09.03.2024, _G Widmer, HN Creasey_
 
 
 _Animals, Mice, Cryptosporidium parvum, Cryptosporidium, Cryptosporidiosis, Enterocytes, Microbiota, Oocysts_
