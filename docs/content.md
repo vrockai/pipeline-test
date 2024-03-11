@@ -1,5 +1,5 @@
 ## A cryptic plasmid is among the most numerous genetic elements in the human gut.
- 08.03.2024, _EC Fogarty, MS Schechter, K Lolans, ML Sheahan, I Veseli, RM Moore, E Kiefl, T Moody, PA Rice, MK Yu, M Mimee, EB Chang, HJ Ruscheweyh, S Sunagawa, SL Mclellan, AD Willis, LE Comstock, AM Eren_
+ 11.03.2024, _EC Fogarty, MS Schechter, K Lolans, ML Sheahan, I Veseli, RM Moore, E Kiefl, T Moody, PA Rice, MK Yu, M Mimee, EB Chang, HJ Ruscheweyh, S Sunagawa, SL Mclellan, AD Willis, LE Comstock, AM Eren_
 
 
 _Humans, Bacteria, Bacteroidetes, Feces, Metagenome, Plasmids, Gastrointestinal Tract_
@@ -12,9 +12,10 @@ Plasmids are extrachromosomal genetic elements that often encode fitness-enhanci
 ---
 
 ## Associations between bacterial and fungal communities in the human gut microbiota and their implications for nutritional status and body weigh t.
- 08.03.2024, _R García-Gamboa, O Díaz-Torres, C Senés-Guerrero, MS Gradilla-Hernández, A Moya, V Pérez-Brocal, A Garcia-Gonzalez, M González-Avila_
+ 11.03.2024, _R García-Gamboa, O Díaz-Torres, C Senés-Guerrero, MS Gradilla-Hernández, A Moya, V Pérez-Brocal, A Garcia-Gonzalez, M González-Avila_
 
 
+_Humans, Gastrointestinal Microbiome, Overweight, Nutritional Status, Mycobiome, Bacteria, Obesity, Bacteroidetes, Firmicutes, Saccharomycetales_
 This study examined the interplay between bacterial and fungal communities in the human gut microbiota, impacting on nutritional status and body weight. Cohorts of 10 participants of healthy weight, 10 overweight, and 10 obese individuals, underwent comprehensive analysis, including dietary, anthropometric, and biochemical evaluations. Microbial composition was studied via gene sequencing of 16S and ITS rDNA regions, revealing bacterial (bacteriota) and fungal (mycobiota) profiles. Bacterial diversity exceeded fungal diversity. Statistically significant differences in bacterial communities were found within healthy-weight, overweight, and obese groups. The Bacillota/Bacteroidota ratio (previously known as the Firmicutes/Bacteroidetes ratio) correlated positively with body mass index. The predominant fungal phyla were Ascomycota and Basidiomycota, with the genera Nakaseomyces, Kazachstania, Kluyveromyces, and Hanseniaspora, inversely correlating with weight gain; while Saccharomyces, Debaryomyces, and Pichia correlated positively with body mass index. Overweight and obese individuals who harbored a higher abundance of Akkermansia muciniphila, demonstrated a favorable lipid and glucose profiles in contrast to those with lower abundance. The overweight group had elevated Candida, positively linked to simple carbohydrate consumption. The study underscores the role of microbial taxa in body mass index and metabolic health. An imbalanced gut bacteriota/mycobiota may contribute to obesity/metabolic disorders, highlighting the significance of investigating both communities.
 
 [Source](https://doi.org/10.1038/s41598-024-54782-7)
@@ -24,9 +25,10 @@ This study examined the interplay between bacterial and fungal communities in th
 ---
 
 ## Multicomponent (bio)markers for obesity risk prediction: a scoping review protocol.
- 08.03.2024, _F Vahid, C Dessenne, JA Tur, C Bouzas, Y Devaux, L Malisoux, M Monserrat-Mesquida, A Sureda, MS Desai, JD Turner, E Lamy, M Perez-Jimenez, G Ravn-Haren, R Andersen, S Forberger, R Nagrani, Y Ouzzahra, MF Fontefrancesco, MG Onorati, GG Bonetti, T de-Magistris, T Bohn_
+ 11.03.2024, _F Vahid, C Dessenne, JA Tur, C Bouzas, Y Devaux, L Malisoux, M Monserrat-Mesquida, A Sureda, MS Desai, JD Turner, E Lamy, M Perez-Jimenez, G Ravn-Haren, R Andersen, S Forberger, R Nagrani, Y Ouzzahra, MF Fontefrancesco, MG Onorati, GG Bonetti, T de-Magistris, T Bohn_
 
 
+_Humans, Obesity, Anthropometry, Cognition, Databases, Factual, Biomarkers, Research Design, Systematic Reviews as Topic, Review Literature as Topic_
 Despite international efforts, the number of individuals struggling with obesity is still increasing. An important aspect of obesity prevention relates to identifying individuals at risk at early stage, allowing for timely risk stratification and initiation of countermeasures. However, obesity is complex and multifactorial by nature, and one isolated (bio)marker is unlikely to enable an optimal risk stratification and prognosis for the individual; rather, a combined set is required. Such a multicomponent interpretation would integrate biomarkers from various domains, such as classical markers (eg, anthropometrics, blood lipids), multiomics (eg, genetics, proteomics, metabolomics), lifestyle and behavioural attributes (eg, diet, physical activity, sleep patterns), psychological traits (mental health status such as depression) and additional host factors (eg, gut microbiota diversity), also by means of advanced interpretation tools such as machine learning. In this paper, we will present a protocol that will be employed for a scoping review that attempts to summarise and map the state-of-the-art in the area of multicomponent (bio)markers related to obesity, focusing on the usability and effectiveness of such biomarkers.
 
 [Source](https://doi.org/10.1136/bmjopen-2023-083558)
@@ -48,9 +50,10 @@ Gut microbiome-derived nanoparticles, known as bacterial extracellular vesicles 
 ---
 
 ## Comparative analysis of the vaginal bacteriome and virome in healthy women living in high-altitude and sea-level areas.
- 10.03.2024, _C Li, S Jin, O Lv, G Wang, Y Zhang, S Li, W Zhang, F Long, Z Shen, S Bai, D Zhaxi, F Kong, Q Yan, Z Xiao_
+ 11.03.2024, _C Li, S Jin, O Lv, G Wang, Y Zhang, S Li, W Zhang, F Long, Z Shen, S Bai, D Zhaxi, F Kong, Q Yan, Z Xiao_
 
 
+_Pregnancy, Female, Humans, Virome, Altitude, Vagina, Microbiota, Sexually Transmitted Diseases, Viruses_
 The vaginal microbiota plays an important role in the health of the female reproductive tract and is closely associated with various pregnancy outcomes and sexually transmitted diseases. Plenty of internal and external factors have strong influence on the changes in a woman's vaginal microbiome. However, the effect of a high-altitude on female vaginal microbiota has not been described. In this study, we characterized the vaginal bacteriome and virome of 13 and 34 healthy women living in high-altitude and sea-level areas, using whole-metagenome shotgun sequencing of their vaginal mucus samples. The results revealed that the vaginal bacteriomes of high-altitude individuals are featured by a significant increase of species diversity, depletion of Lactobacillus crispatus, and more abundant of some anaerobic bacteria, such as Chlamydia trachomatis, Mageeibacillus indolicus, Dialister micraerophilus, and Sneathia amnii). In addition, the vagina samples of sea-level subjects harbor more Lactobacillus strains, whereas the anaerobic bacteroidetes strains mostly appeared in high-altitude subjects. Identified and assembled 191 virus operational taxonomic units (vOTUs), there were significant differences in the abundance of 107 vOTUs between the two groups. Together, the results of this study raised the understanding of bacteriome and virome in the vagina of women at different elevations, and demonstrated that the vaginal microbiome is related to the high-altitude geographic adaptation.
 
 [Source](https://doi.org/10.1186/s40001-023-01391-1)
@@ -60,9 +63,10 @@ The vaginal microbiota plays an important role in the health of the female repro
 ---
 
 ## Cas9-assisted biological containment of a genetically engineered human commensal bacterium and genetic elements.
- 10.03.2024, _N Hayashi, Y Lai, J Fuerte-Stone, M Mimee, TK Lu_
+ 11.03.2024, _N Hayashi, Y Lai, J Fuerte-Stone, M Mimee, TK Lu_
 
 
+_Humans, CRISPR-Cas Systems, Containment of Biohazards, Genetic Engineering, Bacteria, Thymidine_
 Sophisticated gene circuits built by synthetic biology can enable bacteria to sense their environment and respond predictably. Engineered biosensing bacteria outfitted with such circuits can potentially probe the human gut microbiome to prevent, diagnose, or treat disease. To provide robust biocontainment for engineered bacteria, we devised a Cas9-assisted auxotrophic biocontainment system combining thymidine auxotrophy, an Engineered Riboregulator (ER) for controlled gene expression, and a CRISPR Device (CD). The CD prevents the engineered bacteria from acquiring thyA via horizontal gene transfer, which would disrupt the biocontainment system, and inhibits the spread of genetic elements by killing bacteria harboring the gene cassette. This system tunably controlled gene expression in the human gut commensal bacterium Bacteroides thetaiotaomicron, prevented escape from thymidine auxotrophy, and blocked transgene dissemination. These capabilities were validated in vitro and in vivo. This biocontainment system exemplifies a powerful strategy for bringing genetically engineered microorganisms safely into biomedicine.
 
 [Source](https://doi.org/10.1038/s41467-024-45893-w)
@@ -85,9 +89,10 @@ Gut microbiota regulates various aspects of human physiology by producing metabo
 ---
 
 ## Multi-omics and gut microbiome: Unveiling the pathogenic mechanisms of early-life pesticide exposure.
- 08.03.2024, _Y Yue, X Sun, S Tian, S Yan, W Sun, J Miao, S Huang, J Diao, Z Zhou, W Zhu_
+ 11.03.2024, _Y Yue, X Sun, S Tian, S Yan, W Sun, J Miao, S Huang, J Diao, Z Zhou, W Zhu_
 
 
+_Child, Humans, Animals, Rats, Mice, Pesticides, Gastrointestinal Microbiome, Multiomics, Zebrafish, Insecticides_
 The extensive application of pesticides in agricultural production has raised significant concerns about its impact on human health. Different pesticides, including fungicides, insecticides, and herbicides, cause environmental pollution and health problems for non-target organisms. Infants and young children are so vulnerable to the harmful effects of pesticide exposure that early-life exposure to pesticides deserves focused attention. Recent research lays emphasis on understanding the mechanism between negative health impacts and early-life exposure to various pesticides. Studies have explored the impacts of exposure to these pesticides on model organisms (zebrafish, rats, and mice), as well as the mechanism of negative health effects, based on advanced methodologies like gut microbiota and multi-omics. These methodologies help comprehend the pathogenic mechanisms associated with early-life pesticide exposure. In addition to presenting health problems stemming from early-life exposure to pesticides and their pathogenic mechanisms, this review proposes expectations for future research. These proposals include focusing on identifying biomarkers that indicate early-life pesticide exposure, investigating transgenerational effects, and seeking effective treatments for diseases arising from such exposure. This review emphasizes how to understand the pathogenic mechanisms of early-life pesticide exposure through gut microbiota and multi-omics, as well as the adverse health effects of such exposure.
 
 [Source](https://doi.org/10.1016/j.pestbp.2024.105770)
@@ -97,9 +102,10 @@ The extensive application of pesticides in agricultural production has raised si
 ---
 
 ## Identification of microbial pathogens in Neolithic Scandinavian humans.
- 10.03.2024, _N Bergfeldt, E Kırdök, N Oskolkov, C Mirabello, P Unneberg, H Malmström, M Fraser, F Sanchez-Quinto, R Jorgensen, B Skar, K Lidén, M Jakobsson, J Storå, A Götherström_
+ 11.03.2024, _N Bergfeldt, E Kırdök, N Oskolkov, C Mirabello, P Unneberg, H Malmström, M Fraser, F Sanchez-Quinto, R Jorgensen, B Skar, K Lidén, M Jakobsson, J Storå, A Götherström_
 
 
+_Humans, DNA, Mitochondrial, Agriculture, Farms, Farmers, White People, Europe_
 With the Neolithic transition, human lifestyle shifted from hunting and gathering to farming. This change altered subsistence patterns, cultural expression, and population structures as shown by the archaeological/zooarchaeological record, as well as by stable isotope and ancient DNA data. Here, we used metagenomic data to analyse if the transitions also impacted the microbiome composition in 25 Mesolithic and Neolithic hunter-gatherers and 13 Neolithic farmers from several Scandinavian Stone Age cultural contexts. Salmonella enterica, a bacterium that may have been the cause of death for the infected individuals, was found in two Neolithic samples from Battle Axe culture contexts. Several species of the bacterial genus Yersinia were found in Neolithic individuals from Funnel Beaker culture contexts as well as from later Neolithic context. Transmission of e.g. Y. enterocolitica may have been facilitated by the denser populations in agricultural contexts.
 
 [Source](https://doi.org/10.1038/s41598-024-56096-0)
@@ -133,9 +139,10 @@ Microbiome studies increasingly associate geographical features like rurality an
 ---
 
 ## Successful topical treatment of human biofilms using multiple antibiotic elution from a collagen-rich hydrogel.
- 10.03.2024, _AD Sharma, EH Jarman, K Kuppalli, MJ Murphy, MT Longaker, G Gurtner, PM Fox_
+ 11.03.2024, _AD Sharma, EH Jarman, K Kuppalli, MJ Murphy, MT Longaker, G Gurtner, PM Fox_
 
 
+_Animals, Humans, Anti-Bacterial Agents, Hydrogels, Wound Healing, Collagen, Diabetic Foot, Biofilms, Mammals_
 Chronic non-healing wounds significantly strain modern healthcare systems, affecting 1-2% of the population in developed countries with costs ranging between $28.1 and $96.8 billion annually. Additionally, it has been established that chronic wounds resulting from comorbidities, such as peripheral vascular disease and diabetes mellitus, tend to be polymicrobial in nature. Treatment of polymicrobial chronic wounds with oral and IV antibiotics can result in antimicrobial resistance, leading to more difficult-to-treat wounds. Ideally, chronic ulcers would be topically treated with antibiotic combinations tailored to the microbiome of a patient's wound. We have previously shown that a topical collagen-rich hydrogel (cHG) can elute single antibiotics to inhibit bacterial growth in a manner that is nontoxic to mammalian cells. Here, we analyzed the microbiology of cultures taken from human patients diagnosed with diabetes mellitus suffering from chronic wounds present for more than 6 weeks. Additionally, we examined the safety of the elution of multiple antibiotics from collagen-rich hydrogel in mammalian cells in vivo. Finally, we aimed to create tailored combinations of antibiotics impregnated into cHG to successfully target and treat infections and eradicate biofilms cultured from human chronic diabetic wound tissue. We found that the majority of human chronic wounds in our study were polymicrobial in nature. The elution of multiple antibiotics from cHG was well-tolerated in mammalian cells, making it a potential topical treatment of the polymicrobial chronic wound. Finally, combinations of antibiotics tailored to each patient's microbiome eluted from a collagen-rich hydrogel successfully treated bacterial cultures isolated from patient samples via an in vitro assay.
 
 [Source](https://doi.org/10.1038/s41598-024-54477-z)
@@ -145,9 +152,10 @@ Chronic non-healing wounds significantly strain modern healthcare systems, affec
 ---
 
 ## The astounding exhaustiveness and speed of the Astral mass analyzer for highly complex samples is a quantum leap in the functional analysis of microbiomes.
- 10.03.2024, _T Dumas, R Martinez Pinna, C Lozano, S Radau, O Pible, L Grenga, J Armengaud_
+ 11.03.2024, _T Dumas, R Martinez Pinna, C Lozano, S Radau, O Pible, L Grenga, J Armengaud_
 
 
+_Humans, Tandem Mass Spectrometry, Proteomics, Peptides, Microbiota, Databases, Protein_
 By analyzing the proteins which are the workhorses of biological systems, metaproteomics allows us to list the taxa present in any microbiota, monitor their relative biomass, and characterize the functioning of complex biological systems.
 
 [Source](https://doi.org/10.1186/s40168-024-01766-4)
