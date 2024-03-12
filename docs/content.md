@@ -12,7 +12,7 @@ Plasmids are extrachromosomal genetic elements that often encode fitness-enhanci
 ---
 
 ## Associations between bacterial and fungal communities in the human gut microbiota and their implications for nutritional status and body weigh t.
- 11.03.2024, _R García-Gamboa, O Díaz-Torres, C Senés-Guerrero, MS Gradilla-Hernández, A Moya, V Pérez-Brocal, A Garcia-Gonzalez, M González-Avila_
+ 12.03.2024, _R García-Gamboa, O Díaz-Torres, C Senés-Guerrero, MS Gradilla-Hernández, A Moya, V Pérez-Brocal, A Garcia-Gonzalez, M González-Avila_
 
 
 _Humans, Gastrointestinal Microbiome, Overweight, Nutritional Status, Mycobiome, Bacteria, Obesity, Bacteroidetes, Firmicutes, Saccharomycetales_
