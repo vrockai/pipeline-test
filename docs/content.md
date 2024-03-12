@@ -105,7 +105,7 @@ The extensive application of pesticides in agricultural production has raised si
  11.03.2024, _N Bergfeldt, E Kırdök, N Oskolkov, C Mirabello, P Unneberg, H Malmström, M Fraser, F Sanchez-Quinto, R Jorgensen, B Skar, K Lidén, M Jakobsson, J Storå, A Götherström_
 
 
-_Humans, DNA, Mitochondrial, Agriculture, Farms, Farmers, White People, Europe_
+_Humans, Agriculture, DNA, Mitochondrial, Europe, History, Ancient, Yersinia, Microbiota_
 With the Neolithic transition, human lifestyle shifted from hunting and gathering to farming. This change altered subsistence patterns, cultural expression, and population structures as shown by the archaeological/zooarchaeological record, as well as by stable isotope and ancient DNA data. Here, we used metagenomic data to analyse if the transitions also impacted the microbiome composition in 25 Mesolithic and Neolithic hunter-gatherers and 13 Neolithic farmers from several Scandinavian Stone Age cultural contexts. Salmonella enterica, a bacterium that may have been the cause of death for the infected individuals, was found in two Neolithic samples from Battle Axe culture contexts. Several species of the bacterial genus Yersinia were found in Neolithic individuals from Funnel Beaker culture contexts as well as from later Neolithic context. Transmission of e.g. Y. enterocolitica may have been facilitated by the denser populations in agricultural contexts.
 
 [Source](https://doi.org/10.1038/s41598-024-56096-0)
