@@ -38,7 +38,7 @@ Despite international efforts, the number of individuals struggling with obesity
 ---
 
 ## Gut microbiome-derived bacterial extracellular vesicles in patients with solid tumours.
- 08.03.2024, _S Mishra, MV Tejesvi, J Hekkala, J Turunen, N Kandikanti, A Kaisanlahti, M Suokas, S Leppä, P Vihinen, H Kuitunen, K Sunela, J Koivunen, A Jukkola, I Kalashnikov, P Auvinen, OS Kääriäinen, T Peñate Medina, O Peñate Medina, J Saarnio, S Meriläinen, T Rautio, R Aro, R Häivälä, J Suojanen, M Laine, P Erawijattari, L Lahti, P Karihtala, TS Ruuska, J Reunanen_
+ 12.03.2024, _S Mishra, MV Tejesvi, J Hekkala, J Turunen, N Kandikanti, A Kaisanlahti, M Suokas, S Leppä, P Vihinen, H Kuitunen, K Sunela, J Koivunen, A Jukkola, I Kalashnikov, P Auvinen, OS Kääriäinen, T Peñate Medina, O Peñate Medina, J Saarnio, S Meriläinen, T Rautio, R Aro, R Häivälä, J Suojanen, M Laine, PP Erawijattari, L Lahti, P Karihtala, TS Ruuska, J Reunanen_
 
 
 Gut microbiome-derived nanoparticles, known as bacterial extracellular vesicles (bEVs), have garnered interest as promising tools for studying the link between the gut microbiome and human health. The diverse composition of bEVs, including their proteins, mRNAs, metabolites, and lipids, makes them useful for investigating diseases such as cancer. However, conventional approaches for studying gut microbiome composition alone may not be accurate in deciphering host-gut microbiome communication. In clinical microbiome research, there is a gap in the knowledge on the role of bEVs in solid tumor patients.
