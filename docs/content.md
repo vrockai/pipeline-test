@@ -139,9 +139,15 @@ The root-associated microbiota has a close relation to the life activities of pl
 
 ---
 
-## Sugar transporters spatially organize microbiota colonization along the longitudinal root axis of Arabidopsis
+## Sugar transporters spatially organize microbiota colonization along the longitudinal root axis of Arabidopsis.
+ 13.03.2024, _EP Loo, P Durán, TY Pang, P Westhoff, C Deng, C Durán, M Lercher, R Garrido-Oter, WB Frommer_
+
+
+Plant roots are functionally heterogeneous in cellular architecture, transcriptome profile, metabolic state, and microbial immunity. We hypothesized that axial differentiation may also impact spatial colonization by root microbiota along the root axis. We developed two growth systems, ArtSoil and CD-Rhizotron, to grow and then dissect Arabidopsis thaliana roots into three segments. We demonstrate that distinct endospheric and rhizosphere bacterial communities colonize the segments, supporting the hypothesis of microbiota differentiation along the axis. Root metabolite profiling of each segment reveals differential metabolite enrichment and specificity. Bioinformatic analyses and GUS histochemistry indicate microbe-induced accumulation of SWEET2, 4, and 12 sugar uniporters. Profiling of root segments from sweet mutants shows altered spatial metabolic profiles and reorganization of endospheric root microbiota. This work reveals the interdependency between root metabolites and microbial colonization and the contribution of SWEETs to spatial diversity and stability of microbial ecosystem.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(24)00057-X)
+
+10.1016/j.chom.2024.02.014
 
 ---
 
@@ -151,21 +157,41 @@ The root-associated microbiota has a close relation to the life activities of pl
 
 ---
 
-## The astounding exhaustiveness and speed of the Astral mass analyzer for highly complex samples is a quantum leap in the functional analysis of microbiomes 
+## The astounding exhaustiveness and speed of the Astral mass analyzer for highly complex samples is a quantum leap in the functional analysis of microbiomes.
+ 11.03.2024, _T Dumas, R Martinez Pinna, C Lozano, S Radau, O Pible, L Grenga, J Armengaud_
+
+
+_Humans, Tandem Mass Spectrometry, Proteomics, Peptides, Microbiota, Databases, Protein_
+By analyzing the proteins which are the workhorses of biological systems, metaproteomics allows us to list the taxa present in any microbiota, monitor their relative biomass, and characterize the functioning of complex biological systems.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01766-4)
 
+10.1186/s40168-024-01766-4
+
 ---
 
-## Proportion-based normalizations outperform compositional data transformations in machine learning applications
+## Proportion-based normalizations outperform compositional data transformations in machine learning applications.
+ 07.03.2024, _A Yerke, D Fry Brumit, AA Fodor_
+
+
+_Algorithms, Machine Learning, Microbiota_
+Normalization, as a pre-processing step, can significantly affect the resolution of machine learning analysis for microbiome studies. There are countless options for normalization scheme selection. In this study, we examined compositionally aware algorithms including the additive log ratio (alr), the centered log ratio (clr), and a recent evolution of the isometric log ratio (ilr) in the form of balance trees made with the PhILR R package. We also looked at compositionally naïve transformations such as raw counts tables and several transformations that are based on relative abundance, such as proportions, the Hellinger transformation, and a transformation based on the logarithm of proportions (which we call "lognorm").
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01747-z)
 
+10.1186/s40168-023-01747-z
+
 ---
 
-## A method to correct for local alterations in DNA copy number that bias functional genomics assays applied to antibiotic-treated bacteria
+## A method to correct for local alterations in DNA copy number that bias functional genomics assays applied to antibiotic-treated bacteria.
+ 12.03.2024, _GJ Sullivan, L Barquist, AK Cain_
+
+
+Functional genomics techniques, such as transposon insertion sequencing and RNA-sequencing, are key to studying relative differences in bacterial mutant fitness or gene expression under selective conditions. However, certain stress conditions, mutations, or antibiotics can directly interfere with DNA synthesis, resulting in systematic changes in local DNA copy numbers along the chromosome. This can lead to artifacts in sequencing-based functional genomics data when comparing antibiotic treatment to an unstressed control. Further, relative differences in gene-wise read counts may result from alterations in chromosomal replication dynamics, rather than selection or direct gene regulation. We term this artifact "chromosomal location bias" and implement a principled statistical approach to correct it by calculating local normalization factors along the chromosome. These normalization factors are then directly incorporated into statistical analyses using standard RNA-sequencing analysis methods without modifying the read counts themselves, preserving important information about the mean-variance relationship in the data. We illustrate the utility of this approach by generating and analyzing a ciprofloxacin-treated transposon insertion sequencing data set in Escherichia coli as a case study. We show that ciprofloxacin treatment generates chromosomal location bias in the resulting data, and we further demonstrate that failing to correct for this bias leads to false predictions of mutant drug sensitivity as measured by minimum inhibitory concentrations. We have developed an R package and user-friendly graphical Shiny application, ChromoCorrect, that detects and corrects for chromosomal bias in read count data, enabling the application of functional genomics technologies to the study of antibiotic stress.IMPORTANCEAltered gene dosage due to changes in DNA replication has been observed under a variety of stresses with a variety of experimental techniques. However, the implications of changes in gene dosage for sequencing-based functional genomics assays are rarely considered. We present a statistically principled approach to correcting for the effect of changes in gene dosage, enabling testing for differences in the fitness effects or regulation of individual genes in the presence of confounding differences in DNA copy number. We show that failing to correct for these effects can lead to incorrect predictions of resistance phenotype when applying functional genomics assays to investigate antibiotic stress, and we provide a user-friendly application to detect and correct for changes in DNA copy number.
 
 [Source](https://journals.asm.org/doi/10.1128/msystems.00665-23)
+
+10.1128/msystems.00665-23
 
 ---
 
