@@ -1,203 +1,177 @@
-## Gut microbiota-tryptophan metabolism-GLP-1 axis participates in β-cell regeneration induced by dapagliflozin.
- 12.03.2024, _Y Jiang, J Yang, L Xia, T Wei, X Cui, D Wang, Z Jin, X Lin, F Li, K Yang, S Lang, Y Liu, J Hang, Z Zhang, T Hong, R Wei_
+## Stratification of <em>Fusobacterium nucleatum</em> by local health status in the oral cavity defines its subspecies disease association
 
-
-Sodium-glucose co-transporter 2 (SGLT2) inhibitor, an efficacious anti-diabetic agent, which has cardiovascular and renal benefits, can promote pancreatic β-cell regeneration in type 2 diabetic mice. However, the underlying mechanism remains unclear. In this study, we aimed to use multi-omics to identify the mediators involved in β-cell regeneration induced by dapagliflozin. We showed that dapagliflozin lowered blood glucose level, upregulated plasma insulin level, and increased islet area in db/db mice. Dapagliflozin reshaped gut microbiota, and modulated microbiotic and plasmatic metabolites related to tryptophan metabolism, especially L-tryptophan, in the diabetic mice. Notably, L-tryptophan upregulated the mRNA level of GLP-1 production-related genes (Gcg and Pcsk1) expression and promoted GLP-1 secretion in cultured mouse intestinal L-cells, and it increased supernatant insulin level in primary human islets, which was eliminated by GPR142 antagonist. Transplantation of fecal microbiota from dapagliflozin-treated mice, supplementation of L-tryptophan or treatment with dapagliflozin upregulated L-tryptophan, GLP-1, and insulin or C-peptide level, and promoted β-cell regeneration in db/db mice. Addition of exendin 9-39, a GLP-1 receptor (GLP-1R) antagonist, or pancreatic Glp1r knockout diminished these beneficial effects. In summary, treatment with dapagliflozin in type 2 diabetic mice promotes β-cell regeneration by upregulating GLP-1 production, which is mediated via gut microbiota and tryptophan metabolism.
-
-[Source](https://diabetesjournals.org/diabetes/article/doi/10.2337/db23-0553/154326/Gut-microbiota-tryptophan-metabolism-GLP-1-axis)
-
-10.2337/db23-0553
+[Source](https://doi.org/10.1016/j.chom.2024.02.010)
 
 ---
 
-## Inhibition of inosine metabolism of the gut microbiota decreases testosterone secretion in the testis.
- 12.03.2024, _L Tang, X Yang, M Zhou, L Feng, C Ji, J Liang, B Zhang, R Shen, L Wang_
+## Bile acids modified by the intestinal microbiota promote colorectal cancer growth by suppressing CD8(+) T&nbsp;cell effector functions
 
-
-Growing evidence indicates that gut microbiota is involved in the regulation of the host's sex hormone levels, such as through interfering with the sex hormone metabolism in the intestine. However, if gut microbiota or its metabolites directly influence the sex hormone biosynthesis in the gonad remains largely unknown. Our previous study showed that colistin, as a narrow-spectrum antibiotic, can significantly downregulate the serum testosterone levels and thus enhance the antitumor efficiency of anti-PD-L1 in male mice; however, the underlying mechanism for the regulation of the host's testosterone levels remains uninvestigated. In the present study, we analyzed the impact of colistin on the immune microenvironment of the testis as well as the composition and metabolism of gut microbiota in male mice. Our results showed that colistin has an impact on the immune microenvironment of the testis and can downregulate serum testosterone levels in male mice through inhibition of Akkermansia, leading to destroyed inosine metabolism. Supplement with inosine can restore testosterone secretion probably by prompting the recovery of the intestinal mucus barrier and the serum lipopolysaccharides levels. All these findings reveal a new pathway for the regulation of the host's sex hormone levels by gut microbiota.IMPORTANCEThis study demonstrates that exposure to even narrow-spectrum antibiotics may affect the host's testosterone levels by altering the gut microbiota and its metabolites. Our findings provide evidence that some specific gut bacteria have an impact on the sex hormone biosynthesis in the testis.
-
-[Source](https://journals.asm.org/doi/10.1128/msystems.00138-24)
-
-10.1128/msystems.00138-24
+[Source](https://www.cell.com/immunity/abstract/S1074-7613(24)00090-6)
 
 ---
 
-## Exploring the gut microbiota and its potential as a biomarker in gliomas.
- 12.03.2024, _D Aljarrah, N Chalour, A Zorgani, T Nissan, MZI Pranjol_
+## Longitudinal profiling of the microbiome at four body sites reveals core stability and individualized dynamics during health and disease.
+ 13.03.2024, _X Zhou, X Shen, JS Johnson, DJ Spakowicz, M Agnello, W Zhou, M Avina, A Honkala, F Chleilat, SJ Chen, K Cha, S Leopold, C Zhu, L Chen, L Lyu, D Hornburg, S Wu, X Zhang, C Jiang, L Jiang, L Jiang, R Jian, AW Brooks, M Wang, K Contrepois, P Gao, SMS Rose, TDB Tran, H Nguyen, A Celli, BY Hong, EJ Bautista, Y Dorsett, PB Kavathas, Y Zhou, E Sodergren, GM Weinstock, MP Snyder_
 
 
-Gut microbiome alterations are associated with various cancers including brain tumours such as glioma and glioblastoma. The gut communicates with the brain via a bidirectional pathway known as the gut-brain axis (GBA) which is essential for maintaining homeostasis. The gut microbiota produces many metabolites including short chain fatty acids (SCFAs) and essential amino acids such as glutamate, glutamine, arginine and tryptophan. Through the modulation of these metabolites the gut microbiome is able to regulate several functions of brain cells, immune cells and tumour cells including DNA methylation, mitochondrial function, the aryl hydrocarbon receptor (AhR), T-cell proliferation, autophagy and even apoptosis. Here, we summarise current findings on gut microbiome with respect to brain cancers, an area of research that is widely overlooked. Several studies investigated the relationship between gut microbiota and brain tumours. However, it remains unclear whether the gut microbiome variation is a cause or product of cancer. Subsequently, a biomarker panel was constructed for use as a predictive, prognostic and diagnostic tool with respect to multiple cancers including glioma and glioblastoma multiforme (GBM). This review further presents the intratumoural microbiome, a fascinating microenvironment within the tumour as a possible treatment target that can be manipulated to maximise effectiveness of treatment via personalised therapy. Studies utilising the microbiome as a biomarker and therapeutic strategy are necessary to accurately assess the effectiveness of the gut microbiome as a clinical tool with respect to brain cancers.
+To understand the dynamic interplay between the human microbiome and host during health and disease, we analyzed the microbial composition, temporal dynamics, and associations with host multi-omics, immune, and clinical markers of microbiomes from four body sites in 86 participants over 6 years. We found that microbiome stability and individuality are body-site specific and heavily influenced by the host. The stool and oral microbiome are more stable than the skin and nasal microbiomes, possibly due to their interaction with the host and environment. We identify individual-specific and commonly shared bacterial taxa, with individualized taxa showing greater stability. Interestingly, microbiome dynamics correlate across body sites, suggesting systemic dynamics influenced by host-microbial-environment interactions. Notably, insulin-resistant individuals show altered microbial stability and associations among microbiome, molecular markers, and clinical features, suggesting their disrupted interaction in metabolic disease. Our study offers comprehensive views of multi-site microbial dynamics and their relationship with host health and disease.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0753332224003044)
+[Source](https://doi.org/10.1016/j.chom.2024.02.012)
 
-10.1016/j.biopha.2024.116420
-
----
-
-## Comparative prebiotic potential of galacto- and fructo-oligosaccharides, native inulin and acacia gum in Kenyan infant gut microbiota during iron supplementation
-
-[Source](https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycae033/7625512)
+10.1016/j.chom.2024.02.012
 
 ---
 
-## A bacterial sialidase mediates early-life colonization by a pioneering gut commensal.
- 10.03.2024, _E Buzun, CY Hsu, K Sejane, RE Oles, A Vasquez Ayala, LR Loomis, J Zhao, LA Rossitto, DM McGrosso, DJ Gonzalez, L Bode, H Chu_
+## Body mass index can mediate the interplay between gut microbiome and sleep disorders.
+ 13.03.2024, _L Adami, M Moysés-Oliveira, J Monteiro, S Tufik, ML Andersen_
 
 
-_Humans, Neuraminidase, Ecosystem, Bacteroides fragilis, Intestinal Mucosa, Polysaccharides_
-The early microbial colonization of the gastrointestinal tract can have long-term impacts on development and health. Keystone species, including Bacteroides spp., are prominent in early life and play crucial roles in maintaining the structure of the intestinal ecosystem. However, the process by which a resilient community is curated during early life remains inadequately understood. Here, we show that a single sialidase, NanH, in Bacteroides fragilis mediates stable occupancy of the intestinal mucosa in early life and regulates a commensal colonization program. This program is triggered by sialylated glycans, including those found in human milk oligosaccharides and intestinal mucus. NanH is required for vertical transmission from dams to pups and promotes B. fragilis dominance during early life. Furthermore, NanH facilitates commensal resilience and recovery after antibiotic treatment in a defined microbial community. Collectively, our study reveals a co-evolutionary mechanism between the host and microbiota mediated through host-derived glycans to promote stable colonization.
 
-[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00509-7)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S1389945724000893?via%3Dihub)
 
-10.1016/j.chom.2023.12.014
+10.1016/j.sleep.2024.02.041
 
 ---
 
-## Dietary carbohydrate sources differently prime the microbial ecosystem but not the epithelial gene expression profile along the complete gut of young calves
-
-[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00297-5)
-
----
-
-## Multi-omics reveals that alkaline mineral water improves the respiratory health and growth performance of transported calves.
- 11.03.2024, _J Qi, L Gan, F Huang, Y Xie, H Guo, H Cui, J Deng, L Gou, D Cai, C Pan, X Lu, AM Shah, J Fang, Z Zuo_
+## Postbiotic butyrate: role and its effects for being a potential drug and biomarker to pancreatic cancer.
+ 15.03.2024, _A Elango, VD Nesam, P Sukumar, I Lawrence, A Radhakrishnan_
 
 
-_Humans, Cattle, Animals, RNA, Ribosomal, 16S, Multiomics, Nasopharynx, Antioxidants, Minerals_
-Long-distance transportation, a frequent practice in the cattle industry, stresses calves and results in morbidity, mortality, and growth suppression, leading to welfare concerns and economic losses. Alkaline mineral water (AMW) is an electrolyte additive containing multiple mineral elements and shows stress-mitigating effects on humans and bovines.
+_Humans, Butyrates, Gastrointestinal Microbiome, Pancreatic Neoplasms_
+Postbiotics are produced by microbes and have recently gained importance in the field of oncology due to their beneficial effects to the host, effectiveness against cancer cells, and their ability to suppress inflammation. In particular, butyrate dominates over all other postbiotics both in quantity and anticancer properties. Pancreatic cancer (PC), being one of the most malignant and lethal cancers, reported a decreased 5-year survival rate in less than 10% of the patients. PC causes an increased mortality rate due to its inability to be detected at an early stage but still a promising strategy for its diagnosis has not been achieved yet. It is necessary to diagnose Pancreatic cancer before the metastatic progression stage. The available blood biomarkers lack accurate and proficient diagnostic results. Postbiotic butyrate is produced by gut microbiota such as Rhuminococcus and Faecalibacterium it is involved in cell signalling pathways, autophagy, and cell cycle regulation, and reduction in butyrate concentration is associated with the occurrence of pancreatic cancer. The postbiotic butyrate is a potential biomarker that could detect PC at an early stage, before the metastatic progression stage. Thus, this review focused on the gut microbiota butyrate's role in pancreatic cancer and the immuno-suppressive environment, its effects on histone deacetylase and other immune cells, microbes in major butyrate synthesis pathways, current biomarkers in use for Pancreatic Cancer.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01742-4)
+[Source](https://doi.org/10.1007/s00203-024-03914-8)
 
-10.1186/s40168-023-01742-4
+10.1007/s00203-024-03914-8
 
 ---
 
-## Efficacy of a novel multi-enzyme feed additive on growth performance, nutrient digestibility and gut microbiome of weanling pigs fed corn-wheat or wheat-barley based diet.
- 11.03.2024, _AS Aderibigbe, CS Park, T Johnson, DE Velayudhan, E Vinyeta, O Adeola_
+## Whole-body metabolic modelling reveals microbiome and genomic interactions on reduced urine formate levels in Alzheimer's disease.
+ 17.03.2024, _F Martinelli, A Heinken, AK Henning, MA Ulmer, T Hensen, A González, M Arnold, S Asthana, K Budde, CD Engelman, M Estaki, HJ Grabe, MB Heston, S Johnson, G Kastenmüller, C Martino, D McDonald, FE Rey, I Kilimann, O Peters, X Wang, EJ Spruth, A Schneider, K Fliessbach, J Wiltfang, N Hansen, W Glanz, K Buerger, D Janowitz, C Laske, MH Munk, A Spottke, N Roy, M Nauck, S Teipel, R Knight, RF Kaddurah-Daouk, BB Bendlin, J Hertel, I Thiele_
 
 
-One-hundred-and-ninety-two weanling pigs (6.7 kg BW) were used to evaluate the impact of a carbohydrases-protease enzyme complex (CPEC) on growth performance, nutrient digestibility, and gut microbiome. Pigs were assigned to 1 of 4 dietary treatments for 42 d according to a 2 × 2 factorial arrangement of diet type [low fiber (LF) or high fiber (HF)] and CPEC supplementation (0 or 170 mg/kg diet). The LF diet was prepared as corn-wheat-based diet while the HF diet was wheat-barley-based and contained wheat middlings and canola meal. Each dietary treatment consisted of 12 replicate pens (6 replicates per gender) and 4 pigs per replicate pen. Over the 42-d period, there was no interaction between diet type and CPEC supplementation on growth performance indices of pigs. Dietary addition of CPEC improved (P &lt; 0.05) the body weight of pigs at d 28 and d 42 and the gain-to-feed ratio of pigs from d 0 to 14. During the entire experimental period, dietary CPEC supplementation improved (P &lt; 0.05) the average daily gain and gain-to-feed ratio of pigs. There were interactions between diet type and CPEC supplementation on apparent total tract digestibility (ATTD) of dry matter (DM; P &lt; 0.01), gross energy (GE; P &lt; 0.01), and neutral detergent fiber (NDF; P &lt; 0.05) at d 42. Dietary CPEC addition improved (P &lt; 0.05) ATTD of DM, GE, and NDF in the HF diets. At d 43, dietary CPEC addition resulted in improved (P &lt; 0.05) apparent ileal digestibility (AID) of NDF and interactions (P &lt; 0.05) between diet type and CPEC supplementation on AID of DM and crude fiber. Alpha diversity indices including phylogenetic diversity and observed amplicon sequence variants (ASV) of fecal microbiome increased (P &lt; 0.05) by the addition of CPEC in the HF diets on d 42. An interaction (P &lt; 0.05) between diet type and CPEC addition on Bray-Curtis dissimilarity index and Unweighted UniFrac distances was observed at d 42. In conclusion, CPEC improved weanling pig performance and feed efficiency, especially in wheat-barley diets, while dietary fiber composition had a more significant impact on fecal microbial communities than CPEC administration. The results of this study underscores carbohydrase's potential to boost pig performance without major microbiome changes.
+_Humans, Alzheimer Disease, Microbiota, Gastrointestinal Microbiome, Genomics, Formates_
+In this study, we aimed to understand the potential role of the gut microbiome in the development of Alzheimer's disease (AD). We took a multi-faceted approach to investigate this relationship. Urine metabolomics were examined in individuals with AD and controls, revealing decreased formate and fumarate concentrations in AD. Additionally, we utilised whole-genome sequencing (WGS) data obtained from a separate group of individuals with AD and controls. This information allowed us to create and investigate host-microbiome personalised whole-body metabolic models. Notably, AD individuals displayed diminished formate microbial secretion in these models. Additionally, we identified specific reactions responsible for the production of formate in the host, and interestingly, these reactions were linked to genes that have correlations with AD. This study suggests formate as a possible early AD marker and highlights genetic and microbiome contributions to its production. The reduced formate secretion and its genetic associations point to a complex connection between gut microbiota and AD. This holistic understanding might pave the way for novel diagnostic and therapeutic avenues in AD management.
 
-[Source](https://academic.oup.com/jas/advance-article/doi/10.1093/jas/skae064/7625444)
+[Source](https://doi.org/10.1038/s41598-024-55960-3)
 
-10.1093/jas/skae064
-
----
-
-## Formation of a constructed microbial community in a nutrient-rich environment indicates bacterial interspecific competition
-
-[Source](https://journals.asm.org/doi/10.1128/msystems.00006-24)
+10.1038/s41598-024-55960-3
 
 ---
 
-## Plasma Treatment Modifies Element Distribution in Seed Coating and Affects Further Germination and Plant Growth through Interaction with Soil Microbiome.
- 11.03.2024, _T Kalachova, B Jindřichová, R Pospíchalová, J Fujera, A Artemenko, J Jančík, A Antonova, O Kylián, V Prukner, L Burketová, M Šimek, T Homola_
+## Antibacterial activity of nonantibiotics is orthogonal to standard antibiotics.
+ 14.03.2024, _MN Guillen, C Li, B Rosener, A Mitchell_
 
 
-This study investigates the impact of plasma-seed interaction on germination and early plant development, focusing on Arabidopsis thaliana and Brassica napus. The investigation delves into changes in chemical composition, water absorption, and surface morphology induced by plasma filaments generated in synthetic air. These analyses were conducted using scanning electron microscopy (SEM) and X-ray photoelectron spectroscopy (XPS). Although plasma treatment enhanced water absorption and modified surface chemistry, its impact on germination demonstrated species- and context-dependent variations. Notably, the accelerated germination and morphogenesis of seedlings in microbiome-enriched (MB+) soil could be achieved also in microbiome-deprived (MB-) soil by short-term plasma treatment of seeds. Remarkably, the positive effects of plasma treatment on early developmental events (germination, morphogenesis) and later events (formation of inflorescences) were more pronounced in the context of MB- soil but were accompanied by a slight decrease in disease resistance, which was not detected in MB+ soil. The results underscore the intricate dynamics of plasma-plant interactions and stress the significance of accounting for the soil microbiome while designing experiments with potential field application.
+Numerous nonantibiotic drugs have potent antibacterial activity and can adversely impact the human microbiome. The mechanistic underpinning of this toxicity remains largely unknown. We investigated the antibacterial activity of 200 drugs using genetic screens with thousands of barcoded Escherichia coli knockouts. We analyzed 2 million gene-drug interactions underlying drug-specific toxicity. Network-based analysis of drug-drug similarities revealed that antibiotics clustered into modules consistent with the mode of action of their established classes, while nonantibiotics remained unconnected. Half of the nonantibiotics clustered into separate modules, potentially revealing shared and unexploited targets for novel antimicrobials. Analysis of efflux systems revealed they widely impact antibiotics and nonantibiotics alike, suggesting that the impact of nonantibiotics on antibiotic cross-resistance should be investigated closely in vivo.
 
-[Source](https://pubs.acs.org/doi/abs/10.1021/acs.jafc.3c07160)
+[Source](https://doi.org/10.1126/science.adk7368)
 
-10.1021/acs.jafc.3c07160
-
----
-
-## Soil Microbiomes and their Arsenic Functional Genes in Chronically High-Arsenic Contaminated Soils.
- 13.03.2024, _P Sonthiphand, N Rueangmongkolrat, P Uthaipaisanwong, K Kusonmano, W Mhuantong, T Termsaithong, C Limthamprasert, S Chotpantarat, E Luepromchai_
-
-
-_Arsenic, Soil, Bacteria, Genes, Bacterial, Microbiota, Soil Microbiology, Soil Pollutants_
-Microbial arsenic transformations play essential roles in controlling pollution and ameliorating risk. This study combined high-throughput sequencing and PCR-based approaches targeting both the 16 S rRNA and arsenic functional genes to investigate the temporal and spatial dynamics of the soil microbiomes impacted by high arsenic contamination (9.13 to 911.88 mg/kg) and to investigate the diversity and abundance of arsenic functional genes in soils influenced by an arsenic gradient. The results showed that the soil microbiomes were relatively consistent and mainly composed of Actinobacteria (uncultured Gaiellales and an unknown_67 - 14 bacterium), Proteobacteria, Firmicutes (particularly, Bacillus), Chloroflexi, and Acidobacteria (unknown_Subgroup_6). Although a range of arsenic functional genes (e.g., arsM, arsC, arrA, and aioA) were identified by shotgun metagenomics, only the arsM gene was detected by the PCR-based method. The relative abundance of the arsM gene accounted for 0.20%-1.57% of the total microbial abundance. Combining all analyses, arsenic methylation mediated by the arsM gene was proposed to be a key process involved in the arsenic biogeochemical cycle and mitigation of arsenic toxicity. This study advances our knowledge about arsenic mechanisms over the long-term in highly contaminated soils.
-
-[Source](https://link.springer.com/article/10.1007/s00128-024-03866-1)
-
-10.1007/s00128-024-03866-1
+10.1126/science.adk7368
 
 ---
 
-## Taxonomic resolution of different 16S rRNA variable regions varies strongly across plant-associated bacteria
-
-[Source](https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycae034/7624640?searchresult=1)
-
----
-
-## Root microbiota analysis of Oryza rufipogon and Oryza sativa reveals an orientation selection during the domestication process.
- 12.03.2024, _L Jiang, D Ke, B Sun, J Zhang, S Lyu, H Yu, P Chen, X Mao, Q Liu, W Chen, Z Fan, L Huang, S Yin, Y Deng, C Li_
+## Photodynamic antimicrobial chemotherapy has an overt killing effect on periodontal pathogens? A systematic review of experimental studies.
+ 25.02.2020, _D Peron, A Bergamo, R Prates, SS Vieira, P de Tarso Camillo de Carvalho, AJ Serra_
 
 
-The root-associated microbiota has a close relation to the life activities of plants, and its composition is affected by the rhizospheric environment and plant genotypes. Rice (Oryza sativa) was domesticated from the ancestor species Oryza rufipogon. Many important agricultural traits and adversity resistance of rice have changed during a long time of natural domestication and artificial selection. However, the influence of rice genotypes on root microbiota in important agricultural traits remains to be explained. In this study, we performed 16S rRNA and internal transcribed spacer (ITS) gene amplicon sequencing to generate bacterial and fungal community profiles of O. rufipogon and O. sativa, both of which were planted in a farm in Guangzhou and had reached the reproductive stage. We compared their root microbiota in detail by alpha diversity, beta diversity, different species, core microbiota, and correlation analyses. We found that the relative abundance of bacteria was significantly higher in the cultivated rice than in the common wild rice, while the relative abundance of fungi was the opposite. Significant differences in agricultural traits between O. rufipogon and O. sativa showed a high correlation with core microorganisms in the two Oryza species, which only existed in either or had obviously different abundance in both two species, indicating that rice genotype/phenotype had a strong influence on recruiting specific microorganisms. Our study provides a theoretical basis for the in-depth understanding of rice root microbiota and the improvement of rice breeding from the perspective of the interaction between root microorganisms and plants.IMPORTANCEPlant root microorganisms play a vital role not only in plant growth and development but also in responding the biotic and abiotic stresses. Oryza sativa is domesticated from Oryza rufipogon which has many excellent agricultural traits especially containing resistance to biotic and abiotic stresses. To improve the yield and resistance of cultivated rice, it is particularly important to deeply research on differences between O. sativa and O. rufipogon and find beneficial microorganisms to remodel the root microbiome of O. sativa.
+_Animals, Anti-Infective Agents, Bacterial Infections, Humans, Periodontal Diseases, Periodontium, Photochemotherapy, Photosensitizing Agents, Porphyromonas gingivalis_
+The periodontal disease (PD) etiology is mainly associated with some bacterial strains, such as Porphyromonas gingivalis (P. gingivalis). Nonsurgical root scaling (e.g., antibiotics) may achieve a temporary decrease in the P. gingivalis level, yet it cannot eradicate the microorganism. Moreover, antibiotics can lead to bacterial resistance and undesirable side effects. This systematic review was performed to identify animal data defining antimicrobial photodynamic therapy (PACT) role on experimental PD models in the treatment of P. gingivalis. Embase, MEDLINE, and PubMed were examined for studies published from January 1980 to August 2018. MeSH terms and Scopus data were used to find more related keywords. Four studies were selected and reviewed by two independent researches with a structured tool for rating the research quality. The beneficial effect of PACT included reductions in P. gingivalis counts, bleeding on probing, redness, and inflammation on multiple sites (i.e., first molar, dental implants; subgingival; and mandibular premolars). Although our results suggest that PACT displays antimicrobial action on P. gingivalis, thus improving the PD, a nonuniformity in the PACT protocol and the limited number of studies included lead to consider that the bactericidal efficacy of PACT against periodontal pathogens in PD remains unclear.
 
-[Source](https://journals.asm.org/doi/10.1128/spectrum.03330-23)
+[Source](https://doi.org/10.1038/s41598-024-56849-x)
 
-10.1128/spectrum.03330-23
+10.1007/s10103-019-02806-4
 
 ---
 
-## Diversity and distribution of biosynthetic gene clusters in agricultural soil microbiomes – Ziguo Zhang et al
+## Defining <em>Porphyromonas gingivalis</em> strains associated with periodontal disease
 
-[Source](https://journals.asm.org/doi/10.1128/msystems.01263-23)
-
----
-
-## Sugar transporters spatially organize microbiota colonization along the longitudinal root axis of Arabidopsis.
- 13.03.2024, _EP Loo, P Durán, TY Pang, P Westhoff, C Deng, C Durán, M Lercher, R Garrido-Oter, WB Frommer_
-
-
-Plant roots are functionally heterogeneous in cellular architecture, transcriptome profile, metabolic state, and microbial immunity. We hypothesized that axial differentiation may also impact spatial colonization by root microbiota along the root axis. We developed two growth systems, ArtSoil and CD-Rhizotron, to grow and then dissect Arabidopsis thaliana roots into three segments. We demonstrate that distinct endospheric and rhizosphere bacterial communities colonize the segments, supporting the hypothesis of microbiota differentiation along the axis. Root metabolite profiling of each segment reveals differential metabolite enrichment and specificity. Bioinformatic analyses and GUS histochemistry indicate microbe-induced accumulation of SWEET2, 4, and 12 sugar uniporters. Profiling of root segments from sweet mutants shows altered spatial metabolic profiles and reorganization of endospheric root microbiota. This work reveals the interdependency between root metabolites and microbial colonization and the contribution of SWEETs to spatial diversity and stability of microbial ecosystem.
-
-[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(24)00057-X)
-
-10.1016/j.chom.2024.02.014
+[Source](https://doi.org/10.1038/s41598-024-56849-x)
 
 ---
 
-## Microbiome analysis of the restricted bacteria in radioactive element-containing water at the Fukushima Daiichi Nuclear Power Station
-
-[Source](https://journals.asm.org/doi/10.1128/aem.02113-23)
-
----
-
-## The astounding exhaustiveness and speed of the Astral mass analyzer for highly complex samples is a quantum leap in the functional analysis of microbiomes.
- 11.03.2024, _T Dumas, R Martinez Pinna, C Lozano, S Radau, O Pible, L Grenga, J Armengaud_
+## The individual response to antibiotics and diet - insights into gut microbial resilience and host metabolism.
+ 15.03.2024, _LMM Vliex, J Penders, A Nauta, EG Zoetendal, EE Blaak_
 
 
-_Humans, Tandem Mass Spectrometry, Proteomics, Peptides, Microbiota, Databases, Protein_
-By analyzing the proteins which are the workhorses of biological systems, metaproteomics allows us to list the taxa present in any microbiota, monitor their relative biomass, and characterize the functioning of complex biological systems.
+Antibiotic use disrupts microbial composition and activity in humans, but whether this disruption in turn affects host metabolic health is unclear. Cohort studies show associations between antibiotic use and an increased risk of developing obesity and type 2 diabetes mellitus. Here, we review available clinical trials and show the disruptive effect of antibiotic use on the gut microbiome in humans, as well as its impact on bile acid metabolism and microbial metabolites such as short-chain fatty acids. Placebo-controlled human studies do not show a consistent effect of antibiotic use on body weight and insulin sensitivity at a population level, but rather an individual-specific or subgroup-specific response. This response to antibiotic use is affected by the resistance and resilience of the gut microbiome, factors that determine the extent of disruption and the speed of recovery afterwards. Nutritional strategies to improve the composition and functionality of the gut microbiome, as well as its recovery after antibiotic use (for instance, with prebiotics), require a personalized approach to increase their efficacy. Improved insights into key factors that influence the individual-specific response to antibiotics and dietary intervention may lead to better efficacy in reversing or preventing antibiotic-induced microbial dysbiosis as well as strategies for preventing cardiometabolic diseases.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01766-4)
+[Source](https://doi.org/10.1038/s41574-024-00966-0)
 
-10.1186/s40168-024-01766-4
+10.1038/s41574-024-00966-0
 
 ---
 
-## Proportion-based normalizations outperform compositional data transformations in machine learning applications.
- 07.03.2024, _A Yerke, D Fry Brumit, AA Fodor_
+## Unveiling the immunomodulatory effect of the novel probiotic Akkermansia muciniphila and its protective effect in vitro.
+ 15.03.2024, _A Calvo, Y Pastor, P Rosas-Val, C Gamazo_
 
 
-_Algorithms, Machine Learning, Microbiota_
-Normalization, as a pre-processing step, can significantly affect the resolution of machine learning analysis for microbiome studies. There are countless options for normalization scheme selection. In this study, we examined compositionally aware algorithms including the additive log ratio (alr), the centered log ratio (clr), and a recent evolution of the isometric log ratio (ilr) in the form of balance trees made with the PhILR R package. We also looked at compositionally naïve transformations such as raw counts tables and several transformations that are based on relative abundance, such as proportions, the Hellinger transformation, and a transformation based on the logarithm of proportions (which we call "lognorm").
+Akkermansia muciniphila, a bacterium found in the human microbiota, has gained interest due to its potential health benefits. Previous studies have linked its absence to inflammatory disorders, while also suggesting its role in maintaining a healthy gut barrier. However, there is limited information on its specific effects on the immune system. Therefore, the aim of this research was to analyze the in vitro response triggered by A. muciniphila employing RAW 264.7 macrophages. The study focused on investigating the production of cytokines and nitric oxide, along with evaluating the expression of inflammatory surface cellular markers. Additionally, we assessed its potential to protect against intestinal infections, using Salmonella enterica serovar Enteritidis as a model. Our findings reveal a modulation effect of A. muciniphila with pro-inflammatory features, including the release of pro-inflammatory cytokines and upregulation of CD40 and CD80 surface markers, in contrast with previous reported data. Importantly, A. muciniphila could protect against Salmonella infection by promoting macrophage activation, appearing as a promising probiotic candidate for the control of intestinal infections.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01747-z)
+[Source](https://doi.org/10.1016/j.micres.2024.127677)
 
-10.1186/s40168-023-01747-z
-
----
-
-## A method to correct for local alterations in DNA copy number that bias functional genomics assays applied to antibiotic-treated bacteria.
- 12.03.2024, _GJ Sullivan, L Barquist, AK Cain_
-
-
-Functional genomics techniques, such as transposon insertion sequencing and RNA-sequencing, are key to studying relative differences in bacterial mutant fitness or gene expression under selective conditions. However, certain stress conditions, mutations, or antibiotics can directly interfere with DNA synthesis, resulting in systematic changes in local DNA copy numbers along the chromosome. This can lead to artifacts in sequencing-based functional genomics data when comparing antibiotic treatment to an unstressed control. Further, relative differences in gene-wise read counts may result from alterations in chromosomal replication dynamics, rather than selection or direct gene regulation. We term this artifact "chromosomal location bias" and implement a principled statistical approach to correct it by calculating local normalization factors along the chromosome. These normalization factors are then directly incorporated into statistical analyses using standard RNA-sequencing analysis methods without modifying the read counts themselves, preserving important information about the mean-variance relationship in the data. We illustrate the utility of this approach by generating and analyzing a ciprofloxacin-treated transposon insertion sequencing data set in Escherichia coli as a case study. We show that ciprofloxacin treatment generates chromosomal location bias in the resulting data, and we further demonstrate that failing to correct for this bias leads to false predictions of mutant drug sensitivity as measured by minimum inhibitory concentrations. We have developed an R package and user-friendly graphical Shiny application, ChromoCorrect, that detects and corrects for chromosomal bias in read count data, enabling the application of functional genomics technologies to the study of antibiotic stress.IMPORTANCEAltered gene dosage due to changes in DNA replication has been observed under a variety of stresses with a variety of experimental techniques. However, the implications of changes in gene dosage for sequencing-based functional genomics assays are rarely considered. We present a statistically principled approach to correcting for the effect of changes in gene dosage, enabling testing for differences in the fitness effects or regulation of individual genes in the presence of confounding differences in DNA copy number. We show that failing to correct for these effects can lead to incorrect predictions of resistance phenotype when applying functional genomics assays to investigate antibiotic stress, and we provide a user-friendly application to detect and correct for changes in DNA copy number.
-
-[Source](https://journals.asm.org/doi/10.1128/msystems.00665-23)
-
-10.1128/msystems.00665-23
+10.1016/j.micres.2024.127677
 
 ---
 
-## [PREPRINT] Bacterial strain nomenclature in the genomic era: Life Identification Numbers using a gene-by-gene approach
+## Microbial metabolite enhances immunotherapy efficacy by modulating T&nbsp;cell stemness in pan-cancer
 
-[Source](https://www.biorxiv.org/content/biorxiv/early/2024/03/12/2024.03.11.584534.full.pdf)
+[Source](https://www.cell.com/cell/abstract/S0092-8674(24)00224-1)
+
+---
+
+## Rice straw ash and amphibian health: A deep dive into microbiota changes and potential ecological consequences
+
+[Source](https://doi.org/10.1016/j.scitotenv.2024.171651)
+
+---
+
+## Microbial community composition in the dung of five sympatric European herbivore species
+
+[Source](https://doi.org/10.1002/ece3.11071)
+
+---
+
+## Antibiotics treatment promotes vasculogenesis in the brain of glioma-bearing mice.
+ 17.03.2024, _M Rosito, J Maqbool, A Reccagni, O Giampaoli, F Sciubba, F Antonangeli, F Scavizzi, M Raspa, F Cordella, L Tondo, S Di Angelantonio, F Trettel, A Miccheli, G D'Alessandro, C Limatola_
+
+
+_Mice, Animals, Dysbiosis, Glioma, Anti-Bacterial Agents, Brain, Brain Neoplasms, Tumor Microenvironment_
+In recent years, several studies described the close relationship between the composition of gut microbiota and brain functions, highlighting the importance of gut-derived metabolites in mediating neuronal and glial cells cross-talk in physiological and pathological condition. Gut dysbiosis may affects cerebral tumors growth and progression, but the specific metabolites involved in this modulation have not been identified yet. Using a syngeneic mouse model of glioma, we have investigated the role of dysbiosis induced by the administration of non-absorbable antibiotics on mouse metabolome and on tumor microenvironment. We report that antibiotics treatment induced: (1) alteration of the gut and brain metabolome profiles; (2) modeling of tumor microenvironment toward a pro-angiogenic phenotype in which microglia and glioma cells are actively involved; (3) increased glioma stemness; (4) trans-differentiation of glioma cells into endothelial precursor cells, thus increasing vasculogenesis. We propose glycine as a metabolite that, in ABX-induced dysbiosis, shapes brain microenvironment and contributes to glioma growth and progression.
+
+[Source](https://doi.org/10.1038/s41419-024-06578-w)
+
+10.1038/s41419-024-06578-w
+
+---
+
+## Microecological characteristics of water bodies/sediments and microbial remediation strategies after 50 years of pollution exposure in ammunition destruction sites in China
+
+[Source](https://doi.org/10.1016/j.envres.2024.118640)
+
+---
+
+## Transkingdom Network Analysis (TkNA): a systems framework for inferring causal factors underlying host-microbiota and other multi-omic interactions.
+ 16.03.2024, _NK Newman, MS Macovsky, RR Rodrigues, AM Bruce, JW Pederson, J Padiadpu, J Shan, J Williams, SS Patil, AK Dzutsev, N Shulzhenko, G Trinchieri, K Brown, A Morgun_
+
+
+We present Transkingdom Network Analysis (TkNA), a unique causal-inference analytical framework that offers a holistic view of biological systems by integrating data from multiple cohorts and diverse omics types. TkNA helps to decipher key players and mechanisms governing host-microbiota (or any multi-omic data) interactions in specific conditions or diseases. TkNA reconstructs a network that represents a statistical model capturing the complex relationships between different omics in the biological system. It identifies robust and reproducible patterns of fold change direction and correlation sign across several cohorts to select differential features and their per-group correlations. The framework then uses causality-sensitive metrics, statistical thresholds and topological criteria to determine the final edges forming the transkingdom network. With the subsequent network's topological features, TkNA identifies nodes controlling a given subnetwork or governing communication between kingdoms and/or subnetworks. The computational time for the millions of correlations necessary for network reconstruction in TkNA typically takes only a few minutes, varying with the study design. Unlike most other multi-omics approaches that find only associations, TkNA focuses on establishing causality while accounting for the complex structure of multi-omic data. It achieves this without requiring huge sample sizes. Moreover, the TkNA protocol is user friendly, requiring minimal installation and basic familiarity with Unix. Researchers can access the TkNA software at https://github.com/CAnBioNet/TkNA/ .
+
+[Source](https://doi.org/10.1038/s41596-024-00960-w)
+
+10.1038/s41596-024-00960-w
+
+---
+
+## Resource competition predicts assembly of gut bacterial communities in vitro.
+ 15.03.2024, _PY Ho, TH Nguyen, JM Sanchez, BC DeFelice, KC Huang_
+
+
+Microbial community dynamics arise through interspecies interactions, including resource competition, cross-feeding and pH modulation. The individual contributions of these mechanisms to community structure are challenging to untangle. Here we develop a framework to estimate multispecies niche overlaps by combining metabolomics data of individual species, growth measurements in spent media and mathematical models. We applied our framework to an in vitro model system comprising 15 human gut commensals in complex media and showed that a simple model of resource competition accounted for most pairwise interactions. Next, we built a coarse-grained consumer-resource model by grouping metabolomic features depleted by the same set of species and showed that this model predicted the composition of 2-member to 15-member communities with reasonable accuracy. Furthermore, we found that incorporation of cross-feeding and pH-mediated interactions improved model predictions of species coexistence. Our theoretical model and experimental framework can be applied to characterize interspecies interactions in bacterial communities in vitro.
+
+[Source](https://doi.org/10.1038/s41564-024-01625-w)
+
+10.1038/s41564-024-01625-w
 
 ---
 
