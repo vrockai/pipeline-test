@@ -22,15 +22,15 @@ Reactions for drug synthesis under cell-like conditions or even inside living ce
 
 ---
 
-## The development and validation of a needs assessment tool for use with YOUng adult survivors of a CentrAl Nervous system tumor (YOU-CAN).
- 18.03.2024, _K Law, MG McCabe, SN van der Veer, J Yorke_
+## A pandemic of delirium: an updated systematic review and meta-analysis of occurrence of delirium in older adults with COVID-19.
+ 18.03.2024, _MB Zazzara, AM Ornago, C Cocchi, E Serafini, G Bellelli, G Onder_
 
 
-Adolescent and young adult (AYA) survivors of a central nervous system (CNS) tumor represent a vulnerable group who can experience: social isolation, low rates of employment, and achieving independence can be compromised, leading to poorer quality of life compared with survivors of other cancer types. The aim of this study is to develop and evaluate the validity of a needs assessment tool (NAT) for AYA survivors of a CNS tumor.
+Delirium has been recognized as an atypical presenting feature of COVID-19 in older adults and is independently associated with mortality. We aimed to perform an updated systematic review of the literature and proportional meta-analysis to assess prevalence and incidence of delirium in older adults with COVID-19, addressing differences according to sex, frailty status, and settings.
 
 [Source](https://twitter.com/outreachy/status/1766100995757531296?ref_src=twsrc%5Etfw)
 
-10.1093/nop/npad082
+10.1007/s41999-023-00906-7
 
 ---
 
@@ -96,15 +96,15 @@ Two-dimensional covalent organic frameworks (2D COFs) are considered as potentia
 
 ---
 
-## Clinical utility of point-of-care glucose testing in the assessment of gestational diabetes: Prospective cohort study.
- 18.03.2024, _W Al-Hasani, R Ranasinghe, H Rogers, W Spanier, K Spears, C Gayle, L Long, GK Dimitriadis, KF Hunt, RP Vincent_
+## Are changes in patient-reported outcomes prognostic for diffuse large B-Cell lymphoma survival? Results from the GOYA trial.
+ 18.03.2024, _JT Yan, C Bel, PC Trask, E Lo_
 
 
-To assess the clinical utility of point-of-care (POC) capillary blood glucose (CBG) testing in the assessment of gestational diabetes mellitus (GDM) during oral glucose tolerance test (OGTT).
+In this hypothesis-generating analysis, we examined whether longitudinal changes in patient-reported outcomes (PROs), such as symptoms, over time would be prognostic for progression-free survival (PFS) and overall survival (OS) in patients with diffuse large B-cell lymphoma (DLBCL) who were newly treated with obinutuzumab (G) in combination with CHOP (G-CHOP) or rituximab (R) with CHOP (R-CHOP), in the GOYA Phase 3 trial (NCT01287741). Our results show that from the study baseline to cycle 3 day 1, every 1-point increase (worsening) in fever symptoms was associated with a 41% higher risk of death (hazard ratio [HR], 1.41; P = 0.01). Every 1-point increase (worsening) in lumps or swelling symptoms was associated with a 27% higher risk of disease progression or death (PFS events) (HR, 1.27; P = 0.01) and a 29% higher risk of death (OS events) (HR, 1.29; P = 0.02). No significant associations were observed between survival and changes in other symptoms, such as itching. Our study suggests that changes in some PROs are related to survival in DLBCL patients.
 
 [Source](https://twitter.com/Roche?ref_src=twsrc%5Etfw)
 
-10.1111/1471-0528.17811
+10.1186/s41687-024-00708-w
 
 ---
 
@@ -132,18 +132,6 @@ To assess the clinical utility of point-of-care (POC) capillary blood glucose (C
 
 ---
 
-## Identifying excessive chronic alcohol use with phosphatidylethanol in patients with suspected severe injury-results from the IDART study.
- 18.03.2024, _BM Jørgenrud, CC Bråthen, J Steinson Stenehjem, T Kristiansen, LA Rosseland, ST Bogstrand_
-
-
-Acute and chronic alcohol use are well-known risk factors for accidents and injuries, and concurrent psychoactive drug use can increase injury risk further. Phosphatidylethanol (PEth) 16:0/18:1 is a biomarker used to determine alcohol consumption the previous 3-4 weeks. The aim was to investigate the prevalence of chronic alcohol use in trauma patients, as determined by PEth 16:0/18:1 concentrations, and how excessive chronic alcohol use relate to demographic variables, injury mechanisms and drug use.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1763521203740786793?ref_src=twsrc%5Etfw)
-
-10.1093/alcalc/agae014
-
----
-
 ## March 1, 2024
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1763521203740786793?ref_src=twsrc%5Etfw)
@@ -165,18 +153,6 @@ Acute and chronic alcohol use are well-known risk factors for accidents and inju
 ## pic.twitter.com/cLDfH3zcpc
 
 [Source](https://t.co/cLDfH3zcpc)
-
----
-
-## Clinical utility of point-of-care glucose testing in the assessment of gestational diabetes: Prospective cohort study.
- 18.03.2024, _W Al-Hasani, R Ranasinghe, H Rogers, W Spanier, K Spears, C Gayle, L Long, GK Dimitriadis, KF Hunt, RP Vincent_
-
-
-To assess the clinical utility of point-of-care (POC) capillary blood glucose (CBG) testing in the assessment of gestational diabetes mellitus (GDM) during oral glucose tolerance test (OGTT).
-
-[Source](https://twitter.com/DylanMaghini/status/1768732511402893611?ref_src=twsrc%5Etfw)
-
-10.1111/1471-0528.17811
 
 ---
 
@@ -286,15 +262,15 @@ Species of the Bacteroidales order are among the most abundant and stable bacter
 
 ---
 
-## Place of death in Parkinson's disease and related disorders in England and Wales: post-pandemic trends and implications for care planning.
- 18.03.2024, _E Wilson, A Baker, L Stockley, V Allgar, E Richfield_
+## A pandemic of delirium: an updated systematic review and meta-analysis of occurrence of delirium in older adults with COVID-19.
+ 18.03.2024, _MB Zazzara, AM Ornago, C Cocchi, E Serafini, G Bellelli, G Onder_
 
 
-With growing emphasis on palliative care for neurodegenerative conditions, understanding trends in place of death helps improve quality of end-of-life care for people with Parkinson's disease and related disorders (PDRDs), focusing allocation of resources and training and identifying inequalities.
+Delirium has been recognized as an atypical presenting feature of COVID-19 in older adults and is independently associated with mortality. We aimed to perform an updated systematic review of the literature and proportional meta-analysis to assess prevalence and incidence of delirium in older adults with COVID-19, addressing differences according to sex, frailty status, and settings.
 
 [Source](https://twitter.com/SZhangJerry/status/1769189530043596833?ref_src=twsrc%5Etfw)
 
-10.1093/ageing/afae048
+10.1007/s41999-023-00906-7
 
 ---
 
@@ -415,15 +391,15 @@ Most stratified sulfidic holomictic lakes become oxygenated after annual turnove
 
 ---
 
-## Identifying excessive chronic alcohol use with phosphatidylethanol in patients with suspected severe injury-results from the IDART study.
- 18.03.2024, _BM Jørgenrud, CC Bråthen, J Steinson Stenehjem, T Kristiansen, LA Rosseland, ST Bogstrand_
+## A pandemic of delirium: an updated systematic review and meta-analysis of occurrence of delirium in older adults with COVID-19.
+ 18.03.2024, _MB Zazzara, AM Ornago, C Cocchi, E Serafini, G Bellelli, G Onder_
 
 
-Acute and chronic alcohol use are well-known risk factors for accidents and injuries, and concurrent psychoactive drug use can increase injury risk further. Phosphatidylethanol (PEth) 16:0/18:1 is a biomarker used to determine alcohol consumption the previous 3-4 weeks. The aim was to investigate the prevalence of chronic alcohol use in trauma patients, as determined by PEth 16:0/18:1 concentrations, and how excessive chronic alcohol use relate to demographic variables, injury mechanisms and drug use.
+Delirium has been recognized as an atypical presenting feature of COVID-19 in older adults and is independently associated with mortality. We aimed to perform an updated systematic review of the literature and proportional meta-analysis to assess prevalence and incidence of delirium in older adults with COVID-19, addressing differences according to sex, frailty status, and settings.
 
 [Source](https://twitter.com/Huifeng_Hu/status/1768940203186532493?ref_src=twsrc%5Etfw)
 
-10.1093/alcalc/agae014
+10.1007/s41999-023-00906-7
 
 ---
 
@@ -482,15 +458,15 @@ Microbial interactions can lead to different colonization outcomes of exogenous 
 
 ---
 
-## Place of death in Parkinson's disease and related disorders in England and Wales: post-pandemic trends and implications for care planning.
- 18.03.2024, _E Wilson, A Baker, L Stockley, V Allgar, E Richfield_
+## A pandemic of delirium: an updated systematic review and meta-analysis of occurrence of delirium in older adults with COVID-19.
+ 18.03.2024, _MB Zazzara, AM Ornago, C Cocchi, E Serafini, G Bellelli, G Onder_
 
 
-With growing emphasis on palliative care for neurodegenerative conditions, understanding trends in place of death helps improve quality of end-of-life care for people with Parkinson's disease and related disorders (PDRDs), focusing allocation of resources and training and identifying inequalities.
+Delirium has been recognized as an atypical presenting feature of COVID-19 in older adults and is independently associated with mortality. We aimed to perform an updated systematic review of the literature and proportional meta-analysis to assess prevalence and incidence of delirium in older adults with COVID-19, addressing differences according to sex, frailty status, and settings.
 
 [Source](https://twitter.com/alifcoder/status/1769389993464824185?ref_src=twsrc%5Etfw)
 
-10.1093/ageing/afae048
+10.1007/s41999-023-00906-7
 
 ---
 
