@@ -1,81 +1,188 @@
-## Stratification of <em>Fusobacterium nucleatum</em> by local health status in the oral cavity defines its subspecies disease association
+## Dipeptide-catalysed Michael reaction under physiological conditions: Examination of potential bioorthogonality.
+ 16.03.2024, _F Schuster, BW Grau, HG Xu, A Mokhir, SB Tsogoeva_
 
-[Source](https://doi.org/10.1016/j.chom.2024.02.010)
 
----
+Reactions for drug synthesis under cell-like conditions or even inside living cells can potentially be used e.g., to minimize toxic side effects, to maximize bioactive compound efficacy and/or to address drug delivery problems. Those reactions should be bioorthogonal to enable the generation of drug-like compounds with sufficiently good yields. In the known bioorthogonal Michael reactions, using thiols and phosphines as nucleophiles (e.g., in CS and CP bond formation reactions) is very common. No bioorthogonal Michael addition with a carbon nucleophile is known yet. Therefore, the development of such a reaction might be interesting for future drug discovery research. In this work, the metal-free Michael addition between cyclohexanone and various trans-β-nitrostyrenes (CC bond formation reaction), catalysed by a dipeptide salt H-Pro-Phe-O-Na+, was investigated for the first time in the presence of glutathione (GSH) and in phosphate-buffered saline (PBS). We demonstrated that with electron-withdrawing substituents on the aromatic ring and in β-position of the trans-β-nitrostyrene yields up to 64% can be obtained under physiological conditions, indicating a potential bioorthogonality of the studied Michael reaction. In addition, the selected Michael products demonstrated activity against human ovarian cancer cells A2780. This study opens up a new vista for forming bioactive compounds via CC bond formation Michael reactions under physiological (cell-like) conditions.
 
-## Bile acids modified by the intestinal microbiota promote colorectal cancer growth by suppressing CD8(+) T&nbsp;cell effector functions
+[Source](https://twitter.com/svetlana_up?ref_src=twsrc%5Etfw)
 
-[Source](https://www.cell.com/immunity/abstract/S1074-7613(24)00090-6)
-
----
-
-## Longitudinal profiling of the microbiome at four body sites reveals core stability and individualized dynamics during health and disease
-
-[Source](https://doi.org/10.1016/j.chom.2024.02.012)
+10.1016/j.bmc.2024.117650
 
 ---
 
-## Body mass index can mediate the interplay between gut microbiome and sleep disorders
+## @svetlana_up
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S1389945724000893?via%3Dihub)
-
----
-
-## Postbiotic butyrate: role and its effects for being a potential drug and biomarker to pancreatic cancer.
- 15.03.2024, _A Elango, VD Nesam, P Sukumar, I Lawrence, A Radhakrishnan_
-
-
-_Humans, Butyrates, Gastrointestinal Microbiome, Pancreatic Neoplasms_
-Postbiotics are produced by microbes and have recently gained importance in the field of oncology due to their beneficial effects to the host, effectiveness against cancer cells, and their ability to suppress inflammation. In particular, butyrate dominates over all other postbiotics both in quantity and anticancer properties. Pancreatic cancer (PC), being one of the most malignant and lethal cancers, reported a decreased 5-year survival rate in less than 10% of the patients. PC causes an increased mortality rate due to its inability to be detected at an early stage but still a promising strategy for its diagnosis has not been achieved yet. It is necessary to diagnose Pancreatic cancer before the metastatic progression stage. The available blood biomarkers lack accurate and proficient diagnostic results. Postbiotic butyrate is produced by gut microbiota such as Rhuminococcus and Faecalibacterium it is involved in cell signalling pathways, autophagy, and cell cycle regulation, and reduction in butyrate concentration is associated with the occurrence of pancreatic cancer. The postbiotic butyrate is a potential biomarker that could detect PC at an early stage, before the metastatic progression stage. Thus, this review focused on the gut microbiota butyrate's role in pancreatic cancer and the immuno-suppressive environment, its effects on histone deacetylase and other immune cells, microbes in major butyrate synthesis pathways, current biomarkers in use for Pancreatic Cancer.
-
-[Source](https://doi.org/10.1007/s00203-024-03914-8)
-
-10.1007/s00203-024-03914-8
+[Source](https://twitter.com/svetlana_up?ref_src=twsrc%5Etfw)
 
 ---
 
-## Whole-body metabolic modelling reveals microbiome and genomic interactions on reduced urine formate levels in Alzheimer's disease.
- 17.03.2024, _F Martinelli, A Heinken, AK Henning, MA Ulmer, T Hensen, A González, M Arnold, S Asthana, K Budde, CD Engelman, M Estaki, HJ Grabe, MB Heston, S Johnson, G Kastenmüller, C Martino, D McDonald, FE Rey, I Kilimann, O Peters, X Wang, EJ Spruth, A Schneider, K Fliessbach, J Wiltfang, N Hansen, W Glanz, K Buerger, D Janowitz, C Laske, MH Munk, A Spottke, N Roy, M Nauck, S Teipel, R Knight, RF Kaddurah-Daouk, BB Bendlin, J Hertel, I Thiele_
+## https://t.co/LqO6nON3zv
 
-
-_Humans, Alzheimer Disease, Microbiota, Gastrointestinal Microbiome, Genomics, Formates_
-In this study, we aimed to understand the potential role of the gut microbiome in the development of Alzheimer's disease (AD). We took a multi-faceted approach to investigate this relationship. Urine metabolomics were examined in individuals with AD and controls, revealing decreased formate and fumarate concentrations in AD. Additionally, we utilised whole-genome sequencing (WGS) data obtained from a separate group of individuals with AD and controls. This information allowed us to create and investigate host-microbiome personalised whole-body metabolic models. Notably, AD individuals displayed diminished formate microbial secretion in these models. Additionally, we identified specific reactions responsible for the production of formate in the host, and interestingly, these reactions were linked to genes that have correlations with AD. This study suggests formate as a possible early AD marker and highlights genetic and microbiome contributions to its production. The reduced formate secretion and its genetic associations point to a complex connection between gut microbiota and AD. This holistic understanding might pave the way for novel diagnostic and therapeutic avenues in AD management.
-
-[Source](https://doi.org/10.1038/s41598-024-55960-3)
-
-10.1038/s41598-024-55960-3
+[Source](https://t.co/LqO6nON3zv)
 
 ---
 
-## Antibacterial activity of nonantibiotics is orthogonal to standard antibiotics.
- 14.03.2024, _MN Guillen, C Li, B Rosener, A Mitchell_
+## The development and validation of a needs assessment tool for use with YOUng adult survivors of a CentrAl Nervous system tumor (YOU-CAN).
+ 18.03.2024, _K Law, MG McCabe, SN van der Veer, J Yorke_
 
 
-Numerous nonantibiotic drugs have potent antibacterial activity and can adversely impact the human microbiome. The mechanistic underpinning of this toxicity remains largely unknown. We investigated the antibacterial activity of 200 drugs using genetic screens with thousands of barcoded Escherichia coli knockouts. We analyzed 2 million gene-drug interactions underlying drug-specific toxicity. Network-based analysis of drug-drug similarities revealed that antibiotics clustered into modules consistent with the mode of action of their established classes, while nonantibiotics remained unconnected. Half of the nonantibiotics clustered into separate modules, potentially revealing shared and unexploited targets for novel antimicrobials. Analysis of efflux systems revealed they widely impact antibiotics and nonantibiotics alike, suggesting that the impact of nonantibiotics on antibiotic cross-resistance should be investigated closely in vivo.
+Adolescent and young adult (AYA) survivors of a central nervous system (CNS) tumor represent a vulnerable group who can experience: social isolation, low rates of employment, and achieving independence can be compromised, leading to poorer quality of life compared with survivors of other cancer types. The aim of this study is to develop and evaluate the validity of a needs assessment tool (NAT) for AYA survivors of a CNS tumor.
 
-[Source](https://doi.org/10.1126/science.adk7368)
+[Source](https://twitter.com/outreachy/status/1766100995757531296?ref_src=twsrc%5Etfw)
 
-10.1126/science.adk7368
-
----
-
-## Photodynamic antimicrobial chemotherapy has an overt killing effect on periodontal pathogens? A systematic review of experimental studies.
- 25.02.2020, _D Peron, A Bergamo, R Prates, SS Vieira, P de Tarso Camillo de Carvalho, AJ Serra_
-
-
-_Animals, Anti-Infective Agents, Bacterial Infections, Humans, Periodontal Diseases, Periodontium, Photochemotherapy, Photosensitizing Agents, Porphyromonas gingivalis_
-The periodontal disease (PD) etiology is mainly associated with some bacterial strains, such as Porphyromonas gingivalis (P. gingivalis). Nonsurgical root scaling (e.g., antibiotics) may achieve a temporary decrease in the P. gingivalis level, yet it cannot eradicate the microorganism. Moreover, antibiotics can lead to bacterial resistance and undesirable side effects. This systematic review was performed to identify animal data defining antimicrobial photodynamic therapy (PACT) role on experimental PD models in the treatment of P. gingivalis. Embase, MEDLINE, and PubMed were examined for studies published from January 1980 to August 2018. MeSH terms and Scopus data were used to find more related keywords. Four studies were selected and reviewed by two independent researches with a structured tool for rating the research quality. The beneficial effect of PACT included reductions in P. gingivalis counts, bleeding on probing, redness, and inflammation on multiple sites (i.e., first molar, dental implants; subgingival; and mandibular premolars). Although our results suggest that PACT displays antimicrobial action on P. gingivalis, thus improving the PD, a nonuniformity in the PACT protocol and the limited number of studies included lead to consider that the bactericidal efficacy of PACT against periodontal pathogens in PD remains unclear.
-
-[Source](https://doi.org/10.1038/s41598-024-56849-x)
-
-10.1007/s10103-019-02806-4
+10.1093/nop/npad082
 
 ---
 
-## Defining <em>Porphyromonas gingivalis</em> strains associated with periodontal disease
+## March 8, 2024
 
-[Source](https://doi.org/10.1038/s41598-024-56849-x)
+[Source](https://twitter.com/outreachy/status/1766100995757531296?ref_src=twsrc%5Etfw)
+
+---
+
+## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
+ 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
+
+
+_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
+This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
+
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+
+10.3390/ijerph19010099
+
+---
+
+## #MVIF
+
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## The effect of supplementing pony diets with yeast on 2. The faecal microbiome.
+ 21.12.2020, _A Garber, PM Hastie, V Farci, D McGuinness, L Bulmer, O Alzahal, JMD Murray_
+
+
+_Animal Feed, Animals, Diet, Feces, Horses, Male, Microbiota, Saccharomyces cerevisiae_
+There is a need to develop feeding strategies to prevent the adverse effect of concentrate feeding in high-performance horses fed energy-dense diets aiming to maintain their health and welfare. The objective of this study is to determine the effect of a VistaEQ product containing 4% live yeast Saccharomyces cerevisiae (S. cerevisiae), with activity 5 × 108 colony-forming unit/g and fed 2 g/pony per day, on faecal microbial populations when supplemented with high-starch and high-fibre diets using Illumina next generation sequencing of the V3-V4 region of the 16S ribosomal RNA gene. The four treatments were allocated to eight mature Welsh section A pony geldings enrolled in a 4-period × 8 animal crossover design. Each 19-day experimental period consisted of an 18-day adaptation phase and a single collection day, followed by a 7-day wash out period. After DNA extraction from faeces and library preparation, α-diversity and linear discriminant analysis effect size were performed using 16S metagenomics pipeline in Quantitative Insights Into Microbial Ecology (QIIME™) and Galaxy/Hutlab. Differences between the groups were considered significant when linear discriminant analysis score was &gt;2 corresponding to P &lt; 0.05. The present study showed that S. cerevisiae used was able to induce positive changes in the equine microbiota when supplemented to a high-fibre diet: it increased relative abundance (RA) of Lachnospiraceae and Dehalobacteriaceae family members associated with a healthy core microbiome. Yeast supplementation also increased the RA of fibrolytic bacteria (Ruminococcus) when fed with a high-fibre diet and reduced the RA of lactate producing bacteria (Streptococcus) when a high-starch diet was fed. In addition, yeast increased the RA of acetic, succinic acid producing bacterial family (Succinivibrionaceae) and butyrate producing bacterial genus (Roseburia) when fed with high-starch and high-fibre diets, respectively. VistaEQ supplementation to equine diets can be potentially used to prevent acidosis and increase fibre digestibility. It may help to meet the energy requirements of performance horses while maintaining gut health.
+
+[Source](https://twitter.com/hutlab?ref_src=twsrc%5Etfw)
+
+10.1017/S1751731120001512
+
+---
+
+## @hutlab
+
+[Source](https://twitter.com/hutlab?ref_src=twsrc%5Etfw)
+
+---
+
+## Single-Phase Covalent Organic Framework Staggered Stacking Nanosheet Membrane for CO2 -Selective Separation.
+ 17.08.2021, _P Wang, Y Peng, C Zhu, R Yao, H Song, L Kun, W Yang_
+
+
+Two-dimensional covalent organic frameworks (2D COFs) are considered as potential candidates for gas separation membranes, benefiting from permanent porosity, light-weight skeletons, excellent stability and facilely-tailored functionalities. However, their pore sizes are generally larger than the kinetic diameters of common gas molecules. One great challenge is the fabrication of single-phase COF membranes to realize precise gas separations. Herein, three kinds of high-quality β-ketoenamine-type COF nanosheets with different pore sizes were developed and aggregated to ultrathin nanosheet membranes with distinctive staggered stacking patterns. The narrowed pore sizes derived from the micro-structures and selective adsorption capacities synergistically endowed the COF membranes with intriguing CO2 -philic separation performances, among which TpPa-2 with medium pore size exhibited an optimal CO2 /H2 separation factor of 22 and a CO2 permeance of 328 gas permeation units at 298 K. This membrane performance reached the target with commercial feasibility for syngas separations.
+
+[Source](https://twitter.com/Kun_L_H?ref_src=twsrc%5Etfw)
+
+10.1002/anie.202106346
+
+---
+
+## @Kun_L_H
+
+[Source](https://twitter.com/Kun_L_H?ref_src=twsrc%5Etfw)
+
+---
+
+## Clinical utility of point-of-care glucose testing in the assessment of gestational diabetes: Prospective cohort study.
+ 18.03.2024, _W Al-Hasani, R Ranasinghe, H Rogers, W Spanier, K Spears, C Gayle, L Long, GK Dimitriadis, KF Hunt, RP Vincent_
+
+
+To assess the clinical utility of point-of-care (POC) capillary blood glucose (CBG) testing in the assessment of gestational diabetes mellitus (GDM) during oral glucose tolerance test (OGTT).
+
+[Source](https://twitter.com/Roche?ref_src=twsrc%5Etfw)
+
+10.1111/1471-0528.17811
+
+---
+
+## @Roche
+
+[Source](https://twitter.com/Roche?ref_src=twsrc%5Etfw)
+
+---
+
+## @gettesfaw
+
+[Source](https://twitter.com/gettesfaw?ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/Oytn0cS9ZI
+
+[Source](https://t.co/Oytn0cS9ZI)
+
+---
+
+## pic.twitter.com/hJdw0USPop
+
+[Source](https://t.co/hJdw0USPop)
+
+---
+
+## Identifying excessive chronic alcohol use with phosphatidylethanol in patients with suspected severe injury-results from the IDART study.
+ 18.03.2024, _BM Jørgenrud, CC Bråthen, J Steinson Stenehjem, T Kristiansen, LA Rosseland, ST Bogstrand_
+
+
+Acute and chronic alcohol use are well-known risk factors for accidents and injuries, and concurrent psychoactive drug use can increase injury risk further. Phosphatidylethanol (PEth) 16:0/18:1 is a biomarker used to determine alcohol consumption the previous 3-4 weeks. The aim was to investigate the prevalence of chronic alcohol use in trauma patients, as determined by PEth 16:0/18:1 concentrations, and how excessive chronic alcohol use relate to demographic variables, injury mechanisms and drug use.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1763521203740786793?ref_src=twsrc%5Etfw)
+
+10.1093/alcalc/agae014
+
+---
+
+## March 1, 2024
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1763521203740786793?ref_src=twsrc%5Etfw)
+
+---
+
+## Expanding the human gut microbiome atlas of Africa
+
+[Source](https://www.biorxiv.org/content/10.1101/2024.03.13.584859v1)
+
+---
+
+## https://t.co/mlagTMmjIK
+
+[Source](https://t.co/mlagTMmjIK)
+
+---
+
+## pic.twitter.com/cLDfH3zcpc
+
+[Source](https://t.co/cLDfH3zcpc)
+
+---
+
+## Clinical utility of point-of-care glucose testing in the assessment of gestational diabetes: Prospective cohort study.
+ 18.03.2024, _W Al-Hasani, R Ranasinghe, H Rogers, W Spanier, K Spears, C Gayle, L Long, GK Dimitriadis, KF Hunt, RP Vincent_
+
+
+To assess the clinical utility of point-of-care (POC) capillary blood glucose (CBG) testing in the assessment of gestational diabetes mellitus (GDM) during oral glucose tolerance test (OGTT).
+
+[Source](https://twitter.com/DylanMaghini/status/1768732511402893611?ref_src=twsrc%5Etfw)
+
+10.1111/1471-0528.17811
+
+---
+
+## March 15, 2024
+
+[Source](https://twitter.com/DylanMaghini/status/1768732511402893611?ref_src=twsrc%5Etfw)
 
 ---
 
@@ -85,63 +192,311 @@ The periodontal disease (PD) etiology is mainly associated with some bacterial s
 
 Antibiotic use disrupts microbial composition and activity in humans, but whether this disruption in turn affects host metabolic health is unclear. Cohort studies show associations between antibiotic use and an increased risk of developing obesity and type 2 diabetes mellitus. Here, we review available clinical trials and show the disruptive effect of antibiotic use on the gut microbiome in humans, as well as its impact on bile acid metabolism and microbial metabolites such as short-chain fatty acids. Placebo-controlled human studies do not show a consistent effect of antibiotic use on body weight and insulin sensitivity at a population level, but rather an individual-specific or subgroup-specific response. This response to antibiotic use is affected by the resistance and resilience of the gut microbiome, factors that determine the extent of disruption and the speed of recovery afterwards. Nutritional strategies to improve the composition and functionality of the gut microbiome, as well as its recovery after antibiotic use (for instance, with prebiotics), require a personalized approach to increase their efficacy. Improved insights into key factors that influence the individual-specific response to antibiotics and dietary intervention may lead to better efficacy in reversing or preventing antibiotic-induced microbial dysbiosis as well as strategies for preventing cardiometabolic diseases.
 
-[Source](https://doi.org/10.1038/s41574-024-00966-0)
+[Source](https://www.nature.com/articles/s41574-024-00966-0)
 
 10.1038/s41574-024-00966-0
 
 ---
 
-## Unveiling the immunomodulatory effect of the novel probiotic Akkermansia muciniphila and its protective effect in vitro.
- 15.03.2024, _A Calvo, Y Pastor, P Rosas-Val, C Gamazo_
+## The impact of different antimicrobial exposures on the gut microbiome in the ARMORD observational study
 
-
-Akkermansia muciniphila, a bacterium found in the human microbiota, has gained interest due to its potential health benefits. Previous studies have linked its absence to inflammatory disorders, while also suggesting its role in maintaining a healthy gut barrier. However, there is limited information on its specific effects on the immune system. Therefore, the aim of this research was to analyze the in vitro response triggered by A. muciniphila employing RAW 264.7 macrophages. The study focused on investigating the production of cytokines and nitric oxide, along with evaluating the expression of inflammatory surface cellular markers. Additionally, we assessed its potential to protect against intestinal infections, using Salmonella enterica serovar Enteritidis as a model. Our findings reveal a modulation effect of A. muciniphila with pro-inflammatory features, including the release of pro-inflammatory cytokines and upregulation of CD40 and CD80 surface markers, in contrast with previous reported data. Importantly, A. muciniphila could protect against Salmonella infection by promoting macrophage activation, appearing as a promising probiotic candidate for the control of intestinal infections.
-
-[Source](https://doi.org/10.1016/j.micres.2024.127677)
-
-10.1016/j.micres.2024.127677
+[Source](https://www.medrxiv.org/content/10.1101/2024.03.06.24303874v1)
 
 ---
 
-## Microbial metabolite enhances immunotherapy efficacy by modulating T&nbsp;cell stemness in pan-cancer
+## Multi-omics analysis of the gut microbiome and metabolites associated with the psychoneurological symptom cluster in children with cancer receiving chemotherapy.
+ 12.03.2024, _J Bai, R Eldridge, M Houser, M Martin, C Powell, KS Sutton, HI Noh, Y Wu, T Olson, KT Konstantinidis, DW Bruner_
 
-[Source](https://www.cell.com/cell/abstract/S0092-8674(24)00224-1)
 
----
+_Humans, Child, Gastrointestinal Microbiome, Metabolomics, Syndrome, Multiomics, Tryptophan, RNA, Ribosomal, 16S, Case-Control Studies, Metabolome, Neoplasms, Fatty Acids, Carnitine, Feces_
+Children with cancer receiving chemotherapy commonly report a cluster of psychoneurological symptoms (PNS), including pain, fatigue, anxiety, depression, and cognitive dysfunction. The role of the gut microbiome and its functional metabolites in PNS is rarely studied among children with cancer. This study investigated the associations between the gut microbiome-metabolome pathways and PNS in children with cancer across chemotherapy as compared to healthy children.
 
-## Rice straw ash and amphibian health: A deep dive into microbiota changes and potential ecological consequences
+[Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-05066-1)
 
-[Source](https://doi.org/10.1016/j.scitotenv.2024.171651)
-
----
-
-## Microbial community composition in the dung of five sympatric European herbivore species
-
-[Source](https://doi.org/10.1002/ece3.11071)
+10.1186/s12967-024-05066-1
 
 ---
 
-## Antibiotics treatment promotes vasculogenesis in the brain of glioma-bearing mice
+## Longitudinal analysis of the gut microbiome in adolescent patients with anorexia nervosa: microbiome-related factors associated with clinical outcome.
+ 06.02.2024, _NA Andreani, A Sharma, B Dahmen, HE Specht, N Mannig, V Ruan, L Keller, JF Baines, B Herpertz-Dahlmann, A Dempfle, J Seitz_
 
-[Source](https://doi.org/10.1038/s41419-024-06578-w)
 
----
+_Humans, Adolescent, Gastrointestinal Microbiome, Anorexia Nervosa, RNA, Ribosomal, 16S, Microbiota, Weight Gain_
+There is mounting evidence regarding the role of gut microbiota in anorexia nervosa (AN). Previous studies have reported that patients with AN show dysbiosis compared to healthy controls (HCs); however, the underlying mechanisms are unclear, and data on influencing factors and longitudinal course of microbiome changes are scarce. Here, we present longitudinal data of 57 adolescent inpatients diagnosed with AN at up to nine time points (including a 1-year follow-up examination) and compare these to up to six time points in 34 HCs. 16S rRNA gene sequencing was used to investigate the microbiome composition of fecal samples, and data on food intake, weight change, hormonal recovery (leptin levels), and clinical outcomes were recorded. Differences in microbiome composition compared to HCs were greatest during acute starvation and in the low-weight group, while diminishing with weight gain and especially weight recovery at the 1-year follow-up. Illness duration and prior weight loss were strongly associated with microbiome composition at hospital admission, whereas microbial changes during treatment were associated with kilocalories consumed, weight gain, and hormonal recovery. The microbiome at admission was prognostic for hospital readmission, and a higher abundance of Sutterella was associated with a higher body weight at the 1-year follow-up. Identifying these clinically important factors further underlines the potential relevance of gut microbial changes and may help elucidate the underlying pathophysiology of gut-brain interactions in AN. The characterization of prognostically relevant taxa could be useful to stratify patients at admission and to potentially identify candidate taxa for future supplementation studies aimed at improving AN treatment.
 
-## Microecological characteristics of water bodies/sediments and microbial remediation strategies after 50 years of pollution exposure in ammunition destruction sites in China
+[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2304158)
 
-[Source](https://doi.org/10.1016/j.envres.2024.118640)
-
----
-
-## Transkingdom Network Analysis (TkNA): a systems framework for inferring causal factors underlying host-microbiota and other multi-omic interactions
-
-[Source](https://doi.org/10.1038/s41596-024-00960-w)
+10.1080/19490976.2024.2304158
 
 ---
 
-## Resource competition predicts assembly of gut bacterial communities in vitro
+## The contribution of respiratory microbiome analysis to a treatable traits model of care.
+ 24.01.2020, _SL Taylor, HE O'Farrell, JL Simpson, IA Yang, GB Rogers_
 
-[Source](https://doi.org/10.1038/s41564-024-01625-w)
+
+_Airway Management, Humans, Metagenomics, Microbiological Phenomena, Microbiota, Models, Organizational, Patient Care Management, Pulmonary Disease, Chronic Obstructive, Respiratory System_
+The composition of the airway microbiome in patients with chronic airway diseases, such as severe asthma, chronic obstructive pulmonary disease (COPD), bronchiectasis and cystic fibrosis (CF), has the potential to inform a precision model of clinical care. Patients with these conditions share overlapping disease characteristics, including airway inflammation and airflow limitation. The clinical management of chronic respiratory conditions is increasingly moving away from a one-size-fits-all model based on primary diagnosis, towards care targeting individual disease traits, and is particularly useful for subgroups of patients who respond poorly to conventional therapies. Respiratory microbiome analysis is an important potential contributor to such a 'treatable traits' approach, providing insight into both microbial drivers of airways disease, and the selective characteristics of the changing lower airway environment. We explore the potential to integrate respiratory microbiome analysis into a treatable traits model of clinical care and provide a practical guide to the application and clinical interpretation of respiratory microbiome analysis.
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.12.04.569909v4)
+
+10.1111/resp.13411
+
+---
+
+## Healthy microbiome – moving towards functional interpretation
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.12.04.569909v4)
+
+---
+
+## Sociobiome – Individual and neighborhood socioeconomic status influence the gut microbiome in a multi-ethnic population in the US
+
+[Source](https://www.nature.com/articles/s41522-024-00491-y)
+
+---
+
+## Cryptic diversity of cellulose-degrading gut bacteria in industrialized humans.
+ 18.03.2024, _S Moraïs, S Winkler, A Zorea, L Levin, FSP Nagies, N Kapust, E Lamed, A Artan-Furman, DN Bolam, MP Yadav, EA Bayer, WF Martin, I Mizrahi_
+
+
+_Animals, Humans, Cellulose, Bacteria, Gastrointestinal Microbiome, Polysaccharides, Diet, Mammals_
+Humans, like all mammals, depend on the gut microbiome for digestion of cellulose, the main component of plant fiber. However, evidence for cellulose fermentation in the human gut is scarce. We have identified ruminococcal species in the gut microbiota of human populations that assemble functional multienzymatic cellulosome structures capable of degrading plant cell wall polysaccharides. One of these species, which is strongly associated with humans, likely originated in the ruminant gut and was subsequently transferred to the human gut, potentially during domestication where it underwent diversification and diet-related adaptation through the acquisition of genes from other gut microbes. Collectively, these species are abundant and widespread among ancient humans, hunter-gatherers, and rural populations but are rare in populations from industrialized societies thus indicating potential disappearance in response to the westernized lifestyle.
+
+[Source](https://www.science.org/doi/10.1126/science.adj9223)
+
+10.1126/science.adj9223
+
+---
+
+## Comprehensive analyses of a large human gut Bacteroidales culture collection reveal species and strain level diversity and evolution.
+ 18.03.2024, _ZJ Zhang, CG Cole, MJ Coyne, H Lin, N Dylla, RC Smith, E Waligurski, R Ramaswamy, C Woodson, V Burgo, JC Little, D Moran, A Rose, M McMillin, E McSpadden, A Sundararajan, AM Sidebottom, EG Pamer, LE Comstock_
+
+
+Species of the Bacteroidales order are among the most abundant and stable bacterial members of the human gut microbiome with diverse impacts on human health. While Bacteroidales strains and species are genomically and functionally diverse, order-wide comparative analyses are lacking. We cultured and sequenced the genomes of 408 Bacteroidales isolates from healthy human donors representing nine genera and 35 species and performed comparative genomic, gene-specific, mobile gene, and metabolomic analyses. Families, genera, and species could be grouped based on many distinctive features. However, we also show extensive DNA transfer between diverse families, allowing for shared traits and strain evolution. Inter- and intra-specific diversity is also apparent in the metabolomic profiling studies. This highly characterized and diverse Bacteroidales culture collection with strain-resolved genomic and metabolomic analyses can serve as a resource to facilitate informed selection of strains for microbiome reconstitution.
+
+[Source](https://www.biorxiv.org/content/10.1101/2024.03.08.584156v1)
+
+10.1101/2024.03.08.584156
+
+---
+
+## https://t.co/SQMbCohqoQ
+
+[Source](https://t.co/SQMbCohqoQ)
+
+---
+
+## Place of death in Parkinson's disease and related disorders in England and Wales: post-pandemic trends and implications for care planning.
+ 18.03.2024, _E Wilson, A Baker, L Stockley, V Allgar, E Richfield_
+
+
+With growing emphasis on palliative care for neurodegenerative conditions, understanding trends in place of death helps improve quality of end-of-life care for people with Parkinson's disease and related disorders (PDRDs), focusing allocation of resources and training and identifying inequalities.
+
+[Source](https://twitter.com/SZhangJerry/status/1769189530043596833?ref_src=twsrc%5Etfw)
+
+10.1093/ageing/afae048
+
+---
+
+## March 17, 2024
+
+[Source](https://twitter.com/SZhangJerry/status/1769189530043596833?ref_src=twsrc%5Etfw)
+
+---
+
+## A history of repeated antibiotic usage leads to microbiota-dependent mucus defects
+
+[Source](https://www.biorxiv.org/content/10.1101/2024.03.07.583875v1)
+
+---
+
+## Global abundance patterns, diversity, and ecology of Patescibacteria in wastewater treatment plants.
+ 18.03.2024, _H Hu, JM Kristensen, CW Herbold, P Pjevac, K Kitzinger, B Hausmann, MKD Dueholm, PH Nielsen, M Wagner_
+
+
+_Wastewater, RNA, Ribosomal, 16S, Bacteria, Microbiota, Water Purification_
+Microorganisms are responsible for nutrient removal and resource recovery in wastewater treatment plants (WWTPs), and their diversity is often studied by 16S rRNA gene amplicon sequencing. However, this approach underestimates the abundance and diversity of Patescibacteria due to the low coverage of commonly used PCR primers for this highly divergent bacterial phylum. Therefore, our current understanding of the global diversity, distribution, and ecological role of Patescibacteria in WWTPs is very incomplete. This is particularly relevant as Patescibacteria are considered to be associated with microbial host cells and can therefore influence the abundance and temporal variability of other microbial groups that are important for WWTP functioning.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01769-1)
+
+10.1186/s40168-024-01769-1
+
+---
+
+## @MicrobiomeJ
+
+[Source](https://twitter.com/MicrobiomeJ?ref_src=twsrc%5Etfw)
+
+---
+
+## Small cells - big issues: biological implications and preclinical advancements in small cell lung cancer.
+ 28.02.2024, _A Solta, B Ernhofer, K Boettiger, Z Megyesfalvi, S Heeke, MA Hoda, C Lang, C Aigner, FR Hirsch, K Schelch, B Döme_
+
+
+_Humans, Small Cell Lung Carcinoma, Lung Neoplasms, Immunotherapy, Transcription Factors_
+Current treatment guidelines refer to small cell lung cancer (SCLC), one of the deadliest human malignancies, as a homogeneous disease. Accordingly, SCLC therapy comprises chemoradiation with or without immunotherapy. Meanwhile, recent studies have made significant advances in subclassifying SCLC based on the elevated expression of the transcription factors ASCL1, NEUROD1, and POU2F3, as well as on certain inflammatory characteristics. The role of the transcription regulator YAP1 in defining a unique SCLC subset remains to be established. Although preclinical analyses have described numerous subtype-specific characteristics and vulnerabilities, the so far non-existing clinical subtype distinction may be a contributor to negative clinical trial outcomes. This comprehensive review aims to provide a framework for the development of novel personalized therapeutic approaches by compiling the most recent discoveries achieved by preclinical SCLC research. We highlight the challenges faced due to limited access to patient material as well as the advances accomplished by implementing state-of-the-art models and methodologies.
+
+[Source](https://twitter.com/DOME_Vienna?ref_src=twsrc%5Etfw)
+
+10.1186/s12943-024-01953-9
+
+---
+
+## @DOME_Vienna
+
+[Source](https://twitter.com/DOME_Vienna?ref_src=twsrc%5Etfw)
+
+---
+
+## @Jance89
+
+[Source](https://twitter.com/Jance89?ref_src=twsrc%5Etfw)
+
+---
+
+## Community shift from phototrophic to chemotrophic sulfide oxidation following anoxic holomixis in a stratified seawater lake.
+ 13.11.2018, _P Pjevac, M Korlević, JS Berg, E Bura-Nakić, I Ciglenečki, R Amann, S Orlić_
+
+
+_Anaerobiosis, Bacteria, Biota, DNA, Bacterial, Metagenomics, Molecular Sequence Data, Oxidation-Reduction, Phototrophic Processes, Seawater, Sequence Analysis, DNA, Sulfides_
+Most stratified sulfidic holomictic lakes become oxygenated after annual turnover. In contrast, Lake Rogoznica, on the eastern Adriatic coast, has been observed to undergo a period of water column anoxia after water layer mixing and establishment of holomictic conditions. Although Lake Rogoznica's chemistry and hydrography have been studied extensively, it is unclear how the microbial communities typically inhabiting the oxic epilimnion and a sulfidic hypolimnion respond to such a drastic shift in redox conditions. We investigated the impact of anoxic holomixis on microbial diversity and microbially mediated sulfur cycling in Lake Rogoznica with an array of culture-independent microbiological methods. Our data suggest a tight coupling between the lake's chemistry and occurring microorganisms. During stratification, anoxygenic phototrophic sulfur bacteria were dominant at the chemocline and in the hypolimnion. After an anoxic mixing event, the anoxygenic phototrophic sulfur bacteria entirely disappeared, and the homogeneous, anoxic water column was dominated by a bloom of gammaproteobacterial sulfur oxidizers related to the GSO/SUP05 clade. This study is the first report of a community shift from phototrophic to chemotrophic sulfide oxidizers as a response to anoxic holomictic conditions in a seasonally stratified seawater lake.
+
+[Source](https://twitter.com/ppjevac?ref_src=twsrc%5Etfw)
+
+10.1128/AEM.02435-14
+
+---
+
+## @ppjevac
+
+[Source](https://twitter.com/ppjevac?ref_src=twsrc%5Etfw)
+
+---
+
+## @MichiWagner4
+
+[Source](https://twitter.com/MichiWagner4?ref_src=twsrc%5Etfw)
+
+---
+
+## @msdueholm
+
+[Source](https://twitter.com/msdueholm?ref_src=twsrc%5Etfw)
+
+---
+
+## @PerHNielsen
+
+[Source](https://twitter.com/PerHNielsen?ref_src=twsrc%5Etfw)
+
+---
+
+## @_ocilisni_
+
+[Source](https://twitter.com/_ocilisni_?ref_src=twsrc%5Etfw)
+
+---
+
+## #CraigHerbold
+
+[Source](https://twitter.com/hashtag/CraigHerbold?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## #KathiKitzinger
+
+[Source](https://twitter.com/hashtag/KathiKitzinger?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/38eA5DEc3u
+
+[Source](https://t.co/38eA5DEc3u)
+
+---
+
+## Identifying excessive chronic alcohol use with phosphatidylethanol in patients with suspected severe injury-results from the IDART study.
+ 18.03.2024, _BM Jørgenrud, CC Bråthen, J Steinson Stenehjem, T Kristiansen, LA Rosseland, ST Bogstrand_
+
+
+Acute and chronic alcohol use are well-known risk factors for accidents and injuries, and concurrent psychoactive drug use can increase injury risk further. Phosphatidylethanol (PEth) 16:0/18:1 is a biomarker used to determine alcohol consumption the previous 3-4 weeks. The aim was to investigate the prevalence of chronic alcohol use in trauma patients, as determined by PEth 16:0/18:1 concentrations, and how excessive chronic alcohol use relate to demographic variables, injury mechanisms and drug use.
+
+[Source](https://twitter.com/Huifeng_Hu/status/1768940203186532493?ref_src=twsrc%5Etfw)
+
+10.1093/alcalc/agae014
+
+---
+
+## March 16, 2024
+
+[Source](https://twitter.com/Huifeng_Hu/status/1768940203186532493?ref_src=twsrc%5Etfw)
+
+---
+
+## Challenges in computational discovery of bioactive peptides in 'omics data.
+ 08.03.2024, _LP Coelho, CD Santos-Júnior, C de la Fuente-Nunez_
+
+
+Peptides have a plethora of activities in biological systems that can potentially be exploited biotechnologically. Several peptides are used clinically, as well as in industry and agriculture. The increase in available 'omics data has recently provided a large opportunity for mining novel enzymes, biosynthetic gene clusters, and molecules. While these data primarily consist of DNA sequences, other types of data provide important complementary information. Due to their size, the approaches proven successful at discovering novel proteins of canonical size cannot be naïvely applied to the discovery of peptides. Peptides can be encoded directly in the genome as short open reading frames (smORFs), or they can be derived from larger proteins by proteolysis. Both of these peptide classes pose challenges as simple methods for their prediction result in large numbers of false positives. Similarly, functional annotation of larger proteins, traditionally based on sequence similarity to infer orthology and then transferring functions between characterized proteins and uncharacterized ones, cannot be applied for short sequences. The use of these techniques is much more limited and alternative approaches based on machine learning are used instead. Here, we review the limitations of traditional methods as well as the alternative methods that have recently been developed for discovering novel bioactive peptides with a focus on prokaryotic genomes and metagenomes.
+
+[Source](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/pmic.202300105)
+
+10.1002/pmic.202300105
+
+---
+
+## Challenges in computational discovery of bioactive peptides in ’omics data – Luis Pedro Coelho
+
+[Source](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/pmic.202300105)
+
+---
+
+## For long-term sustainable software in bioinformatics.
+ 18.03.2024, _LP Coelho_
+
+
+_Computational Biology, Software_
+
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011920)
+
+10.1371/journal.pcbi.1011920
+
+---
+
+## Data-driven prediction of colonization outcomes for complex microbial communities.
+ 18.03.2024, _L Wu, XW Wang, Z Tao, T Wang, W Zuo, Y Zeng, YY Liu, L Dai_
+
+
+_Humans, Microbiota, Feces, Enterococcus faecium, Microbial Interactions, Enterococcus faecalis_
+Microbial interactions can lead to different colonization outcomes of exogenous species, be they pathogenic or beneficial in nature. Predicting the colonization of exogenous species in complex communities remains a fundamental challenge in microbial ecology, mainly due to our limited knowledge of the diverse mechanisms governing microbial dynamics. Here, we propose a data-driven approach independent of any dynamics model to predict colonization outcomes of exogenous species from the baseline compositions of microbial communities. We systematically validate this approach using synthetic data, finding that machine learning models can predict not only the binary colonization outcome but also the post-invasion steady-state abundance of the invading species. Then we conduct colonization experiments for commensal gut bacteria species Enterococcus faecium and Akkermansia muciniphila in hundreds of human stool-derived in vitro microbial communities, confirming that the data-driven approaches can predict the colonization outcomes in experiments. Furthermore, we find that while most resident species are predicted to have a weak negative impact on the colonization of exogenous species, strongly interacting species could significantly alter the colonization outcomes, e.g., Enterococcus faecalis inhibits the invasion of E. faecium invasion. The presented results suggest that the data-driven approaches are powerful tools to inform the ecology and management of microbial communities.
+
+[Source](https://www.nature.com/articles/s41467-024-46766-y)
+
+10.1038/s41467-024-46766-y
+
+---
+
+## pic.twitter.com/oeRFQGfBDx
+
+[Source](https://t.co/oeRFQGfBDx)
+
+---
+
+## Place of death in Parkinson's disease and related disorders in England and Wales: post-pandemic trends and implications for care planning.
+ 18.03.2024, _E Wilson, A Baker, L Stockley, V Allgar, E Richfield_
+
+
+With growing emphasis on palliative care for neurodegenerative conditions, understanding trends in place of death helps improve quality of end-of-life care for people with Parkinson's disease and related disorders (PDRDs), focusing allocation of resources and training and identifying inequalities.
+
+[Source](https://twitter.com/alifcoder/status/1769389993464824185?ref_src=twsrc%5Etfw)
+
+10.1093/ageing/afae048
+
+---
+
+## March 17, 2024
+
+[Source](https://twitter.com/alifcoder/status/1769389993464824185?ref_src=twsrc%5Etfw)
 
 ---
 
