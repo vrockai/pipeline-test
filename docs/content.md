@@ -22,15 +22,15 @@ Reactions for drug synthesis under cell-like conditions or even inside living ce
 
 ---
 
-## A pandemic of delirium: an updated systematic review and meta-analysis of occurrence of delirium in older adults with COVID-19.
- 18.03.2024, _MB Zazzara, AM Ornago, C Cocchi, E Serafini, G Bellelli, G Onder_
+## A 12-week randomized double-blind clinical trial of eicosapentaenoic acid intervention in episodic migraine.
+ 18.03.2024, _HF Wang, WC Liu, H Zailani, CC Yang, TB Chen, CM Chang, IJ Tsai, CP Yang, KP Su_
 
 
-Delirium has been recognized as an atypical presenting feature of COVID-19 in older adults and is independently associated with mortality. We aimed to perform an updated systematic review of the literature and proportional meta-analysis to assess prevalence and incidence of delirium in older adults with COVID-19, addressing differences according to sex, frailty status, and settings.
+Omega-3 polyunsaturated fatty acids (PUFAs) may benefit migraine improvement, though prior studies are inconclusive. This study evaluated the effect of eicosapentaenoic acid (EPA) on episodic migraine (EM) prevention. Seventy individuals with EM participated in a 12-week randomized, double-blind, placebo-controlled trial from March 2020 and May 2022. They were randomly assigned to either the EPA (N = 35, 2 g fish oil with 1.8 mg of EPA as a stand-alone treatment daily), or the placebo group (N = 35, 2 g soybean oil daily). Migraine frequency and headache severity were assessed using the monthly migraine days, visual analog scale (VAS), Migraine Disability Assessment (MIDAS), Hospital Anxiety and Depression Scale (HADS), Migraine-Specific Quality-of-Life Questionnaire (MSQ), and Pittsburgh Sleep Quality Index (PSQI) in comparison to baseline measurements. The EPA group significantly outperformed the placebo in reducing monthly migraine days (-4.4 ± 5.1 days vs. - 0.6 ± 3.5 days, p = 0.001), days using acute headache medication (-1.3 ± 3.0 days vs. 0.1 ± 2.3 days, p = 0.035), improving scores for headache severity (ΔVAS score: -1.3 ± 2.4 vs. 0.0 ± 2.2, p = 0.030), disability (ΔMIDAS score: -13.1 ± 16.2 vs. 2.6 ± 20.2, p = 0.001), anxiety and depression (ΔHADS score: -3.9 ± 9.4 vs. 1.1 ± 9.1, p = 0.025), and quality of life (ΔMSQ score: -11.4 ± 19.0 vs. 3.1 ± 24.6, p = 0.007). Notably, female particularly benefited from EPA, underscoring its potential in migraine management. In conclusion, high-dose EPA has significantly reduced migraine frequency and severity, improved psychological symptoms and quality of life in EM patients, and shown no major adverse events, suggesting its potential as a prophylactic for EM.
 
 [Source](https://twitter.com/outreachy/status/1766100995757531296?ref_src=twsrc%5Etfw)
 
-10.1007/s41999-023-00906-7
+10.1016/j.bbi.2024.03.019
 
 ---
 
@@ -96,15 +96,15 @@ Two-dimensional covalent organic frameworks (2D COFs) are considered as potentia
 
 ---
 
-## Are changes in patient-reported outcomes prognostic for diffuse large B-Cell lymphoma survival? Results from the GOYA trial.
- 18.03.2024, _JT Yan, C Bel, PC Trask, E Lo_
+## Pracinostat combined with azacitidine in newly diagnosed adult acute myeloid leukemia (AML) patients unfit for standard induction chemotherapy: PRIMULA phase III study.
+ 18.03.2024, _G Garcia-Manero, M Kazmierczak, A Wierzbowska, CY Fong, MK Keng, G Ballinari, F Scarci, L Adès_
 
 
-In this hypothesis-generating analysis, we examined whether longitudinal changes in patient-reported outcomes (PROs), such as symptoms, over time would be prognostic for progression-free survival (PFS) and overall survival (OS) in patients with diffuse large B-cell lymphoma (DLBCL) who were newly treated with obinutuzumab (G) in combination with CHOP (G-CHOP) or rituximab (R) with CHOP (R-CHOP), in the GOYA Phase 3 trial (NCT01287741). Our results show that from the study baseline to cycle 3 day 1, every 1-point increase (worsening) in fever symptoms was associated with a 41% higher risk of death (hazard ratio [HR], 1.41; P = 0.01). Every 1-point increase (worsening) in lumps or swelling symptoms was associated with a 27% higher risk of disease progression or death (PFS events) (HR, 1.27; P = 0.01) and a 29% higher risk of death (OS events) (HR, 1.29; P = 0.02). No significant associations were observed between survival and changes in other symptoms, such as itching. Our study suggests that changes in some PROs are related to survival in DLBCL patients.
+Non-intensive therapies such as the hypomethylating agent (HMA) azacitidine (AZA) have been used in patients with AML ineligible for intensive induction chemotherapy (IC) or stem cell transplant due to advanced age, comorbidities, and/or risk factors. However, response rates and survival remain dismal. Pre-clinical studies indicate the epigenetic combination of HMAs and HDAC inhibitors induce re-expression of silenced genes synergistically. The activity of pracinostat, an oral pan-HDAC inhibitor, has been shown in xenograft tumor models of AML and promising efficacy was seen in a Phase 2 study. This Phase 3 study (NCT03151408) evaluated the efficacy/safety of pracinostat administered with AZA in adult patients with newly diagnosed AML ineligible to receive IC. Patients were randomized to either pracinostat plus AZA or placebo/AZA and stratified by cytogenetic risk and ECOG status. As planned, an interim analysis was performed when 232/390 events (deaths) occurred. A total of 406 patients were randomized (203/group) at the time of the analysis. Median overall survival was 9.95 months for both treatment groups (p=0.8275). There was no significant difference between treatments in secondary efficacy endpoints, reflecting a lack of clinical response. This study did not show a benefit of adding pracinostat to AZA in elderly patients unfit for IC.
 
 [Source](https://twitter.com/Roche?ref_src=twsrc%5Etfw)
 
-10.1186/s41687-024-00708-w
+10.1016/j.leukres.2024.107480
 
 ---
 
@@ -156,33 +156,15 @@ In this hypothesis-generating analysis, we examined whether longitudinal changes
 
 ---
 
-## Basic Environmental Supports for Positive Brain and Cognitive Development in the First Year of Life.
- 18.03.2024, _JL Luby, MP Herzberg, C Hoyniak, R Tillman, RE Lean, R Brady, R Triplett, D Alexopoulos, D Loseille, T Smyser, CE Rogers, B Warner, CD Smyser, DM Barch_
-
-
-Defining basic psychosocial resources to facilitate thriving in the first year of life could tangibly inform policy and enhance child development worldwide.
-
-[Source](https://twitter.com/DylanMaghini/status/1768732511402893611?ref_src=twsrc%5Etfw)
-
-10.1001/jamapediatrics.2024.0143
-
----
-
 ## March 15, 2024
 
 [Source](https://twitter.com/DylanMaghini/status/1768732511402893611?ref_src=twsrc%5Etfw)
 
 ---
 
-## The individual response to antibiotics and diet - insights into gut microbial resilience and host metabolism.
- 15.03.2024, _LMM Vliex, J Penders, A Nauta, EG Zoetendal, EE Blaak_
-
-
-Antibiotic use disrupts microbial composition and activity in humans, but whether this disruption in turn affects host metabolic health is unclear. Cohort studies show associations between antibiotic use and an increased risk of developing obesity and type 2 diabetes mellitus. Here, we review available clinical trials and show the disruptive effect of antibiotic use on the gut microbiome in humans, as well as its impact on bile acid metabolism and microbial metabolites such as short-chain fatty acids. Placebo-controlled human studies do not show a consistent effect of antibiotic use on body weight and insulin sensitivity at a population level, but rather an individual-specific or subgroup-specific response. This response to antibiotic use is affected by the resistance and resilience of the gut microbiome, factors that determine the extent of disruption and the speed of recovery afterwards. Nutritional strategies to improve the composition and functionality of the gut microbiome, as well as its recovery after antibiotic use (for instance, with prebiotics), require a personalized approach to increase their efficacy. Improved insights into key factors that influence the individual-specific response to antibiotics and dietary intervention may lead to better efficacy in reversing or preventing antibiotic-induced microbial dysbiosis as well as strategies for preventing cardiometabolic diseases.
+## The individual response to antibiotics and diet — insights into gut microbial resilience and host metabolism
 
 [Source](https://www.nature.com/articles/s41574-024-00966-0)
-
-10.1038/s41574-024-00966-0
 
 ---
 
@@ -192,42 +174,15 @@ Antibiotic use disrupts microbial composition and activity in humans, but whethe
 
 ---
 
-## Multi-omics analysis of the gut microbiome and metabolites associated with the psychoneurological symptom cluster in children with cancer receiving chemotherapy.
- 12.03.2024, _J Bai, R Eldridge, M Houser, M Martin, C Powell, KS Sutton, HI Noh, Y Wu, T Olson, KT Konstantinidis, DW Bruner_
-
-
-_Humans, Child, Gastrointestinal Microbiome, Metabolomics, Syndrome, Multiomics, Tryptophan, RNA, Ribosomal, 16S, Case-Control Studies, Metabolome, Neoplasms, Fatty Acids, Carnitine, Feces_
-Children with cancer receiving chemotherapy commonly report a cluster of psychoneurological symptoms (PNS), including pain, fatigue, anxiety, depression, and cognitive dysfunction. The role of the gut microbiome and its functional metabolites in PNS is rarely studied among children with cancer. This study investigated the associations between the gut microbiome-metabolome pathways and PNS in children with cancer across chemotherapy as compared to healthy children.
+## Multi-omics analysis of the gut microbiome and metabolites associated with the psychoneurological symptom cluster in children with cancer receiving chemotherapy
 
 [Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-05066-1)
 
-10.1186/s12967-024-05066-1
-
 ---
 
-## Longitudinal analysis of the gut microbiome in adolescent patients with anorexia nervosa: microbiome-related factors associated with clinical outcome.
- 06.02.2024, _NA Andreani, A Sharma, B Dahmen, HE Specht, N Mannig, V Ruan, L Keller, JF Baines, B Herpertz-Dahlmann, A Dempfle, J Seitz_
-
-
-_Humans, Adolescent, Gastrointestinal Microbiome, Anorexia Nervosa, RNA, Ribosomal, 16S, Microbiota, Weight Gain_
-There is mounting evidence regarding the role of gut microbiota in anorexia nervosa (AN). Previous studies have reported that patients with AN show dysbiosis compared to healthy controls (HCs); however, the underlying mechanisms are unclear, and data on influencing factors and longitudinal course of microbiome changes are scarce. Here, we present longitudinal data of 57 adolescent inpatients diagnosed with AN at up to nine time points (including a 1-year follow-up examination) and compare these to up to six time points in 34 HCs. 16S rRNA gene sequencing was used to investigate the microbiome composition of fecal samples, and data on food intake, weight change, hormonal recovery (leptin levels), and clinical outcomes were recorded. Differences in microbiome composition compared to HCs were greatest during acute starvation and in the low-weight group, while diminishing with weight gain and especially weight recovery at the 1-year follow-up. Illness duration and prior weight loss were strongly associated with microbiome composition at hospital admission, whereas microbial changes during treatment were associated with kilocalories consumed, weight gain, and hormonal recovery. The microbiome at admission was prognostic for hospital readmission, and a higher abundance of Sutterella was associated with a higher body weight at the 1-year follow-up. Identifying these clinically important factors further underlines the potential relevance of gut microbial changes and may help elucidate the underlying pathophysiology of gut-brain interactions in AN. The characterization of prognostically relevant taxa could be useful to stratify patients at admission and to potentially identify candidate taxa for future supplementation studies aimed at improving AN treatment.
+## Longitudinal analysis of the gut microbiome in adolescent patients with anorexia nervosa: microbiome-related factors associated with clinical outcome
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2304158)
-
-10.1080/19490976.2024.2304158
-
----
-
-## The contribution of respiratory microbiome analysis to a treatable traits model of care.
- 24.01.2020, _SL Taylor, HE O'Farrell, JL Simpson, IA Yang, GB Rogers_
-
-
-_Airway Management, Humans, Metagenomics, Microbiological Phenomena, Microbiota, Models, Organizational, Patient Care Management, Pulmonary Disease, Chronic Obstructive, Respiratory System_
-The composition of the airway microbiome in patients with chronic airway diseases, such as severe asthma, chronic obstructive pulmonary disease (COPD), bronchiectasis and cystic fibrosis (CF), has the potential to inform a precision model of clinical care. Patients with these conditions share overlapping disease characteristics, including airway inflammation and airflow limitation. The clinical management of chronic respiratory conditions is increasingly moving away from a one-size-fits-all model based on primary diagnosis, towards care targeting individual disease traits, and is particularly useful for subgroups of patients who respond poorly to conventional therapies. Respiratory microbiome analysis is an important potential contributor to such a 'treatable traits' approach, providing insight into both microbial drivers of airways disease, and the selective characteristics of the changing lower airway environment. We explore the potential to integrate respiratory microbiome analysis into a treatable traits model of clinical care and provide a practical guide to the application and clinical interpretation of respiratory microbiome analysis.
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.12.04.569909v4)
-
-10.1111/resp.13411
 
 ---
 
@@ -243,16 +198,9 @@ The composition of the airway microbiome in patients with chronic airway disease
 
 ---
 
-## Cryptic diversity of cellulose-degrading gut bacteria in industrialized humans.
- 18.03.2024, _S Moraïs, S Winkler, A Zorea, L Levin, FSP Nagies, N Kapust, E Lamed, A Artan-Furman, DN Bolam, MP Yadav, EA Bayer, WF Martin, I Mizrahi_
-
-
-_Animals, Humans, Cellulose, Bacteria, Gastrointestinal Microbiome, Polysaccharides, Diet, Mammals_
-Humans, like all mammals, depend on the gut microbiome for digestion of cellulose, the main component of plant fiber. However, evidence for cellulose fermentation in the human gut is scarce. We have identified ruminococcal species in the gut microbiota of human populations that assemble functional multienzymatic cellulosome structures capable of degrading plant cell wall polysaccharides. One of these species, which is strongly associated with humans, likely originated in the ruminant gut and was subsequently transferred to the human gut, potentially during domestication where it underwent diversification and diet-related adaptation through the acquisition of genes from other gut microbes. Collectively, these species are abundant and widespread among ancient humans, hunter-gatherers, and rural populations but are rare in populations from industrialized societies thus indicating potential disappearance in response to the westernized lifestyle.
+## Cryptic diversity of cellulose-degrading gut bacteria in industrialized humans
 
 [Source](https://www.science.org/doi/10.1126/science.adj9223)
-
-10.1126/science.adj9223
 
 ---
 
@@ -274,15 +222,15 @@ Species of the Bacteroidales order are among the most abundant and stable bacter
 
 ---
 
-## A pandemic of delirium: an updated systematic review and meta-analysis of occurrence of delirium in older adults with COVID-19.
- 18.03.2024, _MB Zazzara, AM Ornago, C Cocchi, E Serafini, G Bellelli, G Onder_
+## Longitudinal Outcomes of COVID-19 in Solid Organ Transplant Recipients from 2020 to 2023.
+ 18.03.2024, _JT Solera, BG Árbol, A Mittal, V Hall, T Marinelli, I Bahinskaya, N Selzner, M McDonald, J Schiff, A Sidhu, A Humar, D Kumar_
 
 
-Delirium has been recognized as an atypical presenting feature of COVID-19 in older adults and is independently associated with mortality. We aimed to perform an updated systematic review of the literature and proportional meta-analysis to assess prevalence and incidence of delirium in older adults with COVID-19, addressing differences according to sex, frailty status, and settings.
+Data regarding COVID-19 outcomes in solid organ transplant recipients(SOTr) across SARS-CoV-2 waves, including the impact of different measures, is lacking. This cohort study, conducted from March 2020-May 2023 in Toronto, Canada, aimed to analyze COVID-19 outcomes in 1,975 SOTr across various SARS-CoV-2 waves and assess the impact of preventive and treatment measures. The primary outcome was severe COVID-19, defined as requiring supplemental oxygen, with secondary outcomes including hospitalization, length of stay, ICU admission, and 30-day and 1-year all-cause mortality. SARS-CoV-2 waves were categorized as Wildtype/Alpha/Delta(318 cases, 16.1%), Omicron-BA.1(268, 26.2%), Omicron-BA.2(268, 13.6%), Omicron-BA.5(561, 28.4%), Omicron-BQ.1.1(188, 9.5%), and Omicron-XBB.1.5(123, 6.2%). Severe COVID-19 rate was highest during the Wildtype/Alpha/Delta wave(44.6%), and lower in Omicron waves(5.7-16.1%). Lung transplantation was associated with severe COVID-19(OR:4.62, 95%CI:2.71-7.89), along with rituximab treatment(OR:4.24, 95%CI:1.04-17.3), long-term corticosteroid use(OR:3.11, 95%CI:1.46-6.62), older age(OR: 1.51, 95%CI:1.30-1.76), chronic lung disease(OR:2.11, 95%CI:1.36-3.30), chronic kidney disease(OR:2.18, 95%CI:1.17-4.07), and diabetes(OR:1.97, 95%CI:1.37-2.83). Early treatment and ≥3 vaccine doses were associated with reduced severity(OR: 0.29, 95%CI:0.19-0.46, and 0.35, 95%CI:0.21-0.60, respectively). Tixagevimab/cilgavimab and bivalent boosters did not show a significant impact. The study concludes that COVID-19 severity decreased across different variants in SOTr. Lung transplantation was associated with worse outcomes and may benefit more from preventive and early therapeutic interventions.
 
 [Source](https://twitter.com/SZhangJerry/status/1769189530043596833?ref_src=twsrc%5Etfw)
 
-10.1007/s41999-023-00906-7
+10.1016/j.ajt.2024.03.011
 
 ---
 
@@ -403,33 +351,9 @@ Most stratified sulfidic holomictic lakes become oxygenated after annual turnove
 
 ---
 
-## A pandemic of delirium: an updated systematic review and meta-analysis of occurrence of delirium in older adults with COVID-19.
- 18.03.2024, _MB Zazzara, AM Ornago, C Cocchi, E Serafini, G Bellelli, G Onder_
-
-
-Delirium has been recognized as an atypical presenting feature of COVID-19 in older adults and is independently associated with mortality. We aimed to perform an updated systematic review of the literature and proportional meta-analysis to assess prevalence and incidence of delirium in older adults with COVID-19, addressing differences according to sex, frailty status, and settings.
-
-[Source](https://twitter.com/Huifeng_Hu/status/1768940203186532493?ref_src=twsrc%5Etfw)
-
-10.1007/s41999-023-00906-7
-
----
-
 ## March 16, 2024
 
 [Source](https://twitter.com/Huifeng_Hu/status/1768940203186532493?ref_src=twsrc%5Etfw)
-
----
-
-## Challenges in computational discovery of bioactive peptides in 'omics data.
- 08.03.2024, _LP Coelho, CD Santos-Júnior, C de la Fuente-Nunez_
-
-
-Peptides have a plethora of activities in biological systems that can potentially be exploited biotechnologically. Several peptides are used clinically, as well as in industry and agriculture. The increase in available 'omics data has recently provided a large opportunity for mining novel enzymes, biosynthetic gene clusters, and molecules. While these data primarily consist of DNA sequences, other types of data provide important complementary information. Due to their size, the approaches proven successful at discovering novel proteins of canonical size cannot be naïvely applied to the discovery of peptides. Peptides can be encoded directly in the genome as short open reading frames (smORFs), or they can be derived from larger proteins by proteolysis. Both of these peptide classes pose challenges as simple methods for their prediction result in large numbers of false positives. Similarly, functional annotation of larger proteins, traditionally based on sequence similarity to infer orthology and then transferring functions between characterized proteins and uncharacterized ones, cannot be applied for short sequences. The use of these techniques is much more limited and alternative approaches based on machine learning are used instead. Here, we review the limitations of traditional methods as well as the alternative methods that have recently been developed for discovering novel bioactive peptides with a focus on prokaryotic genomes and metagenomes.
-
-[Source](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/pmic.202300105)
-
-10.1002/pmic.202300105
 
 ---
 
@@ -439,46 +363,21 @@ Peptides have a plethora of activities in biological systems that can potentiall
 
 ---
 
-## For long-term sustainable software in bioinformatics.
- 18.03.2024, _LP Coelho_
-
-
-_Computational Biology, Software_
+## For long-term sustainable software in bioinformatics
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011920)
 
-10.1371/journal.pcbi.1011920
-
 ---
 
-## Data-driven prediction of colonization outcomes for complex microbial communities.
- 18.03.2024, _L Wu, XW Wang, Z Tao, T Wang, W Zuo, Y Zeng, YY Liu, L Dai_
-
-
-_Humans, Microbiota, Feces, Enterococcus faecium, Microbial Interactions, Enterococcus faecalis_
-Microbial interactions can lead to different colonization outcomes of exogenous species, be they pathogenic or beneficial in nature. Predicting the colonization of exogenous species in complex communities remains a fundamental challenge in microbial ecology, mainly due to our limited knowledge of the diverse mechanisms governing microbial dynamics. Here, we propose a data-driven approach independent of any dynamics model to predict colonization outcomes of exogenous species from the baseline compositions of microbial communities. We systematically validate this approach using synthetic data, finding that machine learning models can predict not only the binary colonization outcome but also the post-invasion steady-state abundance of the invading species. Then we conduct colonization experiments for commensal gut bacteria species Enterococcus faecium and Akkermansia muciniphila in hundreds of human stool-derived in vitro microbial communities, confirming that the data-driven approaches can predict the colonization outcomes in experiments. Furthermore, we find that while most resident species are predicted to have a weak negative impact on the colonization of exogenous species, strongly interacting species could significantly alter the colonization outcomes, e.g., Enterococcus faecalis inhibits the invasion of E. faecium invasion. The presented results suggest that the data-driven approaches are powerful tools to inform the ecology and management of microbial communities.
+## Data-driven prediction of colonization outcomes for complex microbial communities
 
 [Source](https://www.nature.com/articles/s41467-024-46766-y)
-
-10.1038/s41467-024-46766-y
 
 ---
 
 ## pic.twitter.com/oeRFQGfBDx
 
 [Source](https://t.co/oeRFQGfBDx)
-
----
-
-## A pandemic of delirium: an updated systematic review and meta-analysis of occurrence of delirium in older adults with COVID-19.
- 18.03.2024, _MB Zazzara, AM Ornago, C Cocchi, E Serafini, G Bellelli, G Onder_
-
-
-Delirium has been recognized as an atypical presenting feature of COVID-19 in older adults and is independently associated with mortality. We aimed to perform an updated systematic review of the literature and proportional meta-analysis to assess prevalence and incidence of delirium in older adults with COVID-19, addressing differences according to sex, frailty status, and settings.
-
-[Source](https://twitter.com/alifcoder/status/1769389993464824185?ref_src=twsrc%5Etfw)
-
-10.1007/s41999-023-00906-7
 
 ---
 
