@@ -22,34 +22,9 @@ Reactions for drug synthesis under cell-like conditions or even inside living ce
 
 ---
 
-## A 12-week randomized double-blind clinical trial of eicosapentaenoic acid intervention in episodic migraine.
- 18.03.2024, _HF Wang, WC Liu, H Zailani, CC Yang, TB Chen, CM Chang, IJ Tsai, CP Yang, KP Su_
-
-
-Omega-3 polyunsaturated fatty acids (PUFAs) may benefit migraine improvement, though prior studies are inconclusive. This study evaluated the effect of eicosapentaenoic acid (EPA) on episodic migraine (EM) prevention. Seventy individuals with EM participated in a 12-week randomized, double-blind, placebo-controlled trial from March 2020 and May 2022. They were randomly assigned to either the EPA (N = 35, 2 g fish oil with 1.8 mg of EPA as a stand-alone treatment daily), or the placebo group (N = 35, 2 g soybean oil daily). Migraine frequency and headache severity were assessed using the monthly migraine days, visual analog scale (VAS), Migraine Disability Assessment (MIDAS), Hospital Anxiety and Depression Scale (HADS), Migraine-Specific Quality-of-Life Questionnaire (MSQ), and Pittsburgh Sleep Quality Index (PSQI) in comparison to baseline measurements. The EPA group significantly outperformed the placebo in reducing monthly migraine days (-4.4 ± 5.1 days vs. - 0.6 ± 3.5 days, p = 0.001), days using acute headache medication (-1.3 ± 3.0 days vs. 0.1 ± 2.3 days, p = 0.035), improving scores for headache severity (ΔVAS score: -1.3 ± 2.4 vs. 0.0 ± 2.2, p = 0.030), disability (ΔMIDAS score: -13.1 ± 16.2 vs. 2.6 ± 20.2, p = 0.001), anxiety and depression (ΔHADS score: -3.9 ± 9.4 vs. 1.1 ± 9.1, p = 0.025), and quality of life (ΔMSQ score: -11.4 ± 19.0 vs. 3.1 ± 24.6, p = 0.007). Notably, female particularly benefited from EPA, underscoring its potential in migraine management. In conclusion, high-dose EPA has significantly reduced migraine frequency and severity, improved psychological symptoms and quality of life in EM patients, and shown no major adverse events, suggesting its potential as a prophylactic for EM.
-
-[Source](https://twitter.com/outreachy/status/1766100995757531296?ref_src=twsrc%5Etfw)
-
-10.1016/j.bbi.2024.03.019
-
----
-
 ## March 8, 2024
 
 [Source](https://twitter.com/outreachy/status/1766100995757531296?ref_src=twsrc%5Etfw)
-
----
-
-## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
- 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
-
-
-_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
-This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
-
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
-
-10.3390/ijerph19010099
 
 ---
 
@@ -59,52 +34,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## The effect of supplementing pony diets with yeast on 2. The faecal microbiome.
- 21.12.2020, _A Garber, PM Hastie, V Farci, D McGuinness, L Bulmer, O Alzahal, JMD Murray_
-
-
-_Animal Feed, Animals, Diet, Feces, Horses, Male, Microbiota, Saccharomyces cerevisiae_
-There is a need to develop feeding strategies to prevent the adverse effect of concentrate feeding in high-performance horses fed energy-dense diets aiming to maintain their health and welfare. The objective of this study is to determine the effect of a VistaEQ product containing 4% live yeast Saccharomyces cerevisiae (S. cerevisiae), with activity 5 × 108 colony-forming unit/g and fed 2 g/pony per day, on faecal microbial populations when supplemented with high-starch and high-fibre diets using Illumina next generation sequencing of the V3-V4 region of the 16S ribosomal RNA gene. The four treatments were allocated to eight mature Welsh section A pony geldings enrolled in a 4-period × 8 animal crossover design. Each 19-day experimental period consisted of an 18-day adaptation phase and a single collection day, followed by a 7-day wash out period. After DNA extraction from faeces and library preparation, α-diversity and linear discriminant analysis effect size were performed using 16S metagenomics pipeline in Quantitative Insights Into Microbial Ecology (QIIME™) and Galaxy/Hutlab. Differences between the groups were considered significant when linear discriminant analysis score was &gt;2 corresponding to P &lt; 0.05. The present study showed that S. cerevisiae used was able to induce positive changes in the equine microbiota when supplemented to a high-fibre diet: it increased relative abundance (RA) of Lachnospiraceae and Dehalobacteriaceae family members associated with a healthy core microbiome. Yeast supplementation also increased the RA of fibrolytic bacteria (Ruminococcus) when fed with a high-fibre diet and reduced the RA of lactate producing bacteria (Streptococcus) when a high-starch diet was fed. In addition, yeast increased the RA of acetic, succinic acid producing bacterial family (Succinivibrionaceae) and butyrate producing bacterial genus (Roseburia) when fed with high-starch and high-fibre diets, respectively. VistaEQ supplementation to equine diets can be potentially used to prevent acidosis and increase fibre digestibility. It may help to meet the energy requirements of performance horses while maintaining gut health.
-
-[Source](https://twitter.com/hutlab?ref_src=twsrc%5Etfw)
-
-10.1017/S1751731120001512
-
----
-
 ## @hutlab
 
 [Source](https://twitter.com/hutlab?ref_src=twsrc%5Etfw)
 
 ---
 
-## Single-Phase Covalent Organic Framework Staggered Stacking Nanosheet Membrane for CO2 -Selective Separation.
- 17.08.2021, _P Wang, Y Peng, C Zhu, R Yao, H Song, L Kun, W Yang_
-
-
-Two-dimensional covalent organic frameworks (2D COFs) are considered as potential candidates for gas separation membranes, benefiting from permanent porosity, light-weight skeletons, excellent stability and facilely-tailored functionalities. However, their pore sizes are generally larger than the kinetic diameters of common gas molecules. One great challenge is the fabrication of single-phase COF membranes to realize precise gas separations. Herein, three kinds of high-quality β-ketoenamine-type COF nanosheets with different pore sizes were developed and aggregated to ultrathin nanosheet membranes with distinctive staggered stacking patterns. The narrowed pore sizes derived from the micro-structures and selective adsorption capacities synergistically endowed the COF membranes with intriguing CO2 -philic separation performances, among which TpPa-2 with medium pore size exhibited an optimal CO2 /H2 separation factor of 22 and a CO2 permeance of 328 gas permeation units at 298 K. This membrane performance reached the target with commercial feasibility for syngas separations.
-
-[Source](https://twitter.com/Kun_L_H?ref_src=twsrc%5Etfw)
-
-10.1002/anie.202106346
-
----
-
 ## @Kun_L_H
 
 [Source](https://twitter.com/Kun_L_H?ref_src=twsrc%5Etfw)
-
----
-
-## Pracinostat combined with azacitidine in newly diagnosed adult acute myeloid leukemia (AML) patients unfit for standard induction chemotherapy: PRIMULA phase III study.
- 18.03.2024, _G Garcia-Manero, M Kazmierczak, A Wierzbowska, CY Fong, MK Keng, G Ballinari, F Scarci, L Adès_
-
-
-Non-intensive therapies such as the hypomethylating agent (HMA) azacitidine (AZA) have been used in patients with AML ineligible for intensive induction chemotherapy (IC) or stem cell transplant due to advanced age, comorbidities, and/or risk factors. However, response rates and survival remain dismal. Pre-clinical studies indicate the epigenetic combination of HMAs and HDAC inhibitors induce re-expression of silenced genes synergistically. The activity of pracinostat, an oral pan-HDAC inhibitor, has been shown in xenograft tumor models of AML and promising efficacy was seen in a Phase 2 study. This Phase 3 study (NCT03151408) evaluated the efficacy/safety of pracinostat administered with AZA in adult patients with newly diagnosed AML ineligible to receive IC. Patients were randomized to either pracinostat plus AZA or placebo/AZA and stratified by cytogenetic risk and ECOG status. As planned, an interim analysis was performed when 232/390 events (deaths) occurred. A total of 406 patients were randomized (203/group) at the time of the analysis. Median overall survival was 9.95 months for both treatment groups (p=0.8275). There was no significant difference between treatments in secondary efficacy endpoints, reflecting a lack of clinical response. This study did not show a benefit of adding pracinostat to AZA in elderly patients unfit for IC.
-
-[Source](https://twitter.com/Roche?ref_src=twsrc%5Etfw)
-
-10.1016/j.leukres.2024.107480
 
 ---
 
@@ -186,6 +124,19 @@ Non-intensive therapies such as the hypomethylating agent (HMA) azacitidine (AZA
 
 ---
 
+## The contribution of respiratory microbiome analysis to a treatable traits model of care.
+ 24.01.2020, _SL Taylor, HE O'Farrell, JL Simpson, IA Yang, GB Rogers_
+
+
+_Airway Management, Humans, Metagenomics, Microbiological Phenomena, Microbiota, Models, Organizational, Patient Care Management, Pulmonary Disease, Chronic Obstructive, Respiratory System_
+The composition of the airway microbiome in patients with chronic airway diseases, such as severe asthma, chronic obstructive pulmonary disease (COPD), bronchiectasis and cystic fibrosis (CF), has the potential to inform a precision model of clinical care. Patients with these conditions share overlapping disease characteristics, including airway inflammation and airflow limitation. The clinical management of chronic respiratory conditions is increasingly moving away from a one-size-fits-all model based on primary diagnosis, towards care targeting individual disease traits, and is particularly useful for subgroups of patients who respond poorly to conventional therapies. Respiratory microbiome analysis is an important potential contributor to such a 'treatable traits' approach, providing insight into both microbial drivers of airways disease, and the selective characteristics of the changing lower airway environment. We explore the potential to integrate respiratory microbiome analysis into a treatable traits model of clinical care and provide a practical guide to the application and clinical interpretation of respiratory microbiome analysis.
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.12.04.569909v4)
+
+10.1111/resp.13411
+
+---
+
 ## Healthy microbiome – moving towards functional interpretation
 
 [Source](https://www.biorxiv.org/content/10.1101/2023.12.04.569909v4)
@@ -198,9 +149,16 @@ Non-intensive therapies such as the hypomethylating agent (HMA) azacitidine (AZA
 
 ---
 
-## Cryptic diversity of cellulose-degrading gut bacteria in industrialized humans
+## Cryptic diversity of cellulose-degrading gut bacteria in industrialized humans.
+ 18.03.2024, _S Moraïs, S Winkler, A Zorea, L Levin, FSP Nagies, N Kapust, E Lamed, A Artan-Furman, DN Bolam, MP Yadav, EA Bayer, WF Martin, I Mizrahi_
+
+
+_Animals, Humans, Cellulose, Bacteria, Gastrointestinal Microbiome, Polysaccharides, Diet, Mammals_
+Humans, like all mammals, depend on the gut microbiome for digestion of cellulose, the main component of plant fiber. However, evidence for cellulose fermentation in the human gut is scarce. We have identified ruminococcal species in the gut microbiota of human populations that assemble functional multienzymatic cellulosome structures capable of degrading plant cell wall polysaccharides. One of these species, which is strongly associated with humans, likely originated in the ruminant gut and was subsequently transferred to the human gut, potentially during domestication where it underwent diversification and diet-related adaptation through the acquisition of genes from other gut microbes. Collectively, these species are abundant and widespread among ancient humans, hunter-gatherers, and rural populations but are rare in populations from industrialized societies thus indicating potential disappearance in response to the westernized lifestyle.
 
 [Source](https://www.science.org/doi/10.1126/science.adj9223)
+
+10.1126/science.adj9223
 
 ---
 
@@ -222,15 +180,15 @@ Species of the Bacteroidales order are among the most abundant and stable bacter
 
 ---
 
-## Longitudinal Outcomes of COVID-19 in Solid Organ Transplant Recipients from 2020 to 2023.
- 18.03.2024, _JT Solera, BG Árbol, A Mittal, V Hall, T Marinelli, I Bahinskaya, N Selzner, M McDonald, J Schiff, A Sidhu, A Humar, D Kumar_
+## Changes in frequency of benign convulsions with mild gastroenteritis and their viral causes before and during the COVID-19 pandemic: a single-center study.
+ 19.03.2024, _H Na, S Lee, SH Kim, YO Kim_
 
 
-Data regarding COVID-19 outcomes in solid organ transplant recipients(SOTr) across SARS-CoV-2 waves, including the impact of different measures, is lacking. This cohort study, conducted from March 2020-May 2023 in Toronto, Canada, aimed to analyze COVID-19 outcomes in 1,975 SOTr across various SARS-CoV-2 waves and assess the impact of preventive and treatment measures. The primary outcome was severe COVID-19, defined as requiring supplemental oxygen, with secondary outcomes including hospitalization, length of stay, ICU admission, and 30-day and 1-year all-cause mortality. SARS-CoV-2 waves were categorized as Wildtype/Alpha/Delta(318 cases, 16.1%), Omicron-BA.1(268, 26.2%), Omicron-BA.2(268, 13.6%), Omicron-BA.5(561, 28.4%), Omicron-BQ.1.1(188, 9.5%), and Omicron-XBB.1.5(123, 6.2%). Severe COVID-19 rate was highest during the Wildtype/Alpha/Delta wave(44.6%), and lower in Omicron waves(5.7-16.1%). Lung transplantation was associated with severe COVID-19(OR:4.62, 95%CI:2.71-7.89), along with rituximab treatment(OR:4.24, 95%CI:1.04-17.3), long-term corticosteroid use(OR:3.11, 95%CI:1.46-6.62), older age(OR: 1.51, 95%CI:1.30-1.76), chronic lung disease(OR:2.11, 95%CI:1.36-3.30), chronic kidney disease(OR:2.18, 95%CI:1.17-4.07), and diabetes(OR:1.97, 95%CI:1.37-2.83). Early treatment and ≥3 vaccine doses were associated with reduced severity(OR: 0.29, 95%CI:0.19-0.46, and 0.35, 95%CI:0.21-0.60, respectively). Tixagevimab/cilgavimab and bivalent boosters did not show a significant impact. The study concludes that COVID-19 severity decreased across different variants in SOTr. Lung transplantation was associated with worse outcomes and may benefit more from preventive and early therapeutic interventions.
+Benign convulsions with mild gastroenteritis (CwG) are prevalent in young children during the winter. Early in the coronavirus disease 2019 (COVID-19) pandemic, viral gastroenteritis occurrence decreased and seasonal variation was lost, which can change CwG.
 
 [Source](https://twitter.com/SZhangJerry/status/1769189530043596833?ref_src=twsrc%5Etfw)
 
-10.1016/j.ajt.2024.03.011
+10.3345/cep.2023.01137
 
 ---
 
@@ -357,27 +315,64 @@ Most stratified sulfidic holomictic lakes become oxygenated after annual turnove
 
 ---
 
+## Challenges in computational discovery of bioactive peptides in 'omics data.
+ 08.03.2024, _LP Coelho, CD Santos-Júnior, C de la Fuente-Nunez_
+
+
+Peptides have a plethora of activities in biological systems that can potentially be exploited biotechnologically. Several peptides are used clinically, as well as in industry and agriculture. The increase in available 'omics data has recently provided a large opportunity for mining novel enzymes, biosynthetic gene clusters, and molecules. While these data primarily consist of DNA sequences, other types of data provide important complementary information. Due to their size, the approaches proven successful at discovering novel proteins of canonical size cannot be naïvely applied to the discovery of peptides. Peptides can be encoded directly in the genome as short open reading frames (smORFs), or they can be derived from larger proteins by proteolysis. Both of these peptide classes pose challenges as simple methods for their prediction result in large numbers of false positives. Similarly, functional annotation of larger proteins, traditionally based on sequence similarity to infer orthology and then transferring functions between characterized proteins and uncharacterized ones, cannot be applied for short sequences. The use of these techniques is much more limited and alternative approaches based on machine learning are used instead. Here, we review the limitations of traditional methods as well as the alternative methods that have recently been developed for discovering novel bioactive peptides with a focus on prokaryotic genomes and metagenomes.
+
+[Source](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/pmic.202300105)
+
+10.1002/pmic.202300105
+
+---
+
 ## Challenges in computational discovery of bioactive peptides in ’omics data – Luis Pedro Coelho
 
 [Source](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/pmic.202300105)
 
 ---
 
-## For long-term sustainable software in bioinformatics
+## For long-term sustainable software in bioinformatics.
+ 18.03.2024, _LP Coelho_
+
+
+_Computational Biology, Software_
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011920)
 
+10.1371/journal.pcbi.1011920
+
 ---
 
-## Data-driven prediction of colonization outcomes for complex microbial communities
+## Data-driven prediction of colonization outcomes for complex microbial communities.
+ 18.03.2024, _L Wu, XW Wang, Z Tao, T Wang, W Zuo, Y Zeng, YY Liu, L Dai_
+
+
+_Humans, Microbiota, Feces, Enterococcus faecium, Microbial Interactions, Enterococcus faecalis_
+Microbial interactions can lead to different colonization outcomes of exogenous species, be they pathogenic or beneficial in nature. Predicting the colonization of exogenous species in complex communities remains a fundamental challenge in microbial ecology, mainly due to our limited knowledge of the diverse mechanisms governing microbial dynamics. Here, we propose a data-driven approach independent of any dynamics model to predict colonization outcomes of exogenous species from the baseline compositions of microbial communities. We systematically validate this approach using synthetic data, finding that machine learning models can predict not only the binary colonization outcome but also the post-invasion steady-state abundance of the invading species. Then we conduct colonization experiments for commensal gut bacteria species Enterococcus faecium and Akkermansia muciniphila in hundreds of human stool-derived in vitro microbial communities, confirming that the data-driven approaches can predict the colonization outcomes in experiments. Furthermore, we find that while most resident species are predicted to have a weak negative impact on the colonization of exogenous species, strongly interacting species could significantly alter the colonization outcomes, e.g., Enterococcus faecalis inhibits the invasion of E. faecium invasion. The presented results suggest that the data-driven approaches are powerful tools to inform the ecology and management of microbial communities.
 
 [Source](https://www.nature.com/articles/s41467-024-46766-y)
+
+10.1038/s41467-024-46766-y
 
 ---
 
 ## pic.twitter.com/oeRFQGfBDx
 
 [Source](https://t.co/oeRFQGfBDx)
+
+---
+
+## Changes in frequency of benign convulsions with mild gastroenteritis and their viral causes before and during the COVID-19 pandemic: a single-center study.
+ 19.03.2024, _H Na, S Lee, SH Kim, YO Kim_
+
+
+Benign convulsions with mild gastroenteritis (CwG) are prevalent in young children during the winter. Early in the coronavirus disease 2019 (COVID-19) pandemic, viral gastroenteritis occurrence decreased and seasonal variation was lost, which can change CwG.
+
+[Source](https://twitter.com/alifcoder/status/1769389993464824185?ref_src=twsrc%5Etfw)
+
+10.3345/cep.2023.01137
 
 ---
 
