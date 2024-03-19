@@ -22,9 +22,34 @@ Reactions for drug synthesis under cell-like conditions or even inside living ce
 
 ---
 
+## An Electronic Health Record-Based Automated Self-Rescheduling Tool to Improve Patient Access: Retrospective Cohort Study.
+ 19.03.2024, _S Ganeshan, AW Liu, A Kroeger, P Anand, R Seefeldt, A Regner, D Vaughn, AY Odisho, M Mourad_
+
+
+In many large health centers, patients face long appointment wait times and difficulties accessing care. Last-minute cancellations and patient no-shows leave unfilled slots in a clinician's schedule, exacerbating delays in care from poor access. The mismatch between the supply of outpatient appointments and patient demand has led health systems to adopt many tools and strategies to minimize appointment no-show rates and fill open slots left by patient cancellations.
+
+[Source](https://twitter.com/outreachy/status/1766100995757531296?ref_src=twsrc%5Etfw)
+
+10.2196/52071
+
+---
+
 ## March 8, 2024
 
 [Source](https://twitter.com/outreachy/status/1766100995757531296?ref_src=twsrc%5Etfw)
+
+---
+
+## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
+ 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
+
+
+_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
+This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
+
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+
+10.3390/ijerph19010099
 
 ---
 
@@ -34,15 +59,51 @@ Reactions for drug synthesis under cell-like conditions or even inside living ce
 
 ---
 
+## The effect of supplementing pony diets with yeast on 2. The faecal microbiome.
+ 21.12.2020, _A Garber, PM Hastie, V Farci, D McGuinness, L Bulmer, O Alzahal, JMD Murray_
+
+
+_Animal Feed, Animals, Diet, Feces, Horses, Male, Microbiota, Saccharomyces cerevisiae_
+There is a need to develop feeding strategies to prevent the adverse effect of concentrate feeding in high-performance horses fed energy-dense diets aiming to maintain their health and welfare. The objective of this study is to determine the effect of a VistaEQ product containing 4% live yeast Saccharomyces cerevisiae (S. cerevisiae), with activity 5 × 108 colony-forming unit/g and fed 2 g/pony per day, on faecal microbial populations when supplemented with high-starch and high-fibre diets using Illumina next generation sequencing of the V3-V4 region of the 16S ribosomal RNA gene. The four treatments were allocated to eight mature Welsh section A pony geldings enrolled in a 4-period × 8 animal crossover design. Each 19-day experimental period consisted of an 18-day adaptation phase and a single collection day, followed by a 7-day wash out period. After DNA extraction from faeces and library preparation, α-diversity and linear discriminant analysis effect size were performed using 16S metagenomics pipeline in Quantitative Insights Into Microbial Ecology (QIIME™) and Galaxy/Hutlab. Differences between the groups were considered significant when linear discriminant analysis score was &gt;2 corresponding to P &lt; 0.05. The present study showed that S. cerevisiae used was able to induce positive changes in the equine microbiota when supplemented to a high-fibre diet: it increased relative abundance (RA) of Lachnospiraceae and Dehalobacteriaceae family members associated with a healthy core microbiome. Yeast supplementation also increased the RA of fibrolytic bacteria (Ruminococcus) when fed with a high-fibre diet and reduced the RA of lactate producing bacteria (Streptococcus) when a high-starch diet was fed. In addition, yeast increased the RA of acetic, succinic acid producing bacterial family (Succinivibrionaceae) and butyrate producing bacterial genus (Roseburia) when fed with high-starch and high-fibre diets, respectively. VistaEQ supplementation to equine diets can be potentially used to prevent acidosis and increase fibre digestibility. It may help to meet the energy requirements of performance horses while maintaining gut health.
+
+[Source](https://twitter.com/hutlab?ref_src=twsrc%5Etfw)
+
+10.1017/S1751731120001512
+
+---
+
 ## @hutlab
 
 [Source](https://twitter.com/hutlab?ref_src=twsrc%5Etfw)
 
 ---
 
+## Single-Phase Covalent Organic Framework Staggered Stacking Nanosheet Membrane for CO2 -Selective Separation.
+ 17.08.2021, _P Wang, Y Peng, C Zhu, R Yao, H Song, L Kun, W Yang_
+
+
+Two-dimensional covalent organic frameworks (2D COFs) are considered as potential candidates for gas separation membranes, benefiting from permanent porosity, light-weight skeletons, excellent stability and facilely-tailored functionalities. However, their pore sizes are generally larger than the kinetic diameters of common gas molecules. One great challenge is the fabrication of single-phase COF membranes to realize precise gas separations. Herein, three kinds of high-quality β-ketoenamine-type COF nanosheets with different pore sizes were developed and aggregated to ultrathin nanosheet membranes with distinctive staggered stacking patterns. The narrowed pore sizes derived from the micro-structures and selective adsorption capacities synergistically endowed the COF membranes with intriguing CO2 -philic separation performances, among which TpPa-2 with medium pore size exhibited an optimal CO2 /H2 separation factor of 22 and a CO2 permeance of 328 gas permeation units at 298 K. This membrane performance reached the target with commercial feasibility for syngas separations.
+
+[Source](https://twitter.com/Kun_L_H?ref_src=twsrc%5Etfw)
+
+10.1002/anie.202106346
+
+---
+
 ## @Kun_L_H
 
 [Source](https://twitter.com/Kun_L_H?ref_src=twsrc%5Etfw)
+
+---
+
+## Comparison of Change in Lipoprotein(a) Mass and Molar Concentrations by Alirocumab and Risk of Subsequent Cardiovascular Events in ODYSSEY OUTCOMES.
+ 19.03.2024, _M Szarek, E Reijnders, PG Steg, JW Jukema, M Schwertfeger, DL Bhatt, VA Bittner, R Diaz, S Fazio, G Garon, SG Goodman, RA Harrington, HD White, AM Zeiher, C Cobbaert, GG Schwartz_
+
+
+
+[Source](https://twitter.com/Roche?ref_src=twsrc%5Etfw)
+
+10.1093/eurjpc/zwae110
 
 ---
 
@@ -94,15 +155,33 @@ Reactions for drug synthesis under cell-like conditions or even inside living ce
 
 ---
 
+## Should New Data on Rehabilitation Interventions in Critically Ill Patients Change Clinical Practice? Updated Meta-Analysis of Randomized Controlled Trials.
+ 19.03.2024, _K Jiroutková, F Duška, P Waldauf_
+
+
+We published a meta-analysis in March 2020 to assess the impact of rehabilitation in the ICU on clinical outcomes. Since then, 15 new randomized controlled trials (RCTs) have been published; we updated the meta-analysis to show how the recent studies have tipped the scale.
+
+[Source](https://twitter.com/DylanMaghini/status/1768732511402893611?ref_src=twsrc%5Etfw)
+
+10.1097/CCM.0000000000006259
+
+---
+
 ## March 15, 2024
 
 [Source](https://twitter.com/DylanMaghini/status/1768732511402893611?ref_src=twsrc%5Etfw)
 
 ---
 
-## The individual response to antibiotics and diet — insights into gut microbial resilience and host metabolism
+## The individual response to antibiotics and diet - insights into gut microbial resilience and host metabolism.
+ 15.03.2024, _LMM Vliex, J Penders, A Nauta, EG Zoetendal, EE Blaak_
+
+
+Antibiotic use disrupts microbial composition and activity in humans, but whether this disruption in turn affects host metabolic health is unclear. Cohort studies show associations between antibiotic use and an increased risk of developing obesity and type 2 diabetes mellitus. Here, we review available clinical trials and show the disruptive effect of antibiotic use on the gut microbiome in humans, as well as its impact on bile acid metabolism and microbial metabolites such as short-chain fatty acids. Placebo-controlled human studies do not show a consistent effect of antibiotic use on body weight and insulin sensitivity at a population level, but rather an individual-specific or subgroup-specific response. This response to antibiotic use is affected by the resistance and resilience of the gut microbiome, factors that determine the extent of disruption and the speed of recovery afterwards. Nutritional strategies to improve the composition and functionality of the gut microbiome, as well as its recovery after antibiotic use (for instance, with prebiotics), require a personalized approach to increase their efficacy. Improved insights into key factors that influence the individual-specific response to antibiotics and dietary intervention may lead to better efficacy in reversing or preventing antibiotic-induced microbial dysbiosis as well as strategies for preventing cardiometabolic diseases.
 
 [Source](https://www.nature.com/articles/s41574-024-00966-0)
+
+10.1038/s41574-024-00966-0
 
 ---
 
@@ -112,15 +191,29 @@ Reactions for drug synthesis under cell-like conditions or even inside living ce
 
 ---
 
-## Multi-omics analysis of the gut microbiome and metabolites associated with the psychoneurological symptom cluster in children with cancer receiving chemotherapy
+## Multi-omics analysis of the gut microbiome and metabolites associated with the psychoneurological symptom cluster in children with cancer receiving chemotherapy.
+ 12.03.2024, _J Bai, R Eldridge, M Houser, M Martin, C Powell, KS Sutton, HI Noh, Y Wu, T Olson, KT Konstantinidis, DW Bruner_
+
+
+_Humans, Child, Gastrointestinal Microbiome, Metabolomics, Syndrome, Multiomics, Tryptophan, RNA, Ribosomal, 16S, Case-Control Studies, Metabolome, Neoplasms, Fatty Acids, Carnitine, Feces_
+Children with cancer receiving chemotherapy commonly report a cluster of psychoneurological symptoms (PNS), including pain, fatigue, anxiety, depression, and cognitive dysfunction. The role of the gut microbiome and its functional metabolites in PNS is rarely studied among children with cancer. This study investigated the associations between the gut microbiome-metabolome pathways and PNS in children with cancer across chemotherapy as compared to healthy children.
 
 [Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-05066-1)
 
+10.1186/s12967-024-05066-1
+
 ---
 
-## Longitudinal analysis of the gut microbiome in adolescent patients with anorexia nervosa: microbiome-related factors associated with clinical outcome
+## Longitudinal analysis of the gut microbiome in adolescent patients with anorexia nervosa: microbiome-related factors associated with clinical outcome.
+ 06.02.2024, _NA Andreani, A Sharma, B Dahmen, HE Specht, N Mannig, V Ruan, L Keller, JF Baines, B Herpertz-Dahlmann, A Dempfle, J Seitz_
+
+
+_Humans, Adolescent, Gastrointestinal Microbiome, Anorexia Nervosa, RNA, Ribosomal, 16S, Microbiota, Weight Gain_
+There is mounting evidence regarding the role of gut microbiota in anorexia nervosa (AN). Previous studies have reported that patients with AN show dysbiosis compared to healthy controls (HCs); however, the underlying mechanisms are unclear, and data on influencing factors and longitudinal course of microbiome changes are scarce. Here, we present longitudinal data of 57 adolescent inpatients diagnosed with AN at up to nine time points (including a 1-year follow-up examination) and compare these to up to six time points in 34 HCs. 16S rRNA gene sequencing was used to investigate the microbiome composition of fecal samples, and data on food intake, weight change, hormonal recovery (leptin levels), and clinical outcomes were recorded. Differences in microbiome composition compared to HCs were greatest during acute starvation and in the low-weight group, while diminishing with weight gain and especially weight recovery at the 1-year follow-up. Illness duration and prior weight loss were strongly associated with microbiome composition at hospital admission, whereas microbial changes during treatment were associated with kilocalories consumed, weight gain, and hormonal recovery. The microbiome at admission was prognostic for hospital readmission, and a higher abundance of Sutterella was associated with a higher body weight at the 1-year follow-up. Identifying these clinically important factors further underlines the potential relevance of gut microbial changes and may help elucidate the underlying pathophysiology of gut-brain interactions in AN. The characterization of prognostically relevant taxa could be useful to stratify patients at admission and to potentially identify candidate taxa for future supplementation studies aimed at improving AN treatment.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2304158)
+
+10.1080/19490976.2024.2304158
 
 ---
 
@@ -180,15 +273,15 @@ Species of the Bacteroidales order are among the most abundant and stable bacter
 
 ---
 
-## Changes in frequency of benign convulsions with mild gastroenteritis and their viral causes before and during the COVID-19 pandemic: a single-center study.
- 19.03.2024, _H Na, S Lee, SH Kim, YO Kim_
+## Should New Data on Rehabilitation Interventions in Critically Ill Patients Change Clinical Practice? Updated Meta-Analysis of Randomized Controlled Trials.
+ 19.03.2024, _K Jiroutková, F Duška, P Waldauf_
 
 
-Benign convulsions with mild gastroenteritis (CwG) are prevalent in young children during the winter. Early in the coronavirus disease 2019 (COVID-19) pandemic, viral gastroenteritis occurrence decreased and seasonal variation was lost, which can change CwG.
+We published a meta-analysis in March 2020 to assess the impact of rehabilitation in the ICU on clinical outcomes. Since then, 15 new randomized controlled trials (RCTs) have been published; we updated the meta-analysis to show how the recent studies have tipped the scale.
 
 [Source](https://twitter.com/SZhangJerry/status/1769189530043596833?ref_src=twsrc%5Etfw)
 
-10.3345/cep.2023.01137
+10.1097/CCM.0000000000006259
 
 ---
 
@@ -205,7 +298,7 @@ Benign convulsions with mild gastroenteritis (CwG) are prevalent in young childr
 ---
 
 ## Global abundance patterns, diversity, and ecology of Patescibacteria in wastewater treatment plants.
- 18.03.2024, _H Hu, JM Kristensen, CW Herbold, P Pjevac, K Kitzinger, B Hausmann, MKD Dueholm, PH Nielsen, M Wagner_
+ 19.03.2024, _H Hu, JM Kristensen, CW Herbold, P Pjevac, K Kitzinger, B Hausmann, MKD Dueholm, PH Nielsen, M Wagner_
 
 
 _Wastewater, RNA, Ribosomal, 16S, Bacteria, Microbiota, Water Purification_
@@ -309,6 +402,18 @@ Most stratified sulfidic holomictic lakes become oxygenated after annual turnove
 
 ---
 
+## A Decision Aid to Support Tubal Sterilization Decision-Making Among Pregnant Women: The MyDecision/MiDecisión Randomized Clinical Trial.
+ 19.03.2024, _S Borrero, EA Mosley, M Wu, C Dehlendorf, C Wright, KZ Abebe, N Zite_
+
+
+Tubal sterilization is common, especially among individuals with low income. There is substantial misunderstanding about sterilization among those who have undergone the procedure, suggesting suboptimal decision-making about a method that permanently ends reproductive capacity.
+
+[Source](https://twitter.com/Huifeng_Hu/status/1768940203186532493?ref_src=twsrc%5Etfw)
+
+10.1001/jamanetworkopen.2024.2215
+
+---
+
 ## March 16, 2024
 
 [Source](https://twitter.com/Huifeng_Hu/status/1768940203186532493?ref_src=twsrc%5Etfw)
@@ -346,7 +451,7 @@ _Computational Biology, Software_
 ---
 
 ## Data-driven prediction of colonization outcomes for complex microbial communities.
- 18.03.2024, _L Wu, XW Wang, Z Tao, T Wang, W Zuo, Y Zeng, YY Liu, L Dai_
+ 19.03.2024, _L Wu, XW Wang, Z Tao, T Wang, W Zuo, Y Zeng, YY Liu, L Dai_
 
 
 _Humans, Microbiota, Feces, Enterococcus faecium, Microbial Interactions, Enterococcus faecalis_
@@ -364,15 +469,15 @@ Microbial interactions can lead to different colonization outcomes of exogenous 
 
 ---
 
-## Changes in frequency of benign convulsions with mild gastroenteritis and their viral causes before and during the COVID-19 pandemic: a single-center study.
- 19.03.2024, _H Na, S Lee, SH Kim, YO Kim_
+## Should New Data on Rehabilitation Interventions in Critically Ill Patients Change Clinical Practice? Updated Meta-Analysis of Randomized Controlled Trials.
+ 19.03.2024, _K Jiroutková, F Duška, P Waldauf_
 
 
-Benign convulsions with mild gastroenteritis (CwG) are prevalent in young children during the winter. Early in the coronavirus disease 2019 (COVID-19) pandemic, viral gastroenteritis occurrence decreased and seasonal variation was lost, which can change CwG.
+We published a meta-analysis in March 2020 to assess the impact of rehabilitation in the ICU on clinical outcomes. Since then, 15 new randomized controlled trials (RCTs) have been published; we updated the meta-analysis to show how the recent studies have tipped the scale.
 
 [Source](https://twitter.com/alifcoder/status/1769389993464824185?ref_src=twsrc%5Etfw)
 
-10.3345/cep.2023.01137
+10.1097/CCM.0000000000006259
 
 ---
 
