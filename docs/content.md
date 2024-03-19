@@ -156,6 +156,18 @@ In this hypothesis-generating analysis, we examined whether longitudinal changes
 
 ---
 
+## Basic Environmental Supports for Positive Brain and Cognitive Development in the First Year of Life.
+ 18.03.2024, _JL Luby, MP Herzberg, C Hoyniak, R Tillman, RE Lean, R Brady, R Triplett, D Alexopoulos, D Loseille, T Smyser, CE Rogers, B Warner, CD Smyser, DM Barch_
+
+
+Defining basic psychosocial resources to facilitate thriving in the first year of life could tangibly inform policy and enhance child development worldwide.
+
+[Source](https://twitter.com/DylanMaghini/status/1768732511402893611?ref_src=twsrc%5Etfw)
+
+10.1001/jamapediatrics.2024.0143
+
+---
+
 ## March 15, 2024
 
 [Source](https://twitter.com/DylanMaghini/status/1768732511402893611?ref_src=twsrc%5Etfw)
