@@ -22,15 +22,15 @@ Reactions for drug synthesis under cell-like conditions or even inside living ce
 
 ---
 
-## An Electronic Health Record-Based Automated Self-Rescheduling Tool to Improve Patient Access: Retrospective Cohort Study.
- 19.03.2024, _S Ganeshan, AW Liu, A Kroeger, P Anand, R Seefeldt, A Regner, D Vaughn, AY Odisho, M Mourad_
+## Cesarean Delivery Complicated by Peripartum Infection and Risk of Uterine Rupture During Subsequent Trial of Labor.
+ 19.03.2024, _R Tamir Yaniv, S Farladansky-Gershnabel, H Gluska, Y Daykan, G Shechter Maor, R Schonman, T Biron-Shental_
 
 
-In many large health centers, patients face long appointment wait times and difficulties accessing care. Last-minute cancellations and patient no-shows leave unfilled slots in a clinician's schedule, exacerbating delays in care from poor access. The mismatch between the supply of outpatient appointments and patient demand has led health systems to adopt many tools and strategies to minimize appointment no-show rates and fill open slots left by patient cancellations.
+Background: Uterine rupture is a rare, but dangerous obstetric complication that can occur during trial of vaginal birth. Methods: The aim of this study was to evaluate the relationship between peripartum infection at the first caesarean delivery to uterine dehiscence or rupture at the subsequent delivery. We conducted a retrospective case-control study from March 2014 to October 2020 at a single academic medical center. The study group included women with a prior caesarean delivery and proven dehiscence or uterine rupture diagnosed during their subsequent delivery. The control group included women who went through a successful vaginal birth after cesarean section (VBAC) without evidence of dehiscence or uterine rupture. We compared the rate of peripartum infection during the first cesarean delivery (CD) and other relevant variables, between the two groups. Results: A total of 168 women were included, 71 with uterine rupture or dehiscence and 97 with successful VBAC as the control group. The rate of peripartum infection at the first caesarean delivery was significantly higher in the study group compared to the control group (22.2% vs. 8.2%, p = 0.013). Multivariate logistic regression analysis found that peripartum infection remained an independent risk factor for uterine rupture at the subsequent trial of labor after CD (95% confidence interval, p = 0.034). Conclusion: Peripartum infection in the first caesarean delivery, may be an independent risk-factor for uterine rupture in a subsequent delivery.
 
 [Source](https://twitter.com/outreachy/status/1766100995757531296?ref_src=twsrc%5Etfw)
 
-10.2196/52071
+10.1089/jwh.2023.0727
 
 ---
 
@@ -96,14 +96,15 @@ Two-dimensional covalent organic frameworks (2D COFs) are considered as potentia
 
 ---
 
-## Comparison of Change in Lipoprotein(a) Mass and Molar Concentrations by Alirocumab and Risk of Subsequent Cardiovascular Events in ODYSSEY OUTCOMES.
- 19.03.2024, _M Szarek, E Reijnders, PG Steg, JW Jukema, M Schwertfeger, DL Bhatt, VA Bittner, R Diaz, S Fazio, G Garon, SG Goodman, RA Harrington, HD White, AM Zeiher, C Cobbaert, GG Schwartz_
+## Biomarkers Improve Diagnostics of Sepsis in Adult Patients With Suspected Organ Dysfunction Based on the Quick Sepsis-Related Organ Failure Assessment (qSOFA) Score in the Emergency Department.
+ 19.03.2024, _M Bolanaki, J Winning, A Slagman, T Lehmann, M Kiehntopf, A Stacke, C Neumann, K Reinhart, M Möckel, M Bauer_
 
 
+Consensus regarding biomarkers for detection of infection-related organ dysfunction in the emergency department is lacking. We aimed to identify and validate biomarkers that could improve risk prediction for overt or incipient organ dysfunction when added to quick Sepsis-related Organ Failure Assessment (qSOFA) as a screening tool.
 
 [Source](https://twitter.com/Roche?ref_src=twsrc%5Etfw)
 
-10.1093/eurjpc/zwae110
+10.1097/CCM.0000000000006216
 
 ---
 
@@ -155,33 +156,15 @@ Two-dimensional covalent organic frameworks (2D COFs) are considered as potentia
 
 ---
 
-## Should New Data on Rehabilitation Interventions in Critically Ill Patients Change Clinical Practice? Updated Meta-Analysis of Randomized Controlled Trials.
- 19.03.2024, _K Jiroutková, F Duška, P Waldauf_
-
-
-We published a meta-analysis in March 2020 to assess the impact of rehabilitation in the ICU on clinical outcomes. Since then, 15 new randomized controlled trials (RCTs) have been published; we updated the meta-analysis to show how the recent studies have tipped the scale.
-
-[Source](https://twitter.com/DylanMaghini/status/1768732511402893611?ref_src=twsrc%5Etfw)
-
-10.1097/CCM.0000000000006259
-
----
-
 ## March 15, 2024
 
 [Source](https://twitter.com/DylanMaghini/status/1768732511402893611?ref_src=twsrc%5Etfw)
 
 ---
 
-## The individual response to antibiotics and diet - insights into gut microbial resilience and host metabolism.
- 15.03.2024, _LMM Vliex, J Penders, A Nauta, EG Zoetendal, EE Blaak_
-
-
-Antibiotic use disrupts microbial composition and activity in humans, but whether this disruption in turn affects host metabolic health is unclear. Cohort studies show associations between antibiotic use and an increased risk of developing obesity and type 2 diabetes mellitus. Here, we review available clinical trials and show the disruptive effect of antibiotic use on the gut microbiome in humans, as well as its impact on bile acid metabolism and microbial metabolites such as short-chain fatty acids. Placebo-controlled human studies do not show a consistent effect of antibiotic use on body weight and insulin sensitivity at a population level, but rather an individual-specific or subgroup-specific response. This response to antibiotic use is affected by the resistance and resilience of the gut microbiome, factors that determine the extent of disruption and the speed of recovery afterwards. Nutritional strategies to improve the composition and functionality of the gut microbiome, as well as its recovery after antibiotic use (for instance, with prebiotics), require a personalized approach to increase their efficacy. Improved insights into key factors that influence the individual-specific response to antibiotics and dietary intervention may lead to better efficacy in reversing or preventing antibiotic-induced microbial dysbiosis as well as strategies for preventing cardiometabolic diseases.
+## The individual response to antibiotics and diet — insights into gut microbial resilience and host metabolism
 
 [Source](https://www.nature.com/articles/s41574-024-00966-0)
-
-10.1038/s41574-024-00966-0
 
 ---
 
@@ -243,10 +226,10 @@ The composition of the airway microbiome in patients with chronic airway disease
 ---
 
 ## Cryptic diversity of cellulose-degrading gut bacteria in industrialized humans.
- 18.03.2024, _S Moraïs, S Winkler, A Zorea, L Levin, FSP Nagies, N Kapust, E Lamed, A Artan-Furman, DN Bolam, MP Yadav, EA Bayer, WF Martin, I Mizrahi_
+ 19.03.2024, _S Moraïs, S Winkler, A Zorea, L Levin, FSP Nagies, N Kapust, E Lamed, A Artan-Furman, DN Bolam, MP Yadav, EA Bayer, WF Martin, I Mizrahi_
 
 
-_Animals, Humans, Cellulose, Bacteria, Gastrointestinal Microbiome, Polysaccharides, Diet, Mammals_
+_Humans, Cellulose, Gastrointestinal Microbiome, Ruminococcus, Dietary Fiber, Phylogeny, Industrial Development_
 Humans, like all mammals, depend on the gut microbiome for digestion of cellulose, the main component of plant fiber. However, evidence for cellulose fermentation in the human gut is scarce. We have identified ruminococcal species in the gut microbiota of human populations that assemble functional multienzymatic cellulosome structures capable of degrading plant cell wall polysaccharides. One of these species, which is strongly associated with humans, likely originated in the ruminant gut and was subsequently transferred to the human gut, potentially during domestication where it underwent diversification and diet-related adaptation through the acquisition of genes from other gut microbes. Collectively, these species are abundant and widespread among ancient humans, hunter-gatherers, and rural populations but are rare in populations from industrialized societies thus indicating potential disappearance in response to the westernized lifestyle.
 
 [Source](https://www.science.org/doi/10.1126/science.adj9223)
@@ -273,15 +256,15 @@ Species of the Bacteroidales order are among the most abundant and stable bacter
 
 ---
 
-## Should New Data on Rehabilitation Interventions in Critically Ill Patients Change Clinical Practice? Updated Meta-Analysis of Randomized Controlled Trials.
- 19.03.2024, _K Jiroutková, F Duška, P Waldauf_
+## Non-Alcoholic Fatty Liver Disease May Be a Risk Factor for Liver Metastasis After Radical Surgery for Colorectal Cancer: A Retrospective Study.
+ 19.03.2024, _T Miyata, Y Shinden, S Motoyama, Y Sannomiya, H Tamezawa, T Nagayama, H Nishiki, A Hashimoto, D Kaida, H Fujita, N Ueda, H Takamura_
 
 
-We published a meta-analysis in March 2020 to assess the impact of rehabilitation in the ICU on clinical outcomes. Since then, 15 new randomized controlled trials (RCTs) have been published; we updated the meta-analysis to show how the recent studies have tipped the scale.
+Distant metastasis develops in approximately one-third of patients with colorectal cancer (CRC) who undergo radical surgery, and colorectal liver metastasis (CRLM) is the most common form of distant metastasis in CRC. Hepatectomy is the only potentially curative treatment for CRLM, but few patients with metastatic CRC meet the criteria for this radical resection, and the 5-year survival rate is poor. Identifying risk factors for CRLM is critical. Non-alcoholic fatty liver disease (NAFLD) is an independent risk factor for CRC. However, the effect of NAFLD on CRC liver metastasis after radical surgery remains unclear. Therefore, we examined the impact of NAFLD-associated hepatic fibrosis on liver metastasis after radical surgery for CRC.
 
 [Source](https://twitter.com/SZhangJerry/status/1769189530043596833?ref_src=twsrc%5Etfw)
 
-10.1097/CCM.0000000000006259
+10.1007/s12029-024-01042-6
 
 ---
 
@@ -402,33 +385,9 @@ Most stratified sulfidic holomictic lakes become oxygenated after annual turnove
 
 ---
 
-## A Decision Aid to Support Tubal Sterilization Decision-Making Among Pregnant Women: The MyDecision/MiDecisión Randomized Clinical Trial.
- 19.03.2024, _S Borrero, EA Mosley, M Wu, C Dehlendorf, C Wright, KZ Abebe, N Zite_
-
-
-Tubal sterilization is common, especially among individuals with low income. There is substantial misunderstanding about sterilization among those who have undergone the procedure, suggesting suboptimal decision-making about a method that permanently ends reproductive capacity.
-
-[Source](https://twitter.com/Huifeng_Hu/status/1768940203186532493?ref_src=twsrc%5Etfw)
-
-10.1001/jamanetworkopen.2024.2215
-
----
-
 ## March 16, 2024
 
 [Source](https://twitter.com/Huifeng_Hu/status/1768940203186532493?ref_src=twsrc%5Etfw)
-
----
-
-## Challenges in computational discovery of bioactive peptides in 'omics data.
- 08.03.2024, _LP Coelho, CD Santos-Júnior, C de la Fuente-Nunez_
-
-
-Peptides have a plethora of activities in biological systems that can potentially be exploited biotechnologically. Several peptides are used clinically, as well as in industry and agriculture. The increase in available 'omics data has recently provided a large opportunity for mining novel enzymes, biosynthetic gene clusters, and molecules. While these data primarily consist of DNA sequences, other types of data provide important complementary information. Due to their size, the approaches proven successful at discovering novel proteins of canonical size cannot be naïvely applied to the discovery of peptides. Peptides can be encoded directly in the genome as short open reading frames (smORFs), or they can be derived from larger proteins by proteolysis. Both of these peptide classes pose challenges as simple methods for their prediction result in large numbers of false positives. Similarly, functional annotation of larger proteins, traditionally based on sequence similarity to infer orthology and then transferring functions between characterized proteins and uncharacterized ones, cannot be applied for short sequences. The use of these techniques is much more limited and alternative approaches based on machine learning are used instead. Here, we review the limitations of traditional methods as well as the alternative methods that have recently been developed for discovering novel bioactive peptides with a focus on prokaryotic genomes and metagenomes.
-
-[Source](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/pmic.202300105)
-
-10.1002/pmic.202300105
 
 ---
 
@@ -469,15 +428,15 @@ Microbial interactions can lead to different colonization outcomes of exogenous 
 
 ---
 
-## Should New Data on Rehabilitation Interventions in Critically Ill Patients Change Clinical Practice? Updated Meta-Analysis of Randomized Controlled Trials.
- 19.03.2024, _K Jiroutková, F Duška, P Waldauf_
+## Non-Alcoholic Fatty Liver Disease May Be a Risk Factor for Liver Metastasis After Radical Surgery for Colorectal Cancer: A Retrospective Study.
+ 19.03.2024, _T Miyata, Y Shinden, S Motoyama, Y Sannomiya, H Tamezawa, T Nagayama, H Nishiki, A Hashimoto, D Kaida, H Fujita, N Ueda, H Takamura_
 
 
-We published a meta-analysis in March 2020 to assess the impact of rehabilitation in the ICU on clinical outcomes. Since then, 15 new randomized controlled trials (RCTs) have been published; we updated the meta-analysis to show how the recent studies have tipped the scale.
+Distant metastasis develops in approximately one-third of patients with colorectal cancer (CRC) who undergo radical surgery, and colorectal liver metastasis (CRLM) is the most common form of distant metastasis in CRC. Hepatectomy is the only potentially curative treatment for CRLM, but few patients with metastatic CRC meet the criteria for this radical resection, and the 5-year survival rate is poor. Identifying risk factors for CRLM is critical. Non-alcoholic fatty liver disease (NAFLD) is an independent risk factor for CRC. However, the effect of NAFLD on CRC liver metastasis after radical surgery remains unclear. Therefore, we examined the impact of NAFLD-associated hepatic fibrosis on liver metastasis after radical surgery for CRC.
 
 [Source](https://twitter.com/alifcoder/status/1769389993464824185?ref_src=twsrc%5Etfw)
 
-10.1097/CCM.0000000000006259
+10.1007/s12029-024-01042-6
 
 ---
 
