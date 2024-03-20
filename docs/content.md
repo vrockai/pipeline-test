@@ -22,15 +22,15 @@ Reactions for drug synthesis under cell-like conditions or even inside living ce
 
 ---
 
-## Cesarean Delivery Complicated by Peripartum Infection and Risk of Uterine Rupture During Subsequent Trial of Labor.
- 19.03.2024, _R Tamir Yaniv, S Farladansky-Gershnabel, H Gluska, Y Daykan, G Shechter Maor, R Schonman, T Biron-Shental_
+## Morphologic development of the first-trimester utero-placental vasculature is positively associated with embryonic and fetal growth: the Rotterdam Periconception Cohort.
+ 19.03.2024, _ES De Vos, AGMGJ Mulders, AHJ Koning, SP Willemsen, M Rousian, BB Van Rijn, EAP Steegers, RPM Steegers-Theunissen_
 
 
-Background: Uterine rupture is a rare, but dangerous obstetric complication that can occur during trial of vaginal birth. Methods: The aim of this study was to evaluate the relationship between peripartum infection at the first caesarean delivery to uterine dehiscence or rupture at the subsequent delivery. We conducted a retrospective case-control study from March 2014 to October 2020 at a single academic medical center. The study group included women with a prior caesarean delivery and proven dehiscence or uterine rupture diagnosed during their subsequent delivery. The control group included women who went through a successful vaginal birth after cesarean section (VBAC) without evidence of dehiscence or uterine rupture. We compared the rate of peripartum infection during the first cesarean delivery (CD) and other relevant variables, between the two groups. Results: A total of 168 women were included, 71 with uterine rupture or dehiscence and 97 with successful VBAC as the control group. The rate of peripartum infection at the first caesarean delivery was significantly higher in the study group compared to the control group (22.2% vs. 8.2%, p = 0.013). Multivariate logistic regression analysis found that peripartum infection remained an independent risk factor for uterine rupture at the subsequent trial of labor after CD (95% confidence interval, p = 0.034). Conclusion: Peripartum infection in the first caesarean delivery, may be an independent risk-factor for uterine rupture in a subsequent delivery.
+Is morphologic development of the first-trimester utero-placental vasculature associated with embryonic growth and development, fetal growth, and birth weight percentiles?
 
 [Source](https://twitter.com/outreachy/status/1766100995757531296?ref_src=twsrc%5Etfw)
 
-10.1089/jwh.2023.0727
+10.1093/humrep/deae056
 
 ---
 
@@ -96,15 +96,15 @@ Two-dimensional covalent organic frameworks (2D COFs) are considered as potentia
 
 ---
 
-## Biomarkers Improve Diagnostics of Sepsis in Adult Patients With Suspected Organ Dysfunction Based on the Quick Sepsis-Related Organ Failure Assessment (qSOFA) Score in the Emergency Department.
- 19.03.2024, _M Bolanaki, J Winning, A Slagman, T Lehmann, M Kiehntopf, A Stacke, C Neumann, K Reinhart, M Möckel, M Bauer_
+## Economic impact of a clinical pharmacist in the orthopaedic sector: a review of the literature.
+ 19.03.2024, _J Dray, A Soubieux, C Chenailler, R Varin, F Dujardin, J Curado, E Barat_
 
 
-Consensus regarding biomarkers for detection of infection-related organ dysfunction in the emergency department is lacking. We aimed to identify and validate biomarkers that could improve risk prediction for overt or incipient organ dysfunction when added to quick Sepsis-related Organ Failure Assessment (qSOFA) as a screening tool.
+This review of the literature aimed to evaluate the economic impact of a clinical pharmacist in the orthopaedic sector.
 
 [Source](https://twitter.com/Roche?ref_src=twsrc%5Etfw)
 
-10.1097/CCM.0000000000006216
+10.1136/ejhpharm-2023-003727
 
 ---
 
@@ -256,15 +256,15 @@ Species of the Bacteroidales order are among the most abundant and stable bacter
 
 ---
 
-## Non-Alcoholic Fatty Liver Disease May Be a Risk Factor for Liver Metastasis After Radical Surgery for Colorectal Cancer: A Retrospective Study.
- 19.03.2024, _T Miyata, Y Shinden, S Motoyama, Y Sannomiya, H Tamezawa, T Nagayama, H Nishiki, A Hashimoto, D Kaida, H Fujita, N Ueda, H Takamura_
+## Understanding the impact of COVID-19 on women's access to and experiences of contraceptive services in England: a qualitative study.
+ 19.03.2024, _L McMillan, E Gadsby, R Howell, M Ussher, K Hunt, A Ford_
 
 
-Distant metastasis develops in approximately one-third of patients with colorectal cancer (CRC) who undergo radical surgery, and colorectal liver metastasis (CRLM) is the most common form of distant metastasis in CRC. Hepatectomy is the only potentially curative treatment for CRLM, but few patients with metastatic CRC meet the criteria for this radical resection, and the 5-year survival rate is poor. Identifying risk factors for CRLM is critical. Non-alcoholic fatty liver disease (NAFLD) is an independent risk factor for CRC. However, the effect of NAFLD on CRC liver metastasis after radical surgery remains unclear. Therefore, we examined the impact of NAFLD-associated hepatic fibrosis on liver metastasis after radical surgery for CRC.
+The COVID-19 pandemic response prompted rapid changes to how contraceptive services were delivered in England. Our aim was to examine women's experiences of accessing contraceptive services since March 2020 and to understand any inequalities of access.
 
 [Source](https://twitter.com/SZhangJerry/status/1769189530043596833?ref_src=twsrc%5Etfw)
 
-10.1007/s12029-024-01042-6
+10.1136/bmjsrh-2023-202206
 
 ---
 
@@ -391,6 +391,18 @@ Most stratified sulfidic holomictic lakes become oxygenated after annual turnove
 
 ---
 
+## Challenges in computational discovery of bioactive peptides in 'omics data.
+ 08.03.2024, _LP Coelho, CD Santos-Júnior, C de la Fuente-Nunez_
+
+
+Peptides have a plethora of activities in biological systems that can potentially be exploited biotechnologically. Several peptides are used clinically, as well as in industry and agriculture. The increase in available 'omics data has recently provided a large opportunity for mining novel enzymes, biosynthetic gene clusters, and molecules. While these data primarily consist of DNA sequences, other types of data provide important complementary information. Due to their size, the approaches proven successful at discovering novel proteins of canonical size cannot be naïvely applied to the discovery of peptides. Peptides can be encoded directly in the genome as short open reading frames (smORFs), or they can be derived from larger proteins by proteolysis. Both of these peptide classes pose challenges as simple methods for their prediction result in large numbers of false positives. Similarly, functional annotation of larger proteins, traditionally based on sequence similarity to infer orthology and then transferring functions between characterized proteins and uncharacterized ones, cannot be applied for short sequences. The use of these techniques is much more limited and alternative approaches based on machine learning are used instead. Here, we review the limitations of traditional methods as well as the alternative methods that have recently been developed for discovering novel bioactive peptides with a focus on prokaryotic genomes and metagenomes.
+
+[Source](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/pmic.202300105)
+
+10.1002/pmic.202300105
+
+---
+
 ## Challenges in computational discovery of bioactive peptides in ’omics data – Luis Pedro Coelho
 
 [Source](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/pmic.202300105)
@@ -428,15 +440,15 @@ Microbial interactions can lead to different colonization outcomes of exogenous 
 
 ---
 
-## Non-Alcoholic Fatty Liver Disease May Be a Risk Factor for Liver Metastasis After Radical Surgery for Colorectal Cancer: A Retrospective Study.
- 19.03.2024, _T Miyata, Y Shinden, S Motoyama, Y Sannomiya, H Tamezawa, T Nagayama, H Nishiki, A Hashimoto, D Kaida, H Fujita, N Ueda, H Takamura_
+## Understanding the impact of COVID-19 on women's access to and experiences of contraceptive services in England: a qualitative study.
+ 19.03.2024, _L McMillan, E Gadsby, R Howell, M Ussher, K Hunt, A Ford_
 
 
-Distant metastasis develops in approximately one-third of patients with colorectal cancer (CRC) who undergo radical surgery, and colorectal liver metastasis (CRLM) is the most common form of distant metastasis in CRC. Hepatectomy is the only potentially curative treatment for CRLM, but few patients with metastatic CRC meet the criteria for this radical resection, and the 5-year survival rate is poor. Identifying risk factors for CRLM is critical. Non-alcoholic fatty liver disease (NAFLD) is an independent risk factor for CRC. However, the effect of NAFLD on CRC liver metastasis after radical surgery remains unclear. Therefore, we examined the impact of NAFLD-associated hepatic fibrosis on liver metastasis after radical surgery for CRC.
+The COVID-19 pandemic response prompted rapid changes to how contraceptive services were delivered in England. Our aim was to examine women's experiences of accessing contraceptive services since March 2020 and to understand any inequalities of access.
 
 [Source](https://twitter.com/alifcoder/status/1769389993464824185?ref_src=twsrc%5Etfw)
 
-10.1007/s12029-024-01042-6
+10.1136/bmjsrh-2023-202206
 
 ---
 
