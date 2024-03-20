@@ -22,15 +22,15 @@ Reactions for drug synthesis under cell-like conditions or even inside living ce
 
 ---
 
-## Morphologic development of the first-trimester utero-placental vasculature is positively associated with embryonic and fetal growth: the Rotterdam Periconception Cohort.
- 19.03.2024, _ES De Vos, AGMGJ Mulders, AHJ Koning, SP Willemsen, M Rousian, BB Van Rijn, EAP Steegers, RPM Steegers-Theunissen_
+## Identifying patients with diagnosed cirrhosis in administrative health databases: a validation study.
+ 20.03.2024, _N Faisal, LM Lix, R Walld, A Singer, E Renner, H Singh, L Kosowan, A Mahar_
 
 
-Is morphologic development of the first-trimester utero-placental vasculature associated with embryonic growth and development, fetal growth, and birth weight percentiles?
+Case ascertainment algorithms were developed and validated to identify people living with cirrhosis in administrative health data in Manitoba, Canada using primary care electronic medical records (EMR) to define the reference standards.
 
 [Source](https://twitter.com/outreachy/status/1766100995757531296?ref_src=twsrc%5Etfw)
 
-10.1093/humrep/deae056
+10.3138/canlivj-2023-0013
 
 ---
 
@@ -96,15 +96,15 @@ Two-dimensional covalent organic frameworks (2D COFs) are considered as potentia
 
 ---
 
-## Economic impact of a clinical pharmacist in the orthopaedic sector: a review of the literature.
- 19.03.2024, _J Dray, A Soubieux, C Chenailler, R Varin, F Dujardin, J Curado, E Barat_
+## Factors associated with knowledge and awareness of Hepatitis B in individuals of Chinese descent: Results from a mass point of care testing and outreach campaign in Toronto, Canada.
+ 20.03.2024, _AB Mendlowitz, E Mandel, CI Capraru, BE Hansen, D Wong, JJ Feld, H Janssen, MJ Biondi, A Arif, C Yim_
 
 
-This review of the literature aimed to evaluate the economic impact of a clinical pharmacist in the orthopaedic sector.
+Migrants from hepatitis B virus (HBV) endemic regions are at high risk of having chronic infection. Despite this, HBV knowledge and awareness programming, and low-barrier screening methods such as point of care (POC) testing, among this group have yet to become routine.
 
 [Source](https://twitter.com/Roche?ref_src=twsrc%5Etfw)
 
-10.1136/ejhpharm-2023-003727
+10.3138/canlivj-2023-0015
 
 ---
 
@@ -129,6 +129,18 @@ This review of the literature aimed to evaluate the economic impact of a clinica
 ## pic.twitter.com/hJdw0USPop
 
 [Source](https://t.co/hJdw0USPop)
+
+---
+
+## Control of SARS-CoV-2 infection in skilled nursing facilities in Detroit, Michigan: a model for emerging infectious diseases.
+ 20.03.2024, _S Joshi, S Arshad, A Lindsay, J Heinonen, H Misikir, J Zervos, T Prentiss, J Verkler, M Numi, B Czander, RE David, M Mossing, PE Kilgore, N Rehman, M Zervos_
+
+
+An infection prevention bundle that consisted of the development of a response team, public-academic partnership, daily assessment, regular testing, isolation, and environmental controls was implemented in 26 skilled nursing facilities in Detroit, Michigan (March 2020-April 2021). This intervention was associated with sustained control of severe acute respiratory coronavirus virus 2 infection among residents and staff.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1763521203740786793?ref_src=twsrc%5Etfw)
+
+10.1017/ice.2024.35
 
 ---
 
@@ -162,9 +174,15 @@ This review of the literature aimed to evaluate the economic impact of a clinica
 
 ---
 
-## The individual response to antibiotics and diet — insights into gut microbial resilience and host metabolism
+## The individual response to antibiotics and diet - insights into gut microbial resilience and host metabolism.
+ 15.03.2024, _LMM Vliex, J Penders, A Nauta, EG Zoetendal, EE Blaak_
+
+
+Antibiotic use disrupts microbial composition and activity in humans, but whether this disruption in turn affects host metabolic health is unclear. Cohort studies show associations between antibiotic use and an increased risk of developing obesity and type 2 diabetes mellitus. Here, we review available clinical trials and show the disruptive effect of antibiotic use on the gut microbiome in humans, as well as its impact on bile acid metabolism and microbial metabolites such as short-chain fatty acids. Placebo-controlled human studies do not show a consistent effect of antibiotic use on body weight and insulin sensitivity at a population level, but rather an individual-specific or subgroup-specific response. This response to antibiotic use is affected by the resistance and resilience of the gut microbiome, factors that determine the extent of disruption and the speed of recovery afterwards. Nutritional strategies to improve the composition and functionality of the gut microbiome, as well as its recovery after antibiotic use (for instance, with prebiotics), require a personalized approach to increase their efficacy. Improved insights into key factors that influence the individual-specific response to antibiotics and dietary intervention may lead to better efficacy in reversing or preventing antibiotic-induced microbial dysbiosis as well as strategies for preventing cardiometabolic diseases.
 
 [Source](https://www.nature.com/articles/s41574-024-00966-0)
+
+10.1038/s41574-024-00966-0
 
 ---
 
@@ -256,15 +274,15 @@ Species of the Bacteroidales order are among the most abundant and stable bacter
 
 ---
 
-## Understanding the impact of COVID-19 on women's access to and experiences of contraceptive services in England: a qualitative study.
- 19.03.2024, _L McMillan, E Gadsby, R Howell, M Ussher, K Hunt, A Ford_
+## Identifying patients with diagnosed cirrhosis in administrative health databases: a validation study.
+ 20.03.2024, _N Faisal, LM Lix, R Walld, A Singer, E Renner, H Singh, L Kosowan, A Mahar_
 
 
-The COVID-19 pandemic response prompted rapid changes to how contraceptive services were delivered in England. Our aim was to examine women's experiences of accessing contraceptive services since March 2020 and to understand any inequalities of access.
+Case ascertainment algorithms were developed and validated to identify people living with cirrhosis in administrative health data in Manitoba, Canada using primary care electronic medical records (EMR) to define the reference standards.
 
 [Source](https://twitter.com/SZhangJerry/status/1769189530043596833?ref_src=twsrc%5Etfw)
 
-10.1136/bmjsrh-2023-202206
+10.3138/canlivj-2023-0013
 
 ---
 
@@ -385,6 +403,18 @@ Most stratified sulfidic holomictic lakes become oxygenated after annual turnove
 
 ---
 
+## Identifying patients with diagnosed cirrhosis in administrative health databases: a validation study.
+ 20.03.2024, _N Faisal, LM Lix, R Walld, A Singer, E Renner, H Singh, L Kosowan, A Mahar_
+
+
+Case ascertainment algorithms were developed and validated to identify people living with cirrhosis in administrative health data in Manitoba, Canada using primary care electronic medical records (EMR) to define the reference standards.
+
+[Source](https://twitter.com/Huifeng_Hu/status/1768940203186532493?ref_src=twsrc%5Etfw)
+
+10.3138/canlivj-2023-0013
+
+---
+
 ## March 16, 2024
 
 [Source](https://twitter.com/Huifeng_Hu/status/1768940203186532493?ref_src=twsrc%5Etfw)
@@ -422,7 +452,7 @@ _Computational Biology, Software_
 ---
 
 ## Data-driven prediction of colonization outcomes for complex microbial communities.
- 19.03.2024, _L Wu, XW Wang, Z Tao, T Wang, W Zuo, Y Zeng, YY Liu, L Dai_
+ 20.03.2024, _L Wu, XW Wang, Z Tao, T Wang, W Zuo, Y Zeng, YY Liu, L Dai_
 
 
 _Humans, Microbiota, Feces, Enterococcus faecium, Microbial Interactions, Enterococcus faecalis_
@@ -440,15 +470,15 @@ Microbial interactions can lead to different colonization outcomes of exogenous 
 
 ---
 
-## Understanding the impact of COVID-19 on women's access to and experiences of contraceptive services in England: a qualitative study.
- 19.03.2024, _L McMillan, E Gadsby, R Howell, M Ussher, K Hunt, A Ford_
+## Identifying patients with diagnosed cirrhosis in administrative health databases: a validation study.
+ 20.03.2024, _N Faisal, LM Lix, R Walld, A Singer, E Renner, H Singh, L Kosowan, A Mahar_
 
 
-The COVID-19 pandemic response prompted rapid changes to how contraceptive services were delivered in England. Our aim was to examine women's experiences of accessing contraceptive services since March 2020 and to understand any inequalities of access.
+Case ascertainment algorithms were developed and validated to identify people living with cirrhosis in administrative health data in Manitoba, Canada using primary care electronic medical records (EMR) to define the reference standards.
 
 [Source](https://twitter.com/alifcoder/status/1769389993464824185?ref_src=twsrc%5Etfw)
 
-10.1136/bmjsrh-2023-202206
+10.3138/canlivj-2023-0013
 
 ---
 
