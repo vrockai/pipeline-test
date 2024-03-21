@@ -17,7 +17,7 @@
 ---
 
 ## Gut microbiota profiling in obese children from Southeastern China.
- 20.03.2024, _J Wang, P Zhuang, B Lin, H Li, J Zheng, W Tang, W Ye, X Chen, M Zheng_
+ 21.03.2024, _J Wang, P Zhuang, B Lin, H Li, J Zheng, W Tang, W Ye, X Chen, M Zheng_
 
 
 _Female, Adult, Child, Humans, Pediatric Obesity, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Diet, China_
@@ -49,9 +49,10 @@ Accumulating clinical evidence suggests that lung microbiome is closely linked t
 ---
 
 ## Microbiota-derived indoles alleviate intestinal inflammation and modulate microbiome by microbial cross-feeding.
- 20.03.2024, _G Wang, Y Fan, G Zhang, S Cai, Y Ma, L Yang, Y Wang, H Yu, S Qiao, X Zeng_
+ 21.03.2024, _G Wang, Y Fan, G Zhang, S Cai, Y Ma, L Yang, Y Wang, H Yu, S Qiao, X Zeng_
 
 
+_Humans, Tryptophan, Dysbiosis, Microbiota, Indoles, Bacteria, Inflammation_
 The host-microbiota interaction plays a crucial role in maintaining homeostasis and disease susceptibility, and microbial tryptophan metabolites are potent modulators of host physiology. However, whether and how these metabolites mediate host-microbiota interactions, particularly in terms of inter-microbial communication, remains unclear.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01750-y)
@@ -73,7 +74,7 @@ Plant-associated diazotrophs strongly relate to plant nitrogen (N) supply and gr
 ---
 
 ## Bacterial communities associated with an island radiation of lichen-forming fungi.
- 20.03.2024, _M Blázquez, R Ortiz-Álvarez, F Gasulla, I Pérez-Vargas, S Pérez-Ortega_
+ 21.03.2024, _M Blázquez, R Ortiz-Álvarez, F Gasulla, I Pérez-Vargas, S Pérez-Ortega_
 
 
 _Lichens, Phylogeny, Bacteria, Fungi, Microbiota_
@@ -99,7 +100,7 @@ Water-borne plant pathogenic fungi and oomycetes are a major threat in greenhous
 ---
 
 ## The composition of the bacterial communities collected from the PM10 samples inside the Seoul subway and railway station.
- 20.03.2024, _S Sharma, M Jahanzaib, A Bakht, MK Kim, H Lee, D Park_
+ 21.03.2024, _S Sharma, M Jahanzaib, A Bakht, MK Kim, H Lee, D Park_
 
 
 _Humans, Railroads, Particulate Matter, Air Pollutants, Seoul, Environmental Monitoring, Aerosols_
@@ -112,7 +113,7 @@ Health implications of indoor air quality (IAQ) have drawn more attention since 
 ---
 
 ## Differential network connectivity analysis for microbiome data adjusted for clinical covariates using jackknife pseudo-values.
- 20.03.2024, _S Ahn, S Datta_
+ 21.03.2024, _S Ahn, S Datta_
 
 
 _Humans, Microbiota, Software, Regression Analysis, DNA_
@@ -125,7 +126,7 @@ A recent breakthrough in differential network (DN) analysis of microbiome data h
 ---
 
 ## Natural intestinal metabolite xylitol reduces BRD4 levels to mitigate renal fibrosis.
- 20.03.2024, _Z Tan, Z Wang, Q Zeng, X Liu, Y Zhang, S Li, J Huang, Y Zeng, Z Huang, C Jin, N Fu, Q Zhao, Y Mu, Z Wang, J Xiao, H Yang, G Ke_
+ 21.03.2024, _Z Tan, Z Wang, Q Zeng, X Liu, Y Zhang, S Li, J Huang, Y Zeng, Z Huang, C Jin, N Fu, Q Zhao, Y Mu, Z Wang, J Xiao, H Yang, G Ke_
 
 
 _Humans, Nuclear Proteins, Xylitol, Molecular Docking Simulation, Transcription Factors, Renal Insufficiency, Chronic, Fibrosis, Transforming Growth Factor beta, Bromodomain Containing Proteins, Cell Cycle Proteins_
