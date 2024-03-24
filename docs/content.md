@@ -16,9 +16,16 @@
 
 ---
 
-## Gut microbiota profiling in obese children from Southeastern China
+## Gut microbiota profiling in obese children from Southeastern China.
+ 21.03.2024, _J Wang, P Zhuang, B Lin, H Li, J Zheng, W Tang, W Ye, X Chen, M Zheng_
+
+
+_Female, Adult, Child, Humans, Pediatric Obesity, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Diet, China_
+Childhood obesity not only has a negative impact on a child's health but is also a significant risk factor for adult obesity and related metabolic disorders, making it a major global public health concern. Recent studies have revealed the crucial role of gut microbiota in the occurrence and development of obesity, in addition to genetic and lifestyle factors. In this study, we recruited 19 normal-weight children and 47 children with varying degrees of obesity. A questionnaire survey was conducted to inquire about the family background, lifestyle habits and dietary composition of the 66 children. Findings indicate that fathers of obese children tend to be obese themselves, while children with highly educated mothers are more likely to maintain a normal weight. Furthermore, overweight children tend to spend more time on electronic devices and less time on physical activities compared to their normal-weight counterparts. Obese children exhibit significant differences in breakfast and dinner dietary composition when compared to children with normal weight. Additionally, the gut microbiota of these 66 children was analyzed using 16S rRNA sequencing. Analysis of gut microbiota composition showed similar compositions among children with varying degrees of obesity, but significant differences were observed in comparison to normal-weight children. Obese children exhibited a reduced proportion of Bacteroidota and an increased proportion of Firmicutes, resulting in an elevated Firmicutes/Bacteroidota ratio. Moreover, Actinobacteriota were found to be increased in the gut microbiota of children with varying degrees of obesity. PICRUSt analysis indicated significant metabolic differences in the microbiota functions between obese and normal-weight children, suggesting the composition of gut microbiota could be a crucial factor contributing to obesity. These findings provide valuable insights for the treatment of childhood obesity.
 
 [Source](https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-024-04668-4)
+
+10.1186/s12887-024-04668-4
 
 ---
 
@@ -42,7 +49,7 @@ Accumulating clinical evidence suggests that lung microbiome is closely linked t
 ---
 
 ## Microbiota-derived indoles alleviate intestinal inflammation and modulate microbiome by microbial cross-feeding.
- 21.03.2024, _G Wang, Y Fan, G Zhang, S Cai, Y Ma, L Yang, Y Wang, H Yu, S Qiao, X Zeng_
+ 23.03.2024, _G Wang, Y Fan, G Zhang, S Cai, Y Ma, L Yang, Y Wang, H Yu, S Qiao, X Zeng_
 
 
 _Humans, Tryptophan, Dysbiosis, Microbiota, Indoles, Bacteria, Inflammation_
