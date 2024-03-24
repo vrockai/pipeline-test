@@ -185,39 +185,21 @@ The oral microbiome is a complex and dynamic assemblage of microorganisms that c
 
 ---
 
-## Host population crashes disrupt the diversity of associated marine microbiomes.
- 23.03.2024, _WS Pearman, SE Morales, F Vaux, NJ Gemmell, CI Fraser_
-
-
-Host-associated microbial communities are shaped by myriad factors ranging from host conditions, environmental conditions and other microbes. Disentangling the ecological impact of each of these factors can be particularly difficult as many variables are correlated. Here, we leveraged earthquake-induced changes in host population structure to assess the influence of population crashes on marine microbial ecosystems. A large (7.8 magnitude) earthquake in New Zealand in 2016 led to widespread coastal uplift of up to ~6 m, sufficient to locally extirpate some intertidal southern bull kelp populations. These uplifted populations are slowly recovering, but remain at much lower densities than at nearby, less-uplifted sites. By comparing the microbial communities of the hosts from disturbed and relatively undisturbed populations using 16S rRNA gene amplicon sequencing, we observed that disturbed host populations supported higher functional, taxonomic and phylogenetic microbial beta diversity than non-disturbed host populations. Our findings shed light on microbiome ecological assembly processes, particularly highlighting that large-scale disturbances that affect host populations can dramatically influence microbiome structure. We suggest that disturbance-induced changes in host density limit the dispersal opportunities of microbes, with host community connectivity declining with the density of host populations.
+## Host population crashes disrupt the diversity of associated marine microbiomes
 
 [Source](https://doi.org/10.1111/1462-2920.16611)
 
-10.1111/1462-2920.16611
-
 ---
 
-## Microplastic-antifouling paint particle contamination alters microbial communities in surrounding marine sediment.
- 22.03.2024, _AS Tagg, T Sperlea, C Hassenrück, B Kreikemeyer, D Fischer, M Labrenz_
-
-
-Paint used to coat surfaces in aquatic environments often contain biocides to prevent biofouling, and as these coatings degrade, antifouling paint particles (APPs) end up in aquatic, and especially marine, sediments. However, it is currently unclear what further influence APPs in the sediment have on biotic communities or processes. This study investigates how a variety of commercially-available APPs effect the marine microbial community by spiking different laboratory-manufactured APPs to sediment. Following exposure for 30 and 60 days, APPs caused a clear and consistent effect on the bacterial community composition as determined by 16S metabarcoding. This effect was strongest between 0 and 30 days, but continues to a lesser extent between 30 and 60 days. APPs appear to inhibit the highly diverse, but in general rarer, fraction of the community and/or select for specific community members to become more dominant. 71 antifouling-presence and 454 antifouling-absence indicator taxa were identified by indicator analysis. The difference in the level of classification in these two indicator groups was highly significant, with the antifouling-presence indicators having much higher percentage sequence identity to cultured taxa, while the antifouling-absence indicators appear to be made up of undescribed taxa, which may indicate that APPs act as a proxy for general anthropogenic influence or that APP contamination selects for taxa capable of being cultured. Given the clear and consistent effect APPs have on the surrounding sediment microbial community, further research into how APPs affect sediment functional processes and how such effects scale with concentration is recommended to better assess the wider consequences of these pollutants for marine biogeochemical cycles in the future. SYNOPSIS: Microplastic-paint particles are commonly found in marine sediment but little is known about how these, especially antifouling, paint particles affect sediment microbial communities. This study demonstrates that antifouling paint particles fundamentally alter sediment microbial communities.
+## Microplastic-antifouling paint particle contamination alters microbial communities in surrounding marine sediment
 
 [Source](https://doi.org/10.1016/j.scitotenv.2024.171863)
 
-10.1016/j.scitotenv.2024.171863
-
 ---
 
-## MCSS: microbial community simulator based on structure.
- 23.03.2024, _X Hui, J Yang, J Sun, F Liu, W Pan_
-
-
-De novo assembly plays a pivotal role in metagenomic analysis, and the incorporation of third-generation sequencing technology can significantly improve the integrity and accuracy of assembly results. Recently, with advancements in sequencing technology (Hi-Fi, ultra-long), several long-read-based bioinformatic tools have been developed. However, the validation of the performance and reliability of these tools is a crucial concern. To address this gap, we present MCSS (microbial community simulator based on structure), which has the capability to generate simulated microbial community and sequencing datasets based on the structure attributes of real microbiome communities. The evaluation results indicate that it can generate simulated communities that exhibit both diversity and similarity to actual community structures. Additionally, MCSS generates synthetic PacBio Hi-Fi and Oxford Nanopore Technologies (ONT) long reads for the species within the simulated community. This innovative tool provides a valuable resource for benchmarking and refining metagenomic analysis methods. Code available at: https://github.com/panlab-bio/mcss.
+## MCSS: microbial community simulator based on structure
 
 [Source](https://doi.org/10.3389/fmicb.2024.1358257)
-
-10.3389/fmicb.2024.1358257
 
 ---
 
