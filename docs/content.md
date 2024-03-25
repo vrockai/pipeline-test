@@ -17,9 +17,10 @@ The myriad microorganisms that live in close association with humans have divers
 ---
 
 ## Cluster-specific associations between the gut microbiota and behavioral outcomes in preschool-aged children.
- 23.03.2024, _M van de Wouw, Y Wang, ML Workentine, E Vaghef-Mehrabani, D Barth, EM Mercer, D Dewey, MC Arrieta, RA Reimer, L Tomfohr-Madsen, GF Giesbrecht_
+ 25.03.2024, _M van de Wouw, Y Wang, ML Workentine, E Vaghef-Mehrabani, D Barth, EM Mercer, D Dewey, MC Arrieta, RA Reimer, L Tomfohr-Madsen, GF Giesbrecht_
 
 
+_Child, Humans, Child, Preschool, Gastrointestinal Microbiome, Chromatography, Liquid, Tandem Mass Spectrometry, Metabolomics, Metabolome, RNA, Ribosomal, 16S, Bifidobacterium, Glucose_
 The gut microbiota is recognized as a regulator of brain development and behavioral outcomes during childhood. Nonetheless, associations between the gut microbiota and behavior are often inconsistent among studies in humans, perhaps because many host-microbe relationships vary widely between individuals. This study aims to stratify children based on their gut microbiota composition (i.e., clusters) and to identify novel gut microbiome cluster-specific associations between the stool metabolomic pathways and child behavioral outcomes.
 
 [Source](https://doi.org/10.1186/s40168-024-01773-5)
@@ -48,9 +49,10 @@ The oral and gastrointestinal mucosae represent the main targets of the toxic ef
 ---
 
 ## Cataloging the phylogenetic diversity of human bladder bacterial isolates.
- 24.03.2024, _J Du, M Khemmani, T Halverson, A Ene, R Limeira, L Tinawi, BR Hochstedler-Kramer, MF Noronha, C Putonti, AJ Wolfe_
+ 25.03.2024, _J Du, M Khemmani, T Halverson, A Ene, R Limeira, L Tinawi, BR Hochstedler-Kramer, MF Noronha, C Putonti, AJ Wolfe_
 
 
+_Adult, Humans, Female, Urinary Bladder, Phylogeny, RNA, Ribosomal, 16S, Bacteria, Escherichia coli, Cataloging_
 Although the human bladder is reported to harbor unique microbiota, our understanding of how these microbial communities interact with their human hosts is limited, mostly owing to the lack of isolates to test mechanistic hypotheses. Niche-specific bacterial collections and associated reference genome databases have been instrumental in expanding knowledge of the microbiota of other anatomical sites, such as the gut and oral cavity.
 
 [Source](https://doi.org/10.1186/s13059-024-03216-8)
@@ -60,9 +62,10 @@ Although the human bladder is reported to harbor unique microbiota, our understa
 ---
 
 ## Integrative metagenomic and metabolomic analyses reveal the potential of gut microbiota to exacerbate acute pancreatitis.
- 24.03.2024, _J Liu, Q Yan, S Li, J Jiao, Y Hao, G Zhang, Q Zhang, F Luo, Y Zhang, Q Lv, W Zhang, A Zhang, H Song, Y Xin, Y Ma, L Owusu, X Ma, P Yin, D Shang_
+ 25.03.2024, _J Liu, Q Yan, S Li, J Jiao, Y Hao, G Zhang, Q Zhang, F Luo, Y Zhang, Q Lv, W Zhang, A Zhang, H Song, Y Xin, Y Ma, L Owusu, X Ma, P Yin, D Shang_
 
 
+_Animals, Mice, Humans, Gastrointestinal Microbiome, Metagenome, Acute Disease, Pancreatitis, RNA, Ribosomal, 16S_
 Early dysbiosis in the gut microbiota may contribute to the severity of acute pancreatitis (AP), however, a comprehensive understanding of the gut microbiome, potential pathobionts, and host metabolome in individuals with AP remains elusive. Hence, we employed fecal whole-metagenome shotgun sequencing in 82 AP patients and 115 matched healthy controls, complemented by untargeted serum metabolome and lipidome profiling in a subset of participants. Analyses of the gut microbiome in AP patients revealed reduced diversity, disrupted microbial functions, and altered abundance of 77 species, influenced by both etiology and severity. AP-enriched species, mostly potential pathobionts, correlated positively with host liver function and serum lipid indicators. Conversely, many AP-depleted species were short-chain fatty acid producers. Gut microflora changes were accompanied by shifts in the serum metabolome and lipidome. Specifically, certain gut species, like enriched Bilophila wadsworthia and depleted Bifidobacterium spp., appeared to contribute to elevated triglyceride levels in biliary or hyperlipidemic AP patients. Through culturing and whole-genome sequencing of bacterial isolates, we identified virulence factors and clinically relevant antibiotic resistance in patient-derived strains, suggesting a predisposition to opportunistic infections. Finally, our study demonstrated that gavage of specific pathobionts could exacerbate pancreatitis in a caerulein-treated mouse model. In conclusion, our comprehensive analysis sheds light on the gut microbiome and serum metabolome in AP, elucidating the role of pathobionts in disease progression. These insights offer valuable perspectives for etiologic diagnosis, prevention, and intervention in AP and related conditions.
 
 [Source](https://doi.org/10.1038/s41522-024-00499-4)
@@ -96,9 +99,10 @@ Immunotherapy has revolutionized cancer treatment, but inconsistent responses pe
 ---
 
 ## HPV-associated cervicovaginal microbiome and host metabolome characteristics.
- 23.03.2024, _Y Zhang, X Wu, D Li, R Huang, X Deng, M Li, F Du, Y Zhao, J Shen, Y Chen, P Zhang, C Hu, Z Xiao, Q Wen_
+ 25.03.2024, _Y Zhang, X Wu, D Li, R Huang, X Deng, M Li, F Du, Y Zhao, J Shen, Y Chen, P Zhang, C Hu, Z Xiao, Q Wen_
 
 
+_Female, Humans, Papillomavirus Infections, Vagina, RNA, Ribosomal, 16S, Tandem Mass Spectrometry, Metabolome, Microbiota, Biomarkers_
 Cervicovaginal microbiome plays an important role in the persistence of HPV infection and subsequent disease development. However, cervicovaginal microbiota varied cross populations with different habits and regions. Identification of population-specific biomarkers from cervicovaginal microbiota and host metabolome axis may support early detection or surveillance of HPV-induced cervical disease at all sites. Therefore, in the present study, to identify HPV-specific biomarkers, cervicovaginal secretion and serum samples from HPV-infected patients (HPV group, n = 25) and normal controls (normal group, n = 17) in Xichang, China were collected for microbiome (16S rRNA gene sequencing) and metabolome (UHPLC-MS/MS) analysis, respectively.
 
 [Source](https://doi.org/10.1186/s12866-024-03244-1)
@@ -173,16 +177,9 @@ Intestinal chronic inflammation is associated with microbial dysbiosis and accum
 
 ---
 
-## Integrating microbial abundance time series with fermentation dynamics of the rumen microbiome via mathematical modelling.
- 23.03.2024, _M Davoudkhani, F Rubino, CJ Creevey, S Ahvenjärvi, AR Bayat, I Tapio, A Belanche, R Muñoz-Tamayo_
-
-
-_Female, Animals, Cattle, Propionates, Fermentation, Rumen, Time Factors, RNA, Ribosomal, 16S, Fatty Acids, Volatile, Acetates, Butyrates, Microbiota, Diet, Animal Feed_
-The rumen represents a dynamic microbial ecosystem where fermentation metabolites and microbial concentrations change over time in response to dietary changes. The integration of microbial genomic knowledge and dynamic modelling can enhance our system-level understanding of rumen ecosystem's function. However, such an integration between dynamic models and rumen microbiota data is lacking. The objective of this work was to integrate rumen microbiota time series determined by 16S rRNA gene amplicon sequencing into a dynamic modelling framework to link microbial data to the dynamics of the volatile fatty acids (VFA) production during fermentation. For that, we used the theory of state observers to develop a model that estimates the dynamics of VFA from the data of microbial functional proxies associated with the specific production of each VFA. We determined the microbial proxies using CowPi to infer the functional potential of the rumen microbiota and extrapolate their functional modules from KEGG (Kyoto Encyclopedia of Genes and Genomes). The approach was challenged using data from an in vitro RUSITEC experiment and from an in vivo experiment with four cows. The model performance was evaluated by the coefficient of variation of the root mean square error (CRMSE). For the in vitro case study, the mean CVRMSE were 9.8% for acetate, 14% for butyrate and 14.5% for propionate. For the in vivo case study, the mean CVRMSE were 16.4% for acetate, 15.8% for butyrate and 19.8% for propionate. The mean CVRMSE for the VFA molar fractions were 3.1% for acetate, 3.8% for butyrate and 8.9% for propionate. Ours results show the promising application of state observers integrated with microbiota time series data for predicting rumen microbial metabolism.
+## Integrating microbial abundance time series with fermentation dynamics of the rumen microbiome via mathematical modelling
 
 [Source](https://doi.org/10.1371/journal.pone.0298930)
-
-10.1371/journal.pone.0298930
 
 ---
 
@@ -230,9 +227,10 @@ Coriariaceae are a small plant family of 14-17 species and subspecies that curre
 ---
 
 ## Host population crashes disrupt the diversity of associated marine microbiomes.
- 23.03.2024, _WS Pearman, SE Morales, F Vaux, NJ Gemmell, CI Fraser_
+ 25.03.2024, _WS Pearman, SE Morales, F Vaux, NJ Gemmell, CI Fraser_
 
 
+_Phylogeny, RNA, Ribosomal, 16S, Accidents, Traffic, Microbiota, New Zealand_
 Host-associated microbial communities are shaped by myriad factors ranging from host conditions, environmental conditions and other microbes. Disentangling the ecological impact of each of these factors can be particularly difficult as many variables are correlated. Here, we leveraged earthquake-induced changes in host population structure to assess the influence of population crashes on marine microbial ecosystems. A large (7.8 magnitude) earthquake in New Zealand in 2016 led to widespread coastal uplift of up to ~6 m, sufficient to locally extirpate some intertidal southern bull kelp populations. These uplifted populations are slowly recovering, but remain at much lower densities than at nearby, less-uplifted sites. By comparing the microbial communities of the hosts from disturbed and relatively undisturbed populations using 16S rRNA gene amplicon sequencing, we observed that disturbed host populations supported higher functional, taxonomic and phylogenetic microbial beta diversity than non-disturbed host populations. Our findings shed light on microbiome ecological assembly processes, particularly highlighting that large-scale disturbances that affect host populations can dramatically influence microbiome structure. We suggest that disturbance-induced changes in host density limit the dispersal opportunities of microbes, with host community connectivity declining with the density of host populations.
 
 [Source](https://doi.org/10.1111/1462-2920.16611)
