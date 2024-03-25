@@ -177,9 +177,16 @@ Intestinal chronic inflammation is associated with microbial dysbiosis and accum
 
 ---
 
-## Integrating microbial abundance time series with fermentation dynamics of the rumen microbiome via mathematical modelling
+## Integrating microbial abundance time series with fermentation dynamics of the rumen microbiome via mathematical modelling.
+ 23.03.2024, _M Davoudkhani, F Rubino, CJ Creevey, S Ahvenjärvi, AR Bayat, I Tapio, A Belanche, R Muñoz-Tamayo_
+
+
+_Female, Animals, Cattle, Propionates, Fermentation, Rumen, Time Factors, RNA, Ribosomal, 16S, Fatty Acids, Volatile, Acetates, Butyrates, Microbiota, Diet, Animal Feed_
+The rumen represents a dynamic microbial ecosystem where fermentation metabolites and microbial concentrations change over time in response to dietary changes. The integration of microbial genomic knowledge and dynamic modelling can enhance our system-level understanding of rumen ecosystem's function. However, such an integration between dynamic models and rumen microbiota data is lacking. The objective of this work was to integrate rumen microbiota time series determined by 16S rRNA gene amplicon sequencing into a dynamic modelling framework to link microbial data to the dynamics of the volatile fatty acids (VFA) production during fermentation. For that, we used the theory of state observers to develop a model that estimates the dynamics of VFA from the data of microbial functional proxies associated with the specific production of each VFA. We determined the microbial proxies using CowPi to infer the functional potential of the rumen microbiota and extrapolate their functional modules from KEGG (Kyoto Encyclopedia of Genes and Genomes). The approach was challenged using data from an in vitro RUSITEC experiment and from an in vivo experiment with four cows. The model performance was evaluated by the coefficient of variation of the root mean square error (CRMSE). For the in vitro case study, the mean CVRMSE were 9.8% for acetate, 14% for butyrate and 14.5% for propionate. For the in vivo case study, the mean CVRMSE were 16.4% for acetate, 15.8% for butyrate and 19.8% for propionate. The mean CVRMSE for the VFA molar fractions were 3.1% for acetate, 3.8% for butyrate and 8.9% for propionate. Ours results show the promising application of state observers integrated with microbiota time series data for predicting rumen microbial metabolism.
 
 [Source](https://doi.org/10.1371/journal.pone.0298930)
+
+10.1371/journal.pone.0298930
 
 ---
 
