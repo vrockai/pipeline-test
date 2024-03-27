@@ -1,278 +1,206 @@
-## A host-microbiota interactome reveals extensive transkingdom connectivity.
- 21.03.2024, _ND Sonnert, CE Rosen, AR Ghazi, EA Franzosa, B Duncan-Lowey, JA González-Hernández, JD Huck, Y Yang, Y Dai, TA Rice, MT Nguyen, D Song, Y Cao, AL Martin, AA Bielecka, S Fischer, C Guan, J Oh, C Huttenhower, AM Ring, NW Palm_
+## Genomic, functional, and metabolic enhancements in multidrug-resistant Enterobacter bugandensis facilitating its persistence and succession in the International Space Station.
+ 26.03.2024, _P Sengupta, SK Muthamilselvi Sivabalan, NK Singh, K Raman, K Venkateswaran_
 
 
-The myriad microorganisms that live in close association with humans have diverse effects on physiology, yet the molecular bases for these impacts remain mostly unknown1-3. Classical pathogens often invade host tissues and modulate immune responses through interactions with human extracellular and secreted proteins (the 'exoproteome'). Commensal microorganisms may also facilitate niche colonization and shape host biology by engaging host exoproteins; however, direct exoproteome-microbiota interactions remain largely unexplored. Here we developed and validated a novel technology, BASEHIT, that enables proteome-scale assessment of human exoproteome-microbiome interactions. Using BASEHIT, we interrogated more than 1.7 million potential interactions between 519 human-associated bacterial strains from diverse phylogenies and tissues of origin and 3,324 human exoproteins. The resulting interactome revealed an extensive network of transkingdom connectivity consisting of thousands of previously undescribed host-microorganism interactions involving 383 strains and 651 host proteins. Specific binding patterns within this network implied underlying biological logic; for example, conspecific strains exhibited shared exoprotein-binding patterns, and individual tissue isolates uniquely bound tissue-specific exoproteins. Furthermore, we observed dozens of unique and often strain-specific interactions with potential roles in niche colonization, tissue remodelling and immunomodulation, and found that strains with differing host interaction profiles had divergent interactions with host cells in vitro and effects on the host immune system in vivo. Overall, these studies expose a previously unexplored landscape of molecular-level host-microbiota interactions that may underlie causal effects of indigenous microorganisms on human health and disease.
+_Humans, Spacecraft, Space Flight, Microbiota, Genomics, Anti-Infective Agents, Enterobacter_
+The International Space Station (ISS) stands as a testament to human achievement in space exploration. Despite its highly controlled environment, characterised by microgravity, increased CO  2  levels, and elevated solar radiation, microorganisms occupy a unique niche. These microbial inhabitants play a significant role in influencing the health and well-being of astronauts on board. One microorganism of particular interest in our study is Enterobacter bugandensis, primarily found in clinical specimens including the human gastrointestinal tract, and also reported to possess pathogenic traits, leading to a plethora of infections.
 
-[Source](https://doi.org/10.1038/s41586-024-07162-0)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01777-1)
 
-10.1038/s41586-024-07162-0
-
----
-
-## A distinct <em>Fusobacterium nucleatum</em> clade dominates the colorectal cancer niche
-
-[Source](https://doi.org/10.1038/s41586-024-07182-w)
+10.1186/s40168-024-01777-1
 
 ---
 
-## Cluster-specific associations between the gut microbiota and behavioral outcomes in preschool-aged children.
- 25.03.2024, _M van de Wouw, Y Wang, ML Workentine, E Vaghef-Mehrabani, D Barth, EM Mercer, D Dewey, MC Arrieta, RA Reimer, L Tomfohr-Madsen, GF Giesbrecht_
+## An overview of the bacterial microbiome of public transportation systems-risks, detection, and countermeasures.
+ 27.03.2024, _YT Ly, S Leuko, R Moeller_
 
 
-_Child, Humans, Child, Preschool, Gastrointestinal Microbiome, Chromatography, Liquid, Tandem Mass Spectrometry, Metabolomics, Metabolome, RNA, Ribosomal, 16S, Bifidobacterium, Glucose_
-The gut microbiota is recognized as a regulator of brain development and behavioral outcomes during childhood. Nonetheless, associations between the gut microbiota and behavior are often inconsistent among studies in humans, perhaps because many host-microbe relationships vary widely between individuals. This study aims to stratify children based on their gut microbiota composition (i.e., clusters) and to identify novel gut microbiome cluster-specific associations between the stool metabolomic pathways and child behavioral outcomes.
+_Humans, COVID-19, Respiratory Aerosols and Droplets, SARS-CoV-2, Transportation, Microbiota_
+When we humans travel, our microorganisms come along. These can be harmless but also pathogenic, and are spread by touching surfaces or breathing aerosols in the passenger cabins. As the pandemic with SARS-CoV-2 has shown, those environments display a risk for infection transmission. For a risk reduction, countermeasures such as wearing face masks and distancing were applied in many places, yet had a significant social impact. Nevertheless, the next pandemic will come and additional countermeasures that contribute to the risk reduction are needed to keep commuters safe and reduce the spread of microorganisms and pathogens, but also have as little impact as possible on the daily lives of commuters. This review describes the bacterial microbiome of subways around the world, which is mainly characterized by human-associated genera. We emphasize on healthcare-associated ESKAPE pathogens within public transport, introduce state-of-the art methods to detect common microbes and potential pathogens such as LAMP and next-generation sequencing. Further, we describe and discuss possible countermeasures that could be deployed in public transportation systems, as antimicrobial surfaces or air sterilization using plasma. Commuting in public transport can harbor risks of infection. Improving the safety of travelers can be achieved by effective detection methods, microbial reduction systems, but importantly by hand hygiene and common-sense hygiene guidelines.
 
-[Source](https://doi.org/10.1186/s40168-024-01773-5)
+[Source](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1367324/full)
 
-10.1186/s40168-024-01773-5
-
----
-
-## Association between oral and fecal microbiome dysbiosis and treatment complications in pediatric patients undergoing allogeneic hematopoietic stem cell transplantation.
- 23.03.2024, _M Faraci, C Bonaretti, G Dell'Orso, F Pierri, S Giardino, F Angiero, S Blasi, G Farronato, E Di Marco, A Trevisiol, E Olcese, L Rufino, M Squillario, R Biassoni_
-
-
-_Humans, Child, Mucositis, Dysbiosis, Prospective Studies, Microbiota, Graft vs Host Disease, Bacteria, Hematopoietic Stem Cell Transplantation_
-The oral and gastrointestinal mucosae represent the main targets of the toxic effect of chemo and/or radiotherapy administered during the conditioning regimen before hematopoietic stem cell transplant (HSCT). These harmful consequences and the immunological complications that may occur after the transplant (such as Graft versus Host Disease, GvHD) are responsible for the clinical symptoms associated with mucositis during the aplasia phase, like pain, nausea, vomiting, and diarrhea. These toxicities could play a critical role in the oral and gastrointestinal microbiomes during the post-transplant phase, and the degree of microbial dysbiosis and dysregulation among different bacterial species could also be crucial in intestinal mucosa homeostasis, altering the host's innate and adaptive immune responses and favoring abnormal immune responses responsible for the occurrence of GvHD. This prospective pediatric study aims to analyze longitudinally oral and gut microbiomes in 17 pediatric patients who received allogeneic HSCT for malignant and non-malignant diseases. The oral mucositis was mainly associated with an increased relative abundance of Fusobacteria, and Prevotella species, while Streptococcus descendants showed a negative correlation. The fecal microbiome of subjects affected by cutaneous acute GvHD (aGvHD) correlated with Proteobacteria. Oral mucosal microbiota undergoes changes after HSCT, Fusobacteria, and Prevotella represent bacterial species associated with mucositis and they could be the target for future therapeutic approaches, while fecal microbiome in patients with acute GvHD (aGvHD) revealed an increase of different class of Proteobacteria (Alphaproteobacteria and Deltaproteobacteria) and a negative correlation with the class of Gammaproteobacteria.
-
-[Source](https://doi.org/10.1038/s41598-024-55690-6)
-
-10.1038/s41598-024-55690-6
+10.3389/fpubh.2024.1367324
 
 ---
 
-## Design of a proteolytic module for improved metabolic modeling of <em>Bacteroides caccae</em>
-
-[Source](https://doi.org/10.1128/msystems.00153-24)
-
----
-
-## Cataloging the phylogenetic diversity of human bladder bacterial isolates.
- 25.03.2024, _J Du, M Khemmani, T Halverson, A Ene, R Limeira, L Tinawi, BR Hochstedler-Kramer, MF Noronha, C Putonti, AJ Wolfe_
+## Contigs directed gene annotation (ConDiGA) for accurate protein sequence database construction in metaproteomics.
+ 23.03.2024, _E Wu, V Mallawaarachchi, J Zhao, Y Yang, H Liu, X Wang, C Shen, Y Lin, L Qiao_
 
 
-_Adult, Humans, Female, Urinary Bladder, Phylogeny, RNA, Ribosomal, 16S, Bacteria, Escherichia coli, Cataloging_
-Although the human bladder is reported to harbor unique microbiota, our understanding of how these microbial communities interact with their human hosts is limited, mostly owing to the lack of isolates to test mechanistic hypotheses. Niche-specific bacterial collections and associated reference genome databases have been instrumental in expanding knowledge of the microbiota of other anatomical sites, such as the gut and oral cavity.
+_Humans, Databases, Protein, Molecular Sequence Annotation, Reproducibility of Results, Microbiota, Metagenome, Bacteria, Metagenomics_
+Microbiota are closely associated with human health and disease. Metaproteomics can provide a direct means to identify microbial proteins in microbiota for compositional and functional characterization. However, in-depth and accurate metaproteomics is still limited due to the extreme complexity and high diversity of microbiota samples. It is generally recommended to use metagenomic data from the same samples to construct the protein sequence database for metaproteomic data analysis. Although different metagenomics-based database construction strategies have been developed, an optimization of gene taxonomic annotation has not been reported, which, however, is extremely important for accurate metaproteomic analysis.
 
-[Source](https://doi.org/10.1186/s13059-024-03216-8)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01775-3)
 
-10.1186/s13059-024-03216-8
+10.1186/s40168-024-01775-3
 
 ---
 
-## Integrative metagenomic and metabolomic analyses reveal the potential of gut microbiota to exacerbate acute pancreatitis.
- 25.03.2024, _J Liu, Q Yan, S Li, J Jiao, Y Hao, G Zhang, Q Zhang, F Luo, Y Zhang, Q Lv, W Zhang, A Zhang, H Song, Y Xin, Y Ma, L Owusu, X Ma, P Yin, D Shang_
+## Amplidiff: an optimized amplicon sequencing approach to estimating lineage abundances in viral metagenomes.
+ 26.03.2024, _JV Bemmelen, DS Smyth, JA Baaijens_
 
 
-_Animals, Mice, Humans, Gastrointestinal Microbiome, Metagenome, Acute Disease, Pancreatitis, RNA, Ribosomal, 16S_
-Early dysbiosis in the gut microbiota may contribute to the severity of acute pancreatitis (AP), however, a comprehensive understanding of the gut microbiome, potential pathobionts, and host metabolome in individuals with AP remains elusive. Hence, we employed fecal whole-metagenome shotgun sequencing in 82 AP patients and 115 matched healthy controls, complemented by untargeted serum metabolome and lipidome profiling in a subset of participants. Analyses of the gut microbiome in AP patients revealed reduced diversity, disrupted microbial functions, and altered abundance of 77 species, influenced by both etiology and severity. AP-enriched species, mostly potential pathobionts, correlated positively with host liver function and serum lipid indicators. Conversely, many AP-depleted species were short-chain fatty acid producers. Gut microflora changes were accompanied by shifts in the serum metabolome and lipidome. Specifically, certain gut species, like enriched Bilophila wadsworthia and depleted Bifidobacterium spp., appeared to contribute to elevated triglyceride levels in biliary or hyperlipidemic AP patients. Through culturing and whole-genome sequencing of bacterial isolates, we identified virulence factors and clinically relevant antibiotic resistance in patient-derived strains, suggesting a predisposition to opportunistic infections. Finally, our study demonstrated that gavage of specific pathobionts could exacerbate pancreatitis in a caerulein-treated mouse model. In conclusion, our comprehensive analysis sheds light on the gut microbiome and serum metabolome in AP, elucidating the role of pathobionts in disease progression. These insights offer valuable perspectives for etiologic diagnosis, prevention, and intervention in AP and related conditions.
+_Metagenome, Microbiota, DNA Primers, Algorithms, Sequence Analysis, DNA, High-Throughput Nucleotide Sequencing, RNA, Ribosomal, 16S_
+Metagenomic profiling algorithms commonly rely on genomic differences between lineages, strains, or species to infer the relative abundances of sequences present in a sample. This observation plays an important role in the analysis of diverse microbial communities, where targeted sequencing of 16S and 18S rRNA, both well-known hypervariable genomic regions, have led to insights into microbial diversity and the discovery of novel organisms. However, the variable nature of discriminatory regions can also act as a double-edged sword, as the sought-after variability can make it difficult to design primers for their amplification through PCR. Moreover, the most variable regions are not necessarily the most informative regions for the purpose of differentiation; one should focus on regions that maximize the number of lineages that can be distinguished.
 
-[Source](https://doi.org/10.1038/s41522-024-00499-4)
+[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05735-4)
 
-10.1038/s41522-024-00499-4
-
----
-
-## Extracellular vesicles from vaginal <em>Gardnerella vaginalis</em> and <em>Mobiluncus mulieris</em> contain distinct proteomic cargo and induce inflammatory pathways
-
-[Source](https://doi.org/10.1038/s41522-024-00502-y)
+10.1186/s12859-024-05735-4
 
 ---
 
-## A specific enterotype derived from gut microbiome of older individuals enables favorable responses to immune checkpoint blockade therapy.
- 21.03.2024, _X Zhu, X Huang, M Hu, R Sun, J Li, H Wang, X Pan, Y Ma, L Ning, T Tong, Y Zhou, J Ding, Y Zhao, B Xuan, JY Fang, J Hong, JW Hon Wong, Y Zhang, H Chen_
+## Multi-omic integration of microbiome data for identifying disease-associated modules.
+ 26.03.2024, _E Muller, I Shiryan, E Borenstein_
 
 
-Immunotherapy has revolutionized cancer treatment, but inconsistent responses persist. Our study delves into the intriguing phenomenon of enhanced immunotherapy sensitivity in older individuals with cancers. Through a meta-analysis encompassing 25 small-to-mid-sized trials of immune checkpoint blockade (ICB), we demonstrate that older individuals exhibit heightened responsiveness to ICB therapy. To understand the underlying mechanism, we reanalyze single-cell RNA sequencing (scRNA-seq) data from multiple studies and unveil distinct upregulation of exhausted and cytotoxic T cell markers within the tumor microenvironment (TME) of older patients. Recognizing the potential role of gut microbiota in modulating the efficacy of immunotherapy, we identify an aging-enriched enterotype linked to improved immunotherapy outcomes in older patients. Fecal microbiota transplantation experiments in mice confirm the therapeutic potential of the aging-enriched enterotype, enhancing treatment sensitivity and reshaping the TME. Our discoveries confront the prevailing paradox and provide encouraging paths for tailoring cancer immunotherapy strategies according to an individual's gut microbiome profile.
+_Humans, Multiomics, Microbiota, Bacteria, Gastrointestinal Microbiome_
+Multi-omic studies of the human gut microbiome are crucial for understanding its role in disease across multiple functional layers. Nevertheless, integrating and analyzing such complex datasets poses significant challenges. Most notably, current analysis methods often yield extensive lists of disease-associated features (e.g., species, pathways, or metabolites), without capturing the multi-layered structure of the data. Here, we address this challenge by introducing "MintTea", an intermediate integration-based approach combining canonical correlation analysis extensions, consensus analysis, and an evaluation protocol. MintTea identifies "disease-associated multi-omic modules", comprising features from multiple omics that shift in concord and that collectively associate with the disease. Applied to diverse cohorts, MintTea captures modules with high predictive power, significant cross-omic correlations, and alignment with known microbiome-disease associations. For example, analyzing samples from a metabolic syndrome study, MintTea identifies a module with serum glutamate- and TCA cycle-related metabolites, along with bacterial species linked to insulin resistance. In another dataset, MintTea identifies a module associated with late-stage colorectal cancer, including Peptostreptococcus and Gemella species and fecal amino acids, in line with these species' metabolic activity and their coordinated gradual increase with cancer development. This work demonstrates the potential of advanced integration methods in generating systems-level, multifaceted hypotheses underlying microbiome-disease interactions.
 
-[Source](https://doi.org/10.1016/j.chom.2024.03.002)
+[Source](https://www.nature.com/articles/s41467-024-46888-3)
 
-10.1016/j.chom.2024.03.002
-
----
-
-## Opposing diet, microbiome, and metabolite mechanisms regulate inflammatory bowel disease in a genetically susceptible host
-
-[Source](https://doi.org/10.1016/j.chom.2024.03.001)
+10.1038/s41467-024-46888-3
 
 ---
 
-## HPV-associated cervicovaginal microbiome and host metabolome characteristics.
- 26.03.2024, _Y Zhang, X Wu, D Li, R Huang, X Deng, M Li, F Du, Y Zhao, J Shen, Y Chen, P Zhang, C Hu, Z Xiao, Q Wen_
+## Gender affirming hormone therapy preserves skeletal maturation in young mice via the gut microbiome.
+ 26.03.2024, _S Pal, X Morgan, HY Dar, CA Gacasan, S Patil, A Stoica, YJ Hu, MN Weitzmann, RM Jones, R Pacifici_
 
 
-_Female, Humans, Papillomavirus Infections, Vagina, RNA, Ribosomal, 16S, Tandem Mass Spectrometry, Metabolome, Microbiota, Biomarkers_
-Cervicovaginal microbiome plays an important role in the persistence of HPV infection and subsequent disease development. However, cervicovaginal microbiota varied cross populations with different habits and regions. Identification of population-specific biomarkers from cervicovaginal microbiota and host metabolome axis may support early detection or surveillance of HPV-induced cervical disease at all sites. Therefore, in the present study, to identify HPV-specific biomarkers, cervicovaginal secretion and serum samples from HPV-infected patients (HPV group, n = 25) and normal controls (normal group, n = 17) in Xichang, China were collected for microbiome (16S rRNA gene sequencing) and metabolome (UHPLC-MS/MS) analysis, respectively.
+Gender affirming hormone therapy (GAHT) is often prescribed to transgender (TG) adolescents to alleviate gender dysphoria, but the impact of GAHT on the growing skeleton is unclear. We found GAHT to improve trabecular bone structure via increased bone formation in young male mice and not to affect trabecular structure in female mice. GAHT modified gut microbiome composition in both male and female mice. However, fecal microbiota transfers (FMT) revealed that GAHT-shaped gut microbiome was a communicable regulator of bone structure and turnover in male, but not in female mice. Mediation analysis identified two species of Bacteroides as significant contributors to the skeletal effects of GAHT in male mice, with Bacteroides supplementation phenocopying the effects of GAHT on bone. Bacteroides have the capacity to expand Treg populations in the gut. Accordingly, GAHT expanded intestinal regulatory T cells (Tregs) and stimulated their homing to the bone marrow (BM) in male but not in female mice. Attesting to the functional relevance of Tregs, pharmacological blockade of Treg expansion prevented GAHT-induced bone anabolism. In summary, in male mice GAHT stimulated bone formation and improved trabecular structure by promoting Treg expansion via a microbiome-mediated effect. In female mice GAHT neither improved nor impaired trabecular structure.
 
-[Source](https://doi.org/10.1186/s12866-024-03244-1)
+[Source](https://www.jci.org/articles/view/175410)
 
-10.1186/s12866-024-03244-1
-
----
-
-## Mediterranean diet: a potential player in the link between oral microbiome and oral diseases.
- 22.03.2024, _G Augimeri, G Caparello, I Caputo, R Reda, L Testarelli, D Bonofiglio_
-
-
-The oral microbiome is a complex and dynamic assemblage of microorganisms that colonize different sites of the oral cavity maintaining both oral and systemic health. Therefore, when its composition is altered, oral diseases occur. Among oral inflammatory pathologies, periodontal diseases affect the tissues surrounding the teeth, representing the main cause of tooth loss and one of the most important threats to the oral health. Lifestyle and eating habits influence the composition of the human oral microbiota and the development and progression of oral diseases. In this context, the Mediterranean Diet (MD) model, comprising both healthy dietary choices and lifestyle, is linked to the prevention of several metabolic and chronic-degenerative pathological processes, including oral diseases. Indeed, the MD is a plant-based diet, enriched of anti-inflammatory and antioxidant nutrients, which may induce beneficial effects against dental caries and periodontal diseases.
-
-[Source](https://doi.org/10.1080/20002297.2024.2329474)
-
-10.1080/20002297.2024.2329474
+10.1172/JCI175410
 
 ---
 
-## Exopolysaccharides Produced by <em>Bifidobacterium longum </em>subsp.<em> longum</em> YS108R Ameliorates DSS-Induced Ulcerative Colitis in Mice by Improving the Gut Barrier and Regulating the Gut Microbiota
-
-[Source](https://doi.org/10.1021/acs.jafc.3c06421)
-
----
-
-## <em>Lactobacillus rhamnosus</em> GG ameliorates hyperuricemia in a novel model
-
-[Source](https://doi.org/10.1038/s41522-024-00486-9)
-
----
-
-## Specific vaginal and gut microbiome and the anti-tumor effect of butyrate in cervical cancer women.
- 20.03.2024, _M Han, N Wang, W Han, X Liu, T Sun, J Xu_
+## Microbiota-derived indoles alleviate intestinal inflammation and modulate microbiome by microbial cross-feeding.
+ 23.03.2024, _G Wang, Y Fan, G Zhang, S Cai, Y Ma, L Yang, Y Wang, H Yu, S Qiao, X Zeng_
 
 
-To investigate the vaginal and gut microbes changes during the carcinogenesis of cervical and the auxiliary diagnostic value. To investigate the effect of microbiome-specific metabolites butyric on cervical cancer cells.
+_Humans, Tryptophan, Dysbiosis, Microbiota, Indoles, Bacteria, Inflammation_
+The host-microbiota interaction plays a crucial role in maintaining homeostasis and disease susceptibility, and microbial tryptophan metabolites are potent modulators of host physiology. However, whether and how these metabolites mediate host-microbiota interactions, particularly in terms of inter-microbial communication, remains unclear.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S1936523324000287?via%3Dihub)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01750-y#Sec2)
 
-10.1016/j.tranon.2024.101902
+10.1186/s40168-024-01750-y
 
 ---
 
-## Harnessing the Power Within: Engineering the Microbiome for Enhanced Gynecologic Health.
- 21.03.2024, _C Brennan, K Chan, T Kumar, E Maissy, L Brubaker, MI Dothard, JA Gilbert, KE Gilbert, AL Lewis, V Thackray, A Zarrinpar, R Knight_
+## [PREPRINT] Akkermansia muciniphila identified as key strain to alleviate gut barrier injury through Wnt signaling pathway
 
-
-Although numerous studies have demonstrated the impact of microbiome manipulation on human health, research on the microbiome's influence on female health remains relatively limited despite substantial disease burden. In light of this, we present a selected review of clinical trials and preclinical studies targeting both the vaginal and gut microbiome for the prevention or treatment of various gynecologic conditions. Specifically, we explore studies that leverage microbiota transplants, probiotics, prebiotics, diet modifications, and engineered microbial strains. A healthy vaginal microbiome for females of reproductive age consists of lactic acid-producing bacteria predominantly of the Lactobacillus genus, which serves as a protective barrier against pathogens and maintains a balanced ecosystem. The gut microbiota's production of short-chain fatty acids, metabolism of primary bile acids, and modulation of sex steroid levels have significant implications for the interplay between host and microbes throughout the body, ultimately impacting reproductive health. By harnessing interventions that modulate both the vaginal and gut microbiomes, it becomes possible to not only maintain homeostasis but also mitigate pathological conditions. While the field is still working towards making broad clinical recommendations, the current studies demonstrate that manipulating the microbiome holds great potential for addressing diverse gynecologic conditions.
-
-[Source](https://doi.org/10.1530/RAF-23-0060)
-
-10.1530/RAF-23-0060
+[Source](https://www.biorxiv.org/content/biorxiv/early/2024/03/25/2023.10.02.560590.full.pdf)
 
 ---
 
-## Hadza <em>Prevotella</em> require diet-derived microbiota-accessible carbohydrates to persist in mice
-
-[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01245-7)
-
----
-
-## The crosstalk between intestinal microbiota and MDSCs fuels colitis associated cancer development.
- 20.03.2024, _H Ashkenazi-Preiser, O Reuven, A Uzan-Yulzari, S Komisarov, R Cirkin, S Turjeman, C Even, N Twaik, K Ben-Meir, I Mikula, L Cohen-Daniel, Y Meirow, E Pikarsky, Y Louzoun, O Koren, M Baniyash_
+## Microbiota from human infants consuming secretors or non-secretors mothers' milk impacts the gut and immune system in mice.
+ 26.03.2024, _M Gurung, BT Schlegel, D Rajasundaram, R Fox, L Bode, T Yao, SR Lindemann, T LeRoith, QD Read, C Simecka, L Carroll, A Andres, L Yeruva_
 
 
-Intestinal chronic inflammation is associated with microbial dysbiosis and accumulation of various immune cells including myeloid-derived suppressor cells (MDSCs), which profoundly impact the immune microenvironment, perturb homeostasis and increase the risk to develop colitis-associated colorectal cancer (CAC). However, the specific MDSCs-dysbiotic microbiota interactions and their collective impact on CAC development remain poorly understood. In this study, using a murine model of CAC, we demonstrate that CAC-bearing mice exhibit significantly elevated levels of highly immunosuppressive MDSCs, accompanied by microbiota alterations. Both MDSCs and bacteria that infiltrate the colon tissue and developing tumors can be found in close proximity, suggesting intricate MDSC-microbiota crosstalk within the tumor microenvironment. To investigate this phenomenon, we employed antibiotic treatment to disrupt MDSC-microbiota interactions. This intervention yielded a remarkable reduction in intestinal inflammation, decreased MDSC levels, and alleviated immunosuppression, all of which were associated with a significant reduction in tumor burden. Furthermore, we underscore the causative role of dysbiotic microbiota in the predisposition toward tumor development, highlighting their potential as biomarkers for predicting tumor load. We shed light on the intimate MDSCs-microbiota cross-talk, revealing how bacteria enhance MDSC suppressive features and activities, inhibit their differentiation into mature beneficial myeloid cells, and redirect some toward M2 macrophage phenotype. Collectively, this study uncovers the role of MDSC-bacteria crosstalk in impairing immune responses and promoting tumor growth, providing new insights into potential therapeutic strategies for CAC.
+Maternal secretor status is one of the determinants of human milk oligosaccharides (HMOs) composition, which, in turn, influences the gut microbiota composition of infants. To understand if this change in gut microbiota impacts immune cell composition, intestinal morphology, and gene expression, 21-day-old germ-free C57BL/6 mice were transplanted with fecal microbiota from infants whose mothers were either secretors (SMM) or non-secretors (NSM) or from infants consuming dairy-based formula (MFM). For each group, one set of mice was supplemented with HMOs. HMO supplementation did not significantly impact the microbiota diversity; however, SMM mice had a higher abundance of genus Bacteroides, Bifidobacterium, and Blautia, whereas, in the NSM group, there was a higher abundance of Akkermansia, Enterocloster, and Klebsiella. In MFM, gut microbiota was represented mainly by Parabacteroides, Ruminococcaceae_unclassified, and Clostrodium_sensu_stricto. In mesenteric lymph node, Foxp3+ T cells and innate lymphoid cells type 2 were increased in MFM mice supplemented with HMOs, while in the spleen, they were increased in SMM + HMOs mice. Similarly, serum immunoglobulin A was also elevated in MFM + HMOs group. Distinct global gene expression of the gut was observed in each microbiota group, which was enhanced with HMOs supplementation. Overall, our data show that distinct infant gut microbiota due to maternal secretor status or consumption of dairy-based formula and HMO supplementation impacts immune cell composition, antibody response, and intestinal gene expression in a mouse model.
 
-[Source](https://doi.org/10.1158/2767-9764.CRC-23-0421)
+[Source](https://journals.asm.org/doi/10.1128/msystems.00294-24)
 
-10.1158/2767-9764.CRC-23-0421
+10.1128/msystems.00294-24
 
 ---
 
-## Integrating microbial abundance time series with fermentation dynamics of the rumen microbiome via mathematical modelling.
- 23.03.2024, _M Davoudkhani, F Rubino, CJ Creevey, S Ahvenjärvi, AR Bayat, I Tapio, A Belanche, R Muñoz-Tamayo_
+## Lose-lose consequences of bacterial community-driven invasions in soil.
+ 20.03.2024, _X Liu, JF Salles_
 
 
-_Female, Animals, Cattle, Propionates, Fermentation, Rumen, Time Factors, RNA, Ribosomal, 16S, Fatty Acids, Volatile, Acetates, Butyrates, Microbiota, Diet, Animal Feed_
-The rumen represents a dynamic microbial ecosystem where fermentation metabolites and microbial concentrations change over time in response to dietary changes. The integration of microbial genomic knowledge and dynamic modelling can enhance our system-level understanding of rumen ecosystem's function. However, such an integration between dynamic models and rumen microbiota data is lacking. The objective of this work was to integrate rumen microbiota time series determined by 16S rRNA gene amplicon sequencing into a dynamic modelling framework to link microbial data to the dynamics of the volatile fatty acids (VFA) production during fermentation. For that, we used the theory of state observers to develop a model that estimates the dynamics of VFA from the data of microbial functional proxies associated with the specific production of each VFA. We determined the microbial proxies using CowPi to infer the functional potential of the rumen microbiota and extrapolate their functional modules from KEGG (Kyoto Encyclopedia of Genes and Genomes). The approach was challenged using data from an in vitro RUSITEC experiment and from an in vivo experiment with four cows. The model performance was evaluated by the coefficient of variation of the root mean square error (CRMSE). For the in vitro case study, the mean CVRMSE were 9.8% for acetate, 14% for butyrate and 14.5% for propionate. For the in vivo case study, the mean CVRMSE were 16.4% for acetate, 15.8% for butyrate and 19.8% for propionate. The mean CVRMSE for the VFA molar fractions were 3.1% for acetate, 3.8% for butyrate and 8.9% for propionate. Ours results show the promising application of state observers integrated with microbiota time series data for predicting rumen microbial metabolism.
+_Soil, Soil Microbiology, Bacteria, Microbiota_
+Community-driven invasion, also known as community coalescence, occurs widely in natural ecosystems. Despite that, our knowledge about the process and mechanisms controlling community-driven invasion in soil ecosystems is lacking. Here, we performed a set of coalescence experiments in soil microcosms and assessed impacts up to 60 days after coalescence by quantifying multiple traits (compositional, functional, and metabolic) of the invasive and coalescent communities.
 
-[Source](https://doi.org/10.1371/journal.pone.0298930)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01763-7)
 
-10.1371/journal.pone.0298930
-
----
-
-## Heritable microbiome variation is correlated with source environment in locally adapted maize varieties.
- 22.03.2024, _X He, D Wang, Y Jiang, M Li, M Delgado-Baquerizo, C McLaughlin, C Marcon, L Guo, M Baer, YAT Moya, N von Wirén, M Deichmann, G Schaaf, HP Piepho, Z Yang, J Yang, B Yim, K Smalla, S Goormachtig, FT de Vries, H Hüging, M Baer, RJH Sawers, JC Reif, F Hochholdinger, X Chen, P Yu_
-
-
-Beneficial interactions with microorganisms are pivotal for crop performance and resilience. However, it remains unclear how heritable the microbiome is with respect to the host plant genotype and to what extent host genetic mechanisms can modulate plant-microbiota interactions in the face of environmental stresses. Here we surveyed 3,168 root and rhizosphere microbiome samples from 129 accessions of locally adapted Zea, sourced from diverse habitats and grown under control and different stress conditions. We quantified stress treatment and host genotype effects on the microbiome. Plant genotype and source environment were predictive of microbiome abundance. Genome-wide association analysis identified host genetic variants linked to both rhizosphere microbiome abundance and source environment. We identified transposon insertions in a candidate gene linked to both the abundance of a keystone bacterium Massilia in our controlled experiments and total soil nitrogen in the source environment. Isolation and controlled inoculation of Massilia alone can contribute to root development, whole-plant biomass production and adaptation to low nitrogen availability. We conclude that locally adapted maize varieties exert patterns of genetic control on their root and rhizosphere microbiomes that follow variation in their home environments, consistent with a role in tolerance to prevailing stress.
-
-[Source](https://doi.org/10.1038/s41477-024-01654-7)
-
-10.1038/s41477-024-01654-7
+10.1186/s40168-024-01763-7
 
 ---
 
-## The evolutionary genomics of adaptation to stress in wild rhizobium bacteria.
- 22.03.2024, _H Kehlet-Delgado, AP Montoya, KT Jensen, CE Wendlandt, C Dexheimer, M Roberts, L Torres Martínez, ML Friesen, JS Griffitts, SS Porter_
+## Manipulating the physical distance between cells during soil colonization reveals the importance of biotic interactions in microbial community assembly.
+ 22.03.2024, _S Romdhane, S Huet, A Spor, D Bru, MC Breuil, L Philippot_
 
 
-_Humans, Rhizobium, Nickel, Metals, Heavy, Genomics, Soil_
-Microbiota comprise the bulk of life's diversity, yet we know little about how populations of microbes accumulate adaptive diversity across natural landscapes. Adaptation to stressful soil conditions in plants provides seminal examples of adaptation in response to natural selection via allelic substitution. For microbes symbiotic with plants however, horizontal gene transfer allows for adaptation via gene gain and loss, which could generate fundamentally different evolutionary dynamics. We use comparative genomics and genetics to elucidate the evolutionary mechanisms of adaptation to physiologically stressful serpentine soils in rhizobial bacteria in western North American grasslands. In vitro experiments demonstrate that the presence of a locus of major effect, the nre operon, is necessary and sufficient to confer adaptation to nickel, a heavy metal enriched to toxic levels in serpentine soil, and a major axis of environmental soil chemistry variation. We find discordance between inferred evolutionary histories of the core genome and nreAXY genes, which often reside in putative genomic islands. This suggests that the evolutionary history of this adaptive variant is marked by frequent losses, and/or gains via horizontal acquisition across divergent rhizobium clades. However, different nre alleles confer distinct levels of nickel resistance, suggesting allelic substitution could also play a role in rhizobium adaptation to serpentine soil. These results illustrate that the interplay between evolution via gene gain and loss and evolution via allelic substitution may underlie adaptation in wild soil microbiota. Both processes are important to consider for understanding adaptive diversity in microbes and improving stress-adapted microbial inocula for human use.
+Microbial communities are of tremendous importance for ecosystem functioning and yet we know little about the ecological processes driving the assembly of these communities in the environment. Here, we used an unprecedented experimental approach based on the manipulation of physical distance between neighboring cells during soil colonization to determine the role of bacterial interactions in soil community assembly. We hypothesized that experimentally manipulating the physical distance between bacterial cells will modify the interaction strengths leading to differences in microbial community composition, with increasing distance between neighbors favoring poor competitors.
 
-[Source](https://doi.org/10.1073/pnas.2311127121)
+[Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-024-00559-4)
 
-10.1073/pnas.2311127121
-
----
-
-## Investigating eco-evolutionary processes of microbial community assembly in the wild using a model leaf litter system
-
-[Source](https://doi.org/10.1093/ismejo/wrae043)
+10.1186/s40793-024-00559-4
 
 ---
 
-## Genome analysis and biogeographic distribution of the earliest divergent Frankia clade in the southern hemisphere.
- 23.03.2024, _F Berckx, D Wibberg, A Brachmann, C Morrison, NB Obaid, J Blom, J Kalinowski, LG Wall, K Pawlowski_
+## Soil fungal communities varied across aspects of restored grassland in former mining areas of the Qinghai-Tibet Plateau.
+ 26.03.2024, _X Li, Q Li, Y Duan, H Sun, H Chu, S Jia, H Chen, W Tang_
 
 
-Coriariaceae are a small plant family of 14-17 species and subspecies that currently have a global but disjunct distribution. All species can form root nodules in symbiosis with diazotrophic Frankia cluster-2 strains, which form the earliest divergent symbiotic clade within this bacterial genus. Studies on Frankia cluster-2 mostly have focused on strains occurring in the northern hemisphere. Except for one strain from Papua New Guinea, namely Candidatus Frankia meridionalis Cppng1, no complete genome of Frankia associated with Coriaria occurring in the southern hemisphere has been published thus far, yet the majority of the Coriariaceae species occur here. We present field sampling data of novel Frankia cluster-2 strains, representing two novel species, which are associated with Coriaria arborea and Coriaria sarmentosa in New Zealand, and with Coriaria ruscifolia in Patagonia (Argentina), in addition to identifying Ca. F. meridionalis present in New Zealand. The novel Frankia species were found to be closely related to both Ca. F. meridionalis, and a Frankia species occurring in the Philippines, Taiwan, and Japan. Our data suggest that the different Frankia cluster-2 species diverged early after becoming symbiotic circa 100 million years ago.
+To determine whether different aspects lead to a heterogeneous distribution of soil fungi, we investigated artificially established alpine grasslands in the Muli mining area in the Qinghai-Tibet Plateau. Employing high-throughput sequencing techniques, we analyzed the composition, diversity, and function of soil fungal communities across various aspects (flat, East-facing, South-facing, West-facing, North-facing). We also examined their relationships with environmental factors. Soil fungal communities of restored alpine grasslands differed significantly across aspects in terms of the dominant phyla, classes and species level. Compared with No aspect, the Shannon index of fungi respectively decreased by 2.99%, 19.32%, 19.37% and 10.56% for East aspect, South aspect, West aspect and North aspect, respectively, and the Chao1 index of fungi respectively decreased by-2.44%, 35.50%, 42.15% and 3.21%, respectively. A total of 22 different types of fungi were identified in the study area. Predictive analysis, based on PICRUSt2, indicated that the primary functions of the fungal communities across different aspects were aerobic respiration I (cytochrome c) and aerobic respiration II (cytochrome c). Among the environmental variables, total phosphorus (P) and total nitrogen (N) were the principal factors influencing the fungal community composition.In conclusion, aspect plays a significant role in shaping the composition of fungal communities and also affects their overall diversity.
 
-[Source](https://doi.org/10.1093/femsec/fiae042)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295019)
 
-10.1093/femsec/fiae042
-
----
-
-## Host population crashes disrupt the diversity of associated marine microbiomes.
- 25.03.2024, _WS Pearman, SE Morales, F Vaux, NJ Gemmell, CI Fraser_
-
-
-_Phylogeny, RNA, Ribosomal, 16S, Accidents, Traffic, Microbiota, New Zealand_
-Host-associated microbial communities are shaped by myriad factors ranging from host conditions, environmental conditions and other microbes. Disentangling the ecological impact of each of these factors can be particularly difficult as many variables are correlated. Here, we leveraged earthquake-induced changes in host population structure to assess the influence of population crashes on marine microbial ecosystems. A large (7.8 magnitude) earthquake in New Zealand in 2016 led to widespread coastal uplift of up to ~6 m, sufficient to locally extirpate some intertidal southern bull kelp populations. These uplifted populations are slowly recovering, but remain at much lower densities than at nearby, less-uplifted sites. By comparing the microbial communities of the hosts from disturbed and relatively undisturbed populations using 16S rRNA gene amplicon sequencing, we observed that disturbed host populations supported higher functional, taxonomic and phylogenetic microbial beta diversity than non-disturbed host populations. Our findings shed light on microbiome ecological assembly processes, particularly highlighting that large-scale disturbances that affect host populations can dramatically influence microbiome structure. We suggest that disturbance-induced changes in host density limit the dispersal opportunities of microbes, with host community connectivity declining with the density of host populations.
-
-[Source](https://doi.org/10.1111/1462-2920.16611)
-
-10.1111/1462-2920.16611
+10.1371/journal.pone.0295019
 
 ---
 
-## Microplastic-antifouling paint particle contamination alters microbial communities in surrounding marine sediment.
- 22.03.2024, _AS Tagg, T Sperlea, C Hassenrück, B Kreikemeyer, D Fischer, M Labrenz_
+## Exploring the potential effects of forest urbanization on the interplay between small mammal communities and their gut microbiota.
+ 26.03.2024, _M Bouilloud, M Galan, J Pradel, A Loiseau, J Ferrero, R Gallet, B Roche, N Charbonnel_
 
 
-Paint used to coat surfaces in aquatic environments often contain biocides to prevent biofouling, and as these coatings degrade, antifouling paint particles (APPs) end up in aquatic, and especially marine, sediments. However, it is currently unclear what further influence APPs in the sediment have on biotic communities or processes. This study investigates how a variety of commercially-available APPs effect the marine microbial community by spiking different laboratory-manufactured APPs to sediment. Following exposure for 30 and 60 days, APPs caused a clear and consistent effect on the bacterial community composition as determined by 16S metabarcoding. This effect was strongest between 0 and 30 days, but continues to a lesser extent between 30 and 60 days. APPs appear to inhibit the highly diverse, but in general rarer, fraction of the community and/or select for specific community members to become more dominant. 71 antifouling-presence and 454 antifouling-absence indicator taxa were identified by indicator analysis. The difference in the level of classification in these two indicator groups was highly significant, with the antifouling-presence indicators having much higher percentage sequence identity to cultured taxa, while the antifouling-absence indicators appear to be made up of undescribed taxa, which may indicate that APPs act as a proxy for general anthropogenic influence or that APP contamination selects for taxa capable of being cultured. Given the clear and consistent effect APPs have on the surrounding sediment microbial community, further research into how APPs affect sediment functional processes and how such effects scale with concentration is recommended to better assess the wider consequences of these pollutants for marine biogeochemical cycles in the future. SYNOPSIS: Microplastic-paint particles are commonly found in marine sediment but little is known about how these, especially antifouling, paint particles affect sediment microbial communities. This study demonstrates that antifouling paint particles fundamentally alter sediment microbial communities.
+Urbanization significantly impacts wild populations, favoring urban dweller species over those that are unable to adapt to rapid changes. These differential adaptative abilities could be mediated by the microbiome, which may modulate the host phenotype rapidly through a high degree of flexibility. Conversely, under anthropic perturbations, the microbiota of some species could be disrupted, resulting in dysbiosis and negative impacts on host fitness. The links between the impact of urbanization on host communities and their gut microbiota (GM) have only been scarcely explored. In this study, we tested the hypothesis that the bacterial composition of the GM could play a role in host adaptation to urban environments. We described the GM of several species of small terrestrial mammals sampled in forested areas along a gradient of urbanization, using a 16S metabarcoding approach. We tested whether urbanization led to changes in small mammal communities and in their GM, considering the presence and abundance of bacterial taxa and their putative functions. This enabled to decipher the processes underlying these changes. We found potential impacts of urbanization on small mammal communities and their GM. The urban dweller species had a lower bacterial taxonomic diversity but a higher functional diversity and a different composition compared to urban adapter species. Their GM assembly was mostly governed by stochastic effects, potentially indicating dysbiosis. Selection processes and an overabundance of functions were detected that could be associated with adaptation to urban environments despite dysbiosis. In urban adapter species, the GM functional diversity and composition remained relatively stable along the urbanization gradient. This observation can be explained by functional redundancy, where certain taxa express the same function. This could favor the adaptation of urban adapter species in various environments, including urban settings. We can therefore assume that there are feedbacks between the gut microbiota and host species within communities, enabling rapid adaptation.
 
-[Source](https://doi.org/10.1016/j.scitotenv.2024.171863)
+[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00301-y)
 
-10.1016/j.scitotenv.2024.171863
-
----
-
-## MCSS: microbial community simulator based on structure.
- 23.03.2024, _X Hui, J Yang, J Sun, F Liu, W Pan_
-
-
-De novo assembly plays a pivotal role in metagenomic analysis, and the incorporation of third-generation sequencing technology can significantly improve the integrity and accuracy of assembly results. Recently, with advancements in sequencing technology (Hi-Fi, ultra-long), several long-read-based bioinformatic tools have been developed. However, the validation of the performance and reliability of these tools is a crucial concern. To address this gap, we present MCSS (microbial community simulator based on structure), which has the capability to generate simulated microbial community and sequencing datasets based on the structure attributes of real microbiome communities. The evaluation results indicate that it can generate simulated communities that exhibit both diversity and similarity to actual community structures. Additionally, MCSS generates synthetic PacBio Hi-Fi and Oxford Nanopore Technologies (ONT) long reads for the species within the simulated community. This innovative tool provides a valuable resource for benchmarking and refining metagenomic analysis methods. Code available at: https://github.com/panlab-bio/mcss.
-
-[Source](https://doi.org/10.3389/fmicb.2024.1358257)
-
-10.3389/fmicb.2024.1358257
+10.1186/s42523-024-00301-y
 
 ---
 
-## Datathons: fostering equitability in data reuse in ecology
+## Bats, Bacteria, and Bat Smell V.2.0: Repeatable Sex-Specific Differences in Scent Organ Microbiota.
+ 26.03.2024, _Ö Maraci, A Antonatou-Papaioannou, S Jünemann, K Schneeberger, M Schulze, I Scheffler, BA Caspers_
 
-[Source](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(24)00050-7)
+
+Reproducibility is a fundamental principle in science, ensuring reliable and valid findings. However, replication studies are scarce, particularly in ecology, due to the emphasis on novelty for publication. We explored the possibility of replicating original findings in the field of microbial and chemical ecology by conducting a conceptual replication of a previous study analysing the sex-specific differences in the microbial communities inhabiting the wing sacs, a scent organ with crucial functions in olfactory communication, of greater sac-winged bat (Saccopteryx bilineata). In the original study, the skin swabs from the antebrachial wing sacs of the males and wing sac rudiments of the females were analysed using culture-dependent methods to test sex-specific differences. The authors demonstrated that males have lower microbial richness and different microbial composition than females. We attempted to reproduce these findings using 16S rRNA sequencing, which offers improved accuracy in pinpointing microbial members than culture-dependent methods because of advanced statistical methods. Our study validated the original study's findings: Males had a lower microbial richness, and the community composition differed between the sexes. Furthermore, in the current study, males had an increased abundance of bacteria that might potentially be involved in odour production and degradation of malodorous substances and antimicrobial production. Our conceptual replication study corroborated that microbes can play a role in shaping their host's olfactory phenotype and consequently influence sexual selection. Furthermore, the current study emphasises the importance of replication efforts and hopefully encourages a culture that values replication studies in scientific practice.
+
+[Source](https://link.springer.com/article/10.1007/s00248-024-02368-1)
+
+10.1007/s00248-024-02368-1
+
+---
+
+## Characterization of the skin microbiome in normal and cutaneous squamous cell carcinoma affected cats and dogs.
+ 26.03.2024, _JI Bromfield, J Zaugg, RC Straw, J Cathie, A Krueger, D Sinha, J Chandra, P Hugenholtz, IH Frazer_
+
+
+Human cutaneous squamous cell carcinomas (SCCs) and actinic keratoses (AK) display microbial dysbiosis with an enrichment of staphylococcal species, which have been implicated in AK and SCC progression. SCCs are common in both felines and canines and are often diagnosed at late stages leading to high disease morbidity and mortality rates. Although recent studies support the involvement of the skin microbiome in AK and SCC progression in humans, there is no knowledge of this in companion animals. Here, we provide microbiome data for SCC in cats and dogs using culture-independent molecular profiling and show a significant decrease in microbial alpha diversity on SCC lesions compared to normal skin (P ≤ 0.05). Similar to human skin cancer, SCC samples had an elevated abundance of staphylococci relative to normal skin-50% (6/12) had &gt;50% staphylococci, as did 16% (4/25) of perilesional samples. Analysis of Staphylococcus at the species level revealed an enrichment of the pathogenic species Staphylococcus felis in cat SCC samples, a higher prevalence of Staphylococcus pseudintermedius in dogs, and a higher abundance of Staphylococcus aureus compared to normal skin in both companion animals. Additionally, a comparison of previously published human SCC and perilesional samples against the present pet samples revealed that Staphylococcus was the most prevalent genera across human and companion animals for both sample types. Similarities between the microbial profile of human and cat/dog SCC lesions should facilitate future skin cancer research.
+
+[Source](https://journals.asm.org/doi/10.1128/msphere.00555-23)
+
+10.1128/msphere.00555-23
+
+---
+
+## Phylosymbiosis and metabolomics resolve phenotypically plastic and cryptic sponge species in the genus Agelas across the Caribbean basin.
+ 26.03.2024, _MS Pankey, DJ Gochfeld, M Gastaldi, KJ Macartney, A Clayshulte Abraham, M Slattery, MP Lesser_
+
+
+Fundamental to holobiont biology is recognising how variation in microbial composition and function relates to host phenotypic variation. Sponges often exhibit considerable phenotypic plasticity and also harbour dense microbial communities that function to protect and nourish hosts. One of the most prominent sponge genera on Caribbean coral reefs is Agelas. Using a comprehensive set of morphological (growth form, spicule), chemical and molecular data on 13 recognised species of Agelas in the Caribbean basin, we were able to define only five species (=clades) and found that many morphospecies designations were incongruent with phylogenomic and population genetic analyses. Microbial communities were also strongly differentiated between phylogenetic species, showing little evidence of cryptic divergence and relatively low correlation with morphospecies assignment. Metagenomic analyses also showed strong correspondence to phylogenetic species, and to a lesser extent, geographical and morphological characters. Surprisingly, the variation in secondary metabolites produced by sponge holobionts was explained by geography and morphospecies assignment, in addition to phylogenetic species, and covaried significantly with a subset of microbial symbionts. Spicule characteristics were highly plastic, under greater impact from geographical location than phylogeny. Our results suggest that while phenotypic plasticity is rampant in Agelas, morphological differences within phylogenetic species affect functionally important ecological traits, including the composition of the symbiotic microbial communities and metabolomic profiles.
+
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/mec.17321)
+
+10.1111/mec.17321
+
+---
+
+## Naturally occurring fire coral clones demonstrate a genetic and environmental basis of microbiome composition.
+ 08.02.2023, _CE Dubé, M Ziegler, A Mercière, E Boissin, S Planes, CA Bourmaud, CR Voolstra_
+
+
+_Coral Reefs, Ecosystem, Genotype, Microbiota_
+Coral microbiomes are critical to holobiont functioning, but much remains to be understood about how prevailing environment and host genotype affect microbial communities in ecosystems. Resembling human identical twin studies, we examined bacterial community differences of naturally occurring fire coral clones within and between contrasting reef habitats to assess the relative contribution of host genotype and environment to microbiome structure. Bacterial community composition of coral clones differed between reef habitats, highlighting the contribution of the environment. Similarly, but to a lesser extent, microbiomes varied across different genotypes in identical habitats, denoting the influence of host genotype. Predictions of genomic function based on taxonomic profiles suggest that environmentally determined taxa supported a functional restructuring of the microbial metabolic network. In contrast, bacteria determined by host genotype seemed to be functionally redundant. Our study suggests microbiome flexibility as a mechanism of environmental adaptation with association of different bacterial taxa partially dependent on host genotype.
+
+[Source](https://www.nature.com/articles/s41467-021-26543-x)
+
+10.1038/s41467-021-26543-x
 
 ---
 
