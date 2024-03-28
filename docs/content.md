@@ -1,8 +1,8 @@
 ## Genomic, functional, and metabolic enhancements in multidrug-resistant Enterobacter bugandensis facilitating its persistence and succession in the International Space Station.
- 26.03.2024, _P Sengupta, SK Muthamilselvi Sivabalan, NK Singh, K Raman, K Venkateswaran_
+ 27.03.2024, _P Sengupta, SK Muthamilselvi Sivabalan, NK Singh, K Raman, K Venkateswaran_
 
 
-_Humans, Spacecraft, Space Flight, Microbiota, Genomics, Anti-Infective Agents, Enterobacter_
+_Humans, Anti-Infective Agents, Enterobacter, Genomics, Microbiota, Space Flight, Spacecraft_
 The International Space Station (ISS) stands as a testament to human achievement in space exploration. Despite its highly controlled environment, characterised by microgravity, increased CO  2  levels, and elevated solar radiation, microorganisms occupy a unique niche. These microbial inhabitants play a significant role in influencing the health and well-being of astronauts on board. One microorganism of particular interest in our study is Enterobacter bugandensis, primarily found in clinical specimens including the human gastrointestinal tract, and also reported to possess pathogenic traits, leading to a plethora of infections.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01777-1)
