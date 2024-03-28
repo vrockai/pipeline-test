@@ -132,9 +132,10 @@ Microbial communities are of tremendous importance for ecosystem functioning and
 ---
 
 ## Soil fungal communities varied across aspects of restored grassland in former mining areas of the Qinghai-Tibet Plateau.
- 26.03.2024, _X Li, Q Li, Y Duan, H Sun, H Chu, S Jia, H Chen, W Tang_
+ 28.03.2024, _X Li, Q Li, Y Duan, H Sun, H Chu, S Jia, H Chen, W Tang_
 
 
+_Tibet, Mycobiome, Grassland, Soil, Cytochromes c, Soil Microbiology, Fungi_
 To determine whether different aspects lead to a heterogeneous distribution of soil fungi, we investigated artificially established alpine grasslands in the Muli mining area in the Qinghai-Tibet Plateau. Employing high-throughput sequencing techniques, we analyzed the composition, diversity, and function of soil fungal communities across various aspects (flat, East-facing, South-facing, West-facing, North-facing). We also examined their relationships with environmental factors. Soil fungal communities of restored alpine grasslands differed significantly across aspects in terms of the dominant phyla, classes and species level. Compared with No aspect, the Shannon index of fungi respectively decreased by 2.99%, 19.32%, 19.37% and 10.56% for East aspect, South aspect, West aspect and North aspect, respectively, and the Chao1 index of fungi respectively decreased by-2.44%, 35.50%, 42.15% and 3.21%, respectively. A total of 22 different types of fungi were identified in the study area. Predictive analysis, based on PICRUSt2, indicated that the primary functions of the fungal communities across different aspects were aerobic respiration I (cytochrome c) and aerobic respiration II (cytochrome c). Among the environmental variables, total phosphorus (P) and total nitrogen (N) were the principal factors influencing the fungal community composition.In conclusion, aspect plays a significant role in shaping the composition of fungal communities and also affects their overall diversity.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295019)
@@ -156,9 +157,10 @@ Urbanization significantly impacts wild populations, favoring urban dweller spec
 ---
 
 ## Bats, Bacteria, and Bat Smell V.2.0: Repeatable Sex-Specific Differences in Scent Organ Microbiota.
- 26.03.2024, _Ö Maraci, A Antonatou-Papaioannou, S Jünemann, K Schneeberger, M Schulze, I Scheffler, BA Caspers_
+ 28.03.2024, _Ö Maraci, A Antonatou-Papaioannou, S Jünemann, K Schneeberger, M Schulze, I Scheffler, BA Caspers_
 
 
+_Animals, Male, Female, Odorants, Smell, Chiroptera, RNA, Ribosomal, 16S, Reproducibility of Results, Bacteria, Pheromones, Microbiota_
 Reproducibility is a fundamental principle in science, ensuring reliable and valid findings. However, replication studies are scarce, particularly in ecology, due to the emphasis on novelty for publication. We explored the possibility of replicating original findings in the field of microbial and chemical ecology by conducting a conceptual replication of a previous study analysing the sex-specific differences in the microbial communities inhabiting the wing sacs, a scent organ with crucial functions in olfactory communication, of greater sac-winged bat (Saccopteryx bilineata). In the original study, the skin swabs from the antebrachial wing sacs of the males and wing sac rudiments of the females were analysed using culture-dependent methods to test sex-specific differences. The authors demonstrated that males have lower microbial richness and different microbial composition than females. We attempted to reproduce these findings using 16S rRNA sequencing, which offers improved accuracy in pinpointing microbial members than culture-dependent methods because of advanced statistical methods. Our study validated the original study's findings: Males had a lower microbial richness, and the community composition differed between the sexes. Furthermore, in the current study, males had an increased abundance of bacteria that might potentially be involved in odour production and degradation of malodorous substances and antimicrobial production. Our conceptual replication study corroborated that microbes can play a role in shaping their host's olfactory phenotype and consequently influence sexual selection. Furthermore, the current study emphasises the importance of replication efforts and hopefully encourages a culture that values replication studies in scientific practice.
 
 [Source](https://link.springer.com/article/10.1007/s00248-024-02368-1)
