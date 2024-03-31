@@ -169,40 +169,21 @@ Reproducibility is a fundamental principle in science, ensuring reliable and val
 
 ---
 
-## Characterization of the skin microbiome in normal and cutaneous squamous cell carcinoma affected cats and dogs.
- 26.03.2024, _JI Bromfield, J Zaugg, RC Straw, J Cathie, A Krueger, D Sinha, J Chandra, P Hugenholtz, IH Frazer_
-
-
-Human cutaneous squamous cell carcinomas (SCCs) and actinic keratoses (AK) display microbial dysbiosis with an enrichment of staphylococcal species, which have been implicated in AK and SCC progression. SCCs are common in both felines and canines and are often diagnosed at late stages leading to high disease morbidity and mortality rates. Although recent studies support the involvement of the skin microbiome in AK and SCC progression in humans, there is no knowledge of this in companion animals. Here, we provide microbiome data for SCC in cats and dogs using culture-independent molecular profiling and show a significant decrease in microbial alpha diversity on SCC lesions compared to normal skin (P ≤ 0.05). Similar to human skin cancer, SCC samples had an elevated abundance of staphylococci relative to normal skin-50% (6/12) had &gt;50% staphylococci, as did 16% (4/25) of perilesional samples. Analysis of Staphylococcus at the species level revealed an enrichment of the pathogenic species Staphylococcus felis in cat SCC samples, a higher prevalence of Staphylococcus pseudintermedius in dogs, and a higher abundance of Staphylococcus aureus compared to normal skin in both companion animals. Additionally, a comparison of previously published human SCC and perilesional samples against the present pet samples revealed that Staphylococcus was the most prevalent genera across human and companion animals for both sample types. Similarities between the microbial profile of human and cat/dog SCC lesions should facilitate future skin cancer research.
+## Characterization of the skin microbiome in normal and cutaneous squamous cell carcinoma affected cats and dogs
 
 [Source](https://journals.asm.org/doi/10.1128/msphere.00555-23)
 
-10.1128/msphere.00555-23
-
 ---
 
-## Phylosymbiosis and metabolomics resolve phenotypically plastic and cryptic sponge species in the genus Agelas across the Caribbean basin.
- 26.03.2024, _MS Pankey, DJ Gochfeld, M Gastaldi, KJ Macartney, A Clayshulte Abraham, M Slattery, MP Lesser_
-
-
-Fundamental to holobiont biology is recognising how variation in microbial composition and function relates to host phenotypic variation. Sponges often exhibit considerable phenotypic plasticity and also harbour dense microbial communities that function to protect and nourish hosts. One of the most prominent sponge genera on Caribbean coral reefs is Agelas. Using a comprehensive set of morphological (growth form, spicule), chemical and molecular data on 13 recognised species of Agelas in the Caribbean basin, we were able to define only five species (=clades) and found that many morphospecies designations were incongruent with phylogenomic and population genetic analyses. Microbial communities were also strongly differentiated between phylogenetic species, showing little evidence of cryptic divergence and relatively low correlation with morphospecies assignment. Metagenomic analyses also showed strong correspondence to phylogenetic species, and to a lesser extent, geographical and morphological characters. Surprisingly, the variation in secondary metabolites produced by sponge holobionts was explained by geography and morphospecies assignment, in addition to phylogenetic species, and covaried significantly with a subset of microbial symbionts. Spicule characteristics were highly plastic, under greater impact from geographical location than phylogeny. Our results suggest that while phenotypic plasticity is rampant in Agelas, morphological differences within phylogenetic species affect functionally important ecological traits, including the composition of the symbiotic microbial communities and metabolomic profiles.
+## Phylosymbiosis and metabolomics resolve phenotypically plastic and cryptic sponge species in the genus Agelas across the Caribbean basin 
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/mec.17321)
 
-10.1111/mec.17321
-
 ---
 
-## Naturally occurring fire coral clones demonstrate a genetic and environmental basis of microbiome composition.
- 08.02.2023, _CE Dubé, M Ziegler, A Mercière, E Boissin, S Planes, CA Bourmaud, CR Voolstra_
-
-
-_Coral Reefs, Ecosystem, Genotype, Microbiota_
-Coral microbiomes are critical to holobiont functioning, but much remains to be understood about how prevailing environment and host genotype affect microbial communities in ecosystems. Resembling human identical twin studies, we examined bacterial community differences of naturally occurring fire coral clones within and between contrasting reef habitats to assess the relative contribution of host genotype and environment to microbiome structure. Bacterial community composition of coral clones differed between reef habitats, highlighting the contribution of the environment. Similarly, but to a lesser extent, microbiomes varied across different genotypes in identical habitats, denoting the influence of host genotype. Predictions of genomic function based on taxonomic profiles suggest that environmentally determined taxa supported a functional restructuring of the microbial metabolic network. In contrast, bacteria determined by host genotype seemed to be functionally redundant. Our study suggests microbiome flexibility as a mechanism of environmental adaptation with association of different bacterial taxa partially dependent on host genotype.
+## Naturally occurring fire coral clones demonstrate a genetic and environmental basis of microbiome composition
 
 [Source](https://www.nature.com/articles/s41467-021-26543-x)
-
-10.1038/s41467-021-26543-x
 
 ---
 
