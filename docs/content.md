@@ -81,21 +81,39 @@ Introduction. Cervicovaginal diversity has been reported as a predictive biomark
 
 ---
 
-## Microbiome bacterial influencers of host immunity and response to immunotherapy
+## Microbiome bacterial influencers of host immunity and response to immunotherapy.
+ 28.03.2024, _Y Yousefi, KJ Baines, S Maleki Vareki_
+
+
+The gut microbiota influences anti-tumor immunity and can induce or inhibit response to immune checkpoint inhibitors (ICIs). Therefore, microbiome features are being studied as predictive/prognostic biomarkers of patient response to ICIs, and microbiome-based interventions are attractive adjuvant treatments in combination with ICIs. Specific gut-resident bacteria can influence the effectiveness of immunotherapy; however, the mechanism of action on how these bacteria affect anti-tumor immunity and response to ICIs is not fully understood. Nevertheless, early bacterial-based therapeutic strategies have demonstrated that targeting the gut microbiome through various methods can enhance the effectiveness of ICIs, resulting in improved clinical responses in patients with a diverse range of cancers. Therefore, understanding the microbiota-driven mechanisms of response to immunotherapy can augment the success of these interventions, particularly in patients with treatment-refractory cancers.
 
 [Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00133-2)
 
+10.1016/j.xcrm.2024.101487
+
 ---
 
-## Unlocking the Potential of Probiotics: A Comprehensive Review on Research, Production, and Regulation of Probiotics
+## Unlocking the Potential of Probiotics: A Comprehensive Review on Research, Production, and Regulation of Probiotics.
+ 28.03.2024, _TF da Silva, RA Glória, MF Americo, ADS Freitas, LCL de Jesus, FAL Barroso, JG Laguna, ND Coelho-Rocha, LM Tavares, Y le Loir, G Jan, É Guédon, VAC Azevedo_
+
+
+This review provides a comprehensive overview of the current state of probiotic research, covering a wide range of topics, including strain identification, functional characterization, preclinical and clinical evaluations, mechanisms of action, therapeutic applications, manufacturing considerations, and future directions. The screening process for potential probiotics involves phenotypic and genomic analysis to identify strains with health-promoting properties while excluding those with any factor that could be harmful to the host. In vitro assays for evaluating probiotic traits such as acid tolerance, bile metabolism, adhesion properties, and antimicrobial effects are described. The review highlights promising findings from in vivo studies on probiotic mitigation of inflammatory bowel diseases, chemotherapy-induced mucositis, dysbiosis, obesity, diabetes, and bone health, primarily through immunomodulation and modulation of the local microbiota in human and animal models. Clinical studies demonstrating beneficial modulation of metabolic diseases and human central nervous system function are also presented. Manufacturing processes significantly impact the growth, viability, and properties of probiotics, and the composition of the product matrix and supplementation with prebiotics or other strains can modify their effects. The lack of regulatory oversight raises concerns about the quality, safety, and labeling accuracy of commercial probiotics, particularly for vulnerable populations. Advancements in multi-omics approaches, especially probiogenomics, will provide a deeper understanding of the mechanisms behind probiotic functionality, allowing for personalized and targeted probiotic therapies. However, it is crucial to simultaneously focus on improving manufacturing practices, implementing quality control standards, and establishing regulatory oversight to ensure the safety and efficacy of probiotic products in the face of increasing therapeutic applications.
 
 [Source](https://doi.org/10.1007/s12602-024-10247-x)
 
+10.1007/s12602-024-10247-x
+
 ---
 
-## Mulberry leaf and konjac flour compound dietary fiber improves digestion and metabolism in elderly mice with high-fish-protein diet by regulating gut microbiota structure and intestinal tissue repair
+## Mulberry leaf and konjac flour compound dietary fiber improves digestion and metabolism in elderly mice with high-fish-protein diet by regulating gut microbiota structure and intestinal tissue repair.
+ 30.03.2024, _L Deng, G Zhong, Q Wang, Z Zhu, Y Peng_
+
+
+Ensuring sufficient protein intake, efficient digestion, and optimal absorption are crucial for the elderly. This study aims to investigate the potential of a compound dietary fiber, consisting of mulberry leaf and konjac flour (CMK), to enhance the digestion and absorption of a high-fish-protein diet in elderly mice. Results showed that CMK effectively reduced the number of unique peptide segments, generated short-chain fatty acids (SCFA) in feces, improved the content of glutamic pyruvic transaminase (GPT), glutamic oxaloacetic transaminase (GOT), amino acid, and urea nitrogen in serum, activated the contents of pepsin, trypsin, and erepsin, and enhanced the expression of glutamate dehydrogenase (GDH), peptide transporter 1 (PepT1), and aminopeptidase N (APN). Furthermore, CMK demonstrated its ability to decrease the levels of tumor necrosis factor-α (TNF-α), interleukin-1β (IL-1β), interleukin-10 (IL-10), lipopolysaccharide (LPS), and lipopolysaccharide binding protein (LBP), while increase the abundance of beneficial bacteria, such as Lactobacillus and Blautia. In conclusion, CMK proved effective in enhancing the digestion and metabolism of protein in elderly mice through the regulation of gut microbiota structure and intestinal tissue repair.
 
 [Source](https://doi.org/10.1016/j.fochx.2024.101295)
+
+10.1016/j.fochx.2024.101295
 
 ---
 
