@@ -1,5 +1,5 @@
 ## The effects of antibiotic exposures on the gut resistome during hematopoietic cell transplantation in children.
- 01.04.2024, _SM Heston, RR Young, K Jenkins, PL Martin, A Stokhuyzen, DV Ward, SK Bhattarai, V Bucci, M Arshad, NJ Chao, PC Seed, MS Kelly_
+ 02.04.2024, _SM Heston, RR Young, K Jenkins, PL Martin, A Stokhuyzen, DV Ward, SK Bhattarai, V Bucci, M Arshad, NJ Chao, PC Seed, MS Kelly_
 
 
 _Child, Humans, Anti-Bacterial Agents, Gastrointestinal Microbiome, Bacteria, Fluoroquinolones, Hematopoietic Stem Cell Transplantation_
@@ -12,7 +12,7 @@ Antibiotic resistance is a global threat driven primarily by antibiotic use. We 
 ---
 
 ## Clinically used broad-spectrum antibiotics compromise inflammatory monocyte-dependent antibacterial defense in the lung.
- 01.04.2024, _PJ Dörner, H Anandakumar, I Röwekamp, F Fiocca Vernengo, B Millet Pascual-Leone, M Krzanowski, J Sellmaier, U Brüning, R Fritsche-Guenther, L Pfannkuch, F Kurth, M Milek, V Igbokwe, U Löber, B Gutbier, M Holstein, GA Heinz, MF Mashreghi, LN Schulte, AB Klatt, S Caesar, SM Wienhold, S Offermanns, M Mack, M Witzenrath, S Jordan, D Beule, JA Kirwan, SK Forslund, N Wilck, H Bartolomaeus, MM Heimesaat, B Opitz_
+ 02.04.2024, _PJ Dörner, H Anandakumar, I Röwekamp, F Fiocca Vernengo, B Millet Pascual-Leone, M Krzanowski, J Sellmaier, U Brüning, R Fritsche-Guenther, L Pfannkuch, F Kurth, M Milek, V Igbokwe, U Löber, B Gutbier, M Holstein, GA Heinz, MF Mashreghi, LN Schulte, AB Klatt, S Caesar, SM Wienhold, S Offermanns, M Mack, M Witzenrath, S Jordan, D Beule, JA Kirwan, SK Forslund, N Wilck, H Bartolomaeus, MM Heimesaat, B Opitz_
 
 
 _Humans, Mice, Animals, Anti-Bacterial Agents, Monocytes, Anti-Infective Agents, Klebsiella pneumoniae, Lung_
@@ -31,7 +31,7 @@ Hospital-acquired pneumonia (HAP) is associated with high mortality and costs, a
 ---
 
 ## Vaginal microbiomes of breast cancer survivors treated with aromatase inhibitors with and without vulvovaginal symptoms.
- 01.04.2024, _P Prasanchit, P Pongchaikul, P Lertsittichai, C Tantitham, J Manonai_
+ 02.04.2024, _P Prasanchit, P Pongchaikul, P Lertsittichai, C Tantitham, J Manonai_
 
 
 _Female, Humans, Breast Neoplasms, Cancer Survivors, Aromatase Inhibitors, Breast, Vagina, Microbiota, Menopause_
@@ -44,7 +44,7 @@ Genitourinary syndrome of menopause (GSM) is the leading cause of vaginal sympto
 ---
 
 ## Integrated analysis of gut metabolome, microbiome, and brain function reveal the role of gut-brain axis in longevity.
- 01.04.2024, _B Jiao, Z Ouyang, Q Liu, T Xu, M Wan, G Ma, L Zhou, J Guo, J Wang, B Tang, Z Zhao, L Shen_
+ 02.04.2024, _B Jiao, Z Ouyang, Q Liu, T Xu, M Wan, G Ma, L Zhou, J Guo, J Wang, B Tang, Z Zhao, L Shen_
 
 
 _Aged, 80 and over, Humans, Brain-Gut Axis, Gastrointestinal Microbiome, Metabolome, Microbiota, Brain_
@@ -131,7 +131,7 @@ Consistent evidence suggests diabetes-protective effects of dietary fiber intake
 ---
 
 ## Colitis reduces active social engagement in mice and is ameliorated by supplementation with human microbiota members.
- 01.04.2024, _DG Brown, M Murphy, R Cadeddu, R Bell, A Weis, T Chiaro, K Klag, J Morgan, H Coon, WZ Stephens, M Bortolato, JL Round_
+ 02.04.2024, _DG Brown, M Murphy, R Cadeddu, R Bell, A Weis, T Chiaro, K Klag, J Morgan, H Coon, WZ Stephens, M Bortolato, JL Round_
 
 
 _Humans, Male, Mice, Animals, Autism Spectrum Disorder, Social Participation, Microbiota, Colitis, Gastrointestinal Diseases, Dietary Supplements_
@@ -174,7 +174,7 @@ Mosquitoes encounter diverse microbes during their lifetime, including symbiotic
 ---
 
 ## A microbial knowledge graph-based deep learning model for predicting candidate microbes for target hosts.
- 01.04.2024, _J Pan, Z Zhang, Y Li, J Yu, Z You, C Li, S Wang, M Zhu, F Ren, X Zhang, Y Sun, S Wang_
+ 02.04.2024, _J Pan, Z Zhang, Y Li, J Yu, Z You, C Li, S Wang, M Zhu, F Ren, X Zhang, Y Sun, S Wang_
 
 
 _Humans, Deep Learning, Pattern Recognition, Automated, Neural Networks, Computer, Algorithms, Bacteria_
