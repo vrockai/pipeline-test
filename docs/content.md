@@ -1,226 +1,173 @@
-## The effects of antibiotic exposures on the gut resistome during hematopoietic cell transplantation in children.
- 02.04.2024, _SM Heston, RR Young, K Jenkins, PL Martin, A Stokhuyzen, DV Ward, SK Bhattarai, V Bucci, M Arshad, NJ Chao, PC Seed, MS Kelly_
+## Gut microbiome and metabolome profiling in Framingham heart study reveals cholesterol-metabolizing bacteria
 
-
-_Child, Humans, Anti-Bacterial Agents, Gastrointestinal Microbiome, Bacteria, Fluoroquinolones, Hematopoietic Stem Cell Transplantation_
-Antibiotic resistance is a global threat driven primarily by antibiotic use. We evaluated the effects of antibiotic exposures on the gut microbiomes and resistomes of children at high risk of colonization by antibiotic-resistant bacteria. We performed shotgun metagenomic sequencing of 691 serially collected fecal samples from 80 children (&lt;18 years) undergoing hematopoietic cell transplantation. We evaluated the effects of aerobic (cefepime, vancomycin, fluoroquinolones, aminoglycosides, macrolides, and trimethoprim-sulfamethoxazole) and anaerobic (piperacillin-tazobactam, carbapenems, metronidazole, and clindamycin) antibiotic exposures on the diversity and composition of the gut microbiome and resistome. We identified 372 unique antibiotic resistance genes (ARGs); the most frequent ARGs identified encode resistance to tetracyclines (n = 88), beta-lactams (n = 84), and fluoroquinolones (n = 79). Both aerobic and anaerobic antibiotic exposures were associated with a decrease in the number of bacterial species (aerobic, β = 0.71, 95% CI: 0.64, 0.79; anaerobic, β = 0.66, 95% CI: 0.53, 0.82) and the number of unique ARGs (aerobic, β = 0.81, 95% CI: 0.74, 0.90; anaerobic, β = 0.73, 95% CI: 0.61, 0.88) within the gut metagenome. However, only antibiotic regimens that included anaerobic activity were associated with an increase in acquisition of new ARGs (anaerobic, β = 1.50; 95% CI: 1.12, 2.01) and an increase in the relative abundance of ARGs in the gut resistome (anaerobic, β = 1.62; 95% CI: 1.15, 2.27). Specific antibiotic exposures were associated with distinct changes in the number and abundance of ARGs for individual antibiotic classes. Our findings detail the impact of antibiotics on the gut microbiome and resistome and demonstrate that anaerobic antibiotics are particularly likely to promote acquisition and expansion of antibiotic-resistant bacteria.
-
-[Source](https://doi.org/10.1080/19490976.2024.2333748)
-
-10.1080/19490976.2024.2333748
+[Source](https://www.cell.com/cell/abstract/S0092-8674(24)00305-2)
 
 ---
 
-## Clinically used broad-spectrum antibiotics compromise inflammatory monocyte-dependent antibacterial defense in the lung.
- 02.04.2024, _PJ Dörner, H Anandakumar, I Röwekamp, F Fiocca Vernengo, B Millet Pascual-Leone, M Krzanowski, J Sellmaier, U Brüning, R Fritsche-Guenther, L Pfannkuch, F Kurth, M Milek, V Igbokwe, U Löber, B Gutbier, M Holstein, GA Heinz, MF Mashreghi, LN Schulte, AB Klatt, S Caesar, SM Wienhold, S Offermanns, M Mack, M Witzenrath, S Jordan, D Beule, JA Kirwan, SK Forslund, N Wilck, H Bartolomaeus, MM Heimesaat, B Opitz_
+## Small Intestine Bacterial Overgrowth is associated with increased Campylobacter and epithelial injury in duodenal biopsies of Bangladeshi children.
+ 27.03.2024, _SM Fahim, JR Donowitz, E Smirnova, NJ Jan, S Das, M Mahfuz, SMA Gaffar, WA Petri, C Marie, T Ahmed_
 
 
-_Humans, Mice, Animals, Anti-Bacterial Agents, Monocytes, Anti-Infective Agents, Klebsiella pneumoniae, Lung_
-Hospital-acquired pneumonia (HAP) is associated with high mortality and costs, and frequently caused by multidrug-resistant (MDR) bacteria. Although prior antimicrobial therapy is a major risk factor for HAP, the underlying mechanism remains incompletely understood. Here, we demonstrate that antibiotic therapy in hospitalized patients is associated with decreased diversity of the gut microbiome and depletion of short-chain fatty acid (SCFA) producers. Infection experiments with mice transplanted with patient fecal material reveal that these antibiotic-induced microbiota perturbations impair pulmonary defense against MDR Klebsiella pneumoniae. This is dependent on inflammatory monocytes (IMs), whose fatty acid receptor (FFAR)2/3-controlled and phagolysosome-dependent antibacterial activity is compromized in mice transplanted with antibiotic-associated patient microbiota. Collectively, we characterize how clinically relevant antibiotics affect antimicrobial defense in the context of human microbiota, and reveal a critical impairment of IM´s antimicrobial activity. Our study provides additional arguments for the rational use of antibiotics and offers mechanistic insights for the development of novel prophylactic strategies to protect high-risk patients from HAP.
+Small intestine bacterial overgrowth (SIBO) has been associated with enteric inflammation, linear growth stunting, and neurodevelopmental delays in children from low-income countries. Little is known about the histologic changes or epithelial adherent microbiota associated with SIBO. We sought to describe these relationships in a cohort of impoverished Bangladeshi children. Undernourished 12-18-month-old children underwent both glucose hydrogen breath testing for SIBO and duodenoscopy with biopsy. Biopsy samples were subject to both histological scoring and 16s rRNA sequencing. 118 children were enrolled with 16s sequencing data available on 53. Of 11 histological features, we found that SIBO was associated with one, enterocyte injury in the second part of the duodenum (R = 0.21, p = 0.02). SIBO was also associated with a significant increase in Campylobacter by 16s rRNA analysis (Log 2-fold change of 4.43; adjusted p = 1.9 x 10-6). These findings support the growing body of literature showing an association between SIBO and enteric inflammation and enterocyte injury and further delineate the subgroup of children with environmental enteric dysfunction who have SIBO. Further, they show a novel association between SIBO and Campylobacter. Mechanistic work is needed to understand the relationship between SIBO, enterocyte injury, and Campylobacter.
 
-[Source](https://doi.org/10.1038/s41467-024-47149-z)
+[Source](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012023)
 
-10.1038/s41467-024-47149-z
+10.1371/journal.pntd.0012023
+
+---
+
+## Placental TLR recognition of salivary and subgingival microbiota is associated with pregnancy complications.
+ 29.03.2024, _K Pax, N Buduneli, M Alan, P Meric, O Gurlek, SM Dabdoub, PS Kumar_
+
+
+_Infant, Newborn, Pregnancy, Female, Humans, Placenta, Cross-Sectional Studies, Pregnancy Complications, Periodontal Diseases, Microbiota_
+Pre-term birth, the leading cause of neonatal mortality, has been associated with maternal periodontal disease and the presence of oral pathogens in the placenta. However, the mechanisms that underpin this link are not known. This investigation aimed to identify the origins of placental microbiota and to interrogate the association between parturition complications and immune recognition of placental microbial motifs. Video Abstract METHODS: Saliva, plaque, serum, and placenta were collected during 130 full-term (FT), pre-term (PT), or pre-term complicated by pre-eclampsia (PTPE) deliveries and subjected to whole-genome shotgun sequencing. Real-time quantitative PCR was used to measure toll-like receptors (TLR) 1-10 expression in placental samples. Source tracking was employed to trace the origins of the placental microbiota.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01761-9)
+
+10.1186/s40168-024-01761-9
+
+---
+
+## Ecological patterns and processes of temporal turnover within lung infection microbiota.
+ 27.03.2024, _H Gavillet, L Hatfield, A Jones, A Maitra, A Horsley, D Rivett, C van der Gast_
+
+
+_Adult, Humans, Child, Lung, Microbiota, Cystic Fibrosis, Pneumonia, Bacteria_
+Chronic infection and consequent airway inflammation are the leading causes of morbidity and early mortality for people living with cystic fibrosis (CF). However, lower airway infections across a range of chronic respiratory diseases, including in CF, do not follow classical 'one microbe, one disease' concepts of infection pathogenesis. Instead, they are comprised of diverse and temporally dynamic lung infection microbiota. Consequently, temporal dynamics need to be considered when attempting to associate lung microbiota with changes in disease status. Set within an island biogeography framework, we aimed to determine the ecological patterns and processes of temporal turnover within the lung microbiota of 30 paediatric and adult CF patients prospectively sampled over a 3-year period. Moreover, we aimed to ascertain the contributions of constituent chronic and intermittent colonizers on turnover within the wider microbiota.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01780-6)
+
+10.1186/s40168-024-01780-6
+
+---
+
+## Integrative analysis with microbial modelling and machine learning uncovers potential alleviators for ulcerative colitis.
+ 03.04.2024, _J Zhu, J Yin, J Chen, M Hu, W Lu, H Wang, H Zhang, W Chen_
+
+
+_Animals, Mice, Humans, Colitis, Ulcerative, Gastrointestinal Microbiome, Inflammatory Bowel Diseases, Colitis, Machine Learning_
+Ulcerative colitis (UC) is a challenging form of inflammatory bowel disease, and its etiology is intricately linked to disturbances in the gut microbiome. To identify the potential alleviators of UC, we employed an integrative analysis combining microbial community modeling with advanced machine learning techniques. Using metagenomics data sourced from the Integrated Human Microbiome Project, we constructed individualized microbiome community models for each participant. Our analysis highlighted a significant decline in both α and β-diversity of strain-level microbial populations in UC subjects compared to controls. Distinct differences were also observed in the predicted fecal metabolite profiles and strain-to-metabolite contributions between the two groups. Using tree-based machine learning models, we successfully identified specific microbial strains and their associated metabolites as potential alleviators of UC. Notably, our experimental validation using a dextran sulfate sodium-induced UC mouse model demonstrated that the administration of Parabacteroides merdae ATCC 43,184 and N-acetyl-D-mannosamine provided notable relief from colitis symptoms. In summary, our study underscores the potential of an integrative approach to identify novel therapeutic avenues for UC, paving the way for future targeted interventions.
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2336877)
+
+10.1080/19490976.2024.2336877
+
+---
+
+## A comparative study on dietary diversity and gut microbial diversity in children with autism spectrum disorder, attention-deficit hyperactivity disorder, their neurotypical siblings, and non-related neurotypical volunteers: a cross-sectional study.
+ 02.04.2024, _S Kurokawa, K Nomura, K Sanada, K Miyaho, C Ishii, S Fukuda, C Iwamoto, M Naraoka, S Yoneda, M Imafuku, J Matsuzaki, Y Saito, M Mimura, T Kishimoto_
+
+
+Previous research has shown a significant link between gut microbiota in children with autism spectrum disorder (ASD) and attention-deficit hyperactivity disorder (ADHD). However, much remains unknown because of the heterogeneity of disorders and the potential confounders such as dietary patterns and control group variations.
+
+[Source](https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.13962)
+
+10.1111/jcpp.13962
+
+---
+
+## Disrupted gut microecology after high-dose 131I therapy and radioprotective effects of arachidonic acid supplementation.
+ 01.04.2024, _G Lu, D Gao, W Jiang, X Yu, J Tong, X Liu, T Qiao, R Wang, M Zhang, S Wang, J Yang, D Li, Z Lv_
+
+
+Despite the potential radiotoxicity in differentiated thyroid cancer (DTC) patients with high-dose 131I therapy, the alterations and regulatory mechanisms dependent on intestinal microecology remain poorly understood. We aimed to identify the characteristics of the gut microbiota and metabolites in DTC patients suffering from high-dose 131I therapy and explore the radioprotective mechanisms underlying arachidonic acid (ARA) treatment.
+
+[Source](https://link.springer.com/article/10.1007/s00259-024-06688-9)
+
+10.1007/s00259-024-06688-9
+
+---
+
+## Pathogen-specific alterations in intestinal microbiota precede urinary tract infections in preterm infants: a longitudinal case-control study.
+ 03.04.2024, _L Hong, Y Huang, J Han, S Li, L Zhang, Q Zhou, X Cao, W Yu, X Guo, Y Yang, Y Zhou, W Yan, S Hong, S Jiang, Y Cao_
+
+
+_Infant, Child, Humans, Infant, Newborn, Adolescent, Case-Control Studies, Gastrointestinal Microbiome, Escherichia coli, Infant, Premature, Anti-Bacterial Agents, Urinary Tract Infections, Enterobacteriaceae, Leukocyte L1 Antigen Complex_
+Urinary tract infections (UTIs) are among the most common late-onset infections in preterm infants, characterized by nonspecific symptoms and a pathogenic spectrum that diverges from that of term infants and older children, which present unique diagnostic and therapeutic challenges. Existing data on the role of gut microbiota in UTI pathogenesis in this demographic are limited. This study aims to investigate alterations in gut microbiota and fecal calprotectin levels and their association with the development of UTIs in hospitalized preterm infants. A longitudinal case-control study was conducted involving preterm infants admitted between January 2018 and October 2020. Fecal samples were collected weekly and analyzed for microbial profiles and calprotectin levels. Propensity score matching, accounting for key perinatal factors including age and antibiotic use, was utilized to match samples from UTI-diagnosed infants to those from non-UTI counterparts. Among the 151 preterm infants studied, 53 were diagnosed with a UTI, predominantly caused by Enterobacteriaceae (79.3%) and Enterococcaceae (19.0%). Infants with UTIs showed a significantly higher abundance of these families compared to non-UTI infants, for both Gram-negative and positive pathogens, respectively. Notably, there was a significant pre-UTI increase in the abundance of pathogen-specific taxa in infants later diagnosed with UTIs, offering high predictive value for early detection. Shotgun metagenomic sequencing further confirmed the dominance of specific pathogenic species pre-UTI and revealed altered virulence factor profiles associated with Klebsiella aerogenes and Escherichia coli infections. Additionally, a decline in fecal calprotectin levels was observed preceding UTI onset, particularly in cases involving Enterobacteriaceae. The observed pathogen-specific alterations in the gut microbiota preceding UTI onset offer novel insight into the UTI pathogenesis and promising early biomarkers for UTIs in preterm infants, potentially enhancing the timely management of this common infection. However, further validation in larger cohorts is essential to confirm these findings.
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2333413)
+
+10.1080/19490976.2024.2333413
+
+---
+
+## Soil fungal communities varied across aspects of restored grassland in former mining areas of the Qinghai-Tibet Plateau.
+ 28.03.2024, _X Li, Q Li, Y Duan, H Sun, H Chu, S Jia, H Chen, W Tang_
+
+
+_Tibet, Mycobiome, Grassland, Soil, Cytochromes c, Soil Microbiology, Fungi_
+To determine whether different aspects lead to a heterogeneous distribution of soil fungi, we investigated artificially established alpine grasslands in the Muli mining area in the Qinghai-Tibet Plateau. Employing high-throughput sequencing techniques, we analyzed the composition, diversity, and function of soil fungal communities across various aspects (flat, East-facing, South-facing, West-facing, North-facing). We also examined their relationships with environmental factors. Soil fungal communities of restored alpine grasslands differed significantly across aspects in terms of the dominant phyla, classes and species level. Compared with No aspect, the Shannon index of fungi respectively decreased by 2.99%, 19.32%, 19.37% and 10.56% for East aspect, South aspect, West aspect and North aspect, respectively, and the Chao1 index of fungi respectively decreased by-2.44%, 35.50%, 42.15% and 3.21%, respectively. A total of 22 different types of fungi were identified in the study area. Predictive analysis, based on PICRUSt2, indicated that the primary functions of the fungal communities across different aspects were aerobic respiration I (cytochrome c) and aerobic respiration II (cytochrome c). Among the environmental variables, total phosphorus (P) and total nitrogen (N) were the principal factors influencing the fungal community composition.In conclusion, aspect plays a significant role in shaping the composition of fungal communities and also affects their overall diversity.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295019)
+
+10.1371/journal.pone.0295019
+
+---
+
+## Integrated rice-yellow catfish farming resulting in variations in the agricultural environment, rice growth performance, and soil bacterial communities.
+ 02.04.2024, _Y Hou, Z Yu, R Jia, B Li, J Zhu_
+
+
+Different rice production patterns exert varying comprehensive impacts on the agricultural environment. Integrated rice-fish farming, an advanced and rapidly developing agricultural production pattern, aims to improve resource utilization efficiency and enhance food productivity. To unravel the responses and internal interactions of the agricultural ecological environment to integrated rice-fish farming, we assessed and compared environmental factor, rice growth performance, and soil microbiome in both integrated rice-yellow catfish farming (IRYF) and rice monoculture (RM) systems. Our results revealed significant increases in the total nitrogen and ammonia concentrations in the paddy water and soil induced by the IRYF. Rice growth performance in the IRYF group surpassed that in the RM group. IRYF obviously impacted almost all dominant bacterial phyla, genera, and functional groups (top ten most abundant), enhancing the ability of bacteria to degrade and utilize organic matter. Additionally, IRYF led to noticeable reductions in the Shannon, Simpson, Chao 1, and Pielou_J indices. IRYF strengthened the interconnections between various taxonomic units in bacterial co-occurrence network, resulting in increased complexity, stability, and disturbance resistance in the soil bacterial community. IRYF notably facilitated the transition from a community assembly dominated by stochastic processes to one dominated by deterministic processes for the soil bacterial community. The deterministic process driving this transition was variable selection. All the environmental factors, except for soil nitrate, demonstrated relatively high contributions to alterations in soil bacterial communities, with environmental variables significantly positively correlated with the soil bacterial community in the IRYF group. Alterations in functionality, composition, and diversity of the soil bacterial community were clearly associated with most environmental variables and rice growth performance indices. Our research contributed to understanding the comprehensive impacts of integrated rice-fish farming on agricultural ecosystems and provide theoretical support for achieving the sustainable agricultural production and optimizing the rice production patterns.
+
+[Source](https://link.springer.com/article/10.1007/s11356-024-33108-0)
+
+10.1007/s11356-024-33108-0
+
+---
+
+## Microbial terroir: associations between soil microbiomes and the flavor chemistry of mustard (Brassica juncea).
+ 29.03.2024, _C Walsh, C Vanderburgh, L Grant, E Katz, DJ Kliebenstein, N Fierer_
+
+
+Here, we characterized the independent role of soil microbiomes (bacterial and fungal communities) in determining the flavor chemistry of harvested mustard seed (Brassica juncea). Given the known impacts of soil microbial communities on various plant characteristics, we hypothesized that differences in rhizosphere microbiomes would result in differences in seed flavor chemistry (glucosinolate content). In a glasshouse study, we introduced distinct soil microbial communities to mustard plants growing in an otherwise consistent environment. At the end of the plant life cycle, we characterized the rhizosphere and root microbiomes and harvested produced mustard seeds for chemical characterization. Specifically, we measured the concentrations of glucosinolates, secondary metabolites known to create spicy and bitter flavors. We examined associations between rhizosphere microbial taxa or genes and seed flavor chemistry. We identified links between the rhizosphere microbial community composition and the concentration of the main glucosinolate, allyl, in seeds. We further identified specific rhizosphere taxa predictive of seed allyl concentration and identified bacterial functional genes, namely genes for sulfur metabolism, which could partly explain the observed associations. Together, this work offers insight into the potential influence of the belowground microbiome on the flavor of harvested crops.
+
+[Source](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19708)
+
+10.1111/nph.19708
 
 ---
 
 ## The gut metabolite indole-3-propionic acid activates ERK1 to restore social function and hippocampal inhibitory synaptic transmission in a 16p11.2 microdeletion mouse model
 
-[Source](https://doi.org/10.1186/s40168-024-01755-7)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01755-7)
 
 ---
 
-## Vaginal microbiomes of breast cancer survivors treated with aromatase inhibitors with and without vulvovaginal symptoms.
- 02.04.2024, _P Prasanchit, P Pongchaikul, P Lertsittichai, C Tantitham, J Manonai_
+## Supplier-origin gut microbiomes affect host body weight and select autism-related behaviors
 
-
-_Female, Humans, Breast Neoplasms, Cancer Survivors, Aromatase Inhibitors, Breast, Vagina, Microbiota, Menopause_
-Genitourinary syndrome of menopause (GSM) is the leading cause of vaginal symptoms in breast cancer survivors treated with aromatase inhibitors. However, there are currently no effective treatment options available for women with a history of breast cancer. Recent research has established that changes in the vaginal microbiome may be linked to GSM. Most studies have assessed the microbiome without accounting for the estrogen status. It remains unknown whether the vaginal microbiome differ among patients with a low estrogenic state with and without vulvovaginal symptoms. To address such research questions, our study compares the vaginal microbiomes among breast cancer survivors treated with aromatase inhibitors with and without vulvovaginal symptoms. A total of 50 breast cancer survivors treated with aromatase inhibitors were recruited, among whom 25 had vulvovaginal symptoms and 25 had no vulvovaginal symptoms. Vaginal swabs were collected. DNA extraction, followed by sequencing of the V3-V4 regions of the 16S ribosomal RNA gene, were performed. Differential abundance analysis was conducted by linear discriminant analysis effect size. Taxonomy assignment, alpha diversity and beta diversity were examined. The relative abundance of genus Sneathia and genus Gardnerella was significantly increased in vulvovaginal symptoms group with no differences in bacterial diversity and richness.
-
-[Source](https://doi.org/10.1038/s41598-024-58118-3)
-
-10.1038/s41598-024-58118-3
+[Source](https://www.biorxiv.org/content/biorxiv/early/2024/04/02/2024.04.01.587648.full.pdf?%3Fcollection=)
 
 ---
 
-## Integrated analysis of gut metabolome, microbiome, and brain function reveal the role of gut-brain axis in longevity.
- 02.04.2024, _B Jiao, Z Ouyang, Q Liu, T Xu, M Wan, G Ma, L Zhou, J Guo, J Wang, B Tang, Z Zhao, L Shen_
+## Phenology and ecological role of aerobic anoxygenic phototrophs in freshwaters
 
-
-_Aged, 80 and over, Humans, Brain-Gut Axis, Gastrointestinal Microbiome, Metabolome, Microbiota, Brain_
-The role of microbiota-gut-brain axis in modulating longevity remains undetermined. Here, we performed a multiomics analysis of gut metagenomics, gut metabolomics, and brain functional near-infrared spectroscopy (fNIRS) in a cohort of 164 participants, including 83 nonagenarians (NAs) and 81 non-nonagenarians (NNAs) matched with their spouses and offspring. We found that 438 metabolites were significantly different between the two groups; among them, neuroactive compounds and anti-inflammatory substances were enriched in NAs. In addition, increased levels of neuroactive metabolites in NAs were significantly associated with NA-enriched species that had three corresponding biosynthetic potentials: Enterocloster asparagiformis, Hungatella hathewayi and Oxalobacter formigenes. Further analysis showed that the altered gut microbes and metabolites were linked to the enhanced brain connectivity in NAs, including the left dorsolateral prefrontal cortex (DLPFC)-left premotor cortex (PMC), left DLPFC-right primary motor area (M1), and right inferior frontal gyrus (IFG)-right M1. Finally, we found that neuroactive metabolites, altered microbe and enhanced brain connectivity contributed to the cognitive preservation in NAs. Our findings provide a comprehensive understanding of the microbiota-gut-brain axis in a long-lived population and insights into the establishment of a microbiome and metabolite homeostasis that can benefit human longevity and cognition by enhancing functional brain connectivity.
-
-[Source](https://doi.org/10.1080/19490976.2024.2331434)
-
-10.1080/19490976.2024.2331434
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01786-0)
 
 ---
 
-## Exploring the diversity of vaginal microbiota between healthy women and cervical cancer patients in India.
- 29.03.2024, _A Kamble, S Naik, M Talathi, D Jadhav, M Sakharkar, J Yang, O Prakash, R Kaul-Ghanekar_
+## The distinctive weathering crust habitat of a High Arctic glacier comprises discrete microbial micro-habitats
 
-
-_Humans, Female, Uterine Cervical Neoplasms, RNA, Ribosomal, 16S, Vagina, India, Escherichia coli, Microbiota_
-Introduction. Cervicovaginal diversity has been reported as a predictive biomarker for cervical cancer risk. We recently reported the bio-therapeutic potential of vaginal probiotics from healthy Indian women against vaginal pathogens, isolated from the invasive cervical cancer (ICC) patients.Gap Statement. The cervicovaginal microflora from cervical cancer patients has not yet been reported from Indian population.Aim. The present study aimed at comparing the cervicovaginal microbiome between healthy controls (HC) and ICC patients from the Indian population.Methodology. In total, 30 vaginal swabs (15 from HC and 15 from ICC) were subjected to 16S rRNA gene sequencing. Alpha diversity was evaluated by Shannon and Chao1 index; and beta diversity by principle coordinate analysis (PCoA) of weighted and unweighted UniFrac distances. The relative abundance of the microbial taxa was done according to linear discriminant analysis effect size (LEfSe).Results. Predominance of Staphylococcus spp. in ICC and Lactobacillus gasseri in HC groups was observed. Alpha-diversity was found to be higher in ICC as compared to HC but was statistically non-significant. LEfSe analysis revealed Bacteroides fragilis and Escherichia coli as the marker genera in ICC with a marked decrease in Lactobacillus sp. Contrarily, in HC, L. gasseri, L. iners and L. fermentum were found to be abundant.Conclusion. Differences in the vaginal microbiome between healthy and ICC women could help in the early prediction of cervical cancer risk and thus in designing prevention strategies.
-
-[Source](https://doi.org/10.1099/jmm.0.001819)
-
-10.1099/jmm.0.001819
+[Source](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16617)
 
 ---
 
-## Oral pathobiont <em>Klebsiella</em> chaperon usher pili provide site-specific adaptation for the inflamed gut mucosa
+## Molecular-Weight-Dependent Degradation of Plastics: Deciphering Host-Microbiome Synergy Biodegradation of High-Purity Polypropylene Microplastics by Mealworms
 
-[Source](https://doi.org/10.1080/19490976.2024.2333463)
-
----
-
-## Hypervirulent <em>Klebsiella pneumoniae</em> employs genomic island encoded toxins against bacterial competitors in the gut
-
-[Source](https://doi.org/10.1093/ismejo/wrae054)
+[Source](https://pubs.acs.org/doi/10.1021/acs.est.3c06954)
 
 ---
 
-## Microbiome bacterial influencers of host immunity and response to immunotherapy.
- 28.03.2024, _Y Yousefi, KJ Baines, S Maleki Vareki_
+## Dispersion of antimicrobial resistant bacteria in pig farms and in the surrounding environment
 
-
-The gut microbiota influences anti-tumor immunity and can induce or inhibit response to immune checkpoint inhibitors (ICIs). Therefore, microbiome features are being studied as predictive/prognostic biomarkers of patient response to ICIs, and microbiome-based interventions are attractive adjuvant treatments in combination with ICIs. Specific gut-resident bacteria can influence the effectiveness of immunotherapy; however, the mechanism of action on how these bacteria affect anti-tumor immunity and response to ICIs is not fully understood. Nevertheless, early bacterial-based therapeutic strategies have demonstrated that targeting the gut microbiome through various methods can enhance the effectiveness of ICIs, resulting in improved clinical responses in patients with a diverse range of cancers. Therefore, understanding the microbiota-driven mechanisms of response to immunotherapy can augment the success of these interventions, particularly in patients with treatment-refractory cancers.
-
-[Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00133-2)
-
-10.1016/j.xcrm.2024.101487
+[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00305-8)
 
 ---
 
-## Unlocking the Potential of Probiotics: A Comprehensive Review on Research, Production, and Regulation of Probiotics.
- 28.03.2024, _TF da Silva, RA Glória, MF Americo, ADS Freitas, LCL de Jesus, FAL Barroso, JG Laguna, ND Coelho-Rocha, LM Tavares, Y le Loir, G Jan, É Guédon, VAC Azevedo_
+## rRNA Operon Improves Species-Level Classification of Bacteria and Microbial Community Analysis Compared to 16S rRNA
 
-
-This review provides a comprehensive overview of the current state of probiotic research, covering a wide range of topics, including strain identification, functional characterization, preclinical and clinical evaluations, mechanisms of action, therapeutic applications, manufacturing considerations, and future directions. The screening process for potential probiotics involves phenotypic and genomic analysis to identify strains with health-promoting properties while excluding those with any factor that could be harmful to the host. In vitro assays for evaluating probiotic traits such as acid tolerance, bile metabolism, adhesion properties, and antimicrobial effects are described. The review highlights promising findings from in vivo studies on probiotic mitigation of inflammatory bowel diseases, chemotherapy-induced mucositis, dysbiosis, obesity, diabetes, and bone health, primarily through immunomodulation and modulation of the local microbiota in human and animal models. Clinical studies demonstrating beneficial modulation of metabolic diseases and human central nervous system function are also presented. Manufacturing processes significantly impact the growth, viability, and properties of probiotics, and the composition of the product matrix and supplementation with prebiotics or other strains can modify their effects. The lack of regulatory oversight raises concerns about the quality, safety, and labeling accuracy of commercial probiotics, particularly for vulnerable populations. Advancements in multi-omics approaches, especially probiogenomics, will provide a deeper understanding of the mechanisms behind probiotic functionality, allowing for personalized and targeted probiotic therapies. However, it is crucial to simultaneously focus on improving manufacturing practices, implementing quality control standards, and establishing regulatory oversight to ensure the safety and efficacy of probiotic products in the face of increasing therapeutic applications.
-
-[Source](https://doi.org/10.1007/s12602-024-10247-x)
-
-10.1007/s12602-024-10247-x
-
----
-
-## Mulberry leaf and konjac flour compound dietary fiber improves digestion and metabolism in elderly mice with high-fish-protein diet by regulating gut microbiota structure and intestinal tissue repair.
- 30.03.2024, _L Deng, G Zhong, Q Wang, Z Zhu, Y Peng_
-
-
-Ensuring sufficient protein intake, efficient digestion, and optimal absorption are crucial for the elderly. This study aims to investigate the potential of a compound dietary fiber, consisting of mulberry leaf and konjac flour (CMK), to enhance the digestion and absorption of a high-fish-protein diet in elderly mice. Results showed that CMK effectively reduced the number of unique peptide segments, generated short-chain fatty acids (SCFA) in feces, improved the content of glutamic pyruvic transaminase (GPT), glutamic oxaloacetic transaminase (GOT), amino acid, and urea nitrogen in serum, activated the contents of pepsin, trypsin, and erepsin, and enhanced the expression of glutamate dehydrogenase (GDH), peptide transporter 1 (PepT1), and aminopeptidase N (APN). Furthermore, CMK demonstrated its ability to decrease the levels of tumor necrosis factor-α (TNF-α), interleukin-1β (IL-1β), interleukin-10 (IL-10), lipopolysaccharide (LPS), and lipopolysaccharide binding protein (LBP), while increase the abundance of beneficial bacteria, such as Lactobacillus and Blautia. In conclusion, CMK proved effective in enhancing the digestion and metabolism of protein in elderly mice through the regulation of gut microbiota structure and intestinal tissue repair.
-
-[Source](https://doi.org/10.1016/j.fochx.2024.101295)
-
-10.1016/j.fochx.2024.101295
-
----
-
-## Gut Microbiota and Blood Metabolites Related to Fiber Intake and Type 2 Diabetes.
- 01.04.2024, _Z Wang, BA Peters, B Yu, ML Grove, T Wang, X Xue, B Thyagarajan, ML Daviglus, E Boerwinkle, G Hu, Y Mossavar-Rahmani, CR Isasi, R Knight, RD Burk, RC Kaplan, Q Qi_
-
-
-_Humans, Gastrointestinal Microbiome, Diabetes Mellitus, Type 2, Diet, Bacteria, Dietary Fiber_
-Consistent evidence suggests diabetes-protective effects of dietary fiber intake. However, the underlying mechanisms, particularly the role of gut microbiota and host circulating metabolites, are not fully understood. We aimed to investigate gut microbiota and circulating metabolites associated with dietary fiber intake and their relationships with type 2 diabetes (T2D).
-
-[Source](https://doi.org/10.1161/CIRCRESAHA.123.323634)
-
-10.1161/CIRCRESAHA.123.323634
-
----
-
-## Colitis reduces active social engagement in mice and is ameliorated by supplementation with human microbiota members.
- 02.04.2024, _DG Brown, M Murphy, R Cadeddu, R Bell, A Weis, T Chiaro, K Klag, J Morgan, H Coon, WZ Stephens, M Bortolato, JL Round_
-
-
-_Humans, Male, Mice, Animals, Autism Spectrum Disorder, Social Participation, Microbiota, Colitis, Gastrointestinal Diseases, Dietary Supplements_
-Multiple neurological disorders are associated with gastrointestinal (GI) symptoms, including autism spectrum disorder (ASD). However, it is unclear whether GI distress itself can modify aspects of behavior. Here, we show that mice that experience repeated colitis have impaired active social engagement, as measured by interactions with a foreign mouse, even though signs of colitis were no longer present. We then tested the hypothesis that individuals with ASD harbor a microbiota that might differentially influence GI health by performing microbiota transplantation studies into male germfree animals, followed by induction of colitis. Animals that harbor a microbiota from ASD individuals have worsened gut phenotypes when compared to animals colonized with microbiotas from familial neurotypical (NT) controls. We identify the enrichment of Blautia species in all familial NT controls and observe an association between elevated abundance of Bacteroides uniformis and reductions in intestinal injury. Oral treatment with either of these microbes reduces colon injury in mice. Finally, provision of a Blautia isolate from a NT control ameliorates gut injury-associated active social engagement in mice. Collectively, our data demonstrate that past intestinal distress is associated with changes in active social behavior in mice that can be ameliorated by supplementation of members of the human microbiota.
-
-[Source](https://doi.org/10.1038/s41467-024-46733-7)
-
-10.1038/s41467-024-46733-7
-
----
-
-## Disentangling direct vs indirect effects of microbiome manipulations in a habitat-forming marine holobiont
-
-[Source](https://doi.org/10.1038/s41522-024-00503-x)
-
----
-
-## Microplastics dampen the self-renewal of hematopoietic stem cells by disrupting the gut microbiota-hypoxanthine-Wnt axis.
- 31.03.2024, _L Jiang, Y Ye, Y Han, Q Wang, H Lu, J Li, W Qian, X Zeng, Z Zhang, Y Zhao, J Shi, Y Luo, Y Qiu, J Sun, J Sheng, H Huang, P Qian_
-
-
-Microplastics (MPs) are contaminants ubiquitously found in the global biosphere that enter the body through inhalation or ingestion, posing significant risks to human health. Recent studies emerge that MPs are present in the bone marrow and damage the hematopoietic system. However, it remains largely elusive about the specific mechanisms by which MPs affect hematopoietic stem cells (HSCs) and their clinical relevance in HSC transplantation (HSCT). Here, we established a long-term MPs intake mouse model and found that MPs caused severe damage to the hematopoietic system. Oral gavage administration of MPs or fecal transplantation of microbiota from MPs-treated mice markedly undermined the self-renewal and reconstitution capacities of HSCs. Mechanistically, MPs did not directly kill HSCs but disrupted gut structure and permeability, which eventually ameliorated the abundance of Rikenellaceae and hypoxanthine in the intestine and inactivated the HPRT-Wnt signaling in bone marrow HSCs. Furthermore, administration of Rikenellaceae or hypoxanthine in mice as well as treatment of WNT10A in the culture system substantially rescued the MPs-induced HSC defects. Finally, we validated in a cohort of human patients receiving allogenic HSCT from healthy donors, and revealed that the survival time of patients was negatively correlated with levels of MPs, while positively with the abundance of Rikenellaceae, and hypoxanthine in the HSC donors' feces and blood. Overall, our study unleashes the detrimental roles and mechanisms of MPs in HSCs, which provides potential strategies to prevent hematopoietic damage from MPs and serves as a fundamental critique for selecting suitable donors for HSCT in clinical practice.
-
-[Source](https://doi.org/10.1038/s41421-024-00665-0)
-
-10.1038/s41421-024-00665-0
-
----
-
-## Immune interactions between mosquitoes and microbes during midgut colonization.
- 29.03.2024, _JA Cai, GK Christophides_
-
-
-Mosquitoes encounter diverse microbes during their lifetime, including symbiotic bacteria, shaping their midgut ecosystem. The organization of the midgut supports microbiota persistence while defending against potential pathogens. The influx of nutrients during blood feeding triggers bacterial proliferation, challenging host homeostasis. Immune responses, aimed at controlling bacterial overgrowth, impact blood-borne pathogens like malaria parasites. However, parasites deploy evasion strategies against mosquito immunity. Leveraging these mechanisms could help engineer malaria-resistant mosquitoes, offering a transformative tool for malaria elimination.
-
-[Source](https://doi.org/10.1016/j.cois.2024.101195)
-
-10.1016/j.cois.2024.101195
-
----
-
-## A microbial knowledge graph-based deep learning model for predicting candidate microbes for target hosts.
- 02.04.2024, _J Pan, Z Zhang, Y Li, J Yu, Z You, C Li, S Wang, M Zhu, F Ren, X Zhang, Y Sun, S Wang_
-
-
-_Humans, Deep Learning, Pattern Recognition, Automated, Neural Networks, Computer, Algorithms, Bacteria_
-Predicting interactions between microbes and hosts plays critical roles in microbiome population genetics and microbial ecology and evolution. How to systematically characterize the sophisticated mechanisms and signal interplay between microbes and hosts is a significant challenge for global health risks. Identifying microbe-host interactions (MHIs) can not only provide helpful insights into their fundamental regulatory mechanisms, but also facilitate the development of targeted therapies for microbial infections. In recent years, computational methods have become an appealing alternative due to the high risk and cost of wet-lab experiments. Therefore, in this study, we utilized rich microbial metagenomic information to construct a novel heterogeneous microbial network (HMN)-based model named KGVHI to predict candidate microbes for target hosts. Specifically, KGVHI first built a HMN by integrating human proteins, viruses and pathogenic bacteria with their biological attributes. Then KGVHI adopted a knowledge graph embedding strategy to capture the global topological structure information of the whole network. A natural language processing algorithm is used to extract the local biological attribute information from the nodes in HMN. Finally, we combined the local and global information and fed it into a blended deep neural network (DNN) for training and prediction. Compared to state-of-the-art methods, the comprehensive experimental results show that our model can obtain excellent results on the corresponding three MHI datasets. Furthermore, we also conducted two pathogenic bacteria case studies to further indicate that KGVHI has excellent predictive capabilities for potential MHI pairs.
-
-[Source](https://doi.org/10.1093/bib/bbae119)
-
-10.1093/bib/bbae119
-
----
-
-## Towards a unified medical microbiome ecology of the OMU for metagenomes and the OTU for microbes.
- 01.04.2024, _ZS Ma_
-
-
-_Animals, Humans, Metagenome, Microbiota, Gastrointestinal Microbiome, Biodiversity, Sequence Analysis, DNA, Metagenomics_
-Metagenomic sequencing technologies offered unprecedented opportunities and also challenges to microbiology and microbial ecology particularly. The technology has revolutionized the studies of microbes and enabled the high-profile human microbiome and earth microbiome projects. The terminology-change from microbes to microbiomes signals that our capability to count and classify microbes (microbiomes) has achieved the same or similar level as we can for the biomes (macrobiomes) of plants and animals (macrobes). While the traditional investigations of macrobiomes have usually been conducted through naturalists' (Linnaeus &amp; Darwin) naked eyes, and aerial and satellite images (remote-sensing), the large-scale investigations of microbiomes have been made possible by DNA-sequencing-based metagenomic technologies. Two major types of metagenomic sequencing technologies-amplicon sequencing and whole-genome (shotgun sequencing)-respectively generate two contrastingly different categories of metagenomic reads (data)-OTU (operational taxonomic unit) tables representing microorganisms and OMU (operational metagenomic unit), a new term coined in this article to represent various cluster units of metagenomic genes.
-
-[Source](https://doi.org/10.1186/s12859-023-05591-8)
-
-10.1186/s12859-023-05591-8
-
----
-
-## An in-depth evaluation of metagenomic classifiers for soil microbiomes.
- 31.03.2024, _NR Edwin, AH Fitzpatrick, F Brennan, F Abram, O O'Sullivan_
-
-
-Recent endeavours in metagenomics, exemplified by projects such as the human microbiome project and TARA Oceans, have illuminated the complexities of microbial biomes. A robust bioinformatic pipeline and meticulous evaluation of their methodology have contributed to the success of these projects. The soil environment, however, with its unique challenges, requires a specialized methodological exploration to maximize microbial insights. A notable limitation in soil microbiome studies is the dearth of soil-specific reference databases available to classifiers that emulate the complexity of soil communities. There is also a lack of in-vitro mock communities derived from soil strains that can be assessed for taxonomic classification accuracy.
-
-[Source](https://doi.org/10.1186/s40793-024-00561-w)
-
-10.1186/s40793-024-00561-w
-
----
-
-## Generalized reporter score-based enrichment analysis for omics data.
- 30.03.2024, _C Peng, Q Chen, S Tan, X Shen, C Jiang_
-
-
-_Benchmarking, Biomedical Research, Databases, Factual, Metabolome, Microbiota_
-Enrichment analysis contextualizes biological features in pathways to facilitate a systematic understanding of high-dimensional data and is widely used in biomedical research. The emerging reporter score-based analysis (RSA) method shows more promising sensitivity, as it relies on P-values instead of raw values of features. However, RSA cannot be directly applied to multi-group and longitudinal experimental designs and is often misused due to the lack of a proper tool. Here, we propose the Generalized Reporter Score-based Analysis (GRSA) method for multi-group and longitudinal omics data. A comparison with other popular enrichment analysis methods demonstrated that GRSA had increased sensitivity across multiple benchmark datasets. We applied GRSA to microbiome, transcriptome and metabolome data and discovered new biological insights in omics studies. Finally, we demonstrated the application of GRSA beyond functional enrichment using a taxonomy database. We implemented GRSA in an R package, ReporterScore, integrating with a powerful visualization module and updatable pathway databases, which is available on the Comprehensive R Archive Network (https://cran.r-project.org/web/packages/ReporterScore). We believe that the ReporterScore package will be a valuable asset for broad biomedical research fields.
-
-[Source](https://doi.org/10.1093/bib/bbae116)
-
-10.1093/bib/bbae116
+[Source](https://www.biorxiv.org/content/biorxiv/early/2024/04/01/2024.04.01.587560.full.pdf)
 
 ---
 
