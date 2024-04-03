@@ -81,27 +81,15 @@ Introduction. Cervicovaginal diversity has been reported as a predictive biomark
 
 ---
 
-## Microbiome bacterial influencers of host immunity and response to immunotherapy.
- 28.03.2024, _Y Yousefi, KJ Baines, S Maleki Vareki_
-
-
-The gut microbiota influences anti-tumor immunity and can induce or inhibit response to immune checkpoint inhibitors (ICIs). Therefore, microbiome features are being studied as predictive/prognostic biomarkers of patient response to ICIs, and microbiome-based interventions are attractive adjuvant treatments in combination with ICIs. Specific gut-resident bacteria can influence the effectiveness of immunotherapy; however, the mechanism of action on how these bacteria affect anti-tumor immunity and response to ICIs is not fully understood. Nevertheless, early bacterial-based therapeutic strategies have demonstrated that targeting the gut microbiome through various methods can enhance the effectiveness of ICIs, resulting in improved clinical responses in patients with a diverse range of cancers. Therefore, understanding the microbiota-driven mechanisms of response to immunotherapy can augment the success of these interventions, particularly in patients with treatment-refractory cancers.
+## Microbiome bacterial influencers of host immunity and response to immunotherapy
 
 [Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00133-2)
 
-10.1016/j.xcrm.2024.101487
-
 ---
 
-## Unlocking the Potential of Probiotics: A Comprehensive Review on Research, Production, and Regulation of Probiotics.
- 28.03.2024, _TF da Silva, RA Glória, MF Americo, ADS Freitas, LCL de Jesus, FAL Barroso, JG Laguna, ND Coelho-Rocha, LM Tavares, Y le Loir, G Jan, É Guédon, VAC Azevedo_
-
-
-This review provides a comprehensive overview of the current state of probiotic research, covering a wide range of topics, including strain identification, functional characterization, preclinical and clinical evaluations, mechanisms of action, therapeutic applications, manufacturing considerations, and future directions. The screening process for potential probiotics involves phenotypic and genomic analysis to identify strains with health-promoting properties while excluding those with any factor that could be harmful to the host. In vitro assays for evaluating probiotic traits such as acid tolerance, bile metabolism, adhesion properties, and antimicrobial effects are described. The review highlights promising findings from in vivo studies on probiotic mitigation of inflammatory bowel diseases, chemotherapy-induced mucositis, dysbiosis, obesity, diabetes, and bone health, primarily through immunomodulation and modulation of the local microbiota in human and animal models. Clinical studies demonstrating beneficial modulation of metabolic diseases and human central nervous system function are also presented. Manufacturing processes significantly impact the growth, viability, and properties of probiotics, and the composition of the product matrix and supplementation with prebiotics or other strains can modify their effects. The lack of regulatory oversight raises concerns about the quality, safety, and labeling accuracy of commercial probiotics, particularly for vulnerable populations. Advancements in multi-omics approaches, especially probiogenomics, will provide a deeper understanding of the mechanisms behind probiotic functionality, allowing for personalized and targeted probiotic therapies. However, it is crucial to simultaneously focus on improving manufacturing practices, implementing quality control standards, and establishing regulatory oversight to ensure the safety and efficacy of probiotic products in the face of increasing therapeutic applications.
+## Unlocking the Potential of Probiotics: A Comprehensive Review on Research, Production, and Regulation of Probiotics
 
 [Source](https://doi.org/10.1007/s12602-024-10247-x)
-
-10.1007/s12602-024-10247-x
 
 ---
 
