@@ -1,6 +1,12 @@
-## Gut microbiome and metabolome profiling in Framingham heart study reveals cholesterol-metabolizing bacteria
+## Gut microbiome and metabolome profiling in Framingham heart study reveals cholesterol-metabolizing bacteria.
+ 03.04.2024, _C Li, M Stražar, AMT Mohamed, JA Pacheco, RL Walker, T Lebar, S Zhao, J Lockart, A Dame, K Thurimella, S Jeanfavre, EM Brown, QY Ang, B Berdy, D Sergio, R Invernizzi, A Tinoco, G Pishchany, RS Vasan, E Balskus, C Huttenhower, H Vlamakis, C Clish, SY Shaw, DR Plichta, RJ Xavier_
+
+
+Accumulating evidence suggests that cardiovascular disease (CVD) is associated with an altered gut microbiome. Our understanding of the underlying mechanisms has been hindered by lack of matched multi-omic data with diagnostic biomarkers. To comprehensively profile gut microbiome contributions to CVD, we generated stool metagenomics and metabolomics from 1,429 Framingham Heart Study participants. We identified blood lipids and cardiovascular health measurements associated with microbiome and metabolome composition. Integrated analysis revealed microbial pathways implicated in CVD, including flavonoid, γ-butyrobetaine, and cholesterol metabolism. Species from the Oscillibacter genus were associated with decreased fecal and plasma cholesterol levels. Using functional prediction and in vitro characterization of multiple representative human gut Oscillibacter isolates, we uncovered conserved cholesterol-metabolizing capabilities, including glycosylation and dehydrogenation. These findings suggest that cholesterol metabolism is a broad property of phylogenetically diverse Oscillibacter spp., with potential benefits for lipid homeostasis and cardiovascular health.
 
 [Source](https://www.cell.com/cell/abstract/S0092-8674(24)00305-2)
+
+10.1016/j.cell.2024.03.014
 
 ---
 
@@ -159,9 +165,15 @@ Here, we characterized the independent role of soil microbiomes (bacterial and f
 
 ---
 
-## Dispersion of antimicrobial resistant bacteria in pig farms and in the surrounding environment
+## Dispersion of antimicrobial resistant bacteria in pig farms and in the surrounding environment.
+ 02.04.2024, _D Scicchitano, D Leuzzi, G Babbi, G Palladino, S Turroni, CC Laczny, P Wilmes, F Correa, P Leekitcharoenphon, C Savojardo, D Luise, P Martelli, P Trevisi, FM Aarestrup, M Candela, S Rampelli_
+
+
+Antimicrobial resistance has been identified as a major threat to global health. The pig food chain is considered an important source of antimicrobial resistance genes (ARGs). However, there is still a lack of knowledge on the dispersion of ARGs in pig production system, including the external environment.
 
 [Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00305-8)
+
+10.1186/s42523-024-00305-8
 
 ---
 
