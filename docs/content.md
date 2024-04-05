@@ -49,7 +49,7 @@ Chronic infection and consequent airway inflammation are the leading causes of m
 ---
 
 ## Integrative analysis with microbial modelling and machine learning uncovers potential alleviators for ulcerative colitis.
- 04.04.2024, _J Zhu, J Yin, J Chen, M Hu, W Lu, H Wang, H Zhang, W Chen_
+ 05.04.2024, _J Zhu, J Yin, J Chen, M Hu, W Lu, H Wang, H Zhang, W Chen_
 
 
 _Animals, Mice, Humans, Colitis, Ulcerative, Gastrointestinal Microbiome, Inflammatory Bowel Diseases, Colitis, Machine Learning_
