@@ -147,41 +147,21 @@ Here, we characterized the independent role of soil microbiomes (bacterial and f
 
 ---
 
-## Phenology and ecological role of aerobic anoxygenic phototrophs in freshwaters.
- 30.03.2024, _C Villena-Alemany, I Mujakić, LK Fecskeová, J Woodhouse, A Auladell, J Dean, M Hanusová, M Socha, CR Gazulla, HJ Ruscheweyh, S Sunagawa, V Silva Kavagutti, AŞ Andrei, HP Grossart, R Ghai, M Koblížek, K Piwosz_
-
-
-_Phototrophic Processes, Lakes, Bacteria, Biomass, Bacteria, Aerobic, Phytoplankton_
-Aerobic anoxygenic phototrophic (AAP) bacteria are heterotrophic bacteria that supply their metabolism with light energy harvested by bacteriochlorophyll-a-containing reaction centers. Despite their substantial contribution to bacterial biomass, microbial food webs, and carbon cycle, their phenology in freshwater lakes remains unknown. Hence, we investigated seasonal variations of AAP abundance and community composition biweekly across 3 years in a temperate, meso-oligotrophic freshwater lake.
+## Phenology and ecological role of aerobic anoxygenic phototrophs in freshwaters
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01786-0)
 
-10.1186/s40168-024-01786-0
-
 ---
 
-## The distinctive weathering crust habitat of a High Arctic glacier comprises discrete microbial micro-habitats.
- 03.04.2024, _SME Rassner, JM Cook, AC Mitchell, IT Stevens, TDL Irvine-Fynn, AJ Hodson, A Edwards_
-
-
-_Ice Cover, RNA, Ribosomal, 16S, Microbiota, Bacteria, Arctic Regions_
-Sunlight penetrates the ice surfaces of glaciers and ice sheets, forming a water-bearing porous ice matrix known as the weathering crust. This crust is home to a significant microbial community. Despite the potential implications of microbial processes in the weathering crust for glacial melting, biogeochemical cycles, and downstream ecosystems, there have been few explorations of its microbial communities. In our study, we used 16S rRNA gene sequencing and shotgun metagenomics of a Svalbard glacier surface catchment to characterise the microbial communities within the weathering crust, their origins and destinies, and the functional potential of the weathering crust metagenome. Our findings reveal that the bacterial community in the weathering crust is distinct from those in upstream and downstream habitats. However, it comprises two separate micro-habitats, each with different taxa and functional categories. The interstitial porewater is dominated by Polaromonas, influenced by the transfer of snowmelt, and exported via meltwater channels. In contrast, the ice matrix is dominated by Hymenobacter, and its metagenome exhibits a diverse range of functional adaptations. Given that the global weathering crust area and the subsequent release of microbes from it are strongly responsive to climate projections for the rest of the century, our results underscore the pressing need to integrate the microbiome of the weathering crust with other communities and processes in glacial ecosystems.
+## The distinctive weathering crust habitat of a High Arctic glacier comprises discrete microbial micro-habitats
 
 [Source](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16617)
 
-10.1111/1462-2920.16617
-
 ---
 
-## Molecular-Weight-Dependent Degradation of Plastics: Deciphering Host-Microbiome Synergy Biodegradation of High-Purity Polypropylene Microplastics by Mealworms.
- 02.04.2024, _L He, J Ding, SS Yang, YN Zang, JW Pang, D Xing, LY Zhang, N Ren, WM Wu_
-
-
-The biodegradation of polypropylene (PP), a highly persistent nonhydrolyzable polymer, by Tenebrio molitor has been confirmed using commercial PP microplastics (MPs) (Mn 26.59 and Mw 187.12 kDa). This confirmation was based on the reduction of the PP mass, change in molecular weight (MW), and a positive Δδ13C in the residual PP. A MW-dependent biodegradation mechanism was investigated using five high-purity PP MPs, classified into low (0.83 and 6.20 kDa), medium (50.40 and 108.0 kDa), and high (575.0 kDa) MW categories to access the impact of MW on the depolymerization pattern and associated gene expression of gut bacteria and the larval host. The larvae can depolymerize/biodegrade PP polymers with high MW although the consumption rate and weight losses increased, and survival rates declined with increasing PP MW. This pattern is similar to observations with polystyrene (PS) and polyethylene (PE), i.e., both Mn and Mw decreased after being fed low MW PP, while Mn and/or Mw increased after high MW PP was fed. The gut microbiota exhibited specific bacteria associations, such as Kluyvera sp. and Pediococcus sp. for high MW PP degradation, Acinetobacter sp. for medium MW PP, and Bacillus sp. alongside three other bacteria for low MW PP metabolism. In the host transcriptome, digestive enzymes and plastic degradation-related bacterial enzymes were up-regulated after feeding on PP depending on different MWs. The T. molitor host exhibited both defensive function and degradation capability during the biodegradation of plastics, with high MW PP showing a relatively negative impact on the larvae.
+## Molecular-Weight-Dependent Degradation of Plastics: Deciphering Host-Microbiome Synergy Biodegradation of High-Purity Polypropylene Microplastics by Mealworms
 
 [Source](https://pubs.acs.org/doi/10.1021/acs.est.3c06954)
-
-10.1021/acs.est.3c06954
 
 ---
 
