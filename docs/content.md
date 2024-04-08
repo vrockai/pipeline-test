@@ -17,9 +17,10 @@ Metabolic associated fatty liver disease (MAFLD) is a novel concept proposed in 
 ---
 
 ## Oral-gut microbial transmission promotes diabetic coronary heart disease.
- 07.04.2024, _Y Li, Y Liu, J Cui, M Zhu, W Wang, K Chen, L Huang, Y Liu_
+ 08.04.2024, _Y Li, Y Liu, J Cui, M Zhu, W Wang, K Chen, L Huang, Y Liu_
 
 
+_Humans, Animals, Mice, Gastrointestinal Microbiome, Mice, Inbred C57BL, Fusobacterium nucleatum, Coronary Artery Disease, Diabetes Mellitus_
 Diabetes is a predominant driver of coronary artery disease worldwide. This study aims to unravel the distinct characteristics of oral and gut microbiota in diabetic coronary heart disease (DCHD). Simultaneously, we aim to establish a causal link between the diabetes-driven oral-gut microbiota axis and increased susceptibility to diabetic myocardial ischemia-reperfusion injury (MIRI).
 
 [Source](https://doi.org/10.1186/s12933-024-02217-y)
@@ -29,9 +30,10 @@ Diabetes is a predominant driver of coronary artery disease worldwide. This stud
 ---
 
 ## Comparative analysis of microbial composition and functional characteristics in dental plaque and saliva of oral cancer patients.
- 07.04.2024, _M Zhang, Y Zhao, A Umar, H Zhang, L Yang, J Huang, Y Long, Z Yu_
+ 08.04.2024, _M Zhang, Y Zhao, A Umar, H Zhang, L Yang, J Huang, Y Long, Z Yu_
 
 
+_Humans, Saliva, Dental Plaque, Bacteria, Mouth Neoplasms, RNA, Ribosomal, 16S_
 The oral cavity is home to various ecological niches, each with its own unique microbial composition. Understanding the microbial communities and gene composition in different ecological niches within the oral cavity of oral cancer (OC) patients is crucial for determining how these microbial populations contribute to disease progression.
 
 [Source](https://doi.org/10.1186/s12903-024-04181-1)
@@ -41,9 +43,10 @@ The oral cavity is home to various ecological niches, each with its own unique m
 ---
 
 ## Investigating the causal role of the gut microbiota in esophageal cancer and its subtypes: a two-sample Mendelian randomization study.
- 07.04.2024, _J Li, X Gao, X Sun, H Li, J Wei, L Lv, L Zhu_
+ 08.04.2024, _J Li, X Gao, X Sun, H Li, J Wei, L Lv, L Zhu_
 
 
+_Humans, Gastrointestinal Microbiome, Genome-Wide Association Study, Mendelian Randomization Analysis, Esophageal Neoplasms, Adenocarcinoma_
 Through research on the gut microbiota (GM), increasing evidence has indicated that the GM is associated with esophageal cancer (ESCA). However, the specific cause-and-effect relationship remains unclear. In this study, Mendelian randomization (MR) analysis was applied to investigate the causal relationship between the GM and ESCA, including its subtypes.
 
 [Source](https://doi.org/10.1186/s12885-024-12205-w)
@@ -88,63 +91,33 @@ Depression is a prevalent psychological condition with limited treatment options
 
 ---
 
-## Characterization of oral microbiota in 6-8-month-old small breed dogs.
- 07.04.2024, _M Morita, T Nambu, R Yamasaki, Y Nagai-Yoshioka, M Inoue, T Nishihara, T Okinaga, W Ariyoshi_
-
-
-Periodontitis is the most common oral disease in dogs, and its progression and severity are influenced by risk factors, such as age and body size. Recent studies have assessed the canine oral microbiota in relation to different stages of periodontitis and niches within the oral cavity. However, knowledge of the bacterial composition at different ages and body sizes, especially in puppies, is limited. This study aimed to characterize the oral microbiota in the healthy gingiva of small breed puppies using next-generation sequencing. Additionally, we assessed the impact of dental care practices and the presence of retained deciduous teeth on the oral microbiota.
+## Characterization of oral microbiota in 6-8-month-old small breed dogs
 
 [Source](https://doi.org/10.1186/s12917-024-03973-5)
 
-10.1186/s12917-024-03973-5
-
 ---
 
-## A compendium of ruminant gastrointestinal phage genomes revealed a higher proportion of lytic phages than in any other environments.
- 07.04.2024, _Y Wu, N Gao, C Sun, T Feng, Q Liu, WH Chen_
-
-
-Ruminants are important livestock animals that have a unique digestive system comprising multiple stomach compartments. Despite significant progress in the study of microbiome in the gastrointestinal tract (GIT) sites of ruminants, we still lack an understanding of the viral community of ruminants. Here, we surveyed its viral ecology using 2333 samples from 10 sites along the GIT of 8 ruminant species.
+## A compendium of ruminant gastrointestinal phage genomes revealed a higher proportion of lytic phages than in any other environments
 
 [Source](https://doi.org/10.1186/s40168-024-01784-2)
 
-10.1186/s40168-024-01784-2
-
 ---
 
-## Effects of fecal microbiota transfer on blood pressure in animal models: A systematic review and meta-analysis.
- 07.04.2024, _L Lin, S Xu, M Cai, S Li, Y Chen, L Chen, Y Lin_
-
-
-Numerous recent studies have found a strong correlation between intestinal flora and the occurrence of hypertension. However, it remains unclear whether fecal microbiota transfer might affect the blood pressure of the host. This study aimed to quantify both associations.
+## Effects of fecal microbiota transfer on blood pressure in animal models: A systematic review and meta-analysis
 
 [Source](https://doi.org/10.1371/journal.pone.0300869)
 
-10.1371/journal.pone.0300869
-
 ---
 
-## Zoonotic bacteria in the vicinity of animal farms as a factor disturbing the human microbiome: a review.
- 05.04.2024, _A Kozajda, E Miśkiewicz, K Jeżak_
-
-
-This review is aimed at summarizing the current state of knowledge about the relationship between environmental exposure to the bioaerosol emitted by intensive livestock farming and changes in the microbiome of people living in livestock farm vicinity. The PubMed, Scopus and Web of Science databases were searched by crossing keywords from the following 3 groups: a) "livestock," "animal farms," "animal breeding"; b) "microbiome," "resistome"; c) "livestock vicinity," "farm vicinity," "neighborhoods and health" in 2010-2022. Literature screening did not reveal any paper related to the full microbiome composition in the population studied. In the study, the authors included 7 papers (5 from the Netherlands, 1 from the USA, and 1 from China). The studies confirmed the carriage of Staphylococcus aureus, including methicillin-resistant S. aureus (MRSA), livestockassociated MRSA (LA-MRSA MC398) and multidrug-resistant S. aureus (MDRSA) in the nasal microbiome of adults and children living within 500-2000 m from a livestock farm. Clostridium difficile, including LA-ribotype RT078 carriage, was detected in the intestinal microbiome of adults living within 500-1000 m. Extended-spectrum β-lactamase (ESBL) producing Enterobacteriaceae were confirmed in the intestinal microbiome of adults living within 500-6200 m. Knowledge on the composition of the microflora of people living in livestock farm vicinity is insufficient to conclude about changes in the microbiome caused by the environmental emission of bioaerosol. The carriage prevalence of the LA-bacteria, including both strains with antimicrobial resistance and antimicrobial resistance genes, confirms the presence of zoonotic bacteria in the human microflora in populations without occupational contact with animals. It cannot be ruled out that zoonotic bacteria, as a component of the microbiome, have a negative impact on people's health. Int J Occup Med Environ Health. 2024;37(2).
+## Zoonotic bacteria in the vicinity of animal farms as a factor disturbing the human microbiome: a review
 
 [Source](https://doi.org/10.13075/ijomeh.1896.02003)
 
-10.13075/ijomeh.1896.02003
-
 ---
 
-## Metagenomic insights into jellyfish-associated microbiome dynamics during strobilation.
- 05.04.2024, _S Peng, L Ye, Y Li, F Wang, T Sun, L Wang, J Zhao, Z Dong_
-
-
-Host-associated microbiomes can play key roles in the metamorphosis of animals. Most scyphozoan jellyfish undergo strobilation in their life cycles, similar to metamorphosis in classic bilaterians. The exploration of jellyfish microbiomes may elucidate the ancestral mechanisms and evolutionary trajectories of metazoan-microbe associations and interactions during metamorphosis. However, current knowledge of the functional features of jellyfish microbiomes remains limited. Here, we performed a genome-centric analysis of associated microbiota across four successive life stages (polyp, early strobila, advanced strobila, and ephyra) during strobilation in the common jellyfish Aurelia coerulea. We observed shifts in taxonomic and functional diversity of microbiomes across distinct stages and proposed that the low microbial diversity in ephyra stage may be correlated with the high expression of the host-derived antimicrobial peptide aurelin. Furthermore, we recovered 43 high-quality metagenome-assembled genomes and determined the nutritional potential of the dominant Vibrio members. Interestingly, we observed increased abundances of genes related to the biosynthesis of amino acids, vitamins, and cofactors, as well as carbon fixation during the loss of host feeding ability, indicating the functional potential of Aurelia-associated microbiota to support the synthesis of essential nutrients. We also identified several potential mechanisms by which jellyfish-associated microbes establish stage-specific community structures and maintain stable colonization in dynamic host environments, including eukaryotic-like protein production, bacterial secretion systems, restriction-modification systems, and clustered regularly interspaced short palindromic repeats-Cas systems. Our study characterizes unique taxonomic and functional changes in jellyfish microbiomes during strobilation and provides foundations for uncovering the ancestral mechanism of host-microbe interactions during metamorphosis.
+## Metagenomic insights into jellyfish-associated microbiome dynamics during strobilation
 
 [Source](https://doi.org/10.1093/ismeco/ycae036)
-
-10.1093/ismeco/ycae036
 
 ---
 
@@ -154,15 +127,9 @@ Host-associated microbiomes can play key roles in the metamorphosis of animals. 
 
 ---
 
-## Heavy metal induced shifts in microbial community composition and interactions with dissolved organic matter in coastal sediments.
- 05.04.2024, _Y Wang, Y Hu, Y Liu, Q Chen, J Xu, F Zhang, J Mao, Q Shi, C He, R Cai, C Lønborg, L Liu, A Guo, N Jiao, Q Zheng_
-
-
-Heavy metals can impact the structure and function of coastal sediment. The dissolved organic matter (DOM) pool plays an important role in determining both the heavy metal toxicity and microbial community composition in coastal sediments. However, how heavy metals affect the interactions between microbial communities and DOM remains unclear. Here, we investigated the influence of heavy metals on the microbial community structure (including bacteria and archaea) and DOM composition in surface sediments of Beibu Gulf, China. Our results revealed firstly that chromium, zinc, cadmium, and lead were the heavy metals contributing to pollution in our studied area. Furthermore, the DOM chemical composition was distinctly different in the contaminated area from the uncontaminated area, characterized by a higher average O/C ratio and increased prevalence of carboxyl-rich alicyclic molecules (CRAM) and highly unsaturated compounds (HUC). This indicates that DOM in the contaminated area was more recalcitrant compared to the uncontaminated area. Except for differences in archaeal diversity between the two areas, there were no significant variations observed in the structure of archaea and bacteria, as well as the diversity of bacteria, across the two areas. Nevertheless, our co-occurrence network analysis revealed that the B2M28 and Euryarchaeota, dominating bacterial and archaeal groups in the contaminated area were strongly related to CRAM. The network analysis also unveiled correlations between active bacteria and elevated proportions of nitrogen-containing DOM molecules. In contrast, the archaea-DOM network exhibited strong associations with nitrogen- and sulfur-containing molecules. Collectively, these findings suggest that heavy metals indeed influence the interaction between microbial communities and DOM, potentially affecting the accumulation of recalcitrant compounds in coastal sediments.
+## Heavy metal induced shifts in microbial community composition and interactions with dissolved organic matter in coastal sediments
 
 [Source](https://doi.org/10.1016/j.scitotenv.2024.172003)
-
-10.1016/j.scitotenv.2024.172003
 
 ---
 
@@ -172,15 +139,9 @@ Heavy metals can impact the structure and function of coastal sediment. The diss
 
 ---
 
-## Deciphering the impact of cold-adapted bioinoculants on rhizosphere dynamics, biofortification, and yield of kidney bean across varied altitudinal zones.
- 05.04.2024, _A Khan, AV Singh, B Kukreti, DT Pandey, VK Upadhayay, R Kumar, R Goel_
-
-
-Agriculture stands as a thriving enterprise in India, serving as both the bedrock of economy and vital source of nutrition. In response to the escalating demands for high-quality food for swiftly expanding population, agricultural endeavors are extending their reach into the elevated terrains of the Himalayas, tapping into abundant resources for bolstering food production. Nonetheless, these Himalayan agro-ecosystems encounter persistent challenges, leading to crop losses. These challenges stem from a combination of factors including prevailing frigid temperatures, suboptimal farming practices, unpredictable climatic shifts, subdivided land ownership, and limited resources. While the utilization of chemical fertilizers has been embraced to enhance the quality of food output, genuine concerns have arisen due to the potential hazards they pose. Consequently, the present investigation was initiated with the objective of formulating environmentally friendly and cold-tolerant broad ranged bioinoculants tailored to enhance the production of Kidney bean while concurrently enriching its nutrient content across entire hilly regions. The outcomes of this study unveiled noteworthy advancements in kidney bean yield, registering a substantial increase ranging from 12.51 ± 2.39 % to 14.15 ± 0.83 % in regions of lower elevation (Jeolikote) and an even more remarkable surge ranging from 20.60 ± 3.03 % to 29.97 ± 5.02 % in higher elevated areas (Chakrata) compared to the control group. Furthermore, these cold-tolerant bioinoculants exhibited a dual advantage by fostering the enhancement of essential nutrients within the grains and fostering a positive influence on the diversity and abundance of microbial life in the rhizosphere. As a result, to effectively tackle the issues associated with chemical fertilizers and to achieve sustainable improvements in both the yield and nutrient composition of kidney bean across varying elevations, the adoption of cold-tolerant Enterobacter hormaechei CHM16, and Pantoea agglomerans HRM 23, including the consortium, presents a promising avenue. Additionally, this study has contributed significant insights-into the role of organic acids like oxalic acid in the solubilization of nutrients, thereby expanding the existing knowledge in this specialized field.
+## Deciphering the impact of cold-adapted bioinoculants on rhizosphere dynamics, biofortification, and yield of kidney bean across varied altitudinal zones
 
 [Source](https://doi.org/10.1016/j.scitotenv.2024.172204)
-
-10.1016/j.scitotenv.2024.172204
 
 ---
 
@@ -196,15 +157,9 @@ Plant root-associated environments such as the rhizosphere, rhizoplane, and endo
 
 ---
 
-## phylaGAN: Data augmentation through conditional GANs and autoencoders for improving disease prediction accuracy using microbiome data.
- 03.04.2024, _D Sharma, W Lou, W Xu_
-
-
-Research is improving our understanding of how the microbiome interacts with the human body and its impact on human health. Existing machine learning methods have shown great potential in discriminating healthy from diseased microbiome states. However, Machine Learning based prediction using microbiome data has challenges such as, small sample size, imbalance between cases and controls and high cost of collecting large number of samples. To address these challenges, we propose a deep learning framework phylaGAN to augment the existing datasets with generated microbiome data using a combination of conditional generative adversarial network (C-GAN) and autoencoder. Conditional generative adversarial networks train two models against each other to compute larger simulated datasets that are representative of the original dataset. Autoencoder maps the original and the generated samples onto a common subspace to make the prediction more accurate.
+## phylaGAN: Data augmentation through conditional GANs and autoencoders for improving disease prediction accuracy using microbiome data
 
 [Source](https://doi.org/10.1093/bioinformatics/btae161)
-
-10.1093/bioinformatics/btae161
 
 ---
 
