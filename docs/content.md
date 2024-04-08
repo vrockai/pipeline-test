@@ -88,27 +88,51 @@ Depression is a prevalent psychological condition with limited treatment options
 
 ---
 
-## Characterization of oral microbiota in 6-8-month-old small breed dogs
+## Characterization of oral microbiota in 6-8-month-old small breed dogs.
+ 07.04.2024, _M Morita, T Nambu, R Yamasaki, Y Nagai-Yoshioka, M Inoue, T Nishihara, T Okinaga, W Ariyoshi_
+
+
+Periodontitis is the most common oral disease in dogs, and its progression and severity are influenced by risk factors, such as age and body size. Recent studies have assessed the canine oral microbiota in relation to different stages of periodontitis and niches within the oral cavity. However, knowledge of the bacterial composition at different ages and body sizes, especially in puppies, is limited. This study aimed to characterize the oral microbiota in the healthy gingiva of small breed puppies using next-generation sequencing. Additionally, we assessed the impact of dental care practices and the presence of retained deciduous teeth on the oral microbiota.
 
 [Source](https://doi.org/10.1186/s12917-024-03973-5)
 
+10.1186/s12917-024-03973-5
+
 ---
 
-## A compendium of ruminant gastrointestinal phage genomes revealed a higher proportion of lytic phages than in any other environments
+## A compendium of ruminant gastrointestinal phage genomes revealed a higher proportion of lytic phages than in any other environments.
+ 07.04.2024, _Y Wu, N Gao, C Sun, T Feng, Q Liu, WH Chen_
+
+
+Ruminants are important livestock animals that have a unique digestive system comprising multiple stomach compartments. Despite significant progress in the study of microbiome in the gastrointestinal tract (GIT) sites of ruminants, we still lack an understanding of the viral community of ruminants. Here, we surveyed its viral ecology using 2333 samples from 10 sites along the GIT of 8 ruminant species.
 
 [Source](https://doi.org/10.1186/s40168-024-01784-2)
 
+10.1186/s40168-024-01784-2
+
 ---
 
-## Effects of fecal microbiota transfer on blood pressure in animal models: A systematic review and meta-analysis
+## Effects of fecal microbiota transfer on blood pressure in animal models: A systematic review and meta-analysis.
+ 07.04.2024, _L Lin, S Xu, M Cai, S Li, Y Chen, L Chen, Y Lin_
+
+
+Numerous recent studies have found a strong correlation between intestinal flora and the occurrence of hypertension. However, it remains unclear whether fecal microbiota transfer might affect the blood pressure of the host. This study aimed to quantify both associations.
 
 [Source](https://doi.org/10.1371/journal.pone.0300869)
 
+10.1371/journal.pone.0300869
+
 ---
 
-## Zoonotic bacteria in the vicinity of animal farms as a factor disturbing the human microbiome: a review
+## Zoonotic bacteria in the vicinity of animal farms as a factor disturbing the human microbiome: a review.
+ 05.04.2024, _A Kozajda, E Miśkiewicz, K Jeżak_
+
+
+This review is aimed at summarizing the current state of knowledge about the relationship between environmental exposure to the bioaerosol emitted by intensive livestock farming and changes in the microbiome of people living in livestock farm vicinity. The PubMed, Scopus and Web of Science databases were searched by crossing keywords from the following 3 groups: a) "livestock," "animal farms," "animal breeding"; b) "microbiome," "resistome"; c) "livestock vicinity," "farm vicinity," "neighborhoods and health" in 2010-2022. Literature screening did not reveal any paper related to the full microbiome composition in the population studied. In the study, the authors included 7 papers (5 from the Netherlands, 1 from the USA, and 1 from China). The studies confirmed the carriage of Staphylococcus aureus, including methicillin-resistant S. aureus (MRSA), livestockassociated MRSA (LA-MRSA MC398) and multidrug-resistant S. aureus (MDRSA) in the nasal microbiome of adults and children living within 500-2000 m from a livestock farm. Clostridium difficile, including LA-ribotype RT078 carriage, was detected in the intestinal microbiome of adults living within 500-1000 m. Extended-spectrum β-lactamase (ESBL) producing Enterobacteriaceae were confirmed in the intestinal microbiome of adults living within 500-6200 m. Knowledge on the composition of the microflora of people living in livestock farm vicinity is insufficient to conclude about changes in the microbiome caused by the environmental emission of bioaerosol. The carriage prevalence of the LA-bacteria, including both strains with antimicrobial resistance and antimicrobial resistance genes, confirms the presence of zoonotic bacteria in the human microflora in populations without occupational contact with animals. It cannot be ruled out that zoonotic bacteria, as a component of the microbiome, have a negative impact on people's health. Int J Occup Med Environ Health. 2024;37(2).
 
 [Source](https://doi.org/10.13075/ijomeh.1896.02003)
+
+10.13075/ijomeh.1896.02003
 
 ---
 
