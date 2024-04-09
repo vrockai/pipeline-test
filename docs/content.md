@@ -139,15 +139,27 @@ Depression is a prevalent psychological condition with limited treatment options
 
 ---
 
-## Deciphering the impact of cold-adapted bioinoculants on rhizosphere dynamics, biofortification, and yield of kidney bean across varied altitudinal zones
+## Deciphering the impact of cold-adapted bioinoculants on rhizosphere dynamics, biofortification, and yield of kidney bean across varied altitudinal zones.
+ 05.04.2024, _A Khan, AV Singh, B Kukreti, DT Pandey, VK Upadhayay, R Kumar, R Goel_
+
+
+Agriculture stands as a thriving enterprise in India, serving as both the bedrock of economy and vital source of nutrition. In response to the escalating demands for high-quality food for swiftly expanding population, agricultural endeavors are extending their reach into the elevated terrains of the Himalayas, tapping into abundant resources for bolstering food production. Nonetheless, these Himalayan agro-ecosystems encounter persistent challenges, leading to crop losses. These challenges stem from a combination of factors including prevailing frigid temperatures, suboptimal farming practices, unpredictable climatic shifts, subdivided land ownership, and limited resources. While the utilization of chemical fertilizers has been embraced to enhance the quality of food output, genuine concerns have arisen due to the potential hazards they pose. Consequently, the present investigation was initiated with the objective of formulating environmentally friendly and cold-tolerant broad ranged bioinoculants tailored to enhance the production of Kidney bean while concurrently enriching its nutrient content across entire hilly regions. The outcomes of this study unveiled noteworthy advancements in kidney bean yield, registering a substantial increase ranging from 12.51 ± 2.39 % to 14.15 ± 0.83 % in regions of lower elevation (Jeolikote) and an even more remarkable surge ranging from 20.60 ± 3.03 % to 29.97 ± 5.02 % in higher elevated areas (Chakrata) compared to the control group. Furthermore, these cold-tolerant bioinoculants exhibited a dual advantage by fostering the enhancement of essential nutrients within the grains and fostering a positive influence on the diversity and abundance of microbial life in the rhizosphere. As a result, to effectively tackle the issues associated with chemical fertilizers and to achieve sustainable improvements in both the yield and nutrient composition of kidney bean across varying elevations, the adoption of cold-tolerant Enterobacter hormaechei CHM16, and Pantoea agglomerans HRM 23, including the consortium, presents a promising avenue. Additionally, this study has contributed significant insights-into the role of organic acids like oxalic acid in the solubilization of nutrients, thereby expanding the existing knowledge in this specialized field.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2024.172204)
 
+10.1016/j.scitotenv.2024.172204
+
 ---
 
-## Analysis of microbial dynamics in the soybean root-associated environments from community to single-cell levels
+## Analysis of microbial dynamics in the soybean root-associated environments from community to single-cell levels.
+ 03.04.2024, _M Kifushi, Y Nishikawa, M Hosokawa, K Ide, M Kogawa, T Anai, H Takeyama_
+
+
+Plant root-associated environments such as the rhizosphere, rhizoplane, and endosphere, are notably different from non-root-associated soil environments. However, the microbial dynamics in these spatially divided compartments remain unexplored. In this study, we propose a combinational analysis of single-cell genomics with 16S rRNA gene sequencing. This method enabled us to understand the entire soil microbiome and individual root-associated microorganisms. We applied this method to soybean microbiomes and revealed that their composition was different between the rhizoplane and rhizosphere in the early growth stages, but became more similar as growth progressed. In addition, a total of 610 medium- to high-quality single-amplified genomes (SAGs) were acquired, including plant growth-promoting rhizobacteria (PGPR) candidates while genomes with high GC content tended to be missed by SAGs. The whole-genome analyses of the SAGs suggested that rhizoplane-enriched Flavobacterium solubilizes organophosphate actively and Bacillus colonizes roots more efficiently. Single-cell genomics, together with 16S rRNA gene sequencing, enabled us to connect microbial taxonomy and function, and assess microorganisms at a strain resolution even in the complex soil microbiome.
 
 [Source](https://doi.org/10.1016/j.jbiosc.2024.02.007)
+
+10.1016/j.jbiosc.2024.02.007
 
 ---
 
