@@ -1,189 +1,173 @@
-## The secreted protein Amuc_1409 from <em>Akkermansia muciniphila </em>improves gut health through intestinal stem cell regulation
+## Microbiome Virtual International Forum
 
-[Source](https://doi.org/10.1038/s41467-024-47275-8)
-
----
-
-## A universal plasma metabolites-derived signature predicts cardiovascular disease risk in MAFLD.
- 06.04.2024, _Z Li, R Gong, H Chu, J Zeng, C Chen, S Xu, L Hu, W Gao, L Zhang, H Yuan, Z Cheng, C Wang, M Du, Q Zhu, L Zhang, L Rong, X Hu, L Yang_
-
-
-Metabolic associated fatty liver disease (MAFLD) is a novel concept proposed in 2020, which is more practical for identifying patients with fatty liver disease with high risk of disease progression. Fatty liver is a driver for extrahepatic complications, particularly cardiovascular diseases (CVD). Although the risk of CVD in MAFLD could be predicted by carotid ultrasound test, a very early stage prediction method before the formation of pathological damage is still lacking.
-
-[Source](https://www.atherosclerosis-journal.com/article/S0021-9150(24)00086-8/abstract)
-
-10.1016/j.atherosclerosis.2024.117526
+[Source](https://events.ringcentral.com/events/microbiome-vif-n-28)
 
 ---
 
-## Oral-gut microbial transmission promotes diabetic coronary heart disease.
- 08.04.2024, _Y Li, Y Liu, J Cui, M Zhu, W Wang, K Chen, L Huang, Y Liu_
+## Longitudinal multi-omics analysis uncovers the altered landscape of gut microbiota and plasma metabolome in response to high altitude.
+ 08.04.2024, _Y Han, X Liu, Q Jia, J Xu, J Shi, X Li, G Xie, X Zhao, K He_
 
 
-_Humans, Animals, Mice, Gastrointestinal Microbiome, Mice, Inbred C57BL, Fusobacterium nucleatum, Coronary Artery Disease, Diabetes Mellitus_
-Diabetes is a predominant driver of coronary artery disease worldwide. This study aims to unravel the distinct characteristics of oral and gut microbiota in diabetic coronary heart disease (DCHD). Simultaneously, we aim to establish a causal link between the diabetes-driven oral-gut microbiota axis and increased susceptibility to diabetic myocardial ischemia-reperfusion injury (MIRI).
+_Animals, Male, Humans, Gastrointestinal Microbiome, Altitude, Multiomics, Metabolome, East Asian People_
+Gut microbiota is significantly influenced by altitude. However, the dynamics of gut microbiota in relation to altitude remains undisclosed.
 
-[Source](https://doi.org/10.1186/s12933-024-02217-y)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01781-5)
 
-10.1186/s12933-024-02217-y
-
----
-
-## Comparative analysis of microbial composition and functional characteristics in dental plaque and saliva of oral cancer patients.
- 08.04.2024, _M Zhang, Y Zhao, A Umar, H Zhang, L Yang, J Huang, Y Long, Z Yu_
-
-
-_Humans, Saliva, Dental Plaque, Bacteria, Mouth Neoplasms, RNA, Ribosomal, 16S_
-The oral cavity is home to various ecological niches, each with its own unique microbial composition. Understanding the microbial communities and gene composition in different ecological niches within the oral cavity of oral cancer (OC) patients is crucial for determining how these microbial populations contribute to disease progression.
-
-[Source](https://doi.org/10.1186/s12903-024-04181-1)
-
-10.1186/s12903-024-04181-1
+10.1186/s40168-024-01781-5
 
 ---
 
-## Investigating the causal role of the gut microbiota in esophageal cancer and its subtypes: a two-sample Mendelian randomization study.
- 08.04.2024, _J Li, X Gao, X Sun, H Li, J Wei, L Lv, L Zhu_
+## Illuminating microflora: shedding light on the potential of blue light to modulate the cutaneous microbiome
 
-
-_Humans, Gastrointestinal Microbiome, Genome-Wide Association Study, Mendelian Randomization Analysis, Esophageal Neoplasms, Adenocarcinoma_
-Through research on the gut microbiota (GM), increasing evidence has indicated that the GM is associated with esophageal cancer (ESCA). However, the specific cause-and-effect relationship remains unclear. In this study, Mendelian randomization (MR) analysis was applied to investigate the causal relationship between the GM and ESCA, including its subtypes.
-
-[Source](https://doi.org/10.1186/s12885-024-12205-w)
-
-10.1186/s12885-024-12205-w
+[Source](https://www.frontiersin.org/articles/10.3389/fcimb.2024.1307374/full)
 
 ---
 
-## Gut bacteria-driven homovanillic acid alleviates depression by modulating synaptic integrity.
- 06.04.2024, _M Zhao, Z Ren, A Zhao, Y Tang, J Kuang, M Li, T Chen, S Wang, J Wang, H Zhang, J Wang, T Zhang, J Zeng, X Liu, G Xie, P Liu, N Sun, T Bao, T Nie, J Lin, P Liu, Y Zheng, X Zheng, T Liu, W Jia_
+## Evolutionary investigations of the biosynthetic diversity in the skin microbiome using lsaBGC.
+ 27.05.2023, _R Salamzade, JZA Cheong, S Sandstrom, MH Swaney, RM Stubbendieck, NL Starr, CR Currie, AM Singh, LR Kalan_
 
 
-The gut-brain axis is implicated in depression development, yet its underlying mechanism remains unclear. We observed depleted gut bacterial species, including Bifidobacterium longum and Roseburia intestinalis, and the neurotransmitter homovanillic acid (HVA) in individuals with depression and mouse depression models. Although R. intestinalis does not directly produce HVA, it enhances B. longum abundance, leading to HVA generation. This highlights a synergistic interaction among gut microbiota in regulating intestinal neurotransmitter production. Administering HVA, B. longum, or R. intestinalis to mouse models with chronic unpredictable mild stress (CUMS) and corticosterone (CORT)-induced depression significantly improved depressive symptoms. Mechanistically, HVA inhibited synaptic autophagic death by preventing excessive degradation of microtubule-associated protein 1 light chain 3 (LC3) and SQSTM1/p62 proteins, protecting hippocampal neurons' presynaptic membrane. These findings underscore the role of the gut microbial metabolism in modulating synaptic integrity and provide insights into potential novel treatment strategies for depression.
+_Microbiota, Metagenome, Biological Evolution_
+Bacterial secondary metabolites, synthesized by enzymes encoded in biosynthetic gene clusters (BGCs), can underlie microbiome homeostasis and serve as commercialized products, which have historically been mined from a select group of taxa. While evolutionary approaches have proven beneficial for prioritizing BGCs for experimental characterization efforts to uncover new natural products, dedicated bioinformatics tools designed for comparative and evolutionary analysis of BGCs within focal taxa are limited. We thus developed lineage specific analysis of BGCs (lsaBGC; https://github.com/Kalan-Lab/lsaBGC) to aid exploration of microdiversity and evolutionary trends across homologous groupings of BGCs, gene cluster families (GCFs), in any bacterial taxa of interest. lsaBGC enables rapid and direct identification of GCFs in genomes, calculates evolutionary statistics and conservation for BGC genes, and builds a framework to allow for base resolution mining of novel variants through metagenomic exploration. Through application of the suite to four genera commonly found in skin microbiomes, we uncover new insights into the evolution and diversity of their BGCs. We show that the BGC of the virulence-associated carotenoid staphyloxanthin in  Staphylococcus aureus  is ubiquitous across the genus  Staphylococcus . While one GCF encoding the biosynthesis of staphyloxanthin showcases evidence for plasmid-mediated horizontal gene transfer (HGT) between species, another GCF appears to be transmitted vertically amongst a sub-clade of skin-associated  Staphylococcus . Further, the latter GCF, which is well conserved in  S. aureus , has been lost in most  Staphylococcus epidermidis , which is the most common  Staphylococcus  species on human skin and is also regarded as a commensal. We also identify thousands of novel single-nucleotide variants (SNVs) within BGCs from the  Corynebacterium tuberculostearicum  sp. complex, a narrow, multi-species clade that features the most prevalent  Corynebacterium  in healthy skin microbiomes. Although novel SNVs were approximately 10 times as likely to correspond to synonymous changes when located in the top five percentile of conserved sites, lsaBGC identified SNVs that defied this trend and are predicted to underlie amino acid changes within functionally key enzymatic domains. Ultimately, beyond supporting evolutionary investigations of BGCs, lsaBGC also provides important functionalities to aid efforts for the discovery or directed modification of natural products.
 
-[Source](https://doi.org/10.1016/j.cmet.2024.03.010)
+[Source](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000988)
 
-10.1016/j.cmet.2024.03.010
-
----
-
-## Stress-induced mucin 13 reductions drive intestinal microbiome shifts and despair behaviors.
- 05.04.2024, _CR Rivet-Noor, AR Merchak, C Render, NM Gay, RM Beiter, R Brown, A Keeler, G Brett Moreau, S Li, DG Olgun, AD Steigmeyer, R Ofer, T Mihn Huu Phan, K Vemuri, L Chen, KE Mahoney, JB Shin, SA Malaker, C Deppmann, M Verzi, A Gaultier_
-
-
-Depression is a prevalent psychological condition with limited treatment options. While its etiology is multifactorial, both chronic stress and changes in microbiome composition are associated with disease pathology. Stress is known to induce microbiome dysbiosis, defined here as a change in microbial composition associated with a pathological condition. This state of dysbiosis is known to feedback on depressive symptoms. While studies have demonstrated that targeted restoration of the microbiome can alleviate depressive-like symptoms in mice, translating these findings to human patients has proven challenging due to the complexity of the human microbiome. As such, there is an urgent need to identify factors upstream of microbial dysbiosis. Here we investigate the role of mucin 13 as an upstream mediator of microbiome composition changes in the context of stress. Using a model of chronic stress, we show that the glycocalyx protein, mucin 13, is selectively reduced after psychological stress exposure. We further demonstrate that the reduction of Muc13 is mediated by the Hnf4 transcription factor family. Finally, we determine that deleting Muc13 is sufficient to drive microbiome shifts and despair behaviors. These findings shed light on the mechanisms behind stress-induced microbial changes and reveal a novel regulator of mucin 13 expression.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S088915912400309X?via%3Dihub)
-
-10.1016/j.bbi.2024.03.028
+10.1099/mgen.0.000988
 
 ---
 
-## Integrated analysis of intestinal microbiota and transcriptome reveals that a coordinated interaction of the endocrine, immune system and gut microbiota response to heat stress in <em>Litopenaeus vannamei</em>
+## A pan-cancer mycobiome analysis reveals fungal involvement in gastrointestinal and lung tumors.
+ 30.09.2023, _AB Dohlman, J Klug, M Mesko, IH Gao, SM Lipkin, X Shen, ID Iliev_
 
-[Source](https://doi.org/10.1016/j.dci.2024.105176)
 
----
+_Biomarkers, Candida, DNA, Fungal, Fungi, Humans, Lung Neoplasms, Mycobiome_
+Fungal microorganisms (mycobiota) comprise a small but immunoreactive component of the human microbiome, yet little is known about their role in human cancers. Pan-cancer analysis of multiple body sites revealed tumor-associated mycobiomes at up to 1 fungal cell per 104 tumor cells. In lung cancer, Blastomyces was associated with tumor tissues. In stomach cancers, high rates of Candida were linked to the expression of pro-inflammatory immune pathways, while in colon cancers Candida was predictive of metastatic disease and attenuated cellular adhesions. Across multiple GI sites, several Candida species were enriched in tumor samples and tumor-associated Candida DNA was predictive of decreased survival. The presence of Candida in human GI tumors was confirmed by external ITS sequencing of tumor samples and by culture-dependent analysis in an independent cohort. These data implicate the mycobiota in the pathogenesis of GI cancers and suggest that tumor-associated fungal DNA may serve as diagnostic or prognostic biomarkers.
 
-## Associations between the rumen microbiota and carcass merit and meat quality in beef cattle
+[Source](https://www.cell.com/cell/pdf/S0092-8674(24)00312-X.pdf)
 
-[Source](https://doi.org/10.1007/s00253-024-13126-1)
-
----
-
-## Characterization of oral microbiota in 6-8-month-old small breed dogs
-
-[Source](https://doi.org/10.1186/s12917-024-03973-5)
+10.1016/j.cell.2022.09.015
 
 ---
 
-## A compendium of ruminant gastrointestinal phage genomes revealed a higher proportion of lytic phages than in any other environments
+## A pan-cancer analysis of the microbiome in metastatic cancer 
 
-[Source](https://doi.org/10.1186/s40168-024-01784-2)
-
----
-
-## Effects of fecal microbiota transfer on blood pressure in animal models: A systematic review and meta-analysis
-
-[Source](https://doi.org/10.1371/journal.pone.0300869)
+[Source](https://www.cell.com/cell/pdf/S0092-8674(24)00312-X.pdf)
 
 ---
 
-## Zoonotic bacteria in the vicinity of animal farms as a factor disturbing the human microbiome: a review
+## A <em>Lacticaseibacillus rhamnosus</em> secretome induces immunoregulatory transcriptional, functional and immunometabolic signatures in human THP-1 monocytes
 
-[Source](https://doi.org/10.13075/ijomeh.1896.02003)
-
----
-
-## Metagenomic insights into jellyfish-associated microbiome dynamics during strobilation.
- 05.04.2024, _S Peng, L Ye, Y Li, F Wang, T Sun, L Wang, J Zhao, Z Dong_
-
-
-Host-associated microbiomes can play key roles in the metamorphosis of animals. Most scyphozoan jellyfish undergo strobilation in their life cycles, similar to metamorphosis in classic bilaterians. The exploration of jellyfish microbiomes may elucidate the ancestral mechanisms and evolutionary trajectories of metazoan-microbe associations and interactions during metamorphosis. However, current knowledge of the functional features of jellyfish microbiomes remains limited. Here, we performed a genome-centric analysis of associated microbiota across four successive life stages (polyp, early strobila, advanced strobila, and ephyra) during strobilation in the common jellyfish Aurelia coerulea. We observed shifts in taxonomic and functional diversity of microbiomes across distinct stages and proposed that the low microbial diversity in ephyra stage may be correlated with the high expression of the host-derived antimicrobial peptide aurelin. Furthermore, we recovered 43 high-quality metagenome-assembled genomes and determined the nutritional potential of the dominant Vibrio members. Interestingly, we observed increased abundances of genes related to the biosynthesis of amino acids, vitamins, and cofactors, as well as carbon fixation during the loss of host feeding ability, indicating the functional potential of Aurelia-associated microbiota to support the synthesis of essential nutrients. We also identified several potential mechanisms by which jellyfish-associated microbes establish stage-specific community structures and maintain stable colonization in dynamic host environments, including eukaryotic-like protein production, bacterial secretion systems, restriction-modification systems, and clustered regularly interspaced short palindromic repeats-Cas systems. Our study characterizes unique taxonomic and functional changes in jellyfish microbiomes during strobilation and provides foundations for uncovering the ancestral mechanism of host-microbe interactions during metamorphosis.
-
-[Source](https://doi.org/10.1093/ismeco/ycae036)
-
-10.1093/ismeco/ycae036
+[Source](https://www.nature.com/articles/s41598-024-56420-8)
 
 ---
 
-## Host evolution shapes gut microbiome composition in <em>Astyanax mexicanus</em>
-
-[Source](https://doi.org/10.1002/ece3.11192)
-
----
-
-## Heavy metal induced shifts in microbial community composition and interactions with dissolved organic matter in coastal sediments.
- 05.04.2024, _Y Wang, Y Hu, Y Liu, Q Chen, J Xu, F Zhang, J Mao, Q Shi, C He, R Cai, C Lønborg, L Liu, A Guo, N Jiao, Q Zheng_
+## The oral cavity and intestinal microbiome in children with functional constipation.
+ 09.04.2024, _M Kwiatkowska, M Gołębiewski, M Sikora, EŁ Rycharska, A Krogulska_
 
 
-Heavy metals can impact the structure and function of coastal sediment. The dissolved organic matter (DOM) pool plays an important role in determining both the heavy metal toxicity and microbial community composition in coastal sediments. However, how heavy metals affect the interactions between microbial communities and DOM remains unclear. Here, we investigated the influence of heavy metals on the microbial community structure (including bacteria and archaea) and DOM composition in surface sediments of Beibu Gulf, China. Our results revealed firstly that chromium, zinc, cadmium, and lead were the heavy metals contributing to pollution in our studied area. Furthermore, the DOM chemical composition was distinctly different in the contaminated area from the uncontaminated area, characterized by a higher average O/C ratio and increased prevalence of carboxyl-rich alicyclic molecules (CRAM) and highly unsaturated compounds (HUC). This indicates that DOM in the contaminated area was more recalcitrant compared to the uncontaminated area. Except for differences in archaeal diversity between the two areas, there were no significant variations observed in the structure of archaea and bacteria, as well as the diversity of bacteria, across the two areas. Nevertheless, our co-occurrence network analysis revealed that the B2M28 and Euryarchaeota, dominating bacterial and archaeal groups in the contaminated area were strongly related to CRAM. The network analysis also unveiled correlations between active bacteria and elevated proportions of nitrogen-containing DOM molecules. In contrast, the archaea-DOM network exhibited strong associations with nitrogen- and sulfur-containing molecules. Collectively, these findings suggest that heavy metals indeed influence the interaction between microbial communities and DOM, potentially affecting the accumulation of recalcitrant compounds in coastal sediments.
+Constipation is a widespread problem in paediatric practice, affecting almost 30% of children. One of the key causal factors of constipation may be disturbances in the homeostasis of the gastrointestinal microbiome. The aim of the study was to determine whether the oral and fecal microbiomes differ between children with and without constipation. A total of 91 children over three years of age were included in the study. Of these, 57 were qualified to a group with constipation, and 34 to a group without. The saliva and stool microbiomes were evaluated using 16S rRNA gene amplicon sequencing. Functional constipation was associated with characteristic bacterial taxa in the fecal microbiota. Statistically significant differences were found at the family level: Burkholderiaceae (q = 0.047), Christensenellaceae (q = 0.047), Chlostridiaceae (q = 0.047) were significantly less abundant in the constipation group, while the Tannerellaceae (q = 0.007) were more abundant. At the genus level, the significant differences were observed for rare genera, including Christensenellaceae r-7 (q = 2.88 × 10-2), Fusicatenibacter (q = 2.88 × 10-2), Parabacteroides (q = 1.63 × 10-2), Romboutsia (q = 3.19 × 10-2) and Subdoligranulum (q = 1.17 × 10-2). All of them were less abundant in children with constipation. With the exception of significant taxonomic changes affecting only feces, no differences were found in the alpha and beta diversity of feces and saliva. Children with functional constipation demonstrated significant differences in the abundance of specific bacteria in the stool microbiome compared to healthy children. It is possible that the rare genera identified in our study which were less abundant in the constipated patients (Christensellaceae r-7, Fusicatenibacter, Parabacteroides, Romboutsia and Subdoligranulum) may play a role in protection against constipation. No significant differences were observed between the two groups with regard to the saliva microbiome.
 
-[Source](https://doi.org/10.1016/j.scitotenv.2024.172003)
+[Source](https://www.nature.com/articles/s41598-024-58642-2)
 
-10.1016/j.scitotenv.2024.172003
+10.1038/s41598-024-58642-2
 
 ---
 
-## Long-term and combined heavy-metal contamination forms a unique microbiome and resistome: A case study in a Yellow River tributary sediments
-
-[Source](https://doi.org/10.1016/j.envres.2024.118861)
-
----
-
-## Deciphering the impact of cold-adapted bioinoculants on rhizosphere dynamics, biofortification, and yield of kidney bean across varied altitudinal zones.
- 05.04.2024, _A Khan, AV Singh, B Kukreti, DT Pandey, VK Upadhayay, R Kumar, R Goel_
+## Characterization of the gut bacterial and viral microbiota in latent autoimmune diabetes in adults.
+ 09.04.2024, _CS Poulsen, D Hesse, GR Fernandes, TH Hansen, T Kern, A Linneberg, L Van Espen, T Jørgensen, T Nielsen, AC Alibegovic, J Matthijnssens, O Pedersen, H Vestergaard, T Hansen, MK Andersen_
 
 
-Agriculture stands as a thriving enterprise in India, serving as both the bedrock of economy and vital source of nutrition. In response to the escalating demands for high-quality food for swiftly expanding population, agricultural endeavors are extending their reach into the elevated terrains of the Himalayas, tapping into abundant resources for bolstering food production. Nonetheless, these Himalayan agro-ecosystems encounter persistent challenges, leading to crop losses. These challenges stem from a combination of factors including prevailing frigid temperatures, suboptimal farming practices, unpredictable climatic shifts, subdivided land ownership, and limited resources. While the utilization of chemical fertilizers has been embraced to enhance the quality of food output, genuine concerns have arisen due to the potential hazards they pose. Consequently, the present investigation was initiated with the objective of formulating environmentally friendly and cold-tolerant broad ranged bioinoculants tailored to enhance the production of Kidney bean while concurrently enriching its nutrient content across entire hilly regions. The outcomes of this study unveiled noteworthy advancements in kidney bean yield, registering a substantial increase ranging from 12.51 ± 2.39 % to 14.15 ± 0.83 % in regions of lower elevation (Jeolikote) and an even more remarkable surge ranging from 20.60 ± 3.03 % to 29.97 ± 5.02 % in higher elevated areas (Chakrata) compared to the control group. Furthermore, these cold-tolerant bioinoculants exhibited a dual advantage by fostering the enhancement of essential nutrients within the grains and fostering a positive influence on the diversity and abundance of microbial life in the rhizosphere. As a result, to effectively tackle the issues associated with chemical fertilizers and to achieve sustainable improvements in both the yield and nutrient composition of kidney bean across varying elevations, the adoption of cold-tolerant Enterobacter hormaechei CHM16, and Pantoea agglomerans HRM 23, including the consortium, presents a promising avenue. Additionally, this study has contributed significant insights-into the role of organic acids like oxalic acid in the solubilization of nutrients, thereby expanding the existing knowledge in this specialized field.
+Latent autoimmune diabetes in adults (LADA) is a heterogeneous disease characterized by autoantibodies against insulin producing pancreatic beta cells and initial lack of need for insulin treatment. The aim of the present study was to investigate if individuals with LADA have an altered gut microbiota relative to non-diabetic control subjects, individuals with type 1 diabetes (T1D), and individuals with type 2 diabetes (T2D). Bacterial community profiling was performed with primers targeting the variable region 4 of the 16S rRNA gene and sequenced. Amplicon sequence variants (ASVs) were generated with DADA2 and annotated to the SILVA database. The gut virome was sequenced, using a viral particle enrichment and metagenomics approach, assembled, and quantified to describe the composition of the viral community. Comparison of the bacterial alpha- and beta-diversity measures revealed that the gut bacteriome of individuals with LADA resembled that of individuals with T2D. Yet, specific genera were found to differ in abundance in individuals with LADA compared with T1D and T2D, indicating that LADA has unique taxonomical features. The virome composition reflected the stability of the most dominant order Caudovirales and the families Siphoviridae, Podoviridae, and Inoviridae, and the dominant family Microviridae. Further studies are needed to confirm these findings.
 
-[Source](https://doi.org/10.1016/j.scitotenv.2024.172204)
+[Source](https://www.nature.com/articles/s41598-024-58985-w)
 
-10.1016/j.scitotenv.2024.172204
+10.1038/s41598-024-58985-w
 
 ---
 
-## Analysis of microbial dynamics in the soybean root-associated environments from community to single-cell levels.
- 03.04.2024, _M Kifushi, Y Nishikawa, M Hosokawa, K Ide, M Kogawa, T Anai, H Takeyama_
+## Colonization during a key developmental window reveals microbiota-dependent shifts in growth and immunity during undernutrition.
+ 10.04.2024, _YA Serrano Matos, J Cano, H Shafiq, C Williams, J Sunny, CA Cowardin_
 
 
-Plant root-associated environments such as the rhizosphere, rhizoplane, and endosphere, are notably different from non-root-associated soil environments. However, the microbial dynamics in these spatially divided compartments remain unexplored. In this study, we propose a combinational analysis of single-cell genomics with 16S rRNA gene sequencing. This method enabled us to understand the entire soil microbiome and individual root-associated microorganisms. We applied this method to soybean microbiomes and revealed that their composition was different between the rhizoplane and rhizosphere in the early growth stages, but became more similar as growth progressed. In addition, a total of 610 medium- to high-quality single-amplified genomes (SAGs) were acquired, including plant growth-promoting rhizobacteria (PGPR) candidates while genomes with high GC content tended to be missed by SAGs. The whole-genome analyses of the SAGs suggested that rhizoplane-enriched Flavobacterium solubilizes organophosphate actively and Bacillus colonizes roots more efficiently. Single-cell genomics, together with 16S rRNA gene sequencing, enabled us to connect microbial taxonomy and function, and assess microorganisms at a strain resolution even in the complex soil microbiome.
+_Child, Infant, Humans, Animals, Mice, Gastrointestinal Microbiome, Malnutrition, Microbiota, Intestine, Small, Growth Disorders_
+Childhood undernutrition is a major global health challenge with devastating lifelong consequences. Linear growth stunting due to undernutrition has been linked to poor health outcomes, and mothers who experience growth stunting in childhood are more likely to give birth to stunted children later in life. Based on these findings, we hypothesized that intergenerational colonization of mice with microbiota from human donors with undernutrition may recapitulate certain immune and growth changes observed in this disorder.
 
-[Source](https://doi.org/10.1016/j.jbiosc.2024.02.007)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01783-3)
 
-10.1016/j.jbiosc.2024.02.007
+10.1186/s40168-024-01783-3
 
 ---
 
-## phylaGAN: Data augmentation through conditional GANs and autoencoders for improving disease prediction accuracy using microbiome data.
- 03.04.2024, _D Sharma, W Lou, W Xu_
+## Dermal injury drives a skin to gut axis that disrupts the intestinal microbiome and intestinal immune homeostasis in mice.
+ 10.04.2024, _T Dokoshi, Y Chen, KJ Cavagnero, G Rahman, D Hakim, S Brinton, H Schwarz, EA Brown, A O'Neill, Y Nakamura, F Li, NH Salzman, R Knight, RL Gallo_
 
 
-Research is improving our understanding of how the microbiome interacts with the human body and its impact on human health. Existing machine learning methods have shown great potential in discriminating healthy from diseased microbiome states. However, Machine Learning based prediction using microbiome data has challenges such as, small sample size, imbalance between cases and controls and high cost of collecting large number of samples. To address these challenges, we propose a deep learning framework phylaGAN to augment the existing datasets with generated microbiome data using a combination of conditional generative adversarial network (C-GAN) and autoencoder. Conditional generative adversarial networks train two models against each other to compute larger simulated datasets that are representative of the original dataset. Autoencoder maps the original and the generated samples onto a common subspace to make the prediction more accurate.
+_Mice, Animals, Gastrointestinal Microbiome, Hyaluronic Acid, Colitis, Intestinal Mucosa, Fecal Microbiota Transplantation, Dextran Sulfate, Mice, Inbred C57BL, Disease Models, Animal, Colon_
+The composition of the microbial community in the intestine may influence the functions of distant organs such as the brain, lung, and skin. These microbes can promote disease or have beneficial functions, leading to the hypothesis that microbes in the gut explain the co-occurrence of intestinal and skin diseases. Here, we show that the reverse can occur, and that skin directly alters the gut microbiome. Disruption of the dermis by skin wounding or the digestion of dermal hyaluronan results in increased expression in the colon of the host defense genes Reg3 and Muc2, and skin wounding changes the composition and behavior of intestinal bacteria. Enhanced expression Reg3 and Muc2 is induced in vitro by exposure to hyaluronan released by these skin interventions. The change in the colon microbiome after skin wounding is functionally important as these bacteria penetrate the intestinal epithelium and enhance colitis from dextran sodium sulfate (DSS) as seen by the ability to rescue skin associated DSS colitis with oral antibiotics, in germ-free mice, and fecal microbiome transplantation to unwounded mice from mice with skin wounds. These observations provide direct evidence of a skin-gut axis by demonstrating that damage to the skin disrupts homeostasis in intestinal host defense and alters the gut microbiome.
 
-[Source](https://doi.org/10.1093/bioinformatics/btae161)
+[Source](https://www.nature.com/articles/s41467-024-47072-3)
 
-10.1093/bioinformatics/btae161
+10.1038/s41467-024-47072-3
+
+---
+
+## A folate inhibitor exploits metabolic differences in <em>Pseudomonas aeruginosa</em> for narrow-spectrum targeting
+
+[Source](https://www.nature.com/articles/s41564-024-01665-2#Abs1)
+
+---
+
+## A genome-centric view of the role of the <em>Acropora kenti</em> microbiome in coral health and resilience
+
+[Source](https://www.nature.com/articles/s41467-024-46905-5)
+
+---
+
+## Probiotics reshape the coral microbiome in situ without detectable off-target effects in the surrounding environment.
+ 09.04.2024, _N Delgadillo-Ordoñez, N Garcias-Bonet, I Raimundo, FC García, H Villela, EO Osman, EP Santoro, J Curdia, JGD Rosado, P Cardoso, A Alsaggaf, A Barno, CP Antony, C Bocanegra, ML Berumen, CR Voolstra, F Benzoni, S Carvalho, RS Peixoto_
+
+
+Beneficial microorganisms for corals (BMCs), or probiotics, can enhance coral resilience against stressors in laboratory trials. However, the ability of probiotics to restructure the coral microbiome in situ is yet to be determined. As a first step to elucidate this, we inoculated putative probiotic bacteria (pBMCs) on healthy colonies of Pocillopora verrucosa in situ in the Red Sea, three times per week, during 3 months. pBMCs significantly influenced the coral microbiome, while bacteria of the surrounding seawater and sediment remained unchanged. The inoculated genera Halomonas, Pseudoalteromonas, and Bacillus were significantly enriched in probiotic-treated corals. Furthermore, the probiotic treatment also correlated with an increase in other beneficial groups (e.g., Ruegeria and Limosilactobacillus), and a decrease in potential coral pathogens, such as Vibrio. As all corals (treated and non-treated) remained healthy throughout the experiment, we could not track health improvements or protection against stress. Our data indicate that healthy, and therefore stable, coral microbiomes can be restructured in situ, although repeated and continuous inoculations may be required in these cases. Further, our study provides supporting evidence that, at the studied scale, pBMCs have no detectable off-target effects on the surrounding microbiomes of seawater and sediment near inoculated corals.
+
+[Source](https://www.nature.com/articles/s42003-024-06135-3)
+
+10.1038/s42003-024-06135-3
+
+---
+
+## Substantial viral diversity in bats and rodents from East Africa: insights into evolution, recombination, and cocirculation
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01782-4)
+
+---
+
+## Root volatiles manipulate bacterial biofilms.
+ 09.04.2024, _W Raza, G Jiang_
+
+
+
+[Source](https://www.nature.com/articles/s41559-024-02403-x)
+
+10.1038/s41559-024-02403-x
+
+---
+
+## Analysis of endophytic bacterial diversity in seeds of different genotypes of cotton and the suppression of <em>Verticillium wilt </em>pathogen infection by a synthetic microbial community
+
+[Source](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-024-04910-2)
+
+---
+
+## Holomics - a user-friendly R shiny application for multi-omics data integration and analysis.
+ 07.03.2024, _K Munk, D Ilina, L Ziemba, G Brader, EM Molin_
+
+
+_Multiomics, Plant Breeding, Computational Biology, Beta vulgaris, Cluster Analysis_
+An organism's observable traits, or phenotype, result from intricate interactions among genes, proteins, metabolites and the environment. External factors, such as associated microorganisms, along with biotic and abiotic stressors, can significantly impact this complex biological system, influencing processes like growth, development and productivity. A comprehensive analysis of the entire biological system and its interactions is thus crucial to identify key components that support adaptation to stressors and to discover biomarkers applicable in breeding programs or disease diagnostics. Since the genomics era, several other 'omics' disciplines have emerged, and recent advances in high-throughput technologies have facilitated the generation of additional omics datasets. While traditionally analyzed individually, the last decade has seen an increase in multi-omics data integration and analysis strategies aimed at achieving a holistic understanding of interactions across different biological layers. Despite these advances, the analysis of multi-omics data is still challenging due to their scale, complexity, high dimensionality and multimodality. To address these challenges, a number of analytical tools and strategies have been developed, including clustering and differential equations, which require advanced knowledge in bioinformatics and statistics. Therefore, this study recognizes the need for user-friendly tools by introducing Holomics, an accessible and easy-to-use R shiny application with multi-omics functions tailored for scientists with limited bioinformatics knowledge. Holomics provides a well-defined workflow, starting with the upload and pre-filtering of single-omics data, which are then further refined by single-omics analysis focusing on key features. Subsequently, these reduced datasets are subjected to multi-omics analyses to unveil correlations between 2-n datasets. This paper concludes with a real-world case study where microbiomics, transcriptomics and metabolomics data from previous studies that elucidate factors associated with improved sugar beet storability are integrated using Holomics. The results are discussed in the context of the biological background, underscoring the importance of multi-omics insights. This example not only highlights the versatility of Holomics in handling different types of omics data, but also validates its consistency by reproducing findings from preceding single-omics studies.
+
+[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05719-4)
+
+10.1186/s12859-024-05719-4
 
 ---
 
