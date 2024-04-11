@@ -55,9 +55,10 @@ Microbial communities are resident to multiple niches of the human body and are 
 ---
 
 ## The oral cavity and intestinal microbiome in children with functional constipation.
- 09.04.2024, _M Kwiatkowska, M Gołębiewski, M Sikora, EŁ Rycharska, A Krogulska_
+ 11.04.2024, _M Kwiatkowska, M Gołębiewski, M Sikora, EŁ Rycharska, A Krogulska_
 
 
+_Humans, Child, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Constipation, Microbiota, Feces, Mouth, Bacteria, Lactobacillales, Bacteroidetes_
 Constipation is a widespread problem in paediatric practice, affecting almost 30% of children. One of the key causal factors of constipation may be disturbances in the homeostasis of the gastrointestinal microbiome. The aim of the study was to determine whether the oral and fecal microbiomes differ between children with and without constipation. A total of 91 children over three years of age were included in the study. Of these, 57 were qualified to a group with constipation, and 34 to a group without. The saliva and stool microbiomes were evaluated using 16S rRNA gene amplicon sequencing. Functional constipation was associated with characteristic bacterial taxa in the fecal microbiota. Statistically significant differences were found at the family level: Burkholderiaceae (q = 0.047), Christensenellaceae (q = 0.047), Chlostridiaceae (q = 0.047) were significantly less abundant in the constipation group, while the Tannerellaceae (q = 0.007) were more abundant. At the genus level, the significant differences were observed for rare genera, including Christensenellaceae r-7 (q = 2.88 × 10-2), Fusicatenibacter (q = 2.88 × 10-2), Parabacteroides (q = 1.63 × 10-2), Romboutsia (q = 3.19 × 10-2) and Subdoligranulum (q = 1.17 × 10-2). All of them were less abundant in children with constipation. With the exception of significant taxonomic changes affecting only feces, no differences were found in the alpha and beta diversity of feces and saliva. Children with functional constipation demonstrated significant differences in the abundance of specific bacteria in the stool microbiome compared to healthy children. It is possible that the rare genera identified in our study which were less abundant in the constipated patients (Christensellaceae r-7, Fusicatenibacter, Parabacteroides, Romboutsia and Subdoligranulum) may play a role in protection against constipation. No significant differences were observed between the two groups with regard to the saliva microbiome.
 
 [Source](https://www.nature.com/articles/s41598-024-58642-2)
@@ -67,9 +68,10 @@ Constipation is a widespread problem in paediatric practice, affecting almost 30
 ---
 
 ## Characterization of the gut bacterial and viral microbiota in latent autoimmune diabetes in adults.
- 09.04.2024, _CS Poulsen, D Hesse, GR Fernandes, TH Hansen, T Kern, A Linneberg, L Van Espen, T Jørgensen, T Nielsen, AC Alibegovic, J Matthijnssens, O Pedersen, H Vestergaard, T Hansen, MK Andersen_
+ 11.04.2024, _CS Poulsen, D Hesse, GR Fernandes, TH Hansen, T Kern, A Linneberg, L Van Espen, T Jørgensen, T Nielsen, AC Alibegovic, J Matthijnssens, O Pedersen, H Vestergaard, T Hansen, MK Andersen_
 
 
+_Adult, Humans, Diabetes Mellitus, Type 1, Diabetes Mellitus, Type 2, Latent Autoimmune Diabetes in Adults, Gastrointestinal Microbiome, Adenosine Deaminase, RNA, Ribosomal, 16S, Intercellular Signaling Peptides and Proteins, Insulin, Glucose Intolerance_
 Latent autoimmune diabetes in adults (LADA) is a heterogeneous disease characterized by autoantibodies against insulin producing pancreatic beta cells and initial lack of need for insulin treatment. The aim of the present study was to investigate if individuals with LADA have an altered gut microbiota relative to non-diabetic control subjects, individuals with type 1 diabetes (T1D), and individuals with type 2 diabetes (T2D). Bacterial community profiling was performed with primers targeting the variable region 4 of the 16S rRNA gene and sequenced. Amplicon sequence variants (ASVs) were generated with DADA2 and annotated to the SILVA database. The gut virome was sequenced, using a viral particle enrichment and metagenomics approach, assembled, and quantified to describe the composition of the viral community. Comparison of the bacterial alpha- and beta-diversity measures revealed that the gut bacteriome of individuals with LADA resembled that of individuals with T2D. Yet, specific genera were found to differ in abundance in individuals with LADA compared with T1D and T2D, indicating that LADA has unique taxonomical features. The virome composition reflected the stability of the most dominant order Caudovirales and the families Siphoviridae, Podoviridae, and Inoviridae, and the dominant family Microviridae. Further studies are needed to confirm these findings.
 
 [Source](https://www.nature.com/articles/s41598-024-58985-w)
@@ -116,9 +118,16 @@ The composition of the microbial community in the intestine may influence the fu
 
 ---
 
-## Probiotics reshape the coral microbiome in situ without detectable off-target effects in the surrounding environment
+## Probiotics reshape the coral microbiome in situ without detectable off-target effects in the surrounding environment.
+ 11.04.2024, _N Delgadillo-Ordoñez, N Garcias-Bonet, I Raimundo, FC García, H Villela, EO Osman, EP Santoro, J Curdia, JGD Rosado, P Cardoso, A Alsaggaf, A Barno, CP Antony, C Bocanegra, ML Berumen, CR Voolstra, F Benzoni, S Carvalho, RS Peixoto_
+
+
+_Animals, Anthozoa, Vibrio, Microbiota, Probiotics, Bacillus_
+Beneficial microorganisms for corals (BMCs), or probiotics, can enhance coral resilience against stressors in laboratory trials. However, the ability of probiotics to restructure the coral microbiome in situ is yet to be determined. As a first step to elucidate this, we inoculated putative probiotic bacteria (pBMCs) on healthy colonies of Pocillopora verrucosa in situ in the Red Sea, three times per week, during 3 months. pBMCs significantly influenced the coral microbiome, while bacteria of the surrounding seawater and sediment remained unchanged. The inoculated genera Halomonas, Pseudoalteromonas, and Bacillus were significantly enriched in probiotic-treated corals. Furthermore, the probiotic treatment also correlated with an increase in other beneficial groups (e.g., Ruegeria and Limosilactobacillus), and a decrease in potential coral pathogens, such as Vibrio. As all corals (treated and non-treated) remained healthy throughout the experiment, we could not track health improvements or protection against stress. Our data indicate that healthy, and therefore stable, coral microbiomes can be restructured in situ, although repeated and continuous inoculations may be required in these cases. Further, our study provides supporting evidence that, at the studied scale, pBMCs have no detectable off-target effects on the surrounding microbiomes of seawater and sediment near inoculated corals.
 
 [Source](https://www.nature.com/articles/s42003-024-06135-3)
+
+10.1038/s42003-024-06135-3
 
 ---
 
