@@ -36,22 +36,15 @@ Bacterial secondary metabolites, synthesized by enzymes encoded in biosynthetic 
 
 ---
 
-## A pan-cancer mycobiome analysis reveals fungal involvement in gastrointestinal and lung tumors.
- 30.09.2023, _AB Dohlman, J Klug, M Mesko, IH Gao, SM Lipkin, X Shen, ID Iliev_
+## A pan-cancer analysis of the microbiome in metastatic cancer.
+ 10.04.2024, _TW Battaglia, IL Mimpen, JJH Traets, A van Hoeck, LJ Zeverijn, BS Geurts, GF de Wit, M Noë, I Hofland, JL Vos, S Cornelissen, M Alkemade, A Broeks, CL Zuur, E Cuppen, L Wessels, J van de Haar, E Voest_
 
 
-_Biomarkers, Candida, DNA, Fungal, Fungi, Humans, Lung Neoplasms, Mycobiome_
-Fungal microorganisms (mycobiota) comprise a small but immunoreactive component of the human microbiome, yet little is known about their role in human cancers. Pan-cancer analysis of multiple body sites revealed tumor-associated mycobiomes at up to 1 fungal cell per 104 tumor cells. In lung cancer, Blastomyces was associated with tumor tissues. In stomach cancers, high rates of Candida were linked to the expression of pro-inflammatory immune pathways, while in colon cancers Candida was predictive of metastatic disease and attenuated cellular adhesions. Across multiple GI sites, several Candida species were enriched in tumor samples and tumor-associated Candida DNA was predictive of decreased survival. The presence of Candida in human GI tumors was confirmed by external ITS sequencing of tumor samples and by culture-dependent analysis in an independent cohort. These data implicate the mycobiota in the pathogenesis of GI cancers and suggest that tumor-associated fungal DNA may serve as diagnostic or prognostic biomarkers.
-
-[Source](https://www.cell.com/cell/pdf/S0092-8674(24)00312-X.pdf)
-
-10.1016/j.cell.2022.09.015
-
----
-
-## A pan-cancer analysis of the microbiome in metastatic cancer 
+Microbial communities are resident to multiple niches of the human body and are important modulators of the host immune system and responses to anticancer therapies. Recent studies have shown that complex microbial communities are present within primary tumors. To investigate the presence and relevance of the microbiome in metastases, we integrated mapping and assembly-based metagenomics, genomics, transcriptomics, and clinical data of 4,160 metastatic tumor biopsies. We identified organ-specific tropisms of microbes, enrichments of anaerobic bacteria in hypoxic tumors, associations between microbial diversity and tumor-infiltrating neutrophils, and the association of Fusobacterium with resistance to immune checkpoint blockade (ICB) in lung cancer. Furthermore, longitudinal tumor sampling revealed temporal evolution of the microbial communities and identified bacteria depleted upon ICB. Together, we generated a pan-cancer resource of the metastatic tumor microbiome that may contribute to advancing treatment strategies.
 
 [Source](https://www.cell.com/cell/pdf/S0092-8674(24)00312-X.pdf)
+
+10.1016/j.cell.2024.03.021
 
 ---
 
@@ -129,15 +122,26 @@ The composition of the microbial community in the intestine may influence the fu
 
 ---
 
-## Substantial viral diversity in bats and rodents from East Africa: insights into evolution, recombination, and cocirculation
+## Substantial viral diversity in bats and rodents from East Africa: insights into evolution, recombination, and cocirculation.
+ 10.04.2024, _D Wang, X Yang, Z Ren, B Hu, H Zhao, K Yang, P Shi, Z Zhang, Q Feng, CV Nawenja, V Obanda, K Robert, B Nalikka, CN Waruhiu, GO Ochola, SO Onyuok, H Ochieng, B Li, Y Zhu, H Si, J Yin, K Kristiansen, X Jin, X Xu, M Xiao, B Agwanda, S Ommeh, J Li, ZL Shi_
+
+
+Zoonotic viruses cause substantial public health and socioeconomic problems worldwide. Understanding how viruses evolve and spread within and among wildlife species is a critical step when aiming for proactive identification of viral threats to prevent future pandemics. Despite the many proposed factors influencing viral diversity, the genomic diversity and structure of viral communities in East Africa are largely unknown.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01782-4)
 
+10.1186/s40168-024-01782-4
+
 ---
 
-## Root volatiles manipulate bacterial biofilms
+## Root volatiles manipulate bacterial biofilms.
+ 09.04.2024, _W Raza, G Jiang_
+
+
 
 [Source](https://www.nature.com/articles/s41559-024-02403-x)
+
+10.1038/s41559-024-02403-x
 
 ---
 
@@ -147,9 +151,16 @@ The composition of the microbial community in the intestine may influence the fu
 
 ---
 
-## Holomics – a user-friendly R shiny application for multi-omics data integration and analysis
+## Holomics - a user-friendly R shiny application for multi-omics data integration and analysis.
+ 07.03.2024, _K Munk, D Ilina, L Ziemba, G Brader, EM Molin_
+
+
+_Multiomics, Plant Breeding, Computational Biology, Beta vulgaris, Cluster Analysis_
+An organism's observable traits, or phenotype, result from intricate interactions among genes, proteins, metabolites and the environment. External factors, such as associated microorganisms, along with biotic and abiotic stressors, can significantly impact this complex biological system, influencing processes like growth, development and productivity. A comprehensive analysis of the entire biological system and its interactions is thus crucial to identify key components that support adaptation to stressors and to discover biomarkers applicable in breeding programs or disease diagnostics. Since the genomics era, several other 'omics' disciplines have emerged, and recent advances in high-throughput technologies have facilitated the generation of additional omics datasets. While traditionally analyzed individually, the last decade has seen an increase in multi-omics data integration and analysis strategies aimed at achieving a holistic understanding of interactions across different biological layers. Despite these advances, the analysis of multi-omics data is still challenging due to their scale, complexity, high dimensionality and multimodality. To address these challenges, a number of analytical tools and strategies have been developed, including clustering and differential equations, which require advanced knowledge in bioinformatics and statistics. Therefore, this study recognizes the need for user-friendly tools by introducing Holomics, an accessible and easy-to-use R shiny application with multi-omics functions tailored for scientists with limited bioinformatics knowledge. Holomics provides a well-defined workflow, starting with the upload and pre-filtering of single-omics data, which are then further refined by single-omics analysis focusing on key features. Subsequently, these reduced datasets are subjected to multi-omics analyses to unveil correlations between 2-n datasets. This paper concludes with a real-world case study where microbiomics, transcriptomics and metabolomics data from previous studies that elucidate factors associated with improved sugar beet storability are integrated using Holomics. The results are discussed in the context of the biological background, underscoring the importance of multi-omics insights. This example not only highlights the versatility of Holomics in handling different types of omics data, but also validates its consistency by reproducing findings from preceding single-omics studies.
 
 [Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05719-4)
+
+10.1186/s12859-024-05719-4
 
 ---
 
