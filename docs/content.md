@@ -123,15 +123,9 @@ The composition of the microbial community in the intestine may influence the fu
 
 ---
 
-## Probiotics reshape the coral microbiome in situ without detectable off-target effects in the surrounding environment.
- 09.04.2024, _N Delgadillo-Ordoñez, N Garcias-Bonet, I Raimundo, FC García, H Villela, EO Osman, EP Santoro, J Curdia, JGD Rosado, P Cardoso, A Alsaggaf, A Barno, CP Antony, C Bocanegra, ML Berumen, CR Voolstra, F Benzoni, S Carvalho, RS Peixoto_
-
-
-Beneficial microorganisms for corals (BMCs), or probiotics, can enhance coral resilience against stressors in laboratory trials. However, the ability of probiotics to restructure the coral microbiome in situ is yet to be determined. As a first step to elucidate this, we inoculated putative probiotic bacteria (pBMCs) on healthy colonies of Pocillopora verrucosa in situ in the Red Sea, three times per week, during 3 months. pBMCs significantly influenced the coral microbiome, while bacteria of the surrounding seawater and sediment remained unchanged. The inoculated genera Halomonas, Pseudoalteromonas, and Bacillus were significantly enriched in probiotic-treated corals. Furthermore, the probiotic treatment also correlated with an increase in other beneficial groups (e.g., Ruegeria and Limosilactobacillus), and a decrease in potential coral pathogens, such as Vibrio. As all corals (treated and non-treated) remained healthy throughout the experiment, we could not track health improvements or protection against stress. Our data indicate that healthy, and therefore stable, coral microbiomes can be restructured in situ, although repeated and continuous inoculations may be required in these cases. Further, our study provides supporting evidence that, at the studied scale, pBMCs have no detectable off-target effects on the surrounding microbiomes of seawater and sediment near inoculated corals.
+## Probiotics reshape the coral microbiome in situ without detectable off-target effects in the surrounding environment
 
 [Source](https://www.nature.com/articles/s42003-024-06135-3)
-
-10.1038/s42003-024-06135-3
 
 ---
 
@@ -141,14 +135,9 @@ Beneficial microorganisms for corals (BMCs), or probiotics, can enhance coral re
 
 ---
 
-## Root volatiles manipulate bacterial biofilms.
- 09.04.2024, _W Raza, G Jiang_
-
-
+## Root volatiles manipulate bacterial biofilms
 
 [Source](https://www.nature.com/articles/s41559-024-02403-x)
-
-10.1038/s41559-024-02403-x
 
 ---
 
@@ -158,16 +147,9 @@ Beneficial microorganisms for corals (BMCs), or probiotics, can enhance coral re
 
 ---
 
-## Holomics - a user-friendly R shiny application for multi-omics data integration and analysis.
- 07.03.2024, _K Munk, D Ilina, L Ziemba, G Brader, EM Molin_
-
-
-_Multiomics, Plant Breeding, Computational Biology, Beta vulgaris, Cluster Analysis_
-An organism's observable traits, or phenotype, result from intricate interactions among genes, proteins, metabolites and the environment. External factors, such as associated microorganisms, along with biotic and abiotic stressors, can significantly impact this complex biological system, influencing processes like growth, development and productivity. A comprehensive analysis of the entire biological system and its interactions is thus crucial to identify key components that support adaptation to stressors and to discover biomarkers applicable in breeding programs or disease diagnostics. Since the genomics era, several other 'omics' disciplines have emerged, and recent advances in high-throughput technologies have facilitated the generation of additional omics datasets. While traditionally analyzed individually, the last decade has seen an increase in multi-omics data integration and analysis strategies aimed at achieving a holistic understanding of interactions across different biological layers. Despite these advances, the analysis of multi-omics data is still challenging due to their scale, complexity, high dimensionality and multimodality. To address these challenges, a number of analytical tools and strategies have been developed, including clustering and differential equations, which require advanced knowledge in bioinformatics and statistics. Therefore, this study recognizes the need for user-friendly tools by introducing Holomics, an accessible and easy-to-use R shiny application with multi-omics functions tailored for scientists with limited bioinformatics knowledge. Holomics provides a well-defined workflow, starting with the upload and pre-filtering of single-omics data, which are then further refined by single-omics analysis focusing on key features. Subsequently, these reduced datasets are subjected to multi-omics analyses to unveil correlations between 2-n datasets. This paper concludes with a real-world case study where microbiomics, transcriptomics and metabolomics data from previous studies that elucidate factors associated with improved sugar beet storability are integrated using Holomics. The results are discussed in the context of the biological background, underscoring the importance of multi-omics insights. This example not only highlights the versatility of Holomics in handling different types of omics data, but also validates its consistency by reproducing findings from preceding single-omics studies.
+## Holomics – a user-friendly R shiny application for multi-omics data integration and analysis
 
 [Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05719-4)
-
-10.1186/s12859-024-05719-4
 
 ---
 
