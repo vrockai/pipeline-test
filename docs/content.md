@@ -71,9 +71,16 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Gut microbiota differences in stunted and normal-lenght children aged 36–45 months in East Nusa Tenggara, Indonesia
+## Gut microbiota differences in stunted and normal-lenght children aged 36-45 months in East Nusa Tenggara, Indonesia.
+ 01.04.2024, _IS Surono, I Popov, S Verbruggen, J Verhoeven, PD Kusumo, K Venema_
+
+
+_Child, Humans, Indonesia, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Growth Disorders, Bacteroidetes, Butyrates, Feces_
+The role of the gut microbiota in energy metabolism of the host has been established, both in overweight/obesity, as well as in undernutrition/stunting. Dysbiosis of the gut microbiota may predispose to stunting. The aim of this study was to compare the gut microbiota composition of stunted Indonesian children and non-stunted children between 36 and 45 months from two sites on the East Nusa Tenggara (ENT) islands. Fecal samples were collected from 100 stunted children and 100 non-stunted children in Kupang and North Kodi. The gut microbiota composition was determined by sequencing amplicons of the V3-V4 region of the 16S rRNA gene. Moreover, fecal SCFA concentrations were analyzed. The microbiota composition was correlated to anthropometric parameters and fecal metabolites. The phyla Bacteroidetes (Bacteroidota; q = 0.014) and Cyanobacteria (q = 0.049) were significantly higher in stunted children. Three taxa at genus levels were consistently significantly higher in stunted children at both sampling sites, namely Lachnoclostridium, Faecalibacterium and Veillonella (q &lt; 7 * 10-4). These and 9 other taxa positively correlated to the z-score length-for-age (zlen), while 11 taxa negatively correlated with zlen. Several taxa also correlated with sanitary parameters, some of which were also significantly different between the two groups. All three fecal SCFA concentrations (acetate, propionate and butyrate) and their total were lower in stunted children compared to non-stunted children, although not significant for butyrate, indicating lower energy-extraction by the gut microbiota. Also, since SCFA have been shown to be involved in gut barrier function, barrier integrity may be affected in the stunted children. It remains to be seen if the three taxa are involved in stunting, or are changed due to e.g. differences in diet, hygiene status, or other factors. The observed differences in this study do not agree with our previous observations in children on Java, Indonesia. There are differences in infrastructure facilities such as clean water and sanitation on ENT and Java, which may contribute to the differences observed. The role of the gut microbiota in stunting therefore requires more in depth studies. Trial registration: the trial was registered at ClinicalTrials.gov with identifier number NCT05119218.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299349)
+
+10.1371/journal.pone.0299349
 
 ---
 
@@ -83,15 +90,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Recommendations for the Use of Dietary Fiber to Improve Blood Pressure Control
+## Recommendations for the Use of Dietary Fiber to Improve Blood Pressure Control.
+ 08.04.2024, _HA Jama, M Snelson, AE Schutte, J Muir, FZ Marques_
+
+
+According to several international, regional, and national guidelines on hypertension, lifestyle interventions are the first-line treatment to lower blood pressure (BP). Although diet is one of the major lifestyle modifications described in hypertension guidelines, dietary fiber is not specified. Suboptimal intake of foods high in fiber, such as in Westernized diets, is a major contributing factor to mortality and morbidity of noncommunicable diseases due to higher BP and cardiovascular disease. In this review, we address this deficiency by examining and advocating for the incorporation of dietary fiber as a key lifestyle modification to manage elevated BP. We explain what dietary fiber is, review the existing literature that supports its use to lower BP and prevent cardiovascular disease, describe the mechanisms involved, propose evidence-based target levels of fiber intake, provide examples of how patients can achieve the recommended targets, and discuss outstanding questions in the field. According to the evidence reviewed here, the minimum daily dietary fiber for adults with hypertension should be &gt;28 g/day for women and &gt;38 g/day for men, with each extra 5 g/day estimated to reduce systolic BP by 2.8 mm Hg and diastolic BP by 2.1 mm Hg. This would support a healthy gut microbiota and the production of gut microbiota-derived metabolites called short-chain fatty acids that lower BP. Awareness about dietary fiber targets and how to achieve them will guide medical teams on better educating patients and empowering them to increase their fiber intake and, as a result, lower their BP and cardiovascular disease risk.
 
 [Source](https://www.ahajournals.org/doi/abs/10.1161/HYPERTENSIONAHA.123.22575)
+
+10.1161/HYPERTENSIONAHA.123.22575
 
 ---
 
 ## @HyperAHA
 
 [Source](https://twitter.com/HyperAHA?ref_src=twsrc%5Etfw)
+
+---
+
+## Association between hypotension during pancreatectomy and development of postoperative diabetes.
+ 08.04.2024, _S Moon, M Lee, JS Lee, J Lee, TJ Oh, MJ Jang, YS Yoon, Y Han, W Kwon, JY Jang, HS Jung_
+
+
+With advancements in long-term survival after pancreatectomy, post-pancreatectomy diabetes has become a concern, and the risk factors are not established yet. Pancreatic islets are susceptible to ischemic damage, though there is a lack of clinical evidence regarding glycemic deterioration.
+
+[Source](https://twitter.com/hashtag/BloodPressure?src=hash&ref_src=twsrc%5Etfw)
+
+10.1210/clinem/dgae227
 
 ---
 
@@ -128,18 +153,6 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 ## @MonashBiol
 
 [Source](https://twitter.com/MonashBiol?ref_src=twsrc%5Etfw)
-
----
-
-## Can a Targeted Social Media Campaign Increase Reach of, and Engagement With, Heart Failure Self-Management Resources in Culturally and Linguistically Diverse Communities in Victoria, Australia? An Evaluation Including Cost.
- 04.10.2023, _S Matthews, J Just, G Jennings, J Bray, J Lewis, A Buttery_
-
-
-This study investigates whether a targeted social media campaign increases reach and engagement of heart failure self-management educational resources among culturally and linguistically diverse communities in Victoria, Australia.
-
-[Source](https://twitter.com/heartfoundation?ref_src=twsrc%5Etfw)
-
-10.1016/j.hlc.2023.06.724
 
 ---
 
@@ -209,9 +222,16 @@ This study investigates whether a targeted social media campaign increases reach
 
 ---
 
-## Intestinal microbiome profiles in broiler chickens raised without antibiotics exhibit altered microbiome dynamics relative to conventionally raised chickens
+## Intestinal microbiome profiles in broiler chickens raised without antibiotics exhibit altered microbiome dynamics relative to conventionally raised chickens.
+ 06.04.2024, _SH Kairmi, K Abdelaziz, H Spahany, J Astill, D Trott, B Wang, A Wang, J Parkinson, S Sharif_
+
+
+_Animals, Gastrointestinal Microbiome, Chickens, RNA, Ribosomal, 16S, Anti-Bacterial Agents, Microbiota, Cecum, Firmicutes, Bacteroidetes_
+The present study was undertaken to profile and compare the cecal microbial communities in conventionally (CONV) grown and raised without antibiotics (RWA) broiler chickens. Three hundred chickens were collected from five CONV and five RWA chicken farms on days 10, 24, and 35 of age. Microbial genomic DNA was extracted from cecal contents, and the V4-V5 hypervariable regions of the 16S rRNA gene were amplified and sequenced. Analysis of 16S rRNA sequence data indicated significant differences in the cecal microbial diversity and composition between CONV and RWA chickens on days 10, 24, and 35 days of age. On days 10 and 24, CONV chickens had higher richness and diversity of the cecal microbiome relative to RWA chickens. However, on day 35, this pattern reversed such that RWA chickens had higher richness and diversity of the cecal microbiome than the CONV groups. On days 10 and 24, the microbiomes of both CONV and RWA chickens were dominated by members of the phylum Firmicutes. On day 35, while Firmicutes remained dominant in the RWA chickens, the microbiome of CONV chickens exhibited am abundance of Bacteroidetes. The cecal microbiome of CONV chickens was enriched with the genus Faecalibacterium, Pseudoflavonifractor, unclassified Clostridium_IV, Bacteroides, Alistipes, and Butyricimonas, whereas the cecal microbiome of RWA chickens was enriched with genus Anaerofilum, Butyricicoccu, Clostridium_XlVb and unclassified Lachnospiraceae. Overall, the cecal microbiome richness, diversity, and composition were greatly influenced by the management program applied in these farms. These findings provide a foundation for further research on tailoring feed formulation or developing a consortium to modify the gut microbiome composition of RWA chickens.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301110)
+
+10.1371/journal.pone.0301110
 
 ---
 
@@ -233,9 +253,16 @@ This study investigates whether a targeted social media campaign increases reach
 
 ---
 
-## Decoding populations in the ocean microbiome
+## Decoding populations in the ocean microbiome.
+ 04.04.2024, _R Logares_
+
+
+_Animals, Ecosystem, Microbiota, Oceans and Seas, Metagenomics_
+Understanding the characteristics and structure of populations is fundamental to comprehending ecosystem processes and evolutionary adaptations. While the study of animal and plant populations has spanned a few centuries, microbial populations have been under scientific scrutiny for a considerably shorter period. In the ocean, analyzing the genetic composition of microbial populations and their adaptations to multiple niches can yield important insights into ecosystem function and the microbiome's response to global change. However, microbial populations have remained elusive to the scientific community due to the challenges associated with isolating microorganisms in the laboratory. Today, advancements in large-scale metagenomics and metatranscriptomics facilitate the investigation of populations from many uncultured microbial species directly from their habitats. The knowledge acquired thus far reveals substantial genetic diversity among various microbial species, showcasing distinct patterns of population differentiation and adaptations, and highlighting the significant role of selection in structuring populations. In the coming years, population genomics is expected to significantly increase our understanding of the architecture and functioning of the ocean microbiome, providing insights into its vulnerability or resilience in the face of ongoing global change. Video Abstract.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01778-0)
+
+10.1186/s40168-024-01778-0
 
 ---
 
@@ -251,18 +278,6 @@ This study investigates whether a targeted social media campaign increases reach
 
 ---
 
-## An online qualitative study exploring wants and needs for a cooking programme during pregnancy in the UK and Ireland.
- 12.04.2024, _F Lavelle, C McKernan, V Shrewsbury, JA Wolfson, RM Taylor, K Duncanson, CA Martins, C Elliott, CE Collins_
-
-
-Optimal maternal nutrition is associated with better pregnancy and infant outcomes. Culinary nutrition programmes have potential to improve diet quality during pregnancy. Therefore, this research aimed to understand the experiences of cooking and the wants and needs of pregnant women regarding a cooking and food skills programme in the United Kingdom (UK) and Republic of Ireland (ROI).
-
-[Source](https://twitter.com/loglab_bcn/status/1776134740237582364?ref_src=twsrc%5Etfw)
-
-10.1111/jhn.13307
-
----
-
 ## April 5, 2024
 
 [Source](https://twitter.com/loglab_bcn/status/1776134740237582364?ref_src=twsrc%5Etfw)
@@ -272,18 +287,6 @@ Optimal maternal nutrition is associated with better pregnancy and infant outcom
 ## High-resolution Profiling of Bacterial and Fungal Communities using Pangenome-Informed Taxon-Specific Long-Read Amplicons
 
 [Source](https://www.biorxiv.org/content/10.1101/2023.07.17.549274v4.abstract)
-
----
-
-## Pan-genome insights into adaptive evolution of bacterial symbionts in mixed host-microbe symbioses represented by human gut microbiota Bacteroides cellulosilyticus.
- 11.04.2024, _Z Yin, J Liang, M Zhang, B Chen, Z Yu, X Tian, X Deng, L Peng_
-
-
-Animal hosts harbor diverse assemblages of microbial symbionts that play crucial roles in the host's lifestyle. The link between microbial symbiosis and host development remains poorly understood. In particular, little is known about the adaptive evolution of gut bacteria in host-microbe symbioses. Recently, symbiotic relationships have been categorized as open, closed, or mixed, reflecting their modes of inter-host transmission and resulting in distinct genomic features. Members of the genus Bacteroides are the most abundant human gut microbiota and possess both probiotic and pathogenic potential, providing an excellent model for studying pan-genome evolution in symbiotic systems. Here, we determined the complete genome of an novel clinical strain PL2022, which was isolated from a blood sample and performed pan-genome analyses on a representative set of Bacteroides cellulosilyticus strains to quantify the influence of the symbiotic relationship on the evolutionary dynamics. B. cellulosilyticus exhibited correlated genomic features with both open and closed symbioses, suggesting a mixed symbiosis. An open pan-genome is characterized by abundant accessory gene families, potential horizontal gene transfer (HGT), and diverse mobile genetic elements (MGEs), indicating an innovative gene pool, mainly associated with genomic islands and plasmids. However, massive parallel gene loss, weak purifying selection, and accumulation of positively selected mutations were the main drivers of genome reduction in B. cellulosilyticus. Metagenomic read recruitment analyses showed that B. cellulosilyticus members are globally distributed and active in human gut habitats, in line with predominant vertical transmission in the human gut. However, existence and/or high abundance were also detected in non-intestinal tissues, other animal hosts, and non-host environments, indicating occasional horizontal transmission to new niches, thereby creating arenas for the acquisition of novel genes. This case study of adaptive evolution under a mixed host-microbe symbiosis advances our understanding of symbiotic pan-genome evolution. Our results highlight the complexity of genetic evolution in this unusual intestinal symbiont.
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.04.05.588231v1)
-
-10.1016/j.scitotenv.2024.172251
 
 ---
 
