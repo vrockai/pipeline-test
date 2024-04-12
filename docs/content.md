@@ -251,15 +251,15 @@ This study investigates whether a targeted social media campaign increases reach
 
 ---
 
-## Improvement of Coracoid Process Union Rates: A Comparative Study of Conventional Open and Arthroscopic-assisted Bristow Procedures for Treating Anterior Shoulder Instability in Rugby Players.
- 11.04.2024, _M Tanaka, T Hirose, H Hanai, Y Kotani, K Kuratani, H Nakai, K Hayashida_
+## An online qualitative study exploring wants and needs for a cooking programme during pregnancy in the UK and Ireland.
+ 12.04.2024, _F Lavelle, C McKernan, V Shrewsbury, JA Wolfson, RM Taylor, K Duncanson, CA Martins, C Elliott, CE Collins_
 
 
-The Bristow coracoid transfer procedure is a reliable technique for treating anterior shoulder instability in patients with large glenoid bone loss or those involved in collision sports. However, its success is marred by its inferior bone union rate of the coracoid process as compared to the Latarjet procedure. This study aimed to evaluate whether arthroscopic confirmation of the secured coracoid fixation during the Bristow procedure improves the bone union rate and clinical outcomes as compared to the open procedure.
+Optimal maternal nutrition is associated with better pregnancy and infant outcomes. Culinary nutrition programmes have potential to improve diet quality during pregnancy. Therefore, this research aimed to understand the experiences of cooking and the wants and needs of pregnant women regarding a cooking and food skills programme in the United Kingdom (UK) and Republic of Ireland (ROI).
 
 [Source](https://twitter.com/loglab_bcn/status/1776134740237582364?ref_src=twsrc%5Etfw)
 
-10.1016/j.jse.2024.02.041
+10.1111/jhn.13307
 
 ---
 
