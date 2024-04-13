@@ -174,18 +174,6 @@ With advancements in long-term survival after pancreatectomy, post-pancreatectom
 
 ---
 
-## High-Acuity Alcohol-Related Complications During the COVID-19 Pandemic.
- 12.04.2024, _B Shuey, A Halbisen, M Lakoma, F Zhang, S Argetsinger, EC Williams, BG Druss, H Wen, JF Wharam_
-
-
-Research has demonstrated an association between the COVID-19 pandemic and increased alcohol-related liver disease hospitalizations and deaths. However, trends in alcohol-related complications more broadly are unclear, especially among subgroups disproportionately affected by alcohol use.
-
-[Source](https://twitter.com/FZMarques/status/1777472739835785244?ref_src=twsrc%5Etfw)
-
-10.1001/jamahealthforum.2024.0501
-
----
-
 ## April 8, 2024
 
 [Source](https://twitter.com/FZMarques/status/1777472739835785244?ref_src=twsrc%5Etfw)
@@ -210,6 +198,19 @@ Research has demonstrated an association between the COVID-19 pandemic and incre
 
 ---
 
+## Site matters in metastatic melanoma.
+ 30.01.2024, _HP Wilson, AE Aplin_
+
+
+_Humans, Melanoma, Mitogen-Activated Protein Kinases, Transcriptome, Gene Expression Profiling_
+Metastasis and cross-therapy resistance to mitogen-activated protein kinase (MAPK) inhibition and immune checkpoint blockade (ICB) are significant clinical issues in melanoma. A new study in NatureMedicine by Liu et al. utilizes metastatic melanoma (MM) tumors from a rapid autopsy cohort to dissect genomic and transcriptomic features of therapy resistance, organ-specific gene signatures, and crosstalk between MM and organ sites.
+
+[Source](https://twitter.com/NatureMedicine?ref_src=twsrc%5Etfw)
+
+10.1016/j.trecan.2023.05.007
+
+---
+
 ## @NatureMedicine
 
 [Source](https://twitter.com/NatureMedicine?ref_src=twsrc%5Etfw)
@@ -225,6 +226,18 @@ Research has demonstrated an association between the COVID-19 pandemic and incre
 ## pic.twitter.com/FkkR0uM3aJ
 
 [Source](https://t.co/FkkR0uM3aJ)
+
+---
+
+## High-Acuity Alcohol-Related Complications During the COVID-19 Pandemic.
+ 12.04.2024, _B Shuey, A Halbisen, M Lakoma, F Zhang, S Argetsinger, EC Williams, BG Druss, H Wen, JF Wharam_
+
+
+Research has demonstrated an association between the COVID-19 pandemic and increased alcohol-related liver disease hospitalizations and deaths. However, trends in alcohol-related complications more broadly are unclear, especially among subgroups disproportionately affected by alcohol use.
+
+[Source](https://twitter.com/segal_eran/status/1777315060072734824?ref_src=twsrc%5Etfw)
+
+10.1001/jamahealthforum.2024.0501
 
 ---
 
@@ -265,9 +278,16 @@ The present study was undertaken to profile and compare the cecal microbial comm
 
 ---
 
-## Decoding populations in the ocean microbiome
+## Decoding populations in the ocean microbiome.
+ 04.04.2024, _R Logares_
+
+
+_Animals, Ecosystem, Microbiota, Oceans and Seas, Metagenomics_
+Understanding the characteristics and structure of populations is fundamental to comprehending ecosystem processes and evolutionary adaptations. While the study of animal and plant populations has spanned a few centuries, microbial populations have been under scientific scrutiny for a considerably shorter period. In the ocean, analyzing the genetic composition of microbial populations and their adaptations to multiple niches can yield important insights into ecosystem function and the microbiome's response to global change. However, microbial populations have remained elusive to the scientific community due to the challenges associated with isolating microorganisms in the laboratory. Today, advancements in large-scale metagenomics and metatranscriptomics facilitate the investigation of populations from many uncultured microbial species directly from their habitats. The knowledge acquired thus far reveals substantial genetic diversity among various microbial species, showcasing distinct patterns of population differentiation and adaptations, and highlighting the significant role of selection in structuring populations. In the coming years, population genomics is expected to significantly increase our understanding of the architecture and functioning of the ocean microbiome, providing insights into its vulnerability or resilience in the face of ongoing global change. Video Abstract.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01778-0)
+
+10.1186/s40168-024-01778-0
 
 ---
 
@@ -316,6 +336,18 @@ The present study was undertaken to profile and compare the cecal microbial comm
 ## pic.twitter.com/wPHTkmCtLR
 
 [Source](https://t.co/wPHTkmCtLR)
+
+---
+
+## Psychological distress among unemployed migrants settling in southwestern Spain: A cross-sectional study.
+ 12.04.2024, _J Gómez-Salgado, D Carrión-Rico, JJ García-Iglesias, JA Climent-Rodríguez, R Miranda-Plata, R Pichardo-Hexamer, Y Navarro-Abal, J Fagundo-Rivera, RM Vaca-Acosta, C Ruiz-Frutos, R Allande-Cussó_
+
+
+Migrants living in the informal settlements of Southern Spain tend to have precarious employment and poor living conditions, making then vulnerable to mental health issues. This study aimed to assess psychological distress in a sample of unemployed migrants residing in informal settlements in the province of Huelva (southern Spain), during the fourth wave of the COVID-19 pandemic. A descriptive cross-sectional study was conducted during the months of April to June 2021, through a heteroadministered questionnaire, in informal settlements. The measurement instrument was the General Health Questionnaire (GHQ-12), used to analyze psychological distress, and other sociodemographic and health-related variables. Univariate and bivariate descriptive data analysis were performed, using the nonparametric statistics Mann-Whitney U test, Kruskal-Wallis H test, and Tau β correlation. A categorical regression analysis was performed to study the relationship between psychological distress and the rest of the variables. The sample consisted of 317 subjects, 83.9% of whom were males, and the mean age was 33.4 years (SD = 10.7 years). The mean score obtained in the GHQ-12 questionnaire was 13.69 points (SD = 3.86). Significant differences were found between levels of psychological distress and substance abuse (H = 14.085; P = .049), people who wished to stay in Spain (t = 6987; P = .049), people who experienced isolation due to COVID-19 contact (t = 1379.5; P = .001), people who needed medical assistance due to COVID-19 (t = 7.990; P = .018), and those who reported having chronic illnesses (t = 2686.5, P = .02). The mean score of psychological distress indicates general high levels of psychological distress. Participants who had experienced isolation due to COVID-19 contact, who consumed substances, and who had chronic illnesses reported the highest levels of psychological distress.
+
+[Source](https://twitter.com/microbiome_net/status/1777939033940955159?ref_src=twsrc%5Etfw)
+
+10.1097/MD.0000000000037418
 
 ---
 
