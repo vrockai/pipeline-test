@@ -84,9 +84,15 @@ The role of the gut microbiota in energy metabolism of the host has been establi
 
 ---
 
-## Integrating research on bacterial pathogens and commensals to fight infections—an ecological perspective
+## Integrating research on bacterial pathogens and commensals to fight infections-an ecological perspective.
+ 12.04.2024, _L Maier, C Stein-Thoeringer, RE Ley, H Brötz-Oesterhelt, H Link, N Ziemert, S Wagner, A Peschel_
+
+
+The incidence of antibiotic-resistant bacterial infections is increasing, and development of new antibiotics has been deprioritised by the pharmaceutical industry. Interdisciplinary research approaches, based on the ecological principles of bacterial fitness, competition, and transmission, could open new avenues to combat antibiotic-resistant infections. Many facultative bacterial pathogens use human mucosal surfaces as their major reservoirs and induce infectious diseases to aid their lateral transmission to new host organisms under some pathological states of the microbiome and host. Beneficial bacterial commensals can outcompete specific pathogens, thereby lowering the capacity of the pathogens to spread and cause serious infections. Despite the clinical relevance, however, the understanding of commensal-pathogen interactions in their natural habitats remains poor. In this Personal View, we highlight directions to intensify research on the interactions between bacterial pathogens and commensals in the context of human microbiomes and host biology that can lead to the development of innovative and sustainable ways of preventing and treating infectious diseases.
 
 [Source](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247%2824%2900049-1/fulltext)
+
+10.1016/S2666-5247(24)00049-1
 
 ---
 
@@ -156,6 +162,18 @@ With advancements in long-term survival after pancreatectomy, post-pancreatectom
 
 ---
 
+## Can a Targeted Social Media Campaign Increase Reach of, and Engagement With, Heart Failure Self-Management Resources in Culturally and Linguistically Diverse Communities in Victoria, Australia? An Evaluation Including Cost.
+ 04.10.2023, _S Matthews, J Just, G Jennings, J Bray, J Lewis, A Buttery_
+
+
+This study investigates whether a targeted social media campaign increases reach and engagement of heart failure self-management educational resources among culturally and linguistically diverse communities in Victoria, Australia.
+
+[Source](https://twitter.com/heartfoundation?ref_src=twsrc%5Etfw)
+
+10.1016/j.hlc.2023.06.724
+
+---
+
 ## @heartfoundation
 
 [Source](https://twitter.com/heartfoundation?ref_src=twsrc%5Etfw)
@@ -198,19 +216,6 @@ With advancements in long-term survival after pancreatectomy, post-pancreatectom
 
 ---
 
-## Site matters in metastatic melanoma.
- 30.01.2024, _HP Wilson, AE Aplin_
-
-
-_Humans, Melanoma, Mitogen-Activated Protein Kinases, Transcriptome, Gene Expression Profiling_
-Metastasis and cross-therapy resistance to mitogen-activated protein kinase (MAPK) inhibition and immune checkpoint blockade (ICB) are significant clinical issues in melanoma. A new study in NatureMedicine by Liu et al. utilizes metastatic melanoma (MM) tumors from a rapid autopsy cohort to dissect genomic and transcriptomic features of therapy resistance, organ-specific gene signatures, and crosstalk between MM and organ sites.
-
-[Source](https://twitter.com/NatureMedicine?ref_src=twsrc%5Etfw)
-
-10.1016/j.trecan.2023.05.007
-
----
-
 ## @NatureMedicine
 
 [Source](https://twitter.com/NatureMedicine?ref_src=twsrc%5Etfw)
@@ -229,15 +234,15 @@ Metastasis and cross-therapy resistance to mitogen-activated protein kinase (MAP
 
 ---
 
-## High-Acuity Alcohol-Related Complications During the COVID-19 Pandemic.
- 12.04.2024, _B Shuey, A Halbisen, M Lakoma, F Zhang, S Argetsinger, EC Williams, BG Druss, H Wen, JF Wharam_
+## Acute Gastroenteritis Outbreak Among Colorado River Rafters and Backpackers in the Grand Canyon, 2022.
+ 13.04.2024, _S Miko, L Calderwood, AP Dale, RF King, MB Maurer, MA Said, M Gebhardt, LP Dyer, W Maurer, ME Wikswo, SA Mirza_
 
 
-Research has demonstrated an association between the COVID-19 pandemic and increased alcohol-related liver disease hospitalizations and deaths. However, trends in alcohol-related complications more broadly are unclear, especially among subgroups disproportionately affected by alcohol use.
+From April 1 to May 31, 2022, Grand Canyon National Park received increased acute gastroenteritis reports. Pooled portable toilet specimens identified norovirus genogroups I and II. We sought to determine outbreak transmission contributors and individual risk factors while rafting or backpacking in the park.
 
 [Source](https://twitter.com/segal_eran/status/1777315060072734824?ref_src=twsrc%5Etfw)
 
-10.1001/jamahealthforum.2024.0501
+10.1177/10806032241245093
 
 ---
 
@@ -278,16 +283,9 @@ The present study was undertaken to profile and compare the cecal microbial comm
 
 ---
 
-## Decoding populations in the ocean microbiome.
- 04.04.2024, _R Logares_
-
-
-_Animals, Ecosystem, Microbiota, Oceans and Seas, Metagenomics_
-Understanding the characteristics and structure of populations is fundamental to comprehending ecosystem processes and evolutionary adaptations. While the study of animal and plant populations has spanned a few centuries, microbial populations have been under scientific scrutiny for a considerably shorter period. In the ocean, analyzing the genetic composition of microbial populations and their adaptations to multiple niches can yield important insights into ecosystem function and the microbiome's response to global change. However, microbial populations have remained elusive to the scientific community due to the challenges associated with isolating microorganisms in the laboratory. Today, advancements in large-scale metagenomics and metatranscriptomics facilitate the investigation of populations from many uncultured microbial species directly from their habitats. The knowledge acquired thus far reveals substantial genetic diversity among various microbial species, showcasing distinct patterns of population differentiation and adaptations, and highlighting the significant role of selection in structuring populations. In the coming years, population genomics is expected to significantly increase our understanding of the architecture and functioning of the ocean microbiome, providing insights into its vulnerability or resilience in the face of ongoing global change. Video Abstract.
+## Decoding populations in the ocean microbiome
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01778-0)
-
-10.1186/s40168-024-01778-0
 
 ---
 
@@ -336,18 +334,6 @@ Understanding the characteristics and structure of populations is fundamental to
 ## pic.twitter.com/wPHTkmCtLR
 
 [Source](https://t.co/wPHTkmCtLR)
-
----
-
-## Psychological distress among unemployed migrants settling in southwestern Spain: A cross-sectional study.
- 12.04.2024, _J Gómez-Salgado, D Carrión-Rico, JJ García-Iglesias, JA Climent-Rodríguez, R Miranda-Plata, R Pichardo-Hexamer, Y Navarro-Abal, J Fagundo-Rivera, RM Vaca-Acosta, C Ruiz-Frutos, R Allande-Cussó_
-
-
-Migrants living in the informal settlements of Southern Spain tend to have precarious employment and poor living conditions, making then vulnerable to mental health issues. This study aimed to assess psychological distress in a sample of unemployed migrants residing in informal settlements in the province of Huelva (southern Spain), during the fourth wave of the COVID-19 pandemic. A descriptive cross-sectional study was conducted during the months of April to June 2021, through a heteroadministered questionnaire, in informal settlements. The measurement instrument was the General Health Questionnaire (GHQ-12), used to analyze psychological distress, and other sociodemographic and health-related variables. Univariate and bivariate descriptive data analysis were performed, using the nonparametric statistics Mann-Whitney U test, Kruskal-Wallis H test, and Tau β correlation. A categorical regression analysis was performed to study the relationship between psychological distress and the rest of the variables. The sample consisted of 317 subjects, 83.9% of whom were males, and the mean age was 33.4 years (SD = 10.7 years). The mean score obtained in the GHQ-12 questionnaire was 13.69 points (SD = 3.86). Significant differences were found between levels of psychological distress and substance abuse (H = 14.085; P = .049), people who wished to stay in Spain (t = 6987; P = .049), people who experienced isolation due to COVID-19 contact (t = 1379.5; P = .001), people who needed medical assistance due to COVID-19 (t = 7.990; P = .018), and those who reported having chronic illnesses (t = 2686.5, P = .02). The mean score of psychological distress indicates general high levels of psychological distress. Participants who had experienced isolation due to COVID-19 contact, who consumed substances, and who had chronic illnesses reported the highest levels of psychological distress.
-
-[Source](https://twitter.com/microbiome_net/status/1777939033940955159?ref_src=twsrc%5Etfw)
-
-10.1097/MD.0000000000037418
 
 ---
 
