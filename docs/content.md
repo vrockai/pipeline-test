@@ -156,6 +156,18 @@ With advancements in long-term survival after pancreatectomy, post-pancreatectom
 
 ---
 
+## Can a Targeted Social Media Campaign Increase Reach of, and Engagement With, Heart Failure Self-Management Resources in Culturally and Linguistically Diverse Communities in Victoria, Australia? An Evaluation Including Cost.
+ 04.10.2023, _S Matthews, J Just, G Jennings, J Bray, J Lewis, A Buttery_
+
+
+This study investigates whether a targeted social media campaign increases reach and engagement of heart failure self-management educational resources among culturally and linguistically diverse communities in Victoria, Australia.
+
+[Source](https://twitter.com/heartfoundation?ref_src=twsrc%5Etfw)
+
+10.1016/j.hlc.2023.06.724
+
+---
+
 ## @heartfoundation
 
 [Source](https://twitter.com/heartfoundation?ref_src=twsrc%5Etfw)
@@ -216,6 +228,18 @@ With advancements in long-term survival after pancreatectomy, post-pancreatectom
 
 ---
 
+## High-Acuity Alcohol-Related Complications During the COVID-19 Pandemic.
+ 12.04.2024, _B Shuey, A Halbisen, M Lakoma, F Zhang, S Argetsinger, EC Williams, BG Druss, H Wen, JF Wharam_
+
+
+Research has demonstrated an association between the COVID-19 pandemic and increased alcohol-related liver disease hospitalizations and deaths. However, trends in alcohol-related complications more broadly are unclear, especially among subgroups disproportionately affected by alcohol use.
+
+[Source](https://twitter.com/segal_eran/status/1777315060072734824?ref_src=twsrc%5Etfw)
+
+10.1001/jamahealthforum.2024.0501
+
+---
+
 ## April 8, 2024
 
 [Source](https://twitter.com/segal_eran/status/1777315060072734824?ref_src=twsrc%5Etfw)
@@ -253,16 +277,9 @@ The present study was undertaken to profile and compare the cecal microbial comm
 
 ---
 
-## Decoding populations in the ocean microbiome.
- 04.04.2024, _R Logares_
-
-
-_Animals, Ecosystem, Microbiota, Oceans and Seas, Metagenomics_
-Understanding the characteristics and structure of populations is fundamental to comprehending ecosystem processes and evolutionary adaptations. While the study of animal and plant populations has spanned a few centuries, microbial populations have been under scientific scrutiny for a considerably shorter period. In the ocean, analyzing the genetic composition of microbial populations and their adaptations to multiple niches can yield important insights into ecosystem function and the microbiome's response to global change. However, microbial populations have remained elusive to the scientific community due to the challenges associated with isolating microorganisms in the laboratory. Today, advancements in large-scale metagenomics and metatranscriptomics facilitate the investigation of populations from many uncultured microbial species directly from their habitats. The knowledge acquired thus far reveals substantial genetic diversity among various microbial species, showcasing distinct patterns of population differentiation and adaptations, and highlighting the significant role of selection in structuring populations. In the coming years, population genomics is expected to significantly increase our understanding of the architecture and functioning of the ocean microbiome, providing insights into its vulnerability or resilience in the face of ongoing global change. Video Abstract.
+## Decoding populations in the ocean microbiome
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01778-0)
-
-10.1186/s40168-024-01778-0
 
 ---
 
