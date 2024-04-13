@@ -156,18 +156,6 @@ With advancements in long-term survival after pancreatectomy, post-pancreatectom
 
 ---
 
-## Can a Targeted Social Media Campaign Increase Reach of, and Engagement With, Heart Failure Self-Management Resources in Culturally and Linguistically Diverse Communities in Victoria, Australia? An Evaluation Including Cost.
- 04.10.2023, _S Matthews, J Just, G Jennings, J Bray, J Lewis, A Buttery_
-
-
-This study investigates whether a targeted social media campaign increases reach and engagement of heart failure self-management educational resources among culturally and linguistically diverse communities in Victoria, Australia.
-
-[Source](https://twitter.com/heartfoundation?ref_src=twsrc%5Etfw)
-
-10.1016/j.hlc.2023.06.724
-
----
-
 ## @heartfoundation
 
 [Source](https://twitter.com/heartfoundation?ref_src=twsrc%5Etfw)
@@ -183,6 +171,18 @@ This study investigates whether a targeted social media campaign increases reach
 ## https://t.co/CtgEI8DxB1
 
 [Source](https://t.co/CtgEI8DxB1)
+
+---
+
+## High-Acuity Alcohol-Related Complications During the COVID-19 Pandemic.
+ 12.04.2024, _B Shuey, A Halbisen, M Lakoma, F Zhang, S Argetsinger, EC Williams, BG Druss, H Wen, JF Wharam_
+
+
+Research has demonstrated an association between the COVID-19 pandemic and increased alcohol-related liver disease hospitalizations and deaths. However, trends in alcohol-related complications more broadly are unclear, especially among subgroups disproportionately affected by alcohol use.
+
+[Source](https://twitter.com/FZMarques/status/1777472739835785244?ref_src=twsrc%5Etfw)
+
+10.1001/jamahealthforum.2024.0501
 
 ---
 
@@ -225,18 +225,6 @@ This study investigates whether a targeted social media campaign increases reach
 ## pic.twitter.com/FkkR0uM3aJ
 
 [Source](https://t.co/FkkR0uM3aJ)
-
----
-
-## High-Acuity Alcohol-Related Complications During the COVID-19 Pandemic.
- 12.04.2024, _B Shuey, A Halbisen, M Lakoma, F Zhang, S Argetsinger, EC Williams, BG Druss, H Wen, JF Wharam_
-
-
-Research has demonstrated an association between the COVID-19 pandemic and increased alcohol-related liver disease hospitalizations and deaths. However, trends in alcohol-related complications more broadly are unclear, especially among subgroups disproportionately affected by alcohol use.
-
-[Source](https://twitter.com/segal_eran/status/1777315060072734824?ref_src=twsrc%5Etfw)
-
-10.1001/jamahealthforum.2024.0501
 
 ---
 
