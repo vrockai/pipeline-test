@@ -71,16 +71,9 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Gut microbiota differences in stunted and normal-lenght children aged 36-45 months in East Nusa Tenggara, Indonesia.
- 01.04.2024, _IS Surono, I Popov, S Verbruggen, J Verhoeven, PD Kusumo, K Venema_
-
-
-_Child, Humans, Indonesia, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Growth Disorders, Bacteroidetes, Butyrates, Feces_
-The role of the gut microbiota in energy metabolism of the host has been established, both in overweight/obesity, as well as in undernutrition/stunting. Dysbiosis of the gut microbiota may predispose to stunting. The aim of this study was to compare the gut microbiota composition of stunted Indonesian children and non-stunted children between 36 and 45 months from two sites on the East Nusa Tenggara (ENT) islands. Fecal samples were collected from 100 stunted children and 100 non-stunted children in Kupang and North Kodi. The gut microbiota composition was determined by sequencing amplicons of the V3-V4 region of the 16S rRNA gene. Moreover, fecal SCFA concentrations were analyzed. The microbiota composition was correlated to anthropometric parameters and fecal metabolites. The phyla Bacteroidetes (Bacteroidota; q = 0.014) and Cyanobacteria (q = 0.049) were significantly higher in stunted children. Three taxa at genus levels were consistently significantly higher in stunted children at both sampling sites, namely Lachnoclostridium, Faecalibacterium and Veillonella (q &lt; 7 * 10-4). These and 9 other taxa positively correlated to the z-score length-for-age (zlen), while 11 taxa negatively correlated with zlen. Several taxa also correlated with sanitary parameters, some of which were also significantly different between the two groups. All three fecal SCFA concentrations (acetate, propionate and butyrate) and their total were lower in stunted children compared to non-stunted children, although not significant for butyrate, indicating lower energy-extraction by the gut microbiota. Also, since SCFA have been shown to be involved in gut barrier function, barrier integrity may be affected in the stunted children. It remains to be seen if the three taxa are involved in stunting, or are changed due to e.g. differences in diet, hygiene status, or other factors. The observed differences in this study do not agree with our previous observations in children on Java, Indonesia. There are differences in infrastructure facilities such as clean water and sanitation on ENT and Java, which may contribute to the differences observed. The role of the gut microbiota in stunting therefore requires more in depth studies. Trial registration: the trial was registered at ClinicalTrials.gov with identifier number NCT05119218.
+## Gut microbiota differences in stunted and normal-lenght children aged 36–45 months in East Nusa Tenggara, Indonesia
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299349)
-
-10.1371/journal.pone.0299349
 
 ---
 
@@ -162,18 +155,6 @@ With advancements in long-term survival after pancreatectomy, post-pancreatectom
 
 ---
 
-## Can a Targeted Social Media Campaign Increase Reach of, and Engagement With, Heart Failure Self-Management Resources in Culturally and Linguistically Diverse Communities in Victoria, Australia? An Evaluation Including Cost.
- 04.10.2023, _S Matthews, J Just, G Jennings, J Bray, J Lewis, A Buttery_
-
-
-This study investigates whether a targeted social media campaign increases reach and engagement of heart failure self-management educational resources among culturally and linguistically diverse communities in Victoria, Australia.
-
-[Source](https://twitter.com/heartfoundation?ref_src=twsrc%5Etfw)
-
-10.1016/j.hlc.2023.06.724
-
----
-
 ## @heartfoundation
 
 [Source](https://twitter.com/heartfoundation?ref_src=twsrc%5Etfw)
@@ -234,15 +215,15 @@ This study investigates whether a targeted social media campaign increases reach
 
 ---
 
-## Acute Gastroenteritis Outbreak Among Colorado River Rafters and Backpackers in the Grand Canyon, 2022.
- 13.04.2024, _S Miko, L Calderwood, AP Dale, RF King, MB Maurer, MA Said, M Gebhardt, LP Dyer, W Maurer, ME Wikswo, SA Mirza_
+## Effect of proteinuria at relapse on shear wave velocity assessed using ultrasound elastography in children with idiopathic nephrotic syndrome.
+ 13.04.2024, _T Nishino, S Tomori, S Ono, K Takahashi, M Mimaki_
 
 
-From April 1 to May 31, 2022, Grand Canyon National Park received increased acute gastroenteritis reports. Pooled portable toilet specimens identified norovirus genogroups I and II. We sought to determine outbreak transmission contributors and individual risk factors while rafting or backpacking in the park.
+Shear wave velocity (SWV) is an ultrasound elastography technique that provides much information for kidney disease assessment. However, the factors that alter SWV are not fully understood; it is unclear whether the variation in SWV seen in proteinuria associated with disease progression is due to tissue or proteinuria. This study investigated the effect of proteinuria on SWV.
 
 [Source](https://twitter.com/segal_eran/status/1777315060072734824?ref_src=twsrc%5Etfw)
 
-10.1177/10806032241245093
+10.1007/s10396-024-01455-7
 
 ---
 
@@ -283,9 +264,16 @@ The present study was undertaken to profile and compare the cecal microbial comm
 
 ---
 
-## Decoding populations in the ocean microbiome
+## Decoding populations in the ocean microbiome.
+ 04.04.2024, _R Logares_
+
+
+_Animals, Ecosystem, Microbiota, Oceans and Seas, Metagenomics_
+Understanding the characteristics and structure of populations is fundamental to comprehending ecosystem processes and evolutionary adaptations. While the study of animal and plant populations has spanned a few centuries, microbial populations have been under scientific scrutiny for a considerably shorter period. In the ocean, analyzing the genetic composition of microbial populations and their adaptations to multiple niches can yield important insights into ecosystem function and the microbiome's response to global change. However, microbial populations have remained elusive to the scientific community due to the challenges associated with isolating microorganisms in the laboratory. Today, advancements in large-scale metagenomics and metatranscriptomics facilitate the investigation of populations from many uncultured microbial species directly from their habitats. The knowledge acquired thus far reveals substantial genetic diversity among various microbial species, showcasing distinct patterns of population differentiation and adaptations, and highlighting the significant role of selection in structuring populations. In the coming years, population genomics is expected to significantly increase our understanding of the architecture and functioning of the ocean microbiome, providing insights into its vulnerability or resilience in the face of ongoing global change. Video Abstract.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01778-0)
+
+10.1186/s40168-024-01778-0
 
 ---
 
