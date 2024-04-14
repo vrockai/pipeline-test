@@ -1,295 +1,144 @@
-## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
- 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
+## Human fecal alpha-glucosidase activity and its relationship with gut microbiota profiles and early stages of intestinal mucosa damage.
+ 13.04.2024, _S Ruiz-Saavedra, N Salazar, A Suárez, Y Diaz, C González Del Rey, S González, CG de Los Reyes-Gavilán_
 
 
-_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
-This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
+We investigated potential relationships among initial lesions of the intestinal mucosa, fecal enzymatic activities and microbiota profiles.
 
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1016/j.anaerobe.2024.102853)
 
-10.3390/ijerph19010099
-
----
-
-## #MVIF
-
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+10.1016/j.anaerobe.2024.102853
 
 ---
 
-## @jjsso0
+## The microbiota drives diurnal rhythms in tryptophan metabolism in the stressed gut.
+ 13.04.2024, _CE Gheorghe, SJ Leigh, GSS Tofani, TFS Bastiaanssen, JM Lyte, E Gardellin, A Govindan, C Strain, S Martinez-Herrero, MS Goodson, N Kelley-Loughnane, JF Cryan, G Clarke_
 
-[Source](https://twitter.com/jjsso0?ref_src=twsrc%5Etfw)
 
----
+Chronic stress disrupts microbiota-gut-brain axis function and is associated with altered tryptophan metabolism, impaired gut barrier function, and disrupted diurnal rhythms. However, little is known about the effects of acute stress on the gut and how it is influenced by diurnal physiology. Here, we used germ-free and antibiotic-depleted mice to understand how microbiota-dependent oscillations in tryptophan metabolism would alter gut barrier function at baseline and in response to an acute stressor. Cecal metabolomics identified tryptophan metabolism as most responsive to a 15-min acute stressor, while shotgun metagenomics revealed that most bacterial species exhibiting rhythmicity metabolize tryptophan. Our findings highlight that the gastrointestinal response to acute stress is dependent on the time of day and the microbiome, with a signature of stress-induced functional alterations in the ileum and altered tryptophan metabolism in the colon.
 
-## @cocodyq
+[Source](https://doi.org/10.1016/j.celrep.2024.114079)
 
-[Source](https://twitter.com/cocodyq?ref_src=twsrc%5Etfw)
-
----
-
-## @SZhangJerry
-
-[Source](https://twitter.com/SZhangJerry?ref_src=twsrc%5Etfw)
+10.1016/j.celrep.2024.114079
 
 ---
 
-## @YePeng21
+## Alterations in gut microbiota contribute to cognitive deficits induced by chronic infection of <em>Toxoplasma gondii</em>
 
-[Source](https://twitter.com/YePeng21?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/m5gFjcfYXY
-
-[Source](https://t.co/m5gFjcfYXY)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0889159124003532?via%3Dihub)
 
 ---
 
-## pic.twitter.com/ZN4DlznlmR
+## Combining Fecal 16S rRNA Sequencing and Spinal Cord Metabolomics analysis to explain the modulatory effect of PPARα on Neuropathic Pain.
+ 13.04.2024, _ZJ Wu, YY Zhao, SJ Hao, BB Dong, YX Zheng, B Liu, J Li_
 
-[Source](https://t.co/ZN4DlznlmR)
 
----
+Existing evidence suggests that the composition of the gut microbiota is associated with neuropathic pain (NP), but the mechanistic link is elusive. Peroxisome proliferator-activated receptor α (PPARα) has been shown to be a pharmacological target for the treatment of metabolic disorders, and its expression is also involved in inflammatory regulation. The aim of this study was to investigate the important modulatory effects of PPARα on gut microbiota and spinal cord metabolites in mice subjected to chronic constriction injury.
 
-## April 8, 2024
+[Source](https://www.sciencedirect.com/science/article/pii/S0361923024000765?via%3Dihub)
 
-[Source](https://twitter.com/MicrobiomeVIF/status/1777261240802250910?ref_src=twsrc%5Etfw)
-
----
-
-## Saliva sampling method influences oral microbiome composition and taxa distribution associated with oral diseases
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301016)
+10.1016/j.brainresbull.2024.110943
 
 ---
 
-## Changes in the intestinal microbiota of individuals with non-alcoholic fatty liver disease based on sequencing: An updated systematic review and meta-analysis
+## The Landscape and Perspectives of the Human Gut Metaproteomics.
+ 12.04.2024, _Z Sun, Z Ning, D Figeys_
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299946)
 
----
+The human gut microbiome is closely associated with human health and diseases. Metaproteomics has emerged as a valuable tool for studying the functionality of the gut microbiome by analyzing the entire proteins present in microbial communities. Recent advancements in liquid chromatography and tandem mass spectrometry (LC-MS/MS) techniques have expanded the detection range of metaproteomics. However, the overall coverage of the proteome in metaproteomics is still limited. While metagenomics studies have revealed substantial microbial diversity and functional potential of the human gut microbiome, few studies have summarized and studied the human gut microbiome landscape revealed with metaproteomics. In this paper, we present the current landscape of human gut metaproteomics studies by re-analyzing the identification results from fifteen published studies. We quantified the limited proteome coverage in metaproteomics and revealed a high proportion of annotation coverage of metaproteomics-identified proteins. We conducted a preliminary comparison between the metaproteomics view and the metagenomics view of the human gut microbiome, identifying key areas of consistency and divergence. Based on the current landscape of human gut metaproteomics, we discuss the feasibility of using metaproteomics to study functionally unknown proteins and propose a whole workflow peptide-centric analysis. Additionally, we suggest enhancing metaproteomics analysis by refining taxonomic classification and calculating confidence scores, as well as developing tools for analyzing the interaction between taxonomy and function.
 
-## Gut microbiota differences in stunted and normal-lenght children aged 36–45 months in East Nusa Tenggara, Indonesia
+[Source](https://www.mcponline.org/article/S1535-9476(24)00053-7/fulltext)
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299349)
-
----
-
-## Integrating research on bacterial pathogens and commensals to fight infections—an ecological perspective
-
-[Source](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247%2824%2900049-1/fulltext)
+10.1016/j.mcpro.2024.100763
 
 ---
 
-## Recommendations for the Use of Dietary Fiber to Improve Blood Pressure Control
+## Effects of Exercise on Gut Microbiota of Adults: A Systematic Review and Meta-Analysis.
+ 13.04.2024, _L Min, A Ablitip, R Wang, T Luciana, M Wei, X Ma_
 
-[Source](https://www.ahajournals.org/doi/abs/10.1161/HYPERTENSIONAHA.123.22575)
 
----
+The equilibrium between gut microbiota (GM) and the host plays a pivotal role in maintaining overall health, influencing various physiological and metabolic functions. Emerging research suggests that exercise modulates the abundance and functionality of gut bacteria, yet the comprehensive effects on GM diversity remain to be synthesized.
 
-## @HyperAHA
+[Source](https://doi.org/10.3390/nu16071070)
 
-[Source](https://twitter.com/HyperAHA?ref_src=twsrc%5Etfw)
-
----
-
-## #BloodPressure
-
-[Source](https://twitter.com/hashtag/BloodPressure?src=hash&ref_src=twsrc%5Etfw)
+10.3390/nu16071070
 
 ---
 
-## @HamdiAJama
+## Understanding the influence of the microbiome on childhood infections.
+ 12.04.2024, _SM Heston, JH Hurst, MS Kelly_
 
-[Source](https://twitter.com/HamdiAJama?ref_src=twsrc%5Etfw)
 
----
+The microbiome is known to have a substantial impact on human health and disease. However, the impacts of the microbiome on immune system development, susceptibility to infectious diseases, and vaccine-elicited immune responses are emerging areas of interest.
 
-## @Matt_Snelson
+[Source](https://doi.org/10.1080/14787210.2024.2340664)
 
-[Source](https://twitter.com/Matt_Snelson?ref_src=twsrc%5Etfw)
-
----
-
-## @alta_schutte
-
-[Source](https://twitter.com/alta_schutte?ref_src=twsrc%5Etfw)
+10.1080/14787210.2024.2340664
 
 ---
 
-## @georgeinstitute
+## Affective Symptoms in Pregnancy are Associated with the Vaginal Microbiome
 
-[Source](https://twitter.com/georgeinstitute?ref_src=twsrc%5Etfw)
-
----
-
-## @MonashBiol
-
-[Source](https://twitter.com/MonashBiol?ref_src=twsrc%5Etfw)
+[Source](https://www.biorxiv.org/content/10.1101/2024.04.12.589254v1.abstract)
 
 ---
 
-## Can a Targeted Social Media Campaign Increase Reach of, and Engagement With, Heart Failure Self-Management Resources in Culturally and Linguistically Diverse Communities in Victoria, Australia? An Evaluation Including Cost.
- 04.10.2023, _S Matthews, J Just, G Jennings, J Bray, J Lewis, A Buttery_
+## Endosymbiont diversity across native and invasive brown widow spider populations.
+ 12.04.2024, _MA Mowery, LC Rosenwald, E Chapman, Y Lubin, M Segoli, T Khoza, R Lyle, JA White_
 
 
-This study investigates whether a targeted social media campaign increases reach and engagement of heart failure self-management educational resources among culturally and linguistically diverse communities in Victoria, Australia.
+The invasive brown widow spider, Latrodectus geometricus (Araneae: Theridiidae), has spread in multiple locations around the world and, along with it, brought associated organisms such as endosymbionts. We investigated endosymbiont diversity and prevalence across putative native and invasive populations of this spider, predicting lower endosymbiont diversity across the invasive range compared to the native range. First, we characterized the microbial community in the putative native (South Africa) and invasive (Israel and the United States) ranges via high throughput 16S sequencing of 103 adult females. All specimens were dominated by reads from only 1-3 amplicon sequence variants (ASV), and most individuals were infected with an apparently uniform strain of Rhabdochlamydia. We also found Rhabdochlamydia in spider eggs, indicating that it is a maternally-inherited endosymbiont. Relatively few other ASV were detected, but included two variant Rhabdochlamydia strains and several Wolbachia, Spiroplasma and Enterobacteriaceae strains. We then diagnostically screened 118 adult female spiders from native and invasive populations specifically for Rhabdochlamydia and Wolbachia. We found Rhabdochlamydia in 86% of individuals and represented in all populations, which suggests that it is a consistent and potentially important associate of L. geometricus. Wolbachia was found at lower overall prevalence (14%) and was represented in all countries, but not all populations. In addition, we found evidence for geographic variation in endosymbiont prevalence: spiders from Israel were more likely to carry Rhabdochlamydia than those from the US and South Africa, and Wolbachia was geographically clustered in both Israel and South Africa. Characterizing endosymbiont prevalence and diversity is a first step in understanding their function inside the host and may shed light on the process of spread and population variability in cosmopolitan invasive species.
 
-[Source](https://twitter.com/heartfoundation?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1038/s41598-024-58723-2)
 
-10.1016/j.hlc.2023.06.724
-
----
-
-## @heartfoundation
-
-[Source](https://twitter.com/heartfoundation?ref_src=twsrc%5Etfw)
+10.1038/s41598-024-58723-2
 
 ---
 
-## @MonashVHI
+## Localization and symbiotic status of probiotics in the coral holobiont.
+ 12.04.2024, _PM Cardoso, LJ Hill, HDM Villela, CLS Vilela, JM Assis, PM Rosado, JG Rosado, MA Chacon, ME Majzoub, GAS Duarte, T Thomas, RS Peixoto_
 
-[Source](https://twitter.com/MonashVHI?ref_src=twsrc%5Etfw)
 
----
+Corals establish symbiotic relationships with microorganisms, especially endosymbiotic photosynthetic algae. Although other microbes have been commonly detected in coral tissues, their identity and beneficial functions for their host are unclear. Here, we confirm the beneficial outcomes of the inoculation of bacteria selected as probiotics and use fluorescence in situ hybridization (FISH) to define their localization in the coral Pocillopora damicornis. Our results show the first evidence of the inherent presence of Halomonas sp. and Cobetia sp. in native coral tissues, even before their inoculation. Furthermore, the relative enrichment of these coral tissue-associated bacteria through their inoculation in corals correlates with health improvements, such as increases in photosynthetic potential, and productivity. Our study suggests the symbiotic status of Halomonas sp. and Cobetia sp. in corals by indicating their localization within coral gastrodermis and epidermis and correlating their increased relative abundance through active inoculation with beneficial outcomes for the holobiont. This knowledge is crucial to facilitate the screening and application of probiotics that may not be transient members of the coral microbiome.
 
-## https://t.co/CtgEI8DxB1
+[Source](https://doi.org/10.1128/msystems.00261-24)
 
-[Source](https://t.co/CtgEI8DxB1)
-
----
-
-## April 8, 2024
-
-[Source](https://twitter.com/FZMarques/status/1777472739835785244?ref_src=twsrc%5Etfw)
+10.1128/msystems.00261-24
 
 ---
 
-## Prebiotic selection influencing inflammatory bowel disease treatment outcomes: a review of the preclinical and clinical evidence
+## Comparative analysis based on shared amplicon sequence variants reveals that cohabitation influences gut microbiota sharing between humans and dogs
 
-[Source](https://egastroenterology.bmj.com/content/2/2/e100055)
-
----
-
-## Overcoming donor variability and risks associated with fecal microbiota transplants through bacteriophage-mediated treatments
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.03.17.532897v3.abstract)
+[Source](https://www.biorxiv.org/content/10.1101/2024.04.11.589141v1.abstract)
 
 ---
 
-## Continuous glucose monitoring and intrapersonal variability in fasting glucose
+## Global insights into endophytic bacterial communities of terrestrial plants: Exploring the potential applications of endophytic microbiota in sustainable agriculture.
+ 12.04.2024, _L Huang, Y Fu, Y Liu, Y Chen, T Wang, M Wang, X Lin, Y Feng_
 
-[Source](https://www.nature.com/articles/s41591-024-02908-9)
 
----
+Endophytic microorganisms are indispensable symbionts during plant growth and development and often serve functions such as growth promotion and stress resistance in plants. Therefore, an increasing number of researchers have applied endophytes for multifaceted phytoremediation (e.g., organic pollutants and heavy metals) in recent years. With the availability of next-generation sequencing technologies, an increasing number of studies have shifted the focus from culturable bacteria to total communities. However, information on the composition, structure, and function of bacterial endophytic communities is still not widely synthesized. To explore the general patterns of variation in bacterial communities between plant niches, we reanalyzed data from 1499 samples in 30 individual studies from different continents and provided comprehensive insights. A group of bacterial genera were commonly found in most plant roots and shoots. Our analysis revealed distinct variations in the diversity, composition, structure, and function of endophytic bacterial communities between plant roots and shoots. These variations underscore the sophisticated mechanisms by which plants engage with their endophytic microbiota, optimizing these interactions to bolster growth, health, and resilience against stress. Highlighting the strategic role of endophytic bacteria in promoting sustainable agricultural practices and environmental stewardship, our study not only offers global insights into the endophytic bacterial communities of terrestrial plants but also underscores the untapped potential of these communities as invaluable resources for future research.
 
-## @NatureMedicine
+[Source](https://doi.org/10.1016/j.scitotenv.2024.172231)
 
-[Source](https://twitter.com/NatureMedicine?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/3NSiut3MDa
-
-[Source](https://t.co/3NSiut3MDa)
+10.1016/j.scitotenv.2024.172231
 
 ---
 
-## pic.twitter.com/FkkR0uM3aJ
+## Microbiome Analysis Revealed Acholeplasma as a Possible Factor Influencing the Susceptibility to Bacterial Leaf Blight Disease of Two Domestic Rice Cultivars in Vietnam.
+ 12.04.2024, _TTH Nguyen, C Bez, I Bertani, MH Nguyen, TKN Nguyen, V Venturi, HT Dinh_
 
-[Source](https://t.co/FkkR0uM3aJ)
 
----
+The microbiomes of two important rice cultivars in Vietnam which differ by their susceptibility to the bacterial leaf blight (BLB) disease were analyzed through 16S rRNA amplicon technology. A higher number of operational taxonomic units and alpha-diversity indices were shown in the BLB-resistant LA cultivar than in the BLB-susceptible TB cultivar. The BLB pathogen Xanthomonas was scantly found (0.003%) in the LA cultivar, whereas was in a significantly higher ratio in the TB cultivar (1.82%), reflecting the susceptibility to BLB of these cultivars. Of special interest was the genus Acholeplasma presented in the BLB-resistant LA cultivar at a high relative abundance (22.32%), however, was minor in the BLB-sensitive TB cultivar (0.09%), raising a question about its roles in controlling the Xanthomonas low in the LA cultivar. It is proposed that Acholeplasma once entered the host plant would hamper other phytopathogens, i.e. Xanthomonas, by yet unknown mechanisms, of which the triggering of the host plants to produce secondary metabolites against pathogens could be a testable hypothesis.
 
-## April 8, 2024
+[Source](https://doi.org/10.5423/PPJ.NT.12.2023.0167)
 
-[Source](https://twitter.com/segal_eran/status/1777315060072734824?ref_src=twsrc%5Etfw)
-
----
-
-## Intestinal microbiome profiles in broiler chickens raised without antibiotics exhibit altered microbiome dynamics relative to conventionally raised chickens
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301110)
+10.5423/PPJ.NT.12.2023.0167
 
 ---
 
-## Microbial signatures and enterotype clusters in fattening pigs: implications for nitrogen utilization efficiency
+## Different profiles of soil phosphorous compounds depending on tree species and availability of soil phosphorus in a tropical rainforest in French Guiana
 
-[Source](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1354537/full)
-
----
-
-## A genome-centric view of the role of the<em> Acropora kenti </em>microbiome in coral health and resilience
-
-[Source](https://www.nature.com/articles/s41467-024-46905-5)
-
----
-
-## Varied microbial community assembly and specialization patterns driven by early life microbiome perturbation and modulation in young ruminants
-
-[Source](https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycae044/7642529)
-
----
-
-## Decoding populations in the ocean microbiome
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01778-0)
-
----
-
-## https://t.co/qjnVgy718g
-
-[Source](https://t.co/qjnVgy718g)
-
----
-
-## https://t.co/cRF0RiuY0F
-
-[Source](https://t.co/cRF0RiuY0F)
-
----
-
-## April 5, 2024
-
-[Source](https://twitter.com/loglab_bcn/status/1776134740237582364?ref_src=twsrc%5Etfw)
-
----
-
-## High-resolution Profiling of Bacterial and Fungal Communities using Pangenome-Informed Taxon-Specific Long-Read Amplicons
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.07.17.549274v4.abstract)
-
----
-
-## CELEBRIMBOR: Pangenomes from metagenomes
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.04.05.588231v1)
-
----
-
-## #AHMRN
-
-[Source](https://twitter.com/hashtag/AHMRN?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## #JournalClub
-
-[Source](https://twitter.com/hashtag/JournalClub?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## pic.twitter.com/wPHTkmCtLR
-
-[Source](https://t.co/wPHTkmCtLR)
-
----
-
-## April 10, 2024
-
-[Source](https://twitter.com/microbiome_net/status/1777939033940955159?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1186/s12870-024-04907-x)
 
 ---
 
