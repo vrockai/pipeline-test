@@ -28,15 +28,9 @@ Chronic stress disrupts microbiota-gut-brain axis function and is associated wit
 
 ---
 
-## Combining Fecal 16S rRNA Sequencing and Spinal Cord Metabolomics analysis to explain the modulatory effect of PPARα on Neuropathic Pain.
- 13.04.2024, _ZJ Wu, YY Zhao, SJ Hao, BB Dong, YX Zheng, B Liu, J Li_
-
-
-Existing evidence suggests that the composition of the gut microbiota is associated with neuropathic pain (NP), but the mechanistic link is elusive. Peroxisome proliferator-activated receptor α (PPARα) has been shown to be a pharmacological target for the treatment of metabolic disorders, and its expression is also involved in inflammatory regulation. The aim of this study was to investigate the important modulatory effects of PPARα on gut microbiota and spinal cord metabolites in mice subjected to chronic constriction injury.
+## Combining Fecal 16S rRNA Sequencing and Spinal Cord Metabolomics analysis to explain the modulatory effect of PPARα on Neuropathic Pain
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0361923024000765?via%3Dihub)
-
-10.1016/j.brainresbull.2024.110943
 
 ---
 
@@ -113,7 +107,7 @@ Corals establish symbiotic relationships with microorganisms, especially endosym
 ---
 
 ## Global insights into endophytic bacterial communities of terrestrial plants: Exploring the potential applications of endophytic microbiota in sustainable agriculture.
- 12.04.2024, _L Huang, Y Fu, Y Liu, Y Chen, T Wang, M Wang, X Lin, Y Feng_
+ 14.04.2024, _L Huang, Y Fu, Y Liu, Y Chen, T Wang, M Wang, X Lin, Y Feng_
 
 
 Endophytic microorganisms are indispensable symbionts during plant growth and development and often serve functions such as growth promotion and stress resistance in plants. Therefore, an increasing number of researchers have applied endophytes for multifaceted phytoremediation (e.g., organic pollutants and heavy metals) in recent years. With the availability of next-generation sequencing technologies, an increasing number of studies have shifted the focus from culturable bacteria to total communities. However, information on the composition, structure, and function of bacterial endophytic communities is still not widely synthesized. To explore the general patterns of variation in bacterial communities between plant niches, we reanalyzed data from 1499 samples in 30 individual studies from different continents and provided comprehensive insights. A group of bacterial genera were commonly found in most plant roots and shoots. Our analysis revealed distinct variations in the diversity, composition, structure, and function of endophytic bacterial communities between plant roots and shoots. These variations underscore the sophisticated mechanisms by which plants engage with their endophytic microbiota, optimizing these interactions to bolster growth, health, and resilience against stress. Highlighting the strategic role of endophytic bacteria in promoting sustainable agricultural practices and environmental stewardship, our study not only offers global insights into the endophytic bacterial communities of terrestrial plants but also underscores the untapped potential of these communities as invaluable resources for future research.
