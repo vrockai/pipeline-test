@@ -64,9 +64,15 @@ Chronic stress disrupts microbiota-gut-brain axis function and is associated wit
 
 ---
 
-## Localization and symbiotic status of probiotics in the coral holobiont
+## Localization and symbiotic status of probiotics in the coral holobiont.
+ 12.04.2024, _PM Cardoso, LJ Hill, HDM Villela, CLS Vilela, JM Assis, PM Rosado, JG Rosado, MA Chacon, ME Majzoub, GAS Duarte, T Thomas, RS Peixoto_
+
+
+Corals establish symbiotic relationships with microorganisms, especially endosymbiotic photosynthetic algae. Although other microbes have been commonly detected in coral tissues, their identity and beneficial functions for their host are unclear. Here, we confirm the beneficial outcomes of the inoculation of bacteria selected as probiotics and use fluorescence in situ hybridization (FISH) to define their localization in the coral Pocillopora damicornis. Our results show the first evidence of the inherent presence of Halomonas sp. and Cobetia sp. in native coral tissues, even before their inoculation. Furthermore, the relative enrichment of these coral tissue-associated bacteria through their inoculation in corals correlates with health improvements, such as increases in photosynthetic potential, and productivity. Our study suggests the symbiotic status of Halomonas sp. and Cobetia sp. in corals by indicating their localization within coral gastrodermis and epidermis and correlating their increased relative abundance through active inoculation with beneficial outcomes for the holobiont. This knowledge is crucial to facilitate the screening and application of probiotics that may not be transient members of the coral microbiome.
 
 [Source](https://doi.org/10.1128/msystems.00261-24)
+
+10.1128/msystems.00261-24
 
 ---
 
@@ -76,15 +82,27 @@ Chronic stress disrupts microbiota-gut-brain axis function and is associated wit
 
 ---
 
-## Global insights into endophytic bacterial communities of terrestrial plants: Exploring the potential applications of endophytic microbiota in sustainable agriculture
+## Global insights into endophytic bacterial communities of terrestrial plants: Exploring the potential applications of endophytic microbiota in sustainable agriculture.
+ 14.04.2024, _L Huang, Y Fu, Y Liu, Y Chen, T Wang, M Wang, X Lin, Y Feng_
+
+
+Endophytic microorganisms are indispensable symbionts during plant growth and development and often serve functions such as growth promotion and stress resistance in plants. Therefore, an increasing number of researchers have applied endophytes for multifaceted phytoremediation (e.g., organic pollutants and heavy metals) in recent years. With the availability of next-generation sequencing technologies, an increasing number of studies have shifted the focus from culturable bacteria to total communities. However, information on the composition, structure, and function of bacterial endophytic communities is still not widely synthesized. To explore the general patterns of variation in bacterial communities between plant niches, we reanalyzed data from 1499 samples in 30 individual studies from different continents and provided comprehensive insights. A group of bacterial genera were commonly found in most plant roots and shoots. Our analysis revealed distinct variations in the diversity, composition, structure, and function of endophytic bacterial communities between plant roots and shoots. These variations underscore the sophisticated mechanisms by which plants engage with their endophytic microbiota, optimizing these interactions to bolster growth, health, and resilience against stress. Highlighting the strategic role of endophytic bacteria in promoting sustainable agricultural practices and environmental stewardship, our study not only offers global insights into the endophytic bacterial communities of terrestrial plants but also underscores the untapped potential of these communities as invaluable resources for future research.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2024.172231)
 
+10.1016/j.scitotenv.2024.172231
+
 ---
 
-## Microbiome Analysis Revealed Acholeplasma as a Possible Factor Influencing the Susceptibility to Bacterial Leaf Blight Disease of Two Domestic Rice Cultivars in Vietnam
+## Microbiome Analysis Revealed Acholeplasma as a Possible Factor Influencing the Susceptibility to Bacterial Leaf Blight Disease of Two Domestic Rice Cultivars in Vietnam.
+ 12.04.2024, _TTH Nguyen, C Bez, I Bertani, MH Nguyen, TKN Nguyen, V Venturi, HT Dinh_
+
+
+The microbiomes of two important rice cultivars in Vietnam which differ by their susceptibility to the bacterial leaf blight (BLB) disease were analyzed through 16S rRNA amplicon technology. A higher number of operational taxonomic units and alpha-diversity indices were shown in the BLB-resistant LA cultivar than in the BLB-susceptible TB cultivar. The BLB pathogen Xanthomonas was scantly found (0.003%) in the LA cultivar, whereas was in a significantly higher ratio in the TB cultivar (1.82%), reflecting the susceptibility to BLB of these cultivars. Of special interest was the genus Acholeplasma presented in the BLB-resistant LA cultivar at a high relative abundance (22.32%), however, was minor in the BLB-sensitive TB cultivar (0.09%), raising a question about its roles in controlling the Xanthomonas low in the LA cultivar. It is proposed that Acholeplasma once entered the host plant would hamper other phytopathogens, i.e. Xanthomonas, by yet unknown mechanisms, of which the triggering of the host plants to produce secondary metabolites against pathogens could be a testable hypothesis.
 
 [Source](https://doi.org/10.5423/PPJ.NT.12.2023.0167)
+
+10.5423/PPJ.NT.12.2023.0167
 
 ---
 
