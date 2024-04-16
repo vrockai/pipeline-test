@@ -121,7 +121,7 @@ Endophytic microorganisms are indispensable symbionts during plant growth and de
 ---
 
 ## Microbiome Analysis Revealed Acholeplasma as a Possible Factor Influencing the Susceptibility to Bacterial Leaf Blight Disease of Two Domestic Rice Cultivars in Vietnam.
- 12.04.2024, _TTH Nguyen, C Bez, I Bertani, MH Nguyen, TKN Nguyen, V Venturi, HT Dinh_
+ 16.04.2024, _TTH Nguyen, C Bez, I Bertani, MH Nguyen, TKN Nguyen, V Venturi, HT Dinh_
 
 
 The microbiomes of two important rice cultivars in Vietnam which differ by their susceptibility to the bacterial leaf blight (BLB) disease were analyzed through 16S rRNA amplicon technology. A higher number of operational taxonomic units and alpha-diversity indices were shown in the BLB-resistant LA cultivar than in the BLB-susceptible TB cultivar. The BLB pathogen Xanthomonas was scantly found (0.003%) in the LA cultivar, whereas was in a significantly higher ratio in the TB cultivar (1.82%), reflecting the susceptibility to BLB of these cultivars. Of special interest was the genus Acholeplasma presented in the BLB-resistant LA cultivar at a high relative abundance (22.32%), however, was minor in the BLB-sensitive TB cultivar (0.09%), raising a question about its roles in controlling the Xanthomonas low in the LA cultivar. It is proposed that Acholeplasma once entered the host plant would hamper other phytopathogens, i.e. Xanthomonas, by yet unknown mechanisms, of which the triggering of the host plants to produce secondary metabolites against pathogens could be a testable hypothesis.
