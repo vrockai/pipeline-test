@@ -1,102 +1,181 @@
-## Human fecal alpha-glucosidase activity and its relationship with gut microbiota profiles and early stages of intestinal mucosa damage.
- 13.04.2024, _S Ruiz-Saavedra, N Salazar, A Suárez, Y Diaz, C González Del Rey, S González, CG de Los Reyes-Gavilán_
+## video games to crowdsource puzzle solutions
 
-
-We investigated potential relationships among initial lesions of the intestinal mucosa, fecal enzymatic activities and microbiota profiles.
-
-[Source](https://doi.org/10.1016/j.anaerobe.2024.102853)
-
-10.1016/j.anaerobe.2024.102853
+[Source](https://www.nature.com/articles/s41587-024-02203-5)
 
 ---
 
-## The microbiota drives diurnal rhythms in tryptophan metabolism in the stressed gut.
- 13.04.2024, _CE Gheorghe, SJ Leigh, GSS Tofani, TFS Bastiaanssen, JM Lyte, E Gardellin, A Govindan, C Strain, S Martinez-Herrero, MS Goodson, N Kelley-Loughnane, JF Cryan, G Clarke_
+## Modulation of the gut microbiome and Firmicutes phylum reduction by a nutraceutical blend in the obesity mouse model and overweight humans: A double-blind clinical trial.
+ 17.04.2024, _V Nehmi-Filho, JA de Freitas, LA Franco, RC Martins, JAO Turri, AB Santamarina, JVDS Fonseca, EC Sabino, BC Moraes, E Souza, GM Murata, SF Costa, PS Alcântara, JP Otoch, AFM Pessoa_
 
 
-Chronic stress disrupts microbiota-gut-brain axis function and is associated with altered tryptophan metabolism, impaired gut barrier function, and disrupted diurnal rhythms. However, little is known about the effects of acute stress on the gut and how it is influenced by diurnal physiology. Here, we used germ-free and antibiotic-depleted mice to understand how microbiota-dependent oscillations in tryptophan metabolism would alter gut barrier function at baseline and in response to an acute stressor. Cecal metabolomics identified tryptophan metabolism as most responsive to a 15-min acute stressor, while shotgun metagenomics revealed that most bacterial species exhibiting rhythmicity metabolize tryptophan. Our findings highlight that the gastrointestinal response to acute stress is dependent on the time of day and the microbiome, with a signature of stress-induced functional alterations in the ileum and altered tryptophan metabolism in the colon.
+Overweight and obesity are closely linked to gut dysbiosis/dysmetabolism and disrupted De-Ritis ratio [aspartate aminotransferase (AST)/alanine aminotransferase (ALT) ratio], which may contribute to chronic noncommunicable diseases onset. Concurrently, extensive research explores nutraceuticals, and health-enhancing supplements, for disease prevention or treatment. Thus, sedentary overweight volunteers were double-blind randomized into two groups: Novel Nutraceutical_(S) (without silymarin) and Novel Nutraceutical (with silymarin). Experimental formulations were orally administered twice daily over 180 consecutive days. We evaluated fecal gut microbiota, based on partial 16S rRNA sequences, biochemistry and endocrine markers, steatosis biomarker (AST/ALT ratio), and anthropometric parameters. Post-supplementation, only the Novel Nutraceutical group reduced Clostridium clostridioforme (Firmicutes), Firmicutes/Bacteroidetes ratio (F/B ratio), and De-Ritis ratio, while elevating Bacteroides caccae and Bacteroides uniformis (Bacteroidetes) in Brazilian sedentary overweight volunteers after 180 days. In summary, the results presented here allow us to suggest the gut microbiota as the action mechanism of the Novel Nutraceutical promoting metabolic hepatic recovery in obesity/overweight non-drug interventions.
 
-[Source](https://doi.org/10.1016/j.celrep.2024.114079)
+[Source](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.3927)
 
-10.1016/j.celrep.2024.114079
-
----
-
-## Alterations in gut microbiota contribute to cognitive deficits induced by chronic infection of <em>Toxoplasma gondii</em>
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0889159124003532?via%3Dihub)
+10.1002/fsn3.3927
 
 ---
 
-## Combining Fecal 16S rRNA Sequencing and Spinal Cord Metabolomics analysis to explain the modulatory effect of PPARα on Neuropathic Pain
+## Ambient long-term exposure to organophosphorus pesticides and the human gut microbiome: an observational study.
+ 16.04.2024, _K Zhang, K Paul, JP Jacobs, MG Cockburn, JM Bronstein, I Del Rosario, B Ritz_
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0361923024000765?via%3Dihub)
 
----
+Organophosphorus pesticides (OP) have been associated with various human health conditions. Animal experiments and in-vitro models suggested that OP may also affect the gut microbiota. We examined associations between ambient chronic exposure to OP and gut microbial changes in humans.
 
-## The Landscape and Perspectives of the Human Gut Metaproteomics
+[Source](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-024-01078-y)
 
-[Source](https://www.mcponline.org/article/S1535-9476(24)00053-7/fulltext)
-
----
-
-## Effects of Exercise on Gut Microbiota of Adults: A Systematic Review and Meta-Analysis
-
-[Source](https://doi.org/10.3390/nu16071070)
+10.1186/s12940-024-01078-y
 
 ---
 
-## Understanding the influence of the microbiome on childhood infections
+## Skin Deep: The Potential of Microbiome Cosmetics.
+ 16.04.2024, _JH Han, HS Kim_
 
-[Source](https://doi.org/10.1080/14787210.2024.2340664)
 
----
+The interplay between the skin microbiome and its host is a complex facet of dermatological health and has become a critical focus in the development of microbiome cosmetics. The skin microbiome, comprising various microorganisms, is essential from birth, develops over the lifespan, and performs vital roles in protecting our body against pathogens, training the immune system, and facilitating the breakdown of organic matter. Dysbiosis, an imbalance of these microorganisms, has been implicated in a number of skin conditions such as acne, atopic dermatitis, and skin cancer. Recent scientific findings have spurred cosmetic companies to develop products that preserve and enhance the skin's microbial diversity balance. These products may incorporate elements like prebiotics, probiotics, and postbiotics, which are beneficial for the skin microbiome. Beyond topical products, there's increasing interest in ingestible beauty supplements (i.e. oral probiotics), highlighting the connection between the gut and skin. This review examines the influence of the microbiome on skin health and the emerging trends of microbiome skincare products.
 
-## Affective Symptoms in Pregnancy are Associated with the Vaginal Microbiome
+[Source](https://link.springer.com/article/10.1007/s12275-024-00128-x)
 
-[Source](https://www.biorxiv.org/content/10.1101/2024.04.12.589254v1.abstract)
-
----
-
-## Endosymbiont diversity across native and invasive brown widow spider populations
-
-[Source](https://doi.org/10.1038/s41598-024-58723-2)
+10.1007/s12275-024-00128-x
 
 ---
 
-## Localization and symbiotic status of probiotics in the coral holobiont
+## Metabolic Interaction Between Host and the Gut Microbiota During High-Fat Diet-Induced Colorectal Cancer.
+ 16.04.2024, _C Lee, S Lee, W Yoo_
 
-[Source](https://doi.org/10.1128/msystems.00261-24)
 
----
+Colorectal cancer (CRC) is the second-highest cause of cancer-associated mortality among both men and women worldwide. One of the risk factors for CRC is obesity, which is correlated with a high-fat diet prevalent in Western dietary habits. The association between an obesogenic high-fat diet and CRC has been established for several decades; however, the mechanisms by which a high-fat diet increases the risk of CRC remain unclear. Recent studies indicate that gut microbiota strongly influence the pathogenesis of both high-fat diet-induced obesity and CRC. The gut microbiota is composed of hundreds of bacterial species, some of which are implicated in CRC. In particular, the expansion of facultative anaerobic Enterobacteriaceae, which is considered a microbial signature of intestinal microbiota functional imbalance (dysbiosis), is associated with both high-fat diet-induced obesity and CRC. Here, we review the interaction between the gut microbiome and its metabolic byproducts in the context of colorectal cancer (CRC) during high-fat diet-induced obesity. In addition, we will cover how a high-fat diet can drive the expansion of genotoxin-producing Escherichia coli by altering intestinal epithelial cell metabolism during gut inflammation conditions.
 
-## Comparative analysis based on shared amplicon sequence variants reveals that cohabitation influences gut microbiota sharing between humans and dogs
+[Source](https://link.springer.com/article/10.1007/s12275-024-00123-2)
 
-[Source](https://www.biorxiv.org/content/10.1101/2024.04.11.589141v1.abstract)
-
----
-
-## Global insights into endophytic bacterial communities of terrestrial plants: Exploring the potential applications of endophytic microbiota in sustainable agriculture
-
-[Source](https://doi.org/10.1016/j.scitotenv.2024.172231)
+10.1007/s12275-024-00123-2
 
 ---
 
-## Microbiome Analysis Revealed Acholeplasma as a Possible Factor Influencing the Susceptibility to Bacterial Leaf Blight Disease of Two Domestic Rice Cultivars in Vietnam.
- 16.04.2024, _TTH Nguyen, C Bez, I Bertani, MH Nguyen, TKN Nguyen, V Venturi, HT Dinh_
+## Longitudinal microbiome changes in children exposed to proton pump inhibitors.
+ 16.04.2024, _YJ Zhang, S Connearney, L Hester, M Du, A Catacora, A Akkara, A Wen, L Bry, EJ Alm, R Rosen_
 
 
-The microbiomes of two important rice cultivars in Vietnam which differ by their susceptibility to the bacterial leaf blight (BLB) disease were analyzed through 16S rRNA amplicon technology. A higher number of operational taxonomic units and alpha-diversity indices were shown in the BLB-resistant LA cultivar than in the BLB-susceptible TB cultivar. The BLB pathogen Xanthomonas was scantly found (0.003%) in the LA cultivar, whereas was in a significantly higher ratio in the TB cultivar (1.82%), reflecting the susceptibility to BLB of these cultivars. Of special interest was the genus Acholeplasma presented in the BLB-resistant LA cultivar at a high relative abundance (22.32%), however, was minor in the BLB-sensitive TB cultivar (0.09%), raising a question about its roles in controlling the Xanthomonas low in the LA cultivar. It is proposed that Acholeplasma once entered the host plant would hamper other phytopathogens, i.e. Xanthomonas, by yet unknown mechanisms, of which the triggering of the host plants to produce secondary metabolites against pathogens could be a testable hypothesis.
+Proton pump inhibitor (PPI) use has been associated with an increased risk of gastrointestinal and upper respiratory infections in children. There are limited longitudinal data on the effect of PPI in children. The goal of this prospective observational study was to compare the stool and oropharyngeal microbiome of children before and after starting PPIs.
 
-[Source](https://doi.org/10.5423/PPJ.NT.12.2023.0167)
+[Source](https://journals.lww.com/ctg/abstract/9900/longitudinal_microbiome_changes_in_children.249.aspx)
 
-10.5423/PPJ.NT.12.2023.0167
+10.14309/ctg.0000000000000703
 
 ---
 
-## Different profiles of soil phosphorous compounds depending on tree species and availability of soil phosphorus in a tropical rainforest in French Guiana
+## High temperature and humidity in the environment disrupt bile acid metabolism, the gut microbiome, and GLP-1 secretion in mice
 
-[Source](https://doi.org/10.1186/s12870-024-04907-x)
+[Source](https://www.nature.com/articles/s42003-024-06158-w)
+
+---
+
+## Exploring the interplay between the core microbiota, physicochemical factors, agrobiochemical cycles in the soil of the historic tokaj mád wine region.
+ 16.04.2024, _J Remenyik, L Csige, P Dávid, P Fauszt, AA Szilágyi-Rácz, E Szőllősi, ZR Bacsó, I Szepsy Jnr, K Molnár, C Rácz, G Fidler, Z Kállai, L Stündl, AC Dobos, M Paholcsek_
+
+
+A Hungarian survey of Tokaj-Mád vineyards was conducted. Shotgun metabarcoding was applied to decipher the microbial-terroir. The results of 60 soil samples showed that there were three dominant fungal phyla, Ascomycota 66.36% ± 15.26%, Basidiomycota 18.78% ± 14.90%, Mucoromycota 11.89% ± 8.99%, representing 97% of operational taxonomic units (OTUs). Mutual interactions between microbiota diversity and soil physicochemical parameters were revealed. Principal component analysis showed descriptive clustering patterns of microbial taxonomy and resistance gene profiles in the case of the four historic vineyards (Szent Tamás, Király, Betsek, Nyúlászó). Linear discriminant analysis effect size was performed, revealing pronounced shifts in community taxonomy based on soil physicochemical properties. Twelve clades exhibited the most significant shifts (LDA &gt; 4.0), including the phyla Verrucomicrobia, Bacteroidetes, Chloroflexi, and Rokubacteria, the classes Acidobacteria, Deltaproteobacteria, Gemmatimonadetes, and Betaproteobacteria, the order Sphingomonadales, Hypomicrobiales, as well as the family Sphingomonadaceae and the genus Sphingomonas. Three out of the four historic vineyards exhibited the highest occurrences of the bacterial genus Bradyrhizobium, known for its positive influence on plant development and physiology through the secretion of steroid phytohormones. During ripening, the taxonomical composition of the soil fungal microbiota clustered into distinct groups depending on altitude, differences that were not reflected in bacteriomes. Network analyses were performed to unravel changes in fungal interactiomes when comparing postveraison and preharvest samples. In addition to the arbuscular mycorrhiza Glomeraceae, the families Mycosphaerellacae and Rhyzopodaceae and the class Agaricomycetes were found to have important roles in maintaining soil microbial community resilience. Functional metagenomics showed that the soil Na content stimulated several of the microbiota-related agrobiogeochemical cycles, such as nitrogen and sulphur metabolism; steroid, bisphenol, toluene, dioxin and atrazine degradation and the synthesis of folate.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300563)
+
+10.1371/journal.pone.0300563
+
+---
+
+## Metabolic interactions underpinning high methane fluxes across terrestrial freshwater wetlands
+
+[Source](https://www.biorxiv.org/content/biorxiv/early/2024/04/15/2024.04.15.589101.full.pdf)
+
+---
+
+## An in-depth evaluation of metagenomic classifiers for soil microbiomes.
+ 31.03.2024, _NR Edwin, AH Fitzpatrick, F Brennan, F Abram, O O'Sullivan_
+
+
+Recent endeavours in metagenomics, exemplified by projects such as the human microbiome project and TARA Oceans, have illuminated the complexities of microbial biomes. A robust bioinformatic pipeline and meticulous evaluation of their methodology have contributed to the success of these projects. The soil environment, however, with its unique challenges, requires a specialized methodological exploration to maximize microbial insights. A notable limitation in soil microbiome studies is the dearth of soil-specific reference databases available to classifiers that emulate the complexity of soil communities. There is also a lack of in-vitro mock communities derived from soil strains that can be assessed for taxonomic classification accuracy.
+
+[Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-024-00561-w)
+
+10.1186/s40793-024-00561-w
+
+---
+
+## Substantial viral diversity in bats and rodents from East Africa: insights into evolution, recombination, and cocirculation.
+ 16.04.2024, _D Wang, X Yang, Z Ren, B Hu, H Zhao, K Yang, P Shi, Z Zhang, Q Feng, CV Nawenja, V Obanda, K Robert, B Nalikka, CN Waruhiu, GO Ochola, SO Onyuok, H Ochieng, B Li, Y Zhu, H Si, J Yin, K Kristiansen, X Jin, X Xu, M Xiao, B Agwanda, S Ommeh, J Li, ZL Shi_
+
+
+_Animals, Animals, Wild, Chiroptera, Genome, Viral, Phylogeny, Recombination, Genetic, Rodentia, Uganda, Viruses_
+Zoonotic viruses cause substantial public health and socioeconomic problems worldwide. Understanding how viruses evolve and spread within and among wildlife species is a critical step when aiming for proactive identification of viral threats to prevent future pandemics. Despite the many proposed factors influencing viral diversity, the genomic diversity and structure of viral communities in East Africa are largely unknown.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01782-4)
+
+10.1186/s40168-024-01782-4
+
+---
+
+## Association between the gut microbiome and carotenoid plumage phenotype in an avian hybrid zone
+
+[Source](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.0238)
+
+---
+
+## Effects of removing in-feed antibiotics and zinc oxide on the taxonomy and functionality of the microbiota in post weaning pigs.
+ 16.04.2024, _JM Ortiz Sanjuán, H Argüello, R Cabrera-Rubio, F Crispie, PD Cotter, JJ Garrido, D Ekhlas, CM Burgess, EG Manzanilla_
+
+
+Post weaning diarrhoea (PWD) causes piglet morbidity and mortality at weaning and is a major driver for antimicrobial use worldwide. New regulations in the EU limit the use of in-feed antibiotics (Ab) and therapeutic zinc oxide (ZnO) to prevent PWD. New approaches to control PWD are needed, and understanding the role of the microbiota in this context is key. In this study, shotgun metagenome sequencing was used to describe the taxonomic and functional evolution of the faecal microbiota of the piglet during the first two weeks post weaning within three experimental groups, Ab, ZnO and no medication, on commercial farms using antimicrobials regularly in the post weaning period.
+
+[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00306-7)
+
+10.1186/s42523-024-00306-7
+
+---
+
+## Integrated analysis of gut metabolome, microbiome, and exfoliome data in an equine model of intestinal injury
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01785-1)
+
+---
+
+## Responses of the coral reef cryptobiome to environmental gradients in the Red Sea.
+ 16.04.2024, _R Villalobos, E Aylagas, JI Ellis, JK Pearman, H Anlauf, J Curdia, D Lozano-Cortes, A Mejia, F Roth, ML Berumen, S Carvalho_
+
+
+An essential component of the coral reef animal diversity is the species hidden in crevices within the reef matrix, referred to as the cryptobiome. These organisms play an important role in nutrient cycling and provide an abundant food source for higher trophic levels, yet they have been largely overlooked. Here, we analyzed the distribution patterns of the mobile cryptobiome (&gt;2000 μm) along the latitudinal gradient of the Saudi Arabian coast of the Red Sea. Analysis was conducted based on 54 Autonomous Reef Monitoring Structures. We retrieved a total of 5273 organisms, from which 2583 DNA sequences from the mitochondrially encoded cytochrome c oxidase I were generated through sanger sequencing. We found that the cryptobiome community is variable over short geographical distances within the basin. Regression tree models identified sea surface temperature (SST), percentage cover of hard coral and turf algae as determinant for the number of operational taxonomic units present per Autonomous Reef Monitoring Structures (ARMS). Our results also show that the community structure of the cryptobiome is associated with the energy available (measured as photosynthetic active radiation), sea surface temperature, and nearby reef habitat characteristics (namely hard corals, turf and macroalgae). Given that temperature and reef benthic characteristics affect the cryptobiome, current scenarios of intensive climate change are likely to modify this fundamental biological component of coral reef functioning. However, the trajectory of change is unknow and can be site specific, as for example, diversity is expected to increase above SST of 28.5°C, and with decreasing hard coral and turf cover. This study provides a baseline of the cryptobenthic community prior to major coastal developments in the Red Sea to be used for future biodiversity studies and monitoring projects. It can also contribute to better understand patterns of reef biodiversity in a period where Marine Protected Areas are being discussed in the region.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301837)
+
+10.1371/journal.pone.0301837
+
+---
+
+## Digging Deeper: In Search of the Mechanisms of Carbon and Nitrogen Exchange in Ectomycorrhizal Symbioses.
+ 04.11.2023, _EK Stuart, KL Plett_
+
+
+Symbiosis with ectomycorrhizal (ECM) fungi is an advantageous partnership for trees in nutrient-limited environments. Ectomycorrhizal fungi colonize the roots of their hosts and improve their access to nutrients, usually nitrogen (N) and, in exchange, trees deliver a significant portion of their photosynthetic carbon (C) to the fungi. This nutrient exchange affects key soil processes and nutrient cycling, as well as plant health, and is therefore central to forest ecosystem functioning. Due to their ecological importance, there is a need to more accurately understand ECM fungal mediated C and N movement within forest ecosystems such that we can better model and predict their role in soil processes both now and under future climate scenarios. There are a number of hurdles that we must overcome, however, before this is achievable such as understanding how the evolutionary history of ECM fungi and their inter- and intra- species variability affect their function. Further, there is currently no generally accepted universal mechanism that appears to govern the flux of nutrients between fungal and plant partners. Here, we consider the current state of knowledge on N acquisition and transport by ECM fungi and how C and N exchange may be related or affected by environmental conditions such as N availability. We emphasize the role that modern genomic analysis, molecular biology techniques and more comprehensive and standardized experimental designs may have in bringing cohesion to the numerous ecological studies in this area and assist us in better understanding this important symbiosis. These approaches will help to build unified models of nutrient exchange and develop diagnostic tools to study these fungi at various scales and environments.
+
+[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002595)
+
+10.3389/fpls.2019.01658
+
+---
+
+## Symbiosis: In search of a deeper understanding
+
+[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002595)
+
+---
+
+## Randomized feature selection based semi-supervised latent Dirichlet allocation for microbiome analysis
+
+[Source](https://www.nature.com/articles/s41598-024-59682-4)
+
+---
+
+## Improving microbial phylogeny with citizen science within a mass-market video game
+
+[Source](https://www.nature.com/articles/s41587-024-02175-6)
 
 ---
 
