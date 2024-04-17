@@ -46,15 +46,9 @@ Chronic stress disrupts microbiota-gut-brain axis function and is associated wit
 
 ---
 
-## Understanding the influence of the microbiome on childhood infections.
- 12.04.2024, _SM Heston, JH Hurst, MS Kelly_
-
-
-The microbiome is known to have a substantial impact on human health and disease. However, the impacts of the microbiome on immune system development, susceptibility to infectious diseases, and vaccine-elicited immune responses are emerging areas of interest.
+## Understanding the influence of the microbiome on childhood infections
 
 [Source](https://doi.org/10.1080/14787210.2024.2340664)
-
-10.1080/14787210.2024.2340664
 
 ---
 
@@ -64,28 +58,15 @@ The microbiome is known to have a substantial impact on human health and disease
 
 ---
 
-## Endosymbiont diversity across native and invasive brown widow spider populations.
- 15.04.2024, _MA Mowery, LC Rosenwald, E Chapman, Y Lubin, M Segoli, T Khoza, R Lyle, JA White_
-
-
-_Humans, Adult, Animals, Female, Animals, Poisonous, Chlamydiales, Eggs, Spiders, Wolbachia_
-The invasive brown widow spider, Latrodectus geometricus (Araneae: Theridiidae), has spread in multiple locations around the world and, along with it, brought associated organisms such as endosymbionts. We investigated endosymbiont diversity and prevalence across putative native and invasive populations of this spider, predicting lower endosymbiont diversity across the invasive range compared to the native range. First, we characterized the microbial community in the putative native (South Africa) and invasive (Israel and the United States) ranges via high throughput 16S sequencing of 103 adult females. All specimens were dominated by reads from only 1-3 amplicon sequence variants (ASV), and most individuals were infected with an apparently uniform strain of Rhabdochlamydia. We also found Rhabdochlamydia in spider eggs, indicating that it is a maternally-inherited endosymbiont. Relatively few other ASV were detected, but included two variant Rhabdochlamydia strains and several Wolbachia, Spiroplasma and Enterobacteriaceae strains. We then diagnostically screened 118 adult female spiders from native and invasive populations specifically for Rhabdochlamydia and Wolbachia. We found Rhabdochlamydia in 86% of individuals and represented in all populations, which suggests that it is a consistent and potentially important associate of L. geometricus. Wolbachia was found at lower overall prevalence (14%) and was represented in all countries, but not all populations. In addition, we found evidence for geographic variation in endosymbiont prevalence: spiders from Israel were more likely to carry Rhabdochlamydia than those from the US and South Africa, and Wolbachia was geographically clustered in both Israel and South Africa. Characterizing endosymbiont prevalence and diversity is a first step in understanding their function inside the host and may shed light on the process of spread and population variability in cosmopolitan invasive species.
+## Endosymbiont diversity across native and invasive brown widow spider populations
 
 [Source](https://doi.org/10.1038/s41598-024-58723-2)
 
-10.1038/s41598-024-58723-2
-
 ---
 
-## Localization and symbiotic status of probiotics in the coral holobiont.
- 12.04.2024, _PM Cardoso, LJ Hill, HDM Villela, CLS Vilela, JM Assis, PM Rosado, JG Rosado, MA Chacon, ME Majzoub, GAS Duarte, T Thomas, RS Peixoto_
-
-
-Corals establish symbiotic relationships with microorganisms, especially endosymbiotic photosynthetic algae. Although other microbes have been commonly detected in coral tissues, their identity and beneficial functions for their host are unclear. Here, we confirm the beneficial outcomes of the inoculation of bacteria selected as probiotics and use fluorescence in situ hybridization (FISH) to define their localization in the coral Pocillopora damicornis. Our results show the first evidence of the inherent presence of Halomonas sp. and Cobetia sp. in native coral tissues, even before their inoculation. Furthermore, the relative enrichment of these coral tissue-associated bacteria through their inoculation in corals correlates with health improvements, such as increases in photosynthetic potential, and productivity. Our study suggests the symbiotic status of Halomonas sp. and Cobetia sp. in corals by indicating their localization within coral gastrodermis and epidermis and correlating their increased relative abundance through active inoculation with beneficial outcomes for the holobiont. This knowledge is crucial to facilitate the screening and application of probiotics that may not be transient members of the coral microbiome.
+## Localization and symbiotic status of probiotics in the coral holobiont
 
 [Source](https://doi.org/10.1128/msystems.00261-24)
-
-10.1128/msystems.00261-24
 
 ---
 
@@ -95,15 +76,9 @@ Corals establish symbiotic relationships with microorganisms, especially endosym
 
 ---
 
-## Global insights into endophytic bacterial communities of terrestrial plants: Exploring the potential applications of endophytic microbiota in sustainable agriculture.
- 14.04.2024, _L Huang, Y Fu, Y Liu, Y Chen, T Wang, M Wang, X Lin, Y Feng_
-
-
-Endophytic microorganisms are indispensable symbionts during plant growth and development and often serve functions such as growth promotion and stress resistance in plants. Therefore, an increasing number of researchers have applied endophytes for multifaceted phytoremediation (e.g., organic pollutants and heavy metals) in recent years. With the availability of next-generation sequencing technologies, an increasing number of studies have shifted the focus from culturable bacteria to total communities. However, information on the composition, structure, and function of bacterial endophytic communities is still not widely synthesized. To explore the general patterns of variation in bacterial communities between plant niches, we reanalyzed data from 1499 samples in 30 individual studies from different continents and provided comprehensive insights. A group of bacterial genera were commonly found in most plant roots and shoots. Our analysis revealed distinct variations in the diversity, composition, structure, and function of endophytic bacterial communities between plant roots and shoots. These variations underscore the sophisticated mechanisms by which plants engage with their endophytic microbiota, optimizing these interactions to bolster growth, health, and resilience against stress. Highlighting the strategic role of endophytic bacteria in promoting sustainable agricultural practices and environmental stewardship, our study not only offers global insights into the endophytic bacterial communities of terrestrial plants but also underscores the untapped potential of these communities as invaluable resources for future research.
+## Global insights into endophytic bacterial communities of terrestrial plants: Exploring the potential applications of endophytic microbiota in sustainable agriculture
 
 [Source](https://doi.org/10.1016/j.scitotenv.2024.172231)
-
-10.1016/j.scitotenv.2024.172231
 
 ---
 
