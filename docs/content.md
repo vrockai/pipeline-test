@@ -5,7 +5,7 @@
 ---
 
 ## Modulation of the gut microbiome and Firmicutes phylum reduction by a nutraceutical blend in the obesity mouse model and overweight humans: A double-blind clinical trial.
- 17.04.2024, _V Nehmi-Filho, JA de Freitas, LA Franco, RC Martins, JAO Turri, AB Santamarina, JVDS Fonseca, EC Sabino, BC Moraes, E Souza, GM Murata, SF Costa, PS Alcântara, JP Otoch, AFM Pessoa_
+ 18.04.2024, _V Nehmi-Filho, JA de Freitas, LA Franco, RC Martins, JAO Turri, AB Santamarina, JVDS Fonseca, EC Sabino, BC Moraes, E Souza, GM Murata, SF Costa, PS Alcântara, JP Otoch, AFM Pessoa_
 
 
 Overweight and obesity are closely linked to gut dysbiosis/dysmetabolism and disrupted De-Ritis ratio [aspartate aminotransferase (AST)/alanine aminotransferase (ALT) ratio], which may contribute to chronic noncommunicable diseases onset. Concurrently, extensive research explores nutraceuticals, and health-enhancing supplements, for disease prevention or treatment. Thus, sedentary overweight volunteers were double-blind randomized into two groups: Novel Nutraceutical_(S) (without silymarin) and Novel Nutraceutical (with silymarin). Experimental formulations were orally administered twice daily over 180 consecutive days. We evaluated fecal gut microbiota, based on partial 16S rRNA sequences, biochemistry and endocrine markers, steatosis biomarker (AST/ALT ratio), and anthropometric parameters. Post-supplementation, only the Novel Nutraceutical group reduced Clostridium clostridioforme (Firmicutes), Firmicutes/Bacteroidetes ratio (F/B ratio), and De-Ritis ratio, while elevating Bacteroides caccae and Bacteroides uniformis (Bacteroidetes) in Brazilian sedentary overweight volunteers after 180 days. In summary, the results presented here allow us to suggest the gut microbiota as the action mechanism of the Novel Nutraceutical promoting metabolic hepatic recovery in obesity/overweight non-drug interventions.
@@ -122,7 +122,7 @@ Zoonotic viruses cause substantial public health and socioeconomic problems worl
 ---
 
 ## Effects of removing in-feed antibiotics and zinc oxide on the taxonomy and functionality of the microbiota in post weaning pigs.
- 16.04.2024, _JM Ortiz Sanjuán, H Argüello, R Cabrera-Rubio, F Crispie, PD Cotter, JJ Garrido, D Ekhlas, CM Burgess, EG Manzanilla_
+ 18.04.2024, _JM Ortiz Sanjuán, H Argüello, R Cabrera-Rubio, F Crispie, PD Cotter, JJ Garrido, D Ekhlas, CM Burgess, EG Manzanilla_
 
 
 Post weaning diarrhoea (PWD) causes piglet morbidity and mortality at weaning and is a major driver for antimicrobial use worldwide. New regulations in the EU limit the use of in-feed antibiotics (Ab) and therapeutic zinc oxide (ZnO) to prevent PWD. New approaches to control PWD are needed, and understanding the role of the microbiota in this context is key. In this study, shotgun metagenome sequencing was used to describe the taxonomic and functional evolution of the faecal microbiota of the piglet during the first two weeks post weaning within three experimental groups, Ab, ZnO and no medication, on commercial farms using antimicrobials regularly in the post weaning period.
