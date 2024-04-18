@@ -17,9 +17,10 @@ Overweight and obesity are closely linked to gut dysbiosis/dysmetabolism and dis
 ---
 
 ## Ambient long-term exposure to organophosphorus pesticides and the human gut microbiome: an observational study.
- 16.04.2024, _K Zhang, K Paul, JP Jacobs, MG Cockburn, JM Bronstein, I Del Rosario, B Ritz_
+ 18.04.2024, _K Zhang, K Paul, JP Jacobs, MG Cockburn, JM Bronstein, I Del Rosario, B Ritz_
 
 
+_Animals, Humans, Aged, Pesticides, Gastrointestinal Microbiome, Organophosphorus Compounds, Parkinson Disease, RNA, Ribosomal, 16S, Microbiota, Bacteria_
 Organophosphorus pesticides (OP) have been associated with various human health conditions. Animal experiments and in-vitro models suggested that OP may also affect the gut microbiota. We examined associations between ambient chronic exposure to OP and gut microbial changes in humans.
 
 [Source](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-024-01078-y)
@@ -71,9 +72,10 @@ Proton pump inhibitor (PPI) use has been associated with an increased risk of ga
 ---
 
 ## Exploring the interplay between the core microbiota, physicochemical factors, agrobiochemical cycles in the soil of the historic tokaj mád wine region.
- 16.04.2024, _J Remenyik, L Csige, P Dávid, P Fauszt, AA Szilágyi-Rácz, E Szőllősi, ZR Bacsó, I Szepsy Jnr, K Molnár, C Rácz, G Fidler, Z Kállai, L Stündl, AC Dobos, M Paholcsek_
+ 18.04.2024, _J Remenyik, L Csige, P Dávid, P Fauszt, AA Szilágyi-Rácz, E Szőllősi, ZR Bacsó, I Szepsy Jnr, K Molnár, C Rácz, G Fidler, Z Kállai, L Stündl, AC Dobos, M Paholcsek_
 
 
+_Humans, Soil, Wine, Microbiota, Bacteria, Ascomycota, Steroids, Soil Microbiology_
 A Hungarian survey of Tokaj-Mád vineyards was conducted. Shotgun metabarcoding was applied to decipher the microbial-terroir. The results of 60 soil samples showed that there were three dominant fungal phyla, Ascomycota 66.36% ± 15.26%, Basidiomycota 18.78% ± 14.90%, Mucoromycota 11.89% ± 8.99%, representing 97% of operational taxonomic units (OTUs). Mutual interactions between microbiota diversity and soil physicochemical parameters were revealed. Principal component analysis showed descriptive clustering patterns of microbial taxonomy and resistance gene profiles in the case of the four historic vineyards (Szent Tamás, Király, Betsek, Nyúlászó). Linear discriminant analysis effect size was performed, revealing pronounced shifts in community taxonomy based on soil physicochemical properties. Twelve clades exhibited the most significant shifts (LDA &gt; 4.0), including the phyla Verrucomicrobia, Bacteroidetes, Chloroflexi, and Rokubacteria, the classes Acidobacteria, Deltaproteobacteria, Gemmatimonadetes, and Betaproteobacteria, the order Sphingomonadales, Hypomicrobiales, as well as the family Sphingomonadaceae and the genus Sphingomonas. Three out of the four historic vineyards exhibited the highest occurrences of the bacterial genus Bradyrhizobium, known for its positive influence on plant development and physiology through the secretion of steroid phytohormones. During ripening, the taxonomical composition of the soil fungal microbiota clustered into distinct groups depending on altitude, differences that were not reflected in bacteriomes. Network analyses were performed to unravel changes in fungal interactiomes when comparing postveraison and preharvest samples. In addition to the arbuscular mycorrhiza Glomeraceae, the families Mycosphaerellacae and Rhyzopodaceae and the class Agaricomycetes were found to have important roles in maintaining soil microbial community resilience. Functional metagenomics showed that the soil Na content stimulated several of the microbiota-related agrobiogeochemical cycles, such as nitrogen and sulphur metabolism; steroid, bisphenol, toluene, dioxin and atrazine degradation and the synthesis of folate.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300563)
@@ -138,9 +140,10 @@ Post weaning diarrhoea (PWD) causes piglet morbidity and mortality at weaning an
 ---
 
 ## Responses of the coral reef cryptobiome to environmental gradients in the Red Sea.
- 16.04.2024, _R Villalobos, E Aylagas, JI Ellis, JK Pearman, H Anlauf, J Curdia, D Lozano-Cortes, A Mejia, F Roth, ML Berumen, S Carvalho_
+ 18.04.2024, _R Villalobos, E Aylagas, JI Ellis, JK Pearman, H Anlauf, J Curdia, D Lozano-Cortes, A Mejia, F Roth, ML Berumen, S Carvalho_
 
 
+_Animals, Coral Reefs, Indian Ocean, Saudi Arabia, Ecosystem, Anthozoa_
 An essential component of the coral reef animal diversity is the species hidden in crevices within the reef matrix, referred to as the cryptobiome. These organisms play an important role in nutrient cycling and provide an abundant food source for higher trophic levels, yet they have been largely overlooked. Here, we analyzed the distribution patterns of the mobile cryptobiome (&gt;2000 μm) along the latitudinal gradient of the Saudi Arabian coast of the Red Sea. Analysis was conducted based on 54 Autonomous Reef Monitoring Structures. We retrieved a total of 5273 organisms, from which 2583 DNA sequences from the mitochondrially encoded cytochrome c oxidase I were generated through sanger sequencing. We found that the cryptobiome community is variable over short geographical distances within the basin. Regression tree models identified sea surface temperature (SST), percentage cover of hard coral and turf algae as determinant for the number of operational taxonomic units present per Autonomous Reef Monitoring Structures (ARMS). Our results also show that the community structure of the cryptobiome is associated with the energy available (measured as photosynthetic active radiation), sea surface temperature, and nearby reef habitat characteristics (namely hard corals, turf and macroalgae). Given that temperature and reef benthic characteristics affect the cryptobiome, current scenarios of intensive climate change are likely to modify this fundamental biological component of coral reef functioning. However, the trajectory of change is unknow and can be site specific, as for example, diversity is expected to increase above SST of 28.5°C, and with decreasing hard coral and turf cover. This study provides a baseline of the cryptobenthic community prior to major coastal developments in the Red Sea to be used for future biodiversity studies and monitoring projects. It can also contribute to better understand patterns of reef biodiversity in a period where Marine Protected Areas are being discussed in the region.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301837)
