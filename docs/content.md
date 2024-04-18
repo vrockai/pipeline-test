@@ -167,9 +167,15 @@ Symbiosis with ectomycorrhizal (ECM) fungi is an advantageous partnership for tr
 
 ---
 
-## Randomized feature selection based semi-supervised latent Dirichlet allocation for microbiome analysis
+## Randomized feature selection based semi-supervised latent Dirichlet allocation for microbiome analysis.
+ 17.04.2024, _N Pais, N Ravishanker, S Rajasekaran, G Weinstock, DB Tran_
+
+
+Health and disease are fundamentally influenced by microbial communities and their genes (the microbiome). An in-depth analysis of microbiome structure that enables the classification of individuals based on their health can be crucial in enhancing diagnostics and treatment strategies to improve the overall well-being of an individual. In this paper, we present a novel semi-supervised methodology known as Randomized Feature Selection based Latent Dirichlet Allocation (RFSLDA) to study the impact of the gut microbiome on a subject's health status. Since the data in our study consists of fuzzy health labels, which are self-reported, traditional supervised learning approaches may not be suitable. As a first step, based on the similarity between documents in text analysis and gut-microbiome data, we employ Latent Dirichlet Allocation (LDA), a topic modeling approach which uses microbiome counts as features to group subjects into relatively homogeneous clusters, without invoking any knowledge of observed health status (labels) of subjects. We then leverage information from the observed health status of subjects to associate these clusters with the most similar health status making it a semi-supervised approach. Finally, a feature selection technique is incorporated into the model to improve the overall classification performance. The proposed method provides a semi-supervised topic modelling approach that can help handle the high dimensionality of the microbiome data in association studies. Our experiments reveal that our semi-supervised classification algorithm is effective and efficient in terms of high classification accuracy compared to popular supervised learning approaches like SVM and multinomial logistic model. The RFSLDA framework is attractive because it (i) enhances clustering accuracy by identifying key bacteria types as indicators of health status, (ii) identifies key bacteria types within each group based on estimates of the proportion of bacteria types within the groups, and (iii) computes a measure of within-group similarity to identify highly similar subjects in terms of their health status.
 
 [Source](https://www.nature.com/articles/s41598-024-59682-4)
+
+10.1038/s41598-024-59682-4
 
 ---
 
