@@ -17,7 +17,7 @@ Overweight and obesity are closely linked to gut dysbiosis/dysmetabolism and dis
 ---
 
 ## Ambient long-term exposure to organophosphorus pesticides and the human gut microbiome: an observational study.
- 18.04.2024, _K Zhang, K Paul, JP Jacobs, MG Cockburn, JM Bronstein, I Del Rosario, B Ritz_
+ 19.04.2024, _K Zhang, K Paul, JP Jacobs, MG Cockburn, JM Bronstein, I Del Rosario, B Ritz_
 
 
 _Animals, Humans, Aged, Pesticides, Gastrointestinal Microbiome, Organophosphorus Compounds, Parkinson Disease, RNA, Ribosomal, 16S, Microbiota, Bacteria_
@@ -72,7 +72,7 @@ Proton pump inhibitor (PPI) use has been associated with an increased risk of ga
 ---
 
 ## Exploring the interplay between the core microbiota, physicochemical factors, agrobiochemical cycles in the soil of the historic tokaj mád wine region.
- 18.04.2024, _J Remenyik, L Csige, P Dávid, P Fauszt, AA Szilágyi-Rácz, E Szőllősi, ZR Bacsó, I Szepsy Jnr, K Molnár, C Rácz, G Fidler, Z Kállai, L Stündl, AC Dobos, M Paholcsek_
+ 19.04.2024, _J Remenyik, L Csige, P Dávid, P Fauszt, AA Szilágyi-Rácz, E Szőllősi, ZR Bacsó, I Szepsy Jnr, K Molnár, C Rácz, G Fidler, Z Kállai, L Stündl, AC Dobos, M Paholcsek_
 
 
 _Humans, Soil, Wine, Microbiota, Bacteria, Ascomycota, Steroids, Soil Microbiology_
@@ -122,7 +122,7 @@ Zoonotic viruses cause substantial public health and socioeconomic problems worl
 ---
 
 ## Effects of removing in-feed antibiotics and zinc oxide on the taxonomy and functionality of the microbiota in post weaning pigs.
- 18.04.2024, _JM Ortiz Sanjuán, H Argüello, R Cabrera-Rubio, F Crispie, PD Cotter, JJ Garrido, D Ekhlas, CM Burgess, EG Manzanilla_
+ 19.04.2024, _JM Ortiz Sanjuán, H Argüello, R Cabrera-Rubio, F Crispie, PD Cotter, JJ Garrido, D Ekhlas, CM Burgess, EG Manzanilla_
 
 
 Post weaning diarrhoea (PWD) causes piglet morbidity and mortality at weaning and is a major driver for antimicrobial use worldwide. New regulations in the EU limit the use of in-feed antibiotics (Ab) and therapeutic zinc oxide (ZnO) to prevent PWD. New approaches to control PWD are needed, and understanding the role of the microbiota in this context is key. In this study, shotgun metagenome sequencing was used to describe the taxonomic and functional evolution of the faecal microbiota of the piglet during the first two weeks post weaning within three experimental groups, Ab, ZnO and no medication, on commercial farms using antimicrobials regularly in the post weaning period.
@@ -140,7 +140,7 @@ Post weaning diarrhoea (PWD) causes piglet morbidity and mortality at weaning an
 ---
 
 ## Responses of the coral reef cryptobiome to environmental gradients in the Red Sea.
- 18.04.2024, _R Villalobos, E Aylagas, JI Ellis, JK Pearman, H Anlauf, J Curdia, D Lozano-Cortes, A Mejia, F Roth, ML Berumen, S Carvalho_
+ 19.04.2024, _R Villalobos, E Aylagas, JI Ellis, JK Pearman, H Anlauf, J Curdia, D Lozano-Cortes, A Mejia, F Roth, ML Berumen, S Carvalho_
 
 
 _Animals, Coral Reefs, Indian Ocean, Saudi Arabia, Ecosystem, Anthozoa_
