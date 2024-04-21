@@ -1,5 +1,5 @@
 ## Mechanoelectronic stimulation of autologous extracellular vesicle biosynthesis implant for gut microbiota modulation.
- 20.04.2024, _S Wan, K Wang, P Huang, X Guo, W Liu, Y Li, J Zhang, Z Li, J Song, W Yang, X Zhang, X Ding, DT Leong, L Wang_
+ 21.04.2024, _S Wan, K Wang, P Huang, X Guo, W Liu, Y Li, J Zhang, Z Li, J Song, W Yang, X Zhang, X Ding, DT Leong, L Wang_
 
 
 Pathogenic gut microbiota is responsible for a few debilitating gastrointestinal diseases. While the host immune cells do produce extracellular vesicles to counteract some deleterious effects of the microbiota, the extracellular vesicles are of insufficient doses and at unreliable exposure times. Here we use mechanical stimulation of hydrogel-embedded macrophage in a bioelectronic controller that on demand boost production of up to 20 times of therapeutic extracellular vesicles to ameliorate the microbes' deleterious effects in vivo. Our miniaturized wireless bioelectronic system termed inducible mechanical activation for in-situ and sustainable generating extracellular vesicles (iMASSAGE), leverages on wireless electronics and responsive hydrogel to impose mechanical forces on macrophages to produce extracellular vesicles that rectify gut microbiome dysbiosis and ameliorate colitis. This in vivo controllable extracellular vesicles-produced system holds promise as platform to treat various other diseases.
@@ -23,7 +23,7 @@ The human oral cavity is colonized by a diverse microbial community, which inclu
 ---
 
 ## Dietary fiber guar gum-induced shift in gut microbiota metabolism and intestinal immune activity enhances susceptibility to colonic inflammation.
- 20.04.2024, _D Paudel, DVT Nair, S Tian, F Hao, UK Goand, G Joseph, E Prodes, Z Chai, CEM Robert, B Chassaing, AD Patterson, V Singh_
+ 21.04.2024, _D Paudel, DVT Nair, S Tian, F Hao, UK Goand, G Joseph, E Prodes, Z Chai, CEM Robert, B Chassaing, AD Patterson, V Singh_
 
 
 _Animals, Mice, Gastrointestinal Microbiome, Interleukin-18, Inflammation, Colitis, Dietary Fiber, Lactic Acid, Succinates, Galactans, Mannans, Plant Gums_
@@ -60,7 +60,7 @@ Over the past 40 years, the prevalence of obesity has risen dramatically, reachi
 ---
 
 ## Role of imbalanced gut microbiota in promoting CRC metastasis: from theory to clinical application.
- 18.04.2024, _S Fan, L Zhou, W Zhang, D Wang, D Tang_
+ 21.04.2024, _S Fan, L Zhou, W Zhang, D Wang, D Tang_
 
 
 Metastasis poses a major challenge in colorectal cancer (CRC) treatment and remains a primary cause of mortality among patients with CRC. Recent investigations have elucidated the involvement of disrupted gut microbiota homeostasis in various facets of CRC metastasis, exerting a pivotal influence in shaping the metastatic microenvironment, triggering epithelial-mesenchymal transition (EMT), and so on. Moreover, therapeutic interventions targeting the gut microbiota demonstrate promise in enhancing the efficacy of conventional treatments for metastatic CRC (mCRC), presenting novel avenues for mCRC clinical management. Grounded in the "seed and soil" hypothesis, this review consolidates insights into the mechanisms by which imbalanced gut microbiota promotes mCRC and highlights recent strides in leveraging gut microbiota modulation for the clinical prevention and treatment of mCRC. Emphasis is placed on the considerable potential of manipulating gut microbiota within clinical settings for managing mCRC.
@@ -168,7 +168,7 @@ The interaction between gut microbiota and muscles through the gut-muscle axis h
 ---
 
 ## A longitudinal study of queen health in honey bees reveals tissue specific response to seasonal changes and pathogen pressure.
- 20.04.2024, _DC Copeland, VA Ricigliano, BM Mott, OL Kortenkamp, RJ Erickson, J Gorrochategui-Ortega, KE Anderson_
+ 21.04.2024, _DC Copeland, VA Ricigliano, BM Mott, OL Kortenkamp, RJ Erickson, J Gorrochategui-Ortega, KE Anderson_
 
 
 The health of honey bee queens is crucial for colony success, particularly during stressful periods like overwintering. To accompany a previous longitudinal study of colony and worker health, we explored niche-specific gut microbiota, host gene expression, and pathogen prevalence in honey bee queens overwintering in a warm southern climate. We found differential gene expression and bacterial abundance with respect to various pathogens throughout the season. Biologically older queens had larger microbiotas, particularly enriched in Bombella and Bifidobacterium. Both Deformed Wing Virus A and B subtypes were highest in the fat body tissue in January, correlating with colony Varroa levels, and Deformed Wing Virus titers in workers. High viral titers in queens were associated with decreased vitellogenin expression, suggesting a potential trade-off between immune function and reproductive capacity. Additionally, we found a complex and dynamic relationship between these viral loads and immune gene expression, indicating a possible breakdown in the coordinated immune response as the season progressed. Our study also revealed a potential link between Nosema and Melissococcus plutonius infections in queens, demonstrating that seasonal opportunism is not confined to just workers. Overall, our findings highlight the intricate interplay between pathogens, metabolic state, and immune response in honey bee queens. Combined with worker and colony-level metrics from the same colonies, our findings illustrate the social aspect of queen health and resilience over the winter dearth.
