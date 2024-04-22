@@ -1,7 +1,8 @@
 ## Mechanoelectronic stimulation of autologous extracellular vesicle biosynthesis implant for gut microbiota modulation.
- 21.04.2024, _S Wan, K Wang, P Huang, X Guo, W Liu, Y Li, J Zhang, Z Li, J Song, W Yang, X Zhang, X Ding, DT Leong, L Wang_
+ 22.04.2024, _S Wan, K Wang, P Huang, X Guo, W Liu, Y Li, J Zhang, Z Li, J Song, W Yang, X Zhang, X Ding, DT Leong, L Wang_
 
 
+_Humans, Gastrointestinal Microbiome, Microbiota, Colitis, Extracellular Vesicles, Hydrogels, Dysbiosis_
 Pathogenic gut microbiota is responsible for a few debilitating gastrointestinal diseases. While the host immune cells do produce extracellular vesicles to counteract some deleterious effects of the microbiota, the extracellular vesicles are of insufficient doses and at unreliable exposure times. Here we use mechanical stimulation of hydrogel-embedded macrophage in a bioelectronic controller that on demand boost production of up to 20 times of therapeutic extracellular vesicles to ameliorate the microbes' deleterious effects in vivo. Our miniaturized wireless bioelectronic system termed inducible mechanical activation for in-situ and sustainable generating extracellular vesicles (iMASSAGE), leverages on wireless electronics and responsive hydrogel to impose mechanical forces on macrophages to produce extracellular vesicles that rectify gut microbiome dysbiosis and ameliorate colitis. This in vivo controllable extracellular vesicles-produced system holds promise as platform to treat various other diseases.
 
 [Source](https://doi.org/10.1038/s41467-024-47710-w)
@@ -60,9 +61,10 @@ Over the past 40 years, the prevalence of obesity has risen dramatically, reachi
 ---
 
 ## Role of imbalanced gut microbiota in promoting CRC metastasis: from theory to clinical application.
- 21.04.2024, _S Fan, L Zhou, W Zhang, D Wang, D Tang_
+ 22.04.2024, _S Fan, L Zhou, W Zhang, D Wang, D Tang_
 
 
+_Humans, Gastrointestinal Microbiome, Colorectal Neoplasms, Colonic Neoplasms, Tumor Microenvironment_
 Metastasis poses a major challenge in colorectal cancer (CRC) treatment and remains a primary cause of mortality among patients with CRC. Recent investigations have elucidated the involvement of disrupted gut microbiota homeostasis in various facets of CRC metastasis, exerting a pivotal influence in shaping the metastatic microenvironment, triggering epithelial-mesenchymal transition (EMT), and so on. Moreover, therapeutic interventions targeting the gut microbiota demonstrate promise in enhancing the efficacy of conventional treatments for metastatic CRC (mCRC), presenting novel avenues for mCRC clinical management. Grounded in the "seed and soil" hypothesis, this review consolidates insights into the mechanisms by which imbalanced gut microbiota promotes mCRC and highlights recent strides in leveraging gut microbiota modulation for the clinical prevention and treatment of mCRC. Emphasis is placed on the considerable potential of manipulating gut microbiota within clinical settings for managing mCRC.
 
 [Source](https://doi.org/10.1186/s12964-024-01615-9)
@@ -138,9 +140,10 @@ Maintaining an optimum microbial community within the gastrointestinal tract is 
 ---
 
 ## Hi-C metagenomics facilitate comparative genome analysis of bacteria and yeast from spontaneous beer and cider.
- 18.04.2024, _IV Sonets, MA Solovyev, VA Ivanova, PA Vasiluev, AV Kachalkin, SD Ochkalova, AI Korobeynikov, SV Razin, SV Ulianov, AV Tyakht_
+ 22.04.2024, _IV Sonets, MA Solovyev, VA Ivanova, PA Vasiluev, AV Kachalkin, SD Ochkalova, AI Korobeynikov, SV Razin, SV Ulianov, AV Tyakht_
 
 
+_Saccharomyces cerevisiae, Beer, Bacteria, Plasmids, Saccharomyces, Metagenome, Metagenomics, Enterobacteriaceae_
 Sequence-based analysis of fermented foods and beverages' microbiomes offers insights into their impact on taste and consumer health. High-throughput metagenomics provide detailed taxonomic and functional community profiling, but bacterial and yeast genome reconstruction and mobile genetic elements tracking are to be improved. We established a pipeline for exploring fermented foods microbiomes using metagenomics coupled with chromosome conformation capture (Hi-C metagenomics). The approach was applied to analyze a collection of spontaneously fermented beers and ciders (n = 12). The Hi-C reads were used to reconstruct the metagenome-assembled genomes (MAGs) of bacteria and yeasts facilitating subsequent comparative genomic analysis, assembly scaffolding and exploration of "plasmid-bacteria" links. For a subset of beverages, yeasts were isolated and characterized phenotypically. The reconstructed Hi-C MAGs primarily belonged to the Lactobacillaceae family in beers, along with Acetobacteraceae and Enterobacteriaceae in ciders, exhibiting improved quality compared to conventional metagenomic MAGs. Comparative genomic analysis of Lactobacillaceae Hi-C MAGs revealed clustering by niche and suggested genetic determinants of survival and probiotic potential. For Pediococcus damnosus, Hi-C-based networks of contigs enabled linking bacteria with plasmids. Analyzing phylogeny and accessory genes in the context of known reference genomes offered insights into the niche specialization of beer lactobacilli. The subspecies-level diversity of cider Tatumella spp. was disentangled using a Hi-C-based graph. We obtained highly complete yeast Hi-C MAGs primarily represented by Brettanomyces and Saccharomyces, with Hi-C-facilitated chromosome-level genome assembly for the former. Utilizing Hi-C metagenomics to unravel the genomic content of individual species can provide a deeper understanding of the ecological interactions within the food microbiome, aid in bioprospecting beneficial microorganisms, improving quality control and improving innovative fermented products.
 
 [Source](https://doi.org/10.1016/j.fm.2024.104520)
@@ -168,9 +171,10 @@ The interaction between gut microbiota and muscles through the gut-muscle axis h
 ---
 
 ## A longitudinal study of queen health in honey bees reveals tissue specific response to seasonal changes and pathogen pressure.
- 21.04.2024, _DC Copeland, VA Ricigliano, BM Mott, OL Kortenkamp, RJ Erickson, J Gorrochategui-Ortega, KE Anderson_
+ 22.04.2024, _DC Copeland, VA Ricigliano, BM Mott, OL Kortenkamp, RJ Erickson, J Gorrochategui-Ortega, KE Anderson_
 
 
+_Bees, Animals, Seasons, Longitudinal Studies, Climate, RNA Viruses_
 The health of honey bee queens is crucial for colony success, particularly during stressful periods like overwintering. To accompany a previous longitudinal study of colony and worker health, we explored niche-specific gut microbiota, host gene expression, and pathogen prevalence in honey bee queens overwintering in a warm southern climate. We found differential gene expression and bacterial abundance with respect to various pathogens throughout the season. Biologically older queens had larger microbiotas, particularly enriched in Bombella and Bifidobacterium. Both Deformed Wing Virus A and B subtypes were highest in the fat body tissue in January, correlating with colony Varroa levels, and Deformed Wing Virus titers in workers. High viral titers in queens were associated with decreased vitellogenin expression, suggesting a potential trade-off between immune function and reproductive capacity. Additionally, we found a complex and dynamic relationship between these viral loads and immune gene expression, indicating a possible breakdown in the coordinated immune response as the season progressed. Our study also revealed a potential link between Nosema and Melissococcus plutonius infections in queens, demonstrating that seasonal opportunism is not confined to just workers. Overall, our findings highlight the intricate interplay between pathogens, metabolic state, and immune response in honey bee queens. Combined with worker and colony-level metrics from the same colonies, our findings illustrate the social aspect of queen health and resilience over the winter dearth.
 
 [Source](https://doi.org/10.1038/s41598-024-58883-1)
@@ -180,9 +184,10 @@ The health of honey bee queens is crucial for colony success, particularly durin
 ---
 
 ## The microbiome of a Pacific moon jellyfish Aurelia coerulea.
- 20.04.2024, _AH Ohdera, M Mansbridge, M Wang, P Naydenkov, B Kamel, L Goentoro_
+ 22.04.2024, _AH Ohdera, M Mansbridge, M Wang, P Naydenkov, B Kamel, L Goentoro_
 
 
+_Animals, Scyphozoa, Microbiota, Metagenome, Bacteria, Pacific Ocean_
 The impact of microbiome in animal physiology is well appreciated, but characterization of animal-microbe symbiosis in marine environments remains a growing need. This study characterizes the microbial communities associated with the moon jellyfish Aurelia coerulea, first isolated from the East Pacific Ocean and has since been utilized as an experimental system. We find that the microbiome of this Pacific Aurelia culture is dominated by two taxa, a Mollicutes and Rickettsiales. The microbiome is stable across life stages, although composition varies. Mining the host sequencing data, we assembled the bacterial metagenome-assembled genomes (MAGs). The bacterial MAGs are highly reduced, and predict a high metabolic dependence on the host. Analysis using multiple metrics suggest that both bacteria are likely new species. We therefore propose the names Ca. Mariplasma lunae (Mollicutes) and Ca. Marinirickettsia aquamalans (Rickettsiales). Finally, comparison with studies of Aurelia from other geographical populations suggests the association with Ca. Mariplasma lunae occurs in Aurelia from multiple geographical locations. The low-diversity microbiome of Aurelia provides a relatively simple system to study host-microbe interactions.
 
 [Source](https://doi.org/10.1371/journal.pone.0298002)
@@ -192,9 +197,10 @@ The impact of microbiome in animal physiology is well appreciated, but character
 ---
 
 ## The rhizosphere and root selections intensify fungi-bacteria interaction in abiotic stress-resistant plants.
- 20.04.2024, _F Huang, M Lei, W Li_
+ 22.04.2024, _F Huang, M Lei, W Li_
 
 
+_Fungi, Rhizosphere, Plant Roots, Soil Microbiology, Soil, Plants, Bacteria, Stress, Physiological_
 The microbial communities, inhabiting around and in plant roots, are largely influenced by the compartment effect, and in turn, promote the growth and stress resistance of the plant. However, how soil microbes are selected to the rhizosphere, and further into the roots is still not well understood. Here, we profiled the fungal, bacterial communities and their interactions in the bulk soils, rhizosphere soils and roots of eleven stress-resistant plant species after six months of growth. The results showed that the root selection (from the rhizosphere soils to the roots) was stronger than the rhizosphere selection (from the bulk soils to the rhizosphere soils) in: (1) filtering stricter on the fungal (28.5% to 40.1%) and bacterial (48.9% to 68.1%) amplicon sequence variants (ASVs), (2) depleting more shared fungal (290 to 56) and bacterial (691 to 2) ASVs measured by relative abundance, and (3) increasing the significant fungi-bacteria crosskingdom correlations (142 to 110). In addition, the root selection, but not the rhizosphere selection, significantly increased the fungi to bacteria ratios (f:b) of the observed species and shannon diversity index, indicating unbalanced effects to the fungal and bacteria communities exerted by the root selection. Based on the results of network analysis, the unbalanced root selection effects were associated with increased numbers of negative interaction (140 to 99) and crosskingdom interaction (123 to 92), suggesting the root selection intensifies the negative fungi-bacteria interactions in the roots. Our findings provide insights into the complexity of crosskingdom interactions and improve the understanding of microbiome assembly in the rhizosphere and roots.
 
 [Source](https://doi.org/10.7717/peerj.17225)
@@ -222,9 +228,10 @@ The comprehensive analysis of multiple biological communities is essential for a
 ---
 
 ## A generic approach to infer community-level fitness of microbial genes.
- 18.04.2024, _T Wang, A Weiss, L You_
+ 22.04.2024, _T Wang, A Weiss, L You_
 
 
+_Microbiota, Metagenome, Selection, Genetic, Genes, Microbial_
 The gene content in a metagenomic pool defines the function potential of a microbial community. Natural selection, operating on the level of genomes or genes, shapes the evolution of community functions by enriching some genes while depriving the others. Despite the importance of microbiomes in the environment and health, a general metric to evaluate the community-wide fitness of microbial genes remains lacking. In this work, we adapt the classic neutral model of species and use it to predict how the abundances of different genes will be shaped by selection, regardless of at which level the selection acts. We establish a simple metric that quantitatively infers the average survival capability of each gene in a microbiome. We then experimentally validate the predictions using synthetic communities of barcoded Escherichia coli strains undergoing neutral assembly and competition. We further show that this approach can be applied to publicly available metagenomic datasets to gain insights into the environment-function interplay of natural microbiomes.
 
 [Source](https://doi.org/10.1073/pnas.2318380121)
