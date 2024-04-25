@@ -32,8 +32,8 @@
 
 ---
 
-## Revolutionising Lung Health: Exploring the Latest Breakthroughs and Future Prospects of Synbiotic Nanostructures in Lung Diseases.
- 19.04.2024, _AB Saeid, G De Rubis, KA Williams, S Yeung, DK Chellappan, SK Singh, G Gupta, PM Hansbro, MA Shahbazi, M Gulati, IP Kaur, HA Santos, KR Paudel, K Dua_
+## Revolutionizing lung health: Exploring the latest breakthroughs and future prospects of synbiotic nanostructures in lung diseases.
+ 24.04.2024, _A Bani Saeid, G De Rubis, KA Williams, S Yeung, DK Chellappan, SK Singh, G Gupta, PM Hansbro, MA Shahbazi, M Gulati, IP Kaur, HA Santos, KR Paudel, K Dua_
 
 
 The escalating prevalence of lung diseases underscores the need for innovative therapies. Dysbiosis in human body microbiome has emerged as a significant factor in these diseases, indicating a potential role for synbiotics in restoring microbial equilibrium. However, effective delivery of synbiotics to the target site remains challenging. Here, we aim to explore suitable nanoparticles for encapsulating synbiotics tailored for applications in lung diseases. Nanoencapsulation has emerged as a prominent strategy to address the delivery challenges of synbiotics in this context. Through a comprehensive review, we assess the potential of nanoparticles in facilitating synbiotic delivery and their structural adaptability for this purpose. Our review reveals that nanoparticles such as nanocellulose, starch, and chitosan exhibit high potential for synbiotic encapsulation. These offer flexibility in structure design and synthesis, making them promising candidates for addressing delivery challenges in lung diseases. Furthermore, our analysis highlights that synbiotics, when compared to probiotics alone, demonstrate superior anti-inflammatory, antioxidant, antibacterial and anticancer activities. This review underscores the promising role of nanoparticle-encapsulated synbiotics as a targeted and effective therapeutic approach for lung diseases, contributing valuable insights into the potential of nanomedicine in revolutionizing treatment strategies for respiratory conditions, ultimately paving the way for future advancements in this field.
