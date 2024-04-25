@@ -137,7 +137,7 @@ Insertion sequence (IS) elements are mobile genetic elements in bacterial genome
 ---
 
 ## Benchmarking bioinformatic virus identification tools using real-world metagenomic data across biomes.
- 18.04.2024, _LY Wu, Y Wijesekara, GJ Piedade, N Pappas, CPD Brussaard, BE Dutilh_
+ 25.04.2024, _LY Wu, Y Wijesekara, GJ Piedade, N Pappas, CPD Brussaard, BE Dutilh_
 
 
 _Benchmarking, Metagenome, Ecosystem, Metagenomics, Computational Biology, Databases, Genetic, Viruses_
@@ -150,7 +150,7 @@ As most viruses remain uncultivated, metagenomics is currently the main method f
 ---
 
 ## Scoary2: rapid association of phenotypic multi-omics data with microbial pan-genomes.
- 15.04.2024, _T Roder, G Pimentel, P Fuchsmann, MT Stern, U von Ah, G Vergères, S Peischl, O Brynildsrud, R Bruggmann, C Bär_
+ 25.04.2024, _T Roder, G Pimentel, P Fuchsmann, MT Stern, U von Ah, G Vergères, S Peischl, O Brynildsrud, R Bruggmann, C Bär_
 
 
 _Genome-Wide Association Study, Multiomics, Phenotype, Genes, Bacterial, Genomics_
@@ -163,7 +163,7 @@ Unraveling bacterial gene function drives progress in various areas, such as foo
 ---
 
 ## Evaluating and improving the representation of bacterial contents in long-read metagenome assemblies.
- 15.04.2024, _X Feng, H Li_
+ 25.04.2024, _X Feng, H Li_
 
 
 _Metagenome, Microbiota, Algorithms, Bacteria, Metagenomics_
