@@ -51,7 +51,7 @@ The escalating prevalence of lung diseases underscores the need for innovative t
 ---
 
 ## Longitudinal dynamics of farmer and livestock nasal and faecal microbiomes and resistomes.
- 08.04.2024, _B Mahmud, RC Vargas, KV Sukhum, S Patel, J Liao, LR Hall, A Kesaraju, T Le, T Kitchner, E Kronholm, K Koshalek, CG Bendixsen, JJ VanWormer, SK Shukla, G Dantas_
+ 25.04.2024, _B Mahmud, RC Vargas, KV Sukhum, S Patel, J Liao, LR Hall, A Kesaraju, T Le, T Kitchner, E Kronholm, K Koshalek, CG Bendixsen, JJ VanWormer, SK Shukla, G Dantas_
 
 
 _Female, Humans, Animals, Cattle, Farmers, Livestock, Farms, Agriculture, Microbiota_
