@@ -162,15 +162,28 @@ Unraveling bacterial gene function drives progress in various areas, such as foo
 
 ---
 
-## Evaluating and improving the representation of bacterial contents in long-read metagenome assemblies 
+## Evaluating and improving the representation of bacterial contents in long-read metagenome assemblies.
+ 25.04.2024, _X Feng, H Li_
+
+
+_Metagenome, Microbiota, Algorithms, Bacteria, Metagenomics_
+In the metagenomic assembly of a microbial community, abundant species are often thought to assemble well given their deeper sequencing coverage. This conjuncture is rarely tested or evaluated in practice. We often do not know how many abundant species are missing and do not have an approach to recover them.
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03234-6)
 
+10.1186/s13059-024-03234-6
+
 ---
 
-## Refining the impact of genetic evidence on clinical success 
+## Refining the impact of genetic evidence on clinical success.
+ 17.04.2024, _EV Minikel, JL Painter, CC Dong, MR Nelson_
+
+
+The cost of drug discovery and development is driven primarily by failure1, with only about 10% of clinical programmes eventually receiving approval2-4. We previously estimated that human genetic evidence doubles the success rate from clinical development to approval5. In this study we leverage the growth in genetic evidence over the past decade to better understand the characteristics that distinguish clinical success and failure. We estimate the probability of success for drug mechanisms with genetic support is 2.6 times greater than those without. This relative success varies among therapy areas and development phases, and improves with increasing confidence in the causal gene, but is largely unaffected by genetic effect size, minor allele frequency or year of discovery. These results indicate we are far from reaching peak genetic insights to aid the discovery of targets for more effective drugs.
 
 [Source](https://www.nature.com/articles/s41586-024-07316-0)
+
+10.1038/s41586-024-07316-0
 
 ---
 
