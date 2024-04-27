@@ -1,6 +1,13 @@
-## A naturally isolated symbiotic bacterium suppresses flavivirus transmission by Aedes mosquitoes
+## A naturally isolated symbiotic bacterium suppresses flavivirus transmission by Aedes mosquitoes.
+ 26.04.2024, _L Zhang, D Wang, P Shi, J Li, J Niu, J Chen, G Wang, L Wu, L Chen, Z Yang, S Li, J Meng, F Ruan, Y He, H Zhao, Z Ren, Y Wang, Y Liu, X Shi, Y Wang, Q Liu, J Li, P Wang, J Wang, Y Zhu, G Cheng_
+
+
+_Animals, Aedes, Symbiosis, Dengue Virus, Mosquito Vectors, Zika Virus, Dengue, Gastrointestinal Microbiome, Acetobacteraceae, Female, Viral Envelope Proteins, Flavivirus, Zika Virus Infection_
+The commensal microbiota of the mosquito gut plays a complex role in determining the vector competence for arboviruses. In this study, we identified a bacterium from the gut of field Aedes albopictus mosquitoes named Rosenbergiella sp. YN46 (Rosenbergiella_YN46) that rendered mosquitoes refractory to infection with dengue and Zika viruses. Inoculation of 1.6 × 103 colony forming units (CFUs) of Rosenbergiella_YN46 into A. albopictus mosquitoes effectively prevents viral infection. Mechanistically, this bacterium secretes glucose dehydrogenase (RyGDH), which acidifies the gut lumen of fed mosquitoes, causing irreversible conformational changes in the flavivirus envelope protein that prevent viral entry into cells. In semifield conditions, Rosenbergiella_YN46 exhibits effective transstadial transmission in field mosquitoes, which blocks transmission of dengue virus by newly emerged adult mosquitoes. The prevalence of Rosenbergiella_YN46 is greater in mosquitoes from low-dengue areas (52.9 to ~91.7%) than in those from dengue-endemic regions (0 to ~6.7%). Rosenbergiella_YN46 may offer an effective and safe lead for flavivirus biocontrol.
 
 [Source](https://www.science.org/doi/10.1126/science.adn9524)
+
+10.1126/science.adn9524
 
 ---
 
@@ -87,15 +94,16 @@ Probiotic Lactococcus lactis is known to confer health benefits to humans. Here,
 
 ---
 
-## Phage predation, disease severity and pathogen genetic diversity in cholera patients.
- 28.03.2024, _N Madi, ET Cato, MA Sayeed, A Creasy-Marrazzo, A Cuénod, K Islam, MIU Khabir, MTR Bhuiyan, YA Begum, E Freeman, A Vustepalli, L Brinkley, M Kamat, LS Bailey, KB Basso, F Qadri, AI Khan, BJ Shapiro, EJ Nelson_
+## Phage predation, disease severity, and pathogen genetic diversity in cholera patients.
+ 26.04.2024, _N Madi, ET Cato, M Abu Sayeed, A Creasy-Marrazzo, A Cuénod, K Islam, MIU Khabir, MTR Bhuiyan, YA Begum, E Freeman, A Vustepalli, L Brinkley, M Kamat, LS Bailey, KB Basso, F Qadri, AI Khan, BJ Shapiro, EJ Nelson_
 
 
-Despite an increasingly detailed picture of the molecular mechanisms of phage-bacterial interactions, we lack an understanding of how these interactions evolve and impact disease within patients. Here we report a year-long, nation-wide study of diarrheal disease patients in Bangladesh. Among cholera patients, we quantified Vibrio cholerae (prey) and its virulent phages (predators) using metagenomics and quantitative PCR, while accounting for antibiotic exposure using quantitative mass spectrometry. Virulent phage (ICP1) and antibiotics suppressed V. cholerae to varying degrees and were inversely associated with severe dehydration depending on resistance mechanisms. In the absence of anti-phage defenses, predation was 'effective,' with a high predator:prey ratio that correlated with increased genetic diversity among the prey. In the presence of anti-phage defenses, predation was 'ineffective,' with a lower predator:prey ratio that correlated with increased genetic diversity among the predators. Phage-bacteria coevolution within patients should therefore be considered in the deployment of phage-based therapies and diagnostics.
+_Cholera, Vibrio cholerae, Bacteriophages, Humans, Genetic Variation, Bangladesh, Anti-Bacterial Agents, Severity of Illness Index, Adult, Metagenomics_
+Despite an increasingly detailed picture of the molecular mechanisms of bacteriophage (phage)-bacterial interactions, we lack an understanding of how these interactions evolve and impact disease within patients. In this work, we report a year-long, nationwide study of diarrheal disease patients in Bangladesh. Among cholera patients, we quantified Vibrio cholerae (prey) and its virulent phages (predators) using metagenomics and quantitative polymerase chain reaction while accounting for antibiotic exposure using quantitative mass spectrometry. Virulent phage (ICP1) and antibiotics suppressed V. cholerae to varying degrees and were inversely associated with severe dehydration depending on resistance mechanisms. In the absence of antiphage defenses, predation was "effective," with a high predator:prey ratio that correlated with increased genetic diversity among the prey. In the presence of antiphage defenses, predation was "ineffective," with a lower predator:prey ratio that correlated with increased genetic diversity among the predators. Phage-bacteria coevolution within patients should therefore be considered in the deployment of phage-based therapies and diagnostics.
 
 [Source](https://www.science.org/doi/10.1126/science.adj3166)
 
-10.1101/2023.06.14.544933
+10.1126/science.adj3166
 
 ---
 
