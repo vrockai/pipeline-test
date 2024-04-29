@@ -1,5 +1,5 @@
 ## Genome Analysis of Epsilon CrAss-like Phages.
- 27.04.2024, _IV Babkin, AY Tikunov, IK Baykov, VV Morozova, NV Tikunova_
+ 29.04.2024, _IV Babkin, AY Tikunov, IK Baykov, VV Morozova, NV Tikunova_
 
 
 _Genome, Viral, Bacteriophages, Phylogeny, Viral Proteins, Retroelements, Genetic Variation, Prophages, DNA, Viral, DNA Primase, Genomics, RNA-Directed DNA Polymerase_
@@ -296,39 +296,21 @@ Microplastics have become a widespread concern within marine environments and ar
 
 ---
 
-## Microbiome compositional data analysis for survival studies.
- 27.04.2024, _M Pujolassos, A Susín, ML Calle_
-
-
-The growing interest in studying the relationship between the human microbiome and our health has also extended to time-to-event studies where researchers explore the connection between the microbiome and the occurrence of a specific event of interest. The analysis of microbiome obtained through high throughput sequencing techniques requires the use of specialized Compositional Data Analysis (CoDA) methods designed to accommodate its compositional nature. There is a limited availability of statistical tools for microbiome analysis that incorporate CoDA, and this is even more pronounced in the context of survival analysis. To fill this methodological gap, we present coda4microbiome for survival studies, a new methodology for the identification of microbial signatures in time-to-event studies. The algorithm implements an elastic-net penalized Cox regression model adapted to compositional covariates. We illustrate coda4microbiome algorithm for survival studies with a case study about the time to develop type 1 diabetes for non-obese diabetic mice. Our algorithm identified a bacterial signature composed of 21 genera associated with diabetes development. coda4microbiome for survival studies is integrated in the R package coda4microbiome as an extension of the existing functions for cross-sectional and longitudinal studies.
+## Microbiome compositional data analysis for survival studies
 
 [Source](https://doi.org/10.1093/nargab/lqae038)
 
-10.1093/nargab/lqae038
-
 ---
 
-## Periportal macrophages protect against commensal-driven liver inflammation.
- 27.04.2024, _Y Miyamoto, J Kikuta, T Matsui, T Hasegawa, K Fujii, D Okuzaki, YC Liu, T Yoshioka, S Seno, D Motooka, Y Uchida, E Yamashita, S Kobayashi, H Eguchi, E Morii, K Tryggvason, T Shichita, H Kayama, K Atarashi, J Kunisawa, K Honda, K Takeda, M Ishii_
-
-
-The liver is the main gateway from the gut, and the unidirectional sinusoidal flow from portal to central veins constitutes heterogenous zones, including the periportal vein (PV) and the pericentral vein zones1-5. However, functional differences in the immune system in each zone remain poorly understood. Here intravital imaging revealed that inflammatory responses are suppressed in PV zones. Zone-specific single-cell transcriptomics detected a subset of immunosuppressive macrophages enriched in PV zones that express high levels of interleukin-10 and Marco, a scavenger receptor that sequesters pro-inflammatory pathogen-associated molecular patterns and damage-associated molecular patterns, and consequently suppress immune responses. Induction of Marco+ immunosuppressive macrophages depended on gut microbiota. In particular, a specific bacterial family, Odoribacteraceae, was identified to induce this macrophage subset through its postbiotic isoallolithocholic acid. Intestinal barrier leakage resulted in inflammation in PV zones, which was markedly augmented in Marco-deficient conditions. Chronic liver inflammatory diseases such as primary sclerosing cholangitis (PSC) and non-alcoholic steatohepatitis (NASH) showed decreased numbers of Marco+ macrophages. Functional ablation of Marco+ macrophages led to PSC-like inflammatory phenotypes related to colitis and exacerbated steatosis in NASH in animal experimental models. Collectively, commensal bacteria induce Marco+ immunosuppressive macrophages, which consequently limit excessive inflammation at the gateway of the liver. Failure of this self-limiting system promotes hepatic inflammatory disorders such as PSC and NASH.
+## Periportal macrophages protect against commensal-driven liver inflammation
 
 [Source](https://doi.org/10.1038/s41586-024-07372-6)
 
-10.1038/s41586-024-07372-6
-
 ---
 
-## A case study to engage students in the research design and ethics of high-throughput metagenomics.
- 27.04.2024, _CC Alexander, MM Gaudier-Diaz, AJ Kleinschmit, PJ Dihle, SA Salger, N Vega, SD Robertson_
-
-
-Case studies present students with an opportunity to learn and apply course content through problem solving and critical thinking. Supported by the High-throughput Discovery Science &amp; Inquiry-based Case Studies for Today's Students (HITS) Research Coordination Network, our interdisciplinary team designed, implemented, and assessed two case study modules entitled "You Are What You Eat." Collectively, the case study modules present students with an opportunity to engage in experimental research design and the ethical considerations regarding microbiome research and society. In this manuscript, we provide instructors with tools for adopting or adapting the research design and/or the ethics modules. To date, the case has been implemented using two modalities (remote and in-person) in three courses (Microbiology, Physiology, and Neuroscience), engaging over 200 undergraduate students. Our assessment data demonstrate gains in content knowledge and students' perception of learning following case study implementation. Furthermore, when reflecting on our experiences and student feedback, we identified ways in which the case study could be modified for different settings. In this way, we hope that the "You Are What You Eat" case study modules can be implemented widely by instructors to promote problem solving and critical thinking in the traditional classroom or laboratory setting when discussing next-generation sequencing and/or metagenomics research.
+## A case study to engage students in the research design and ethics of high-throughput metagenomics
 
 [Source](https://doi.org/10.1128/jmbe.00074-23)
-
-10.1128/jmbe.00074-23
 
 ---
 
