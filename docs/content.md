@@ -265,9 +265,15 @@ The importance of ruminal microbiota in ruminants is emphasized, not only as a s
 
 ---
 
-## Exploring changes in microplastic-associated bacterial communities with time, location, and polymer type in Liusha Bay, China
+## Exploring changes in microplastic-associated bacterial communities with time, location, and polymer type in Liusha Bay, China.
+ 24.04.2024, _T Wang, F Lu, C Yang, C Wang, Y Liao, R Mkuye, Y Deng_
+
+
+Microplastics have become a widespread concern within marine environments and are particularly evident in aquaculture regions that are characterized by plastic accumulation. This study employed 16 S rDNA sequencing to investigate the dynamic succession of microbial communities colonizing polyvinyl chloride (PVC), polystyrene (PS), and polyamide (PA) microplastics in seawater, when subjected to varying exposure durations in the Liusha Bay aquaculture region. Results revealed that the composition of microplastics microbial communities varied remarkably across geographical locations and exposure times. With an increase in exposure duration, both the diversity and richness of bacterial communities colonizing microplastics significantly increased, microbial communities show adaptations to the plastisphere. The type of microplastics had a significant effect on the community structure characteristicsof bacteria attached to their surfaces, with inconsistent trends in the relative abundance of different genera on different substrates. Notably, microplastic surfaces harbored a significant abundance of hydrocarbon-degrading bacteria, exemplified by Erythrobacter. These findings underscore the potential of microplastics as unique microbial niches. Meanwhile, long-term exposure experiments also offer the possibility of screening for plastic-degrading bacteria. In addition, the presence of the pathogenic bacterium Vibrio was detected in all microplastic samples, implying that microplastics could serve as carriers for pathogenic dissemination. This underscores the urgency of addressing the risk posed by the proliferation of harmful bacteria on microplastic surfaces. Overall, this study enhances our understanding of microbial community dynamics on microplastics under diverse conditions. It contributes to the broader comprehension of plastisphere microbial ecosystems in the marine environment, thereby addressing critical environmental implications.
 
 [Source](https://doi.org/10.1016/j.marenvres.2024.106525)
+
+10.1016/j.marenvres.2024.106525
 
 ---
 
