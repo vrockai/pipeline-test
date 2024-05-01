@@ -73,15 +73,28 @@ The etiopathogenesis of diverticulitis, among the most common gastrointestinal d
 
 ---
 
-## Sodium Propionate Oral Supplementation ameliorates Depressive-Like Behavior through Gut Microbiome and Histone 3 Epigenetic Regulation
+## Sodium Propionate Oral Supplementation ameliorates Depressive-Like Behavior through Gut Microbiome and Histone 3 Epigenetic Regulation.
+ 30.04.2024, _LMP Behrens, J Gasparotto, PH Rampelotto, MAR Escalona, LDS da Silva, FG Carazza-Kessler, CP Barbosa, MS Campos, M Dorn, DP Gelain, JCF Moreira_
+
+
+Major Depressive Disorder (MDD) is a global health concern, affecting over 250 million individuals worldwide. In recent years, the gut-brain axis has emerged as a promising field for understanding the pathophysiology of MDD. Microbial metabolites, such as Short-Chain Fatty Acids (SCFAs) - acetate, butyrate, and propionate -, have gained attention for their potential to influence epigenetic modifications within the host brain. However, the precise mechanisms through which these metabolites participate in MDD pathophysiology remain elusive. This study was designed to investigate the effects of oral SCFA supplementation in adult male Wistar rats subjected to Chronic Unpredictable Mild Stress (CUMS). A subset of control and CUMS-exposed rats received different supplementations: sodium acetate (NaOAc) at a concentration of 60 mM, sodium butyrate (NaB) at 40 mM, sodium propionate (NaP) at 50 mM, or a mixture of these SCFAs. The gut microbiome was assessed through 16S rRNA sequencing, and epigenetic profiling was performed using Western blot analysis. Results demonstrated that NaP supplementation significantly alleviated anhedonia in stressed animals, as evidenced by improved performance in the sucrose consumption test. This ameliorative effect was potentially associated with the modulation of gut bacterial communities, accompanied by the attenuation of the region-specific epigenetic dysregulation in the brain of the animals exposed to chronic stress. These findings suggest a potential association between gut dysbiosis and stress response, and NaP could be a promising target for future MDD interventions. However, further studies are needed to fully elucidate the underlying mechanisms of these effects.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0955286324000937)
 
+10.1016/j.jnutbio.2024.109660
+
 ---
 
-## Colon impairments and inflammation driven by an altered gut microbiota leads to social behavior deficits rescued by hyaluronic acid and celecoxib
+## Colon impairments and inflammation driven by an altered gut microbiota leads to social behavior deficits rescued by hyaluronic acid and celecoxib.
+ 29.04.2024, _O Agranyoni, D Sur, S Amidror, N Shidlovsky, A Bagaev, N Yissachar, A Pinhasov, S Navon-Venezia_
+
+
+_Animals, Gastrointestinal Microbiome, Celecoxib, Mice, Hyaluronic Acid, Social Behavior, Colon, Inflammation, Male, Behavior, Animal, RNA, Ribosomal, 16S_
+The exact mechanisms linking the gut microbiota and social behavior are still under investigation. We aimed to explore the role of the gut microbiota in shaping social behavior deficits using selectively bred mice possessing dominant (Dom) or submissive (Sub) behavior features. Sub mice exhibit asocial, depressive- and anxiety-like behaviors, as well as systemic inflammation, all of which are shaped by their impaired gut microbiota composition.
 
 [Source](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-024-03323-0)
+
+10.1186/s12916-024-03323-0
 
 ---
 
@@ -104,9 +117,15 @@ Fluvalinate is widely used in the control of Varroa destructor, but its residues
 
 ---
 
-## Determinants of microbiome composition: Insights from free-ranging hybrid zebras (Equus quagga × grevyi)
+## Determinants of microbiome composition: Insights from free-ranging hybrid zebras (Equus quagga × grevyi).
+ 29.04.2024, _JO Abraham, B Lin, AE Miller, LP Henry, MY Demmel, R Warungu, M Mwangi, PM Lobura, LF Pallares, JF Ayroles, RM Pringle, DI Rubenstein_
+
+
+The composition of mammalian gut microbiomes is highly conserved within species, yet the mechanisms by which microbiome composition is transmitted and maintained within lineages of wild animals remain unclear. Mutually compatible hypotheses exist, including that microbiome fidelity results from inherited dietary habits, shared environmental exposure, morphophysiological filtering and/or maternal effects. Interspecific hybrids are a promising system in which to interrogate the determinants of microbiome composition because hybrids can decouple traits and processes that are otherwise co-inherited in their parent species. We used a population of free-living hybrid zebras (Equus quagga × grevyi) in Kenya to evaluate the roles of these four mechanisms in regulating microbiome composition. We analysed faecal DNA for both the trnL-P6 and the 16S rRNA V4 region to characterize the diets and microbiomes of the hybrid zebra and of their parent species, plains zebra (E. quagga) and Grevy's zebra (E. grevyi). We found that both diet and microbiome composition clustered by species, and that hybrid diets and microbiomes were largely nested within those of the maternal species, plains zebra. Hybrid microbiomes were less variable than those of either parent species where they co-occurred. Diet and microbiome composition were strongly correlated, although the strength of this correlation varied between species. These patterns are most consistent with the maternal-effects hypothesis, somewhat consistent with the diet hypothesis, and largely inconsistent with the environmental-sourcing and morphophysiological-filtering hypotheses. Maternal transmittance likely operates in conjunction with inherited feeding habits to conserve microbiome composition within species.
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/mec.17370)
+
+10.1111/mec.17370
 
 ---
 
