@@ -49,15 +49,28 @@ The etiopathogenesis of diverticulitis, among the most common gastrointestinal d
 
 ---
 
-## Microbiome confounders and quantitative profiling challenge predicted microbial targets in colorectal cancer development
+## Microbiome confounders and quantitative profiling challenge predicted microbial targets in colorectal cancer development.
+ 30.04.2024, _RY Tito, S Verbandt, M Aguirre Vazquez, L Lahti, C Verspecht, V Lloréns-Rico, S Vieira-Silva, J Arts, G Falony, E Dekker, J Reumers, S Tejpar, J Raes_
+
+
+Despite substantial progress in cancer microbiome research, recognized confounders and advances in absolute microbiome quantification remain underused; this raises concerns regarding potential spurious associations. Here we study the fecal microbiota of 589 patients at different colorectal cancer (CRC) stages and compare observations with up to 15 published studies (4,439 patients and controls total). Using quantitative microbiome profiling based on 16S ribosomal RNA amplicon sequencing, combined with rigorous confounder control, we identified transit time, fecal calprotectin (intestinal inflammation) and body mass index as primary microbial covariates, superseding variance explained by CRC diagnostic groups. Well-established microbiome CRC targets, such as Fusobacterium nucleatum, did not significantly associate with CRC diagnostic groups (healthy, adenoma and carcinoma) when controlling for these covariates. In contrast, the associations of Anaerococcus vaginalis, Dialister pneumosintes, Parvimonas micra, Peptostreptococcus anaerobius, Porphyromonas asaccharolytica and Prevotella intermedia remained robust, highlighting their future target potential. Finally, control individuals (age 22-80 years, mean 57.7 years, standard deviation 11.3) meeting criteria for colonoscopy (for example, through a positive fecal immunochemical test) but without colonic lesions are enriched for the dysbiotic Bacteroides2 enterotype, emphasizing uncertainties in defining healthy controls in cancer microbiome research. Together, these results indicate the importance of quantitative microbiome profiling and covariate control for biomarker identification in CRC microbiome studies.
 
 [Source](https://www.nature.com/articles/s41591-024-02963-2)
 
+10.1038/s41591-024-02963-2
+
 ---
 
-## Prediction and causal inference of hyperuricemia using gut microbiota 
+## Prediction and causal inference of hyperuricemia using gut microbiota.
+ 30.04.2024, _Y Miyajima, S Karashima, R Mizoguchi, M Kawakami, K Ogura, K Ogai, A Koshida, Y Ikagawa, Y Ami, Q Zhu, H Tsujiguchi, A Hara, S Kurihara, H Arakawa, H Nakamura, I Tamai, H Nambo, S Okamoto_
+
+
+_Humans, Gastrointestinal Microbiome, Hyperuricemia, Male, Female, Adult, RNA, Ribosomal, 16S, Machine Learning, Uric Acid, Feces, High-Throughput Nucleotide Sequencing, Middle Aged_
+Hyperuricemia (HUA) is a symptom of high blood uric acid (UA) levels, which causes disorders such as gout and renal urinary calculus. Prolonged HUA is often associated with hypertension, atherosclerosis, diabetes mellitus, and chronic kidney disease. Studies have shown that gut microbiota (GM) affect these chronic diseases. This study aimed to determine the relationship between HUA and GM. The microbiome of 224 men and 254 women aged 40 years was analyzed through next-generation sequencing and machine learning. We obtained GM data through 16S rRNA-based sequencing of the fecal samples, finding that alpha-diversity by Shannon index was significantly low in the HUA group. Linear discriminant effect size analysis detected a high abundance of the genera Collinsella and Faecalibacterium in the HUA and non-HUA groups. Based on light gradient boosting machine learning, we propose that HUA can be predicted with high AUC using four clinical characteristics and the relative abundance of nine bacterial genera, including Collinsella and Dorea. In addition, analysis of causal relationships using a direct linear non-Gaussian acyclic model indicated a positive effect of the relative abundance of the genus Collinsella on blood UA levels. Our results suggest abundant Collinsella in the gut can increase blood UA levels.
 
 [Source](https://www.nature.com/articles/s41598-024-60427-6)
+
+10.1038/s41598-024-60427-6
 
 ---
 
@@ -67,9 +80,16 @@ The etiopathogenesis of diverticulitis, among the most common gastrointestinal d
 
 ---
 
-## The detailed analysis of the microbiome and resistome of artisanal blue-veined cheeses provides evidence on sources and patterns of succession linked with quality and safety traits
+## The detailed analysis of the microbiome and resistome of artisanal blue-veined cheeses provides evidence on sources and patterns of succession linked with quality and safety traits.
+ 30.04.2024, _EA Alexa, JF Cobo-Díaz, E Renes, TF O Callaghan, K Kilcawley, D Mannion, I Skibinska, L Ruiz, A Margolles, P Fernández-Gómez, A Alvarez-Molina, P Puente-Gómez, F Crispie, M López, M Prieto, PD Cotter, A Alvarez-Ordóñez_
+
+
+_Cheese, Microbiota, Food Microbiology, Bacteria, Caves, Corynebacterium, Longitudinal Studies, Metagenome, Lactococcus, RNA, Ribosomal, 16S, Staphylococcus, Food Safety_
+Artisanal cheeses usually contain a highly diverse microbial community which can significantly impact their quality and safety. Here, we describe a detailed longitudinal study assessing the impact of ripening in three natural caves on the microbiome and resistome succession across three different producers of Cabrales blue-veined cheese.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01790-4)
+
+10.1186/s40168-024-01790-4
 
 ---
 
