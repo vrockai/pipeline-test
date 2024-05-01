@@ -1,5 +1,5 @@
 ## Safety and efficacy of faecal microbiota transplantation in patients with mild to moderate Parkinson's disease (GUT-PARFECT): a double-blind, placebo-controlled, randomised, phase 2 trial.
- 30.04.2024, _A Bruggeman, C Vandendriessche, H Hamerlinck, D De Looze, DJ Tate, M Vuylsteke, L De Commer, L Devolder, J Raes, B Verhasselt, D Laukens, RE Vandenbroucke, P Santens_
+ 01.05.2024, _A Bruggeman, C Vandendriessche, H Hamerlinck, D De Looze, DJ Tate, M Vuylsteke, L De Commer, L Devolder, J Raes, B Verhasselt, D Laukens, RE Vandenbroucke, P Santens_
 
 
 Dysregulation of the gut microbiome has been implicated in Parkinson's disease (PD). This study aimed to evaluate the clinical effects and safety of a single faecal microbiota transplantation (FMT) in patients with early-stage PD.
@@ -37,7 +37,7 @@ Microbial-based therapeutics in clinical practice are of considerable interest, 
 ---
 
 ## Gut microbiome composition and metabolic activity in women with diverticulitis.
- 29.04.2024, _W Ma, Y Wang, LH Nguyen, RS Mehta, J Ha, A Bhosle, LJ Mclver, M Song, CB Clish, LL Strate, C Huttenhower, AT Chan_
+ 01.05.2024, _W Ma, Y Wang, LH Nguyen, RS Mehta, J Ha, A Bhosle, LJ Mclver, M Song, CB Clish, LL Strate, C Huttenhower, AT Chan_
 
 
 _Humans, Female, Gastrointestinal Microbiome, Middle Aged, Diverticulitis, Feces, Aged, Prospective Studies, Bilophila, Metabolomics, Case-Control Studies, Clostridiales, Bile Acids and Salts, Adult, Dietary Fiber, Metabolome, Metagenomics_
@@ -106,7 +106,7 @@ Major Depressive Disorder (MDD) is a global health concern, affecting over 250 m
 ---
 
 ## Colon impairments and inflammation driven by an altered gut microbiota leads to social behavior deficits rescued by hyaluronic acid and celecoxib.
- 29.04.2024, _O Agranyoni, D Sur, S Amidror, N Shidlovsky, A Bagaev, N Yissachar, A Pinhasov, S Navon-Venezia_
+ 01.05.2024, _O Agranyoni, D Sur, S Amidror, N Shidlovsky, A Bagaev, N Yissachar, A Pinhasov, S Navon-Venezia_
 
 
 _Animals, Gastrointestinal Microbiome, Celecoxib, Mice, Hyaluronic Acid, Social Behavior, Colon, Inflammation, Male, Behavior, Animal, RNA, Ribosomal, 16S_
@@ -168,7 +168,7 @@ The Atacama Desert is the oldest and driest desert on Earth, encompassing great 
 ---
 
 ## Variability and bias in microbiome metagenomic sequencing: an interlaboratory study comparing experimental protocols.
- 29.04.2024, _SP Forry, SL Servetas, JG Kralj, K Soh, M Hadjithomas, R Cano, M Carlin, MG Amorim, B Auch, MG Bakker, TF Bartelli, JP Bustamante, I Cassol, M Chalita, E Dias-Neto, AD Duca, DM Gohl, J Kazantseva, MT Haruna, P Menzel, BS Moda, L Neuberger-Castillo, DN Nunes, IR Patel, RD Peralta, A Saliou, R Schwarzer, S Sevilla, IKTM Takenaka, JR Wang, R Knight, D Gevers, SA Jackson_
+ 01.05.2024, _SP Forry, SL Servetas, JG Kralj, K Soh, M Hadjithomas, R Cano, M Carlin, MG Amorim, B Auch, MG Bakker, TF Bartelli, JP Bustamante, I Cassol, M Chalita, E Dias-Neto, AD Duca, DM Gohl, J Kazantseva, MT Haruna, P Menzel, BS Moda, L Neuberger-Castillo, DN Nunes, IR Patel, RD Peralta, A Saliou, R Schwarzer, S Sevilla, IKTM Takenaka, JR Wang, R Knight, D Gevers, SA Jackson_
 
 
 _Humans, Metagenomics, RNA, Ribosomal, 16S, Feces, Microbiota, Bias, Metagenome, Gastrointestinal Microbiome, Sequence Analysis, DNA, Bacteria, High-Throughput Nucleotide Sequencing_
