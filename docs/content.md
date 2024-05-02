@@ -11,7 +11,7 @@ Dysregulation of the gut microbiome has been implicated in Parkinson's disease (
 ---
 
 ## Implications of intestinal microecology and immune function alterations for immunotherapy outcomes in advanced unresectable lung adenocarcinoma.
- 30.04.2024, _S He, J Tian, J Zang, L Long, P Liu, Y Zhang, J Xiao_
+ 02.05.2024, _S He, J Tian, J Zang, L Long, P Liu, Y Zhang, J Xiao_
 
 
 _Humans, Gastrointestinal Microbiome, Male, Female, Lung Neoplasms, Middle Aged, Adenocarcinoma of Lung, Immunotherapy, Aged, RNA, Ribosomal, 16S, Treatment Outcome_
@@ -24,7 +24,7 @@ This investigation aims to explore alterations in intestinal microecology and im
 ---
 
 ## Recipient microbiome-related features predicting metabolic improvement following fecal microbiota transplantation in adults with severe obesity and metabolic syndrome: a secondary analysis of a phase 2 clinical trial.
- 30.04.2024, _Z Zhang, V Mocanu, EC Deehan, N Hotte, Y Zhu, S Wei, DH Kao, S Karmali, DW Birch, J Walter, KL Madsen_
+ 02.05.2024, _Z Zhang, V Mocanu, EC Deehan, N Hotte, Y Zhu, S Wei, DH Kao, S Karmali, DW Birch, J Walter, KL Madsen_
 
 
 _Humans, Fecal Microbiota Transplantation, Metabolic Syndrome, Male, Female, Gastrointestinal Microbiome, Adult, Middle Aged, Feces, Bile Acids and Salts, Bacteria, Obesity, Dietary Fiber, Insulin Resistance, Treatment Outcome_
@@ -37,7 +37,7 @@ Microbial-based therapeutics in clinical practice are of considerable interest, 
 ---
 
 ## Gut microbiome composition and metabolic activity in women with diverticulitis.
- 01.05.2024, _W Ma, Y Wang, LH Nguyen, RS Mehta, J Ha, A Bhosle, LJ Mclver, M Song, CB Clish, LL Strate, C Huttenhower, AT Chan_
+ 02.05.2024, _W Ma, Y Wang, LH Nguyen, RS Mehta, J Ha, A Bhosle, LJ Mclver, M Song, CB Clish, LL Strate, C Huttenhower, AT Chan_
 
 
 _Humans, Female, Gastrointestinal Microbiome, Middle Aged, Diverticulitis, Feces, Aged, Prospective Studies, Bilophila, Metabolomics, Case-Control Studies, Clostridiales, Bile Acids and Salts, Adult, Dietary Fiber, Metabolome, Metagenomics_
@@ -62,7 +62,7 @@ Despite substantial progress in cancer microbiome research, recognized confounde
 ---
 
 ## Prediction and causal inference of hyperuricemia using gut microbiota.
- 30.04.2024, _Y Miyajima, S Karashima, R Mizoguchi, M Kawakami, K Ogura, K Ogai, A Koshida, Y Ikagawa, Y Ami, Q Zhu, H Tsujiguchi, A Hara, S Kurihara, H Arakawa, H Nakamura, I Tamai, H Nambo, S Okamoto_
+ 02.05.2024, _Y Miyajima, S Karashima, R Mizoguchi, M Kawakami, K Ogura, K Ogai, A Koshida, Y Ikagawa, Y Ami, Q Zhu, H Tsujiguchi, A Hara, S Kurihara, H Arakawa, H Nakamura, I Tamai, H Nambo, S Okamoto_
 
 
 _Humans, Gastrointestinal Microbiome, Hyperuricemia, Male, Female, Adult, RNA, Ribosomal, 16S, Machine Learning, Uric Acid, Feces, High-Throughput Nucleotide Sequencing, Middle Aged_
@@ -106,7 +106,7 @@ Major Depressive Disorder (MDD) is a global health concern, affecting over 250 m
 ---
 
 ## Colon impairments and inflammation driven by an altered gut microbiota leads to social behavior deficits rescued by hyaluronic acid and celecoxib.
- 01.05.2024, _O Agranyoni, D Sur, S Amidror, N Shidlovsky, A Bagaev, N Yissachar, A Pinhasov, S Navon-Venezia_
+ 02.05.2024, _O Agranyoni, D Sur, S Amidror, N Shidlovsky, A Bagaev, N Yissachar, A Pinhasov, S Navon-Venezia_
 
 
 _Animals, Gastrointestinal Microbiome, Celecoxib, Mice, Hyaluronic Acid, Social Behavior, Colon, Inflammation, Male, Behavior, Animal, RNA, Ribosomal, 16S_
@@ -168,7 +168,7 @@ The Atacama Desert is the oldest and driest desert on Earth, encompassing great 
 ---
 
 ## Variability and bias in microbiome metagenomic sequencing: an interlaboratory study comparing experimental protocols.
- 01.05.2024, _SP Forry, SL Servetas, JG Kralj, K Soh, M Hadjithomas, R Cano, M Carlin, MG Amorim, B Auch, MG Bakker, TF Bartelli, JP Bustamante, I Cassol, M Chalita, E Dias-Neto, AD Duca, DM Gohl, J Kazantseva, MT Haruna, P Menzel, BS Moda, L Neuberger-Castillo, DN Nunes, IR Patel, RD Peralta, A Saliou, R Schwarzer, S Sevilla, IKTM Takenaka, JR Wang, R Knight, D Gevers, SA Jackson_
+ 02.05.2024, _SP Forry, SL Servetas, JG Kralj, K Soh, M Hadjithomas, R Cano, M Carlin, MG Amorim, B Auch, MG Bakker, TF Bartelli, JP Bustamante, I Cassol, M Chalita, E Dias-Neto, AD Duca, DM Gohl, J Kazantseva, MT Haruna, P Menzel, BS Moda, L Neuberger-Castillo, DN Nunes, IR Patel, RD Peralta, A Saliou, R Schwarzer, S Sevilla, IKTM Takenaka, JR Wang, R Knight, D Gevers, SA Jackson_
 
 
 _Humans, Metagenomics, RNA, Ribosomal, 16S, Feces, Microbiota, Bias, Metagenome, Gastrointestinal Microbiome, Sequence Analysis, DNA, Bacteria, High-Throughput Nucleotide Sequencing_
