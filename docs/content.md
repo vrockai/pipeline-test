@@ -24,7 +24,7 @@ This investigation aims to explore alterations in intestinal microecology and im
 ---
 
 ## Recipient microbiome-related features predicting metabolic improvement following fecal microbiota transplantation in adults with severe obesity and metabolic syndrome: a secondary analysis of a phase 2 clinical trial.
- 02.05.2024, _Z Zhang, V Mocanu, EC Deehan, N Hotte, Y Zhu, S Wei, DH Kao, S Karmali, DW Birch, J Walter, KL Madsen_
+ 03.05.2024, _Z Zhang, V Mocanu, EC Deehan, N Hotte, Y Zhu, S Wei, DH Kao, S Karmali, DW Birch, J Walter, KL Madsen_
 
 
 _Humans, Fecal Microbiota Transplantation, Metabolic Syndrome, Male, Female, Gastrointestinal Microbiome, Adult, Middle Aged, Feces, Bile Acids and Salts, Bacteria, Obesity, Dietary Fiber, Insulin Resistance, Treatment Outcome_
@@ -62,7 +62,7 @@ Despite substantial progress in cancer microbiome research, recognized confounde
 ---
 
 ## Prediction and causal inference of hyperuricemia using gut microbiota.
- 02.05.2024, _Y Miyajima, S Karashima, R Mizoguchi, M Kawakami, K Ogura, K Ogai, A Koshida, Y Ikagawa, Y Ami, Q Zhu, H Tsujiguchi, A Hara, S Kurihara, H Arakawa, H Nakamura, I Tamai, H Nambo, S Okamoto_
+ 03.05.2024, _Y Miyajima, S Karashima, R Mizoguchi, M Kawakami, K Ogura, K Ogai, A Koshida, Y Ikagawa, Y Ami, Q Zhu, H Tsujiguchi, A Hara, S Kurihara, H Arakawa, H Nakamura, I Tamai, H Nambo, S Okamoto_
 
 
 _Humans, Gastrointestinal Microbiome, Hyperuricemia, Male, Female, Adult, RNA, Ribosomal, 16S, Machine Learning, Uric Acid, Feces, High-Throughput Nucleotide Sequencing, Middle Aged_
