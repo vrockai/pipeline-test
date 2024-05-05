@@ -23,7 +23,7 @@ The detection of oral bacteria in faecal samples has been associated with inflam
 ---
 
 ## Human gut microbiota and their production of endocannabinoid-like mediators are directly affected by a dietary oil.
- 04.05.2024, _C Roussel, M Sola, J Lessard-Lord, N Nallabelli, P Généreux, C Cavestri, O Azeggouar Wallen, R Villano, F Raymond, N Flamand, C Silvestri, V Di Marzo_
+ 05.05.2024, _C Roussel, M Sola, J Lessard-Lord, N Nallabelli, P Généreux, C Cavestri, O Azeggouar Wallen, R Villano, F Raymond, N Flamand, C Silvestri, V Di Marzo_
 
 
 _Humans, Gastrointestinal Microbiome, Bacteria, Endocannabinoids, Colon, Ileum, Fatty Acids, Omega-3, Plant Oils, Dietary Supplements, Adult, Male_
@@ -90,9 +90,16 @@ Growing evidence has increasingly suggested a potential linkage between the oral
 
 ---
 
-## Amphibian tolerance to arsenic: microbiome-mediated insights
+## Amphibian tolerance to arsenic: microbiome-mediated insights.
+ 03.05.2024, _IF Cordeiro, CGC Lemes, AB Sanchez, AK da Silva, CH de Paula, RC de Matos, DF Ribeiro, JP de Matos, CCM Garcia, M Beirão, CG Becker, MRS Pires, LM Moreira_
+
+
+_Animals, Arsenic, Microbiota, Skin, Amphibians, Bacteria, Permeability_
+Amphibians are often recognized as bioindicators of healthy ecosystems. The persistence of amphibian populations in heavily contaminated environments provides an excellent opportunity to investigate rapid vertebrate adaptations to harmful contaminants. Using a combination of culture-based challenge assays and a skin permeability assay, we tested whether the skin-associated microbiota may confer adaptive tolerance to tropical amphibians in regions heavily contaminated with arsenic, thus supporting the adaptive microbiome principle and immune interactions of the amphibian mucus. At lower arsenic concentrations (1 and 5 mM As3+), we found a significantly higher number of bacterial isolates tolerant to arsenic from amphibians sampled at an arsenic contaminated region (TES) than from amphibians sampled at an arsenic free region (JN). Strikingly, none of the bacterial isolates from our arsenic free region tolerated high concentrations of arsenic. In our skin permeability experiment, where we tested whether a subset of arsenic-tolerant bacterial isolates could reduce skin permeability to arsenic, we found that isolates known to tolerate high concentrations of arsenic significantly reduced amphibian skin permeability to this metalloid. This pattern did not hold true for bacterial isolates with low arsenic tolerance. Our results describe a pattern of environmental selection of arsenic-tolerant skin bacteria capable of protecting amphibians from intoxication, which helps explain the persistence of amphibian populations in water bodies heavily contaminated with arsenic.
 
 [Source](https://doi.org/10.1038/s41598-024-60879-w)
+
+10.1038/s41598-024-60879-w
 
 ---
 
@@ -102,15 +109,27 @@ Growing evidence has increasingly suggested a potential linkage between the oral
 
 ---
 
-## Gut microbiome and resistome characterization of pigs treated with commonly used post-weaning diarrhea treatments
+## Gut microbiome and resistome characterization of pigs treated with commonly used post-weaning diarrhea treatments.
+ 03.05.2024, _J Guitart-Matas, M Ballester, L Fraile, L Darwich, N Giler-Baquerizo, J Tarres, S López-Soria, Y Ramayo-Caldas, L Migura-Garcia_
+
+
+The global burden of antimicrobial resistance demands additional measures to ensure the sustainable and conscious use of antimicrobials. For the swine industry, the post-weaning period is critical and for many years, antimicrobials have been the most effective strategy to control and treat post-weaning related infections. Among them, post-weaning diarrhea causes vast economic losses, as it severely compromises piglets' health and growth performance. In this study, 210 piglets were transferred from a farm with recurrent cases of post-weaning diarrhea to an experimental farm and divided into six different treatment groups to determine the effect of the different treatments on the growth performance and survival, the microbiome, and the resistome in a cross-sectional and longitudinal study. The different treatments included antimicrobials trimethoprim/sulfamethoxazole, colistin, and gentamicin, an oral commercial vaccine, a control with water acidification, and an untreated control. An extra group remained at the farm of origin following the implemented amoxicillin routine treatment. A total of 280 fecal samples from pigs at four different sampling times were selected for metagenomics: before weaning-treatment at the farm of origin, and three days, two weeks, and four weeks post-treatment.
 
 [Source](https://doi.org/10.1186/s42523-024-00307-6)
 
+10.1186/s42523-024-00307-6
+
 ---
 
-## Effects of microbiome transplants on fly microbiome
+## Effects of microbiome transplants on fly microbiome.
+ 03.05.2024, _J Ferreira_
+
+
+_Animals, Microbiota, Drosophila melanogaster, Fecal Microbiota Transplantation, Gastrointestinal Microbiome_
 
 [Source](https://doi.org/10.1038/s41684-024-01369-4)
+
+10.1038/s41684-024-01369-4
 
 ---
 
@@ -175,7 +194,7 @@ The Okinawa Trough (OT) is a back-arc basin with a wide distribution of active c
 ---
 
 ## mbDecoda: a debiased approach to compositional data analysis for microbiome surveys.
- 03.05.2024, _Y Zong, H Zhao, T Wang_
+ 05.05.2024, _Y Zong, H Zhao, T Wang_
 
 
 _Microbiota, Humans, Algorithms, Data Analysis_
