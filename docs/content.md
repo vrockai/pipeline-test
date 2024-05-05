@@ -1,5 +1,5 @@
 ## Paternal microbiome perturbations impact offspring fitness.
- 01.05.2024, _A Argaw-Denboba, TSB Schmidt, M Di Giacomo, B Ranjan, S Devendran, E Mastrorilli, CT Lloyd, D Pugliese, V Paribeni, J Dabin, A Pisaniello, S Espinola, A Crevenna, S Ghosh, N Humphreys, O Boruc, P Sarkies, M Zimmermann, P Bork, JA Hackett_
+ 04.05.2024, _A Argaw-Denboba, TSB Schmidt, M Di Giacomo, B Ranjan, S Devendran, E Mastrorilli, CT Lloyd, D Pugliese, V Paribeni, J Dabin, A Pisaniello, S Espinola, A Crevenna, S Ghosh, N Humphreys, O Boruc, P Sarkies, M Zimmermann, P Bork, JA Hackett_
 
 
 The gut microbiota operates at the interface of host-environment interactions to influence human homoeostasis and metabolic networks1-4. Environmental factors that unbalance gut microbial ecosystems can therefore shape physiological and disease-associated responses across somatic tissues5-9. However, the systemic impact of the gut microbiome on the germline-and consequently on the F1 offspring it gives rise to-is unexplored10. Here we show that the gut microbiota act as a key interface between paternal preconception environment and intergenerational health in mice. Perturbations to the gut microbiota of prospective fathers increase the probability of their offspring presenting with low birth weight, severe growth restriction and premature mortality. Transmission of disease risk occurs via the germline and is provoked by pervasive gut microbiome perturbations, including non-absorbable antibiotics or osmotic laxatives, but is rescued by restoring the paternal microbiota before conception. This effect is linked with a dynamic response to induced dysbiosis in the male reproductive system, including impaired leptin signalling, altered testicular metabolite profiles and remapped small RNA payloads in sperm. As a result, dysbiotic fathers trigger an elevated risk of in utero placental insufficiency, revealing a placental origin of mammalian intergenerational effects. Our study defines a regulatory 'gut-germline axis' in males, which is sensitive to environmental exposures and programmes offspring fitness through impacting placenta function.
@@ -11,7 +11,7 @@ The gut microbiota operates at the interface of host-environment interactions to
 ---
 
 ## Oral bacteria relative abundance in faeces increases due to gut microbiota depletion and is linked with patient outcomes.
- 02.05.2024, _C Liao, T Rolling, A Djukovic, T Fei, V Mishra, H Liu, C Lindberg, L Dai, B Zhai, JU Peled, MRM van den Brink, TM Hohl, JB Xavier_
+ 04.05.2024, _C Liao, T Rolling, A Djukovic, T Fei, V Mishra, H Liu, C Lindberg, L Dai, B Zhai, JU Peled, MRM van den Brink, TM Hohl, JB Xavier_
 
 
 The detection of oral bacteria in faecal samples has been associated with inflammation and intestinal diseases. The increased relative abundance of oral bacteria in faeces has two competing explanations: either oral bacteria invade the gut ecosystem and expand (the 'expansion' hypothesis), or oral bacteria transit through the gut and their relative increase marks the depletion of other gut bacteria (the 'marker' hypothesis). Here we collected oral and faecal samples from mouse models of gut dysbiosis (antibiotic treatment and DSS-induced colitis) and used 16S ribosomal RNA sequencing to determine the abundance dynamics of oral bacteria. We found that the relative, but not absolute, abundance of oral bacteria increases, reflecting the 'marker' hypothesis. Faecal microbiome datasets from diverse patient cohorts, including healthy individuals and patients with allogeneic haematopoietic cell transplantation or inflammatory bowel disease, consistently support the 'marker' hypothesis and explain associations between oral bacterial abundance and patient outcomes consistent with depleted gut microbiota. By distinguishing between the two hypotheses, our study guides the interpretation of microbiome compositional data and could potentially identify cases where therapies are needed to rebuild the resident microbiome rather than protect against invading oral bacteria.
@@ -23,7 +23,7 @@ The detection of oral bacteria in faecal samples has been associated with inflam
 ---
 
 ## Human gut microbiota and their production of endocannabinoid-like mediators are directly affected by a dietary oil.
- 02.05.2024, _C Roussel, M Sola, J Lessard-Lord, N Nallabelli, P Généreux, C Cavestri, O Azeggouar Wallen, R Villano, F Raymond, N Flamand, C Silvestri, V Di Marzo_
+ 04.05.2024, _C Roussel, M Sola, J Lessard-Lord, N Nallabelli, P Généreux, C Cavestri, O Azeggouar Wallen, R Villano, F Raymond, N Flamand, C Silvestri, V Di Marzo_
 
 
 _Humans, Gastrointestinal Microbiome, Bacteria, Endocannabinoids, Colon, Ileum, Fatty Acids, Omega-3, Plant Oils, Dietary Supplements, Adult, Male_
@@ -114,9 +114,15 @@ Growing evidence has increasingly suggested a potential linkage between the oral
 
 ---
 
-## Multi-omics reveal the gut microbiota-mediated severe foraging environment adaption of small wild ruminants in the Three-River-Source National Park, China
+## Multi-omics reveal the gut microbiota-mediated severe foraging environment adaption of small wild ruminants in the Three-River-Source National Park, China.
+ 02.05.2024, _H Liu, X Zhao, S Xu, L Zhao, X Han, X Xu, N Zhao, L Hu, C Luo, X Wang, Q Zhang, T Guo_
+
+
+The Tibetan antelope (Pantholops hodgsonii), blue sheep (Pseudois nayaur), and Tibetan sheep (Ovis aries) are the dominant small ruminants in the Three-River-Source National Park (TRSNP). However, knowledge about the association between gut microbiota and host adaptability remains poorly understood. Herein, multi-omics sequencing approaches were employed to investigate the gut microbiota-mediated forage adaption in these ruminants. The results revealed that although wild ruminants (WR) of P. hodgsoni and P. nayaur were faced with severe foraging environments with significantly low vegetation coverage and nutrition, the apparent forage digestibility of dry matter, crude protein, and acid detergent fiber was significantly higher than that of O. aries. The 16s rRNA sequencing showed that the gut microbiota in WR underwent convergent evolution, and alpha diversity in these two groups was significantly higher than that in O. aries. Moreover, indicator species, including Bacteroidetes and Firmicutes, exhibited positive relationships with apparent forage digestibility, and their relative abundances were enriched in the gut of WR. Enterotype analysis further revealed that enterotype 1 belonged to WR, and the abundance of fatty acid synthesis metabolic pathway-related enzyme genes was significantly higher than enterotype 2, represented by O. aries. Besides, the metagenomic analysis identified 14 pathogenic bacterial species, among which 10 potentially pathogenic bacteria were significantly enriched in the gut microbiota of O. aries. Furthermore, the cellulolytic strains and genes encoding cellulase and hemicellulase were significantly enriched in WR. In conclusion, our results provide new evidence of gut microbiota to facilitate wildlife adaption in severe foraging environments of the TRSNP, China.
 
 [Source](https://doi.org/10.1111/1749-4877.12830)
+
+10.1111/1749-4877.12830
 
 ---
 
@@ -126,9 +132,15 @@ Growing evidence has increasingly suggested a potential linkage between the oral
 
 ---
 
-## Depletion of protective microbiota promotes the incidence of fruit disease
+## Depletion of protective microbiota promotes the incidence of fruit disease.
+ 01.05.2024, _X Luo, K Sun, HR Li, XY Zhang, YT Pan, DL Luo, YB Wu, HJ Jiang, XH Wu, CY Ma, CC Dai, W Zhang_
+
+
+Plant-associated microbiomes play important roles in plant health and productivity. However, despite fruits being directly linked to plant productivity, little is known about the microbiomes of fruits and their potential association with fruit health. Here, by integrating 16S rRNA gene, ITS high-throughput sequencing data and microbiological culturable approaches, we reported that roots and fruits (pods) of peanut, a typical plant that bears fruits underground, recruit different bacterial and fungal communities independently of cropping conditions, and that the incidence of pod disease under monocropping conditions is attributed to the depletion of Bacillus genus and enrichment of Aspergillus genus in geocarposphere. On this basis, we constructed a synthetic community (SynCom) consisting of three Bacillus strains from geocarposphere soil under rotation conditions with high culturable abundance. Comparative transcriptome, microbiome profiling and plant phytohormone signaling analysis reveal that the SynCom exhibited more effective Aspergillus growth inhibition and pod disease control than individual strain, which was underpinned by a combination of molecular mechanisms related to fungal cell proliferation interference, mycotoxins biosynthesis impairment and jasmonic acid-mediated plant immunity activation. Overall, our results reveal the filter effect of plant organs on the microbiome, and that depletion of key protective microbial community promotes the fruit disease incidence.
 
 [Source](https://doi.org/10.1093/ismejo/wrae071)
+
+10.1093/ismejo/wrae071
 
 ---
 
@@ -138,21 +150,40 @@ Growing evidence has increasingly suggested a potential linkage between the oral
 
 ---
 
-## Mechanisms and implications of bacterial-fungal competition for soil resources
+## Mechanisms and implications of bacterial-fungal competition for soil resources.
+ 01.05.2024, _C Wang, Y Kuzyakov_
+
+
+Elucidating complex interactions between bacteria and fungi that determine microbial community structure, composition, and functions in soil, as well as regulate carbon (C) and nutrient fluxes, is crucial to understand biogeochemical cycles. Among the various interactions, competition for resources is the main factor determining the adaptation and niche differentiation between these two big microbial groups in soil. This is because C and energy limitations for microbial growth are a rule rather than an exception. Here, we review the C and energy demands of bacteria and fungi - the two major kingdoms in soil - the mechanisms of their competition for these and other resources, leading to niche differentiation, and the global change impacts on this competition. The normalized microbial utilization preference showed that bacteria are 1.4-5 times more efficient in the uptake of simple organic compounds as substrates, whereas fungi are 1.1-4.1 times more effective in utilizing complex compounds. Accordingly, bacteria strongly outcompete fungi for simple substrates, while fungi take advantage of complex compounds. Bacteria also compete with fungi for the products released during the degradation of complex substrates. Based on these specifics, we differentiated spatial, temporal, and chemical niches for these two groups in soil. The competition will increase under the main five global changes including elevated CO2, N deposition, soil acidification, global warming, and drought. Elevated CO2, N deposition, and warming increase bacterial dominance, whereas soil acidification and drought increase fungal competitiveness.
 
 [Source](https://doi.org/10.1093/ismejo/wrae073)
 
+10.1093/ismejo/wrae073
+
 ---
 
-## Potential coupling of microbial methane, nitrogen, and sulphur cycling in the Okinawa Trough cold seep sediments
+## Potential coupling of microbial methane, nitrogen, and sulphur cycling in the Okinawa Trough cold seep sediments.
+ 01.05.2024, _Y Chen, X Dong, Z Sun, C Xu, X Zhang, S Qin, W Geng, H Cao, B Zhai, X Li, N Wu_
+
+
+The Okinawa Trough (OT) is a back-arc basin with a wide distribution of active cold seep systems. However, our understanding of the metabolic function of microbial communities in the cold seep sediments of the OT remains limited. In this study, we investigated the vertical profiles of functional genes involved in methane, nitrogen, and sulphur cycling in the cold seep sediments of the OT. Furthermore, we explored the possible coupling mechanisms between these biogeochemical cycles. The study revealed that the majority of genes associated with the nitrogen and sulphur cycles were most abundant in the surface sediment layers. However, only the key genes responsible for sulphur disproportionation (sor), nitrogen fixation (nifDKH), and methane metabolism (mcrABG) were more prevalent within sulfate-methane transition zone (SMTZ). Significant positive correlations (P &lt; 0.05) were observed between functional genes involved in sulphur oxidation, thiosulphate disproportionation with denitrification, and dissimilatory nitrate reduction to ammonium (DNRA), as well as between AOM/methanogenesis and nitrogen fixation, and between sulphur disproportionation and AOM. A genome of Filomicrobium (class Alphaproteobacteria) has demonstrated potential in chemoautotrophic activities, particularly in coupling DNRA and denitrification with sulphur oxidation. Additionally, the characterized sulfate reducers such as Syntrophobacterales have been found to be capable of utilizing nitrate as an electron acceptor. The predominant methanogenic/methanotrophic groups in the OT sediments were identified as H2-dependent methylotrophic methanogens (Methanomassiliicoccales and Methanofastidiosales) and ANME-1a. This study offered a thorough understanding of microbial ecosystems in the OT cold seep sediments, emphasizing their contribution to nutrient cycling.IMPORTANCEThe Okinawa Trough (OT) is a back-arc basin formed by extension within the continental lithosphere behind the Ryukyu Trench arc system. Cold seeps are widespread in the OT. While some studies have explored microbial communities in OT cold seep sediments, their metabolic potential remains largely unknown. In this study, we used metagenomic analysis to enhance comprehension of the microbial community's role in nutrient cycling and proposed hypotheses on the coupling process and mechanisms involved in biogeochemical cycles. It was revealed that multiple metabolic pathways can be performed by a single organism or microbes that interact with each other to carry out various biogeochemical cycling. This data set provided a genomic road map on microbial nutrient cycling in OT sediment microbial communities.
 
 [Source](https://doi.org/10.1128/spectrum.03490-23)
 
+10.1128/spectrum.03490-23
+
 ---
 
-## mbDecoda: a debiased approach to compositional data analysis for microbiome surveys
+## mbDecoda: a debiased approach to compositional data analysis for microbiome surveys.
+ 03.05.2024, _Y Zong, H Zhao, T Wang_
+
+
+_Microbiota, Humans, Algorithms, Data Analysis_
+Potentially pathogenic or probiotic microbes can be identified by comparing their abundance levels between healthy and diseased populations, or more broadly, by linking microbiome composition with clinical phenotypes or environmental factors. However, in microbiome studies, feature tables provide relative rather than absolute abundance of each feature in each sample, as the microbial loads of the samples and the ratios of sequencing depth to microbial load are both unknown and subject to considerable variation. Moreover, microbiome abundance data are count-valued, often over-dispersed and contain a substantial proportion of zeros. To carry out differential abundance analysis while addressing these challenges, we introduce mbDecoda, a model-based approach for debiased analysis of sparse compositions of microbiomes. mbDecoda employs a zero-inflated negative binomial model, linking mean abundance to the variable of interest through a log link function, and it accommodates the adjustment for confounding factors. To efficiently obtain maximum likelihood estimates of model parameters, an Expectation Maximization algorithm is developed. A minimum coverage interval approach is then proposed to rectify compositional bias, enabling accurate and reliable absolute abundance analysis. Through extensive simulation studies and analysis of real-world microbiome datasets, we demonstrate that mbDecoda compares favorably with state-of-the-art methods in terms of effectiveness, robustness and reproducibility.
 
 [Source](https://doi.org/10.1093/bib/bbae205)
+
+10.1093/bib/bbae205
 
 ---
 
@@ -169,7 +200,7 @@ Bacterial communities are often concomitantly present with numerous microorganis
 ---
 
 ## mi-Mic: a novel multi-layer statistical test for microbiota-disease associations.
- 03.05.2024, _O Shtossel, S Finkelstein, Y Louzoun_
+ 04.05.2024, _O Shtossel, S Finkelstein, Y Louzoun_
 
 
 _Humans, Microbiota, Disease, Statistics as Topic_
