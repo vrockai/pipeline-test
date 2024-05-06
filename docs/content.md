@@ -162,16 +162,9 @@ Growing evidence has increasingly suggested a potential linkage between the oral
 
 ---
 
-## mi-Mic: a novel multi-layer statistical test for microbiota-disease associations.
- 04.05.2024, _O Shtossel, S Finkelstein, Y Louzoun_
-
-
-_Humans, Microbiota, Disease, Statistics as Topic_
-mi-Mic, a novel approach for microbiome differential abundance analysis, tackles the key challenges of such statistical tests: a large number of tests, sparsity, varying abundance scales, and taxonomic relationships. mi-Mic first converts microbial counts to a cladogram of means. It then applies a priori tests on the upper levels of the cladogram to detect overall relationships. Finally, it performs a Mann-Whitney test on paths that are consistently significant along the cladogram or on the leaves. mi-Mic has much higher true to false positives ratios than existing tests, as measured by a new real-to-shuffle positive score.
+## mi-Mic: a novel multi-layer statistical test for microbiota-disease associations
 
 [Source](https://doi.org/10.1186/s13059-024-03256-0)
-
-10.1186/s13059-024-03256-0
 
 ---
 
