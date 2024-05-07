@@ -60,9 +60,16 @@ Growing evidence has increasingly suggested a potential linkage between the oral
 
 ---
 
-## Microplastics and microbiota: Unraveling the hidden environmental challenge
+## Microplastics and microbiota: Unraveling the hidden environmental challenge.
+ 02.05.2024, _J Demarquoy_
+
+
+_Microplastics, Humans, Gastrointestinal Microbiome, Dysbiosis, Environmental Health, Environmental Exposure, Animals_
+This editorial explores the intricate relationship between microplastics (MPs) and gut microbiota, emphasizing the complexity and environmental health implications. The gut microbiota, a crucial component of gastrointestinal health, is examined in the context of potential microbial degradation of MPs. Furthermore, dysbiosis induced by MPs emerges as a consensus, disrupting the balance of gut microbiota and decreasing diversity. The mechanisms triggering dysbiosis, including physical interactions and chemical composition, are under investigation. Ongoing research addresses the consequences of MPs on immune fun-ction, nutrient metabolism, and overall host health. The bidirectional relationship between MPs and gut microbiota has significant implications for environmental and human health. Despite uncertainties, MPs negatively impact gut microbiota and health. Further research is essential to unravel the complex interactions and assess the long-term consequences of MPs on both environmental and human well-being.
 
 [Source](https://doi.org/10.3748/wjg.v30.i16.2191)
+
+10.3748/wjg.v30.i16.2191
 
 ---
 
