@@ -92,7 +92,7 @@ Aim: Endogenous ethanol production emerges as a mechanism of nonalcoholic steato
 ---
 
 ## Direct metagenomics investigation of non-surgical hard-to-heal wounds: a review.
- 06.05.2024, _M Morsli, F Salipante, C Magnan, C Dunyach-Remy, A Sotto, JP Lavigne_
+ 07.05.2024, _M Morsli, F Salipante, C Magnan, C Dunyach-Remy, A Sotto, JP Lavigne_
 
 
 _Humans, Metagenomics, Bacteria, High-Throughput Nucleotide Sequencing, Wound Healing, Microbiota, Pressure Ulcer, Diabetic Foot, Wound Infection, Varicose Ulcer_
@@ -111,7 +111,7 @@ Non-surgical chronic wounds, including diabetes-related foot diseases (DRFD), pr
 ---
 
 ## Amphibian tolerance to arsenic: microbiome-mediated insights.
- 06.05.2024, _IF Cordeiro, CGC Lemes, AB Sanchez, AK da Silva, CH de Paula, RC de Matos, DF Ribeiro, JP de Matos, CCM Garcia, M Beirão, CG Becker, MRS Pires, LM Moreira_
+ 07.05.2024, _IF Cordeiro, CGC Lemes, AB Sanchez, AK da Silva, CH de Paula, RC de Matos, DF Ribeiro, JP de Matos, CCM Garcia, M Beirão, CG Becker, MRS Pires, LM Moreira_
 
 
 _Animals, Arsenic, Microbiota, Skin, Amphibians, Bacteria, Permeability_
@@ -130,7 +130,7 @@ Amphibians are often recognized as bioindicators of healthy ecosystems. The pers
 ---
 
 ## Gut microbiome and resistome characterization of pigs treated with commonly used post-weaning diarrhea treatments.
- 03.05.2024, _J Guitart-Matas, M Ballester, L Fraile, L Darwich, N Giler-Baquerizo, J Tarres, S López-Soria, Y Ramayo-Caldas, L Migura-Garcia_
+ 07.05.2024, _J Guitart-Matas, M Ballester, L Fraile, L Darwich, N Giler-Baquerizo, J Tarres, S López-Soria, Y Ramayo-Caldas, L Migura-Garcia_
 
 
 The global burden of antimicrobial resistance demands additional measures to ensure the sustainable and conscious use of antimicrobials. For the swine industry, the post-weaning period is critical and for many years, antimicrobials have been the most effective strategy to control and treat post-weaning related infections. Among them, post-weaning diarrhea causes vast economic losses, as it severely compromises piglets' health and growth performance. In this study, 210 piglets were transferred from a farm with recurrent cases of post-weaning diarrhea to an experimental farm and divided into six different treatment groups to determine the effect of the different treatments on the growth performance and survival, the microbiome, and the resistome in a cross-sectional and longitudinal study. The different treatments included antimicrobials trimethoprim/sulfamethoxazole, colistin, and gentamicin, an oral commercial vaccine, a control with water acidification, and an untreated control. An extra group remained at the farm of origin following the implemented amoxicillin routine treatment. A total of 280 fecal samples from pigs at four different sampling times were selected for metagenomics: before weaning-treatment at the farm of origin, and three days, two weeks, and four weeks post-treatment.
