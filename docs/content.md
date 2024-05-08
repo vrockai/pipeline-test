@@ -60,16 +60,9 @@ Growing evidence has increasingly suggested a potential linkage between the oral
 
 ---
 
-## Microplastics and microbiota: Unraveling the hidden environmental challenge.
- 02.05.2024, _J Demarquoy_
-
-
-_Microplastics, Humans, Gastrointestinal Microbiome, Dysbiosis, Environmental Health, Environmental Exposure, Animals_
-This editorial explores the intricate relationship between microplastics (MPs) and gut microbiota, emphasizing the complexity and environmental health implications. The gut microbiota, a crucial component of gastrointestinal health, is examined in the context of potential microbial degradation of MPs. Furthermore, dysbiosis induced by MPs emerges as a consensus, disrupting the balance of gut microbiota and decreasing diversity. The mechanisms triggering dysbiosis, including physical interactions and chemical composition, are under investigation. Ongoing research addresses the consequences of MPs on immune fun-ction, nutrient metabolism, and overall host health. The bidirectional relationship between MPs and gut microbiota has significant implications for environmental and human health. Despite uncertainties, MPs negatively impact gut microbiota and health. Further research is essential to unravel the complex interactions and assess the long-term consequences of MPs on both environmental and human well-being.
+## Microplastics and microbiota: Unraveling the hidden environmental challenge
 
 [Source](https://doi.org/10.3748/wjg.v30.i16.2191)
-
-10.3748/wjg.v30.i16.2191
 
 ---
 
@@ -79,28 +72,15 @@ This editorial explores the intricate relationship between microplastics (MPs) a
 
 ---
 
-## A catalog of ethanol-producing microbes in humans.
- 03.05.2024, _B Mbaye, RM Wasfy, MT Alou, P Borentain, R Gerolami, JC Dufour, M Million_
-
-
-Aim: Endogenous ethanol production emerges as a mechanism of nonalcoholic steatohepatitis, obesity, diabetes and auto-brewery syndrome. Methods: To identify ethanol-producing microbes in humans, we used the NCBI taxonomy browser and the PubMed database with an automatic query and manual verification. Results: 85 ethanol-producing microbes in human were identified. Saccharomyces cerevisiae, Candida and Pichia were the most represented fungi. Enterobacteriaceae was the most represented bacterial family with mainly Escherichia coli and Klebsiella pneumoniae. Species of the Lachnospiraceae and Clostridiaceae family, of the Lactobacillales order and of the Bifidobacterium genus were also identified. Conclusion: This catalog will help the study of ethanol-producing microbes in human in the pathophysiology, diagnosis, prevention and management of human diseases associated with endogenous ethanol production.
+## A catalog of ethanol-producing microbes in humans
 
 [Source](https://www.futuremedicine.com/doi/abs/10.2217/fmb-2023-0250?journalCode=fmb)
 
-10.2217/fmb-2023-0250
-
 ---
 
-## Direct metagenomics investigation of non-surgical hard-to-heal wounds: a review.
- 07.05.2024, _M Morsli, F Salipante, C Magnan, C Dunyach-Remy, A Sotto, JP Lavigne_
-
-
-_Humans, Metagenomics, Bacteria, High-Throughput Nucleotide Sequencing, Wound Healing, Microbiota, Pressure Ulcer, Diabetic Foot, Wound Infection, Varicose Ulcer_
-Non-surgical chronic wounds, including diabetes-related foot diseases (DRFD), pressure injuries (PIs) and venous leg ulcers (VLU), are common hard-to-heal wounds. Wound evolution partly depends on microbial colonisation or infection, which is often confused by clinicians, thereby hampering proper management. Current routine microbiology investigation of these wounds is based on in vitro culture, focusing only on a limited panel of the most frequently isolated bacteria, leaving a large part of the wound microbiome undocumented.
+## Direct metagenomics investigation of non-surgical hard-to-heal wounds: a review
 
 [Source](https://doi.org/10.1186/s12941-024-00698-z)
-
-10.1186/s12941-024-00698-z
 
 ---
 
@@ -110,16 +90,9 @@ Non-surgical chronic wounds, including diabetes-related foot diseases (DRFD), pr
 
 ---
 
-## Amphibian tolerance to arsenic: microbiome-mediated insights.
- 07.05.2024, _IF Cordeiro, CGC Lemes, AB Sanchez, AK da Silva, CH de Paula, RC de Matos, DF Ribeiro, JP de Matos, CCM Garcia, M Beirão, CG Becker, MRS Pires, LM Moreira_
-
-
-_Animals, Arsenic, Microbiota, Skin, Amphibians, Bacteria, Permeability_
-Amphibians are often recognized as bioindicators of healthy ecosystems. The persistence of amphibian populations in heavily contaminated environments provides an excellent opportunity to investigate rapid vertebrate adaptations to harmful contaminants. Using a combination of culture-based challenge assays and a skin permeability assay, we tested whether the skin-associated microbiota may confer adaptive tolerance to tropical amphibians in regions heavily contaminated with arsenic, thus supporting the adaptive microbiome principle and immune interactions of the amphibian mucus. At lower arsenic concentrations (1 and 5 mM As3+), we found a significantly higher number of bacterial isolates tolerant to arsenic from amphibians sampled at an arsenic contaminated region (TES) than from amphibians sampled at an arsenic free region (JN). Strikingly, none of the bacterial isolates from our arsenic free region tolerated high concentrations of arsenic. In our skin permeability experiment, where we tested whether a subset of arsenic-tolerant bacterial isolates could reduce skin permeability to arsenic, we found that isolates known to tolerate high concentrations of arsenic significantly reduced amphibian skin permeability to this metalloid. This pattern did not hold true for bacterial isolates with low arsenic tolerance. Our results describe a pattern of environmental selection of arsenic-tolerant skin bacteria capable of protecting amphibians from intoxication, which helps explain the persistence of amphibian populations in water bodies heavily contaminated with arsenic.
+## Amphibian tolerance to arsenic: microbiome-mediated insights
 
 [Source](https://doi.org/10.1038/s41598-024-60879-w)
-
-10.1038/s41598-024-60879-w
 
 ---
 
@@ -141,15 +114,9 @@ The global burden of antimicrobial resistance demands additional measures to ens
 
 ---
 
-## Effects of microbiome transplants on fly microbiome.
- 03.05.2024, _J Ferreira_
-
-
-_Animals, Microbiota, Drosophila melanogaster, Fecal Microbiota Transplantation, Gastrointestinal Microbiome_
+## Effects of microbiome transplants on fly microbiome
 
 [Source](https://doi.org/10.1038/s41684-024-01369-4)
-
-10.1038/s41684-024-01369-4
 
 ---
 
