@@ -10,34 +10,15 @@
 
 ---
 
-## Interplay between particle size and microbial ecology in the gut microbiome.
- 07.05.2024, _J Letourneau, VM Carrion, S Jiang, OW Osborne, ZC Holmes, A Fox, P Epstein, CY Tan, M Kirtley, NK Surana, LA David_
-
-
-Physical particles can serve as critical abiotic factors that structure the ecology of microbial communities. For non-human vertebrate gut microbiomes, fecal particle size (FPS) has been known to be shaped by chewing efficiency and diet. However, little is known about what drives FPS in the human gut. Here, we analyzed FPS by laser diffraction across a total of 76 individuals and found FPS to be strongly individualized. Surprisingly, a behavioral intervention with 41 volunteers designed to increase chewing efficiency did not impact FPS. Dietary patterns could also not be associated with FPS. Instead, we found evidence that mammalian and human gut microbiomes shaped FPS. Fecal samples from germ-free and antibiotic-treated mice exhibited increased FPS relative to colonized mice. In humans, markers of longer transit time were correlated with smaller FPS. Gut microbiota diversity and composition were also associated with FPS. Finally, ex vivo culture experiments using human fecal microbiota from distinct donors showed that differences in microbiota community composition can drive variation in particle size. Together, our results support an ecological model in which the human gut microbiome plays a key role in reducing the size of food particles during digestion, and that the microbiomes of individuals vary in this capacity. These new insights also suggest FPS in humans to be governed by processes beyond those found in other mammals and emphasize the importance of gut microbiota in shaping their own abiotic environment.
+## Interplay between particle size and microbial ecology in the gut microbiome
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.04.26.591376v1)
-
-10.1101/2024.04.26.591376
 
 ---
 
 ## Shotgun metagenomic analysis of saliva microbiome suggests <em>Mogibacterium</em> as a factor associated with chronic bacterial osteomyelitis
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302569)
-
----
-
-## The Body, the Brain, the Environment, and Parkinson's Disease.
- 26.04.2024, _ER Dorsey, BR De Miranda, J Horsager, P Borghammer_
-
-
-_Humans, Parkinson Disease, Environmental Exposure, Brain, Lewy Body Disease, alpha-Synuclein_
-The brain- and body-first models of Lewy body disorders predict that aggregated alpha-synuclein pathology usually begins in either the olfactory system or the enteric nervous system. In both scenarios the pathology seems to arise in structures that are closely connected to the outside world. Environmental toxicants, including certain pesticides, industrial chemicals, and air pollution are therefore plausible trigger mechanisms for Parkinson's disease and dementia with Lewy bodies. Here, we propose that toxicants inhaled through the nose can lead to pathological changes in alpha-synuclein in the olfactory system that subsequently spread and give rise to a brain-first subtype of Lewy body disease. Similarly, ingested toxicants can pass through the gut and cause alpha-synuclein pathology that then extends via parasympathetic and sympathetic pathways to ultimately produce a body-first subtype. The resulting spread can be tracked by the development of symptoms, clinical assessments, in vivo imaging, and ultimately pathological examination. The integration of environmental exposures into the brain-first and body-first models generates testable hypotheses, including on the prevalence of the clinical conditions, their future incidence, imaging patterns, and pathological signatures. The proposed link, though, has limitations and leaves many questions unanswered, such as the role of the skin, the influence of the microbiome, and the effects of ongoing exposures. Despite these limitations, the interaction of exogenous factors with the nose and the gut may explain many of the mysteries of Parkinson's disease and open the door toward the ultimate goal -prevention.
-
-[Source](https://www.nature.com/articles/s41396-023-01450-9)
-
-10.3233/JPD-240019
 
 ---
 
@@ -111,28 +92,15 @@ Ecological and evolutionary processes simultaneously regulate microbial diversit
 
 ---
 
-## Melatonin promotes the recovery of apple plants after waterlogging by shaping the structure and function of the rhizosphere microbiome.
- 07.05.2024, _Y Cao, P Du, Z Li, J Xu, C Ma, B Liang_
-
-
-The dynamics of the physiological adaptability of plants and the rhizosphere soil environment after waterlogging remain unclear. Here we investigated the mechanisms regulating plant condition and shaping of the rhizosphere microbiome in a pot experiment. In the experiment, we added melatonin to waterlogged plants, which promoted waterlogging relief. The treatment significantly enhanced photosynthesis and the antioxidant capacity of apple plants, and significantly promoted nitrogen (N) utilization efficiency by upregulating genes related to N transport and metabolism. Multiperiod soil microbiome analysis showed the dynamic effects of melatonin on the diversity of the microbial community during waterlogging recovery. Random forest and linear regression analyses were used to screen for potential beneficial bacteria (e.g., Azoarcus, Pseudomonas and Nocardioides) specifically regulated by melatonin and revealed a positive correlation with soil nutrient levels and plant growth. Furthermore, metagenomic analyses revealed the regulatory effects of melatonin on genes involved in N cycling in soil. Melatonin positively contributed to the accumulation of plant dry weight by upregulating the expression of nifD and nifK (N fixation). In summary, melatonin positively regulates physiological functions in plants and the structure and function of the microbial community; it promoted the recovery of apple plants after waterlogging stress.
+## Melatonin promotes the recovery of apple plants after waterlogging by shaping the structure and function of the rhizosphere microbiome
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/pce.14903)
 
-10.1111/pce.14903
-
 ---
 
-## Antimony efflux underpins phosphorus cycling and resistance of phosphate-solubilizing bacteria in mining soils.
- 22.07.2023, _S Liu, J Zeng, H Yu, C Wang, Y Yang, J Wang, Z He, Q Yan_
-
-
-_Antimony, Soil, Phosphates, Phosphorus, Phylogeny, Environmental Monitoring, Soil Pollutants, Metals, Heavy, Bacteria, Microbiota, China, Soil Microbiology_
-Microorganisms play crucial roles in phosphorus (P) turnover and P bioavailability increases in heavy metal-contaminated soils. However, microbially driven P-cycling processes and mechanisms of their resistance to heavy metal contaminants remain poorly understood. Here, we examined the possible survival strategies of P-cycling microorganisms in horizontal and vertical soil samples from the world's largest antimony (Sb) mining site, which is located in Xikuangshan, China. We found that total soil Sb and pH were the primary factors affecting bacterial community diversity, structure and P-cycling traits. Bacteria with the gcd gene, encoding an enzyme responsible for gluconic acid production, largely correlated with inorganic phosphate (Pi) solubilization and significantly enhanced soil P bioavailability. Among the 106 nearly complete bacterial metagenome-assembled genomes (MAGs) recovered, 60.4% carried the gcd gene. Pi transportation systems encoded by pit or pstSCAB were widely present in gcd-harboring bacteria, and 43.8% of the gcd-harboring bacteria also carried the acr3 gene encoding an Sb efflux pump. Phylogenetic and potential horizontal gene transfer (HGT) analyses of acr3 indicated that Sb efflux could be a dominant resistance mechanism, and two gcd-harboring MAGs appeared to acquire acr3 through HGT. The results indicated that Sb efflux could enhance P cycling and heavy metal resistance in Pi-solubilizing bacteria in mining soils. This study provides novel strategies for managing and remediating heavy metal-contaminated ecosystems.
+## Antimony efflux underpins phosphorus cycling and resistance of phosphate-solubilizing bacteria in mining soils 
 
 [Source](https://www.nature.com/articles/s41396-023-01445-6)
-
-10.1038/s41396-023-01445-6
 
 ---
 
