@@ -10,15 +10,9 @@
 
 ---
 
-## Interplay between particle size and microbial ecology in the gut microbiome.
- 07.05.2024, _J Letourneau, VM Carrion, S Jiang, OW Osborne, ZC Holmes, A Fox, P Epstein, CY Tan, M Kirtley, NK Surana, LA David_
-
-
-Physical particles can serve as critical abiotic factors that structure the ecology of microbial communities. For non-human vertebrate gut microbiomes, fecal particle size (FPS) has been known to be shaped by chewing efficiency and diet. However, little is known about what drives FPS in the human gut. Here, we analyzed FPS by laser diffraction across a total of 76 individuals and found FPS to be strongly individualized. Surprisingly, a behavioral intervention with 41 volunteers designed to increase chewing efficiency did not impact FPS. Dietary patterns could also not be associated with FPS. Instead, we found evidence that mammalian and human gut microbiomes shaped FPS. Fecal samples from germ-free and antibiotic-treated mice exhibited increased FPS relative to colonized mice. In humans, markers of longer transit time were correlated with smaller FPS. Gut microbiota diversity and composition were also associated with FPS. Finally, ex vivo culture experiments using human fecal microbiota from distinct donors showed that differences in microbiota community composition can drive variation in particle size. Together, our results support an ecological model in which the human gut microbiome plays a key role in reducing the size of food particles during digestion, and that the microbiomes of individuals vary in this capacity. These new insights also suggest FPS in humans to be governed by processes beyond those found in other mammals and emphasize the importance of gut microbiota in shaping their own abiotic environment.
+## Interplay between particle size and microbial ecology in the gut microbiome
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.04.26.591376v1)
-
-10.1101/2024.04.26.591376
 
 ---
 
@@ -111,21 +105,40 @@ Ecological and evolutionary processes simultaneously regulate microbial diversit
 
 ---
 
-## Melatonin promotes the recovery of apple plants after waterlogging by shaping the structure and function of the rhizosphere microbiome
+## Melatonin promotes the recovery of apple plants after waterlogging by shaping the structure and function of the rhizosphere microbiome.
+ 07.05.2024, _Y Cao, P Du, Z Li, J Xu, C Ma, B Liang_
+
+
+The dynamics of the physiological adaptability of plants and the rhizosphere soil environment after waterlogging remain unclear. Here we investigated the mechanisms regulating plant condition and shaping of the rhizosphere microbiome in a pot experiment. In the experiment, we added melatonin to waterlogged plants, which promoted waterlogging relief. The treatment significantly enhanced photosynthesis and the antioxidant capacity of apple plants, and significantly promoted nitrogen (N) utilization efficiency by upregulating genes related to N transport and metabolism. Multiperiod soil microbiome analysis showed the dynamic effects of melatonin on the diversity of the microbial community during waterlogging recovery. Random forest and linear regression analyses were used to screen for potential beneficial bacteria (e.g., Azoarcus, Pseudomonas and Nocardioides) specifically regulated by melatonin and revealed a positive correlation with soil nutrient levels and plant growth. Furthermore, metagenomic analyses revealed the regulatory effects of melatonin on genes involved in N cycling in soil. Melatonin positively contributed to the accumulation of plant dry weight by upregulating the expression of nifD and nifK (N fixation). In summary, melatonin positively regulates physiological functions in plants and the structure and function of the microbial community; it promoted the recovery of apple plants after waterlogging stress.
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/pce.14903)
 
+10.1111/pce.14903
+
 ---
 
-## Antimony efflux underpins phosphorus cycling and resistance of phosphate-solubilizing bacteria in mining soils 
+## Antimony efflux underpins phosphorus cycling and resistance of phosphate-solubilizing bacteria in mining soils.
+ 22.07.2023, _S Liu, J Zeng, H Yu, C Wang, Y Yang, J Wang, Z He, Q Yan_
+
+
+_Antimony, Soil, Phosphates, Phosphorus, Phylogeny, Environmental Monitoring, Soil Pollutants, Metals, Heavy, Bacteria, Microbiota, China, Soil Microbiology_
+Microorganisms play crucial roles in phosphorus (P) turnover and P bioavailability increases in heavy metal-contaminated soils. However, microbially driven P-cycling processes and mechanisms of their resistance to heavy metal contaminants remain poorly understood. Here, we examined the possible survival strategies of P-cycling microorganisms in horizontal and vertical soil samples from the world's largest antimony (Sb) mining site, which is located in Xikuangshan, China. We found that total soil Sb and pH were the primary factors affecting bacterial community diversity, structure and P-cycling traits. Bacteria with the gcd gene, encoding an enzyme responsible for gluconic acid production, largely correlated with inorganic phosphate (Pi) solubilization and significantly enhanced soil P bioavailability. Among the 106 nearly complete bacterial metagenome-assembled genomes (MAGs) recovered, 60.4% carried the gcd gene. Pi transportation systems encoded by pit or pstSCAB were widely present in gcd-harboring bacteria, and 43.8% of the gcd-harboring bacteria also carried the acr3 gene encoding an Sb efflux pump. Phylogenetic and potential horizontal gene transfer (HGT) analyses of acr3 indicated that Sb efflux could be a dominant resistance mechanism, and two gcd-harboring MAGs appeared to acquire acr3 through HGT. The results indicated that Sb efflux could enhance P cycling and heavy metal resistance in Pi-solubilizing bacteria in mining soils. This study provides novel strategies for managing and remediating heavy metal-contaminated ecosystems.
 
 [Source](https://www.nature.com/articles/s41396-023-01445-6)
 
+10.1038/s41396-023-01445-6
+
 ---
 
-## Antibiotic exposure alters the honeybee gut microbiota and may interfere with the honeybee behavioral caste transition
+## Antibiotic exposure alters the honeybee gut microbiota and may interfere with the honeybee behavioral caste transition.
+ 08.05.2024, _Z Zhang, X Mu, Q Cao, Y Zhai, L Zheng, Y Liu, H Zheng, X Zhang_
+
+
+Behavioral division is essential for the sustainability and reproduction of honeybee populations. While accumulating evidence has documented that antibiotic exposure interferes with bee behavioral divisions, how the gut microbiome, host physiology, and genetic regulation are implicated in this process remains understudied. Here, by constructing single-cohort colonies, we validated that the gut microbiota varied in composition between age-matched nurse and forager bees. Perturbing the gut microbiota with a low dose of antibiotic retained the gut bacterial size, but the structure of the microbial community continuously diverged from the control group after antibiotic treatment. Fewer foragers were observed in the antibiotic groups in the field experiment. A combinatorial effect of decreased gut metabolic gene repertoires, reduced brain neurotransmitter titers, and downregulated brain immune genes could potentially be related to behavioral tasks transition delay. This work indicates that the disturbance to both the gut microbiome and host physiologies after antibiotic exposure may have implications on social behavior development, highlighting the need for further research focusing on antibiotic pollution threatening the honeybee population's health.
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/1744-7917.13374)
+
+10.1111/1744-7917.13374
 
 ---
 
