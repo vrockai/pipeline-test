@@ -10,15 +10,9 @@
 
 ---
 
-## Interplay between particle size and microbial ecology in the gut microbiome.
- 07.05.2024, _J Letourneau, VM Carrion, S Jiang, OW Osborne, ZC Holmes, A Fox, P Epstein, CY Tan, M Kirtley, NK Surana, LA David_
-
-
-Physical particles can serve as critical abiotic factors that structure the ecology of microbial communities. For non-human vertebrate gut microbiomes, fecal particle size (FPS) has been known to be shaped by chewing efficiency and diet. However, little is known about what drives FPS in the human gut. Here, we analyzed FPS by laser diffraction across a total of 76 individuals and found FPS to be strongly individualized. Surprisingly, a behavioral intervention with 41 volunteers designed to increase chewing efficiency did not impact FPS. Dietary patterns could also not be associated with FPS. Instead, we found evidence that mammalian and human gut microbiomes shaped FPS. Fecal samples from germ-free and antibiotic-treated mice exhibited increased FPS relative to colonized mice. In humans, markers of longer transit time were correlated with smaller FPS. Gut microbiota diversity and composition were also associated with FPS. Finally, ex vivo culture experiments using human fecal microbiota from distinct donors showed that differences in microbiota community composition can drive variation in particle size. Together, our results support an ecological model in which the human gut microbiome plays a key role in reducing the size of food particles during digestion, and that the microbiomes of individuals vary in this capacity. These new insights also suggest FPS in humans to be governed by processes beyond those found in other mammals and emphasize the importance of gut microbiota in shaping their own abiotic environment.
+## Interplay between particle size and microbial ecology in the gut microbiome
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.04.26.591376v1)
-
-10.1101/2024.04.26.591376
 
 ---
 
@@ -28,74 +22,33 @@ Physical particles can serve as critical abiotic factors that structure the ecol
 
 ---
 
-## The Body, the Brain, the Environment, and Parkinson's Disease.
- 10.05.2024, _ER Dorsey, BR De Miranda, J Horsager, P Borghammer_
-
-
-_Humans, Parkinson Disease, Environmental Exposure, Brain, Lewy Body Disease, alpha-Synuclein_
-The brain- and body-first models of Lewy body disorders predict that aggregated alpha-synuclein pathology usually begins in either the olfactory system or the enteric nervous system. In both scenarios the pathology seems to arise in structures that are closely connected to the outside world. Environmental toxicants, including certain pesticides, industrial chemicals, and air pollution are therefore plausible trigger mechanisms for Parkinson's disease and dementia with Lewy bodies. Here, we propose that toxicants inhaled through the nose can lead to pathological changes in alpha-synuclein in the olfactory system that subsequently spread and give rise to a brain-first subtype of Lewy body disease. Similarly, ingested toxicants can pass through the gut and cause alpha-synuclein pathology that then extends via parasympathetic and sympathetic pathways to ultimately produce a body-first subtype. The resulting spread can be tracked by the development of symptoms, clinical assessments, in vivo imaging, and ultimately pathological examination. The integration of environmental exposures into the brain-first and body-first models generates testable hypotheses, including on the prevalence of the clinical conditions, their future incidence, imaging patterns, and pathological signatures. The proposed link, though, has limitations and leaves many questions unanswered, such as the role of the skin, the influence of the microbiome, and the effects of ongoing exposures. Despite these limitations, the interaction of exogenous factors with the nose and the gut may explain many of the mysteries of Parkinson's disease and open the door toward the ultimate goal -prevention.
-
-[Source](https://www.nature.com/articles/s41396-023-01450-9)
-
-10.3233/JPD-240019
-
----
-
 ## Pesticide exposure and the microbiota-gut-brain axis
 
 [Source](https://www.nature.com/articles/s41396-023-01450-9)
 
 ---
 
-## Short-term exposure to antibiotics begets long-term disturbance in gut microbial metabolism and molecular ecological networks.
- 10.05.2024, _Y Hong, H Li, L Chen, H Su, B Zhang, Y Luo, C Li, Z Zhao, Y Shao, L Guo_
-
-
-_Gastrointestinal Microbiome, Animals, Anti-Bacterial Agents, Mice, RNA, Ribosomal, 16S, Mice, Inbred C57BL, Bacteria, Ceftriaxone, Metagenomics, Male, Metabolomics, Feces_
-Antibiotic exposure can occur in medical settings and from environmental sources. Long-term effects of brief antibiotic exposure in early life are largely unknown.
+## Short-term exposure to antibiotics begets long-term disturbance in gut microbial metabolism and molecular ecological networks
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01795-z)
 
-10.1186/s40168-024-01795-z
-
 ---
 
-## Synthesis of recovery patterns in microbial communities across environments.
- 09.05.2024, _SD Jurburg, SA Blowes, A Shade, N Eisenhauer, JM Chase_
-
-
-_Microbiota, Soil Microbiology, Bayes Theorem, Animals, Bacteria, Mammals, Biodiversity, Water Microbiology_
-Disturbances alter the diversity and composition of microbial communities. Yet a generalized empirical assessment of microbiome responses to disturbance across different environments is needed to understand the factors driving microbiome recovery, and the role of the environment in driving these patterns.
+## Synthesis of recovery patterns in microbial communities across environments
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01802-3)
 
-10.1186/s40168-024-01802-3
-
 ---
 
-## Cooperative interactions between invader and resident microbial community members weaken the negative diversity-invasion relationship.
- 07.05.2024, _J Vandermaesen, AJ Daly, PC Mawarda, JM Baetens, B De Baets, N Boon, D Springael_
-
-
-_Microbiota, Benzamides, Microbial Interactions, Phyllobacteriaceae, Groundwater, Biodiversity_
-The negative diversity-invasion relationship observed in microbial invasion studies is commonly explained by competition between the invader and resident populations. However, whether this relationship is affected by invader-resident cooperative interactions is unknown. Using ecological and mathematical approaches, we examined the survival and functionality of Aminobacter niigataensis MSH1 to mineralize 2,6-dichlorobenzamide (BAM), a groundwater micropollutant affecting drinking water production, in sand microcosms when inoculated together with synthetic assemblies of resident bacteria. The assemblies varied in richness and in strains that interacted pairwise with MSH1, including cooperative and competitive interactions. While overall, the negative diversity-invasion relationship was retained, residents engaging in cooperative interactions with the invader had a positive impact on MSH1 survival and functionality, highlighting the dependency of invasion success on community composition. No correlation existed between community richness and the delay in BAM mineralization by MSH1. The findings suggest that the presence of cooperative residents can alleviate the negative diversity-invasion relationship.
+## Cooperative interactions between invader and resident microbial community members weaken the negative diversity-invasion relationship
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/ele.14433)
 
-10.1111/ele.14433
-
 ---
 
-## High speciation rate of niche specialists in hot springs.
- 22.07.2023, _Q He, S Wang, K Feng, ST Michaletz, W Hou, W Zhang, F Li, Y Zhang, D Wang, X Peng, X Yang, Y Deng_
-
-
-_Hot Springs, RNA, Ribosomal, 16S, Adaptation, Physiological, Climate, Temperature, Ecosystem, Biological Evolution_
-Ecological and evolutionary processes simultaneously regulate microbial diversity, but the evolutionary processes and their driving forces remain largely unexplored. Here we investigated the ecological and evolutionary characteristics of microbiota in hot springs spanning a broad temperature range (54.8-80 °C) by sequencing the 16S rRNA genes. Our results demonstrated that niche specialists and niche generalists are embedded in a complex interaction of ecological and evolutionary dynamics. On the thermal tolerance niche axis, thermal (T) sensitive (at a specific temperature) versus T-resistant (at least in five temperatures) species were characterized by different niche breadth, community abundance and dispersal potential, consequently differing in potential evolutionary trajectory. The niche-specialized T-sensitive species experienced strong temperature barriers, leading to completely species shift and high fitness but low abundant communities at each temperature ("home niche"), and such trade-offs thus reinforced peak performance, as evidenced by high speciation across temperatures and increasing diversification potential with temperature. In contrast, T-resistant species are advantageous of niche expansion but with poor local performance, as shown by wide niche breadth with high extinction, indicating these niche generalists are "jack-of-all-trades, master-of-none". Despite of such differences, the T-sensitive and T-resistant species are evolutionarily interacted. Specifically, the continuous transition from T-sensitive to T-resistant species insured the exclusion probability of T-resistant species at a relatively constant level across temperatures. The co-evolution and co-adaptation of T-sensitive and T-resistant species were in line with the red queen theory. Collectively, our findings demonstrate that high speciation of niche specialists could alleviate the environmental-filtering-induced negative effect on diversity.
+## High speciation rate of niche specialists in hot springs
 
 [Source](https://www.nature.com/articles/s41396-023-01447-4)
-
-10.1038/s41396-023-01447-4
 
 ---
 
