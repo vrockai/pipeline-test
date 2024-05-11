@@ -10,9 +10,15 @@
 
 ---
 
-## Interplay between particle size and microbial ecology in the gut microbiome
+## Interplay between particle size and microbial ecology in the gut microbiome.
+ 07.05.2024, _J Letourneau, VM Carrion, S Jiang, OW Osborne, ZC Holmes, A Fox, P Epstein, CY Tan, M Kirtley, NK Surana, LA David_
+
+
+Physical particles can serve as critical abiotic factors that structure the ecology of microbial communities. For non-human vertebrate gut microbiomes, fecal particle size (FPS) has been known to be shaped by chewing efficiency and diet. However, little is known about what drives FPS in the human gut. Here, we analyzed FPS by laser diffraction across a total of 76 individuals and found FPS to be strongly individualized. Surprisingly, a behavioral intervention with 41 volunteers designed to increase chewing efficiency did not impact FPS. Dietary patterns could also not be associated with FPS. Instead, we found evidence that mammalian and human gut microbiomes shaped FPS. Fecal samples from germ-free and antibiotic-treated mice exhibited increased FPS relative to colonized mice. In humans, markers of longer transit time were correlated with smaller FPS. Gut microbiota diversity and composition were also associated with FPS. Finally, ex vivo culture experiments using human fecal microbiota from distinct donors showed that differences in microbiota community composition can drive variation in particle size. Together, our results support an ecological model in which the human gut microbiome plays a key role in reducing the size of food particles during digestion, and that the microbiomes of individuals vary in this capacity. These new insights also suggest FPS in humans to be governed by processes beyond those found in other mammals and emphasize the importance of gut microbiota in shaping their own abiotic environment.
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.04.26.591376v1)
+
+10.1101/2024.04.26.591376
 
 ---
 
@@ -105,15 +111,9 @@ Ecological and evolutionary processes simultaneously regulate microbial diversit
 
 ---
 
-## Melatonin promotes the recovery of apple plants after waterlogging by shaping the structure and function of the rhizosphere microbiome.
- 07.05.2024, _Y Cao, P Du, Z Li, J Xu, C Ma, B Liang_
-
-
-The dynamics of the physiological adaptability of plants and the rhizosphere soil environment after waterlogging remain unclear. Here we investigated the mechanisms regulating plant condition and shaping of the rhizosphere microbiome in a pot experiment. In the experiment, we added melatonin to waterlogged plants, which promoted waterlogging relief. The treatment significantly enhanced photosynthesis and the antioxidant capacity of apple plants, and significantly promoted nitrogen (N) utilization efficiency by upregulating genes related to N transport and metabolism. Multiperiod soil microbiome analysis showed the dynamic effects of melatonin on the diversity of the microbial community during waterlogging recovery. Random forest and linear regression analyses were used to screen for potential beneficial bacteria (e.g., Azoarcus, Pseudomonas and Nocardioides) specifically regulated by melatonin and revealed a positive correlation with soil nutrient levels and plant growth. Furthermore, metagenomic analyses revealed the regulatory effects of melatonin on genes involved in N cycling in soil. Melatonin positively contributed to the accumulation of plant dry weight by upregulating the expression of nifD and nifK (N fixation). In summary, melatonin positively regulates physiological functions in plants and the structure and function of the microbial community; it promoted the recovery of apple plants after waterlogging stress.
+## Melatonin promotes the recovery of apple plants after waterlogging by shaping the structure and function of the rhizosphere microbiome
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/pce.14903)
-
-10.1111/pce.14903
 
 ---
 
