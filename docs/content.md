@@ -23,7 +23,7 @@ HIV infection is associated with gut dysbiosis, and microbiome variability may a
 ---
 
 ## Comparative analysis of the tumor microbiome, molecular profiles, and immune cell abundances by HPV status in mucosal head and neck cancers and their impact on survival.
- 11.05.2024, _R Upadhyay, A Dhakal, C Wheeler, R Hoyd, M Jagjit Singh, V Karivedu, P Bhateja, M Bonomi, S Valentin, ME Gamez, DJ Konieczkowski, S Baliga, JC Grecula, DM Blakaj, E Gogineni, DL Mitchell, NC Denko, D Spakowicz, SR Jhawar_
+ 12.05.2024, _R Upadhyay, A Dhakal, C Wheeler, R Hoyd, M Jagjit Singh, V Karivedu, P Bhateja, M Bonomi, S Valentin, ME Gamez, DJ Konieczkowski, S Baliga, JC Grecula, DM Blakaj, E Gogineni, DL Mitchell, NC Denko, D Spakowicz, SR Jhawar_
 
 
 _Humans, Head and Neck Neoplasms, Female, Papillomavirus Infections, Male, Microbiota, Tumor Microenvironment, Squamous Cell Carcinoma of Head and Neck, Prognosis, Middle Aged, Papillomaviridae, Aged_
@@ -116,7 +116,7 @@ Gestational diabetes mellitus (GDM) is characterized by insulin resistance and l
 ---
 
 ## Mechanisms of microbiota modulation: Implications for health, disease, and therapeutic interventions.
- 10.05.2024, _OP Ugwu, EU Alum, MB Okon, EI Obeagu_
+ 12.05.2024, _OP Ugwu, EU Alum, MB Okon, EI Obeagu_
 
 
 _Humans, Fecal Microbiota Transplantation, Gastrointestinal Microbiome, Anti-Bacterial Agents, Probiotics, Gastrointestinal Diseases_
