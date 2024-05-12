@@ -11,7 +11,7 @@
 ---
 
 ## Interplay between particle size and microbial ecology in the gut microbiome.
- 07.05.2024, _J Letourneau, VM Carrion, S Jiang, OW Osborne, ZC Holmes, A Fox, P Epstein, CY Tan, M Kirtley, NK Surana, LA David_
+ 11.05.2024, _J Letourneau, VM Carrion, S Jiang, OW Osborne, ZC Holmes, A Fox, P Epstein, CY Tan, M Kirtley, NK Surana, LA David_
 
 
 Physical particles can serve as critical abiotic factors that structure the ecology of microbial communities. For non-human vertebrate gut microbiomes, fecal particle size (FPS) has been known to be shaped by chewing efficiency and diet. However, little is known about what drives FPS in the human gut. Here, we analyzed FPS by laser diffraction across a total of 76 individuals and found FPS to be strongly individualized. Surprisingly, a behavioral intervention with 41 volunteers designed to increase chewing efficiency did not impact FPS. Dietary patterns could also not be associated with FPS. Instead, we found evidence that mammalian and human gut microbiomes shaped FPS. Fecal samples from germ-free and antibiotic-treated mice exhibited increased FPS relative to colonized mice. In humans, markers of longer transit time were correlated with smaller FPS. Gut microbiota diversity and composition were also associated with FPS. Finally, ex vivo culture experiments using human fecal microbiota from distinct donors showed that differences in microbiota community composition can drive variation in particle size. Together, our results support an ecological model in which the human gut microbiome plays a key role in reducing the size of food particles during digestion, and that the microbiomes of individuals vary in this capacity. These new insights also suggest FPS in humans to be governed by processes beyond those found in other mammals and emphasize the importance of gut microbiota in shaping their own abiotic environment.
@@ -111,64 +111,33 @@ Ecological and evolutionary processes simultaneously regulate microbial diversit
 
 ---
 
-## Melatonin promotes the recovery of apple plants after waterlogging by shaping the structure and function of the rhizosphere microbiome.
- 07.05.2024, _Y Cao, P Du, Z Li, J Xu, C Ma, B Liang_
-
-
-The dynamics of the physiological adaptability of plants and the rhizosphere soil environment after waterlogging remain unclear. Here we investigated the mechanisms regulating plant condition and shaping of the rhizosphere microbiome in a pot experiment. In the experiment, we added melatonin to waterlogged plants, which promoted waterlogging relief. The treatment significantly enhanced photosynthesis and the antioxidant capacity of apple plants, and significantly promoted nitrogen (N) utilization efficiency by upregulating genes related to N transport and metabolism. Multiperiod soil microbiome analysis showed the dynamic effects of melatonin on the diversity of the microbial community during waterlogging recovery. Random forest and linear regression analyses were used to screen for potential beneficial bacteria (e.g., Azoarcus, Pseudomonas and Nocardioides) specifically regulated by melatonin and revealed a positive correlation with soil nutrient levels and plant growth. Furthermore, metagenomic analyses revealed the regulatory effects of melatonin on genes involved in N cycling in soil. Melatonin positively contributed to the accumulation of plant dry weight by upregulating the expression of nifD and nifK (N fixation). In summary, melatonin positively regulates physiological functions in plants and the structure and function of the microbial community; it promoted the recovery of apple plants after waterlogging stress.
+## Melatonin promotes the recovery of apple plants after waterlogging by shaping the structure and function of the rhizosphere microbiome
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/pce.14903)
 
-10.1111/pce.14903
-
 ---
 
-## Antimony efflux underpins phosphorus cycling and resistance of phosphate-solubilizing bacteria in mining soils.
- 22.07.2023, _S Liu, J Zeng, H Yu, C Wang, Y Yang, J Wang, Z He, Q Yan_
-
-
-_Antimony, Soil, Phosphates, Phosphorus, Phylogeny, Environmental Monitoring, Soil Pollutants, Metals, Heavy, Bacteria, Microbiota, China, Soil Microbiology_
-Microorganisms play crucial roles in phosphorus (P) turnover and P bioavailability increases in heavy metal-contaminated soils. However, microbially driven P-cycling processes and mechanisms of their resistance to heavy metal contaminants remain poorly understood. Here, we examined the possible survival strategies of P-cycling microorganisms in horizontal and vertical soil samples from the world's largest antimony (Sb) mining site, which is located in Xikuangshan, China. We found that total soil Sb and pH were the primary factors affecting bacterial community diversity, structure and P-cycling traits. Bacteria with the gcd gene, encoding an enzyme responsible for gluconic acid production, largely correlated with inorganic phosphate (Pi) solubilization and significantly enhanced soil P bioavailability. Among the 106 nearly complete bacterial metagenome-assembled genomes (MAGs) recovered, 60.4% carried the gcd gene. Pi transportation systems encoded by pit or pstSCAB were widely present in gcd-harboring bacteria, and 43.8% of the gcd-harboring bacteria also carried the acr3 gene encoding an Sb efflux pump. Phylogenetic and potential horizontal gene transfer (HGT) analyses of acr3 indicated that Sb efflux could be a dominant resistance mechanism, and two gcd-harboring MAGs appeared to acquire acr3 through HGT. The results indicated that Sb efflux could enhance P cycling and heavy metal resistance in Pi-solubilizing bacteria in mining soils. This study provides novel strategies for managing and remediating heavy metal-contaminated ecosystems.
+## Antimony efflux underpins phosphorus cycling and resistance of phosphate-solubilizing bacteria in mining soils 
 
 [Source](https://www.nature.com/articles/s41396-023-01445-6)
 
-10.1038/s41396-023-01445-6
-
 ---
 
-## Antibiotic exposure alters the honeybee gut microbiota and may interfere with the honeybee behavioral caste transition.
- 08.05.2024, _Z Zhang, X Mu, Q Cao, Y Zhai, L Zheng, Y Liu, H Zheng, X Zhang_
-
-
-Behavioral division is essential for the sustainability and reproduction of honeybee populations. While accumulating evidence has documented that antibiotic exposure interferes with bee behavioral divisions, how the gut microbiome, host physiology, and genetic regulation are implicated in this process remains understudied. Here, by constructing single-cohort colonies, we validated that the gut microbiota varied in composition between age-matched nurse and forager bees. Perturbing the gut microbiota with a low dose of antibiotic retained the gut bacterial size, but the structure of the microbial community continuously diverged from the control group after antibiotic treatment. Fewer foragers were observed in the antibiotic groups in the field experiment. A combinatorial effect of decreased gut metabolic gene repertoires, reduced brain neurotransmitter titers, and downregulated brain immune genes could potentially be related to behavioral tasks transition delay. This work indicates that the disturbance to both the gut microbiome and host physiologies after antibiotic exposure may have implications on social behavior development, highlighting the need for further research focusing on antibiotic pollution threatening the honeybee population's health.
+## Antibiotic exposure alters the honeybee gut microbiota and may interfere with the honeybee behavioral caste transition
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/1744-7917.13374)
 
-10.1111/1744-7917.13374
-
 ---
 
-## Meta-analysis of the Cetacea gut microbiome: Diversity, co-evolution, and interaction with the anthropogenic pathobiome.
- 10.05.2024, _E Radaelli, G Palladino, E Nanetti, D Scicchitano, S Rampelli, S Airoldi, M Candela, M Marangi_
-
-
-Despite their critical roles in marine ecosystems, only few studies have addressed the gut microbiome (GM) of cetaceans in a comprehensive way. Being long-living apex predators with a carnivorous diet but evolved from herbivorous ancestors, cetaceans are an ideal model for studying GM-host evolutionary drivers of symbiosis and represent a valuable proxy of overall marine ecosystem health. Here, we investigated the GM of eight different cetacean species, including both Odontocetes (toothed whales) and Mysticetes (baleen whales), by means of 16S rRNA-targeted amplicon sequencing. We collected faecal samples from free-ranging cetaceans circulating within the Pelagos Sanctuary (North-western Mediterranean Sea) and we also included publicly available cetacean gut microbiome sequences. Overall, we show a clear GM trajectory related to host phylogeny and taxonomy (i.e., phylosymbiosis), with remarkable GM variations which may reflect adaptations to different diets between baleen and toothed whales. While most samples were found to be infected by protozoan parasites of potential anthropic origin, we report that this phenomenon did not lead to severe GM dysbiosis. This study underlines the importance of both host phylogeny and diet in shaping the GM of cetaceans, highlighting the role of neutral processes as well as environmental factors in the establishment of this GM-host symbiosis. Furthermore, the presence of potentially human-derived protozoan parasites in faeces of free-ranging cetaceans emphasizes the importance of these animals as bioindicators of anthropic impact on marine ecosystems.
+## Meta-analysis of the Cetacea gut microbiome: Diversity, co-evolution, and interaction with the anthropogenic pathobiome
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0048969724030900)
 
-10.1016/j.scitotenv.2024.172943
-
 ---
 
-## Comparative analysis of gut microbiome of mangrove brachyuran crabs revealed patterns of phylosymbiosis and codiversification.
- 07.05.2024, _CTT Tsang, TKL Hui, NM Chung, WT Yuen, LM Tsang_
-
-
-The acquisition of microbial symbionts enables animals to rapidly adapt to and exploit novel ecological niches, thus significantly enhancing the evolutionary fitness and success of their hosts. However, the dynamics of host-microbe interactions and their evolutionary implications remain largely underexplored in marine invertebrates. Crabs of the family Sesarmidae (Crustacea: Brachyura) are dominant inhabitants of mangrove forests and are considered keystone species there. Their rapid diversification, particularly after adopting a plant-feeding lifestyle, is believed to have been facilitated by symbiotic gut microbes, enabling successful colonization of intertidal and terrestrial environments. To investigate the patterns and mechanisms shaping the microbial communities and the role of microbes in the evolution of Sesarmidae, we characterized and compared the gut microbiome compositions across 43 crab species from Sesarmidae and other mangrove-associated families using 16S metabarcoding. We found that the gut microbiome assemblages in crabs are primarily determined by host identity, with a secondary influence from environmental factors such as microhabitat and sampling location, and to a lesser extent influenced by biological factors such as sex and gut region. While patterns of phylosymbiosis (i.e. when microbial community relationships recapitulate the phylogeny of their hosts) were consistently observed in all beta-diversity metrics analysed, the strength of phylosymbiosis varied across crab families. This suggests that the bacterial assemblages in each family were differentially shaped by different degrees of host filtering and/or other evolutionary processes. Notably, Sesarmidae displayed signals of cophylogeny with its core gut bacterial genera, which likely play crucial functional roles in their hosts by providing lignocellulolytic enzymes, essential amino acids, and fatty acids supplementation. Our results support the hypothesis of microbial contribution to herbivory and terrestrialization in mangrove crabs, highlighting the tight association and codiversification of the crab holobiont.
+## Comparative analysis of gut microbiome of mangrove brachyuran crabs revealed patterns of phylosymbiosis and codiversification 
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/mec.17377)
-
-10.1111/mec.17377
 
 ---
 
@@ -184,16 +153,9 @@ The human microbiota impacts a variety of diseases and responses to therapeutics
 
 ---
 
-## Stable, fluorescent markers for tracking synthetic communities and assembly dynamics.
- 10.05.2024, _B Jorrin, TL Haskett, HE Knights, A Martyn, TJ Underwood, J Dolliver, R Ledermann, PS Poole_
-
-
-_Microbiota, DNA Transposable Elements, Rhizosphere, Plasmids, Plant Roots, Proteobacteria, Flow Cytometry, Luminescent Proteins, Soil Microbiology_
-After two decades of extensive microbiome research, the current forefront of scientific exploration involves moving beyond description and classification to uncovering the intricate mechanisms underlying the coalescence of microbial communities. Deciphering microbiome assembly has been technically challenging due to their vast microbial diversity but establishing a synthetic community (SynCom) serves as a key strategy in unravelling this process. Achieving absolute quantification is crucial for establishing causality in assembly dynamics. However, existing approaches are primarily designed to differentiate a specific group of microorganisms within a particular SynCom.
+## Stable, fluorescent markers for tracking synthetic communities and assembly dynamics
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01792-2)
-
-10.1186/s40168-024-01792-2
 
 ---
 
