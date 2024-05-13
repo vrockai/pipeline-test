@@ -103,7 +103,7 @@ The gut microbiota constitutes a vast ecological system within the human body, f
 ---
 
 ## Interactions between host and gut microbiota in gestational diabetes mellitus and their impacts on offspring.
- 10.05.2024, _S Wang, Z Cui, H Yang_
+ 13.05.2024, _S Wang, Z Cui, H Yang_
 
 
 _Diabetes, Gestational, Humans, Gastrointestinal Microbiome, Pregnancy, Female, Dysbiosis, Fatty Acids, Volatile, Bacteria, Host Microbial Interactions, Lipopolysaccharides_
@@ -203,7 +203,7 @@ This study aimed to evaluate the blood bacterial microbiota in healthy and febri
 ---
 
 ## Metagenomic sequencing and reconstruction of 82 microbial genomes from barley seed communities.
- 10.05.2024, _KA Tshisekedi, P De Maayer, A Botes_
+ 13.05.2024, _KA Tshisekedi, P De Maayer, A Botes_
 
 
 _Hordeum, Seeds, Metagenome, Microbiota, Metagenomics, Genome, Microbial, Genome, Bacterial, Bacteria_
