@@ -292,6 +292,7 @@ The selection of primer pairs in sequencing-based research can greatly influence
  15.05.2024, _R Kuster, M Staton_
 
 
+_Metagenome, Metagenomics, Software, Humans, Sequence Analysis, DNA, Gastrointestinal Microbiome, High-Throughput Nucleotide Sequencing_
 The application of reduced metagenomic sequencing approaches holds promise as a middle ground between targeted amplicon sequencing and whole metagenome sequencing approaches but has not been widely adopted as a technique. A major barrier to adoption is the lack of read simulation software built to handle characteristic features of these novel approaches. Reduced metagenomic sequencing (RMS) produces unique patterns of fragmentation per genome that are sensitive to restriction enzyme choice, and the non-uniform size selection of these fragments may introduce novel challenges to taxonomic assignment as well as relative abundance estimates.
 
 [Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05809-3)
