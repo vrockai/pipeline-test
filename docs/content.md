@@ -30,7 +30,7 @@ Left ventricular diastolic dysfunction (LVDD) is an important precursor of heart
 ---
 
 ## Impact of the gut microbiome composition on social decision-making.
- 15.05.2024, _M Falkenstein, MC Simon, A Mantri, B Weber, L Koban, H Plassmann_
+ 16.05.2024, _M Falkenstein, MC Simon, A Mantri, B Weber, L Koban, H Plassmann_
 
 
 There is increasing evidence for the role of the gut microbiome in the regulation of socio-affective behavior in animals and clinical conditions. However, whether and how the composition of the gut microbiome may influence social decision-making in health remains unknown. Here, we tested the causal effects of a 7-week synbiotic (vs. placebo) dietary intervention on altruistic social punishment behavior in an ultimatum game. Results showed that the intervention increased participants' willingness to forgo a monetary payoff when treated unfairly. This change in social decision-making was related to changes in fasting-state serum levels of the dopamine-precursor tyrosine proposing a potential mechanistic link along the gut-microbiota-brain-behavior axis. These results improve our understanding of the bidirectional role body-brain interactions play in social decision-making and why humans at times act "irrationally" according to standard economic theory.
@@ -55,7 +55,7 @@ Dysbiosis during childhood impacts the configuration and maturation of the micro
 ---
 
 ## The neonatal gut microbiome and global health.
- 14.05.2024, _P Panigrahi_
+ 16.05.2024, _P Panigrahi_
 
 
 _Humans, Gastrointestinal Microbiome, Infant, Newborn, Global Health, Enterocolitis, Necrotizing, Infant, Synbiotics, Neonatal Sepsis_
@@ -99,7 +99,7 @@ Bacterial vaginosis (BV) is a prevalent vaginal illness resulting from a disrupt
 ---
 
 ## Fecal transplant from vaginally seeded infants decreases intraabdominal adiposity in mice.
- 14.05.2024, _S Namasivayam, C Tilves, H Ding, S Wu, JC Domingue, C Ruiz-Bedoya, A Shah, E Bohrnsen, B Schwarz, M Bacorn, Q Chen, S Levy, MG Dominguez Bello, SK Jain, CL Sears, NT Mueller, SK Hourigan_
+ 16.05.2024, _S Namasivayam, C Tilves, H Ding, S Wu, JC Domingue, C Ruiz-Bedoya, A Shah, E Bohrnsen, B Schwarz, M Bacorn, Q Chen, S Levy, MG Dominguez Bello, SK Jain, CL Sears, NT Mueller, SK Hourigan_
 
 
 _Animals, Humans, Female, Mice, Adiposity, Gastrointestinal Microbiome, Male, Vagina, Fecal Microbiota Transplantation, Feces, Double-Blind Method, Intra-Abdominal Fat, Infant, Infant, Newborn_
@@ -151,7 +151,7 @@ Since a significant proportion of plant matter is consumed by herbivores, a nece
 ---
 
 ## The gut lactic acid bacteria metabolite, 10-oxo-cis-6,trans-11-octadecadienoic acid, suppresses inflammatory bowel disease in mice by modulating the NRF2 pathway and GPCR-signaling.
- 15.05.2024, _M Ando, K Nagata, R Takeshita, N Ito, S Noguchi, N Minamikawa, N Kodama, A Yamamoto, T Yashiro, M Hachisu, G Ichihara, S Kishino, M Yamamoto, J Ogawa, C Nishiyama_
+ 16.05.2024, _M Ando, K Nagata, R Takeshita, N Ito, S Noguchi, N Minamikawa, N Kodama, A Yamamoto, T Yashiro, M Hachisu, G Ichihara, S Kishino, M Yamamoto, J Ogawa, C Nishiyama_
 
 
 _Animals, NF-E2-Related Factor 2, Mice, Receptors, G-Protein-Coupled, Signal Transduction, Gastrointestinal Microbiome, Mice, Inbred C57BL, Inflammatory Bowel Diseases, Mice, Knockout, Cytokines, Disease Models, Animal, Dextran Sulfate, Oleic Acids, Lactobacillus plantarum, Colitis, Dendritic Cells, Male_
@@ -177,7 +177,7 @@ The relationship between gut microbiota and obesity has recently been an importa
 ---
 
 ## Origin of the neonatal gut microbiota and probiotic intervention: a randomized controlled trial.
- 15.05.2024, _Z Li, Y Zhang, X Tan, T Kian Deng, Q Gao, X Xiao, C Xu_
+ 16.05.2024, _Z Li, Y Zhang, X Tan, T Kian Deng, Q Gao, X Xiao, C Xu_
 
 
 This study aims to evaluate the origin of the neonatal gut microbiota on the 14th day and probiotic intervention in the third trimester.
@@ -195,7 +195,7 @@ This study aims to evaluate the origin of the neonatal gut microbiota on the 14t
 ---
 
 ## Competition mode and soil nutrient status shape the role of soil microbes in the diversity-invasibility relationship.
- 15.05.2024, _H Li, X Hu, X Geng, B Xiao, W Miao, Z Xu, Y Deng, B Jiang, Y Hou_
+ 16.05.2024, _H Li, X Hu, X Geng, B Xiao, W Miao, Z Xu, Y Deng, B Jiang, Y Hou_
 
 
 Understanding the relationship between plant diversity and invasibility is essential in invasion ecology. Species-rich communities are hypothesized to be more resistant to invasions than species-poor communities. However, while soil microorganisms play a crucial role in regulating this diversity-invasibility relationship, the effects of plant competition mode and soil nutrient status on their role remain unclear. To address this, we conducted a two-stage greenhouse experiment. Soils were first conditioned by growing nine native species separately in them for 1 year, then mixed in various configurations with soils conditioned using one, three, or six species, respectively. Next, we inoculated the mixed soil into sterilized substrate soil and planted the alien species Rhus typhina and native species Ailanthus altissima as test plants. We set up two competition modes (intraspecific and interspecific) and two nutrient levels (fertilization using slow-release fertilizer and nonfertilization). Under intraspecific competition, regardless of fertilization, the biomass of the alien species was higher in soil conditioned by six native species. By contrast, under interspecific competition, the biomass increased without fertilization but remained stable with fertilization in soil conditioned by six native species. Analysis of soil microbes suggests that pathogens and symbiotic fungi in diverse plant communities influenced R. typhina growth, which varied with competition mode and nutrient status. Our findings suggest that the soil microbiome is pivotal in mediating the diversity-invasibility relationship, and this influence varies according to competition mode and nutrient status.
@@ -238,7 +238,7 @@ The cheese making and vegetable processing industries generate immense volumes o
 ---
 
 ## Role of Bacillus subtilis exopolymeric genes in modulating rhizosphere microbiome assembly.
- 14.05.2024, _CS Nishisaka, JP Ventura, HP Bais, R Mendes_
+ 16.05.2024, _CS Nishisaka, JP Ventura, HP Bais, R Mendes_
 
 
 Bacillus subtilis is well known for promoting plant growth and reducing abiotic and biotic stresses. Mutant gene-defective models can be created to understand important traits associated with rhizosphere fitness. This study aimed to analyze the role of exopolymeric genes in modulating tomato rhizosphere microbiome assembly under a gradient of soil microbiome diversities using the B. subtilis wild-type strain UD1022 and its corresponding mutant strain UD1022eps-TasA, which is defective in exopolysaccharide (EPS) and TasA protein production.
