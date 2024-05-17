@@ -137,15 +137,9 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Early-life factors shaping the gut microbiota of Common buzzard nestlings.
- 16.05.2024, _H Pereira, N Chakarov, JI Hoffman, T Rinaud, M Ottensmann, KP Gladow, B Tobias, BA Caspers, Ö Maraci, O Krüger_
-
-
-Exploring the dynamics of gut microbiome colonisation during early-life stages is important for understanding the potential impact of microbes on host development and fitness. Evidence from model organisms suggests a crucial early-life phase when shifts in gut microbiota can lead to immune dysregulation and reduced host condition. However, our understanding of gut microbiota colonisation in long-lived vertebrates, especially during early development, remains limited. We therefore used a wild population of common buzzard nestlings (Buteo buteo) to investigate connections between the early-life gut microbiota colonisation, environmental and host factors.
+## Early-life factors shaping the gut microbiota of Common buzzard nestlings
 
 [Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00313-8)
-
-10.1186/s42523-024-00313-8
 
 ---
 
@@ -155,35 +149,15 @@ Exploring the dynamics of gut microbiome colonisation during early-life stages i
 
 ---
 
-## Metagenomics datasets of water and sediments from eutrophication-impacted artificial lakes in South Africa.
- 09.05.2024, _GN Ijoma, HJO Ogola, P Pillay, KA Tshisekedi, M Tekere_
-
-
-_Lakes, Eutrophication, Geologic Sediments, South Africa, Metagenomics, Metagenome, Bacteria, Phylogeny, Water Microbiology_
-We present metagenomes of 16 samples of water and sediment from two lakes, collected from eutrophic and non-eutrophic areas, including pooled samples enriched with phosphate and nitrate. Additionally, we assembled 167 bacterial metagenome-assembled genomes (MAGs). These MAGs were de-replicated into 83 unique genomes representing different species found in the lakes. All the MAGs exhibited &gt;70% completeness and &lt;10% contamination, with 79 MAGs being classified as 'nearly complete' (completeness &gt;90%), while 54 falling within 80-90% range and 34 between 75-80% complete. The most abundant MAGs identified across all samples were Proteobacteria (n = 80), Firmicutes_A (n = 35), Firmicutes (n = 13), and Bacteriodota (n = 22). Other groups included Desulfobacteria_I (n = 2), Verrucomicrobiota (n = 4), Campylobacterota (n = 4) and Actinobacteriota (n = 6). Importantly, phylogenomic analysis identified that approximately 50.3% of the MAGs could not be classified to known species, suggesting the presence of potentially new and unknown bacteria in these lakes, warranting further in-depth investigation. This study provides valuable new dataset on the diverse and often unique microbial communities living in polluted lakes, useful in developing effective strategies to manage pollution.
+## Metagenomics datasets of water and sediments from eutrophication-impacted artificial lakes in South Africa 
 
 [Source](https://www.nature.com/articles/s41597-024-03286-0)
-
-10.1038/s41597-024-03286-0
 
 ---
 
 ## Fairy: fast approximate coverage for multi-sample metagenomic binning
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.04.23.590803v1)
-
----
-
-## Metagenomic binning through low-density hashing.
- 06.03.2020, _Y Luo, YW Yu, J Zeng, B Berger, J Peng_
-
-
-_Algorithms, Computational Biology, Genome, Microbial, Metagenomics, Sequence Analysis, DNA, Software_
-Vastly greater quantities of microbial genome data are being generated where environmental samples mix together the DNA from many different species. Here, we present Opal for metagenomic binning, the task of identifying the origin species of DNA sequencing reads. We introduce 'low-density' locality sensitive hashing to bioinformatics, with the addition of Gallager codes for even coverage, enabling quick and accurate metagenomic binning.
-
-[Source](https://twitter.com/YunWilliamYu?ref_src=twsrc%5Etfw)
-
-10.1093/bioinformatics/bty611
 
 ---
 
@@ -205,15 +179,15 @@ Vastly greater quantities of microbial genome data are being generated where env
 
 ---
 
-## Familial communication and cascade testing following elective genomic testing.
- 17.05.2024, _SM Adelson, CL Blout Zawatsky, MR Hickingbotham, ME Bell, DM Platt, JR Leonhard, ES Zoltick, CA Hajek, RC Green, KD Christensen_
+## Spatial and Temporal Resolution of Cyanobacterial Bloom Chemistry Reveals an Open-Ocean Trichodesmium thiebautii as a Talented Producer of Specialized Metabolites.
+ 17.05.2024, _CW Via, L Grauso, KM McManus, RD Kirk, AM Kim, EA Webb, NA Held, MA Saito, S Scarpato, PV Zimba, PDR Moeller, A Mangoni, MJ Bertin_
 
 
-Familial communication of results and cascade genetic testing (CGT) can extend the benefits of genetic screening beyond the patient to their at-risk relatives. While an increasing number of health systems are offering genetic screening as an elective clinical service, data are limited about how often results are shared and how often results lead to CGT. From 2018 to 2022, the Sanford Health system offered the Sanford Chip, an elective genomic test that included screening for medically actionable predispositions for disease recommended by the American College of Medical Genetics and Genomics for secondary findings disclosure, to its adult primary care patients. We analyzed patient-reported data about familial sharing of results and CGT among patients who received Sanford Chip results at least 1 year previously. Among the patients identified with medically actionable predispositions, 94.6% (53/56) reported disclosing their result to at least one family member, compared with 46.7% (423/906) of patients with uninformative findings (p &lt; 0.001). Of the patients with actionable predispositions, 52.2% (12/23) with a monogenic disease risk and 12.1% (4/33) with a carrier status reported that their relatives underwent CGT. Results suggest that while the identification of monogenic risk during elective genomic testing motivates CGT in many at-risk relatives, there remain untested at-risk relatives who may benefit from future CGT. Findings identify an area that may benefit from increased genetic counseling and the development of tools and resources to encourage CGT for family members.
+While the ecological role that Trichodesmium sp. play in nitrogen fixation has been widely studied, little information is available on potential specialized metabolites that are associated with blooms and standing stock Trichodesmium colonies. While a collection of biological material from a T. thiebautii bloom event from North Padre Island, Texas, in 2014 indicated that this species was a prolific producer of chlorinated specialized metabolites, additional spatial and temporal resolution was needed. We have completed these metabolite comparison studies, detailed in the current report, utilizing LC-MS/MS-based molecular networking to visualize and annotate the specialized metabolite composition of these Trichodesmium blooms and colonies in the Gulf of Mexico (GoM) and other waters. Our results showed that T. thiebautii blooms and colonies found in the GoM have a remarkably consistent specialized metabolome. Additionally, we isolated and characterized one new macrocyclic compound from T. thiebautii, trichothilone A (1), which was also detected in three independent cultures of T. erythraeum. Genome mining identified genes predicted to synthesize certain functional groups in the T. thiebautii metabolites. These results provoke intriguing questions of how these specialized metabolites affect Trichodesmium ecophysiology, symbioses with marine invertebrates, and niche development in the global oligotrophic ocean.
 
 [Source](https://twitter.com/jim_elevator/status/1787899822206234681?ref_src=twsrc%5Etfw)
 
-10.1002/jgc4.1907
+10.1021/acs.est.3c10739
 
 ---
 
