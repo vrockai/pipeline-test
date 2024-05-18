@@ -89,6 +89,19 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Praziquantel-related visual disorders among recipients in mass drug administration campaigns in schistosomiasis endemic settings: Systematic review and meta-analysis protocol.
+ 17.05.2024, _A Danso-Appiah, D Owiredu, KO Akuffo_
+
+
+_Humans, Schistosomiasis, Praziquantel, Vision Disorders, Systematic Reviews as Topic, Mass Drug Administration, Meta-Analysis as Topic, Endemic Diseases, Anthelmintics_
+Hundreds of millions of doses of Praziquantel (PZQ) have been administered to persons with and without schistosomiasis living in schistosomiasis endemic settings, through the mass drug administration (MDA) strategy which started in the early 2000s. A recent publication suggested high risk of PZQ-related visual disorders, raising public health concerns. We aim to systematically synthesize evidence on the magnitude of PZQ-related visual disorders.
+
+[Source](https://twitter.com/hashtag/preprint?src=hash&ref_src=twsrc%5Etfw)
+
+10.1371/journal.pone.0300384
+
+---
+
 ## #preprint
 
 [Source](https://twitter.com/hashtag/preprint?src=hash&ref_src=twsrc%5Etfw)
@@ -98,6 +111,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 ## #NancyCollinsJohnson
 
 [Source](https://twitter.com/hashtag/NancyCollinsJohnson?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Biochar is colonized by select arbuscular mycorrhizal fungi in agricultural soils.
+ 17.05.2024, _P Neuberger, C Romero, K Kim, X Hao, T A McAllister, S Ngo, C Li, MA Gorzelak_
+
+
+Arbuscular mycorrhizal fungi (AMF) colonize biochar in soils, yet the processes governing their colonization and growth in biochar are not well characterized. Biochar amendment improves soil health by increasing soil carbon, decreasing bulk density, and improving soil water retention, all of which can increase yield and alleviate environmental stress on crops. Biochar is often applied with nutrient addition, impacting mycorrhizal communities. To understand how mycorrhizas explore soils containing biochar, we buried packets of non-activated biochar in root exclusion mesh bags in contrasting agricultural soils. In this greenhouse experiment, with quinoa (Chenopodium quinoa) as the host plant, we tested impacts of mineral nutrient (as manure and fertilizer) and biochar addition on mycorrhizal colonization of biochar. Paraglomus appeared to dominate the biochar packets, and the community of AMF found in the biochar was a subset (12 of 18) of the virtual taxa detected in soil communities. We saw differences in AMF community composition between soils with different edaphic properties, and while nutrient addition shifted those communities, the shifts were inconsistent between soil types and did not significantly influence the observation that Paraglomus appeared to selectively colonize biochar. This observation may reflect differences in AMF traits, with Paraglomus previously identified only in soils (not in roots) pointing to predominately soil exploratory traits. Conversely, the absence of some AMF from the biochar implies either a reduced tendency to explore soils or an ability to avoid recalcitrant nutrient sources. Our results point to a selective colonization of biochar in agricultural soils.
+
+[Source](https://twitter.com/hashtag/AMF?src=hash&ref_src=twsrc%5Etfw)
+
+10.1007/s00572-024-01149-5
 
 ---
 
@@ -161,6 +186,19 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Metagenomic binning through low-density hashing.
+ 06.03.2020, _Y Luo, YW Yu, J Zeng, B Berger, J Peng_
+
+
+_Algorithms, Computational Biology, Genome, Microbial, Metagenomics, Sequence Analysis, DNA, Software_
+Vastly greater quantities of microbial genome data are being generated where environmental samples mix together the DNA from many different species. Here, we present Opal for metagenomic binning, the task of identifying the origin species of DNA sequencing reads. We introduce 'low-density' locality sensitive hashing to bioinformatics, with the addition of Gallager codes for even coverage, enabling quick and accurate metagenomic binning.
+
+[Source](https://twitter.com/YunWilliamYu?ref_src=twsrc%5Etfw)
+
+10.1093/bioinformatics/bty611
+
+---
+
 ## @YunWilliamYu
 
 [Source](https://twitter.com/YunWilliamYu?ref_src=twsrc%5Etfw)
@@ -176,18 +214,6 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 ## https://t.co/PrGLy8LOlT
 
 [Source](https://t.co/PrGLy8LOlT)
-
----
-
-## Spatial and Temporal Resolution of Cyanobacterial Bloom Chemistry Reveals an Open-Ocean Trichodesmium thiebautii as a Talented Producer of Specialized Metabolites.
- 17.05.2024, _CW Via, L Grauso, KM McManus, RD Kirk, AM Kim, EA Webb, NA Held, MA Saito, S Scarpato, PV Zimba, PDR Moeller, A Mangoni, MJ Bertin_
-
-
-While the ecological role that Trichodesmium sp. play in nitrogen fixation has been widely studied, little information is available on potential specialized metabolites that are associated with blooms and standing stock Trichodesmium colonies. While a collection of biological material from a T. thiebautii bloom event from North Padre Island, Texas, in 2014 indicated that this species was a prolific producer of chlorinated specialized metabolites, additional spatial and temporal resolution was needed. We have completed these metabolite comparison studies, detailed in the current report, utilizing LC-MS/MS-based molecular networking to visualize and annotate the specialized metabolite composition of these Trichodesmium blooms and colonies in the Gulf of Mexico (GoM) and other waters. Our results showed that T. thiebautii blooms and colonies found in the GoM have a remarkably consistent specialized metabolome. Additionally, we isolated and characterized one new macrocyclic compound from T. thiebautii, trichothilone A (1), which was also detected in three independent cultures of T. erythraeum. Genome mining identified genes predicted to synthesize certain functional groups in the T. thiebautii metabolites. These results provoke intriguing questions of how these specialized metabolites affect Trichodesmium ecophysiology, symbioses with marine invertebrates, and niche development in the global oligotrophic ocean.
-
-[Source](https://twitter.com/jim_elevator/status/1787899822206234681?ref_src=twsrc%5Etfw)
-
-10.1021/acs.est.3c10739
 
 ---
 
