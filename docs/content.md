@@ -89,19 +89,6 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Praziquantel-related visual disorders among recipients in mass drug administration campaigns in schistosomiasis endemic settings: Systematic review and meta-analysis protocol.
- 17.05.2024, _A Danso-Appiah, D Owiredu, KO Akuffo_
-
-
-_Humans, Schistosomiasis, Praziquantel, Vision Disorders, Systematic Reviews as Topic, Mass Drug Administration, Meta-Analysis as Topic, Endemic Diseases, Anthelmintics_
-Hundreds of millions of doses of Praziquantel (PZQ) have been administered to persons with and without schistosomiasis living in schistosomiasis endemic settings, through the mass drug administration (MDA) strategy which started in the early 2000s. A recent publication suggested high risk of PZQ-related visual disorders, raising public health concerns. We aim to systematically synthesize evidence on the magnitude of PZQ-related visual disorders.
-
-[Source](https://twitter.com/hashtag/preprint?src=hash&ref_src=twsrc%5Etfw)
-
-10.1371/journal.pone.0300384
-
----
-
 ## #preprint
 
 [Source](https://twitter.com/hashtag/preprint?src=hash&ref_src=twsrc%5Etfw)
@@ -111,18 +98,6 @@ Hundreds of millions of doses of Praziquantel (PZQ) have been administered to pe
 ## #NancyCollinsJohnson
 
 [Source](https://twitter.com/hashtag/NancyCollinsJohnson?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Biochar is colonized by select arbuscular mycorrhizal fungi in agricultural soils.
- 17.05.2024, _P Neuberger, C Romero, K Kim, X Hao, T A McAllister, S Ngo, C Li, MA Gorzelak_
-
-
-Arbuscular mycorrhizal fungi (AMF) colonize biochar in soils, yet the processes governing their colonization and growth in biochar are not well characterized. Biochar amendment improves soil health by increasing soil carbon, decreasing bulk density, and improving soil water retention, all of which can increase yield and alleviate environmental stress on crops. Biochar is often applied with nutrient addition, impacting mycorrhizal communities. To understand how mycorrhizas explore soils containing biochar, we buried packets of non-activated biochar in root exclusion mesh bags in contrasting agricultural soils. In this greenhouse experiment, with quinoa (Chenopodium quinoa) as the host plant, we tested impacts of mineral nutrient (as manure and fertilizer) and biochar addition on mycorrhizal colonization of biochar. Paraglomus appeared to dominate the biochar packets, and the community of AMF found in the biochar was a subset (12 of 18) of the virtual taxa detected in soil communities. We saw differences in AMF community composition between soils with different edaphic properties, and while nutrient addition shifted those communities, the shifts were inconsistent between soil types and did not significantly influence the observation that Paraglomus appeared to selectively colonize biochar. This observation may reflect differences in AMF traits, with Paraglomus previously identified only in soils (not in roots) pointing to predominately soil exploratory traits. Conversely, the absence of some AMF from the biochar implies either a reduced tendency to explore soils or an ability to avoid recalcitrant nutrient sources. Our results point to a selective colonization of biochar in agricultural soils.
-
-[Source](https://twitter.com/hashtag/AMF?src=hash&ref_src=twsrc%5Etfw)
-
-10.1007/s00572-024-01149-5
 
 ---
 
@@ -174,9 +149,16 @@ Arbuscular mycorrhizal fungi (AMF) colonize biochar in soils, yet the processes 
 
 ---
 
-## Metagenomics datasets of water and sediments from eutrophication-impacted artificial lakes in South Africa 
+## Metagenomics datasets of water and sediments from eutrophication-impacted artificial lakes in South Africa.
+ 09.05.2024, _GN Ijoma, HJO Ogola, P Pillay, KA Tshisekedi, M Tekere_
+
+
+_Lakes, Eutrophication, Geologic Sediments, South Africa, Metagenomics, Metagenome, Bacteria, Phylogeny, Water Microbiology_
+We present metagenomes of 16 samples of water and sediment from two lakes, collected from eutrophic and non-eutrophic areas, including pooled samples enriched with phosphate and nitrate. Additionally, we assembled 167 bacterial metagenome-assembled genomes (MAGs). These MAGs were de-replicated into 83 unique genomes representing different species found in the lakes. All the MAGs exhibited &gt;70% completeness and &lt;10% contamination, with 79 MAGs being classified as 'nearly complete' (completeness &gt;90%), while 54 falling within 80-90% range and 34 between 75-80% complete. The most abundant MAGs identified across all samples were Proteobacteria (n = 80), Firmicutes_A (n = 35), Firmicutes (n = 13), and Bacteriodota (n = 22). Other groups included Desulfobacteria_I (n = 2), Verrucomicrobiota (n = 4), Campylobacterota (n = 4) and Actinobacteriota (n = 6). Importantly, phylogenomic analysis identified that approximately 50.3% of the MAGs could not be classified to known species, suggesting the presence of potentially new and unknown bacteria in these lakes, warranting further in-depth investigation. This study provides valuable new dataset on the diverse and often unique microbial communities living in polluted lakes, useful in developing effective strategies to manage pollution.
 
 [Source](https://www.nature.com/articles/s41597-024-03286-0)
+
+10.1038/s41597-024-03286-0
 
 ---
 
