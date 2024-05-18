@@ -89,19 +89,6 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Praziquantel-related visual disorders among recipients in mass drug administration campaigns in schistosomiasis endemic settings: Systematic review and meta-analysis protocol.
- 17.05.2024, _A Danso-Appiah, D Owiredu, KO Akuffo_
-
-
-_Humans, Schistosomiasis, Praziquantel, Vision Disorders, Systematic Reviews as Topic, Mass Drug Administration, Meta-Analysis as Topic, Endemic Diseases, Anthelmintics_
-Hundreds of millions of doses of Praziquantel (PZQ) have been administered to persons with and without schistosomiasis living in schistosomiasis endemic settings, through the mass drug administration (MDA) strategy which started in the early 2000s. A recent publication suggested high risk of PZQ-related visual disorders, raising public health concerns. We aim to systematically synthesize evidence on the magnitude of PZQ-related visual disorders.
-
-[Source](https://twitter.com/hashtag/preprint?src=hash&ref_src=twsrc%5Etfw)
-
-10.1371/journal.pone.0300384
-
----
-
 ## #preprint
 
 [Source](https://twitter.com/hashtag/preprint?src=hash&ref_src=twsrc%5Etfw)
@@ -111,18 +98,6 @@ Hundreds of millions of doses of Praziquantel (PZQ) have been administered to pe
 ## #NancyCollinsJohnson
 
 [Source](https://twitter.com/hashtag/NancyCollinsJohnson?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Biochar is colonized by select arbuscular mycorrhizal fungi in agricultural soils.
- 17.05.2024, _P Neuberger, C Romero, K Kim, X Hao, T A McAllister, S Ngo, C Li, MA Gorzelak_
-
-
-Arbuscular mycorrhizal fungi (AMF) colonize biochar in soils, yet the processes governing their colonization and growth in biochar are not well characterized. Biochar amendment improves soil health by increasing soil carbon, decreasing bulk density, and improving soil water retention, all of which can increase yield and alleviate environmental stress on crops. Biochar is often applied with nutrient addition, impacting mycorrhizal communities. To understand how mycorrhizas explore soils containing biochar, we buried packets of non-activated biochar in root exclusion mesh bags in contrasting agricultural soils. In this greenhouse experiment, with quinoa (Chenopodium quinoa) as the host plant, we tested impacts of mineral nutrient (as manure and fertilizer) and biochar addition on mycorrhizal colonization of biochar. Paraglomus appeared to dominate the biochar packets, and the community of AMF found in the biochar was a subset (12 of 18) of the virtual taxa detected in soil communities. We saw differences in AMF community composition between soils with different edaphic properties, and while nutrient addition shifted those communities, the shifts were inconsistent between soil types and did not significantly influence the observation that Paraglomus appeared to selectively colonize biochar. This observation may reflect differences in AMF traits, with Paraglomus previously identified only in soils (not in roots) pointing to predominately soil exploratory traits. Conversely, the absence of some AMF from the biochar implies either a reduced tendency to explore soils or an ability to avoid recalcitrant nutrient sources. Our results point to a selective colonization of biochar in agricultural soils.
-
-[Source](https://twitter.com/hashtag/AMF?src=hash&ref_src=twsrc%5Etfw)
-
-10.1007/s00572-024-01149-5
 
 ---
 
@@ -186,19 +161,6 @@ Arbuscular mycorrhizal fungi (AMF) colonize biochar in soils, yet the processes 
 
 ---
 
-## Metagenomic binning through low-density hashing.
- 06.03.2020, _Y Luo, YW Yu, J Zeng, B Berger, J Peng_
-
-
-_Algorithms, Computational Biology, Genome, Microbial, Metagenomics, Sequence Analysis, DNA, Software_
-Vastly greater quantities of microbial genome data are being generated where environmental samples mix together the DNA from many different species. Here, we present Opal for metagenomic binning, the task of identifying the origin species of DNA sequencing reads. We introduce 'low-density' locality sensitive hashing to bioinformatics, with the addition of Gallager codes for even coverage, enabling quick and accurate metagenomic binning.
-
-[Source](https://twitter.com/YunWilliamYu?ref_src=twsrc%5Etfw)
-
-10.1093/bioinformatics/bty611
-
----
-
 ## @YunWilliamYu
 
 [Source](https://twitter.com/YunWilliamYu?ref_src=twsrc%5Etfw)
@@ -250,18 +212,6 @@ Vastly greater quantities of microbial genome data are being generated where env
 ## https://t.co/EgsZnMaMpR
 
 [Source](https://t.co/EgsZnMaMpR)
-
----
-
-## Formative research to adapt a cardiac rehabilitation program to breast cancer survivors: the heart health after cancer treatment (HEART-ACT) study.
- 17.05.2024, _A Chang, A Boyd, I Leung, E Trejo, N Dixit, J Mallidi, S Win, AL Beatty_
-
-
-Breast cancer survivors are disproportionately at risk for cardiovascular disease; exercise-based interventions may improve cardiovascular health. The objective of this formative research is to better understand the needs of patients and barriers to participation in an adapted cardiac rehabilitation program for diverse breast cancer survivors in an urban safety net setting.
-
-[Source](https://twitter.com/phylogeo/status/1788766514814071159?ref_src=twsrc%5Etfw)
-
-10.1186/s40959-024-00228-y
 
 ---
 
