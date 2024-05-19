@@ -53,29 +53,15 @@ Polycystic ovary syndrome (PCOS) is an endocrinopathy in childbearing-age female
 
 ---
 
-## Gut dysbiosis and neurological modalities: An engineering approach via proteomic analysis of gut-brain axis.
- 18.05.2024, _M Kandpal, N Varshney, KS Rawal, HC Jha_
-
-
-_Humans, Proteomics, Dysbiosis, Gastrointestinal Microbiome, Nervous System Diseases, Animals, Brain-Gut Axis, Biomarkers_
-The human gut microbiota is a complex and dynamic community of microorganisms, that influence metabolic, neurodevelopmental, and immune pathways. Microbial dysbiosis, characterized by changes in microbial diversity and relative abundances, is implicated in the development of various chronic neurological and neurodegenerative disorders. These disorders are marked by the accumulation of pathological protein aggregates, leading to the progressive loss of neurons and behavioural functions. Dysregulations in protein-protein interaction networks and signalling complexes, critical for normal brain function, are common in neurological disorders but challenging to unravel, particularly at the neuron and synapse-specific levels. To advance therapeutic strategies, a deeper understanding of neuropathogenesis, especially during the progressive disease phase, is needed. Biomarkers play a crucial role in identifying disease pathophysiology and monitoring disease progression. Proteomics, a powerful technology, shows promise in accelerating biomarker discovery and aiding in the development of novel treatments. In this chapter, we provide an in-depth overview of how proteomic techniques, utilizing various biofluid samples from patients with neurological conditions and diverse animal models, have contributed valuable insights into the pathogenesis of numerous neurological disorders. We also discuss the current state of research, potential challenges, and future directions in proteomic approaches to unravel neuro-pathological conditions.
+## Gut dysbiosis and neurological modalities: An engineering approach via proteomic analysis of gut-brain axis
 
 [Source](https://doi.org/10.1016/bs.apcsb.2024.02.001)
 
-10.1016/bs.apcsb.2024.02.001
-
 ---
 
-## Comparative microbiome analysis in cystic fibrosis and non-cystic fibrosis bronchiectasis.
- 18.05.2024, _H Motta, JCV Reuwsaat, FC Lopes, G Viezzer, FCZ Volpato, AL Barth, P de Tarso Roth Dalcin, CC Staats, MH Vainstein, L Kmetzsch_
-
-
-_Humans, Bronchiectasis, Cystic Fibrosis, Male, Female, Microbiota, Adult, Middle Aged, Sputum, Young Adult, Cohort Studies, Aged_
-Bronchiectasis is a condition characterized by abnormal and irreversible bronchial dilation resulting from lung tissue damage and can be categorized into two main groups: cystic fibrosis (CF) and non-CF bronchiectasis (NCFB). Both diseases are marked by recurrent infections, inflammatory exacerbations, and lung damage. Given that infections are the primary drivers of disease progression, characterization of the respiratory microbiome can shed light on compositional alterations and susceptibility to antimicrobial drugs in these cases compared to healthy individuals.
+## Comparative microbiome analysis in cystic fibrosis and non-cystic fibrosis bronchiectasis
 
 [Source](https://doi.org/10.1186/s12931-024-02835-w)
-
-10.1186/s12931-024-02835-w
 
 ---
 
@@ -85,41 +71,21 @@ Bronchiectasis is a condition characterized by abnormal and irreversible bronchi
 
 ---
 
-## Quantitative analysis of the effects of brushing, flossing, and mouthrinsing on supragingival and subgingival plaque microbiota: 12-week clinical trial.
- 17.05.2024, _K Min, ML Bosma, G John, JA McGuire, A DelSasso, J Milleman, KR Milleman_
-
-
-_Humans, Dental Plaque, Gingivitis, Mouthwashes, Female, Microbiota, Adult, Toothbrushing, Male, Dental Devices, Home Care, Single-Blind Method, Middle Aged, Salicylates, Drug Combinations, Terpenes, Bacterial Load, Anti-Infective Agents, Local, Young Adult_
-Translational microbiome research using next-generation DNA sequencing is challenging due to the semi-qualitative nature of relative abundance data. A novel method for quantitative analysis was applied in this 12-week clinical trial to understand the mechanical vs. chemotherapeutic actions of brushing, flossing, and mouthrinsing against the supragingival dental plaque microbiome. Enumeration of viable bacteria using vPCR was also applied on supragingival plaque for validation and on subgingival plaque to evaluate interventional effects below the gingival margin.
+## Quantitative analysis of the effects of brushing, flossing, and mouthrinsing on supragingival and subgingival plaque microbiota: 12-week clinical trial
 
 [Source](https://doi.org/10.1186/s12903-024-04362-y)
 
-10.1186/s12903-024-04362-y
-
 ---
 
-## Exploring the skin microbiome in atopic dermatitis pathogenesis and disease modification.
- 18.05.2024, _C Hülpüsch, R Rohayem, M Reiger, C Traidl-Hoffmann_
-
-
-Inflammatory skin diseases, like atopic eczema (atopic dermatitis, AD), affect children and adults globally. In AD, the skin barrier is impaired on multiple levels. Underlying factors include genetic, chemical, immunological, and microbial components. Increased skin pH in AD is part of the altered microbial microenvironment that promotes overgrowth of the skin microbiome with Staphylococcus aureus (S. aureus). The secretion of virulence factors, like toxins and proteases, by S. aureus further aggravates the skin barrier deficiency and additionally off-balances the already skewed immune response. Skin commensal bacteria, however, can inhibit the growth and pathogenicity of S. aureus through quorum sensing systems. Therefore, restoring a healthy skin microbiome could contribute to remission induction in AD. This review discusses direct and indirect approaches to targeting the skin microbiome through modulation of the skin pH, UV treatment, and pre-, pro-, and postbiotics. Furthermore, exploratory techniques like skin microbiome transplantation, ozone therapy, and phage therapy are discussed. Finally, we summarize the latest findings on disease and microbiome modification through targeted immunomodulatory, systemic treatments and biologicals. We believe that targeting the skin microbiome should be considered a crucial component of successful AD treatment in the future.
+## Exploring the skin microbiome in atopic dermatitis pathogenesis and disease modification
 
 [Source](https://doi.org/10.1016/j.jaci.2024.04.029)
 
-10.1016/j.jaci.2024.04.029
-
 ---
 
-## Isobutyric acid enhances the anti-tumour effect of anti-PD-1 antibody.
- 17.05.2024, _M Murayama, M Hosonuma, A Kuramasu, S Kobayashi, A Sasaki, Y Baba, Y Narikawa, H Toyoda, J Isobe, E Funayama, K Tajima, A Sasaki, Y Maruyama, Y Yamazaki, M Shida, K Hamada, Y Hirasawa, T Tsurui, H Ariizumi, T Ishiguro, R Suzuki, R Ohkuma, Y Kubota, A Horiike, T Sambe, M Tsuji, S Wada, S Kobayashi, T Shimane, T Tsunoda, H Kobayashi, Y Kiuchi, K Yoshimura_
-
-
-_Animals, Mice, Humans, Programmed Cell Death 1 Receptor, Immune Checkpoint Inhibitors, Tumor Microenvironment, Cell Line, Tumor, Female, Gastrointestinal Microbiome, Immunotherapy, Neoplasms, Fatty Acids, Volatile, Drug Synergism_
-The low response rate of immune checkpoint inhibitors (ICIs) is a challenge. The efficacy of ICIs is influenced by the tumour microenvironment, which is controlled by the gut microbiota. In particular, intestinal bacteria and their metabolites, such as short chain fatty acids (SCFAs), are important regulators of cancer immunity; however, our knowledge on the effects of individual SCFAs remains limited. Here, we show that isobutyric acid has the strongest effect among SCFAs on both immune activity and tumour growth. In vitro, cancer cell numbers were suppressed by approximately 75% in humans and mice compared with those in controls. Oral administration of isobutyric acid to carcinoma-bearing mice enhanced the effect of anti-PD-1 immunotherapy, reducing tumour volume by approximately 80% and 60% compared with those in the control group and anti-PD-1 antibody alone group, respectively. Taken together, these findings may support the development of novel cancer therapies that can improve the response rate to ICIs.
+## Isobutyric acid enhances the anti-tumour effect of anti-PD-1 antibody
 
 [Source](https://doi.org/10.1038/s41598-024-59677-1)
-
-10.1038/s41598-024-59677-1
 
 ---
 
@@ -165,28 +131,40 @@ The low response rate of immune checkpoint inhibitors (ICIs) is a challenge. The
 
 ---
 
-## Ibuprofen degradation by mixed bacterial consortia: metabolic pathway and microbial community analysis
+## Ibuprofen degradation by mixed bacterial consortia: metabolic pathway and microbial community analysis.
+ 17.05.2024, _A Rastogi, S Chaudhary, MK Tiwari, MM Ghangrekar_
+
+
+Degradation of ibuprofen, one of the most consumed drugs globally, by a mixed bacterial consortium was investigated. A contaminated hospital soil was used to enrich a bacterial consortium possessing the ability to degrade 4 mg/L ibuprofen in 6 days, fed on 6 mM acetate as a supplementary carbon source. Maximum ibuprofen degradation achieved was 99.51%, and for optimum ibuprofen degradation modelled statistically, the initial ibuprofen concentration, and temperature were determined to be 0.515 mg/L and 35 °C, respectively. The bacterial community analyses demonstrated an enrichment of Pseudomonas, Achromobacter, Bacillus, and Enterococcus in the presence of ibuprofen, suggesting their probable association with the biodegradation process. The biodegradation pathway developed using open-source metabolite predictors, GLORYx and BioTransformer suggested multiple degradation routes. Hydroxylation and oxidation were found to be the major mechanisms in ibuprofen degradation. Mono-hydroxylated metabolites were identified as well as predicted by the bioinformatics-based packages. Oxidation, dehydrogenation, super-hydroxylation, and hydrolysis were some other identified mechanisms.
 
 [Source](https://doi.org/10.1016/j.chemosphere.2024.142354)
 
+10.1016/j.chemosphere.2024.142354
+
 ---
 
-## Examining the impacts of salt specificity on freshwater microbial community and functional potential following salinization
+## Examining the impacts of salt specificity on freshwater microbial community and functional potential following salinization.
+ 17.05.2024, _JB Van Gray, P Ayayee_
+
+
+_Fresh Water, Bacteria, Salinity, Microbiota, Sodium Chloride, Ohio, Sulfates, Biodiversity, Magnesium Sulfate, Magnesium Chloride_
+The degradation of freshwater systems by salt pollution is a threat to global freshwater resources. Salinization is commonly identified by increased specific conductance (conductivity), a proxy for salt concentrations. However, conductivity fails to account for the diversity of salts entering freshwaters and the potential implications this has on microbial communities and functions. We tested 4 types of salt pollution-MgCl2, MgSO4, NaCl, and Na2SO4-on bacterial taxonomic and functional α-, β-diversity of communities originating from streams in two distinct localities (Nebraska [NE] and Ohio [OH], USA). Community responses depended on the site of origin, with NE and OH exhibiting more pronounced decreases in community diversity in response to Na2SO4 and MgCl2 than other salt amendments. A closer examination of taxonomic and functional diversity metrics suggests that core features of communities are more resistant to induced salt stress and that marginal features at both a population and functional level are more likely to exhibit significant structural shifts based on salt specificity. The lack of uniformity in community response highlights the need to consider the compositional complexities of salinization to accurately identify the ecological consequences of instances of salt pollution.
 
 [Source](https://doi.org/10.1111/1462-2920.16628)
 
+10.1111/1462-2920.16628
+
 ---
 
-## Comparative microbiome analysis in cystic fibrosis and non-cystic fibrosis bronchiectasis.
- 18.05.2024, _H Motta, JCV Reuwsaat, FC Lopes, G Viezzer, FCZ Volpato, AL Barth, P de Tarso Roth Dalcin, CC Staats, MH Vainstein, L Kmetzsch_
+## Periodontopathogen-Related Cell Autophagy-A Double-Edged Sword.
+ 19.05.2024, _L Ma, Z Cao_
 
 
-_Humans, Bronchiectasis, Cystic Fibrosis, Male, Female, Microbiota, Adult, Middle Aged, Sputum, Young Adult, Cohort Studies, Aged_
-Bronchiectasis is a condition characterized by abnormal and irreversible bronchial dilation resulting from lung tissue damage and can be categorized into two main groups: cystic fibrosis (CF) and non-CF bronchiectasis (NCFB). Both diseases are marked by recurrent infections, inflammatory exacerbations, and lung damage. Given that infections are the primary drivers of disease progression, characterization of the respiratory microbiome can shed light on compositional alterations and susceptibility to antimicrobial drugs in these cases compared to healthy individuals.
+The periodontium is a highly organized ecosystem, and the imbalance between oral microorganisms and host defense leads to periodontal diseases. The periodontal pathogens, mainly Gram-negative anaerobic bacteria, colonize the periodontal niches or enter the blood circulation, resulting in periodontal tissue destruction and distal organ damage. This phenomenon links periodontitis with various systemic conditions, including cardiovascular diseases, malignant tumors, steatohepatitis, and Alzheimer's disease. Autophagy is an evolutionarily conserved cellular self-degradation process essential for eliminating internalized pathogens. Nowadays, increasing studies have been carried out in cells derived from periodontal tissues, immune system, and distant organs to investigate the relationship between periodontal pathogen infection and autophagy-related activities. On one hand, as a vital part of innate and adaptive immunity, autophagy actively participates in host resistance to periodontal bacterial infection. On the other, certain periodontal pathogens exploit autophagic vesicles or pathways to evade immune surveillance, therefore achieving survival within host cells. This review provides an overview of the autophagy process and focuses on periodontopathogen-related autophagy and their involvements in cells of different tissue origins, so as to comprehensively understand the role of autophagy in the occurrence and development of periodontal diseases and various periodontitis-associated systemic illnesses.
 
 [Source](https://doi.org/10.1111/1462-2920.16631)
 
-10.1186/s12931-024-02835-w
+10.1007/s10753-024-02049-8
 
 ---
 
