@@ -1,274 +1,198 @@
-##  the latest digest (May 15, 2024) by Grace Deitzler
-
-[Source](https://microbiomedigest.com/2024/05/15/may-15-2024/)
-
----
-
-## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
- 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
+## Genetic association between gut microbiome and blood pressure and blood cell count as mediator: A two-step Mendelian randomization analysis.
+ 18.05.2024, _J Zhang, J He, Y Liao, X Xia, F Yang_
 
 
-_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
-This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
+Previous studies have established a genetic link between gut microbiota and hypertension, but whether blood cell count plays a mediating role in this remains unknown. This study aims to explore genetic associations and causal factors involving the gut microbiome, peripheral blood cell count, and blood pressure.
 
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1016/j.gene.2024.148573)
 
-10.3390/ijerph19010099
+10.1016/j.gene.2024.148573
 
 ---
 
-## #MVIF
+## Characterization of the gut microbiota in polycystic ovary syndrome with dyslipidemia.
+ 17.05.2024, _T Yang, G Li, Y Xu, X He, B Song, Y Cao_
 
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
 
----
+_Humans, Polycystic Ovary Syndrome, Female, Gastrointestinal Microbiome, Dyslipidemias, Adult, Dysbiosis, Bacteria, RNA, Ribosomal, 16S, Young Adult, Feces_
+Polycystic ovary syndrome (PCOS) is an endocrinopathy in childbearing-age females which can cause many complications, such as diabetes, obesity, and dyslipidemia. The metabolic disorders in patients with PCOS were linked to gut microbial dysbiosis. However, the correlation between the gut microbial community and dyslipidemia in PCOS remains unillustrated. Our study elucidated the different gut microbiota in patients with PCOS and dyslipidemia (PCOS.D) compared to those with only PCOS and healthy women.
 
-## https://t.co/exR4ZE9zMd
+[Source](https://doi.org/10.1186/s12866-024-03329-x)
 
-[Source](https://t.co/exR4ZE9zMd)
-
----
-
-## https://t.co/BHf95DIxag
-
-[Source](https://t.co/BHf95DIxag)
+10.1186/s12866-024-03329-x
 
 ---
 
-## pic.twitter.com/WukaElLGRJ
+## Environmental Factors Associated with Risk of Crohn’s Disease Development in the CCC-GEM Project
 
-[Source](https://t.co/WukaElLGRJ)
-
----
-
-## May 10, 2024
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1788857768633417825?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1016/j.cgh.2024.03.049)
 
 ---
 
-## Intraspecies warfare restricts strain coexistence in human skin microbiomes 
+## Cohort profile of an early life observational cohort in China: Bone and MicroBiOme onset (BAMBOO) study
 
-[Source](https://www.biorxiv.org/content/10.1101/2024.05.07.592803v1)
-
----
-
-## Oral microbiota of patients with phenylketonuria: A nation-based cross-sectional study 
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/jcpe.13998)
+[Source](https://doi.org/10.1136/bmjopen-2023-075417)
 
 ---
 
-## Microbroth dilution method for antibiotic susceptibility testing of fastidious and anaerobic bacteria of the urinary microbiome
+## Framework for exploring the sensory repertoire of the human gut microbiota
 
-[Source](https://journals.asm.org/doi/10.1128/spectrum.00314-24)
-
----
-
-## Meta-analysis of the human upper respiratory tract microbiome reveals robust taxonomic associations with health and disease
-
-[Source](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-01887-0)
+[Source](https://doi.org/10.1128/mbio.01039-24)
 
 ---
 
-## Microbial community structure of plant-based meat alternatives
+## Metformin-induced changes of the gut microbiota in patients with type 2 diabetes mellitus: results from a prospective cohort study
 
-[Source](https://www.nature.com/articles/s41538-024-00269-8)
-
----
-
-## Functional team selection: a framework for local adaptation in plants and their belowground microbiomes 
-
-[Source](https://ecoevorxiv.org/repository/view/6944/)
+[Source](https://doi.org/10.1007/s12020-024-03828-x)
 
 ---
 
-## @ecoevorxiv
+## Host-microbiota interaction in intestinal stem cell homeostasis
 
-[Source](https://twitter.com/ecoevorxiv?ref_src=twsrc%5Etfw)
-
----
-
-## Praziquantel-related visual disorders among recipients in mass drug administration campaigns in schistosomiasis endemic settings: Systematic review and meta-analysis protocol.
- 17.05.2024, _A Danso-Appiah, D Owiredu, KO Akuffo_
-
-
-_Humans, Schistosomiasis, Praziquantel, Vision Disorders, Systematic Reviews as Topic, Mass Drug Administration, Meta-Analysis as Topic, Endemic Diseases, Anthelmintics_
-Hundreds of millions of doses of Praziquantel (PZQ) have been administered to persons with and without schistosomiasis living in schistosomiasis endemic settings, through the mass drug administration (MDA) strategy which started in the early 2000s. A recent publication suggested high risk of PZQ-related visual disorders, raising public health concerns. We aim to systematically synthesize evidence on the magnitude of PZQ-related visual disorders.
-
-[Source](https://twitter.com/hashtag/preprint?src=hash&ref_src=twsrc%5Etfw)
-
-10.1371/journal.pone.0300384
+[Source](https://doi.org/10.1080/19490976.2024.2353399)
 
 ---
 
-## #preprint
-
-[Source](https://twitter.com/hashtag/preprint?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## #NancyCollinsJohnson
-
-[Source](https://twitter.com/hashtag/NancyCollinsJohnson?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Biochar is colonized by select arbuscular mycorrhizal fungi in agricultural soils.
- 17.05.2024, _P Neuberger, C Romero, K Kim, X Hao, T A McAllister, S Ngo, C Li, MA Gorzelak_
+## Gut dysbiosis and neurological modalities: An engineering approach via proteomic analysis of gut-brain axis.
+ 18.05.2024, _M Kandpal, N Varshney, KS Rawal, HC Jha_
 
 
-Arbuscular mycorrhizal fungi (AMF) colonize biochar in soils, yet the processes governing their colonization and growth in biochar are not well characterized. Biochar amendment improves soil health by increasing soil carbon, decreasing bulk density, and improving soil water retention, all of which can increase yield and alleviate environmental stress on crops. Biochar is often applied with nutrient addition, impacting mycorrhizal communities. To understand how mycorrhizas explore soils containing biochar, we buried packets of non-activated biochar in root exclusion mesh bags in contrasting agricultural soils. In this greenhouse experiment, with quinoa (Chenopodium quinoa) as the host plant, we tested impacts of mineral nutrient (as manure and fertilizer) and biochar addition on mycorrhizal colonization of biochar. Paraglomus appeared to dominate the biochar packets, and the community of AMF found in the biochar was a subset (12 of 18) of the virtual taxa detected in soil communities. We saw differences in AMF community composition between soils with different edaphic properties, and while nutrient addition shifted those communities, the shifts were inconsistent between soil types and did not significantly influence the observation that Paraglomus appeared to selectively colonize biochar. This observation may reflect differences in AMF traits, with Paraglomus previously identified only in soils (not in roots) pointing to predominately soil exploratory traits. Conversely, the absence of some AMF from the biochar implies either a reduced tendency to explore soils or an ability to avoid recalcitrant nutrient sources. Our results point to a selective colonization of biochar in agricultural soils.
+_Humans, Proteomics, Dysbiosis, Gastrointestinal Microbiome, Nervous System Diseases, Animals, Brain-Gut Axis, Biomarkers_
+The human gut microbiota is a complex and dynamic community of microorganisms, that influence metabolic, neurodevelopmental, and immune pathways. Microbial dysbiosis, characterized by changes in microbial diversity and relative abundances, is implicated in the development of various chronic neurological and neurodegenerative disorders. These disorders are marked by the accumulation of pathological protein aggregates, leading to the progressive loss of neurons and behavioural functions. Dysregulations in protein-protein interaction networks and signalling complexes, critical for normal brain function, are common in neurological disorders but challenging to unravel, particularly at the neuron and synapse-specific levels. To advance therapeutic strategies, a deeper understanding of neuropathogenesis, especially during the progressive disease phase, is needed. Biomarkers play a crucial role in identifying disease pathophysiology and monitoring disease progression. Proteomics, a powerful technology, shows promise in accelerating biomarker discovery and aiding in the development of novel treatments. In this chapter, we provide an in-depth overview of how proteomic techniques, utilizing various biofluid samples from patients with neurological conditions and diverse animal models, have contributed valuable insights into the pathogenesis of numerous neurological disorders. We also discuss the current state of research, potential challenges, and future directions in proteomic approaches to unravel neuro-pathological conditions.
 
-[Source](https://twitter.com/hashtag/AMF?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1016/bs.apcsb.2024.02.001)
 
-10.1007/s00572-024-01149-5
+10.1016/bs.apcsb.2024.02.001
 
 ---
 
-## #AMF
+## Comparative microbiome analysis in cystic fibrosis and non-cystic fibrosis bronchiectasis.
+ 18.05.2024, _H Motta, JCV Reuwsaat, FC Lopes, G Viezzer, FCZ Volpato, AL Barth, P de Tarso Roth Dalcin, CC Staats, MH Vainstein, L Kmetzsch_
 
-[Source](https://twitter.com/hashtag/AMF?src=hash&ref_src=twsrc%5Etfw)
 
----
+_Humans, Bronchiectasis, Cystic Fibrosis, Male, Female, Microbiota, Adult, Middle Aged, Sputum, Young Adult, Cohort Studies, Aged_
+Bronchiectasis is a condition characterized by abnormal and irreversible bronchial dilation resulting from lung tissue damage and can be categorized into two main groups: cystic fibrosis (CF) and non-CF bronchiectasis (NCFB). Both diseases are marked by recurrent infections, inflammatory exacerbations, and lung damage. Given that infections are the primary drivers of disease progression, characterization of the respiratory microbiome can shed light on compositional alterations and susceptibility to antimicrobial drugs in these cases compared to healthy individuals.
 
-## https://t.co/FVxmkE92e6
+[Source](https://doi.org/10.1186/s12931-024-02835-w)
 
-[Source](https://t.co/FVxmkE92e6)
-
----
-
-## pic.twitter.com/bY6EsOA3Ub
-
-[Source](https://t.co/bY6EsOA3Ub)
+10.1186/s12931-024-02835-w
 
 ---
 
-## May 14, 2024
+## Indole-3-Acetic Acid Protects Against Lipopolysaccharide-induced Endothelial Cell Dysfunction and Lung Injury through the Activation of USP40
 
-[Source](https://twitter.com/cesarmarin203/status/1790524173531693321?ref_src=twsrc%5Etfw)
-
----
-
-## Life on the edge: microbial diversity, resistome, and virulome in soils from the Union Glacier cold desert 
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.05.13.594038v1)
+[Source](https://doi.org/10.1165/rcmb.2024-0159OC)
 
 ---
 
-## Microbiota of healthy dogs demonstrate a significant decrease in richness and changes in specific bacterial groups in response to supplementation with resistant starch, but not psyllium or methylcellulose, in a randomized cross-over trial 
-
-[Source](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.0.000774.v4)
-
----
-
-## Early-life factors shaping the gut microbiota of Common buzzard nestlings.
- 16.05.2024, _H Pereira, N Chakarov, JI Hoffman, T Rinaud, M Ottensmann, KP Gladow, B Tobias, BA Caspers, Ö Maraci, O Krüger_
+## Quantitative analysis of the effects of brushing, flossing, and mouthrinsing on supragingival and subgingival plaque microbiota: 12-week clinical trial.
+ 17.05.2024, _K Min, ML Bosma, G John, JA McGuire, A DelSasso, J Milleman, KR Milleman_
 
 
-Exploring the dynamics of gut microbiome colonisation during early-life stages is important for understanding the potential impact of microbes on host development and fitness. Evidence from model organisms suggests a crucial early-life phase when shifts in gut microbiota can lead to immune dysregulation and reduced host condition. However, our understanding of gut microbiota colonisation in long-lived vertebrates, especially during early development, remains limited. We therefore used a wild population of common buzzard nestlings (Buteo buteo) to investigate connections between the early-life gut microbiota colonisation, environmental and host factors.
+_Humans, Dental Plaque, Gingivitis, Mouthwashes, Female, Microbiota, Adult, Toothbrushing, Male, Dental Devices, Home Care, Single-Blind Method, Middle Aged, Salicylates, Drug Combinations, Terpenes, Bacterial Load, Anti-Infective Agents, Local, Young Adult_
+Translational microbiome research using next-generation DNA sequencing is challenging due to the semi-qualitative nature of relative abundance data. A novel method for quantitative analysis was applied in this 12-week clinical trial to understand the mechanical vs. chemotherapeutic actions of brushing, flossing, and mouthrinsing against the supragingival dental plaque microbiome. Enumeration of viable bacteria using vPCR was also applied on supragingival plaque for validation and on subgingival plaque to evaluate interventional effects below the gingival margin.
 
-[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00313-8)
+[Source](https://doi.org/10.1186/s12903-024-04362-y)
 
-10.1186/s42523-024-00313-8
+10.1186/s12903-024-04362-y
 
 ---
 
-## 13C-Stable isotope resolved metabolomics uncovers dynamic biochemical landscape of gut microbiome-host organ communications in mice
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01808-x)
-
----
-
-## Metagenomics datasets of water and sediments from eutrophication-impacted artificial lakes in South Africa.
- 09.05.2024, _GN Ijoma, HJO Ogola, P Pillay, KA Tshisekedi, M Tekere_
+## Exploring the skin microbiome in atopic dermatitis pathogenesis and disease modification.
+ 18.05.2024, _C Hülpüsch, R Rohayem, M Reiger, C Traidl-Hoffmann_
 
 
-_Lakes, Eutrophication, Geologic Sediments, South Africa, Metagenomics, Metagenome, Bacteria, Phylogeny, Water Microbiology_
-We present metagenomes of 16 samples of water and sediment from two lakes, collected from eutrophic and non-eutrophic areas, including pooled samples enriched with phosphate and nitrate. Additionally, we assembled 167 bacterial metagenome-assembled genomes (MAGs). These MAGs were de-replicated into 83 unique genomes representing different species found in the lakes. All the MAGs exhibited &gt;70% completeness and &lt;10% contamination, with 79 MAGs being classified as 'nearly complete' (completeness &gt;90%), while 54 falling within 80-90% range and 34 between 75-80% complete. The most abundant MAGs identified across all samples were Proteobacteria (n = 80), Firmicutes_A (n = 35), Firmicutes (n = 13), and Bacteriodota (n = 22). Other groups included Desulfobacteria_I (n = 2), Verrucomicrobiota (n = 4), Campylobacterota (n = 4) and Actinobacteriota (n = 6). Importantly, phylogenomic analysis identified that approximately 50.3% of the MAGs could not be classified to known species, suggesting the presence of potentially new and unknown bacteria in these lakes, warranting further in-depth investigation. This study provides valuable new dataset on the diverse and often unique microbial communities living in polluted lakes, useful in developing effective strategies to manage pollution.
+Inflammatory skin diseases, like atopic eczema (atopic dermatitis, AD), affect children and adults globally. In AD, the skin barrier is impaired on multiple levels. Underlying factors include genetic, chemical, immunological, and microbial components. Increased skin pH in AD is part of the altered microbial microenvironment that promotes overgrowth of the skin microbiome with Staphylococcus aureus (S. aureus). The secretion of virulence factors, like toxins and proteases, by S. aureus further aggravates the skin barrier deficiency and additionally off-balances the already skewed immune response. Skin commensal bacteria, however, can inhibit the growth and pathogenicity of S. aureus through quorum sensing systems. Therefore, restoring a healthy skin microbiome could contribute to remission induction in AD. This review discusses direct and indirect approaches to targeting the skin microbiome through modulation of the skin pH, UV treatment, and pre-, pro-, and postbiotics. Furthermore, exploratory techniques like skin microbiome transplantation, ozone therapy, and phage therapy are discussed. Finally, we summarize the latest findings on disease and microbiome modification through targeted immunomodulatory, systemic treatments and biologicals. We believe that targeting the skin microbiome should be considered a crucial component of successful AD treatment in the future.
 
-[Source](https://www.nature.com/articles/s41597-024-03286-0)
+[Source](https://doi.org/10.1016/j.jaci.2024.04.029)
 
-10.1038/s41597-024-03286-0
+10.1016/j.jaci.2024.04.029
 
 ---
 
-## Fairy: fast approximate coverage for multi-sample metagenomic binning
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.04.23.590803v1)
-
----
-
-## Metagenomic binning through low-density hashing.
- 06.03.2020, _Y Luo, YW Yu, J Zeng, B Berger, J Peng_
+## Isobutyric acid enhances the anti-tumour effect of anti-PD-1 antibody.
+ 17.05.2024, _M Murayama, M Hosonuma, A Kuramasu, S Kobayashi, A Sasaki, Y Baba, Y Narikawa, H Toyoda, J Isobe, E Funayama, K Tajima, A Sasaki, Y Maruyama, Y Yamazaki, M Shida, K Hamada, Y Hirasawa, T Tsurui, H Ariizumi, T Ishiguro, R Suzuki, R Ohkuma, Y Kubota, A Horiike, T Sambe, M Tsuji, S Wada, S Kobayashi, T Shimane, T Tsunoda, H Kobayashi, Y Kiuchi, K Yoshimura_
 
 
-_Algorithms, Computational Biology, Genome, Microbial, Metagenomics, Sequence Analysis, DNA, Software_
-Vastly greater quantities of microbial genome data are being generated where environmental samples mix together the DNA from many different species. Here, we present Opal for metagenomic binning, the task of identifying the origin species of DNA sequencing reads. We introduce 'low-density' locality sensitive hashing to bioinformatics, with the addition of Gallager codes for even coverage, enabling quick and accurate metagenomic binning.
+_Animals, Mice, Humans, Programmed Cell Death 1 Receptor, Immune Checkpoint Inhibitors, Tumor Microenvironment, Cell Line, Tumor, Female, Gastrointestinal Microbiome, Immunotherapy, Neoplasms, Fatty Acids, Volatile, Drug Synergism_
+The low response rate of immune checkpoint inhibitors (ICIs) is a challenge. The efficacy of ICIs is influenced by the tumour microenvironment, which is controlled by the gut microbiota. In particular, intestinal bacteria and their metabolites, such as short chain fatty acids (SCFAs), are important regulators of cancer immunity; however, our knowledge on the effects of individual SCFAs remains limited. Here, we show that isobutyric acid has the strongest effect among SCFAs on both immune activity and tumour growth. In vitro, cancer cell numbers were suppressed by approximately 75% in humans and mice compared with those in controls. Oral administration of isobutyric acid to carcinoma-bearing mice enhanced the effect of anti-PD-1 immunotherapy, reducing tumour volume by approximately 80% and 60% compared with those in the control group and anti-PD-1 antibody alone group, respectively. Taken together, these findings may support the development of novel cancer therapies that can improve the response rate to ICIs.
 
-[Source](https://twitter.com/YunWilliamYu?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1038/s41598-024-59677-1)
 
-10.1093/bioinformatics/bty611
+10.1038/s41598-024-59677-1
 
 ---
 
-## @YunWilliamYu
+## Effects of fructooligosaccharides and <em>Saccharomyces boulardii </em>on the compositional structure and metabolism of gut microbiota in students
 
-[Source](https://twitter.com/YunWilliamYu?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/JN4a0bHwVH
-
-[Source](https://t.co/JN4a0bHwVH)
+[Source](https://doi.org/10.1016/j.micres.2024.127741)
 
 ---
 
-## https://t.co/PrGLy8LOlT
+## Urolithin A’s Role in Alleviating Severe Acute Pancreatitis via Endoplasmic Reticulum-Mitochondrial Calcium Channel Modulation
 
-[Source](https://t.co/PrGLy8LOlT)
-
----
-
-## May 7, 2024
-
-[Source](https://twitter.com/jim_elevator/status/1787899822206234681?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1021/acsnano.4c03044)
 
 ---
 
-## Highly accurate metagenome-assembled genomes from human gut microbiota using long-read assembly, binning, and consolidation methods
+## Oral microbiota transplantation for intra-oral halitosis: a feasibility analysis based on an oral microbiota colonization trial in Wistar rats
 
-[Source](https://www.biorxiv.org/content/10.1101/2024.05.10.593587v1)
-
----
-
-## Using short-read 16S rRNA sequencing of multiple variable regions to generate high-quality results to a species level
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.05.13.591068v1)
+[Source](https://doi.org/10.1186/s12866-024-03322-4)
 
 ---
 
-## Full factorial construction of synthetic microbial communities
+## NOD2 contributes to <em>Parvimonas micra</em>-induced bone resorption in diabetic rats with experimental periodontitis
 
-[Source](https://www.biorxiv.org/content/10.1101/2024.05.03.592148v1)
-
----
-
-## ARGNet: using deep neural networks for robust identification and classification of antibiotic resistance genes from sequences
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01805-0)
+[Source](https://doi.org/10.1111/omi.12467)
 
 ---
 
-## https://t.co/EgsZnMaMpR
+## Microbiome depletion and recovery in the sea anemone, <em>Exaiptasia diaphana</em>, following antibiotic exposure
 
-[Source](https://t.co/EgsZnMaMpR)
+[Source](https://doi.org/10.1128/msystems.01342-23)
 
 ---
 
-## May 10, 2024
+## Giant viral signatures on the Greenland ice sheet
 
-[Source](https://twitter.com/phylogeo/status/1788766514814071159?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1186/s40168-024-01796-y)
+
+---
+
+## Photosynthetic carbon allocation in native and invasive salt marshes undergoing hydrological change: A mesocosm experiment
+
+[Source](https://doi.org/10.1016/j.scitotenv.2024.173232)
+
+---
+
+## Ibuprofen degradation by mixed bacterial consortia: metabolic pathway and microbial community analysis
+
+[Source](https://doi.org/10.1016/j.chemosphere.2024.142354)
+
+---
+
+## Examining the impacts of salt specificity on freshwater microbial community and functional potential following salinization
+
+[Source](https://doi.org/10.1111/1462-2920.16628)
+
+---
+
+## Comparative microbiome analysis in cystic fibrosis and non-cystic fibrosis bronchiectasis.
+ 18.05.2024, _H Motta, JCV Reuwsaat, FC Lopes, G Viezzer, FCZ Volpato, AL Barth, P de Tarso Roth Dalcin, CC Staats, MH Vainstein, L Kmetzsch_
+
+
+_Humans, Bronchiectasis, Cystic Fibrosis, Male, Female, Microbiota, Adult, Middle Aged, Sputum, Young Adult, Cohort Studies, Aged_
+Bronchiectasis is a condition characterized by abnormal and irreversible bronchial dilation resulting from lung tissue damage and can be categorized into two main groups: cystic fibrosis (CF) and non-CF bronchiectasis (NCFB). Both diseases are marked by recurrent infections, inflammatory exacerbations, and lung damage. Given that infections are the primary drivers of disease progression, characterization of the respiratory microbiome can shed light on compositional alterations and susceptibility to antimicrobial drugs in these cases compared to healthy individuals.
+
+[Source](https://doi.org/10.1111/1462-2920.16631)
+
+10.1186/s12931-024-02835-w
+
+---
+
+## Habitat conditions and not moss composition mediate microbial community structure in Swiss peatlands
+
+[Source](https://doi.org/10.1111/1462-2920.16631)
 
 ---
 
