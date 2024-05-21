@@ -47,15 +47,29 @@ Polycystic ovary syndrome (PCOS) is an endocrinopathy in childbearing-age female
 
 ---
 
-## Host-microbiota interaction in intestinal stem cell homeostasis
+## Host-microbiota interaction in intestinal stem cell homeostasis.
+ 20.05.2024, _H Wu, C Mu, L Xu, K Yu, L Shen, W Zhu_
+
+
+_Humans, Homeostasis, Gastrointestinal Microbiome, Host Microbial Interactions, Stem Cells, Animals, Intestinal Mucosa, Intestines, Bacteria_
+Intestinal stem cells (ISCs) play a pivotal role in gut physiology by governing intestinal epithelium renewal through the precise regulation of proliferation and differentiation. The gut microbiota interacts closely with the epithelium through myriad of actions, including immune and metabolic interactions, which translate into tight connections between microbial activity and ISC function. Given the diverse functions of the gut microbiota in affecting the metabolism of macronutrients and micronutrients, dietary nutrients exert pronounced effects on host-microbiota interactions and, consequently, the ISC fate. Therefore, understanding the intricate host-microbiota interaction in regulating ISC homeostasis is imperative for improving gut health. Here, we review recent advances in understanding host-microbiota immune and metabolic interactions that shape ISC function, such as the role of pattern-recognition receptors and microbial metabolites, including lactate and indole metabolites. Additionally, the diverse regulatory effects of the microbiota on dietary nutrients, including proteins, carbohydrates, vitamins, and minerals (e.g. iron and zinc), are thoroughly explored in relation to their impact on ISCs. Thus, we highlight the multifaceted mechanisms governing host-microbiota interactions in ISC homeostasis. Insights gained from this review provide strategies for the development of dietary or microbiota-based interventions to foster gut health.
 
 [Source](https://doi.org/10.1080/19490976.2024.2353399)
 
+10.1080/19490976.2024.2353399
+
 ---
 
-## Gut dysbiosis and neurological modalities: An engineering approach via proteomic analysis of gut-brain axis
+## Gut dysbiosis and neurological modalities: An engineering approach via proteomic analysis of gut-brain axis.
+ 18.05.2024, _M Kandpal, N Varshney, KS Rawal, HC Jha_
+
+
+_Humans, Proteomics, Dysbiosis, Gastrointestinal Microbiome, Nervous System Diseases, Animals, Brain-Gut Axis, Biomarkers_
+The human gut microbiota is a complex and dynamic community of microorganisms, that influence metabolic, neurodevelopmental, and immune pathways. Microbial dysbiosis, characterized by changes in microbial diversity and relative abundances, is implicated in the development of various chronic neurological and neurodegenerative disorders. These disorders are marked by the accumulation of pathological protein aggregates, leading to the progressive loss of neurons and behavioural functions. Dysregulations in protein-protein interaction networks and signalling complexes, critical for normal brain function, are common in neurological disorders but challenging to unravel, particularly at the neuron and synapse-specific levels. To advance therapeutic strategies, a deeper understanding of neuropathogenesis, especially during the progressive disease phase, is needed. Biomarkers play a crucial role in identifying disease pathophysiology and monitoring disease progression. Proteomics, a powerful technology, shows promise in accelerating biomarker discovery and aiding in the development of novel treatments. In this chapter, we provide an in-depth overview of how proteomic techniques, utilizing various biofluid samples from patients with neurological conditions and diverse animal models, have contributed valuable insights into the pathogenesis of numerous neurological disorders. We also discuss the current state of research, potential challenges, and future directions in proteomic approaches to unravel neuro-pathological conditions.
 
 [Source](https://doi.org/10.1016/bs.apcsb.2024.02.001)
+
+10.1016/bs.apcsb.2024.02.001
 
 ---
 
@@ -72,9 +86,15 @@ Bronchiectasis is a condition characterized by abnormal and irreversible bronchi
 
 ---
 
-## Indole-3-Acetic Acid Protects Against Lipopolysaccharide-induced Endothelial Cell Dysfunction and Lung Injury through the Activation of USP40
+## Indole-3-Acetic Acid Protects Against Lipopolysaccharide-induced Endothelial Cell Dysfunction and Lung Injury through the Activation of USP40.
+ 18.05.2024, _N Shaheen, J Miao, D Li, B Xia, B Baoyinna, Y Zhao, J Zhao_
+
+
+Lung microvascular endothelial cell (EC) dysfunction is the pathological hallmark of acute respiratory distress syndrome (ARDS). Heat shock protein 90 (HSP90) is a key regulator in control of endothelial barrier disruption and inflammation. Our recent study has demonstrated that ubiquitin-specific peptidase 40 (USP40) preserves endothelial integrity by targeting HSP90 for its deubiquitination and inactivation. Indole-3-acetic acid (IAA), a plant hormone of the auxin class, can also be catabolized from dietary tryptophan by the intestinal microbiota. Accumulating evidence suggests that IAA reduces oxidative stress and inflammation, and promotes intestinal barrier function. However, little is known about the role of IAA in endothelial cells and acute lung injury. In this study, we investigated the role of IAA in lung endothelial cell function in the context of acute lung injury. IAA exhibited EC barrier protection against LPS-induced reduction in transendothelial electrical resistance (TEER) and inflammatory responses. The underlying mechanism of IAA on EC protective effects were investigated by examining the influence of IAA on levels of HSP90 ubiquitination and USP40 activity. We identified that IAA, acting as a potential activator of USP40, reduces HSP90 ubiquitination, thereby protecting against LPS-induced inflammation in human lung microvascular endothelial cell (HLMVECs) as well as alleviating experimental lung injury. Furthermore, the EC protective effects of IAA against LPS-induced EC dysfunction and lung injury were abolished in USP40 deficient HLMVECs and lungs of USP40 EC specific knockout (USP40cdh5-ECKO) mice. Taken together, this study reveals that IAA protects against LPS-induced EC dysfunction and lung injury through the activation of USP40.
 
 [Source](https://doi.org/10.1165/rcmb.2024-0159OC)
+
+10.1165/rcmb.2024-0159OC
 
 ---
 
@@ -146,9 +166,16 @@ The low response rate of immune checkpoint inhibitors (ICIs) is a challenge. The
 
 ---
 
-## Giant viral signatures on the Greenland ice sheet
+## Giant viral signatures on the Greenland ice sheet.
+ 20.05.2024, _L Perini, K Sipes, A Zervas, C Bellas, S Lutz, M Moniruzzaman, R Mourot, LG Benning, M Tranter, AM Anesio_
+
+
+_Ice Cover, Greenland, Giant Viruses, Phylogeny, Ecosystem, Genome, Viral, Metagenomics, Chlorophyta, Metagenome, Snow_
+Dark pigmented snow and glacier ice algae on glaciers and ice sheets contribute to accelerating melt. The biological controls on these algae, particularly the role of viruses, remain poorly understood. Giant viruses, classified under the nucleocytoplasmic large DNA viruses (NCLDV) supergroup (phylum Nucleocytoviricota), are diverse and globally distributed. NCLDVs are known to infect eukaryotic cells in marine and freshwater environments, providing a biological control on the algal population in these ecosystems. However, there is very limited information on the diversity and ecosystem function of NCLDVs in terrestrial icy habitats.
 
 [Source](https://doi.org/10.1186/s40168-024-01796-y)
+
+10.1186/s40168-024-01796-y
 
 ---
 
@@ -183,16 +210,15 @@ The degradation of freshwater systems by salt pollution is a threat to global fr
 
 ---
 
-## Gut health benefits and associated systemic effects provided by functional components from the fermentation of natural matrices.
- 20.05.2024, _R Colucci Cante, F Nigro, F Passannanti, G Lentini, M Gallo, R Nigro, AL Budelli_
+## Trophic transfer, bioaccumulation and translocation of microplastics in an international listed wetland on the Montreux record.
+ 20.05.2024, _M Saemi-Komsari, HR Esmaeili, B Keshavarzi, R Busquets, K Abbasi, FA Birami, A Masoumi_
 
 
-_Fermentation, Gastrointestinal Microbiome, Humans, Fermented Foods, Dietary Fiber_
-Recently, the role of the gut microbiota in metabolic health, immunity, behavioral balance, longevity, and intestine comfort has been the object of several studies from scientific communities. They were encouraged by a growing interest from food industries and consumers toward novel fermented ingredients and formulations with powerful biological effects, such as pre, pro, and postbiotic products. Depending on the selected strains, the operating conditions, the addition of suitable reagents or enzymes, the equipment, and the reactor configurations, functional compounds with high bioactivity, such as short-chain fatty acids, gamma-aminobutyric acid, bioactive peptides, and serotonin, can be enhanced and/or produced through fermentation of several vegetable matrices. Otherwise, their formation can also be promoted directly in the gut after the dietary intake of fermented foods: In this case, fermentation will aim to increase the content of precursor substances, such as indigestible fibers, polyphenols, some amino acids, and resistant starch, which can be potentially metabolized by endogenous gut microorganisms and converted in healthy molecules. This review provides an overview of the main functional components currently investigated in literature and the associated gut health benefits. The current state of the art about fermentation technology as a promising functionalization tool to promote the direct or indirect formation of gut-health-enhancing components was deepened, highlighting the importance of optimizing microorganism selection, system setups, and process conditions according to the target compound of interest. The collected data suggested the possibility of gaining novel functional food ingredients or products rich in functional molecules through fermentation without performing additional extraction and purification stages, which are needed when conventional culture broths are used.
+Microplastics (MPs) are concerning emerging pollutants. Here, MPs in four edible aquatic species of different trophic levels (between ∼2-4), including fish species Esox lucius (Esocidae: Esocinae); Cyprinus carpio (Cyprinidae: Cyprininae); and Luciobarbus caspius (Cyprinidae: Barbinae); and the swan mussel Anodonta cygnea (Unionidae), were assessed in the Anzali freshwater ecosystem. It is a listed wetland in the Montreux record. MPs were extracted from gastrointestinal tracts (GI), gills, muscles, and skin. All the studied fish and mussels (n = 33) had MPs. MP fibres, fragments and sheets were detected in every GI examined, however, fibres were the only type of MPs in skins, muscles and gills and were the most abundant MP. The MPs found in the fish and mussels were mainly made of nylon (35% of the total MPs), polypropylene-low density polyethylene (30%), and polycarbonate (25%). The average numbers of MPs found in every fish specimen, expressed per wet body mass, had a moderate negative correlation with the condition factor (K) (MP/g - K: Pearson correlation r= -0.413, p = 0.049), and there was no significant relation with the growth factor (b) (r = -0.376; p = 0.068). Importantly, Luciobarbus caspius (with trophic level 2.7-2.8) bioaccumulated MPs and presented a strong correlation between their MP contamination and age (r = 0.916 p &lt; 0.05). Greater gill mass (or related factors) played an important role in the accumulation of MPs, and there was a strong correlation between these factors for Esox lucius and Cyprinus carpio (r = 0.876; r = 0.846; p &lt; 0.05 respectively). The highest MP/g gills (1.91±2.65) were in the filter feeder Anodonta cygnea inhabiting the benthic zone. Esox lucius (piscivorous, trophic level 4.1) was the most contaminated species overall (a total of 83 MPs in 8 individuals, with 0.92 MPs/g fish), and their gills where MPs mainly accumulated. Cyprinus carpio was the most contaminated specimen (MPs in specimens), while the number of MPs per mass unit increased with the trophic level. Their feeding and ecological behavior in the aquatic habitat affected the level of accumulation. This work includes evidence of translocation of MPs within the aquatic organisms.
 
 [Source](https://doi.org/10.1111/1462-2920.16631)
 
-10.1111/1541-4337.13356
+10.1016/j.envres.2024.119172
 
 ---
 
