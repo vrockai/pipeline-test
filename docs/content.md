@@ -35,15 +35,27 @@ Polycystic ovary syndrome (PCOS) is an endocrinopathy in childbearing-age female
 
 ---
 
-## Framework for exploring the sensory repertoire of the human gut microbiota
+## Framework for exploring the sensory repertoire of the human gut microbiota.
+ 17.05.2024, _PA Ross, W Xu, E Jalomo-Khayrova, G Bange, VM Gumerov, PH Bradley, V Sourjik, IB Zhulin_
+
+
+Bacteria sense changes in their environment and transduce signals to adjust their cellular functions accordingly. For this purpose, bacteria employ various sensors feeding into multiple signal transduction pathways. Signal recognition by bacterial sensors is studied mainly in a few model organisms, but advances in genome sequencing and analysis offer new ways of exploring the sensory repertoire of many understudied organisms. The human gut is a natural target of this line of study: it is a nutrient-rich and dynamic environment and is home to thousands of bacterial species whose activities impact human health. Many gut commensals are also poorly studied compared to model organisms and are mainly known through their genome sequences. To begin exploring the signals human gut commensals sense and respond to, we have designed a framework that enables the identification of sensory domains, prediction of signals that they recognize, and experimental verification of these predictions. We validate this framework's functionality by systematically identifying amino acid sensors in selected bacterial genomes and metagenomes, characterizing their amino acid binding properties, and demonstrating their signal transduction potential.IMPORTANCESignal transduction is a central process governing how bacteria sense and respond to their environment. The human gut is a complex environment with many living organisms and fluctuating streams of nutrients. One gut inhabitant, Escherichia coli, is a model organism for studying signal transduction. However, E. coli is not representative of most gut microbes, and signaling pathways in the thousands of other organisms comprising the human gut microbiota remain poorly understood. This work provides a foundation for how to explore signals recognized by these organisms.
 
 [Source](https://doi.org/10.1128/mbio.01039-24)
 
+10.1128/mbio.01039-24
+
 ---
 
-## Metformin-induced changes of the gut microbiota in patients with type 2 diabetes mellitus: results from a prospective cohort study
+## Metformin-induced changes of the gut microbiota in patients with type 2 diabetes mellitus: results from a prospective cohort study.
+ 18.05.2024, _Y Gao, T Zhao, N Lv, S Liu, T Yuan, Y Fu, W Zhao, B Zhu_
+
+
+The influence of the microbiota on hypoglycemic agents is becoming more apparent. The effects of metformin, a primary anti-diabetes drug, on gut microbiota are still not fully understood.
 
 [Source](https://doi.org/10.1007/s12020-024-03828-x)
+
+10.1007/s12020-024-03828-x
 
 ---
 
@@ -166,16 +178,9 @@ The low response rate of immune checkpoint inhibitors (ICIs) is a challenge. The
 
 ---
 
-## Giant viral signatures on the Greenland ice sheet.
- 20.05.2024, _L Perini, K Sipes, A Zervas, C Bellas, S Lutz, M Moniruzzaman, R Mourot, LG Benning, M Tranter, AM Anesio_
-
-
-_Ice Cover, Greenland, Giant Viruses, Phylogeny, Ecosystem, Genome, Viral, Metagenomics, Chlorophyta, Metagenome, Snow_
-Dark pigmented snow and glacier ice algae on glaciers and ice sheets contribute to accelerating melt. The biological controls on these algae, particularly the role of viruses, remain poorly understood. Giant viruses, classified under the nucleocytoplasmic large DNA viruses (NCLDV) supergroup (phylum Nucleocytoviricota), are diverse and globally distributed. NCLDVs are known to infect eukaryotic cells in marine and freshwater environments, providing a biological control on the algal population in these ecosystems. However, there is very limited information on the diversity and ecosystem function of NCLDVs in terrestrial icy habitats.
+## Giant viral signatures on the Greenland ice sheet
 
 [Source](https://doi.org/10.1186/s40168-024-01796-y)
-
-10.1186/s40168-024-01796-y
 
 ---
 
@@ -197,28 +202,22 @@ Degradation of ibuprofen, one of the most consumed drugs globally, by a mixed ba
 
 ---
 
-## Examining the impacts of salt specificity on freshwater microbial community and functional potential following salinization.
- 17.05.2024, _JB Van Gray, P Ayayee_
-
-
-_Fresh Water, Bacteria, Salinity, Microbiota, Sodium Chloride, Ohio, Sulfates, Biodiversity, Magnesium Sulfate, Magnesium Chloride_
-The degradation of freshwater systems by salt pollution is a threat to global freshwater resources. Salinization is commonly identified by increased specific conductance (conductivity), a proxy for salt concentrations. However, conductivity fails to account for the diversity of salts entering freshwaters and the potential implications this has on microbial communities and functions. We tested 4 types of salt pollution-MgCl2, MgSO4, NaCl, and Na2SO4-on bacterial taxonomic and functional α-, β-diversity of communities originating from streams in two distinct localities (Nebraska [NE] and Ohio [OH], USA). Community responses depended on the site of origin, with NE and OH exhibiting more pronounced decreases in community diversity in response to Na2SO4 and MgCl2 than other salt amendments. A closer examination of taxonomic and functional diversity metrics suggests that core features of communities are more resistant to induced salt stress and that marginal features at both a population and functional level are more likely to exhibit significant structural shifts based on salt specificity. The lack of uniformity in community response highlights the need to consider the compositional complexities of salinization to accurately identify the ecological consequences of instances of salt pollution.
+## Examining the impacts of salt specificity on freshwater microbial community and functional potential following salinization
 
 [Source](https://doi.org/10.1111/1462-2920.16628)
 
-10.1111/1462-2920.16628
-
 ---
 
-## Trophic transfer, bioaccumulation and translocation of microplastics in an international listed wetland on the Montreux record.
- 20.05.2024, _M Saemi-Komsari, HR Esmaeili, B Keshavarzi, R Busquets, K Abbasi, FA Birami, A Masoumi_
+## Comparing trophic position estimates using bulk and compound specific stable isotope analyses: applying new approaches to mackerel icefish Champsocephalus gunnari.
+ 21.05.2024, _JA Canseco, EJ Niklitschek, C Quezada-Romegialli, C Yarnes, C Harrod_
 
 
-Microplastics (MPs) are concerning emerging pollutants. Here, MPs in four edible aquatic species of different trophic levels (between ∼2-4), including fish species Esox lucius (Esocidae: Esocinae); Cyprinus carpio (Cyprinidae: Cyprininae); and Luciobarbus caspius (Cyprinidae: Barbinae); and the swan mussel Anodonta cygnea (Unionidae), were assessed in the Anzali freshwater ecosystem. It is a listed wetland in the Montreux record. MPs were extracted from gastrointestinal tracts (GI), gills, muscles, and skin. All the studied fish and mussels (n = 33) had MPs. MP fibres, fragments and sheets were detected in every GI examined, however, fibres were the only type of MPs in skins, muscles and gills and were the most abundant MP. The MPs found in the fish and mussels were mainly made of nylon (35% of the total MPs), polypropylene-low density polyethylene (30%), and polycarbonate (25%). The average numbers of MPs found in every fish specimen, expressed per wet body mass, had a moderate negative correlation with the condition factor (K) (MP/g - K: Pearson correlation r= -0.413, p = 0.049), and there was no significant relation with the growth factor (b) (r = -0.376; p = 0.068). Importantly, Luciobarbus caspius (with trophic level 2.7-2.8) bioaccumulated MPs and presented a strong correlation between their MP contamination and age (r = 0.916 p &lt; 0.05). Greater gill mass (or related factors) played an important role in the accumulation of MPs, and there was a strong correlation between these factors for Esox lucius and Cyprinus carpio (r = 0.876; r = 0.846; p &lt; 0.05 respectively). The highest MP/g gills (1.91±2.65) were in the filter feeder Anodonta cygnea inhabiting the benthic zone. Esox lucius (piscivorous, trophic level 4.1) was the most contaminated species overall (a total of 83 MPs in 8 individuals, with 0.92 MPs/g fish), and their gills where MPs mainly accumulated. Cyprinus carpio was the most contaminated specimen (MPs in specimens), while the number of MPs per mass unit increased with the trophic level. Their feeding and ecological behavior in the aquatic habitat affected the level of accumulation. This work includes evidence of translocation of MPs within the aquatic organisms.
+_Animals, Food Chain, Perciformes, Phenylalanine, Antarctic Regions, Euphausiacea, Ecosystem, Bayes Theorem, Glutamic Acid, Proline_
+Quantifying the tropic position (TP) of an animal species is key to understanding its ecosystem function. While both bulk and compound-specific analyses of stable isotopes are widely used for this purpose, few studies have assessed the consistency between and within such approaches. Champsocephalus gunnari is a specialist teleost that predates almost exclusively on Antarctic krill Euphausia superba. This well-known and nearly constant trophic relationship makes C. gunnari particularly suitable for assessing consistency between TP methods under field conditions. In the present work, we produced and compared TP estimates for C. gunnari and its main prey using a standard bulk and two amino acid-specific stable isotope approaches (CSI-AA). One based on the difference between glutamate and phenylalanine (TPGlx-Phe), and the other on the proline-phenylalanine difference (TPPro-Phe). To do that, samples from C. gunnari, E. superba and four other pelagic invertebrate and fish species, all potential prey for C.gunnari, were collected off the South Orkney Islands between January and March 2019, analyzed using standard isotopic ratio mass spectrometry methods and interpreted following a Bayesian approach. Median estimates (CI95%) for C. gunnari were similar between TPbulk (3.6; CI95%: 3.0-4.8) and TPGlx-Phe(3.4; CI95%:3.2-3.6), and lower for TPPro-Phe (3.1; CI95%:3.0-3.3). TP differences between C. gunnari and E. superba were 1.4, 1.1 and 1.2, all compatible with expectations from the monospecific diet of this predator (ΔTP=1). While these results suggest greater accuracy for Glx-Phe and Pro-Phe, differences observed between both CSI-AA approaches suggests these methods may require further validation before becoming a standard tool for trophic ecology.
 
 [Source](https://doi.org/10.1111/1462-2920.16631)
 
-10.1016/j.envres.2024.119172
+10.7717/peerj.17372
 
 ---
 
