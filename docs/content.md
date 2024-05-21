@@ -35,53 +35,27 @@ Polycystic ovary syndrome (PCOS) is an endocrinopathy in childbearing-age female
 
 ---
 
-## Framework for exploring the sensory repertoire of the human gut microbiota.
- 17.05.2024, _PA Ross, W Xu, E Jalomo-Khayrova, G Bange, VM Gumerov, PH Bradley, V Sourjik, IB Zhulin_
-
-
-Bacteria sense changes in their environment and transduce signals to adjust their cellular functions accordingly. For this purpose, bacteria employ various sensors feeding into multiple signal transduction pathways. Signal recognition by bacterial sensors is studied mainly in a few model organisms, but advances in genome sequencing and analysis offer new ways of exploring the sensory repertoire of many understudied organisms. The human gut is a natural target of this line of study: it is a nutrient-rich and dynamic environment and is home to thousands of bacterial species whose activities impact human health. Many gut commensals are also poorly studied compared to model organisms and are mainly known through their genome sequences. To begin exploring the signals human gut commensals sense and respond to, we have designed a framework that enables the identification of sensory domains, prediction of signals that they recognize, and experimental verification of these predictions. We validate this framework's functionality by systematically identifying amino acid sensors in selected bacterial genomes and metagenomes, characterizing their amino acid binding properties, and demonstrating their signal transduction potential.IMPORTANCESignal transduction is a central process governing how bacteria sense and respond to their environment. The human gut is a complex environment with many living organisms and fluctuating streams of nutrients. One gut inhabitant, Escherichia coli, is a model organism for studying signal transduction. However, E. coli is not representative of most gut microbes, and signaling pathways in the thousands of other organisms comprising the human gut microbiota remain poorly understood. This work provides a foundation for how to explore signals recognized by these organisms.
+## Framework for exploring the sensory repertoire of the human gut microbiota
 
 [Source](https://doi.org/10.1128/mbio.01039-24)
 
-10.1128/mbio.01039-24
-
 ---
 
-## Metformin-induced changes of the gut microbiota in patients with type 2 diabetes mellitus: results from a prospective cohort study.
- 18.05.2024, _Y Gao, T Zhao, N Lv, S Liu, T Yuan, Y Fu, W Zhao, B Zhu_
-
-
-The influence of the microbiota on hypoglycemic agents is becoming more apparent. The effects of metformin, a primary anti-diabetes drug, on gut microbiota are still not fully understood.
+## Metformin-induced changes of the gut microbiota in patients with type 2 diabetes mellitus: results from a prospective cohort study
 
 [Source](https://doi.org/10.1007/s12020-024-03828-x)
 
-10.1007/s12020-024-03828-x
-
 ---
 
-## Host-microbiota interaction in intestinal stem cell homeostasis.
- 17.05.2024, _H Wu, C Mu, L Xu, K Yu, L Shen, W Zhu_
-
-
-_Humans, Homeostasis, Gastrointestinal Microbiome, Host Microbial Interactions, Stem Cells, Animals, Intestinal Mucosa, Intestines, Bacteria_
-Intestinal stem cells (ISCs) play a pivotal role in gut physiology by governing intestinal epithelium renewal through the precise regulation of proliferation and differentiation. The gut microbiota interacts closely with the epithelium through myriad of actions, including immune and metabolic interactions, which translate into tight connections between microbial activity and ISC function. Given the diverse functions of the gut microbiota in affecting the metabolism of macronutrients and micronutrients, dietary nutrients exert pronounced effects on host-microbiota interactions and, consequently, the ISC fate. Therefore, understanding the intricate host-microbiota interaction in regulating ISC homeostasis is imperative for improving gut health. Here, we review recent advances in understanding host-microbiota immune and metabolic interactions that shape ISC function, such as the role of pattern-recognition receptors and microbial metabolites, including lactate and indole metabolites. Additionally, the diverse regulatory effects of the microbiota on dietary nutrients, including proteins, carbohydrates, vitamins, and minerals (e.g. iron and zinc), are thoroughly explored in relation to their impact on ISCs. Thus, we highlight the multifaceted mechanisms governing host-microbiota interactions in ISC homeostasis. Insights gained from this review provide strategies for the development of dietary or microbiota-based interventions to foster gut health.
+## Host-microbiota interaction in intestinal stem cell homeostasis
 
 [Source](https://doi.org/10.1080/19490976.2024.2353399)
 
-10.1080/19490976.2024.2353399
-
 ---
 
-## Gut dysbiosis and neurological modalities: An engineering approach via proteomic analysis of gut-brain axis.
- 18.05.2024, _M Kandpal, N Varshney, KS Rawal, HC Jha_
-
-
-_Humans, Proteomics, Dysbiosis, Gastrointestinal Microbiome, Nervous System Diseases, Animals, Brain-Gut Axis, Biomarkers_
-The human gut microbiota is a complex and dynamic community of microorganisms, that influence metabolic, neurodevelopmental, and immune pathways. Microbial dysbiosis, characterized by changes in microbial diversity and relative abundances, is implicated in the development of various chronic neurological and neurodegenerative disorders. These disorders are marked by the accumulation of pathological protein aggregates, leading to the progressive loss of neurons and behavioural functions. Dysregulations in protein-protein interaction networks and signalling complexes, critical for normal brain function, are common in neurological disorders but challenging to unravel, particularly at the neuron and synapse-specific levels. To advance therapeutic strategies, a deeper understanding of neuropathogenesis, especially during the progressive disease phase, is needed. Biomarkers play a crucial role in identifying disease pathophysiology and monitoring disease progression. Proteomics, a powerful technology, shows promise in accelerating biomarker discovery and aiding in the development of novel treatments. In this chapter, we provide an in-depth overview of how proteomic techniques, utilizing various biofluid samples from patients with neurological conditions and diverse animal models, have contributed valuable insights into the pathogenesis of numerous neurological disorders. We also discuss the current state of research, potential challenges, and future directions in proteomic approaches to unravel neuro-pathological conditions.
+## Gut dysbiosis and neurological modalities: An engineering approach via proteomic analysis of gut-brain axis
 
 [Source](https://doi.org/10.1016/bs.apcsb.2024.02.001)
-
-10.1016/bs.apcsb.2024.02.001
 
 ---
 
@@ -98,15 +72,9 @@ Bronchiectasis is a condition characterized by abnormal and irreversible bronchi
 
 ---
 
-## Indole-3-Acetic Acid Protects Against Lipopolysaccharide-induced Endothelial Cell Dysfunction and Lung Injury through the Activation of USP40.
- 18.05.2024, _N Shaheen, J Miao, D Li, B Xia, B Baoyinna, Y Zhao, J Zhao_
-
-
-Lung microvascular endothelial cell (EC) dysfunction is the pathological hallmark of acute respiratory distress syndrome (ARDS). Heat shock protein 90 (HSP90) is a key regulator in control of endothelial barrier disruption and inflammation. Our recent study has demonstrated that ubiquitin-specific peptidase 40 (USP40) preserves endothelial integrity by targeting HSP90 for its deubiquitination and inactivation. Indole-3-acetic acid (IAA), a plant hormone of the auxin class, can also be catabolized from dietary tryptophan by the intestinal microbiota. Accumulating evidence suggests that IAA reduces oxidative stress and inflammation, and promotes intestinal barrier function. However, little is known about the role of IAA in endothelial cells and acute lung injury. In this study, we investigated the role of IAA in lung endothelial cell function in the context of acute lung injury. IAA exhibited EC barrier protection against LPS-induced reduction in transendothelial electrical resistance (TEER) and inflammatory responses. The underlying mechanism of IAA on EC protective effects were investigated by examining the influence of IAA on levels of HSP90 ubiquitination and USP40 activity. We identified that IAA, acting as a potential activator of USP40, reduces HSP90 ubiquitination, thereby protecting against LPS-induced inflammation in human lung microvascular endothelial cell (HLMVECs) as well as alleviating experimental lung injury. Furthermore, the EC protective effects of IAA against LPS-induced EC dysfunction and lung injury were abolished in USP40 deficient HLMVECs and lungs of USP40 EC specific knockout (USP40cdh5-ECKO) mice. Taken together, this study reveals that IAA protects against LPS-induced EC dysfunction and lung injury through the activation of USP40.
+## Indole-3-Acetic Acid Protects Against Lipopolysaccharide-induced Endothelial Cell Dysfunction and Lung Injury through the Activation of USP40
 
 [Source](https://doi.org/10.1165/rcmb.2024-0159OC)
-
-10.1165/rcmb.2024-0159OC
 
 ---
 
@@ -178,16 +146,9 @@ The low response rate of immune checkpoint inhibitors (ICIs) is a challenge. The
 
 ---
 
-## Giant viral signatures on the Greenland ice sheet.
- 20.05.2024, _L Perini, K Sipes, A Zervas, C Bellas, S Lutz, M Moniruzzaman, R Mourot, LG Benning, M Tranter, AM Anesio_
-
-
-_Ice Cover, Greenland, Giant Viruses, Phylogeny, Ecosystem, Genome, Viral, Metagenomics, Chlorophyta, Metagenome, Snow_
-Dark pigmented snow and glacier ice algae on glaciers and ice sheets contribute to accelerating melt. The biological controls on these algae, particularly the role of viruses, remain poorly understood. Giant viruses, classified under the nucleocytoplasmic large DNA viruses (NCLDV) supergroup (phylum Nucleocytoviricota), are diverse and globally distributed. NCLDVs are known to infect eukaryotic cells in marine and freshwater environments, providing a biological control on the algal population in these ecosystems. However, there is very limited information on the diversity and ecosystem function of NCLDVs in terrestrial icy habitats.
+## Giant viral signatures on the Greenland ice sheet
 
 [Source](https://doi.org/10.1186/s40168-024-01796-y)
-
-10.1186/s40168-024-01796-y
 
 ---
 
