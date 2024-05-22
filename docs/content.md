@@ -137,29 +137,9 @@ Polycystic ovary syndrome (PCOS) is an endocrinopathy in childbearing-age female
 
 ---
 
-## Examining the impacts of salt specificity on freshwater microbial community and functional potential following salinization.
- 17.05.2024, _JB Van Gray, P Ayayee_
-
-
-_Fresh Water, Bacteria, Salinity, Microbiota, Sodium Chloride, Ohio, Sulfates, Biodiversity, Magnesium Sulfate, Magnesium Chloride_
-The degradation of freshwater systems by salt pollution is a threat to global freshwater resources. Salinization is commonly identified by increased specific conductance (conductivity), a proxy for salt concentrations. However, conductivity fails to account for the diversity of salts entering freshwaters and the potential implications this has on microbial communities and functions. We tested 4 types of salt pollution-MgCl2, MgSO4, NaCl, and Na2SO4-on bacterial taxonomic and functional α-, β-diversity of communities originating from streams in two distinct localities (Nebraska [NE] and Ohio [OH], USA). Community responses depended on the site of origin, with NE and OH exhibiting more pronounced decreases in community diversity in response to Na2SO4 and MgCl2 than other salt amendments. A closer examination of taxonomic and functional diversity metrics suggests that core features of communities are more resistant to induced salt stress and that marginal features at both a population and functional level are more likely to exhibit significant structural shifts based on salt specificity. The lack of uniformity in community response highlights the need to consider the compositional complexities of salinization to accurately identify the ecological consequences of instances of salt pollution.
+## Examining the impacts of salt specificity on freshwater microbial community and functional potential following salinization
 
 [Source](https://doi.org/10.1111/1462-2920.16628)
-
-10.1111/1462-2920.16628
-
----
-
-## Timing-specific parental effects of ocean warming in a coral reef fish.
- 21.05.2024, _LC Bonzi, RK Spinks, JM Donelson, PL Munday, T Ravasi, C Schunter_
-
-
-_Animals, Coral Reefs, Acclimatization, Reproduction, Global Warming, Perciformes, Transcriptome, Oceans and Seas, Fishes, Temperature_
-Population and species persistence in a rapidly warming world will be determined by an organism's ability to acclimate to warmer conditions, especially across generations. There is potential for transgenerational acclimation but the importance of ontogenetic timing in the transmission of environmentally induced parental effects remains mostly unknown. We aimed to disentangle the effects of two critical ontogenetic stages (juvenile development and reproduction) to the new-generation acclimation potential, by exposing the spiny chromis damselfish Acanthochromis polyacanthus to simulated ocean warming across two generations. By using hepatic transcriptomics, we discovered that the post-hatching developmental environment of the offspring themselves had little effect on their acclimation potential at 2.5 months of life. Instead, the developmental experience of parents increased regulatory RNA production and protein synthesis, which could improve the offspring's response to warming. Conversely, parental reproduction and offspring embryogenesis in warmer water elicited stress response mechanisms in the offspring, with suppression of translation and mitochondrial respiration. Mismatches between parental developmental and reproductive temperatures deeply affected offspring gene expression profiles, and detrimental effects were evident when warming occurred both during parents' development and reproduction. This study reveals that the previous generation's developmental temperature contributes substantially to thermal acclimation potential during early life; however, exposure at reproduction as well as prolonged heat stress will likely have adverse effects on the species' persistence.
-
-[Source](https://doi.org/10.1111/1462-2920.16631)
-
-10.1098/rspb.2023.2207
 
 ---
 
