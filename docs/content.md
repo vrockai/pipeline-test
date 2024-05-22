@@ -137,9 +137,29 @@ Polycystic ovary syndrome (PCOS) is an endocrinopathy in childbearing-age female
 
 ---
 
-## Examining the impacts of salt specificity on freshwater microbial community and functional potential following salinization
+## Examining the impacts of salt specificity on freshwater microbial community and functional potential following salinization.
+ 17.05.2024, _JB Van Gray, P Ayayee_
+
+
+_Fresh Water, Bacteria, Salinity, Microbiota, Sodium Chloride, Ohio, Sulfates, Biodiversity, Magnesium Sulfate, Magnesium Chloride_
+The degradation of freshwater systems by salt pollution is a threat to global freshwater resources. Salinization is commonly identified by increased specific conductance (conductivity), a proxy for salt concentrations. However, conductivity fails to account for the diversity of salts entering freshwaters and the potential implications this has on microbial communities and functions. We tested 4 types of salt pollution-MgCl2, MgSO4, NaCl, and Na2SO4-on bacterial taxonomic and functional α-, β-diversity of communities originating from streams in two distinct localities (Nebraska [NE] and Ohio [OH], USA). Community responses depended on the site of origin, with NE and OH exhibiting more pronounced decreases in community diversity in response to Na2SO4 and MgCl2 than other salt amendments. A closer examination of taxonomic and functional diversity metrics suggests that core features of communities are more resistant to induced salt stress and that marginal features at both a population and functional level are more likely to exhibit significant structural shifts based on salt specificity. The lack of uniformity in community response highlights the need to consider the compositional complexities of salinization to accurately identify the ecological consequences of instances of salt pollution.
 
 [Source](https://doi.org/10.1111/1462-2920.16628)
+
+10.1111/1462-2920.16628
+
+---
+
+## Gut Microbial Composition of Cyprinella lutrensis (Red Shiner) and Notropis stramineus (Sand Shiner): Insights from Wild Fish Populations.
+ 22.05.2024, _K Starr, F Montesanto, E Perisho, N Aluthge, M Pegg, SC Fernando_
+
+
+_Animals, Gastrointestinal Microbiome, Bacteria, Cyprinidae, Rivers, RNA, Ribosomal, 16S, Nebraska_
+The gut microbiome is a highly intricate ecosystem that exerts a pivotal influence on the host's physiology. Characterizing fish microbiomes is critical to understanding fish physiology and health, but little is known about the ecology and colonization dynamics of microorganisms inhabiting fish species. In this study, we investigated the bacterial communities of two small-bodied fish species, Cyprinella lutrensis (red shiner) and Notropis stramineus (sand shiner), two fish species where gut microbiomes have not been investigated previously and surrounding waters, collected from rivers in Nebraska, USA. Our study focused on evaluating microbial diversity in small-bodied fish and identifying autochthonous microbes present within these species irrespective of location to better understand bacterial community composition and possible roles of such bacterial species. Our results revealed that both red shiner and sand shiner exhibited gut bacterial communities dominated by typical bacterial phyla found in freshwater fish. The phylum Bacteroidota was minimally abundant in both species and significantly lower in relative abundance compared to the surrounding water microbial community. Furthermore, we found that the gut microbiomes of red shiner and sand shiner differed from the microbial community in the surrounding water, suggesting that these fish species contain host-associated bacterial species that may provide benefits to the host such as nutrient digestion and colonization resistance of environmental pathogens. The fish gut bacterial communities were sensitive to environmental conditions such as turbidity, dissolved oxygen, temperature, and total nitrogen. Our findings also show bacterial community differences between fish species; although they shared notable similarities in bacterial taxa at phyla level composition, ASV level analysis of bacterial taxa displayed compositional differences. These findings contribute to a better understanding of the gut bacterial composition of wild, freshwater, small-bodied fish and highlight the influence of intrinsic (host) and environmental factors on shaping the bacterial composition.
+
+[Source](https://doi.org/10.1111/1462-2920.16631)
+
+10.1007/s00248-024-02386-z
 
 ---
 
