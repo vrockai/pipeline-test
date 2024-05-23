@@ -59,66 +59,33 @@ Polycystic ovary syndrome (PCOS) is an endocrinopathy in childbearing-age female
 
 ---
 
-## Comparative microbiome analysis in cystic fibrosis and non-cystic fibrosis bronchiectasis.
- 21.05.2024, _H Motta, JCV Reuwsaat, FC Lopes, G Viezzer, FCZ Volpato, AL Barth, P de Tarso Roth Dalcin, CC Staats, MH Vainstein, L Kmetzsch_
-
-
-_Humans, Bronchiectasis, Cystic Fibrosis, Male, Female, Microbiota, Adult, Middle Aged, Sputum, Young Adult, Cohort Studies, Aged_
-Bronchiectasis is a condition characterized by abnormal and irreversible bronchial dilation resulting from lung tissue damage and can be categorized into two main groups: cystic fibrosis (CF) and non-CF bronchiectasis (NCFB). Both diseases are marked by recurrent infections, inflammatory exacerbations, and lung damage. Given that infections are the primary drivers of disease progression, characterization of the respiratory microbiome can shed light on compositional alterations and susceptibility to antimicrobial drugs in these cases compared to healthy individuals.
+## Comparative microbiome analysis in cystic fibrosis and non-cystic fibrosis bronchiectasis
 
 [Source](https://doi.org/10.1186/s12931-024-02835-w)
 
-10.1186/s12931-024-02835-w
-
 ---
 
-## Indole-3-Acetic Acid Protects Against Lipopolysaccharide-induced Endothelial Cell Dysfunction and Lung Injury through the Activation of USP40.
- 18.05.2024, _N Shaheen, J Miao, D Li, B Xia, B Baoyinna, Y Zhao, J Zhao_
-
-
-Lung microvascular endothelial cell (EC) dysfunction is the pathological hallmark of acute respiratory distress syndrome (ARDS). Heat shock protein 90 (HSP90) is a key regulator in control of endothelial barrier disruption and inflammation. Our recent study has demonstrated that ubiquitin-specific peptidase 40 (USP40) preserves endothelial integrity by targeting HSP90 for its deubiquitination and inactivation. Indole-3-acetic acid (IAA), a plant hormone of the auxin class, can also be catabolized from dietary tryptophan by the intestinal microbiota. Accumulating evidence suggests that IAA reduces oxidative stress and inflammation, and promotes intestinal barrier function. However, little is known about the role of IAA in endothelial cells and acute lung injury. In this study, we investigated the role of IAA in lung endothelial cell function in the context of acute lung injury. IAA exhibited EC barrier protection against LPS-induced reduction in transendothelial electrical resistance (TEER) and inflammatory responses. The underlying mechanism of IAA on EC protective effects were investigated by examining the influence of IAA on levels of HSP90 ubiquitination and USP40 activity. We identified that IAA, acting as a potential activator of USP40, reduces HSP90 ubiquitination, thereby protecting against LPS-induced inflammation in human lung microvascular endothelial cell (HLMVECs) as well as alleviating experimental lung injury. Furthermore, the EC protective effects of IAA against LPS-induced EC dysfunction and lung injury were abolished in USP40 deficient HLMVECs and lungs of USP40 EC specific knockout (USP40cdh5-ECKO) mice. Taken together, this study reveals that IAA protects against LPS-induced EC dysfunction and lung injury through the activation of USP40.
+## Indole-3-Acetic Acid Protects Against Lipopolysaccharide-induced Endothelial Cell Dysfunction and Lung Injury through the Activation of USP40
 
 [Source](https://doi.org/10.1165/rcmb.2024-0159OC)
 
-10.1165/rcmb.2024-0159OC
-
 ---
 
-## Quantitative analysis of the effects of brushing, flossing, and mouthrinsing on supragingival and subgingival plaque microbiota: 12-week clinical trial.
- 21.05.2024, _K Min, ML Bosma, G John, JA McGuire, A DelSasso, J Milleman, KR Milleman_
-
-
-_Humans, Dental Plaque, Gingivitis, Mouthwashes, Female, Microbiota, Adult, Toothbrushing, Male, Dental Devices, Home Care, Single-Blind Method, Middle Aged, Salicylates, Drug Combinations, Terpenes, Bacterial Load, Anti-Infective Agents, Local, Young Adult_
-Translational microbiome research using next-generation DNA sequencing is challenging due to the semi-qualitative nature of relative abundance data. A novel method for quantitative analysis was applied in this 12-week clinical trial to understand the mechanical vs. chemotherapeutic actions of brushing, flossing, and mouthrinsing against the supragingival dental plaque microbiome. Enumeration of viable bacteria using vPCR was also applied on supragingival plaque for validation and on subgingival plaque to evaluate interventional effects below the gingival margin.
+## Quantitative analysis of the effects of brushing, flossing, and mouthrinsing on supragingival and subgingival plaque microbiota: 12-week clinical trial
 
 [Source](https://doi.org/10.1186/s12903-024-04362-y)
 
-10.1186/s12903-024-04362-y
-
 ---
 
-## Exploring the skin microbiome in atopic dermatitis pathogenesis and disease modification.
- 18.05.2024, _C Hülpüsch, R Rohayem, M Reiger, C Traidl-Hoffmann_
-
-
-Inflammatory skin diseases, like atopic eczema (atopic dermatitis, AD), affect children and adults globally. In AD, the skin barrier is impaired on multiple levels. Underlying factors include genetic, chemical, immunological, and microbial components. Increased skin pH in AD is part of the altered microbial microenvironment that promotes overgrowth of the skin microbiome with Staphylococcus aureus (S. aureus). The secretion of virulence factors, like toxins and proteases, by S. aureus further aggravates the skin barrier deficiency and additionally off-balances the already skewed immune response. Skin commensal bacteria, however, can inhibit the growth and pathogenicity of S. aureus through quorum sensing systems. Therefore, restoring a healthy skin microbiome could contribute to remission induction in AD. This review discusses direct and indirect approaches to targeting the skin microbiome through modulation of the skin pH, UV treatment, and pre-, pro-, and postbiotics. Furthermore, exploratory techniques like skin microbiome transplantation, ozone therapy, and phage therapy are discussed. Finally, we summarize the latest findings on disease and microbiome modification through targeted immunomodulatory, systemic treatments and biologicals. We believe that targeting the skin microbiome should be considered a crucial component of successful AD treatment in the future.
+## Exploring the skin microbiome in atopic dermatitis pathogenesis and disease modification
 
 [Source](https://doi.org/10.1016/j.jaci.2024.04.029)
 
-10.1016/j.jaci.2024.04.029
-
 ---
 
-## Isobutyric acid enhances the anti-tumour effect of anti-PD-1 antibody.
- 21.05.2024, _M Murayama, M Hosonuma, A Kuramasu, S Kobayashi, A Sasaki, Y Baba, Y Narikawa, H Toyoda, J Isobe, E Funayama, K Tajima, A Sasaki, Y Maruyama, Y Yamazaki, M Shida, K Hamada, Y Hirasawa, T Tsurui, H Ariizumi, T Ishiguro, R Suzuki, R Ohkuma, Y Kubota, A Horiike, T Sambe, M Tsuji, S Wada, S Kobayashi, T Shimane, T Tsunoda, H Kobayashi, Y Kiuchi, K Yoshimura_
-
-
-_Animals, Mice, Humans, Programmed Cell Death 1 Receptor, Immune Checkpoint Inhibitors, Tumor Microenvironment, Cell Line, Tumor, Female, Gastrointestinal Microbiome, Immunotherapy, Neoplasms, Fatty Acids, Volatile, Drug Synergism_
-The low response rate of immune checkpoint inhibitors (ICIs) is a challenge. The efficacy of ICIs is influenced by the tumour microenvironment, which is controlled by the gut microbiota. In particular, intestinal bacteria and their metabolites, such as short chain fatty acids (SCFAs), are important regulators of cancer immunity; however, our knowledge on the effects of individual SCFAs remains limited. Here, we show that isobutyric acid has the strongest effect among SCFAs on both immune activity and tumour growth. In vitro, cancer cell numbers were suppressed by approximately 75% in humans and mice compared with those in controls. Oral administration of isobutyric acid to carcinoma-bearing mice enhanced the effect of anti-PD-1 immunotherapy, reducing tumour volume by approximately 80% and 60% compared with those in the control group and anti-PD-1 antibody alone group, respectively. Taken together, these findings may support the development of novel cancer therapies that can improve the response rate to ICIs.
+## Isobutyric acid enhances the anti-tumour effect of anti-PD-1 antibody
 
 [Source](https://doi.org/10.1038/s41598-024-59677-1)
-
-10.1038/s41598-024-59677-1
 
 ---
 
@@ -164,41 +131,15 @@ The low response rate of immune checkpoint inhibitors (ICIs) is a challenge. The
 
 ---
 
-## Ibuprofen degradation by mixed bacterial consortia: metabolic pathway and microbial community analysis.
- 17.05.2024, _A Rastogi, S Chaudhary, MK Tiwari, MM Ghangrekar_
-
-
-Degradation of ibuprofen, one of the most consumed drugs globally, by a mixed bacterial consortium was investigated. A contaminated hospital soil was used to enrich a bacterial consortium possessing the ability to degrade 4 mg/L ibuprofen in 6 days, fed on 6 mM acetate as a supplementary carbon source. Maximum ibuprofen degradation achieved was 99.51%, and for optimum ibuprofen degradation modelled statistically, the initial ibuprofen concentration, and temperature were determined to be 0.515 mg/L and 35 °C, respectively. The bacterial community analyses demonstrated an enrichment of Pseudomonas, Achromobacter, Bacillus, and Enterococcus in the presence of ibuprofen, suggesting their probable association with the biodegradation process. The biodegradation pathway developed using open-source metabolite predictors, GLORYx and BioTransformer suggested multiple degradation routes. Hydroxylation and oxidation were found to be the major mechanisms in ibuprofen degradation. Mono-hydroxylated metabolites were identified as well as predicted by the bioinformatics-based packages. Oxidation, dehydrogenation, super-hydroxylation, and hydrolysis were some other identified mechanisms.
+## Ibuprofen degradation by mixed bacterial consortia: metabolic pathway and microbial community analysis
 
 [Source](https://doi.org/10.1016/j.chemosphere.2024.142354)
 
-10.1016/j.chemosphere.2024.142354
-
 ---
 
-## Examining the impacts of salt specificity on freshwater microbial community and functional potential following salinization.
- 17.05.2024, _JB Van Gray, P Ayayee_
-
-
-_Fresh Water, Bacteria, Salinity, Microbiota, Sodium Chloride, Ohio, Sulfates, Biodiversity, Magnesium Sulfate, Magnesium Chloride_
-The degradation of freshwater systems by salt pollution is a threat to global freshwater resources. Salinization is commonly identified by increased specific conductance (conductivity), a proxy for salt concentrations. However, conductivity fails to account for the diversity of salts entering freshwaters and the potential implications this has on microbial communities and functions. We tested 4 types of salt pollution-MgCl2, MgSO4, NaCl, and Na2SO4-on bacterial taxonomic and functional α-, β-diversity of communities originating from streams in two distinct localities (Nebraska [NE] and Ohio [OH], USA). Community responses depended on the site of origin, with NE and OH exhibiting more pronounced decreases in community diversity in response to Na2SO4 and MgCl2 than other salt amendments. A closer examination of taxonomic and functional diversity metrics suggests that core features of communities are more resistant to induced salt stress and that marginal features at both a population and functional level are more likely to exhibit significant structural shifts based on salt specificity. The lack of uniformity in community response highlights the need to consider the compositional complexities of salinization to accurately identify the ecological consequences of instances of salt pollution.
+## Examining the impacts of salt specificity on freshwater microbial community and functional potential following salinization
 
 [Source](https://doi.org/10.1111/1462-2920.16628)
-
-10.1111/1462-2920.16628
-
----
-
-## Gut Microbial Composition of Cyprinella lutrensis (Red Shiner) and Notropis stramineus (Sand Shiner): Insights from Wild Fish Populations.
- 22.05.2024, _K Starr, F Montesanto, E Perisho, N Aluthge, M Pegg, SC Fernando_
-
-
-_Animals, Gastrointestinal Microbiome, Bacteria, Cyprinidae, Rivers, RNA, Ribosomal, 16S, Nebraska_
-The gut microbiome is a highly intricate ecosystem that exerts a pivotal influence on the host's physiology. Characterizing fish microbiomes is critical to understanding fish physiology and health, but little is known about the ecology and colonization dynamics of microorganisms inhabiting fish species. In this study, we investigated the bacterial communities of two small-bodied fish species, Cyprinella lutrensis (red shiner) and Notropis stramineus (sand shiner), two fish species where gut microbiomes have not been investigated previously and surrounding waters, collected from rivers in Nebraska, USA. Our study focused on evaluating microbial diversity in small-bodied fish and identifying autochthonous microbes present within these species irrespective of location to better understand bacterial community composition and possible roles of such bacterial species. Our results revealed that both red shiner and sand shiner exhibited gut bacterial communities dominated by typical bacterial phyla found in freshwater fish. The phylum Bacteroidota was minimally abundant in both species and significantly lower in relative abundance compared to the surrounding water microbial community. Furthermore, we found that the gut microbiomes of red shiner and sand shiner differed from the microbial community in the surrounding water, suggesting that these fish species contain host-associated bacterial species that may provide benefits to the host such as nutrient digestion and colonization resistance of environmental pathogens. The fish gut bacterial communities were sensitive to environmental conditions such as turbidity, dissolved oxygen, temperature, and total nitrogen. Our findings also show bacterial community differences between fish species; although they shared notable similarities in bacterial taxa at phyla level composition, ASV level analysis of bacterial taxa displayed compositional differences. These findings contribute to a better understanding of the gut bacterial composition of wild, freshwater, small-bodied fish and highlight the influence of intrinsic (host) and environmental factors on shaping the bacterial composition.
-
-[Source](https://doi.org/10.1111/1462-2920.16631)
-
-10.1007/s00248-024-02386-z
 
 ---
 
