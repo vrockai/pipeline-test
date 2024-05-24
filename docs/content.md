@@ -60,7 +60,7 @@ The influence of the microbiota on hypoglycemic agents is becoming more apparent
 ---
 
 ## Host-microbiota interaction in intestinal stem cell homeostasis.
- 23.05.2024, _H Wu, C Mu, L Xu, K Yu, L Shen, W Zhu_
+ 24.05.2024, _H Wu, C Mu, L Xu, K Yu, L Shen, W Zhu_
 
 
 _Humans, Homeostasis, Gastrointestinal Microbiome, Host Microbial Interactions, Stem Cells, Animals, Intestinal Mucosa, Intestines, Bacteria_
@@ -222,16 +222,16 @@ The degradation of freshwater systems by salt pollution is a threat to global fr
 
 ---
 
-## The Representational Challenge for Designing and Managing 5P Medicine Ecosystems.
- 24.05.2024, _B Blobel, F Oemig, P Ruotsalainen, M Brochhausen, M Giacomini_
+## Optimization of the Preparation Process of Glucuronomannan Oligosaccharides and Their Effects on the Gut Microbiota in MPTP-Induced PD Model Mice.
+ 24.05.2024, _B Wang, L Geng, J Wang, Y Wei, C Yan, N Wu, Y Yue, Q Zhang_
 
 
-_Precision Medicine, Humans, Artificial Intelligence_
-Health and social care systems around the globe currently undergo a transformation towards personalized, preventive, predictive, participative precision medicine (5PM), considering the individual health status, conditions, genetic and genomic dispositions, etc., in personal, social, occupational, environmental and behavioral context. This transformation is strongly supported by technologies such as micro- and nanotechnologies, advanced computing, artificial intelligence, edge computing, etc. For enabling communication and cooperation between actors from different domains using different methodologies, languages and ontologies based on different education, experiences, etc., we have to understand the transformed health ecosystems and all its components in structure, function and relationships in the necessary detail ranging from elementary particles up to the universe. That way, we advance design and management of the complex and highly dynamic ecosystem from data to knowledge level. The challenge is the consistent, correct and formalized representation of the transformed health ecosystem from the perspectives of all domains involved, representing and managing them based on related ontologies. The resulting business view of the real-world ecosystem must be interrelated using the ISO/IEC 21838 Top Level Ontologies standard. Thereafter, the outcome can be transformed into implementable solutions using the ISO/IEC 10746 Open Distributed Processing Reference Model. Model and framework for this system-oriented, architecture-centric, ontology-based, policy-driven approach have been developed by the first author and meanwhile standardized as ISO 23903 Interoperability and Integration Reference Architecture.
+_Animals, Gastrointestinal Microbiome, Mice, Oligosaccharides, Disease Models, Animal, Male, Mice, Inbred C57BL, Neuroprotective Agents, Dysbiosis, 1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine, Dopaminergic Neurons, Parkinson Disease, Mannose, Glucuronates_
+Parkinson's disease (PD) is a prevalent neurodegenerative disorder, and accumulating evidence suggests a link between dysbiosis of the gut microbiota and the onset and progression of PD. In our previous investigations, we discovered that intraperitoneal administration of glucuronomannan oligosaccharides (GMn) derived from Saccharina japonica exhibited neuroprotective effects in a 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced PD mouse model. However, the complicated preparation process, difficulties in isolation, and remarkably low yield have constrained further exploration of GMn. In this study, we optimized the degradation conditions in the preparation process of GMn through orthogonal experiments. Subsequently, an MPTP-induced PD model was established, followed by oral administration of GMn. Through a stepwise optimization, we successfully increased the yield of GMn, separated from crude fucoidan, from 1~2/10,000 to 4~8/1000 and indicated the effects on the amelioration of MPTP-induced motor deficits, preservation of dopamine neurons, and elevation in striatal neurotransmitter levels. Importantly, GMn mitigated gut microbiota dysbiosis induced by MPTP in mice. In particular, GM2 significantly reduced the levels of Akkermansia, Verrucomicrobiota, and Lactobacillus, while promoting the abundance of Roseburia and Prevotella compared to the model group. These findings suggest that GM2 can potentially suppress PD by modulating the gut microbiota, providing a foundation for the development of a novel and effective anti-PD marine drug.
 
 [Source](https://doi.org/10.1111/1462-2920.16631)
 
-10.3233/SHTI240047
+10.3390/md22050193
 
 ---
 
