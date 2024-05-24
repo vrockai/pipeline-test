@@ -35,21 +35,40 @@ Polycystic ovary syndrome (PCOS) is an endocrinopathy in childbearing-age female
 
 ---
 
-## Framework for exploring the sensory repertoire of the human gut microbiota
+## Framework for exploring the sensory repertoire of the human gut microbiota.
+ 17.05.2024, _PA Ross, W Xu, E Jalomo-Khayrova, G Bange, VM Gumerov, PH Bradley, V Sourjik, IB Zhulin_
+
+
+Bacteria sense changes in their environment and transduce signals to adjust their cellular functions accordingly. For this purpose, bacteria employ various sensors feeding into multiple signal transduction pathways. Signal recognition by bacterial sensors is studied mainly in a few model organisms, but advances in genome sequencing and analysis offer new ways of exploring the sensory repertoire of many understudied organisms. The human gut is a natural target of this line of study: it is a nutrient-rich and dynamic environment and is home to thousands of bacterial species whose activities impact human health. Many gut commensals are also poorly studied compared to model organisms and are mainly known through their genome sequences. To begin exploring the signals human gut commensals sense and respond to, we have designed a framework that enables the identification of sensory domains, prediction of signals that they recognize, and experimental verification of these predictions. We validate this framework's functionality by systematically identifying amino acid sensors in selected bacterial genomes and metagenomes, characterizing their amino acid binding properties, and demonstrating their signal transduction potential.IMPORTANCESignal transduction is a central process governing how bacteria sense and respond to their environment. The human gut is a complex environment with many living organisms and fluctuating streams of nutrients. One gut inhabitant, Escherichia coli, is a model organism for studying signal transduction. However, E. coli is not representative of most gut microbes, and signaling pathways in the thousands of other organisms comprising the human gut microbiota remain poorly understood. This work provides a foundation for how to explore signals recognized by these organisms.
 
 [Source](https://doi.org/10.1128/mbio.01039-24)
 
+10.1128/mbio.01039-24
+
 ---
 
-## Metformin-induced changes of the gut microbiota in patients with type 2 diabetes mellitus: results from a prospective cohort study
+## Metformin-induced changes of the gut microbiota in patients with type 2 diabetes mellitus: results from a prospective cohort study.
+ 18.05.2024, _Y Gao, T Zhao, N Lv, S Liu, T Yuan, Y Fu, W Zhao, B Zhu_
+
+
+The influence of the microbiota on hypoglycemic agents is becoming more apparent. The effects of metformin, a primary anti-diabetes drug, on gut microbiota are still not fully understood.
 
 [Source](https://doi.org/10.1007/s12020-024-03828-x)
 
+10.1007/s12020-024-03828-x
+
 ---
 
-## Host-microbiota interaction in intestinal stem cell homeostasis
+## Host-microbiota interaction in intestinal stem cell homeostasis.
+ 23.05.2024, _H Wu, C Mu, L Xu, K Yu, L Shen, W Zhu_
+
+
+_Humans, Homeostasis, Gastrointestinal Microbiome, Host Microbial Interactions, Stem Cells, Animals, Intestinal Mucosa, Intestines, Bacteria_
+Intestinal stem cells (ISCs) play a pivotal role in gut physiology by governing intestinal epithelium renewal through the precise regulation of proliferation and differentiation. The gut microbiota interacts closely with the epithelium through myriad of actions, including immune and metabolic interactions, which translate into tight connections between microbial activity and ISC function. Given the diverse functions of the gut microbiota in affecting the metabolism of macronutrients and micronutrients, dietary nutrients exert pronounced effects on host-microbiota interactions and, consequently, the ISC fate. Therefore, understanding the intricate host-microbiota interaction in regulating ISC homeostasis is imperative for improving gut health. Here, we review recent advances in understanding host-microbiota immune and metabolic interactions that shape ISC function, such as the role of pattern-recognition receptors and microbial metabolites, including lactate and indole metabolites. Additionally, the diverse regulatory effects of the microbiota on dietary nutrients, including proteins, carbohydrates, vitamins, and minerals (e.g. iron and zinc), are thoroughly explored in relation to their impact on ISCs. Thus, we highlight the multifaceted mechanisms governing host-microbiota interactions in ISC homeostasis. Insights gained from this review provide strategies for the development of dietary or microbiota-based interventions to foster gut health.
 
 [Source](https://doi.org/10.1080/19490976.2024.2353399)
+
+10.1080/19490976.2024.2353399
 
 ---
 
@@ -159,9 +178,16 @@ The low response rate of immune checkpoint inhibitors (ICIs) is a challenge. The
 
 ---
 
-## Giant viral signatures on the Greenland ice sheet
+## Giant viral signatures on the Greenland ice sheet.
+ 20.05.2024, _L Perini, K Sipes, A Zervas, C Bellas, S Lutz, M Moniruzzaman, R Mourot, LG Benning, M Tranter, AM Anesio_
+
+
+_Ice Cover, Greenland, Giant Viruses, Phylogeny, Ecosystem, Genome, Viral, Metagenomics, Chlorophyta, Metagenome, Snow_
+Dark pigmented snow and glacier ice algae on glaciers and ice sheets contribute to accelerating melt. The biological controls on these algae, particularly the role of viruses, remain poorly understood. Giant viruses, classified under the nucleocytoplasmic large DNA viruses (NCLDV) supergroup (phylum Nucleocytoviricota), are diverse and globally distributed. NCLDVs are known to infect eukaryotic cells in marine and freshwater environments, providing a biological control on the algal population in these ecosystems. However, there is very limited information on the diversity and ecosystem function of NCLDVs in terrestrial icy habitats.
 
 [Source](https://doi.org/10.1186/s40168-024-01796-y)
+
+10.1186/s40168-024-01796-y
 
 ---
 
@@ -196,15 +222,16 @@ The degradation of freshwater systems by salt pollution is a threat to global fr
 
 ---
 
-## Warming-Induced Shifts in Alpine Soil Microbiome: An Ecosystem-Scale Study with Environmental Context-Dependent Insights.
- 23.05.2024, _Y Liu, M Delgado-Baquerizo, H Bing, Y Wang, J Wang, J Chen, S Qiu, H Zhu, Y Wu, L Fang, R Chang_
+## The Representational Challenge for Designing and Managing 5P Medicine Ecosystems.
+ 24.05.2024, _B Blobel, F Oemig, P Ruotsalainen, M Brochhausen, M Giacomini_
 
 
-Climate warming is a pressing global issue with substantial impacts on soil health and function. However, the influence of environmental context on the responses of soil microorganisms to warming remains largely elusive, particularly in alpine ecosystems. This study examined the responses of the soil microbiome to in situ experimental warming across three elevations (3,850 m, 4,100 m, and 4,250 m) in the meadow of Gongga Mountain, eastern Tibetan Plateau. Our findings demonstrate that soil microbial diversity is highly resilient to warming, with significant impacts observed only at specific elevations. Furthermore, the influence of warming on the composition of the soil microbial community is also elevation-dependent, underscoring the importance of local environmental context in shaping microbial evolution in alpine soils under climate warming. Notably, we identified soil moisture at 3,850 m and carbon-to-nitrogen ratio at 4,250 m as indirect predictors regulating the responses of microbial diversity to warming at specific elevations. These findings underscore the paramount importance of considering pre-existing environmental conditions in predicting the response of alpine soil microbiomes to climate warming. Our study provides novel insights into the intricate interactions between climate warming, soil microbiome, and environmental context in alpine ecosystems, illuminating the complex mechanisms governing soil microbial ecology in these fragile and sensitive environments.
+_Precision Medicine, Humans, Artificial Intelligence_
+Health and social care systems around the globe currently undergo a transformation towards personalized, preventive, predictive, participative precision medicine (5PM), considering the individual health status, conditions, genetic and genomic dispositions, etc., in personal, social, occupational, environmental and behavioral context. This transformation is strongly supported by technologies such as micro- and nanotechnologies, advanced computing, artificial intelligence, edge computing, etc. For enabling communication and cooperation between actors from different domains using different methodologies, languages and ontologies based on different education, experiences, etc., we have to understand the transformed health ecosystems and all its components in structure, function and relationships in the necessary detail ranging from elementary particles up to the universe. That way, we advance design and management of the complex and highly dynamic ecosystem from data to knowledge level. The challenge is the consistent, correct and formalized representation of the transformed health ecosystem from the perspectives of all domains involved, representing and managing them based on related ontologies. The resulting business view of the real-world ecosystem must be interrelated using the ISO/IEC 21838 Top Level Ontologies standard. Thereafter, the outcome can be transformed into implementable solutions using the ISO/IEC 10746 Open Distributed Processing Reference Model. Model and framework for this system-oriented, architecture-centric, ontology-based, policy-driven approach have been developed by the first author and meanwhile standardized as ISO 23903 Interoperability and Integration Reference Architecture.
 
 [Source](https://doi.org/10.1111/1462-2920.16631)
 
-10.1016/j.envres.2024.119206
+10.3233/SHTI240047
 
 ---
 
