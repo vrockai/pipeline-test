@@ -53,9 +53,16 @@ Polycystic ovary syndrome (PCOS) is an endocrinopathy in childbearing-age female
 
 ---
 
-## Gut dysbiosis and neurological modalities: An engineering approach via proteomic analysis of gut-brain axis
+## Gut dysbiosis and neurological modalities: An engineering approach via proteomic analysis of gut-brain axis.
+ 18.05.2024, _M Kandpal, N Varshney, KS Rawal, HC Jha_
+
+
+_Humans, Proteomics, Dysbiosis, Gastrointestinal Microbiome, Nervous System Diseases, Animals, Brain-Gut Axis, Biomarkers_
+The human gut microbiota is a complex and dynamic community of microorganisms, that influence metabolic, neurodevelopmental, and immune pathways. Microbial dysbiosis, characterized by changes in microbial diversity and relative abundances, is implicated in the development of various chronic neurological and neurodegenerative disorders. These disorders are marked by the accumulation of pathological protein aggregates, leading to the progressive loss of neurons and behavioural functions. Dysregulations in protein-protein interaction networks and signalling complexes, critical for normal brain function, are common in neurological disorders but challenging to unravel, particularly at the neuron and synapse-specific levels. To advance therapeutic strategies, a deeper understanding of neuropathogenesis, especially during the progressive disease phase, is needed. Biomarkers play a crucial role in identifying disease pathophysiology and monitoring disease progression. Proteomics, a powerful technology, shows promise in accelerating biomarker discovery and aiding in the development of novel treatments. In this chapter, we provide an in-depth overview of how proteomic techniques, utilizing various biofluid samples from patients with neurological conditions and diverse animal models, have contributed valuable insights into the pathogenesis of numerous neurological disorders. We also discuss the current state of research, potential challenges, and future directions in proteomic approaches to unravel neuro-pathological conditions.
 
 [Source](https://doi.org/10.1016/bs.apcsb.2024.02.001)
+
+10.1016/bs.apcsb.2024.02.001
 
 ---
 
@@ -189,16 +196,15 @@ The degradation of freshwater systems by salt pollution is a threat to global fr
 
 ---
 
-## Real-world waste dispersion modelling for benthic integrated multi-trophic aquaculture.
- 23.05.2024, _K Cutajar, L Falconer, A Sharman, TC Telfer_
+## Warming-Induced Shifts in Alpine Soil Microbiome: An Ecosystem-Scale Study with Environmental Context-Dependent Insights.
+ 23.05.2024, _Y Liu, M Delgado-Baquerizo, H Bing, Y Wang, J Wang, J Chen, S Qiu, H Zhu, Y Wu, L Fang, R Chang_
 
 
-_Aquaculture, Animals, Fishes, Models, Theoretical, Biomass, Fisheries_
-In real-world situations, marine fish farms accommodate multiple fish species and cohorts within the farm, leading to diverse farm layouts influenced by cage dimensions, configurations, and intricate arrangements. These cage management practices are essential to meet production demands, however, farm-level complexities can impact model predictions of waste deposition and benthic impact near fish cages. This is of particular importance when the cages are used for integrated multi-trophic aquaculture (IMTA) with benthic feeders, where this waste not only affects environmental conditions but also provides a potential food source. The Cage Aquaculture Particulate Output and Transport (CAPOT) model incorporated multiple species, cohorts, and cage arrangements to estimate waste distribution from a commercial fish farm in the Mediterranean between October 2018 and July 2019. This spreadsheet model estimated dispersion for individual fish cages using a grid resolution of 5 m x 5 m. The study categorized discrete production periods for each fish cage every month, aligning with intermittent changes in biomass and food inputs due to different cage management practices throughout production. This approach facilitated the use of detailed input data and enhanced model representativeness by considering variations in cage biomass, food types, settling velocities, and configurations. Model outputs, represented in contour plots, indicated higher deposition directly below fish cages that varied monthly throughout fish production cycles. Deposition footprints reflected changes in cage biomass, food inputs, and farm-level practices reflecting this real-world scenario where aquaculture does not follow a production continuum. Moreover, cohort dynamics and cage movements associated with the cage management practices of the fish farm influenced the quantity and fate of wastes distributed around fish cages, revealing variability in deposition footprints. Clearly, these findings have important implications for the design of benthic IMTA systems, with species such as sea cucumber and polychaetes. Variability in waste deposition creates challenges in identifying where the benthic organisms should be placed to allow optimal uptake of waste to meet their food requirements and increase survivability. Evidently, models have an important role to play and this study emphasizes the need for representative input data to describe actual food inputs, cage biomass changes, and management practices for more representative farm-scale modelling and essentially to improve particulate waste management. To effectively mitigate benthic impacts through IMTA, models must quantify and resolve particulate waste distribution and impact around fish farms to maintain a balanced system with net removal of wastes. Resolving farm-level complexities provides vital information about the variability of food availability and quality for extractive organisms that helps improve recycling of organic wastes in integrated systems, demanding a more representative modelling approach.
+Climate warming is a pressing global issue with substantial impacts on soil health and function. However, the influence of environmental context on the responses of soil microorganisms to warming remains largely elusive, particularly in alpine ecosystems. This study examined the responses of the soil microbiome to in situ experimental warming across three elevations (3,850 m, 4,100 m, and 4,250 m) in the meadow of Gongga Mountain, eastern Tibetan Plateau. Our findings demonstrate that soil microbial diversity is highly resilient to warming, with significant impacts observed only at specific elevations. Furthermore, the influence of warming on the composition of the soil microbial community is also elevation-dependent, underscoring the importance of local environmental context in shaping microbial evolution in alpine soils under climate warming. Notably, we identified soil moisture at 3,850 m and carbon-to-nitrogen ratio at 4,250 m as indirect predictors regulating the responses of microbial diversity to warming at specific elevations. These findings underscore the paramount importance of considering pre-existing environmental conditions in predicting the response of alpine soil microbiomes to climate warming. Our study provides novel insights into the intricate interactions between climate warming, soil microbiome, and environmental context in alpine ecosystems, illuminating the complex mechanisms governing soil microbial ecology in these fragile and sensitive environments.
 
 [Source](https://doi.org/10.1111/1462-2920.16631)
 
-10.1371/journal.pone.0303538
+10.1016/j.envres.2024.119206
 
 ---
 
