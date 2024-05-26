@@ -53,39 +53,79 @@ Polycystic ovary syndrome (PCOS) is an endocrinopathy in childbearing-age female
 
 ---
 
-## Gut dysbiosis and neurological modalities: An engineering approach via proteomic analysis of gut-brain axis
+## Gut dysbiosis and neurological modalities: An engineering approach via proteomic analysis of gut-brain axis.
+ 18.05.2024, _M Kandpal, N Varshney, KS Rawal, HC Jha_
+
+
+_Humans, Proteomics, Dysbiosis, Gastrointestinal Microbiome, Nervous System Diseases, Animals, Brain-Gut Axis, Biomarkers_
+The human gut microbiota is a complex and dynamic community of microorganisms, that influence metabolic, neurodevelopmental, and immune pathways. Microbial dysbiosis, characterized by changes in microbial diversity and relative abundances, is implicated in the development of various chronic neurological and neurodegenerative disorders. These disorders are marked by the accumulation of pathological protein aggregates, leading to the progressive loss of neurons and behavioural functions. Dysregulations in protein-protein interaction networks and signalling complexes, critical for normal brain function, are common in neurological disorders but challenging to unravel, particularly at the neuron and synapse-specific levels. To advance therapeutic strategies, a deeper understanding of neuropathogenesis, especially during the progressive disease phase, is needed. Biomarkers play a crucial role in identifying disease pathophysiology and monitoring disease progression. Proteomics, a powerful technology, shows promise in accelerating biomarker discovery and aiding in the development of novel treatments. In this chapter, we provide an in-depth overview of how proteomic techniques, utilizing various biofluid samples from patients with neurological conditions and diverse animal models, have contributed valuable insights into the pathogenesis of numerous neurological disorders. We also discuss the current state of research, potential challenges, and future directions in proteomic approaches to unravel neuro-pathological conditions.
 
 [Source](https://doi.org/10.1016/bs.apcsb.2024.02.001)
 
+10.1016/bs.apcsb.2024.02.001
+
 ---
 
-## Comparative microbiome analysis in cystic fibrosis and non-cystic fibrosis bronchiectasis
+## Comparative microbiome analysis in cystic fibrosis and non-cystic fibrosis bronchiectasis.
+ 21.05.2024, _H Motta, JCV Reuwsaat, FC Lopes, G Viezzer, FCZ Volpato, AL Barth, P de Tarso Roth Dalcin, CC Staats, MH Vainstein, L Kmetzsch_
+
+
+_Humans, Bronchiectasis, Cystic Fibrosis, Male, Female, Microbiota, Adult, Middle Aged, Sputum, Young Adult, Cohort Studies, Aged_
+Bronchiectasis is a condition characterized by abnormal and irreversible bronchial dilation resulting from lung tissue damage and can be categorized into two main groups: cystic fibrosis (CF) and non-CF bronchiectasis (NCFB). Both diseases are marked by recurrent infections, inflammatory exacerbations, and lung damage. Given that infections are the primary drivers of disease progression, characterization of the respiratory microbiome can shed light on compositional alterations and susceptibility to antimicrobial drugs in these cases compared to healthy individuals.
 
 [Source](https://doi.org/10.1186/s12931-024-02835-w)
 
+10.1186/s12931-024-02835-w
+
 ---
 
-## Indole-3-Acetic Acid Protects Against Lipopolysaccharide-induced Endothelial Cell Dysfunction and Lung Injury through the Activation of USP40
+## Indole-3-Acetic Acid Protects Against Lipopolysaccharide-induced Endothelial Cell Dysfunction and Lung Injury through the Activation of USP40.
+ 18.05.2024, _N Shaheen, J Miao, D Li, B Xia, B Baoyinna, Y Zhao, J Zhao_
+
+
+Lung microvascular endothelial cell (EC) dysfunction is the pathological hallmark of acute respiratory distress syndrome (ARDS). Heat shock protein 90 (HSP90) is a key regulator in control of endothelial barrier disruption and inflammation. Our recent study has demonstrated that ubiquitin-specific peptidase 40 (USP40) preserves endothelial integrity by targeting HSP90 for its deubiquitination and inactivation. Indole-3-acetic acid (IAA), a plant hormone of the auxin class, can also be catabolized from dietary tryptophan by the intestinal microbiota. Accumulating evidence suggests that IAA reduces oxidative stress and inflammation, and promotes intestinal barrier function. However, little is known about the role of IAA in endothelial cells and acute lung injury. In this study, we investigated the role of IAA in lung endothelial cell function in the context of acute lung injury. IAA exhibited EC barrier protection against LPS-induced reduction in transendothelial electrical resistance (TEER) and inflammatory responses. The underlying mechanism of IAA on EC protective effects were investigated by examining the influence of IAA on levels of HSP90 ubiquitination and USP40 activity. We identified that IAA, acting as a potential activator of USP40, reduces HSP90 ubiquitination, thereby protecting against LPS-induced inflammation in human lung microvascular endothelial cell (HLMVECs) as well as alleviating experimental lung injury. Furthermore, the EC protective effects of IAA against LPS-induced EC dysfunction and lung injury were abolished in USP40 deficient HLMVECs and lungs of USP40 EC specific knockout (USP40cdh5-ECKO) mice. Taken together, this study reveals that IAA protects against LPS-induced EC dysfunction and lung injury through the activation of USP40.
 
 [Source](https://doi.org/10.1165/rcmb.2024-0159OC)
 
+10.1165/rcmb.2024-0159OC
+
 ---
 
-## Quantitative analysis of the effects of brushing, flossing, and mouthrinsing on supragingival and subgingival plaque microbiota: 12-week clinical trial
+## Quantitative analysis of the effects of brushing, flossing, and mouthrinsing on supragingival and subgingival plaque microbiota: 12-week clinical trial.
+ 21.05.2024, _K Min, ML Bosma, G John, JA McGuire, A DelSasso, J Milleman, KR Milleman_
+
+
+_Humans, Dental Plaque, Gingivitis, Mouthwashes, Female, Microbiota, Adult, Toothbrushing, Male, Dental Devices, Home Care, Single-Blind Method, Middle Aged, Salicylates, Drug Combinations, Terpenes, Bacterial Load, Anti-Infective Agents, Local, Young Adult_
+Translational microbiome research using next-generation DNA sequencing is challenging due to the semi-qualitative nature of relative abundance data. A novel method for quantitative analysis was applied in this 12-week clinical trial to understand the mechanical vs. chemotherapeutic actions of brushing, flossing, and mouthrinsing against the supragingival dental plaque microbiome. Enumeration of viable bacteria using vPCR was also applied on supragingival plaque for validation and on subgingival plaque to evaluate interventional effects below the gingival margin.
 
 [Source](https://doi.org/10.1186/s12903-024-04362-y)
 
+10.1186/s12903-024-04362-y
+
 ---
 
-## Exploring the skin microbiome in atopic dermatitis pathogenesis and disease modification
+## Exploring the skin microbiome in atopic dermatitis pathogenesis and disease modification.
+ 18.05.2024, _C Hülpüsch, R Rohayem, M Reiger, C Traidl-Hoffmann_
+
+
+Inflammatory skin diseases, like atopic eczema (atopic dermatitis, AD), affect children and adults globally. In AD, the skin barrier is impaired on multiple levels. Underlying factors include genetic, chemical, immunological, and microbial components. Increased skin pH in AD is part of the altered microbial microenvironment that promotes overgrowth of the skin microbiome with Staphylococcus aureus (S. aureus). The secretion of virulence factors, like toxins and proteases, by S. aureus further aggravates the skin barrier deficiency and additionally off-balances the already skewed immune response. Skin commensal bacteria, however, can inhibit the growth and pathogenicity of S. aureus through quorum sensing systems. Therefore, restoring a healthy skin microbiome could contribute to remission induction in AD. This review discusses direct and indirect approaches to targeting the skin microbiome through modulation of the skin pH, UV treatment, and pre-, pro-, and postbiotics. Furthermore, exploratory techniques like skin microbiome transplantation, ozone therapy, and phage therapy are discussed. Finally, we summarize the latest findings on disease and microbiome modification through targeted immunomodulatory, systemic treatments and biologicals. We believe that targeting the skin microbiome should be considered a crucial component of successful AD treatment in the future.
 
 [Source](https://doi.org/10.1016/j.jaci.2024.04.029)
 
+10.1016/j.jaci.2024.04.029
+
 ---
 
-## Isobutyric acid enhances the anti-tumour effect of anti-PD-1 antibody
+## Isobutyric acid enhances the anti-tumour effect of anti-PD-1 antibody.
+ 21.05.2024, _M Murayama, M Hosonuma, A Kuramasu, S Kobayashi, A Sasaki, Y Baba, Y Narikawa, H Toyoda, J Isobe, E Funayama, K Tajima, A Sasaki, Y Maruyama, Y Yamazaki, M Shida, K Hamada, Y Hirasawa, T Tsurui, H Ariizumi, T Ishiguro, R Suzuki, R Ohkuma, Y Kubota, A Horiike, T Sambe, M Tsuji, S Wada, S Kobayashi, T Shimane, T Tsunoda, H Kobayashi, Y Kiuchi, K Yoshimura_
+
+
+_Animals, Mice, Humans, Programmed Cell Death 1 Receptor, Immune Checkpoint Inhibitors, Tumor Microenvironment, Cell Line, Tumor, Female, Gastrointestinal Microbiome, Immunotherapy, Neoplasms, Fatty Acids, Volatile, Drug Synergism_
+The low response rate of immune checkpoint inhibitors (ICIs) is a challenge. The efficacy of ICIs is influenced by the tumour microenvironment, which is controlled by the gut microbiota. In particular, intestinal bacteria and their metabolites, such as short chain fatty acids (SCFAs), are important regulators of cancer immunity; however, our knowledge on the effects of individual SCFAs remains limited. Here, we show that isobutyric acid has the strongest effect among SCFAs on both immune activity and tumour growth. In vitro, cancer cell numbers were suppressed by approximately 75% in humans and mice compared with those in controls. Oral administration of isobutyric acid to carcinoma-bearing mice enhanced the effect of anti-PD-1 immunotherapy, reducing tumour volume by approximately 80% and 60% compared with those in the control group and anti-PD-1 antibody alone group, respectively. Taken together, these findings may support the development of novel cancer therapies that can improve the response rate to ICIs.
 
 [Source](https://doi.org/10.1038/s41598-024-59677-1)
+
+10.1038/s41598-024-59677-1
 
 ---
 
@@ -119,16 +159,9 @@ Polycystic ovary syndrome (PCOS) is an endocrinopathy in childbearing-age female
 
 ---
 
-## Giant viral signatures on the Greenland ice sheet.
- 20.05.2024, _L Perini, K Sipes, A Zervas, C Bellas, S Lutz, M Moniruzzaman, R Mourot, LG Benning, M Tranter, AM Anesio_
-
-
-_Ice Cover, Greenland, Giant Viruses, Phylogeny, Ecosystem, Genome, Viral, Metagenomics, Chlorophyta, Metagenome, Snow_
-Dark pigmented snow and glacier ice algae on glaciers and ice sheets contribute to accelerating melt. The biological controls on these algae, particularly the role of viruses, remain poorly understood. Giant viruses, classified under the nucleocytoplasmic large DNA viruses (NCLDV) supergroup (phylum Nucleocytoviricota), are diverse and globally distributed. NCLDVs are known to infect eukaryotic cells in marine and freshwater environments, providing a biological control on the algal population in these ecosystems. However, there is very limited information on the diversity and ecosystem function of NCLDVs in terrestrial icy habitats.
+## Giant viral signatures on the Greenland ice sheet
 
 [Source](https://doi.org/10.1186/s40168-024-01796-y)
-
-10.1186/s40168-024-01796-y
 
 ---
 
@@ -163,16 +196,16 @@ The degradation of freshwater systems by salt pollution is a threat to global fr
 
 ---
 
-## Lactobacillus delbrueckii subsp. bulgaricus Alleviates Acute Injury in Hypoxic Mice.
- 25.05.2024, _K Song, H Ling, L Wang, P Tian, X Jin, J Zhao, W Chen, G Wang, Y Bi_
+## Sampling efficiency and nucleic acid stability during long-term sampling with different bioaerosol samplers.
+ 25.05.2024, _KO Bøifot, G Skogan, M Dybwad_
 
 
-_Animals, Lactobacillus delbrueckii, Mice, Hypoxia, Probiotics, Gastrointestinal Microbiome, Male, Oxidative Stress, Disease Models, Animal, Altitude Sickness, Tight Junction Proteins_
-Acute mountain sickness (AMS) is a common ailment in high-altitude areas caused by the body's inadequate adaptation to low-pressure, low-oxygen environments, leading to organ edema, oxidative stress, and impaired intestinal barrier function. The gastrointestinal tract, being the first to be affected by ischemia and hypoxia, is highly susceptible to injury. This study investigates the role of Lactobacillus delbrueckii subsp. bulgaricus in alleviating acute hypoxic-induced intestinal and tissue damage from the perspective of daily consumed lactic acid bacteria. An acute hypoxia mouse model was established to evaluate tissue injury, oxidative stress, inflammatory responses, and intestinal barrier function in various groups of mice. The results indicate that strain 4L3 significantly mitigated brain and lung edema caused by hypoxia, improved colonic tissue damage, and effectively increased the content of tight junction proteins in the ileum, reducing ileal permeability and alleviating mechanical barrier damage in the intestines due to acute hypoxia. Additionally, 4L3 helped to rebalance the intestinal microbiota. In summary, this study found that Lactobacillus delbrueckii subsp. bulgaricus strain 4L3 could alleviate acute intestinal damage caused by hypoxia, thereby reducing hypoxic stress. This suggests that probiotic lactic acid bacteria that exert beneficial effects in the intestines may alleviate acute injury under hypoxic conditions in mice, offering new insights for the prevention and treatment of AMS.
+_Aerosols, Environmental Monitoring, Air Microbiology, Nucleic Acids, Particle Size, Microbiota, Air Pollutants_
+Aerosol microbiome studies have received increased attention as technological advancements have made it possible to dive deeper into the microbial diversity. To enhance biomass collection for metagenomic sequencing, long-term sampling is a common strategy. While the impact of prolonged sampling times on microorganisms' culturability and viability is well-established, its effect on nucleic acid stability remains less understood but is essential to ensure representative sample collection. This study evaluated four air samplers (SKC BioSampler, SASS3100, Coriolis μ, BioSpot-VIVAS 300-P) against a reference sampler (isopore membrane filters) to identify nucleic acid stability during long-term sampling. Physical sampling efficiencies determined with a fluorescent tracer for three particle sizes (0.8, 1, and 3 μm), revealed high efficiencies (&gt; 80% relative to reference) for BioSampler, SASS3100, and BioSpot-VIVAS for all particle sizes, and for Coriolis with 3 μm particles. Coriolis exhibited lower efficiency for 0.8 μm (7%) and 1 μm (50%) particles. During 2-h sampling with MS2 and Pantoea agglomerans, liquid-based collection with Coriolis and BioSampler showed a decrease in nucleic acid yields for all test conditions. BioSpot-VIVAS displayed reduced sampling efficiency for P. agglomerans compared to MS2 and the other air samplers, while filter-based collection with SASS3100 and isopore membrane filters, showed indications of DNA degradation for 1 μm particles of P. agglomerans after long-term sampling. These findings show that long-term air sampling affects nucleic acid stability in both liquid- and filter-based collection methods. These results highlight bias produced by bioaerosol collection and should be considered when selecting an air sampler and interpreting aerosol microbiome data.
 
 [Source](https://doi.org/10.1111/1462-2920.16631)
 
-10.3390/nu16101465
+10.1007/s10661-024-12735-7
 
 ---
 
