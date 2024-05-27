@@ -81,9 +81,16 @@
 
 ---
 
-## Fecal microbiota transplantation significantly improved respiratory failure of amyotrophic lateral sclerosis
+## Fecal microbiota transplantation significantly improved respiratory failure of amyotrophic lateral sclerosis.
+ 26.05.2024, _J Yan, H Chen, Y Zhang, L Peng, Z Wang, X Lan, S Yu, Y Yang_
+
+
+_Amyotrophic Lateral Sclerosis, Humans, Fecal Microbiota Transplantation, Respiratory Insufficiency, Male, Middle Aged, Aged, Female, Bacteroides, Gastrointestinal Microbiome, Faecalibacterium prausnitzii, Treatment Outcome, Respiration, Artificial, Feces_
+Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease that leads to respiratory failure, and eventually death. However, there is a lack of effective treatments for ALS. Here we report the results of fecal microbiota transplantation (FMT) in two patients with late-onset classic ALS with a Japan ALS severity classification of grade 5 who required tracheostomy and mechanical ventilation. In both patients, significant improvements in respiratory function were observed following two rounds of FMT, leading to weaning off mechanical ventilation. Their muscle strength improved, allowing for assisted standing and mobility. Other notable treatment responses included improved swallowing function and reduced muscle fasciculations. Metagenomic and metabolomic analysis revealed an increase in beneficial Bacteroides species (Bacteroides stercoris, Bacteroides uniformis, Bacteroides vulgatus), and Faecalibacterium prausnitzii after FMT, as well as elevated levels of metabolites involved in arginine biosynthesis and decreased levels of metabolites involved in branched-chain amino acid biosynthesis. These findings offer a potential rescue therapy for ALS with respiratory failure and provide new insights into ALS in general.
 
 [Source](https://doi.org/10.1080/19490976.2024.2353396)
+
+10.1080/19490976.2024.2353396
 
 ---
 
@@ -93,9 +100,15 @@
 
 ---
 
-## Advanced microbiome therapeutics as a novel modality for oral delivery of peptides to manage metabolic diseases
+## Advanced microbiome therapeutics as a novel modality for oral delivery of peptides to manage metabolic diseases.
+ 23.05.2024, _R Vazquez-Uribe, KA Hedin, TR Licht, M Nieuwdorp, MOA Sommer_
+
+
+The rising prevalence of metabolic diseases calls for innovative treatments. Peptide-based drugs have transformed the management of conditions such as obesity and type 2 diabetes. Yet, challenges persist in oral delivery of these peptides. This review explores the potential of 'advanced microbiome therapeutics' (AMTs), which involve engineered microbes for delivery of peptides in situ, thereby enhancing their bioavailability. Preclinical work on AMTs has shown promise in treating animal models of metabolic diseases, including obesity, type 2 diabetes, and metabolic dysfunction-associated steatotic liver disease. Outstanding challenges toward realizing the potential of AMTs involve improving peptide expression, ensuring predictable colonization control, enhancing stability, and managing safety and biocontainment concerns. Still, AMTs have potential for revolutionizing the treatment of metabolic diseases, potentially offering dynamic and personalized novel therapeutic approaches.
 
 [Source](https://www.cell.com/trends/endocrinology-metabolism/fulltext/S1043-2760(24)00115-2)
+
+10.1016/j.tem.2024.04.021
 
 ---
 
