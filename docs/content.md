@@ -99,9 +99,16 @@
 
 ---
 
-## Identification of the mutual gliding locus as a factor for gut colonization in non-native bee hosts using the ARTP mutagenesis
+## Identification of the mutual gliding locus as a factor for gut colonization in non-native bee hosts using the ARTP mutagenesis.
+ 25.05.2024, _Y Meng, X Zhang, Y Zhai, Y Li, Z Shao, S Liu, C Zhang, XH Xing, H Zheng_
+
+
+_Animals, Bees, Gastrointestinal Microbiome, Symbiosis, Mutagenesis, Mutation_
+The gut microbiota and their hosts profoundly affect each other's physiology and evolution. Identifying host-selected traits is crucial to understanding the processes that govern the evolving interactions between animals and symbiotic microbes. Current experimental approaches mainly focus on the model bacteria, like hypermutating Escherichia coli or the evolutionary changes of wild stains by host transmissions. A method called atmospheric and room temperature plasma (ARTP) may overcome the bottleneck of low spontaneous mutation rates while maintaining mild conditions for the gut bacteria.
 
 [Source](https://doi.org/10.1186/s40168-024-01813-0)
+
+10.1186/s40168-024-01813-0
 
 ---
 
@@ -111,26 +118,45 @@
 
 ---
 
-## Phages enhance both phytopathogen density control and rhizosphere microbiome suppressiveness
+## Phages enhance both phytopathogen density control and rhizosphere microbiome suppressiveness.
+ 23.05.2024, _X Wang, S Wang, M Huang, Y He, S Guo, K Yang, N Wang, T Sun, H Yang, T Yang, Y Xu, Q Shen, V-P Friman, Z Wei_
+
+
+Bacteriophages, viruses that specifically target plant pathogenic bacteria, have emerged as a promising alternative to traditional agrochemicals. However, it remains unclear how phages should be applied to achieve efficient pathogen biocontrol and to what extent their efficacy is shaped by indirect interactions with the resident microbiota. Here, we tested if the phage biocontrol efficacy of Ralstonia solanacearum phytopathogenic bacterium can be improved by increasing the phage cocktail application frequency and if the phage efficacy is affected by pathogen-suppressing bacteria already present in the rhizosphere. We find that increasing phage application frequency improves R. solanacearum density control, leading to a clear reduction in bacterial wilt disease in both greenhouse and field experiments with tomato. The high phage application frequency also increased the diversity of resident rhizosphere microbiota and enriched several bacterial taxa that were associated with the reduction in pathogen densities. Interestingly, these taxa often belonged to Actinobacteria known for antibiotics production and soil suppressiveness. To test if they could have had secondary effects on R. solanacearum biocontrol, we isolated Actinobacteria from Nocardia and Streptomyces genera and tested their suppressiveness to the pathogen in vitro and in planta. We found that these taxa could clearly inhibit R. solanacearum growth and constrain bacterial wilt disease, especially when combined with the phage cocktail. Together, our findings unravel an undiscovered benefit of phage therapy, where phages trigger a second line of defense by the pathogen-suppressing bacteria that already exist in resident microbial communities.
 
 [Source](https://doi.org/10.1128/mbio.03016-23)
 
+10.1128/mbio.03016-23
+
 ---
 
-## Global epistasis and the emergence of function in microbial consortia
+## Global epistasis and the emergence of function in microbial consortia.
+ 22.05.2024, _J Diaz-Colunga, A Skwara, JCC Vila, D Bajic, A Sanchez_
+
+
+The many functions of microbial communities emerge from a complex web of interactions between organisms and their environment. This poses a significant obstacle to engineering microbial consortia, hindering our ability to harness the potential of microorganisms for biotechnological applications. In this study, we demonstrate that the collective effect of ecological interactions between microbes in a community can be captured by simple statistical models that predict how adding a new species to a community will affect its function. These predictive models mirror the patterns of global epistasis reported in genetics, and they can be quantitatively interpreted in terms of pairwise interactions between community members. Our results illuminate an unexplored path to quantitatively predicting the function of microbial consortia from their composition, paving the way to optimizing desirable community properties and bringing the tasks of predicting biological function at the genetic, organismal, and ecological scales under the same quantitative formalism.
 
 [Source](https://www.cell.com/cell/fulltext/S0092-8674(24)00411-2)
 
+10.1016/j.cell.2024.04.016
+
 ---
 
-## Bacterial dynamics of the plastisphere microbiome exposed to sub-lethal antibiotic pollution
+## Bacterial dynamics of the plastisphere microbiome exposed to sub-lethal antibiotic pollution.
+ 26.05.2024, _B Joannard, C Sanchez-Cid_
+
+
+_Anti-Bacterial Agents, Bacteria, Microbiota, RNA, Ribosomal, 16S, Integrons, Drug Resistance, Bacterial, Water Pollutants, Chemical, Microplastics, High-Throughput Nucleotide Sequencing, Metagenome, Plasmids, Water Microbiology, Drug Resistance, Microbial_
+Antibiotics and microplastics are two major aquatic pollutants that have been associated to antibiotic resistance selection in the environment and are considered a risk to human health. However, little is known about the interaction of these pollutants at environmental concentrations and the response of the microbial communities in the plastisphere to sub-lethal antibiotic pollution. Here, we describe the bacterial dynamics underlying this response in surface water bacteria at the community, resistome and mobilome level using a combination of methods (next-generation sequencing and qPCR), sequencing targets (16S rRNA gene, pre-clinical and clinical class 1 integron cassettes and metagenomes), technologies (short and long read sequencing), and assembly approaches (non-assembled reads, genome assembly, bacteriophage and plasmid assembly).
 
 [Source](https://doi.org/10.1186/s40168-024-01803-2)
+
+10.1186/s40168-024-01803-2
 
 ---
 
 ## Global soil metagenomics reveals distribution and predominance of Deltaproteobacteria in nitrogen-fixing microbiome.
- 24.05.2024, _Y Masuda, K Mise, Z Xu, Z Zhang, Y Shiratori, K Senoo, H Itoh_
+ 26.05.2024, _Y Masuda, K Mise, Z Xu, Z Zhang, Y Shiratori, K Senoo, H Itoh_
 
 
 _Soil Microbiology, Nitrogen Fixation, Metagenomics, Microbiota, Deltaproteobacteria, Soil, Phylogeny, Nitrogen, Metagenome_
