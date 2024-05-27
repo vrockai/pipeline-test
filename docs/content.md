@@ -15,53 +15,27 @@
 
 ---
 
-## Meta-analysis of shotgun sequencing of gut microbiota in Parkinson's disease.
- 24.05.2024, _H Nishiwaki, J Ueyama, M Ito, T Hamaguchi, K Takimoto, T Maeda, K Kashihara, Y Tsuboi, H Mori, K Kurokawa, M Katsuno, M Hirayama, K Ohno_
-
-
-We aimed to identify gut microbial features in Parkinson's disease (PD) across countries by meta-analyzing our fecal shotgun sequencing dataset of 94 PD patients and 73 controls in Japan with five previously reported datasets from USA, Germany, China1, China2, and Taiwan. GC-MS and LC-MS/MS assays were established to quantify fecal short-chain fatty acids (SCFAs) and fecal polyamines, respectively. α-Diversity was increased in PD across six datasets. Taxonomic analysis showed that species Akkermansia muciniphila was increased in PD, while species Roseburia intestinalis and Faecalibacterium prausnitzii were decreased in PD. Pathway analysis showed that genes in the biosyntheses of riboflavin and biotin were markedly decreased in PD after adjusting for confounding factors. Five out of six categories in carbohydrate-active enzymes (CAZymes) were decreased in PD. Metabolomic analysis of our fecal samples revealed that fecal SCFAs and polyamines were significantly decreased in PD. Genes in the riboflavin and biotin biosyntheses were positively correlated with the fecal concentrations of SCFAs and polyamines. Bacteria that accounted for the decreased riboflavin biosynthesis in Japan, the USA, and Germany were different from those in China1, China2, and Taiwan. Similarly, different bacteria accounted for decreased biotin biosynthesis in the two country groups. We postulate that decreased SCFAs and polyamines reduce the intestinal mucus layer, which subsequently facilitates the formation of abnormal α-synuclein fibrils in the intestinal neural plexus in PD, and also cause neuroinflammation in PD.
+## Meta-analysis of shotgun sequencing of gut microbiota in Parkinson’s disease
 
 [Source](https://doi.org/10.1038/s41531-024-00724-z)
 
-10.1038/s41531-024-00724-z
-
 ---
 
-## Systematic review of associations between gut microbiome composition and stunting in under-five children.
- 26.05.2024, _M Chibuye, DR Mende, R Spijker, M Simuyandi, CC Luchen, S Bosomprah, R Chilengi, C Schultsz, VC Harris_
-
-
-_Gastrointestinal Microbiome, Humans, Growth Disorders, Child, Preschool, Bacteria, Infant, High-Throughput Nucleotide Sequencing, Feces, Infant, Newborn_
-Childhood stunting is associated with impaired cognitive development and increased risk of infections, morbidity, and mortality. The composition of the enteric microbiota may contribute to the pathogenesis of stunting. We systematically reviewed and synthesized data from studies using high-throughput genomic sequencing methods to characterize the gut microbiome in stunted versus non-stunted children under 5 years in LMICs. We included 14 studies from Asia, Africa, and South America. Most studies did not report any significant differences in the alpha diversity, while a significantly higher beta diversity was observed in stunted children in four out of seven studies that reported beta diversity. At the phylum level, inconsistent associations with stunting were observed for Bacillota, Pseudomonadota, and Bacteroidota phyla. No single genus was associated with stunted children across all 14 studies, and some associations were incongruent by specific genera. Nonetheless, stunting was associated with an abundance of pathobionts that could drive inflammation, such as Escherichia/Shigella and Campylobacter, and a reduction of butyrate producers, including Faecalibacterium, Megasphera, Blautia, and increased Ruminoccoccus. An abundance of taxa thought to originate in the oropharynx was also reported in duodenal and fecal samples of stunted children, while metabolic pathways, including purine and pyrimidine biosynthesis, vitamin B biosynthesis, and carbohydrate and amino acid degradation pathways, predicted linear growth. Current studies show that stunted children can have distinct microbial patterns compared to non-stunted children, which could contribute to the pathogenesis of stunting.
+## Systematic review of associations between gut microbiome composition and stunting in under-five children
 
 [Source](https://doi.org/10.1038/s41522-024-00517-5)
 
-10.1038/s41522-024-00517-5
-
 ---
 
-## Production of deoxycholic acid by low-abundant microbial species is associated with impaired glucose metabolism.
- 23.05.2024, _A Wahlström, A Brumbaugh, W Sjöland, L Olsson, H Wu, M Henricsson, A Lundqvist, K Makki, SL Hazen, G Bergström, HU Marschall, MA Fischbach, F Bäckhed_
-
-
-_Deoxycholic Acid, Animals, Gastrointestinal Microbiome, Female, Glucose, Mice, Humans, Diabetes Mellitus, Type 2, Mice, Inbred C57BL, Clostridium, Cholic Acid, Male_
-Alterations in gut microbiota composition are suggested to contribute to cardiometabolic diseases, in part by producing bioactive molecules. Some of the metabolites are produced by very low abundant bacterial taxa, which largely have been neglected due to limits of detection. However, the concentration of microbially produced metabolites from these taxa can still reach high levels and have substantial impact on host physiology. To explore this concept, we focused on the generation of secondary bile acids by 7α-dehydroxylating bacteria and demonstrated that addition of a very low abundant bacteria to a community can change the metabolic output dramatically. We show that Clostridium scindens converts cholic acid into the secondary bile acid deoxycholic acid (DCA) very efficiently even though the abundance of C. scindens is low, but still detectable by digital droplet PCR. We also show that colonization of germ-free female mice with a community containing C. scindens induces DCA production and affects host metabolism. Finally, we show that DCA correlates with impaired glucose metabolism and a worsened lipid profile in individuals with type 2 diabetes, which implies that this metabolic pathway may contribute to the development of cardiometabolic disease.
+## Production of deoxycholic acid by low-abundant microbial species is associated with impaired glucose metabolism
 
 [Source](https://doi.org/10.1038/s41467-024-48543-3)
 
-10.1038/s41467-024-48543-3
-
 ---
 
-## Altered gut microbiota is associated with the formation of occult hepatitis B virus infection.
- 24.05.2024, _B Liu, H Yang, Q Liao, M Wang, J Huang, R Xu, Z Shan, H Zhong, T Li, C Li, Y Fu, X Rong_
-
-
-Hepatitis B virus (HBV), a common blood transmission pathogen worldwide, can lead to viral hepatitis, cirrhosis, liver cancer, and other liver diseases. In particular, occult hepatitis B virus infection (OBI) may be caused by an immune response leading to suppressed virus replication. Gut microbiota can change the immunity status of the human body and, therefore, affect the replication of HBV. Thus, to identify whether there are differences in gut microbiota between HBV carriers and OBI carriers, we collected fecal samples from 18 HBV carriers, 24 OBI blood donors, and also 20 healthy blood donors as negative control. After 16S sequencing, we found that the abundance of Faecalibacterium was significantly reduced in samples from OBI blood donors compared with those from healthy blood donors. Compared with samples from HBV carriers, the samples from OBI blood donors had a significantly increased abundance of Subdoligranulum, which might stimulate immune activation, thus inhibiting HBV replication and contributing to the formation of occult infection. Our findings revealed the potential role of gut microbiota in the formation of OBI and further provided a novel strategy for the treatment of HBV infection.IMPORTANCEOccult hepatitis B virus infection (OBI) is a special form of hepatitis B virus infection with hepatitis B surface antigen (HBsAg) positive and hepatitis B virus (HBV) DNA negative. Gut microbiota may contribute to the immune response leading to suppressed virus replication and, thus, participates in the development of OBI. The study on gut microbiota of OBI blood donors provides novel data considerably advancing our understanding of the immune mechanism for the determination of occult hepatitis B virus infection, which is helpful for improving the strategy of the treatment of HBV infection.
+## Altered gut microbiota is associated with the formation of occult hepatitis B virus infection
 
 [Source](https://doi.org/10.1128/spectrum.00239-24)
-
-10.1128/spectrum.00239-24
 
 ---
 
@@ -71,29 +45,15 @@ Hepatitis B virus (HBV), a common blood transmission pathogen worldwide, can lea
 
 ---
 
-## From gut microbiota to brain: implications on binge eating disorders.
- 26.05.2024, _W Guo, W Xiong_
-
-
-_Gastrointestinal Microbiome, Humans, Binge-Eating Disorder, Brain-Gut Axis, Brain, Animals, Dysbiosis, Feeding Behavior_
-The prevalence of eating disorders has been increasing over the last 50 years. Binge eating disorder (BED) and bulimia nervosa (BN) are two typical disabling, costly and life-threatening eating disorders that substantially compromise the physical well-being of individuals while undermining their psychological functioning. The distressing and recurrent episodes of binge eating are commonly observed in both BED and BN; however, they diverge as BN often involves the adoption of inappropriate compensatory behaviors aimed at averting weight gain. Normal eating behavior is coordinated by a well-regulated trade-off between intestinal and central ingestive mechanism. Conversely, despite the fact that the etiology of BED and BN remains incompletely resolved, emerging evidence corroborates the notion that dysbiosis of gastrointestinal microbiome and its metabolites, alteration of gut-brain axis, as well as malfunctioning central circuitry regulating motivation, execution and reward all contribute to the pathology of binge eating. In this review, we aim to outline the current state of knowledge pertaining to the potential mechanisms through which each component of the gut-brain axis participates in binge eating behaviors, and provide insight for the development of microbiome-based therapeutic interventions that hold promise in ameliorating patients afflicted with binge eating disorders.
+## From gut microbiota to brain: implications on binge eating disorders
 
 [Source](https://doi.org/10.1080/19490976.2024.2357177)
 
-10.1080/19490976.2024.2357177
-
 ---
 
-## Pathogenesis and therapeutic opportunities of gut microbiome dysbiosis in critical illness.
- 26.05.2024, _NA Cho, K Strayer, B Dobson, B McDonald_
-
-
-_Dysbiosis, Humans, Critical Illness, Gastrointestinal Microbiome, Cross Infection, Intensive Care Units, Animals, Host Microbial Interactions, Bacteria_
-For many years, it has been hypothesized that pathological changes to the gut microbiome in critical illness is a driver of infections, organ dysfunction, and other adverse outcomes in the intensive care unit (ICU). The advent of contemporary microbiome methodologies and multi-omics tools have allowed researchers to test this hypothesis by dissecting host-microbe interactions in the gut to better define its contribution to critical illness pathogenesis. Observational studies of patients in ICUs have revealed that gut microbial communities are profoundly altered in critical illness, characterized by markedly reduced alpha diversity, loss of commensal taxa, and expansion of potential pathogens. These key features of ICU gut dysbiosis have been associated with adverse outcomes including life-threatening hospital-acquired (nosocomial) infections. Current research strives to define cellular and molecular mechanisms connecting gut dysbiosis with infections and other outcomes, and to identify opportunities for therapeutic modulation of host-microbe interactions. This review synthesizes evidence from studies of critically ill patients that have informed our understanding of intestinal dysbiosis in the ICU, mechanisms linking dysbiosis to infections and other adverse outcomes, as well as clinical trials of microbiota-modifying therapies. Additionally, we discuss novel avenues for precision microbial therapeutics to combat nosocomial infections and other life-threatening complications of critical illness.
+## Pathogenesis and therapeutic opportunities of gut microbiome dysbiosis in critical illness
 
 [Source](https://doi.org/10.1080/19490976.2024.2351478)
-
-10.1080/19490976.2024.2351478
 
 ---
 
@@ -103,16 +63,9 @@ For many years, it has been hypothesized that pathological changes to the gut mi
 
 ---
 
-## Leveraging existing 16S rRNA gene surveys to decipher microbial signatures and dysbiosis in cervical carcinogenesis.
- 24.05.2024, _X Li, F Xiang, T Liu, Z Chen, M Zhang, J Li, X Kang, R Wu_
-
-
-_Humans, Female, Uterine Cervical Neoplasms, RNA, Ribosomal, 16S, Dysbiosis, Microbiota, Bacteria, Carcinogenesis, Uterine Cervical Dysplasia, Vagina, Cervix Uteri_
-The presence of dysbiotic cervicovaginal microbiota has been observed to be linked to the persistent development of cervical carcinogenesis mediated by the human papillomavirus (HPV). Nevertheless, the characteristics of the cervical microbiome in individuals diagnosed with cervical cancer (CC) are still not well understood. Comprehensive analysis was conducted by re-analyzing the cervical 16S rRNA sequencing datasets of a total of 507 samples from six previously published studies. We observed significant alpha and beta diversity differences in between CC, cervical intraepithelial neoplasia (CIN) and normal controls (NC), but not between HPV and NC in the combined dataset. Meta-analysis revealed that opportunistic pernicious microbes Streptococcus, Fusobacterium, Pseudomonas and Anaerococcus were enriched in CC, while Lactobacillus was depleted compared to NC. Members of Gardnerella, Sneathia, Pseudomonas, and Fannyhessea have significantly increased relative abundance compared to other bacteria in the CIN group. Five newly identified bacterial genera were found to differentiate CC from NC, with an area under the curve (AUC) of 0.8947. Moreover, co-occurrence network analysis showed that the most commonly encountered Lactobacillus was strongly negatively correlated with Prevotella. Overall, our study identified a set of potential biomarkers for CC from samples across different geographic regions. Our meta-analysis provided significant insights into the characteristics of dysbiotic cervicovaginal microbiota undergoing CC, which may lead to the development of noninvasive CC diagnostic tools and therapeutic interventions.
+## Leveraging existing 16S rRNA gene surveys to decipher microbial signatures and dysbiosis in cervical carcinogenesis
 
 [Source](https://doi.org/10.1038/s41598-024-62531-z)
-
-10.1038/s41598-024-62531-z
 
 ---
 
@@ -122,16 +75,9 @@ The presence of dysbiotic cervicovaginal microbiota has been observed to be link
 
 ---
 
-## Prodrug-conjugated tumor-seeking commensals for targeted cancer therapy.
- 24.05.2024, _H Shen, C Zhang, S Li, Y Liang, LT Lee, N Aggarwal, KS Wun, J Liu, SP Nadarajan, C Weng, H Ling, JK Tay, Y Wang, SQ Yao, IY Hwang, YS Lee, MW Chang_
-
-
-_Prodrugs, Animals, Humans, Mice, Cell Line, Tumor, Xenograft Model Antitumor Assays, Lactobacillus plantarum, Nasopharyngeal Neoplasms, Nasopharyngeal Carcinoma, Tumor Microenvironment, Antineoplastic Agents, Mice, Nude, Female, Mice, Inbred BALB C_
-Prodrugs have been explored as an alternative to conventional chemotherapy; however, their target specificity remains limited. The tumor microenvironment harbors a range of microorganisms that potentially serve as tumor-targeting vectors for delivering prodrugs. In this study, we harness bacteria-cancer interactions native to the tumor microbiome to achieve high target specificity for prodrug delivery. We identify an oral commensal strain of Lactobacillus plantarum with an intrinsic cancer-binding mechanism and engineer the strain to enable the surface loading of anticancer prodrugs, with nasopharyngeal carcinoma (NPC) as a model cancer. The engineered commensals show specific binding to NPC via OppA-mediated recognition of surface heparan sulfate, and the loaded prodrugs are activated by tumor-associated biosignals to release SN-38, a chemotherapy compound, near NPC. In vitro experiments demonstrate that the prodrug-loaded microbes significantly increase the potency of SN-38 against NPC cell lines, up to 10-fold. In a mouse xenograft model, intravenous injection of the engineered L. plantarum leads to bacterial colonization in NPC tumors and a 67% inhibition in tumor growth, enhancing the efficacy of SN-38 by 54%.
+## Prodrug-conjugated tumor-seeking commensals for targeted cancer therapy
 
 [Source](https://doi.org/10.1038/s41467-024-48661-y)
-
-10.1038/s41467-024-48661-y
 
 ---
 
@@ -210,7 +156,7 @@ The many functions of microbial communities emerge from a complex web of interac
 ---
 
 ## Bacterial dynamics of the plastisphere microbiome exposed to sub-lethal antibiotic pollution.
- 26.05.2024, _B Joannard, C Sanchez-Cid_
+ 27.05.2024, _B Joannard, C Sanchez-Cid_
 
 
 _Anti-Bacterial Agents, Bacteria, Microbiota, RNA, Ribosomal, 16S, Integrons, Drug Resistance, Bacterial, Water Pollutants, Chemical, Microplastics, High-Throughput Nucleotide Sequencing, Metagenome, Plasmids, Water Microbiology, Drug Resistance, Microbial_
@@ -223,7 +169,7 @@ Antibiotics and microplastics are two major aquatic pollutants that have been as
 ---
 
 ## Global soil metagenomics reveals distribution and predominance of Deltaproteobacteria in nitrogen-fixing microbiome.
- 26.05.2024, _Y Masuda, K Mise, Z Xu, Z Zhang, Y Shiratori, K Senoo, H Itoh_
+ 27.05.2024, _Y Masuda, K Mise, Z Xu, Z Zhang, Y Shiratori, K Senoo, H Itoh_
 
 
 _Soil Microbiology, Nitrogen Fixation, Metagenomics, Microbiota, Deltaproteobacteria, Soil, Phylogeny, Nitrogen, Metagenome_
@@ -242,7 +188,7 @@ Biological nitrogen fixation is a fundamental process sustaining all life on ear
 ---
 
 ## Fungal diversity differences in the indoor dust microbiome from built environments on earth and in space.
- 24.05.2024, _N Nastasi, SR Haines, A Bope, ME Meyer, JM Horack, KC Dannemiller_
+ 27.05.2024, _N Nastasi, SR Haines, A Bope, ME Meyer, JM Horack, KC Dannemiller_
 
 
 _Dust, Fungi, Microbiota, Humans, Spacecraft, Air Pollution, Indoor, Built Environment, Bacteria, Air Microbiology, Earth, Planet, Humidity_
