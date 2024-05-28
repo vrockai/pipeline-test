@@ -111,9 +111,15 @@
 
 ---
 
-## Phages enhance both phytopathogen density control and rhizosphere microbiome suppressiveness
+## Phages enhance both phytopathogen density control and rhizosphere microbiome suppressiveness.
+ 23.05.2024, _X Wang, S Wang, M Huang, Y He, S Guo, K Yang, N Wang, T Sun, H Yang, T Yang, Y Xu, Q Shen, V-P Friman, Z Wei_
+
+
+Bacteriophages, viruses that specifically target plant pathogenic bacteria, have emerged as a promising alternative to traditional agrochemicals. However, it remains unclear how phages should be applied to achieve efficient pathogen biocontrol and to what extent their efficacy is shaped by indirect interactions with the resident microbiota. Here, we tested if the phage biocontrol efficacy of Ralstonia solanacearum phytopathogenic bacterium can be improved by increasing the phage cocktail application frequency and if the phage efficacy is affected by pathogen-suppressing bacteria already present in the rhizosphere. We find that increasing phage application frequency improves R. solanacearum density control, leading to a clear reduction in bacterial wilt disease in both greenhouse and field experiments with tomato. The high phage application frequency also increased the diversity of resident rhizosphere microbiota and enriched several bacterial taxa that were associated with the reduction in pathogen densities. Interestingly, these taxa often belonged to Actinobacteria known for antibiotics production and soil suppressiveness. To test if they could have had secondary effects on R. solanacearum biocontrol, we isolated Actinobacteria from Nocardia and Streptomyces genera and tested their suppressiveness to the pathogen in vitro and in planta. We found that these taxa could clearly inhibit R. solanacearum growth and constrain bacterial wilt disease, especially when combined with the phage cocktail. Together, our findings unravel an undiscovered benefit of phage therapy, where phages trigger a second line of defense by the pathogen-suppressing bacteria that already exist in resident microbial communities.
 
 [Source](https://doi.org/10.1128/mbio.03016-23)
+
+10.1128/mbio.03016-23
 
 ---
 
@@ -129,9 +135,16 @@ The many functions of microbial communities emerge from a complex web of interac
 
 ---
 
-## Bacterial dynamics of the plastisphere microbiome exposed to sub-lethal antibiotic pollution
+## Bacterial dynamics of the plastisphere microbiome exposed to sub-lethal antibiotic pollution.
+ 27.05.2024, _B Joannard, C Sanchez-Cid_
+
+
+_Anti-Bacterial Agents, Bacteria, Microbiota, RNA, Ribosomal, 16S, Integrons, Drug Resistance, Bacterial, Water Pollutants, Chemical, Microplastics, High-Throughput Nucleotide Sequencing, Metagenome, Plasmids, Water Microbiology, Drug Resistance, Microbial_
+Antibiotics and microplastics are two major aquatic pollutants that have been associated to antibiotic resistance selection in the environment and are considered a risk to human health. However, little is known about the interaction of these pollutants at environmental concentrations and the response of the microbial communities in the plastisphere to sub-lethal antibiotic pollution. Here, we describe the bacterial dynamics underlying this response in surface water bacteria at the community, resistome and mobilome level using a combination of methods (next-generation sequencing and qPCR), sequencing targets (16S rRNA gene, pre-clinical and clinical class 1 integron cassettes and metagenomes), technologies (short and long read sequencing), and assembly approaches (non-assembled reads, genome assembly, bacteriophage and plasmid assembly).
 
 [Source](https://doi.org/10.1186/s40168-024-01803-2)
+
+10.1186/s40168-024-01803-2
 
 ---
 
