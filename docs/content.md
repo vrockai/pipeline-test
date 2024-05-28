@@ -27,15 +27,28 @@
 
 ---
 
-## Production of deoxycholic acid by low-abundant microbial species is associated with impaired glucose metabolism
+## Production of deoxycholic acid by low-abundant microbial species is associated with impaired glucose metabolism.
+ 23.05.2024, _A Wahlström, A Brumbaugh, W Sjöland, L Olsson, H Wu, M Henricsson, A Lundqvist, K Makki, SL Hazen, G Bergström, HU Marschall, MA Fischbach, F Bäckhed_
+
+
+_Deoxycholic Acid, Animals, Gastrointestinal Microbiome, Female, Glucose, Mice, Humans, Diabetes Mellitus, Type 2, Mice, Inbred C57BL, Clostridium, Cholic Acid, Male_
+Alterations in gut microbiota composition are suggested to contribute to cardiometabolic diseases, in part by producing bioactive molecules. Some of the metabolites are produced by very low abundant bacterial taxa, which largely have been neglected due to limits of detection. However, the concentration of microbially produced metabolites from these taxa can still reach high levels and have substantial impact on host physiology. To explore this concept, we focused on the generation of secondary bile acids by 7α-dehydroxylating bacteria and demonstrated that addition of a very low abundant bacteria to a community can change the metabolic output dramatically. We show that Clostridium scindens converts cholic acid into the secondary bile acid deoxycholic acid (DCA) very efficiently even though the abundance of C. scindens is low, but still detectable by digital droplet PCR. We also show that colonization of germ-free female mice with a community containing C. scindens induces DCA production and affects host metabolism. Finally, we show that DCA correlates with impaired glucose metabolism and a worsened lipid profile in individuals with type 2 diabetes, which implies that this metabolic pathway may contribute to the development of cardiometabolic disease.
 
 [Source](https://doi.org/10.1038/s41467-024-48543-3)
 
+10.1038/s41467-024-48543-3
+
 ---
 
-## Altered gut microbiota is associated with the formation of occult hepatitis B virus infection
+## Altered gut microbiota is associated with the formation of occult hepatitis B virus infection.
+ 24.05.2024, _B Liu, H Yang, Q Liao, M Wang, J Huang, R Xu, Z Shan, H Zhong, T Li, C Li, Y Fu, X Rong_
+
+
+Hepatitis B virus (HBV), a common blood transmission pathogen worldwide, can lead to viral hepatitis, cirrhosis, liver cancer, and other liver diseases. In particular, occult hepatitis B virus infection (OBI) may be caused by an immune response leading to suppressed virus replication. Gut microbiota can change the immunity status of the human body and, therefore, affect the replication of HBV. Thus, to identify whether there are differences in gut microbiota between HBV carriers and OBI carriers, we collected fecal samples from 18 HBV carriers, 24 OBI blood donors, and also 20 healthy blood donors as negative control. After 16S sequencing, we found that the abundance of Faecalibacterium was significantly reduced in samples from OBI blood donors compared with those from healthy blood donors. Compared with samples from HBV carriers, the samples from OBI blood donors had a significantly increased abundance of Subdoligranulum, which might stimulate immune activation, thus inhibiting HBV replication and contributing to the formation of occult infection. Our findings revealed the potential role of gut microbiota in the formation of OBI and further provided a novel strategy for the treatment of HBV infection.IMPORTANCEOccult hepatitis B virus infection (OBI) is a special form of hepatitis B virus infection with hepatitis B surface antigen (HBsAg) positive and hepatitis B virus (HBV) DNA negative. Gut microbiota may contribute to the immune response leading to suppressed virus replication and, thus, participates in the development of OBI. The study on gut microbiota of OBI blood donors provides novel data considerably advancing our understanding of the immune mechanism for the determination of occult hepatitis B virus infection, which is helpful for improving the strategy of the treatment of HBV infection.
 
 [Source](https://doi.org/10.1128/spectrum.00239-24)
+
+10.1128/spectrum.00239-24
 
 ---
 
@@ -45,15 +58,29 @@
 
 ---
 
-## From gut microbiota to brain: implications on binge eating disorders
+## From gut microbiota to brain: implications on binge eating disorders.
+ 26.05.2024, _W Guo, W Xiong_
+
+
+_Gastrointestinal Microbiome, Humans, Binge-Eating Disorder, Brain-Gut Axis, Brain, Animals, Dysbiosis, Feeding Behavior_
+The prevalence of eating disorders has been increasing over the last 50 years. Binge eating disorder (BED) and bulimia nervosa (BN) are two typical disabling, costly and life-threatening eating disorders that substantially compromise the physical well-being of individuals while undermining their psychological functioning. The distressing and recurrent episodes of binge eating are commonly observed in both BED and BN; however, they diverge as BN often involves the adoption of inappropriate compensatory behaviors aimed at averting weight gain. Normal eating behavior is coordinated by a well-regulated trade-off between intestinal and central ingestive mechanism. Conversely, despite the fact that the etiology of BED and BN remains incompletely resolved, emerging evidence corroborates the notion that dysbiosis of gastrointestinal microbiome and its metabolites, alteration of gut-brain axis, as well as malfunctioning central circuitry regulating motivation, execution and reward all contribute to the pathology of binge eating. In this review, we aim to outline the current state of knowledge pertaining to the potential mechanisms through which each component of the gut-brain axis participates in binge eating behaviors, and provide insight for the development of microbiome-based therapeutic interventions that hold promise in ameliorating patients afflicted with binge eating disorders.
 
 [Source](https://doi.org/10.1080/19490976.2024.2357177)
 
+10.1080/19490976.2024.2357177
+
 ---
 
-## Pathogenesis and therapeutic opportunities of gut microbiome dysbiosis in critical illness
+## Pathogenesis and therapeutic opportunities of gut microbiome dysbiosis in critical illness.
+ 26.05.2024, _NA Cho, K Strayer, B Dobson, B McDonald_
+
+
+_Dysbiosis, Humans, Critical Illness, Gastrointestinal Microbiome, Cross Infection, Intensive Care Units, Animals, Host Microbial Interactions, Bacteria_
+For many years, it has been hypothesized that pathological changes to the gut microbiome in critical illness is a driver of infections, organ dysfunction, and other adverse outcomes in the intensive care unit (ICU). The advent of contemporary microbiome methodologies and multi-omics tools have allowed researchers to test this hypothesis by dissecting host-microbe interactions in the gut to better define its contribution to critical illness pathogenesis. Observational studies of patients in ICUs have revealed that gut microbial communities are profoundly altered in critical illness, characterized by markedly reduced alpha diversity, loss of commensal taxa, and expansion of potential pathogens. These key features of ICU gut dysbiosis have been associated with adverse outcomes including life-threatening hospital-acquired (nosocomial) infections. Current research strives to define cellular and molecular mechanisms connecting gut dysbiosis with infections and other outcomes, and to identify opportunities for therapeutic modulation of host-microbe interactions. This review synthesizes evidence from studies of critically ill patients that have informed our understanding of intestinal dysbiosis in the ICU, mechanisms linking dysbiosis to infections and other adverse outcomes, as well as clinical trials of microbiota-modifying therapies. Additionally, we discuss novel avenues for precision microbial therapeutics to combat nosocomial infections and other life-threatening complications of critical illness.
 
 [Source](https://doi.org/10.1080/19490976.2024.2351478)
+
+10.1080/19490976.2024.2351478
 
 ---
 
@@ -81,16 +108,9 @@
 
 ---
 
-## Fecal microbiota transplantation significantly improved respiratory failure of amyotrophic lateral sclerosis.
- 26.05.2024, _J Yan, H Chen, Y Zhang, L Peng, Z Wang, X Lan, S Yu, Y Yang_
-
-
-_Amyotrophic Lateral Sclerosis, Humans, Fecal Microbiota Transplantation, Respiratory Insufficiency, Male, Middle Aged, Aged, Female, Bacteroides, Gastrointestinal Microbiome, Faecalibacterium prausnitzii, Treatment Outcome, Respiration, Artificial, Feces_
-Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease that leads to respiratory failure, and eventually death. However, there is a lack of effective treatments for ALS. Here we report the results of fecal microbiota transplantation (FMT) in two patients with late-onset classic ALS with a Japan ALS severity classification of grade 5 who required tracheostomy and mechanical ventilation. In both patients, significant improvements in respiratory function were observed following two rounds of FMT, leading to weaning off mechanical ventilation. Their muscle strength improved, allowing for assisted standing and mobility. Other notable treatment responses included improved swallowing function and reduced muscle fasciculations. Metagenomic and metabolomic analysis revealed an increase in beneficial Bacteroides species (Bacteroides stercoris, Bacteroides uniformis, Bacteroides vulgatus), and Faecalibacterium prausnitzii after FMT, as well as elevated levels of metabolites involved in arginine biosynthesis and decreased levels of metabolites involved in branched-chain amino acid biosynthesis. These findings offer a potential rescue therapy for ALS with respiratory failure and provide new insights into ALS in general.
+## Fecal microbiota transplantation significantly improved respiratory failure of amyotrophic lateral sclerosis
 
 [Source](https://doi.org/10.1080/19490976.2024.2353396)
-
-10.1080/19490976.2024.2353396
 
 ---
 
