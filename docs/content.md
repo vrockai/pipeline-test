@@ -117,9 +117,15 @@
 
 ---
 
-## Global epistasis and the emergence of function in microbial consortia
+## Global epistasis and the emergence of function in microbial consortia.
+ 22.05.2024, _J Diaz-Colunga, A Skwara, JCC Vila, D Bajic, A Sanchez_
+
+
+The many functions of microbial communities emerge from a complex web of interactions between organisms and their environment. This poses a significant obstacle to engineering microbial consortia, hindering our ability to harness the potential of microorganisms for biotechnological applications. In this study, we demonstrate that the collective effect of ecological interactions between microbes in a community can be captured by simple statistical models that predict how adding a new species to a community will affect its function. These predictive models mirror the patterns of global epistasis reported in genetics, and they can be quantitatively interpreted in terms of pairwise interactions between community members. Our results illuminate an unexplored path to quantitatively predicting the function of microbial consortia from their composition, paving the way to optimizing desirable community properties and bringing the tasks of predicting biological function at the genetic, organismal, and ecological scales under the same quantitative formalism.
 
 [Source](https://www.cell.com/cell/fulltext/S0092-8674(24)00411-2)
+
+10.1016/j.cell.2024.04.016
 
 ---
 
