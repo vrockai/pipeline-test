@@ -1,101 +1,87 @@
-## Microbiome research in Africa must be based on equitable partnerships.
- 23.05.2024, _OH Oduaran, MO Foláyan, AW Kamng'ona, A Nakimuli, LM Mwapagha, ME Setati, M Owusu, N Mulder, TP Makhalanyane, S Kouidhi_
+## Gut microbiome remodeling and metabolomic profile improves in response to protein pacing with intermittent fasting versus continuous caloric restriction.
+ 28.05.2024, _AE Mohr, KL Sweazea, DA Bowes, P Jasbi, CM Whisner, DD Sears, R Krajmalnik-Brown, Y Jin, H Gu, J Klein-Seetharaman, KM Arciero, E Gumpricht, PJ Arciero_
 
 
+_Humans, Gastrointestinal Microbiome, Caloric Restriction, Male, Female, Fasting, Adult, Middle Aged, Body Composition, Metabolomics, Feces, Metabolome, Weight Loss, Obesity, Dietary Proteins, Intermittent Fasting_
+The gut microbiome (GM) modulates body weight/composition and gastrointestinal functioning; therefore, approaches targeting resident gut microbes have attracted considerable interest. Intermittent fasting (IF) and protein pacing (P) regimens are effective in facilitating weight loss (WL) and enhancing body composition. However, the interrelationships between IF- and P-induced WL and the GM are unknown. The current randomized controlled study describes distinct fecal microbial and plasma metabolomic signatures between combined IF-P (n = 21) versus a heart-healthy, calorie-restricted (CR, n = 20) diet matched for overall energy intake in free-living human participants (women = 27; men = 14) with overweight/obesity for 8 weeks. Gut symptomatology improves and abundance of Christensenellaceae microbes and circulating cytokines and amino acid metabolites favoring fat oxidation increase with IF-P (p &lt; 0.05), whereas metabolites associated with a longevity-related metabolic pathway increase with CR (p &lt; 0.05). Differences indicate GM and metabolomic factors play a role in WL maintenance and body composition. This novel work provides insight into the GM and metabolomic profile of participants following an IF-P or CR diet and highlights important differences in microbial assembly associated with WL and body composition responsiveness. These data may inform future GM-focused precision nutrition recommendations using larger sample sizes of longer duration. Trial registration, March 6, 2020 (ClinicalTrials.gov as NCT04327141), based on a previous randomized intervention trial.
 
-[Source](https://doi.org/10.1038/s41591-024-03026-2)
+[Source](https://www.nature.com/articles/s41467-024-48355-5)
 
-10.1038/s41591-024-03026-2
-
----
-
-## IL-33 controls IL-22-dependent antibacterial defense by modulating the microbiota
-
-[Source](https://doi.org/10.1073/pnas.2310864121)
+10.1038/s41467-024-48355-5
 
 ---
 
-## Meta-analysis of shotgun sequencing of gut microbiota in Parkinson’s disease
+## Towards a Health-Associated Core Keystone (HACK) index for the human gut microbiome
 
-[Source](https://doi.org/10.1038/s41531-024-00724-z)
-
----
-
-## Systematic review of associations between gut microbiome composition and stunting in under-five children
-
-[Source](https://doi.org/10.1038/s41522-024-00517-5)
+[Source](https://www.biorxiv.org/content/biorxiv/early/2024/05/27/2024.05.27.596018.full.pdf)
 
 ---
 
-## Production of deoxycholic acid by low-abundant microbial species is associated with impaired glucose metabolism
+## Exposure to environmental pollutants selects for xenobiotic-degrading functions in the human gut microbiome.
+ 27.05.2024, _F De Filippis, V Valentino, G Sequino, G Borriello, MG Riccardi, B Pierri, P Cerino, A Pizzolante, E Pasolli, M Esposito, A Limone, D Ercolini_
 
-[Source](https://doi.org/10.1038/s41467-024-48543-3)
 
----
+_Humans, Gastrointestinal Microbiome, Xenobiotics, Environmental Pollutants, Female, Male, Feces, Italy, Adult, Middle Aged, Environmental Exposure, Metagenomics, Bacteria, Cohort Studies, Metals, Heavy, Aged, Environmental Pollution, Biodegradation, Environmental_
+Environmental pollutants from different chemical families may reach the gut microbiome, where they can be metabolized and transformed. However, how our gut symbionts respond to the exposure to environmental pollution is still underexplored. In this observational, cohort study, we aim to investigate the influence of environmental pollution on the gut microbiome composition and potential activity by shotgun metagenomics. We select as a case study a population living in a highly polluted area in Campania region (Southern Italy), proposed as an ideal field for exposomic studies and we compare the fecal microbiome of 359 subjects living in areas with high, medium and low environmental pollution. We highlight changes in gut microbiome composition and functionality that were driven by pollution exposure. Subjects from highly polluted areas show higher blood concentrations of dioxin and heavy metals, as well as an increase in microbial genes related to degradation and/or resistance to these molecules. Here we demonstrate the dramatic effect that environmental xenobiotics have on gut microbial communities, shaping their composition and boosting the selection of strains with degrading capacity. The gut microbiome can be considered as a pivotal player in the environment-health interaction that may contribute to detoxifying toxic compounds and should be taken into account when developing risk assessment models. The study was registered at ClinicalTrials.gov with the identifier NCT05976126.
 
-## Altered gut microbiota is associated with the formation of occult hepatitis B virus infection
+[Source](https://www.nature.com/articles/s41467-024-48739-7)
 
-[Source](https://doi.org/10.1128/spectrum.00239-24)
-
----
-
-## Metagenome-assembled genomes (MAGs) suggest an acetate-driven protective role in gut microbiota disrupted by <em>Clostridioides difficile</em>
-
-[Source](https://doi.org/10.1016/j.micres.2024.127739)
+10.1038/s41467-024-48739-7
 
 ---
 
-## From gut microbiota to brain: implications on binge eating disorders
+## The interrelation between microbial immunoglobulin coating, vaginal microbiota, ethnicity, and preterm birth.
+ 27.05.2024, _HJ Schuster, AC Breedveld, SPF Matamoros, R van Eekelen, RC Painter, M Kok, PJ Hajenius, PHM Savelkoul, M van Egmond, R van Houdt_
 
-[Source](https://doi.org/10.1080/19490976.2024.2357177)
 
----
+_Humans, Female, Vagina, Pregnancy, Adult, Premature Birth, Case-Control Studies, Prospective Studies, Microbiota, Ethnicity, Lactobacillus, Host Microbial Interactions, Immunoglobulins, Immunoglobulin A, Young Adult_
+Vaginal microbiota composition is associated with spontaneous preterm birth (sPTB), depending on ethnicity. Host-microbiota interactions are thought to play an important underlying role in this association between ethnicity, vaginal microbiota and sPTB.
 
-## Pathogenesis and therapeutic opportunities of gut microbiome dysbiosis in critical illness
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01787-z)
 
-[Source](https://doi.org/10.1080/19490976.2024.2351478)
-
----
-
-## Pathobiological signatures of dysbiotic lung injury in pediatric patients undergoing stem cell transplantation
-
-[Source](https://doi.org/10.1038/s41591-024-02999-4)
+10.1186/s40168-024-01787-z
 
 ---
 
-## Leveraging existing 16S rRNA gene surveys to decipher microbial signatures and dysbiosis in cervical carcinogenesis
+## Porphyromonas gingivalis, a bridge between oral health and immune evasion in gastric cancer.
+ 29.05.2024, _M Muñoz-Medel, MP Pinto, L Goralsky, M Cáceres, F Villarroel-Espíndola, P Manque, A Pinto, B Garcia-Bloj, T de Mayo, JA Godoy, M Garrido, IN Retamal_
 
-[Source](https://doi.org/10.1038/s41598-024-62531-z)
 
----
+Porphyromonas gingivalis (P. gingivalis) is a gram-negative oral pathogen associated with chronic periodontitis. Previous studies have linked poor oral health and periodontitis with oral cancer. Severe cases of periodontal disease can result in advanced periodontitis, leading to tissue degradation, tooth loss, and may also correlate with higher gastric cancer (GC) risk. In fact, tooth loss is associated with an elevated risk of cancer. However, the clinical evidence for this association remains inconclusive. Periodontitis is also characterized by chronic inflammation and upregulation of members of the Programmed Death 1/PD1 Ligand 1 (PD1/PDL1) axis that leads to an immunosuppressive state. Given that chronic inflammation and immunosuppression are conditions that facilitate cancer progression and carcinogenesis, we hypothesize that oral P. gingivalis and/or its virulence factors serve as a mechanistic link between oral health and gastric carcinogenesis/GC progression. We also discuss the potential impact of P. gingivalis' virulence factors (gingipains, lipopolysaccharide (LPS), and fimbriae) on inflammation and the response to immune checkpoint inhibitors in GC which are part of the current standard of care for advanced stage patients.
 
-## Targeting <em>Megasphaera</em> species to promote cervicovaginal health
+[Source](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1403089/full)
 
-[Source](https://www.cell.com/trends/microbiology/abstract/S0966-842X(24)00131-8)
-
----
-
-## Prodrug-conjugated tumor-seeking commensals for targeted cancer therapy
-
-[Source](https://doi.org/10.1038/s41467-024-48661-y)
+10.3389/fonc.2024.1403089
 
 ---
 
-## Fecal microbiota transplantation significantly improved respiratory failure of amyotrophic lateral sclerosis
+## Differences in maternal subgingival microbiome between preterm and term births: The MOHEPI study.
+ 29.05.2024, _JS Park, E Kim, SJ Kwon, JS Heo, KH Ahn_
 
-[Source](https://doi.org/10.1080/19490976.2024.2353396)
+
+Periodontitis is a potential risk factor for preterm birth (PTB) in women; however, the causal relationship or the exact mechanism remain unknown. This study aimed to compare the oral microbiome features of mothers with full-term birth (FTB) with those who had preterm delivery.
+
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/jre.13292)
+
+10.1111/jre.13292
 
 ---
 
-## The use of probiotics and prebiotics in decolonizing pathogenic bacteria from the gut; a systematic review and meta-analysis of clinical outcomes
+## Integrating uterine microbiome and metabolome to advance the understanding of the uterine environment in dairy cows with metritis.
+ 27.05.2024, _S Casaro, JG Prim, TD Gonzalez, F Cunha, RS Bisinotto, RC Chebel, JEP Santos, CD Nelson, SJ Jeon, RC Bicalho, JP Driver, KN Galvão_
 
-[Source](https://doi.org/10.1080/19490976.2024.2356279)
+
+Metritis is a prevalent uterine disease that affects the welfare, fertility, and survival of dairy cows. The uterine microbiome from cows that develop metritis and those that remain healthy do not differ from calving until 2 days postpartum, after which there is a dysbiosis of the uterine microbiome characterized by a shift towards opportunistic pathogens such as Fusobacteriota and Bacteroidota. Whether these opportunistic pathogens proliferate and overtake the uterine commensals could be determined by the type of substrates present in the uterus. The objective of this study was to integrate uterine microbiome and metabolome data to advance the understanding of the uterine environment in dairy cows that develop metritis. Holstein cows (n = 104) had uterine fluid collected at calving and at the day of metritis diagnosis. Cows with metritis (n = 52) were paired with cows without metritis (n = 52) based on days after calving. First, the uterine microbiome and metabolome were evaluated individually, and then integrated using network analyses.
+
+[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00314-7)
+
+10.1186/s42523-024-00314-7
 
 ---
 
-## Advanced microbiome therapeutics as a novel modality for oral delivery of peptides to manage metabolic diseases
+## Responses of nutrient utilization, rumen fermentation and microorganisms to different roughage of dairy buffaloes
 
-[Source](https://www.cell.com/trends/endocrinology-metabolism/fulltext/S1043-2760(24)00115-2)
+[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-024-03342-0)
 
 ---
 
@@ -106,52 +92,64 @@
 _Animals, Bees, Gastrointestinal Microbiome, Symbiosis, Mutagenesis, Mutation_
 The gut microbiota and their hosts profoundly affect each other's physiology and evolution. Identifying host-selected traits is crucial to understanding the processes that govern the evolving interactions between animals and symbiotic microbes. Current experimental approaches mainly focus on the model bacteria, like hypermutating Escherichia coli or the evolutionary changes of wild stains by host transmissions. A method called atmospheric and room temperature plasma (ARTP) may overcome the bottleneck of low spontaneous mutation rates while maintaining mild conditions for the gut bacteria.
 
-[Source](https://doi.org/10.1186/s40168-024-01813-0)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01813-0)
 
 10.1186/s40168-024-01813-0
 
 ---
 
-## Symbiotic bacteria and fungi proliferate in diapause and may enhance overwintering survival in a solitary bee
-
-[Source](https://doi.org/10.1093/ismejo/wrae089)
-
----
-
-## Phages enhance both phytopathogen density control and rhizosphere microbiome suppressiveness.
- 23.05.2024, _X Wang, S Wang, M Huang, Y He, S Guo, K Yang, N Wang, T Sun, H Yang, T Yang, Y Xu, Q Shen, V-P Friman, Z Wei_
+## Co-habiting ants and silverfish display a converging feeding ecology.
+ 28.05.2024, _T Parmentier, R Molero-Baltanás, C Valdivia, M Gaju-Ricart, P Boeckx, P Łukasik, N Wybouw_
 
 
-Bacteriophages, viruses that specifically target plant pathogenic bacteria, have emerged as a promising alternative to traditional agrochemicals. However, it remains unclear how phages should be applied to achieve efficient pathogen biocontrol and to what extent their efficacy is shaped by indirect interactions with the resident microbiota. Here, we tested if the phage biocontrol efficacy of Ralstonia solanacearum phytopathogenic bacterium can be improved by increasing the phage cocktail application frequency and if the phage efficacy is affected by pathogen-suppressing bacteria already present in the rhizosphere. We find that increasing phage application frequency improves R. solanacearum density control, leading to a clear reduction in bacterial wilt disease in both greenhouse and field experiments with tomato. The high phage application frequency also increased the diversity of resident rhizosphere microbiota and enriched several bacterial taxa that were associated with the reduction in pathogen densities. Interestingly, these taxa often belonged to Actinobacteria known for antibiotics production and soil suppressiveness. To test if they could have had secondary effects on R. solanacearum biocontrol, we isolated Actinobacteria from Nocardia and Streptomyces genera and tested their suppressiveness to the pathogen in vitro and in planta. We found that these taxa could clearly inhibit R. solanacearum growth and constrain bacterial wilt disease, especially when combined with the phage cocktail. Together, our findings unravel an undiscovered benefit of phage therapy, where phages trigger a second line of defense by the pathogen-suppressing bacteria that already exist in resident microbial communities.
+_Animals, Ants, Feeding Behavior, Symbiosis, Phylogeny, Nitrogen Isotopes, Carbon Isotopes, Perciformes_
+Various animal taxa have specialized to living with social hosts. Depending on their level of specialization, these symbiotic animals are characterized by distinct behavioural, chemical, and morphological traits that enable close heterospecific interactions. Despite its functional importance, our understanding of the feeding ecology of animals living with social hosts remains limited. We examined how host specialization of silverfish co-habiting with ants affects several components of their feeding ecology. We combined stable isotope profiling, feeding assays, phylogenetic reconstruction, and microbial community characterization of the Neoasterolepisma silverfish genus and a wider nicoletiid and lepismatid silverfish panel where divergent myrmecophilous lifestyles are observed.
 
-[Source](https://doi.org/10.1128/mbio.03016-23)
+[Source](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-01914-0)
 
-10.1128/mbio.03016-23
+10.1186/s12915-024-01914-0
 
 ---
 
-## Global epistasis and the emergence of function in microbial consortia.
- 22.05.2024, _J Diaz-Colunga, A Skwara, JCC Vila, D Bajic, A Sanchez_
+## Temperature-dependent differences in mouse gut motility are mediated by stress.
+ 28.05.2024, _A Han, C Hudson-Paz, BG Robinson, L Becker, A Jacobson, JA Kaltschmidt, JL Garrison, AS Bhatt, DM Monack_
 
 
-The many functions of microbial communities emerge from a complex web of interactions between organisms and their environment. This poses a significant obstacle to engineering microbial consortia, hindering our ability to harness the potential of microorganisms for biotechnological applications. In this study, we demonstrate that the collective effect of ecological interactions between microbes in a community can be captured by simple statistical models that predict how adding a new species to a community will affect its function. These predictive models mirror the patterns of global epistasis reported in genetics, and they can be quantitatively interpreted in terms of pairwise interactions between community members. Our results illuminate an unexplored path to quantitatively predicting the function of microbial consortia from their composition, paving the way to optimizing desirable community properties and bringing the tasks of predicting biological function at the genetic, organismal, and ecological scales under the same quantitative formalism.
+Researchers have advocated elevating mouse housing temperatures from the conventional ~22 °C to the mouse thermoneutral point of 30 °C to enhance translational research. However, the impact of environmental temperature on mouse gastrointestinal physiology remains largely unexplored. Here we show that mice raised at 22 °C exhibit whole gut transit speed nearly twice as fast as those raised at 30 °C, primarily driven by a threefold increase in colon transit speed. Furthermore, gut microbiota composition differs between the two temperatures but does not dictate temperature-dependent differences in gut motility. Notably, increased stress signals from the hypothalamic-pituitary-adrenal axis at 22 °C have a pivotal role in mediating temperature-dependent differences in gut motility. Pharmacological and genetic depletion of the stress hormone corticotropin-releasing hormone slows gut motility in stressed 22 °C mice but has no comparable effect in relatively unstressed 30 °C mice. In conclusion, our findings highlight that colder mouse facility temperatures significantly increase gut motility through hormonal stress pathways.
 
-[Source](https://www.cell.com/cell/fulltext/S0092-8674(24)00411-2)
+[Source](https://www.nature.com/articles/s41684-024-01376-5#Sec10)
 
-10.1016/j.cell.2024.04.016
+10.1038/s41684-024-01376-5
 
 ---
 
-## Bacterial dynamics of the plastisphere microbiome exposed to sub-lethal antibiotic pollution.
- 27.05.2024, _B Joannard, C Sanchez-Cid_
+## Evaluation of microbiota-induced changes in biochemical, sensory properties and volatile profile of kombucha produced by reformed microbial community.
+ 29.05.2024, _H Kilmanoglu, A Yigit Cinar, MZ Durak_
 
 
-_Anti-Bacterial Agents, Bacteria, Microbiota, RNA, Ribosomal, 16S, Integrons, Drug Resistance, Bacterial, Water Pollutants, Chemical, Microplastics, High-Throughput Nucleotide Sequencing, Metagenome, Plasmids, Water Microbiology, Drug Resistance, Microbial_
-Antibiotics and microplastics are two major aquatic pollutants that have been associated to antibiotic resistance selection in the environment and are considered a risk to human health. However, little is known about the interaction of these pollutants at environmental concentrations and the response of the microbial communities in the plastisphere to sub-lethal antibiotic pollution. Here, we describe the bacterial dynamics underlying this response in surface water bacteria at the community, resistome and mobilome level using a combination of methods (next-generation sequencing and qPCR), sequencing targets (16S rRNA gene, pre-clinical and clinical class 1 integron cassettes and metagenomes), technologies (short and long read sequencing), and assembly approaches (non-assembled reads, genome assembly, bacteriophage and plasmid assembly).
+Kombucha is a traditional beverage produced by a living culture known as SCOBY or "symbiotic culture of bacteria and yeast". Culture-dependent production is essential for stable kombucha fermentation. The aim of this study was to design a microbial community and to determine the effect of that community on the flavor and chemical properties of kombucha. The fermentations were carried out using combinations of selected species including Pichia kudriavzevii, Brettanomyces bruxellensis, Dekkera bruxellensis, Komagataeibacter saccharivorans, Komagataeibacter xylinus, and Acetobacter papayae, which were previously isolated from kombucha. The effects of monocultures and cocultures on fermentation were investigated. The highest acetic acid producer was A. papayae, which has strong antioxidant properties. In the monoculture and coculture fermentations, aldehydes, acids, and esters were generally observed at the end of fermentation. This study confirms that microbiota reconstruction is a viable approach for achieving the production of kombucha with increased bioactive constituents and consumer acceptance.
 
-[Source](https://doi.org/10.1186/s40168-024-01803-2)
+[Source](https://www.sciencedirect.com/science/article/pii/S2590157524003560?via%3Dihub)
 
-10.1186/s40168-024-01803-2
+10.1016/j.fochx.2024.101469
+
+---
+
+## Microbial polyphenol metabolism is part of the thawing permafrost carbon cycle.
+ 28.05.2024, _BB McGivern, DR Cronin, JB Ellenbogen, MA Borton, EL Knutson, V Freire-Zapata, JA Bouranis, L Bernhardt, AI Hernandez, RM Flynn, R Woyda, AB Cory, RM Wilson, JP Chanton, BJ Woodcroft, JG Ernakovich, MM Tfaily, MB Sullivan, GW Tyson, VI Rich, AE Hagerman, KC Wrighton_
+
+
+With rising global temperatures, permafrost carbon stores are vulnerable to microbial degradation. The enzyme latch theory states that polyphenols should accumulate in saturated peatlands due to diminished phenol oxidase activity, inhibiting resident microbes and promoting carbon stabilization. Pairing microbiome and geochemical measurements along a permafrost thaw-induced saturation gradient in Stordalen Mire, a model Arctic peatland, we confirmed a negative relationship between phenol oxidase expression and saturation but failed to support other trends predicted by the enzyme latch. To inventory alternative polyphenol removal strategies, we built CAMPER, a gene annotation tool leveraging polyphenol enzyme knowledge gleaned across microbial ecosystems. Applying CAMPER to genome-resolved metatranscriptomes, we identified genes for diverse polyphenol-active enzymes expressed by various microbial lineages under a range of redox conditions. This shifts the paradigm that polyphenols stabilize carbon in saturated soils and highlights the need to consider both oxic and anoxic polyphenol metabolisms to understand carbon cycling in changing ecosystems.
+
+[Source](https://www.nature.com/articles/s41564-024-01691-0)
+
+10.1038/s41564-024-01691-0
+
+---
+
+## Soil viral community dynamics over seven years of heat disturbance: spatial variation exceeds temporal in annually sampled soils
+
+[Source](https://www.biorxiv.org/content/10.1101/2024.05.27.596044v1)
 
 ---
 
@@ -162,53 +160,47 @@ Antibiotics and microplastics are two major aquatic pollutants that have been as
 _Soil Microbiology, Nitrogen Fixation, Metagenomics, Microbiota, Deltaproteobacteria, Soil, Phylogeny, Nitrogen, Metagenome_
 Biological nitrogen fixation is a fundamental process sustaining all life on earth. While distribution and diversity of N2-fixing soil microbes have been investigated by numerous PCR amplicon sequencing of nitrogenase genes, their comprehensive understanding has been hindered by lack of de facto standard protocols for amplicon surveys and possible PCR biases. Here, by fully leveraging the planetary collections of soil shotgun metagenomes along with recently expanded culture collections, we evaluated the global distribution and diversity of terrestrial diazotrophic microbiome.
 
-[Source](https://doi.org/10.1186/s40168-024-01812-1)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01812-1)
 
 10.1186/s40168-024-01812-1
 
 ---
 
-## A global initiative for ecological and evolutionary hologenomics
-
-[Source](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00074-0)
-
----
-
-## Fungal diversity differences in the indoor dust microbiome from built environments on earth and in space.
- 27.05.2024, _N Nastasi, SR Haines, A Bope, ME Meyer, JM Horack, KC Dannemiller_
+## Bacterial dynamics of the plastisphere microbiome exposed to sub-lethal antibiotic pollution.
+ 27.05.2024, _B Joannard, C Sanchez-Cid_
 
 
-_Dust, Fungi, Microbiota, Humans, Spacecraft, Air Pollution, Indoor, Built Environment, Bacteria, Air Microbiology, Earth, Planet, Humidity_
-Human occupied built environments are no longer confined to Earth. In fact, there have been humans living and working in low-Earth orbit on the International Space Station (ISS) since November 2000. With NASA's Artemis missions and the age of commercial space stations set to begin, more human-occupied spacecraft than ever will be in Earth's orbit and beyond. On Earth and in the ISS, microbes, especially fungi, can be found in dust and grow when unexpected, elevated moisture conditions occur. However, we do not yet know how indoor microbiomes in Earth-based homes and in the ISS differ due to their unique set of environmental conditions. Here we show that bacterial and fungal communities are different in dust collected from vacuum bags on Earth and the ISS, with Earth-based homes being more diverse (465 fungal OTUs and 237 bacterial ASVs) compared to the ISS (102 fungal OTUs and 102 bacterial ASVs). When dust from these locations were exposed to varying equilibrium relative humidity conditions (ERH), there were also significant fungal community composition changes as ERH and time elevated increased (Bray Curtis: R2 = 0.35, P = 0.001). These findings can inform future spacecraft design to promote healthy indoor microbiomes that support crew health, spacecraft integrity, and planetary protection.
+_Anti-Bacterial Agents, Bacteria, Microbiota, RNA, Ribosomal, 16S, Integrons, Drug Resistance, Bacterial, Water Pollutants, Chemical, Microplastics, High-Throughput Nucleotide Sequencing, Metagenome, Plasmids, Water Microbiology, Drug Resistance, Microbial_
+Antibiotics and microplastics are two major aquatic pollutants that have been associated to antibiotic resistance selection in the environment and are considered a risk to human health. However, little is known about the interaction of these pollutants at environmental concentrations and the response of the microbial communities in the plastisphere to sub-lethal antibiotic pollution. Here, we describe the bacterial dynamics underlying this response in surface water bacteria at the community, resistome and mobilome level using a combination of methods (next-generation sequencing and qPCR), sequencing targets (16S rRNA gene, pre-clinical and clinical class 1 integron cassettes and metagenomes), technologies (short and long read sequencing), and assembly approaches (non-assembled reads, genome assembly, bacteriophage and plasmid assembly).
 
-[Source](https://doi.org/10.1038/s41598-024-62191-z)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01803-2)
 
-10.1038/s41598-024-62191-z
+10.1186/s40168-024-01803-2
 
 ---
 
-## A novel clinical metaproteomics workflow enables bioinformatic analysis of host-microbe dynamics in disease.
- 23.05.2024, _K Do, S Mehta, R Wagner, D Bhuming, AT Rajczewski, APN Skubitz, JE Johnson, TJ Griffin, PD Jagtap_
+## Exploring potential polysaccharide utilization loci involved in the degradation of typical marine seaweed polysaccharides by Bacteroides thetaiotaomicron.
+ 28.05.2024, _B Yu, Z Lu, S Zhong, KL Cheong_
 
 
-Clinical metaproteomics has the potential to offer insights into the host-microbiome interactions underlying diseases. However, the field faces challenges in characterizing microbial proteins found in clinical samples, usually present at low abundance relative to the host proteins. As a solution, we have developed an integrated workflow coupling mass spectrometry-based analysis with customized bioinformatic identification, quantification, and prioritization of microbial proteins, enabling targeted assay development to investigate host-microbe dynamics in disease. The bioinformatics tools are implemented in the Galaxy ecosystem, offering the development and dissemination of complex bioinformatic workflows. The modular workflow integrates MetaNovo (to generate a reduced protein database), SearchGUI/PeptideShaker and MaxQuant [to generate peptide-spectral matches (PSMs) and quantification], PepQuery2 (to verify the quality of PSMs), Unipept (for taxonomic and functional annotation), and MSstatsTMT (for statistical analysis). We have utilized this workflow in diverse clinical samples, from the characterization of nasopharyngeal swab samples to bronchoalveolar lavage fluid. Here, we demonstrate its effectiveness via analysis of residual fluid from cervical swabs. The complete workflow, including training data and documentation, is available via the Galaxy Training Network, empowering non-expert researchers to utilize these powerful tools in their clinical studies.
+Research on the mechanism of marine polysaccharide utilization by Bacteroides thetaiotaomicron has drawn substantial attention in recent years. Derived from marine algae, the marine algae polysaccharides could serve as prebiotics to facilitate intestinal microecological balance and alleviate colonic diseases. Bacteroides thetaiotaomicron, considered the most efficient degrader of polysaccharides, relates to its capacity to degrade an extensive spectrum of complex polysaccharides. Polysaccharide utilization loci (PULs), a specialized organization of a collection of genes-encoded enzymes engaged in the breakdown and utilization of polysaccharides, make it possible for Bacteroides thetaiotaomicron to metabolize various polysaccharides. However, there is still a paucity of comprehensive studies on the procedure of polysaccharide degradation by Bacteroides thetaiotaomicron.
 
-[Source](https://doi.org/10.1128/msphere.00793-23)
+[Source](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1332105/full)
 
-10.1128/msphere.00793-23
+10.3389/fmicb.2024.1332105
 
 ---
 
-## A comparative study of supervised and unsupervised machine learning algorithms applied to human microbiome.
- 20.05.2024, _E Kalluçi, B Preni, X Dhamo, E Noka, S Bardhi, A Macchia, G Bonetti, K Dhuli, K Donato, M Bertelli, LJM Zambrano, S Janaqi_
+## Organic matter degradation in the deep, sulfidic waters of the Black Sea: insights into the ecophysiology of novel anaerobic bacteria.
+ 28.05.2024, _S Yadav, M Koenen, NJ Bale, W Reitsma, JC Engelmann, K Stefanova, JSS Damsté, L Villanueva_
 
 
-_Humans, Supervised Machine Learning, Unsupervised Machine Learning, Microbiota, RNA, Ribosomal, 16S, Colorectal Neoplasms, Gastrointestinal Microbiome, Algorithms, Feces, Adenoma_
-The human microbiome, consisting of diverse bacte-rial, fungal, protozoan and viral species, exerts a profound influence on various physiological processes and disease susceptibility. However, the complexity of microbiome data has presented significant challenges in the analysis and interpretation of these intricate datasets, leading to the development of specialized software that employs machine learning algorithms for these aims.
+_Black Sea, Seawater, Bacteria, Anaerobic, Phylogeny, Biodegradation, Environmental, RNA, Ribosomal, 16S, DNA, Bacterial, Organic Chemicals_
+Recent studies have reported the identity and functions of key anaerobes involved in the degradation of organic matter (OM) in deep (&gt; 1000 m) sulfidic marine habitats. However, due to the lack of available isolates, detailed investigation of their physiology has been precluded. In this study, we cultivated and characterized the ecophysiology of a wide range of novel anaerobes potentially involved in OM degradation in deep (2000 m depth) sulfidic waters of the Black Sea.
 
-[Source](https://doi.org/10.7417/CT.2024.5051)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01816-x)
 
-10.7417/CT.2024.5051
+10.1186/s40168-024-01816-x
 
 ---
 
