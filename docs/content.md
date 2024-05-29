@@ -99,9 +99,16 @@
 
 ---
 
-## Identification of the mutual gliding locus as a factor for gut colonization in non-native bee hosts using the ARTP mutagenesis
+## Identification of the mutual gliding locus as a factor for gut colonization in non-native bee hosts using the ARTP mutagenesis.
+ 25.05.2024, _Y Meng, X Zhang, Y Zhai, Y Li, Z Shao, S Liu, C Zhang, XH Xing, H Zheng_
+
+
+_Animals, Bees, Gastrointestinal Microbiome, Symbiosis, Mutagenesis, Mutation_
+The gut microbiota and their hosts profoundly affect each other's physiology and evolution. Identifying host-selected traits is crucial to understanding the processes that govern the evolving interactions between animals and symbiotic microbes. Current experimental approaches mainly focus on the model bacteria, like hypermutating Escherichia coli or the evolutionary changes of wild stains by host transmissions. A method called atmospheric and room temperature plasma (ARTP) may overcome the bottleneck of low spontaneous mutation rates while maintaining mild conditions for the gut bacteria.
 
 [Source](https://doi.org/10.1186/s40168-024-01813-0)
+
+10.1186/s40168-024-01813-0
 
 ---
 
