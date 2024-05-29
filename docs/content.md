@@ -18,7 +18,7 @@ The gut microbiome (GM) modulates body weight/composition and gastrointestinal f
 ---
 
 ## Exposure to environmental pollutants selects for xenobiotic-degrading functions in the human gut microbiome.
- 27.05.2024, _F De Filippis, V Valentino, G Sequino, G Borriello, MG Riccardi, B Pierri, P Cerino, A Pizzolante, E Pasolli, M Esposito, A Limone, D Ercolini_
+ 29.05.2024, _F De Filippis, V Valentino, G Sequino, G Borriello, MG Riccardi, B Pierri, P Cerino, A Pizzolante, E Pasolli, M Esposito, A Limone, D Ercolini_
 
 
 _Humans, Gastrointestinal Microbiome, Xenobiotics, Environmental Pollutants, Female, Male, Feces, Italy, Adult, Middle Aged, Environmental Exposure, Metagenomics, Bacteria, Cohort Studies, Metals, Heavy, Aged, Environmental Pollution, Biodegradation, Environmental_
@@ -31,7 +31,7 @@ Environmental pollutants from different chemical families may reach the gut micr
 ---
 
 ## The interrelation between microbial immunoglobulin coating, vaginal microbiota, ethnicity, and preterm birth.
- 27.05.2024, _HJ Schuster, AC Breedveld, SPF Matamoros, R van Eekelen, RC Painter, M Kok, PJ Hajenius, PHM Savelkoul, M van Egmond, R van Houdt_
+ 29.05.2024, _HJ Schuster, AC Breedveld, SPF Matamoros, R van Eekelen, RC Painter, M Kok, PJ Hajenius, PHM Savelkoul, M van Egmond, R van Houdt_
 
 
 _Humans, Female, Vagina, Pregnancy, Adult, Premature Birth, Case-Control Studies, Prospective Studies, Microbiota, Ethnicity, Lactobacillus, Host Microbial Interactions, Immunoglobulins, Immunoglobulin A, Young Adult_
@@ -68,7 +68,7 @@ Periodontitis is a potential risk factor for preterm birth (PTB) in women; howev
 ---
 
 ## Integrating uterine microbiome and metabolome to advance the understanding of the uterine environment in dairy cows with metritis.
- 27.05.2024, _S Casaro, JG Prim, TD Gonzalez, F Cunha, RS Bisinotto, RC Chebel, JEP Santos, CD Nelson, SJ Jeon, RC Bicalho, JP Driver, KN Galvão_
+ 29.05.2024, _S Casaro, JG Prim, TD Gonzalez, F Cunha, RS Bisinotto, RC Chebel, JEP Santos, CD Nelson, SJ Jeon, RC Bicalho, JP Driver, KN Galvão_
 
 
 Metritis is a prevalent uterine disease that affects the welfare, fertility, and survival of dairy cows. The uterine microbiome from cows that develop metritis and those that remain healthy do not differ from calving until 2 days postpartum, after which there is a dysbiosis of the uterine microbiome characterized by a shift towards opportunistic pathogens such as Fusobacteriota and Bacteroidota. Whether these opportunistic pathogens proliferate and overtake the uterine commensals could be determined by the type of substrates present in the uterus. The objective of this study was to integrate uterine microbiome and metabolome data to advance the understanding of the uterine environment in dairy cows that develop metritis. Holstein cows (n = 104) had uterine fluid collected at calving and at the day of metritis diagnosis. Cows with metritis (n = 52) were paired with cows without metritis (n = 52) based on days after calving. First, the uterine microbiome and metabolome were evaluated individually, and then integrated using network analyses.
@@ -192,7 +192,7 @@ Research on the mechanism of marine polysaccharide utilization by Bacteroides th
 ---
 
 ## Organic matter degradation in the deep, sulfidic waters of the Black Sea: insights into the ecophysiology of novel anaerobic bacteria.
- 28.05.2024, _S Yadav, M Koenen, NJ Bale, W Reitsma, JC Engelmann, K Stefanova, JSS Damsté, L Villanueva_
+ 29.05.2024, _S Yadav, M Koenen, NJ Bale, W Reitsma, JC Engelmann, K Stefanova, JSS Damsté, L Villanueva_
 
 
 _Black Sea, Seawater, Bacteria, Anaerobic, Phylogeny, Biodegradation, Environmental, RNA, Ribosomal, 16S, DNA, Bacterial, Organic Chemicals_
