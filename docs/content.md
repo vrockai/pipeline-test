@@ -79,9 +79,16 @@ Metritis is a prevalent uterine disease that affects the welfare, fertility, and
 
 ---
 
-## Responses of nutrient utilization, rumen fermentation and microorganisms to different roughage of dairy buffaloes
+## Responses of nutrient utilization, rumen fermentation and microorganisms to different roughage of dairy buffaloes.
+ 29.05.2024, _S He, R Zhang, R Wang, D Wu, S Dai, Z Wang, T Chen, H Mao, Q Li_
+
+
+_Animals, Buffaloes, Rumen, Fermentation, Animal Feed, Bacteria, Dietary Fiber, Silage, Nutrients, Digestion, Diet, RNA, Ribosomal, 16S, Gastrointestinal Microbiome, Female, Fatty Acids, Volatile_
+Dairy buffaloes are typically fed a high-forage, low-quality diet with high fiber. These conditions result in an inherent energy and protein inefficiency. In order to make full and rational use of feed resources and improve the production level and breeding efficiency of dairy buffaloes, the effects of various roughages on nutrient digestibility, ruminal fermentation parameters, and microorganisms in dairy buffaloes were studied in this experiment. Three ternary hybrid buffaloes, with an average body weight of 365 ± 22.1 kg, were selected and fitted with permanent rumen fistulas. They were fed six different diets, each consisting of 1 kg concentrate supplement and one of six types of roughage, including alfalfa hay (A diet), oat hay (O diet), whole corn silage (W diet), king grass (K diet), sugarcane shoot silage (S diet), and rice straw hay (R diet) according to an incomplete Latin square design of 3 × 6, respectively. The pre-feeding period of each period was 12 d. From day 13 to 15 was the official experimental period. During the prefeeding period, free feed intake for each roughage was determined, and during the experiment, the roughage was fed at 90% of the voluntary feed intake. Digestion and metabolism tests were carried out using the total manure collection method to determine the feed intake and fecal output of each buffalo, and to collect feed and fecal samples for chemical analysis. On day 15, rumen fluid samples were collected two hours after morning feeding to determine rumen fermentation parameters and bacterial 16 S rRNA high-throughput sequencing was performed. The results showed that DM and OM digestibility were greatest for the W diet and lowest for the S diet. The rumen pH of the O diet was significantly greater than that of the W diet. The concentration of rumen fluid NH3-N (mg/dL) increased with increased CP content. The concentration of total volatile fatty acids (mmol/L) in the rumen decreased with increased NDF content but increased with increased NFC content. The relative abundances of Bacteroidetes, Firmicutes, and Spirochaetes were 57.03-74.84%, 14.29-21.86%, and 0.44-1.43% in the different quality roughage groups. Bacteroidetes were mainly Prevotellaceae1 and Rikenellaceae RC_gut_group with relative abundances of 30.17-45.75% and 3.23-7.82%. The relative abundance of Patescibacteria and Spirochaetes decreased with increasing roughage quality. These results provide a theoretical and practical basis for evaluating the nutritional value of dairy buffalo feed, utilizing feed resources, matching rations, feeding scientifically, and protecting animal health.
 
 [Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-024-03342-0)
+
+10.1186/s12866-024-03342-0
 
 ---
 
