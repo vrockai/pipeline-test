@@ -1,5 +1,5 @@
 ## Gut microbiome remodeling and metabolomic profile improves in response to protein pacing with intermittent fasting versus continuous caloric restriction.
- 28.05.2024, _AE Mohr, KL Sweazea, DA Bowes, P Jasbi, CM Whisner, DD Sears, R Krajmalnik-Brown, Y Jin, H Gu, J Klein-Seetharaman, KM Arciero, E Gumpricht, PJ Arciero_
+ 30.05.2024, _AE Mohr, KL Sweazea, DA Bowes, P Jasbi, CM Whisner, DD Sears, R Krajmalnik-Brown, Y Jin, H Gu, J Klein-Seetharaman, KM Arciero, E Gumpricht, PJ Arciero_
 
 
 _Humans, Gastrointestinal Microbiome, Caloric Restriction, Male, Female, Fasting, Adult, Middle Aged, Body Composition, Metabolomics, Feces, Metabolome, Weight Loss, Obesity, Dietary Proteins, Intermittent Fasting_
@@ -18,7 +18,7 @@ The gut microbiome (GM) modulates body weight/composition and gastrointestinal f
 ---
 
 ## Exposure to environmental pollutants selects for xenobiotic-degrading functions in the human gut microbiome.
- 29.05.2024, _F De Filippis, V Valentino, G Sequino, G Borriello, MG Riccardi, B Pierri, P Cerino, A Pizzolante, E Pasolli, M Esposito, A Limone, D Ercolini_
+ 30.05.2024, _F De Filippis, V Valentino, G Sequino, G Borriello, MG Riccardi, B Pierri, P Cerino, A Pizzolante, E Pasolli, M Esposito, A Limone, D Ercolini_
 
 
 _Humans, Gastrointestinal Microbiome, Xenobiotics, Environmental Pollutants, Female, Male, Feces, Italy, Adult, Middle Aged, Environmental Exposure, Metagenomics, Bacteria, Cohort Studies, Metals, Heavy, Aged, Environmental Pollution, Biodegradation, Environmental_
@@ -31,7 +31,7 @@ Environmental pollutants from different chemical families may reach the gut micr
 ---
 
 ## The interrelation between microbial immunoglobulin coating, vaginal microbiota, ethnicity, and preterm birth.
- 29.05.2024, _HJ Schuster, AC Breedveld, SPF Matamoros, R van Eekelen, RC Painter, M Kok, PJ Hajenius, PHM Savelkoul, M van Egmond, R van Houdt_
+ 30.05.2024, _HJ Schuster, AC Breedveld, SPF Matamoros, R van Eekelen, RC Painter, M Kok, PJ Hajenius, PHM Savelkoul, M van Egmond, R van Houdt_
 
 
 _Humans, Female, Vagina, Pregnancy, Adult, Premature Birth, Case-Control Studies, Prospective Studies, Microbiota, Ethnicity, Lactobacillus, Host Microbial Interactions, Immunoglobulins, Immunoglobulin A, Young Adult_
@@ -44,7 +44,7 @@ Vaginal microbiota composition is associated with spontaneous preterm birth (sPT
 ---
 
 ## Porphyromonas gingivalis, a bridge between oral health and immune evasion in gastric cancer.
- 29.05.2024, _M Muñoz-Medel, MP Pinto, L Goralsky, M Cáceres, F Villarroel-Espíndola, P Manque, A Pinto, B Garcia-Bloj, T de Mayo, JA Godoy, M Garrido, IN Retamal_
+ 30.05.2024, _M Muñoz-Medel, MP Pinto, L Goralsky, M Cáceres, F Villarroel-Espíndola, P Manque, A Pinto, B Garcia-Bloj, T de Mayo, JA Godoy, M Garrido, IN Retamal_
 
 
 Porphyromonas gingivalis (P. gingivalis) is a gram-negative oral pathogen associated with chronic periodontitis. Previous studies have linked poor oral health and periodontitis with oral cancer. Severe cases of periodontal disease can result in advanced periodontitis, leading to tissue degradation, tooth loss, and may also correlate with higher gastric cancer (GC) risk. In fact, tooth loss is associated with an elevated risk of cancer. However, the clinical evidence for this association remains inconclusive. Periodontitis is also characterized by chronic inflammation and upregulation of members of the Programmed Death 1/PD1 Ligand 1 (PD1/PDL1) axis that leads to an immunosuppressive state. Given that chronic inflammation and immunosuppression are conditions that facilitate cancer progression and carcinogenesis, we hypothesize that oral P. gingivalis and/or its virulence factors serve as a mechanistic link between oral health and gastric carcinogenesis/GC progression. We also discuss the potential impact of P. gingivalis' virulence factors (gingipains, lipopolysaccharide (LPS), and fimbriae) on inflammation and the response to immune checkpoint inhibitors in GC which are part of the current standard of care for advanced stage patients.
@@ -68,7 +68,7 @@ Periodontitis is a potential risk factor for preterm birth (PTB) in women; howev
 ---
 
 ## Integrating uterine microbiome and metabolome to advance the understanding of the uterine environment in dairy cows with metritis.
- 29.05.2024, _S Casaro, JG Prim, TD Gonzalez, F Cunha, RS Bisinotto, RC Chebel, JEP Santos, CD Nelson, SJ Jeon, RC Bicalho, JP Driver, KN Galvão_
+ 30.05.2024, _S Casaro, JG Prim, TD Gonzalez, F Cunha, RS Bisinotto, RC Chebel, JEP Santos, CD Nelson, SJ Jeon, RC Bicalho, JP Driver, KN Galvão_
 
 
 Metritis is a prevalent uterine disease that affects the welfare, fertility, and survival of dairy cows. The uterine microbiome from cows that develop metritis and those that remain healthy do not differ from calving until 2 days postpartum, after which there is a dysbiosis of the uterine microbiome characterized by a shift towards opportunistic pathogens such as Fusobacteriota and Bacteroidota. Whether these opportunistic pathogens proliferate and overtake the uterine commensals could be determined by the type of substrates present in the uterus. The objective of this study was to integrate uterine microbiome and metabolome data to advance the understanding of the uterine environment in dairy cows that develop metritis. Holstein cows (n = 104) had uterine fluid collected at calving and at the day of metritis diagnosis. Cows with metritis (n = 52) were paired with cows without metritis (n = 52) based on days after calving. First, the uterine microbiome and metabolome were evaluated individually, and then integrated using network analyses.
@@ -106,7 +106,7 @@ The gut microbiota and their hosts profoundly affect each other's physiology and
 ---
 
 ## Co-habiting ants and silverfish display a converging feeding ecology.
- 28.05.2024, _T Parmentier, R Molero-Baltanás, C Valdivia, M Gaju-Ricart, P Boeckx, P Łukasik, N Wybouw_
+ 30.05.2024, _T Parmentier, R Molero-Baltanás, C Valdivia, M Gaju-Ricart, P Boeckx, P Łukasik, N Wybouw_
 
 
 _Animals, Ants, Feeding Behavior, Symbiosis, Phylogeny, Nitrogen Isotopes, Carbon Isotopes, Perciformes_
@@ -131,7 +131,7 @@ Researchers have advocated elevating mouse housing temperatures from the convent
 ---
 
 ## Evaluation of microbiota-induced changes in biochemical, sensory properties and volatile profile of kombucha produced by reformed microbial community.
- 29.05.2024, _H Kilmanoglu, A Yigit Cinar, MZ Durak_
+ 30.05.2024, _H Kilmanoglu, A Yigit Cinar, MZ Durak_
 
 
 Kombucha is a traditional beverage produced by a living culture known as SCOBY or "symbiotic culture of bacteria and yeast". Culture-dependent production is essential for stable kombucha fermentation. The aim of this study was to design a microbial community and to determine the effect of that community on the flavor and chemical properties of kombucha. The fermentations were carried out using combinations of selected species including Pichia kudriavzevii, Brettanomyces bruxellensis, Dekkera bruxellensis, Komagataeibacter saccharivorans, Komagataeibacter xylinus, and Acetobacter papayae, which were previously isolated from kombucha. The effects of monocultures and cocultures on fermentation were investigated. The highest acetic acid producer was A. papayae, which has strong antioxidant properties. In the monoculture and coculture fermentations, aldehydes, acids, and esters were generally observed at the end of fermentation. This study confirms that microbiota reconstruction is a viable approach for achieving the production of kombucha with increased bioactive constituents and consumer acceptance.
