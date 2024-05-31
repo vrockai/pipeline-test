@@ -1,5 +1,5 @@
 ## Gut microbiome remodeling and metabolomic profile improves in response to protein pacing with intermittent fasting versus continuous caloric restriction.
- 30.05.2024, _AE Mohr, KL Sweazea, DA Bowes, P Jasbi, CM Whisner, DD Sears, R Krajmalnik-Brown, Y Jin, H Gu, J Klein-Seetharaman, KM Arciero, E Gumpricht, PJ Arciero_
+ 31.05.2024, _AE Mohr, KL Sweazea, DA Bowes, P Jasbi, CM Whisner, DD Sears, R Krajmalnik-Brown, Y Jin, H Gu, J Klein-Seetharaman, KM Arciero, E Gumpricht, PJ Arciero_
 
 
 _Humans, Gastrointestinal Microbiome, Caloric Restriction, Male, Female, Fasting, Adult, Middle Aged, Body Composition, Metabolomics, Feces, Metabolome, Weight Loss, Obesity, Dietary Proteins, Intermittent Fasting_
@@ -106,7 +106,7 @@ The gut microbiota and their hosts profoundly affect each other's physiology and
 ---
 
 ## Co-habiting ants and silverfish display a converging feeding ecology.
- 30.05.2024, _T Parmentier, R Molero-Baltanás, C Valdivia, M Gaju-Ricart, P Boeckx, P Łukasik, N Wybouw_
+ 31.05.2024, _T Parmentier, R Molero-Baltanás, C Valdivia, M Gaju-Ricart, P Boeckx, P Łukasik, N Wybouw_
 
 
 _Animals, Ants, Feeding Behavior, Symbiosis, Phylogeny, Nitrogen Isotopes, Carbon Isotopes, Perciformes_
