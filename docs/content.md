@@ -80,7 +80,7 @@ Metritis is a prevalent uterine disease that affects the welfare, fertility, and
 ---
 
 ## Responses of nutrient utilization, rumen fermentation and microorganisms to different roughage of dairy buffaloes.
- 29.05.2024, _S He, R Zhang, R Wang, D Wu, S Dai, Z Wang, T Chen, H Mao, Q Li_
+ 01.06.2024, _S He, R Zhang, R Wang, D Wu, S Dai, Z Wang, T Chen, H Mao, Q Li_
 
 
 _Animals, Buffaloes, Rumen, Fermentation, Animal Feed, Bacteria, Dietary Fiber, Silage, Nutrients, Digestion, Diet, RNA, Ribosomal, 16S, Gastrointestinal Microbiome, Female, Fatty Acids, Volatile_
