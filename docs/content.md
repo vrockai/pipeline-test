@@ -1,213 +1,242 @@
-## Gut microbiome remodeling and metabolomic profile improves in response to protein pacing with intermittent fasting versus continuous caloric restriction.
- 31.05.2024, _AE Mohr, KL Sweazea, DA Bowes, P Jasbi, CM Whisner, DD Sears, R Krajmalnik-Brown, Y Jin, H Gu, J Klein-Seetharaman, KM Arciero, E Gumpricht, PJ Arciero_
+## Commensal bacterial outer membrane protein A induces interleukin-22 production.
+ 01.06.2024, _Y Wang, VL Ngo, J Zou, AT Gewirtz_
 
 
-_Humans, Gastrointestinal Microbiome, Caloric Restriction, Male, Female, Fasting, Adult, Middle Aged, Body Composition, Metabolomics, Feces, Metabolome, Weight Loss, Obesity, Dietary Proteins, Intermittent Fasting_
-The gut microbiome (GM) modulates body weight/composition and gastrointestinal functioning; therefore, approaches targeting resident gut microbes have attracted considerable interest. Intermittent fasting (IF) and protein pacing (P) regimens are effective in facilitating weight loss (WL) and enhancing body composition. However, the interrelationships between IF- and P-induced WL and the GM are unknown. The current randomized controlled study describes distinct fecal microbial and plasma metabolomic signatures between combined IF-P (n = 21) versus a heart-healthy, calorie-restricted (CR, n = 20) diet matched for overall energy intake in free-living human participants (women = 27; men = 14) with overweight/obesity for 8 weeks. Gut symptomatology improves and abundance of Christensenellaceae microbes and circulating cytokines and amino acid metabolites favoring fat oxidation increase with IF-P (p &lt; 0.05), whereas metabolites associated with a longevity-related metabolic pathway increase with CR (p &lt; 0.05). Differences indicate GM and metabolomic factors play a role in WL maintenance and body composition. This novel work provides insight into the GM and metabolomic profile of participants following an IF-P or CR diet and highlights important differences in microbial assembly associated with WL and body composition responsiveness. These data may inform future GM-focused precision nutrition recommendations using larger sample sizes of longer duration. Trial registration, March 6, 2020 (ClinicalTrials.gov as NCT04327141), based on a previous randomized intervention trial.
+Interleukin (IL)-22 promotes host-microbiota homeostasis. We sought to identify microbiota metabolite(s) that drive intestinal IL-22 production. We observed that exposing Peyer's patch cells (PPCs), ex vivo, to fecal supernatants (FSs) recapitulates fermentable fiber- and microbiota-dependent IL-22 production, and cellular sources thereof, thus supporting the use of this model. An interrogation of FSs generated from mice fed the fermentable fiber inulin (FS-Inu) revealed that its IL-22-inducing activity is mediated by heat-labile protein. Fractionation of FS-Inu by ion-exchange chromatography, and subsequent proteomic analysis of IL-22-inducing fractions, indicates that outer membrane protein A (OmpA) might be a microbial driver of IL-22 expression. Concomitantly, recombinant OmpA from Parabacteroides goldsteinii, which is enriched by an inulin diet, induces IL-22 production and expression of the IL-22-dependent genes REG3γ and -β, in PPCs and mice. Thus, OmpA is one bacterial inducer of IL-22 expression, potentially linking diet, mucosal immune homeostasis, and gut health.
 
-[Source](https://www.nature.com/articles/s41467-024-48355-5)
+[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)00620-X)
 
-10.1038/s41467-024-48355-5
-
----
-
-## Towards a Health-Associated Core Keystone (HACK) index for the human gut microbiome
-
-[Source](https://www.biorxiv.org/content/biorxiv/early/2024/05/27/2024.05.27.596018.full.pdf)
+10.1016/j.celrep.2024.114292
 
 ---
 
-## Exposure to environmental pollutants selects for xenobiotic-degrading functions in the human gut microbiome.
- 30.05.2024, _F De Filippis, V Valentino, G Sequino, G Borriello, MG Riccardi, B Pierri, P Cerino, A Pizzolante, E Pasolli, M Esposito, A Limone, D Ercolini_
+## Mucus production, host-microbiome interactions, hormone sensitivity, and innate immune responses modeled in human cervix chips.
+ 01.06.2024, _Z Izadifar, J Cotton, S Chen, V Horvath, A Stejskalova, A Gulati, NT LoGrande, B Budnik, S Shahriar, ER Doherty, Y Xie, T To, SE Gilpin, AM Sesay, G Goyal, CB Lebrilla, DE Ingber_
 
 
-_Humans, Gastrointestinal Microbiome, Xenobiotics, Environmental Pollutants, Female, Male, Feces, Italy, Adult, Middle Aged, Environmental Exposure, Metagenomics, Bacteria, Cohort Studies, Metals, Heavy, Aged, Environmental Pollution, Biodegradation, Environmental_
-Environmental pollutants from different chemical families may reach the gut microbiome, where they can be metabolized and transformed. However, how our gut symbionts respond to the exposure to environmental pollution is still underexplored. In this observational, cohort study, we aim to investigate the influence of environmental pollution on the gut microbiome composition and potential activity by shotgun metagenomics. We select as a case study a population living in a highly polluted area in Campania region (Southern Italy), proposed as an ideal field for exposomic studies and we compare the fecal microbiome of 359 subjects living in areas with high, medium and low environmental pollution. We highlight changes in gut microbiome composition and functionality that were driven by pollution exposure. Subjects from highly polluted areas show higher blood concentrations of dioxin and heavy metals, as well as an increase in microbial genes related to degradation and/or resistance to these molecules. Here we demonstrate the dramatic effect that environmental xenobiotics have on gut microbial communities, shaping their composition and boosting the selection of strains with degrading capacity. The gut microbiome can be considered as a pivotal player in the environment-health interaction that may contribute to detoxifying toxic compounds and should be taken into account when developing risk assessment models. The study was registered at ClinicalTrials.gov with the identifier NCT05976126.
+_Humans, Female, Cervix Uteri, Immunity, Innate, Microbiota, Host Microbial Interactions, Gardnerella vaginalis, Lactobacillus crispatus, Mucus, Lab-On-A-Chip Devices_
+Modulation of the cervix by steroid hormones and commensal microbiome play a central role in the health of the female reproductive tract. Here we describe organ-on-a-chip (Organ Chip) models that recreate the human cervical epithelial-stromal interface with a functional epithelial barrier and production of mucus with biochemical and hormone-responsive properties similar to living cervix. When Cervix Chips are populated with optimal healthy versus dysbiotic microbial communities (dominated by Lactobacillus crispatus and Gardnerella vaginalis, respectively), significant differences in tissue innate immune responses, barrier function, cell viability, proteome, and mucus composition are observed that are similar to those seen in vivo. Thus, human Cervix Organ Chips represent physiologically relevant in vitro models to study cervix physiology and host-microbiome interactions, and hence may be used as a preclinical testbed for development of therapeutic interventions to enhance women's health.
 
-[Source](https://www.nature.com/articles/s41467-024-48739-7)
+[Source](https://doi.org/10.1038/s41467-024-48910-0)
 
-10.1038/s41467-024-48739-7
-
----
-
-## The interrelation between microbial immunoglobulin coating, vaginal microbiota, ethnicity, and preterm birth.
- 30.05.2024, _HJ Schuster, AC Breedveld, SPF Matamoros, R van Eekelen, RC Painter, M Kok, PJ Hajenius, PHM Savelkoul, M van Egmond, R van Houdt_
-
-
-_Humans, Female, Vagina, Pregnancy, Adult, Premature Birth, Case-Control Studies, Prospective Studies, Microbiota, Ethnicity, Lactobacillus, Host Microbial Interactions, Immunoglobulins, Immunoglobulin A, Young Adult_
-Vaginal microbiota composition is associated with spontaneous preterm birth (sPTB), depending on ethnicity. Host-microbiota interactions are thought to play an important underlying role in this association between ethnicity, vaginal microbiota and sPTB.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01787-z)
-
-10.1186/s40168-024-01787-z
+10.1038/s41467-024-48910-0
 
 ---
 
-## Porphyromonas gingivalis, a bridge between oral health and immune evasion in gastric cancer.
- 30.05.2024, _M Muñoz-Medel, MP Pinto, L Goralsky, M Cáceres, F Villarroel-Espíndola, P Manque, A Pinto, B Garcia-Bloj, T de Mayo, JA Godoy, M Garrido, IN Retamal_
+## Gut microbiome and symptoms in females with irritable bowel syndrome: a cross-sectional analysis.
+ 31.05.2024, _KJ Kamp, AM Plantinga, KC Cain, RL Burr, CS Tsai, Q Wu, SY So, S Badu, T Savidge, RJ Shulman, MM Heitkemper_
 
 
-Porphyromonas gingivalis (P. gingivalis) is a gram-negative oral pathogen associated with chronic periodontitis. Previous studies have linked poor oral health and periodontitis with oral cancer. Severe cases of periodontal disease can result in advanced periodontitis, leading to tissue degradation, tooth loss, and may also correlate with higher gastric cancer (GC) risk. In fact, tooth loss is associated with an elevated risk of cancer. However, the clinical evidence for this association remains inconclusive. Periodontitis is also characterized by chronic inflammation and upregulation of members of the Programmed Death 1/PD1 Ligand 1 (PD1/PDL1) axis that leads to an immunosuppressive state. Given that chronic inflammation and immunosuppression are conditions that facilitate cancer progression and carcinogenesis, we hypothesize that oral P. gingivalis and/or its virulence factors serve as a mechanistic link between oral health and gastric carcinogenesis/GC progression. We also discuss the potential impact of P. gingivalis' virulence factors (gingipains, lipopolysaccharide (LPS), and fimbriae) on inflammation and the response to immune checkpoint inhibitors in GC which are part of the current standard of care for advanced stage patients.
+_Humans, Irritable Bowel Syndrome, Female, Gastrointestinal Microbiome, Adult, Cross-Sectional Studies, Young Adult, RNA, Ribosomal, 16S, Adolescent, Middle Aged, Feces, Bacteria_
+Irritable bowel syndrome (IBS), a disorder of gut-brain interaction, is associated with abdominal pain and stool frequency/character alterations that are linked to changes in microbiome composition. We tested whether taxa differentially abundant between females with IBS vs healthy control females (HC) are associated with daily gastrointestinal and psychological symptom severity. Participants (age 18-50 year) completed a 3-day food record and collected a stool sample during the follicular phase. They also completed a 28-day diary rating symptom intensity; analysis focused on the three days after the stool sample collection. 16S rRNA gene sequencing was used for bacterial identification. Taxon abundance was compared between IBS and HC using zero-inflated quantile analysis (ZINQ). We found that females with IBS (n = 67) had greater Bacteroides abundance (q = 0.003) and lower odds of Bifidobacterium presence (q = 0.036) compared to HC (n = 46) after adjusting for age, race, body mass index, fibre intake, and hormonal contraception use. Intestimonas, Oscillibacter, and Phascolarctobacterium were more often present and Christensenellaceae R-7 group, Collinsella, Coprococcus 2, Moryella, Prevotella 9, Ruminococcaceae UCG-002, Ruminococcaceae UCG-005, and Ruminococcaceae UCG-014 were less commonly present in IBS compared to HC. Despite multiple taxon differences in IBS vs HC, we found no significant associations between taxon presence or abundance and average daily symptom severity within the IBS group. This may indicate the need to account for interactions between microbiome, dietary intake, metabolites, and host factors.
 
-[Source](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1403089/full)
+[Source](https://doi.org/10.1163/18762891-bja00015)
 
-10.3389/fonc.2024.1403089
-
----
-
-## Differences in maternal subgingival microbiome between preterm and term births: The MOHEPI study.
- 29.05.2024, _JS Park, E Kim, SJ Kwon, JS Heo, KH Ahn_
-
-
-Periodontitis is a potential risk factor for preterm birth (PTB) in women; however, the causal relationship or the exact mechanism remain unknown. This study aimed to compare the oral microbiome features of mothers with full-term birth (FTB) with those who had preterm delivery.
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/jre.13292)
-
-10.1111/jre.13292
+10.1163/18762891-bja00015
 
 ---
 
-## Integrating uterine microbiome and metabolome to advance the understanding of the uterine environment in dairy cows with metritis.
- 30.05.2024, _S Casaro, JG Prim, TD Gonzalez, F Cunha, RS Bisinotto, RC Chebel, JEP Santos, CD Nelson, SJ Jeon, RC Bicalho, JP Driver, KN Galvão_
+## Gut microbiome in the Graves' disease: Comparison before and after anti-thyroid drug treatment.
+ 31.05.2024, _C Jeong, H Baek, J Bae, N Hwang, J Ha, YS Cho, DJ Lim_
 
 
-Metritis is a prevalent uterine disease that affects the welfare, fertility, and survival of dairy cows. The uterine microbiome from cows that develop metritis and those that remain healthy do not differ from calving until 2 days postpartum, after which there is a dysbiosis of the uterine microbiome characterized by a shift towards opportunistic pathogens such as Fusobacteriota and Bacteroidota. Whether these opportunistic pathogens proliferate and overtake the uterine commensals could be determined by the type of substrates present in the uterus. The objective of this study was to integrate uterine microbiome and metabolome data to advance the understanding of the uterine environment in dairy cows that develop metritis. Holstein cows (n = 104) had uterine fluid collected at calving and at the day of metritis diagnosis. Cows with metritis (n = 52) were paired with cows without metritis (n = 52) based on days after calving. First, the uterine microbiome and metabolome were evaluated individually, and then integrated using network analyses.
+_Humans, Graves Disease, Gastrointestinal Microbiome, Male, Female, Adult, Antithyroid Agents, Middle Aged, Feces, Case-Control Studies_
+While several studies have proposed a connection between the gut microbiome and the pathogenesis of Graves's disease (GD), there has been a lack of reports on alteration in microbiome following using anti-thyroid drug treatment (ATD) to treat GD. Stool samples were collected from newly diagnosed GD patients provided at baseline and after 6 months of ATD treatment. The analysis focused on investigating the association between the changes in the gut microbiome and parameter including thyroid function, thyroid-related antibodies, and the symptom used to assess hyperthyroidism before and after treatment. A healthy control (HC) group consisting of data from 230 healthy subjects (110 males and 120 females) sourced from the open EMBL Nucleotide Sequence Database was included. Twenty-nine GD patients (14 males and 15 females) were enrolled. The analysis revealed a significant reduction of alpha diversity in GD patients. However, after ATD treatment, alpha diversity exhibited a significant increase, restored to levels comparable to the HC levels. Additionally, GD patients displayed lower levels of Firmicutes and higher levels of Bacteroidota. Following treatment, there was an increased in Firmicutes and a decrease in Bacteroidota, resembling levels found in the HC levels. The symptoms of hyperthyroidism were negatively associated with Firmicutes and positively associated with Bacteroidota. GD had significantly lower levels of Roseburia, Lachnospiraceaea, Sutterella, Escherichia-shigella, Parasuterella, Akkermansia, and Phascolarctobacterium compared to HC (all p &lt; 0.05). Post-treatment, Subdoligranulum increased (p = 0.010), while Veillonella and Christensenellaceaea R-7 group decreased (p = 0.023, p = 0.029, respectively). Anaerostipes showed a significant association with both higher smoking pack years and TSHR-Ab levels, with greater abundantce observed in smokers among GD (p = 0.16). Although reduced ratio of Firmicutes/Bacteroidetes was evident in GD, this ratio recovered after treatment. This study postulates the involvement of the gut microbiome in the pathogenesis of GD, suggesting potential restoration after treatment.
 
-[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00314-7)
+[Source](https://doi.org/10.1371/journal.pone.0300678)
 
-10.1186/s42523-024-00314-7
-
----
-
-## Responses of nutrient utilization, rumen fermentation and microorganisms to different roughage of dairy buffaloes.
- 01.06.2024, _S He, R Zhang, R Wang, D Wu, S Dai, Z Wang, T Chen, H Mao, Q Li_
-
-
-_Animals, Buffaloes, Rumen, Fermentation, Animal Feed, Bacteria, Dietary Fiber, Silage, Nutrients, Digestion, Diet, RNA, Ribosomal, 16S, Gastrointestinal Microbiome, Female, Fatty Acids, Volatile_
-Dairy buffaloes are typically fed a high-forage, low-quality diet with high fiber. These conditions result in an inherent energy and protein inefficiency. In order to make full and rational use of feed resources and improve the production level and breeding efficiency of dairy buffaloes, the effects of various roughages on nutrient digestibility, ruminal fermentation parameters, and microorganisms in dairy buffaloes were studied in this experiment. Three ternary hybrid buffaloes, with an average body weight of 365 ± 22.1 kg, were selected and fitted with permanent rumen fistulas. They were fed six different diets, each consisting of 1 kg concentrate supplement and one of six types of roughage, including alfalfa hay (A diet), oat hay (O diet), whole corn silage (W diet), king grass (K diet), sugarcane shoot silage (S diet), and rice straw hay (R diet) according to an incomplete Latin square design of 3 × 6, respectively. The pre-feeding period of each period was 12 d. From day 13 to 15 was the official experimental period. During the prefeeding period, free feed intake for each roughage was determined, and during the experiment, the roughage was fed at 90% of the voluntary feed intake. Digestion and metabolism tests were carried out using the total manure collection method to determine the feed intake and fecal output of each buffalo, and to collect feed and fecal samples for chemical analysis. On day 15, rumen fluid samples were collected two hours after morning feeding to determine rumen fermentation parameters and bacterial 16 S rRNA high-throughput sequencing was performed. The results showed that DM and OM digestibility were greatest for the W diet and lowest for the S diet. The rumen pH of the O diet was significantly greater than that of the W diet. The concentration of rumen fluid NH3-N (mg/dL) increased with increased CP content. The concentration of total volatile fatty acids (mmol/L) in the rumen decreased with increased NDF content but increased with increased NFC content. The relative abundances of Bacteroidetes, Firmicutes, and Spirochaetes were 57.03-74.84%, 14.29-21.86%, and 0.44-1.43% in the different quality roughage groups. Bacteroidetes were mainly Prevotellaceae1 and Rikenellaceae RC_gut_group with relative abundances of 30.17-45.75% and 3.23-7.82%. The relative abundance of Patescibacteria and Spirochaetes decreased with increasing roughage quality. These results provide a theoretical and practical basis for evaluating the nutritional value of dairy buffalo feed, utilizing feed resources, matching rations, feeding scientifically, and protecting animal health.
-
-[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-024-03342-0)
-
-10.1186/s12866-024-03342-0
+10.1371/journal.pone.0300678
 
 ---
 
-## Identification of the mutual gliding locus as a factor for gut colonization in non-native bee hosts using the ARTP mutagenesis.
- 25.05.2024, _Y Meng, X Zhang, Y Zhai, Y Li, Z Shao, S Liu, C Zhang, XH Xing, H Zheng_
+## Guild-level signature of gut microbiome for diabetic kidney disease.
+ 31.05.2024, _S Tang, G Wu, Y Liu, B Xue, S Zhang, W Zhang, Y Jia, Q Xie, C Liang, L Wang, H Heng, W Wei, X Shi, Y Hu, J Yang, L Zhao, X Wang, L Zhao, H Yuan_
 
 
-_Animals, Bees, Gastrointestinal Microbiome, Symbiosis, Mutagenesis, Mutation_
-The gut microbiota and their hosts profoundly affect each other's physiology and evolution. Identifying host-selected traits is crucial to understanding the processes that govern the evolving interactions between animals and symbiotic microbes. Current experimental approaches mainly focus on the model bacteria, like hypermutating Escherichia coli or the evolutionary changes of wild stains by host transmissions. A method called atmospheric and room temperature plasma (ARTP) may overcome the bottleneck of low spontaneous mutation rates while maintaining mild conditions for the gut bacteria.
+Current microbiome signatures for chronic diseases such as diabetic kidney disease (DKD) are mainly based on low-resolution taxa such as genus or phyla and are often inconsistent among studies. In microbial ecosystems, bacterial functions are strain specific, and taxonomically different bacteria tend to form co-abundance functional groups called guilds. Here, we identified guild-level signatures for DKD by performing in-depth metagenomic sequencing and conducting genome-centric and guild-based analysis on fecal samples from 116 DKD patients and 91 healthy subjects. Redundancy analysis on 1,543 high-quality metagenome-assembled genomes (HQMAGs) identified 54 HQMAGs that were differentially distributed among the young healthy control group, elderly healthy control group, early-stage DKD patients (EDG), and late-stage DKD patients (LDG). Co-abundance network analysis classified the 54 HQMAGs into two guilds. Compared to guild 2, guild 1 contained more short-chain fatty acid biosynthesis genes and fewer genes encoding uremic toxin indole biosynthesis, antibiotic resistance, and virulence factors. Guild indices, derived from the total abundance of guild members and their diversity, delineated DKD patients from healthy subjects and between different severities of DKD. Age-adjusted partial Spearman correlation analysis showed that the guild indices were correlated with DKD disease progression and with risk indicators of poor prognosis. We further validated that the random forest classification model established with the 54 HQMAGs was also applicable for classifying patients with end-stage renal disease and healthy subjects in an independent data set. Therefore, this genome-level, guild-based microbial analysis strategy may identify DKD patients with different severity at an earlier stage to guide clinical interventions.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01813-0)
+[Source](https://doi.org/10.1128/mbio.00735-24)
 
-10.1186/s40168-024-01813-0
-
----
-
-## Co-habiting ants and silverfish display a converging feeding ecology.
- 31.05.2024, _T Parmentier, R Molero-Baltanás, C Valdivia, M Gaju-Ricart, P Boeckx, P Łukasik, N Wybouw_
-
-
-_Animals, Ants, Feeding Behavior, Symbiosis, Phylogeny, Nitrogen Isotopes, Carbon Isotopes, Perciformes_
-Various animal taxa have specialized to living with social hosts. Depending on their level of specialization, these symbiotic animals are characterized by distinct behavioural, chemical, and morphological traits that enable close heterospecific interactions. Despite its functional importance, our understanding of the feeding ecology of animals living with social hosts remains limited. We examined how host specialization of silverfish co-habiting with ants affects several components of their feeding ecology. We combined stable isotope profiling, feeding assays, phylogenetic reconstruction, and microbial community characterization of the Neoasterolepisma silverfish genus and a wider nicoletiid and lepismatid silverfish panel where divergent myrmecophilous lifestyles are observed.
-
-[Source](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-01914-0)
-
-10.1186/s12915-024-01914-0
+10.1128/mbio.00735-24
 
 ---
 
-## Temperature-dependent differences in mouse gut motility are mediated by stress.
- 28.05.2024, _A Han, C Hudson-Paz, BG Robinson, L Becker, A Jacobson, JA Kaltschmidt, JL Garrison, AS Bhatt, DM Monack_
+## Gut microbiome correlates of recurrent urinary tract infection: a longitudinal, multi-center study
 
-
-Researchers have advocated elevating mouse housing temperatures from the conventional ~22 °C to the mouse thermoneutral point of 30 °C to enhance translational research. However, the impact of environmental temperature on mouse gastrointestinal physiology remains largely unexplored. Here we show that mice raised at 22 °C exhibit whole gut transit speed nearly twice as fast as those raised at 30 °C, primarily driven by a threefold increase in colon transit speed. Furthermore, gut microbiota composition differs between the two temperatures but does not dictate temperature-dependent differences in gut motility. Notably, increased stress signals from the hypothalamic-pituitary-adrenal axis at 22 °C have a pivotal role in mediating temperature-dependent differences in gut motility. Pharmacological and genetic depletion of the stress hormone corticotropin-releasing hormone slows gut motility in stressed 22 °C mice but has no comparable effect in relatively unstressed 30 °C mice. In conclusion, our findings highlight that colder mouse facility temperatures significantly increase gut motility through hormonal stress pathways.
-
-[Source](https://www.nature.com/articles/s41684-024-01376-5#Sec10)
-
-10.1038/s41684-024-01376-5
+[Source](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(24)00069-5/fulltext)
 
 ---
 
-## Evaluation of microbiota-induced changes in biochemical, sensory properties and volatile profile of kombucha produced by reformed microbial community.
- 30.05.2024, _H Kilmanoglu, A Yigit Cinar, MZ Durak_
+## Gut microbiota-derived butyrate induces epigenetic and metabolic reprogramming in myeloid-derived suppressor cells to alleviate primary biliary cholangitis
 
-
-Kombucha is a traditional beverage produced by a living culture known as SCOBY or "symbiotic culture of bacteria and yeast". Culture-dependent production is essential for stable kombucha fermentation. The aim of this study was to design a microbial community and to determine the effect of that community on the flavor and chemical properties of kombucha. The fermentations were carried out using combinations of selected species including Pichia kudriavzevii, Brettanomyces bruxellensis, Dekkera bruxellensis, Komagataeibacter saccharivorans, Komagataeibacter xylinus, and Acetobacter papayae, which were previously isolated from kombucha. The effects of monocultures and cocultures on fermentation were investigated. The highest acetic acid producer was A. papayae, which has strong antioxidant properties. In the monoculture and coculture fermentations, aldehydes, acids, and esters were generally observed at the end of fermentation. This study confirms that microbiota reconstruction is a viable approach for achieving the production of kombucha with increased bioactive constituents and consumer acceptance.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S2590157524003560?via%3Dihub)
-
-10.1016/j.fochx.2024.101469
+[Source](https://www.gastrojournal.org/article/S0016-5085(24)04936-9/abstract)
 
 ---
 
-## Microbial polyphenol metabolism is part of the thawing permafrost carbon cycle.
- 28.05.2024, _BB McGivern, DR Cronin, JB Ellenbogen, MA Borton, EL Knutson, V Freire-Zapata, JA Bouranis, L Bernhardt, AI Hernandez, RM Flynn, R Woyda, AB Cory, RM Wilson, JP Chanton, BJ Woodcroft, JG Ernakovich, MM Tfaily, MB Sullivan, GW Tyson, VI Rich, AE Hagerman, KC Wrighton_
+## Gut microbiota research nexus: One Health relationship between human, animal, and environmental resistomes
 
-
-With rising global temperatures, permafrost carbon stores are vulnerable to microbial degradation. The enzyme latch theory states that polyphenols should accumulate in saturated peatlands due to diminished phenol oxidase activity, inhibiting resident microbes and promoting carbon stabilization. Pairing microbiome and geochemical measurements along a permafrost thaw-induced saturation gradient in Stordalen Mire, a model Arctic peatland, we confirmed a negative relationship between phenol oxidase expression and saturation but failed to support other trends predicted by the enzyme latch. To inventory alternative polyphenol removal strategies, we built CAMPER, a gene annotation tool leveraging polyphenol enzyme knowledge gleaned across microbial ecosystems. Applying CAMPER to genome-resolved metatranscriptomes, we identified genes for diverse polyphenol-active enzymes expressed by various microbial lineages under a range of redox conditions. This shifts the paradigm that polyphenols stabilize carbon in saturated soils and highlights the need to consider both oxic and anoxic polyphenol metabolisms to understand carbon cycling in changing ecosystems.
-
-[Source](https://www.nature.com/articles/s41564-024-01691-0)
-
-10.1038/s41564-024-01691-0
+[Source](https://doi.org/10.1002/mlf2.12101)
 
 ---
 
-## Soil viral community dynamics over seven years of heat disturbance: spatial variation exceeds temporal in annually sampled soils
+## Exploring the Impact of Airway Microbiome on Asthma Morbidity: A Focus on the Constructing a ‘Eubiosis Reinstatement Therapy’ for Asthma-CURE Project
 
-[Source](https://www.biorxiv.org/content/10.1101/2024.05.27.596044v1)
-
----
-
-## Global soil metagenomics reveals distribution and predominance of Deltaproteobacteria in nitrogen-fixing microbiome.
- 27.05.2024, _Y Masuda, K Mise, Z Xu, Z Zhang, Y Shiratori, K Senoo, H Itoh_
-
-
-_Soil Microbiology, Nitrogen Fixation, Metagenomics, Microbiota, Deltaproteobacteria, Soil, Phylogeny, Nitrogen, Metagenome_
-Biological nitrogen fixation is a fundamental process sustaining all life on earth. While distribution and diversity of N2-fixing soil microbes have been investigated by numerous PCR amplicon sequencing of nitrogenase genes, their comprehensive understanding has been hindered by lack of de facto standard protocols for amplicon surveys and possible PCR biases. Here, by fully leveraging the planetary collections of soil shotgun metagenomes along with recently expanded culture collections, we evaluated the global distribution and diversity of terrestrial diazotrophic microbiome.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01812-1)
-
-10.1186/s40168-024-01812-1
+[Source](https://doi.org/10.1007/s41030-024-00261-3)
 
 ---
 
-## Bacterial dynamics of the plastisphere microbiome exposed to sub-lethal antibiotic pollution.
- 27.05.2024, _B Joannard, C Sanchez-Cid_
+## A Gram-negative-selective antibiotic that spares the gut microbiome
 
-
-_Anti-Bacterial Agents, Bacteria, Microbiota, RNA, Ribosomal, 16S, Integrons, Drug Resistance, Bacterial, Water Pollutants, Chemical, Microplastics, High-Throughput Nucleotide Sequencing, Metagenome, Plasmids, Water Microbiology, Drug Resistance, Microbial_
-Antibiotics and microplastics are two major aquatic pollutants that have been associated to antibiotic resistance selection in the environment and are considered a risk to human health. However, little is known about the interaction of these pollutants at environmental concentrations and the response of the microbial communities in the plastisphere to sub-lethal antibiotic pollution. Here, we describe the bacterial dynamics underlying this response in surface water bacteria at the community, resistome and mobilome level using a combination of methods (next-generation sequencing and qPCR), sequencing targets (16S rRNA gene, pre-clinical and clinical class 1 integron cassettes and metagenomes), technologies (short and long read sequencing), and assembly approaches (non-assembled reads, genome assembly, bacteriophage and plasmid assembly).
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01803-2)
-
-10.1186/s40168-024-01803-2
+[Source](https://doi.org/10.1038/s41586-024-07502-0)
 
 ---
 
-## Exploring potential polysaccharide utilization loci involved in the degradation of typical marine seaweed polysaccharides by Bacteroides thetaiotaomicron.
- 28.05.2024, _B Yu, Z Lu, S Zhong, KL Cheong_
+## <em>Bifidobacterium adolescentis</em>-derived hypaphorine alleviates acetaminophen hepatotoxicity by promoting hepatic Cry1 expression
 
-
-Research on the mechanism of marine polysaccharide utilization by Bacteroides thetaiotaomicron has drawn substantial attention in recent years. Derived from marine algae, the marine algae polysaccharides could serve as prebiotics to facilitate intestinal microecological balance and alleviate colonic diseases. Bacteroides thetaiotaomicron, considered the most efficient degrader of polysaccharides, relates to its capacity to degrade an extensive spectrum of complex polysaccharides. Polysaccharide utilization loci (PULs), a specialized organization of a collection of genes-encoded enzymes engaged in the breakdown and utilization of polysaccharides, make it possible for Bacteroides thetaiotaomicron to metabolize various polysaccharides. However, there is still a paucity of comprehensive studies on the procedure of polysaccharide degradation by Bacteroides thetaiotaomicron.
-
-[Source](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1332105/full)
-
-10.3389/fmicb.2024.1332105
+[Source](https://doi.org/10.1186/s12967-024-05312-6)
 
 ---
 
-## Organic matter degradation in the deep, sulfidic waters of the Black Sea: insights into the ecophysiology of novel anaerobic bacteria.
- 29.05.2024, _S Yadav, M Koenen, NJ Bale, W Reitsma, JC Engelmann, K Stefanova, JSS Damsté, L Villanueva_
+## <em>Chrysanthemum morifolium</em> attenuates metabolic and alcohol-associated liver disease via gut microbiota and PPARα/γ activation
+
+[Source](https://doi.org/10.1016/j.phymed.2024.155774)
+
+---
+
+## Transgenerational effects of early life stress on the fecal microbiota in mice
+
+[Source](https://doi.org/10.1038/s42003-024-06279-2)
+
+---
+
+## Metagenomics and metaproteomics alterations are associated with kidney disease in opisthorchiasis hamsters fed a high-fat and high-fructose diet
+
+[Source](https://doi.org/10.1371/journal.pone.0301907)
+
+---
+
+## Spatial profiles of the bacterial microbiota throughout the gastrointestinal tract of dairy goats
+
+[Source](https://doi.org/10.1007/s00253-024-13200-8)
+
+---
+
+## Interaction between methanotrophy and gastrointestinal nematodes infection on the rumen microbiome of lambs
+
+[Source](https://doi.org/10.1093/femsec/fiae083)
+
+---
+
+## Antibiotic-altered gut microbiota explain host memory plasticity and disrupt pace-of-life covariation for an aquatic snail
+
+[Source](https://doi.org/10.1093/ismejo/wrae078)
+
+---
+
+## Metagenome-assembled genomes from microbiomes fermenting dairy coproducts
+
+[Source](https://doi.org/10.1128/mra.00173-24)
+
+---
+
+## Global biogeography of microbes driving ocean ecological status under climate change.
+ 31.05.2024, _Z Zhang, Q Zhang, B Chen, Y Yu, T Wang, N Xu, X Fan, J Penuelas, Z Fu, Y Deng, YG Zhu, H Qian_
 
 
-_Black Sea, Seawater, Bacteria, Anaerobic, Phylogeny, Biodegradation, Environmental, RNA, Ribosomal, 16S, DNA, Bacterial, Organic Chemicals_
-Recent studies have reported the identity and functions of key anaerobes involved in the degradation of organic matter (OM) in deep (&gt; 1000 m) sulfidic marine habitats. However, due to the lack of available isolates, detailed investigation of their physiology has been precluded. In this study, we cultivated and characterized the ecophysiology of a wide range of novel anaerobes potentially involved in OM degradation in deep (2000 m depth) sulfidic waters of the Black Sea.
+_Climate Change, Oceans and Seas, Microbiota, Seawater, Ecosystem, Carbon Cycle, Biodiversity_
+Microbial communities play a crucial role in ocean ecology and global biogeochemical processes. However, understanding the intricate interactions among diversity, taxonomical composition, functional traits, and how these factors respond to climate change remains a significant challenge. Here, we propose seven distinct ecological statuses by systematically considering the diversity, structure, and biogeochemical potential of the ocean microbiome to delineate their biogeography. Anthropogenic climate change is expected to alter the ecological status of the surface ocean by influencing environmental conditions, particularly nutrient and oxygen contents. Our predictive model, which utilizes machine learning, indicates that the ecological status of approximately 32.44% of the surface ocean may undergo changes from the present to the end of this century, assuming no policy interventions. These changes mainly include poleward shifts in the main taxa, increases in photosynthetic carbon fixation and decreases in nutrient metabolism. However, this proportion can decrease significantly with effective control of greenhouse gas emissions. Our study underscores the urgent necessity for implementing policies to mitigate climate change, particularly from an ecological perspective.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01816-x)
+[Source](https://doi.org/10.1038/s41467-024-49124-0)
 
-10.1186/s40168-024-01816-x
+10.1038/s41467-024-49124-0
+
+---
+
+## Engineering natural microbiomes toward enhanced bioremediation by microbiome modeling.
+ 01.06.2024, _Z Ruan, K Chen, W Cao, L Meng, B Yang, M Xu, Y Xing, P Li, S Freilich, C Chen, Y Gao, J Jiang, X Xu_
+
+
+_Microbiota, Biodegradation, Environmental, Herbicides, Soil Microbiology, Soil Pollutants, Models, Biological, Bacteria_
+Engineering natural microbiomes for biotechnological applications remains challenging, as metabolic interactions within microbiomes are largely unknown, and practical principles and tools for microbiome engineering are still lacking. Here, we present a combinatory top-down and bottom-up framework to engineer natural microbiomes for the construction of function-enhanced synthetic microbiomes. We show that application of herbicide and herbicide-degrader inoculation drives a convergent succession of different natural microbiomes toward functional microbiomes (e.g., enhanced bioremediation of herbicide-contaminated soils). We develop a metabolic modeling pipeline, SuperCC, that can be used to document metabolic interactions within microbiomes and to simulate the performances of different microbiomes. Using SuperCC, we construct bioremediation-enhanced synthetic microbiomes based on 18 keystone species identified from natural microbiomes. Our results highlight the importance of metabolic interactions in shaping microbiome functions and provide practical guidance for engineering natural microbiomes.
+
+[Source](https://doi.org/10.1038/s41467-024-49098-z)
+
+10.1038/s41467-024-49098-z
+
+---
+
+## Interpretable machine learning decodes soil microbiome's response to drought stress.
+ 01.06.2024, _M Hagen, R Dass, C Westhues, J Blom, SJ Schultheiss, S Patz_
+
+
+Extreme weather events induced by climate change, particularly droughts, have detrimental consequences for crop yields and food security. Concurrently, these conditions provoke substantial changes in the soil bacterial microbiota and affect plant health. Early recognition of soil affected by drought enables farmers to implement appropriate agricultural management practices. In this context, interpretable machine learning holds immense potential for drought stress classification of soil based on marker taxa.
+
+[Source](https://doi.org/10.1186/s40793-024-00578-1)
+
+10.1186/s40793-024-00578-1
+
+---
+
+## Macroalgal eukaryotic microbiome composition indicates novel phylogenetic diversity and broad host spectrum of oomycete pathogens.
+ 31.05.2024, _N Timanikova, K Fletcher, JW Han, P van West, S Woodward, GH Kim, FC Küpper, M Wenzel_
+
+
+_Oomycetes, Phylogeny, Seaweed, Microbiota, RNA, Ribosomal, 18S, Symbiosis, Biodiversity, Eukaryota, Genetic Variation_
+Seaweeds are important components of marine ecosystems with emerging potential in aquaculture and as sources of biofuel, food products and pharmacological compounds. However, an increasingly recognised threat to natural and industrial seaweed populations is infection with parasitic single-celled eukaryotes from the relatively understudied oomycete lineage. Here we examine the eukaryomes of diverse brown, red and green marine macroalgae collected from polar (Baffin Island), cold-temperate (Falkland Islands) and tropical (Ascension Island) locations, with a focus on oomycete and closely related diatom taxa. Using 18S rRNA gene amplicon sequencing, we show unexpected genetic and taxonomic diversity of the eukaryomes, a strong broad-brush association between eukaryome composition and geographic location, and some evidence of association between eukaryome structure and macroalgal phylogenetic relationships (phylosymbiosis). However, the oomycete fraction of the eukaryome showed disparate patterns of diversity and structure, highlighting much weaker association with geography and no evidence of phylosymbiosis. We present several novel haplotypes of the most common oomycete Eurychasma dicksonii and report for the first time a cosmopolitan distribution and absence of host specificity of this important pathogen. This indicates rich diversity in macroalgal oomycete pathogens and highlights that these pathogens may be generalist and highly adaptable to diverse environmental conditions.
+
+[Source](https://doi.org/10.1111/1462-2920.16656)
+
+10.1111/1462-2920.16656
+
+---
+
+## Combining compositional data sets introduces error in covariance network reconstruction.
+ 31.05.2024, _JD Brunner, AJ Robinson, PSG Chain_
+
+
+Microbial communities are diverse biological systems that include taxa from across multiple kingdoms of life. Notably, interactions between bacteria and fungi play a significant role in determining community structure. However, these statistical associations across kingdoms are more difficult to infer than intra-kingdom associations due to the nature of the data involved using standard network inference techniques. We quantify the challenges of cross-kingdom network inference from both theoretical and practical points of view using synthetic and real-world microbiome data. We detail the theoretical issue presented by combining compositional data sets drawn from the same environment, e.g. 16S and ITS sequencing of a single set of samples, and we survey common network inference techniques for their ability to handle this error. We then test these techniques for the accuracy and usefulness of their intra- and inter-kingdom associations by inferring networks from a set of simulated samples for which a ground-truth set of associations is known. We show that while the two methods mitigate the error of cross-kingdom inference, there is little difference between techniques for key practical applications including identification of strong correlations and identification of possible keystone taxa (i.e. hub nodes in the network). Furthermore, we identify a signature of the error caused by transkingdom network inference and demonstrate that it appears in networks constructed using real-world environmental microbiome data.
+
+[Source](https://doi.org/10.1093/ismeco/ycae057)
+
+10.1093/ismeco/ycae057
+
+---
+
+## How to Obtain and Compare Metagenome-Assembled Genomes.
+ 31.05.2024, _FB Sanchez, SE Sato Guima, JC Setubal_
+
+
+_Metagenome, Metagenomics, Software, Computational Biology, Databases, Genetic, Sequence Analysis, DNA, Genome, Bacterial_
+Metagenome-assembled genomes, or MAGs, are genomes retrieved from metagenome datasets. In the vast majority of cases, MAGs are genomes from prokaryotic species that have not been isolated or cultivated in the lab. They, therefore, provide us with information on these species that are impossible to obtain otherwise, at least until new cultivation methods are devised. Thanks to improvements and cost reductions of DNA sequencing technologies and growing interest in microbial ecology, the rise in number of MAGs in genome repositories has been exponential. This chapter covers the basics of MAG retrieval and processing and provides a practical step-by-step guide using a real dataset and state-of-the-art tools for MAG analysis and comparison.
+
+[Source](https://doi.org/10.1007/978-1-0716-3838-5_6)
+
+10.1007/978-1-0716-3838-5_6
+
+---
+
+## A strategy for differential abundance analysis of sparse microbiome data with group-wise structured zeros.
+ 01.06.2024, _F Abegaz, D Abedini, F White, A Guerrieri, A Zancarini, L Dong, JA Westerhuis, F van Eeuwijk, H Bouwmeester, AK Smilde_
+
+
+_Microbiota, Computational Biology, Bacteria, Plants, Algorithms_
+Comparing the abundance of microbial communities between different groups or obtained under different experimental conditions using count sequence data is a challenging task due to various issues such as inflated zero counts, overdispersion, and non-normality. Several methods and procedures based on counts, their transformation and compositionality have been proposed in the literature to detect differentially abundant species in datasets containing hundreds to thousands of microbial species. Despite efforts to address the large numbers of zeros present in microbiome datasets, even after careful data preprocessing, the performance of existing methods is impaired by the presence of inflated zero counts and group-wise structured zeros (i.e. all zero counts in a group). We propose and validate using extensive simulations an approach combining two differential abundance testing methods, namely DESeq2-ZINBWaVE and DESeq2, to address the issues of zero-inflation and group-wise structured zeros, respectively. This combined approach was subsequently successfully applied to two plant microbiome datasets that revealed a number of taxa as interesting candidates for further experimental validation.
+
+[Source](https://doi.org/10.1038/s41598-024-62437-w)
+
+10.1038/s41598-024-62437-w
+
+---
+
+## A review of machine learning methods for cancer characterization from microbiome data.
+ 01.06.2024, _M Teixeira, F Silva, RM Ferreira, T Pereira, C Figueiredo, HP Oliveira_
+
+
+Recent studies have shown that the microbiome can impact cancer development, progression, and response to therapies suggesting microbiome-based approaches for cancer characterization. As cancer-related signatures are complex and implicate many taxa, their discovery often requires Machine Learning approaches. This review discusses Machine Learning methods for cancer characterization from microbiome data. It focuses on the implications of choices undertaken during sample collection, feature selection and pre-processing. It also discusses ML model selection, guiding how to choose an ML model, and model validation. Finally, it enumerates current limitations and how these may be surpassed. Proposed methods, often based on Random Forests, show promising results, however insufficient for widespread clinical usage. Studies often report conflicting results mainly due to ML models with poor generalizability. We expect that evaluating models with expanded, hold-out datasets, removing technical artifacts, exploring representations of the microbiome other than taxonomical profiles, leveraging advances in deep learning, and developing ML models better adapted to the characteristics of microbiome data will improve the performance and generalizability of models and enable their usage in the clinic.
+
+[Source](https://doi.org/10.1038/s41698-024-00617-7)
+
+10.1038/s41698-024-00617-7
 
 ---
 
