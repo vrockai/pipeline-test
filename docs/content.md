@@ -67,27 +67,15 @@ Current microbiome signatures for chronic diseases such as diabetic kidney disea
 
 ---
 
-## Gut microbiota-derived butyrate induces epigenetic and metabolic reprogramming in myeloid-derived suppressor cells to alleviate primary biliary cholangitis.
- 29.05.2024, _R Wang, B Li, B Huang, Y Li, Q Liu, Z Lyu, R Chen, Q Qian, X Liang, X Pu, Y Wu, Y Chen, Q Miao, Q Wang, M Lian, X Xiao, PSC Leung, ME Gershwin, Z You, X Ma, R Tang_
-
-
-Gut dysbiosis and myeloid-derived suppressor cells (MDSCs) are implicated in primary biliary cholangitis (PBC) pathogenesis. However, it remains unknown whether gut microbiota or their metabolites can modulate MDSCs homeostasis to rectify immune dysregulation in PBC.
+## Gut microbiota-derived butyrate induces epigenetic and metabolic reprogramming in myeloid-derived suppressor cells to alleviate primary biliary cholangitis
 
 [Source](https://www.gastrojournal.org/article/S0016-5085(24)04936-9/abstract)
 
-10.1053/j.gastro.2024.05.014
-
 ---
 
-## Gut microbiota research nexus: One Health relationship between human, animal, and environmental resistomes.
- 01.06.2024, _Y Fu, Q Dou, K Smalla, Y Wang, TA Johnson, KK Brandt, Z Mei, M Liao, SA Hashsham, A Schäffer, H Smidt, T Zhang, H Li, R Stedtfeld, H Sheng, B Chai, M Virta, X Jiang, F Wang, YG Zhu, JM Tiedje_
-
-
-The emergence and rapid spread of antimicrobial resistance is of global public health concern. The gut microbiota harboring diverse commensal and opportunistic bacteria that can acquire resistance via horizontal and vertical gene transfers is considered an important reservoir and sink of antibiotic resistance genes (ARGs). In this review, we describe the reservoirs of gut ARGs and their dynamics in both animals and humans, use the One Health perspective to track the transmission of ARG-containing bacteria between humans, animals, and the environment, and assess the impact of antimicrobial resistance on human health and socioeconomic development. The gut resistome can evolve in an environment subject to various selective pressures, including antibiotic administration and environmental and lifestyle factors (e.g., diet, age, gender, and living conditions), and interventions through probiotics. Strategies to reduce the abundance of clinically relevant antibiotic-resistant bacteria and their resistance determinants in various environmental niches are needed to ensure the mitigation of acquired antibiotic resistance. With the help of effective measures taken at the national, local, personal, and intestinal management, it will also result in preventing or minimizing the spread of infectious diseases. This review aims to improve our understanding of the correlations between intestinal microbiota and antimicrobial resistance and provide a basis for the development of management strategies to mitigate the antimicrobial resistance crisis.
+## Gut microbiota research nexus: One Health relationship between human, animal, and environmental resistomes
 
 [Source](https://doi.org/10.1002/mlf2.12101)
-
-10.1002/mlf2.12101
 
 ---
 
