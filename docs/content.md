@@ -37,7 +37,7 @@ Irritable bowel syndrome (IBS), a disorder of gut-brain interaction, is associat
 ---
 
 ## Gut microbiome in the Graves' disease: Comparison before and after anti-thyroid drug treatment.
- 31.05.2024, _C Jeong, H Baek, J Bae, N Hwang, J Ha, YS Cho, DJ Lim_
+ 03.06.2024, _C Jeong, H Baek, J Bae, N Hwang, J Ha, YS Cho, DJ Lim_
 
 
 _Humans, Graves Disease, Gastrointestinal Microbiome, Male, Female, Adult, Antithyroid Agents, Middle Aged, Feces, Case-Control Studies_
@@ -157,45 +157,91 @@ The emergence and rapid spread of antimicrobial resistance is of global public h
 
 ---
 
-## Engineering natural microbiomes toward enhanced bioremediation by microbiome modeling
+## Engineering natural microbiomes toward enhanced bioremediation by microbiome modeling.
+ 03.06.2024, _Z Ruan, K Chen, W Cao, L Meng, B Yang, M Xu, Y Xing, P Li, S Freilich, C Chen, Y Gao, J Jiang, X Xu_
+
+
+_Microbiota, Biodegradation, Environmental, Herbicides, Soil Microbiology, Soil Pollutants, Models, Biological, Bacteria_
+Engineering natural microbiomes for biotechnological applications remains challenging, as metabolic interactions within microbiomes are largely unknown, and practical principles and tools for microbiome engineering are still lacking. Here, we present a combinatory top-down and bottom-up framework to engineer natural microbiomes for the construction of function-enhanced synthetic microbiomes. We show that application of herbicide and herbicide-degrader inoculation drives a convergent succession of different natural microbiomes toward functional microbiomes (e.g., enhanced bioremediation of herbicide-contaminated soils). We develop a metabolic modeling pipeline, SuperCC, that can be used to document metabolic interactions within microbiomes and to simulate the performances of different microbiomes. Using SuperCC, we construct bioremediation-enhanced synthetic microbiomes based on 18 keystone species identified from natural microbiomes. Our results highlight the importance of metabolic interactions in shaping microbiome functions and provide practical guidance for engineering natural microbiomes.
 
 [Source](https://doi.org/10.1038/s41467-024-49098-z)
 
+10.1038/s41467-024-49098-z
+
 ---
 
-## Interpretable machine learning decodes soil microbiome’s response to drought stress
+## Interpretable machine learning decodes soil microbiome's response to drought stress.
+ 01.06.2024, _M Hagen, R Dass, C Westhues, J Blom, SJ Schultheiss, S Patz_
+
+
+Extreme weather events induced by climate change, particularly droughts, have detrimental consequences for crop yields and food security. Concurrently, these conditions provoke substantial changes in the soil bacterial microbiota and affect plant health. Early recognition of soil affected by drought enables farmers to implement appropriate agricultural management practices. In this context, interpretable machine learning holds immense potential for drought stress classification of soil based on marker taxa.
 
 [Source](https://doi.org/10.1186/s40793-024-00578-1)
 
+10.1186/s40793-024-00578-1
+
 ---
 
-## Macroalgal eukaryotic microbiome composition indicates novel phylogenetic diversity and broad host spectrum of oomycete pathogens
+## Macroalgal eukaryotic microbiome composition indicates novel phylogenetic diversity and broad host spectrum of oomycete pathogens.
+ 31.05.2024, _N Timanikova, K Fletcher, JW Han, P van West, S Woodward, GH Kim, FC Küpper, M Wenzel_
+
+
+_Oomycetes, Phylogeny, Seaweed, Microbiota, RNA, Ribosomal, 18S, Symbiosis, Biodiversity, Eukaryota, Genetic Variation_
+Seaweeds are important components of marine ecosystems with emerging potential in aquaculture and as sources of biofuel, food products and pharmacological compounds. However, an increasingly recognised threat to natural and industrial seaweed populations is infection with parasitic single-celled eukaryotes from the relatively understudied oomycete lineage. Here we examine the eukaryomes of diverse brown, red and green marine macroalgae collected from polar (Baffin Island), cold-temperate (Falkland Islands) and tropical (Ascension Island) locations, with a focus on oomycete and closely related diatom taxa. Using 18S rRNA gene amplicon sequencing, we show unexpected genetic and taxonomic diversity of the eukaryomes, a strong broad-brush association between eukaryome composition and geographic location, and some evidence of association between eukaryome structure and macroalgal phylogenetic relationships (phylosymbiosis). However, the oomycete fraction of the eukaryome showed disparate patterns of diversity and structure, highlighting much weaker association with geography and no evidence of phylosymbiosis. We present several novel haplotypes of the most common oomycete Eurychasma dicksonii and report for the first time a cosmopolitan distribution and absence of host specificity of this important pathogen. This indicates rich diversity in macroalgal oomycete pathogens and highlights that these pathogens may be generalist and highly adaptable to diverse environmental conditions.
 
 [Source](https://doi.org/10.1111/1462-2920.16656)
 
+10.1111/1462-2920.16656
+
 ---
 
-## Combining compositional data sets introduces error in covariance network reconstruction
+## Combining compositional data sets introduces error in covariance network reconstruction.
+ 31.05.2024, _JD Brunner, AJ Robinson, PSG Chain_
+
+
+Microbial communities are diverse biological systems that include taxa from across multiple kingdoms of life. Notably, interactions between bacteria and fungi play a significant role in determining community structure. However, these statistical associations across kingdoms are more difficult to infer than intra-kingdom associations due to the nature of the data involved using standard network inference techniques. We quantify the challenges of cross-kingdom network inference from both theoretical and practical points of view using synthetic and real-world microbiome data. We detail the theoretical issue presented by combining compositional data sets drawn from the same environment, e.g. 16S and ITS sequencing of a single set of samples, and we survey common network inference techniques for their ability to handle this error. We then test these techniques for the accuracy and usefulness of their intra- and inter-kingdom associations by inferring networks from a set of simulated samples for which a ground-truth set of associations is known. We show that while the two methods mitigate the error of cross-kingdom inference, there is little difference between techniques for key practical applications including identification of strong correlations and identification of possible keystone taxa (i.e. hub nodes in the network). Furthermore, we identify a signature of the error caused by transkingdom network inference and demonstrate that it appears in networks constructed using real-world environmental microbiome data.
 
 [Source](https://doi.org/10.1093/ismeco/ycae057)
 
+10.1093/ismeco/ycae057
+
 ---
 
-## How to Obtain and Compare Metagenome-Assembled Genomes
+## How to Obtain and Compare Metagenome-Assembled Genomes.
+ 31.05.2024, _FB Sanchez, SE Sato Guima, JC Setubal_
+
+
+_Metagenome, Metagenomics, Software, Computational Biology, Databases, Genetic, Sequence Analysis, DNA, Genome, Bacterial_
+Metagenome-assembled genomes, or MAGs, are genomes retrieved from metagenome datasets. In the vast majority of cases, MAGs are genomes from prokaryotic species that have not been isolated or cultivated in the lab. They, therefore, provide us with information on these species that are impossible to obtain otherwise, at least until new cultivation methods are devised. Thanks to improvements and cost reductions of DNA sequencing technologies and growing interest in microbial ecology, the rise in number of MAGs in genome repositories has been exponential. This chapter covers the basics of MAG retrieval and processing and provides a practical step-by-step guide using a real dataset and state-of-the-art tools for MAG analysis and comparison.
 
 [Source](https://doi.org/10.1007/978-1-0716-3838-5_6)
 
+10.1007/978-1-0716-3838-5_6
+
 ---
 
-## A strategy for differential abundance analysis of sparse microbiome data with group-wise structured zeros
+## A strategy for differential abundance analysis of sparse microbiome data with group-wise structured zeros.
+ 03.06.2024, _F Abegaz, D Abedini, F White, A Guerrieri, A Zancarini, L Dong, JA Westerhuis, F van Eeuwijk, H Bouwmeester, AK Smilde_
+
+
+_Microbiota, Computational Biology, Bacteria, Plants, Algorithms_
+Comparing the abundance of microbial communities between different groups or obtained under different experimental conditions using count sequence data is a challenging task due to various issues such as inflated zero counts, overdispersion, and non-normality. Several methods and procedures based on counts, their transformation and compositionality have been proposed in the literature to detect differentially abundant species in datasets containing hundreds to thousands of microbial species. Despite efforts to address the large numbers of zeros present in microbiome datasets, even after careful data preprocessing, the performance of existing methods is impaired by the presence of inflated zero counts and group-wise structured zeros (i.e. all zero counts in a group). We propose and validate using extensive simulations an approach combining two differential abundance testing methods, namely DESeq2-ZINBWaVE and DESeq2, to address the issues of zero-inflation and group-wise structured zeros, respectively. This combined approach was subsequently successfully applied to two plant microbiome datasets that revealed a number of taxa as interesting candidates for further experimental validation.
 
 [Source](https://doi.org/10.1038/s41598-024-62437-w)
 
+10.1038/s41598-024-62437-w
+
 ---
 
-## A review of machine learning methods for cancer characterization from microbiome data
+## A review of machine learning methods for cancer characterization from microbiome data.
+ 03.06.2024, _M Teixeira, F Silva, RM Ferreira, T Pereira, C Figueiredo, HP Oliveira_
+
+
+Recent studies have shown that the microbiome can impact cancer development, progression, and response to therapies suggesting microbiome-based approaches for cancer characterization. As cancer-related signatures are complex and implicate many taxa, their discovery often requires Machine Learning approaches. This review discusses Machine Learning methods for cancer characterization from microbiome data. It focuses on the implications of choices undertaken during sample collection, feature selection and pre-processing. It also discusses ML model selection, guiding how to choose an ML model, and model validation. Finally, it enumerates current limitations and how these may be surpassed. Proposed methods, often based on Random Forests, show promising results, however insufficient for widespread clinical usage. Studies often report conflicting results mainly due to ML models with poor generalizability. We expect that evaluating models with expanded, hold-out datasets, removing technical artifacts, exploring representations of the microbiome other than taxonomical profiles, leveraging advances in deep learning, and developing ML models better adapted to the characteristics of microbiome data will improve the performance and generalizability of models and enable their usage in the clinic.
 
 [Source](https://doi.org/10.1038/s41698-024-00617-7)
+
+10.1038/s41698-024-00617-7
 
 ---
 
