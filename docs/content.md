@@ -67,15 +67,27 @@ Current microbiome signatures for chronic diseases such as diabetic kidney disea
 
 ---
 
-## Gut microbiota-derived butyrate induces epigenetic and metabolic reprogramming in myeloid-derived suppressor cells to alleviate primary biliary cholangitis
+## Gut microbiota-derived butyrate induces epigenetic and metabolic reprogramming in myeloid-derived suppressor cells to alleviate primary biliary cholangitis.
+ 29.05.2024, _R Wang, B Li, B Huang, Y Li, Q Liu, Z Lyu, R Chen, Q Qian, X Liang, X Pu, Y Wu, Y Chen, Q Miao, Q Wang, M Lian, X Xiao, PSC Leung, ME Gershwin, Z You, X Ma, R Tang_
+
+
+Gut dysbiosis and myeloid-derived suppressor cells (MDSCs) are implicated in primary biliary cholangitis (PBC) pathogenesis. However, it remains unknown whether gut microbiota or their metabolites can modulate MDSCs homeostasis to rectify immune dysregulation in PBC.
 
 [Source](https://www.gastrojournal.org/article/S0016-5085(24)04936-9/abstract)
 
+10.1053/j.gastro.2024.05.014
+
 ---
 
-## Gut microbiota research nexus: One Health relationship between human, animal, and environmental resistomes
+## Gut microbiota research nexus: One Health relationship between human, animal, and environmental resistomes.
+ 01.06.2024, _Y Fu, Q Dou, K Smalla, Y Wang, TA Johnson, KK Brandt, Z Mei, M Liao, SA Hashsham, A Schäffer, H Smidt, T Zhang, H Li, R Stedtfeld, H Sheng, B Chai, M Virta, X Jiang, F Wang, YG Zhu, JM Tiedje_
+
+
+The emergence and rapid spread of antimicrobial resistance is of global public health concern. The gut microbiota harboring diverse commensal and opportunistic bacteria that can acquire resistance via horizontal and vertical gene transfers is considered an important reservoir and sink of antibiotic resistance genes (ARGs). In this review, we describe the reservoirs of gut ARGs and their dynamics in both animals and humans, use the One Health perspective to track the transmission of ARG-containing bacteria between humans, animals, and the environment, and assess the impact of antimicrobial resistance on human health and socioeconomic development. The gut resistome can evolve in an environment subject to various selective pressures, including antibiotic administration and environmental and lifestyle factors (e.g., diet, age, gender, and living conditions), and interventions through probiotics. Strategies to reduce the abundance of clinically relevant antibiotic-resistant bacteria and their resistance determinants in various environmental niches are needed to ensure the mitigation of acquired antibiotic resistance. With the help of effective measures taken at the national, local, personal, and intestinal management, it will also result in preventing or minimizing the spread of infectious diseases. This review aims to improve our understanding of the correlations between intestinal microbiota and antimicrobial resistance and provide a basis for the development of management strategies to mitigate the antimicrobial resistance crisis.
 
 [Source](https://doi.org/10.1002/mlf2.12101)
+
+10.1002/mlf2.12101
 
 ---
 
@@ -85,9 +97,15 @@ Current microbiome signatures for chronic diseases such as diabetic kidney disea
 
 ---
 
-## A Gram-negative-selective antibiotic that spares the gut microbiome
+## A Gram-negative-selective antibiotic that spares the gut microbiome.
+ 29.05.2024, _KA Muñoz, RJ Ulrich, AK Vasan, M Sinclair, PC Wen, JR Holmes, HY Lee, CC Hung, CJ Fields, E Tajkhorshid, GW Lau, PJ Hergenrother_
+
+
+Infections caused by Gram-negative pathogens are increasingly prevalent and are typically treated with broad-spectrum antibiotics, resulting in disruption of the gut microbiome and susceptibility to secondary infections1-3. There is a critical need for antibiotics that are selective both for Gram-negative bacteria over Gram-positive bacteria, as well as for pathogenic bacteria over commensal bacteria. Here we report the design and discovery of lolamicin, a Gram-negative-specific antibiotic targeting the lipoprotein transport system. Lolamicin has activity against a panel of more than 130 multidrug-resistant clinical isolates, shows efficacy in multiple mouse models of acute pneumonia and septicaemia infection, and spares the gut microbiome in mice, preventing secondary infection with Clostridioides difficile. The selective killing of pathogenic Gram-negative bacteria by lolamicin is a consequence of low sequence homology for the target in pathogenic bacteria versus commensals; this doubly selective strategy can be a blueprint for the development of other microbiome-sparing antibiotics.
 
 [Source](https://doi.org/10.1038/s41586-024-07502-0)
+
+10.1038/s41586-024-07502-0
 
 ---
 
@@ -103,21 +121,42 @@ Current microbiome signatures for chronic diseases such as diabetic kidney disea
 
 ---
 
-## Transgenerational effects of early life stress on the fecal microbiota in mice
+## Transgenerational effects of early life stress on the fecal microbiota in mice.
+ 03.06.2024, _N Otaru, L Kourouma, B Pugin, F Constancias, C Braegger, IM Mansuy, C Lacroix_
+
+
+_Animals, Feces, Mice, Gastrointestinal Microbiome, Stress, Psychological, Female, Male, Mice, Inbred C57BL, Bacteria_
+Stress in early life can affect the progeny and increase the risk to develop psychiatric and cardiometabolic diseases across generations. The cross-generational effects of early life stress have been modeled in mice and demonstrated to be associated with epigenetic factors in the germline. While stress is known to affect gut microbial features, whether its effects can persist across life and be passed to the progeny is not well defined. Here we show that early postnatal stress in mice shifts the fecal microbial composition (binary Jaccard index) throughout life, including abundance of eight amplicon sequencing variants (ASVs). Further effects on fecal microbial composition, structure (weighted Jaccard index), and abundance of 16 ASVs are detected in the progeny across two generations. These effects are not accompanied by changes in bacterial metabolites in any generation. These results suggest that changes in the fecal microbial community induced by early life traumatic stress can be perpetuated from exposed parent to the offspring.
 
 [Source](https://doi.org/10.1038/s42003-024-06279-2)
 
+10.1038/s42003-024-06279-2
+
 ---
 
-## Metagenomics and metaproteomics alterations are associated with kidney disease in opisthorchiasis hamsters fed a high-fat and high-fructose diet
+## Metagenomics and metaproteomics alterations are associated with kidney disease in opisthorchiasis hamsters fed a high-fat and high-fructose diet.
+ 01.06.2024, _K Tunbenjasiri, T Pongking, C Sitthirach, S Kongsintaweesuk, S Roytrakul, S Charoenlappanit, S Klungsaeng, S Anutrakulchai, C Chalermwat, C Pairojkul, S Pinlaor, P Pinlaor_
+
+
+_Animals, Fructose, Opisthorchiasis, Diet, High-Fat, Metagenomics, Cricetinae, Proteomics, Gastrointestinal Microbiome, Kidney Diseases, Opisthorchis, Male, Proteome, Kidney, Mesocricetus, RNA, Ribosomal, 16S_
+Opisthorchis viverrini (O. viverrini, Ov) infection and consumption of high-fat and high-fructose (HFF) diet exacerbate liver and kidney disease. Here, we investigated the effects of a combination of O. viverrini infection and HFF diet on kidney pathology via changes in the gut microbiome and host proteome in hamsters.
 
 [Source](https://doi.org/10.1371/journal.pone.0301907)
 
+10.1371/journal.pone.0301907
+
 ---
 
-## Spatial profiles of the bacterial microbiota throughout the gastrointestinal tract of dairy goats
+## Spatial profiles of the bacterial microbiota throughout the gastrointestinal tract of dairy goats.
+ 03.06.2024, _Q Hu, J Luo, F Cheng, P Wang, P Gong, X Lv, X Wang, M Yang, P Wei_
+
+
+_Animals, Goats, Gastrointestinal Microbiome, Gastrointestinal Tract, RNA, Ribosomal, 16S, Bacteria, Phylogeny, DNA, Bacterial, Biodiversity, Female_
+The gastrointestinal tract (GIT) is stationed by a dynamic and complex microbial community with functions in digestion, metabolism, immunomodulation, and reproduction. However, there is relatively little research on the composition and function of microorganisms in different GIT segments in dairy goats. Herein, 80 chyme samples were taken from ten GIT sites of eight Xinong Saanen dairy goats and then analyzed and identified the microbial composition via 16S rRNA V1-V9 amplicon sequencing. A total of 6669 different operational taxonomic units (OTUs) were clustered, and 187 OTUs were shared by ten GIT segments. We observed 264 species belonging to 23 different phyla scattered across ten GITs, with Firmicutes (52.42%) and Bacteroidetes (22.88%) predominating. The results revealed obvious location differences in the composition, diversity, and function of the GIT microbiota. In LEfSe analysis, unidentified_Lachnospiraceae and unidentified_Succinniclassicum were significantly enriched in the four chambers of stomach, with functions in carbohydrate fermentation to compose short-chain fatty acids. Aeriscardovia, Candidatus_Saccharimonas, and Romboutsia were significantly higher in the foregut, playing an important role in synthesizing enzymes, amino acids, and vitamins and immunomodulation. Akkermansia, Bacteroides, and Alistipes were significantly abundant in the hindgut to degrade polysaccharides and oligosaccharides, etc. From rumen to rectum, α-diversity decreased first and then increased, while β-diversity showed the opposite trend. Metabolism was the major function of the GIT microbiome predicted by PICRUSt2, but with variation in target substrates along the regions. In summary, GIT segments play a decisive role in the composition and functions of microorganisms. KEY POINTS: • The jejunum and ileum were harsh for microorganisms to colonize due to the presence of bile acids, enzymes, faster chyme circulation, etc., exhibiting the lowest α-diversity and the highest β-diversity. • Variability in microbial profiles between the three foregut segments was greater than four chambers of stomach and hindgut, with a higher abundance of Firmicutes dominating than others. • Dairy goats dominated a higher abundance of Kiritimatiellaeota than cows, which was reported to be associated with fatty acid synthesis.
 
 [Source](https://doi.org/10.1007/s00253-024-13200-8)
+
+10.1007/s00253-024-13200-8
 
 ---
 
