@@ -67,27 +67,15 @@ Current microbiome signatures for chronic diseases such as diabetic kidney disea
 
 ---
 
-## Gut microbiota-derived butyrate induces epigenetic and metabolic reprogramming in myeloid-derived suppressor cells to alleviate primary biliary cholangitis.
- 29.05.2024, _R Wang, B Li, B Huang, Y Li, Q Liu, Z Lyu, R Chen, Q Qian, X Liang, X Pu, Y Wu, Y Chen, Q Miao, Q Wang, M Lian, X Xiao, PSC Leung, ME Gershwin, Z You, X Ma, R Tang_
-
-
-Gut dysbiosis and myeloid-derived suppressor cells (MDSCs) are implicated in primary biliary cholangitis (PBC) pathogenesis. However, it remains unknown whether gut microbiota or their metabolites can modulate MDSCs homeostasis to rectify immune dysregulation in PBC.
+## Gut microbiota-derived butyrate induces epigenetic and metabolic reprogramming in myeloid-derived suppressor cells to alleviate primary biliary cholangitis
 
 [Source](https://www.gastrojournal.org/article/S0016-5085(24)04936-9/abstract)
 
-10.1053/j.gastro.2024.05.014
-
 ---
 
-## Gut microbiota research nexus: One Health relationship between human, animal, and environmental resistomes.
- 01.06.2024, _Y Fu, Q Dou, K Smalla, Y Wang, TA Johnson, KK Brandt, Z Mei, M Liao, SA Hashsham, A Schäffer, H Smidt, T Zhang, H Li, R Stedtfeld, H Sheng, B Chai, M Virta, X Jiang, F Wang, YG Zhu, JM Tiedje_
-
-
-The emergence and rapid spread of antimicrobial resistance is of global public health concern. The gut microbiota harboring diverse commensal and opportunistic bacteria that can acquire resistance via horizontal and vertical gene transfers is considered an important reservoir and sink of antibiotic resistance genes (ARGs). In this review, we describe the reservoirs of gut ARGs and their dynamics in both animals and humans, use the One Health perspective to track the transmission of ARG-containing bacteria between humans, animals, and the environment, and assess the impact of antimicrobial resistance on human health and socioeconomic development. The gut resistome can evolve in an environment subject to various selective pressures, including antibiotic administration and environmental and lifestyle factors (e.g., diet, age, gender, and living conditions), and interventions through probiotics. Strategies to reduce the abundance of clinically relevant antibiotic-resistant bacteria and their resistance determinants in various environmental niches are needed to ensure the mitigation of acquired antibiotic resistance. With the help of effective measures taken at the national, local, personal, and intestinal management, it will also result in preventing or minimizing the spread of infectious diseases. This review aims to improve our understanding of the correlations between intestinal microbiota and antimicrobial resistance and provide a basis for the development of management strategies to mitigate the antimicrobial resistance crisis.
+## Gut microbiota research nexus: One Health relationship between human, animal, and environmental resistomes
 
 [Source](https://doi.org/10.1002/mlf2.12101)
-
-10.1002/mlf2.12101
 
 ---
 
@@ -133,27 +121,53 @@ The emergence and rapid spread of antimicrobial resistance is of global public h
 
 ---
 
-## Interaction between methanotrophy and gastrointestinal nematodes infection on the rumen microbiome of lambs
+## Interaction between methanotrophy and gastrointestinal nematodes infection on the rumen microbiome of lambs.
+ 31.05.2024, _PS Corrêa, MA Fernandes, CR Jimenez, LW Mendes, P de Mello Tavares Lima, AL Abdalla, H Louvandini_
+
+
+Complex crosstalk occurs between gastrointestinal nematodes and gut symbiotic microbiota, with consequences for animal metabolism. To investigate the connection between methane production and endoparasites, this study evaluated the effect of mixed infection with Haemonchus contortus and Trichostrongylus colubriformis on methanogenic and methanotrophic community in rumen microbiota of lambs using shotgun metagenomic and Real-time quantitative PCR (qPCR). The rumen content was collected from 6 Santa Inês lambs, (7 months old) before and after 42 days infection by esophageal tube. The metagenomic analysis showed that the infection affected the microbial community structure leading to decreased abundance of methanotrophs bacteria, i.e. α-proteobacteria and β-proteobacteria, anaerobic methanotrophic archaea (ANME), protozoa, sulfate-reducing bacteria, syntrophic bacteria with methanogens, geobacter, and genes related to pyruvate, fatty acid, nitrogen, and sulfur metabolisms, ribulose monophosphate cycle and Entner-Doudoroff Pathway. Additionally, the abundance of methanogenic archaea and the mcrA gene did not change. The co-occurrence networks enabled us to identify the interactions between each taxon in microbial communities and to determine the reshaping of rumen microbiome associations by gastrointestinal nematode infection. Besides, the correlation between ANMEs was lower in the animal's post-infection. Our findings suggest that gastrointestinal parasites potentially lead to decreased methanotrophic metabolism-related microorganisms and genes.
 
 [Source](https://doi.org/10.1093/femsec/fiae083)
 
+10.1093/femsec/fiae083
+
 ---
 
-## Antibiotic-altered gut microbiota explain host memory plasticity and disrupt pace-of-life covariation for an aquatic snail
+## Antibiotic-altered gut microbiota explain host memory plasticity and disrupt pace-of-life covariation for an aquatic snail.
+ 01.06.2024, _GL Davidson, IA Cienfuegos, S Dalesman_
+
+
+_Animals, Gastrointestinal Microbiome, Anti-Bacterial Agents, Lymnaea, Memory, Snails, Phenotype_
+There is mounting evidence that intestinal microbiota communities and their genes (the gut microbiome) influence how animals behave and interact with their environment, driving individual variation. Individual covariation in behavioural, physiological, and cognitive traits among individuals along a fast-slow continuum is thought to arise because these traits are linked as part of an adaptive pace-of-life strategy. Yet paradoxically, trait intercorrelation is absent or disrupted in some populations but not others. Here, we provide experimental evidence from aquatic pond snails (Lymnaea stagnalis) that environmental stressors and the gut microbiota explain host phenotypic plasticity and disrupted covariation among traits. Antibiotic exposure at varying levels of ecologically relevant concentrations had multiple effects starting with gut microbiota diversity, differential abundance, and inferred function. Memory declined in line with antibiotic concentrations that caused the most profound gut microbiota disruption, and although pace-of-life traits remained rigid, their covariation did not. Moreover, inferred microbial metabolic pathways with biologically relevant host functions explained individual and treatment variation in phenotypes. Together, our results point to the gut microbiome as a proximate mechanism influencing the emergence and maintenance of phenotypic variation within populations and highlights the need to decipher whether the gut microbiome's sensitivity to environmental pollution facilitates adaptive or maladaptive phenotypic plasticity.
 
 [Source](https://doi.org/10.1093/ismejo/wrae078)
 
+10.1093/ismejo/wrae078
+
 ---
 
-## Metagenome-assembled genomes from microbiomes fermenting dairy coproducts
+## Metagenome-assembled genomes from microbiomes fermenting dairy coproducts.
+ 31.05.2024, _KA Walters, KS Myers, TJ Donohue, DR Noguera_
+
+
+To advance knowledge of microbial communities capable of fermenting agro-industrial residues into value-added products, we report metagenomes of microbial communities from six anaerobic bioreactors that were fed a mixture of ultra-filtered milk permeate and cottage cheese acid whey. These metagenomes produced 122 metagenome-assembled genomes that represent 34 distinct taxa.
 
 [Source](https://doi.org/10.1128/mra.00173-24)
 
+10.1128/mra.00173-24
+
 ---
 
-## Global biogeography of microbes driving ocean ecological status under climate change
+## Global biogeography of microbes driving ocean ecological status under climate change.
+ 03.06.2024, _Z Zhang, Q Zhang, B Chen, Y Yu, T Wang, N Xu, X Fan, J Penuelas, Z Fu, Y Deng, YG Zhu, H Qian_
+
+
+_Climate Change, Oceans and Seas, Microbiota, Seawater, Ecosystem, Carbon Cycle, Biodiversity_
+Microbial communities play a crucial role in ocean ecology and global biogeochemical processes. However, understanding the intricate interactions among diversity, taxonomical composition, functional traits, and how these factors respond to climate change remains a significant challenge. Here, we propose seven distinct ecological statuses by systematically considering the diversity, structure, and biogeochemical potential of the ocean microbiome to delineate their biogeography. Anthropogenic climate change is expected to alter the ecological status of the surface ocean by influencing environmental conditions, particularly nutrient and oxygen contents. Our predictive model, which utilizes machine learning, indicates that the ecological status of approximately 32.44% of the surface ocean may undergo changes from the present to the end of this century, assuming no policy interventions. These changes mainly include poleward shifts in the main taxa, increases in photosynthetic carbon fixation and decreases in nutrient metabolism. However, this proportion can decrease significantly with effective control of greenhouse gas emissions. Our study underscores the urgent necessity for implementing policies to mitigate climate change, particularly from an ecological perspective.
 
 [Source](https://doi.org/10.1038/s41467-024-49124-0)
+
+10.1038/s41467-024-49124-0
 
 ---
 
