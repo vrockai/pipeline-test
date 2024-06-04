@@ -67,27 +67,15 @@ Current microbiome signatures for chronic diseases such as diabetic kidney disea
 
 ---
 
-## Gut microbiota-derived butyrate induces epigenetic and metabolic reprogramming in myeloid-derived suppressor cells to alleviate primary biliary cholangitis.
- 29.05.2024, _R Wang, B Li, B Huang, Y Li, Q Liu, Z Lyu, R Chen, Q Qian, X Liang, X Pu, Y Wu, Y Chen, Q Miao, Q Wang, M Lian, X Xiao, PSC Leung, ME Gershwin, Z You, X Ma, R Tang_
-
-
-Gut dysbiosis and myeloid-derived suppressor cells (MDSCs) are implicated in primary biliary cholangitis (PBC) pathogenesis. However, it remains unknown whether gut microbiota or their metabolites can modulate MDSCs homeostasis to rectify immune dysregulation in PBC.
+## Gut microbiota-derived butyrate induces epigenetic and metabolic reprogramming in myeloid-derived suppressor cells to alleviate primary biliary cholangitis
 
 [Source](https://www.gastrojournal.org/article/S0016-5085(24)04936-9/abstract)
 
-10.1053/j.gastro.2024.05.014
-
 ---
 
-## Gut microbiota research nexus: One Health relationship between human, animal, and environmental resistomes.
- 01.06.2024, _Y Fu, Q Dou, K Smalla, Y Wang, TA Johnson, KK Brandt, Z Mei, M Liao, SA Hashsham, A Schäffer, H Smidt, T Zhang, H Li, R Stedtfeld, H Sheng, B Chai, M Virta, X Jiang, F Wang, YG Zhu, JM Tiedje_
-
-
-The emergence and rapid spread of antimicrobial resistance is of global public health concern. The gut microbiota harboring diverse commensal and opportunistic bacteria that can acquire resistance via horizontal and vertical gene transfers is considered an important reservoir and sink of antibiotic resistance genes (ARGs). In this review, we describe the reservoirs of gut ARGs and their dynamics in both animals and humans, use the One Health perspective to track the transmission of ARG-containing bacteria between humans, animals, and the environment, and assess the impact of antimicrobial resistance on human health and socioeconomic development. The gut resistome can evolve in an environment subject to various selective pressures, including antibiotic administration and environmental and lifestyle factors (e.g., diet, age, gender, and living conditions), and interventions through probiotics. Strategies to reduce the abundance of clinically relevant antibiotic-resistant bacteria and their resistance determinants in various environmental niches are needed to ensure the mitigation of acquired antibiotic resistance. With the help of effective measures taken at the national, local, personal, and intestinal management, it will also result in preventing or minimizing the spread of infectious diseases. This review aims to improve our understanding of the correlations between intestinal microbiota and antimicrobial resistance and provide a basis for the development of management strategies to mitigate the antimicrobial resistance crisis.
+## Gut microbiota research nexus: One Health relationship between human, animal, and environmental resistomes
 
 [Source](https://doi.org/10.1002/mlf2.12101)
-
-10.1002/mlf2.12101
 
 ---
 
@@ -97,15 +85,9 @@ The emergence and rapid spread of antimicrobial resistance is of global public h
 
 ---
 
-## A Gram-negative-selective antibiotic that spares the gut microbiome.
- 29.05.2024, _KA Muñoz, RJ Ulrich, AK Vasan, M Sinclair, PC Wen, JR Holmes, HY Lee, CC Hung, CJ Fields, E Tajkhorshid, GW Lau, PJ Hergenrother_
-
-
-Infections caused by Gram-negative pathogens are increasingly prevalent and are typically treated with broad-spectrum antibiotics, resulting in disruption of the gut microbiome and susceptibility to secondary infections1-3. There is a critical need for antibiotics that are selective both for Gram-negative bacteria over Gram-positive bacteria, as well as for pathogenic bacteria over commensal bacteria. Here we report the design and discovery of lolamicin, a Gram-negative-specific antibiotic targeting the lipoprotein transport system. Lolamicin has activity against a panel of more than 130 multidrug-resistant clinical isolates, shows efficacy in multiple mouse models of acute pneumonia and septicaemia infection, and spares the gut microbiome in mice, preventing secondary infection with Clostridioides difficile. The selective killing of pathogenic Gram-negative bacteria by lolamicin is a consequence of low sequence homology for the target in pathogenic bacteria versus commensals; this doubly selective strategy can be a blueprint for the development of other microbiome-sparing antibiotics.
+## A Gram-negative-selective antibiotic that spares the gut microbiome
 
 [Source](https://doi.org/10.1038/s41586-024-07502-0)
-
-10.1038/s41586-024-07502-0
 
 ---
 
@@ -121,34 +103,20 @@ Infections caused by Gram-negative pathogens are increasingly prevalent and are 
 
 ---
 
-## Transgenerational effects of early life stress on the fecal microbiota in mice.
- 03.06.2024, _N Otaru, L Kourouma, B Pugin, F Constancias, C Braegger, IM Mansuy, C Lacroix_
-
-
-_Animals, Feces, Mice, Gastrointestinal Microbiome, Stress, Psychological, Female, Male, Mice, Inbred C57BL, Bacteria_
-Stress in early life can affect the progeny and increase the risk to develop psychiatric and cardiometabolic diseases across generations. The cross-generational effects of early life stress have been modeled in mice and demonstrated to be associated with epigenetic factors in the germline. While stress is known to affect gut microbial features, whether its effects can persist across life and be passed to the progeny is not well defined. Here we show that early postnatal stress in mice shifts the fecal microbial composition (binary Jaccard index) throughout life, including abundance of eight amplicon sequencing variants (ASVs). Further effects on fecal microbial composition, structure (weighted Jaccard index), and abundance of 16 ASVs are detected in the progeny across two generations. These effects are not accompanied by changes in bacterial metabolites in any generation. These results suggest that changes in the fecal microbial community induced by early life traumatic stress can be perpetuated from exposed parent to the offspring.
+## Transgenerational effects of early life stress on the fecal microbiota in mice
 
 [Source](https://doi.org/10.1038/s42003-024-06279-2)
 
-10.1038/s42003-024-06279-2
-
 ---
 
-## Metagenomics and metaproteomics alterations are associated with kidney disease in opisthorchiasis hamsters fed a high-fat and high-fructose diet.
- 01.06.2024, _K Tunbenjasiri, T Pongking, C Sitthirach, S Kongsintaweesuk, S Roytrakul, S Charoenlappanit, S Klungsaeng, S Anutrakulchai, C Chalermwat, C Pairojkul, S Pinlaor, P Pinlaor_
-
-
-_Animals, Fructose, Opisthorchiasis, Diet, High-Fat, Metagenomics, Cricetinae, Proteomics, Gastrointestinal Microbiome, Kidney Diseases, Opisthorchis, Male, Proteome, Kidney, Mesocricetus, RNA, Ribosomal, 16S_
-Opisthorchis viverrini (O. viverrini, Ov) infection and consumption of high-fat and high-fructose (HFF) diet exacerbate liver and kidney disease. Here, we investigated the effects of a combination of O. viverrini infection and HFF diet on kidney pathology via changes in the gut microbiome and host proteome in hamsters.
+## Metagenomics and metaproteomics alterations are associated with kidney disease in opisthorchiasis hamsters fed a high-fat and high-fructose diet
 
 [Source](https://doi.org/10.1371/journal.pone.0301907)
-
-10.1371/journal.pone.0301907
 
 ---
 
 ## Spatial profiles of the bacterial microbiota throughout the gastrointestinal tract of dairy goats.
- 03.06.2024, _Q Hu, J Luo, F Cheng, P Wang, P Gong, X Lv, X Wang, M Yang, P Wei_
+ 04.06.2024, _Q Hu, J Luo, F Cheng, P Wang, P Gong, X Lv, X Wang, M Yang, P Wei_
 
 
 _Animals, Goats, Gastrointestinal Microbiome, Gastrointestinal Tract, RNA, Ribosomal, 16S, Bacteria, Phylogeny, DNA, Bacterial, Biodiversity, Female_
@@ -197,21 +165,14 @@ To advance knowledge of microbial communities capable of fermenting agro-industr
 
 ---
 
-## Global biogeography of microbes driving ocean ecological status under climate change.
- 03.06.2024, _Z Zhang, Q Zhang, B Chen, Y Yu, T Wang, N Xu, X Fan, J Penuelas, Z Fu, Y Deng, YG Zhu, H Qian_
-
-
-_Climate Change, Oceans and Seas, Microbiota, Seawater, Ecosystem, Carbon Cycle, Biodiversity_
-Microbial communities play a crucial role in ocean ecology and global biogeochemical processes. However, understanding the intricate interactions among diversity, taxonomical composition, functional traits, and how these factors respond to climate change remains a significant challenge. Here, we propose seven distinct ecological statuses by systematically considering the diversity, structure, and biogeochemical potential of the ocean microbiome to delineate their biogeography. Anthropogenic climate change is expected to alter the ecological status of the surface ocean by influencing environmental conditions, particularly nutrient and oxygen contents. Our predictive model, which utilizes machine learning, indicates that the ecological status of approximately 32.44% of the surface ocean may undergo changes from the present to the end of this century, assuming no policy interventions. These changes mainly include poleward shifts in the main taxa, increases in photosynthetic carbon fixation and decreases in nutrient metabolism. However, this proportion can decrease significantly with effective control of greenhouse gas emissions. Our study underscores the urgent necessity for implementing policies to mitigate climate change, particularly from an ecological perspective.
+## Global biogeography of microbes driving ocean ecological status under climate change
 
 [Source](https://doi.org/10.1038/s41467-024-49124-0)
-
-10.1038/s41467-024-49124-0
 
 ---
 
 ## Engineering natural microbiomes toward enhanced bioremediation by microbiome modeling.
- 03.06.2024, _Z Ruan, K Chen, W Cao, L Meng, B Yang, M Xu, Y Xing, P Li, S Freilich, C Chen, Y Gao, J Jiang, X Xu_
+ 04.06.2024, _Z Ruan, K Chen, W Cao, L Meng, B Yang, M Xu, Y Xing, P Li, S Freilich, C Chen, Y Gao, J Jiang, X Xu_
 
 
 _Microbiota, Biodegradation, Environmental, Herbicides, Soil Microbiology, Soil Pollutants, Models, Biological, Bacteria_
