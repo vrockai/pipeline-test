@@ -34,18 +34,6 @@ Globally, stunting affects ∼150 million children under five, while wasting aff
 
 ---
 
-## Nurturing gut health: role of m6A RNA methylation in upholding the intestinal barrier.
- 06.06.2024, _S Wang, Y Yang, X Jiang, X Zheng, Q Wei, W Dai, X Zhang_
-
-
-The intestinal lumen acts as a critical interface connecting the external environment with the body's internal state. It's essential to prevent the passage of harmful antigens and bacteria while facilitating nutrient and water absorption. The intestinal barriers encompass microbial, mechanical, immunological, and chemical elements, working together to maintain intestinal balance. Numerous studies have associated m6A modification with intestinal homeostasis. This review comprehensively outlines potential mechanisms through which m6A modification could initiate, exacerbate, or sustain barrier damage from an intestinal perspective. The pivotal role of m6A modification in preserving intestinal equilibrium provides new insights, guiding the exploration of m6A modification as a target for optimizing preventive and therapeutic strategies for intestinal homeostasis.
-
-[Source](https://www.nature.com/articles/s41420-024-02043-x)
-
-10.1038/s41420-024-02043-x
-
----
-
 ## [REVIEW] Nurturing gut health: role of m6A RNA methylation in upholding the intestinal barrier
 
 [Source](https://www.nature.com/articles/s41420-024-02043-x)
@@ -58,29 +46,15 @@ The intestinal lumen acts as a critical interface connecting the external enviro
 
 ---
 
-## Dysfunctional circadian clock accelerates cancer metastasis by intestinal microbiota triggering accumulation of myeloid-derived suppressor cells.
- 05.06.2024, _JL Liu, X Xu, Y Rixiati, CY Wang, HL Ni, WS Chen, HM Gong, ZL Zhang, S Li, T Shen, JM Li_
-
-
-_Animals, Gastrointestinal Microbiome, Circadian Clocks, Mice, Myeloid-Derived Suppressor Cells, Humans, Neoplasm Metastasis, Colorectal Neoplasms, Mice, Inbred C57BL, Male, Tumor Microenvironment, Lung Neoplasms, Female, Mice, Inbred BALB C, Cell Line, Tumor_
-Circadian homeostasis in mammals is a key intrinsic mechanism for responding to the external environment. However, the interplay between circadian rhythms and the tumor microenvironment (TME) and its influence on metastasis are still unclear. Here, in patients with colorectal cancer (CRC), disturbances of circadian rhythm and the accumulation of monocytes and granulocytes were closely related to metastasis. Moreover, dysregulation of circadian rhythm promoted lung metastasis of CRC by inducing the accumulation of myeloid-derived suppressor cells (MDSCs) and dysfunctional CD8+ T cells in the lungs of mice. Also, gut microbiota and its derived metabolite taurocholic acid (TCA) contributed to lung metastasis of CRC by triggering the accumulation of MDSCs in mice. Mechanistically, TCA promoted glycolysis of MDSCs epigenetically by enhancing mono-methylation of H3K4 of target genes and inhibited CHIP-mediated ubiquitination of PDL1. Our study links the biological clock with MDSCs in the TME through gut microbiota/metabolites in controlling the metastatic spread of CRC, uncovering a systemic mechanism for cancer metastasis.
+## Dysfunctional circadian clock accelerates cancer metastasis by intestinal microbiota triggering accumulation of myeloid-derived suppressor cells
 
 [Source](https://www.cell.com/cell-metabolism/abstract/S1550-4131(24)00172-4)
 
-10.1016/j.cmet.2024.04.019
-
 ---
 
-## Longitudinal multicompartment characterization of host-microbiota interactions in patients with acute respiratory failure.
- 06.06.2024, _GD Kitsios, K Sayed, A Fitch, H Yang, N Britton, F Shah, W Bain, JW Evankovich, S Qin, X Wang, K Li, A Patel, Y Zhang, J Radder, C Dela Cruz, DA Okin, CY Huang, D Van Tyne, PV Benos, B Methé, P Lai, A Morris, BJ McVerry_
-
-
-_Humans, Female, Male, Dysbiosis, Middle Aged, Lung, COVID-19, Aged, Microbiota, Gastrointestinal Microbiome, Host Microbial Interactions, Longitudinal Studies, RNA, Ribosomal, 16S, Respiratory Insufficiency, SARS-CoV-2, Adult, Respiration, Artificial, Bacteria, Critical Illness, Metagenomics_
-Critical illness can significantly alter the composition and function of the human microbiome, but few studies have examined these changes over time. Here, we conduct a comprehensive analysis of the oral, lung, and gut microbiota in 479 mechanically ventilated patients (223 females, 256 males) with acute respiratory failure. We use advanced DNA sequencing technologies, including Illumina amplicon sequencing (utilizing 16S and ITS rRNA genes for bacteria and fungi, respectively, in all sample types) and Nanopore metagenomics for lung microbiota. Our results reveal a progressive dysbiosis in all three body compartments, characterized by a reduction in microbial diversity, a decrease in beneficial anaerobes, and an increase in pathogens. We find that clinical factors, such as chronic obstructive pulmonary disease, immunosuppression, and antibiotic exposure, are associated with specific patterns of dysbiosis. Interestingly, unsupervised clustering of lung microbiota diversity and composition by 16S independently predicted survival and performed better than traditional clinical and host-response predictors. These observations are validated in two separate cohorts of COVID-19 patients, highlighting the potential of lung microbiota as valuable prognostic biomarkers in critical care. Understanding these microbiome changes during critical illness points to new opportunities for microbiota-targeted precision medicine interventions.
+## Longitudinal multicompartment characterization of host-microbiota interactions in patients with acute respiratory failure
 
 [Source](https://www.nature.com/articles/s41467-024-48819-8)
-
-10.1038/s41467-024-48819-8
 
 ---
 
@@ -90,27 +64,15 @@ Critical illness can significantly alter the composition and function of the hum
 
 ---
 
-## The oral microbiome and oral and upper gastrointestinal diseases.
- 05.06.2024, _S Liu, S Wang, N Zhang, P Li_
-
-
-Microbiomes are essential components of the human body, and their populations are substantial. Under normal circumstances, microbiomes coexist harmoniously with the human body, but disturbances in this equilibrium can lead to various diseases. The oral microbiome is involved in the occurrence and development of many oral and gastrointestinal diseases. This review focuses on the relationship between oral microbiomes and oral and upper gastrointestinal diseases, and therapeutic strategies aiming to provide valuable insights for clinical prevention and treatment.
+## The oral microbiome and oral and upper gastrointestinal diseases
 
 [Source](https://tandfonline.com/doi/full/10.1080/20002297.2024.2355823)
 
-10.1080/20002297.2024.2355823
-
 ---
 
-## Comprehensive analysis of the oral microbiota and metabolome change in patients of burning mouth syndrome with psychiatric symptoms.
- 05.06.2024, _S Luo, F Lou, L Yan, Y Dong, Y Zhang, Y Liu, P Ji, X Jin_
-
-
-Burning mouth syndrome (BMS) is a chronic idiopathic facial pain with intraoral burning or dysesthesia. BMS patients regularly suffer from anxiety/depression, and the association of psychiatric symptoms with BMS has received considerable attention in recent years. The aims of this study were to investigate the potential interplay between psychiatric symptoms and BMS.
+## Comprehensive analysis of the oral microbiota and metabolome change in patients of burning mouth syndrome with psychiatric symptoms
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/20002297.2024.2362313)
-
-10.1080/20002297.2024.2362313
 
 ---
 
