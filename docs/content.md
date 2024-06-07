@@ -22,28 +22,9 @@ Globally, stunting affects ∼150 million children under five, while wasting aff
 
 ---
 
-## Association of methyl donor nutrients dietary intake and sleep disorders in the elderly revealed by the intestinal microbiome.
- 04.06.2024, _Q Chen, R Fan, L Song, S Wang, M You, M Cai, Y Wu, Y Li, M Xu_
-
-
-Currently, sleep disorders (SD) in the elderly are gaining prominence globally and are becoming a significant public health concern. Methyl donor nutrients (MDNs), such as vitamin B6, vitamin B12, folate, and choline, have been reported to have the potential to improve sleep disorders. Moreover, MDNs help to maintain gut flora homeostasis, and are closely associated with the development of SD. Nevertheless, there has been a lack of comprehensive human studies examining the association between MDNs intake and SD. In our study, we comprehensively evaluated the association between MDNs intake and SD in the elderly and used 16S rRNA gene sequencing to explore the underlying mechanism. We found that the SD group (n = 91) had a lower methyl-donor nutritional quality index (MNQI) and a trend toward lower intake compared to the control group (n = 147). Based on the intestinal microbiome, the beta diversity of the intestinal flora was higher in the high methyl-donor nutritional quality (HQ) group compared to the low methyl-donor nutritional quality (LQ) group, and it was lower in the SD group compared to the control group. This suggests that MDNs may regulate sleep by modulating the abundance distribution of the microbiota. Subsequently, we performed correlation analyses between the relative abundance of the microbiota, MDNs intake, and the Pittsburgh Sleep Quality Index (PSQI), identifying five genera with potential regulatory roles. The KEGG pathway analysis indicated that energy metabolism and one-carbon metabolism might be the pathways through which MDNs modulate sleep. This study offers dietary guidance strategies for managing SD in the elderly and provides insights for targeted microbiota intervention.
+## Association of methyl donor nutrients dietary intake and sleep disorders in the elderly revealed by the intestinal microbiome
 
 [Source](https://pubs.rsc.org/en/content/articlelanding/2024/fo/d4fo01303d)
-
-10.1039/d4fo01303d
-
----
-
-## The human gut microbiome and aging.
- 04.06.2024, _E Bradley, J Haran_
-
-
-_Humans, Gastrointestinal Microbiome, Aging, Bacteria, Longevity, Diet_
-The composition of the human gut microbiome has been observed to change over the course of an individual's life. From birth, it is shaped by mode of delivery, diet, environmental exposures, geographic location, exposures to medications, and by aging itself. Here, we present a narrative review of the gut microbiome across the lifespan with a focus on its impacts on aging and age-related diseases in humans. We will describe how it is shaped, and features of the gut microbiome that have been associated with diseases at different phases of life and how this can adversely affect healthy aging. Across the lifespan, and especially in old age, a diverse microbiome that includes organisms suspected to produce anti-inflammatory metabolites such as short-chain fatty acids, has been reported to be associated with healthy aging. These findings have been remarkably consistent across geographic regions of the world suggesting that they could be universal features of healthy aging across all cultures and genetic backgrounds. Exactly how these features of the microbiome affect biologic processes associated with aging thus promoting healthy aging will be crucial to targeting the gut microbiome for interventions that will support health and longevity.
-
-[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2359677)
-
-10.1080/19490976.2024.2359677
 
 ---
 
@@ -233,41 +214,21 @@ Microbial necromass carbon (MNC) can reflect soil carbon (C) sequestration capac
 
 ---
 
-## Cooperative growth in microbial communities is a driver of multistability.
- 06.06.2024, _W Lopes, DR Amor, J Gore_
-
-
-_Microbiota, Humans, Microbial Interactions, Bacteria, Glutamic Acid, Models, Biological, Coculture Techniques_
-Microbial communities often exhibit more than one possible stable composition for the same set of external conditions. In the human microbiome, these persistent changes in species composition and abundance are associated with health and disease states, but the drivers of these alternative stable states remain unclear. Here we experimentally demonstrate that a cross-kingdom community, composed of six species relevant to the respiratory tract, displays four alternative stable states each dominated by a different species. In pairwise coculture, we observe widespread bistability among species pairs, providing a natural origin for the multistability of the full community. In contrast with the common association between bistability and antagonism, experiments reveal many positive interactions within and between community members. We find that multiple species display cooperative growth, and modeling predicts that this could drive the observed multistability within the community as well as non-canonical pairwise outcomes. A biochemical screening reveals that glutamate either reduces or eliminates cooperativity in the growth of several species, and we confirm that such supplementation reduces the extent of bistability across pairs and reduces multistability in the full community. Our findings provide a mechanistic explanation of how cooperative growth rather than competitive interactions can underlie multistability in microbial communities.
+## Cooperative growth in microbial communities is a driver of multistability
 
 [Source](https://www.nature.com/articles/s41467-024-48521-9)
 
-10.1038/s41467-024-48521-9
-
 ---
 
-## Bioenergetic mapping of 'healthy microbiomes' via compound processing potential imprinted in gut and soil metagenomes.
- 04.06.2024, _C Liddicoat, RA Edwards, M Roach, JM Robinson, KJ Wallace, AD Barnes, J Brame, A Heintz-Buschart, TR Cavagnaro, EA Dinsdale, MP Doane, N Eisenhauer, G Mitchell, B Rai, SA Ramesh, MF Breed_
-
-
-Despite mounting evidence of their importance in human health and ecosystem functioning, the definition and measurement of 'healthy microbiomes' remain unclear. More advanced knowledge exists on health associations for compounds used or produced by microbes. Environmental microbiome exposures (especially via soils) also help shape, and may supplement, the functional capacity of human microbiomes. Given the synchronous interaction between microbes, their feedstocks, and micro-environments, with functional genes facilitating chemical transformations, our objective was to examine microbiomes in terms of their capacity to process compounds relevant to human health. Here we integrate functional genomics and biochemistry frameworks to derive new quantitative measures of in silico potential for human gut and environmental soil metagenomes to process a panel of major compound classes (e.g., lipids, carbohydrates) and selected biomolecules (e.g., vitamins, short-chain fatty acids) linked to human health. Metagenome functional potential profile data were translated into a universal compound mapping 'landscape' based on bioenergetic van Krevelen mapping of function-level meta-compounds and corresponding functional relative abundances, reflecting imprinted genetic capacity of microbiomes to metabolize an array of different compounds. We show that measures of 'compound processing potential' associated with human health and disease (examining atherosclerotic cardiovascular disease, colorectal cancer, type 2 diabetes and anxious-depressive behavior case studies), and displayed seemingly predictable shifts along gradients of ecological disturbance in plant-soil ecosystems (three case studies). Ecosystem quality explained 60-92 % of variation in soil metagenome compound processing potential measures in a post-mining restoration case study dataset. With growing knowledge of the varying proficiency of environmental microbiota to process human health associated compounds, we might design environmental interventions or nature prescriptions to modulate our exposures, thereby advancing microbiota-oriented approaches to human health. Compound processing potential offers a simplified, integrative approach for applying metagenomics in ongoing efforts to understand and quantify the role of microbiota in environmental- and human-health.
+## Bioenergetic mapping of ‘healthy microbiomes’ via compound processing potential imprinted in gut and soil metagenomes
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0048969724036908)
 
-10.1016/j.scitotenv.2024.173543
-
 ---
 
-## Temporal dynamics of fecal microbiota community succession in broiler chickens, calves, and piglets under aerobic exposure.
- 05.06.2024, _P Oladele, J Ngo, T Chang, TA Johnson_
-
-
-_Animals, Feces, Chickens, Swine, Cattle, Bacteria, Gastrointestinal Microbiome, Aerobiosis, RNA, Ribosomal, 16S, Bacteroidetes, Microbiota_
-Researchers have extensively studied the effect of oxygen on the growth and survival of bacteria. However, the impact of oxygen on bacterial community structure, particularly its ability to select for taxa within the context of a complex microbial community, is still unclear. In a 21-day microcosm experiment, we investigated the effect of aerobic exposure on the fecal community structure and succession pattern in broiler, calf, and piglet feces (n = 10 for each feces type). Bacterial diversity decreased and community structure changed rapidly in the broiler microbiome (P &lt; 0.001), while the fecal community of calves and piglets, which have higher initial diversity, was stable after initial exposure but decreased in diversity after 3 days (P &lt; 0.001). The response to aerobic exposure was host animal specific, but in all three animals, the change in community structure was driven by a decrease in anaerobic species, primarily belonging to Firmicutes and Bacteroidetes (except in broilers where Bacteroidetes increased), along with an increase in aerobic species belonging to Proteobacteria and Actinobacteria. Using random forest regression, we identified microbial features that predict aerobic exposure. In all three animals, host-beneficial Prevotella-related ASVs decreased after exposure, while ASVs belonging to Acinetobacter, Corynbacterium, and Tissierella were increased. The decrease of Prevotella was rapid in broilers but delayed in calves and piglets. Knowing when these pathobionts increase in abundance after aerobic exposure could inform farm sanitation practices and could be important in designing animal experiments that modulate the microbiome.IMPORTANCEThe fecal microbial community is contained within a dynamic ecosystem of interacting microbes that varies in biotic and abiotic components across different animal species. Although oxygen affects bacterial growth, its specific impact on the structure of complex communities, such as those found in feces, and how these effects vary between different animal species are poorly understood. In this study, we demonstrate that the effect of aerobic exposure on the fecal microbiota was host-animal-specific, primarily driven by a decrease in Firmicutes and Bacteroidetes, but accompanied by an increase in Actinobacteria, Proteobacteria, and other pathobionts. Interestingly, we observed that more complex communities from pig and cattle exhibited initial resilience, while a less diverse community from broilers displayed a rapid response to aerobic exposure. Our findings offer insights that can inform farm sanitation practices, as well as experimental design, sample collection, and processing protocols for microbiome studies across various animal species.
+## Temporal dynamics of fecal microbiota community succession in broiler chickens, calves, and piglets under aerobic exposure
 
 [Source](https://journals.asm.org/doi/10.1128/spectrum.04084-23)
-
-10.1128/spectrum.04084-23
 
 ---
 
