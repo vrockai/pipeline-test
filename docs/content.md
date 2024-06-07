@@ -132,19 +132,6 @@ Group B Streptococcus (GBS) is a pervasive perinatal pathogen, yet factors drivi
 
 ---
 
-## Corncob structures in dental plaque reveal microhabitat taxon specificity.
- 13.05.2023, _V Morillo-Lopez, A Sjaarda, I Islam, GG Borisy, JL Mark Welch_
-
-
-_Bacteria, Biofilms, Dental Plaque, Humans, In Situ Hybridization, Fluorescence, Mouth, Streptococcus, Zea mays_
-The human mouth is a natural laboratory for studying how bacterial communities differ across habitats. Different bacteria colonize different surfaces in the mouth-teeth, tongue dorsum, and keratinized and non-keratinized epithelia-despite the short physical distance between these habitats and their connection through saliva. We sought to determine whether more tightly defined microhabitats might have more tightly defined sets of resident bacteria. A microhabitat may be characterized, for example, as the space adjacent to a particular species of bacterium. Corncob structures of dental plaque, consisting of coccoid bacteria bound to filaments of Corynebacterium cells, present an opportunity to analyze the community structure of one such well-defined microhabitat within a complex natural biofilm. Here, we investigate by fluorescence in situ hybridization and spectral imaging the composition of the cocci decorating the filaments.
-
-[Source](https://twitter.com/JMarkWelch?ref_src=twsrc%5Etfw)
-
-10.1186/s40168-022-01323-x
-
----
-
 ## @JMarkWelch
 
 [Source](https://twitter.com/JMarkWelch?ref_src=twsrc%5Etfw)
@@ -154,6 +141,19 @@ The human mouth is a natural laboratory for studying how bacterial communities d
 ## @ForsythResearch
 
 [Source](https://twitter.com/ForsythResearch?ref_src=twsrc%5Etfw)
+
+---
+
+## Attention deployment in natural scenes: Higher-order scene statistics rather than semantics modulate the N2pc component.
+ 07.06.2024, _D Walper, A Bendixen, S Grimm, A Schubö, W Einhäuser_
+
+
+_Humans, Attention, Male, Female, Young Adult, Semantics, Adult, Reaction Time, Photic Stimulation, Pattern Recognition, Visual, Electroencephalography, Evoked Potentials, Visual_
+Which properties of a natural scene affect visual search? We consider the alternative hypotheses that low-level statistics, higher-level statistics, semantics, or layout affect search difficulty in natural scenes. Across three experiments (n = 20 each), we used four different backgrounds that preserve distinct scene properties: (a) natural scenes (all experiments); (b) 1/f noise (pink noise, which preserves only low-level statistics and was used in Experiments 1 and 2); (c) textures that preserve low-level and higher-level statistics but not semantics or layout (Experiments 2 and 3); and (d) inverted (upside-down) scenes that preserve statistics and semantics but not layout (Experiment 2). We included "split scenes" that contained different backgrounds left and right of the midline (Experiment 1, natural/noise; Experiment 3, natural/texture). Participants searched for a Gabor patch that occurred at one of six locations (all experiments). Reaction times were faster for targets on noise and slower on inverted images, compared to natural scenes and textures. The N2pc component of the event-related potential, a marker of attentional selection, had a shorter latency and a higher amplitude for targets in noise than for all other backgrounds. The background contralateral to the target had an effect similar to that on the target side: noise led to faster reactions and shorter N2pc latencies than natural scenes, although we observed no difference in N2pc amplitude. There were no interactions between the target side and the non-target side. Together, this shows that-at least when searching simple targets without own semantic content-natural scenes are more effective distractors than noise and that this results from higher-order statistics rather than from semantics or layout.
+
+[Source](https://twitter.com/hashtag/imaging?src=hash&ref_src=twsrc%5Etfw)
+
+10.1167/jov.24.6.7
 
 ---
 
