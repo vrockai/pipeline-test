@@ -90,15 +90,9 @@ Group B Streptococcus (GBS) is a pervasive perinatal pathogen, yet factors drivi
 
 ---
 
-## Bioenergetic mapping of 'healthy microbiomes' via compound processing potential imprinted in gut and soil metagenomes.
- 04.06.2024, _C Liddicoat, RA Edwards, M Roach, JM Robinson, KJ Wallace, AD Barnes, J Brame, A Heintz-Buschart, TR Cavagnaro, EA Dinsdale, MP Doane, N Eisenhauer, G Mitchell, B Rai, SA Ramesh, MF Breed_
-
-
-Despite mounting evidence of their importance in human health and ecosystem functioning, the definition and measurement of 'healthy microbiomes' remain unclear. More advanced knowledge exists on health associations for compounds used or produced by microbes. Environmental microbiome exposures (especially via soils) also help shape, and may supplement, the functional capacity of human microbiomes. Given the synchronous interaction between microbes, their feedstocks, and micro-environments, with functional genes facilitating chemical transformations, our objective was to examine microbiomes in terms of their capacity to process compounds relevant to human health. Here we integrate functional genomics and biochemistry frameworks to derive new quantitative measures of in silico potential for human gut and environmental soil metagenomes to process a panel of major compound classes (e.g., lipids, carbohydrates) and selected biomolecules (e.g., vitamins, short-chain fatty acids) linked to human health. Metagenome functional potential profile data were translated into a universal compound mapping 'landscape' based on bioenergetic van Krevelen mapping of function-level meta-compounds and corresponding functional relative abundances, reflecting imprinted genetic capacity of microbiomes to metabolize an array of different compounds. We show that measures of 'compound processing potential' associated with human health and disease (examining atherosclerotic cardiovascular disease, colorectal cancer, type 2 diabetes and anxious-depressive behavior case studies), and displayed seemingly predictable shifts along gradients of ecological disturbance in plant-soil ecosystems (three case studies). Ecosystem quality explained 60-92 % of variation in soil metagenome compound processing potential measures in a post-mining restoration case study dataset. With growing knowledge of the varying proficiency of environmental microbiota to process human health associated compounds, we might design environmental interventions or nature prescriptions to modulate our exposures, thereby advancing microbiota-oriented approaches to human health. Compound processing potential offers a simplified, integrative approach for applying metagenomics in ongoing efforts to understand and quantify the role of microbiota in environmental- and human-health.
+## Bioenergetic mapping of ‘healthy microbiomes’ via compound processing potential imprinted in gut and soil metagenomes
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0048969724036908)
-
-10.1016/j.scitotenv.2024.173543
 
 ---
 
@@ -150,53 +144,15 @@ Despite mounting evidence of their importance in human health and ecosystem func
 
 ---
 
-## Deep learning for colorectal cancer detection in contrast-enhanced CT without bowel preparation: a retrospective, multicentre study.
- 07.06.2024, _L Yao, S Li, Q Tao, Y Mao, J Dong, C Lu, C Han, B Qiu, Y Huang, X Huang, Y Liang, H Lin, Y Guo, Y Liang, Y Chen, J Lin, E Chen, Y Jia, Z Chen, B Zheng, T Ling, S Liu, T Tong, W Cao, R Zhang, X Chen, Z Liu_
-
-
-Contrast-enhanced CT scans provide a means to detect unsuspected colorectal cancer. However, colorectal cancers in contrast-enhanced CT without bowel preparation may elude detection by radiologists. We aimed to develop a deep learning (DL) model for accurate detection of colorectal cancer, and evaluate whether it could improve the detection performance of radiologists.
-
-[Source](https://twitter.com/hashtag/imaging?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.ebiom.2024.105183
-
----
-
 ## #imaging
 
 [Source](https://twitter.com/hashtag/imaging?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Gut- and oral-dysbiosis differentially impact spinal- and bulbar-onset ALS, predicting ALS severity and potentially determining the location of disease onset.
- 11.05.2024, _HS Kim, J Son, D Lee, J Tsai, D Wang, ES Chocron, S Jeong, P Kittrell, CF Murchison, RE Kennedy, A Tobon, CE Jackson, AM Pickering_
-
-
-_Amyotrophic Lateral Sclerosis, Dysbiosis, Gastrointestinal Microbiome, Humans, RNA, Ribosomal, 16S, Severity of Illness Index_
-Prior studies on the role of gut-microbiome in Amyotrophic Lateral Sclerosis (ALS) pathogenesis have yielded conflicting results. We hypothesized that gut- and oral-microbiome may differentially impact two clinically-distinct ALS subtypes (spinal-onset ALS (sALS) vs. bulbar-onset ALS (bALS), driving disagreement in the field.
-
-[Source](https://twitter.com/hashtag/oralmicrobiome?src=hash&ref_src=twsrc%5Etfw)
-
-10.1186/s12883-022-02586-5
-
----
-
 ## #oralmicrobiome
 
 [Source](https://twitter.com/hashtag/oralmicrobiome?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Quantification of pathogenic bacteria in the subgingival oral biofilm samples collected from cigarette-smokers, individuals using electronic nicotine delivery systems and non-smokers with and without periodontitis.
- 24.11.2020, _FM Aldakheel, SA Alduraywish, P Jhugroo, C Jhugroo, DD Divakar_
-
-
-_Aggregatibacter actinomycetemcomitans, Bacteroides, Biofilms, Chronic Periodontitis, Electronic Nicotine Delivery Systems, Humans, Non-Smokers, Periodontal Attachment Loss, Periodontal Pocket, Porphyromonas gingivalis, Prevotella intermedia, Smokers, Tannerella forsythia, Treponema denticola_
-The aim of the present study was to quantify pathogenic bacteria isolated from the subgingival oral-biofilm samples collected from cigarette-smokers and ENDS-users with periodontitis, when compared to non-smokers with and without periodontitis.
-
-[Source](https://twitter.com/hashtag/oralbiofilm?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.archoralbio.2020.104793
 
 ---
 
@@ -236,9 +192,16 @@ The aim of the present study was to quantify pathogenic bacteria isolated from t
 
 ---
 
-## Compendium of 5810 genomes of sheep and goat gut microbiomes provides new insights into the glycan and mucin utilization
+## Compendium of 5810 genomes of sheep and goat gut microbiomes provides new insights into the glycan and mucin utilization.
+ 06.06.2024, _K Zhang, C He, L Wang, L Suo, M Guo, J Guo, T Zhang, Y Xu, Y Lei, G Liu, Q Qian, Y Mao, P Kalds, Y Wu, A Cuoji, Y Yang, D Brugger, S Gan, M Wang, X Wang, F Zhao, Y Chen_
+
+
+_Animals, Goats, Sheep, Gastrointestinal Microbiome, Mucins, Polysaccharides, Bacteria, Feces, Metagenome, Genome, Bacterial, Metagenomics, Phylogeny, High-Throughput Nucleotide Sequencing_
+Ruminant gut microbiota are critical in ecological adaptation, evolution, and nutrition utilization because it regulates energy metabolism, promotes nutrient absorption, and improves immune function. To study the functional roles of key gut microbiota in sheep and goats, it is essential to construct reference microbial gene catalogs and high-quality microbial genomes database.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01806-z)
+
+10.1186/s40168-024-01806-z
 
 ---
 
@@ -273,15 +236,34 @@ Microplastics, which are tiny plastic particles less than 5 mm in diameter, are 
 
 ---
 
+## Fluoroscopic sniff test as a diagnostic tool for phrenic nerve injury in patients with traumatic brachial plexus injury.
+ 07.06.2024, _P Watanapokasin, Y Monteerarat, M Ongsiriporn, R Limthongthang, T Vathana, P Laohaprasitiporn_
+
+
+Traumatic brachial plexus injury (BPI) is a high-morbidity condition with an escalating incidence. One of the treatment options is neurotization using the ipsilateral phrenic nerve. Therefore, diagnosis of nerve dysfunction is a crucial step in preoperative planning. This study aimed to assess the accuracy and reliability of the fluoroscopic sniff test for preoperative diagnosis of phrenic nerve injury in patients with traumatic BPI.
+
+[Source](https://twitter.com/abaumler/status/1798119193478656300?ref_src=twsrc%5Etfw)
+
+10.3171/2024.3.JNS232879
+
+---
+
 ## June 4, 2024
 
 [Source](https://twitter.com/abaumler/status/1798119193478656300?ref_src=twsrc%5Etfw)
 
 ---
 
-## Characterizing the gut phageome and phage-borne antimicrobial resistance genes in pigs
+## Characterizing the gut phageome and phage-borne antimicrobial resistance genes in pigs.
+ 07.06.2024, _J Hu, J Chen, Y Nie, C Zhou, Q Hou, X Yan_
+
+
+_Animals, Swine, Bacteriophages, Gastrointestinal Microbiome, Metagenomics, Genome, Viral, Bacteria, Metagenome, Virome, Drug Resistance, Bacterial_
+Mammalian intestine harbors a mass of phages that play important roles in maintaining gut microbial ecosystem and host health. Pig has become a common model for biomedical research and provides a large amount of meat for human consumption. However, the knowledge of gut phages in pigs is still limited.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01818-9)
+
+10.1186/s40168-024-01818-9
 
 ---
 
