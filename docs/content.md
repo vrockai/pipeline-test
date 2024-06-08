@@ -90,9 +90,15 @@ Group B Streptococcus (GBS) is a pervasive perinatal pathogen, yet factors drivi
 
 ---
 
-## Bioenergetic mapping of ‘healthy microbiomes’ via compound processing potential imprinted in gut and soil metagenomes
+## Bioenergetic mapping of 'healthy microbiomes' via compound processing potential imprinted in gut and soil metagenomes.
+ 04.06.2024, _C Liddicoat, RA Edwards, M Roach, JM Robinson, KJ Wallace, AD Barnes, J Brame, A Heintz-Buschart, TR Cavagnaro, EA Dinsdale, MP Doane, N Eisenhauer, G Mitchell, B Rai, SA Ramesh, MF Breed_
+
+
+Despite mounting evidence of their importance in human health and ecosystem functioning, the definition and measurement of 'healthy microbiomes' remain unclear. More advanced knowledge exists on health associations for compounds used or produced by microbes. Environmental microbiome exposures (especially via soils) also help shape, and may supplement, the functional capacity of human microbiomes. Given the synchronous interaction between microbes, their feedstocks, and micro-environments, with functional genes facilitating chemical transformations, our objective was to examine microbiomes in terms of their capacity to process compounds relevant to human health. Here we integrate functional genomics and biochemistry frameworks to derive new quantitative measures of in silico potential for human gut and environmental soil metagenomes to process a panel of major compound classes (e.g., lipids, carbohydrates) and selected biomolecules (e.g., vitamins, short-chain fatty acids) linked to human health. Metagenome functional potential profile data were translated into a universal compound mapping 'landscape' based on bioenergetic van Krevelen mapping of function-level meta-compounds and corresponding functional relative abundances, reflecting imprinted genetic capacity of microbiomes to metabolize an array of different compounds. We show that measures of 'compound processing potential' associated with human health and disease (examining atherosclerotic cardiovascular disease, colorectal cancer, type 2 diabetes and anxious-depressive behavior case studies), and displayed seemingly predictable shifts along gradients of ecological disturbance in plant-soil ecosystems (three case studies). Ecosystem quality explained 60-92 % of variation in soil metagenome compound processing potential measures in a post-mining restoration case study dataset. With growing knowledge of the varying proficiency of environmental microbiota to process human health associated compounds, we might design environmental interventions or nature prescriptions to modulate our exposures, thereby advancing microbiota-oriented approaches to human health. Compound processing potential offers a simplified, integrative approach for applying metagenomics in ongoing efforts to understand and quantify the role of microbiota in environmental- and human-health.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0048969724036908)
+
+10.1016/j.scitotenv.2024.173543
 
 ---
 
@@ -141,6 +147,18 @@ Group B Streptococcus (GBS) is a pervasive perinatal pathogen, yet factors drivi
 ## @ForsythResearch
 
 [Source](https://twitter.com/ForsythResearch?ref_src=twsrc%5Etfw)
+
+---
+
+## Deep learning for colorectal cancer detection in contrast-enhanced CT without bowel preparation: a retrospective, multicentre study.
+ 07.06.2024, _L Yao, S Li, Q Tao, Y Mao, J Dong, C Lu, C Han, B Qiu, Y Huang, X Huang, Y Liang, H Lin, Y Guo, Y Liang, Y Chen, J Lin, E Chen, Y Jia, Z Chen, B Zheng, T Ling, S Liu, T Tong, W Cao, R Zhang, X Chen, Z Liu_
+
+
+Contrast-enhanced CT scans provide a means to detect unsuspected colorectal cancer. However, colorectal cancers in contrast-enhanced CT without bowel preparation may elude detection by radiologists. We aimed to develop a deep learning (DL) model for accurate detection of colorectal cancer, and evaluate whether it could improve the detection performance of radiologists.
+
+[Source](https://twitter.com/hashtag/imaging?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.ebiom.2024.105183
 
 ---
 
@@ -212,29 +230,15 @@ The aim of the present study was to quantify pathogenic bacteria isolated from t
 
 ---
 
-## Changes of faecal bacterial communities and microbial fibrolytic activity in horses aged from 6 to 30 years old.
- 07.06.2024, _M Baraille, M Buttet, P Grimm, V Milojevic, S Julliand, V Julliand_
-
-
-_Horses, Animals, Feces, Gastrointestinal Microbiome, Bacteria, Male, Female_
-Horse owners and veterinarians report that from the age of 15, their horses can lose body condition and be more susceptible to diseases. Large intestinal microbiome changes may be involved. Indeed, microbiota is crucial for maintaining the condition and health of herbivores by converting fibres into nutrients. This study aimed to compare the faecal microbiome in horses aged from 6 to 30 years old (yo), living in the same environment and consuming the same diet, in order to assess whether the parameters changed linearly with age and whether there was a pivotal age category. Fifty horses were selected from the same environment and distributed across four age categories: 6-10 (n = 12), 11-15 (n = 11), 16-20 (n = 13), and 21-30 (n = 14) yo. All horses had no digestive problems, had teeth suitable for consuming their feed, and were up to date with their vaccination and deworming programmes. After three weeks of constant diet (ad libitum hay and 860 g of concentrate per day), one faecal sample per horse was collected on the same day. The bacterial communities' richness and intra-sample diversity were negatively correlated with age. There was a new distribution of non-beneficial and beneficial taxa, particularly in the 21-30 yo category. Although the faecal concentration of short-chain fatty acids remained stable, the acetate proportion was negatively correlated with age while it was the opposite for the proportions of butyrate, valerate, and iso-valerate. Additionally, the faecal pH was negatively correlated with age. Differences were more pronounced when comparing the 6-10 yo and 21-30 yo categories. The values of the parameters studied became more dispersed from the 16-20 yo category onwards, which appeared as a transitional moment, as it did not differ significantly from the younger and older categories for most of these parameters. Our data suggest that the microbiome changes with age. By highlighting the pivotal age of 16-20, this gives the opportunity to intervene before individuals reach extremes that could lead to pathological conditions.
+## Changes of faecal bacterial communities and microbial fibrolytic activity in horses aged from 6 to 30 years old
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303029)
 
-10.1371/journal.pone.0303029
-
 ---
 
-## Compendium of 5810 genomes of sheep and goat gut microbiomes provides new insights into the glycan and mucin utilization.
- 06.06.2024, _K Zhang, C He, L Wang, L Suo, M Guo, J Guo, T Zhang, Y Xu, Y Lei, G Liu, Q Qian, Y Mao, P Kalds, Y Wu, A Cuoji, Y Yang, D Brugger, S Gan, M Wang, X Wang, F Zhao, Y Chen_
-
-
-_Animals, Goats, Sheep, Gastrointestinal Microbiome, Mucins, Polysaccharides, Bacteria, Feces, Metagenome, Genome, Bacterial, Metagenomics, Phylogeny, High-Throughput Nucleotide Sequencing_
-Ruminant gut microbiota are critical in ecological adaptation, evolution, and nutrition utilization because it regulates energy metabolism, promotes nutrient absorption, and improves immune function. To study the functional roles of key gut microbiota in sheep and goats, it is essential to construct reference microbial gene catalogs and high-quality microbial genomes database.
+## Compendium of 5810 genomes of sheep and goat gut microbiomes provides new insights into the glycan and mucin utilization
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01806-z)
-
-10.1186/s40168-024-01806-z
 
 ---
 
