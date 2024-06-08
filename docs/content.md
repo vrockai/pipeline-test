@@ -144,19 +144,6 @@ Group B Streptococcus (GBS) is a pervasive perinatal pathogen, yet factors drivi
 
 ---
 
-## Attention deployment in natural scenes: Higher-order scene statistics rather than semantics modulate the N2pc component.
- 07.06.2024, _D Walper, A Bendixen, S Grimm, A Schubö, W Einhäuser_
-
-
-_Humans, Attention, Male, Female, Young Adult, Semantics, Adult, Reaction Time, Photic Stimulation, Pattern Recognition, Visual, Electroencephalography, Evoked Potentials, Visual_
-Which properties of a natural scene affect visual search? We consider the alternative hypotheses that low-level statistics, higher-level statistics, semantics, or layout affect search difficulty in natural scenes. Across three experiments (n = 20 each), we used four different backgrounds that preserve distinct scene properties: (a) natural scenes (all experiments); (b) 1/f noise (pink noise, which preserves only low-level statistics and was used in Experiments 1 and 2); (c) textures that preserve low-level and higher-level statistics but not semantics or layout (Experiments 2 and 3); and (d) inverted (upside-down) scenes that preserve statistics and semantics but not layout (Experiment 2). We included "split scenes" that contained different backgrounds left and right of the midline (Experiment 1, natural/noise; Experiment 3, natural/texture). Participants searched for a Gabor patch that occurred at one of six locations (all experiments). Reaction times were faster for targets on noise and slower on inverted images, compared to natural scenes and textures. The N2pc component of the event-related potential, a marker of attentional selection, had a shorter latency and a higher amplitude for targets in noise than for all other backgrounds. The background contralateral to the target had an effect similar to that on the target side: noise led to faster reactions and shorter N2pc latencies than natural scenes, although we observed no difference in N2pc amplitude. There were no interactions between the target side and the non-target side. Together, this shows that-at least when searching simple targets without own semantic content-natural scenes are more effective distractors than noise and that this results from higher-order statistics rather than from semantics or layout.
-
-[Source](https://twitter.com/hashtag/imaging?src=hash&ref_src=twsrc%5Etfw)
-
-10.1167/jov.24.6.7
-
----
-
 ## #imaging
 
 [Source](https://twitter.com/hashtag/imaging?src=hash&ref_src=twsrc%5Etfw)
@@ -225,15 +212,29 @@ The aim of the present study was to quantify pathogenic bacteria isolated from t
 
 ---
 
-## Changes of faecal bacterial communities and microbial fibrolytic activity in horses aged from 6 to 30 years old
+## Changes of faecal bacterial communities and microbial fibrolytic activity in horses aged from 6 to 30 years old.
+ 07.06.2024, _M Baraille, M Buttet, P Grimm, V Milojevic, S Julliand, V Julliand_
+
+
+_Horses, Animals, Feces, Gastrointestinal Microbiome, Bacteria, Male, Female_
+Horse owners and veterinarians report that from the age of 15, their horses can lose body condition and be more susceptible to diseases. Large intestinal microbiome changes may be involved. Indeed, microbiota is crucial for maintaining the condition and health of herbivores by converting fibres into nutrients. This study aimed to compare the faecal microbiome in horses aged from 6 to 30 years old (yo), living in the same environment and consuming the same diet, in order to assess whether the parameters changed linearly with age and whether there was a pivotal age category. Fifty horses were selected from the same environment and distributed across four age categories: 6-10 (n = 12), 11-15 (n = 11), 16-20 (n = 13), and 21-30 (n = 14) yo. All horses had no digestive problems, had teeth suitable for consuming their feed, and were up to date with their vaccination and deworming programmes. After three weeks of constant diet (ad libitum hay and 860 g of concentrate per day), one faecal sample per horse was collected on the same day. The bacterial communities' richness and intra-sample diversity were negatively correlated with age. There was a new distribution of non-beneficial and beneficial taxa, particularly in the 21-30 yo category. Although the faecal concentration of short-chain fatty acids remained stable, the acetate proportion was negatively correlated with age while it was the opposite for the proportions of butyrate, valerate, and iso-valerate. Additionally, the faecal pH was negatively correlated with age. Differences were more pronounced when comparing the 6-10 yo and 21-30 yo categories. The values of the parameters studied became more dispersed from the 16-20 yo category onwards, which appeared as a transitional moment, as it did not differ significantly from the younger and older categories for most of these parameters. Our data suggest that the microbiome changes with age. By highlighting the pivotal age of 16-20, this gives the opportunity to intervene before individuals reach extremes that could lead to pathological conditions.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303029)
 
+10.1371/journal.pone.0303029
+
 ---
 
-## Compendium of 5810 genomes of sheep and goat gut microbiomes provides new insights into the glycan and mucin utilization
+## Compendium of 5810 genomes of sheep and goat gut microbiomes provides new insights into the glycan and mucin utilization.
+ 06.06.2024, _K Zhang, C He, L Wang, L Suo, M Guo, J Guo, T Zhang, Y Xu, Y Lei, G Liu, Q Qian, Y Mao, P Kalds, Y Wu, A Cuoji, Y Yang, D Brugger, S Gan, M Wang, X Wang, F Zhao, Y Chen_
+
+
+_Animals, Goats, Sheep, Gastrointestinal Microbiome, Mucins, Polysaccharides, Bacteria, Feces, Metagenome, Genome, Bacterial, Metagenomics, Phylogeny, High-Throughput Nucleotide Sequencing_
+Ruminant gut microbiota are critical in ecological adaptation, evolution, and nutrition utilization because it regulates energy metabolism, promotes nutrient absorption, and improves immune function. To study the functional roles of key gut microbiota in sheep and goats, it is essential to construct reference microbial gene catalogs and high-quality microbial genomes database.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01806-z)
+
+10.1186/s40168-024-01806-z
 
 ---
 
@@ -243,9 +244,16 @@ The aim of the present study was to quantify pathogenic bacteria isolated from t
 
 ---
 
-## The impact of microplastics polystyrene on the microscopic structure of mouse intestine, tight junction genes and gut microbiota
+## The impact of microplastics polystyrene on the microscopic structure of mouse intestine, tight junction genes and gut microbiota.
+ 07.06.2024, _QL Su, J Wu, SW Tan, XY Guo, DZ Zou, K Kang_
+
+
+_Animals, Gastrointestinal Microbiome, Microplastics, Polystyrenes, Mice, Male, Female, Tight Junctions, RNA, Ribosomal, 16S, Intestinal Mucosa, Occludin, Claudins, Claudin-1, Tight Junction Proteins_
+Microplastics, which are tiny plastic particles less than 5 mm in diameter, are widely present in the environment, have become a serious threat to aquatic life and human health, potentially causing ecosystem disorders and health problems. The present study aimed to investigate the effects of microplastics, specifically microplastics-polystyrene (MPs-PS), on the structural integrity, gene expression related to tight junctions, and gut microbiota in mice. A total of 24 Kunming mice aged 30 days were randomly assigned into four groups: control male (CM), control female (CF), PS-exposed male (PSM), and PS-exposed female (PSF)(n = 6). There were significant differences in villus height, width, intestinal surface area, and villus height to crypt depth ratio (V/C) between the PS group and the control group(C) (p &lt;0.05). Gene expression analysis demonstrated the downregulation of Claudin-1, Claudin-2, Claudin-15, and Occludin, in both duodenum and jejunum of the PS group (p &lt; 0.05). Analysis of microbial species using 16S rRNA sequencing indicated decreased diversity in the PSF group, as well as reduced diversity in the PSM group at various taxonomic levels. Beta diversity analysis showed a significant difference in gut microbiota distribution between the PS-exposed and C groups (R2 = 0.113, p&lt;0.01), with this difference being more pronounced among females exposed to MPs-PS. KEGG analysis revealed enrichment of differential microbiota mainly involved in seven signaling pathways, such as nucleotide metabolism(p&lt;0.05). The relative abundance ratio of transcriptional pathways was significantly increased for the PSF group (p&lt;0.01), while excretory system pathways were for PSM group(p&lt;0.05). Overall findings suggest that MPs-PS exhibit a notable sex-dependent impact on mouse gut microbiota, with a stronger effect observed among females; reduced expression of tight junction genes may be associated with dysbiosis, particularly elevated levels of Prevotellaceae.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304686)
+
+10.1371/journal.pone.0304686
 
 ---
 
