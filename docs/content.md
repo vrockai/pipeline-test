@@ -66,9 +66,15 @@ Group B Streptococcus (GBS) is a pervasive perinatal pathogen, yet factors drivi
 
 ---
 
-## Discovery of antimicrobial peptides in the global microbiome with machine learning 
+## Discovery of antimicrobial peptides in the global microbiome with machine learning.
+ 06.06.2024, _CD Santos-Júnior, MDT Torres, Y Duan, Á Rodríguez Del Río, TSB Schmidt, H Chong, A Fullam, M Kuhn, C Zhu, A Houseman, J Somborski, A Vines, XM Zhao, P Bork, J Huerta-Cepas, C de la Fuente-Nunez, LP Coelho_
+
+
+Novel antibiotics are urgently needed to combat the antibiotic-resistance crisis. We present a machine-learning-based approach to predict antimicrobial peptides (AMPs) within the global microbiome and leverage a vast dataset of 63,410 metagenomes and 87,920 prokaryotic genomes from environmental and host-associated habitats to create the AMPSphere, a comprehensive catalog comprising 863,498 non-redundant peptides, few of which match existing databases. AMPSphere provides insights into the evolutionary origins of peptides, including by duplication or gene truncation of longer sequences, and we observed that AMP production varies by habitat. To validate our predictions, we synthesized and tested 100 AMPs against clinically relevant drug-resistant pathogens and human gut commensals both in vitro and in vivo. A total of 79 peptides were active, with 63 targeting pathogens. These active AMPs exhibited antibacterial activity by disrupting bacterial membranes. In conclusion, our approach identified nearly one million prokaryotic AMP sequences, an open-access resource for antibiotic discovery.
 
 [Source](https://www.cell.com/cell/fulltext/S0092-8674(24)00522-1)
+
+10.1016/j.cell.2024.05.013
 
 ---
 
@@ -90,9 +96,15 @@ Group B Streptococcus (GBS) is a pervasive perinatal pathogen, yet factors drivi
 
 ---
 
-## Bioenergetic mapping of ‘healthy microbiomes’ via compound processing potential imprinted in gut and soil metagenomes
+## Bioenergetic mapping of 'healthy microbiomes' via compound processing potential imprinted in gut and soil metagenomes.
+ 04.06.2024, _C Liddicoat, RA Edwards, M Roach, JM Robinson, KJ Wallace, AD Barnes, J Brame, A Heintz-Buschart, TR Cavagnaro, EA Dinsdale, MP Doane, N Eisenhauer, G Mitchell, B Rai, SA Ramesh, MF Breed_
+
+
+Despite mounting evidence of their importance in human health and ecosystem functioning, the definition and measurement of 'healthy microbiomes' remain unclear. More advanced knowledge exists on health associations for compounds used or produced by microbes. Environmental microbiome exposures (especially via soils) also help shape, and may supplement, the functional capacity of human microbiomes. Given the synchronous interaction between microbes, their feedstocks, and micro-environments, with functional genes facilitating chemical transformations, our objective was to examine microbiomes in terms of their capacity to process compounds relevant to human health. Here we integrate functional genomics and biochemistry frameworks to derive new quantitative measures of in silico potential for human gut and environmental soil metagenomes to process a panel of major compound classes (e.g., lipids, carbohydrates) and selected biomolecules (e.g., vitamins, short-chain fatty acids) linked to human health. Metagenome functional potential profile data were translated into a universal compound mapping 'landscape' based on bioenergetic van Krevelen mapping of function-level meta-compounds and corresponding functional relative abundances, reflecting imprinted genetic capacity of microbiomes to metabolize an array of different compounds. We show that measures of 'compound processing potential' associated with human health and disease (examining atherosclerotic cardiovascular disease, colorectal cancer, type 2 diabetes and anxious-depressive behavior case studies), and displayed seemingly predictable shifts along gradients of ecological disturbance in plant-soil ecosystems (three case studies). Ecosystem quality explained 60-92 % of variation in soil metagenome compound processing potential measures in a post-mining restoration case study dataset. With growing knowledge of the varying proficiency of environmental microbiota to process human health associated compounds, we might design environmental interventions or nature prescriptions to modulate our exposures, thereby advancing microbiota-oriented approaches to human health. Compound processing potential offers a simplified, integrative approach for applying metagenomics in ongoing efforts to understand and quantify the role of microbiota in environmental- and human-health.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0048969724036908)
+
+10.1016/j.scitotenv.2024.173543
 
 ---
 
@@ -108,27 +120,65 @@ Group B Streptococcus (GBS) is a pervasive perinatal pathogen, yet factors drivi
 
 ---
 
+## Factors that influence surgical decision-making for geriatric displaced femoral neck fractures: Bullet Health Analysis (BHA) I : Worldwide Orthopaedic Research Collaboration: Leveraging Big Data (WORLD) I.
+ 08.06.2024, _CJ Foote, C Soni, SP Patel, D Moore, J Szatkowski_
+
+
+The management of geriatric femoral neck fractures, which includes options like hemiarthroplasty (HA), total hip arthroplasty (THA), and fixation, exhibits regional and healthcare setting variations. However, there is a lack of information on global variations in practice patterns and surgical decision factors for this injury.
+
+[Source](https://twitter.com/CraigLiddicoat/status/1797801977927414083?ref_src=twsrc%5Etfw)
+
+10.1007/s00590-024-03989-5
+
+---
+
 ## June 4, 2024
 
 [Source](https://twitter.com/CraigLiddicoat/status/1797801977927414083?ref_src=twsrc%5Etfw)
 
 ---
 
-## The impact of perinatal maternal stress on the maternal and infant gut and human milk microbiomes: A scoping review protocol
+## The impact of perinatal maternal stress on the maternal and infant gut and human milk microbiomes: A scoping review protocol.
+ 07.06.2024, _N Ryan, P Leahy-Warren, H Mulcahy, S O'Mahony, L Philpott_
+
+
+_Humans, Milk, Human, Female, Pregnancy, Stress, Psychological, Gastrointestinal Microbiome, Infant, Infant, Newborn, Breast Feeding, Mothers_
+The objective of this scoping review is to review the research evidence regarding the impact of perinatal maternal stress on the maternal and infant gut and human milk microbiomes.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304787)
 
+10.1371/journal.pone.0304787
+
 ---
 
-## Improved Visualization of Oral Microbial Consortia
+## Improved Visualization of Oral Microbial Consortia.
+ 03.06.2024, _ST Ramirez-Puebla, JL Mark Welch, GG Borisy_
+
+
+Bacteria on the tongue dorsum (TD) form consortia tens to hundreds of microns in diameter organized around a core of epithelial cells. Whole-mount preparations have been instrumental in revealing their organization and specific microbial associations. However, their thickness and intricate 3-dimensional complexity present challenges for a comprehensive spatial analysis. To overcome these challenges, we employed a complementary approach: embedding in hydrophilic plastic followed by sectioning and postsectioning labeling. Samples were labeled by hybridization with multiplexed fluorescent oligonucleotide probes and visualized by spectral imaging and linear unmixing. Application of this strategy to TD biofilms improved the visualization of bacteria that were difficult to resolve in whole-mount imaging. Actinomyces, previously detected as patches, became resolved at the single-cell level. The filamentous taxa Leptotrichia and Lachnospiraceae, located at the core of the consortium, were regularly visualized whereas previously they were rarely detected when using whole mounts. Streptococcus salivarius, heterogeneously detected in whole mounts, were regularly and homogenously observed. Two-dimensional images provide valuable information about the organization of bacterial biofilms. However, they offer only a single plane of view for objects that can extend to hundreds of microns in thickness, and information obtained from such images may not always reflect the complexity of a 3-dimensional object. We combined serial physical sectioning with optical sectioning to facilitate the 3-dimensional reconstruction of consortia, spanning over 100 µm in thickness. Our work showcases the use of hydrophilic plastic embedding and sectioning for examining the structure of TD biofilms through spectral imaging fluorescence in situ hybridization. The result was improved visualization of important members of the human oral microbiome. This technique serves as a complementary method to the previously employed whole-mount analysis, offering its own set of advantages and limitations. Addressing the spatial complexity of bacterial consortia demands a multifaceted approach for a comprehensive and effective analysis.
 
 [Source](https://journals.sagepub.com/doi/10.1177/00220345241251784)
+
+10.1177/00220345241251784
 
 ---
 
 ## @JDentRes
 
 [Source](https://twitter.com/JDentRes?ref_src=twsrc%5Etfw)
+
+---
+
+## Corncob structures in dental plaque reveal microhabitat taxon specificity.
+ 13.05.2023, _V Morillo-Lopez, A Sjaarda, I Islam, GG Borisy, JL Mark Welch_
+
+
+_Bacteria, Biofilms, Dental Plaque, Humans, In Situ Hybridization, Fluorescence, Mouth, Streptococcus, Zea mays_
+The human mouth is a natural laboratory for studying how bacterial communities differ across habitats. Different bacteria colonize different surfaces in the mouth-teeth, tongue dorsum, and keratinized and non-keratinized epithelia-despite the short physical distance between these habitats and their connection through saliva. We sought to determine whether more tightly defined microhabitats might have more tightly defined sets of resident bacteria. A microhabitat may be characterized, for example, as the space adjacent to a particular species of bacterium. Corncob structures of dental plaque, consisting of coccoid bacteria bound to filaments of Corynebacterium cells, present an opportunity to analyze the community structure of one such well-defined microhabitat within a complex natural biofilm. Here, we investigate by fluorescence in situ hybridization and spectral imaging the composition of the cocci decorating the filaments.
+
+[Source](https://twitter.com/JMarkWelch?ref_src=twsrc%5Etfw)
+
+10.1186/s40168-022-01323-x
 
 ---
 
@@ -224,15 +274,29 @@ The aim of the present study was to quantify pathogenic bacteria isolated from t
 
 ---
 
-## Changes of faecal bacterial communities and microbial fibrolytic activity in horses aged from 6 to 30 years old
+## Changes of faecal bacterial communities and microbial fibrolytic activity in horses aged from 6 to 30 years old.
+ 07.06.2024, _M Baraille, M Buttet, P Grimm, V Milojevic, S Julliand, V Julliand_
+
+
+_Horses, Animals, Feces, Gastrointestinal Microbiome, Bacteria, Male, Female_
+Horse owners and veterinarians report that from the age of 15, their horses can lose body condition and be more susceptible to diseases. Large intestinal microbiome changes may be involved. Indeed, microbiota is crucial for maintaining the condition and health of herbivores by converting fibres into nutrients. This study aimed to compare the faecal microbiome in horses aged from 6 to 30 years old (yo), living in the same environment and consuming the same diet, in order to assess whether the parameters changed linearly with age and whether there was a pivotal age category. Fifty horses were selected from the same environment and distributed across four age categories: 6-10 (n = 12), 11-15 (n = 11), 16-20 (n = 13), and 21-30 (n = 14) yo. All horses had no digestive problems, had teeth suitable for consuming their feed, and were up to date with their vaccination and deworming programmes. After three weeks of constant diet (ad libitum hay and 860 g of concentrate per day), one faecal sample per horse was collected on the same day. The bacterial communities' richness and intra-sample diversity were negatively correlated with age. There was a new distribution of non-beneficial and beneficial taxa, particularly in the 21-30 yo category. Although the faecal concentration of short-chain fatty acids remained stable, the acetate proportion was negatively correlated with age while it was the opposite for the proportions of butyrate, valerate, and iso-valerate. Additionally, the faecal pH was negatively correlated with age. Differences were more pronounced when comparing the 6-10 yo and 21-30 yo categories. The values of the parameters studied became more dispersed from the 16-20 yo category onwards, which appeared as a transitional moment, as it did not differ significantly from the younger and older categories for most of these parameters. Our data suggest that the microbiome changes with age. By highlighting the pivotal age of 16-20, this gives the opportunity to intervene before individuals reach extremes that could lead to pathological conditions.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303029)
 
+10.1371/journal.pone.0303029
+
 ---
 
-## Compendium of 5810 genomes of sheep and goat gut microbiomes provides new insights into the glycan and mucin utilization
+## Compendium of 5810 genomes of sheep and goat gut microbiomes provides new insights into the glycan and mucin utilization.
+ 08.06.2024, _K Zhang, C He, L Wang, L Suo, M Guo, J Guo, T Zhang, Y Xu, Y Lei, G Liu, Q Qian, Y Mao, P Kalds, Y Wu, A Cuoji, Y Yang, D Brugger, S Gan, M Wang, X Wang, F Zhao, Y Chen_
+
+
+_Animals, Goats, Sheep, Gastrointestinal Microbiome, Mucins, Polysaccharides, Bacteria, Feces, Metagenome, Genome, Bacterial, Metagenomics, Phylogeny, High-Throughput Nucleotide Sequencing_
+Ruminant gut microbiota are critical in ecological adaptation, evolution, and nutrition utilization because it regulates energy metabolism, promotes nutrient absorption, and improves immune function. To study the functional roles of key gut microbiota in sheep and goats, it is essential to construct reference microbial gene catalogs and high-quality microbial genomes database.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01806-z)
+
+10.1186/s40168-024-01806-z
 
 ---
 
@@ -242,9 +306,16 @@ The aim of the present study was to quantify pathogenic bacteria isolated from t
 
 ---
 
-## The impact of microplastics polystyrene on the microscopic structure of mouse intestine, tight junction genes and gut microbiota
+## The impact of microplastics polystyrene on the microscopic structure of mouse intestine, tight junction genes and gut microbiota.
+ 07.06.2024, _QL Su, J Wu, SW Tan, XY Guo, DZ Zou, K Kang_
+
+
+_Animals, Gastrointestinal Microbiome, Microplastics, Polystyrenes, Mice, Male, Female, Tight Junctions, RNA, Ribosomal, 16S, Intestinal Mucosa, Occludin, Claudins, Claudin-1, Tight Junction Proteins_
+Microplastics, which are tiny plastic particles less than 5 mm in diameter, are widely present in the environment, have become a serious threat to aquatic life and human health, potentially causing ecosystem disorders and health problems. The present study aimed to investigate the effects of microplastics, specifically microplastics-polystyrene (MPs-PS), on the structural integrity, gene expression related to tight junctions, and gut microbiota in mice. A total of 24 Kunming mice aged 30 days were randomly assigned into four groups: control male (CM), control female (CF), PS-exposed male (PSM), and PS-exposed female (PSF)(n = 6). There were significant differences in villus height, width, intestinal surface area, and villus height to crypt depth ratio (V/C) between the PS group and the control group(C) (p &lt;0.05). Gene expression analysis demonstrated the downregulation of Claudin-1, Claudin-2, Claudin-15, and Occludin, in both duodenum and jejunum of the PS group (p &lt; 0.05). Analysis of microbial species using 16S rRNA sequencing indicated decreased diversity in the PSF group, as well as reduced diversity in the PSM group at various taxonomic levels. Beta diversity analysis showed a significant difference in gut microbiota distribution between the PS-exposed and C groups (R2 = 0.113, p&lt;0.01), with this difference being more pronounced among females exposed to MPs-PS. KEGG analysis revealed enrichment of differential microbiota mainly involved in seven signaling pathways, such as nucleotide metabolism(p&lt;0.05). The relative abundance ratio of transcriptional pathways was significantly increased for the PSF group (p&lt;0.01), while excretory system pathways were for PSM group(p&lt;0.05). Overall findings suggest that MPs-PS exhibit a notable sex-dependent impact on mouse gut microbiota, with a stronger effect observed among females; reduced expression of tight junction genes may be associated with dysbiosis, particularly elevated levels of Prevotellaceae.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304686)
+
+10.1371/journal.pone.0304686
 
 ---
 
@@ -260,15 +331,34 @@ The aim of the present study was to quantify pathogenic bacteria isolated from t
 
 ---
 
+## Factors that influence surgical decision-making for geriatric displaced femoral neck fractures: Bullet Health Analysis (BHA) I : Worldwide Orthopaedic Research Collaboration: Leveraging Big Data (WORLD) I.
+ 08.06.2024, _CJ Foote, C Soni, SP Patel, D Moore, J Szatkowski_
+
+
+The management of geriatric femoral neck fractures, which includes options like hemiarthroplasty (HA), total hip arthroplasty (THA), and fixation, exhibits regional and healthcare setting variations. However, there is a lack of information on global variations in practice patterns and surgical decision factors for this injury.
+
+[Source](https://twitter.com/abaumler/status/1798119193478656300?ref_src=twsrc%5Etfw)
+
+10.1007/s00590-024-03989-5
+
+---
+
 ## June 4, 2024
 
 [Source](https://twitter.com/abaumler/status/1798119193478656300?ref_src=twsrc%5Etfw)
 
 ---
 
-## Characterizing the gut phageome and phage-borne antimicrobial resistance genes in pigs
+## Characterizing the gut phageome and phage-borne antimicrobial resistance genes in pigs.
+ 07.06.2024, _J Hu, J Chen, Y Nie, C Zhou, Q Hou, X Yan_
+
+
+_Animals, Swine, Bacteriophages, Gastrointestinal Microbiome, Metagenomics, Genome, Viral, Bacteria, Metagenome, Virome, Drug Resistance, Bacterial_
+Mammalian intestine harbors a mass of phages that play important roles in maintaining gut microbial ecosystem and host health. Pig has become a common model for biomedical research and provides a large amount of meat for human consumption. However, the knowledge of gut phages in pigs is still limited.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01818-9)
+
+10.1186/s40168-024-01818-9
 
 ---
 
@@ -284,9 +374,34 @@ The aim of the present study was to quantify pathogenic bacteria isolated from t
 
 ---
 
+## Modulation of the skin and gut microbiome by psoriasis treatment: a comprehensive systematic review.
+ 08.06.2024, _A Korneev, M Peshkova, P Koteneva, A Gundogdu, P Timashev_
+
+
+_Psoriasis, Humans, Gastrointestinal Microbiome, Skin, Probiotics, Phototherapy, Biological Products, Treatment Outcome, Dermatologic Agents_
+The microbiome is intricately linked to the development of psoriasis, serving as both a potential cause and consequence of the psoriatic process. In recent years, there has been growing interest among psoriasis researchers in exploring how psoriasis treatments affect the skin and gut microbiome. However, a comprehensive evaluation of the impact of modern treatment approaches on the microbiome has yet to be conducted. In this systematic review, we analyze studies investigating alterations in the skin and gut microbiome resulting from psoriasis treatment, aiming to understand how current therapies influence the role of the microbiome in psoriasis development. The systematic review was performed according to the Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) guidelines. PubMed and Scopus databases were searched for eligible studies from the inception dates until July 5, 2023. Study selection, data extraction, and risk of bias assessment were carried out by three overlapping pairs of reviewers, resolving any disagreements through consensus. Our analysis of various treatments, including biologics, conventional medications, phototherapy, and probiotics, reveals significant shifts in microbial diversity and abundance. Importantly, favorable treatment outcomes are associated with microbiota alterations that approach those observed in healthy individuals. While the studies reviewed exhibit varying degrees of bias, underscoring the need for further research, this review supports the potential of microbiome modulation as both a preventive and therapeutic strategy for psoriasis patients. The findings underscore the importance of personalized therapeutic approaches, recognizing the profound impact of treatment on the microbiome. They also highlight the promise of probiotics, prebiotics, and dietary interventions in psoriasis management.
+
+[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
+
+10.1007/s00403-024-03024-x
+
+---
+
 ## #microbiome
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Blowflies (Diptera: Calliphoridae) as potential mechanical vectors of the protozoan cyst and helminthic eggs in Kashmir Himalaya, India.
+ 07.06.2024, _TA Dar, AH Mir_
+
+
+Blowflies (Diptera: Calliphoridae) are an important group of non-biting flies that are potential mechanical vectors of protozoan and helminthic pathogens. The present study was carried out to isolate and identify protozoan cysts and helminthic eggs transmitted by blowflies. Surveys were carried out at six different sites, viz., butcher shops, fish markets, garbage piles, water bodies, and open vegetation in the Kashmir Himalaya. The flies were collected with the help of a sweeping net and using day-old beef liver as bait from March 2021 to February 2023. A total of 968 blowflies were collected, out of which 83 were found carrying at least one protozoan cyst and helminthic egg with six identified species of parasites. Garbage piles were recorded with the highest number of positive cases (10.81%), while human habitation had the highest transmission rate (3.3%). Chrysomya megacephala (Fabricius) was reported to have the highest number of parasitic cysts and ova (one protozoan cyst and three helminthic eggs), while Ascaris lumbricoides and Entamoeba coli were found to be the most abundant parasites reported from the surface of these flies. The number of parasites isolated from the surface of the blowflies was statistically significant (F = 9.073, df = 1, and p = 0.014), indicating a positive association between the number of parasites isolated from blowflies and the collection sites.
+
+[Source](https://twitter.com/hashtag/Himalayas?src=hash&ref_src=twsrc%5Etfw)
+
+10.1007/s12639-024-01663-5
 
 ---
 
