@@ -1,359 +1,166 @@
-## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
- 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
+## Divergent age-associated and metabolism-associated gut microbiome signatures modulate cardiovascular disease risk.
+ 06.06.2024, _T Wang, Z Shi, H Ren, M Xu, J Lu, F Yang, C Ye, K Wu, M Chen, X Xu, D Liu, L Kong, R Zheng, J Zheng, M Li, Y Xu, Z Zhao, Y Chen, H Yang, J Wang, G Ning, J Li, H Zhong, Y Bi, W Wang_
 
 
-_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
-This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
+Insight into associations between the gut microbiome with metabolism and aging is crucial for tailoring interventions to promote healthy longevity. In a discovery cohort of 10,207 individuals aged 40-93 years, we used 21 metabolic parameters to classify individuals into five clusters, termed metabolic multimorbidity clusters (MCs), that represent different metabolic subphenotypes. Compared to the cluster classified as metabolically healthy (MC1), clusters classified as 'obesity-related mixed' (MC4) and 'hyperglycemia' (MC5) exhibited an increased 11.1-year cardiovascular disease (CVD) risk by 75% (multivariable-adjusted hazard ratio (HR): 1.75, 95% confidence interval (CI): 1.43-2.14) and by 117% (2.17, 1.72-2.74), respectively. These associations were replicated in a second cohort of 9,061 individuals with a 10.0-year follow-up. Based on analysis of 4,491 shotgun fecal metagenomes from the discovery cohort, we found that gut microbial composition was associated with both MCs and age. Next, using 55 age-specific microbial species to capture biological age, we developed a gut microbial age (MA) metric, which was validated in four external cohorts comprising 4,425 metagenomic samples. Among individuals aged 60 years or older, the increased CVD risk associated with MC4 or MC5, as compared to MC1, MC2 or MC3, was exacerbated in individuals with high MA but diminished in individuals with low MA, independent of age, sex and other lifestyle and dietary factors. This pattern, in which younger MA appears to counteract the CVD risk attributable to metabolic dysfunction, implies a modulating role of MA in cardiovascular health for metabolically unhealthy older people.
 
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1038/s41591-024-03038-y)
 
-10.3390/ijerph19010099
-
----
-
-## #MVIF
-
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+10.1038/s41591-024-03038-y
 
 ---
 
-## Gestational diabetes augments group B Streptococcus infection by disrupting maternal immunity and the vaginal microbiota.
- 06.02.2024, _V Mercado-Evans, ME Mejia, JJ Zulk, S Ottinger, ZA Hameed, C Serchejian, MG Marunde, CM Robertson, MB Ballard, SH Ruano, N Korotkova, AR Flores, KA Pennington, KA Patras_
+## Quantifying variation across 16S rRNA gene sequencing runs in human microbiome studies.
+ 08.06.2024, _AJ Hoisington, CE Stamper, JC Ellis, CA Lowry, LA Brenner_
 
 
-_Pregnancy, Female, Humans, Animals, Mice, Diabetes, Gestational, Infectious Disease Transmission, Vertical, Microbiota, Cytokines, Vagina, Streptococcus, Streptococcus agalactiae, Streptococcal Infections_
-Group B Streptococcus (GBS) is a pervasive perinatal pathogen, yet factors driving GBS dissemination in utero are poorly defined. Gestational diabetes mellitus (GDM), a complication marked by dysregulated immunity and maternal microbial dysbiosis, increases risk for GBS perinatal disease. Using a murine GDM model of GBS colonization and perinatal transmission, we find that GDM mice display greater GBS in utero dissemination and subsequently worse neonatal outcomes. Dual-RNA sequencing reveals differential GBS adaptation to the GDM reproductive tract, including a putative glycosyltransferase (yfhO), and altered host responses. GDM immune disruptions include reduced uterine natural killer cell activation, impaired recruitment to placentae, and altered maternofetal cytokines. Lastly, we observe distinct vaginal microbial taxa associated with GDM status and GBS invasive disease status. Here, we show a model of GBS dissemination in GDM hosts that recapitulates several clinical aspects and identifies multiple host and bacterial drivers of GBS perinatal disease.
+_Humans, RNA, Ribosomal, 16S, Feces, Microbiota, Sequence Analysis, DNA, DNA, Bacterial, Bacteria, Reproducibility of Results, Mouth, High-Throughput Nucleotide Sequencing_
+Recent microbiome research has incorporated a higher number of samples through more participants in a study, longitudinal studies, and metanalysis between studies. Physical limitations in a sequencing machine can result in samples spread across sequencing runs. Here we present the results of sequencing nearly 1000 16S rRNA gene sequences in fecal (stabilized and swab) and oral (swab) samples from multiple human microbiome studies and positive controls that were conducted with identical standard operating procedures. Sequencing was performed in the same center across 18 different runs. The simplified mock community showed limitations in accuracy, while precision (e.g., technical variation) was robust for the mock community and actual human positive control samples. Technical variation was the lowest for stabilized fecal samples, followed by fecal swab samples, and then oral swab samples. The order of technical variation stability was inverse of DNA concentrations (e.g., highest in stabilized fecal samples), highlighting the importance of DNA concentration in reproducibility and urging caution when analyzing low biomass samples. Coefficients of variation at the genus level also followed the same trend for lower variation with higher DNA concentrations. Technical variation across both sample types and the two human sampling locations was significantly less than the observed biological variation. Overall, this research providing comparisons between technical and biological variation, highlights the importance of using positive controls, and provides semi-quantified data to better understand variation introduced by sequencing runs. KEY POINTS: • Mock community and positive control accuracy were lower than precision. • Samples with lower DNA concentration had increased technical variation across sequencing runs. • Biological variation was significantly higher than technical variation due to sequencing runs.
 
-[Source](https://twitter.com/Katy_Patras?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1007/s00253-024-13198-z)
 
-10.1038/s41467-024-45336-6
-
----
-
-## @Katy_Patras
-
-[Source](https://twitter.com/Katy_Patras?ref_src=twsrc%5Etfw)
+10.1007/s00253-024-13198-z
 
 ---
 
-## @brubaker1030
+## Gut microbiome changes associated with chronic pancreatitis and pancreatic cancer: A systematic review and Meta-analysis.
+ 07.06.2024, _J Hong, Y Fu, X Chen, Y Zhang, X Li, T Li, Y Liu, M Fan, R Lin_
 
-[Source](https://twitter.com/brubaker1030?ref_src=twsrc%5Etfw)
 
----
+The study of changes in the microbiome in chronic pancreatitis (CP) and pancreatic ductal adenocarcinoma (PDAC) holds significant potential for developing noninvasive diagnostic tools as well as innovative interventions to alter the progression of diseases. This systematic review and meta-analysis aimed to analyze in detail the taxonomic and functional characteristics of the gut microbiome in patients with CP and PDAC.
 
-## @mticllacc
+[Source](https://doi.org/10.1097/JS9.0000000000001724)
 
-[Source](https://twitter.com/mticllacc?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/i6kAOJcHNR
-
-[Source](https://t.co/i6kAOJcHNR)
+10.1097/JS9.0000000000001724
 
 ---
 
-## pic.twitter.com/G9GjqweZIF
+## Gut microbial signatures of patients with diarrhea-predominant irritable bowel syndrome and their healthy relatives.
+ 07.06.2024, _J Chen, H Lan, C Li, Y Xie, X Cheng, R Xia, C Ke, X Liang_
 
-[Source](https://t.co/G9GjqweZIF)
 
----
+Irritable bowel syndrome (IBS) is a prevalent gastrointestinal disorder, encompassing diarrhea-predominant irritable bowel syndrome (IBS-D). Here, we utilized 16S rDNA gene sequencing to identify potential microbial drivers of IBS-D.
 
-## June 5, 2024
+[Source](https://doi.org/10.1093/jambio/lxae118)
 
-[Source](https://twitter.com/MicrobiomeVIF/status/1798346053256921397?ref_src=twsrc%5Etfw)
-
----
-
-## Discovery of antimicrobial peptides in the global microbiome with machine learning 
-
-[Source](https://www.cell.com/cell/fulltext/S0092-8674(24)00522-1)
+10.1093/jambio/lxae118
 
 ---
 
-## @CellCellPress
+## Two weeks of acarbose treatment show no effect on gut microbiome composition in patients with type 2 diabetes: a randomised, placebo-controlled, double-blind, crossover study.
+ 06.06.2024, _NB Dalsgaard, LS Gasbjerg, LS Hansen, D Nielsen, T Rasmussen, FK Knop_
 
-[Source](https://twitter.com/CellCellPress?ref_src=twsrc%5Etfw)
 
----
+The alpha-glucosidase inhibitor acarbose is approved for the treatment of type 2 diabetes (T2D). It acts in the lumen of the gut by reducing intestinal hydrolysis and absorption of ingested carbohydrates. This reduces postprandial blood glucose concentration and increases the content of carbohydrates in the distal parts of the intestine potentially influencing gut microbiome (GM) composition and thereby possibly impacting the gut microbiome (GM) dysbiosis associated with T2D. Here, we investigated the effect of acarbose on GM composition in patients with T2D.
 
-## pic.twitter.com/DrfATKcY5R
+[Source](https://doi.org/10.1530/EC-24-0052)
 
-[Source](https://t.co/DrfATKcY5R)
-
----
-
-## June 6, 2024
-
-[Source](https://twitter.com/luispedrocoelho/status/1798508029979316520?ref_src=twsrc%5Etfw)
+10.1530/EC-24-0052
 
 ---
 
-## Bioenergetic mapping of 'healthy microbiomes' via compound processing potential imprinted in gut and soil metagenomes.
- 04.06.2024, _C Liddicoat, RA Edwards, M Roach, JM Robinson, KJ Wallace, AD Barnes, J Brame, A Heintz-Buschart, TR Cavagnaro, EA Dinsdale, MP Doane, N Eisenhauer, G Mitchell, B Rai, SA Ramesh, MF Breed_
+## A conserved inhibitory interdomain interaction regulates DNA-binding activities of hybrid two-component systems in<em> Bacteroides</em>
 
-
-Despite mounting evidence of their importance in human health and ecosystem functioning, the definition and measurement of 'healthy microbiomes' remain unclear. More advanced knowledge exists on health associations for compounds used or produced by microbes. Environmental microbiome exposures (especially via soils) also help shape, and may supplement, the functional capacity of human microbiomes. Given the synchronous interaction between microbes, their feedstocks, and micro-environments, with functional genes facilitating chemical transformations, our objective was to examine microbiomes in terms of their capacity to process compounds relevant to human health. Here we integrate functional genomics and biochemistry frameworks to derive new quantitative measures of in silico potential for human gut and environmental soil metagenomes to process a panel of major compound classes (e.g., lipids, carbohydrates) and selected biomolecules (e.g., vitamins, short-chain fatty acids) linked to human health. Metagenome functional potential profile data were translated into a universal compound mapping 'landscape' based on bioenergetic van Krevelen mapping of function-level meta-compounds and corresponding functional relative abundances, reflecting imprinted genetic capacity of microbiomes to metabolize an array of different compounds. We show that measures of 'compound processing potential' associated with human health and disease (examining atherosclerotic cardiovascular disease, colorectal cancer, type 2 diabetes and anxious-depressive behavior case studies), and displayed seemingly predictable shifts along gradients of ecological disturbance in plant-soil ecosystems (three case studies). Ecosystem quality explained 60-92 % of variation in soil metagenome compound processing potential measures in a post-mining restoration case study dataset. With growing knowledge of the varying proficiency of environmental microbiota to process human health associated compounds, we might design environmental interventions or nature prescriptions to modulate our exposures, thereby advancing microbiota-oriented approaches to human health. Compound processing potential offers a simplified, integrative approach for applying metagenomics in ongoing efforts to understand and quantify the role of microbiota in environmental- and human-health.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0048969724036908)
-
-10.1016/j.scitotenv.2024.173543
+[Source](https://doi.org/10.1128/mbio.01220-24)
 
 ---
 
-## https://t.co/9LQwZyyRYR
+## Multi-omics Analysis Reveals Key Gut Microbiota and Metabolites Closely Associated with Huntington's Disease.
+ 08.06.2024, _SX Qian, YF Bao, XY Li, Y Dong, XL Zhang, ZY Wu_
 
-[Source](https://t.co/9LQwZyyRYR)
 
----
+Dysbiosis of the gut microbiota is closely associated with neurodegenerative diseases, including Huntington's disease (HD). Gut microbiome-derived metabolites are key factors in host-microbiome interactions. This study aimed to investigate the crucial gut microbiome and metabolites in HD and their correlations. Fecal and serum samples from 11 to 26 patients with HD, respectively, and 16 and 23 healthy controls, respectively, were collected. The fecal samples were used for shotgun metagenomics while the serum samples for metabolomics analysis. Integrated analysis of the metagenomics and metabolomics data was also conducted. Firmicutes, Bacteroidota, Proteobacteria, Uroviricota, Actinobacteria, and Verrucomicrobia were the dominant phyla. At the genus level, the presence of Bacteroides, Faecalibacterium, Parabacteroides, Alistipes, Dialister, and Christensenella was higher in HD patients, while the abundance of Lachnospira, Roseburia, Clostridium, Ruminococcus, Blautia, Butyricicoccus, Agathobaculum, Phocaeicola, Coprococcus, and Fusicatenibacter decreased. A total of 244 differential metabolites were identified and found to be enriched in the glycerophospholipid, nucleotide, biotin, galactose, and alpha-linolenic acid metabolic pathways. The AUC value from the integrated analysis (1) was higher than that from the analysis of the gut microbiota (0.8632). No significant differences were found in the ACE, Simpson, Shannon, Sobs, and Chao indexes between HD patients and controls. Our study determined crucial functional gut microbiota and potential biomarkers associated with HD pathogenesis, providing new insights into the role of the gut microbiota-brain axis in HD occurrence and development.
 
-## pic.twitter.com/jcM9CUVVxv
+[Source](https://doi.org/10.1007/s12035-024-04271-9)
 
-[Source](https://t.co/jcM9CUVVxv)
-
----
-
-## June 4, 2024
-
-[Source](https://twitter.com/CraigLiddicoat/status/1797801977927414083?ref_src=twsrc%5Etfw)
+10.1007/s12035-024-04271-9
 
 ---
 
-## The impact of perinatal maternal stress on the maternal and infant gut and human milk microbiomes: A scoping review protocol
+## Unravelling the role of intratumoral bacteria in digestive system cancers: current insights and future perspectives.
+ 07.06.2024, _W Lu, A Aihaiti, P Abudukeranmu, Y Liu, H Gao_
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304787)
 
----
+_Humans, Digestive System Neoplasms, Bacteria, Gastrointestinal Microbiome, Animals_
+Recently, research on the human microbiome, especially concerning the bacteria within the digestive system, has substantially advanced. This exploration has unveiled a complex interplay between microbiota and health, particularly in the context of disease. Evidence suggests that the gut microbiome plays vital roles in digestion, immunity and the synthesis of vitamins and neurotransmitters, highlighting its significance in maintaining overall health. Conversely, disruptions in these microbial communities, termed dysbiosis, have been linked to the pathogenesis of various diseases, including digestive system cancers. These bacteria can influence cancer progression through mechanisms such as DNA damage, modulation of the tumour microenvironment, and effects on the host's immune response. Changes in the composition and function within the tumours can also impact inflammation, immune response and cancer therapy effectiveness. These findings offer promising avenues for the clinical application of intratumoral bacteria for digestive system cancer treatment, including the potential use of microbial markers for early cancer detection, prognostication and the development of microbiome-targeted therapies to enhance treatment outcomes. This review aims to provide a comprehensive overview of the pivotal roles played by gut microbiome bacteria in the development of digestive system cancers. Additionally, we delve into the specific contributions of intratumoral bacteria to digestive system cancer development, elucidating potential mechanisms and clinical implications. Ultimately, this review underscores the intricate interplay between intratumoral bacteria and digestive system cancers, underscoring the pivotal role of microbiome research in transforming diagnostic, prognostic and therapeutic paradigms for digestive system cancers.
 
-## Improved Visualization of Oral Microbial Consortia
+[Source](https://doi.org/10.1186/s12967-024-05320-6)
 
-[Source](https://journals.sagepub.com/doi/10.1177/00220345241251784)
-
----
-
-## @JDentRes
-
-[Source](https://twitter.com/JDentRes?ref_src=twsrc%5Etfw)
+10.1186/s12967-024-05320-6
 
 ---
 
-## @JMarkWelch
-
-[Source](https://twitter.com/JMarkWelch?ref_src=twsrc%5Etfw)
-
----
-
-## @ForsythResearch
-
-[Source](https://twitter.com/ForsythResearch?ref_src=twsrc%5Etfw)
-
----
-
-## The impact of gynecologic cancer on female sexuality in Europe and MENA (Middle East and North Africa): a literature review.
- 08.06.2024, _M Shams, C Coman, F Fatone, V Marenesi, R Bernorio, A Feltrin, E Groff_
+## Effect of microplastics pollution on the gut microbiome of anecic and endogeic earthworms.
+ 07.06.2024, _C Papazlatani, P Garbeva, E Huerta-Lwanga_
 
 
-Gynecologic cancer has a negative impact on the sexuality of women who are or have been affected by this disease. In fact, gynecologic cancers cause negative changes in female sexuality, affecting body image and psychophysical well-being, with serious consequences for women's sex lives.
+Microplastic (MP) pollution constitutes an emerging type of pollution threatening both aquatic and terrestrial ecosystems. The impact on aquatic ecosystems has been extensively studied, but the effect on terrestrial ecosystems and their inhabitants is mostly underexplored. In this study we explored the effect of microplastic pollution on gut bacterial microbiome of endogeic (Aporrectodea caliginosa) and anecic (Lumbricus terrestris) earthworms. The experiments were performed in sandy soil with 0.2% of low-density polyethylene microplastics (LDPE MPs). We observed that the endogeic earthworms had 100% survival while anecic earthworms survived 25 days in the control (i.e. absence of MPs) and 21 days in the treatment with LDPE MPs. The main driver of shifts in the diversity and composition of the bacterial communities in the gut of tested earthworms was the life style of the worms, followed by the presence of MPs. The bacterial microbiome diversity was significantly different among the 2 types of earthworms and the highest bacterial diversity was found in the gut of the endogeic earthworms. The effect of microplastics on gut bacterial microbiome was clearly observed in the changes in the relative abundance of several phyla and families of the bacterial communities in both types of earthworms, although it was most evident in the anecic earthworms. The Actinobacteriota, Proteobacteria and Firmicutes were the main groups enhanced in the microplastic treatments, suggesting enrichment of the bacterial communities with potential plastic degraders.
 
-[Source](https://twitter.com/hashtag/imaging?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1093/femsle/fnae040)
 
-10.1093/sxmrev/qeae039
+10.1093/femsle/fnae040
 
 ---
 
-## #imaging
+## Novel indigenous probiotic isolated from healthy Pacific White shrimp <em>Litopenaeus vannamei</em> intestine in differing stages based on metagenomic and screening approach
 
-[Source](https://twitter.com/hashtag/imaging?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Gut- and oral-dysbiosis differentially impact spinal- and bulbar-onset ALS, predicting ALS severity and potentially determining the location of disease onset.
- 11.05.2024, _HS Kim, J Son, D Lee, J Tsai, D Wang, ES Chocron, S Jeong, P Kittrell, CF Murchison, RE Kennedy, A Tobon, CE Jackson, AM Pickering_
-
-
-_Amyotrophic Lateral Sclerosis, Dysbiosis, Gastrointestinal Microbiome, Humans, RNA, Ribosomal, 16S, Severity of Illness Index_
-Prior studies on the role of gut-microbiome in Amyotrophic Lateral Sclerosis (ALS) pathogenesis have yielded conflicting results. We hypothesized that gut- and oral-microbiome may differentially impact two clinically-distinct ALS subtypes (spinal-onset ALS (sALS) vs. bulbar-onset ALS (bALS), driving disagreement in the field.
-
-[Source](https://twitter.com/hashtag/oralmicrobiome?src=hash&ref_src=twsrc%5Etfw)
-
-10.1186/s12883-022-02586-5
+[Source](https://doi.org/10.1016/j.fsi.2024.109678)
 
 ---
 
-## #oralmicrobiome
+## <em>Citrobacter rodentium</em> infection impairs dopamine metabolism and exacerbates the pathology of Parkinson’s disease in mice
 
-[Source](https://twitter.com/hashtag/oralmicrobiome?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Quantification of pathogenic bacteria in the subgingival oral biofilm samples collected from cigarette-smokers, individuals using electronic nicotine delivery systems and non-smokers with and without periodontitis.
- 24.11.2020, _FM Aldakheel, SA Alduraywish, P Jhugroo, C Jhugroo, DD Divakar_
-
-
-_Aggregatibacter actinomycetemcomitans, Bacteroides, Biofilms, Chronic Periodontitis, Electronic Nicotine Delivery Systems, Humans, Non-Smokers, Periodontal Attachment Loss, Periodontal Pocket, Porphyromonas gingivalis, Prevotella intermedia, Smokers, Tannerella forsythia, Treponema denticola_
-The aim of the present study was to quantify pathogenic bacteria isolated from the subgingival oral-biofilm samples collected from cigarette-smokers and ENDS-users with periodontitis, when compared to non-smokers with and without periodontitis.
-
-[Source](https://twitter.com/hashtag/oralbiofilm?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.archoralbio.2020.104793
+[Source](https://doi.org/10.1186/s12974-024-03145-0)
 
 ---
 
-## #oralbiofilm
+## Gut microbiota depletion delays somatic peripheral nerve development and impairs neuromuscular junction maturation.
+ 07.06.2024, _M Cescon, G Gambarotta, S Calabrò, C Cicconetti, F Anselmi, S Kankowski, L Lang, M Basic, A Bleich, S Bolsega, M Steglich, S Oliviero, S Raimondo, D Bizzotto, K Haastert-Talini, G Ronchi_
 
-[Source](https://twitter.com/hashtag/oralbiofilm?src=hash&ref_src=twsrc%5Etfw)
 
----
+_Animals, Gastrointestinal Microbiome, Neuromuscular Junction, Mice, Ganglia, Spinal, Germ-Free Life, Peripheral Nerves, Muscle, Skeletal, Mice, Inbred C57BL, Neuregulin-1, Male, Bacteria, Schwann Cells_
+Gut microbiota is responsible for essential functions in human health. Several communication axes between gut microbiota and other organs via neural, endocrine, and immune pathways have been described, and perturbation of gut microbiota composition has been implicated in the onset and progression of an emerging number of diseases. Here, we analyzed peripheral nerves, dorsal root ganglia (DRG), and skeletal muscles of neonatal and young adult mice with the following gut microbiota status: a) germ-free (GF), b) gnotobiotic, selectively colonized with 12 specific gut bacterial strains (Oligo-Mouse-Microbiota, OMM12), or c) natural complex gut microbiota (CGM). Stereological and morphometric analyses revealed that the absence of gut microbiota impairs the development of somatic median nerves, resulting in smaller diameter and hypermyelinated axons, as well as in smaller unmyelinated fibers. Accordingly, DRG and sciatic nerve transcriptomic analyses highlighted a panel of differentially expressed developmental and myelination genes. Interestingly, the type III isoform of Neuregulin1 (NRG1), known to be a neuronal signal essential for Schwann cell myelination, was overexpressed in young adult GF mice, with consequent overexpression of the transcription factor Early Growth Response 2 (Egr2), a fundamental gene expressed by Schwann cells at the onset of myelination. Finally, GF status resulted in histologically atrophic skeletal muscles, impaired formation of neuromuscular junctions, and deregulated expression of related genes. In conclusion, we demonstrate for the first time a gut microbiota regulatory impact on proper development of the somatic peripheral nervous system and its functional connection to skeletal muscles, thus suggesting the existence of a novel 'Gut Microbiota-Peripheral Nervous System-axis.'
 
-## #oralmicrobiology
+[Source](https://doi.org/10.1080/19490976.2024.2363015)
 
-[Source](https://twitter.com/hashtag/oralmicrobiology?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/jUdbECPcgg
-
-[Source](https://t.co/jUdbECPcgg)
+10.1080/19490976.2024.2363015
 
 ---
 
-## pic.twitter.com/gISG8lLJV7
+## Unravelling the impact of environmental factors in shaping plant microbiomes.
+ 08.06.2024, _AI Pérez-Lorente, D Romero, C Molina-Santiago_
 
-[Source](https://t.co/gISG8lLJV7)
 
----
+_Microbiota, Fungi, Bacteria, Chenopodium quinoa, Malus, Plants, Stress, Physiological, Environment, Crops, Agricultural_
+This article emphasizes the significant role of environmental factors in shaping the plant microbiome, highlighting how bacterial and fungal communities influence plant responses to water stress, and how environmental factors shape fungal communities in crops. Furthermore, recent studies describe how different genotypes and levels of water stress affect the composition of bacterial communities associated with quinoa plants, as well as the relationship between environmental factors and the structure of fungal communities in apple fruit. These findings underscore the importance of understanding plant microbiome dynamics in developing effective crop protection strategies and improving agricultural sustainability with the objective of advance towards a microbiome-based strategy which allows us to improve crop tolerance to abiotic stresses.
 
-## June 6, 2024
+[Source](https://doi.org/10.1111/1751-7915.14504)
 
-[Source](https://twitter.com/microtabi/status/1798696639588340168?ref_src=twsrc%5Etfw)
-
----
-
-## Changes of faecal bacterial communities and microbial fibrolytic activity in horses aged from 6 to 30 years old
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303029)
+10.1111/1751-7915.14504
 
 ---
 
-## Compendium of 5810 genomes of sheep and goat gut microbiomes provides new insights into the glycan and mucin utilization
+## GROND: a quality-checked and publicly available database of full-length 16S-ITS-23S rRNA operon sequences
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01806-z)
-
----
-
-## <em>Bacteroides uniformis </em>CECT 7771 requires adaptive immunity to improve glucose tolerance but not to prevent body weight gain in diet-induced obese mice
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01810-3)
+[Source](https://doi.org/10.1099/mgen.0.001255)
 
 ---
 
-## The impact of microplastics polystyrene on the microscopic structure of mouse intestine, tight junction genes and gut microbiota
+## Machine learning enabled design features of antimicrobial peptides selectively targeting peri-implant disease progression.
+ 09.06.2024, _K Boone, N Tjokro, KN Chu, C Chen, ML Snead, C Tamerler_
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304686)
 
----
+Peri-implantitis is a complex infectious disease that manifests as progressive loss of alveolar bone around the dental implants and hyper-inflammation associated with microbial dysbiosis. Using antibiotics in treating peri-implantitis is controversial because of antibiotic resistance threats, the non-selective suppression of pathogens and commensals within the microbial community, and potentially serious systemic sequelae. Therefore, conventional treatment for peri-implantitis comprises mechanical debridement by nonsurgical or surgical approaches with adjunct local microbicidal agents. Consequently, current treatment options may not prevent relapses, as the pathogens either remain unaffected or quickly re-emerge after treatment. Successful mitigation of disease progression in peri-implantitis requires a specific mode of treatment capable of targeting keystone pathogens and restoring bacterial community balance toward commensal species. Antimicrobial peptides (AMPs) hold promise as alternative therapeutics through their bacterial specificity and targeted inhibitory activity. However, peptide sequence space exhibits complex relationships such as sparse vector encoding of sequences, including combinatorial and discrete functions describing peptide antimicrobial activity. In this paper, we generated a transparent Machine Learning (ML) model that identifies sequence-function relationships based on rough set theory using simple summaries of the hydropathic features of AMPs. Comparing the hydropathic features of peptides according to their differential activity for different classes of bacteria empowered predictability of antimicrobial targeting. Enriching the sequence diversity by a genetic algorithm, we generated numerous candidate AMPs designed for selectively targeting pathogens and predicted their activity using classifying rough sets. Empirical growth inhibition data is iteratively fed back into our ML training to generate new peptides, resulting in increasingly more rigorous rules for which peptides match targeted inhibition levels for specific bacterial strains. The subsequent top scoring candidates were empirically tested for their inhibition against keystone and accessory peri-implantitis pathogens as well as an oral commensal bacterium. A novel peptide, VL-13, was confirmed to be selectively active against a keystone pathogen. Considering the continually increasing number of oral implants placed each year and the complexity of the disease progression, prevalence of peri-implant diseases continues to rise. Our approach offers transparent ML-enabled paths towards developing antimicrobial peptide-based therapies targeting the changes in the microbial communities that can beneficially impact disease progression.
 
-## Epithelial hypoxia maintains colonization resistance against <em>Candida albicans</em> 
+[Source](https://doi.org/10.3389/fdmed.2024.1372534)
 
-[Source](https://www.sciencedirect.com/science/article/pii/S193131282400180X)
-
----
-
-## pic.twitter.com/jR9iQDcXg8
-
-[Source](https://t.co/jR9iQDcXg8)
+10.3389/fdmed.2024.1372534
 
 ---
 
-## Factors that influence surgical decision-making for geriatric displaced femoral neck fractures: Bullet Health Analysis (BHA) I : Worldwide Orthopaedic Research Collaboration: Leveraging Big Data (WORLD) I.
- 08.06.2024, _CJ Foote, C Soni, SP Patel, D Moore, J Szatkowski_
+## An exploratory<em> in silico</em> analysis of bacteriocin gene clusters in the urobiome
 
-
-The management of geriatric femoral neck fractures, which includes options like hemiarthroplasty (HA), total hip arthroplasty (THA), and fixation, exhibits regional and healthcare setting variations. However, there is a lack of information on global variations in practice patterns and surgical decision factors for this injury.
-
-[Source](https://twitter.com/abaumler/status/1798119193478656300?ref_src=twsrc%5Etfw)
-
-10.1007/s00590-024-03989-5
-
----
-
-## June 4, 2024
-
-[Source](https://twitter.com/abaumler/status/1798119193478656300?ref_src=twsrc%5Etfw)
-
----
-
-## Characterizing the gut phageome and phage-borne antimicrobial resistance genes in pigs.
- 07.06.2024, _J Hu, J Chen, Y Nie, C Zhou, Q Hou, X Yan_
-
-
-_Animals, Swine, Bacteriophages, Gastrointestinal Microbiome, Metagenomics, Genome, Viral, Bacteria, Metagenome, Virome, Drug Resistance, Bacterial_
-Mammalian intestine harbors a mass of phages that play important roles in maintaining gut microbial ecosystem and host health. Pig has become a common model for biomedical research and provides a large amount of meat for human consumption. However, the knowledge of gut phages in pigs is still limited.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01818-9)
-
-10.1186/s40168-024-01818-9
-
----
-
-## Deep long-read metagenomic sequencing reveals niche differentiation in carbon cycling potential between benthic and planktonic microbial populations
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.06.04.597336v2.abstract)
-
----
-
-## Altitude-Dependent Influence of<em> Artemisia brevifolia</em> on its Rhizosphere Microbiome in Ladakh Region of the Western Himalayas
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S2452219824000739)
-
----
-
-## #microbiome
-
-[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## #Himalayas
-
-[Source](https://twitter.com/hashtag/Himalayas?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/saDRZJ7HPR
-
-[Source](https://t.co/saDRZJ7HPR)
-
----
-
-## June 5, 2024
-
-[Source](https://twitter.com/PraveenRahi/status/1798453376013005143?ref_src=twsrc%5Etfw)
-
----
-
-## Lightweight taxonomic profiling of long-read sequenced metagenomes with Lemur and Magnet
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.06.01.596961v1)
-
----
-
-## Comprehensive profiling of genomic invertons in defined gut microbial community reveals associations with intestinal colonization and surface adhesion
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.06.01.596983v1.abstract)
-
----
-
-## https://t.co/j3PDFRLZAs
-
-[Source](https://t.co/j3PDFRLZAs)
-
----
-
-## June 5, 2024
-
-[Source](https://twitter.com/h2so4hurts/status/1798369308331970967?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.20517/mrr.2023.78)
 
 ---
 
