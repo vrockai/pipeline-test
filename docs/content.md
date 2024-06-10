@@ -11,7 +11,7 @@ Insight into associations between the gut microbiome with metabolism and aging i
 ---
 
 ## Quantifying variation across 16S rRNA gene sequencing runs in human microbiome studies.
- 08.06.2024, _AJ Hoisington, CE Stamper, JC Ellis, CA Lowry, LA Brenner_
+ 10.06.2024, _AJ Hoisington, CE Stamper, JC Ellis, CA Lowry, LA Brenner_
 
 
 _Humans, RNA, Ribosomal, 16S, Feces, Microbiota, Sequence Analysis, DNA, DNA, Bacterial, Bacteria, Reproducibility of Results, Mouth, High-Throughput Nucleotide Sequencing_
@@ -39,6 +39,7 @@ The study of changes in the microbiome in chronic pancreatitis (CP) and pancreat
  10.06.2024, _J Chen, H Lan, C Li, Y Xie, X Cheng, R Xia, C Ke, X Liang_
 
 
+_Irritable Bowel Syndrome, Humans, Gastrointestinal Microbiome, Diarrhea, Adult, Feces, Female, Male, Bacteria, RNA, Ribosomal, 16S, Middle Aged, Case-Control Studies, DNA, Bacterial, Young Adult_
 Irritable bowel syndrome (IBS) is a prevalent gastrointestinal disorder, encompassing diarrhea-predominant irritable bowel syndrome (IBS-D). Here, we utilized 16S rDNA gene sequencing to identify potential microbial drivers of IBS-D.
 
 [Source](https://doi.org/10.1093/jambio/lxae118)
@@ -78,7 +79,7 @@ Dysbiosis of the gut microbiota is closely associated with neurodegenerative dis
 ---
 
 ## Unravelling the role of intratumoral bacteria in digestive system cancers: current insights and future perspectives.
- 07.06.2024, _W Lu, A Aihaiti, P Abudukeranmu, Y Liu, H Gao_
+ 10.06.2024, _W Lu, A Aihaiti, P Abudukeranmu, Y Liu, H Gao_
 
 
 _Humans, Digestive System Neoplasms, Bacteria, Gastrointestinal Microbiome, Animals_
@@ -128,7 +129,7 @@ Gut microbiota is responsible for essential functions in human health. Several c
 ---
 
 ## Unravelling the impact of environmental factors in shaping plant microbiomes.
- 08.06.2024, _AI Pérez-Lorente, D Romero, C Molina-Santiago_
+ 10.06.2024, _AI Pérez-Lorente, D Romero, C Molina-Santiago_
 
 
 _Microbiota, Fungi, Bacteria, Chenopodium quinoa, Malus, Plants, Stress, Physiological, Environment, Crops, Agricultural_
