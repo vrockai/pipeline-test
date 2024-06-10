@@ -36,7 +36,7 @@ The study of changes in the microbiome in chronic pancreatitis (CP) and pancreat
 ---
 
 ## Gut microbial signatures of patients with diarrhea-predominant irritable bowel syndrome and their healthy relatives.
- 07.06.2024, _J Chen, H Lan, C Li, Y Xie, X Cheng, R Xia, C Ke, X Liang_
+ 10.06.2024, _J Chen, H Lan, C Li, Y Xie, X Cheng, R Xia, C Ke, X Liang_
 
 
 Irritable bowel syndrome (IBS) is a prevalent gastrointestinal disorder, encompassing diarrhea-predominant irritable bowel syndrome (IBS-D). Here, we utilized 16S rDNA gene sequencing to identify potential microbial drivers of IBS-D.
@@ -114,15 +114,29 @@ Microplastic (MP) pollution constitutes an emerging type of pollution threatenin
 
 ---
 
-## Gut microbiota depletion delays somatic peripheral nerve development and impairs neuromuscular junction maturation
+## Gut microbiota depletion delays somatic peripheral nerve development and impairs neuromuscular junction maturation.
+ 07.06.2024, _M Cescon, G Gambarotta, S Calabrò, C Cicconetti, F Anselmi, S Kankowski, L Lang, M Basic, A Bleich, S Bolsega, M Steglich, S Oliviero, S Raimondo, D Bizzotto, K Haastert-Talini, G Ronchi_
+
+
+_Animals, Gastrointestinal Microbiome, Neuromuscular Junction, Mice, Ganglia, Spinal, Germ-Free Life, Peripheral Nerves, Muscle, Skeletal, Mice, Inbred C57BL, Neuregulin-1, Male, Bacteria, Schwann Cells_
+Gut microbiota is responsible for essential functions in human health. Several communication axes between gut microbiota and other organs via neural, endocrine, and immune pathways have been described, and perturbation of gut microbiota composition has been implicated in the onset and progression of an emerging number of diseases. Here, we analyzed peripheral nerves, dorsal root ganglia (DRG), and skeletal muscles of neonatal and young adult mice with the following gut microbiota status: a) germ-free (GF), b) gnotobiotic, selectively colonized with 12 specific gut bacterial strains (Oligo-Mouse-Microbiota, OMM12), or c) natural complex gut microbiota (CGM). Stereological and morphometric analyses revealed that the absence of gut microbiota impairs the development of somatic median nerves, resulting in smaller diameter and hypermyelinated axons, as well as in smaller unmyelinated fibers. Accordingly, DRG and sciatic nerve transcriptomic analyses highlighted a panel of differentially expressed developmental and myelination genes. Interestingly, the type III isoform of Neuregulin1 (NRG1), known to be a neuronal signal essential for Schwann cell myelination, was overexpressed in young adult GF mice, with consequent overexpression of the transcription factor Early Growth Response 2 (Egr2), a fundamental gene expressed by Schwann cells at the onset of myelination. Finally, GF status resulted in histologically atrophic skeletal muscles, impaired formation of neuromuscular junctions, and deregulated expression of related genes. In conclusion, we demonstrate for the first time a gut microbiota regulatory impact on proper development of the somatic peripheral nervous system and its functional connection to skeletal muscles, thus suggesting the existence of a novel 'Gut Microbiota-Peripheral Nervous System-axis.'
 
 [Source](https://doi.org/10.1080/19490976.2024.2363015)
 
+10.1080/19490976.2024.2363015
+
 ---
 
-## Unravelling the impact of environmental factors in shaping plant microbiomes
+## Unravelling the impact of environmental factors in shaping plant microbiomes.
+ 08.06.2024, _AI Pérez-Lorente, D Romero, C Molina-Santiago_
+
+
+_Microbiota, Fungi, Bacteria, Chenopodium quinoa, Malus, Plants, Stress, Physiological, Environment, Crops, Agricultural_
+This article emphasizes the significant role of environmental factors in shaping the plant microbiome, highlighting how bacterial and fungal communities influence plant responses to water stress, and how environmental factors shape fungal communities in crops. Furthermore, recent studies describe how different genotypes and levels of water stress affect the composition of bacterial communities associated with quinoa plants, as well as the relationship between environmental factors and the structure of fungal communities in apple fruit. These findings underscore the importance of understanding plant microbiome dynamics in developing effective crop protection strategies and improving agricultural sustainability with the objective of advance towards a microbiome-based strategy which allows us to improve crop tolerance to abiotic stresses.
 
 [Source](https://doi.org/10.1111/1751-7915.14504)
+
+10.1111/1751-7915.14504
 
 ---
 
