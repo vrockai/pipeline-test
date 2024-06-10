@@ -132,9 +132,15 @@ Microplastic (MP) pollution constitutes an emerging type of pollution threatenin
 
 ---
 
-## Machine learning enabled design features of antimicrobial peptides selectively targeting peri-implant disease progression
+## Machine learning enabled design features of antimicrobial peptides selectively targeting peri-implant disease progression.
+ 09.06.2024, _K Boone, N Tjokro, KN Chu, C Chen, ML Snead, C Tamerler_
+
+
+Peri-implantitis is a complex infectious disease that manifests as progressive loss of alveolar bone around the dental implants and hyper-inflammation associated with microbial dysbiosis. Using antibiotics in treating peri-implantitis is controversial because of antibiotic resistance threats, the non-selective suppression of pathogens and commensals within the microbial community, and potentially serious systemic sequelae. Therefore, conventional treatment for peri-implantitis comprises mechanical debridement by nonsurgical or surgical approaches with adjunct local microbicidal agents. Consequently, current treatment options may not prevent relapses, as the pathogens either remain unaffected or quickly re-emerge after treatment. Successful mitigation of disease progression in peri-implantitis requires a specific mode of treatment capable of targeting keystone pathogens and restoring bacterial community balance toward commensal species. Antimicrobial peptides (AMPs) hold promise as alternative therapeutics through their bacterial specificity and targeted inhibitory activity. However, peptide sequence space exhibits complex relationships such as sparse vector encoding of sequences, including combinatorial and discrete functions describing peptide antimicrobial activity. In this paper, we generated a transparent Machine Learning (ML) model that identifies sequence-function relationships based on rough set theory using simple summaries of the hydropathic features of AMPs. Comparing the hydropathic features of peptides according to their differential activity for different classes of bacteria empowered predictability of antimicrobial targeting. Enriching the sequence diversity by a genetic algorithm, we generated numerous candidate AMPs designed for selectively targeting pathogens and predicted their activity using classifying rough sets. Empirical growth inhibition data is iteratively fed back into our ML training to generate new peptides, resulting in increasingly more rigorous rules for which peptides match targeted inhibition levels for specific bacterial strains. The subsequent top scoring candidates were empirically tested for their inhibition against keystone and accessory peri-implantitis pathogens as well as an oral commensal bacterium. A novel peptide, VL-13, was confirmed to be selectively active against a keystone pathogen. Considering the continually increasing number of oral implants placed each year and the complexity of the disease progression, prevalence of peri-implant diseases continues to rise. Our approach offers transparent ML-enabled paths towards developing antimicrobial peptide-based therapies targeting the changes in the microbial communities that can beneficially impact disease progression.
 
 [Source](https://doi.org/10.3389/fdmed.2024.1372534)
+
+10.3389/fdmed.2024.1372534
 
 ---
 
