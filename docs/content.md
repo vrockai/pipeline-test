@@ -11,7 +11,7 @@ Insight into associations between the gut microbiome with metabolism and aging i
 ---
 
 ## Quantifying variation across 16S rRNA gene sequencing runs in human microbiome studies.
- 10.06.2024, _AJ Hoisington, CE Stamper, JC Ellis, CA Lowry, LA Brenner_
+ 11.06.2024, _AJ Hoisington, CE Stamper, JC Ellis, CA Lowry, LA Brenner_
 
 
 _Humans, RNA, Ribosomal, 16S, Feces, Microbiota, Sequence Analysis, DNA, DNA, Bacterial, Bacteria, Reproducibility of Results, Mouth, High-Throughput Nucleotide Sequencing_
@@ -116,7 +116,7 @@ Microplastic (MP) pollution constitutes an emerging type of pollution threatenin
 ---
 
 ## Gut microbiota depletion delays somatic peripheral nerve development and impairs neuromuscular junction maturation.
- 07.06.2024, _M Cescon, G Gambarotta, S Calabrò, C Cicconetti, F Anselmi, S Kankowski, L Lang, M Basic, A Bleich, S Bolsega, M Steglich, S Oliviero, S Raimondo, D Bizzotto, K Haastert-Talini, G Ronchi_
+ 11.06.2024, _M Cescon, G Gambarotta, S Calabrò, C Cicconetti, F Anselmi, S Kankowski, L Lang, M Basic, A Bleich, S Bolsega, M Steglich, S Oliviero, S Raimondo, D Bizzotto, K Haastert-Talini, G Ronchi_
 
 
 _Animals, Gastrointestinal Microbiome, Neuromuscular Junction, Mice, Ganglia, Spinal, Germ-Free Life, Peripheral Nerves, Muscle, Skeletal, Mice, Inbred C57BL, Neuregulin-1, Male, Bacteria, Schwann Cells_
