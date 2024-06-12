@@ -193,7 +193,7 @@ Xylem serves as a conduit linking soil to the aboveground plant parts and facili
 ---
 
 ## Plastic and terrestrial organic matter degradation by the humic lake microbiome continues throughout the seasons.
- 09.06.2024, _JS Vesamäki, MB Laine, R Nissinen, SJ Taipale_
+ 12.06.2024, _JS Vesamäki, MB Laine, R Nissinen, SJ Taipale_
 
 
 _Seasons, Lakes, Microbiota, Biodegradation, Environmental, Plastics, Bacteria, Humic Substances, Typhaceae, Microplastics, Polyethylene, Carbon, Polystyrenes_
@@ -206,7 +206,7 @@ Boreal freshwaters go through four seasons, however, studies about the decomposi
 ---
 
 ## Coral microbiomes are structured by environmental gradients in deep waters.
- 10.06.2024, _SA Vohsen, S Herrera_
+ 12.06.2024, _SA Vohsen, S Herrera_
 
 
 Coral-associated microbiomes vary greatly between colonies and localities with functional consequences on the host. However, the full extent of variability across the ranges of most coral species remains unknown, especially for corals living in deep waters which span greater ranges. Here, we characterized the microbiomes of four octocoral species from mesophotic and bathyal deep-sea habitats in the northern Gulf of Mexico, Muricea pendula, Swiftia exserta, Callogorgia delta, and Paramuricea biscaya, using 16S rRNA gene metabarcoding. We sampled extensively across their ranges to test for microbiome differentiation between and within species, examining the influence of environmental factors that vary with depth (53-2224 m) and geographic location (over 680 m) as well as the host coral's genotype using RAD-sequencing.
