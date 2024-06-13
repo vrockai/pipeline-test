@@ -11,7 +11,7 @@ To evaluate the persistence of intestinal microbiome dysbiosis and gut-plasma me
 ---
 
 ## COVID-19 influenced gut dysbiosis, post-acute sequelae, immune regulation, and therapeutic regimens.
- 12.06.2024, _ST Raj, AW Bruce, M Anbalagan, H Srinivasan, S Chinnappan, M Rajagopal, K Khanna, HC Chandramoorthy, RR Mani_
+ 13.06.2024, _ST Raj, AW Bruce, M Anbalagan, H Srinivasan, S Chinnappan, M Rajagopal, K Khanna, HC Chandramoorthy, RR Mani_
 
 
 _COVID-19, Humans, Dysbiosis, Gastrointestinal Microbiome, SARS-CoV-2, Post-Acute COVID-19 Syndrome, Probiotics, Gastrointestinal Tract, COVID-19 Drug Treatment_
@@ -49,7 +49,7 @@ Dietary fiber supplements are a strategy to close the 'fiber gap' and induce tar
 ---
 
 ## Co-evolution of vaginal microbiome and cervical cancer.
- 11.06.2024, _M Hu, W Yang, R Yan, J Chi, Q Xia, Y Yang, Y Wang, L Sun, P Li_
+ 13.06.2024, _M Hu, W Yang, R Yan, J Chi, Q Xia, Y Yang, Y Wang, L Sun, P Li_
 
 
 _Humans, Female, Uterine Cervical Neoplasms, Vagina, Microbiota, Mutation, Middle Aged, Adult, Polymorphism, Single Nucleotide, Case-Control Studies, Disease Progression_
@@ -62,7 +62,7 @@ Exploration of adaptive evolutionary changes at the genetic level in vaginal mic
 ---
 
 ## Establishment of a novel obesity mouse model: the induction of intestinal microbiota dysbiosis.
- 12.06.2024, _Q Li, X Gao, R Jia, J Deng, C Wan_
+ 13.06.2024, _Q Li, X Gao, R Jia, J Deng, C Wan_
 
 
 _Animals, Gastrointestinal Microbiome, Obesity, Dysbiosis, Disease Models, Animal, Male, Mice, Mice, Inbred C57BL, Body Weight, Feces, Blood Glucose, Triglycerides, RNA, Ribosomal, 16S, Mice, Obese_
@@ -81,7 +81,7 @@ To establish and evaluate an intestinal microbiota dysbiosis-induced obesity mou
 ---
 
 ## Oral microbiome sequencing revealed the enrichment of Fusobacterium sp., Porphyromonas sp., Campylobacter sp., and Neisseria sp. on the oral malignant fibroma surface of giant panda.
- 12.06.2024, _X Wang, M Jing, Q Ma, Y Lin, T Zheng, J Yan, L Yun, C Wang, Y Li_
+ 13.06.2024, _X Wang, M Jing, Q Ma, Y Lin, T Zheng, J Yan, L Yun, C Wang, Y Li_
 
 
 _Ursidae, Animals, Microbiota, RNA, Ribosomal, 16S, Porphyromonas, Campylobacter, Mouth, Fusobacterium, Fibroma, Neisseria, Mouth Neoplasms, Phylogeny, Sequence Analysis, DNA_
@@ -131,7 +131,7 @@ Ruminant gut microbiota are critical in ecological adaptation, evolution, and nu
 ---
 
 ## Fungal biomass and ectomycorrhizal community assessment of phosphorus responsive Pinus taeda plantations.
- 12.06.2024, _J Hackman, A Woodley, D Carter, B Strahm, C Averill, R Vilgalys, K Garcia, R Cook_
+ 13.06.2024, _J Hackman, A Woodley, D Carter, B Strahm, C Averill, R Vilgalys, K Garcia, R Cook_
 
 
 Ectomycorrhizal fungi and non-ectomycorrhizal fungi are responsive to changes in environmental and nutrient availabilities. Although many species of ectomycorrhizas are known to enhance the uptake of phosphorus and other nutrients for Pinus taeda, it is not understood how to optimize these communities to have tangible effects on plantation silviculture and P use efficiency. The first step of this process is the identification of native fungi present in the system that are associated with P. taeda and influence P uptake efficiency. We used sand-filled mesh bags baited with finely ground apatite to sample ectomycorrhizal and non-ectomycorrhizal fungi associated with the rhizosphere of P-responsive P. taeda under several field conditions. Mesh bags were assessed for biomass accumulation over three years using a single three-month burial period pre-harvest and three six-month burial periods post-planting. Amplicon sequencing assessed ectomycorrhizal and non-ectomycorrhizal communities between phosphorus treatments, sites, mesh bags, and the rhizosphere of actively growing P. taeda in the field. We found biomass accumulation within the mesh bags was inversely related to increasing phosphorus fertilization (carryover) rates from pre-harvest to post-planting. Up to 25% increases in total biomass within the bags were observed for bags baited with P. Taxonomic richness was highest in Alfisol soils treated with phosphorus from the previous rotation and lowest in the Spodosol regardless of phosphorus treatment.
@@ -143,7 +143,7 @@ Ectomycorrhizal fungi and non-ectomycorrhizal fungi are responsive to changes in
 ---
 
 ## Soil conditioner improves soil properties, regulates microbial communities, and increases yield and quality of Uncaria rhynchophylla.
- 12.06.2024, _Q Liu, H Cui, W Yang, F Wang, H Liao, Q Zhu, S Qin, P Lu_
+ 13.06.2024, _Q Liu, H Cui, W Yang, F Wang, H Liao, Q Zhu, S Qin, P Lu_
 
 
 _Soil Microbiology, Soil, Uncaria, Biomass, Microbiota, Alkaloids, Charcoal, Bacteria, China, Nitrogen_
@@ -156,7 +156,7 @@ Uncaria rhynchophylla is an important traditional herbal medicine in China, and 
 ---
 
 ## Genetic control of rhizosphere microbiome of the cotton plants under field conditions.
- 11.06.2024, _F Wei, Z Feng, C Yang, L Zhao, Y Zhang, J Zhou, H Feng, H Zhu, X Xu_
+ 13.06.2024, _F Wei, Z Feng, C Yang, L Zhao, Y Zhang, J Zhou, H Feng, H Zhu, X Xu_
 
 
 _Gossypium, Rhizosphere, Microbiota, Soil Microbiology, Fungi, Bacteria, Plant Diseases, Plant Roots, Genetic Variation, Verticillium, Genotype_
@@ -206,7 +206,7 @@ Boreal freshwaters go through four seasons, however, studies about the decomposi
 ---
 
 ## Coral microbiomes are structured by environmental gradients in deep waters.
- 12.06.2024, _SA Vohsen, S Herrera_
+ 13.06.2024, _SA Vohsen, S Herrera_
 
 
 Coral-associated microbiomes vary greatly between colonies and localities with functional consequences on the host. However, the full extent of variability across the ranges of most coral species remains unknown, especially for corals living in deep waters which span greater ranges. Here, we characterized the microbiomes of four octocoral species from mesophotic and bathyal deep-sea habitats in the northern Gulf of Mexico, Muricea pendula, Swiftia exserta, Callogorgia delta, and Paramuricea biscaya, using 16S rRNA gene metabarcoding. We sampled extensively across their ranges to test for microbiome differentiation between and within species, examining the influence of environmental factors that vary with depth (53-2224 m) and geographic location (over 680 m) as well as the host coral's genotype using RAD-sequencing.
