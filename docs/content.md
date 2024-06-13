@@ -62,7 +62,7 @@ Exploration of adaptive evolutionary changes at the genetic level in vaginal mic
 ---
 
 ## Establishment of a novel obesity mouse model: the induction of intestinal microbiota dysbiosis.
- 11.06.2024, _Q Li, X Gao, R Jia, J Deng, C Wan_
+ 12.06.2024, _Q Li, X Gao, R Jia, J Deng, C Wan_
 
 
 _Animals, Gastrointestinal Microbiome, Obesity, Dysbiosis, Disease Models, Animal, Male, Mice, Mice, Inbred C57BL, Body Weight, Feces, Blood Glucose, Triglycerides, RNA, Ribosomal, 16S, Mice, Obese_
@@ -143,7 +143,7 @@ Ectomycorrhizal fungi and non-ectomycorrhizal fungi are responsive to changes in
 ---
 
 ## Soil conditioner improves soil properties, regulates microbial communities, and increases yield and quality of Uncaria rhynchophylla.
- 11.06.2024, _Q Liu, H Cui, W Yang, F Wang, H Liao, Q Zhu, S Qin, P Lu_
+ 12.06.2024, _Q Liu, H Cui, W Yang, F Wang, H Liao, Q Zhu, S Qin, P Lu_
 
 
 _Soil Microbiology, Soil, Uncaria, Biomass, Microbiota, Alkaloids, Charcoal, Bacteria, China, Nitrogen_
