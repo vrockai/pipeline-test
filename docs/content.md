@@ -36,7 +36,7 @@ Gluten possesses unique properties that render it only partially digestible. Con
 ---
 
 ## Adaptation to tolerate high doses of arabinoxylan is associated with fecal levels of Bifidobacterium longum.
- 11.06.2024, _EC Deehan, Z Zhang, NK Nguyen, ME Perez-Muñoz, J Cole, A Riva, D Berry, CM Prado, J Walter_
+ 14.06.2024, _EC Deehan, Z Zhang, NK Nguyen, ME Perez-Muñoz, J Cole, A Riva, D Berry, CM Prado, J Walter_
 
 
 _Xylans, Humans, Feces, Male, Female, Dietary Fiber, Middle Aged, Gastrointestinal Microbiome, Bifidobacterium longum, Adult, Dietary Supplements, Fermentation, Aged, Adaptation, Physiological_
@@ -49,7 +49,7 @@ Dietary fiber supplements are a strategy to close the 'fiber gap' and induce tar
 ---
 
 ## Co-evolution of vaginal microbiome and cervical cancer.
- 13.06.2024, _M Hu, W Yang, R Yan, J Chi, Q Xia, Y Yang, Y Wang, L Sun, P Li_
+ 14.06.2024, _M Hu, W Yang, R Yan, J Chi, Q Xia, Y Yang, Y Wang, L Sun, P Li_
 
 
 _Humans, Female, Uterine Cervical Neoplasms, Vagina, Microbiota, Mutation, Middle Aged, Adult, Polymorphism, Single Nucleotide, Case-Control Studies, Disease Progression_
@@ -62,7 +62,7 @@ Exploration of adaptive evolutionary changes at the genetic level in vaginal mic
 ---
 
 ## Establishment of a novel obesity mouse model: the induction of intestinal microbiota dysbiosis.
- 13.06.2024, _Q Li, X Gao, R Jia, J Deng, C Wan_
+ 14.06.2024, _Q Li, X Gao, R Jia, J Deng, C Wan_
 
 
 _Animals, Gastrointestinal Microbiome, Obesity, Dysbiosis, Disease Models, Animal, Male, Mice, Mice, Inbred C57BL, Body Weight, Feces, Blood Glucose, Triglycerides, RNA, Ribosomal, 16S, Mice, Obese_
@@ -143,7 +143,7 @@ Ectomycorrhizal fungi and non-ectomycorrhizal fungi are responsive to changes in
 ---
 
 ## Soil conditioner improves soil properties, regulates microbial communities, and increases yield and quality of Uncaria rhynchophylla.
- 13.06.2024, _Q Liu, H Cui, W Yang, F Wang, H Liao, Q Zhu, S Qin, P Lu_
+ 14.06.2024, _Q Liu, H Cui, W Yang, F Wang, H Liao, Q Zhu, S Qin, P Lu_
 
 
 _Soil Microbiology, Soil, Uncaria, Biomass, Microbiota, Alkaloids, Charcoal, Bacteria, China, Nitrogen_
@@ -156,7 +156,7 @@ Uncaria rhynchophylla is an important traditional herbal medicine in China, and 
 ---
 
 ## Genetic control of rhizosphere microbiome of the cotton plants under field conditions.
- 13.06.2024, _F Wei, Z Feng, C Yang, L Zhao, Y Zhang, J Zhou, H Feng, H Zhu, X Xu_
+ 14.06.2024, _F Wei, Z Feng, C Yang, L Zhao, Y Zhang, J Zhou, H Feng, H Zhu, X Xu_
 
 
 _Gossypium, Rhizosphere, Microbiota, Soil Microbiology, Fungi, Bacteria, Plant Diseases, Plant Roots, Genetic Variation, Verticillium, Genotype_
