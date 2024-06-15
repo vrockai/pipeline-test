@@ -36,7 +36,7 @@ Gluten possesses unique properties that render it only partially digestible. Con
 ---
 
 ## Adaptation to tolerate high doses of arabinoxylan is associated with fecal levels of Bifidobacterium longum.
- 14.06.2024, _EC Deehan, Z Zhang, NK Nguyen, ME Perez-Muñoz, J Cole, A Riva, D Berry, CM Prado, J Walter_
+ 15.06.2024, _EC Deehan, Z Zhang, NK Nguyen, ME Perez-Muñoz, J Cole, A Riva, D Berry, CM Prado, J Walter_
 
 
 _Xylans, Humans, Feces, Male, Female, Dietary Fiber, Middle Aged, Gastrointestinal Microbiome, Bifidobacterium longum, Adult, Dietary Supplements, Fermentation, Aged, Adaptation, Physiological_
