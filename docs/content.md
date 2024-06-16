@@ -1,219 +1,222 @@
-## Persistence and Sexual Dimorphism of Gut Dysbiosis and Pathobiome after Sepsis and Trauma.
- 12.06.2024, _JA Munley, G Park, LS Kelly, KB Kannan, RT Mankowski, G Casadesus, P Chakrabarty, SM Wallet, R Maile, LE Bible, B Wang, LL Moldawer, AM Mohr, R Nagpal, PA Efron_
+## Mouse IgA modulates human gut microbiota with inflammatory bowel disease patients.
+ 14.06.2024, _K Takahashi, N Morita, R Tamano, P Gao, N Iida, A Andoh, H Imaeda, K Kurokawa, M Tsuboi, Y Hayakawa, M Fujishiro, R Shinkura_
 
 
-To evaluate the persistence of intestinal microbiome dysbiosis and gut-plasma metabolomic perturbations following severe trauma or sepsis weeks after admission in patients experiencing chronic critical illness (CCI).
+The imbalance of commensal bacteria is called dysbiosis in intestinal microflora. Secreted IgA in the intestinal lumen plays an important role in the regulation of microbiota. Although dysbiosis of gut bacteria is reported in IBD patients, it remains unclear what makes dysbiosis of their microflora. The intervention method for remedy of dysbiosis in IBD patients is not well established. In this study, we focused on the quality of human endogenous IgA and investigated whether mouse monoclonal IgA which binds to selectively colitogenic bacteria can modulate human gut microbiota with IBD patients.
 
-[Source](https://journals.lww.com/annalsofsurgery/abstract/9900/persistence_and_sexual_dimorphism_of_gut_dysbiosis.930.aspx)
+[Source](https://doi.org/10.1007/s00535-024-02121-y)
 
-10.1097/SLA.0000000000006385
-
----
-
-## COVID-19 influenced gut dysbiosis, post-acute sequelae, immune regulation, and therapeutic regimens.
- 13.06.2024, _ST Raj, AW Bruce, M Anbalagan, H Srinivasan, S Chinnappan, M Rajagopal, K Khanna, HC Chandramoorthy, RR Mani_
-
-
-_COVID-19, Humans, Dysbiosis, Gastrointestinal Microbiome, SARS-CoV-2, Post-Acute COVID-19 Syndrome, Probiotics, Gastrointestinal Tract, COVID-19 Drug Treatment_
-The novel coronavirus disease 2019 (COVID-19) pandemic outbreak caused by severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) has garnered unprecedented global attention. It caused over 2.47 million deaths through various syndromes such as acute respiratory distress, hypercoagulability, and multiple organ failure. The viral invasion proceeds through the ACE2 receptor, expressed in multiple cell types, and in some patients caused serious damage to tissues, organs, immune cells, and the microbes that colonize the gastrointestinal tract (GIT). Some patients who survived the SARS-CoV-2 infection have developed months of persistent long-COVID-19 symptoms or post-acute sequelae of COVID-19 (PASC). Diagnosis of these patients has revealed multiple biological effects, none of which are mutually exclusive. However, the severity of COVID-19 also depends on numerous comorbidities such as obesity, age, diabetes, and hypertension and care must be taken with respect to other multiple morbidities, such as host immunity. Gut microbiota in relation to SARS-CoV-2 immunopathology is considered to evolve COVID-19 progression via mechanisms of biochemical metabolism, exacerbation of inflammation, intestinal mucosal secretion, cytokine storm, and immunity regulation. Therefore, modulation of gut microbiome equilibrium through food supplements and probiotics remains a hot topic of current research and debate. In this review, we discuss the biological complications of the physio-pathological effects of COVID-19 infection, GIT immune response, and therapeutic pharmacological strategies. We also summarize the therapeutic targets of probiotics, their limitations, and the efficacy of preclinical and clinical drugs to effectively inhibit the spread of SARS-CoV-2.
-
-[Source](https://www.frontiersin.org/articles/10.3389/fcimb.2024.1384939/full)
-
-10.3389/fcimb.2024.1384939
+10.1007/s00535-024-02121-y
 
 ---
 
-## Novel probiotic preparation with in vivo gluten-degrading activity and potential modulatory effects on the gut microbiota.
- 11.06.2024, _O Nikoloudaki, G Celano, A Polo, C Cappello, L Granehäll, A Costantini, M Vacca, B Speckmann, R Di Cagno, R Francavilla, M De Angelis, M Gobbetti_
+## Distinct characteristics of the gut virome in patients with osteoarthritis and gouty arthritis.
+ 13.06.2024, _CM Chen, QL Yan, RC Guo, F Tang, MH Wang, HZ Yi, CX Huang, C Liu, QY Wang, WY Lan, Z Jiang, YZ Yang, GY Wang, AQ Zhang, J Ma, Y Zhang, W You, H Ullah, Y Zhang, SH Li, XM Yao, W Sun, WK Ma_
 
 
-Gluten possesses unique properties that render it only partially digestible. Consequently, it exerts detrimental effects on a part of the worldwide population who are afflicted with celiac disease (1%) or related disorders (5%), particularly due to the potential for cross-contamination even when adhering to a gluten-free diet (GFD). Finding solutions to break down gluten during digestion has a high nutritional and social impact. Here, a randomized double-blind placebo-controlled in vivo challenge investigated the gluten-degrading activity of a novel probiotic preparation comprising lactobacilli and their cytoplasmic extracts, Bacillus sp., and bacterial protease. In our clinical trial, we collected feces from 70 healthy volunteers at specific time intervals. Probiotic/placebo administration lasted 32 days, followed by 10 days of wash-out. After preliminary GFD to eliminate residual gluten from feces, increasing amounts of gluten (50 mg-10 g) were administered, each one for 4 consecutive days. Compared to placebo, the feces of volunteers fed with probiotics showed much lower amounts of residual gluten, mainly with increased intakes. Probiotics also regulate the intestinal microbial communities, improving the abundance of genera pivotal to maintaining homeostasis. Quantitative PCR confirmed that all probiotics persisted during the intervention, some also during wash-out. Probiotics promoted a fecal metabolome with potential immunomodulating activity, mainly related to derivatives of branched-chain amino acids and short-chain fatty acids.
+_Humans, Virome, Arthritis, Gouty, Gastrointestinal Microbiome, Male, Osteoarthritis, Female, Middle Aged, Case-Control Studies, Aged, Metagenomics, Feces_
+The gut microbiota and its metabolites play crucial roles in pathogenesis of arthritis, highlighting gut microbiota as a promising avenue for modulating autoimmunity. However, the characterization of the gut virome in arthritis patients, including osteoarthritis (OA) and gouty arthritis (GA), requires further investigation.
 
-[Source](https://journals.asm.org/doi/10.1128/spectrum.03524-23)
+[Source](https://doi.org/10.1186/s12967-024-05374-6)
 
-10.1128/spectrum.03524-23
-
----
-
-## Adaptation to tolerate high doses of arabinoxylan is associated with fecal levels of Bifidobacterium longum.
- 15.06.2024, _EC Deehan, Z Zhang, NK Nguyen, ME Perez-Muñoz, J Cole, A Riva, D Berry, CM Prado, J Walter_
-
-
-_Xylans, Humans, Feces, Male, Female, Dietary Fiber, Middle Aged, Gastrointestinal Microbiome, Bifidobacterium longum, Adult, Dietary Supplements, Fermentation, Aged, Adaptation, Physiological_
-Dietary fiber supplements are a strategy to close the 'fiber gap' and induce targeted modulations of the gut microbiota. However, higher doses of fiber supplements cause gastrointestinal (GI) symptoms that differ among individuals. What determines these inter-individual differences is insufficiently understood. Here we analyzed findings from a six-week randomized controlled trial that evaluated GI symptoms to corn bran arabinoxylan (AX; n = 15) relative to non-fermentable microcrystalline cellulose (MCC; n = 16) at efficacious supplement doses of 25 g/day (females) or 35 g/day (males) in adults with excess weight. Self-reported flatulence, bloating, and stomach aches were evaluated weekly. Bacterial taxa involved in AX fermentation were identified by bioorthogonal non-canonical amino acid tagging. Associations between GI symptoms, fecal microbiota features, and diet history were systematically investigated. AX supplementation increased symptoms during the first three weeks relative to MCC (p &lt; 0.05, Mann-Whitney tests), but subjects 'adapted' with symptoms reverting to baseline levels toward the end of treatment. Symptom adaptations were individualized and correlated with the relative abundance of Bifidobacterium longum at baseline (rs = 0.74, p = 0.002), within the bacterial community that utilized AX (rs = 0.69, p = 0.006), and AX-induced shifts in acetate (rs = 0.54, p = 0.039). Lower baseline consumption of animal-based foods and higher whole grains associated with less severity and better adaptation. These findings suggest that humans do 'adapt' to tolerate efficacious fiber doses, and this process is linked to their microbiome and dietary factors known to interact with gut microbes, providing a basis for the development of strategies for improved tolerance of dietary fibers.
-
-[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2363021)
-
-10.1080/19490976.2024.2363021
+10.1186/s12967-024-05374-6
 
 ---
 
-## Co-evolution of vaginal microbiome and cervical cancer.
- 14.06.2024, _M Hu, W Yang, R Yan, J Chi, Q Xia, Y Yang, Y Wang, L Sun, P Li_
+## The microbial composition of pancreatic ductal adenocarcinoma: A systematic review of 16S rRNA gene sequencing.
+ 14.06.2024, _N Merali, T Chouari, C Sweeney, J Halle-Smith, J Maria-Danae, B Wang, J O' Brien, B Patel, S Suyama, JI Jiménez, KJ Roberts, E Velliou, S Sivakumar, TA Rockall, A Demirkan, V Pedicord, D Deng, E Giovannetti, NE Annels, AE Frampton_
 
 
-_Humans, Female, Uterine Cervical Neoplasms, Vagina, Microbiota, Mutation, Middle Aged, Adult, Polymorphism, Single Nucleotide, Case-Control Studies, Disease Progression_
-Exploration of adaptive evolutionary changes at the genetic level in vaginal microbial communities during different stages of cervical cancer remains limited. This study aimed to elucidate the mutational profile of the vaginal microbiota throughout the progression of cervical disease and subsequently establish diagnostic models.
+Pancreatic cancer, specifically pancreatic ductal adenocarcinoma (PDAC), continues to pose a significant clinical and scientific challenge. The most significant finding of recent years is that PDAC tumours harbour their specific microbiome, which differs amongst tumour entities and is distinct from healthy tissue. This review aims to evaluate and summarise all PDAC studies that have used the next-generation technique, 16S rRNA gene amplicon sequencing within each bodily compartment. As well as establishing a causal relationship between PDAC and the microbiome.
 
-[Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-05265-w)
+[Source](https://doi.org/10.1097/JS9.0000000000001762)
 
-10.1186/s12967-024-05265-w
-
----
-
-## Establishment of a novel obesity mouse model: the induction of intestinal microbiota dysbiosis.
- 14.06.2024, _Q Li, X Gao, R Jia, J Deng, C Wan_
-
-
-_Animals, Gastrointestinal Microbiome, Obesity, Dysbiosis, Disease Models, Animal, Male, Mice, Mice, Inbred C57BL, Body Weight, Feces, Blood Glucose, Triglycerides, RNA, Ribosomal, 16S, Mice, Obese_
-To establish and evaluate an intestinal microbiota dysbiosis-induced obesity mouse model. 50 C57BL/6 J male healthy mice were randomly divided into an obesity model group and the control group. The body weight, body length, and Lee's index of the two groups of mice at week 1 and week 10 were compared. Serum glucose (GLU), total cholesterol (TC) and triglyceride (TG) were measured by enzyme-labeled colorimetric methods. Illumina HiSeq 16S rDNA high-throughput sequencing technology was used to characterize intestinal microbiota in feces. The success rate of model establishment in obese mice was 52%. The body weight, body length, Lee's index, and abdominal fat (wet weight) in the obese model group were all higher than those in the control group, and the differences were statistically significant (P &lt; 0.01). Serum GLU and TC levels in the obesity model group were higher than those in the control group (P &lt; 0.05), and there was no difference in TG levels between the two groups (P &gt; 0.05). The control group contained more abundant intestinal microbiota phyla and genera than did the obesity model group; the differences between the two groups were significant (FDR ≤ 0.05, P ≤ 0.05). Intestinal microbiota dysbiosis can be used to generate an obesity model in mice.
-
-[Source](https://www.nature.com/articles/s41598-024-63964-2)
-
-10.1038/s41598-024-63964-2
+10.1097/JS9.0000000000001762
 
 ---
 
-## Bacteroides uniformis CECT 7771 requires adaptive immunity to improve glucose tolerance but not to prevent body weight gain in diet-induced obese mice 
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01810-3)
-
----
-
-## Oral microbiome sequencing revealed the enrichment of Fusobacterium sp., Porphyromonas sp., Campylobacter sp., and Neisseria sp. on the oral malignant fibroma surface of giant panda.
- 13.06.2024, _X Wang, M Jing, Q Ma, Y Lin, T Zheng, J Yan, L Yun, C Wang, Y Li_
+## Therapeutic microbiome modulation: new frontiers in HIV treatment.
+ 14.06.2024, _R Bulnes, NS Utay_
 
 
-_Ursidae, Animals, Microbiota, RNA, Ribosomal, 16S, Porphyromonas, Campylobacter, Mouth, Fusobacterium, Fibroma, Neisseria, Mouth Neoplasms, Phylogeny, Sequence Analysis, DNA_
-Microbial community composition is closely associated with host disease onset and progression, underscoring the importance of understanding host-microbiota dynamics in various health contexts.
+Dysbiosis may be a key driver of systemic inflammation, which increases the risk of non-AIDS events in people living with HIV (PLWH). Modulation of the microbiome to reverse this dysbiosis may be a novel approach to decrease inflammation and therefore morbidity and mortality in PLWH.
 
-[Source](https://www.frontiersin.org/articles/10.3389/fcimb.2024.1356907/full)
+[Source](https://doi.org/10.1097/COH.0000000000000864)
 
-10.3389/fcimb.2024.1356907
+10.1097/COH.0000000000000864
 
 ---
 
-## Effect of microplastics pollution on the gut microbiome of anecic and endogeic earthworms.
- 07.06.2024, _C Papazlatani, P Garbeva, E Huerta-Lwanga_
+## Untargeted metabolomics reveal signatures of a healthy lifestyle.
+ 15.06.2024, _W Pathmasiri, BR Rushing, S McRitchie, M Choudhari, X Du, A Smirnov, M Pelleigrini, MJ Thompson, CA Sakaguchi, DC Nieman, SJ Sumner_
 
 
-Microplastic (MP) pollution constitutes an emerging type of pollution threatening both aquatic and terrestrial ecosystems. The impact on aquatic ecosystems has been extensively studied, but the effect on terrestrial ecosystems and their inhabitants is mostly underexplored. In this study we explored the effect of microplastic pollution on gut bacterial microbiome of endogeic (Aporrectodea caliginosa) and anecic (Lumbricus terrestris) earthworms. The experiments were performed in sandy soil with 0.2% of low-density polyethylene microplastics (LDPE MPs). We observed that the endogeic earthworms had 100% survival while anecic earthworms survived 25 days in the control (i.e. absence of MPs) and 21 days in the treatment with LDPE MPs. The main driver of shifts in the diversity and composition of the bacterial communities in the gut of tested earthworms was the life style of the worms, followed by the presence of MPs. The bacterial microbiome diversity was significantly different among the 2 types of earthworms and the highest bacterial diversity was found in the gut of the endogeic earthworms. The effect of microplastics on gut bacterial microbiome was clearly observed in the changes in the relative abundance of several phyla and families of the bacterial communities in both types of earthworms, although it was most evident in the anecic earthworms. The Actinobacteriota, Proteobacteria and Firmicutes were the main groups enhanced in the microplastic treatments, suggesting enrichment of the bacterial communities with potential plastic degraders.
+_Humans, Male, Female, Metabolomics, Middle Aged, Adult, Cross-Sectional Studies, Metabolome, Healthy Lifestyle, Body Composition, Chromatography, High Pressure Liquid, Bile Acids and Salts, Exercise, Life Style_
+This cross-sectional study investigated differences in the plasma metabolome in two groups of adults that were of similar age but varied markedly in body composition and dietary and physical activity patterns. Study participants included 52 adults in the lifestyle group (LIFE) (28 males, 24 females) and 52 in the control group (CON) (27 males, 25 females). The results using an extensive untargeted ultra high-performance liquid chromatography-high resolution mass spectrometry (UHPLC-HRMS) metabolomics analysis with 10,535 metabolite peaks identified 486 important metabolites (variable influence on projections scores of VIP ≥ 1) and 16 significantly enriched metabolic pathways that differentiated LIFE and CON groups. A novel metabolite signature of positive lifestyle habits emerged from this analysis highlighted by lower plasma levels of numerous bile acids, an amino acid profile characterized by higher histidine and lower glutamic acid, glutamine, β-alanine, phenylalanine, tyrosine, and proline, an elevated vitamin D status, higher levels of beneficial fatty acids and gut microbiome catabolism metabolites from plant substrates, and reduced levels of N-glycan degradation metabolites and environmental contaminants. This study established that the plasma metabolome is strongly associated with body composition and lifestyle habits. The robust lifestyle metabolite signature identified in this study is consistent with an improved life expectancy and a reduced risk for chronic disease.
 
-[Source](https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnae040/7689755)
+[Source](https://doi.org/10.1038/s41598-024-64561-z)
 
-10.1093/femsle/fnae040
-
----
-
-## Evolutionary history of tyrosine-supplementing endosymbionts in pollen-feeding beetles.
- 11.06.2024, _JC Wierz, ML Gimmel, S Huthmacher, T Engl, M Kaltenpoth_
-
-
-Many insects feeding on nutritionally challenging diets like plant sap, leaves, or wood engage in ancient associations with bacterial symbionts that supplement limiting nutrients or produce digestive or detoxifying enzymes. However, the distribution, function, and evolutionary dynamics of microbial symbionts in insects exploiting other plant tissues or relying on a predacious diet remain poorly understood. Here, we investigated the evolutionary history and function of the intracellular gamma-proteobacterial symbiont "Candidatus Dasytiphilus stammeri" in soft-winged flower beetles (Melyridae, Dasytinae) that transition from saprophagy or carnivory to palinivory (pollen-feeding) between larval and adult stage. Reconstructing the distribution of the symbiont within the Dasytinae phylogeny unraveled a long-term coevolution, originating from a single acquisition event with subsequent host-symbiont codiversification, but also several independent symbiont losses. The analysis of 20 different symbiont genomes revealed that their genomes are severely eroded. However, the universally retained shikimate pathway indicates that the core metabolic contribution to their hosts is the provisioning of tyrosine for cuticle sclerotization and melanization. Despite the high degree of similarity in gene content and order across symbiont strains, the capacity to synthesize additional essential amino acids and vitamins and to recycle urea is retained in some but not all symbionts, suggesting ecological differences among host lineages. This report of tyrosine-provisioning symbionts in insects with saprophagous or carnivorous larvae and pollen-feeding adults expands our understanding of tyrosine supplementation as an important symbiont-provided benefit across a broad range of insects with diverse feeding ecologies.
-
-[Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae080/7691185)
-
-10.1093/ismejo/wrae080
+10.1038/s41598-024-64561-z
 
 ---
 
-## Compendium of 5810 genomes of sheep and goat gut microbiomes provides new insights into the glycan and mucin utilization.
- 08.06.2024, _K Zhang, C He, L Wang, L Suo, M Guo, J Guo, T Zhang, Y Xu, Y Lei, G Liu, Q Qian, Y Mao, P Kalds, Y Wu, A Cuoji, Y Yang, D Brugger, S Gan, M Wang, X Wang, F Zhao, Y Chen_
+## In-depth microbiological characterization of urine from subjects with type 2 diabetes.
+ 13.06.2024, _M Calvigioni, E Biancalana, D Mazzantini, F Celandroni, C Rossi, A Mengozzi, E Ghelardi, A Solini_
 
 
-_Animals, Goats, Sheep, Gastrointestinal Microbiome, Mucins, Polysaccharides, Bacteria, Feces, Metagenome, Genome, Bacterial, Metagenomics, Phylogeny, High-Throughput Nucleotide Sequencing_
-Ruminant gut microbiota are critical in ecological adaptation, evolution, and nutrition utilization because it regulates energy metabolism, promotes nutrient absorption, and improves immune function. To study the functional roles of key gut microbiota in sheep and goats, it is essential to construct reference microbial gene catalogs and high-quality microbial genomes database.
+Lower urinary tract symptoms (LUTS) are common in type 2 diabetes (T2D), affecting quality of life and potentially leading to medication discontinuation. Among various factors contributing to LUTS, recent observations suggest a critical role of the urinary microbiota. Research on urinary dysbiosis in T2D remains underexplored.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01806-z)
+[Source](https://doi.org/10.1210/clinem/dgae389)
 
-10.1186/s40168-024-01806-z
-
----
-
-## Fungal biomass and ectomycorrhizal community assessment of phosphorus responsive Pinus taeda plantations.
- 13.06.2024, _J Hackman, A Woodley, D Carter, B Strahm, C Averill, R Vilgalys, K Garcia, R Cook_
-
-
-Ectomycorrhizal fungi and non-ectomycorrhizal fungi are responsive to changes in environmental and nutrient availabilities. Although many species of ectomycorrhizas are known to enhance the uptake of phosphorus and other nutrients for Pinus taeda, it is not understood how to optimize these communities to have tangible effects on plantation silviculture and P use efficiency. The first step of this process is the identification of native fungi present in the system that are associated with P. taeda and influence P uptake efficiency. We used sand-filled mesh bags baited with finely ground apatite to sample ectomycorrhizal and non-ectomycorrhizal fungi associated with the rhizosphere of P-responsive P. taeda under several field conditions. Mesh bags were assessed for biomass accumulation over three years using a single three-month burial period pre-harvest and three six-month burial periods post-planting. Amplicon sequencing assessed ectomycorrhizal and non-ectomycorrhizal communities between phosphorus treatments, sites, mesh bags, and the rhizosphere of actively growing P. taeda in the field. We found biomass accumulation within the mesh bags was inversely related to increasing phosphorus fertilization (carryover) rates from pre-harvest to post-planting. Up to 25% increases in total biomass within the bags were observed for bags baited with P. Taxonomic richness was highest in Alfisol soils treated with phosphorus from the previous rotation and lowest in the Spodosol regardless of phosphorus treatment.
-
-[Source](https://www.frontiersin.org/articles/10.3389/ffunb.2024.1401427/full)
-
-10.3389/ffunb.2024.1401427
+10.1210/clinem/dgae389
 
 ---
 
-## Soil conditioner improves soil properties, regulates microbial communities, and increases yield and quality of Uncaria rhynchophylla.
- 14.06.2024, _Q Liu, H Cui, W Yang, F Wang, H Liao, Q Zhu, S Qin, P Lu_
+## Study on intestinal parasitic infections and gut microbiota in cancer patients at a tertiary teaching hospital in Malaysia
 
-
-_Soil Microbiology, Soil, Uncaria, Biomass, Microbiota, Alkaloids, Charcoal, Bacteria, China, Nitrogen_
-Uncaria rhynchophylla is an important traditional herbal medicine in China, and the yield and quality of Uncaria rhynchophylla can be improved by suitable soil conditioners because of changing the soil properties. In this paper, Uncaria rhynchophylla associated alkaloids and soil microbial communities were investigated. The field experiment was set up with the following control group: (M1, no soil conditioner) and different soil conditioner treatment groups (M2, biomass ash; M3, water retention agent; M4, biochar; M5, lime powder and M6, malic acid). The results showed that M2 significantly increased the fresh and dry weight and the contents of isorhynchophylline, corynoxeine, isocorynoxeine, and total alkaloids. Acidobacteria, Proteobacteria, Actinobacteria, and Chloroflexi were major bacterial phyla. Correlation analysis showed that fresh and dry weight was significantly positively correlated with Acidobacteria, while alkali-hydrolyzable nitrogen, phosphatase activity, fresh and dry weight, corynoxeine, and isocorynoxeine were significantly negatively correlated with Chloroflexi. The application of soil conditioner M2 increased the abundance of Acidobacteria and decreased the abundance of Chloroflexi, which contributed to improving the soil nutrient content, yield, and quality of Uncaria rhynchophylla. In summary, biomass ash may be a better choice of soil conditioner in Uncaria rhynchophylla growing areas.
-
-[Source](https://www.nature.com/articles/s41598-024-64362-4)
-
-10.1038/s41598-024-64362-4
+[Source](https://doi.org/10.1038/s41598-024-59969-6)
 
 ---
 
-## Genetic control of rhizosphere microbiome of the cotton plants under field conditions.
- 14.06.2024, _F Wei, Z Feng, C Yang, L Zhao, Y Zhang, J Zhou, H Feng, H Zhu, X Xu_
+## The vaginal microbial signatures of preterm birth woman.
+ 14.06.2024, _H Li, M Han, J Xu, N Li, H Cui_
 
 
-_Gossypium, Rhizosphere, Microbiota, Soil Microbiology, Fungi, Bacteria, Plant Diseases, Plant Roots, Genetic Variation, Verticillium, Genotype_
-Understanding the extent of heritability of a plant-associated microbiome (phytobiome) is critically important for exploitation of phytobiomes in agriculture. Two crosses were made between pairs of cotton cultivars (Z2 and J11, L1 and Z49) with differential resistance to Verticillium wilt. F2 plants were grown in a field, together with the four parents to study the heritability of cotton rhizosphere microbiome. Amplicon sequencing was used to profile bacterial and fungal communities in the rhizosphere. F2 offspring plants of both crosses had higher average alpha diversity indices than the two parents; parents differed significantly from F2 offspring in Bray-Curtis beta diversity indices as well. Two types of data were used to study the heritability of rhizosphere microbiome: principal components (PCs) and individual top microbial operational taxonomic units (OTUs). For the L1 × Z49 cross, the variance among the F2 progeny genotypes (namely, genetic variance, VT) was significantly greater than the random variability (VE) for 12 and 34 out of top 100 fungal and bacterial PCs, respectively. For the Z2 × J11 cross, the corresponding values were 10 and 20 PCs. For 29 fungal OTUs and 10 bacterial OTUs out of the most abundant 100 OTUs, genetic variance (VT) was significantly greater than VE for the L1 × Z49 cross; the corresponding values for the Z2 × J11 cross were 24 and one. The estimated heritability was mostly in the range of 40% to 60%. These results suggested the existence of genetic control of polygenic nature for specific components of rhizosphere microbiome in cotton. KEY POINTS: • F2 offspring cotton plants differed significantly from parents in rhizosphere microbial diversity. • Specific rhizosphere components are likely to be genetically controlled by plants. • Common PCs and specific microbial groups are significant genetic components between the two crosses.
+_Humans, Female, Vagina, Premature Birth, Pregnancy, Microbiota, Adult, RNA, Ribosomal, 16S, Whole Genome Sequencing, Infant, Newborn, Bacteria, Lactobacillus_
+To explore the differences of vaginal microbes in women with preterm birth (PTB), and to construct prediction model. We searched for articles related to vaginal microbiology in preterm women and obtained four 16S rRNA-sequence datasets. We analyzed that for species diversity and differences, and constructed a random forest model with 20 differential genera. We introduce an independent whole genome-sequencing (WGS) data for validation. In addition, we collected vaginal and cervical swabs from 33 pregnant women who delivered spontaneously full-term and preterm infants, performed WGS in our lab to further validate the model. Compared to term birth (TB) samples, PTB women vagina were characterized by a decrease in Firmicutes, Lactobacillus, and an increase in diversity accompanied by the colonization of pathogenic bacteria such as Gardnerella, Atopobium and Prevotella. Twenty genus markers, including Lactobacillus, Prevotella, Streptococcus, and Gardnerella performed well in predicting PTB, with study-to-study transfer validation and LODO validation, different gestation validation showing good results, and in two independent cohorts (external WGS cohorts and woman samples WGS cohorts) in which the accuracy was maintained. PTB women have unique vaginal microbiota characteristics. A predictive model of PTB was constructed and its value validated from multiple perspectives.
 
-[Source](https://link.springer.com/article/10.1007/s00253-024-13143-0)
+[Source](https://doi.org/10.1186/s12884-024-06573-1)
 
-10.1007/s00253-024-13143-0
-
----
-
-## Genomic insights into redox-driven microbial processes for carbon decomposition in thawing Arctic soils and permafrost.
- 11.06.2024, _Y Li, Y Xue, T Roy Chowdhury, DE Graham, SG Tringe, JK Jansson, N Taş_
-
-
-Climate change is rapidly transforming Arctic landscapes where increasing soil temperatures speed up permafrost thaw. This exposes large carbon stocks to microbial decomposition, possibly worsening climate change by releasing more greenhouse gases. Understanding how microbes break down soil carbon, especially under the anaerobic conditions of thawing permafrost, is important to determine future changes. Here, we studied the microbial community dynamics and soil carbon decomposition potential in permafrost and active layer soils under anaerobic laboratory conditions that simulated an Arctic summer thaw. The microbial and viral compositions in the samples were analyzed based on metagenomes, metagenome-assembled genomes, and metagenomic viral contigs (mVCs). Following the thawing of permafrost, there was a notable shift in microbial community structure, with fermentative Firmicutes and Bacteroidota taking over from Actinobacteria and Proteobacteria over the 60-day incubation period. The increase in iron and sulfate-reducing microbes had a significant role in limiting methane production from thawed permafrost, underscoring the competition within microbial communities. We explored the growth strategies of microbial communities and found that slow growth was the major strategy in both the active layer and permafrost. Our findings challenge the assumption that fast-growing microbes mainly respond to environmental changes like permafrost thaw. Instead, they indicate a common strategy of slow growth among microbial communities, likely due to the thermodynamic constraints of soil substrates and electron acceptors, and the need for microbes to adjust to post-thaw conditions. The mVCs harbored a wide range of auxiliary metabolic genes that may support cell protection from ice formation in virus-infected cells.
-
-[Source](https://journals.asm.org/doi/10.1128/msphere.00259-24)
-
-10.1128/msphere.00259-24
+10.1186/s12884-024-06573-1
 
 ---
 
-## Sewage Sludge Promotes the Accumulation of Antibiotic Resistance Genes in Tomato Xylem.
- 10.06.2024, _WJ Li, HZ Li, J Xu, MR Gillings, YG Zhu_
+## Gut microbiome and cardiometabolic comorbidities in people living with HIV.
+ 14.06.2024, _M Trøseid, SD Nielsen, I Vujkovic-Cvijin_
 
 
-Xylem serves as a conduit linking soil to the aboveground plant parts and facilitating the upward movement of microbes into leaves and fruits. Despite this potential, the composition of the xylem microbiome and its associated risks, including antibiotic resistance, are understudied. Here, we cultivated tomatoes and analyzed their xylem sap to assess the microbiome and antibiotic resistance profiles following treatment with sewage sludge. Our findings show that xylem microbes primarily originate from soil, albeit with reduced diversity in comparison to those of their soil microbiomes. Using single-cell Raman spectroscopy coupled with D2O labeling, we detected significantly higher metabolic activity in xylem microbes than in rhizosphere soil, with 87% of xylem microbes active compared to just 36% in the soil. Additionally, xylem was pinpointed as a reservoir for antibiotic resistance genes (ARGs), with their abundance being 2.4-6.9 times higher than in rhizosphere soil. Sludge addition dramatically increased the abundance of ARGs in xylem and also increased their mobility and host pathogenicity. Xylem represents a distinct ecological niche for microbes and is a significant reservoir for ARGs. These results could be used to manage the resistome in crops and improve food safety.
+_Humans, HIV Infections, Gastrointestinal Microbiome, Cardiovascular Diseases, Dysbiosis, Comorbidity, Fatty Acids, Volatile, Inflammation, Risk Factors_
+Despite modern antiretroviral therapy (ART), people living with HIV (PLWH) have increased relative risk of inflammatory-driven comorbidities, including cardiovascular disease (CVD). The gut microbiome could be one of several driving factors, along with traditional risk factors and HIV-related risk factors such as coinfections, ART toxicity, and past immunodeficiency.
 
-[Source](https://pubs.acs.org/doi/10.1021/acs.est.4c02497)
+[Source](https://doi.org/10.1186/s40168-024-01815-y)
 
-10.1021/acs.est.4c02497
-
----
-
-## Plastic and terrestrial organic matter degradation by the humic lake microbiome continues throughout the seasons.
- 12.06.2024, _JS Vesamäki, MB Laine, R Nissinen, SJ Taipale_
-
-
-_Seasons, Lakes, Microbiota, Biodegradation, Environmental, Plastics, Bacteria, Humic Substances, Typhaceae, Microplastics, Polyethylene, Carbon, Polystyrenes_
-Boreal freshwaters go through four seasons, however, studies about the decomposition of terrestrial and plastic compounds often focus only on summer. We compared microbial decomposition of 13C-polyethylene, 13C-polystyrene, and 13C-plant litter (Typha latifolia) by determining the biochemical fate of the substrate carbon and identified the microbial decomposer taxa in humic lake waters in four seasons. For the first time, the annual decomposition rate including separated seasonal variation was calculated for microplastics and plant litter in the freshwater system. Polyethylene decomposition was not detected, whereas polystyrene and plant litter were degraded in all seasons. In winter, decomposition rates of polystyrene and plant litter were fivefold and fourfold slower than in summer, respectively. Carbon from each substrate was mainly respired in all seasons. Plant litter was utilized efficiently by various microbial groups, whereas polystyrene decomposition was limited to Alpha- and Gammaproteobacteria. The decomposition was not restricted only to the growth season, highlighting that the decomposition of both labile organic matter and extremely recalcitrant microplastics continues throughout the seasons.
-
-[Source](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.13302)
-
-10.1111/1758-2229.13302
+10.1186/s40168-024-01815-y
 
 ---
 
-## Coral microbiomes are structured by environmental gradients in deep waters.
- 13.06.2024, _SA Vohsen, S Herrera_
+## Nontoxigenic <em>Bacteroides fragilis</em>: A double-edged sword
+
+[Source](https://doi.org/10.1016/j.micres.2024.127796)
+
+---
+
+## Vaginal microbiota and gynecological cancers: a complex and evolving relationship.
+ 14.06.2024, _K Javadi, E Ferdosi-Shahandashti, M Rajabnia, M Khaledi_
 
 
-Coral-associated microbiomes vary greatly between colonies and localities with functional consequences on the host. However, the full extent of variability across the ranges of most coral species remains unknown, especially for corals living in deep waters which span greater ranges. Here, we characterized the microbiomes of four octocoral species from mesophotic and bathyal deep-sea habitats in the northern Gulf of Mexico, Muricea pendula, Swiftia exserta, Callogorgia delta, and Paramuricea biscaya, using 16S rRNA gene metabarcoding. We sampled extensively across their ranges to test for microbiome differentiation between and within species, examining the influence of environmental factors that vary with depth (53-2224 m) and geographic location (over 680 m) as well as the host coral's genotype using RAD-sequencing.
+The vagina hosts a community of microorganisms known as the vaginal microbiota. This community is relatively stable and straightforward, with Lactobacillus species being the most dominant members. The vaginal microbiota has various functions that are essential for maintaining human health and balance. For example, it can metabolise dietary nutrients, produce growth factors, communicate with other bacteria, modulate the immune system, and prevent the invasion of harmful pathogens. When the vaginal microbiota is disrupted, it can lead to diseases and infections. The observed disturbance is distinguished by a reduction in the prevalence of Lactobacillus and a concurrent rise in the number of other bacterial species that exhibit a higher tolerance to low oxygen levels. Gynecologic cancers are a group of cancers that affect the female reproductive organs and tissues, such as the ovaries, uterus, cervix, vagina, vulva, and endometrium. These cancers are a major global health problem for women. Understanding the complex interactions between the host and the vaginal microorganisms may provide new insights into the prevention and treatment of gynecologic cancers. This could improve the quality of life and health outcomes for women.
 
-[Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-024-00579-0)
+[Source](https://doi.org/10.1186/s13027-024-00590-7)
 
-10.1186/s40793-024-00579-0
+10.1186/s13027-024-00590-7
+
+---
+
+## Microbial genomics: a potential toolkit for forensic investigations.
+ 15.06.2024, _P Tripathi, R Render, S Nidhi, V Tripathi_
+
+
+Microbial forensics is a new discipline of science that analyzes evidence related to biological crime through the uniqueness and abundance of microorganisms and their toxins. Microorganisms remain alive longer than any other trace of biological evidence, such as DNA, fingerprints, and fibers, because of the protective cell membrane or capsules. Microbiological research has opened up various possibilities for forensic investigations of microbial flora. Current molecular technologies, including DNA sequencing, whole-genome sequencing, metagenomics, DNA fingerprinting, and molecular phylogeny, provide valid results for forensic investigations. Recent advancements in genome sequencing technologies, genetic data generation, and bioinformatic tools have significantly improved microbial sampling methods and forensic analyses. In this review, we discuss the applications of microbial genomic tools and technologies in forensic investigations, including human identification, geolocation, and causes of death.
+
+[Source](https://doi.org/10.1007/s12024-024-00830-7)
+
+10.1007/s12024-024-00830-7
+
+---
+
+## Metformin-induced changes in the gut microbiome and plasma metabolome are associated with cognition in men.
+ 13.06.2024, _M Rosell-Díaz, A Petit-Gay, C Molas-Prat, L Gallardo-Nuell, L Ramió-Torrentà, J Garre-Olmo, V Pérez-Brocal, A Moya, M Jové, R Pamplona, J Puig, R Ramos, F Bäckhed, J Mayneris-Perxachs, JM Fernández-Real_
+
+
+An altered gut microbiome characterized by reduced abundance of butyrate producing bacteria and reduced gene richness is associated with type 2 diabetes (T2D). An important complication of T2D is increased risk of cognitive impairment and dementia. The biguanide metformin is a commonly prescribed medication for the control of T2D and metformin treatment has been associated with a significant reduction in the risk of dementia and improved cognition, particularly in people with T2D.
+
+[Source](https://www.metabolismjournal.com/article/S0026-0495(24)00168-9/abstract)
+
+10.1016/j.metabol.2024.155941
+
+---
+
+## Effects of <em>Bifidobacterium breve </em>207-1 on regulating lifestyle behaviors and mental wellness in healthy adults based on the microbiome-gut-brain axis: a randomized, double-blind, placebo-controlled trial
+
+[Source](https://doi.org/10.1007/s00394-024-03447-2)
+
+---
+
+## Bacteria of healthy periodontal tissues as candidates of probiotics: a systematic review.
+ 14.06.2024, _M Del Pilar Angarita-Díaz, C Fong, D Medina_
+
+
+_Humans, Probiotics, Periodontium, Periodontitis, Bacteria, Microbiota_
+The use of probiotics could promote the balance of the subgingival microbiota to contribute to periodontal health. This study aimed to identify the potential of bacteria commonly associated with healthy periodontal tissues as probiotic candidates.
+
+[Source](https://doi.org/10.1186/s40001-024-01908-2)
+
+10.1186/s40001-024-01908-2
+
+---
+
+## Investigating the influence of perinatal fluoxetine exposure on murine gut microbial communities during pregnancy and lactation.
+ 14.06.2024, _K Desorcy-Scherer, I Zuniga-Chaves, MA Reisner, G Suen, LL Hernandez_
+
+
+_Animals, Gastrointestinal Microbiome, Female, Pregnancy, Lactation, Fluoxetine, Mice, RNA, Ribosomal, 16S, Prenatal Exposure Delayed Effects, Selective Serotonin Reuptake Inhibitors, Feces, Maternal Exposure, Bacteria_
+Selective Serotonin Reuptake Inhibitor (SSRI) therapy is common among perinatal populations for the treatment of mood disorders. Medications can affect diversity and composition of the gut microbiome, which plays a key role in modulating health. While previous studies have examined the effects of antidepressant exposure on the maternal gut microbiome, whether SSRI exposure affects the offspring gut microbiome is unknown. We investigated the effects of maternal fluoxetine exposure on the gut microbiome of maternal and offspring mice during pregnancy and lactation (embryonic day 10-lactation day 21; E10-L21). Stool samples collected on E17, L11, L15, and L21 were examined using 16S rRNA sequencing. Our results suggest that maternal fluoxetine exposure may result in decreased alpha diversity of the offspring gut microbiome in early life. Furthermore, we observed several genera-specific differences in the gut microbiome based on treatment, specifically of Turicibacter, Parasutterella, and Romboutsia. These findings support our understanding of gut health, as dysbiotic development of the gut microbiome has been associated with local and systemic health problems including gastrointestinal morbidities and interrupted growth patterns in infants. Future research should pursue study in human populations and those at high risk for gut microbial dysbiosis and intestinal injury.
+
+[Source](https://doi.org/10.1038/s41598-024-62224-7)
+
+10.1038/s41598-024-62224-7
+
+---
+
+## Microbiota dictate T&nbsp;cell clonal selection to augment graft-versus-host disease after stem cell transplantation
+
+[Source](https://www.cell.com/immunity/abstract/S1074-7613(24)00273-5)
+
+---
+
+## Do fish gut microbiotas vary across spatial scales? A case study of Diplodus vulgaris in the Mediterranean Sea
+
+[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00319-2)
+
+---
+
+## Plant growth promotion and biocontrol properties of a synthetic community in the control of apple disease
+
+[Source](https://doi.org/10.1186/s12870-024-05253-8)
+
+---
+
+## Microbial Consortia: Promising Tool as Plant Bioinoculants for Agricultural Sustainability
+
+[Source](https://link.springer.com/article/10.1007/s00284-024-03755-0)
+
+---
+
+## Anthropogenic pollution may enhance natural transformation in water, favouring the spread of antibiotic resistance genes
+
+[Source](https://doi.org/10.1016/j.jhazmat.2024.134885)
+
+---
+
+## mbtransfer: Microbiome intervention analysis using transfer functions and mirror statistics
+
+[Source](https://doi.org/10.1371/journal.pcbi.1012196)
+
+---
+
+## Direct-to-consumer microbiome testing needs regulation
+
+[Source](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(24)00163-8/fulltext)
 
 ---
 
