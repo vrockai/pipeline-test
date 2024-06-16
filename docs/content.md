@@ -11,7 +11,7 @@ The imbalance of commensal bacteria is called dysbiosis in intestinal microflora
 ---
 
 ## Distinct characteristics of the gut virome in patients with osteoarthritis and gouty arthritis.
- 13.06.2024, _CM Chen, QL Yan, RC Guo, F Tang, MH Wang, HZ Yi, CX Huang, C Liu, QY Wang, WY Lan, Z Jiang, YZ Yang, GY Wang, AQ Zhang, J Ma, Y Zhang, W You, H Ullah, Y Zhang, SH Li, XM Yao, W Sun, WK Ma_
+ 16.06.2024, _CM Chen, QL Yan, RC Guo, F Tang, MH Wang, HZ Yi, CX Huang, C Liu, QY Wang, WY Lan, Z Jiang, YZ Yang, GY Wang, AQ Zhang, J Ma, Y Zhang, W You, H Ullah, Y Zhang, SH Li, XM Yao, W Sun, WK Ma_
 
 
 _Humans, Virome, Arthritis, Gouty, Gastrointestinal Microbiome, Male, Osteoarthritis, Female, Middle Aged, Case-Control Studies, Aged, Metagenomics, Feces_
@@ -48,7 +48,7 @@ Dysbiosis may be a key driver of systemic inflammation, which increases the risk
 ---
 
 ## Untargeted metabolomics reveal signatures of a healthy lifestyle.
- 15.06.2024, _W Pathmasiri, BR Rushing, S McRitchie, M Choudhari, X Du, A Smirnov, M Pelleigrini, MJ Thompson, CA Sakaguchi, DC Nieman, SJ Sumner_
+ 16.06.2024, _W Pathmasiri, BR Rushing, S McRitchie, M Choudhari, X Du, A Smirnov, M Pelleigrini, MJ Thompson, CA Sakaguchi, DC Nieman, SJ Sumner_
 
 
 _Humans, Male, Female, Metabolomics, Middle Aged, Adult, Cross-Sectional Studies, Metabolome, Healthy Lifestyle, Body Composition, Chromatography, High Pressure Liquid, Bile Acids and Salts, Exercise, Life Style_
