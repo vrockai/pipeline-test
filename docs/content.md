@@ -118,7 +118,7 @@ Many insects feeding on nutritionally challenging diets like plant sap, leaves, 
 ---
 
 ## Compendium of 5810 genomes of sheep and goat gut microbiomes provides new insights into the glycan and mucin utilization.
- 06.06.2024, _K Zhang, C He, L Wang, L Suo, M Guo, J Guo, T Zhang, Y Xu, Y Lei, G Liu, Q Qian, Y Mao, P Kalds, Y Wu, A Cuoji, Y Yang, D Brugger, S Gan, M Wang, X Wang, F Zhao, Y Chen_
+ 08.06.2024, _K Zhang, C He, L Wang, L Suo, M Guo, J Guo, T Zhang, Y Xu, Y Lei, G Liu, Q Qian, Y Mao, P Kalds, Y Wu, A Cuoji, Y Yang, D Brugger, S Gan, M Wang, X Wang, F Zhao, Y Chen_
 
 
 _Animals, Goats, Sheep, Gastrointestinal Microbiome, Mucins, Polysaccharides, Bacteria, Feces, Metagenome, Genome, Bacterial, Metagenomics, Phylogeny, High-Throughput Nucleotide Sequencing_
