@@ -79,7 +79,7 @@ Lower urinary tract symptoms (LUTS) are common in type 2 diabetes (T2D), affecti
 ---
 
 ## The vaginal microbial signatures of preterm birth woman.
- 14.06.2024, _H Li, M Han, J Xu, N Li, H Cui_
+ 17.06.2024, _H Li, M Han, J Xu, N Li, H Cui_
 
 
 _Humans, Female, Vagina, Premature Birth, Pregnancy, Microbiota, Adult, RNA, Ribosomal, 16S, Whole Genome Sequencing, Infant, Newborn, Bacteria, Lactobacillus_
@@ -92,7 +92,7 @@ To explore the differences of vaginal microbes in women with preterm birth (PTB)
 ---
 
 ## Gut microbiome and cardiometabolic comorbidities in people living with HIV.
- 14.06.2024, _M Trøseid, SD Nielsen, I Vujkovic-Cvijin_
+ 17.06.2024, _M Trøseid, SD Nielsen, I Vujkovic-Cvijin_
 
 
 _Humans, HIV Infections, Gastrointestinal Microbiome, Cardiovascular Diseases, Dysbiosis, Comorbidity, Fatty Acids, Volatile, Inflammation, Risk Factors_
@@ -111,7 +111,7 @@ Despite modern antiretroviral therapy (ART), people living with HIV (PLWH) have 
 ---
 
 ## Vaginal microbiota and gynecological cancers: a complex and evolving relationship.
- 14.06.2024, _K Javadi, E Ferdosi-Shahandashti, M Rajabnia, M Khaledi_
+ 17.06.2024, _K Javadi, E Ferdosi-Shahandashti, M Rajabnia, M Khaledi_
 
 
 The vagina hosts a community of microorganisms known as the vaginal microbiota. This community is relatively stable and straightforward, with Lactobacillus species being the most dominant members. The vaginal microbiota has various functions that are essential for maintaining human health and balance. For example, it can metabolise dietary nutrients, produce growth factors, communicate with other bacteria, modulate the immune system, and prevent the invasion of harmful pathogens. When the vaginal microbiota is disrupted, it can lead to diseases and infections. The observed disturbance is distinguished by a reduction in the prevalence of Lactobacillus and a concurrent rise in the number of other bacterial species that exhibit a higher tolerance to low oxygen levels. Gynecologic cancers are a group of cancers that affect the female reproductive organs and tissues, such as the ovaries, uterus, cervix, vagina, vulva, and endometrium. These cancers are a major global health problem for women. Understanding the complex interactions between the host and the vaginal microorganisms may provide new insights into the prevention and treatment of gynecologic cancers. This could improve the quality of life and health outcomes for women.
@@ -153,7 +153,7 @@ An altered gut microbiome characterized by reduced abundance of butyrate produci
 ---
 
 ## Bacteria of healthy periodontal tissues as candidates of probiotics: a systematic review.
- 14.06.2024, _M Del Pilar Angarita-Díaz, C Fong, D Medina_
+ 17.06.2024, _M Del Pilar Angarita-Díaz, C Fong, D Medina_
 
 
 _Humans, Probiotics, Periodontium, Periodontitis, Bacteria, Microbiota_
@@ -166,7 +166,7 @@ The use of probiotics could promote the balance of the subgingival microbiota to
 ---
 
 ## Investigating the influence of perinatal fluoxetine exposure on murine gut microbial communities during pregnancy and lactation.
- 14.06.2024, _K Desorcy-Scherer, I Zuniga-Chaves, MA Reisner, G Suen, LL Hernandez_
+ 17.06.2024, _K Desorcy-Scherer, I Zuniga-Chaves, MA Reisner, G Suen, LL Hernandez_
 
 
 _Animals, Gastrointestinal Microbiome, Female, Pregnancy, Lactation, Fluoxetine, Mice, RNA, Ribosomal, 16S, Prenatal Exposure Delayed Effects, Selective Serotonin Reuptake Inhibitors, Feces, Maternal Exposure, Bacteria_
