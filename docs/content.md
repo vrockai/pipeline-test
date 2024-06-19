@@ -11,7 +11,7 @@ The imbalance of commensal bacteria is called dysbiosis in intestinal microflora
 ---
 
 ## Distinct characteristics of the gut virome in patients with osteoarthritis and gouty arthritis.
- 16.06.2024, _CM Chen, QL Yan, RC Guo, F Tang, MH Wang, HZ Yi, CX Huang, C Liu, QY Wang, WY Lan, Z Jiang, YZ Yang, GY Wang, AQ Zhang, J Ma, Y Zhang, W You, H Ullah, Y Zhang, SH Li, XM Yao, W Sun, WK Ma_
+ 18.06.2024, _CM Chen, QL Yan, RC Guo, F Tang, MH Wang, HZ Yi, CX Huang, C Liu, QY Wang, WY Lan, Z Jiang, YZ Yang, GY Wang, AQ Zhang, J Ma, Y Zhang, W You, H Ullah, Y Zhang, SH Li, XM Yao, W Sun, WK Ma_
 
 
 _Humans, Virome, Arthritis, Gouty, Gastrointestinal Microbiome, Male, Osteoarthritis, Female, Middle Aged, Case-Control Studies, Aged, Metagenomics, Feces_
@@ -79,7 +79,7 @@ Lower urinary tract symptoms (LUTS) are common in type 2 diabetes (T2D), affecti
 ---
 
 ## The vaginal microbial signatures of preterm birth woman.
- 17.06.2024, _H Li, M Han, J Xu, N Li, H Cui_
+ 18.06.2024, _H Li, M Han, J Xu, N Li, H Cui_
 
 
 _Humans, Female, Vagina, Premature Birth, Pregnancy, Microbiota, Adult, RNA, Ribosomal, 16S, Whole Genome Sequencing, Infant, Newborn, Bacteria, Lactobacillus_
@@ -92,7 +92,7 @@ To explore the differences of vaginal microbes in women with preterm birth (PTB)
 ---
 
 ## Gut microbiome and cardiometabolic comorbidities in people living with HIV.
- 17.06.2024, _M Trøseid, SD Nielsen, I Vujkovic-Cvijin_
+ 18.06.2024, _M Trøseid, SD Nielsen, I Vujkovic-Cvijin_
 
 
 _Humans, HIV Infections, Gastrointestinal Microbiome, Cardiovascular Diseases, Dysbiosis, Comorbidity, Fatty Acids, Volatile, Inflammation, Risk Factors_
@@ -111,7 +111,7 @@ Despite modern antiretroviral therapy (ART), people living with HIV (PLWH) have 
 ---
 
 ## Vaginal microbiota and gynecological cancers: a complex and evolving relationship.
- 17.06.2024, _K Javadi, E Ferdosi-Shahandashti, M Rajabnia, M Khaledi_
+ 18.06.2024, _K Javadi, E Ferdosi-Shahandashti, M Rajabnia, M Khaledi_
 
 
 The vagina hosts a community of microorganisms known as the vaginal microbiota. This community is relatively stable and straightforward, with Lactobacillus species being the most dominant members. The vaginal microbiota has various functions that are essential for maintaining human health and balance. For example, it can metabolise dietary nutrients, produce growth factors, communicate with other bacteria, modulate the immune system, and prevent the invasion of harmful pathogens. When the vaginal microbiota is disrupted, it can lead to diseases and infections. The observed disturbance is distinguished by a reduction in the prevalence of Lactobacillus and a concurrent rise in the number of other bacterial species that exhibit a higher tolerance to low oxygen levels. Gynecologic cancers are a group of cancers that affect the female reproductive organs and tissues, such as the ovaries, uterus, cervix, vagina, vulva, and endometrium. These cancers are a major global health problem for women. Understanding the complex interactions between the host and the vaginal microorganisms may provide new insights into the prevention and treatment of gynecologic cancers. This could improve the quality of life and health outcomes for women.
@@ -153,7 +153,7 @@ An altered gut microbiome characterized by reduced abundance of butyrate produci
 ---
 
 ## Bacteria of healthy periodontal tissues as candidates of probiotics: a systematic review.
- 17.06.2024, _M Del Pilar Angarita-Díaz, C Fong, D Medina_
+ 18.06.2024, _M Del Pilar Angarita-Díaz, C Fong, D Medina_
 
 
 _Humans, Probiotics, Periodontium, Periodontitis, Bacteria, Microbiota_
@@ -166,7 +166,7 @@ The use of probiotics could promote the balance of the subgingival microbiota to
 ---
 
 ## Investigating the influence of perinatal fluoxetine exposure on murine gut microbial communities during pregnancy and lactation.
- 17.06.2024, _K Desorcy-Scherer, I Zuniga-Chaves, MA Reisner, G Suen, LL Hernandez_
+ 18.06.2024, _K Desorcy-Scherer, I Zuniga-Chaves, MA Reisner, G Suen, LL Hernandez_
 
 
 _Animals, Gastrointestinal Microbiome, Female, Pregnancy, Lactation, Fluoxetine, Mice, RNA, Ribosomal, 16S, Prenatal Exposure Delayed Effects, Selective Serotonin Reuptake Inhibitors, Feces, Maternal Exposure, Bacteria_
@@ -190,27 +190,53 @@ Selective Serotonin Reuptake Inhibitor (SSRI) therapy is common among perinatal 
 
 ---
 
-## Plant growth promotion and biocontrol properties of a synthetic community in the control of apple disease
+## Plant growth promotion and biocontrol properties of a synthetic community in the control of apple disease.
+ 16.06.2024, _R Qiao, M Xu, J Jiang, Z Song, M Wang, L Yang, H Guo, Z Mao_
+
+
+_Malus, Plant Diseases, Rhizosphere, Soil Microbiology, Microbiota, Rhizoctonia, Biological Control Agents, Bacillus, Antibiosis_
+Apple Replant Disease (ARD) is common in major apple-growing regions worldwide, but the role of rhizosphere microbiota in conferring ARD resistance and promoting plant growth remains unclear.
 
 [Source](https://doi.org/10.1186/s12870-024-05253-8)
 
+10.1186/s12870-024-05253-8
+
 ---
 
-## Microbial Consortia: Promising Tool as Plant Bioinoculants for Agricultural Sustainability
+## Microbial Consortia: Promising Tool as Plant Bioinoculants for Agricultural Sustainability.
+ 18.06.2024, _R Negi, B Sharma, T Jan, T Kaur, S Chowdhury, M Kapoor, S Singh, A Kumar, AK Rai, S Rustagi, S Shreaz, D Kour, N Ahmed, K Kumar, AN Yadav_
+
+
+_Microbial Consortia, Agriculture, Crops, Agricultural, Plant Development, Soil Microbiology, Plant Roots, Bacteria, Rhizosphere, Plants, Microbiota_
+In the present scenario, growing population demands more food, resulting in the need for sustainable agriculture. Numerous approaches are explored in response to dangers and obstacles to sustainable agriculture. A viable approach is to be exploiting microbial consortium, which generate diverse biostimulants with growth-promoting characteristics for plants. These bioinoculants play an indispensable role in optimizing nutrient uptake efficiency mitigating environmental stress. Plant productivity is mostly determined by the microbial associations that exist at the rhizospheric region of plants. The engineered consortium with multifunctional attributes can be effectively employed to improve crop growth efficacy. A number of approaches have been employed to identify the efficient consortia for plant growth and enhanced crop productivity. Various plant growth-promoting (PGP) microbes with host growth-supporting characteristics were investigated to see if they might work cohesively and provide a cumulative effect for improved growth and crop yield. The effective microbial consortia should be assessed using compatibility tests, pot experimentation techniques, generation time, a novel and quick plant bioassay, and sensitivity to external stimuli (temperature, pH). The mixture of two or more microbial strains found in the root microbiome stimulates plant growth and development. The present review deals with mechanism, formulation, inoculation process, commercialization, and applications of microbial consortia as plant bioinoculants for agricultural sustainability.
 
 [Source](https://link.springer.com/article/10.1007/s00284-024-03755-0)
 
+10.1007/s00284-024-03755-0
+
 ---
 
-## Anthropogenic pollution may enhance natural transformation in water, favouring the spread of antibiotic resistance genes
+## Anthropogenic pollution may enhance natural transformation in water, favouring the spread of antibiotic resistance genes.
+ 14.06.2024, _P Sivalingam, R Sabatino, T Sbaffi, G Corno, D Fontaneto, G Borgomaneiro, M Rogora, E Crotti, F Mapelli, S Borin, AL Pilar, EM Eckert, A Di Cesare_
+
+
+Aquatic ecosystems are crucial in the antimicrobial resistance cycle. While intracellular DNA has been extensively studied to understand human activity's impact on antimicrobial resistance gene (ARG) dissemination, extracellular DNA is frequently overlooked. This study examines the effect of anthropogenic water pollution on microbial community diversity, the resistome, and ARG dissemination. We analyzed intracellular and extracellular DNA from wastewater treatment plant effluents and lake surface water by shotgun sequencing. We also conducted experiments to evaluate anthropogenic pollution's effect on transforming extracellular DNA (using Gfp-plasmids carrying ARGs) within a natural microbial community. Chemical analysis showed treated wastewater had higher anthropogenic pollution-related parameters than lake water. The richness of microbial community, antimicrobial resistome, and high-risk ARGs was greater in treated wastewaters than in lake waters both for intracellular and extracellular DNA. Except for the high-risk ARGs, richness was significantly higher in intracellular than in extracellular DNA. Several ARGs were associated with mobile genetic elements and located on plasmids. Furthermore, Gfp-plasmid transformation within a natural microbial community was enhanced by anthropogenic pollution levels. Our findings underscore anthropogenic pollution's pivotal role in shaping microbial communities and their antimicrobial resistome. Additionally, it may facilitate ARG dissemination through extracellular DNA plasmid uptake.
 
 [Source](https://doi.org/10.1016/j.jhazmat.2024.134885)
 
+10.1016/j.jhazmat.2024.134885
+
 ---
 
-## mbtransfer: Microbiome intervention analysis using transfer functions and mirror statistics
+## mbtransfer: Microbiome intervention analysis using transfer functions and mirror statistics.
+ 14.06.2024, _K Sankaran, P Jeganathan_
+
+
+Time series studies of microbiome interventions provide valuable data about microbial ecosystem structure. Unfortunately, existing models of microbial community dynamics have limited temporal memory and expressivity, relying on Markov or linearity assumptions. To address this, we introduce a new class of models based on transfer functions. These models learn impulse responses, capturing the potentially delayed effects of environmental changes on the microbial community. This allows us to simulate trajectories under hypothetical interventions and select significantly perturbed taxa with False Discovery Rate guarantees. Through simulations, we show that our approach effectively reduces forecasting errors compared to strong baselines and accurately pinpoints taxa of interest. Our case studies highlight the interpretability of the resulting differential response trajectories. An R package, mbtransfer, and notebooks to replicate the simulation and case studies are provided.
 
 [Source](https://doi.org/10.1371/journal.pcbi.1012196)
+
+10.1371/journal.pcbi.1012196
 
 ---
 
