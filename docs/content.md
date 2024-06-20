@@ -11,7 +11,7 @@ The pilot clinical study presented demonstrates the possibility, safety, and eff
 ---
 
 ## Oral microbial dysbiosis in patients with oral cavity cancers.
- 19.06.2024, _O Unlu, M Demirci, T Paksoy, AB Eden, HD Tansuker, A Dalmizrak, C Aktan, F Senel, AV Sunter, O Yigit, BO Cakir, A Kantarci_
+ 20.06.2024, _O Unlu, M Demirci, T Paksoy, AB Eden, HD Tansuker, A Dalmizrak, C Aktan, F Senel, AV Sunter, O Yigit, BO Cakir, A Kantarci_
 
 
 _Humans, Female, Male, Middle Aged, Dysbiosis, Mouth Neoplasms, Saliva, Case-Control Studies, Surveys and Questionnaires, Aged, Microbiota, Adult, RNA, Ribosomal, 16S, Oral Health_
@@ -110,7 +110,7 @@ The rhizosphere, which serves as the primary interface between plant roots and t
 ---
 
 ## Organic fertilization co-selects genetically linked antibiotic and metal(loid) resistance genes in global soil microbiome.
- 19.06.2024, _ZT Liu, RA Ma, D Zhu, KT Konstantinidis, YG Zhu, SY Zhang_
+ 20.06.2024, _ZT Liu, RA Ma, D Zhu, KT Konstantinidis, YG Zhu, SY Zhang_
 
 
 _Soil Microbiology, Microbiota, Fertilizers, Metagenome, Drug Resistance, Microbial, Soil, Genes, Bacterial, Metals, Anti-Bacterial Agents, Agriculture_
@@ -123,7 +123,7 @@ Antibiotic resistance genes (ARGs) and metal(loid) resistance genes (MRGs) coexi
 ---
 
 ## Conceptualizing soil fauna effects on labile and stabilized soil organic matter.
- 19.06.2024, _G Angst, A Potapov, FX Joly, Š Angst, J Frouz, P Ganault, N Eisenhauer_
+ 20.06.2024, _G Angst, A Potapov, FX Joly, Š Angst, J Frouz, P Ganault, N Eisenhauer_
 
 
 _Soil, Soil Microbiology, Animals, Ecosystem, Organic Chemicals, Minerals, Carbon, Microbiota_
@@ -196,16 +196,15 @@ The SeqCode is a new code of prokaryotic nomenclature that was developed to vali
 
 ---
 
-## A novel experimental model of MetALD in male mice recapitulates key features of severe alcohol-associated hepatitis.
- 19.06.2024, _M Babuta, C Morel, M de Carvalho Ribeiro, AA Datta, C Calenda, C Copeland, I Nasser, G Szabo_
+## The Effect of Etrasimod on Fecal Calprotectin and High-sensitivity C-reactive Protein: Results From the ELEVATE UC Clinical Program.
+ 20.06.2024, _V Jairath, DT Rubin, B Verstockt, AH Çekin, MT Abreu, CW Lees, M Fellmann, JC Woolcott, C Crosby, J Wu, A Bhattacharjee, D Herman, G Gu, B Siegmund_
 
 
-_Animals, Male, Mice, Disease Models, Animal, Mice, Inbred C57BL, Hepatitis, Alcoholic, Diet, High-Fat, Liver, Ethanol_
-The recent increase in the incidence of alcohol-associated hepatitis (AH) coincides with the obesity epidemic in the United States. However, current mouse models do not fully replicate the combined insults of obesity, metabolic dysfunction-associated steatohepatitis, and alcohol. The aim of this study was to develop a new mouse model that recapitulates the robust inflammatory and fibrotic phenotype characteristic of human MetALD.
+Biomarkers offer potential alternatives to endoscopies in monitoring ulcerative colitis (UC) progression and therapeutic response. This post hoc analysis of the ELEVATE UC clinical program assessed potential predictive values of fecal calprotectin (fCAL) and high-sensitivity C-reactive protein (hsCRP) as biomarkers and associated responses to etrasimod, an oral, once-daily, selective sphingosine 1-phosphate (S1P)1,4,5 receptor modulator for the treatment of moderately to severely active UC, in 2 phase 3 clinical trials.
 
 [Source](https://www.nature.com/articles/s41575-024-00954-9)
 
-10.1097/HC9.0000000000000450
+10.1093/ibd/izae111
 
 ---
 
