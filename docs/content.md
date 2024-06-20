@@ -29,9 +29,15 @@ The pathogenesis of oral cavity cancers is complex. We tested the hypothesis tha
 
 ---
 
-## Tissue-resident bacteria in metabolic diseases: emerging evidence and challenges
+## Tissue-resident bacteria in metabolic diseases: emerging evidence and challenges.
+ 19.06.2024, _L Massier, N Musat, M Stumvoll, V Tremaroli, R Chakaroun, P Kovacs_
+
+
+Although the impact of the gut microbiome on health and disease is well established, there is controversy regarding the presence of microorganisms such as bacteria and their products in organs and tissues. However, recent contamination-aware findings of tissue-resident microbial signatures provide accumulating evidence in support of bacterial translocation in cardiometabolic disease. The latter provides a distinct paradigm for the link between microbial colonizers of mucosal surfaces and host metabolism. In this Perspective, we re-evaluate the concept of tissue-resident bacteria including their role in metabolic low-grade tissue and systemic inflammation. We examine the limitations and challenges associated with studying low bacterial biomass samples and propose experimental and analytical strategies to overcome these issues. Our Perspective aims to encourage further investigation of the mechanisms linking tissue-resident bacteria to host metabolism and their potentially actionable health implications for prevention and treatment.
 
 [Source](https://www.nature.com/articles/s42255-024-01065-0)
+
+10.1038/s42255-024-01065-0
 
 ---
 
@@ -129,9 +135,16 @@ Fauna is highly abundant and diverse in soils worldwide, but surprisingly little
 
 ---
 
-## The first ITS1 profiling of honey samples from the Southeast Asian region Lombok, Bali and Banggi Island
+## The first ITS1 profiling of honey samples from the Southeast Asian region Lombok, Bali and Banggi Island.
+ 19.06.2024, _S Ullah, F Huyop, RA Wahab, N Huda, HA Oyewusi, IGA Sujana, S Saloko, AASPR Andriani, MAN Mohamad, AA Abdul Hamid, MH Mohd Nasir, NS Antara, IBW Gunam_
+
+
+_Honey, Bees, Animals, Mycobiome, Asia, Southeastern, DNA, Intergenic, Fungi, Pollen, Islands, Southeast Asian People_
+Southern Asian flowers offer honeybees a diversity of nectar. Based on its geographical origin, honey quality varies. Traditional methods are less authentic than DNA-based identification. The origin of honey is determined by pollen, polyphenolic, and macro-microorganisms. In this study, amplicon sequencing targets macro-microorganisms in eDNA using the ITS1 region to explore honey's geographical location and authentication. The variety of honey samples was investigated using ITS1 with Illumina sequencing. For all four honey samples, raw sequence reads showed 979,380 raw ITS1 amplicon reads and 375 ASVs up to the phylum level. The highest total number of 202 ASVs up to phylum level identified Bali honey with 211,189 reads, followed by Banggi honey with 309,207 a total number of 111 ASVs, and Lombok represents only 63 ASVs up to phylum level with several read 458,984. Based on Shannon and Chao1, honey samples from Bali (B2) and (B3) exhibited higher diversity than honey from Lombok (B1) and green honey from Sabah (B4), while the Simpson index showed that Banggi honey (B4) had higher diversity. Honey samples had significant variance in mycobiome taxonomic composition and abundance. Zygosaccharomyces and Aspergillus were the main genera found in Lombok honey, with percentages of 68.81% and 29.76% respectively. Bali honey samples (B2 and B3) were identified as having a significant amount of the genus Aureobasidium, accounting for 40.81% and 25% of the readings, respectively. The microbiome composition of Banggi honey (B4) showed a high presence of Zygosaccharomyces 45.17% and Aureobasidium 35.24%. The ITS1 analysis effectively distinguishes between honey samples of different origins and its potential as a discriminatory tool for honey origin and authentication purposes.
 
 [Source](https://www.nature.com/articles/s41598-024-64838-3)
+
+10.1038/s41598-024-64838-3
 
 ---
 
@@ -147,9 +160,15 @@ Selenocysteine (Sec) is encoded by the UGA codon that normally functions as a st
 
 ---
 
-## Strain tracking in complex microbiomes using synteny analysis reveals per-species modes of evolution
+## Strain tracking in complex microbiomes using synteny analysis reveals per-species modes of evolution.
+ 19.06.2024, _H Enav, I Paz, RE Ley_
+
+
+Microbial species diversify into strains through single-nucleotide mutations and structural changes, such as recombination, insertions and deletions. Most strain-comparison methods quantify differences in single-nucleotide polymorphisms (SNPs) and are insensitive to structural changes. However, recombination is an important driver of phenotypic diversification in many species, including human pathogens. We introduce SynTracker, a tool that compares microbial strains using genome synteny-the order of sequence blocks in homologous genomic regions-in pairs of metagenomic assemblies or genomes. Genome synteny is a rich source of genomic information untapped by current strain-comparison tools. SynTracker has low sensitivity to SNPs, has no database requirement and is robust to sequencing errors. It outperforms existing tools when tracking strains in metagenomic data and is particularly suited for phages, plasmids and other low-data contexts. Applied to single-species datasets and human gut metagenomes, SynTracker, combined with an SNP-based tool, detects strains enriched in either point mutations or structural changes, providing insights into microbial evolution in situ.
 
 [Source](https://www.nature.com/articles/s41587-024-02276-2)
+
+10.1038/s41587-024-02276-2
 
 ---
 
