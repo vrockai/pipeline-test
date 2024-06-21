@@ -197,15 +197,16 @@ The SeqCode is a new code of prokaryotic nomenclature that was developed to vali
 
 ---
 
-## The Effect of Etrasimod on Fecal Calprotectin and High-sensitivity C-reactive Protein: Results From the ELEVATE UC Clinical Program.
- 20.06.2024, _V Jairath, DT Rubin, B Verstockt, AH Çekin, MT Abreu, CW Lees, M Fellmann, JC Woolcott, C Crosby, J Wu, A Bhattacharjee, D Herman, G Gu, B Siegmund_
+## Plasma metabolomics changes comparing daytime to overnight infusions of home parenteral nutrition in adult patients with short bowel syndrome: Secondary analysis of a clinical trial.
+ 20.06.2024, _HS Dashti, M Sevilla-Gonzalez, KM Mogensen, MF Winkler, C Compher_
 
 
-Biomarkers offer potential alternatives to endoscopies in monitoring ulcerative colitis (UC) progression and therapeutic response. This post hoc analysis of the ELEVATE UC clinical program assessed potential predictive values of fecal calprotectin (fCAL) and high-sensitivity C-reactive protein (hsCRP) as biomarkers and associated responses to etrasimod, an oral, once-daily, selective sphingosine 1-phosphate (S1P)1,4,5 receptor modulator for the treatment of moderately to severely active UC, in 2 phase 3 clinical trials.
+_Humans, Female, Male, Middle Aged, Short Bowel Syndrome, Parenteral Nutrition, Home, Metabolomics, Adult, Circadian Rhythm_
+Home parenteral nutrition (HPN) is often cycled nocturnally and is expected to result in glucose intolerance and sleep disruption partly due to circadian misalignment. This study aimed to define the metabolic response when HPN is cycled during the daytime compared to overnight.
 
 [Source](https://www.nature.com/articles/s41575-024-00954-9)
 
-10.1093/ibd/izae111
+10.1016/j.clnesp.2024.04.025
 
 ---
 
