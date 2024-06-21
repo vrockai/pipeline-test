@@ -48,7 +48,7 @@ Although the impact of the gut microbiome on health and disease is well establis
 ---
 
 ## Short-chain fatty acid valerate reduces voluntary alcohol intake in male mice.
- 19.06.2024, _SC Bokoliya, J Russell, Y Dorsett, HA Panier, V Singh, L Daddi, H Yuan, LR Dedon, Z Liu, Y Zhou, Z Min, JR Barson, J Covault, JA Bubier, Y Zhou_
+ 21.06.2024, _SC Bokoliya, J Russell, Y Dorsett, HA Panier, V Singh, L Daddi, H Yuan, LR Dedon, Z Liu, Y Zhou, Z Min, JR Barson, J Covault, JA Bubier, Y Zhou_
 
 
 _Animals, Male, Mice, Gastrointestinal Microbiome, gamma-Aminobutyric Acid, Fatty Acids, Volatile, Alcohol Drinking, Amygdala, Ethanol, Mice, Inbred C57BL, Disease Models, Animal, Binge Drinking, Pentanoic Acids_
@@ -86,7 +86,7 @@ Aquaculture is an important food source worldwide. The extensive use of antibiot
 ---
 
 ## Genome-wide screen of genetic determinants that govern Escherichia coli growth and persistence in lake water.
- 20.06.2024, _N Teteneva, A Sanches-Medeiros, V Sourjik_
+ 21.06.2024, _N Teteneva, A Sanches-Medeiros, V Sourjik_
 
 
 _Escherichia coli, Lakes, Sigma Factor, Genome, Bacterial, DNA Transposable Elements, Bacterial Proteins, Escherichia coli Proteins, Gene Expression Regulation, Bacterial, Water Microbiology_
@@ -137,7 +137,7 @@ Fauna is highly abundant and diverse in soils worldwide, but surprisingly little
 ---
 
 ## The first ITS1 profiling of honey samples from the Southeast Asian region Lombok, Bali and Banggi Island.
- 19.06.2024, _S Ullah, F Huyop, RA Wahab, N Huda, HA Oyewusi, IGA Sujana, S Saloko, AASPR Andriani, MAN Mohamad, AA Abdul Hamid, MH Mohd Nasir, NS Antara, IBW Gunam_
+ 21.06.2024, _S Ullah, F Huyop, RA Wahab, N Huda, HA Oyewusi, IGA Sujana, S Saloko, AASPR Andriani, MAN Mohamad, AA Abdul Hamid, MH Mohd Nasir, NS Antara, IBW Gunam_
 
 
 _Honey, Bees, Animals, Mycobiome, Asia, Southeastern, DNA, Intergenic, Fungi, Pollen, Islands, Southeast Asian People_
