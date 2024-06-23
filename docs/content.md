@@ -1,224 +1,247 @@
-## Safety, Feasibility, and Advantages of Oral Microbiota Transplantation: The First Clinical Case.
- 14.06.2024, _OV Goloshchapov, AB Chukhlovin, DS Bug, DE Polev, OV Kosarev, RV Klementeva, EA Izmailova, IV Kazantsev, MS Khalipskaia, МО Goloshchapova, OS Yudintseva, IM Barkhatov, NV Petukhova, LS Zubarovskaya, AD Kulagin, IS Moiseev_
+## Custom scoring based on ecological topology of gut microbiota associated with cancer immunotherapy outcome.
+ 21.06.2024, _L Derosa, V Iebba, CAC Silva, G Piccinno, G Wu, L Lordello, B Routy, N Zhao, C Thelemaque, R Birebent, F Marmorino, M Fidelle, M Messaoudene, AM Thomas, G Zalcman, S Friard, J Mazieres, C Audigier-Valette, DM Sibilot, F Goldwasser, A Scherpereel, H Pegliasco, F Ghiringhelli, N Bouchard, C Sow, I Darik, S Zoppi, P Ly, A Reni, R Daillère, E Deutsch, KA Lee, LA Bolte, JR Björk, RK Weersma, F Barlesi, L Padilha, A Finzel, ML Isaksen, B Escudier, L Albiges, D Planchard, F André, C Cremolini, S Martinez, B Besse, L Zhao, N Segata, J Wojcik, G Kroemer, L Zitvogel_
 
 
-The pilot clinical study presented demonstrates the possibility, safety, and effectiveness of oral microbiota transplantation from a healthy donor to a patient with neuroblastoma to prevent chemotherapy-induced oral mucositis. A 6-month-old patient with a diagnosis of retroperitoneal neuroblastoma was treated according to the NB 2004 protocol. Due to the development of severe oral mucositis, it was decided to perform oral microbiota transplantation. During the next 3 chemotherapy cycles and conditioning regimen before autologous hematopoietic cell transplantation (auto-HCT), the patient was repeatedly injected per os with donor saliva from her healthy mother. Oral microbiota transplantation was shown to effectively prevent the development of oral mucositis after chemotherapy, and only grade 1 oral mucositis developed after auto-HCT. In all loci of the oral cavity, there was a decreased abundance of bacteria from the Staphylococcaceae, Micrococcaceae, and Xanthomonadaceae families. Conversely, there was an increase in the relative abundance of Streptococcaceae and certain other bacterial taxa. In conclusion, the transplantation of maternal saliva in this patient prevented severe mucositis and was accompanied by a compositional change of the patient's oral microbiota. No adverse events due to the transplantation of maternal saliva were noted.
+_Humans, Gastrointestinal Microbiome, Immunotherapy, Carcinoma, Non-Small-Cell Lung, Female, Lung Neoplasms, Male, Dysbiosis, Feces, Middle Aged, Metagenomics, Immune Checkpoint Inhibitors, Treatment Outcome, Aged, Melanoma, Akkermansia, Colorectal Neoplasms, Neoplasms_
+The gut microbiota influences the clinical responses of cancer patients to immunecheckpoint inhibitors (ICIs). However, there is no consensus definition of detrimental dysbiosis. Based on metagenomics (MG) sequencing of 245 non-small cell lung cancer (NSCLC) patient feces, we constructed species-level co-abundance networks that were clustered into species-interacting groups (SIGs) correlating with overall survival. Thirty-seven and forty-five MG species (MGSs) were associated with resistance (SIG1) and response (SIG2) to ICIs, respectively. When combined with the quantification of Akkermansia species, this procedure allowed a person-based calculation of a topological score (TOPOSCORE) that was validated in an additional 254 NSCLC patients and in 216 genitourinary cancer patients. Finally, this TOPOSCORE was translated into a 21-bacterial probe set-based qPCR scoring that was validated in a prospective cohort of NSCLC patients as well as in colorectal and melanoma patients. This approach could represent a dynamic diagnosis tool for intestinal dysbiosis to guide personalized microbiota-centered interventions.
 
-[Source](https://journals.lww.com/jpho-online/fulltext/9900/safety,_feasibility,_and_advantages_of_oral.438.aspx)
+[Source](https://doi.org/10.1016/j.cell.2024.05.029)
 
-10.1097/MPH.0000000000002896
-
----
-
-## Oral microbial dysbiosis in patients with oral cavity cancers.
- 20.06.2024, _O Unlu, M Demirci, T Paksoy, AB Eden, HD Tansuker, A Dalmizrak, C Aktan, F Senel, AV Sunter, O Yigit, BO Cakir, A Kantarci_
-
-
-_Humans, Female, Male, Middle Aged, Dysbiosis, Mouth Neoplasms, Saliva, Case-Control Studies, Surveys and Questionnaires, Aged, Microbiota, Adult, RNA, Ribosomal, 16S, Oral Health_
-The pathogenesis of oral cavity cancers is complex. We tested the hypothesis that oral microbiota dysbiosis is associated with oral cavity cancer.
-
-[Source](https://link.springer.com/article/10.1007/s00784-024-05770-8)
-
-10.1007/s00784-024-05770-8
+10.1016/j.cell.2024.05.029
 
 ---
 
-## Nasal cathelicidin is expressed in early life and is increased during mild, but not severe respiratory syncytial virus infection
-
-[Source](https://www.nature.com/articles/s41598-024-64446-1)
-
----
-
-## Tissue-resident bacteria in metabolic diseases: emerging evidence and challenges.
- 19.06.2024, _L Massier, N Musat, M Stumvoll, V Tremaroli, R Chakaroun, P Kovacs_
+## Gut microbiome discovery provides roadmap for life-saving cancer therapies.
+ 21.06.2024, _G Guglielmi_
 
 
-Although the impact of the gut microbiome on health and disease is well established, there is controversy regarding the presence of microorganisms such as bacteria and their products in organs and tissues. However, recent contamination-aware findings of tissue-resident microbial signatures provide accumulating evidence in support of bacterial translocation in cardiometabolic disease. The latter provides a distinct paradigm for the link between microbial colonizers of mucosal surfaces and host metabolism. In this Perspective, we re-evaluate the concept of tissue-resident bacteria including their role in metabolic low-grade tissue and systemic inflammation. We examine the limitations and challenges associated with studying low bacterial biomass samples and propose experimental and analytical strategies to overcome these issues. Our Perspective aims to encourage further investigation of the mechanisms linking tissue-resident bacteria to host metabolism and their potentially actionable health implications for prevention and treatment.
 
-[Source](https://www.nature.com/articles/s42255-024-01065-0)
+[Source](https://doi.org/10.1038/d41586-024-02070-9)
 
-10.1038/s42255-024-01065-0
+10.1038/d41586-024-02070-9
 
 ---
 
-## Faecal microbiota of schoolchildren is associated with nutritional status and markers of inflammation: a double-blinded cluster-randomized controlled trial using multi-micronutrient fortified rice
-
-[Source](https://www.nature.com/articles/s41467-024-49093-4)
-
----
-
-## Short-chain fatty acid valerate reduces voluntary alcohol intake in male mice.
- 21.06.2024, _SC Bokoliya, J Russell, Y Dorsett, HA Panier, V Singh, L Daddi, H Yuan, LR Dedon, Z Liu, Y Zhou, Z Min, JR Barson, J Covault, JA Bubier, Y Zhou_
+## Faecal microbiota transplantation for sleep disturbance in post-acute COVID-19 syndrome.
+ 22.06.2024, _RI Lau, Q Su, JYL Ching, RN Lui, TT Chan, MTL Wong, LHS Lau, YK Wing, RNY Chan, HYH Kwok, AHY Ho, YK Tse, CP Cheung, MKT Li, WY Siu, C Liu, W Lu, Y Wang, EOL Chiu, PK Cheong, FKL Chan, SC Ng_
 
 
-_Animals, Male, Mice, Gastrointestinal Microbiome, gamma-Aminobutyric Acid, Fatty Acids, Volatile, Alcohol Drinking, Amygdala, Ethanol, Mice, Inbred C57BL, Disease Models, Animal, Binge Drinking, Pentanoic Acids_
-Despite serious health and social consequences, effective intervention strategies for habitual alcohol binge drinking are lacking. The development of novel therapeutic and preventative approaches is highly desirable. Accumulating evidence in the past several years has established associations between the gut microbiome and microbial metabolites with drinking behavior, but druggable targets and their underlying mechanism of action are understudied.
+Post-acute COVID-19 syndrome (PACS) is associated with sleep disturbance but treatment options are limited. The aetiology of PACS may be secondary to alterations in the gut microbiome. Here, we report the efficacy of faecal microbiota transplantation (FMT) in alleviating post-COVID insomnia symptoms in a non-randomised, open-label prospective interventional study.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01829-6)
+[Source](https://doi.org/10.1016/j.cgh.2024.06.004)
 
-10.1186/s40168-024-01829-6
+10.1016/j.cgh.2024.06.004
 
 ---
 
-## Sleep promoting and omics exploration on probiotics fermented <em>Gastrodia elata</em> Blume
-
-[Source](https://www.nature.com/articles/s41538-024-00277-8)
-
----
-
-## Metagenomic approach revealed the mobility and co-occurrence of antibiotic resistomes between non-intensive aquaculture environment and human.
- 18.06.2024, _L Tian, G Fang, G Li, L Li, T Zhang, Y Mao_
+## Pan-cancer atlas of tumor-resident microbiome, immunity and prognosis.
+ 22.06.2024, _D Sheng, C Jin, K Yue, M Yue, Y Liang, X Xue, P Li, G Zhao, L Zhang_
 
 
-_Aquaculture, Humans, Metagenomics, Anti-Bacterial Agents, Animals, Bacteria, Metagenome, Fishes, Drug Resistance, Bacterial, Drug Resistance, Microbial, Genes, Bacterial, Interspersed Repetitive Sequences_
-Aquaculture is an important food source worldwide. The extensive use of antibiotics in intensive large-scale farms has resulted in resistance development. Non-intensive aquaculture is another aquatic feeding model that is conducive to ecological protection and closely related to the natural environment. However, the transmission of resistomes in non-intensive aquaculture has not been well characterized. Moreover, the influence of aquaculture resistomes on human health needs to be further understood. Here, metagenomic approach was employed to identify the mobility of aquaculture resistomes and estimate the potential risks to human health.
+The existence of microbiome in human tumors has been determined widely, but evaluating the contribution of intratumoral bacteria and fungi to tumor immunity and prognosis from a pan-cancer perspective remains absent. We designed an improved microbial analysis pipeline to reduce interference from host sequences, complemented with integration analysis of intratumoral microbiota at species level with clinical indicators, tumor microenvironment, and prognosis across cancer types. We found that intratumoral microbiota is associated with immunophenotyping, with high-immunity subtypes showing greater bacterial and fungal richness compared to low-immunity groups. We also noted that the combination of fungi and bacteria demonstrated promising prognostic value across cancer types. We, thus, present The Cancer Microbiota (TCMbio), an interactive platform that provides the intratumoral bacteria and fungi data, and a comprehensive analysis module for 33 types of cancers. This led to the discovery of clinical and prognostic significance of intratumoral microbes.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01824-x)
+[Source](https://doi.org/10.1016/j.canlet.2024.217077)
 
-10.1186/s40168-024-01824-x
+10.1016/j.canlet.2024.217077
 
 ---
 
-## Bacterial community and cyanotoxin gene distribution of the Winam Gulf, Lake Victoria, Kenya
+## Gut metagenomic analysis of gastric cancer patients reveals <em>Akkermansia</em>, Gammaproteobacteria, and <em>Veillonella</em> microbiota as potential non-invasive biomarkers
 
-[Source](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.13297)
-
----
-
-## Genome-wide screen of genetic determinants that govern Escherichia coli growth and persistence in lake water.
- 22.06.2024, _N Teteneva, A Sanches-Medeiros, V Sourjik_
-
-
-_Escherichia coli, Lakes, Sigma Factor, Genome, Bacterial, DNA Transposable Elements, Bacterial Proteins, Escherichia coli Proteins, Gene Expression Regulation, Bacterial, Water Microbiology_
-Although enteric bacteria normally reside within the animal intestine, the ability to persist extraintestinally is an essential part of their overall lifestyle, and it might contribute to transmission between hosts. Despite this potential importance, few genetic determinants of extraintestinal growth and survival have been identified, even for the best-studied model, Escherichia coli. In this work, we thus used a genome-wide library of barcoded transposon insertions to systematically identify functional clusters of genes that are crucial for E. coli fitness in lake water. Our results revealed that inactivation of pathways involved in maintaining outer membrane integrity, nucleotide biosynthesis, and chemotaxis negatively affected E. coli growth or survival in this extraintestinal environment. In contrast, inactivation of another group of genes apparently benefited E. coli growth or persistence in filtered lake water, resulting in higher abundance of these mutants. This group included rpoS, which encodes the general stress response sigma factor, as well as genes encoding several other global transcriptional regulators and RNA chaperones, along with several poorly annotated genes. Based on this co-enrichment, we identified these gene products as novel positive regulators of RpoS activity. We further observed that, despite their enhanced growth, E. coli mutants with inactive RpoS had reduced viability in lake water, and they were not enriched in the presence of the autochthonous microbiota. This highlights the duality of the general stress response pathway for E. coli growth outside the host.
-
-[Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae096/7693287)
-
-10.1093/ismejo/wrae096
+[Source](https://doi.org/10.1186/s44342-024-00001-8)
 
 ---
 
-## Root-associated Streptomyces produce galbonolides to modulate plant immunity and promote rhizosphere colonization.
- 19.06.2024, _C Nicolle, D Gayrard, A Noël, M Hortala, A Amiel, S Grat, A Le Ru, G Marti, JL Pernodet, S Lautru, B Dumas, T Rey_
+## A Bioinformatic Analysis of Gut Microbiota Related with Immune Cell Infiltration in Colorectal Cancer.
+ 21.06.2024, _D Liu, J Zhou, Q Fu, Y Zhao, P Wang, Y Zheng, M Cui, H Zhang_
 
 
-The rhizosphere, which serves as the primary interface between plant roots and the soil, constitutes an ecological niche for a huge diversity of microbial communities. Currently, there is little knowledge on the nature and the function of the different metabolites released by rhizospheric microbes to facilitate colonization of this highly competitive environment. Here, we demonstrate how the production of galbonolides, a group of polyene macrolides that inhibit plant and fungal inositol phosphorylceramide synthase (IPCS), empowers the rhizospheric Streptomyces strain AgN23, to thrive in the rhizosphere by triggering the plant's defence mechanisms. Metabolomic analysis of AgN23-inoculated Arabidopsis roots revealed a strong induction in the production of an indole alkaloid, camalexin, which is a major phytoalexin in Arabidopsis. By using a plant mutant compromized in camalexin synthesis, we show that camalexin production is necessary for the successful colonization of the rhizosphere by AgN23. Conversely, hindering galbonolides biosynthesis in AgN23 knock-out mutant resulted in loss of inhibition of IPCS, a deficiency in plant defence activation, notably the production of camalexin, and a strongly reduced development of the mutant bacteria in the rhizosphere. Together, our results identified galbonolides as important metabolites mediating rhizosphere colonization by Streptomyces.
+The composition of microbiota which correlates with infiltrating immune cells and clinical signatures is not clarified in CRC.
 
-[Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae112/7696154)
+[Source](https://doi.org/10.1080/07357907.2024.2368233)
 
-10.1093/ismejo/wrae112
-
----
-
-## Organic fertilization co-selects genetically linked antibiotic and metal(loid) resistance genes in global soil microbiome.
- 20.06.2024, _ZT Liu, RA Ma, D Zhu, KT Konstantinidis, YG Zhu, SY Zhang_
-
-
-_Soil Microbiology, Microbiota, Fertilizers, Metagenome, Drug Resistance, Microbial, Soil, Genes, Bacterial, Metals, Anti-Bacterial Agents, Agriculture_
-Antibiotic resistance genes (ARGs) and metal(loid) resistance genes (MRGs) coexist in organic fertilized agroecosystems based on their correlations in abundance, yet evidence for the genetic linkage of ARG-MRGs co-selected by organic fertilization remains elusive. Here, an analysis of 511 global agricultural soil metagenomes reveals that organic fertilization correlates with a threefold increase in the number of diverse types of ARG-MRG-carrying contigs (AMCCs) in the microbiome (63 types) compared to non-organic fertilized soils (22 types). Metatranscriptomic data indicates increased expression of AMCCs under higher arsenic stress, with co-regulation of the ARG-MRG pairs. Organic fertilization heightens the coexistence of ARG-MRG in genomic elements through impacting soil properties and ARG and MRG abundances. Accordingly, a comprehensive global map was constructed to delineate the distribution of coexistent ARG-MRGs with virulence factors and mobile genes in metagenome-assembled genomes from agricultural lands. The map unveils a heightened relative abundance and potential pathogenicity risks (range of 4-6) for the spread of coexistent ARG-MRGs in Central North America, Eastern Europe, Western Asia, and Northeast China compared to other regions, which acquire a risk range of 1-3. Our findings highlight that organic fertilization co-selects genetically linked ARGs and MRGs in the global soil microbiome, and underscore the need to mitigate the spread of these co-resistant genes to safeguard public health.
-
-[Source](https://www.nature.com/articles/s41467-024-49165-5)
-
-10.1038/s41467-024-49165-5
+10.1080/07357907.2024.2368233
 
 ---
 
-## Conceptualizing soil fauna effects on labile and stabilized soil organic matter.
- 20.06.2024, _G Angst, A Potapov, FX Joly, Š Angst, J Frouz, P Ganault, N Eisenhauer_
+## An alternative broad-specificity pathway for glycan breakdown in bacteria.
+ 22.06.2024, _SA Nasseri, AC Lazarski, IL Lemmer, CY Zhang, E Brencher, HM Chen, L Sim, D Panwar, L Betschart, LJ Worrall, H Brumer, NCJ Strynadka, SG Withers_
 
 
-_Soil, Soil Microbiology, Animals, Ecosystem, Organic Chemicals, Minerals, Carbon, Microbiota_
-Fauna is highly abundant and diverse in soils worldwide, but surprisingly little is known about how it affects soil organic matter stabilization. Here, we review how the ecological strategies of a multitude of soil faunal taxa can affect the formation and persistence of labile (particulate organic matter, POM) and stabilized soil organic matter (mineral-associated organic matter, MAOM). We propose three major mechanisms - transformation, translocation, and grazing on microorganisms - by which soil fauna alters factors deemed essential in the formation of POM and MAOM, including the quantity and decomposability of organic matter, soil mineralogy, and the abundance, location, and composition of the microbial community. Determining the relevance of these mechanisms to POM and MAOM formation in cross-disciplinary studies that cover individual taxa and more complex faunal communities, and employ physical fractionation, isotopic, and microbiological approaches is essential to advance concepts, models, and policies focused on soil organic matter and effectively manage soils as carbon sinks, nutrient stores, and providers of food.
+The vast majority of glycosidases characterized to date follow one of the variations of the 'Koshland' mechanisms1 to hydrolyse glycosidic bonds through substitution reactions. Here we describe a large-scale screen of a human gut microbiome metagenomic library using an assay that selectively identifies non-Koshland glycosidase activities2. Using this, we identify a cluster of enzymes with extremely broad substrate specificities and thoroughly characterize these, mechanistically and structurally. These enzymes not only break glycosidic linkages of both α and β stereochemistry and multiple connectivities, but also cleave substrates that are not hydrolysed by standard glycosidases. These include thioglycosides, such as the glucosinolates from plants, and pseudoglycosidic bonds of pharmaceuticals such as acarbose. This is achieved through a distinct mechanism of hydrolysis that involves oxidation/reduction and elimination/hydration steps, each catalysed by enzyme modules that are in many cases interchangeable between organisms and substrate classes. Homologues of these enzymes occur in both Gram-positive and Gram-negative bacteria associated with the gut microbiome and other body parts, as well as other environments, such as soil and sea. Such alternative step-wise mechanisms appear to constitute largely unrecognized but abundant pathways for glycan degradation as part of the metabolism of carbohydrates in bacteria.
 
-[Source](https://www.nature.com/articles/s41467-024-49240-x)
+[Source](https://doi.org/10.1038/s41586-024-07574-y)
 
-10.1038/s41467-024-49240-x
-
----
-
-## The first ITS1 profiling of honey samples from the Southeast Asian region Lombok, Bali and Banggi Island.
- 22.06.2024, _S Ullah, F Huyop, RA Wahab, N Huda, HA Oyewusi, IGA Sujana, S Saloko, AASPR Andriani, MAN Mohamad, AA Abdul Hamid, MH Mohd Nasir, NS Antara, IBW Gunam_
-
-
-_Honey, Bees, Animals, Mycobiome, Asia, Southeastern, DNA, Intergenic, Fungi, Pollen, Islands, Southeast Asian People_
-Southern Asian flowers offer honeybees a diversity of nectar. Based on its geographical origin, honey quality varies. Traditional methods are less authentic than DNA-based identification. The origin of honey is determined by pollen, polyphenolic, and macro-microorganisms. In this study, amplicon sequencing targets macro-microorganisms in eDNA using the ITS1 region to explore honey's geographical location and authentication. The variety of honey samples was investigated using ITS1 with Illumina sequencing. For all four honey samples, raw sequence reads showed 979,380 raw ITS1 amplicon reads and 375 ASVs up to the phylum level. The highest total number of 202 ASVs up to phylum level identified Bali honey with 211,189 reads, followed by Banggi honey with 309,207 a total number of 111 ASVs, and Lombok represents only 63 ASVs up to phylum level with several read 458,984. Based on Shannon and Chao1, honey samples from Bali (B2) and (B3) exhibited higher diversity than honey from Lombok (B1) and green honey from Sabah (B4), while the Simpson index showed that Banggi honey (B4) had higher diversity. Honey samples had significant variance in mycobiome taxonomic composition and abundance. Zygosaccharomyces and Aspergillus were the main genera found in Lombok honey, with percentages of 68.81% and 29.76% respectively. Bali honey samples (B2 and B3) were identified as having a significant amount of the genus Aureobasidium, accounting for 40.81% and 25% of the readings, respectively. The microbiome composition of Banggi honey (B4) showed a high presence of Zygosaccharomyces 45.17% and Aureobasidium 35.24%. The ITS1 analysis effectively distinguishes between honey samples of different origins and its potential as a discriminatory tool for honey origin and authentication purposes.
-
-[Source](https://www.nature.com/articles/s41598-024-64838-3)
-
-10.1038/s41598-024-64838-3
+10.1038/s41586-024-07574-y
 
 ---
 
-## Asgard archaeal selenoproteome reveals a roadmap for the archaea-to-eukaryote transition of selenocysteine incorporation machinery.
- 19.06.2024, _B Huang, Y Xiao, Y Zhang_
+## The association of maternal factors with the neonatal microbiota and health.
+ 22.06.2024, _B Zhu, DJ Edwards, KM Spaine, L Edupuganti, A Matveyev, MG Serrano, GA Buck_
 
 
-Selenocysteine (Sec) is encoded by the UGA codon that normally functions as a stop signal and is specifically incorporated into selenoproteins via a unique recoding mechanism. The translational recoding of UGA as Sec is directed by an unusual RNA structure, the Sec insertion sequence (SECIS) element. Although archaea and eukaryotes adopt a similar Sec encoding machinery, the SECIS elements have no similarities to each other with regard to sequence and structure. We analyzed more than 400 Asgard archaeal genomes to examine the occurrence of both Sec encoding system and selenoproteins in this archaeal superphylum, the closest prokaryotic relatives of eukaryotes. A comprehensive map of Sec utilization trait has been generated, providing the most detailed understanding of the use of this nonstandard amino acid in Asgard archaea so far. By characterizing the selenoproteomes of all organisms, several selenoprotein-rich phyla and species were identified. Most Asgard archaeal selenoprotein genes possess eukaryotic SECIS-like structures with varying degrees of diversity. Moreover, euryarchaeal SECIS elements might originate from Asgard archaeal SECIS elements via lateral gene transfer, indicating a complex and dynamic scenario of the evolution of SECIS element within archaea. Finally, a roadmap for the transition of eukaryotic SECIS elements from archaea was proposed, and selenophosphate synthetase may serve as a potential intermediate for the generation of ancestral eukaryotic SECIS element. Our results offer new insights into a deeper understanding of the evolution of Sec insertion machinery.
+_Humans, Female, Infant, Newborn, Pregnancy, Feces, Microbiota, Adult, Cesarean Section, Premature Birth, Gastrointestinal Microbiome, Mouth, Rectum, Male_
+The human microbiome plays a crucial role in human health. However, the influence of maternal factors on the neonatal microbiota remains obscure. Herein, our observations suggest that the neonatal microbiotas, particularly the buccal microbiota, change rapidly within 24-48 h of birth but begin to stabilize by 48-72 h after parturition. Network analysis clustered over 200 maternal factors into thirteen distinct groups, and most associated factors were in the same group. Multiple maternal factor groups were associated with the neonatal buccal, rectal, and stool microbiotas. Particularly, a higher maternal inflammatory state and a lower maternal socioeconomic position were associated with a higher alpha diversity of the neonatal buccal microbiota and beta diversity of the neonatal stool microbiota was influenced by maternal diet and cesarean section by 24-72 h postpartum. The risk of admission of a neonate to the newborn intensive care unit was associated with preterm birth as well as higher cytokine levels and probably higher alpha diversity of the maternal buccal microbiota.
 
-[Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae111/7696153)
+[Source](https://doi.org/10.1038/s41467-024-49160-w)
 
-10.1093/ismejo/wrae111
-
----
-
-## Strain tracking in complex microbiomes using synteny analysis reveals per-species modes of evolution.
- 19.06.2024, _H Enav, I Paz, RE Ley_
-
-
-Microbial species diversify into strains through single-nucleotide mutations and structural changes, such as recombination, insertions and deletions. Most strain-comparison methods quantify differences in single-nucleotide polymorphisms (SNPs) and are insensitive to structural changes. However, recombination is an important driver of phenotypic diversification in many species, including human pathogens. We introduce SynTracker, a tool that compares microbial strains using genome synteny-the order of sequence blocks in homologous genomic regions-in pairs of metagenomic assemblies or genomes. Genome synteny is a rich source of genomic information untapped by current strain-comparison tools. SynTracker has low sensitivity to SNPs, has no database requirement and is robust to sequencing errors. It outperforms existing tools when tracking strains in metagenomic data and is particularly suited for phages, plasmids and other low-data contexts. Applied to single-species datasets and human gut metagenomes, SynTracker, combined with an SNP-based tool, detects strains enriched in either point mutations or structural changes, providing insights into microbial evolution in situ.
-
-[Source](https://www.nature.com/articles/s41587-024-02276-2)
-
-10.1038/s41587-024-02276-2
+10.1038/s41467-024-49160-w
 
 ---
 
-## High-throughput single-cell transcriptomics of bacteria using combinatorial barcoding.
- 17.06.2024, _KD Gaisser, SN Skloss, LM Brettner, L Paleologu, CM Roco, AB Rosenberg, M Hirano, RW DePaolo, G Seelig, A Kuchina_
+## Revealing the gut microbiome mystery: A meta-analysis revealing differences between individuals with autism spectrum disorder and neurotypical children.
+ 19.06.2024, _C Yang, H Xiao, H Zhu, Y Du, L Wang_
 
 
-Microbial split-pool ligation transcriptomics (microSPLiT) is a high-throughput single-cell RNA sequencing method for bacteria. With four combinatorial barcoding rounds, microSPLiT can profile transcriptional states in hundreds of thousands of Gram-negative and Gram-positive bacteria in a single experiment without specialized equipment. As bacterial samples are fixed and permeabilized before barcoding, they can be collected and stored ahead of time. During the first barcoding round, the fixed and permeabilized bacteria are distributed into a 96-well plate, where their transcripts are reverse transcribed into cDNA and labeled with the first well-specific barcode inside the cells. The cells are mixed and redistributed two more times into new 96-well plates, where the second and third barcodes are appended to the cDNA via in-cell ligation reactions. Finally, the cells are mixed and divided into aliquot sub-libraries, which can be stored until future use or prepared for sequencing with the addition of a fourth barcode. It takes 4 days to generate sequencing-ready libraries, including 1 day for collection and overnight fixation of samples. The standard plate setup enables single-cell transcriptional profiling of up to 1 million bacterial cells and up to 96 samples in a single barcoding experiment, with the possibility of expansion by adding barcoding rounds. The protocol requires experience in basic molecular biology techniques, handling of bacterial samples and preparation of DNA libraries for next-generation sequencing. It can be performed by experienced undergraduate or graduate students. Data analysis requires access to computing resources, familiarity with Unix command line and basic experience with Python or R.
+The brain-gut axis intricately links gut microbiota (GM) dysbiosis to the development or worsening of autism spectrum disorder (ASD). However, the precise GM composition in ASD and the effectiveness of probiotics are unclear. To address this, we performed a thorough meta-analysis of 28 studies spanning PubMed, PsycINFO, Web of Science, Scopus, and MEDLINE, involving 1,256 children with ASD and 1042 neurotypical children, up to February 2024. Using Revman 5.3, we analyzed the relative abundance of 8 phyla and 64 genera. While individuals with ASD did not exhibit significant differences in included phyla, they exhibited elevated levels of Parabacteroides, Anaerostipes, Faecalibacterium, Clostridium, Dorea, Phascolarctobacterium, Lachnoclostridium, Catenibacterium, and Collinsella along with reduced percentages of Barnesiella, Odoribacter, Paraprevotella, Blautia, Turicibacter, Lachnospira, Pseudomonas, Parasutterella, Haemophilus, and Bifidobacterium. Notably, discrepancies in Faecalibacterium, Clostridium, Dorea, Phascolarctobacterium, Catenibacterium, Odoribacter, and Bifidobacterium persisted even upon systematic exclusion of individual studies. Consequently, the GM of individuals with ASD demonstrates an imbalance, with potential increases or decreases in both beneficial and harmful bacteria. Therefore, personalized probiotic interventions tailored to ASD specifics are imperative, rather than a one-size-fits-all approach.
 
-[Source](https://www.nature.com/articles/s41596-024-01007-w)
+[Source](https://doi.org/10.5582/bst.2024.01123)
 
-10.1038/s41596-024-01007-w
-
----
-
-## SeqCode in the golden age of prokaryotic systematics.
- 19.06.2024, _DJ Jiménez, AS Rosado_
-
-
-The SeqCode is a new code of prokaryotic nomenclature that was developed to validate taxon names using genome sequences as type material. The present article provides an independent view about the SeqCode, highlighting its history, current status, basic features, pros and cons, and use to date. We also discuss important topics to consider for validation of novel prokaryotic taxon names using genomes as type material. Owing to significant advances in metagenomics and cultivation methods, hundreds of novel prokaryotic species are expected to be discovered in the coming years. This manuscript aims to stimulate and enrich the debate around the use of the SeqCode in the upcoming golden age of prokaryotic taxon discovery and systematics.
-
-[Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae109/7696152)
-
-10.1093/ismejo/wrae109
+10.5582/bst.2024.01123
 
 ---
 
-## Plasma metabolomics changes comparing daytime to overnight infusions of home parenteral nutrition in adult patients with short bowel syndrome: Secondary analysis of a clinical trial.
- 22.06.2024, _HS Dashti, M Sevilla-Gonzalez, KM Mogensen, MF Winkler, C Compher_
+## Propionic acid promotes neurite recovery in damaged multiple sclerosis neurons.
+ 20.06.2024, _B Gisevius, A Duscha, G Poschmann, K Stühler, J Motte, AL Fisse, S Augustyniak, A Rehm, P Renk, C Böse, D Hubert, K Peters, M Jagst, A Gömer, D Todt, V Bader, M Tokic, S Hirschberg, C Krogias, N Trampe, C Coutourier, C Winnesberg, E Steinmann, K Winklhofer, R Gold, A Haghikia_
 
 
-_Humans, Female, Male, Middle Aged, Short Bowel Syndrome, Parenteral Nutrition, Home, Metabolomics, Adult, Circadian Rhythm_
-Home parenteral nutrition (HPN) is often cycled nocturnally and is expected to result in glucose intolerance and sleep disruption partly due to circadian misalignment. This study aimed to define the metabolic response when HPN is cycled during the daytime compared to overnight.
+Neurodegeneration in the autoimmune disease multiple sclerosis still poses a major therapeutic challenge. Effective drugs that target the inflammation can only partially reduce accumulation of neurological deficits and conversion to progressive disease forms. Diet and the associated gut microbiome are currently being discussed as crucial environmental risk factors that determine disease onset and subsequent progression. In people with multiple sclerosis, supplementation of the short-chain fatty acid propionic acid, as a microbial metabolite derived from the fermentation of a high-fiber diet, has previously been shown to regulate inflammation accompanied by neuroprotective properties. We set out to determine whether the neuroprotective impact of propionic acid is a direct mode of action of short-chain fatty acids on CNS neurons. We analysed neurite recovery in the presence of the short-chain fatty acid propionic acid and butyric acid in a reverse-translational disease-in-a-dish model of human-induced primary neurons differentiated from people with multiple sclerosis-derived induced pluripotent stem cells. We found that recovery of damaged neurites is induced by propionic acid and butyric acid. We could also show that administration of butyric acid is able to enhance propionic acid-associated neurite recovery. Whole-cell proteome analysis of induced primary neurons following recovery in the presence of propionic acid revealed abundant changes of protein groups that are associated with the chromatin assembly, translational, and metabolic processes. We further present evidence that these alterations in the chromatin assembly were associated with inhibition of histone deacetylase class I/II following both propionic acid and butyric acid treatment, mediated by free fatty acid receptor signalling. While neurite recovery in the presence of propionic acid is promoted by activation of the anti-oxidative response, administration of butyric acid increases neuronal ATP synthesis in people with multiple sclerosis-specific induced primary neurons.
 
-[Source](https://www.nature.com/articles/s41575-024-00954-9)
+[Source](https://doi.org/10.1093/braincomms/fcae182)
 
-10.1016/j.clnesp.2024.04.025
-
----
-
-## Digestive Disease Week 2024 
-
-[Source](https://www.nature.com/articles/s41575-024-00954-9)
+10.1093/braincomms/fcae182
 
 ---
 
-## Barriers and enablers to the effective implementation of omics research in low- and middle-income countries 
+## What is the impact of microbiota on dry eye: a literature review of the gut-eye axis.
+ 22.06.2024, _J Song, H Dong, T Wang, H Yu, J Yu, S Ma, X Song, Q Sun, Y Xu, M Liu_
 
-[Source](https://www.nature.com/articles/s41587-024-02274-4)
+
+_Dry Eye Syndromes, Humans, Gastrointestinal Microbiome, Animals, Tears_
+Dry eye is a chronic and multifactorial ocular surface disease caused by tear film instability or imbalance in the microenvironment of the ocular surface. It can lead to various discomforts such as inflammation of the ocular surface and visual issues. However, the mechanism of dry eye is not clear, which results in dry eye being only relieved but not cured in clinical practice. Finding multiple environmental pathways for dry eye and exploring the pathogenesis of dry eye have become the focus of research. Studies have found that changes in microbiota may be related to the occurrence and development of dry eye disease.
+
+[Source](https://doi.org/10.1186/s12886-024-03526-2)
+
+10.1186/s12886-024-03526-2
+
+---
+
+## Cross-feeding of bifidobacteria promotes intestinal homeostasis: a lifelong perspective on the host health.
+ 22.06.2024, _M Xiao, C Zhang, H Duan, A Narbad, J Zhao, W Chen, Q Zhai, L Yu, F Tian_
+
+
+_Humans, Bifidobacterium, Homeostasis, Gastrointestinal Microbiome, Polysaccharides, Host Microbial Interactions, Animals, Fermentation_
+Throughout the life span of a host, bifidobacteria have shown superior colonization and glycan abilities. Complex glycans, such as human milk oligosaccharides and plant glycans, that reach the colon are directly internalized by the transport system of bifidobacteria, cleaved into simple structures by extracellular glycosyl hydrolase, and transported to cells for fermentation. The glycan utilization of bifidobacteria introduces cross-feeding activities between bifidobacterial strains and other microbiota, which are influenced by host nutrition and regulate gut homeostasis. This review discusses bifidobacterial glycan utilization strategies, focusing on the cross-feeding involved in bifidobacteria and its potential health benefits. Furthermore, the impact of cross-feeding on the gut trophic niche of bifidobacteria and host health is also highlighted. This review provides novel insights into the interactions between microbe-microbe and host-microbe.
+
+[Source](https://doi.org/10.1038/s41522-024-00524-6)
+
+10.1038/s41522-024-00524-6
+
+---
+
+## Peyer's Patch: Possible target for modulating the Gut-Brain-Axis through microbiota.
+ 20.06.2024, _R Asgari, MA Bazzazan, A Karimi Jirandehi, S Yousefzadeh, M Alaei, S Keshavarz Shahbaz_
+
+
+The gastrointestinal (GI) tract and the brain form bidirectional nervous, immune, and endocrine communications known as the gut-brain axis. Several factors can affect this axis; among them, various studies have focused on the microbiota and imply that alterations in microbiota combinations can influence both the brain and GI. Also, many studies have shown that the immune system has a vital role in varying gut microbiota combinations. In the current paper, we will review the multidirectional effects of gut microbiota, immune system, and nervous system on each other. Specifically, this review mainly focuses on the impact of Peyer's patches as a critical component of the gut immune system on the gut-brain axis through affecting the gut's microbial composition. In this way, some factors were discussed as proposed elements of missing gaps in this field.
+
+[Source](https://doi.org/10.1016/j.cellimm.2024.104844)
+
+10.1016/j.cellimm.2024.104844
+
+---
+
+## Alterations in gut microbiota and inflammatory cytokines after administration of antibiotics in mice.
+ 20.06.2024, _W Gao, X Liu, S Zhang, J Wang, B Qiu, J Shao, W Huang, Y Huang, M Yao, L-L Tang_
+
+
+Antibiotics are widely used to treat bacterial infection and reduce the mortality rate, while antibiotic overuse can cause gut microbiota dysbiosis. The impact of antibiotics on gut microbiota is not fully understood. In our study, four commonly used antibiotics (ceftazidime, cefoperazone-sulbactam, imipenem-cilastatin, and moxifloxacin) were given subcutaneously to mice, and their impacts on the gut microbiota composition and serum cytokine levels were evaluated through 16S rRNA analysis and a multiplex immunoassay. Antibiotic treatment markedly reduced gut microbiota diversity and changed gut microbiota composition. Antibiotic treatment significantly increased and decreased the abundance of Firmicutes and Bacteroidota, respectively. The antibiotic treatments increased the abundance of opportunistic pathogens such as Enterococcus and decreased that of Lachnospiraceae and Muribaculaceae. For moxifloxacin, the significantly high abundance of Enterococcus and Klebsiella was observed after 14 and 21 days of treatment. However, a relatively low abundance of opportunistic pathogens was found after 14 days of imipenem-cilastatin treatment. Additionally, the serum levels of various pro-inflammatory cytokines, such as IL-1β, IL-12 (p70), and IL-17, significantly increased after 21 days of antibiotic treatments. Overall, these results provide a guide for rational use of antibiotics in clinical settings: short-term use of moxifloxacin is recommended with regard to gut microbiota health, and the 14-day use of imipenem-cilastatin may have a less severe impact than other antibiotics.IMPORTANCEAntibiotic treatments are directly associated with changes in gut microbiota and are effective against both pathogens and beneficial bacteria. Gut microbiota dysbiosis induced by antibiotic treatment could increase the risk of some diseases. Therefore, an adequate understanding of gut microbiota changes after antibiotic use is crucial. In this study, we investigated the effects of continuous treatment with antibiotics on gut microbiota, serum cytokines, and intestinal inflammatory response. Our results suggest that short-term use of moxifloxacin is recommended, and the 14-day use of imipenem-cilastatin may have a less severe effect on gut microbiota health than cefoperazone-sulbactam. These results provide useful guidance on the rational use of antibiotics with regard to gut microbiota health.
+
+[Source](https://doi.org/10.1128/spectrum.03095-23)
+
+10.1128/spectrum.03095-23
+
+---
+
+## A global atlas of soil viruses reveals unexplored biodiversity and potential biogeochemical impacts
+
+[Source](https://doi.org/10.1038/s41564-024-01686-x)
+
+---
+
+## Resistance to freezing conditions of endemic Antarctic polychaetes is enhanced by cryoprotective proteins produced by their microbiome.
+ 21.06.2024, _E Buschi, A Dell'Anno, M Tangherlini, M Candela, S Rampelli, S Turroni, G Palladino, E Esposito, ML Martire, L Musco, S Stefanni, C Munari, J Fiori, R Danovaro, C Corinaldesi_
+
+
+_Polychaeta, Animals, Antarctic Regions, Microbiota, Freezing, Phylogeny, Bacterial Proteins_
+The microbiome plays a key role in the health of all metazoans. Whether and how the microbiome favors the adaptation processes of organisms to extreme conditions, such as those of Antarctica, which are incompatible with most metazoans, is still unknown. We investigated the microbiome of three endemic and widespread species of Antarctic polychaetes: Leitoscoloplos geminus, Aphelochaeta palmeri, and Aglaophamus trissophyllus. We report here that these invertebrates contain a stable bacterial core dominated by Meiothermus and Anoxybacillus, equipped with a versatile genetic makeup and a unique portfolio of proteins useful for coping with extremely cold conditions as revealed by pangenomic and metaproteomic analyses. The close phylosymbiosis between Meiothermus and Anoxybacillus and these Antarctic polychaetes indicates a connection with their hosts that started in the past to support holobiont adaptation to the Antarctic Ocean. The wide suite of bacterial cryoprotective proteins found in Antarctic polychaetes may be useful for the development of nature-based biotechnological applications.
+
+[Source](https://doi.org/10.1126/sciadv.adk9117)
+
+10.1126/sciadv.adk9117
+
+---
+
+## Microbial co-occurrence network demonstrates spatial and climatic trends for global soil diversity.
+ 22.06.2024, _N Pechlivanis, G Karakatsoulis, K Kyritsis, M Tsagiopoulou, S Sgardelis, I Kappas, F Psomopoulos_
+
+
+_Soil Microbiology, Microbiota, Climate, Bacteria, Biodiversity_
+Despite recent research efforts to explore the co-occurrence patterns of diverse microbes within soil microbial communities, a substantial knowledge-gap persists regarding global climate influences on soil microbiota behaviour. Comprehending co-occurrence patterns within distinct geoclimatic groups is pivotal for unravelling the ecological structure of microbial communities, that are crucial for preserving ecosystem functions and services. Our study addresses this gap by examining global climatic patterns of microbial diversity. Using data from the Earth Microbiome Project, we analyse a meta-community co-occurrence network for bacterial communities. This method unveils substantial shifts in topological features, highlighting regional and climatic trends. Arid, Polar, and Tropical zones show lower diversity but maintain denser networks, whereas Temperate and Cold zones display higher diversity alongside more modular networks. Furthermore, it identifies significant co-occurrence patterns across diverse climatic regions. Central taxa associated with different climates are pinpointed, highlighting climate's pivotal role in community structure. In conclusion, our study identifies significant correlations between microbial interactions in diverse climatic regions, contributing valuable insights into the intricate dynamics of soil microbiota.
+
+[Source](https://doi.org/10.1038/s41597-024-03528-1)
+
+10.1038/s41597-024-03528-1
+
+---
+
+## Strain dynamics of contaminating bacteria modulate the yield of ethanol biorefineries.
+ 22.06.2024, _FS de Oliveira Lino, S Garg, SS Li, MA Misiakou, K Kang, BL Vale da Costa, TS Beyer-Pedersen, TG Giacon, TO Basso, G Panagiotou, MOA Sommer_
+
+
+_Ethanol, Fermentation, Bacteria, Microbiota, Biofuels, Metagenomics, Industrial Microbiology, Temperature_
+Bioethanol is a sustainable energy alternative and can contribute to global greenhouse-gas emission reductions by over 60%. Its industrial production faces various bottlenecks, including sub-optimal efficiency resulting from bacteria. Broad-spectrum removal of these contaminants results in negligible gains, suggesting that the process is shaped by ecological interactions within the microbial community. Here, we survey the microbiome across all process steps at two biorefineries, over three timepoints in a production season. Leveraging shotgun metagenomics and cultivation-based approaches, we identify beneficial bacteria and find improved outcome when yeast-to-bacteria ratios increase during fermentation. We provide a microbial gene catalogue which reveals bacteria-specific pathways associated with performance. We also show that Limosilactobacillus fermentum overgrowth lowers production, with one strain reducing yield by ~5% in laboratory fermentations, potentially due to its metabolite profile. Temperature is found to be a major driver for strain-level dynamics. Improved microbial management strategies could unlock environmental and economic gains in this US $ 60 billion industry enabling its wider adoption.
+
+[Source](https://doi.org/10.1038/s41467-024-49683-2)
+
+10.1038/s41467-024-49683-2
+
+---
+
+## A multi-kingdom collection of 33,804 reference genomes for the human vaginal microbiome.
+ 21.06.2024, _L Huang, R Guo, S Li, X Wu, Y Zhang, S Guo, Y Lv, Z Xiao, J Kang, J Meng, P Zhou, J Ma, W You, Y Zhang, H Yu, J Zhao, G Huang, Z Duan, Q Yan, W Sun_
+
+
+The human vagina harbours diverse microorganisms-bacteria, viruses and fungi-with profound implications for women's health. Genome-level analysis of the vaginal microbiome across multiple kingdoms remains limited. Here we utilize metagenomic sequencing data and fungal cultivation to establish the Vaginal Microbial Genome Collection (VMGC), comprising 33,804 microbial genomes spanning 786 prokaryotic species, 11 fungal species and 4,263 viral operational taxonomic units. Notably, over 25% of prokaryotic species and 85% of viral operational taxonomic units remain uncultured. This collection significantly enriches genomic diversity, especially for prevalent vaginal pathogens such as BVAB1 (an uncultured bacterial vaginosis-associated bacterium) and Amygdalobacter spp. (BVAB2 and related species). Leveraging VMGC, we characterize functional traits of prokaryotes, notably Saccharofermentanales (an underexplored yet prevalent order), along with prokaryotic and eukaryotic viruses, offering insights into their niche adaptation and potential roles in the vagina. VMGC serves as a valuable resource for studying vaginal microbiota and its impact on vaginal health.
+
+[Source](https://doi.org/10.1038/s41564-024-01751-5)
+
+10.1038/s41564-024-01751-5
+
+---
+
+## Deep learning for predicting 16S rRNA gene copy number.
+ 22.06.2024, _J Miao, T Chen, M Misir, Y Lin_
+
+
+_RNA, Ribosomal, 16S, Deep Learning, Gene Dosage, Phylogeny, Computational Biology, Algorithms, Microbiota, Neural Networks, Computer_
+Culture-independent 16S rRNA gene metabarcoding is a commonly used method for microbiome profiling. To achieve more quantitative cell fraction estimates, it is important to account for the 16S rRNA gene copy number (hereafter 16S GCN) of different community members. Currently, there are several bioinformatic tools available to estimate the 16S GCN values, either based on taxonomy assignment or phylogeny. Here we present a novel approach ANNA16, Artificial Neural Network Approximator for 16S rRNA gene copy number, a deep learning-based method that estimates the 16S GCN values directly from the 16S gene sequence strings. Based on 27,579 16S rRNA gene sequences and gene copy number data from the rrnDB database, we show that ANNA16 outperforms the commonly used 16S GCN prediction algorithms. Interestingly, Shapley Additive exPlanations (SHAP) shows that ANNA16 can identify unexpected informative positions in 16S rRNA gene sequences without any prior phylogenetic knowledge, which suggests potential applications beyond 16S GCN prediction.
+
+[Source](https://doi.org/10.1038/s41598-024-64658-5)
+
+10.1038/s41598-024-64658-5
+
+---
+
+## GEM-based computational modeling for exploring metabolic interactions in a microbial community
+
+[Source](https://doi.org/10.1371/journal.pcbi.1012233)
+
+---
+
+## Techniques, procedures, and applications in microbiome analysis
+
+[Source](https://doi.org/10.1016/bs.adgen.2024.01.003)
 
 ---
 
