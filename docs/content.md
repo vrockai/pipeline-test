@@ -86,7 +86,7 @@ Aquaculture is an important food source worldwide. The extensive use of antibiot
 ---
 
 ## Genome-wide screen of genetic determinants that govern Escherichia coli growth and persistence in lake water.
- 21.06.2024, _N Teteneva, A Sanches-Medeiros, V Sourjik_
+ 22.06.2024, _N Teteneva, A Sanches-Medeiros, V Sourjik_
 
 
 _Escherichia coli, Lakes, Sigma Factor, Genome, Bacterial, DNA Transposable Elements, Bacterial Proteins, Escherichia coli Proteins, Gene Expression Regulation, Bacterial, Water Microbiology_
@@ -137,7 +137,7 @@ Fauna is highly abundant and diverse in soils worldwide, but surprisingly little
 ---
 
 ## The first ITS1 profiling of honey samples from the Southeast Asian region Lombok, Bali and Banggi Island.
- 21.06.2024, _S Ullah, F Huyop, RA Wahab, N Huda, HA Oyewusi, IGA Sujana, S Saloko, AASPR Andriani, MAN Mohamad, AA Abdul Hamid, MH Mohd Nasir, NS Antara, IBW Gunam_
+ 22.06.2024, _S Ullah, F Huyop, RA Wahab, N Huda, HA Oyewusi, IGA Sujana, S Saloko, AASPR Andriani, MAN Mohamad, AA Abdul Hamid, MH Mohd Nasir, NS Antara, IBW Gunam_
 
 
 _Honey, Bees, Animals, Mycobiome, Asia, Southeastern, DNA, Intergenic, Fungi, Pollen, Islands, Southeast Asian People_
@@ -198,7 +198,7 @@ The SeqCode is a new code of prokaryotic nomenclature that was developed to vali
 ---
 
 ## Plasma metabolomics changes comparing daytime to overnight infusions of home parenteral nutrition in adult patients with short bowel syndrome: Secondary analysis of a clinical trial.
- 20.06.2024, _HS Dashti, M Sevilla-Gonzalez, KM Mogensen, MF Winkler, C Compher_
+ 22.06.2024, _HS Dashti, M Sevilla-Gonzalez, KM Mogensen, MF Winkler, C Compher_
 
 
 _Humans, Female, Male, Middle Aged, Short Bowel Syndrome, Parenteral Nutrition, Home, Metabolomics, Adult, Circadian Rhythm_
