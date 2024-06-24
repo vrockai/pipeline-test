@@ -169,29 +169,15 @@ Antibiotics are widely used to treat bacterial infection and reduce the mortalit
 
 ---
 
-## Resistance to freezing conditions of endemic Antarctic polychaetes is enhanced by cryoprotective proteins produced by their microbiome.
- 23.06.2024, _E Buschi, A Dell'Anno, M Tangherlini, M Candela, S Rampelli, S Turroni, G Palladino, E Esposito, ML Martire, L Musco, S Stefanni, C Munari, J Fiori, R Danovaro, C Corinaldesi_
-
-
-_Polychaeta, Animals, Antarctic Regions, Microbiota, Freezing, Phylogeny, Bacterial Proteins_
-The microbiome plays a key role in the health of all metazoans. Whether and how the microbiome favors the adaptation processes of organisms to extreme conditions, such as those of Antarctica, which are incompatible with most metazoans, is still unknown. We investigated the microbiome of three endemic and widespread species of Antarctic polychaetes: Leitoscoloplos geminus, Aphelochaeta palmeri, and Aglaophamus trissophyllus. We report here that these invertebrates contain a stable bacterial core dominated by Meiothermus and Anoxybacillus, equipped with a versatile genetic makeup and a unique portfolio of proteins useful for coping with extremely cold conditions as revealed by pangenomic and metaproteomic analyses. The close phylosymbiosis between Meiothermus and Anoxybacillus and these Antarctic polychaetes indicates a connection with their hosts that started in the past to support holobiont adaptation to the Antarctic Ocean. The wide suite of bacterial cryoprotective proteins found in Antarctic polychaetes may be useful for the development of nature-based biotechnological applications.
+## Resistance to freezing conditions of endemic Antarctic polychaetes is enhanced by cryoprotective proteins produced by their microbiome
 
 [Source](https://doi.org/10.1126/sciadv.adk9117)
 
-10.1126/sciadv.adk9117
-
 ---
 
-## Microbial co-occurrence network demonstrates spatial and climatic trends for global soil diversity.
- 22.06.2024, _N Pechlivanis, G Karakatsoulis, K Kyritsis, M Tsagiopoulou, S Sgardelis, I Kappas, F Psomopoulos_
-
-
-_Soil Microbiology, Microbiota, Climate, Bacteria, Biodiversity_
-Despite recent research efforts to explore the co-occurrence patterns of diverse microbes within soil microbial communities, a substantial knowledge-gap persists regarding global climate influences on soil microbiota behaviour. Comprehending co-occurrence patterns within distinct geoclimatic groups is pivotal for unravelling the ecological structure of microbial communities, that are crucial for preserving ecosystem functions and services. Our study addresses this gap by examining global climatic patterns of microbial diversity. Using data from the Earth Microbiome Project, we analyse a meta-community co-occurrence network for bacterial communities. This method unveils substantial shifts in topological features, highlighting regional and climatic trends. Arid, Polar, and Tropical zones show lower diversity but maintain denser networks, whereas Temperate and Cold zones display higher diversity alongside more modular networks. Furthermore, it identifies significant co-occurrence patterns across diverse climatic regions. Central taxa associated with different climates are pinpointed, highlighting climate's pivotal role in community structure. In conclusion, our study identifies significant correlations between microbial interactions in diverse climatic regions, contributing valuable insights into the intricate dynamics of soil microbiota.
+## Microbial co-occurrence network demonstrates spatial and climatic trends for global soil diversity
 
 [Source](https://doi.org/10.1038/s41597-024-03528-1)
-
-10.1038/s41597-024-03528-1
 
 ---
 
