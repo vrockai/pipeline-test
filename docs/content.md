@@ -169,33 +169,67 @@ Antibiotics are widely used to treat bacterial infection and reduce the mortalit
 
 ---
 
-## Resistance to freezing conditions of endemic Antarctic polychaetes is enhanced by cryoprotective proteins produced by their microbiome
+## Resistance to freezing conditions of endemic Antarctic polychaetes is enhanced by cryoprotective proteins produced by their microbiome.
+ 23.06.2024, _E Buschi, A Dell'Anno, M Tangherlini, M Candela, S Rampelli, S Turroni, G Palladino, E Esposito, ML Martire, L Musco, S Stefanni, C Munari, J Fiori, R Danovaro, C Corinaldesi_
+
+
+_Polychaeta, Animals, Antarctic Regions, Microbiota, Freezing, Phylogeny, Bacterial Proteins_
+The microbiome plays a key role in the health of all metazoans. Whether and how the microbiome favors the adaptation processes of organisms to extreme conditions, such as those of Antarctica, which are incompatible with most metazoans, is still unknown. We investigated the microbiome of three endemic and widespread species of Antarctic polychaetes: Leitoscoloplos geminus, Aphelochaeta palmeri, and Aglaophamus trissophyllus. We report here that these invertebrates contain a stable bacterial core dominated by Meiothermus and Anoxybacillus, equipped with a versatile genetic makeup and a unique portfolio of proteins useful for coping with extremely cold conditions as revealed by pangenomic and metaproteomic analyses. The close phylosymbiosis between Meiothermus and Anoxybacillus and these Antarctic polychaetes indicates a connection with their hosts that started in the past to support holobiont adaptation to the Antarctic Ocean. The wide suite of bacterial cryoprotective proteins found in Antarctic polychaetes may be useful for the development of nature-based biotechnological applications.
 
 [Source](https://doi.org/10.1126/sciadv.adk9117)
 
+10.1126/sciadv.adk9117
+
 ---
 
-## Microbial co-occurrence network demonstrates spatial and climatic trends for global soil diversity
+## Microbial co-occurrence network demonstrates spatial and climatic trends for global soil diversity.
+ 24.06.2024, _N Pechlivanis, G Karakatsoulis, K Kyritsis, M Tsagiopoulou, S Sgardelis, I Kappas, F Psomopoulos_
+
+
+_Soil Microbiology, Microbiota, Climate, Bacteria, Biodiversity_
+Despite recent research efforts to explore the co-occurrence patterns of diverse microbes within soil microbial communities, a substantial knowledge-gap persists regarding global climate influences on soil microbiota behaviour. Comprehending co-occurrence patterns within distinct geoclimatic groups is pivotal for unravelling the ecological structure of microbial communities, that are crucial for preserving ecosystem functions and services. Our study addresses this gap by examining global climatic patterns of microbial diversity. Using data from the Earth Microbiome Project, we analyse a meta-community co-occurrence network for bacterial communities. This method unveils substantial shifts in topological features, highlighting regional and climatic trends. Arid, Polar, and Tropical zones show lower diversity but maintain denser networks, whereas Temperate and Cold zones display higher diversity alongside more modular networks. Furthermore, it identifies significant co-occurrence patterns across diverse climatic regions. Central taxa associated with different climates are pinpointed, highlighting climate's pivotal role in community structure. In conclusion, our study identifies significant correlations between microbial interactions in diverse climatic regions, contributing valuable insights into the intricate dynamics of soil microbiota.
 
 [Source](https://doi.org/10.1038/s41597-024-03528-1)
 
+10.1038/s41597-024-03528-1
+
 ---
 
-## Strain dynamics of contaminating bacteria modulate the yield of ethanol biorefineries
+## Strain dynamics of contaminating bacteria modulate the yield of ethanol biorefineries.
+ 24.06.2024, _FS de Oliveira Lino, S Garg, SS Li, MA Misiakou, K Kang, BL Vale da Costa, TS Beyer-Pedersen, TG Giacon, TO Basso, G Panagiotou, MOA Sommer_
+
+
+_Ethanol, Fermentation, Bacteria, Microbiota, Biofuels, Metagenomics, Industrial Microbiology, Temperature_
+Bioethanol is a sustainable energy alternative and can contribute to global greenhouse-gas emission reductions by over 60%. Its industrial production faces various bottlenecks, including sub-optimal efficiency resulting from bacteria. Broad-spectrum removal of these contaminants results in negligible gains, suggesting that the process is shaped by ecological interactions within the microbial community. Here, we survey the microbiome across all process steps at two biorefineries, over three timepoints in a production season. Leveraging shotgun metagenomics and cultivation-based approaches, we identify beneficial bacteria and find improved outcome when yeast-to-bacteria ratios increase during fermentation. We provide a microbial gene catalogue which reveals bacteria-specific pathways associated with performance. We also show that Limosilactobacillus fermentum overgrowth lowers production, with one strain reducing yield by ~5% in laboratory fermentations, potentially due to its metabolite profile. Temperature is found to be a major driver for strain-level dynamics. Improved microbial management strategies could unlock environmental and economic gains in this US $ 60 billion industry enabling its wider adoption.
 
 [Source](https://doi.org/10.1038/s41467-024-49683-2)
 
+10.1038/s41467-024-49683-2
+
 ---
 
-## A multi-kingdom collection of 33,804 reference genomes for the human vaginal microbiome
+## A multi-kingdom collection of 33,804 reference genomes for the human vaginal microbiome.
+ 21.06.2024, _L Huang, R Guo, S Li, X Wu, Y Zhang, S Guo, Y Lv, Z Xiao, J Kang, J Meng, P Zhou, J Ma, W You, Y Zhang, H Yu, J Zhao, G Huang, Z Duan, Q Yan, W Sun_
+
+
+The human vagina harbours diverse microorganisms-bacteria, viruses and fungi-with profound implications for women's health. Genome-level analysis of the vaginal microbiome across multiple kingdoms remains limited. Here we utilize metagenomic sequencing data and fungal cultivation to establish the Vaginal Microbial Genome Collection (VMGC), comprising 33,804 microbial genomes spanning 786 prokaryotic species, 11 fungal species and 4,263 viral operational taxonomic units. Notably, over 25% of prokaryotic species and 85% of viral operational taxonomic units remain uncultured. This collection significantly enriches genomic diversity, especially for prevalent vaginal pathogens such as BVAB1 (an uncultured bacterial vaginosis-associated bacterium) and Amygdalobacter spp. (BVAB2 and related species). Leveraging VMGC, we characterize functional traits of prokaryotes, notably Saccharofermentanales (an underexplored yet prevalent order), along with prokaryotic and eukaryotic viruses, offering insights into their niche adaptation and potential roles in the vagina. VMGC serves as a valuable resource for studying vaginal microbiota and its impact on vaginal health.
 
 [Source](https://doi.org/10.1038/s41564-024-01751-5)
 
+10.1038/s41564-024-01751-5
+
 ---
 
-## Deep learning for predicting 16S rRNA gene copy number
+## Deep learning for predicting 16S rRNA gene copy number.
+ 23.06.2024, _J Miao, T Chen, M Misir, Y Lin_
+
+
+_RNA, Ribosomal, 16S, Deep Learning, Gene Dosage, Phylogeny, Computational Biology, Algorithms, Microbiota, Neural Networks, Computer_
+Culture-independent 16S rRNA gene metabarcoding is a commonly used method for microbiome profiling. To achieve more quantitative cell fraction estimates, it is important to account for the 16S rRNA gene copy number (hereafter 16S GCN) of different community members. Currently, there are several bioinformatic tools available to estimate the 16S GCN values, either based on taxonomy assignment or phylogeny. Here we present a novel approach ANNA16, Artificial Neural Network Approximator for 16S rRNA gene copy number, a deep learning-based method that estimates the 16S GCN values directly from the 16S gene sequence strings. Based on 27,579 16S rRNA gene sequences and gene copy number data from the rrnDB database, we show that ANNA16 outperforms the commonly used 16S GCN prediction algorithms. Interestingly, Shapley Additive exPlanations (SHAP) shows that ANNA16 can identify unexpected informative positions in 16S rRNA gene sequences without any prior phylogenetic knowledge, which suggests potential applications beyond 16S GCN prediction.
 
 [Source](https://doi.org/10.1038/s41598-024-64658-5)
+
+10.1038/s41598-024-64658-5
 
 ---
 
