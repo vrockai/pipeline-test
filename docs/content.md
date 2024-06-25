@@ -187,28 +187,15 @@ Antibiotics are widely used to treat bacterial infection and reduce the mortalit
 
 ---
 
-## A multi-kingdom collection of 33,804 reference genomes for the human vaginal microbiome.
- 21.06.2024, _L Huang, R Guo, S Li, X Wu, Y Zhang, S Guo, Y Lv, Z Xiao, J Kang, J Meng, P Zhou, J Ma, W You, Y Zhang, H Yu, J Zhao, G Huang, Z Duan, Q Yan, W Sun_
-
-
-The human vagina harbours diverse microorganisms-bacteria, viruses and fungi-with profound implications for women's health. Genome-level analysis of the vaginal microbiome across multiple kingdoms remains limited. Here we utilize metagenomic sequencing data and fungal cultivation to establish the Vaginal Microbial Genome Collection (VMGC), comprising 33,804 microbial genomes spanning 786 prokaryotic species, 11 fungal species and 4,263 viral operational taxonomic units. Notably, over 25% of prokaryotic species and 85% of viral operational taxonomic units remain uncultured. This collection significantly enriches genomic diversity, especially for prevalent vaginal pathogens such as BVAB1 (an uncultured bacterial vaginosis-associated bacterium) and Amygdalobacter spp. (BVAB2 and related species). Leveraging VMGC, we characterize functional traits of prokaryotes, notably Saccharofermentanales (an underexplored yet prevalent order), along with prokaryotic and eukaryotic viruses, offering insights into their niche adaptation and potential roles in the vagina. VMGC serves as a valuable resource for studying vaginal microbiota and its impact on vaginal health.
+## A multi-kingdom collection of 33,804 reference genomes for the human vaginal microbiome
 
 [Source](https://doi.org/10.1038/s41564-024-01751-5)
 
-10.1038/s41564-024-01751-5
-
 ---
 
-## Deep learning for predicting 16S rRNA gene copy number.
- 23.06.2024, _J Miao, T Chen, M Misir, Y Lin_
-
-
-_RNA, Ribosomal, 16S, Deep Learning, Gene Dosage, Phylogeny, Computational Biology, Algorithms, Microbiota, Neural Networks, Computer_
-Culture-independent 16S rRNA gene metabarcoding is a commonly used method for microbiome profiling. To achieve more quantitative cell fraction estimates, it is important to account for the 16S rRNA gene copy number (hereafter 16S GCN) of different community members. Currently, there are several bioinformatic tools available to estimate the 16S GCN values, either based on taxonomy assignment or phylogeny. Here we present a novel approach ANNA16, Artificial Neural Network Approximator for 16S rRNA gene copy number, a deep learning-based method that estimates the 16S GCN values directly from the 16S gene sequence strings. Based on 27,579 16S rRNA gene sequences and gene copy number data from the rrnDB database, we show that ANNA16 outperforms the commonly used 16S GCN prediction algorithms. Interestingly, Shapley Additive exPlanations (SHAP) shows that ANNA16 can identify unexpected informative positions in 16S rRNA gene sequences without any prior phylogenetic knowledge, which suggests potential applications beyond 16S GCN prediction.
+## Deep learning for predicting 16S rRNA gene copy number
 
 [Source](https://doi.org/10.1038/s41598-024-64658-5)
-
-10.1038/s41598-024-64658-5
 
 ---
 
