@@ -66,7 +66,7 @@ N-butylphthalide (NBP) is a monomeric compound extracted from natural plant cele
 ---
 
 ## Trilobatin ameliorates dextran sulfate sodium-induced ulcerative colitis in mice via the NF-κB pathway and alterations in gut microbiota.
- 24.06.2024, _N Wang, Z Li, L Cao, Z Cui_
+ 26.06.2024, _N Wang, Z Li, L Cao, Z Cui_
 
 
 _Animals, Dextran Sulfate, Gastrointestinal Microbiome, Colitis, Ulcerative, NF-kappa B, Mice, Signal Transduction, Male, Disease Models, Animal, Colon, Mice, Inbred C57BL_
@@ -91,7 +91,7 @@ Mounting evidence of the occurrence of direct and indirect interactions between 
 ---
 
 ## Analysis of differences in the rumen microbiome and metabolic function in prepartum dairy cows with different body condition scores.
- 24.06.2024, _D Du, Y Wang, Y Gao, L Feng, Z Zhang, Z Hu_
+ 26.06.2024, _D Du, Y Wang, Y Gao, L Feng, Z Zhang, Z Hu_
 
 
 The rumen is a crucial digestive organ for dairy cows. The rumen microbiota assists in the digestion of plant feed through microbe-mediated fermentation, during which the plant feed is transformed into nutrients for the cow's use. Variations in the composition and function of the rumen microbiome affect the energy utilization efficiency of dairy cows, which is one of the reasons for the varying body condition scores (BCSs). This study focused on prepartum Holstein dairy cows to analyze differences in rumen microbiota and metabolites among cows with different BCSs. Twelve prepartum dairy cows were divided into two groups, low BCS (LBCS, BCS = 2.75, n = 6) and high BCS (HBCS, BCS = 3.5, n = 6), to explore differences in microbial composition and metabolites.
@@ -175,7 +175,7 @@ As unicellular predators, ciliates engage in close associations with diverse mic
 ---
 
 ## Entourage: all-in-one sequence analysis software for genome assembly, virus detection, virus discovery, and intrasample variation profiling.
- 24.06.2024, _W Phumiphanjarphak, P Aiewsakun_
+ 26.06.2024, _W Phumiphanjarphak, P Aiewsakun_
 
 
 _Software, Genome, Viral, Humans, High-Throughput Nucleotide Sequencing, SARS-CoV-2, Metagenomics, Viruses, COVID-19, Virome, HeLa Cells_
