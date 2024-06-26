@@ -193,9 +193,16 @@ Antibiotics are widely used to treat bacterial infection and reduce the mortalit
 
 ---
 
-## Deep learning for predicting 16S rRNA gene copy number
+## Deep learning for predicting 16S rRNA gene copy number.
+ 23.06.2024, _J Miao, T Chen, M Misir, Y Lin_
+
+
+_RNA, Ribosomal, 16S, Deep Learning, Gene Dosage, Phylogeny, Computational Biology, Algorithms, Microbiota, Neural Networks, Computer_
+Culture-independent 16S rRNA gene metabarcoding is a commonly used method for microbiome profiling. To achieve more quantitative cell fraction estimates, it is important to account for the 16S rRNA gene copy number (hereafter 16S GCN) of different community members. Currently, there are several bioinformatic tools available to estimate the 16S GCN values, either based on taxonomy assignment or phylogeny. Here we present a novel approach ANNA16, Artificial Neural Network Approximator for 16S rRNA gene copy number, a deep learning-based method that estimates the 16S GCN values directly from the 16S gene sequence strings. Based on 27,579 16S rRNA gene sequences and gene copy number data from the rrnDB database, we show that ANNA16 outperforms the commonly used 16S GCN prediction algorithms. Interestingly, Shapley Additive exPlanations (SHAP) shows that ANNA16 can identify unexpected informative positions in 16S rRNA gene sequences without any prior phylogenetic knowledge, which suggests potential applications beyond 16S GCN prediction.
 
 [Source](https://doi.org/10.1038/s41598-024-64658-5)
+
+10.1038/s41598-024-64658-5
 
 ---
 
