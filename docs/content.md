@@ -53,7 +53,7 @@ The gut microbiota plays an important role in the development of behavior and im
 ---
 
 ## Antibiotics affect the pharmacokinetics of n-butylphthalide in vivo by altering the intestinal microbiota.
- 25.06.2024, _X Li, X Guo, Y Liu, F Ren, S Li, X Yang, J Liu, Z Zhang_
+ 27.06.2024, _X Li, X Guo, Y Liu, F Ren, S Li, X Yang, J Liu, Z Zhang_
 
 
 _Animals, Gastrointestinal Microbiome, Anti-Bacterial Agents, Rats, Benzofurans, Rats, Sprague-Dawley, Male, Cytochrome P-450 CYP3A, Liver, Intestine, Small_
@@ -79,7 +79,7 @@ This study aimed to evaluate the effects of trilobatin (TLB) on dextran sulfate 
 ---
 
 ## Gut microbiota and immune profiling of microbiota-humanised versus wildtype mouse models of hepatointestinal schistosomiasis.
- 25.06.2024, _KA Stark, G Rinaldi, A Costain, S Clare, C Tolley, A Almeida, C McCarthy, K Harcourt, C Brandt, TD Lawley, M Berriman, AS MacDonald, JE Forde-Thomas, BJ Hulme, KF Hoffmann, C Cantacessi, A Cortés_
+ 27.06.2024, _KA Stark, G Rinaldi, A Costain, S Clare, C Tolley, A Almeida, C McCarthy, K Harcourt, C Brandt, TD Lawley, M Berriman, AS MacDonald, JE Forde-Thomas, BJ Hulme, KF Hoffmann, C Cantacessi, A Cortés_
 
 
 Mounting evidence of the occurrence of direct and indirect interactions between the human blood fluke, Schistosoma mansoni, and the gut microbiota of rodent models raises questions on the potential role(s) of the latter in the pathophysiology of hepatointestinal schistosomiasis. However, substantial differences in both the composition and function between the gut microbiota of laboratory rodents and that of humans hinders an in-depth understanding of the significance of such interactions for human schistosomiasis. Taking advantage of the availability of a human microbiota-associated mouse model (HMA), we have previously highlighted differences in infection-associated changes in gut microbiota composition between HMA and wildtype (WT) mice. To further explore the dynamics of schistosome-microbiota relationships in HMA mice, in this study we (i) characterize qualitative and quantitative changes in gut microbiota composition of a distinct line of HMA mice (D2 HMA) infected with S. mansoni prior to and following the onset of parasite egg production; (ii) profile local and systemic immune responses against the parasite in HMA as well as WT mice and (iii) assess levels of faecal inflammatory markers and occult blood as indirect measures of gut tissue damage. We show that patent S. mansoni infection is associated with reduced bacterial alpha diversity in the gut of D2 HMA mice, alongside expansion of hydrogen sulphide-producing bacteria. Similar systemic humoral responses against S. mansoni in WT and D2 HMA mice, as well as levels of faecal lipocalin and markers of alternatively activated macrophages, suggest that these are independent of baseline gut microbiota composition. Qualitative comparative analyses between faecal microbial profiles of S. mansoni-infected WT and distinct lines of HMA mice reveal that, while infection-induced alterations of the gut microbiota composition are highly dependent on the baseline flora, bile acid composition and metabolism may represent key elements of schistosome-microbiota interactions through the gut-liver axis.
@@ -175,7 +175,7 @@ As unicellular predators, ciliates engage in close associations with diverse mic
 ---
 
 ## Entourage: all-in-one sequence analysis software for genome assembly, virus detection, virus discovery, and intrasample variation profiling.
- 26.06.2024, _W Phumiphanjarphak, P Aiewsakun_
+ 27.06.2024, _W Phumiphanjarphak, P Aiewsakun_
 
 
 _Software, Genome, Viral, Humans, High-Throughput Nucleotide Sequencing, SARS-CoV-2, Metagenomics, Viruses, COVID-19, Virome, HeLa Cells_
