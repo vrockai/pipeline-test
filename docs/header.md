@@ -1,5 +1,5 @@
 # Microbiome Digest Expander 
-## 2024-06-27
+## 2024-06-28
 
 This page contains automatically parsed and expanded articles from the best page on internet, the last 
 [Microbiome Digest – Bik's Picks](https://microbiomedigest.com/) blog post 
