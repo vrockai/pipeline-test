@@ -1,195 +1,231 @@
-## Microbial community-scale metabolic modelling predicts personalized short-chain fatty acid production profiles in the human gut.
- 24.06.2024, _N Quinn-Bohmann, T Wilmanski, KR Sarmiento, L Levy, JW Lampe, T Gurry, N Rappaport, EM Ostrem, OS Venturelli, C Diener, SM Gibbons_
+## Metaproteomic portrait of the healthy human gut microbiota.
+ 29.06.2024, _A Tanca, A Palomba, G Fiorito, M Abbondio, D Pagnozzi, S Uzzau_
 
 
-Microbially derived short-chain fatty acids (SCFAs) in the human gut are tightly coupled to host metabolism, immune regulation and integrity of the intestinal epithelium. However, the production of SCFAs can vary widely between individuals consuming the same diet, with lower levels often associated with disease. A systems-scale mechanistic understanding of this heterogeneity is lacking. Here we use a microbial community-scale metabolic modelling (MCMM) approach to predict individual-specific SCFA production profiles to assess the impact of different dietary, prebiotic and probiotic inputs. We evaluate the quantitative accuracy of our MCMMs using in vitro and ex vivo data, plus published human cohort data. We find that MCMM SCFA predictions are significantly associated with blood-derived clinical chemistries, including cardiometabolic and immunological health markers, across a large human cohort. Finally, we demonstrate how MCMMs can be leveraged to design personalized dietary, prebiotic and probiotic interventions aimed at optimizing SCFA production in the gut. Our model represents an approach to direct gut microbiome engineering for precision health and nutrition.
+_Humans, Gastrointestinal Microbiome, Proteomics, Bacteria, Feces, Bacterial Proteins, Healthy Volunteers, Proteome, Metabolic Networks and Pathways_
+Gut metaproteomics can provide direct evidence of microbial functions actively expressed in the colonic environments, contributing to clarify the role of the gut microbiota in human physiology. In this study, we re-analyzed 10 fecal metaproteomics datasets of healthy individuals from different continents and countries, with the aim of identifying stable and variable gut microbial functions and defining the contribution of specific bacterial taxa to the main metabolic pathways. The "core" metaproteome included 182 microbial functions and 83 pathways that were identified in all individuals analyzed. Several enzymes involved in glucose and pyruvate metabolism, along with glutamate dehydrogenase, acetate kinase, elongation factors G and Tu and DnaK, were the proteins with the lowest abundance variability in the cohorts under study. On the contrary, proteins involved in chemotaxis, response to stress and cell adhesion were among the most variable functions. Random-effect meta-analysis of correlation trends between taxa, functions and pathways revealed key ecological and molecular associations within the gut microbiota. The contribution of specific bacterial taxa to the main biological processes was also investigated, finding that Faecalibacterium is the most stable genus and the top contributor to anti-inflammatory butyrate production in the healthy gut microbiota. Active production of other mucosal immunomodulators facilitating host tolerance was observed, including Roseburia flagellin and lipopolysaccharide biosynthetic enzymes expressed by members of Bacteroidota. Our study provides a detailed picture of the healthy human gut microbiota, contributing to unveil its functional mechanisms and its relationship with nutrition, immunity, and environmental stressors.
 
-[Source](https://www.nature.com/articles/s41564-024-01728-4)
+[Source](https://doi.org/10.1038/s41522-024-00526-4)
 
-10.1038/s41564-024-01728-4
-
----
-
-## Island biogeography theory provides a plausible explanation for why larger vertebrates and taller humans have more diverse gut microbiomes.
- 21.06.2024, _KR Sarmiento, A Carr, C Diener, KJ Locey, SM Gibbons_
-
-
-Prior work has shown a positive scaling relationship between vertebrate body size, human height, and gut microbiome alpha diversity. This observation mirrors commonly observed species area relationships (SAR) in many other ecosystems. Here, we expand these observations to several large data sets, showing that this size-diversity scaling relationship is independent of relevant covariates, like diet, body mass index, age, sex, bowel movement frequency, antibiotic usage, and cardiometabolic health markers. Island biogeography theory (IBT), which predicts that larger islands tend to harbor greater species diversity through neutral demographic processes, provides a simple mechanism for positive SARs. Using gut-adapted IBT model, we demonstrated that increasing the length of a flow-through ecosystem led to increased species diversity, closely matching our empirical observations. We delve into the possible clinical implications of these SARs in the American Gut cohort. Consistent with prior observations that lower alpha diversity is a risk factor for Clostridioides difficile infection (CDI), we found that individuals who reported a history of CDI were shorter than those who did not and that this relationship was mediated by alpha diversity. We observed that vegetable consumption had a much stronger association with CDI history, which was also partially mediated by alpha diversity. In summary, we find that the positive scaling observed between body size and gut alpha diversity can be plausibly explained by a gut-adapted IBT model, may be related to CDI risk, and vegetable intake appears to independently mitigate this risk, although additional work is needed to validate the potential disease risk implications.
-
-[Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae114/7697032)
-
-10.1093/ismejo/wrae114
+10.1038/s41522-024-00526-4
 
 ---
 
-## Dietary fibre directs microbial tryptophan metabolism via metabolic interactions in the gut microbiota.
- 25.06.2024, _AK Sinha, MF Laursen, JE Brinck, ML Rybtke, AP Hjørne, N Procházková, M Pedersen, HM Roager, TR Licht_
+## Microbiome and Growth in Infants with Congenital Heart Disease.
+ 29.06.2024, _MP Fundora, C Calamaro, Y Wu, AM Brown, A St John, R Keiffer, Y Xiang, K Liu, S Gillespie, PW Denning, K Sanders-Lewis, B Seitter, J Bai_
 
 
-Tryptophan is catabolized by gut microorganisms resulting in a wide range of metabolites implicated in both beneficial and adverse host effects. How gut microbial tryptophan metabolism is directed towards indole, associated with chronic kidney disease, or towards protective indolelactic acid (ILA) and indolepropionic acid (IPA) is unclear. Here we used in vitro culturing and animal experiments to assess gut microbial competition for tryptophan and the resulting metabolites in a controlled three-species defined community and in complex undefined human faecal communities. The generation of specific tryptophan-derived metabolites was not predominantly determined by the abundance of tryptophan-metabolizing bacteria, but rather by substrate-dependent regulation of specific metabolic pathways. Indole-producing Escherichia coli and ILA- and IPA-producing Clostridium sporogenes competed for tryptophan within the three-species community in vitro and in vivo. Importantly, fibre-degrading Bacteroides thetaiotaomicron affected this competition by cross-feeding monosaccharides to E. coli. This inhibited indole production through catabolite repression, thus making more tryptophan available to C. sporogenes, resulting in increased ILA and IPA production. The fibre-dependent reduction in indole was confirmed using human faecal cultures and faecal-microbiota-transplanted gnotobiotic mice. Our findings explain why consumption of fermentable fibres suppresses indole production but promotes the generation of other tryptophan metabolites associated with health benefits.
+To profile the gut microbiome in infants with congenital heart disease undergoing cardiac surgery compared with matched infants and to investigate the association with growth (weight, length, and head circumference).
 
-[Source](https://www.nature.com/articles/s41564-024-01737-3)
+[Source](https://www.jpeds.com/article/S0022-3476(24)00272-5/fulltext)
 
-10.1038/s41564-024-01737-3
-
----
-
-## The zebrafish gut microbiome influences benzo[a]pyrene developmental neurobehavioral toxicity
-
-[Source](https://www.nature.com/articles/s41598-024-65610-3)
+10.1016/j.jpeds.2024.114169
 
 ---
 
-## Modulation of gut microbiota composition due to early weaning stress induces depressive behavior during the juvenile period in mice.
- 22.06.2024, _I Kamimura, E Miyauchi, T Takeuchi, N Tsuchiya, K Tamura, A Uesugi, H Negishi, T Taida, T Kato, M Kawasumi, M Nagasawa, K Mogi, H Ohno, T Kikusui_
+## Driving gut microbiota enterotypes through host genetics.
+ 29.06.2024, _C Larzul, J Estellé, M Borey, F Blanc, G Lemonnier, Y Billon, MG Thiam, B Quinquis, N Galleron, D Jardet, J Lecardonnel, F Plaza Oñate, C Rogel-Gaillard_
 
 
-The gut microbiota plays an important role in the development of behavior and immunity in infants and juveniles. Early weaning (EW), a form of social stress in mice, leads to increased anxiety and an enhanced stress response in the hypothalamic-pituitary-adrenal axis during adulthood. Early life stress also modulates the immune system and increases vulnerability to infection. However, studies investigating the causal relationships among juvenile stress, microbiota changes, and immune and behavioral deficits are limited. Therefore, we hypothesized that EW alters gut microbiota composition and impairs the development of the nervous and immune systems.
+_Animals, Gastrointestinal Microbiome, Swine, Feces, Bacteria, Metagenomics, Prevotella, Ruminococcus, Treponema_
+Population stratification based on interindividual variability in gut microbiota composition has revealed the existence of several ecotypes named enterotypes in humans and various animal species. Enterotypes are often associated with environmental factors including diet, but knowledge of the role of host genetics remains scarce. Moreover, enterotypes harbor functionalities likely associated with varying abilities and susceptibilities of their host. Previously, we showed that under controlled conditions, 60-day-old pig populations consistently split into two enterotypes with either Prevotella and Mitsuokella (PM enterotype) or Ruminococcus and Treponema (RT enterotype) as keystone taxa. Here, our aim was to rely on pig as a model to study the influence of host genetics to assemble enterotypes, and to provide clues on enterotype functional differences and their links with growth traits.
 
-[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00322-7)
+[Source](https://doi.org/10.1186/s40168-024-01827-8)
 
-10.1186/s42523-024-00322-7
-
----
-
-## Antibiotics affect the pharmacokinetics of n-butylphthalide in vivo by altering the intestinal microbiota.
- 27.06.2024, _X Li, X Guo, Y Liu, F Ren, S Li, X Yang, J Liu, Z Zhang_
-
-
-_Animals, Gastrointestinal Microbiome, Anti-Bacterial Agents, Rats, Benzofurans, Rats, Sprague-Dawley, Male, Cytochrome P-450 CYP3A, Liver, Intestine, Small_
-N-butylphthalide (NBP) is a monomeric compound extracted from natural plant celery seeds, whether intestinal microbiota alteration can modify its pharmacokinetics is still unclear. The purpose of this study is to investigate the effect of intestinal microbiota alteration on the pharmacokinetics of NBP and its related mechanisms.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297713)
-
-10.1371/journal.pone.0297713
+10.1186/s40168-024-01827-8
 
 ---
 
-## Trilobatin ameliorates dextran sulfate sodium-induced ulcerative colitis in mice via the NF-κB pathway and alterations in gut microbiota.
- 26.06.2024, _N Wang, Z Li, L Cao, Z Cui_
+## Obesity-associated microbiomes instigate visceral adipose tissue inflammation by recruitment of distinct neutrophils.
+ 29.06.2024, _D Shantaram, R Hoyd, AM Blaszczak, L Antwi, A Jalilvand, VP Wright, J Liu, AJ Smith, D Bradley, W Lafuse, Y Liu, NF Williams, O Snyder, C Wheeler, B Needleman, S Brethauer, S Noria, D Renton, KA Perry, P Nagareddy, D Wozniak, S Mahajan, PSJB Rana, M Pietrzak, LS Schlesinger, DJ Spakowicz, WA Hsueh_
 
 
-_Animals, Dextran Sulfate, Gastrointestinal Microbiome, Colitis, Ulcerative, NF-kappa B, Mice, Signal Transduction, Male, Disease Models, Animal, Colon, Mice, Inbred C57BL_
-This study aimed to evaluate the effects of trilobatin (TLB) on dextran sulfate sodium (DSS)-induced ulcerative colitis (UC) in mice and further explore the underlying mechanisms from the perspectives of signaling pathway and gut microbiota.
+_Intra-Abdominal Fat, Animals, Obesity, Humans, Neutrophils, Diet, High-Fat, Mice, Inflammation, Gastrointestinal Microbiome, Male, Mice, Inbred C57BL, Female, Feces, Microbiota, Th1 Cells, Neutrophil Infiltration_
+Neutrophils are increasingly implicated in chronic inflammation and metabolic disorders. Here, we show that visceral adipose tissue (VAT) from individuals with obesity contains more neutrophils than in those without obesity and is associated with a distinct bacterial community. Exploring the mechanism, we gavaged microbiome-depleted mice with stool from patients with and without obesity during high-fat or normal diet administration. Only mice receiving high-fat diet and stool from subjects with obesity show enrichment of VAT neutrophils, suggesting donor microbiome and recipient diet determine VAT neutrophilia. A rise in pro-inflammatory CD4+ Th1 cells and a drop in immunoregulatory T cells in VAT only follows if there is a transient spike in neutrophils. Human VAT neutrophils exhibit a distinct gene expression pattern that is found in different human tissues, including tumors. VAT neutrophils and bacteria may be a novel therapeutic target for treating inflammatory-driven complications of obesity, including insulin resistance and colon cancer.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305926)
+[Source](https://doi.org/10.1038/s41467-024-48935-5)
 
-10.1371/journal.pone.0305926
-
----
-
-## Gut microbiota and immune profiling of microbiota-humanised versus wildtype mouse models of hepatointestinal schistosomiasis.
- 28.06.2024, _KA Stark, G Rinaldi, A Costain, S Clare, C Tolley, A Almeida, C McCarthy, K Harcourt, C Brandt, TD Lawley, M Berriman, AS MacDonald, JE Forde-Thomas, BJ Hulme, KF Hoffmann, C Cantacessi, A Cortés_
-
-
-Mounting evidence of the occurrence of direct and indirect interactions between the human blood fluke, Schistosoma mansoni, and the gut microbiota of rodent models raises questions on the potential role(s) of the latter in the pathophysiology of hepatointestinal schistosomiasis. However, substantial differences in both the composition and function between the gut microbiota of laboratory rodents and that of humans hinders an in-depth understanding of the significance of such interactions for human schistosomiasis. Taking advantage of the availability of a human microbiota-associated mouse model (HMA), we have previously highlighted differences in infection-associated changes in gut microbiota composition between HMA and wildtype (WT) mice. To further explore the dynamics of schistosome-microbiota relationships in HMA mice, in this study we (i) characterize qualitative and quantitative changes in gut microbiota composition of a distinct line of HMA mice (D2 HMA) infected with S. mansoni prior to and following the onset of parasite egg production; (ii) profile local and systemic immune responses against the parasite in HMA as well as WT mice and (iii) assess levels of faecal inflammatory markers and occult blood as indirect measures of gut tissue damage. We show that patent S. mansoni infection is associated with reduced bacterial alpha diversity in the gut of D2 HMA mice, alongside expansion of hydrogen sulphide-producing bacteria. Similar systemic humoral responses against S. mansoni in WT and D2 HMA mice, as well as levels of faecal lipocalin and markers of alternatively activated macrophages, suggest that these are independent of baseline gut microbiota composition. Qualitative comparative analyses between faecal microbial profiles of S. mansoni-infected WT and distinct lines of HMA mice reveal that, while infection-induced alterations of the gut microbiota composition are highly dependent on the baseline flora, bile acid composition and metabolism may represent key elements of schistosome-microbiota interactions through the gut-liver axis.
-
-[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00318-3)
-
-10.1186/s42523-024-00318-3
+10.1038/s41467-024-48935-5
 
 ---
 
-## Analysis of differences in the rumen microbiome and metabolic function in prepartum dairy cows with different body condition scores.
- 26.06.2024, _D Du, Y Wang, Y Gao, L Feng, Z Zhang, Z Hu_
+## Fecal, Duodenal and Tumor Microbiota Composition of Esophageal Carcinoma Patients, a Longitudinal Prospective Cohort.
+ 26.06.2024, _T van den Ende, NC de Clercq, M Davids, R Goedegebuure, BH Doeve, G Ebrahimi, J Buijsen, R Hoekstra, NH Mohammad, MF Bijlsma, M Nieuwdorp, HWM van Laarhoven_
 
 
-The rumen is a crucial digestive organ for dairy cows. The rumen microbiota assists in the digestion of plant feed through microbe-mediated fermentation, during which the plant feed is transformed into nutrients for the cow's use. Variations in the composition and function of the rumen microbiome affect the energy utilization efficiency of dairy cows, which is one of the reasons for the varying body condition scores (BCSs). This study focused on prepartum Holstein dairy cows to analyze differences in rumen microbiota and metabolites among cows with different BCSs. Twelve prepartum dairy cows were divided into two groups, low BCS (LBCS, BCS = 2.75, n = 6) and high BCS (HBCS, BCS = 3.5, n = 6), to explore differences in microbial composition and metabolites.
+The microbiome has been associated with chemotherapy and immune checkpoint inhibitor (ICI) efficacy. How this pertains to resectable esophageal carcinoma (EC) is unknown. Our aim was to identify microbial signatures in resectable EC associated with response to neoadjuvant chemoradiotherapy (nCRT) with or without ICI.
 
-[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00324-5)
+[Source](https://doi.org/10.1093/jnci/djae153)
 
-10.1186/s42523-024-00324-5
-
----
-
-## Improvement of insulin sensitivity by dietary fiber consumption during late pregnant sows is associated with gut microbiota regulation of tryptophan metabolism.
- 23.06.2024, _Y Li, J He, L Zhang, H Liu, M Cao, Y Lin, S Xu, L Che, Z Fang, B Feng, J Li, Y Zhuo, D Wu_
-
-
-Dietary fiber (DF) consumption was reported to improve insulin sensitivity, change the tryptophan metabolism, and alter the gut microbiota. Herein, this study aimed to investigate the effects of DF consumption on insulin sensitivity, tryptophan metabolism, and gut microbiota composition in sows during late pregnancy, and explore the relationship between tryptophan metabolites and insulin sensitivity regulated by DF supplementation.
-
-[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00323-6)
-
-10.1186/s42523-024-00323-6
+10.1093/jnci/djae153
 
 ---
 
-## Gut microbiota diversity in a dung beetle (Catharsius molossus) across geographical variations and brood ball-mediated microbial transmission
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304908)
-
----
-
-## Metagenomic insights into Heimdallarchaeia clades from the deep-sea cold seep and hydrothermal vent.
- 25.06.2024, _R Liu, R Cai, M Wang, J Zhang, H Zhang, C Li, C Sun_
+## Role of the intestinal microbiota in contributing to weight disorders and associated comorbidities.
+ 28.06.2024, _M Van Hul, AM Neyrinck, A Everard, A Abot, LB Bindels, NM Delzenne, C Knauf, PD Cani_
 
 
-Heimdallarchaeia is a class of the Asgardarchaeota, are the most probable candidates for the archaeal protoeukaryote ancestor that have been identified to date. However, little is known about their life habits regardless of their ubiquitous distribution in diverse habitats, which is especially true for Heimdallarchaeia from deep-sea environments. In this study, we obtained 13 metagenome-assembled genomes (MAGs) of Heimdallarchaeia from the deep-sea cold seep and hydrothermal vent. These MAGs belonged to orders o_Heimdallarchaeales and o_JABLTI01, and most of them (9 MAGs) come from the family f_Heimdallarchaeaceae according to genome taxonomy database (GTDB). These are enriched for common eukaryote-specific signatures. Our results show that these Heimdallarchaeia have the metabolic potential to reduce sulfate (assimilatory) and nitrate (dissimilatory) to sulfide and ammonia, respectively, suggesting a previously unappreciated role in biogeochemical cycling. Furthermore, we find that they could perform both TCA and rTCA pathways coupled with pyruvate metabolism for energy conservation, fix CO2 and generate organic compounds through an atypical Wood-Ljungdahl pathway. In addition, many genes closely associated with bacteriochlorophyll and carotenoid biosynthesis, and oxygen-dependent metabolic pathways are identified in these Heimdallarchaeia MAGs, suggesting a potential light-utilization by pigments and microoxic lifestyle. Taken together, our results indicate that Heimdallarchaeia possess a mixotrophic lifestyle, which may give them more flexibility to adapt to the harsh deep-sea conditions.
+SUMMARYThe gut microbiota is a major factor contributing to the regulation of energy homeostasis and has been linked to both excessive body weight and accumulation of fat mass (i.e., overweight, obesity) or body weight loss, weakness, muscle atrophy, and fat depletion (i.e., cachexia). These syndromes are characterized by multiple metabolic dysfunctions including abnormal regulation of food reward and intake, energy storage, and low-grade inflammation. Given the increasing worldwide prevalence of obesity, cachexia, and associated metabolic disorders, novel therapeutic strategies are needed. Among the different mechanisms explaining how the gut microbiota is capable of influencing host metabolism and energy balance, numerous studies have investigated the complex interactions existing between nutrition, gut microbes, and their metabolites. In this review, we discuss how gut microbes and different microbiota-derived metabolites regulate host metabolism. We describe the role of the gut barrier function in the onset of inflammation in this context. We explore the importance of the gut-to-brain axis in the regulation of energy homeostasis and glucose metabolism but also the key role played by the liver. Finally, we present specific key examples of how using targeted approaches such as prebiotics and probiotics might affect specific metabolites, their signaling pathways, and their interactions with the host and reflect on the challenges to move from bench to bedside.
 
-[Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-024-00585-2)
+[Source](https://doi.org/10.1128/cmr.00045-23)
 
-10.1186/s40793-024-00585-2
+10.1128/cmr.00045-23
 
 ---
 
-## Metagenomic insights into microbial adaptation to the salinity gradient of a typical short residence-time estuary
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01817-w)
-
----
-
-## Microbial consortium assembly and functional analysis via isotope labelling and single-cell manipulation of polycyclic aromatic hydrocarbon degraders.
- 24.06.2024, _J Li, C Luo, X Cai, D Zhang, G Guan, B Li, G Zhang_
+## [The interactions along the microbiota-gut-brain axis in the regulation of circadian rhythms, sleep mechanisms and disorders].
+ 27.06.2024, _IV Shirolapov, OV Gribkova, AM Kovalev, LR Shafigullina, VA Ulivanova, AV Kozlov, AA Ereshchenko, AV Lyamin, AV Zakharov_
 
 
-Soil microbial flora constitutes a highly diverse and complex microbiome on Earth, often challenging to cultivation, with unclear metabolic mechanisms in situ. Here, we present a pioneering concept for the in situ construction of functional microbial consortia (FMCs) and introduce an innovative method for creating FMCs by utilising phenanthrene as a model compound to elucidate their in situ biodegradation mechanisms. Our methodology involves single-cell identification, sorting, and culture of functional microorganisms, resulting in the formation of a precise in situ FMC. Through RACS-SIP, we identified and isolated phenanthrene-degrading bacterial cells from Achromobacter sp. and Pseudomonas sp., achieving precise and controllable in situ consortia based on genome-guided cultivation. Our in situ FMC outperformed conventionally designed functional flora when tested in real soil, indicating its superior phenanthrene degradation capacity. We revealed that microorganisms with high degradation efficiency isolated through conventional methods may exhibit pollutant tolerance but lack actual degradation ability in natural environments. This finding highlights the potential to construct FMCs based on thorough elucidation of in situ functional degraders, thereby achieving sustained and efficient pollutant degradation. Single-cell sequencing linked degraders with their genes and metabolic pathways, providing insights regarding the construction of in situ FMCs. The consortium in situ comprising microorganisms with diverse phenanthrene metabolic pathways might offer distinct advantages for enhancing phenanthrene degradation efficiency, such as the division of labour and cooperation or communication among microbial species. Our approach underscores the importance of in situ, single-cell precision identification, isolation, and cultivation for comprehensive bacterial functional analysis and resource exploration, which can extend to investigate MFCs in archaea and fungi, clarifying FMC construction methods for element recycling and pollutant transformation in complex real-world ecosystems.
+_Humans, Gastrointestinal Microbiome, Circadian Rhythm, Dysbiosis, Brain-Gut Axis, Sleep Wake Disorders, Sleep, Brain_
+The bidirectional relationship between cerebral structures and the gastrointestinal tract involving the microbiota embraces the scientific concept of the microbiota-gut-brain axis. The gut microbiome plays an important role in many physiological and biochemical processes of the human body, in the immune response and maintenance of homeostasis, as well as in the regulation of circadian rhythms. There is a relationship between the higher prevalence of a number of neurological disorders, sleep disorders and changes in the intestinal microbiota, which actualizes the study of the complex mechanisms of such correlation for the development of new treatment and prevention strategies. Environmental factors associated with excessive light exposure can aggravate the gut dysbiosis of intestinal microflora, and as a result, lead to sleep disturbances. This review examines the integrative mechanisms of sleep regulation associated with the gut microbiota (the role of neurotransmitters, short-chain fatty acids, unconjugated bile acids, bacterial cell wall components, cytokines). Taking into account the influence of gut dysbiosis as a risk factor in the development of various diseases, the authors systematize key aspects and modern scientific data on the importance of microflora balance to ensure optimal interaction along the microbiota-gut-brain axis in the context of the regulatory role of the sleep-wake cycle and its disorders.
 
-[Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae115/7697972)
+[Source](https://doi.org/10.1111/febs.17200)
 
-10.1093/ismejo/wrae115
+10.17116/jnevro202412405279
 
 ---
 
-## Chemolithoautotrophic diazotrophs dominate dark nitrogen fixation in mangrove sediments.
- 25.06.2024, _S Wang, L Jiang, Z Zhao, Z Chen, J Wang, K Alain, L Cui, Y Zhong, Y Peng, Q Lai, X Dong, Z Shao_
+## The role of the gut microbiome in disorders of gut-brain interaction
 
-
-Diazotrophic microorganisms regulate marine productivity by alleviating nitrogen limitation. So far chemolithoautotrophic bacteria are widely recognized as the principal diazotrophs in oligotrophic marine and terrestrial ecosystems. However, the contribution of chemolithoautotrophs to nitrogen fixation in organic-rich habitats remains unclear. Here, we utilized metagenomic and metatranscriptomic approaches integrated with cultivation assays to investigate the diversity, distribution, and activity of diazotrophs residing in Zhangzhou mangrove sediments. Physicochemical assays show that the studied mangrove sediments are typical carbon-rich, sulfur-rich, nitrogen-limited, and low-redox marine ecosystems. These sediments host a wide phylogenetic variety of nitrogenase genes, including groups I-III and VII-VIII. Unexpectedly diverse chemolithoautotrophic taxa including Campylobacteria, Gammaproteobacteria, Zetaproteobacteria, and Thermodesulfovibrionia are the predominant and active nitrogen fixers in the 0-18 cm sediment layer. In contrast, the 18-20 cm layer is dominated by active diazotrophs from the chemolithoautotrophic taxa Desulfobacterota and Halobacteriota. Further analysis of MAGs show that the main chemolithoautotrophs can fix nitrogen by coupling the oxidation of hydrogen, reduced sulfur, and iron, with the reduction of oxygen, nitrate, and sulfur. Culture experiments further demonstrate that members of chemolithoautotrophic Campylobacteria have the nitrogen-fixing capacity driven by hydrogen and sulfur oxidation. Activity measurements confirm that the diazotrophs inhabiting mangrove sediments preferentially drain energy from diverse reduced inorganic compounds other than from organics. Overall, our results suggest that chemolithoautotrophs rather than heterotrophs are dominant nitrogen fixers in mangrove sediments. This study underscores the significance of chemolithoautotrophs in carbon-dominant ecosystems.
-
-[Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae119/7698266)
-
-10.1093/ismejo/wrae119
+[Source](https://doi.org/10.1111/febs.17200)
 
 ---
 
-## Cellular interactions and evolutionary origins of endosymbiotic relationships with ciliates.
- 25.06.2024, _Q Song, F Zhao, L Hou, M Miao_
+## Multi-omics signatures reveal genomic and functional heterogeneity of Cutibacterium acnes in normal and diseased skin.
+ 28.06.2024, _T Yu, X Xu, Y Liu, X Wang, S Wu, Z Qiu, X Liu, X Pan, C Gu, S Wang, L Dong, W Li, X Yao_
 
 
-As unicellular predators, ciliates engage in close associations with diverse microbes, laying the foundation for the establishment of endosymbiosis. Originally heterotrophic, ciliates demonstrate the ability to acquire phototrophy by phagocytizing unicellular algae or by sequestering algal plastids. This adaptation enables them to gain photosynthate and develop resistance to unfavorable environmental conditions. The integration of acquired phototrophy with intrinsic phagotrophy results in a trophic mode known as mixotrophy. Additionally, ciliates can harbor thousands of bacteria in various intracellular regions, including the cytoplasm and nucleus, exhibiting species specificity. Under prolonged and specific selective pressure within hosts, bacterial endosymbionts evolve unique lifestyles and undergo particular reductions in metabolic activities. Investigating the research advancements in various endosymbiotic cases within ciliates will contribute to elucidate patterns in cellular interaction and unravel the evolutionary origins of complex traits.
+Cutibacterium acnes is the most abundant bacterium of the human skin microbiome since adolescence, participating in both skin homeostasis and diseases. Here, we demonstrate individual and niche heterogeneity of C. acnes from 1,234 isolate genomes. Skin disease (atopic dermatitis and acne) and body site shape genomic differences of C. acnes, stemming from horizontal gene transfer and selection pressure. C. acnes harbors characteristic metabolic functions, fewer antibiotic resistance genes and virulence factors, and a more stable genome compared with Staphylococcus epidermidis. Integrated genome, transcriptome, and metabolome analysis at the strain level unveils the functional characteristics of C. acnes. Consistent with the transcriptome signature, C. acnes in a sebum-rich environment induces toxic and pro-inflammatory effects on keratinocytes. L-carnosine, an anti-oxidative stress metabolite, is up-regulated in the C. acnes metabolome from atopic dermatitis and attenuates skin inflammation. Collectively, our study reveals the joint impact of genes and the microenvironment on C. acnes function.
 
-[Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae117/7698271)
+[Source](https://doi.org/10.1016/j.chom.2024.06.002)
 
-10.1093/ismejo/wrae117
-
----
-
-## Entourage: all-in-one sequence analysis software for genome assembly, virus detection, virus discovery, and intrasample variation profiling.
- 27.06.2024, _W Phumiphanjarphak, P Aiewsakun_
-
-
-_Software, Genome, Viral, Humans, High-Throughput Nucleotide Sequencing, SARS-CoV-2, Metagenomics, Viruses, COVID-19, Virome, HeLa Cells_
-Pan-virus detection, and virome investigation in general, can be challenging, mainly due to the lack of universally conserved genetic elements in viruses. Metagenomic next-generation sequencing can offer a promising solution to this problem by providing an unbiased overview of the microbial community, enabling detection of any viruses without prior target selection. However, a major challenge in utilising metagenomic next-generation sequencing for virome investigation is that data analysis can be highly complex, involving numerous data processing steps.
-
-[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05846-y)
-
-10.1186/s12859-024-05846-y
+10.1016/j.chom.2024.06.002
 
 ---
 
-## Soft autonomous ingestible device for sampling the small-intestinal microbiome 
+## Vaginal anaerobes are associated with cervicitis: a case-control study.
+ 29.06.2024, _EL Plummer, LA Vodstrcil, JA Danielewski, GL Murray, ML Doyle, RL Latimer, CK Fairley, EP Chow, SM Garland, CS Bradshaw_
 
-[Source](https://www.cell.com/device/fulltext/S2666-9986(24)00242-4)
+
+Cervicitis is associated with important reproductive sequelae. Primary causes include chlamydia and gonorrhoea, but a known sexually transmitted infection (STI) is not identified in &gt;50% of cases (i.e. STI-negative cervicitis). Bacterial vaginosis (BV) and specific BV-associated bacteria have also been associated with cervicitis, but data are limited. We investigated the association between STI-negative cervicitis and vaginal microbiota composition.
+
+[Source](https://www.journalofinfection.com/article/S0163-4453(24)00144-0/fulltext)
+
+10.1016/j.jinf.2024.106210
+
+---
+
+## The Impact of Oral Diseases on Respiratory Health and the Influence of Respiratory Infections on the Oral Microbiome.
+ 27.06.2024, _A Gupta, LM Saleena, P Kannan, A Shivachandran_
+
+
+The objective of this review is to examine the relationship between oral diseases and respiratory health, investigating how oral microbiome disruptions contribute to respiratory tract infections. Additionally, it aims to explore the impact of respiratory disease symptoms and treatments on the oral microbiome.
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0300571224003828?via%3Dihub)
+
+10.1016/j.jdent.2024.105213
+
+---
+
+## <em>Lactobacillus acidophilus </em>protects against <em>Corynebacterium pseudotuberculosis </em>infection by regulating the autophagy of macrophages and maintaining gut microbiota homeostasis in C57BL/6 mice
+
+[Source](https://doi.org/10.1128/msystems.00484-24)
+
+---
+
+## Exploring novel microbial metabolites and drugs for inhibiting <em>Clostridioides difficile</em>
+
+[Source](https://doi.org/10.1128/msphere.00273-24)
+
+---
+
+## Ketogenic diet-induced bile acids protect against obesity through reduced calorie absorption
+
+[Source](https://doi.org/10.1038/s42255-024-01072-1)
+
+---
+
+## How Diet and Lifestyle Can Fine-Tune Gut Microbiomes for Healthy Aging
+
+[Source](https://www.annualreviews.org/content/journals/10.1146/annurev-food-072023-034458)
+
+---
+
+## Gut microbiota signatures of vulnerability to food addiction in mice and humans
+
+[Source](https://doi.org/10.1136/gutjnl-2023-331445)
+
+---
+
+## Group membership, not diet, structures the composition and functional potential of the gut microbiome in a wild primate
+
+[Source](https://doi.org/10.1128/msphere.00233-24)
+
+---
+
+## Maternal transmission as a microbial symbiont sieve, and the absence of lactation in male mammals
+
+[Source](https://doi.org/10.1038/s41467-024-49559-5)
+
+---
+
+## A metagenomic assessment of bacterial community in spices sold open-air markets in Saint-Louis, Senegal
+
+[Source](https://doi.org/10.1038/s41598-024-65756-0)
+
+---
+
+## Compositionally aware estimation of cross-correlations for microbiome data
+
+[Source](https://doi.org/10.1371/journal.pone.0305032)
+
+---
+
+## Bioinformatic Workflows for Metaproteomics
+
+[Source](https://doi.org/10.1007/978-1-0716-3910-8_16)
+
+---
+
+## Floria: fast and accurate strain haplotyping in metagenomes
+
+[Source](https://doi.org/10.1093/bioinformatics/btae252)
+
+---
+
+## Enhancing antimicrobial resistance detection with MetaGeneMiner: Targeted gene extraction from metagenomes
+
+[Source](https://doi.org/10.1097/CM9.0000000000003182)
+
+---
+
+## Benchmarking low- and high-throughput protein cleanup and digestion methods for human fecal metaproteomics.
+ 27.06.2024, _A Tanca, MA Deledda, L De Diego, M Abbondio, S Uzzau_
+
+
+The application of fecal metaproteomics to large-scale studies of the gut microbiota requires high-throughput analysis and standardized experimental protocols. Although high-throughput protein cleanup and digestion methods are increasingly used in shotgun proteomics, no studies have yet critically compared such protocols using human fecal samples. In this study, human fecal protein extracts were processed using several different protocols based on three main approaches: filter-aided sample preparation (FASP), solid-phase-enhanced sample preparation (SP3), and suspension trapping (S-Trap). These protocols were applied in both low-throughput (i.e., microtube-based) and high-throughput (i.e., microplate-based) formats, and the final peptide mixtures were analyzed by liquid chromatography coupled to high-resolution tandem mass spectrometry. The FASP-based methods and the combination of SP3 with in-StageTips (iST) yielded the best results in terms of the number of peptides identified through a database search against gut microbiome and human sequences. The efficiency of protein digestion, the ability to preserve hydrophobic peptides and high molecular weight proteins, and the reproducibility of the methods were also evaluated for the different protocols. Other relevant variables, including interindividual variability of stool, duration of protocols, and total costs, were considered and discussed. In conclusion, the data presented here can significantly contribute to the optimization and standardization of sample preparation protocols in human fecal metaproteomics. Furthermore, the promising results obtained with the high-throughput methods are expected to encourage the development of automated workflows and their application to large-scale gut microbiome studies.IMPORTANCEFecal metaproteomics is an experimental approach that allows the investigation of gut microbial functions, which are involved in many different physiological and pathological processes. Standardization and automation of sample preparation protocols in fecal metaproteomics are essential for its application in large-scale studies. Here, we comparatively evaluated different methods, available also in a high-throughput format, enabling two key steps of the metaproteomics analytical workflow (namely, protein cleanup and digestion). The results of our study provide critical information that may be useful for the optimization of metaproteomics experimental pipelines and their implementation in laboratory automation systems.
+
+[Source](https://doi.org/10.1128/msystems.00661-24)
+
+10.1128/msystems.00661-24
+
+---
+
+## Bacterial barcoding facilitates plant microbiome studies.
+ 26.06.2024, _H Liu_
+
+
+
+[Source](https://doi.org/10.1038/s41579-024-01069-3)
+
+10.1038/s41579-024-01069-3
+
+---
+
+## <strong>Retraction Note: </strong>Microbiome analyses of blood and tissues suggest cancer diagnostic approach
+
+[Source](https://doi.org/10.1038/s41586-024-07656-x)
 
 ---
 
