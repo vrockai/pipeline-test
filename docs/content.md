@@ -140,53 +140,21 @@ The objective of this review is to examine the relationship between oral disease
 
 ---
 
-## Ketogenic diet-induced bile acids protect against obesity through reduced calorie absorption.
- 27.06.2024, _X Li, J Yang, X Zhou, C Dai, M Kong, L Xie, C Liu, Y Liu, D Li, X Ma, Y Dai, Y Sun, Z Jian, X Guo, X Lin, Y Li, L Sun, X Liu, L Jin, H Tang, Y Zheng, S Hong_
-
-
-The low-carbohydrate ketogenic diet (KD) has long been practiced for weight loss, but the underlying mechanisms remain elusive. Gut microbiota and metabolites have been suggested to mediate the metabolic changes caused by KD consumption, although the particular gut microbes or metabolites involved are unclear. Here, we show that KD consumption enhances serum levels of taurodeoxycholic acid (TDCA) and tauroursodeoxycholic acid (TUDCA) in mice to decrease body weight and fasting glucose levels. Mechanistically, KD feeding decreases the abundance of a bile salt hydrolase (BSH)-coding gut bacterium, Lactobacillus murinus ASF361. The reduction of L. murinus ASF361 or inhibition of BSH activity increases the circulating levels of TDCA and TUDCA, thereby reducing energy absorption by inhibiting intestinal carbonic anhydrase 1 expression, which leads to weight loss. TDCA and TUDCA treatments have been found to protect against obesity and its complications in multiple mouse models. Additionally, the associations among the abovementioned bile acids, microbial BSH and metabolic traits were consistently observed both in an observational study of healthy human participants (n = 416) and in a low-carbohydrate KD interventional study of participants who were either overweight or with obesity (n = 25). In summary, we uncover a unique host-gut microbiota metabolic interaction mechanism for KD consumption to decrease body weight and fasting glucose levels. Our findings support TDCA and TUDCA as two promising drug candidates for obesity and its complications in addition to a KD.
+## Ketogenic diet-induced bile acids protect against obesity through reduced calorie absorption
 
 [Source](https://doi.org/10.1038/s42255-024-01072-1)
 
-10.1038/s42255-024-01072-1
-
 ---
 
-## How Diet and Lifestyle Can Fine-Tune Gut Microbiomes for Healthy Aging.
- 01.07.2024, _M Tamayo, M Olivares, P Ruas-Madiedo, A Margolles, JC Espín, I Medina, MV Moreno-Arribas, S Canals, CR Mirasso, S Ortín, H Beltrán-Sanchez, A Palloni, FA Tomás-Barberán, Y Sanz_
-
-
-_Humans, Gastrointestinal Microbiome, Life Style, Diet, Healthy Aging, Probiotics, Aging_
-Many physical, social, and psychological changes occur during aging that raise the risk of developing chronic diseases, frailty, and dependency. These changes adversely affect the gut microbiota, a phenomenon known as microbe-aging. Those microbiota alterations are, in turn, associated with the development of age-related diseases. The gut microbiota is highly responsive to lifestyle and dietary changes, displaying a flexibility that also provides anactionable tool by which healthy aging can be promoted. This review covers, firstly, the main lifestyle and socioeconomic factors that modify the gut microbiota composition and function during healthy or unhealthy aging and, secondly, the advances being made in defining and promoting healthy aging, including microbiome-informed artificial intelligence tools, personalized dietary patterns, and food probiotic systems.
+## How Diet and Lifestyle Can Fine-Tune Gut Microbiomes for Healthy Aging
 
 [Source](https://www.annualreviews.org/content/journals/10.1146/annurev-food-072023-034458)
 
-10.1146/annurev-food-072023-034458
-
 ---
 
-## Gut microbiota signatures of vulnerability to food addiction in mice and humans.
- 26.06.2024, _S Samulėnaitė, A García-Blanco, J Mayneris-Perxachs, L Domingo-Rodríguez, J Cabana-Domínguez, N Fernàndez-Castillo, E Gago-García, L Pineda-Cirera, A Burokas, J Espinosa-Carrasco, S Arboleya, J Latorre, C Stanton, K Hosomi, J Kunisawa, B Cormand, JM Fernández-Real, R Maldonado, E Martín-García_
-
-
-Food addiction is a multifactorial disorder characterised by a loss of control over food intake that may promote obesity and alter gut microbiota composition. We have investigated the potential involvement of the gut microbiota in the mechanisms underlying food addiction.
+## Gut microbiota signatures of vulnerability to food addiction in mice and humans
 
 [Source](https://doi.org/10.1136/gutjnl-2023-331445)
-
-10.1136/gutjnl-2023-331445
-
----
-
-## COPD Exacerbations Before and During COVID-19 in France, Germany, Italy, the UK and the US.
- 02.07.2024, _FJ Martinez, A Papi, T Welte, D Singh, DV Galkin, A Guasconi, S Pirondi, G Georges, J Imperato, R Hermans_
-
-
-_Humans, COVID-19, Pulmonary Disease, Chronic Obstructive, Disease Progression, Male, Female, Aged, Middle Aged, SARS-CoV-2, United States, France, United Kingdom, Pandemics, Italy, Time Factors, Seasons_
-Exacerbations of chronic obstructive pulmonary disease (COPD) were reported less frequently during the COVID-19 pandemic. We report real-world data on COPD exacerbation rates before and during this pandemic.
-
-[Source](https://doi.org/10.1128/msphere.00233-24)
-
-10.2147/COPD.S451009
 
 ---
 
