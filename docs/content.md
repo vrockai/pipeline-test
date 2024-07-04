@@ -74,7 +74,7 @@ SUMMARYThe gut microbiota is a major factor contributing to the regulation of en
 ---
 
 ## The gut microbiome in disorders of gut-brain interaction.
- 03.07.2024, _N Kraimi, T Ross, J Pujo, G De Palma_
+ 04.07.2024, _N Kraimi, T Ross, J Pujo, G De Palma_
 
 
 _Gastrointestinal Microbiome, Humans, Brain-Gut Axis, Gastrointestinal Diseases, Brain, Animals, Gastrointestinal Tract_
