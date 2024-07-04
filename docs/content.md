@@ -93,7 +93,7 @@ Functional gastrointestinal disorders (FGIDs), chronic disorders characterized b
 ---
 
 ## Multi-omics signatures reveal genomic and functional heterogeneity of Cutibacterium acnes in normal and diseased skin.
- 28.06.2024, _T Yu, X Xu, Y Liu, X Wang, S Wu, Z Qiu, X Liu, X Pan, C Gu, S Wang, L Dong, W Li, X Yao_
+ 03.07.2024, _T Yu, X Xu, Y Liu, X Wang, S Wu, Z Qiu, X Liu, X Pan, C Gu, S Wang, L Dong, W Li, X Yao_
 
 
 Cutibacterium acnes is the most abundant bacterium of the human skin microbiome since adolescence, participating in both skin homeostasis and diseases. Here, we demonstrate individual and niche heterogeneity of C. acnes from 1,234 isolate genomes. Skin disease (atopic dermatitis and acne) and body site shape genomic differences of C. acnes, stemming from horizontal gene transfer and selection pressure. C. acnes harbors characteristic metabolic functions, fewer antibiotic resistance genes and virulence factors, and a more stable genome compared with Staphylococcus epidermidis. Integrated genome, transcriptome, and metabolome analysis at the strain level unveils the functional characteristics of C. acnes. Consistent with the transcriptome signature, C. acnes in a sebum-rich environment induces toxic and pro-inflammatory effects on keratinocytes. L-carnosine, an anti-oxidative stress metabolite, is up-regulated in the C. acnes metabolome from atopic dermatitis and attenuates skin inflammation. Collectively, our study reveals the joint impact of genes and the microenvironment on C. acnes function.
@@ -177,16 +177,15 @@ Food addiction is a multifactorial disorder characterised by a loss of control o
 
 ---
 
-## Awareness and use of improved livestock feed technologies among agro-pastoral households in the West African Sahel.
- 03.07.2024, _C Umutoni, A Ayantunde_
+## Distinguishing Affective Temperament Profiles in Major Depressive Disorder and Bipolar Disorder Through the Short Version of TEMPS-A: Cross-Sectional Study Using Latent Profile Analysis.
+ 03.07.2024, _HL Jang, C Lee, H Yu, D Lee, HJ Lee, TH Ha, HS Kang, W Myung, J Park_
 
 
-_Animal Husbandry, Animals, Animal Feed, Niger, Livestock, Family Characteristics, Farmers, Humans, Awareness_
-Seasonal scarcity of quality feed continues to be a bottleneck for agro-pastoralists and is the most important limitation to livestock production in agro-pastoral systems in the West African Sahel. In this regard, diverse promising technologies to increase the production and availability of quality feed have been introduced. Despite the introduction of various feed technologies in the region, the adoption rate by smallholder farmers is very low. The objective of this study was to identify factors affecting the likelihood of using improved livestock feed technologies among agro-pastoral households in two regions of Niger. A logit model was employed using data collected from randomly selected 218 agro-pastoral households between February and April 2023. The study revealed low awareness and use of improved livestock feed technologies among agro-pastoral households. The findings suggested the positive impact of education level, membership of farmer groups and ownership of small ruminant on enhancing the probability of using improved livestock feed technologies. Households' geographical area was one of the determinant factors in using improved livestock feed technologies. The use of improved livestock feed technologies was also influenced by family size. The study provides guidance to inform strategies by the decision-makers to enhance the utilization of improved livestock feed technologies among agro-pastoral households in the West African Sahel. Suggested strategies may in turn alleviate the current problem of low productivity of livestock, contribute to improving household food security and nutrition among agro-pastoral communities.
+This study aimed to elucidate the distinct response patterns exhibited by patients diagnosed with bipolar disorder (BD) and those with major depressive disorder (MDD) through the application of the short version of the Temperament Evaluation of Memphis, Pisa, Paris, and San Diego Autoquestionnaire (TEMPS-A-SV).
 
 [Source](https://doi.org/10.1128/msphere.00233-24)
 
-10.1007/s11250-024-04052-5
+10.30773/pi.2023.0444
 
 ---
 
