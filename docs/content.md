@@ -177,15 +177,15 @@ Food addiction is a multifactorial disorder characterised by a loss of control o
 
 ---
 
-## Distinguishing Affective Temperament Profiles in Major Depressive Disorder and Bipolar Disorder Through the Short Version of TEMPS-A: Cross-Sectional Study Using Latent Profile Analysis.
- 03.07.2024, _HL Jang, C Lee, H Yu, D Lee, HJ Lee, TH Ha, HS Kang, W Myung, J Park_
+## Testing the information centre hypothesis in a multilevel society.
+ 04.07.2024, _D Papageorgiou, W Cherono, G Gall, B Nyaguthii, DR Farine_
 
 
-This study aimed to elucidate the distinct response patterns exhibited by patients diagnosed with bipolar disorder (BD) and those with major depressive disorder (MDD) through the application of the short version of the Temperament Evaluation of Memphis, Pisa, Paris, and San Diego Autoquestionnaire (TEMPS-A-SV).
+In various animal species conspecifics aggregate at sleeping sites. Such aggregations can act as information centres where individuals acquire up-to-date knowledge about their environment. In some species, communal sleeping sites comprise individuals from multiple groups, where each group maintains stable membership over time. We used GPS tracking to simultaneously record group movement in a population of wild vulturine guineafowl (Acryllium vulturinum) to investigate whether communal sleeping sites can facilitate the transfer of information among individuals across distinct groups. These birds live in large and stable groups that move both together and apart, often forming communal roosts containing up to five groups. We first test whether roosts provide the opportunity for individuals to acquire information from members of other groups by examining the spatial organization at roosts. The GPS data reveal that groups intermix, thereby providing an opportunity for individuals to acquire out-group information. We next conduct a field experiment to test whether naïve groups can locate novel food patches when co-roosting with knowledgeable groups. We find that co-roosting substantially increases the chances for the members of a naïve group to discover a patch known to individuals from other groups at the shared roost. Further, we find that the discovery of food patches by naïve groups subsequently shapes their space use and inter-group associations. We also draw on our long-term tracking to provide examples that demonstrate natural cases where communal roosting has preceded large-scale multi-group collective movements that extend into areas beyond the groups' normal ranges. Our findings support the extension of the information centre hypothesis to communal sleeping sites that consist of distinct social groups.
 
 [Source](https://doi.org/10.1128/msphere.00233-24)
 
-10.30773/pi.2023.0444
+10.1111/1365-2656.14131
 
 ---
 
