@@ -177,15 +177,15 @@ Food addiction is a multifactorial disorder characterised by a loss of control o
 
 ---
 
-## Semisynthetic derivatives of the fungal metabolite eupenifeldin via targeting the tropolone hydroxy groups.
- 04.07.2024, _ZY Al Subeh, HC Pierre, RH Bockbrader, RJ Tokarski, AC Maldonado, MA Haughan, ME Rangel Grimaldo, CJ Pearce, JE Burdette, JR Fuchs, NH Oberlies_
+## Ascertainment of Nutrition Care Process (NCP) Implementation and Use of NCP Terminologies (NCPT) among Hospital Dietitians in the Philippines.
+ 05.07.2024, _JI Delomen, AKM Bernardo, EMM Centeno_
 
 
-Eupenifeldin (1) is a fungal secondary metabolite possessing bis-tropolone moieties that demonstrates nanomolar cytotoxic activity against a number of cancer cell types. As a potential anticancer lead, this meroterpenoid was used to access 29 semisynthetic analogues via functionalization of the reactive hydroxy groups of the bis-tropolones. A series of ester (2-6), carbonate (7-8), sulfonate (9-16), carbamate (17-20), and ether (21-30) analogues of 1 were generated via 22 reactions. Most of these compounds were disubstituted, produced via functionalization of both of the tropolonic hydroxy moieties, although three mono-functionalized analogues (6, 8, and 24) and one tri-functionalized analogue (3) were also obtained. The cytotoxic activities of 1-30 were evaluated against human melanoma and ovarian cancer cell lines (i.e., MDA-MB-435 and OVCAR3, respectively). Ester and carbonate analogues of 1 (i.e., 2-8) maintained cytotoxicity at the nanomolar level, and the greatest improvement in aqueous solubility came from the monosuccinate analogue, which was acylated on the secondary hydroxy at the 11 position (6).
+The Nutrition Care Process (NCP) is a systematic method used by dietitians to provide high-quality nutrition care resulting in good patient outcomes. This study aimed to assess the NCP implementation and use of NCP Terminologies (NCPT) among hospital dietitians in the Philippines. Specifically, the study aimed at assessing the knowledge, perception, and practices on NCP and use of NCPT and correlate them with the dietitians' education, and professional and employment profile; and explain the barriers and facilitators of the practice of NCP and use of NCPT among hospital dietitians in the Philippines.
 
 [Source](https://doi.org/10.1128/msphere.00233-24)
 
-10.1016/j.bmcl.2024.129875
+10.47895/amp.vi0.6697
 
 ---
 
