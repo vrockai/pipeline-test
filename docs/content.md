@@ -140,21 +140,53 @@ The objective of this review is to examine the relationship between oral disease
 
 ---
 
-## Ketogenic diet-induced bile acids protect against obesity through reduced calorie absorption
+## Ketogenic diet-induced bile acids protect against obesity through reduced calorie absorption.
+ 27.06.2024, _X Li, J Yang, X Zhou, C Dai, M Kong, L Xie, C Liu, Y Liu, D Li, X Ma, Y Dai, Y Sun, Z Jian, X Guo, X Lin, Y Li, L Sun, X Liu, L Jin, H Tang, Y Zheng, S Hong_
+
+
+The low-carbohydrate ketogenic diet (KD) has long been practiced for weight loss, but the underlying mechanisms remain elusive. Gut microbiota and metabolites have been suggested to mediate the metabolic changes caused by KD consumption, although the particular gut microbes or metabolites involved are unclear. Here, we show that KD consumption enhances serum levels of taurodeoxycholic acid (TDCA) and tauroursodeoxycholic acid (TUDCA) in mice to decrease body weight and fasting glucose levels. Mechanistically, KD feeding decreases the abundance of a bile salt hydrolase (BSH)-coding gut bacterium, Lactobacillus murinus ASF361. The reduction of L. murinus ASF361 or inhibition of BSH activity increases the circulating levels of TDCA and TUDCA, thereby reducing energy absorption by inhibiting intestinal carbonic anhydrase 1 expression, which leads to weight loss. TDCA and TUDCA treatments have been found to protect against obesity and its complications in multiple mouse models. Additionally, the associations among the abovementioned bile acids, microbial BSH and metabolic traits were consistently observed both in an observational study of healthy human participants (n = 416) and in a low-carbohydrate KD interventional study of participants who were either overweight or with obesity (n = 25). In summary, we uncover a unique host-gut microbiota metabolic interaction mechanism for KD consumption to decrease body weight and fasting glucose levels. Our findings support TDCA and TUDCA as two promising drug candidates for obesity and its complications in addition to a KD.
 
 [Source](https://doi.org/10.1038/s42255-024-01072-1)
 
+10.1038/s42255-024-01072-1
+
 ---
 
-## How Diet and Lifestyle Can Fine-Tune Gut Microbiomes for Healthy Aging
+## How Diet and Lifestyle Can Fine-Tune Gut Microbiomes for Healthy Aging.
+ 01.07.2024, _M Tamayo, M Olivares, P Ruas-Madiedo, A Margolles, JC Espín, I Medina, MV Moreno-Arribas, S Canals, CR Mirasso, S Ortín, H Beltrán-Sanchez, A Palloni, FA Tomás-Barberán, Y Sanz_
+
+
+_Humans, Gastrointestinal Microbiome, Life Style, Diet, Healthy Aging, Probiotics, Aging_
+Many physical, social, and psychological changes occur during aging that raise the risk of developing chronic diseases, frailty, and dependency. These changes adversely affect the gut microbiota, a phenomenon known as microbe-aging. Those microbiota alterations are, in turn, associated with the development of age-related diseases. The gut microbiota is highly responsive to lifestyle and dietary changes, displaying a flexibility that also provides anactionable tool by which healthy aging can be promoted. This review covers, firstly, the main lifestyle and socioeconomic factors that modify the gut microbiota composition and function during healthy or unhealthy aging and, secondly, the advances being made in defining and promoting healthy aging, including microbiome-informed artificial intelligence tools, personalized dietary patterns, and food probiotic systems.
 
 [Source](https://www.annualreviews.org/content/journals/10.1146/annurev-food-072023-034458)
 
+10.1146/annurev-food-072023-034458
+
 ---
 
-## Gut microbiota signatures of vulnerability to food addiction in mice and humans
+## Gut microbiota signatures of vulnerability to food addiction in mice and humans.
+ 26.06.2024, _S Samulėnaitė, A García-Blanco, J Mayneris-Perxachs, L Domingo-Rodríguez, J Cabana-Domínguez, N Fernàndez-Castillo, E Gago-García, L Pineda-Cirera, A Burokas, J Espinosa-Carrasco, S Arboleya, J Latorre, C Stanton, K Hosomi, J Kunisawa, B Cormand, JM Fernández-Real, R Maldonado, E Martín-García_
+
+
+Food addiction is a multifactorial disorder characterised by a loss of control over food intake that may promote obesity and alter gut microbiota composition. We have investigated the potential involvement of the gut microbiota in the mechanisms underlying food addiction.
 
 [Source](https://doi.org/10.1136/gutjnl-2023-331445)
+
+10.1136/gutjnl-2023-331445
+
+---
+
+## Phenogrouping heart failure with preserved or mildly reduced ejection fraction using electronic health record data.
+ 05.07.2024, _F Soltani, DA Jenkins, A Kaura, J Bradley, N Black, JP Farrant, SG Williams, A Mulla, B Glampson, J Davies, D Papadimitriou, K Woods, AD Shah, MR Thursz, B Williams, FW Asselbergs, EK Mayer, C Herbert, S Grant, N Curzen, I Squire, T Johnson, K O'Gallagher, AM Shah, D Perera, R Kharbanda, RS Patel, KM Channon, R Lee, N Peek, J Mayet, CA Miller_
+
+
+_Humans, Heart Failure, Electronic Health Records, Female, Male, Aged, Stroke Volume, Middle Aged, Risk Assessment, Ventricular Function, Left, United Kingdom, Risk Factors, Prognosis, Aged, 80 and over, Databases, Factual, Unsupervised Machine Learning, Hospitalization, Time Factors, Comorbidity, Cause of Death, Phenotype, Data Mining_
+Heart failure (HF) with preserved or mildly reduced ejection fraction includes a heterogenous group of patients. Reclassification into distinct phenogroups to enable targeted interventions is a priority. This study aimed to identify distinct phenogroups, and compare phenogroup characteristics and outcomes, from electronic health record data.
+
+[Source](https://doi.org/10.1128/msphere.00233-24)
+
+10.1186/s12872-024-03987-9
 
 ---
 
@@ -164,51 +196,103 @@ The objective of this review is to examine the relationship between oral disease
 
 ---
 
-## Maternal transmission as a microbial symbiont sieve, and the absence of lactation in male mammals
+## Maternal transmission as a microbial symbiont sieve, and the absence of lactation in male mammals.
+ 30.06.2024, _BT Fagan, GWA Constable, R Law_
+
+
+_Animals, Lactation, Female, Male, Symbiosis, Gastrointestinal Microbiome, Milk, Pregnancy, Mammals, Maternal Inheritance_
+Gut microbiomes of mammals carry a complex symbiotic assemblage of microorganisms. Feeding newborn infants milk from the mammary gland allows vertical transmission of the parental milk microbiome to the offspring's gut microbiome. This has benefits, but also has hazards for the host population. Using mathematical models, we demonstrate that biparental vertical transmission enables deleterious microbial elements to invade host populations. In contrast, uniparental vertical transmission acts as a sieve, preventing these invasions. Moreover, we show that deleterious symbionts generate selection on host modifier genes that keep uniparental transmission in place. Since microbial transmission occurs during birth in placental mammals, subsequent transmission of the milk microbiome needs to be maternal to avoid the spread of deleterious elements. This paper therefore argues that viviparity and the hazards from biparental transmission of the milk microbiome, together generate selection against male lactation in placental mammals.
 
 [Source](https://doi.org/10.1038/s41467-024-49559-5)
 
+10.1038/s41467-024-49559-5
+
 ---
 
-## A metagenomic assessment of bacterial community in spices sold open-air markets in Saint-Louis, Senegal
+## A metagenomic assessment of bacterial community in spices sold open-air markets in Saint-Louis, Senegal.
+ 29.06.2024, _S Sané, AAM Diouara, S Coundoul, SD Tene, A Kane, SF Wade, A Tamba, M Diop, MN Mbaye, F Thiam, M Dieng, M Mbengue, CM Nguer, AD Sarr, AS Ndao, C Touré Kane_
+
+
+_Spices, Senegal, Metagenomics, RNA, Ribosomal, 16S, Bacteria, Humans, Metagenome, Microbiota, Curcuma_
+Natural spices play an essential role in human nutrition and well-being. However, their processing on different scales can expose them to potential sources of contamination. This study aimed to describe the bacterial community genomic footprint in spices sold in Senegal. Spice samples were collected in August 2022 in Saint-Louis, Senegal. The genomic region coding bacterial 16S rRNA was then amplified and sequenced using Oxford Nanopore Technology (ONT). Sequencing was carried out on two batches of samples, one containing part of the "Local Spices or Herbs" (n = 10), and the other, a mixture of 7 spices, Curcuma, Thyme and the other part of the "Local Spices or Herbs" (n = 39). Results showed high bacterial diversity and the predominance of Escherichia coli and Salmonella enterica in samples, with total reads of 65,744 and 165,325 for the two batches, respectively. The sample category "Homemade mixture of food condiments ", which includes all "Local Spices or Herbs" samples, showed remarkable bacterial diversity. These were followed by Curcuma, a blend of 7 spices and thyme. Also, the different categories of spices studied show similarities in their bacterial composition. These results highlight the microbial community's highly diverse genomic profile, including pathogenic bacteria, in spice samples.
 
 [Source](https://doi.org/10.1038/s41598-024-65756-0)
 
+10.1038/s41598-024-65756-0
+
 ---
 
-## Compositionally aware estimation of cross-correlations for microbiome data
+## Compositionally aware estimation of cross-correlations for microbiome data.
+ 30.06.2024, _IT Jensen, L Janss, S Radutoiu, R Waagepetersen_
+
+
+_Microbiota, Algorithms, Humans_
+In the field of microbiome studies, it is of interest to infer correlations between abundances of different microbes (here referred to as operational taxonomic units, OTUs). Several methods taking the compositional nature of the sequencing data into account exist. However, these methods cannot infer correlations between OTU abundances and other variables. In this paper we introduce the novel methods SparCEV (Sparse Correlations with External Variables) and SparXCC (Sparse Cross-Correlations between Compositional data) for quantifying correlations between OTU abundances and either continuous phenotypic variables or components of other compositional datasets, such as transcriptomic data. SparCEV and SparXCC both assume that the average correlation in the dataset is zero. Iterative versions of SparCEV and SparXCC are proposed to alleviate bias resulting from deviations from this assumption. We compare these new methods to empirical Pearson cross-correlations after applying naive transformations of the data (log and log-TSS). Additionally, we test the centered log ratio transformation (CLR) and the variance stabilising transformation (VST). We find that CLR and VST outperform naive transformations, except when the correlation matrix is dense. SparCEV and SparXCC outperform CLR and VST when the number of OTUs is small and perform similarly to CLR and VST for large numbers of OTUs. Adding the iterative procedure increases accuracy for SparCEV and SparXCC for all cases, except when the average correlation in the dataset is close to zero or the correlation matrix is dense. These results are consistent with our theoretical considerations.
 
 [Source](https://doi.org/10.1371/journal.pone.0305032)
 
+10.1371/journal.pone.0305032
+
 ---
 
-## Bioinformatic Workflows for Metaproteomics
+## Bioinformatic Workflows for Metaproteomics.
+ 28.06.2024, _T Holstein, T Muth_
+
+
+_Proteomics, Computational Biology, Workflow, Software, Microbiota, Humans, Databases, Protein, Metagenomics_
+The strong influence of microbiomes on areas such as ecology and human health has become widely recognized in the past years. Accordingly, various techniques for the investigation of the composition and function of microbial community samples have been developed. Metaproteomics, the comprehensive analysis of the proteins from microbial communities, allows for the investigation of not only the taxonomy but also the functional and quantitative composition of microbiome samples. Due to the complexity of the investigated communities, methods developed for single organism proteomics cannot be readily applied to metaproteomic samples. For this purpose, methods specifically tailored to metaproteomics are required. In this work, a detailed overview of current bioinformatic solutions and protocols in metaproteomics is given. After an introduction to the proteomic database search, the metaproteomic post-processing steps are explained in detail. Ten specific bioinformatic software solutions are focused on, covering various steps including database-driven identification and quantification as well as taxonomic and functional assignment.
 
 [Source](https://doi.org/10.1007/978-1-0716-3910-8_16)
 
+10.1007/978-1-0716-3910-8_16
+
 ---
 
-## Floria: fast and accurate strain haplotyping in metagenomes
+## Floria: fast and accurate strain haplotyping in metagenomes.
+ 30.06.2024, _J Shaw, JS Gounot, H Chen, N Nagarajan, YW Yu_
+
+
+_Metagenome, Metagenomics, Haplotypes, Software, Humans, Genome, Bacterial, Microbiota, Bacteria, High-Throughput Nucleotide Sequencing, Sequence Analysis, DNA_
+Shotgun metagenomics allows for direct analysis of microbial community genetics, but scalable computational methods for the recovery of bacterial strain genomes from microbiomes remains a key challenge. We introduce Floria, a novel method designed for rapid and accurate recovery of strain haplotypes from short and long-read metagenome sequencing data, based on minimum error correction (MEC) read clustering and a strain-preserving network flow model. Floria can function as a standalone haplotyping method, outputting alleles and reads that co-occur on the same strain, as well as an end-to-end read-to-assembly pipeline (Floria-PL) for strain-level assembly. Benchmarking evaluations on synthetic metagenomes show that Floria is &gt; 3× faster and recovers 21% more strain content than base-level assembly methods (Strainberry) while being over an order of magnitude faster when only phasing is required. Applying Floria to a set of 109 deeply sequenced nanopore metagenomes took &lt;20 min on average per sample and identified several species that have consistent strain heterogeneity. Applying Floria's short-read haplotyping to a longitudinal gut metagenomics dataset revealed a dynamic multi-strain Anaerostipes hadrus community with frequent strain loss and emergence events over 636 days. With Floria, accurate haplotyping of metagenomic datasets takes mere minutes on standard workstations, paving the way for extensive strain-level metagenomic analyses.
 
 [Source](https://doi.org/10.1093/bioinformatics/btae252)
 
+10.1093/bioinformatics/btae252
+
 ---
 
-## Enhancing antimicrobial resistance detection with MetaGeneMiner: Targeted gene extraction from metagenomes
+## Enhancing antimicrobial resistance detection with MetaGeneMiner: Targeted gene extraction from metagenomes.
+ 27.06.2024, _C Liu, Z Tang, L Li, Y Kang, Y Teng, Y Yu_
+
+
+Accurately and efficiently extracting microbial genomic sequences from complex metagenomic data is crucial for advancing our understanding in fields such as clinical diagnostics, environmental microbiology, and biodiversity. As sequencing technologies evolve, this task becomes increasingly challenging due to the intricate nature of microbial communities and the vast amount of data generated. Especially in intensive care units (ICUs), infections caused by antibiotic-resistant bacteria are increasingly prevalent among critically ill patients, significantly impacting the effectiveness of treatments and patient prognoses. Therefore, obtaining timely and accurate information about infectious pathogens is of paramount importance for the treatment of patients with severe infections, which enables precisely targeted anti-infection therapies, and a tool that can extract microbial genomic sequences from metagenomic dataset would be of help.
 
 [Source](https://doi.org/10.1097/CM9.0000000000003182)
 
+10.1097/CM9.0000000000003182
+
 ---
 
-## Benchmarking low- and high-throughput protein cleanup and digestion methods for human fecal metaproteomics
+## Benchmarking low- and high-throughput protein cleanup and digestion methods for human fecal metaproteomics.
+ 27.06.2024, _A Tanca, MA Deledda, L De Diego, M Abbondio, S Uzzau_
+
+
+The application of fecal metaproteomics to large-scale studies of the gut microbiota requires high-throughput analysis and standardized experimental protocols. Although high-throughput protein cleanup and digestion methods are increasingly used in shotgun proteomics, no studies have yet critically compared such protocols using human fecal samples. In this study, human fecal protein extracts were processed using several different protocols based on three main approaches: filter-aided sample preparation (FASP), solid-phase-enhanced sample preparation (SP3), and suspension trapping (S-Trap). These protocols were applied in both low-throughput (i.e., microtube-based) and high-throughput (i.e., microplate-based) formats, and the final peptide mixtures were analyzed by liquid chromatography coupled to high-resolution tandem mass spectrometry. The FASP-based methods and the combination of SP3 with in-StageTips (iST) yielded the best results in terms of the number of peptides identified through a database search against gut microbiome and human sequences. The efficiency of protein digestion, the ability to preserve hydrophobic peptides and high molecular weight proteins, and the reproducibility of the methods were also evaluated for the different protocols. Other relevant variables, including interindividual variability of stool, duration of protocols, and total costs, were considered and discussed. In conclusion, the data presented here can significantly contribute to the optimization and standardization of sample preparation protocols in human fecal metaproteomics. Furthermore, the promising results obtained with the high-throughput methods are expected to encourage the development of automated workflows and their application to large-scale gut microbiome studies.IMPORTANCEFecal metaproteomics is an experimental approach that allows the investigation of gut microbial functions, which are involved in many different physiological and pathological processes. Standardization and automation of sample preparation protocols in fecal metaproteomics are essential for its application in large-scale studies. Here, we comparatively evaluated different methods, available also in a high-throughput format, enabling two key steps of the metaproteomics analytical workflow (namely, protein cleanup and digestion). The results of our study provide critical information that may be useful for the optimization of metaproteomics experimental pipelines and their implementation in laboratory automation systems.
 
 [Source](https://doi.org/10.1128/msystems.00661-24)
 
+10.1128/msystems.00661-24
+
 ---
 
-## Bacterial barcoding facilitates plant microbiome studies
+## Bacterial barcoding facilitates plant microbiome studies.
+ 26.06.2024, _H Liu_
+
+
 
 [Source](https://doi.org/10.1038/s41579-024-01069-3)
+
+10.1038/s41579-024-01069-3
 
 ---
 
