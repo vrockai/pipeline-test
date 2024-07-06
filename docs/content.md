@@ -140,52 +140,21 @@ The objective of this review is to examine the relationship between oral disease
 
 ---
 
-## Ketogenic diet-induced bile acids protect against obesity through reduced calorie absorption.
- 27.06.2024, _X Li, J Yang, X Zhou, C Dai, M Kong, L Xie, C Liu, Y Liu, D Li, X Ma, Y Dai, Y Sun, Z Jian, X Guo, X Lin, Y Li, L Sun, X Liu, L Jin, H Tang, Y Zheng, S Hong_
-
-
-The low-carbohydrate ketogenic diet (KD) has long been practiced for weight loss, but the underlying mechanisms remain elusive. Gut microbiota and metabolites have been suggested to mediate the metabolic changes caused by KD consumption, although the particular gut microbes or metabolites involved are unclear. Here, we show that KD consumption enhances serum levels of taurodeoxycholic acid (TDCA) and tauroursodeoxycholic acid (TUDCA) in mice to decrease body weight and fasting glucose levels. Mechanistically, KD feeding decreases the abundance of a bile salt hydrolase (BSH)-coding gut bacterium, Lactobacillus murinus ASF361. The reduction of L. murinus ASF361 or inhibition of BSH activity increases the circulating levels of TDCA and TUDCA, thereby reducing energy absorption by inhibiting intestinal carbonic anhydrase 1 expression, which leads to weight loss. TDCA and TUDCA treatments have been found to protect against obesity and its complications in multiple mouse models. Additionally, the associations among the abovementioned bile acids, microbial BSH and metabolic traits were consistently observed both in an observational study of healthy human participants (n = 416) and in a low-carbohydrate KD interventional study of participants who were either overweight or with obesity (n = 25). In summary, we uncover a unique host-gut microbiota metabolic interaction mechanism for KD consumption to decrease body weight and fasting glucose levels. Our findings support TDCA and TUDCA as two promising drug candidates for obesity and its complications in addition to a KD.
+## Ketogenic diet-induced bile acids protect against obesity through reduced calorie absorption
 
 [Source](https://doi.org/10.1038/s42255-024-01072-1)
 
-10.1038/s42255-024-01072-1
-
 ---
 
-## How Diet and Lifestyle Can Fine-Tune Gut Microbiomes for Healthy Aging.
- 01.07.2024, _M Tamayo, M Olivares, P Ruas-Madiedo, A Margolles, JC Espín, I Medina, MV Moreno-Arribas, S Canals, CR Mirasso, S Ortín, H Beltrán-Sanchez, A Palloni, FA Tomás-Barberán, Y Sanz_
-
-
-_Humans, Gastrointestinal Microbiome, Life Style, Diet, Healthy Aging, Probiotics, Aging_
-Many physical, social, and psychological changes occur during aging that raise the risk of developing chronic diseases, frailty, and dependency. These changes adversely affect the gut microbiota, a phenomenon known as microbe-aging. Those microbiota alterations are, in turn, associated with the development of age-related diseases. The gut microbiota is highly responsive to lifestyle and dietary changes, displaying a flexibility that also provides anactionable tool by which healthy aging can be promoted. This review covers, firstly, the main lifestyle and socioeconomic factors that modify the gut microbiota composition and function during healthy or unhealthy aging and, secondly, the advances being made in defining and promoting healthy aging, including microbiome-informed artificial intelligence tools, personalized dietary patterns, and food probiotic systems.
+## How Diet and Lifestyle Can Fine-Tune Gut Microbiomes for Healthy Aging
 
 [Source](https://www.annualreviews.org/content/journals/10.1146/annurev-food-072023-034458)
 
-10.1146/annurev-food-072023-034458
-
 ---
 
-## Gut microbiota signatures of vulnerability to food addiction in mice and humans.
- 26.06.2024, _S Samulėnaitė, A García-Blanco, J Mayneris-Perxachs, L Domingo-Rodríguez, J Cabana-Domínguez, N Fernàndez-Castillo, E Gago-García, L Pineda-Cirera, A Burokas, J Espinosa-Carrasco, S Arboleya, J Latorre, C Stanton, K Hosomi, J Kunisawa, B Cormand, JM Fernández-Real, R Maldonado, E Martín-García_
-
-
-Food addiction is a multifactorial disorder characterised by a loss of control over food intake that may promote obesity and alter gut microbiota composition. We have investigated the potential involvement of the gut microbiota in the mechanisms underlying food addiction.
+## Gut microbiota signatures of vulnerability to food addiction in mice and humans
 
 [Source](https://doi.org/10.1136/gutjnl-2023-331445)
-
-10.1136/gutjnl-2023-331445
-
----
-
-## Ascertainment of Nutrition Care Process (NCP) Implementation and Use of NCP Terminologies (NCPT) among Hospital Dietitians in the Philippines.
- 05.07.2024, _JI Delomen, AKM Bernardo, EMM Centeno_
-
-
-The Nutrition Care Process (NCP) is a systematic method used by dietitians to provide high-quality nutrition care resulting in good patient outcomes. This study aimed to assess the NCP implementation and use of NCP Terminologies (NCPT) among hospital dietitians in the Philippines. Specifically, the study aimed at assessing the knowledge, perception, and practices on NCP and use of NCPT and correlate them with the dietitians' education, and professional and employment profile; and explain the barriers and facilitators of the practice of NCP and use of NCPT among hospital dietitians in the Philippines.
-
-[Source](https://doi.org/10.1128/msphere.00233-24)
-
-10.47895/amp.vi0.6697
 
 ---
 
