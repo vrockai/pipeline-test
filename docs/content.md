@@ -1,303 +1,299 @@
-## Metaproteomic portrait of the healthy human gut microbiota.
- 02.07.2024, _A Tanca, A Palomba, G Fiorito, M Abbondio, D Pagnozzi, S Uzzau_
+## Changes in the gut microbiome of patients with esophageal cancer: a systematic review and meta-analysis based on 16S gene sequencing technology.
+ 06.07.2024, _J Deng, Y Huang, K Yu, H Luo, D Zhou, D Li_
 
 
-_Humans, Gastrointestinal Microbiome, Proteomics, Bacteria, Feces, Bacterial Proteins, Healthy Volunteers, Proteome, Metabolic Networks and Pathways_
-Gut metaproteomics can provide direct evidence of microbial functions actively expressed in the colonic environments, contributing to clarify the role of the gut microbiota in human physiology. In this study, we re-analyzed 10 fecal metaproteomics datasets of healthy individuals from different continents and countries, with the aim of identifying stable and variable gut microbial functions and defining the contribution of specific bacterial taxa to the main metabolic pathways. The "core" metaproteome included 182 microbial functions and 83 pathways that were identified in all individuals analyzed. Several enzymes involved in glucose and pyruvate metabolism, along with glutamate dehydrogenase, acetate kinase, elongation factors G and Tu and DnaK, were the proteins with the lowest abundance variability in the cohorts under study. On the contrary, proteins involved in chemotaxis, response to stress and cell adhesion were among the most variable functions. Random-effect meta-analysis of correlation trends between taxa, functions and pathways revealed key ecological and molecular associations within the gut microbiota. The contribution of specific bacterial taxa to the main biological processes was also investigated, finding that Faecalibacterium is the most stable genus and the top contributor to anti-inflammatory butyrate production in the healthy gut microbiota. Active production of other mucosal immunomodulators facilitating host tolerance was observed, including Roseburia flagellin and lipopolysaccharide biosynthetic enzymes expressed by members of Bacteroidota. Our study provides a detailed picture of the healthy human gut microbiota, contributing to unveil its functional mechanisms and its relationship with nutrition, immunity, and environmental stressors.
+Esophageal cancer (EC) possesses a high degree of malignancy and exhibits poor therapeutic outcomes and prognosis. However, its pathogenesis remains unclear. With the development of macrogene sequencing technology, changes in the intestinal flora have been found to be highly related to the development of EC, although discrepancies and controversies remain in this research area.
 
-[Source](https://doi.org/10.1038/s41522-024-00526-4)
+[Source](https://doi.org/10.1016/j.micpath.2024.106784)
 
-10.1038/s41522-024-00526-4
-
----
-
-## Microbiome and Growth in Infants with Congenital Heart Disease.
- 29.06.2024, _MP Fundora, C Calamaro, Y Wu, AM Brown, A St John, R Keiffer, Y Xiang, K Liu, S Gillespie, PW Denning, K Sanders-Lewis, B Seitter, J Bai_
-
-
-To profile the gut microbiome in infants with congenital heart disease undergoing cardiac surgery compared with matched infants and to investigate the association with growth (weight, length, and head circumference).
-
-[Source](https://www.jpeds.com/article/S0022-3476(24)00272-5/fulltext)
-
-10.1016/j.jpeds.2024.114169
+10.1016/j.micpath.2024.106784
 
 ---
 
-## Driving gut microbiota enterotypes through host genetics.
- 01.07.2024, _C Larzul, J Estellé, M Borey, F Blanc, G Lemonnier, Y Billon, MG Thiam, B Quinquis, N Galleron, D Jardet, J Lecardonnel, F Plaza Oñate, C Rogel-Gaillard_
+## Integrated metagenomic and metabolomic analysis reveals distinctive stage-specific gut-microbiome-derived metabolites in intracranial aneurysms.
+ 03.07.2024, _H Sun, K Sun, H Tian, X Chen, S Su, Y Tu, S Chen, J Wang, M Peng, M Zeng, X Li, Y Luo, Y Xie, X Feng, Z Li, X Zhang, X Li, Y Liu, W Ye, Z Chen, Z Zhu, Y Li, F Xia, H Zhou, C Duan_
 
 
-_Animals, Gastrointestinal Microbiome, Swine, Feces, Bacteria, Metagenomics, Prevotella, Ruminococcus, Treponema_
-Population stratification based on interindividual variability in gut microbiota composition has revealed the existence of several ecotypes named enterotypes in humans and various animal species. Enterotypes are often associated with environmental factors including diet, but knowledge of the role of host genetics remains scarce. Moreover, enterotypes harbor functionalities likely associated with varying abilities and susceptibilities of their host. Previously, we showed that under controlled conditions, 60-day-old pig populations consistently split into two enterotypes with either Prevotella and Mitsuokella (PM enterotype) or Ruminococcus and Treponema (RT enterotype) as keystone taxa. Here, our aim was to rely on pig as a model to study the influence of host genetics to assemble enterotypes, and to provide clues on enterotype functional differences and their links with growth traits.
+Our study aimed to explore the influence of gut microbiota and their metabolites on intracranial aneurysms (IA) progression and pinpoint-related metabolic biomarkers derived from the gut microbiome.
 
-[Source](https://doi.org/10.1186/s40168-024-01827-8)
+[Source](https://doi.org/10.1136/gutjnl-2024-332245)
 
-10.1186/s40168-024-01827-8
-
----
-
-## Obesity-associated microbiomes instigate visceral adipose tissue inflammation by recruitment of distinct neutrophils.
- 30.06.2024, _D Shantaram, R Hoyd, AM Blaszczak, L Antwi, A Jalilvand, VP Wright, J Liu, AJ Smith, D Bradley, W Lafuse, Y Liu, NF Williams, O Snyder, C Wheeler, B Needleman, S Brethauer, S Noria, D Renton, KA Perry, P Nagareddy, D Wozniak, S Mahajan, PSJB Rana, M Pietrzak, LS Schlesinger, DJ Spakowicz, WA Hsueh_
-
-
-_Intra-Abdominal Fat, Animals, Obesity, Humans, Neutrophils, Diet, High-Fat, Mice, Inflammation, Gastrointestinal Microbiome, Male, Mice, Inbred C57BL, Female, Feces, Microbiota, Th1 Cells, Neutrophil Infiltration_
-Neutrophils are increasingly implicated in chronic inflammation and metabolic disorders. Here, we show that visceral adipose tissue (VAT) from individuals with obesity contains more neutrophils than in those without obesity and is associated with a distinct bacterial community. Exploring the mechanism, we gavaged microbiome-depleted mice with stool from patients with and without obesity during high-fat or normal diet administration. Only mice receiving high-fat diet and stool from subjects with obesity show enrichment of VAT neutrophils, suggesting donor microbiome and recipient diet determine VAT neutrophilia. A rise in pro-inflammatory CD4+ Th1 cells and a drop in immunoregulatory T cells in VAT only follows if there is a transient spike in neutrophils. Human VAT neutrophils exhibit a distinct gene expression pattern that is found in different human tissues, including tumors. VAT neutrophils and bacteria may be a novel therapeutic target for treating inflammatory-driven complications of obesity, including insulin resistance and colon cancer.
-
-[Source](https://doi.org/10.1038/s41467-024-48935-5)
-
-10.1038/s41467-024-48935-5
+10.1136/gutjnl-2024-332245
 
 ---
 
-## Fecal, Duodenal and Tumor Microbiota Composition of Esophageal Carcinoma Patients, a Longitudinal Prospective Cohort.
- 26.06.2024, _T van den Ende, NC de Clercq, M Davids, R Goedegebuure, BH Doeve, G Ebrahimi, J Buijsen, R Hoekstra, NH Mohammad, MF Bijlsma, M Nieuwdorp, HWM van Laarhoven_
+## After surgically induced remission, ileal and colonic mucosa-associated microbiota predicts Crohn's disease recurrence.
+ 05.07.2024, _CH Rocha, W Turpin, K Borowski, JM Stempak, K Sabic, K Gettler, C Tastad, C Chasteau, U Korie, M Hanna, A Khan, E Mengesha, A Bitton, MB Schwartz, A Barrie, LW Datta, M Lazarev, SR Brant, JD Rioux, DPB McGovern, RH Duerr, LP Schumm, JH Cho, MS Silverberg_
 
 
-The microbiome has been associated with chemotherapy and immune checkpoint inhibitor (ICI) efficacy. How this pertains to resectable esophageal carcinoma (EC) is unknown. Our aim was to identify microbial signatures in resectable EC associated with response to neoadjuvant chemoradiotherapy (nCRT) with or without ICI.
+Investigating the tissue-associated microbiota after surgically induced remission may help to understand the mechanisms initiating intestinal inflammation in Crohn's disease.
 
-[Source](https://doi.org/10.1093/jnci/djae153)
+[Source](https://www.cghjournal.org/article/S1542-3565(24)00592-5/abstract)
 
-10.1093/jnci/djae153
-
----
-
-## Role of the intestinal microbiota in contributing to weight disorders and associated comorbidities.
- 28.06.2024, _M Van Hul, AM Neyrinck, A Everard, A Abot, LB Bindels, NM Delzenne, C Knauf, PD Cani_
-
-
-SUMMARYThe gut microbiota is a major factor contributing to the regulation of energy homeostasis and has been linked to both excessive body weight and accumulation of fat mass (i.e., overweight, obesity) or body weight loss, weakness, muscle atrophy, and fat depletion (i.e., cachexia). These syndromes are characterized by multiple metabolic dysfunctions including abnormal regulation of food reward and intake, energy storage, and low-grade inflammation. Given the increasing worldwide prevalence of obesity, cachexia, and associated metabolic disorders, novel therapeutic strategies are needed. Among the different mechanisms explaining how the gut microbiota is capable of influencing host metabolism and energy balance, numerous studies have investigated the complex interactions existing between nutrition, gut microbes, and their metabolites. In this review, we discuss how gut microbes and different microbiota-derived metabolites regulate host metabolism. We describe the role of the gut barrier function in the onset of inflammation in this context. We explore the importance of the gut-to-brain axis in the regulation of energy homeostasis and glucose metabolism but also the key role played by the liver. Finally, we present specific key examples of how using targeted approaches such as prebiotics and probiotics might affect specific metabolites, their signaling pathways, and their interactions with the host and reflect on the challenges to move from bench to bedside.
-
-[Source](https://doi.org/10.1128/cmr.00045-23)
-
-10.1128/cmr.00045-23
+10.1016/j.cgh.2024.06.022
 
 ---
 
-## The gut microbiome in disorders of gut-brain interaction.
- 04.07.2024, _N Kraimi, T Ross, J Pujo, G De Palma_
+## Human gut microbiota analysis of cystic fibrosis infants using metaproteomics.
+ 05.07.2024, _C García-Durán, C Saralegui, E Romeu, ML Hernáez, A Maruri, N Bastón-Paz, A Lamas, S Vicente, E Perez-Ruiz, I Delgado, C Luna-Paredes, JD Caballero, J Zamora, L Monteoliva, R Del Campo, C Gil_
 
 
-_Gastrointestinal Microbiome, Humans, Brain-Gut Axis, Gastrointestinal Diseases, Brain, Animals, Gastrointestinal Tract_
-Functional gastrointestinal disorders (FGIDs), chronic disorders characterized by either abdominal pain, altered intestinal motility, or their combination, have a worldwide prevalence of more than 40% and impose a high socioeconomic burden with a significant decline in quality of life. Recently, FGIDs have been reclassified as disorders of gut-brain interaction (DGBI), reflecting the key role of the gut-brain bidirectional communication in these disorders and their impact on psychological comorbidities. Although, during the past decades, the field of DGBIs has advanced significantly, the molecular mechanisms underlying DGBIs pathogenesis and pathophysiology, and the role of the gut microbiome in these processes are not fully understood. This review aims to discuss the latest body of literature on the complex microbiota-gut-brain interactions and their implications in the pathogenesis of DGBIs. A better understanding of the existing communication pathways between the gut microbiome and the brain holds promise in developing effective therapeutic interventions for DGBIs.
+We report a metaproteomic analysis of the gut microbiota of eight infants with cystic fibrosis, during the first year of life. This is the first study in this disease that uses metaproteomics to analyze stool samples from patients at such a young age.
 
-[Source](https://doi.org/10.1111/febs.17200)
+[Source](https://doi.org/10.1128/mra.00059-24)
 
-10.1080/19490976.2024.2360233
-
----
-
-## The role of the gut microbiome in disorders of gut-brain interaction
-
-[Source](https://doi.org/10.1111/febs.17200)
+10.1128/mra.00059-24
 
 ---
 
-## Multi-omics signatures reveal genomic and functional heterogeneity of Cutibacterium acnes in normal and diseased skin.
- 03.07.2024, _T Yu, X Xu, Y Liu, X Wang, S Wu, Z Qiu, X Liu, X Pan, C Gu, S Wang, L Dong, W Li, X Yao_
+## Environmental, socioeconomic, and health factors associated with gut microbiome species and strains in isolated Honduras villages.
+ 05.07.2024, _SV Shridhar, F Beghini, M Alexander, A Singh, RM Juárez, IL Brito, NA Christakis_
 
 
-Cutibacterium acnes is the most abundant bacterium of the human skin microbiome since adolescence, participating in both skin homeostasis and diseases. Here, we demonstrate individual and niche heterogeneity of C. acnes from 1,234 isolate genomes. Skin disease (atopic dermatitis and acne) and body site shape genomic differences of C. acnes, stemming from horizontal gene transfer and selection pressure. C. acnes harbors characteristic metabolic functions, fewer antibiotic resistance genes and virulence factors, and a more stable genome compared with Staphylococcus epidermidis. Integrated genome, transcriptome, and metabolome analysis at the strain level unveils the functional characteristics of C. acnes. Consistent with the transcriptome signature, C. acnes in a sebum-rich environment induces toxic and pro-inflammatory effects on keratinocytes. L-carnosine, an anti-oxidative stress metabolite, is up-regulated in the C. acnes metabolome from atopic dermatitis and attenuates skin inflammation. Collectively, our study reveals the joint impact of genes and the microenvironment on C. acnes function.
+Despite a growing interest in the gut microbiome of non-industrialized countries, data linking deeply sequenced microbiomes from such settings to diverse host phenotypes and situational factors remain uncommon. Using metagenomic data from a community-based cohort of 1,871 people from 19 isolated villages in the Mesoamerican highlands of western Honduras, we report associations between bacterial species and human phenotypes and factors. Among them, socioeconomic factors account for 51.44% of the total associations. Meta-analysis of species-level profiles across several datasets identified several species associated with body mass index, consistent with previous findings. Furthermore, the inclusion of strain-phylogenetic information modifies the overall relationship between the gut microbiome and the phenotypes, especially for some factors like household wealth (e.g., wealthier individuals harbor different strains of Eubacterium rectale). Our analysis suggests a role that gut microbiome surveillance can play in understanding broad features of individual and public health.
 
-[Source](https://doi.org/10.1016/j.chom.2024.06.002)
+[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)00771-X)
 
-10.1016/j.chom.2024.06.002
-
----
-
-## Vaginal anaerobes are associated with cervicitis: a case-control study.
- 29.06.2024, _EL Plummer, LA Vodstrcil, JA Danielewski, GL Murray, ML Doyle, RL Latimer, CK Fairley, EP Chow, SM Garland, CS Bradshaw_
-
-
-Cervicitis is associated with important reproductive sequelae. Primary causes include chlamydia and gonorrhoea, but a known sexually transmitted infection (STI) is not identified in &gt;50% of cases (i.e. STI-negative cervicitis). Bacterial vaginosis (BV) and specific BV-associated bacteria have also been associated with cervicitis, but data are limited. We investigated the association between STI-negative cervicitis and vaginal microbiota composition.
-
-[Source](https://www.journalofinfection.com/article/S0163-4453(24)00144-0/fulltext)
-
-10.1016/j.jinf.2024.106210
+10.1016/j.celrep.2024.114442
 
 ---
 
-## The Impact of Oral Diseases on Respiratory Health and the Influence of Respiratory Infections on the Oral Microbiome.
- 27.06.2024, _A Gupta, LM Saleena, P Kannan, A Shivachandran_
+## Perturbations in gut microbiota composition in schizophrenia.
+ 05.07.2024, _Y Wang, S Bi, X Li, Y Zhong, D Qi_
 
 
-The objective of this review is to examine the relationship between oral diseases and respiratory health, investigating how oral microbiome disruptions contribute to respiratory tract infections. Additionally, it aims to explore the impact of respiratory disease symptoms and treatments on the oral microbiome.
+_Schizophrenia, Humans, Gastrointestinal Microbiome, Male, Female, Adult, RNA, Ribosomal, 16S, Middle Aged, Case-Control Studies, Metagenomics, Metagenome_
+Schizophrenia is a severe, complex and long-term psychiatric disorder with unclear etiology. Gut microbes influence the central nervous system via the gut-brain axis. Consequently, investigations of the relationship between gut microbes and schizophrenia are warranted. This study involved 29 patients with schizophrenia and 30 age-matched normal controls. After 16S rRNA gene sequencing and whole-genome shotgun metagenomic sequencing, we analyzed microbial diversity, composition, and function. According to 16S rRNA and metagenomic gene sequencing results, patients with schizophrenia had higher abundances of Clostridium and Megasphaera. Functional analysis showed that sphingolipid, phosphonates and phosphinates, as well as glutamine metabolism were associated with the occurrence and development of schizophrenia. Our data suggest that the gut microbiota exerts an effect on patients with schizophrenia, providing valuable insights into the potential regulation of in the context of this disorder.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0300571224003828?via%3Dihub)
+[Source](https://doi.org/10.1371/journal.pone.0306582)
 
-10.1016/j.jdent.2024.105213
-
----
-
-## <em>Lactobacillus acidophilus </em>protects against <em>Corynebacterium pseudotuberculosis </em>infection by regulating the autophagy of macrophages and maintaining gut microbiota homeostasis in C57BL/6 mice
-
-[Source](https://doi.org/10.1128/msystems.00484-24)
+10.1371/journal.pone.0306582
 
 ---
 
-## Exploring novel microbial metabolites and drugs for inhibiting <em>Clostridioides difficile</em>
-
-[Source](https://doi.org/10.1128/msphere.00273-24)
-
----
-
-## Ketogenic diet-induced bile acids protect against obesity through reduced calorie absorption.
- 27.06.2024, _X Li, J Yang, X Zhou, C Dai, M Kong, L Xie, C Liu, Y Liu, D Li, X Ma, Y Dai, Y Sun, Z Jian, X Guo, X Lin, Y Li, L Sun, X Liu, L Jin, H Tang, Y Zheng, S Hong_
+## Maternal gestational diabetes mellitus associates with altered gut microbiome composition and head circumference abnormalities in male offspring.
+ 02.07.2024, _S Wang, Y Liu, WH Tam, JYL Ching, W Xu, S Yan, B Qin, L Lin, Y Peng, J Zhu, CP Cheung, KL Ip, YM Wong, PK Cheong, YL Yeung, WHB Kan, TF Leung, TY Leung, EB Chang, DT Rubin, EC Claud, WKK Wu, HM Tun, FKL Chan, SC Ng, L Zhang_
 
 
-The low-carbohydrate ketogenic diet (KD) has long been practiced for weight loss, but the underlying mechanisms remain elusive. Gut microbiota and metabolites have been suggested to mediate the metabolic changes caused by KD consumption, although the particular gut microbes or metabolites involved are unclear. Here, we show that KD consumption enhances serum levels of taurodeoxycholic acid (TDCA) and tauroursodeoxycholic acid (TUDCA) in mice to decrease body weight and fasting glucose levels. Mechanistically, KD feeding decreases the abundance of a bile salt hydrolase (BSH)-coding gut bacterium, Lactobacillus murinus ASF361. The reduction of L. murinus ASF361 or inhibition of BSH activity increases the circulating levels of TDCA and TUDCA, thereby reducing energy absorption by inhibiting intestinal carbonic anhydrase 1 expression, which leads to weight loss. TDCA and TUDCA treatments have been found to protect against obesity and its complications in multiple mouse models. Additionally, the associations among the abovementioned bile acids, microbial BSH and metabolic traits were consistently observed both in an observational study of healthy human participants (n = 416) and in a low-carbohydrate KD interventional study of participants who were either overweight or with obesity (n = 25). In summary, we uncover a unique host-gut microbiota metabolic interaction mechanism for KD consumption to decrease body weight and fasting glucose levels. Our findings support TDCA and TUDCA as two promising drug candidates for obesity and its complications in addition to a KD.
+The impact of gestational diabetes mellitus (GDM) on maternal or infant microbiome trajectory remains poorly understood. Utilizing large-scale longitudinal fecal samples from 264 mother-baby dyads, we present the gut microbiome trajectory of the mothers throughout pregnancy and infants during the first year of life. GDM mothers had a distinct microbiome diversity and composition during the gestation period. GDM leaves fingerprints on the infant's gut microbiome, which are confounded by delivery mode. Further, Clostridium species positively correlate with a larger head circumference at month 12 in male offspring but not females. The gut microbiome of GDM mothers with male fetuses displays depleted gut-brain modules, including acetate synthesis I and degradation and glutamate synthesis II. The gut microbiome of female infants of GDM mothers has higher histamine degradation and dopamine degradation. Together, our integrative analysis indicates that GDM affects maternal and infant gut composition, which is associated with sexually dimorphic infant head growth.
 
-[Source](https://doi.org/10.1038/s42255-024-01072-1)
+[Source](https://doi.org/10.1016/j.chom.2024.06.005)
 
-10.1038/s42255-024-01072-1
+10.1016/j.chom.2024.06.005
 
 ---
 
-## How Diet and Lifestyle Can Fine-Tune Gut Microbiomes for Healthy Aging.
- 01.07.2024, _M Tamayo, M Olivares, P Ruas-Madiedo, A Margolles, JC Espín, I Medina, MV Moreno-Arribas, S Canals, CR Mirasso, S Ortín, H Beltrán-Sanchez, A Palloni, FA Tomás-Barberán, Y Sanz_
+## Microbial signatures and continuum in endometrial cancer and benign patients.
+ 04.07.2024, _A Semertzidou, E Whelan, A Smith, S Ng, L Roberts, JJ Brosens, JR Marchesi, PR Bennett, DA MacIntyre, M Kyrgiou_
 
 
-_Humans, Gastrointestinal Microbiome, Life Style, Diet, Healthy Aging, Probiotics, Aging_
-Many physical, social, and psychological changes occur during aging that raise the risk of developing chronic diseases, frailty, and dependency. These changes adversely affect the gut microbiota, a phenomenon known as microbe-aging. Those microbiota alterations are, in turn, associated with the development of age-related diseases. The gut microbiota is highly responsive to lifestyle and dietary changes, displaying a flexibility that also provides anactionable tool by which healthy aging can be promoted. This review covers, firstly, the main lifestyle and socioeconomic factors that modify the gut microbiota composition and function during healthy or unhealthy aging and, secondly, the advances being made in defining and promoting healthy aging, including microbiome-informed artificial intelligence tools, personalized dietary patterns, and food probiotic systems.
+_Humans, Female, Endometrial Neoplasms, RNA, Ribosomal, 16S, Microbiota, Middle Aged, Bacteria, Endometrium, Aged, Rectum, Vagina, Adult_
+Endometrial cancer is a multifactorial disease with inflammatory, metabolic and potentially microbial cues involved in disease pathogenesis. The endometrial cancer microbiome has been poorly characterised so far and studies have often overestimated bacterial biomass due to lack of integration of appropriate contamination controls. There is also a scarcity of evidence on the functionality of microbial microenvironments in endometrial cancer. This work addresses that knowledge gap by interrogating the genuine, contamination-free microbial signatures in the female genital tract and rectum of women with endometrial cancer and the mechanistic role of microbiome on carcinogenic processes.
 
-[Source](https://www.annualreviews.org/content/journals/10.1146/annurev-food-072023-034458)
+[Source](https://doi.org/10.1186/s40168-024-01821-0)
 
-10.1146/annurev-food-072023-034458
-
----
-
-## Gut microbiota signatures of vulnerability to food addiction in mice and humans.
- 26.06.2024, _S Samulėnaitė, A García-Blanco, J Mayneris-Perxachs, L Domingo-Rodríguez, J Cabana-Domínguez, N Fernàndez-Castillo, E Gago-García, L Pineda-Cirera, A Burokas, J Espinosa-Carrasco, S Arboleya, J Latorre, C Stanton, K Hosomi, J Kunisawa, B Cormand, JM Fernández-Real, R Maldonado, E Martín-García_
-
-
-Food addiction is a multifactorial disorder characterised by a loss of control over food intake that may promote obesity and alter gut microbiota composition. We have investigated the potential involvement of the gut microbiota in the mechanisms underlying food addiction.
-
-[Source](https://doi.org/10.1136/gutjnl-2023-331445)
-
-10.1136/gutjnl-2023-331445
+10.1186/s40168-024-01821-0
 
 ---
 
-## The Evolution of Science and Regulation of Dietary Supplements: Past, Present, and Future.
- 06.07.2024, _PM Coates, RL Bailey, JB Blumberg, A El-Sohemy, ZE Floyd, JZ Goldenberg, A Gould Shunney, HD Holscher, Y Nkrumah-Elie, D Rai, BW Ritz, WJ Weber_
+## Comparison of shipping versus immediate freezer storage of vaginal samples for vaginal microbiota assessment.
+ 03.07.2024, _S Tuddenham, P Gajer, JB Holm, SE Brown, L Forney, J Ravel, KG Ghanem, RM Brotman_
 
 
-Dietary supplement use in the United States is widespread and increasing, especially among certain population groups, such as older Americans. The science surrounding dietary supplements has evolved substantially over the last few decades since their formal regulation in 1994. Much has been learned about the mechanisms of action of many dietary supplement ingredients, but the evidence on their health effects is still building. As is true of much nutrition research, there are many studies that point to health effects, but not all are at the level of scientific evidence (e.g., randomized controlled interventions), rigor, or quality needed for definitive statements of efficacy regarding clinical endpoints. New technologies and approaches are being applied to the science of dietary supplements, including nutrigenomics and microbiome analysis, data science, artificial intelligence, and machine learning - all of which can elevate the science behind dietary supplements. Products can contain an array of bioactive compounds derived from foods as well as from medicinal plants, which creates enormous challenges in data collection and management. Clinical applications, particularly those aimed at providing personalized nutrition options for patients, have become more sophisticated as dietary supplements are incorporated increasingly into clinical practice and self-care. The goals of this paper are to provide historical context for the regulation and science of dietary supplements, identify research resources, and suggest some future directions for science in this field.
+ObjectivesWe evaluated how storing vaginal samples at room temperature in stabilising solutions versus immediate freezing affects 16S rRNA gene amplicon sequencing-based microbiota studies, aiming to simplify home and field collection.
 
-[Source](https://doi.org/10.1128/msphere.00233-24)
+[Source](https://doi.org/10.1136/sextrans-2023-056100)
 
-10.1016/j.tjnut.2024.06.017
-
----
-
-## Group membership, not diet, structures the composition and functional potential of the gut microbiome in a wild primate
-
-[Source](https://doi.org/10.1128/msphere.00233-24)
+10.1136/sextrans-2023-056100
 
 ---
 
-## Maternal transmission as a microbial symbiont sieve, and the absence of lactation in male mammals.
- 30.06.2024, _BT Fagan, GWA Constable, R Law_
+## Facile hydrothermal synthesis of manganese sulfide nanoelectrocatalyst for high sensitive detection of Bisphenol A in food and eco-samples.
+ 24.06.2022, _M Annalakshmi, TST Balamurugan, S Kumaravel, SM Chen, JL He_
 
 
-_Animals, Lactation, Female, Male, Symbiosis, Gastrointestinal Microbiome, Milk, Pregnancy, Mammals, Maternal Inheritance_
-Gut microbiomes of mammals carry a complex symbiotic assemblage of microorganisms. Feeding newborn infants milk from the mammary gland allows vertical transmission of the parental milk microbiome to the offspring's gut microbiome. This has benefits, but also has hazards for the host population. Using mathematical models, we demonstrate that biparental vertical transmission enables deleterious microbial elements to invade host populations. In contrast, uniparental vertical transmission acts as a sieve, preventing these invasions. Moreover, we show that deleterious symbionts generate selection on host modifier genes that keep uniparental transmission in place. Since microbial transmission occurs during birth in placental mammals, subsequent transmission of the milk microbiome needs to be maternal to avoid the spread of deleterious elements. This paper therefore argues that viviparity and the hazards from biparental transmission of the milk microbiome, together generate selection against male lactation in placental mammals.
+_Benzhydryl Compounds, Ecosystem, Manganese Compounds, Phenols, Sulfides_
+Bisphenol A (BPA) is a renowned plasticizer, and a key component of various plastics, resins, and food packaging materials. However, BPA have been identified as an endocrine disruption compound and cause severe consequences such as infertility, diabetic, obesity, carcinoma, and possess high risk of exposure in aquatic ecosystem. To this, we crafted an ultrasensitive electrochemical sensor based on the manganese sulfide nanoparticles (MnS NPs) catalyzed electrochemical oxidation of BPA, and its eventual application in rapid screening of BPA contamination. The physiochemical characteristics and electrocatalytic performance of the MnS nanocatalyst have been well studied and utilized in the fabrication of MnS/GCE based BPA sensor. The fabricated BPA sensor has shown a broad dynamic range (20 nM-2.15 mM), lower detection limits (6.52 nM) and promising towards rapid screening of BPA contaminations in food and environmental samples under mimicked real-world conditions with excellent accuracy and precision.
 
-[Source](https://doi.org/10.1038/s41467-024-49559-5)
+[Source](https://doi.org/10.1128/msystems.00556-24)
 
-10.1038/s41467-024-49559-5
-
----
-
-## A metagenomic assessment of bacterial community in spices sold open-air markets in Saint-Louis, Senegal.
- 29.06.2024, _S Sané, AAM Diouara, S Coundoul, SD Tene, A Kane, SF Wade, A Tamba, M Diop, MN Mbaye, F Thiam, M Dieng, M Mbengue, CM Nguer, AD Sarr, AS Ndao, C Touré Kane_
-
-
-_Spices, Senegal, Metagenomics, RNA, Ribosomal, 16S, Bacteria, Humans, Metagenome, Microbiota, Curcuma_
-Natural spices play an essential role in human nutrition and well-being. However, their processing on different scales can expose them to potential sources of contamination. This study aimed to describe the bacterial community genomic footprint in spices sold in Senegal. Spice samples were collected in August 2022 in Saint-Louis, Senegal. The genomic region coding bacterial 16S rRNA was then amplified and sequenced using Oxford Nanopore Technology (ONT). Sequencing was carried out on two batches of samples, one containing part of the "Local Spices or Herbs" (n = 10), and the other, a mixture of 7 spices, Curcuma, Thyme and the other part of the "Local Spices or Herbs" (n = 39). Results showed high bacterial diversity and the predominance of Escherichia coli and Salmonella enterica in samples, with total reads of 65,744 and 165,325 for the two batches, respectively. The sample category "Homemade mixture of food condiments ", which includes all "Local Spices or Herbs" samples, showed remarkable bacterial diversity. These were followed by Curcuma, a blend of 7 spices and thyme. Also, the different categories of spices studied show similarities in their bacterial composition. These results highlight the microbial community's highly diverse genomic profile, including pathogenic bacteria, in spice samples.
-
-[Source](https://doi.org/10.1038/s41598-024-65756-0)
-
-10.1038/s41598-024-65756-0
+10.1016/j.foodchem.2022.133316
 
 ---
 
-## Compositionally aware estimation of cross-correlations for microbiome data.
- 30.06.2024, _IT Jensen, L Janss, S Radutoiu, R Waagepetersen_
+## Real-world bisphenol A exposure not linked to microbiota dynamics in childhood obesity
 
-
-_Microbiota, Algorithms, Humans_
-In the field of microbiome studies, it is of interest to infer correlations between abundances of different microbes (here referred to as operational taxonomic units, OTUs). Several methods taking the compositional nature of the sequencing data into account exist. However, these methods cannot infer correlations between OTU abundances and other variables. In this paper we introduce the novel methods SparCEV (Sparse Correlations with External Variables) and SparXCC (Sparse Cross-Correlations between Compositional data) for quantifying correlations between OTU abundances and either continuous phenotypic variables or components of other compositional datasets, such as transcriptomic data. SparCEV and SparXCC both assume that the average correlation in the dataset is zero. Iterative versions of SparCEV and SparXCC are proposed to alleviate bias resulting from deviations from this assumption. We compare these new methods to empirical Pearson cross-correlations after applying naive transformations of the data (log and log-TSS). Additionally, we test the centered log ratio transformation (CLR) and the variance stabilising transformation (VST). We find that CLR and VST outperform naive transformations, except when the correlation matrix is dense. SparCEV and SparXCC outperform CLR and VST when the number of OTUs is small and perform similarly to CLR and VST for large numbers of OTUs. Adding the iterative procedure increases accuracy for SparCEV and SparXCC for all cases, except when the average correlation in the dataset is close to zero or the correlation matrix is dense. These results are consistent with our theoretical considerations.
-
-[Source](https://doi.org/10.1371/journal.pone.0305032)
-
-10.1371/journal.pone.0305032
+[Source](https://doi.org/10.1128/msystems.00556-24)
 
 ---
 
-## Bioinformatic Workflows for Metaproteomics.
- 28.06.2024, _T Holstein, T Muth_
+## Blockbuster T cells in the gut: A high-resolution view of immune modulation by the gut microbiome is presented
 
-
-_Proteomics, Computational Biology, Workflow, Software, Microbiota, Humans, Databases, Protein, Metagenomics_
-The strong influence of microbiomes on areas such as ecology and human health has become widely recognized in the past years. Accordingly, various techniques for the investigation of the composition and function of microbial community samples have been developed. Metaproteomics, the comprehensive analysis of the proteins from microbial communities, allows for the investigation of not only the taxonomy but also the functional and quantitative composition of microbiome samples. Due to the complexity of the investigated communities, methods developed for single organism proteomics cannot be readily applied to metaproteomic samples. For this purpose, methods specifically tailored to metaproteomics are required. In this work, a detailed overview of current bioinformatic solutions and protocols in metaproteomics is given. After an introduction to the proteomic database search, the metaproteomic post-processing steps are explained in detail. Ten specific bioinformatic software solutions are focused on, covering various steps including database-driven identification and quantification as well as taxonomic and functional assignment.
-
-[Source](https://doi.org/10.1007/978-1-0716-3910-8_16)
-
-10.1007/978-1-0716-3910-8_16
+[Source](https://doi.org/10.1126/science.adq2335)
 
 ---
 
-## Floria: fast and accurate strain haplotyping in metagenomes.
- 30.06.2024, _J Shaw, JS Gounot, H Chen, N Nagarajan, YW Yu_
+## Gut microbiota-lncRNA/circRNA crosstalk: implications for different diseases.
+ 05.07.2024, _L Zhang, X Li, H Gao, W Chang, P Li_
 
 
-_Metagenome, Metagenomics, Haplotypes, Software, Humans, Genome, Bacterial, Microbiota, Bacteria, High-Throughput Nucleotide Sequencing, Sequence Analysis, DNA_
-Shotgun metagenomics allows for direct analysis of microbial community genetics, but scalable computational methods for the recovery of bacterial strain genomes from microbiomes remains a key challenge. We introduce Floria, a novel method designed for rapid and accurate recovery of strain haplotypes from short and long-read metagenome sequencing data, based on minimum error correction (MEC) read clustering and a strain-preserving network flow model. Floria can function as a standalone haplotyping method, outputting alleles and reads that co-occur on the same strain, as well as an end-to-end read-to-assembly pipeline (Floria-PL) for strain-level assembly. Benchmarking evaluations on synthetic metagenomes show that Floria is &gt; 3× faster and recovers 21% more strain content than base-level assembly methods (Strainberry) while being over an order of magnitude faster when only phasing is required. Applying Floria to a set of 109 deeply sequenced nanopore metagenomes took &lt;20 min on average per sample and identified several species that have consistent strain heterogeneity. Applying Floria's short-read haplotyping to a longitudinal gut metagenomics dataset revealed a dynamic multi-strain Anaerostipes hadrus community with frequent strain loss and emergence events over 636 days. With Floria, accurate haplotyping of metagenomic datasets takes mere minutes on standard workstations, paving the way for extensive strain-level metagenomic analyses.
+The gut microbiota features an abundance of diverse microorganisms and represents an important component of human physiology and metabolic homeostasis, indicating their roles in a wide array of physiological and pathological processes in the host. Maintaining balance in the gut microbiota is critical for normal functionality as microbial dysbiosis can lead to the occurrence and development of diseases through various mechanisms. Long non-coding RNAs (lncRNAs) and circular RNAs (circRNAs) are non-coding RNAs that perform important regulatory functions for many processes. Furthermore, the gut microbiota and lncRNAs/circRNAs are known to interact in a range of both physiological and pathological activities. In this article, we review existing research relevant to the interaction between the gut microbiota and lncRNAs/circRNAs and investigate the role of their crosstalk in the pathogenesis of different diseases. Studies have shown that, the gut microbiota can target lncRNAs ENO1-IT1, BFAL1, and LINC00152 to regulate colorectal cancer development via various signaling pathways. In addition, the gut microbiota can influence mental diseases and lung tumor metastasis by modulating circRNAs such as circNF1-419, circ_0001239, circHIPK2 and mmu_circ_0000730. These findings provide a theoretical basis for disease prevention and treatment and suggest that gut microbiota-lncRNA/circRNA crosstalk has high clinical value.
 
-[Source](https://doi.org/10.1093/bioinformatics/btae252)
+[Source](https://doi.org/10.1080/1040841X.2024.2375516)
 
-10.1093/bioinformatics/btae252
-
----
-
-## Enhancing antimicrobial resistance detection with MetaGeneMiner: Targeted gene extraction from metagenomes.
- 27.06.2024, _C Liu, Z Tang, L Li, Y Kang, Y Teng, Y Yu_
-
-
-Accurately and efficiently extracting microbial genomic sequences from complex metagenomic data is crucial for advancing our understanding in fields such as clinical diagnostics, environmental microbiology, and biodiversity. As sequencing technologies evolve, this task becomes increasingly challenging due to the intricate nature of microbial communities and the vast amount of data generated. Especially in intensive care units (ICUs), infections caused by antibiotic-resistant bacteria are increasingly prevalent among critically ill patients, significantly impacting the effectiveness of treatments and patient prognoses. Therefore, obtaining timely and accurate information about infectious pathogens is of paramount importance for the treatment of patients with severe infections, which enables precisely targeted anti-infection therapies, and a tool that can extract microbial genomic sequences from metagenomic dataset would be of help.
-
-[Source](https://doi.org/10.1097/CM9.0000000000003182)
-
-10.1097/CM9.0000000000003182
+10.1080/1040841X.2024.2375516
 
 ---
 
-## Benchmarking low- and high-throughput protein cleanup and digestion methods for human fecal metaproteomics.
- 27.06.2024, _A Tanca, MA Deledda, L De Diego, M Abbondio, S Uzzau_
+## The role of gut microbiota, exosomes, and their interaction in the pathogenesis of ALD.
+ 05.07.2024, _Z Cheng, L Yang, H Chu_
 
 
-The application of fecal metaproteomics to large-scale studies of the gut microbiota requires high-throughput analysis and standardized experimental protocols. Although high-throughput protein cleanup and digestion methods are increasingly used in shotgun proteomics, no studies have yet critically compared such protocols using human fecal samples. In this study, human fecal protein extracts were processed using several different protocols based on three main approaches: filter-aided sample preparation (FASP), solid-phase-enhanced sample preparation (SP3), and suspension trapping (S-Trap). These protocols were applied in both low-throughput (i.e., microtube-based) and high-throughput (i.e., microplate-based) formats, and the final peptide mixtures were analyzed by liquid chromatography coupled to high-resolution tandem mass spectrometry. The FASP-based methods and the combination of SP3 with in-StageTips (iST) yielded the best results in terms of the number of peptides identified through a database search against gut microbiome and human sequences. The efficiency of protein digestion, the ability to preserve hydrophobic peptides and high molecular weight proteins, and the reproducibility of the methods were also evaluated for the different protocols. Other relevant variables, including interindividual variability of stool, duration of protocols, and total costs, were considered and discussed. In conclusion, the data presented here can significantly contribute to the optimization and standardization of sample preparation protocols in human fecal metaproteomics. Furthermore, the promising results obtained with the high-throughput methods are expected to encourage the development of automated workflows and their application to large-scale gut microbiome studies.IMPORTANCEFecal metaproteomics is an experimental approach that allows the investigation of gut microbial functions, which are involved in many different physiological and pathological processes. Standardization and automation of sample preparation protocols in fecal metaproteomics are essential for its application in large-scale studies. Here, we comparatively evaluated different methods, available also in a high-throughput format, enabling two key steps of the metaproteomics analytical workflow (namely, protein cleanup and digestion). The results of our study provide critical information that may be useful for the optimization of metaproteomics experimental pipelines and their implementation in laboratory automation systems.
+The liver disorders caused by alcohol abuse are termed alcoholic-related liver disease (ALD), including alcoholic steatosis, alcoholic steatohepatitis alcoholic hepatitis, and alcoholic cirrhosis, posing a significant threat to human health. Currently, ALD pathogenesis has not been completely clarified, which is likely to be related to the direct damage caused by alcohol and its metabolic products, oxidative stress, gut dysbiosis, and exosomes.
 
-[Source](https://doi.org/10.1128/msystems.00661-24)
+[Source](https://doi.org/10.1016/j.jare.2024.07.002)
 
-10.1128/msystems.00661-24
-
----
-
-## Bacterial barcoding facilitates plant microbiome studies.
- 26.06.2024, _H Liu_
-
-
-
-[Source](https://doi.org/10.1038/s41579-024-01069-3)
-
-10.1038/s41579-024-01069-3
+10.1016/j.jare.2024.07.002
 
 ---
 
-## <strong>Retraction Note: </strong>Microbiome analyses of blood and tissues suggest cancer diagnostic approach
+## Integrating host and microbiome biology using holo-omics.
+ 04.07.2024, _CM Kobel, J Merkesvik, IMT Burgos, W Lai, O Øyås, PB Pope, TR Hvidsten, VTE Aho_
 
-[Source](https://doi.org/10.1038/s41586-024-07656-x)
+
+Holo-omics is the use of omics data to study a host and its inherent microbiomes - a biological system known as a "holobiont". A microbiome that exists in such a space often encounters habitat stability and in return provides metabolic capacities that can benefit their host. Here we present an overview of beneficial host-microbiome systems and propose and discuss several methodological frameworks that can be used to investigate the intricacies of the many as yet undefined host-microbiome interactions that influence holobiont homeostasis. While this is an emerging field, we anticipate that ongoing methodological advancements will enhance the biological resolution that is necessary to improve our understanding of host-microbiome interplay to make meaningful interpretations and biotechnological applications.
+
+[Source](https://doi.org/10.1039/d4mo00017j)
+
+10.1039/d4mo00017j
+
+---
+
+## Overcoming donor variability and risks associated with fecal microbiota transplants through bacteriophage-mediated treatments.
+ 04.07.2024, _TS Rasmussen, X Mao, S Forster, SB Larsen, A Von Münchow, KD Tranæs, A Brunse, F Larsen, JLC Mejia, S Adamberg, AK Hansen, K Adamberg, CHF Hansen, DS Nielsen_
+
+
+_Fecal Microbiota Transplantation, Animals, Mice, Bacteriophages, Clostridium Infections, Gastrointestinal Microbiome, Feces, Clostridioides difficile, Disease Models, Animal, Humans, Mice, Inbred C57BL, Female_
+Fecal microbiota transplantation (FMT) and fecal virome transplantation (FVT, sterile filtrated donor feces) have been effective in treating recurrent Clostridioides difficile infections, possibly through bacteriophage-mediated modulation of the gut microbiome. However, challenges like donor variability, costly screening, coupled with concerns over pathogen transfer (incl. eukaryotic viruses) with FMT or FVT hinder their wider clinical application in treating less acute diseases.
+
+[Source](https://doi.org/10.1186/s40168-024-01820-1)
+
+10.1186/s40168-024-01820-1
+
+---
+
+## Fecal microbiota transplantation alters gut phage communities in a clinical trial for obesity
+
+[Source](https://doi.org/10.1186/s40168-024-01833-w)
+
+---
+
+## A meta-analysis of randomized controlled trials evaluating the effectiveness of fecal microbiota transplantation for patients with irritable bowel syndrome.
+ 05.07.2024, _Y Wang, Y Hu, P Shi_
+
+
+_Irritable Bowel Syndrome, Fecal Microbiota Transplantation, Humans, Randomized Controlled Trials as Topic, Treatment Outcome, Gastrointestinal Microbiome, Adult, Emotions_
+Multiple randomized controlled trials (RCTs) have investigated the efficacy of fecal microbiota transplantation (FMT) for irritable bowel syndrome (IBS), but have yielded inconsistent results. We updated the short-term and long-term efficacy of FMT in treating IBS, and performed a first-of-its-kind exploration of the relationship between gut microbiota and emotions.
+
+[Source](https://doi.org/10.1186/s12876-024-03311-x)
+
+10.1186/s12876-024-03311-x
+
+---
+
+## <em>Faecalibaterium prausnitzii</em> strain EXL01 boosts efficacy of immune checkpoint inhibitors
+
+[Source](https://doi.org/10.1080/2162402X.2024.2374954)
+
+---
+
+## Serum and CSF metabolomics analysis shows Mediterranean Ketogenic Diet mitigates risk factors of Alzheimer’s disease
+
+[Source](https://doi.org/10.1038/s44324-024-00016-3)
+
+---
+
+## Oral histidine affects gut microbiota and MAIT cells improving glycemic control in type 2 diabetes patients
+
+[Source](https://doi.org/10.1080/19490976.2024.2370616)
+
+---
+
+## The Evolution of Science and Regulation of Dietary Supplements: Past, Present, and Future
+
+[Source](https://doi.org/10.1016/j.tjnut.2024.06.017)
+
+---
+
+## Dietary patterns interfere with gut microbiota to combat obesity
+
+[Source](https://doi.org/10.3389/fnut.2024.1387394)
+
+---
+
+## Rhizobacterial syntrophy between a helper and a beneficiary promotes tomato plant health
+
+[Source](https://doi.org/10.1093/ismejo/wrae120)
+
+---
+
+## Unearthing the power of microbes as plant microbiome for sustainable agriculture
+
+[Source](https://doi.org/10.1016/j.micres.2024.127780)
+
+---
+
+## Surviving the Stress: Understanding the Molecular Basis of Plant Adaptations and Uncovering the Role of Mycorrhizal Association in Plant Abiotic Stresses
+
+[Source](https://doi.org/10.1016/j.micpath.2024.106772)
+
+---
+
+## The drainome: longitudinal metagenomic characterisation of wastewater from hospital ward sinks to characterize the microbiome and resistome and assess the effects of decontamination interventions
+
+[Source](https://www.journalofhospitalinfection.com/article/S0195-6701(24)00225-1/fulltext)
+
+---
+
+## Beyond Meta-Omics: Functional Genomics in Future Marine Microbiome Research
+
+[Source](https://doi.org/10.1146/annurev-marine-020123-100931)
+
+---
+
+## Soil Metaproteomics for Microbial Community Profiling: Methodologies and Challenges
+
+[Source](https://doi.org/10.1007/s00284-024-03781-y)
+
+---
+
+## 16S rRNA, metagenomics and 2bRAD-M sequencing to decode human thanatomicrobiome
+
+[Source](https://doi.org/10.1038/s41597-024-03518-3)
+
+---
+
+## A graph neural network approach for predicting drug susceptibility in the human microbiome
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S001048252400814X?via%3Dihub)
+
+---
+
+## Protocol for the construction and functional profiling of metagenome-assembled genomes for&nbsp;microbiome&nbsp;analyses
+
+[Source](https://doi.org/10.1016/j.xpro.2024.103167)
+
+---
+
+## DeepPIG: deep neural network architecture with pairwise connected layers and stochastic gates using knockoff frameworks for feature selection
+
+[Source](https://doi.org/10.1038/s41598-024-66061-6)
+
+---
+
+## CViewer: a Java-based statistical framework for integration of shotgun metagenomics with other omics datasets
+
+[Source](https://doi.org/10.1186/s40168-024-01834-9)
 
 ---
 
