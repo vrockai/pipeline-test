@@ -177,16 +177,15 @@ Food addiction is a multifactorial disorder characterised by a loss of control o
 
 ---
 
-## Phenogrouping heart failure with preserved or mildly reduced ejection fraction using electronic health record data.
- 05.07.2024, _F Soltani, DA Jenkins, A Kaura, J Bradley, N Black, JP Farrant, SG Williams, A Mulla, B Glampson, J Davies, D Papadimitriou, K Woods, AD Shah, MR Thursz, B Williams, FW Asselbergs, EK Mayer, C Herbert, S Grant, N Curzen, I Squire, T Johnson, K O'Gallagher, AM Shah, D Perera, R Kharbanda, RS Patel, KM Channon, R Lee, N Peek, J Mayet, CA Miller_
+## The Evolution of Science and Regulation of Dietary Supplements: Past, Present, and Future.
+ 06.07.2024, _PM Coates, RL Bailey, JB Blumberg, A El-Sohemy, ZE Floyd, JZ Goldenberg, A Gould Shunney, HD Holscher, Y Nkrumah-Elie, D Rai, BW Ritz, WJ Weber_
 
 
-_Humans, Heart Failure, Electronic Health Records, Female, Male, Aged, Stroke Volume, Middle Aged, Risk Assessment, Ventricular Function, Left, United Kingdom, Risk Factors, Prognosis, Aged, 80 and over, Databases, Factual, Unsupervised Machine Learning, Hospitalization, Time Factors, Comorbidity, Cause of Death, Phenotype, Data Mining_
-Heart failure (HF) with preserved or mildly reduced ejection fraction includes a heterogenous group of patients. Reclassification into distinct phenogroups to enable targeted interventions is a priority. This study aimed to identify distinct phenogroups, and compare phenogroup characteristics and outcomes, from electronic health record data.
+Dietary supplement use in the United States is widespread and increasing, especially among certain population groups, such as older Americans. The science surrounding dietary supplements has evolved substantially over the last few decades since their formal regulation in 1994. Much has been learned about the mechanisms of action of many dietary supplement ingredients, but the evidence on their health effects is still building. As is true of much nutrition research, there are many studies that point to health effects, but not all are at the level of scientific evidence (e.g., randomized controlled interventions), rigor, or quality needed for definitive statements of efficacy regarding clinical endpoints. New technologies and approaches are being applied to the science of dietary supplements, including nutrigenomics and microbiome analysis, data science, artificial intelligence, and machine learning - all of which can elevate the science behind dietary supplements. Products can contain an array of bioactive compounds derived from foods as well as from medicinal plants, which creates enormous challenges in data collection and management. Clinical applications, particularly those aimed at providing personalized nutrition options for patients, have become more sophisticated as dietary supplements are incorporated increasingly into clinical practice and self-care. The goals of this paper are to provide historical context for the regulation and science of dietary supplements, identify research resources, and suggest some future directions for science in this field.
 
 [Source](https://doi.org/10.1128/msphere.00233-24)
 
-10.1186/s12872-024-03987-9
+10.1016/j.tjnut.2024.06.017
 
 ---
 
