@@ -213,9 +213,16 @@ Multiple randomized controlled trials (RCTs) have investigated the efficacy of f
 
 ---
 
-## Oral histidine affects gut microbiota and MAIT cells improving glycemic control in type 2 diabetes patients
+## Oral histidine affects gut microbiota and MAIT cells improving glycemic control in type 2 diabetes patients.
+ 07.07.2024, _MV Warmbrunn, I Attaye, J Aron-Wisnewsky, E Rampanelli, EWJ van der Vossen, Y Hao, A Koopen, PO Bergh, D Stols-Gonçalves, N Mohamed, M Kemper, X Verdoes, K Wortelboer, M Davids, E Belda, S André, S Hazen, K Clement, B Groen, DH van Raalte, H Herrema, F Backhed, M Nieuwdorp_
+
+
+_Humans, Histidine, Diabetes Mellitus, Type 2, Gastrointestinal Microbiome, Middle Aged, Male, Female, Mucosal-Associated Invariant T Cells, Glycemic Control, Dietary Supplements, Case-Control Studies, Feces, Blood Glucose, Aged, Adult, Bacteria, Administration, Oral, DNA Methylation_
+Amino acids, metabolized by host cells as well as commensal gut bacteria, have signaling effects on host metabolism. Oral supplementation of the essential amino acid histidine has been shown to exert metabolic benefits. To investigate whether dietary histidine aids glycemic control, we performed a case-controlled parallel clinical intervention study in participants with type 2 diabetes (T2D) and healthy controls. Participants received oral histidine for seven weeks. After 2 weeks of histidine supplementation, the microbiome was depleted by antibiotics to determine the microbial contribution to histidine metabolism. We assessed glycemic control, immunophenotyping of peripheral blood mononucelar cells (PBMC), DNA methylation of PBMCs and fecal gut microbiota composition. Histidine improves several markers of glycemic control, including postprandial glucose levels with a concordant increase in the proportion of MAIT cells after two weeks of histidine supplementation. The increase in MAIT cells was associated with changes in gut microbial pathways such as riboflavin biosynthesis and epigenetic changes in the amino acid transporter SLC7A5. Associations between the microbiome and MAIT cells were replicated in the MetaCardis cohort. We propose a conceptual framework for how oral histidine may affect MAIT cells via altered gut microbiota composition and SLC7A5 expression in MAIT cells directly and thereby influencing glycemic control. Future studies should focus on the role of flavin biosynthesis intermediates and SLC7A5 modulation in MAIT cells to modulate glycemic control.
 
 [Source](https://doi.org/10.1080/19490976.2024.2370616)
+
+10.1080/19490976.2024.2370616
 
 ---
 
@@ -341,15 +348,28 @@ Microorganisms are essential in the decomposition of corpses and play a signific
 
 ---
 
-## DeepPIG: deep neural network architecture with pairwise connected layers and stochastic gates using knockoff frameworks for feature selection
+## DeepPIG: deep neural network architecture with pairwise connected layers and stochastic gates using knockoff frameworks for feature selection.
+ 06.07.2024, _E Oh, H Lee_
+
+
+Selecting relevant feature subsets is essential for machine learning applications. Among the feature selection techniques, the knockoff filter procedure proposes a unique framework that minimizes false discovery rates (FDR). However, employing a deep neural network architecture for a knockoff filter framework requires higher detection power. Using the knockoff filter framework, we present a Deep neural network with PaIrwise connected layers integrated with stochastic Gates (DeepPIG) for the feature selection model. DeepPIG exhibited better detection power in synthetic data than the baseline and recent models such as Deep feature selection using Paired-Input Nonlinear Knockoffs (DeepPINK), Stochastic Gates (STG), and SHapley Additive exPlanations (SHAP) while not violating the preselected FDR level, especially when the signal of the features were weak. The selected features determined by DeepPIG demonstrated superior classification performance compared with the baseline model in real-world data analyses, including the prediction of certain cancer prognosis and classification tasks using microbiome and single-cell datasets. In conclusion, DeepPIG is a robust feature selection approach even when the signals of features are weak. Source code is available at https://github.com/DMCB-GIST/DeepPIG .
 
 [Source](https://doi.org/10.1038/s41598-024-66061-6)
 
+10.1038/s41598-024-66061-6
+
 ---
 
-## CViewer: a Java-based statistical framework for integration of shotgun metagenomics with other omics datasets
+## CViewer: a Java-based statistical framework for integration of shotgun metagenomics with other omics datasets.
+ 04.07.2024, _O Koci, RK Russell, MG Shaikh, C Edwards, K Gerasimidis, UZ Ijaz_
+
+
+_Metagenomics, Humans, Software, Microbiota, Gastrointestinal Microbiome, Computational Biology, Metagenome, Crohn Disease_
+Shotgun metagenomics for microbial community survey recovers enormous amount of information for microbial genomes that include their abundances, taxonomic, and phylogenetic information, as well as their genomic makeup, the latter of which then helps retrieve their function based on annotated gene products, mRNA, protein, and metabolites. Within the context of a specific hypothesis, additional modalities are often included, to give host-microbiome interaction. For example, in human-associated microbiome projects, it has become increasingly common to include host immunology through flow cytometry. Whilst there are plenty of software approaches available, some that utilize marker-based and assembly-based approaches, for downstream statistical analyses, there is still a dearth of statistical tools that help consolidate all such information in a single platform. By virtue of stringent computational requirements, the statistical workflow is often passive with limited visual exploration.
 
 [Source](https://doi.org/10.1186/s40168-024-01834-9)
+
+10.1186/s40168-024-01834-9
 
 ---
 
