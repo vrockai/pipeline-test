@@ -213,40 +213,21 @@ Multiple randomized controlled trials (RCTs) have investigated the efficacy of f
 
 ---
 
-## Oral histidine affects gut microbiota and MAIT cells improving glycemic control in type 2 diabetes patients.
- 07.07.2024, _MV Warmbrunn, I Attaye, J Aron-Wisnewsky, E Rampanelli, EWJ van der Vossen, Y Hao, A Koopen, PO Bergh, D Stols-Gonçalves, N Mohamed, M Kemper, X Verdoes, K Wortelboer, M Davids, E Belda, S André, S Hazen, K Clement, B Groen, DH van Raalte, H Herrema, F Backhed, M Nieuwdorp_
-
-
-_Humans, Histidine, Diabetes Mellitus, Type 2, Gastrointestinal Microbiome, Middle Aged, Male, Female, Mucosal-Associated Invariant T Cells, Glycemic Control, Dietary Supplements, Case-Control Studies, Feces, Blood Glucose, Aged, Adult, Bacteria, Administration, Oral, DNA Methylation_
-Amino acids, metabolized by host cells as well as commensal gut bacteria, have signaling effects on host metabolism. Oral supplementation of the essential amino acid histidine has been shown to exert metabolic benefits. To investigate whether dietary histidine aids glycemic control, we performed a case-controlled parallel clinical intervention study in participants with type 2 diabetes (T2D) and healthy controls. Participants received oral histidine for seven weeks. After 2 weeks of histidine supplementation, the microbiome was depleted by antibiotics to determine the microbial contribution to histidine metabolism. We assessed glycemic control, immunophenotyping of peripheral blood mononucelar cells (PBMC), DNA methylation of PBMCs and fecal gut microbiota composition. Histidine improves several markers of glycemic control, including postprandial glucose levels with a concordant increase in the proportion of MAIT cells after two weeks of histidine supplementation. The increase in MAIT cells was associated with changes in gut microbial pathways such as riboflavin biosynthesis and epigenetic changes in the amino acid transporter SLC7A5. Associations between the microbiome and MAIT cells were replicated in the MetaCardis cohort. We propose a conceptual framework for how oral histidine may affect MAIT cells via altered gut microbiota composition and SLC7A5 expression in MAIT cells directly and thereby influencing glycemic control. Future studies should focus on the role of flavin biosynthesis intermediates and SLC7A5 modulation in MAIT cells to modulate glycemic control.
+## Oral histidine affects gut microbiota and MAIT cells improving glycemic control in type 2 diabetes patients
 
 [Source](https://doi.org/10.1080/19490976.2024.2370616)
 
-10.1080/19490976.2024.2370616
-
 ---
 
-## The Evolution of Science and Regulation of Dietary Supplements: Past, Present, and Future.
- 06.07.2024, _PM Coates, RL Bailey, JB Blumberg, A El-Sohemy, ZE Floyd, JZ Goldenberg, A Gould Shunney, HD Holscher, Y Nkrumah-Elie, D Rai, BW Ritz, WJ Weber_
-
-
-Dietary supplement use in the United States is widespread and increasing, especially among certain population groups, such as older Americans. The science surrounding dietary supplements has evolved substantially over the last few decades since their formal regulation in 1994. Much has been learned about the mechanisms of action of many dietary supplement ingredients, but the evidence on their health effects is still building. As is true of much nutrition research, there are many studies that point to health effects, but not all are at the level of scientific evidence (e.g., randomized controlled interventions), rigor, or quality needed for definitive statements of efficacy regarding clinical endpoints. New technologies and approaches are being applied to the science of dietary supplements, including nutrigenomics and microbiome analysis, data science, artificial intelligence, and machine learning - all of which can elevate the science behind dietary supplements. Products can contain an array of bioactive compounds derived from foods as well as from medicinal plants, which creates enormous challenges in data collection and management. Clinical applications, particularly those aimed at providing personalized nutrition options for patients, have become more sophisticated as dietary supplements are incorporated increasingly into clinical practice and self-care. The goals of this paper are to provide historical context for the regulation and science of dietary supplements, identify research resources, and suggest some future directions for science in this field.
+## The Evolution of Science and Regulation of Dietary Supplements: Past, Present, and Future
 
 [Source](https://doi.org/10.1016/j.tjnut.2024.06.017)
 
-10.1016/j.tjnut.2024.06.017
-
 ---
 
-## Dietary patterns interfere with gut microbiota to combat obesity.
- 03.07.2024, _X Lou, P Li, X Luo, Z Lei, X Liu, Y Liu, L Gao, W Xu, X Liu_
-
-
-Obesity and obesity-related metabolic disorders are global epidemics that occur when there is chronic energy intake exceeding energy expenditure. Growing evidence suggests that healthy dietary patterns not only decrease the risk of obesity but also influence the composition and function of the gut microbiota. Numerous studies manifest that the development of obesity is associated with gut microbiota. One promising supplementation strategy is modulating gut microbiota composition by dietary patterns to combat obesity. In this review, we discuss the changes of gut microbiota in obesity and obesity-related metabolic disorders, with a particular emphasis on the impact of dietary components on gut microbiota and how common food patterns can intervene in gut microbiota to prevent obesity. While there is promise in intervening with the gut microbiota to combat obesity through the regulation of dietary patterns, numerous key questions remain unanswered. In this review, we critically review the associations between dietary patterns, gut microbes, and obesity, aiming to contribute to the further development and application of dietary patterns against obesity in humans.
+## Dietary patterns interfere with gut microbiota to combat obesity
 
 [Source](https://doi.org/10.3389/fnut.2024.1387394)
-
-10.3389/fnut.2024.1387394
 
 ---
 
@@ -256,15 +237,9 @@ Obesity and obesity-related metabolic disorders are global epidemics that occur 
 
 ---
 
-## Unearthing the power of microbes as plant microbiome for sustainable agriculture.
- 06.07.2024, _A Mukherjee, BN Singh, S Kaur, M Sharma, AS Ferreira de Araújo, APA Pereira, R Morya, G Puopolo, VMM Melo, JP Verma_
-
-
-In recent years, research into the complex interactions and crosstalk between plants and their associated microbiota, collectively known as the plant microbiome has revealed the pivotal role of microbial communities for promoting plant growth and health. Plants have evolved intricate relationships with a diverse array of microorganisms inhabiting their roots, leaves, and other plant tissues. This microbiota mainly includes bacteria, archaea, fungi, protozoans, and viruses, forming a dynamic and interconnected network within and around the plant. Through mutualistic or cooperative interactions, these microbes contribute to various aspects of plant health and development. The direct mechanisms of the plant microbiome include the enhancement of plant growth and development through nutrient acquisition. Microbes have the ability to solubilize essential minerals, fix atmospheric nitrogen, and convert organic matter into accessible forms, thereby augmenting the nutrient pool available to the plant. Additionally, the microbiome helps plants to withstand biotic and abiotic stresses, such as pathogen attacks and adverse environmental conditions, by priming the plant's immune responses, antagonizing phytopathogens, and improving stress tolerance. Furthermore, the plant microbiome plays a vital role in phytohormone regulation, facilitating hormonal balance within the plant. This regulation influences various growth processes, including root development, flowering, and fruiting. Microbial communities can also produce secondary metabolites, which directly or indirectly promote plant growth, development, and health. Understanding the functional potential of the plant microbiome has led to innovative agricultural practices, such as microbiome-based biofertilizers and biopesticides, which harness the power of beneficial microorganisms to enhance crop yields while reducing the dependency on chemical inputs. In the present review, we discuss and highlight research gaps regarding the plant microbiome and how the plant microbiome can be used as a source of single and synthetic bioinoculants for plant growth and health.
+## Unearthing the power of microbes as plant microbiome for sustainable agriculture
 
 [Source](https://doi.org/10.1016/j.micres.2024.127780)
-
-10.1016/j.micres.2024.127780
 
 ---
 
@@ -286,15 +261,9 @@ Environmental stresses severely impair plant growth, resulting in significant cr
 
 ---
 
-## The drainome: longitudinal metagenomic characterisation of wastewater from hospital ward sinks to characterize the microbiome and resistome and assess the effects of decontamination interventions.
- 05.07.2024, _LB Snell, D Prossomariti, A Alcolea-Medina, M Sasson, M Dibbens, N Al-Yaakoubi, G Humayun, T Charalampous, C Alder, D Ward, A Maldonado-Barrueco, O Abadioru, R Batra, G Nebbia, JA Otter, JD Edgeworth, SD Goldenberg_
-
-
-Hospital drains and water interfaces are implicated in nosocomial transmission of pathogens. Metagenomics can assess the microbial composition and presence of antimicrobial resistance genes in drains ('the drainome') but studies applying these methods longitudinally and to assess infection control interventions are lacking.
+## The drainome: longitudinal metagenomic characterisation of wastewater from hospital ward sinks to characterize the microbiome and resistome and assess the effects of decontamination interventions
 
 [Source](https://www.journalofhospitalinfection.com/article/S0195-6701(24)00225-1/fulltext)
-
-10.1016/j.jhin.2024.06.005
 
 ---
 
@@ -324,7 +293,7 @@ Soil represents a complex and dynamic ecosystem, hosting a myriad of microorgani
 ---
 
 ## 16S rRNA, metagenomics and 2bRAD-M sequencing to decode human thanatomicrobiome.
- 08.07.2024, _X Huang, J Zeng, S Li, J Chen, H Wang, C Li, S Zhang_
+ 09.07.2024, _X Huang, J Zeng, S Li, J Chen, H Wang, C Li, S Zhang_
 
 
 _Humans, RNA, Ribosomal, 16S, Metagenomics, Microbiota, Cadaver_
@@ -348,28 +317,15 @@ Microorganisms are essential in the decomposition of corpses and play a signific
 
 ---
 
-## DeepPIG: deep neural network architecture with pairwise connected layers and stochastic gates using knockoff frameworks for feature selection.
- 08.07.2024, _E Oh, H Lee_
-
-
-Selecting relevant feature subsets is essential for machine learning applications. Among the feature selection techniques, the knockoff filter procedure proposes a unique framework that minimizes false discovery rates (FDR). However, employing a deep neural network architecture for a knockoff filter framework requires higher detection power. Using the knockoff filter framework, we present a Deep neural network with PaIrwise connected layers integrated with stochastic Gates (DeepPIG) for the feature selection model. DeepPIG exhibited better detection power in synthetic data than the baseline and recent models such as Deep feature selection using Paired-Input Nonlinear Knockoffs (DeepPINK), Stochastic Gates (STG), and SHapley Additive exPlanations (SHAP) while not violating the preselected FDR level, especially when the signal of the features were weak. The selected features determined by DeepPIG demonstrated superior classification performance compared with the baseline model in real-world data analyses, including the prediction of certain cancer prognosis and classification tasks using microbiome and single-cell datasets. In conclusion, DeepPIG is a robust feature selection approach even when the signals of features are weak. Source code is available at https://github.com/DMCB-GIST/DeepPIG .
+## DeepPIG: deep neural network architecture with pairwise connected layers and stochastic gates using knockoff frameworks for feature selection
 
 [Source](https://doi.org/10.1038/s41598-024-66061-6)
 
-10.1038/s41598-024-66061-6
-
 ---
 
-## CViewer: a Java-based statistical framework for integration of shotgun metagenomics with other omics datasets.
- 04.07.2024, _O Koci, RK Russell, MG Shaikh, C Edwards, K Gerasimidis, UZ Ijaz_
-
-
-_Metagenomics, Humans, Software, Microbiota, Gastrointestinal Microbiome, Computational Biology, Metagenome, Crohn Disease_
-Shotgun metagenomics for microbial community survey recovers enormous amount of information for microbial genomes that include their abundances, taxonomic, and phylogenetic information, as well as their genomic makeup, the latter of which then helps retrieve their function based on annotated gene products, mRNA, protein, and metabolites. Within the context of a specific hypothesis, additional modalities are often included, to give host-microbiome interaction. For example, in human-associated microbiome projects, it has become increasingly common to include host immunology through flow cytometry. Whilst there are plenty of software approaches available, some that utilize marker-based and assembly-based approaches, for downstream statistical analyses, there is still a dearth of statistical tools that help consolidate all such information in a single platform. By virtue of stringent computational requirements, the statistical workflow is often passive with limited visual exploration.
+## CViewer: a Java-based statistical framework for integration of shotgun metagenomics with other omics datasets
 
 [Source](https://doi.org/10.1186/s40168-024-01834-9)
-
-10.1186/s40168-024-01834-9
 
 ---
 
