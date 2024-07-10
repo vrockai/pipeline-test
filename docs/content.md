@@ -35,7 +35,7 @@ Investigating the tissue-associated microbiota after surgically induced remissio
 ---
 
 ## Human gut microbiota analysis of cystic fibrosis infants using metaproteomics.
- 05.07.2024, _C García-Durán, C Saralegui, E Romeu, ML Hernáez, A Maruri, N Bastón-Paz, A Lamas, S Vicente, E Perez-Ruiz, I Delgado, C Luna-Paredes, JD Caballero, J Zamora, L Monteoliva, R Del Campo, C Gil_
+ 10.07.2024, _C García-Durán, C Saralegui, E Romeu, ML Hernáez, A Maruri, N Bastón-Paz, A Lamas, S Vicente, E Perez-Ruiz, I Delgado, C Luna-Paredes, JD Caballero, J Zamora, L Monteoliva, R Del Campo, C Gil_
 
 
 We report a metaproteomic analysis of the gut microbiota of eight infants with cystic fibrosis, during the first year of life. This is the first study in this disease that uses metaproteomics to analyze stool samples from patients at such a young age.
@@ -213,40 +213,21 @@ Multiple randomized controlled trials (RCTs) have investigated the efficacy of f
 
 ---
 
-## Oral histidine affects gut microbiota and MAIT cells improving glycemic control in type 2 diabetes patients.
- 07.07.2024, _MV Warmbrunn, I Attaye, J Aron-Wisnewsky, E Rampanelli, EWJ van der Vossen, Y Hao, A Koopen, PO Bergh, D Stols-Gonçalves, N Mohamed, M Kemper, X Verdoes, K Wortelboer, M Davids, E Belda, S André, S Hazen, K Clement, B Groen, DH van Raalte, H Herrema, F Backhed, M Nieuwdorp_
-
-
-_Humans, Histidine, Diabetes Mellitus, Type 2, Gastrointestinal Microbiome, Middle Aged, Male, Female, Mucosal-Associated Invariant T Cells, Glycemic Control, Dietary Supplements, Case-Control Studies, Feces, Blood Glucose, Aged, Adult, Bacteria, Administration, Oral, DNA Methylation_
-Amino acids, metabolized by host cells as well as commensal gut bacteria, have signaling effects on host metabolism. Oral supplementation of the essential amino acid histidine has been shown to exert metabolic benefits. To investigate whether dietary histidine aids glycemic control, we performed a case-controlled parallel clinical intervention study in participants with type 2 diabetes (T2D) and healthy controls. Participants received oral histidine for seven weeks. After 2 weeks of histidine supplementation, the microbiome was depleted by antibiotics to determine the microbial contribution to histidine metabolism. We assessed glycemic control, immunophenotyping of peripheral blood mononucelar cells (PBMC), DNA methylation of PBMCs and fecal gut microbiota composition. Histidine improves several markers of glycemic control, including postprandial glucose levels with a concordant increase in the proportion of MAIT cells after two weeks of histidine supplementation. The increase in MAIT cells was associated with changes in gut microbial pathways such as riboflavin biosynthesis and epigenetic changes in the amino acid transporter SLC7A5. Associations between the microbiome and MAIT cells were replicated in the MetaCardis cohort. We propose a conceptual framework for how oral histidine may affect MAIT cells via altered gut microbiota composition and SLC7A5 expression in MAIT cells directly and thereby influencing glycemic control. Future studies should focus on the role of flavin biosynthesis intermediates and SLC7A5 modulation in MAIT cells to modulate glycemic control.
+## Oral histidine affects gut microbiota and MAIT cells improving glycemic control in type 2 diabetes patients
 
 [Source](https://doi.org/10.1080/19490976.2024.2370616)
 
-10.1080/19490976.2024.2370616
-
 ---
 
-## The Evolution of Science and Regulation of Dietary Supplements: Past, Present, and Future.
- 06.07.2024, _PM Coates, RL Bailey, JB Blumberg, A El-Sohemy, ZE Floyd, JZ Goldenberg, A Gould Shunney, HD Holscher, Y Nkrumah-Elie, D Rai, BW Ritz, WJ Weber_
-
-
-Dietary supplement use in the United States is widespread and increasing, especially among certain population groups, such as older Americans. The science surrounding dietary supplements has evolved substantially over the last few decades since their formal regulation in 1994. Much has been learned about the mechanisms of action of many dietary supplement ingredients, but the evidence on their health effects is still building. As is true of much nutrition research, there are many studies that point to health effects, but not all are at the level of scientific evidence (e.g., randomized controlled interventions), rigor, or quality needed for definitive statements of efficacy regarding clinical endpoints. New technologies and approaches are being applied to the science of dietary supplements, including nutrigenomics and microbiome analysis, data science, artificial intelligence, and machine learning - all of which can elevate the science behind dietary supplements. Products can contain an array of bioactive compounds derived from foods as well as from medicinal plants, which creates enormous challenges in data collection and management. Clinical applications, particularly those aimed at providing personalized nutrition options for patients, have become more sophisticated as dietary supplements are incorporated increasingly into clinical practice and self-care. The goals of this paper are to provide historical context for the regulation and science of dietary supplements, identify research resources, and suggest some future directions for science in this field.
+## The Evolution of Science and Regulation of Dietary Supplements: Past, Present, and Future
 
 [Source](https://doi.org/10.1016/j.tjnut.2024.06.017)
 
-10.1016/j.tjnut.2024.06.017
-
 ---
 
-## Dietary patterns interfere with gut microbiota to combat obesity.
- 03.07.2024, _X Lou, P Li, X Luo, Z Lei, X Liu, Y Liu, L Gao, W Xu, X Liu_
-
-
-Obesity and obesity-related metabolic disorders are global epidemics that occur when there is chronic energy intake exceeding energy expenditure. Growing evidence suggests that healthy dietary patterns not only decrease the risk of obesity but also influence the composition and function of the gut microbiota. Numerous studies manifest that the development of obesity is associated with gut microbiota. One promising supplementation strategy is modulating gut microbiota composition by dietary patterns to combat obesity. In this review, we discuss the changes of gut microbiota in obesity and obesity-related metabolic disorders, with a particular emphasis on the impact of dietary components on gut microbiota and how common food patterns can intervene in gut microbiota to prevent obesity. While there is promise in intervening with the gut microbiota to combat obesity through the regulation of dietary patterns, numerous key questions remain unanswered. In this review, we critically review the associations between dietary patterns, gut microbes, and obesity, aiming to contribute to the further development and application of dietary patterns against obesity in humans.
+## Dietary patterns interfere with gut microbiota to combat obesity
 
 [Source](https://doi.org/10.3389/fnut.2024.1387394)
-
-10.3389/fnut.2024.1387394
 
 ---
 
@@ -256,27 +237,9 @@ Obesity and obesity-related metabolic disorders are global epidemics that occur 
 
 ---
 
-## Unearthing the power of microbes as plant microbiome for sustainable agriculture.
- 06.07.2024, _A Mukherjee, BN Singh, S Kaur, M Sharma, AS Ferreira de Araújo, APA Pereira, R Morya, G Puopolo, VMM Melo, JP Verma_
-
-
-In recent years, research into the complex interactions and crosstalk between plants and their associated microbiota, collectively known as the plant microbiome has revealed the pivotal role of microbial communities for promoting plant growth and health. Plants have evolved intricate relationships with a diverse array of microorganisms inhabiting their roots, leaves, and other plant tissues. This microbiota mainly includes bacteria, archaea, fungi, protozoans, and viruses, forming a dynamic and interconnected network within and around the plant. Through mutualistic or cooperative interactions, these microbes contribute to various aspects of plant health and development. The direct mechanisms of the plant microbiome include the enhancement of plant growth and development through nutrient acquisition. Microbes have the ability to solubilize essential minerals, fix atmospheric nitrogen, and convert organic matter into accessible forms, thereby augmenting the nutrient pool available to the plant. Additionally, the microbiome helps plants to withstand biotic and abiotic stresses, such as pathogen attacks and adverse environmental conditions, by priming the plant's immune responses, antagonizing phytopathogens, and improving stress tolerance. Furthermore, the plant microbiome plays a vital role in phytohormone regulation, facilitating hormonal balance within the plant. This regulation influences various growth processes, including root development, flowering, and fruiting. Microbial communities can also produce secondary metabolites, which directly or indirectly promote plant growth, development, and health. Understanding the functional potential of the plant microbiome has led to innovative agricultural practices, such as microbiome-based biofertilizers and biopesticides, which harness the power of beneficial microorganisms to enhance crop yields while reducing the dependency on chemical inputs. In the present review, we discuss and highlight research gaps regarding the plant microbiome and how the plant microbiome can be used as a source of single and synthetic bioinoculants for plant growth and health.
+## Unearthing the power of microbes as plant microbiome for sustainable agriculture
 
 [Source](https://doi.org/10.1016/j.micres.2024.127780)
-
-10.1016/j.micres.2024.127780
-
----
-
-## Surviving the stress: Understanding the molecular basis of plant adaptations and uncovering the role of mycorrhizal association in plant abiotic stresses.
- 07.07.2024, _V Sharma, DP Sharma, R Salwan_
-
-
-Environmental stresses severely impair plant growth, resulting in significant crop yield and quality loss. Among various abiotic factors, salt and drought stresses are one of the major factors that affect the nutrients and water uptake by the plants, hence ultimately various physiological aspects of the plants that compromises crop yield. Continuous efforts have been made to investigate, dissect and improve plant adaptations at the molecular level in response to drought and salinity stresses. In this context, the plant beneficial microbiome presents in the rhizosphere, endosphere, and phyllosphere, also referred as second genomes of the plant is well known for its roles in plant adaptations. Exploration of beneficial interaction of fungi with host plants known as mycorrhizal association is one such special interaction that can facilitates the host plants adaptations. Mycorrhiza assist in alleviating the salinity and drought stresses of plants via redistributing the ion imbalance through translocation to different parts of the plants, as well as triggering oxidative machinery. Mycorrhiza association also regulates the level of various plant growth regulators, osmolytes and assists in acquiring minerals that are helpful in plant's adaptation against extreme environmental stresses. The current review examines the role of various plant growth regulators and plants' antioxidative systems, followed by mycorrhizal association during drought and salt stresses.
-
-[Source](https://doi.org/10.1016/j.micpath.2024.106772)
-
-10.1016/j.micpath.2024.106772
 
 ---
 
@@ -286,53 +249,27 @@ Environmental stresses severely impair plant growth, resulting in significant cr
 
 ---
 
-## The drainome: longitudinal metagenomic characterisation of wastewater from hospital ward sinks to characterize the microbiome and resistome and assess the effects of decontamination interventions.
- 05.07.2024, _LB Snell, D Prossomariti, A Alcolea-Medina, M Sasson, M Dibbens, N Al-Yaakoubi, G Humayun, T Charalampous, C Alder, D Ward, A Maldonado-Barrueco, O Abadioru, R Batra, G Nebbia, JA Otter, JD Edgeworth, SD Goldenberg_
-
-
-Hospital drains and water interfaces are implicated in nosocomial transmission of pathogens. Metagenomics can assess the microbial composition and presence of antimicrobial resistance genes in drains ('the drainome') but studies applying these methods longitudinally and to assess infection control interventions are lacking.
+## The drainome: longitudinal metagenomic characterisation of wastewater from hospital ward sinks to characterize the microbiome and resistome and assess the effects of decontamination interventions
 
 [Source](https://www.journalofhospitalinfection.com/article/S0195-6701(24)00225-1/fulltext)
 
-10.1016/j.jhin.2024.06.005
-
 ---
 
-## Beyond Meta-Omics: Functional Genomics in Future Marine Microbiome Research.
- 01.07.2024, _Y Chen_
-
-
-When President Bill Clinton and Francis Collins, then the director of the National Human Genome Research Institute, celebrated the near completion of the human genome sequence at the White House in the summer of 2000, it is unlikely that they or anyone else could have predicted the blossoming of meta-omics in the following two decades and their applications in modern human microbiome and environmental microbiome research. This transformation was enabled by the development of high-throughput sequencing technologies and sophisticated computational biology tools and bioinformatics software packages. Today, environmental meta-omics has undoubtedly revolutionized our understanding of ocean ecosystems, providing the genetic blueprint of oceanic microscopic organisms. In this review, I discuss the importance of functional genomics in future marine microbiome research and advocate a position for a gene-centric, bottom-up approach in modern oceanography. I propose that a synthesis of multidimensional approaches is required for a better understanding of the true functionality of the marine microbiome.
+## Beyond Meta-Omics: Functional Genomics in Future Marine Microbiome Research
 
 [Source](https://doi.org/10.1146/annurev-marine-020123-100931)
 
-10.1146/annurev-marine-020123-100931
-
 ---
 
-## Soil Metaproteomics for Microbial Community Profiling: Methodologies and Challenges.
- 02.07.2024, _H Pan, R Wattiez, D Gillan_
-
-
-_Soil Microbiology, Proteomics, Metagenomics, Bacteria, Microbiota, Fungi, Soil, Computational Biology_
-Soil represents a complex and dynamic ecosystem, hosting a myriad of microorganisms that coexist and play vital roles in nutrient cycling and organic matter transformation. Among these microorganisms, bacteria and fungi are key members of the microbial community, profoundly influencing the fate of nitrogen, sulfur, and carbon in terrestrial environments. Understanding the intricacies of soil ecosystems and the biological processes orchestrated by microbial communities necessitates a deep dive into their composition and metabolic activities. The advent of next-generation sequencing and 'omics' techniques, such as metagenomics and metaproteomics, has revolutionized our understanding of microbial ecology and the functional dynamics of soil microbial communities. Metagenomics enables the identification of microbial community composition in soil, while metaproteomics sheds light on the current biological functions performed by these communities. However, metaproteomics presents several challenges, both technical and computational. Factors such as the presence of humic acids and variations in extraction methods can influence protein yield, while the absence of high-resolution mass spectrometry and comprehensive protein databases limits the depth of protein identification. Notwithstanding these limitations, metaproteomics remains a potent tool for unraveling the intricate biological processes and functions of soil microbial communities. In this review, we delve into the methodologies and challenges of metaproteomics in soil research, covering aspects such as protein extraction, identification, and bioinformatics analysis. Furthermore, we explore the applications of metaproteomics in soil bioremediation, highlighting its potential in addressing environmental challenges.
+## Soil Metaproteomics for Microbial Community Profiling: Methodologies and Challenges
 
 [Source](https://doi.org/10.1007/s00284-024-03781-y)
 
-10.1007/s00284-024-03781-y
-
 ---
 
-## 16S rRNA, metagenomics and 2bRAD-M sequencing to decode human thanatomicrobiome.
- 09.07.2024, _X Huang, J Zeng, S Li, J Chen, H Wang, C Li, S Zhang_
-
-
-_Humans, RNA, Ribosomal, 16S, Metagenomics, Microbiota, Cadaver_
-Microorganisms are essential in the decomposition of corpses and play a significant role in forensic science. However, previous studies have primarily focused on animal remains, specifically the gut, skin, and burial environment. Insufficient research has been conducted on the microbiota of human cadavers, especially in cases of advanced decomposition and additional tissues, resulting in a lack of relevant reference data. In this study, the microbiota of eight cadavers at different stages of decomposition were detected using 16S rRNA, metagenomic sequencing and 2bRAD-M sequencing. Nine different sites, including oral and nasal cavities, heart, liver, spleen, lung, kidney, muscle and gut, were analysed and the efficacy of these methods was evaluated. The results showed that 16S rRNA sequencing was the most cost-effective method for the study of cadavers in the early stages of decomposition, whereas for cadaveric tissues in the late stages of decomposition, 2bRAD-M could overcome host contamination more effectively than metagenomic sequencing. This paves the way for new opportunities in data retrieval and promotes in-depth investigations into the microbiota.
+## 16S rRNA, metagenomics and 2bRAD-M sequencing to decode human thanatomicrobiome
 
 [Source](https://doi.org/10.1038/s41597-024-03518-3)
-
-10.1038/s41597-024-03518-3
 
 ---
 
