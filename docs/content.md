@@ -273,15 +273,9 @@ Hospital drains and water interfaces are implicated in nosocomial transmission o
 
 ---
 
-## Beyond Meta-Omics: Functional Genomics in Future Marine Microbiome Research.
- 01.07.2024, _Y Chen_
-
-
-When President Bill Clinton and Francis Collins, then the director of the National Human Genome Research Institute, celebrated the near completion of the human genome sequence at the White House in the summer of 2000, it is unlikely that they or anyone else could have predicted the blossoming of meta-omics in the following two decades and their applications in modern human microbiome and environmental microbiome research. This transformation was enabled by the development of high-throughput sequencing technologies and sophisticated computational biology tools and bioinformatics software packages. Today, environmental meta-omics has undoubtedly revolutionized our understanding of ocean ecosystems, providing the genetic blueprint of oceanic microscopic organisms. In this review, I discuss the importance of functional genomics in future marine microbiome research and advocate a position for a gene-centric, bottom-up approach in modern oceanography. I propose that a synthesis of multidimensional approaches is required for a better understanding of the true functionality of the marine microbiome.
+## Beyond Meta-Omics: Functional Genomics in Future Marine Microbiome Research
 
 [Source](https://doi.org/10.1146/annurev-marine-020123-100931)
-
-10.1146/annurev-marine-020123-100931
 
 ---
 
@@ -329,9 +323,16 @@ Microorganisms are essential in the decomposition of corpses and play a signific
 
 ---
 
-## CViewer: a Java-based statistical framework for integration of shotgun metagenomics with other omics datasets
+## CViewer: a Java-based statistical framework for integration of shotgun metagenomics with other omics datasets.
+ 04.07.2024, _O Koci, RK Russell, MG Shaikh, C Edwards, K Gerasimidis, UZ Ijaz_
+
+
+_Metagenomics, Humans, Software, Microbiota, Gastrointestinal Microbiome, Computational Biology, Metagenome, Crohn Disease_
+Shotgun metagenomics for microbial community survey recovers enormous amount of information for microbial genomes that include their abundances, taxonomic, and phylogenetic information, as well as their genomic makeup, the latter of which then helps retrieve their function based on annotated gene products, mRNA, protein, and metabolites. Within the context of a specific hypothesis, additional modalities are often included, to give host-microbiome interaction. For example, in human-associated microbiome projects, it has become increasingly common to include host immunology through flow cytometry. Whilst there are plenty of software approaches available, some that utilize marker-based and assembly-based approaches, for downstream statistical analyses, there is still a dearth of statistical tools that help consolidate all such information in a single platform. By virtue of stringent computational requirements, the statistical workflow is often passive with limited visual exploration.
 
 [Source](https://doi.org/10.1186/s40168-024-01834-9)
+
+10.1186/s40168-024-01834-9
 
 ---
 
