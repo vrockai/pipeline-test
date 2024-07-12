@@ -243,33 +243,15 @@ Multiple randomized controlled trials (RCTs) have investigated the efficacy of f
 
 ---
 
-## Surviving the stress: Understanding the molecular basis of plant adaptations and uncovering the role of mycorrhizal association in plant abiotic stresses.
- 07.07.2024, _V Sharma, DP Sharma, R Salwan_
-
-
-Environmental stresses severely impair plant growth, resulting in significant crop yield and quality loss. Among various abiotic factors, salt and drought stresses are one of the major factors that affect the nutrients and water uptake by the plants, hence ultimately various physiological aspects of the plants that compromises crop yield. Continuous efforts have been made to investigate, dissect and improve plant adaptations at the molecular level in response to drought and salinity stresses. In this context, the plant beneficial microbiome presents in the rhizosphere, endosphere, and phyllosphere, also referred as second genomes of the plant is well known for its roles in plant adaptations. Exploration of beneficial interaction of fungi with host plants known as mycorrhizal association is one such special interaction that can facilitates the host plants adaptations. Mycorrhiza assist in alleviating the salinity and drought stresses of plants via redistributing the ion imbalance through translocation to different parts of the plants, as well as triggering oxidative machinery. Mycorrhiza association also regulates the level of various plant growth regulators, osmolytes and assists in acquiring minerals that are helpful in plant's adaptation against extreme environmental stresses. The current review examines the role of various plant growth regulators and plants' antioxidative systems, followed by mycorrhizal association during drought and salt stresses.
-
-[Source](https://doi.org/10.1016/j.micpath.2024.106772)
-
-10.1016/j.micpath.2024.106772
-
----
-
 ## Surviving the Stress: Understanding the Molecular Basis of Plant Adaptations and Uncovering the Role of Mycorrhizal Association in Plant Abiotic Stresses
 
 [Source](https://doi.org/10.1016/j.micpath.2024.106772)
 
 ---
 
-## The drainome: longitudinal metagenomic characterisation of wastewater from hospital ward sinks to characterize the microbiome and resistome and assess the effects of decontamination interventions.
- 05.07.2024, _LB Snell, D Prossomariti, A Alcolea-Medina, M Sasson, M Dibbens, N Al-Yaakoubi, G Humayun, T Charalampous, C Alder, D Ward, A Maldonado-Barrueco, O Abadioru, R Batra, G Nebbia, JA Otter, JD Edgeworth, SD Goldenberg_
-
-
-Hospital drains and water interfaces are implicated in nosocomial transmission of pathogens. Metagenomics can assess the microbial composition and presence of antimicrobial resistance genes in drains ('the drainome') but studies applying these methods longitudinally and to assess infection control interventions are lacking.
+## The drainome: longitudinal metagenomic characterisation of wastewater from hospital ward sinks to characterize the microbiome and resistome and assess the effects of decontamination interventions
 
 [Source](https://www.journalofhospitalinfection.com/article/S0195-6701(24)00225-1/fulltext)
-
-10.1016/j.jhin.2024.06.005
 
 ---
 
@@ -279,29 +261,15 @@ Hospital drains and water interfaces are implicated in nosocomial transmission o
 
 ---
 
-## Soil Metaproteomics for Microbial Community Profiling: Methodologies and Challenges.
- 02.07.2024, _H Pan, R Wattiez, D Gillan_
-
-
-_Soil Microbiology, Proteomics, Metagenomics, Bacteria, Microbiota, Fungi, Soil, Computational Biology_
-Soil represents a complex and dynamic ecosystem, hosting a myriad of microorganisms that coexist and play vital roles in nutrient cycling and organic matter transformation. Among these microorganisms, bacteria and fungi are key members of the microbial community, profoundly influencing the fate of nitrogen, sulfur, and carbon in terrestrial environments. Understanding the intricacies of soil ecosystems and the biological processes orchestrated by microbial communities necessitates a deep dive into their composition and metabolic activities. The advent of next-generation sequencing and 'omics' techniques, such as metagenomics and metaproteomics, has revolutionized our understanding of microbial ecology and the functional dynamics of soil microbial communities. Metagenomics enables the identification of microbial community composition in soil, while metaproteomics sheds light on the current biological functions performed by these communities. However, metaproteomics presents several challenges, both technical and computational. Factors such as the presence of humic acids and variations in extraction methods can influence protein yield, while the absence of high-resolution mass spectrometry and comprehensive protein databases limits the depth of protein identification. Notwithstanding these limitations, metaproteomics remains a potent tool for unraveling the intricate biological processes and functions of soil microbial communities. In this review, we delve into the methodologies and challenges of metaproteomics in soil research, covering aspects such as protein extraction, identification, and bioinformatics analysis. Furthermore, we explore the applications of metaproteomics in soil bioremediation, highlighting its potential in addressing environmental challenges.
+## Soil Metaproteomics for Microbial Community Profiling: Methodologies and Challenges
 
 [Source](https://doi.org/10.1007/s00284-024-03781-y)
 
-10.1007/s00284-024-03781-y
-
 ---
 
-## 16S rRNA, metagenomics and 2bRAD-M sequencing to decode human thanatomicrobiome.
- 11.07.2024, _X Huang, J Zeng, S Li, J Chen, H Wang, C Li, S Zhang_
-
-
-_Humans, RNA, Ribosomal, 16S, Metagenomics, Microbiota, Cadaver_
-Microorganisms are essential in the decomposition of corpses and play a significant role in forensic science. However, previous studies have primarily focused on animal remains, specifically the gut, skin, and burial environment. Insufficient research has been conducted on the microbiota of human cadavers, especially in cases of advanced decomposition and additional tissues, resulting in a lack of relevant reference data. In this study, the microbiota of eight cadavers at different stages of decomposition were detected using 16S rRNA, metagenomic sequencing and 2bRAD-M sequencing. Nine different sites, including oral and nasal cavities, heart, liver, spleen, lung, kidney, muscle and gut, were analysed and the efficacy of these methods was evaluated. The results showed that 16S rRNA sequencing was the most cost-effective method for the study of cadavers in the early stages of decomposition, whereas for cadaveric tissues in the late stages of decomposition, 2bRAD-M could overcome host contamination more effectively than metagenomic sequencing. This paves the way for new opportunities in data retrieval and promotes in-depth investigations into the microbiota.
+## 16S rRNA, metagenomics and 2bRAD-M sequencing to decode human thanatomicrobiome
 
 [Source](https://doi.org/10.1038/s41597-024-03518-3)
-
-10.1038/s41597-024-03518-3
 
 ---
 
@@ -323,16 +291,9 @@ Microorganisms are essential in the decomposition of corpses and play a signific
 
 ---
 
-## CViewer: a Java-based statistical framework for integration of shotgun metagenomics with other omics datasets.
- 04.07.2024, _O Koci, RK Russell, MG Shaikh, C Edwards, K Gerasimidis, UZ Ijaz_
-
-
-_Metagenomics, Humans, Software, Microbiota, Gastrointestinal Microbiome, Computational Biology, Metagenome, Crohn Disease_
-Shotgun metagenomics for microbial community survey recovers enormous amount of information for microbial genomes that include their abundances, taxonomic, and phylogenetic information, as well as their genomic makeup, the latter of which then helps retrieve their function based on annotated gene products, mRNA, protein, and metabolites. Within the context of a specific hypothesis, additional modalities are often included, to give host-microbiome interaction. For example, in human-associated microbiome projects, it has become increasingly common to include host immunology through flow cytometry. Whilst there are plenty of software approaches available, some that utilize marker-based and assembly-based approaches, for downstream statistical analyses, there is still a dearth of statistical tools that help consolidate all such information in a single platform. By virtue of stringent computational requirements, the statistical workflow is often passive with limited visual exploration.
+## CViewer: a Java-based statistical framework for integration of shotgun metagenomics with other omics datasets
 
 [Source](https://doi.org/10.1186/s40168-024-01834-9)
-
-10.1186/s40168-024-01834-9
 
 ---
 
