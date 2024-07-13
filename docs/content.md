@@ -72,7 +72,7 @@ Schizophrenia is a severe, complex and long-term psychiatric disorder with uncle
 ---
 
 ## Maternal gestational diabetes mellitus associates with altered gut microbiome composition and head circumference abnormalities in male offspring.
- 11.07.2024, _S Wang, Y Liu, WH Tam, JYL Ching, W Xu, S Yan, B Qin, L Lin, Y Peng, J Zhu, CP Cheung, KL Ip, YM Wong, PK Cheong, YL Yeung, WHB Kan, TF Leung, TY Leung, EB Chang, DT Rubin, EC Claud, WKK Wu, HM Tun, FKL Chan, SC Ng, L Zhang_
+ 12.07.2024, _S Wang, Y Liu, WH Tam, JYL Ching, W Xu, S Yan, B Qin, L Lin, Y Peng, J Zhu, CP Cheung, KL Ip, YM Wong, PK Cheong, YL Yeung, WHB Kan, TF Leung, TY Leung, EB Chang, DT Rubin, EC Claud, WKK Wu, HM Tun, FKL Chan, SC Ng, L Zhang_
 
 
 _Gastrointestinal Microbiome, Female, Humans, Diabetes, Gestational, Pregnancy, Male, Infant, Feces, Head, Adult, Infant, Newborn, Clostridium, Prenatal Exposure Delayed Effects_
