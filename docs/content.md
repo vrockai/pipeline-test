@@ -238,9 +238,15 @@ Multiple randomized controlled trials (RCTs) have investigated the efficacy of f
 
 ---
 
-## Unearthing the power of microbes as plant microbiome for sustainable agriculture
+## Unearthing the power of microbes as plant microbiome for sustainable agriculture.
+ 06.07.2024, _A Mukherjee, BN Singh, S Kaur, M Sharma, AS Ferreira de Araújo, APA Pereira, R Morya, G Puopolo, VMM Melo, JP Verma_
+
+
+In recent years, research into the complex interactions and crosstalk between plants and their associated microbiota, collectively known as the plant microbiome has revealed the pivotal role of microbial communities for promoting plant growth and health. Plants have evolved intricate relationships with a diverse array of microorganisms inhabiting their roots, leaves, and other plant tissues. This microbiota mainly includes bacteria, archaea, fungi, protozoans, and viruses, forming a dynamic and interconnected network within and around the plant. Through mutualistic or cooperative interactions, these microbes contribute to various aspects of plant health and development. The direct mechanisms of the plant microbiome include the enhancement of plant growth and development through nutrient acquisition. Microbes have the ability to solubilize essential minerals, fix atmospheric nitrogen, and convert organic matter into accessible forms, thereby augmenting the nutrient pool available to the plant. Additionally, the microbiome helps plants to withstand biotic and abiotic stresses, such as pathogen attacks and adverse environmental conditions, by priming the plant's immune responses, antagonizing phytopathogens, and improving stress tolerance. Furthermore, the plant microbiome plays a vital role in phytohormone regulation, facilitating hormonal balance within the plant. This regulation influences various growth processes, including root development, flowering, and fruiting. Microbial communities can also produce secondary metabolites, which directly or indirectly promote plant growth, development, and health. Understanding the functional potential of the plant microbiome has led to innovative agricultural practices, such as microbiome-based biofertilizers and biopesticides, which harness the power of beneficial microorganisms to enhance crop yields while reducing the dependency on chemical inputs. In the present review, we discuss and highlight research gaps regarding the plant microbiome and how the plant microbiome can be used as a source of single and synthetic bioinoculants for plant growth and health.
 
 [Source](https://doi.org/10.1016/j.micres.2024.127780)
+
+10.1016/j.micres.2024.127780
 
 ---
 
