@@ -244,6 +244,18 @@ Multiple randomized controlled trials (RCTs) have investigated the efficacy of f
 
 ---
 
+## Surviving the stress: Understanding the molecular basis of plant adaptations and uncovering the role of mycorrhizal association in plant abiotic stresses.
+ 07.07.2024, _V Sharma, DP Sharma, R Salwan_
+
+
+Environmental stresses severely impair plant growth, resulting in significant crop yield and quality loss. Among various abiotic factors, salt and drought stresses are one of the major factors that affect the nutrients and water uptake by the plants, hence ultimately various physiological aspects of the plants that compromises crop yield. Continuous efforts have been made to investigate, dissect and improve plant adaptations at the molecular level in response to drought and salinity stresses. In this context, the plant beneficial microbiome presents in the rhizosphere, endosphere, and phyllosphere, also referred as second genomes of the plant is well known for its roles in plant adaptations. Exploration of beneficial interaction of fungi with host plants known as mycorrhizal association is one such special interaction that can facilitates the host plants adaptations. Mycorrhiza assist in alleviating the salinity and drought stresses of plants via redistributing the ion imbalance through translocation to different parts of the plants, as well as triggering oxidative machinery. Mycorrhiza association also regulates the level of various plant growth regulators, osmolytes and assists in acquiring minerals that are helpful in plant's adaptation against extreme environmental stresses. The current review examines the role of various plant growth regulators and plants' antioxidative systems, followed by mycorrhizal association during drought and salt stresses.
+
+[Source](https://doi.org/10.1016/j.micpath.2024.106772)
+
+10.1016/j.micpath.2024.106772
+
+---
+
 ## Surviving the Stress: Understanding the Molecular Basis of Plant Adaptations and Uncovering the Role of Mycorrhizal Association in Plant Abiotic Stresses
 
 [Source](https://doi.org/10.1016/j.micpath.2024.106772)
@@ -256,9 +268,15 @@ Multiple randomized controlled trials (RCTs) have investigated the efficacy of f
 
 ---
 
-## Beyond Meta-Omics: Functional Genomics in Future Marine Microbiome Research
+## Beyond Meta-Omics: Functional Genomics in Future Marine Microbiome Research.
+ 01.07.2024, _Y Chen_
+
+
+When President Bill Clinton and Francis Collins, then the director of the National Human Genome Research Institute, celebrated the near completion of the human genome sequence at the White House in the summer of 2000, it is unlikely that they or anyone else could have predicted the blossoming of meta-omics in the following two decades and their applications in modern human microbiome and environmental microbiome research. This transformation was enabled by the development of high-throughput sequencing technologies and sophisticated computational biology tools and bioinformatics software packages. Today, environmental meta-omics has undoubtedly revolutionized our understanding of ocean ecosystems, providing the genetic blueprint of oceanic microscopic organisms. In this review, I discuss the importance of functional genomics in future marine microbiome research and advocate a position for a gene-centric, bottom-up approach in modern oceanography. I propose that a synthesis of multidimensional approaches is required for a better understanding of the true functionality of the marine microbiome.
 
 [Source](https://doi.org/10.1146/annurev-marine-020123-100931)
+
+10.1146/annurev-marine-020123-100931
 
 ---
 
