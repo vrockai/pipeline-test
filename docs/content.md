@@ -190,7 +190,7 @@ Fecal microbiota transplantation (FMT) and fecal virome transplantation (FVT, st
 ---
 
 ## A meta-analysis of randomized controlled trials evaluating the effectiveness of fecal microbiota transplantation for patients with irritable bowel syndrome.
- 08.07.2024, _Y Wang, Y Hu, P Shi_
+ 15.07.2024, _Y Wang, Y Hu, P Shi_
 
 
 _Irritable Bowel Syndrome, Fecal Microbiota Transplantation, Humans, Randomized Controlled Trials as Topic, Treatment Outcome, Gastrointestinal Microbiome, Adult, Emotions_
@@ -238,27 +238,9 @@ Multiple randomized controlled trials (RCTs) have investigated the efficacy of f
 
 ---
 
-## Unearthing the power of microbes as plant microbiome for sustainable agriculture.
- 06.07.2024, _A Mukherjee, BN Singh, S Kaur, M Sharma, AS Ferreira de Araújo, APA Pereira, R Morya, G Puopolo, VMM Melo, JP Verma_
-
-
-In recent years, research into the complex interactions and crosstalk between plants and their associated microbiota, collectively known as the plant microbiome has revealed the pivotal role of microbial communities for promoting plant growth and health. Plants have evolved intricate relationships with a diverse array of microorganisms inhabiting their roots, leaves, and other plant tissues. This microbiota mainly includes bacteria, archaea, fungi, protozoans, and viruses, forming a dynamic and interconnected network within and around the plant. Through mutualistic or cooperative interactions, these microbes contribute to various aspects of plant health and development. The direct mechanisms of the plant microbiome include the enhancement of plant growth and development through nutrient acquisition. Microbes have the ability to solubilize essential minerals, fix atmospheric nitrogen, and convert organic matter into accessible forms, thereby augmenting the nutrient pool available to the plant. Additionally, the microbiome helps plants to withstand biotic and abiotic stresses, such as pathogen attacks and adverse environmental conditions, by priming the plant's immune responses, antagonizing phytopathogens, and improving stress tolerance. Furthermore, the plant microbiome plays a vital role in phytohormone regulation, facilitating hormonal balance within the plant. This regulation influences various growth processes, including root development, flowering, and fruiting. Microbial communities can also produce secondary metabolites, which directly or indirectly promote plant growth, development, and health. Understanding the functional potential of the plant microbiome has led to innovative agricultural practices, such as microbiome-based biofertilizers and biopesticides, which harness the power of beneficial microorganisms to enhance crop yields while reducing the dependency on chemical inputs. In the present review, we discuss and highlight research gaps regarding the plant microbiome and how the plant microbiome can be used as a source of single and synthetic bioinoculants for plant growth and health.
+## Unearthing the power of microbes as plant microbiome for sustainable agriculture
 
 [Source](https://doi.org/10.1016/j.micres.2024.127780)
-
-10.1016/j.micres.2024.127780
-
----
-
-## Surviving the stress: Understanding the molecular basis of plant adaptations and uncovering the role of mycorrhizal association in plant abiotic stresses.
- 07.07.2024, _V Sharma, DP Sharma, R Salwan_
-
-
-Environmental stresses severely impair plant growth, resulting in significant crop yield and quality loss. Among various abiotic factors, salt and drought stresses are one of the major factors that affect the nutrients and water uptake by the plants, hence ultimately various physiological aspects of the plants that compromises crop yield. Continuous efforts have been made to investigate, dissect and improve plant adaptations at the molecular level in response to drought and salinity stresses. In this context, the plant beneficial microbiome presents in the rhizosphere, endosphere, and phyllosphere, also referred as second genomes of the plant is well known for its roles in plant adaptations. Exploration of beneficial interaction of fungi with host plants known as mycorrhizal association is one such special interaction that can facilitates the host plants adaptations. Mycorrhiza assist in alleviating the salinity and drought stresses of plants via redistributing the ion imbalance through translocation to different parts of the plants, as well as triggering oxidative machinery. Mycorrhiza association also regulates the level of various plant growth regulators, osmolytes and assists in acquiring minerals that are helpful in plant's adaptation against extreme environmental stresses. The current review examines the role of various plant growth regulators and plants' antioxidative systems, followed by mycorrhizal association during drought and salt stresses.
-
-[Source](https://doi.org/10.1016/j.micpath.2024.106772)
-
-10.1016/j.micpath.2024.106772
 
 ---
 
@@ -268,27 +250,15 @@ Environmental stresses severely impair plant growth, resulting in significant cr
 
 ---
 
-## The drainome: longitudinal metagenomic characterisation of wastewater from hospital ward sinks to characterize the microbiome and resistome and assess the effects of decontamination interventions.
- 05.07.2024, _LB Snell, D Prossomariti, A Alcolea-Medina, M Sasson, M Dibbens, N Al-Yaakoubi, G Humayun, T Charalampous, C Alder, D Ward, A Maldonado-Barrueco, O Abadioru, R Batra, G Nebbia, JA Otter, JD Edgeworth, SD Goldenberg_
-
-
-Hospital drains and water interfaces are implicated in nosocomial transmission of pathogens. Metagenomics can assess the microbial composition and presence of antimicrobial resistance genes in drains ('the drainome') but studies applying these methods longitudinally and to assess infection control interventions are lacking.
+## The drainome: longitudinal metagenomic characterisation of wastewater from hospital ward sinks to characterize the microbiome and resistome and assess the effects of decontamination interventions
 
 [Source](https://www.journalofhospitalinfection.com/article/S0195-6701(24)00225-1/fulltext)
 
-10.1016/j.jhin.2024.06.005
-
 ---
 
-## Beyond Meta-Omics: Functional Genomics in Future Marine Microbiome Research.
- 01.07.2024, _Y Chen_
-
-
-When President Bill Clinton and Francis Collins, then the director of the National Human Genome Research Institute, celebrated the near completion of the human genome sequence at the White House in the summer of 2000, it is unlikely that they or anyone else could have predicted the blossoming of meta-omics in the following two decades and their applications in modern human microbiome and environmental microbiome research. This transformation was enabled by the development of high-throughput sequencing technologies and sophisticated computational biology tools and bioinformatics software packages. Today, environmental meta-omics has undoubtedly revolutionized our understanding of ocean ecosystems, providing the genetic blueprint of oceanic microscopic organisms. In this review, I discuss the importance of functional genomics in future marine microbiome research and advocate a position for a gene-centric, bottom-up approach in modern oceanography. I propose that a synthesis of multidimensional approaches is required for a better understanding of the true functionality of the marine microbiome.
+## Beyond Meta-Omics: Functional Genomics in Future Marine Microbiome Research
 
 [Source](https://doi.org/10.1146/annurev-marine-020123-100931)
-
-10.1146/annurev-marine-020123-100931
 
 ---
 
