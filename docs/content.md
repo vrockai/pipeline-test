@@ -251,21 +251,27 @@ Multiple randomized controlled trials (RCTs) have investigated the efficacy of f
 
 ---
 
+## Surviving the stress: Understanding the molecular basis of plant adaptations and uncovering the role of mycorrhizal association in plant abiotic stresses.
+ 07.07.2024, _V Sharma, DP Sharma, R Salwan_
+
+
+Environmental stresses severely impair plant growth, resulting in significant crop yield and quality loss. Among various abiotic factors, salt and drought stresses are one of the major factors that affect the nutrients and water uptake by the plants, hence ultimately various physiological aspects of the plants that compromises crop yield. Continuous efforts have been made to investigate, dissect and improve plant adaptations at the molecular level in response to drought and salinity stresses. In this context, the plant beneficial microbiome presents in the rhizosphere, endosphere, and phyllosphere, also referred as second genomes of the plant is well known for its roles in plant adaptations. Exploration of beneficial interaction of fungi with host plants known as mycorrhizal association is one such special interaction that can facilitates the host plants adaptations. Mycorrhiza assist in alleviating the salinity and drought stresses of plants via redistributing the ion imbalance through translocation to different parts of the plants, as well as triggering oxidative machinery. Mycorrhiza association also regulates the level of various plant growth regulators, osmolytes and assists in acquiring minerals that are helpful in plant's adaptation against extreme environmental stresses. The current review examines the role of various plant growth regulators and plants' antioxidative systems, followed by mycorrhizal association during drought and salt stresses.
+
+[Source](https://doi.org/10.1016/j.micpath.2024.106772)
+
+10.1016/j.micpath.2024.106772
+
+---
+
 ## Surviving the Stress: Understanding the Molecular Basis of Plant Adaptations and Uncovering the Role of Mycorrhizal Association in Plant Abiotic Stresses
 
 [Source](https://doi.org/10.1016/j.micpath.2024.106772)
 
 ---
 
-## The drainome: longitudinal metagenomic characterisation of wastewater from hospital ward sinks to characterize the microbiome and resistome and assess the effects of decontamination interventions.
- 05.07.2024, _LB Snell, D Prossomariti, A Alcolea-Medina, M Sasson, M Dibbens, N Al-Yaakoubi, G Humayun, T Charalampous, C Alder, D Ward, A Maldonado-Barrueco, O Abadioru, R Batra, G Nebbia, JA Otter, JD Edgeworth, SD Goldenberg_
-
-
-Hospital drains and water interfaces are implicated in nosocomial transmission of pathogens. Metagenomics can assess the microbial composition and presence of antimicrobial resistance genes in drains ('the drainome') but studies applying these methods longitudinally and to assess infection control interventions are lacking.
+## The drainome: longitudinal metagenomic characterisation of wastewater from hospital ward sinks to characterize the microbiome and resistome and assess the effects of decontamination interventions
 
 [Source](https://www.journalofhospitalinfection.com/article/S0195-6701(24)00225-1/fulltext)
-
-10.1016/j.jhin.2024.06.005
 
 ---
 
