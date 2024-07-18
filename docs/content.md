@@ -269,9 +269,15 @@ Hospital drains and water interfaces are implicated in nosocomial transmission o
 
 ---
 
-## Beyond Meta-Omics: Functional Genomics in Future Marine Microbiome Research
+## Beyond Meta-Omics: Functional Genomics in Future Marine Microbiome Research.
+ 01.07.2024, _Y Chen_
+
+
+When President Bill Clinton and Francis Collins, then the director of the National Human Genome Research Institute, celebrated the near completion of the human genome sequence at the White House in the summer of 2000, it is unlikely that they or anyone else could have predicted the blossoming of meta-omics in the following two decades and their applications in modern human microbiome and environmental microbiome research. This transformation was enabled by the development of high-throughput sequencing technologies and sophisticated computational biology tools and bioinformatics software packages. Today, environmental meta-omics has undoubtedly revolutionized our understanding of ocean ecosystems, providing the genetic blueprint of oceanic microscopic organisms. In this review, I discuss the importance of functional genomics in future marine microbiome research and advocate a position for a gene-centric, bottom-up approach in modern oceanography. I propose that a synthesis of multidimensional approaches is required for a better understanding of the true functionality of the marine microbiome.
 
 [Source](https://doi.org/10.1146/annurev-marine-020123-100931)
+
+10.1146/annurev-marine-020123-100931
 
 ---
 
