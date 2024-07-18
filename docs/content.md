@@ -177,16 +177,9 @@ Holo-omics refers to the joint study of non-targeted molecular data layers from 
 
 ---
 
-## Overcoming donor variability and risks associated with fecal microbiota transplants through bacteriophage-mediated treatments.
- 04.07.2024, _TS Rasmussen, X Mao, S Forster, SB Larsen, A Von Münchow, KD Tranæs, A Brunse, F Larsen, JLC Mejia, S Adamberg, AK Hansen, K Adamberg, CHF Hansen, DS Nielsen_
-
-
-_Fecal Microbiota Transplantation, Animals, Mice, Bacteriophages, Clostridium Infections, Gastrointestinal Microbiome, Feces, Clostridioides difficile, Disease Models, Animal, Humans, Mice, Inbred C57BL, Female_
-Fecal microbiota transplantation (FMT) and fecal virome transplantation (FVT, sterile filtrated donor feces) have been effective in treating recurrent Clostridioides difficile infections, possibly through bacteriophage-mediated modulation of the gut microbiome. However, challenges like donor variability, costly screening, coupled with concerns over pathogen transfer (incl. eukaryotic viruses) with FMT or FVT hinder their wider clinical application in treating less acute diseases.
+## Overcoming donor variability and risks associated with fecal microbiota transplants through bacteriophage-mediated treatments
 
 [Source](https://doi.org/10.1186/s40168-024-01820-1)
-
-10.1186/s40168-024-01820-1
 
 ---
 
@@ -221,15 +214,28 @@ Multiple randomized controlled trials (RCTs) have investigated the efficacy of f
 
 ---
 
-## Oral histidine affects gut microbiota and MAIT cells improving glycemic control in type 2 diabetes patients
+## Oral histidine affects gut microbiota and MAIT cells improving glycemic control in type 2 diabetes patients.
+ 07.07.2024, _MV Warmbrunn, I Attaye, J Aron-Wisnewsky, E Rampanelli, EWJ van der Vossen, Y Hao, A Koopen, PO Bergh, D Stols-Gonçalves, N Mohamed, M Kemper, X Verdoes, K Wortelboer, M Davids, E Belda, S André, S Hazen, K Clement, B Groen, DH van Raalte, H Herrema, F Backhed, M Nieuwdorp_
+
+
+_Humans, Histidine, Diabetes Mellitus, Type 2, Gastrointestinal Microbiome, Middle Aged, Male, Female, Mucosal-Associated Invariant T Cells, Glycemic Control, Dietary Supplements, Case-Control Studies, Feces, Blood Glucose, Aged, Adult, Bacteria, Administration, Oral, DNA Methylation_
+Amino acids, metabolized by host cells as well as commensal gut bacteria, have signaling effects on host metabolism. Oral supplementation of the essential amino acid histidine has been shown to exert metabolic benefits. To investigate whether dietary histidine aids glycemic control, we performed a case-controlled parallel clinical intervention study in participants with type 2 diabetes (T2D) and healthy controls. Participants received oral histidine for seven weeks. After 2 weeks of histidine supplementation, the microbiome was depleted by antibiotics to determine the microbial contribution to histidine metabolism. We assessed glycemic control, immunophenotyping of peripheral blood mononucelar cells (PBMC), DNA methylation of PBMCs and fecal gut microbiota composition. Histidine improves several markers of glycemic control, including postprandial glucose levels with a concordant increase in the proportion of MAIT cells after two weeks of histidine supplementation. The increase in MAIT cells was associated with changes in gut microbial pathways such as riboflavin biosynthesis and epigenetic changes in the amino acid transporter SLC7A5. Associations between the microbiome and MAIT cells were replicated in the MetaCardis cohort. We propose a conceptual framework for how oral histidine may affect MAIT cells via altered gut microbiota composition and SLC7A5 expression in MAIT cells directly and thereby influencing glycemic control. Future studies should focus on the role of flavin biosynthesis intermediates and SLC7A5 modulation in MAIT cells to modulate glycemic control.
 
 [Source](https://doi.org/10.1080/19490976.2024.2370616)
 
+10.1080/19490976.2024.2370616
+
 ---
 
-## The Evolution of Science and Regulation of Dietary Supplements: Past, Present, and Future
+## The Evolution of Science and Regulation of Dietary Supplements: Past, Present, and Future.
+ 06.07.2024, _PM Coates, RL Bailey, JB Blumberg, A El-Sohemy, ZE Floyd, JZ Goldenberg, A Gould Shunney, HD Holscher, Y Nkrumah-Elie, D Rai, BW Ritz, WJ Weber_
+
+
+Dietary supplement use in the United States is widespread and increasing, especially among certain population groups, such as older Americans. The science surrounding dietary supplements has evolved substantially over the last few decades since their formal regulation in 1994. Much has been learned about the mechanisms of action of many dietary supplement ingredients, but the evidence on their health effects is still building. As is true of much nutrition research, there are many studies that point to health effects, but not all are at the level of scientific evidence (e.g., randomized controlled interventions), rigor, or quality needed for definitive statements of efficacy regarding clinical endpoints. New technologies and approaches are being applied to the science of dietary supplements, including nutrigenomics and microbiome analysis, data science, artificial intelligence, and machine learning - all of which can elevate the science behind dietary supplements. Products can contain an array of bioactive compounds derived from foods as well as from medicinal plants, which creates enormous challenges in data collection and management. Clinical applications, particularly those aimed at providing personalized nutrition options for patients, have become more sophisticated as dietary supplements are incorporated increasingly into clinical practice and self-care. The goals of this paper are to provide historical context for the regulation and science of dietary supplements, identify research resources, and suggest some future directions for science in this field.
 
 [Source](https://doi.org/10.1016/j.tjnut.2024.06.017)
+
+10.1016/j.tjnut.2024.06.017
 
 ---
 
@@ -245,9 +251,27 @@ Multiple randomized controlled trials (RCTs) have investigated the efficacy of f
 
 ---
 
-## Unearthing the power of microbes as plant microbiome for sustainable agriculture
+## Unearthing the power of microbes as plant microbiome for sustainable agriculture.
+ 06.07.2024, _A Mukherjee, BN Singh, S Kaur, M Sharma, AS Ferreira de Araújo, APA Pereira, R Morya, G Puopolo, VMM Melo, JP Verma_
+
+
+In recent years, research into the complex interactions and crosstalk between plants and their associated microbiota, collectively known as the plant microbiome has revealed the pivotal role of microbial communities for promoting plant growth and health. Plants have evolved intricate relationships with a diverse array of microorganisms inhabiting their roots, leaves, and other plant tissues. This microbiota mainly includes bacteria, archaea, fungi, protozoans, and viruses, forming a dynamic and interconnected network within and around the plant. Through mutualistic or cooperative interactions, these microbes contribute to various aspects of plant health and development. The direct mechanisms of the plant microbiome include the enhancement of plant growth and development through nutrient acquisition. Microbes have the ability to solubilize essential minerals, fix atmospheric nitrogen, and convert organic matter into accessible forms, thereby augmenting the nutrient pool available to the plant. Additionally, the microbiome helps plants to withstand biotic and abiotic stresses, such as pathogen attacks and adverse environmental conditions, by priming the plant's immune responses, antagonizing phytopathogens, and improving stress tolerance. Furthermore, the plant microbiome plays a vital role in phytohormone regulation, facilitating hormonal balance within the plant. This regulation influences various growth processes, including root development, flowering, and fruiting. Microbial communities can also produce secondary metabolites, which directly or indirectly promote plant growth, development, and health. Understanding the functional potential of the plant microbiome has led to innovative agricultural practices, such as microbiome-based biofertilizers and biopesticides, which harness the power of beneficial microorganisms to enhance crop yields while reducing the dependency on chemical inputs. In the present review, we discuss and highlight research gaps regarding the plant microbiome and how the plant microbiome can be used as a source of single and synthetic bioinoculants for plant growth and health.
 
 [Source](https://doi.org/10.1016/j.micres.2024.127780)
+
+10.1016/j.micres.2024.127780
+
+---
+
+## Surviving the stress: Understanding the molecular basis of plant adaptations and uncovering the role of mycorrhizal association in plant abiotic stresses.
+ 07.07.2024, _V Sharma, DP Sharma, R Salwan_
+
+
+Environmental stresses severely impair plant growth, resulting in significant crop yield and quality loss. Among various abiotic factors, salt and drought stresses are one of the major factors that affect the nutrients and water uptake by the plants, hence ultimately various physiological aspects of the plants that compromises crop yield. Continuous efforts have been made to investigate, dissect and improve plant adaptations at the molecular level in response to drought and salinity stresses. In this context, the plant beneficial microbiome presents in the rhizosphere, endosphere, and phyllosphere, also referred as second genomes of the plant is well known for its roles in plant adaptations. Exploration of beneficial interaction of fungi with host plants known as mycorrhizal association is one such special interaction that can facilitates the host plants adaptations. Mycorrhiza assist in alleviating the salinity and drought stresses of plants via redistributing the ion imbalance through translocation to different parts of the plants, as well as triggering oxidative machinery. Mycorrhiza association also regulates the level of various plant growth regulators, osmolytes and assists in acquiring minerals that are helpful in plant's adaptation against extreme environmental stresses. The current review examines the role of various plant growth regulators and plants' antioxidative systems, followed by mycorrhizal association during drought and salt stresses.
+
+[Source](https://doi.org/10.1016/j.micpath.2024.106772)
+
+10.1016/j.micpath.2024.106772
 
 ---
 
@@ -257,9 +281,15 @@ Multiple randomized controlled trials (RCTs) have investigated the efficacy of f
 
 ---
 
-## The drainome: longitudinal metagenomic characterisation of wastewater from hospital ward sinks to characterize the microbiome and resistome and assess the effects of decontamination interventions
+## The drainome: longitudinal metagenomic characterisation of wastewater from hospital ward sinks to characterize the microbiome and resistome and assess the effects of decontamination interventions.
+ 05.07.2024, _LB Snell, D Prossomariti, A Alcolea-Medina, M Sasson, M Dibbens, N Al-Yaakoubi, G Humayun, T Charalampous, C Alder, D Ward, A Maldonado-Barrueco, O Abadioru, R Batra, G Nebbia, JA Otter, JD Edgeworth, SD Goldenberg_
+
+
+Hospital drains and water interfaces are implicated in nosocomial transmission of pathogens. Metagenomics can assess the microbial composition and presence of antimicrobial resistance genes in drains ('the drainome') but studies applying these methods longitudinally and to assess infection control interventions are lacking.
 
 [Source](https://www.journalofhospitalinfection.com/article/S0195-6701(24)00225-1/fulltext)
+
+10.1016/j.jhin.2024.06.005
 
 ---
 
