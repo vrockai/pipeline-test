@@ -257,53 +257,27 @@ Multiple randomized controlled trials (RCTs) have investigated the efficacy of f
 
 ---
 
-## The drainome: longitudinal metagenomic characterisation of wastewater from hospital ward sinks to characterize the microbiome and resistome and assess the effects of decontamination interventions.
- 05.07.2024, _LB Snell, D Prossomariti, A Alcolea-Medina, M Sasson, M Dibbens, N Al-Yaakoubi, G Humayun, T Charalampous, C Alder, D Ward, A Maldonado-Barrueco, O Abadioru, R Batra, G Nebbia, JA Otter, JD Edgeworth, SD Goldenberg_
-
-
-Hospital drains and water interfaces are implicated in nosocomial transmission of pathogens. Metagenomics can assess the microbial composition and presence of antimicrobial resistance genes in drains ('the drainome') but studies applying these methods longitudinally and to assess infection control interventions are lacking.
+## The drainome: longitudinal metagenomic characterisation of wastewater from hospital ward sinks to characterize the microbiome and resistome and assess the effects of decontamination interventions
 
 [Source](https://www.journalofhospitalinfection.com/article/S0195-6701(24)00225-1/fulltext)
 
-10.1016/j.jhin.2024.06.005
-
 ---
 
-## Beyond Meta-Omics: Functional Genomics in Future Marine Microbiome Research.
- 01.07.2024, _Y Chen_
-
-
-When President Bill Clinton and Francis Collins, then the director of the National Human Genome Research Institute, celebrated the near completion of the human genome sequence at the White House in the summer of 2000, it is unlikely that they or anyone else could have predicted the blossoming of meta-omics in the following two decades and their applications in modern human microbiome and environmental microbiome research. This transformation was enabled by the development of high-throughput sequencing technologies and sophisticated computational biology tools and bioinformatics software packages. Today, environmental meta-omics has undoubtedly revolutionized our understanding of ocean ecosystems, providing the genetic blueprint of oceanic microscopic organisms. In this review, I discuss the importance of functional genomics in future marine microbiome research and advocate a position for a gene-centric, bottom-up approach in modern oceanography. I propose that a synthesis of multidimensional approaches is required for a better understanding of the true functionality of the marine microbiome.
+## Beyond Meta-Omics: Functional Genomics in Future Marine Microbiome Research
 
 [Source](https://doi.org/10.1146/annurev-marine-020123-100931)
 
-10.1146/annurev-marine-020123-100931
-
 ---
 
-## Soil Metaproteomics for Microbial Community Profiling: Methodologies and Challenges.
- 02.07.2024, _H Pan, R Wattiez, D Gillan_
-
-
-_Soil Microbiology, Proteomics, Metagenomics, Bacteria, Microbiota, Fungi, Soil, Computational Biology_
-Soil represents a complex and dynamic ecosystem, hosting a myriad of microorganisms that coexist and play vital roles in nutrient cycling and organic matter transformation. Among these microorganisms, bacteria and fungi are key members of the microbial community, profoundly influencing the fate of nitrogen, sulfur, and carbon in terrestrial environments. Understanding the intricacies of soil ecosystems and the biological processes orchestrated by microbial communities necessitates a deep dive into their composition and metabolic activities. The advent of next-generation sequencing and 'omics' techniques, such as metagenomics and metaproteomics, has revolutionized our understanding of microbial ecology and the functional dynamics of soil microbial communities. Metagenomics enables the identification of microbial community composition in soil, while metaproteomics sheds light on the current biological functions performed by these communities. However, metaproteomics presents several challenges, both technical and computational. Factors such as the presence of humic acids and variations in extraction methods can influence protein yield, while the absence of high-resolution mass spectrometry and comprehensive protein databases limits the depth of protein identification. Notwithstanding these limitations, metaproteomics remains a potent tool for unraveling the intricate biological processes and functions of soil microbial communities. In this review, we delve into the methodologies and challenges of metaproteomics in soil research, covering aspects such as protein extraction, identification, and bioinformatics analysis. Furthermore, we explore the applications of metaproteomics in soil bioremediation, highlighting its potential in addressing environmental challenges.
+## Soil Metaproteomics for Microbial Community Profiling: Methodologies and Challenges
 
 [Source](https://doi.org/10.1007/s00284-024-03781-y)
 
-10.1007/s00284-024-03781-y
-
 ---
 
-## 16S rRNA, metagenomics and 2bRAD-M sequencing to decode human thanatomicrobiome.
- 11.07.2024, _X Huang, J Zeng, S Li, J Chen, H Wang, C Li, S Zhang_
-
-
-_Humans, RNA, Ribosomal, 16S, Metagenomics, Microbiota, Cadaver_
-Microorganisms are essential in the decomposition of corpses and play a significant role in forensic science. However, previous studies have primarily focused on animal remains, specifically the gut, skin, and burial environment. Insufficient research has been conducted on the microbiota of human cadavers, especially in cases of advanced decomposition and additional tissues, resulting in a lack of relevant reference data. In this study, the microbiota of eight cadavers at different stages of decomposition were detected using 16S rRNA, metagenomic sequencing and 2bRAD-M sequencing. Nine different sites, including oral and nasal cavities, heart, liver, spleen, lung, kidney, muscle and gut, were analysed and the efficacy of these methods was evaluated. The results showed that 16S rRNA sequencing was the most cost-effective method for the study of cadavers in the early stages of decomposition, whereas for cadaveric tissues in the late stages of decomposition, 2bRAD-M could overcome host contamination more effectively than metagenomic sequencing. This paves the way for new opportunities in data retrieval and promotes in-depth investigations into the microbiota.
+## 16S rRNA, metagenomics and 2bRAD-M sequencing to decode human thanatomicrobiome
 
 [Source](https://doi.org/10.1038/s41597-024-03518-3)
-
-10.1038/s41597-024-03518-3
 
 ---
 
