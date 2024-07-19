@@ -299,9 +299,16 @@ Multiple randomized controlled trials (RCTs) have investigated the efficacy of f
 
 ---
 
-## CViewer: a Java-based statistical framework for integration of shotgun metagenomics with other omics datasets
+## CViewer: a Java-based statistical framework for integration of shotgun metagenomics with other omics datasets.
+ 04.07.2024, _O Koci, RK Russell, MG Shaikh, C Edwards, K Gerasimidis, UZ Ijaz_
+
+
+_Metagenomics, Humans, Software, Microbiota, Gastrointestinal Microbiome, Computational Biology, Metagenome, Crohn Disease_
+Shotgun metagenomics for microbial community survey recovers enormous amount of information for microbial genomes that include their abundances, taxonomic, and phylogenetic information, as well as their genomic makeup, the latter of which then helps retrieve their function based on annotated gene products, mRNA, protein, and metabolites. Within the context of a specific hypothesis, additional modalities are often included, to give host-microbiome interaction. For example, in human-associated microbiome projects, it has become increasingly common to include host immunology through flow cytometry. Whilst there are plenty of software approaches available, some that utilize marker-based and assembly-based approaches, for downstream statistical analyses, there is still a dearth of statistical tools that help consolidate all such information in a single platform. By virtue of stringent computational requirements, the statistical workflow is often passive with limited visual exploration.
 
 [Source](https://doi.org/10.1186/s40168-024-01834-9)
+
+10.1186/s40168-024-01834-9
 
 ---
 
