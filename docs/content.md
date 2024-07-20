@@ -233,15 +233,9 @@ Multiple randomized controlled trials (RCTs) have investigated the efficacy of f
 
 ---
 
-## Dietary patterns interfere with gut microbiota to combat obesity.
- 03.07.2024, _X Lou, P Li, X Luo, Z Lei, X Liu, Y Liu, L Gao, W Xu, X Liu_
-
-
-Obesity and obesity-related metabolic disorders are global epidemics that occur when there is chronic energy intake exceeding energy expenditure. Growing evidence suggests that healthy dietary patterns not only decrease the risk of obesity but also influence the composition and function of the gut microbiota. Numerous studies manifest that the development of obesity is associated with gut microbiota. One promising supplementation strategy is modulating gut microbiota composition by dietary patterns to combat obesity. In this review, we discuss the changes of gut microbiota in obesity and obesity-related metabolic disorders, with a particular emphasis on the impact of dietary components on gut microbiota and how common food patterns can intervene in gut microbiota to prevent obesity. While there is promise in intervening with the gut microbiota to combat obesity through the regulation of dietary patterns, numerous key questions remain unanswered. In this review, we critically review the associations between dietary patterns, gut microbes, and obesity, aiming to contribute to the further development and application of dietary patterns against obesity in humans.
+## Dietary patterns interfere with gut microbiota to combat obesity
 
 [Source](https://doi.org/10.3389/fnut.2024.1387394)
-
-10.3389/fnut.2024.1387394
 
 ---
 
