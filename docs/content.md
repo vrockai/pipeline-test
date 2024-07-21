@@ -22,16 +22,9 @@ Numerous studies have reported critical roles for the gut microbiota in obesity.
 
 ---
 
-## Metagenomic analysis reveals altered gut virome and diagnostic potential in pancreatic cancer.
- 17.07.2024, _P Zhang, H Shi, R Guo, L Li, X Guo, H Yang, D Chang, Y Cheng, G Zhao, S Li, Q Zhong, H Zhang, P Zhao, C Fu, Y Song, L Yang, Y Wang, Y Zhang, J Jiang, T Wang, J Zhao, Y Li, B Wang, F Chen, H Zhao, Y Wang, J Wang, S Ma_
-
-
-_Humans, Pancreatic Neoplasms, Gastrointestinal Microbiome, Virome, Metagenomics, Feces, Viruses, Metagenome, Bacteria, Middle Aged, Male, Female, Aged, Case-Control Studies_
-Pancreatic cancer (PC) is a highly aggressive malignancy with a poor prognosis, making early diagnosis crucial for improving patient outcomes. While the gut microbiome, including bacteria and viruses, is believed to be essential in cancer pathogenicity, the potential contribution of the gut virome to PC remains largely unexplored. In this study, we conducted a comparative analysis of the gut viral compositional and functional profiles between PC patients and healthy controls, based on fecal metagenomes from two publicly available data sets comprising a total of 101 patients and 82 healthy controls. Our results revealed a decreasing trend in the gut virome diversity of PC patients with disease severity. We identified significant alterations in the overall viral structure of PC patients, with a meta-analysis revealing 219 viral operational taxonomic units (vOTUs) showing significant differences in relative abundance between patients and healthy controls. Among these, 65 vOTUs were enriched in PC patients, and 154 were reduced. Host prediction revealed that PC-enriched vOTUs preferentially infected bacterial members of Veillonellaceae, Enterobacteriaceae, Fusobacteriaceae, and Streptococcaceae, while PC-reduced vOTUs were more likely to infect Ruminococcaceae, Lachnospiraceae, Clostridiaceae, Oscillospiraceae, and Peptostreptococcaceae. Furthermore, we constructed random forest models based on the PC-associated vOTUs, achieving an optimal average area under the curve (AUC) of up to 0.879 for distinguishing patients from controls. Through additional 10 public cohorts, we demonstrated the reproducibility and high specificity of these viral signatures. Our study suggests that the gut virome may play a role in PC development and could serve as a promising target for PC diagnosis and therapeutic intervention. Future studies should further explore the underlying mechanisms of gut virus-bacteria interactions and validate the diagnostic models in larger and more diverse populations.
+## Metagenomic analysis reveals altered gut virome and diagnostic potential in pancreatic cancer
 
 [Source](https://doi.org/10.1002/jmv.29809)
-
-10.1002/jmv.29809
 
 ---
 
@@ -177,75 +170,39 @@ Childhood obesity is a crucial public health concern worldwide. Dietary interven
 
 ---
 
-## Metatranscriptomics reveals microbial community function succession and characteristic flavor formation mechanisms during black rice wine fermentation.
- 18.07.2024, _A Tang, B Peng_
-
-
-Black rice wine (BRW) is a traditional Chinese rice wine with unique flavors; however, the formation pathways of flavor compounds driven by microbiota remain unclear. This study employed HPLC and GC-MS to reveal that during BRW fermentation, free amino acids increased sevenfold, volatile compounds doubled, and 28 key characteristic flavor compounds were identified. Metatranscriptomic analysis indicated that during fermentation, driven by physicochemical factors and microbial interactions, Saccharomyces gradually became the dominant active microorganism (relative abundance 87.01%-97.70%). Other dominant microorganisms (relative abundance &gt;0.1%), including Saccharomycopsis, Pediococcus, Wickerhamomyces, and Weissella, significantly decreased. Meanwhile, the microflora's signature functions underwent succession: transcription early, carbohydrate metabolism mid-stage, and autophagy late. These microbial and functional successions facilitated the accumulation of flavor compounds. Metabolic network reconstruction revealed that Saccharomyces was pivotal in substrate degradation and flavor formation, while other dominant microorganisms actively promoted these processes. This study provides insights into regulating BRW's flavor through microorganisms.
+## Metatranscriptomics reveals microbial community function succession and characteristic flavor formation mechanisms during black rice wine fermentation
 
 [Source](https://doi.org/10.1016/j.foodchem.2024.140428)
 
-10.1016/j.foodchem.2024.140428
-
 ---
 
-## Gα13 restricts nutrient driven proliferation in mucosal germinal centers.
- 19.07.2024, _HT Nguyen, M Li, R Vadakath, KA Henke, TC Tran, H Li, M Yamadi, S Darbha, Y Yang, J Kabat, AR Albright, EG Centeno, JD Phelan, S Roulland, DW Huang, MC Kelly, RM Young, S Pittaluga, S Difilippantonio, JR Muppidi_
-
-
-Germinal centers (GCs) that form in mucosal sites are exposed to gut-derived factors that have the potential to influence homeostasis independent of antigen receptor-driven selective processes. The G-protein Gα13 confines B cells to the GC and limits the development of GC-derived lymphoma. We discovered that Gα13-deficiency fuels the GC reaction via increased mTORC1 signaling and Myc protein expression specifically in the mesenteric lymph node (mLN). The competitive advantage of Gα13-deficient GC B cells (GCBs) in mLN was not dependent on T cell help or gut microbiota. Instead, Gα13-deficient GCBs were selectively dependent on dietary nutrients likely due to greater access to gut lymphatics. Specifically, we found that diet-derived glutamine supported proliferation and Myc expression in Gα13-deficient GCBs in the mLN. Thus, GC confinement limits the effects of dietary glutamine on GC dynamics in mucosal tissues. Gα13 pathway mutations coopt these processes to promote the gut tropism of aggressive lymphoma.
+## Gα13 restricts nutrient driven proliferation in mucosal germinal centers
 
 [Source](https://doi.org/10.1038/s41590-024-01910-0)
 
-10.1038/s41590-024-01910-0
-
 ---
 
-## Gut microbiota mediates ambient PM2.5 exposure-induced abnormal glucose metabolism via short-chain fatty acids.
- 12.07.2024, _W Shao, B Pan, Z Li, R Peng, W Yang, Y Xie, D Han, X Fang, J Li, Y Zhu, Z Zhao, H Kan, Z Ying, Y Xu_
-
-
-PM2.5 exposure has been found to cause gut dysbiosis and impair glucose homeostasis in human and animals, yet their underlying biological connection remain unclear. In the present study, we aim to investigate the biological significance of gut microbiota in PM2.5-induced glucose metabolic abnormalities. Our results showed that microbiota depletion by antibiotics treatment significantly alleviated PM2.5-induced glucose intolerance and insulin resistance, as indicated by the intraperitoneal glucose tolerance test, glucose-induced insulin secretion, insulin tolerance test, insulin-induced phosphorylation levels of Akt and GSK-3β in insulin sensitive tissues. In addition, faecal microbiota transplantation (FMT) from PM2.5-exposed donor mice successfully remodeled the glucose metabolism abnormalities in recipient mice, while the transplantation of autoclaved faecal materials did not. Faecal microbiota analysis demonstrated that the composition and alpha diversity of the gut bacterial community were altered by PM2.5 exposure and in FMT recipient mice. Furthermore, short-chain fatty acids levels analysis showed that the circulating acetate was significantly decreased in PM2.5-exposed donor and FMT recipient mice, and supplementation of sodium acetate for 3 months successfully improved the glucose metabolism abnormalities induced by PM2.5 exposure. These results indicate that manipulating gut microbiota or its metabolites could be a potential strategy for preventing the adverse health effects of ambient PM2.5.
+## Gut microbiota mediates ambient PM(2.5) exposure-induced abnormal glucose metabolism via short-chain fatty acids
 
 [Source](https://doi.org/10.1016/j.jhazmat.2024.135096)
 
-10.1016/j.jhazmat.2024.135096
-
 ---
 
-## Domestication and evolutionary histories of specialized gut symbionts across cephalotine ants.
- 15.07.2024, _C Cabuslay, JT Wertz, B Béchade, Y Hu, S Braganza, D Freeman, S Pradhan, M Mukhanova, S Powell, C Moreau, JA Russell_
-
-
-The evolution of animals and their gut symbionts is a complex phenomenon, obscured by lability and diversity. In social organisms, transmission of symbionts among relatives may yield systems with more stable associations. Here, we study the history of a social insect symbiosis involving cephalotine ants and their extracellular gut bacteria, which come predominantly from host-specialized lineages. We perform multi-locus phylogenetics for symbionts from nine bacterial orders, and map prior amplicon sequence data to lineage-assigned symbiont genomes, studying distributions of rigorously defined symbionts across 20 host species. Based on monophyly and additional hypothesis testing, we estimate that these specialized gut bacteria belong to 18 distinct lineages, of which 15 have been successfully isolated and cultured. Several symbiont lineages showed evidence for domestication events that occurred later in cephalotine evolutionary history, and only one lineage was ubiquitously detected in all 20 host species and 48 colonies sampled with amplicon 16S rRNA sequencing. We found evidence for phylogenetically constrained distributions in four symbionts, suggesting historical or genetic impacts on community composition. Two lineages showed evidence for frequent intra-lineage co-infections, highlighting the potential for niche divergence after initial domestication. Nearly all symbionts showed evidence for occasional host switching, but four may, more often, co-diversify with their hosts. Through our further assessment of symbiont localization and genomic functional profiles, we demonstrate distinct niches for symbionts with shared evolutionary histories, prompting further questions on the forces underlying the evolution of hosts and their gut microbiomes.
+## Domestication and evolutionary histories of specialized gut symbionts across cephalotine ants
 
 [Source](https://doi.org/10.1111/mec.17454)
 
-10.1111/mec.17454
-
 ---
 
-## The interplay between gut symbionts and behavioral variation in social insects.
- 17.07.2024, _J Liberti, P Engel, A Cabirol_
-
-
-Social insects exhibit a high degree of intraspecific behavioral variation. Moreover, they often harbor specialized microbial communities in their gut. Recent studies suggest that these two characteristics of social insects are interlinked: insect behavioral phenotypes affect their gut microbiota composition, partly through exposure to different environments and diet, and in return, the gut microbiota has been shown to influence insect behavior. Here we discuss the bidirectional relationship existing between intraspecific variation in gut microbiota composition and behavioral phenotypes in social insects.
+## The interplay between gut symbionts and behavioral variation in social insects
 
 [Source](https://doi.org/10.1016/j.cois.2024.101233)
 
-10.1016/j.cois.2024.101233
-
 ---
 
-## Meta-transcriptomic analysis of companion animal infectomes reveals their diversity and potential roles in animal and human disease.
- 16.07.2024, _W-C Wu, Y-F Pan, W-D Zhou, Y-Q Liao, M-W Peng, G-Y Luo, G-Y Xin, Y-N Peng, T An, B Li, H Luo, VR Barrs, JA Beatty, EC Holmes, W Zhao, M Shi, Y Shu_
-
-
-Companion animals such as cats and dogs harbor diverse microbial communities that can potentially impact human health due to close and frequent contact. To better characterize their total infectomes and assess zoonotic risks, we characterized the overall infectomes of companion animals (cats and dogs) and evaluated their potential zoonotic risks. Meta-transcriptomic analyses were performed on 239 samples from cats and dogs collected across China, identifying 24 viral species, 270 bacterial genera, and two fungal genera. Differences in the overall microbiome and infectome composition were compared across different animal species (cats or dogs), sampling sites (rectal or oropharyngeal), and health status (healthy or diseased). Diversity analyses revealed that viral abundance was generally higher in diseased animals compared to healthy ones, while differences in microbial composition were mainly driven by sampling site, followed by animal species and health status. Disease association analyses validated the pathogenicity of known pathogens and suggested potential pathogenic roles of previously undescribed bacteria and newly discovered viruses. Cross-species transmission analyses identified seven pathogens shared between cats and dogs, such as alphacoronavirus 1, which was detected in both oropharyngeal and rectal swabs albeit with differential pathogenicity. Further analyses showed that some viruses, like alphacoronavirus 1, harbored multiple lineages exhibiting distinct pathogenicity, tissue, or host preferences. Ultimately, a systematic evolutionary screening identified 27 potential zoonotic pathogens in this sample set, with far more bacterial than viral species, implying potential health threats to humans. Overall, our meta-transcriptomic analysis reveals a landscape of actively transcribing microorganisms in major companion animals, highlighting key pathogens, those with the potential for cross-species transmission, and possible zoonotic threats.
+## Meta-transcriptomic analysis of companion animal infectomes reveals their diversity and potential roles in animal and human disease
 
 [Source](https://doi.org/10.1128/msphere.00439-24)
-
-10.1128/msphere.00439-24
 
 ---
 
