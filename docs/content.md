@@ -70,28 +70,9 @@ Numerous studies have reported critical roles for the gut microbiota in obesity.
 
 ---
 
-## Microbiota of Saliva: A Non-invasive Diagnostic Tool.
- 17.07.2024, _DB Shinde, JG Mahore, PS Giram, SL Singh, A Sharda, D Choyan, S Musale_
-
-
-Potential of salivary microbiota as a non-invasive diagnostic tool for various diseases are explained in the present review. Traditional diagnostic methods rely on blood, which has limitations in terms of collection and biomarker specificity. We discuss the concept of normal flora and how disruptions in oral microbiota can be indicative of diseases. Saliva, harboring a diverse microbial community, offers promise as a diagnostic biomarker source for oral and non-oral conditions. We delve into the role of microbial dysbiosis in disease pathogenesis and the prospects of using biological indicators like dysbiosis for diagnosis, prediction, and monitoring. This review also emphasizes the significance of saliva microbiota in advancing early disease detection and timely intervention. We addressed the following research question and objectives: Can the microbiota of saliva serve as a non-invasive diagnostic tool for the early detection and monitoring of both oral and non-oral diseases? To achieve this, we will explore the normal flora of microorganisms in the oral cavity, the impact of microbial dysbiosis, and the potential of using specific pathogenic microorganisms as biomarkers. Additionally, we will investigate the correlation between oral and non-oral diseases by analyzing total saliva or site-specific dental biofilms for signs of symbiosis or dysbiosis. This research seeks to contribute valuable insights into the development of a non-invasive diagnostic approach with broad applications in healthcare.
+## Microbiota of Saliva: A Non-invasive Diagnostic Tool
 
 [Source](https://doi.org/10.1007/s12088-024-01219-4)
-
-10.1007/s12088-024-01219-4
-
----
-
-## Biomarker Identification for Preterm Birth Susceptibility: Vaginal Microbiome Meta-Analysis Using Systems Biology and Machine Learning Approaches.
- 21.07.2024, _S Kulshrestha, P Narad, B Singh, SS Pai, P Vijayaraghavan, A Tandon, P Gupta, D Modi, A Sengupta_
-
-
-_Humans, Female, Vagina, Premature Birth, Microbiota, Machine Learning, Pregnancy, RNA, Ribosomal, 16S, Systems Biology, Biomarkers, Disease Susceptibility, Infant, Newborn_
-The vaginal microbiome has a substantial role in the occurrence of preterm birth (PTB), which contributes substantially to neonatal mortality worldwide. However, current bioinformatics approaches mostly concentrate on the taxonomic classification and functional profiling of the microbiome, limiting their abilities to elucidate the complex factors that contribute to PTB.
-
-[Source](https://doi.org/10.1038/s41522-024-00528-2)
-
-10.1111/aji.13905
 
 ---
 
@@ -101,15 +82,9 @@ The vaginal microbiome has a substantial role in the occurrence of preterm birth
 
 ---
 
-## An improved diet-based nutritional interventions can improve childhood obesity with the synergistic regulation of gut microbiota.
- 16.07.2024, _M Zhou, C Peng, Z Miao, K Wang, H Zhou, Y Li, G Xiao, X Wu_
-
-
-Childhood obesity is a crucial public health concern worldwide. Dietary intervention is the most common intervention for the treatment of obesity. Therefore, we tested an improved diet-based nutritional interventions to improve the childhood obesity and its gut microbiota. Thirty obese children received a 12-week intervention with the adjust-energy-restricted dietary pattern (A-CRD). Body composition was measured by bioelectrical impedance (Inbody S10) and faecal microbes were profiled by sequencing 16S rRNA. Compared to the NTB group (at 0 week), the NTA group (at 12 weeks) had a significantly greater decrease in body weight, body mass index (BMI) and percent body fat (PBF) ( P &lt; 0.001, respectively), whereas skeletal muscle mass (SMM) and fat free mass (FFM) were not statistically significantly different ( P &gt; 0.05). The gut microbiota was found significantly different between the NTB and NTA groups based on alpha and beta diversity. Bifidobacterium, Blautia, and Streptococcus was significantly increased, whereas Bacteroides and Megamonas was significantly decreased in the NTA group ( P &lt; 0.05, respectively). Meanwhile, NTA group significantly increased the ability to produce short-chain fatty acids (SCFAs; e.g. acetic acid/total dietary energy) and changed he predictive metabolic functional features of the microbiota communities ( P &lt; 0.05, respectively) than the NTB group. In conclusion, A-CRD can significantly improve childhood obesity, and the underlying mechanism may be its effect on gut microbiota and metabolism. Therefore, the diet-based nutrition intervention targeting gut microbiota will be more effective management of body weight and prevention of obesity. Chinese Clinical Trial Register: ChiCTR2300074571.
+## An improved diet-based nutritional interventions can improve childhood obesity with the synergistic regulation of gut microbiota
 
 [Source](https://brill.com/view/journals/bm/aop/article-10.1163-18762891-bja00019/article-10.1163-18762891-bja00019.xml)
-
-10.1163/18762891-bja00019
 
 ---
 
@@ -167,16 +142,9 @@ Companion animals such as cats and dogs harbor diverse microbial communities tha
 
 ---
 
-## Alcohol consumption during pregnancy differentially affects the fecal microbiota of dams and offspring.
- 15.07.2024, _TS Bodnar, G Ainsworth-Cruickshank, V Billy, L Wegener Parfrey, J Weinberg, C Raineki_
-
-
-_Animals, Pregnancy, Female, Feces, Alcohol Drinking, Prenatal Exposure Delayed Effects, Rats, Fetal Alcohol Spectrum Disorders, Gastrointestinal Microbiome, Ethanol, Male, Disease Models, Animal, Microbiota, Bacteria_
-Microbiota imbalances are linked to inflammation and disease, as well as neurodevelopmental conditions where they may contribute to behavioral, physiological, and central nervous system dysfunction. By contrast, the role of the microbiota in Fetal Alcohol Spectrum Disorder (FASD), the group of neurodevelopmental conditions that can occur following prenatal alcohol exposure (PAE), has not received similar attention. Here we utilized a rodent model of alcohol consumption during pregnancy to characterize the impact of alcohol on the microbiota of dam-offspring dyads. Overall, bacterial diversity decreased in alcohol-consuming dams and community composition differed from that of controls in alcohol-consuming dams and their offspring. Bacterial taxa and predicted biochemical pathway composition were also altered with alcohol consumption/exposure; however, there was minimal overlap between the changes in dams and offspring. These findings illuminate the potential importance of the microbiota in the pathophysiology of FASD and support investigation into novel microbiota-based interventions.
+## Alcohol consumption during pregnancy differentially affects the fecal microbiota of dams and offspring
 
 [Source](https://doi.org/10.1038/s41598-024-64313-z)
-
-10.1038/s41598-024-64313-z
 
 ---
 
