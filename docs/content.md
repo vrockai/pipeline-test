@@ -22,40 +22,21 @@ Numerous studies have reported critical roles for the gut microbiota in obesity.
 
 ---
 
-## Metagenomic analysis reveals altered gut virome and diagnostic potential in pancreatic cancer.
- 17.07.2024, _P Zhang, H Shi, R Guo, L Li, X Guo, H Yang, D Chang, Y Cheng, G Zhao, S Li, Q Zhong, H Zhang, P Zhao, C Fu, Y Song, L Yang, Y Wang, Y Zhang, J Jiang, T Wang, J Zhao, Y Li, B Wang, F Chen, H Zhao, Y Wang, J Wang, S Ma_
-
-
-_Humans, Pancreatic Neoplasms, Gastrointestinal Microbiome, Virome, Metagenomics, Feces, Viruses, Metagenome, Bacteria, Middle Aged, Male, Female, Aged, Case-Control Studies_
-Pancreatic cancer (PC) is a highly aggressive malignancy with a poor prognosis, making early diagnosis crucial for improving patient outcomes. While the gut microbiome, including bacteria and viruses, is believed to be essential in cancer pathogenicity, the potential contribution of the gut virome to PC remains largely unexplored. In this study, we conducted a comparative analysis of the gut viral compositional and functional profiles between PC patients and healthy controls, based on fecal metagenomes from two publicly available data sets comprising a total of 101 patients and 82 healthy controls. Our results revealed a decreasing trend in the gut virome diversity of PC patients with disease severity. We identified significant alterations in the overall viral structure of PC patients, with a meta-analysis revealing 219 viral operational taxonomic units (vOTUs) showing significant differences in relative abundance between patients and healthy controls. Among these, 65 vOTUs were enriched in PC patients, and 154 were reduced. Host prediction revealed that PC-enriched vOTUs preferentially infected bacterial members of Veillonellaceae, Enterobacteriaceae, Fusobacteriaceae, and Streptococcaceae, while PC-reduced vOTUs were more likely to infect Ruminococcaceae, Lachnospiraceae, Clostridiaceae, Oscillospiraceae, and Peptostreptococcaceae. Furthermore, we constructed random forest models based on the PC-associated vOTUs, achieving an optimal average area under the curve (AUC) of up to 0.879 for distinguishing patients from controls. Through additional 10 public cohorts, we demonstrated the reproducibility and high specificity of these viral signatures. Our study suggests that the gut virome may play a role in PC development and could serve as a promising target for PC diagnosis and therapeutic intervention. Future studies should further explore the underlying mechanisms of gut virus-bacteria interactions and validate the diagnostic models in larger and more diverse populations.
+## Metagenomic analysis reveals altered gut virome and diagnostic potential in pancreatic cancer
 
 [Source](https://doi.org/10.1002/jmv.29809)
 
-10.1002/jmv.29809
-
 ---
 
-## The tumor microbiome as a predictor of outcomes in patients with metastatic melanoma treated with immune checkpoint inhibitors.
- 17.07.2024, _CE Dravillas, SS Coleman, R Hoyd, G Caryotakis, L Denko, CHF Chan, ML Churchman, N Denko, RD Dodd, I Eljilany, S Hardikar, M Husain, AP Ikeguchi, N Jin, Q Ma, MD McCarter, AEG Osman, LA Robinson, EA Singer, G Tinoco, CM Ulrich, Y Zakharia, D Spakowicz, AA Tarhini, AC Tan_
-
-
-Emerging evidence supports the important role of the tumor microbiome in oncogenesis, cancer immune phenotype, cancer progression, and treatment outcomes in many malignancies. In this study, we investigated the metastatic melanoma tumor microbiome and potential roles in association with clinical outcomes, such as survival, in patients with metastatic disease treated with immune checkpoint inhibitors (ICIs). Baseline tumor samples were collected from 71 patients with metastatic melanoma before treatment with ICIs. Bulk RNA-seq was conducted on the formalin-fixed paraffin-embedded (FFPE) and fresh frozen (FF) tumor samples. Durable clinical benefit (primary clinical endpoint) following ICIs was defined as overall survival &gt;24 months and no change to the primary drug regimen (responders). We processed RNA-seq reads to carefully identify exogenous sequences using the {exotic} tool. The 71 patients with metastatic melanoma ranged in age from 24 to 83 years, 59% were male, and 55% survived &gt;24 months following the initiation of ICI treatment. Exogenous taxa were identified in the tumor RNA-seq, including bacteria, fungi, and viruses. We found differences in gene expression and microbe abundances in immunotherapy responsive versus non-responsive tumors. Responders showed significant enrichment of bacteriophage in the phylum Uroviricota, and non-responders showed enrichment of several bacteria including Campylobacter jejuni. These microbes correlated with immune-related gene expression signatures. Finally, we found that models for predicting prolonged survival with immunotherapy using both microbe abundances and gene expression outperformed models using either dataset alone. Our findings warrant further investigation and potentially support therapeutic strategies to modify the tumor microbiome in order to improve treatment outcomes with ICIs.
+## The tumor microbiome as a predictor of outcomes in patients with metastatic melanoma treated with immune checkpoint inhibitors
 
 [Source](https://doi.org/10.1158/2767-9764.CRC-23-0170)
 
-10.1158/2767-9764.CRC-23-0170
-
 ---
 
-## Gut microbiome diversity within Clostridia is negatively associated with human obesity.
- 16.07.2024, _L Salazar-Jaramillo, J de la Cuesta-Zuluaga, LA Chica, M Cadavid, RE Ley, A Reyes, JS Escobar_
-
-
-Clostridia are abundant in the human gut and comprise families associated with host health such as Oscillospiraceae, which has been correlated with leanness. However, culturing bacteria within this family is challenging, leading to their detection primarily through 16S rRNA amplicon sequencing, which has a limited ability to unravel diversity at low taxonomic levels, or by shotgun metagenomics, which is hindered by its high costs and complexity. In this cross-sectional study involving 114 Colombian adults, we used an amplicon-based sequencing strategy with alternative markers-gyrase subunit B (gyrB) and DNA K chaperone heat protein 70 (dnaK)-that evolve faster than the 16S rRNA gene. Comparing the diversity and abundance observed with the three markers in our cohort, we found a reduction in the diversity of Clostridia, particularly within Lachnospiraceae and Oscillospiraceae among obese individuals [as measured by the body mass index (BMI)]. Within Lachnospiraceae, the diversity of Ruminococcus_A negatively correlated with BMI. Within Oscillospiraceae, the genera CAG-170 and Vescimonas also exhibited this negative correlation. In addition, the abundance of Vescimonas was negatively correlated with BMI. Leveraging shotgun metagenomic data, we conducted a phylogenetic and genomic characterization of 120 metagenome-assembled genomes from Vescimonas obtained from a larger sample of the same cohort. We identified 17 of the 72 reported species. The functional annotation of these genomes showed the presence of multiple carbohydrate-active enzymes, particularly glycosyl transferases and glycoside hydrolases, suggesting potential beneficial roles in fiber degradation, carbohydrate metabolism, and butyrate production.
+## Gut microbiome diversity within Clostridia is negatively associated with human obesity
 
 [Source](https://doi.org/10.1128/msystems.00627-24)
-
-10.1128/msystems.00627-24
 
 ---
 
@@ -135,15 +116,15 @@ Potential of salivary microbiota as a non-invasive diagnostic tool for various d
 
 ---
 
-## Construction of a multi-tissue compound-target interaction network of Qingfei Paidu decoction in COVID-19 treatment based on deep learning and transcriptomic analysis.
- 22.07.2024, _X Li, X Zhao, X Yu, J Zhao, X Fang_
+## Alcohol abuse and discretionary habits in psoriatic patients: impact on IL-17 and IL-23 inhibitor response.
+ 22.07.2024, _L Mastorino, R Daniele, P Dapavo, G Frigatti, R Ponti, I Giunipero di Corteranzo, E Bongiovanni, P Quaglino, S Ribero_
 
 
-The Qingfei Paidu decoction (QFPDD) is a widely acclaimed therapeutic formula employed nationwide for the clinical management of coronavirus disease 2019 (COVID-19). QFPDD exerts a synergistic therapeutic effect, characterized by its multi-component, multi-target, and multi-pathway action. However, the intricate interactions among the ingredients and targets within QFPDD and their systematic effects in multiple tissues remain undetermined. To address this, we qualitatively characterized the chemical components of QFPDD. We integrated multi-tissue transcriptomic analysis with GraphDTA, a deep learning model, to screen for potential compound-target interactions of QFPDD in multiple tissues. We predicted 13 key active compounds, 127 potential targets and 27 pathways associated with QFPDD across six different tissues. Notably, oleanolic acid-AXL exhibited leading affinity in the heart, blood, and liver. Molecular docking and molecular dynamics simulation confirmed their strong binding affinity. The robust interaction between oleanolic acid and the AXL receptor suggests that AXL is a promising target for developing clinical intervention strategies. Through the construction of a multi-tissue compound-target interaction network, our study further elucidated the mechanisms through which QFPDD effectively combats COVID-19 in multiple tissues. Our work also establishes a framework for future investigations into the systemic effects of other Traditional Chinese Medicine (TCM) formulas in disease treatment.
+Alcohol abuse is correlated with the onset and worsening of psoriasis, but its effects, as for smoking, on biological therapies are still poorly investigated.
 
 [Source](https://doi.org/10.1038/s41522-024-00528-2)
 
-10.1142/S0219720024500161
+10.1111/ddg.15441
 
 ---
 
@@ -214,9 +195,10 @@ PM2.5 exposure has been found to cause gut dysbiosis and impair glucose homeosta
 ---
 
 ## Domestication and evolutionary histories of specialized gut symbionts across cephalotine ants.
- 15.07.2024, _C Cabuslay, JT Wertz, B Béchade, Y Hu, S Braganza, D Freeman, S Pradhan, M Mukhanova, S Powell, C Moreau, JA Russell_
+ 22.07.2024, _C Cabuslay, JT Wertz, B Béchade, Y Hu, S Braganza, D Freeman, S Pradhan, M Mukhanova, S Powell, C Moreau, JA Russell_
 
 
+_Animals, Symbiosis, Ants, Phylogeny, RNA, Ribosomal, 16S, Domestication, Gastrointestinal Microbiome, Bacteria, Biological Evolution_
 The evolution of animals and their gut symbionts is a complex phenomenon, obscured by lability and diversity. In social organisms, transmission of symbionts among relatives may yield systems with more stable associations. Here, we study the history of a social insect symbiosis involving cephalotine ants and their extracellular gut bacteria, which come predominantly from host-specialized lineages. We perform multi-locus phylogenetics for symbionts from nine bacterial orders, and map prior amplicon sequence data to lineage-assigned symbiont genomes, studying distributions of rigorously defined symbionts across 20 host species. Based on monophyly and additional hypothesis testing, we estimate that these specialized gut bacteria belong to 18 distinct lineages, of which 15 have been successfully isolated and cultured. Several symbiont lineages showed evidence for domestication events that occurred later in cephalotine evolutionary history, and only one lineage was ubiquitously detected in all 20 host species and 48 colonies sampled with amplicon 16S rRNA sequencing. We found evidence for phylogenetically constrained distributions in four symbionts, suggesting historical or genetic impacts on community composition. Two lineages showed evidence for frequent intra-lineage co-infections, highlighting the potential for niche divergence after initial domestication. Nearly all symbionts showed evidence for occasional host switching, but four may, more often, co-diversify with their hosts. Through our further assessment of symbiont localization and genomic functional profiles, we demonstrate distinct niches for symbionts with shared evolutionary histories, prompting further questions on the forces underlying the evolution of hosts and their gut microbiomes.
 
 [Source](https://doi.org/10.1111/mec.17454)
