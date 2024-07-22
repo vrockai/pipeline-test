@@ -22,104 +22,51 @@ Numerous studies have reported critical roles for the gut microbiota in obesity.
 
 ---
 
-## Metagenomic analysis reveals altered gut virome and diagnostic potential in pancreatic cancer.
- 17.07.2024, _P Zhang, H Shi, R Guo, L Li, X Guo, H Yang, D Chang, Y Cheng, G Zhao, S Li, Q Zhong, H Zhang, P Zhao, C Fu, Y Song, L Yang, Y Wang, Y Zhang, J Jiang, T Wang, J Zhao, Y Li, B Wang, F Chen, H Zhao, Y Wang, J Wang, S Ma_
-
-
-_Humans, Pancreatic Neoplasms, Gastrointestinal Microbiome, Virome, Metagenomics, Feces, Viruses, Metagenome, Bacteria, Middle Aged, Male, Female, Aged, Case-Control Studies_
-Pancreatic cancer (PC) is a highly aggressive malignancy with a poor prognosis, making early diagnosis crucial for improving patient outcomes. While the gut microbiome, including bacteria and viruses, is believed to be essential in cancer pathogenicity, the potential contribution of the gut virome to PC remains largely unexplored. In this study, we conducted a comparative analysis of the gut viral compositional and functional profiles between PC patients and healthy controls, based on fecal metagenomes from two publicly available data sets comprising a total of 101 patients and 82 healthy controls. Our results revealed a decreasing trend in the gut virome diversity of PC patients with disease severity. We identified significant alterations in the overall viral structure of PC patients, with a meta-analysis revealing 219 viral operational taxonomic units (vOTUs) showing significant differences in relative abundance between patients and healthy controls. Among these, 65 vOTUs were enriched in PC patients, and 154 were reduced. Host prediction revealed that PC-enriched vOTUs preferentially infected bacterial members of Veillonellaceae, Enterobacteriaceae, Fusobacteriaceae, and Streptococcaceae, while PC-reduced vOTUs were more likely to infect Ruminococcaceae, Lachnospiraceae, Clostridiaceae, Oscillospiraceae, and Peptostreptococcaceae. Furthermore, we constructed random forest models based on the PC-associated vOTUs, achieving an optimal average area under the curve (AUC) of up to 0.879 for distinguishing patients from controls. Through additional 10 public cohorts, we demonstrated the reproducibility and high specificity of these viral signatures. Our study suggests that the gut virome may play a role in PC development and could serve as a promising target for PC diagnosis and therapeutic intervention. Future studies should further explore the underlying mechanisms of gut virus-bacteria interactions and validate the diagnostic models in larger and more diverse populations.
+## Metagenomic analysis reveals altered gut virome and diagnostic potential in pancreatic cancer
 
 [Source](https://doi.org/10.1002/jmv.29809)
 
-10.1002/jmv.29809
-
 ---
 
-## The tumor microbiome as a predictor of outcomes in patients with metastatic melanoma treated with immune checkpoint inhibitors.
- 17.07.2024, _CE Dravillas, SS Coleman, R Hoyd, G Caryotakis, L Denko, CHF Chan, ML Churchman, N Denko, RD Dodd, I Eljilany, S Hardikar, M Husain, AP Ikeguchi, N Jin, Q Ma, MD McCarter, AEG Osman, LA Robinson, EA Singer, G Tinoco, CM Ulrich, Y Zakharia, D Spakowicz, AA Tarhini, AC Tan_
-
-
-Emerging evidence supports the important role of the tumor microbiome in oncogenesis, cancer immune phenotype, cancer progression, and treatment outcomes in many malignancies. In this study, we investigated the metastatic melanoma tumor microbiome and potential roles in association with clinical outcomes, such as survival, in patients with metastatic disease treated with immune checkpoint inhibitors (ICIs). Baseline tumor samples were collected from 71 patients with metastatic melanoma before treatment with ICIs. Bulk RNA-seq was conducted on the formalin-fixed paraffin-embedded (FFPE) and fresh frozen (FF) tumor samples. Durable clinical benefit (primary clinical endpoint) following ICIs was defined as overall survival &gt;24 months and no change to the primary drug regimen (responders). We processed RNA-seq reads to carefully identify exogenous sequences using the {exotic} tool. The 71 patients with metastatic melanoma ranged in age from 24 to 83 years, 59% were male, and 55% survived &gt;24 months following the initiation of ICI treatment. Exogenous taxa were identified in the tumor RNA-seq, including bacteria, fungi, and viruses. We found differences in gene expression and microbe abundances in immunotherapy responsive versus non-responsive tumors. Responders showed significant enrichment of bacteriophage in the phylum Uroviricota, and non-responders showed enrichment of several bacteria including Campylobacter jejuni. These microbes correlated with immune-related gene expression signatures. Finally, we found that models for predicting prolonged survival with immunotherapy using both microbe abundances and gene expression outperformed models using either dataset alone. Our findings warrant further investigation and potentially support therapeutic strategies to modify the tumor microbiome in order to improve treatment outcomes with ICIs.
+## The tumor microbiome as a predictor of outcomes in patients with metastatic melanoma treated with immune checkpoint inhibitors
 
 [Source](https://doi.org/10.1158/2767-9764.CRC-23-0170)
 
-10.1158/2767-9764.CRC-23-0170
-
 ---
 
-## Gut microbiome diversity within Clostridia is negatively associated with human obesity.
- 16.07.2024, _L Salazar-Jaramillo, J de la Cuesta-Zuluaga, LA Chica, M Cadavid, RE Ley, A Reyes, JS Escobar_
-
-
-Clostridia are abundant in the human gut and comprise families associated with host health such as Oscillospiraceae, which has been correlated with leanness. However, culturing bacteria within this family is challenging, leading to their detection primarily through 16S rRNA amplicon sequencing, which has a limited ability to unravel diversity at low taxonomic levels, or by shotgun metagenomics, which is hindered by its high costs and complexity. In this cross-sectional study involving 114 Colombian adults, we used an amplicon-based sequencing strategy with alternative markers-gyrase subunit B (gyrB) and DNA K chaperone heat protein 70 (dnaK)-that evolve faster than the 16S rRNA gene. Comparing the diversity and abundance observed with the three markers in our cohort, we found a reduction in the diversity of Clostridia, particularly within Lachnospiraceae and Oscillospiraceae among obese individuals [as measured by the body mass index (BMI)]. Within Lachnospiraceae, the diversity of Ruminococcus_A negatively correlated with BMI. Within Oscillospiraceae, the genera CAG-170 and Vescimonas also exhibited this negative correlation. In addition, the abundance of Vescimonas was negatively correlated with BMI. Leveraging shotgun metagenomic data, we conducted a phylogenetic and genomic characterization of 120 metagenome-assembled genomes from Vescimonas obtained from a larger sample of the same cohort. We identified 17 of the 72 reported species. The functional annotation of these genomes showed the presence of multiple carbohydrate-active enzymes, particularly glycosyl transferases and glycoside hydrolases, suggesting potential beneficial roles in fiber degradation, carbohydrate metabolism, and butyrate production.
+## Gut microbiome diversity within Clostridia is negatively associated with human obesity
 
 [Source](https://doi.org/10.1128/msystems.00627-24)
 
-10.1128/msystems.00627-24
-
 ---
 
-## Early depletion of gut microbiota shape oligodendrocyte response after traumatic brain injury.
- 18.07.2024, _K Shumilov, A Ni, M Garcia-Bonilla, M Celorrio, SH Friess_
-
-
-_Animals, Brain Injuries, Traumatic, Oligodendroglia, Gastrointestinal Microbiome, Mice, Mice, Inbred C57BL, Cell Proliferation, Male, T-Lymphocytes, Cells, Cultured_
-White matter injury (WMI) is thought to be a major contributor to long-term cognitive dysfunctions after traumatic brain injury (TBI). This damage occurs partly due to apoptotic death of oligodendrocyte lineage cells (OLCs) after the injury, triggered directly by the trauma or in response to degenerating axons. Recent research suggests that the gut microbiota modulates the inflammatory response through the regulation of peripheral immune cell infiltration after TBI. Additionally, T-cells directly impact OLCs differentiation and proliferation. Therefore, we hypothesized that the gut microbiota plays a critical role in regulating the OLC response to WMI influencing T-cells differentiation and activation. Gut microbial depletion early after TBI chronically reduced re-myelination, acutely decreased OLCs proliferation, and was associated with increased myelin debris accumulation. Surprisingly, the absence of T-cells in gut microbiota depleted mice restored OLC proliferation and remyelination after TBI. OLCs co-cultured with T-cells derived from gut microbiota depleted mice resulted in impaired proliferation and increased expression of MHC-II compared with T cells from control-injured mice. Furthermore, MHC-II expression in OLCs appears to be linked to impaired proliferation under gut microbiota depletion and TBI conditions. Collectively our data indicates that depletion of the gut microbiota after TBI impaired remyelination, reduced OLCs proliferation with concomitantly increased OLC MHCII expression, and required the presence of T cells. This data suggests that T cells are an important mechanistic link by which the gut microbiota modulate the oligodendrocyte response and white matter recovery after TBI.
+## Early depletion of gut microbiota shape oligodendrocyte response after traumatic brain injury
 
 [Source](https://doi.org/10.1186/s12974-024-03158-9)
 
-10.1186/s12974-024-03158-9
-
 ---
 
-## Effect of progestin-based contraceptives on HIV-associated vaginal immune biomarkers and microbiome in adolescent girls.
- 17.07.2024, _MA Nasr, A Aldous, J Daniels, C Joy, E Capozzi, M Yang, P Moriarty, V Emmanuel-Baker, S Malcolm, SJ Green, V Gomez-Lobo, M Ghosh_
-
-
-_Humans, Female, Adolescent, Vagina, HIV Infections, Microbiota, Biomarkers, Medroxyprogesterone Acetate, Young Adult, Levonorgestrel, Desogestrel, Contraceptive Agents, Female, Longitudinal Studies, Progestins, Elafin_
-Adolescent girls bear a disproportionate burden of both the HIV epidemic and unintended pregnancies; yet important questions remain unanswered regarding the effects of hormonal contraceptives on the vaginal immune microenvironment, which can impact HIV susceptibility in this group. Multiple studies report genital immune alterations associated with the progestin-based contraceptive Depot medroxyprogesterone acetate (DMPA) in adult women, but there is little available data in adolescents. The objective of this longitudinal cohort study was to evaluate the effects of short-term use of three progestin-based contraceptives, levonorgestrel intrauterine device (LNG-IUD), subdermal etonogestrel (ETNG), and injectable DMPA, on HIV-associated vaginal immune biomarkers and microbiome in adolescent girls. Fifty-nine sexually active, HIV-uninfected girls aged 15-19, were recruited from the Washington DC metro area and self-selected into Control (condoms only), combined oral contraceptive pills, LNG-IUD, ETNG and DMPA groups. Vaginal swabs were collected at baseline prior to contraceptive use and at 3-month follow-up visit. Vaginal secretions were tested for pro-inflammatory (IL-1α, IL-1β, TNF-α, IL-6, IL-8, MIP-3α, IP-10, RANTES, MIP-1α, MIP-1β) and anti-inflammatory/anti-HIV (Serpin-A1, Elafin, Beta-Defensin-2, SLPI) immune biomarkers using ELISA and for anti-HIV activity using TZM-bl assay. Vaginal microbiome was evaluated using 16S rRNA gene sequencing. Data were analyzed using SAS Version 9. Among the 34 participants who completed both visits, no significant changes in median biomarker concentrations, HIV inhibition and microbiome composition were observed between baseline and follow-up visits for any of the contraceptive groups. IL-8 (p&lt;0.01), MIP-3α (0.02), Elafin (p = 0.03) and RANTES (p&lt;0.01) differed significantly by race whereas IL-6 was significantly different by age (p = 0.03). We conclude that 3-month use of LNG-IUD, ETNG and DMPA have minimal effects on adolescent vaginal immune microenvironment, and therefore unlikely to impact HIV risk. Future studies with larger sample size and longer follow-up are recommended to continue to evaluate effects of contraceptives on the lower genital tract immunity and susceptibility to sexually transmitted infections.
+## Effect of progestin-based contraceptives on HIV-associated vaginal immune biomarkers and microbiome in adolescent girls
 
 [Source](https://doi.org/10.1371/journal.pone.0306237)
 
-10.1371/journal.pone.0306237
-
 ---
 
-## Microbiome and pancreatic cancer: time to think about chemotherapy.
- 20.07.2024, _J de Castilhos, K Tillmanns, J Blessing, A Laraño, V Borisov, CK Stein-Thoeringer_
-
-
-_Humans, Pancreatic Neoplasms, Gastrointestinal Microbiome, Carcinoma, Pancreatic Ductal, Tumor Microenvironment, Antineoplastic Agents, Animals, Bacteria, Precision Medicine, Drug Resistance, Neoplasm_
-Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive cancer characterized by late diagnosis, rapid progression, and a high mortality rate. Its complex biology, characterized by a dense, stromal tumor environment with an immunosuppressive milieu, contributes to resistance against standard treatments like chemotherapy and radiation. This comprehensive review explores the dynamic role of the microbiome in modulating chemotherapy efficacy and outcomes in PDAC. It delves into the microbiome's impact on drug metabolism and resistance, and the interaction between microbial elements, drugs, and human biology. We also highlight the significance of specific bacterial species and microbial enzymes in influencing drug action and the immune response in the tumor microenvironment. Cutting-edge methodologies, including artificial intelligence, low-biomass microbiome analysis and patient-derived organoid models, are discussed, offering insights into the nuanced interactions between microbes and cancer cells. The potential of microbiome-based interventions as adjuncts to conventional PDAC treatments are discussed, paving the way for personalized therapy approaches. This review synthesizes recent research to provide an in-depth understanding of how the microbiome affects chemotherapy efficacy. It focuses on elucidating key mechanisms and identifying existing knowledge gaps. Addressing these gaps is crucial for enhancing personalized medicine and refining cancer treatment strategies, ultimately improving patient outcomes.
+## Microbiome and pancreatic cancer: time to think about chemotherapy
 
 [Source](https://doi.org/10.1080/19490976.2024.2374596)
 
-10.1080/19490976.2024.2374596
-
 ---
 
-## Host control of the microbiome: Mechanisms, evolution, and disease.
- 19.07.2024, _J Wilde, E Slack, KR Foster_
-
-
-_Animals, Humans, Biological Evolution, Homeostasis, Host Microbial Interactions, Microbiota, Selection, Genetic, Symbiosis_
-Many species, including humans, host communities of symbiotic microbes. There is a vast literature on the ways these microbiomes affect hosts, but here we argue for an increased focus on how hosts affect their microbiomes. Hosts exert control over their symbionts through diverse mechanisms, including immunity, barrier function, physiological homeostasis, and transit. These mechanisms enable hosts to shape the ecology and evolution of microbiomes and generate natural selection for microbial traits that benefit the host. Our microbiomes result from a perpetual tension between host control and symbiont evolution, and we can leverage the host's evolved abilities to regulate the microbiota to prevent and treat disease. The study of host control will be central to our ability to both understand and manipulate microbiotas for better health.
+## Host control of the microbiome: Mechanisms, evolution, and disease
 
 [Source](https://doi.org/10.1126/science.adi3338)
 
-10.1126/science.adi3338
-
 ---
 
-## Connecting microbial community assembly and function.
- 17.07.2024, _LS Bittleston_
-
-
-Microbial ecology is moving away from purely descriptive analyses to experiments that can determine the underlying mechanisms driving changes in community assembly and function. More species-rich microbial communities generally have higher functional capabilities depending on if there is positive selection of certain species or complementarity among different species. When building synthetic communities or laboratory enrichment cultures, there are specific choices that can increase the number of species able to coexist. Higher resource complexity or the addition of physical niches are two of the many factors leading to greater biodiversity and associated increases in functional capabilities. We can use principles from community ecology and knowledge of microbial physiology to generate improved microbiomes for use in medicine, agriculture, or environmental management.
+## Connecting microbial community assembly and function
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S1369527424000882?via%3Dihub)
-
-10.1016/j.mib.2024.102512
 
 ---
 
@@ -135,15 +82,16 @@ Potential of salivary microbiota as a non-invasive diagnostic tool for various d
 
 ---
 
-## Tumor micro-environment induced TRAIL secretion from engineered macrophages for anti-tumor therapy.
- 20.07.2024, _Q Zhu, X Huang, B Deng, L Guan, H Zhou, B Shi, J Liu, X Shan, X Fang, F Xu, H Li, X Liu, X Yin, L Zhang_
+## Biomarker Identification for Preterm Birth Susceptibility: Vaginal Microbiome Meta-Analysis Using Systems Biology and Machine Learning Approaches.
+ 21.07.2024, _S Kulshrestha, P Narad, B Singh, SS Pai, P Vijayaraghavan, A Tandon, P Gupta, D Modi, A Sengupta_
 
 
-The high plasticity and long-term persistency make macrophages excellent vehicles for delivering anti-tumor cytokines. Macrophage delivery of chemokines and cytokines shows potential in tumor therapy. TRAIL, a promising anti-tumor cytokine, induces apoptosis in tumor cells with low toxicity to normal cells. However, its off-target toxicity and limited stability have limited its clinical progress. Here, we engineered macrophages with Mono-TRAIL and Tri-TRAIL and found that Tri-TRAIL had higher cytotoxic activity against tumor cells than Mono-TRAIL in vitro. To target the tumor microenvironment (TME), we generated macrophages secreting trimeric TRAIL (Tri-TRAIL-iM) induced by the TME-specific promoter Arg1. The Tri-TRAIL-iM cells displayed high specific activatable activity in cell-based co-culture assay and tumor-baring mice models. In addition, we demonstrated that compared to macrophages over-expressing TRAIL under a non-inducible promoter, Tri-TRAIL-iM could more effectively induce apoptosis in cancer cells, inhibit tumor growth, and reduce systemic side effects. This strategy of inducing TRAIL delivery holds great potential for cancer therapy. It is promising to be combined with other engineering methods to maximize the therapeutic effects of solid tumors.
+_Humans, Female, Vagina, Premature Birth, Microbiota, Machine Learning, Pregnancy, RNA, Ribosomal, 16S, Systems Biology, Biomarkers, Disease Susceptibility, Infant, Newborn_
+The vaginal microbiome has a substantial role in the occurrence of preterm birth (PTB), which contributes substantially to neonatal mortality worldwide. However, current bioinformatics approaches mostly concentrate on the taxonomic classification and functional profiling of the microbiome, limiting their abilities to elucidate the complex factors that contribute to PTB.
 
 [Source](https://doi.org/10.1038/s41522-024-00528-2)
 
-10.1016/j.cellimm.2024.104857
+10.1111/aji.13905
 
 ---
 
@@ -177,63 +125,33 @@ Childhood obesity is a crucial public health concern worldwide. Dietary interven
 
 ---
 
-## Metatranscriptomics reveals microbial community function succession and characteristic flavor formation mechanisms during black rice wine fermentation.
- 18.07.2024, _A Tang, B Peng_
-
-
-Black rice wine (BRW) is a traditional Chinese rice wine with unique flavors; however, the formation pathways of flavor compounds driven by microbiota remain unclear. This study employed HPLC and GC-MS to reveal that during BRW fermentation, free amino acids increased sevenfold, volatile compounds doubled, and 28 key characteristic flavor compounds were identified. Metatranscriptomic analysis indicated that during fermentation, driven by physicochemical factors and microbial interactions, Saccharomyces gradually became the dominant active microorganism (relative abundance 87.01%-97.70%). Other dominant microorganisms (relative abundance &gt;0.1%), including Saccharomycopsis, Pediococcus, Wickerhamomyces, and Weissella, significantly decreased. Meanwhile, the microflora's signature functions underwent succession: transcription early, carbohydrate metabolism mid-stage, and autophagy late. These microbial and functional successions facilitated the accumulation of flavor compounds. Metabolic network reconstruction revealed that Saccharomyces was pivotal in substrate degradation and flavor formation, while other dominant microorganisms actively promoted these processes. This study provides insights into regulating BRW's flavor through microorganisms.
+## Metatranscriptomics reveals microbial community function succession and characteristic flavor formation mechanisms during black rice wine fermentation
 
 [Source](https://doi.org/10.1016/j.foodchem.2024.140428)
 
-10.1016/j.foodchem.2024.140428
-
 ---
 
-## Gα13 restricts nutrient driven proliferation in mucosal germinal centers.
- 19.07.2024, _HT Nguyen, M Li, R Vadakath, KA Henke, TC Tran, H Li, M Yamadi, S Darbha, Y Yang, J Kabat, AR Albright, EG Centeno, JD Phelan, S Roulland, DW Huang, MC Kelly, RM Young, S Pittaluga, S Difilippantonio, JR Muppidi_
-
-
-Germinal centers (GCs) that form in mucosal sites are exposed to gut-derived factors that have the potential to influence homeostasis independent of antigen receptor-driven selective processes. The G-protein Gα13 confines B cells to the GC and limits the development of GC-derived lymphoma. We discovered that Gα13-deficiency fuels the GC reaction via increased mTORC1 signaling and Myc protein expression specifically in the mesenteric lymph node (mLN). The competitive advantage of Gα13-deficient GC B cells (GCBs) in mLN was not dependent on T cell help or gut microbiota. Instead, Gα13-deficient GCBs were selectively dependent on dietary nutrients likely due to greater access to gut lymphatics. Specifically, we found that diet-derived glutamine supported proliferation and Myc expression in Gα13-deficient GCBs in the mLN. Thus, GC confinement limits the effects of dietary glutamine on GC dynamics in mucosal tissues. Gα13 pathway mutations coopt these processes to promote the gut tropism of aggressive lymphoma.
+## Gα13 restricts nutrient driven proliferation in mucosal germinal centers
 
 [Source](https://doi.org/10.1038/s41590-024-01910-0)
 
-10.1038/s41590-024-01910-0
-
 ---
 
-## Gut microbiota mediates ambient PM2.5 exposure-induced abnormal glucose metabolism via short-chain fatty acids.
- 12.07.2024, _W Shao, B Pan, Z Li, R Peng, W Yang, Y Xie, D Han, X Fang, J Li, Y Zhu, Z Zhao, H Kan, Z Ying, Y Xu_
-
-
-PM2.5 exposure has been found to cause gut dysbiosis and impair glucose homeostasis in human and animals, yet their underlying biological connection remain unclear. In the present study, we aim to investigate the biological significance of gut microbiota in PM2.5-induced glucose metabolic abnormalities. Our results showed that microbiota depletion by antibiotics treatment significantly alleviated PM2.5-induced glucose intolerance and insulin resistance, as indicated by the intraperitoneal glucose tolerance test, glucose-induced insulin secretion, insulin tolerance test, insulin-induced phosphorylation levels of Akt and GSK-3β in insulin sensitive tissues. In addition, faecal microbiota transplantation (FMT) from PM2.5-exposed donor mice successfully remodeled the glucose metabolism abnormalities in recipient mice, while the transplantation of autoclaved faecal materials did not. Faecal microbiota analysis demonstrated that the composition and alpha diversity of the gut bacterial community were altered by PM2.5 exposure and in FMT recipient mice. Furthermore, short-chain fatty acids levels analysis showed that the circulating acetate was significantly decreased in PM2.5-exposed donor and FMT recipient mice, and supplementation of sodium acetate for 3 months successfully improved the glucose metabolism abnormalities induced by PM2.5 exposure. These results indicate that manipulating gut microbiota or its metabolites could be a potential strategy for preventing the adverse health effects of ambient PM2.5.
+## Gut microbiota mediates ambient PM(2.5) exposure-induced abnormal glucose metabolism via short-chain fatty acids
 
 [Source](https://doi.org/10.1016/j.jhazmat.2024.135096)
 
-10.1016/j.jhazmat.2024.135096
-
 ---
 
-## Domestication and evolutionary histories of specialized gut symbionts across cephalotine ants.
- 15.07.2024, _C Cabuslay, JT Wertz, B Béchade, Y Hu, S Braganza, D Freeman, S Pradhan, M Mukhanova, S Powell, C Moreau, JA Russell_
-
-
-The evolution of animals and their gut symbionts is a complex phenomenon, obscured by lability and diversity. In social organisms, transmission of symbionts among relatives may yield systems with more stable associations. Here, we study the history of a social insect symbiosis involving cephalotine ants and their extracellular gut bacteria, which come predominantly from host-specialized lineages. We perform multi-locus phylogenetics for symbionts from nine bacterial orders, and map prior amplicon sequence data to lineage-assigned symbiont genomes, studying distributions of rigorously defined symbionts across 20 host species. Based on monophyly and additional hypothesis testing, we estimate that these specialized gut bacteria belong to 18 distinct lineages, of which 15 have been successfully isolated and cultured. Several symbiont lineages showed evidence for domestication events that occurred later in cephalotine evolutionary history, and only one lineage was ubiquitously detected in all 20 host species and 48 colonies sampled with amplicon 16S rRNA sequencing. We found evidence for phylogenetically constrained distributions in four symbionts, suggesting historical or genetic impacts on community composition. Two lineages showed evidence for frequent intra-lineage co-infections, highlighting the potential for niche divergence after initial domestication. Nearly all symbionts showed evidence for occasional host switching, but four may, more often, co-diversify with their hosts. Through our further assessment of symbiont localization and genomic functional profiles, we demonstrate distinct niches for symbionts with shared evolutionary histories, prompting further questions on the forces underlying the evolution of hosts and their gut microbiomes.
+## Domestication and evolutionary histories of specialized gut symbionts across cephalotine ants
 
 [Source](https://doi.org/10.1111/mec.17454)
 
-10.1111/mec.17454
-
 ---
 
-## The interplay between gut symbionts and behavioral variation in social insects.
- 17.07.2024, _J Liberti, P Engel, A Cabirol_
-
-
-Social insects exhibit a high degree of intraspecific behavioral variation. Moreover, they often harbor specialized microbial communities in their gut. Recent studies suggest that these two characteristics of social insects are interlinked: insect behavioral phenotypes affect their gut microbiota composition, partly through exposure to different environments and diet, and in return, the gut microbiota has been shown to influence insect behavior. Here we discuss the bidirectional relationship existing between intraspecific variation in gut microbiota composition and behavioral phenotypes in social insects.
+## The interplay between gut symbionts and behavioral variation in social insects
 
 [Source](https://doi.org/10.1016/j.cois.2024.101233)
-
-10.1016/j.cois.2024.101233
 
 ---
 
@@ -361,7 +279,7 @@ The incidence of early-onset colorectal cancer (eoCRC) is rising, and its pathog
 ---
 
 ## 3D printed rectal swabs for assessing the gut microbiome, metabolome and inflammation.
- 20.07.2024, _RW Perry, BH Mullish, JL Alexander, R Shah, NP Danckert, JM Blanco, L Roberts, Z Liu, D Chrysostomou, ST Radhakrishnan, S Balarajah, R Barry, LC Hicks, HRT Williams, JR Marchesi_
+ 21.07.2024, _RW Perry, BH Mullish, JL Alexander, R Shah, NP Danckert, JM Blanco, L Roberts, Z Liu, D Chrysostomou, ST Radhakrishnan, S Balarajah, R Barry, LC Hicks, HRT Williams, JR Marchesi_
 
 
 _Humans, Gastrointestinal Microbiome, Feces, Metabolome, Inflammatory Bowel Diseases, Printing, Three-Dimensional, RNA, Ribosomal, 16S, Male, Female, Adult, Rectum, Leukocyte L1 Antigen Complex, Inflammation, Middle Aged, Specimen Handling_
