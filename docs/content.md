@@ -52,65 +52,27 @@ Numerous studies have reported critical roles for the gut microbiota in obesity.
 
 ---
 
-## Microbiome and pancreatic cancer: time to think about chemotherapy.
- 21.07.2024, _J de Castilhos, K Tillmanns, J Blessing, A Laraño, V Borisov, CK Stein-Thoeringer_
-
-
-_Humans, Pancreatic Neoplasms, Gastrointestinal Microbiome, Carcinoma, Pancreatic Ductal, Tumor Microenvironment, Antineoplastic Agents, Animals, Bacteria, Precision Medicine, Drug Resistance, Neoplasm_
-Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive cancer characterized by late diagnosis, rapid progression, and a high mortality rate. Its complex biology, characterized by a dense, stromal tumor environment with an immunosuppressive milieu, contributes to resistance against standard treatments like chemotherapy and radiation. This comprehensive review explores the dynamic role of the microbiome in modulating chemotherapy efficacy and outcomes in PDAC. It delves into the microbiome's impact on drug metabolism and resistance, and the interaction between microbial elements, drugs, and human biology. We also highlight the significance of specific bacterial species and microbial enzymes in influencing drug action and the immune response in the tumor microenvironment. Cutting-edge methodologies, including artificial intelligence, low-biomass microbiome analysis and patient-derived organoid models, are discussed, offering insights into the nuanced interactions between microbes and cancer cells. The potential of microbiome-based interventions as adjuncts to conventional PDAC treatments are discussed, paving the way for personalized therapy approaches. This review synthesizes recent research to provide an in-depth understanding of how the microbiome affects chemotherapy efficacy. It focuses on elucidating key mechanisms and identifying existing knowledge gaps. Addressing these gaps is crucial for enhancing personalized medicine and refining cancer treatment strategies, ultimately improving patient outcomes.
+## Microbiome and pancreatic cancer: time to think about chemotherapy
 
 [Source](https://doi.org/10.1080/19490976.2024.2374596)
 
-10.1080/19490976.2024.2374596
-
 ---
 
-## Host control of the microbiome: Mechanisms, evolution, and disease.
- 19.07.2024, _J Wilde, E Slack, KR Foster_
-
-
-_Animals, Humans, Biological Evolution, Homeostasis, Host Microbial Interactions, Microbiota, Selection, Genetic, Symbiosis_
-Many species, including humans, host communities of symbiotic microbes. There is a vast literature on the ways these microbiomes affect hosts, but here we argue for an increased focus on how hosts affect their microbiomes. Hosts exert control over their symbionts through diverse mechanisms, including immunity, barrier function, physiological homeostasis, and transit. These mechanisms enable hosts to shape the ecology and evolution of microbiomes and generate natural selection for microbial traits that benefit the host. Our microbiomes result from a perpetual tension between host control and symbiont evolution, and we can leverage the host's evolved abilities to regulate the microbiota to prevent and treat disease. The study of host control will be central to our ability to both understand and manipulate microbiotas for better health.
+## Host control of the microbiome: Mechanisms, evolution, and disease
 
 [Source](https://doi.org/10.1126/science.adi3338)
 
-10.1126/science.adi3338
-
 ---
 
-## Connecting microbial community assembly and function.
- 17.07.2024, _LS Bittleston_
-
-
-Microbial ecology is moving away from purely descriptive analyses to experiments that can determine the underlying mechanisms driving changes in community assembly and function. More species-rich microbial communities generally have higher functional capabilities depending on if there is positive selection of certain species or complementarity among different species. When building synthetic communities or laboratory enrichment cultures, there are specific choices that can increase the number of species able to coexist. Higher resource complexity or the addition of physical niches are two of the many factors leading to greater biodiversity and associated increases in functional capabilities. We can use principles from community ecology and knowledge of microbial physiology to generate improved microbiomes for use in medicine, agriculture, or environmental management.
+## Connecting microbial community assembly and function
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S1369527424000882?via%3Dihub)
 
-10.1016/j.mib.2024.102512
-
 ---
 
-## Microbiota of Saliva: A Non-invasive Diagnostic Tool.
- 17.07.2024, _DB Shinde, JG Mahore, PS Giram, SL Singh, A Sharda, D Choyan, S Musale_
-
-
-Potential of salivary microbiota as a non-invasive diagnostic tool for various diseases are explained in the present review. Traditional diagnostic methods rely on blood, which has limitations in terms of collection and biomarker specificity. We discuss the concept of normal flora and how disruptions in oral microbiota can be indicative of diseases. Saliva, harboring a diverse microbial community, offers promise as a diagnostic biomarker source for oral and non-oral conditions. We delve into the role of microbial dysbiosis in disease pathogenesis and the prospects of using biological indicators like dysbiosis for diagnosis, prediction, and monitoring. This review also emphasizes the significance of saliva microbiota in advancing early disease detection and timely intervention. We addressed the following research question and objectives: Can the microbiota of saliva serve as a non-invasive diagnostic tool for the early detection and monitoring of both oral and non-oral diseases? To achieve this, we will explore the normal flora of microorganisms in the oral cavity, the impact of microbial dysbiosis, and the potential of using specific pathogenic microorganisms as biomarkers. Additionally, we will investigate the correlation between oral and non-oral diseases by analyzing total saliva or site-specific dental biofilms for signs of symbiosis or dysbiosis. This research seeks to contribute valuable insights into the development of a non-invasive diagnostic approach with broad applications in healthcare.
+## Microbiota of Saliva: A Non-invasive Diagnostic Tool
 
 [Source](https://doi.org/10.1007/s12088-024-01219-4)
-
-10.1007/s12088-024-01219-4
-
----
-
-## Zoonotic Sporotrichosis outbreak: Emerging public health threat in the Amazon State, Brazil.
- 22.07.2024, _VA Mesquita, S Talhari, AL Leturiondo, GC de Souza, EM de Brito, SL de Andrade, DCL Fernandes, MZM Frota, RCDS Cruz, JAR Guimarães, HA Miot, C Talhari, VL Pedrosa_
-
-
-Sporotrichosis is the most common subcutaneous mycosis caused by Sporothrix spp. Traditionally, it is transmitted through injuries involving plant debris. However, over the past few decades, there has been an epidemic increase in human cases resulting from contact with infected animals, particularly cats, in various regions of Brazil. In this report, we report a notable increase in both human and animal cases within the Brazilian Amazon state.
-
-[Source](https://doi.org/10.1038/s41522-024-00528-2)
-
-10.1371/journal.pntd.0012328
 
 ---
 
@@ -120,15 +82,9 @@ Sporotrichosis is the most common subcutaneous mycosis caused by Sporothrix spp.
 
 ---
 
-## An improved diet-based nutritional interventions can improve childhood obesity with the synergistic regulation of gut microbiota.
- 16.07.2024, _M Zhou, C Peng, Z Miao, K Wang, H Zhou, Y Li, G Xiao, X Wu_
-
-
-Childhood obesity is a crucial public health concern worldwide. Dietary intervention is the most common intervention for the treatment of obesity. Therefore, we tested an improved diet-based nutritional interventions to improve the childhood obesity and its gut microbiota. Thirty obese children received a 12-week intervention with the adjust-energy-restricted dietary pattern (A-CRD). Body composition was measured by bioelectrical impedance (Inbody S10) and faecal microbes were profiled by sequencing 16S rRNA. Compared to the NTB group (at 0 week), the NTA group (at 12 weeks) had a significantly greater decrease in body weight, body mass index (BMI) and percent body fat (PBF) ( P &lt; 0.001, respectively), whereas skeletal muscle mass (SMM) and fat free mass (FFM) were not statistically significantly different ( P &gt; 0.05). The gut microbiota was found significantly different between the NTB and NTA groups based on alpha and beta diversity. Bifidobacterium, Blautia, and Streptococcus was significantly increased, whereas Bacteroides and Megamonas was significantly decreased in the NTA group ( P &lt; 0.05, respectively). Meanwhile, NTA group significantly increased the ability to produce short-chain fatty acids (SCFAs; e.g. acetic acid/total dietary energy) and changed he predictive metabolic functional features of the microbiota communities ( P &lt; 0.05, respectively) than the NTB group. In conclusion, A-CRD can significantly improve childhood obesity, and the underlying mechanism may be its effect on gut microbiota and metabolism. Therefore, the diet-based nutrition intervention targeting gut microbiota will be more effective management of body weight and prevention of obesity. Chinese Clinical Trial Register: ChiCTR2300074571.
+## An improved diet-based nutritional interventions can improve childhood obesity with the synergistic regulation of gut microbiota
 
 [Source](https://brill.com/view/journals/bm/aop/article-10.1163-18762891-bja00019/article-10.1163-18762891-bja00019.xml)
-
-10.1163/18762891-bja00019
 
 ---
 
@@ -162,21 +118,22 @@ Childhood obesity is a crucial public health concern worldwide. Dietary interven
 
 ---
 
-## Domestication and evolutionary histories of specialized gut symbionts across cephalotine ants
+## Domestication and evolutionary histories of specialized gut symbionts across cephalotine ants.
+ 22.07.2024, _C Cabuslay, JT Wertz, B Béchade, Y Hu, S Braganza, D Freeman, S Pradhan, M Mukhanova, S Powell, C Moreau, JA Russell_
+
+
+_Animals, Symbiosis, Ants, Phylogeny, RNA, Ribosomal, 16S, Domestication, Gastrointestinal Microbiome, Bacteria, Biological Evolution_
+The evolution of animals and their gut symbionts is a complex phenomenon, obscured by lability and diversity. In social organisms, transmission of symbionts among relatives may yield systems with more stable associations. Here, we study the history of a social insect symbiosis involving cephalotine ants and their extracellular gut bacteria, which come predominantly from host-specialized lineages. We perform multi-locus phylogenetics for symbionts from nine bacterial orders, and map prior amplicon sequence data to lineage-assigned symbiont genomes, studying distributions of rigorously defined symbionts across 20 host species. Based on monophyly and additional hypothesis testing, we estimate that these specialized gut bacteria belong to 18 distinct lineages, of which 15 have been successfully isolated and cultured. Several symbiont lineages showed evidence for domestication events that occurred later in cephalotine evolutionary history, and only one lineage was ubiquitously detected in all 20 host species and 48 colonies sampled with amplicon 16S rRNA sequencing. We found evidence for phylogenetically constrained distributions in four symbionts, suggesting historical or genetic impacts on community composition. Two lineages showed evidence for frequent intra-lineage co-infections, highlighting the potential for niche divergence after initial domestication. Nearly all symbionts showed evidence for occasional host switching, but four may, more often, co-diversify with their hosts. Through our further assessment of symbiont localization and genomic functional profiles, we demonstrate distinct niches for symbionts with shared evolutionary histories, prompting further questions on the forces underlying the evolution of hosts and their gut microbiomes.
 
 [Source](https://doi.org/10.1111/mec.17454)
 
+10.1111/mec.17454
+
 ---
 
-## The interplay between gut symbionts and behavioral variation in social insects.
- 17.07.2024, _J Liberti, P Engel, A Cabirol_
-
-
-Social insects exhibit a high degree of intraspecific behavioral variation. Moreover, they often harbor specialized microbial communities in their gut. Recent studies suggest that these two characteristics of social insects are interlinked: insect behavioral phenotypes affect their gut microbiota composition, partly through exposure to different environments and diet, and in return, the gut microbiota has been shown to influence insect behavior. Here we discuss the bidirectional relationship existing between intraspecific variation in gut microbiota composition and behavioral phenotypes in social insects.
+## The interplay between gut symbionts and behavioral variation in social insects
 
 [Source](https://doi.org/10.1016/j.cois.2024.101233)
-
-10.1016/j.cois.2024.101233
 
 ---
 
