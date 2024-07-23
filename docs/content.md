@@ -40,29 +40,15 @@ Numerous studies have reported critical roles for the gut microbiota in obesity.
 
 ---
 
-## Early depletion of gut microbiota shape oligodendrocyte response after traumatic brain injury.
- 18.07.2024, _K Shumilov, A Ni, M Garcia-Bonilla, M Celorrio, SH Friess_
-
-
-_Animals, Brain Injuries, Traumatic, Oligodendroglia, Gastrointestinal Microbiome, Mice, Mice, Inbred C57BL, Cell Proliferation, Male, T-Lymphocytes, Cells, Cultured_
-White matter injury (WMI) is thought to be a major contributor to long-term cognitive dysfunctions after traumatic brain injury (TBI). This damage occurs partly due to apoptotic death of oligodendrocyte lineage cells (OLCs) after the injury, triggered directly by the trauma or in response to degenerating axons. Recent research suggests that the gut microbiota modulates the inflammatory response through the regulation of peripheral immune cell infiltration after TBI. Additionally, T-cells directly impact OLCs differentiation and proliferation. Therefore, we hypothesized that the gut microbiota plays a critical role in regulating the OLC response to WMI influencing T-cells differentiation and activation. Gut microbial depletion early after TBI chronically reduced re-myelination, acutely decreased OLCs proliferation, and was associated with increased myelin debris accumulation. Surprisingly, the absence of T-cells in gut microbiota depleted mice restored OLC proliferation and remyelination after TBI. OLCs co-cultured with T-cells derived from gut microbiota depleted mice resulted in impaired proliferation and increased expression of MHC-II compared with T cells from control-injured mice. Furthermore, MHC-II expression in OLCs appears to be linked to impaired proliferation under gut microbiota depletion and TBI conditions. Collectively our data indicates that depletion of the gut microbiota after TBI impaired remyelination, reduced OLCs proliferation with concomitantly increased OLC MHCII expression, and required the presence of T cells. This data suggests that T cells are an important mechanistic link by which the gut microbiota modulate the oligodendrocyte response and white matter recovery after TBI.
+## Early depletion of gut microbiota shape oligodendrocyte response after traumatic brain injury
 
 [Source](https://doi.org/10.1186/s12974-024-03158-9)
 
-10.1186/s12974-024-03158-9
-
 ---
 
-## Effect of progestin-based contraceptives on HIV-associated vaginal immune biomarkers and microbiome in adolescent girls.
- 17.07.2024, _MA Nasr, A Aldous, J Daniels, C Joy, E Capozzi, M Yang, P Moriarty, V Emmanuel-Baker, S Malcolm, SJ Green, V Gomez-Lobo, M Ghosh_
-
-
-_Humans, Female, Adolescent, Vagina, HIV Infections, Microbiota, Biomarkers, Medroxyprogesterone Acetate, Young Adult, Levonorgestrel, Desogestrel, Contraceptive Agents, Female, Longitudinal Studies, Progestins, Elafin_
-Adolescent girls bear a disproportionate burden of both the HIV epidemic and unintended pregnancies; yet important questions remain unanswered regarding the effects of hormonal contraceptives on the vaginal immune microenvironment, which can impact HIV susceptibility in this group. Multiple studies report genital immune alterations associated with the progestin-based contraceptive Depot medroxyprogesterone acetate (DMPA) in adult women, but there is little available data in adolescents. The objective of this longitudinal cohort study was to evaluate the effects of short-term use of three progestin-based contraceptives, levonorgestrel intrauterine device (LNG-IUD), subdermal etonogestrel (ETNG), and injectable DMPA, on HIV-associated vaginal immune biomarkers and microbiome in adolescent girls. Fifty-nine sexually active, HIV-uninfected girls aged 15-19, were recruited from the Washington DC metro area and self-selected into Control (condoms only), combined oral contraceptive pills, LNG-IUD, ETNG and DMPA groups. Vaginal swabs were collected at baseline prior to contraceptive use and at 3-month follow-up visit. Vaginal secretions were tested for pro-inflammatory (IL-1α, IL-1β, TNF-α, IL-6, IL-8, MIP-3α, IP-10, RANTES, MIP-1α, MIP-1β) and anti-inflammatory/anti-HIV (Serpin-A1, Elafin, Beta-Defensin-2, SLPI) immune biomarkers using ELISA and for anti-HIV activity using TZM-bl assay. Vaginal microbiome was evaluated using 16S rRNA gene sequencing. Data were analyzed using SAS Version 9. Among the 34 participants who completed both visits, no significant changes in median biomarker concentrations, HIV inhibition and microbiome composition were observed between baseline and follow-up visits for any of the contraceptive groups. IL-8 (p&lt;0.01), MIP-3α (0.02), Elafin (p = 0.03) and RANTES (p&lt;0.01) differed significantly by race whereas IL-6 was significantly different by age (p = 0.03). We conclude that 3-month use of LNG-IUD, ETNG and DMPA have minimal effects on adolescent vaginal immune microenvironment, and therefore unlikely to impact HIV risk. Future studies with larger sample size and longer follow-up are recommended to continue to evaluate effects of contraceptives on the lower genital tract immunity and susceptibility to sexually transmitted infections.
+## Effect of progestin-based contraceptives on HIV-associated vaginal immune biomarkers and microbiome in adolescent girls
 
 [Source](https://doi.org/10.1371/journal.pone.0306237)
-
-10.1371/journal.pone.0306237
 
 ---
 
@@ -116,15 +102,15 @@ Potential of salivary microbiota as a non-invasive diagnostic tool for various d
 
 ---
 
-## Alcohol abuse and discretionary habits in psoriatic patients: impact on IL-17 and IL-23 inhibitor response.
- 22.07.2024, _L Mastorino, R Daniele, P Dapavo, G Frigatti, R Ponti, I Giunipero di Corteranzo, E Bongiovanni, P Quaglino, S Ribero_
+## Zoonotic Sporotrichosis outbreak: Emerging public health threat in the Amazon State, Brazil.
+ 22.07.2024, _VA Mesquita, S Talhari, AL Leturiondo, GC de Souza, EM de Brito, SL de Andrade, DCL Fernandes, MZM Frota, RCDS Cruz, JAR Guimarães, HA Miot, C Talhari, VL Pedrosa_
 
 
-Alcohol abuse is correlated with the onset and worsening of psoriasis, but its effects, as for smoking, on biological therapies are still poorly investigated.
+Sporotrichosis is the most common subcutaneous mycosis caused by Sporothrix spp. Traditionally, it is transmitted through injuries involving plant debris. However, over the past few decades, there has been an epidemic increase in human cases resulting from contact with infected animals, particularly cats, in various regions of Brazil. In this report, we report a notable increase in both human and animal cases within the Brazilian Amazon state.
 
 [Source](https://doi.org/10.1038/s41522-024-00528-2)
 
-10.1111/ddg.15441
+10.1371/journal.pntd.0012328
 
 ---
 
@@ -158,52 +144,27 @@ Childhood obesity is a crucial public health concern worldwide. Dietary interven
 
 ---
 
-## Metatranscriptomics reveals microbial community function succession and characteristic flavor formation mechanisms during black rice wine fermentation.
- 18.07.2024, _A Tang, B Peng_
-
-
-Black rice wine (BRW) is a traditional Chinese rice wine with unique flavors; however, the formation pathways of flavor compounds driven by microbiota remain unclear. This study employed HPLC and GC-MS to reveal that during BRW fermentation, free amino acids increased sevenfold, volatile compounds doubled, and 28 key characteristic flavor compounds were identified. Metatranscriptomic analysis indicated that during fermentation, driven by physicochemical factors and microbial interactions, Saccharomyces gradually became the dominant active microorganism (relative abundance 87.01%-97.70%). Other dominant microorganisms (relative abundance &gt;0.1%), including Saccharomycopsis, Pediococcus, Wickerhamomyces, and Weissella, significantly decreased. Meanwhile, the microflora's signature functions underwent succession: transcription early, carbohydrate metabolism mid-stage, and autophagy late. These microbial and functional successions facilitated the accumulation of flavor compounds. Metabolic network reconstruction revealed that Saccharomyces was pivotal in substrate degradation and flavor formation, while other dominant microorganisms actively promoted these processes. This study provides insights into regulating BRW's flavor through microorganisms.
+## Metatranscriptomics reveals microbial community function succession and characteristic flavor formation mechanisms during black rice wine fermentation
 
 [Source](https://doi.org/10.1016/j.foodchem.2024.140428)
 
-10.1016/j.foodchem.2024.140428
-
 ---
 
-## Gα13 restricts nutrient driven proliferation in mucosal germinal centers.
- 19.07.2024, _HT Nguyen, M Li, R Vadakath, KA Henke, TC Tran, H Li, M Yamadi, S Darbha, Y Yang, J Kabat, AR Albright, EG Centeno, JD Phelan, S Roulland, DW Huang, MC Kelly, RM Young, S Pittaluga, S Difilippantonio, JR Muppidi_
-
-
-Germinal centers (GCs) that form in mucosal sites are exposed to gut-derived factors that have the potential to influence homeostasis independent of antigen receptor-driven selective processes. The G-protein Gα13 confines B cells to the GC and limits the development of GC-derived lymphoma. We discovered that Gα13-deficiency fuels the GC reaction via increased mTORC1 signaling and Myc protein expression specifically in the mesenteric lymph node (mLN). The competitive advantage of Gα13-deficient GC B cells (GCBs) in mLN was not dependent on T cell help or gut microbiota. Instead, Gα13-deficient GCBs were selectively dependent on dietary nutrients likely due to greater access to gut lymphatics. Specifically, we found that diet-derived glutamine supported proliferation and Myc expression in Gα13-deficient GCBs in the mLN. Thus, GC confinement limits the effects of dietary glutamine on GC dynamics in mucosal tissues. Gα13 pathway mutations coopt these processes to promote the gut tropism of aggressive lymphoma.
+## Gα13 restricts nutrient driven proliferation in mucosal germinal centers
 
 [Source](https://doi.org/10.1038/s41590-024-01910-0)
 
-10.1038/s41590-024-01910-0
-
 ---
 
-## Gut microbiota mediates ambient PM2.5 exposure-induced abnormal glucose metabolism via short-chain fatty acids.
- 12.07.2024, _W Shao, B Pan, Z Li, R Peng, W Yang, Y Xie, D Han, X Fang, J Li, Y Zhu, Z Zhao, H Kan, Z Ying, Y Xu_
-
-
-PM2.5 exposure has been found to cause gut dysbiosis and impair glucose homeostasis in human and animals, yet their underlying biological connection remain unclear. In the present study, we aim to investigate the biological significance of gut microbiota in PM2.5-induced glucose metabolic abnormalities. Our results showed that microbiota depletion by antibiotics treatment significantly alleviated PM2.5-induced glucose intolerance and insulin resistance, as indicated by the intraperitoneal glucose tolerance test, glucose-induced insulin secretion, insulin tolerance test, insulin-induced phosphorylation levels of Akt and GSK-3β in insulin sensitive tissues. In addition, faecal microbiota transplantation (FMT) from PM2.5-exposed donor mice successfully remodeled the glucose metabolism abnormalities in recipient mice, while the transplantation of autoclaved faecal materials did not. Faecal microbiota analysis demonstrated that the composition and alpha diversity of the gut bacterial community were altered by PM2.5 exposure and in FMT recipient mice. Furthermore, short-chain fatty acids levels analysis showed that the circulating acetate was significantly decreased in PM2.5-exposed donor and FMT recipient mice, and supplementation of sodium acetate for 3 months successfully improved the glucose metabolism abnormalities induced by PM2.5 exposure. These results indicate that manipulating gut microbiota or its metabolites could be a potential strategy for preventing the adverse health effects of ambient PM2.5.
+## Gut microbiota mediates ambient PM(2.5) exposure-induced abnormal glucose metabolism via short-chain fatty acids
 
 [Source](https://doi.org/10.1016/j.jhazmat.2024.135096)
 
-10.1016/j.jhazmat.2024.135096
-
 ---
 
-## Domestication and evolutionary histories of specialized gut symbionts across cephalotine ants.
- 22.07.2024, _C Cabuslay, JT Wertz, B Béchade, Y Hu, S Braganza, D Freeman, S Pradhan, M Mukhanova, S Powell, C Moreau, JA Russell_
-
-
-_Animals, Symbiosis, Ants, Phylogeny, RNA, Ribosomal, 16S, Domestication, Gastrointestinal Microbiome, Bacteria, Biological Evolution_
-The evolution of animals and their gut symbionts is a complex phenomenon, obscured by lability and diversity. In social organisms, transmission of symbionts among relatives may yield systems with more stable associations. Here, we study the history of a social insect symbiosis involving cephalotine ants and their extracellular gut bacteria, which come predominantly from host-specialized lineages. We perform multi-locus phylogenetics for symbionts from nine bacterial orders, and map prior amplicon sequence data to lineage-assigned symbiont genomes, studying distributions of rigorously defined symbionts across 20 host species. Based on monophyly and additional hypothesis testing, we estimate that these specialized gut bacteria belong to 18 distinct lineages, of which 15 have been successfully isolated and cultured. Several symbiont lineages showed evidence for domestication events that occurred later in cephalotine evolutionary history, and only one lineage was ubiquitously detected in all 20 host species and 48 colonies sampled with amplicon 16S rRNA sequencing. We found evidence for phylogenetically constrained distributions in four symbionts, suggesting historical or genetic impacts on community composition. Two lineages showed evidence for frequent intra-lineage co-infections, highlighting the potential for niche divergence after initial domestication. Nearly all symbionts showed evidence for occasional host switching, but four may, more often, co-diversify with their hosts. Through our further assessment of symbiont localization and genomic functional profiles, we demonstrate distinct niches for symbionts with shared evolutionary histories, prompting further questions on the forces underlying the evolution of hosts and their gut microbiomes.
+## Domestication and evolutionary histories of specialized gut symbionts across cephalotine ants
 
 [Source](https://doi.org/10.1111/mec.17454)
-
-10.1111/mec.17454
 
 ---
 
