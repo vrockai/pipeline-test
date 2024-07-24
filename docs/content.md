@@ -135,15 +135,15 @@ Potential of salivary microbiota as a non-invasive diagnostic tool for various d
 
 ---
 
-## Innate immune memory after brain injury drives inflammatory cardiac dysfunction.
- 23.07.2024, _A Simats, S Zhang, D Messerer, F Chong, S Beşkardeş, AS Chivukula, J Cao, S Besson-Girard, FA Montellano, C Morbach, O Carofiglio, A Ricci, S Roth, G Llovera, R Singh, Y Chen, S Filser, N Plesnila, C Braun, H Spitzer, O Gokce, M Dichgans, PU Heuschmann, K Hatakeyama, E Beltrán, S Clauss, B Bonev, C Schulz, A Liesz_
+## A qualitative investigation of the experiences of patients living with antiphospholipid antibodies.
+ 24.07.2024, _FS Cardwell, AO Kobza, SJ Elliott, PS Gibson, N Soliman, L Skeith, AE Clarke, MR Barber_
 
 
-The medical burden of stroke extends beyond the brain injury itself and is largely determined by chronic comorbidities that develop secondarily. We hypothesized that these comorbidities might share a common immunological cause, yet chronic effects post-stroke on systemic immunity are underexplored. Here, we identify myeloid innate immune memory as a cause of remote organ dysfunction after stroke. Single-cell sequencing revealed persistent pro-inflammatory changes in monocytes/macrophages in multiple organs up to 3 months after brain injury, notably in the heart, leading to cardiac fibrosis and dysfunction in both mice and stroke patients. IL-1β was identified as a key driver of epigenetic changes in innate immune memory. These changes could be transplanted to naive mice, inducing cardiac dysfunction. By neutralizing post-stroke IL-1β or blocking pro-inflammatory monocyte trafficking with a CCR2/5 inhibitor, we prevented post-stroke cardiac dysfunction. Such immune-targeted therapies could potentially prevent various IL-1β-mediated comorbidities, offering a framework for secondary prevention immunotherapy.
+Substantial morbidity and mortality affect those with antiphospholipid antibodies (aPLs) and antiphospholipid syndrome (APS), yet patient experiences remain poorly understood. This research investigated patient experiences of aPL/APS diagnosis; effects on daily life; and healthcare and treatment.
 
 [Source](https://doi.org/10.1038/s41522-024-00528-2)
 
-10.1016/j.cell.2024.06.028
+10.1177/09612033241265545
 
 ---
 
