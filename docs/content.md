@@ -76,15 +76,15 @@ Numerous studies have reported critical roles for the gut microbiota in obesity.
 
 ---
 
-## "Lupus Doesn't Have Me, I Have Lupus": Using Patient-Centered Interviews to Understand Medication Nonadherence.
- 23.07.2024, _CA Macko, R Santos, ND Ramalingam, N Tran, S Zheng, PP Chen_
+## Toxicity of airborne nanoparticles: Facts and challenges.
+ 23.07.2024, _J Portugal, C Bedia, F Amato, AT Juárez-Facio, R Stamatiou, A Lazou, CE Campiglio, K Elihn, B Piña_
 
 
-Lupus nephritis (LN) is the most common cause of kidney injury in systemic lupus erythematosus and associated with higher morbidity and mortality. Low medication adherence correlates with adverse clinical outcomes.
+Air pollution is one of the most severe environmental healthhazards, and airborne nanoparticles (diameter &lt;100 nm) are considered particularly hazardous to human health. They are produced by various sources such as internal combustion engines, wood and biomass burning, and fuel and natural gas combustion, and their origin, among other parameters, determines their intrinsic toxicity for reasons that are not yet fully understood. Many constituents of the nanoparticles are considered toxic or at least hazardous, including polycyclic aromatic hydrocarbons (PAHs) and heavy metal compounds, in addition to gaseous pollutants present in the aerosol fraction, such as NOx, SO2, and ozone. All these compounds can cause oxidative stress, mitochondrial damage, inflammation in the lungs and other tissues, and cellular organelles. Epidemiological investigations concluded that airborne pollution may affect the respiratory, cardiovascular, and nervous systems. Moreover, particulate matter has been linked to an increased risk of lung cancer, a carcinogenic effect not related to DNA damage, but to the cellular inflammatory response to the pollutants, in which the release of cytokines promotes the proliferation of pre-existing mutated cancer cells. The mechanisms behind toxicity can be investigated experimentally using cell cultures or animal models. Methods for gathering particulate matter have been explored, but standardized protocols are needed to ensure that the samples accurately represent chemical mixtures in the environment. Toxic constituents of nanoparticles can be studied in animal and cellular models, but designing realistic exposure settings is challenging. The air-liquid interface (ALI) system directly exposes cells, mimicking particle inhalation into the lungs. Continuous research and monitoring of nanoparticles and other airborne pollutants is essential for understanding their effects and developing active strategies to mitigate their risks to human and environmental health.
 
 [Source](https://doi.org/10.1038/s41522-024-00528-2)
 
-10.7812/TPP/23.161
+10.1016/j.envint.2024.108889
 
 ---
 
@@ -154,33 +154,66 @@ Childhood obesity is a crucial public health concern worldwide. Dietary interven
 
 ---
 
-## Alcohol consumption during pregnancy differentially affects the fecal microbiota of dams and offspring
+## Alcohol consumption during pregnancy differentially affects the fecal microbiota of dams and offspring.
+ 15.07.2024, _TS Bodnar, G Ainsworth-Cruickshank, V Billy, L Wegener Parfrey, J Weinberg, C Raineki_
+
+
+_Animals, Pregnancy, Female, Feces, Alcohol Drinking, Prenatal Exposure Delayed Effects, Rats, Fetal Alcohol Spectrum Disorders, Gastrointestinal Microbiome, Ethanol, Male, Disease Models, Animal, Microbiota, Bacteria_
+Microbiota imbalances are linked to inflammation and disease, as well as neurodevelopmental conditions where they may contribute to behavioral, physiological, and central nervous system dysfunction. By contrast, the role of the microbiota in Fetal Alcohol Spectrum Disorder (FASD), the group of neurodevelopmental conditions that can occur following prenatal alcohol exposure (PAE), has not received similar attention. Here we utilized a rodent model of alcohol consumption during pregnancy to characterize the impact of alcohol on the microbiota of dam-offspring dyads. Overall, bacterial diversity decreased in alcohol-consuming dams and community composition differed from that of controls in alcohol-consuming dams and their offspring. Bacterial taxa and predicted biochemical pathway composition were also altered with alcohol consumption/exposure; however, there was minimal overlap between the changes in dams and offspring. These findings illuminate the potential importance of the microbiota in the pathophysiology of FASD and support investigation into novel microbiota-based interventions.
 
 [Source](https://doi.org/10.1038/s41598-024-64313-z)
 
+10.1038/s41598-024-64313-z
+
 ---
 
-## Meta-omics analysis reveals the marine arsenic cycle driven by bacteria
+## Meta-omics analysis reveals the marine arsenic cycle driven by bacteria.
+ 18.07.2024, _ZJ Teng, J Li, P Wang, CY Li, M Peng, QL Qin, XL Chen, Y Chen, HH Fu, N Wang, YZ Zhang_
+
+
+Arsenic is a toxic element widely distributed in the Earth's crust and ranked as a class I human carcinogen. Microbial metabolism makes significant contributions to arsenic detoxification, migration and transformation. Nowadays, research on arsenic is primarily in areas affected by arsenic pollution associated with human health activities. However, the biogeochemical traits of arsenic in the global marine ecosystem remain to be explicated. In this study, we revealed that seawater environments were primarily governed by the process of arsenate reduction to arsenite, while arsenite methylation was predominant in marine sediments which may serve as significant sources of arsenic emission into the atmosphere. Significant disparities existed in the distribution patterns of the arsenic cycle between surface and deep seawaters at middle and low latitudes, whereas these situations tend to be similar in the Arctic and Antarctic oceans. Significant variations were also observed in the taxonomic diversity and core microbial community of arsenic cycling across different marine environments. Specifically, γ-proteobacteria played a pivotal role in the arsenic cycle in the whole marine environment. Temperature, dissolved oxygen and phosphate were the crucial factors that related to these differentiations in seawater environments. Overall, our study contributes to a deeper understanding of the marine arsenic cycle.
 
 [Source](https://doi.org/10.1016/j.jhazmat.2024.135137)
 
+10.1016/j.jhazmat.2024.135137
+
 ---
 
-## Using Machine Learning to Identify Environmental Factors that Collectively Determine Microbial Community Structure of Activated Sludge
+## Using Machine Learning to Identify Environmental Factors that Collectively Determine Microbial Community Structure of Activated Sludge.
+ 18.07.2024, _L Wang, W Lu, Y Song, S Liu, YU Vincent Fu_
+
+
+Activated sludge (AS) microbial communities are influenced by various environmental variables. However, a comprehensive analysis of how these variables jointly and nonlinearly shape the AS microbial community remains challenging. In this study, we employed advanced machine learning techniques to elucidate the collective effects of environmental variables on the structure and function of AS microbial communities. Applying Dirichlet Multinomial Mixtures analysis to 311 global AS samples, we identified four distinct microbial community types (AS-types), each characterized by unique microbial compositions and metabolic profiles. We used 14 classical linear and nonlinear machine learning methods to select a baseline model. The Extremely Randomized Trees demonstrated optimal performance in learning the relationship between environmental factors and AS types (with an accuracy of 71.43%). Feature selection identified critical environmental factors and their importance rankings, including latitude (Lat), longitude (Long), precipitation during sampling (Precip), solids retention time (SRT), effluent total nitrogen (Effluent TN), average temperature during sampling month (Avg Temp), mixed liquor temperature (Mixed Temp), influent biochemical oxygen demand (Influent BOD), and annual precipitation (Annual Precip). Significantly, Lat, Long, Precip, Avg Temp, and Annual Precip, influenced metabolic variations among AS types. These findings emphasize the pivotal role of environmental variables in shaping microbial community structures and enhancing metabolic pathways within activated sludge. Our study encourages the application of machine learning techniques to design artificial activated sludge microbial communities for specific environmental purposes.
 
 [Source](https://doi.org/10.1016/j.envres.2024.119635)
 
+10.1016/j.envres.2024.119635
+
 ---
 
-## Microplastic pollution promotes soil respiration: A global-scale meta-analysis
+## Microplastic pollution promotes soil respiration: A global-scale meta-analysis.
+ 16.07.2024, _S Zhao, MC Rillig, H Bing, Q Cui, T Qiu, Y Cui, J Penuelas, B Liu, S Bian, FA Monikh, J Chen, L Fang_
+
+
+_Soil Microbiology, Microplastics, Soil, Carbon Dioxide, Soil Pollutants, Microbiota, Biomass, Carbon_
+Microplastic (MP) pollution likely affects global soil carbon (C) dynamics, yet it remains uncertain how and to what extent MP influences soil respiration. Here, we report on a global meta-analysis to determine the effects of MP pollution on the soil microbiome and CO2 emission. We found that MP pollution significantly increased the contents of soil organic C (SOC) (21%) and dissolved organic C (DOC) (12%), the activity of fluorescein diacetate hydrolase (FDAse) (10%), and microbial biomass (17%), but led to a decrease in microbial diversity (3%). In particular, increases in soil C components and microbial biomass further promote CO2 emission (25%) from soil, but with a much higher effect of MPs on these emissions than on soil C components and microbial biomass. The effect could be attributed to the opposite effects of MPs on microbial biomass vs. diversity, as soil MP accumulation recruited some functionally important bacteria and provided additional C substrates for specific heterotrophic microorganisms, while inhibiting the growth of autotrophic taxa (e.g., Chloroflexi, Cyanobacteria). This study reveals that MP pollution can increase soil CO2 emission by causing shifts in the soil microbiome. These results underscore the potential importance of plastic pollution for terrestrial C fluxes, and thus climate feedbacks.
 
 [Source](https://doi.org/10.1111/gcb.17415)
 
+10.1111/gcb.17415
+
 ---
 
-## SMMP: A Deep-Coverage Marine Metaproteome Method for Microbial Community Analysis throughout the Water Column Using 1 L of Seawater
+## SMMP: A Deep-Coverage Marine Metaproteome Method for Microbial Community Analysis throughout the Water Column Using 1 L of Seawater.
+ 23.07.2024, _S Wang, Z Zhang, K Yang, J Zhao, W Zhang, Z Wang, Z Liang, Y Zhang, Y Zhang, J Liu, L Zhang_
+
+
+_Seawater, Proteomics, Microbiota, Proteome, Methane, Bacteria, Oxidation-Reduction, Carbon Monoxide_
+Marine microbes drive pivotal transformations in planetary-scale elemental cycles and have crucial impacts on global biogeochemical processes. Metaproteomics is a powerful tool for assessing the metabolic diversity and function of marine microbes. However, hundreds of liters of seawater are required for normal metaproteomic analysis due to the sparsity of microbial populations in seawater, which poses a substantial challenge to the widespread application of marine metaproteomics, particularly for deep seawater. Herein, a sensitive marine metaproteomics workflow, named sensitive marine metaproteome analysis (SMMP), was developed by integrating polycarbonate filter-assisted microbial enrichment, solid-phase alkylation-based anti-interference sample preparation, and narrow-bore nanoLC column for trace peptide separation and characterization. The method provided more than 8500 proteins from 1 L of bathypelagic seawater samples, which covered diverse microorganisms and crucial functions, e.g., the detection of key enzymes associated with the Wood-Ljungdahl pathway. Then, we applied SMMP to investigate vertical variations in the metabolic expression patterns of marine microorganisms from the euphotic zone to the bathypelagic zone. Methane oxidation and carbon monoxide (CO) oxidation were active processes, especially in the bathypelagic zone, which provided a remarkable energy supply for the growth and proliferation of heterotrophic microorganisms. In addition, marker protein profiles detected related to ammonia transport, ammonia oxidation, and carbon fixation highlighted that Thaumarchaeota played a critical role in primary production based on the coupled carbon-nitrogen process, contributing to the storage of carbon and nitrogen in the bathypelagic regions. SMMP has low microbial input requirements and yields in-depth metaproteome analysis, making it a prospective approach for comprehensive marine metaproteomic investigations.
 
 [Source](https://doi.org/10.1021/acs.analchem.4c02079)
+
+10.1021/acs.analchem.4c02079
 
 ---
 
@@ -209,9 +242,15 @@ Growing environmental concerns and the need to adopt a circular economy have hig
 
 ---
 
-## GSearch: ultra-fast and scalable genome search by combining K-mer hashing with hierarchical navigable small world graphs
+## GSearch: ultra-fast and scalable genome search by combining K-mer hashing with hierarchical navigable small world graphs.
+ 16.07.2024, _J Zhao, JP Both, LM Rodriguez-R, KT Konstantinidis_
+
+
+Genome search and/or classification typically involves finding the best-match database (reference) genomes and has become increasingly challenging due to the growing number of available database genomes and the fact that traditional methods do not scale well with large databases. By combining k-mer hashing-based probabilistic data structures (i.e. ProbMinHash, SuperMinHash, Densified MinHash and SetSketch) to estimate genomic distance, with a graph based nearest neighbor search algorithm (Hierarchical Navigable Small World Graphs, or HNSW), we created a new data structure and developed an associated computer program, GSearch, that is orders of magnitude faster than alternative tools while maintaining high accuracy and low memory usage. For example, GSearch can search 8000 query genomes against all available microbial or viral genomes for their best matches (n = ∼318 000 or ∼3 000 000, respectively) within a few minutes on a personal laptop, using ∼6 GB of memory (2.5 GB via SetSketch). Notably, GSearch has an O(log(N)) time complexity and will scale well with billions of genomes based on a database splitting strategy. Further, GSearch implements a three-step search strategy depending on the degree of novelty of the query genomes to maximize specificity and sensitivity. Therefore, GSearch solves a major bottleneck of microbiome studies that require genome search and/or classification.
 
 [Source](https://doi.org/10.1093/nar/gkae609)
+
+10.1093/nar/gkae609
 
 ---
 
