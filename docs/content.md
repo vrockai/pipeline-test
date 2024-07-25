@@ -1,5 +1,5 @@
 ## Human cytomegalovirus in breast milk is associated with milk composition and the infant gut microbiome and growth.
- 23.07.2024, _KE Johnson, N Hernandez-Alvarado, M Blackstad, T Heisel, M Allert, DA Fields, E Isganaitis, KM Jacobs, D Knights, EF Lock, MC Rudolph, CA Gale, MR Schleiss, FW Albert, EW Demerath, R Blekhman_
+ 25.07.2024, _KE Johnson, N Hernandez-Alvarado, M Blackstad, T Heisel, M Allert, DA Fields, E Isganaitis, KM Jacobs, D Knights, EF Lock, MC Rudolph, CA Gale, MR Schleiss, FW Albert, EW Demerath, R Blekhman_
 
 
 _Humans, Milk, Human, Gastrointestinal Microbiome, Female, Cytomegalovirus, Cytomegalovirus Infections, Infant, Infant, Newborn, Kynurenine, Breast Feeding, Viral Load, Male, Adult, Indoleamine-Pyrrole 2,3,-Dioxygenase, Tryptophan, Metabolome_
@@ -41,16 +41,9 @@ Human cytomegalovirus (CMV) is a highly prevalent herpesvirus that is often tran
 
 ---
 
-## Altitude-dependent agro-ecologies impact the microbiome diversity of scavenging indigenous chicken in Ethiopia.
- 23.07.2024, _L Glendinning, X Jia, A Kebede, SO Oyola, JE Park, W Park, A Assiri, JB Holm, K Kristiansen, J Han, O Hanotte_
-
-
-_Animals, Chickens, Ethiopia, Altitude, Bacteria, Gastrointestinal Microbiome, Metagenome, Cecum, Microbiota, Biodiversity, Phylogeny_
-Scavenging indigenous village chickens play a vital role in sub-Saharan Africa, sustaining the livelihood of millions of farmers. These chickens are exposed to vastly different environments and feeds compared to commercial chickens. In this study, we analysed the caecal microbiota of 243 Ethiopian village chickens living in different altitude-dependent agro-ecologies.
+## Altitude-dependent agro-ecologies impact the microbiome diversity of scavenging indigenous chicken in Ethiopia
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01847-4)
-
-10.1186/s40168-024-01847-4
 
 ---
 
