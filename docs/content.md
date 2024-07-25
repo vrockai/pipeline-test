@@ -188,9 +188,16 @@ Protists, single-celled eukaryotic organisms, are critical to food web ecology, 
 
 ---
 
-## Unraveling the habitat preferences, ecological drivers, potential hosts, and auxiliary metabolism of soil giant viruses across China
+## Unraveling the habitat preferences, ecological drivers, potential hosts, and auxiliary metabolism of soil giant viruses across China.
+ 24.07.2024, _JL Liang, SW Feng, P Jia, JL Lu, X Yi, SM Gao, ZH Wu, B Liao, WS Shu, JT Li_
+
+
+_China, Soil Microbiology, Metagenome, Ecosystem, Giant Viruses, Soil, Phylogeny, Genome, Viral, Metagenomics_
+Soil giant viruses are increasingly believed to have profound effects on ecological functioning by infecting diverse eukaryotes. However, their biogeography and ecology remain poorly understood.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01851-8)
+
+10.1186/s40168-024-01851-8
 
 ---
 
