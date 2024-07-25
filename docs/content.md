@@ -194,9 +194,16 @@ Protists, single-celled eukaryotic organisms, are critical to food web ecology, 
 
 ---
 
-## MIDASim: a fast and simple simulator for realistic microbiome data
+## MIDASim: a fast and simple simulator for realistic microbiome data.
+ 24.07.2024, _M He, N Zhao, GA Satten_
+
+
+_Humans, Microbiota, Computer Simulation, Gastrointestinal Microbiome, Software, Computational Biology, Bacteria, Female_
+Advances in sequencing technology has led to the discovery of associations between the human microbiota and many diseases, conditions, and traits. With the increasing availability of microbiome data, many statistical methods have been developed for studying these associations. The growing number of newly developed methods highlights the need for simple, rapid, and reliable methods to simulate realistic microbiome data, which is essential for validating and evaluating the performance of these methods. However, generating realistic microbiome data is challenging due to the complex nature of microbiome data, which feature correlation between taxa, sparsity, overdispersion, and compositionality. Current methods for simulating microbiome data are deficient in their ability to capture these important features of microbiome data, or can require exorbitant computational time.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01822-z)
+
+10.1186/s40168-024-01822-z
 
 ---
 
