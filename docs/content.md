@@ -1,139 +1,43 @@
-## Gut virome-wide association analysis identifies cross-population viral signatures for inflammatory bowel disease.
- 20.07.2024, _X Tian, S Li, C Wang, Y Zhang, X Feng, Q Yan, R Guo, F Wu, C Wu, Y Wang, X Huo, X Ma_
+## Human cytomegalovirus in breast milk is associated with milk composition and the infant gut microbiome and growth.
+ 23.07.2024, _KE Johnson, N Hernandez-Alvarado, M Blackstad, T Heisel, M Allert, DA Fields, E Isganaitis, KM Jacobs, D Knights, EF Lock, MC Rudolph, CA Gale, MR Schleiss, FW Albert, EW Demerath, R Blekhman_
 
 
-_Humans, Virome, Gastrointestinal Microbiome, Animals, Feces, Mice, Inflammatory Bowel Diseases, Female, Male, Adult, Middle Aged, Crohn Disease, Bacteriophages, Colitis, Ulcerative, Bacteria, China, Fecal Microbiota Transplantation, Case-Control Studies, Viruses_
-The gut virome has been implicated in inflammatory bowel disease (IBD), yet a full understanding of the gut virome in IBD patients, especially across diverse geographic populations, is lacking.
+_Humans, Milk, Human, Gastrointestinal Microbiome, Female, Cytomegalovirus, Cytomegalovirus Infections, Infant, Infant, Newborn, Kynurenine, Breast Feeding, Viral Load, Male, Adult, Indoleamine-Pyrrole 2,3,-Dioxygenase, Tryptophan, Metabolome_
+Human cytomegalovirus (CMV) is a highly prevalent herpesvirus that is often transmitted to the neonate via breast milk. Postnatal CMV transmission can have negative health consequences for preterm and immunocompromised infants, but any effects on healthy term infants are thought to be benign. Furthermore, the impact of CMV on the composition of the hundreds of bioactive factors in human milk has not been tested. Here, we utilize a cohort of exclusively breastfeeding full-term mother-infant pairs to test for differences in the milk transcriptome and metabolome associated with CMV, and the impact of CMV in breast milk on the infant gut microbiome and infant growth. We find upregulation of the indoleamine 2,3-dioxygenase (IDO) tryptophan-to-kynurenine metabolic pathway in CMV+ milk samples, and that CMV+ milk is associated with decreased Bifidobacterium in the infant gut. Our data indicate two opposing CMV-associated effects on infant growth; with kynurenine positively correlated, and CMV viral load negatively correlated, with infant weight-for-length at 1 month of age. These results suggest CMV transmission, CMV-related changes in milk composition, or both may be modulators of full-term infant development.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01832-x)
+[Source](https://www.nature.com/articles/s41467-024-50282-4)
 
-10.1186/s40168-024-01832-x
-
----
-
-## The Role of Gut Microbiota in the Neuroprotective Effects of Selenium in Alzheimer's Disease.
- 16.07.2024, _AV Skalny, M Aschner, A Santamaria, T Filippini, VA Gritsenko, Y Tizabi, F Zhang, X Guo, JBT Rocha, AA Tinkov_
-
-
-The objective of the present review was to provide a timely update on the molecular mechanisms underlying the beneficial role of Se in Alzheimer's disease pathogenesis, and discuss the potential role of gut microbiota modulation in this neuroprotective effect. The existing data demonstrate that selenoproteins P, M, S, R, as well as glutathione peroxidases and thioredoxin reductases are involved in regulation of Aβ formation and aggregation, tau phosphorylation and neurofibrillary tangles formation, as well as mitigate the neurotoxic effects of Aβ and phospho-tau. Correspondingly, supplementation with various forms of Se in cellular and animal models of AD was shown to reduce Aβ formation, tau phosphorylation, reverse the decline in brain antioxidant levels, inhibit neuronal oxidative stress and proinflammatory cytokine production, improve synaptic plasticity and neurogenesis, altogether resulting in improved cognitive functions. In addition, most recent findings demonstrate that these neuroprotective effects are associated with Se-induced modulation of gut microbiota. In animal models of AD, Se supplementation was shown to improve gut microbiota biodiversity with a trend to increased relative abundance of Lactobacillus, Bifidobacterium, and Desulfivibrio, while reducing that of Lachnospiracea_NK4A136, Rikenella, and Helicobacter. Moreover, the relative abundance of Se-affected taxa was significantly associated with Aβ accumulation, tau phosphorylation, neuronal oxidative stress, and neuroinflammation, indicative of the potential role of gut microbiota to mediate the neuroprotective effects of Se in AD. Hypothetically, modulation of gut microbiota along with Se supplementation may improve the efficiency of the latter in AD, although further detailed laboratory and clinical studies are required.
-
-[Source](https://link.springer.com/article/10.1007/s12035-024-04343-w)
-
-10.1007/s12035-024-04343-w
+10.1038/s41467-024-50282-4
 
 ---
 
-## The oral-gut microbiome axis in health and disease.
- 22.07.2024, _BJ Kunath, C De Rudder, CC Laczny, E Letellier, P Wilmes_
+## First-Year Dynamics of the Anaerobic Microbiome and Archaeome in Infants Oral and Gastrointestinal Systems
 
-
-The human body hosts trillions of microorganisms throughout many diverse habitats with different physico-chemical characteristics. Among them, the oral cavity and the gut harbour some of the most dense and diverse microbial communities. Although these two sites are physiologically distinct, they are directly connected and can influence each other in several ways. For example, oral microorganisms can reach and colonize the gastrointestinal tract, particularly in the context of gut dysbiosis. However, the mechanisms of colonization and the role that the oral microbiome plays in causing or exacerbating diseases in other organs have not yet been fully elucidated. Here, we describe recent advances in our understanding of how the oral and intestinal microbiota interplay in relation to their impact on human health and disease.
-
-[Source](https://www.nature.com/articles/s41579-024-01075-5)
-
-10.1038/s41579-024-01075-5
+[Source](https://www.biorxiv.org/content/10.1101/2024.07.24.604926v1)
 
 ---
 
-## [REVIEW] The oral–gut microbiome axis in health and disease
+## A Mendelian randomization analysis reveals the multifaceted role of the skin microbiota in liver cancer
 
-[Source](https://www.nature.com/articles/s41579-024-01075-5)
-
----
-
-## Enhancing gut microbiota and microbial function with inulin supplementation in children with obesity.
- 20.07.2024, _C Visuthranukul, S Sriswasdi, S Tepaamorndech, S Chamni, A Leelahavanichkul, Y Joyjinda, V Aksornkitti, S Chomtho_
-
-
-Gut dysbiosis that resulted from the alteration between host-microbe interaction might worsen obesity-induced systemic inflammation. Gut microbiota manipulation by supplementation of prebiotic inulin may reverse metabolic abnormalities and improve obesity. This study aimed to determine whether inulin supplementation improved intestinal microbiota and microbial functional pathways in children with obesity.
-
-[Source](https://www.nature.com/articles/s41366-024-01590-8)
-
-10.1038/s41366-024-01590-8
+[Source](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1422132/full)
 
 ---
 
-## Core antibiotic resistance genes mediate gut microbiota to intervene in the treatment of major depressive disorder.
- 21.07.2024, _Z Dong, K Han, Q Xie, C Lin, X Shen, Y Hao, J Li, H Xu, L He, T Yu, W Kuang_
+## Metagenomic sequencing of the skin microbiota of the scalp predicting the risk of surgical site infections following surgery of traumatic brain injury in sub-Saharan Africa
 
-
-The relationship between depression and gut microbiota remains unclear, but an important role of gut microbiota has been verified. The relationship between gut microbiota and antibiotic resistance genes (ARGs) may be a potential new explanatory pathway.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0165032724011649)
-
-10.1016/j.jad.2024.07.106
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303483)
 
 ---
 
-## Temporal dynamics and species-level complexity of Prevotella spp. in the human gut microbiota: implications for enterotypes and health.
- 24.07.2024, _N Han, X Peng, T Zhang, Y Qiang, X Li, W Zhang_
+## The interplay between diet and the gut microbiome: implications for health and disease
 
-
-The concept of "enterotypes" in microbiome research has attracted substantial interest, particularly focusing on the abundance of Prevotella spp. in the human gut. In this study, the intricate dynamics of Prevotella spp. in the human gut microbiota was investigated, based on the metagenomic method. First, 239 fecal samples from individuals across four regions of China revealed a bimodal distribution, highlighting the abundance and variability in Prevotella spp. within the Chinese population. Second, the longitudinal cohort study included 184 fecal samples from 52 time points collected from seven individuals who demonstrated either the outbreaks or disappearances of Prevotella spp., emphasizing the transient nature of Prevotella abundance levels and suggesting shifts in Prevotella "enterotypes." Furthermore, a turnover of the dominant Prevotella spp. was observed, indicating the potential presence of diverse subtypes of Prevotella enterotype. Notably, the genomic analysis demonstrated the persistence of specific Prevotella strains within individuals over extended periods, highlighting the enduring presence of Prevotella in the human gut. In conclusion, by integrating the temporal and geographical scales in our research, we gained deeper insights into the dynamics of Prevotella, emphasizing the importance of considering the dynamics at the time and species level in gut microbiota studies and their implications on human health.
-
-[Source](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1414000/full)
-
-10.3389/fmicb.2024.1414000
+[Source](https://www.nature.com/articles/s41579-024-01068-4)
 
 ---
 
-## Skin locations inference and body fluid identification from skin microbial patterns for forensic applications
+## Microbiota composition effect on immunotherapy outcomes in colorectal cancer patients: A systematic review
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0379073824002330)
-
----
-
-## Improving insulin resistance by sulforaphane via activating the Bacteroides and Lactobacillus SCFAs-GPR-GLP1 signal axis.
- 24.07.2024, _S Tian, Y Lei, F Zhao, J Che, Y Wu, P Lei, YE Kang, Y Shan_
-
-
-Background: Insulin resistance (IR) is closely associated with non-alcoholic fatty liver disease (NAFLD), and the gut microbiome contributes to the development of NAFLD. Sulforaphane (SFN) is a phytochemical in cruciferous vegetables that could improve lipid metabolism disorder. However, whether SFN can alleviate IR in NAFLD by regulating the intestinal flora remains unclear. Methods: SFN was administered to high fat diet (HFD)-fed Wistar rats for 10 weeks. Gut microbiota was analysed by 16S rRNA sequencing and the short chain fatty acids (SCFAs) by gas chromatography. The expression of tight junction protein and the numbers of Lactobacillus, Bacteroides and Bifidobacterium were determined by qPCR. The expression of G-protein-coupled receptor 41/43 (GPR41/43) was determined by western blot. A randomized controlled trial (RCT) was conducted in NAFLD patients with broccoli seed tablets (rich in SFN, 42 mg d-1) as intervention for 12 weeks. Thirty-six volunteers with abnormal glucose before the broccoli seed tablet treatment were selected in the intervention group to analyze their blood glucose, insulin, homeostasis model assessment-insulin resistance index (HOMA-IRI), homeostasis model assessment-insulin sensitivity index (HOMA-ISI) and glucagon-like peptide (GLP-1). Results: SFN reduced blood glucose and HOMA-IRI while increasing insulin sensitivity in HFD rats. SFN reduced glycogen synthase kinase 3 (GSK-3), phosphoenolpyruvate carboxykinase (PEPCK) activity, and phosphorylation of serine residues of IRS-2 induced by HFD. SFN reshaped the gut microbiota composition of HFD-induced rats and, especially, increased the content of Bacteroidaceae, Lactobacillaceae and Bifidobacteriaceae, which are related to the improvement from SFN of the blood glucose and HOMA-IRI. The increased numbers of Bacteroides and Lactobacillus were the targets of SFN to enhance the expression of tight junction proteins ZO-1 and occludin, thereby lowering lipopolysaccharide content to reduce inflammation, ultimately alleviating IR. Bacteroides and Lactobacillus produced SCFAs, which activated GPR41/43 to secrete GLP1. Moreover, it was also confirmed in RCT that SFN intervention increased the level of GLP1 in NAFLD patients, which was positively correlated with the reduction of blood glucose and HOMA-IR. Conclusions: SFN alleviated IR in NAFLD via the Bacteroides and Lactobacillus SCFAs-GPR41/43-GLP1 axis and protected the intestinal mucosal barrier to decrease inflammation.
-
-[Source](https://pubs.rsc.org/en/content/articlelanding/2024/fo/d4fo01059k)
-
-10.1039/d4fo01059k
-
----
-
-## Gastroprotective and microbiome-modulating effects of ubiquinol in rats with radiation-induced enteropathy.
- 24.07.2024, _WA Eraqi, WA El-Sabbagh, RK Aziz, MS Elshahed, NH Youssef, NM Elkenawy_
-
-
-Radiation enteritis is a frequently encountered issue for patients receiving radiotherapy and has a significant impact on cancer patients' quality of life. The gut microbiota plays a pivotal role in intestinal function, yet the impact of irradiation on gut microorganisms is not fully understood. This study explores the gastroprotective effect and gut microbiome-modulating potential of ubiquinol (Ubq), the reduced form of the powerful antioxidant CoQ-10. For this purpose, male albino rats were randomly assigned to four groups: Control, IRR (acute 7 Gy γ-radiation), Ubq_Post (Ubq for 7 days post-irradiation), and Ubq_Pre/Post (Ubq for 7 days pre and 7 days post-irradiation). The fecal microbiomes of all groups were profiled by 16S rRNA amplicon sequencing followed by bioinformatics and statistical analysis. Histopathological examination of intestinal tissue indicated severe damage in the irradiated group, which was mitigated by ubiquinol with enhanced regeneration, goblet cells, and intestinal alkaline phosphatase expression. Compared to the irradiated group, the Ubq-treated groups had a significant recovery of intestinal interleukin-1β, caspase-3, nitric oxide metabolites, and thio-barbituric reactive substances to near-healthy levels. Ubq_Pre/Post group displayed elevated peroxisome proliferator-activated receptor (PPAR-γ) level, suggesting heightened benefits. Serum insulin reduction in irradiated rats improved post-Ubq treatment, with a possible anti-inflammatory effect on the pancreatic tissue. Fecal microbiota profiling revealed a dysbiosis state with a reduction of bacterial diversity post-irradiation, which was re-modulated in the Ubq treated groups to profiles that are indistinguishable from the control group. These findings underscore Ubq's gastroprotective effects against radiation-induced enteritis and its potential in restoring the gut microbiota's diversity and balance.
-
-[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00320-9)
-
-10.1186/s42523-024-00320-9
-
----
-
-## Methanogenic patterns in the gut microbiome are associated with survival in a population of feral horses 
-
-[Source](https://www.nature.com/articles/s41467-024-49963-x)
-
----
-
-## Viral Communities Suppress the Earthworm Gut Antibiotic Resistome by Lysing Bacteria on a National Scale.
- 22.07.2024, _S Du, L Bi, D Lin, XQ Zheng, R Neilson, D Zhu_
-
-
-Earthworms are critical in regulating soil processes and act as filters for antibiotic resistance genes (ARGs). Yet, the geographic patterns and main drivers of earthworm gut ARGs remain largely unknown. We collected 52 earthworm and soil samples from arable and forest ecosystems along a 3000 km transect across China, analyzing the diversity and abundance of ARGs using shotgun metagenomics. Earthworm guts harbored a lower diversity and abundance of ARGs compared to soil, resulting in a stronger distance-decay rate of ARGs in the gut. Greater deterministic assembly processes of ARGs were found in the gut than in soil. The earthworm gut had a lower frequency of co-occurrence patterns between ARGs and mobile genetic elements (MGEs) in forest than in arable systems. Viral diversity was higher in the gut compared to soil and was negatively correlated with bacterial diversity. Bacteria such as Streptomyces and Pseudomonas were potential hosts of both viruses and ARGs. Viruses had negative effects on the diversity and abundance of ARGs, likely due to the lysis on ARG-bearing bacteria. These findings provide new insights into the variations of ARGs in the earthworm gut and highlight the vital role of viruses in the regulation of ARGs in the soil ecosystem.
-
-[Source](https://pubs.acs.org/doi/abs/10.1021/acs.est.4c03812)
-
-10.1021/acs.est.4c03812
-
----
-
-## Modulation of gut microbiota composition and predicted metabolic capacity after nutritional programming with a plant-rich diet in Atlantic salmon (Salmo salar): insights across developmental stages.
- 04.07.2024, _MM Tawfik, M Lorgen-Ritchie, E Król, S McMillan, F Norambuena, DI Bolnick, A Douglas, DR Tocher, MB Betancor, SAM Martin_
-
-
-To promote sustainable aquaculture, the formulation of Atlantic salmon (Salmo salar) feeds has changed in recent decades, focusing on replacing standard marine-based ingredients with plant-based alternatives, increasingly demonstrating successful outcomes in terms of fish performance. However, little is known about how these plant-based diets may impact the gut microbiota at first feeding and onwards. Nutritional programming (NP) is one strategy applied for exposing fish to a plant-based (V) diet at an early stage in life to promote full utilisation of plant-based ingredients and prevent potential adverse impacts of exposure to a plant-rich diet later in life. We investigated the impact of NP on gut microbiota by introducing fish to plant ingredients (V fish) during first feeding for a brief period of two weeks (stimulus phase) and compared those to fish fed a marine-based diet (M fish). Results demonstrated that V fish not only maintained growth performance at 16 (intermediate phase) and 22 (challenge phase) weeks post first feeding (wpff) when compared to M fish but also modulated gut microbiota. PERMANOVA general effects revealed gut microbiota dissimilarity by fish group (V vs. M fish) and phases (stimulus vs. intermediate vs. challenge). However, no interaction effect of both groups and phases was demonstrated, suggesting a sustained impact of V diet (nutritional history) on fish across time points/phases. Moreover, the V diet exerted a significant cumulative modulatory effect on the Atlantic salmon gut microbiota at 16 wpff that was not demonstrated at two wpff, although both fish groups were fed the M diet at 16 wpff. The nutritional history/dietary regime is the main NP influencing factor, whereas environmental and host factors significantly impacted microbiota composition in M fish. Microbial metabolic reactions of amino acid metabolism were higher in M fish when compared to V fish at two wpff suggesting microbiota played a role in digesting the essential amino acids of M feed. The excessive mucin O-degradation revealed in V fish at two wpff was mitigated in later life stages after NP, suggesting physiological adaptability and tolerance to V diet. Future studies are required to explore more fully how the microbiota functionally contributes to the NP.
-
-[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00321-8)
-
-10.1186/s42523-024-00321-8
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307639)
 
 ---
 
@@ -150,67 +54,47 @@ Scavenging indigenous village chickens play a vital role in sub-Saharan Africa, 
 
 ---
 
-## Genomic representativeness and chimerism in large collections of SAGs and MAGs of marine prokaryoplankton.
- 17.07.2024, _T Chang, GS Gavelis, JM Brown, R Stepanauskas_
+## Effect of soybean and seaweed-based diets on growth performance, feed utilization, and gut microbiota of tilapia: A systematic review and meta-analysis
 
-
-_RNA, Ribosomal, 16S, Metagenome, Bacteria, Plankton, Phylogeny, Seawater, Chimerism, Genome, Bacterial, Metagenomics, Microbiota, Genomics_
-Single amplified genomes (SAGs) and metagenome-assembled genomes (MAGs) are the predominant sources of information about the coding potential of uncultured microbial lineages, but their strengths and limitations remain poorly understood. Here, we performed a direct comparison of two previously published collections of thousands of SAGs and MAGs obtained from the same, global environment.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01848-3)
-
-10.1186/s40168-024-01848-3
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293775)
 
 ---
 
-## Time-series metagenomics reveals changing protistan ecology of a temperate dimictic lake.
- 24.07.2024, _AI Krinos, RM Bowers, RR Rohwer, KD McMahon, T Woyke, F Schulz_
+## Plant species influences the composition of root system microbiome and its antibiotic resistance profile in a constructed wetland receiving primary treated wastewater
 
-
-_Lakes, Metagenomics, Animals, Bacteria, Eukaryota, Phytoplankton, Food Chain, Metagenome, Zooplankton_
-Protists, single-celled eukaryotic organisms, are critical to food web ecology, contributing to primary productivity and connecting small bacteria and archaea to higher trophic levels. Lake Mendota is a large, eutrophic natural lake that is a Long-Term Ecological Research site and among the world's best-studied freshwater systems. Metagenomic samples have been collected and shotgun sequenced from Lake Mendota for the last 20 years. Here, we analyze this comprehensive time series to infer changes to the structure and function of the protistan community and to hypothesize about their interactions with bacteria.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01831-y)
-
-10.1186/s40168-024-01831-y
+[Source](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1436122/full)
 
 ---
 
-## [PREPRINT] Utilizing the biosimulator to analyze the environmental microbiome within the intensive care units of a hospital
-
-[Source](https://www.researchsquare.com/article/rs-4757213/v1)
-
----
-
-## Distributions, interactions, and dynamics of prokaryotes and phages in a hybrid biological wastewater treatment system
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01853-6)
-
----
-
-## Unraveling the habitat preferences, ecological drivers, potential hosts, and auxiliary metabolism of soil giant viruses across China.
- 24.07.2024, _JL Liang, SW Feng, P Jia, JL Lu, X Yi, SM Gao, ZH Wu, B Liao, WS Shu, JT Li_
+## Endogenous retroviruses mediate transcriptional rewiring in response to oncogenic signaling in colorectal cancer.
+ 19.07.2024, _A Ivancevic, DM Simpson, OM Joyner, SM Bagby, LL Nguyen, BG Bitler, TM Pitts, EB Chuong_
 
 
-_China, Soil Microbiology, Metagenome, Ecosystem, Giant Viruses, Soil, Phylogeny, Genome, Viral, Metagenomics_
-Soil giant viruses are increasingly believed to have profound effects on ecological functioning by infecting diverse eukaryotes. However, their biogeography and ecology remain poorly understood.
+_Humans, Colorectal Neoplasms, Endogenous Retroviruses, Gene Expression Regulation, Neoplastic, Signal Transduction, Enhancer Elements, Genetic, Cell Line, Tumor, Transcription, Genetic, Animals, Carcinogenesis, Gene Regulatory Networks_
+Cancer cells exhibit rewired transcriptional regulatory networks that promote tumor growth and survival. However, the mechanisms underlying the formation of these pathological networks remain poorly understood. Through a pan-cancer epigenomic analysis, we found that primate-specific endogenous retroviruses (ERVs) are a rich source of enhancers displaying cancer-specific activity. In colorectal cancer and other epithelial tumors, oncogenic MAPK/AP1 signaling drives the activation of enhancers derived from the primate-specific ERV family LTR10. Functional studies in colorectal cancer cells revealed that LTR10 elements regulate tumor-specific expression of multiple genes associated with tumorigenesis, such as ATG12 and XRCC4. Within the human population, individual LTR10 elements exhibit germline and somatic structural variation resulting from a highly mutable internal tandem repeat region, which affects AP1 binding activity. Our findings reveal that ERV-derived enhancers contribute to transcriptional dysregulation in response to oncogenic signaling and shape the evolution of cancer-specific regulatory networks.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01851-8)
+[Source](https://www.science.org/doi/10.1126/sciadv.ado1218)
 
-10.1186/s40168-024-01851-8
+10.1126/sciadv.ado1218
 
 ---
 
-## MIDASim: a fast and simple simulator for realistic microbiome data.
- 24.07.2024, _M He, N Zhao, GA Satten_
+## The plasma viral communities associate with clinical profiles in a large-scale haematological patients cohort
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01855-4)
+
+---
+
+## Viruses of free-roaming and hunting dogs in Uganda show elevated prevalence, richness and abundance across a gradient of contact with wildlife.
+ 24.07.2024, _DS Tayebwa, D Hyeroba, CD Dunn, E Dunay, JC Richard, S Biryomumaisho, JO Acai, TL Goldberg_
 
 
-_Humans, Microbiota, Computer Simulation, Gastrointestinal Microbiome, Software, Computational Biology, Bacteria, Female_
-Advances in sequencing technology has led to the discovery of associations between the human microbiota and many diseases, conditions, and traits. With the increasing availability of microbiome data, many statistical methods have been developed for studying these associations. The growing number of newly developed methods highlights the need for simple, rapid, and reliable methods to simulate realistic microbiome data, which is essential for validating and evaluating the performance of these methods. However, generating realistic microbiome data is challenging due to the complex nature of microbiome data, which feature correlation between taxa, sparsity, overdispersion, and compositionality. Current methods for simulating microbiome data are deficient in their ability to capture these important features of microbiome data, or can require exorbitant computational time.
+_Animals, Dogs, Uganda, Dog Diseases, Prevalence, Animals, Wild, Virome, Viruses, Metagenomics, Anelloviridae, Humans, Virus Diseases_
+Domestic dogs (Canis lupus familiaris) live with humans, frequently contact other animals and may serve as intermediary hosts for the transmission of viruses. Free-roaming dogs, which account for over 70% of the world's domestic dog population, may pose a particularly high risk in this regard. We conducted an epidemiological study of dog viromes in three locations in Uganda, representing low, medium and high rates of contact with wildlife, ranging from dogs owned specifically for traditional hunting in a biodiversity and disease 'hotspot' to pets in an affluent suburb. We quantified rates of contact between dogs and wildlife through owner interviews and conducted canine veterinary health assessments. We then applied broad-spectrum viral metagenomics to blood plasma samples, from which we identified 46 viruses, 44 of which were previously undescribed, in three viral families, Sedoreoviridae, Parvoviridae and Anelloviridae. All 46 viruses (100 %) occurred in the high-contact population of dogs compared to 63 % and 39 % in the medium- and low-contact populations, respectively. Viral prevalence ranged from 2.1 % to 92.0 % among viruses and was highest, on average, in the high-contact population (22.3 %), followed by the medium-contact (12.3 %) and low-contact (4.8 %) populations. Viral richness (number of viruses per dog) ranged from 0 to 27 and was markedly higher, on average, in the high-contact population (10.2) than in the medium-contact (5.7) or low-contact (2.3) populations. Viral richness was strongly positively correlated with the number of times per year that a dog was fed wildlife and negatively correlated with the body condition score, body temperature and packed cell volume. Viral abundance (cumulative normalized metagenomic read density) varied 124-fold among dogs and was, on average, 4.1-fold higher and 2.4-fold higher in the high-contact population of dogs than in the low-contact or medium-contact populations, respectively. Viral abundance was also strongly positively correlated with the number of times per year that a dog was fed wildlife, negatively correlated with packed cell volume and positively correlated with white blood cell count. These trends were driven by nine viruses in the family Anelloviridae, genus Thetatorquevirus, and by one novel virus in the family Sedoreoviridae, genus Orbivirus. The genus Orbivirus contains zoonotic viruses and viruses that dogs can acquire through ingestion of infected meat. Overall, our findings show that viral prevalence, richness and abundance increased across a gradient of contact between dogs and wildlife and that the health status of the dog modified viral infection. Other ecological, geographic and social factors may also have contributed to these trends. Our finding of a novel orbivirus in dogs with high wildlife contact supports the idea that free-roaming dogs may serve as intermediary hosts for viruses of medical importance to humans and other animals.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01822-z)
+[Source](https://www.microbiologyresearch.org/content/journal/jgv/10.1099/jgv.0.002011)
 
-10.1186/s40168-024-01822-z
+10.1099/jgv.0.002011
 
 ---
 
