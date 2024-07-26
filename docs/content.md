@@ -1,5 +1,5 @@
 ## Human cytomegalovirus in breast milk is associated with milk composition and the infant gut microbiome and growth.
- 25.07.2024, _KE Johnson, N Hernandez-Alvarado, M Blackstad, T Heisel, M Allert, DA Fields, E Isganaitis, KM Jacobs, D Knights, EF Lock, MC Rudolph, CA Gale, MR Schleiss, FW Albert, EW Demerath, R Blekhman_
+ 26.07.2024, _KE Johnson, N Hernandez-Alvarado, M Blackstad, T Heisel, M Allert, DA Fields, E Isganaitis, KM Jacobs, D Knights, EF Lock, MC Rudolph, CA Gale, MR Schleiss, FW Albert, EW Demerath, R Blekhman_
 
 
 _Humans, Milk, Human, Gastrointestinal Microbiome, Female, Cytomegalovirus, Cytomegalovirus Infections, Infant, Infant, Newborn, Kynurenine, Breast Feeding, Viral Load, Male, Adult, Indoleamine-Pyrrole 2,3,-Dioxygenase, Tryptophan, Metabolome_
@@ -23,33 +23,67 @@ Human cytomegalovirus (CMV) is a highly prevalent herpesvirus that is often tran
 
 ---
 
-## Metagenomic sequencing of the skin microbiota of the scalp predicting the risk of surgical site infections following surgery of traumatic brain injury in sub-Saharan Africa
+## Metagenomic sequencing of the skin microbiota of the scalp predicting the risk of surgical site infections following surgery of traumatic brain injury in sub-Saharan Africa.
+ 24.07.2024, _HM Lekuya, DP Kateete, G Olweny, E Kigozi, LK Kamabu, SP Mudekereza, R Nantambi, R Mbiine, F Makumbi, S Cose, J Vandersteene, E Baert, JO Kalala, M Galukande_
+
+
+_Humans, Male, Surgical Wound Infection, Female, Scalp, Adult, Microbiota, Metagenomics, Brain Injuries, Traumatic, Prospective Studies, Africa South of the Sahara, Skin, Young Adult, Adolescent, RNA, Ribosomal, 16S, Uganda, Middle Aged, Risk Factors, Metagenome_
+Surgical site infections (SSI) are a significant concern following traumatic brain injury (TBI) surgery and often stem from the skin's microbiota near the surgical site, allowing bacteria to penetrate deeper layers and potentially causing severe infections in the cranial cavity. This study investigated the relationship between scalp skin microbiota composition and the risk of SSI after TBI surgery in sub-Saharan Africa (SSA).
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303483)
 
+10.1371/journal.pone.0303483
+
 ---
 
-## The interplay between diet and the gut microbiome: implications for health and disease
+## The interplay between diet and the gut microbiome: implications for health and disease.
+ 15.07.2024, _FC Ross, D Patangia, G Grimaud, A Lavelle, EM Dempsey, RP Ross, C Stanton_
+
+
+Diet has a pivotal role in shaping the composition, function and diversity of the gut microbiome, with various diets having a profound impact on the stability, functionality and diversity of the microbial community within our gut. Understanding the profound impact of varied diets on the microbiome is crucial, as it will enable us not only to make well-informed dietary decisions for better metabolic and intestinal health, but also to prevent and slow the onset of specific diet-related diseases that stem from suboptimal diets. In this Review, we explore how geographical location affects the gut microbiome and how different diets shape its composition and function. We examine the mechanisms by which whole dietary regimes, such as the Mediterranean diet, high-fibre diet, plant-based diet, high-protein diet, ketogenic diet and Western diet, influence the gut microbiome. Furthermore, we underscore the need for exhaustive studies to better understand the causal relationship between diet, host and microorganisms for the development of precision nutrition and microbiome-based therapies.
 
 [Source](https://www.nature.com/articles/s41579-024-01068-4)
 
+10.1038/s41579-024-01068-4
+
 ---
 
-## Microbiota composition effect on immunotherapy outcomes in colorectal cancer patients: A systematic review
+## Microbiota composition effect on immunotherapy outcomes in colorectal cancer patients: A systematic review.
+ 25.07.2024, _SM Ajab, SH Zoughbor, LA Labania, LM Östlundh, HS Orsud, MA Olanda, O Alkaabi, SH Alkuwaiti, SM Alnuaimi, Z Al Rasbi_
+
+
+_Humans, Colorectal Neoplasms, Gastrointestinal Microbiome, Immunotherapy, Immune Checkpoint Inhibitors, Treatment Outcome, Feces_
+Immune checkpoint inhibitors (ICIs) have emerged as an effective treatment for colorectal cancer (CRC). Studies indicate that the composition of gut microbiota could potentially serve as a biomarker for predicting the clinical effectiveness of immune checkpoint inhibitors.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307639)
 
+10.1371/journal.pone.0307639
+
 ---
 
-## Altitude-dependent agro-ecologies impact the microbiome diversity of scavenging indigenous chicken in Ethiopia
+## Altitude-dependent agro-ecologies impact the microbiome diversity of scavenging indigenous chicken in Ethiopia.
+ 26.07.2024, _L Glendinning, X Jia, A Kebede, SO Oyola, JE Park, W Park, A Assiri, JB Holm, K Kristiansen, J Han, O Hanotte_
+
+
+_Animals, Chickens, Ethiopia, Altitude, Bacteria, Gastrointestinal Microbiome, Metagenome, Cecum, Microbiota, Biodiversity, Phylogeny_
+Scavenging indigenous village chickens play a vital role in sub-Saharan Africa, sustaining the livelihood of millions of farmers. These chickens are exposed to vastly different environments and feeds compared to commercial chickens. In this study, we analysed the caecal microbiota of 243 Ethiopian village chickens living in different altitude-dependent agro-ecologies.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01847-4)
 
+10.1186/s40168-024-01847-4
+
 ---
 
-## Effect of soybean and seaweed-based diets on growth performance, feed utilization, and gut microbiota of tilapia: A systematic review and meta-analysis
+## Effect of soybean and seaweed-based diets on growth performance, feed utilization, and gut microbiota of tilapia: A systematic review and meta-analysis.
+ 25.07.2024, _LDA Viagem, JN Hakizimana, C Rumisha, BDS Cerozi, G Misinzo_
+
+
+_Animals, Seaweed, Gastrointestinal Microbiome, Animal Feed, Glycine max, Tilapia, Aquaculture, Diet_
+Tilapia, a significant aquaculture species globally, relies heavily on feed for its production. While numerous studies have investigated the impact of soybean and seaweed-based diets on tilapia, a comprehensive understanding remains elusive. This review aimed at evaluating and synthesizing the existing literature on these diets' effects, focusing on growth performance, feed utilization, and gut microbiota. A systematic search of databases was conducted using Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines and a total of 57 studies were included in the qualitative analysis and 24 in the meta-analysis. The results indicated that soybean-based diets, at a 59.4% inclusion level improved the Specific Growth Rate (SGR) of tilapia with an effect size of -2.14 (95% CI: -2.92, -1.37; p &lt; 0.00001; I2 = 99%) and did not improve the feed conversion rate (FCR), as the effect size was 1.80 (95% CI: 0.72, 2.89; p = 0.001; I2 = 100%). For seaweed-based diets, at a 15,9% inclusion level did not improve SGR, with an effect size of -0.74 (95% CI: -1.70, 0.22; p = 0.13; I2 = 99%), and the FCR with an effect size of -0.70 (95% CI: -1.94, 0.54; p = 0.27; I2 = 100%). Regarding the gut microbiota, was noted a lack of studies meeting the inclusion criteria for tilapia. However, findings from studies on other farmed fishes suggested that soybean and seaweed-based diets could have diverse effects on gut microbiota composition and promote the growth of beneficial microbiota. This study suggests that incorporating soybean-based diets at 59.4% inclusion can improve the SGR of tilapia. Seaweed-based diets, while not demonstrating improvement in the analyzed parameters with an inclusion level of 15.9%, have the potential to contribute to the sustainability of the aquaculture industry when incorporated at lower levels.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293775)
+
+10.1371/journal.pone.0293775
 
 ---
 
