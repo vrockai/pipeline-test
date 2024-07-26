@@ -29,28 +29,9 @@ Human cytomegalovirus (CMV) is a highly prevalent herpesvirus that is often tran
 
 ---
 
-## The interplay between diet and the gut microbiome: implications for health and disease.
- 15.07.2024, _FC Ross, D Patangia, G Grimaud, A Lavelle, EM Dempsey, RP Ross, C Stanton_
-
-
-Diet has a pivotal role in shaping the composition, function and diversity of the gut microbiome, with various diets having a profound impact on the stability, functionality and diversity of the microbial community within our gut. Understanding the profound impact of varied diets on the microbiome is crucial, as it will enable us not only to make well-informed dietary decisions for better metabolic and intestinal health, but also to prevent and slow the onset of specific diet-related diseases that stem from suboptimal diets. In this Review, we explore how geographical location affects the gut microbiome and how different diets shape its composition and function. We examine the mechanisms by which whole dietary regimes, such as the Mediterranean diet, high-fibre diet, plant-based diet, high-protein diet, ketogenic diet and Western diet, influence the gut microbiome. Furthermore, we underscore the need for exhaustive studies to better understand the causal relationship between diet, host and microorganisms for the development of precision nutrition and microbiome-based therapies.
+## The interplay between diet and the gut microbiome: implications for health and disease
 
 [Source](https://www.nature.com/articles/s41579-024-01068-4)
-
-10.1038/s41579-024-01068-4
-
----
-
-## The role of microbiota in immunotherapy outcomes in colorectal cancer patients: A protocol for a systematic review.
- 08.09.2022, _S Ajab, S Zoughbor, L Labania, M Olanda, L Östlundh, Z Al Rasbi_
-
-
-_Colorectal Neoplasms, Gastrointestinal Microbiome, Humans, Immunotherapy, Research Design, Systematic Reviews as Topic, Treatment Outcome_
-In the human gut, there are many microbes, including bacteria, viruses and parasites. The imbalance in the numbers of each type of these microbes can translate into gastrointestinal disorders. Lately, different microbiota patterns have been associated with the levels of efficacy of immunotherapy in multiple cancer conditions. Studies have shown that patients with a more diverse gut microbiome respond better to immunotherapy than those with a homogeneous microbiome. This systematic review aims to identify and assess the available evidence on the efficacy of immunotherapy in treating colorectal cancer (CRC) patients and the effect of their microbiota on their treatment outcomes. The researchers will study the literature regarding CRC and immunotherapy outcomes to survey the different approaches employed to assess the treatment outcomes. A systematic search will be performed in five biomedical databases (PubMed, Scopus, Web of Science, Embase, and the Cochrane Library) in June-July, 2022. Also, open-access registers of clinical trials will be trawled. The search will be conducted without geographical or publication date restrictions; however, only papers published in the English language will be sought. Details regarding patients' diets, lifestyles, and characteristics will be assessed. We will define the primary outcome to compare CRC patients' immunotherapy responses with their gut microbiota composition. The systematic review methodology does not require ethics approval due to the nature of the study design. The systematic review results will be published in an open-access peer-reviewed journal. PROSPERO ID: CRD42021277691.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307639)
-
-10.1371/journal.pone.0273314
 
 ---
 
