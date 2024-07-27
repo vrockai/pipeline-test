@@ -59,16 +59,9 @@ Human cytomegalovirus (CMV) is a highly prevalent herpesvirus that is often tran
 
 ---
 
-## Endogenous retroviruses mediate transcriptional rewiring in response to oncogenic signaling in colorectal cancer.
- 19.07.2024, _A Ivancevic, DM Simpson, OM Joyner, SM Bagby, LL Nguyen, BG Bitler, TM Pitts, EB Chuong_
-
-
-_Humans, Colorectal Neoplasms, Endogenous Retroviruses, Gene Expression Regulation, Neoplastic, Signal Transduction, Enhancer Elements, Genetic, Cell Line, Tumor, Transcription, Genetic, Animals, Carcinogenesis, Gene Regulatory Networks_
-Cancer cells exhibit rewired transcriptional regulatory networks that promote tumor growth and survival. However, the mechanisms underlying the formation of these pathological networks remain poorly understood. Through a pan-cancer epigenomic analysis, we found that primate-specific endogenous retroviruses (ERVs) are a rich source of enhancers displaying cancer-specific activity. In colorectal cancer and other epithelial tumors, oncogenic MAPK/AP1 signaling drives the activation of enhancers derived from the primate-specific ERV family LTR10. Functional studies in colorectal cancer cells revealed that LTR10 elements regulate tumor-specific expression of multiple genes associated with tumorigenesis, such as ATG12 and XRCC4. Within the human population, individual LTR10 elements exhibit germline and somatic structural variation resulting from a highly mutable internal tandem repeat region, which affects AP1 binding activity. Our findings reveal that ERV-derived enhancers contribute to transcriptional dysregulation in response to oncogenic signaling and shape the evolution of cancer-specific regulatory networks.
+## Endogenous retroviruses mediate transcriptional rewiring in response to oncogenic signaling in colorectal cancer
 
 [Source](https://www.science.org/doi/10.1126/sciadv.ado1218)
-
-10.1126/sciadv.ado1218
 
 ---
 
@@ -78,16 +71,9 @@ Cancer cells exhibit rewired transcriptional regulatory networks that promote tu
 
 ---
 
-## Viruses of free-roaming and hunting dogs in Uganda show elevated prevalence, richness and abundance across a gradient of contact with wildlife.
- 24.07.2024, _DS Tayebwa, D Hyeroba, CD Dunn, E Dunay, JC Richard, S Biryomumaisho, JO Acai, TL Goldberg_
-
-
-_Animals, Dogs, Uganda, Dog Diseases, Prevalence, Animals, Wild, Virome, Viruses, Metagenomics, Anelloviridae, Humans, Virus Diseases_
-Domestic dogs (Canis lupus familiaris) live with humans, frequently contact other animals and may serve as intermediary hosts for the transmission of viruses. Free-roaming dogs, which account for over 70% of the world's domestic dog population, may pose a particularly high risk in this regard. We conducted an epidemiological study of dog viromes in three locations in Uganda, representing low, medium and high rates of contact with wildlife, ranging from dogs owned specifically for traditional hunting in a biodiversity and disease 'hotspot' to pets in an affluent suburb. We quantified rates of contact between dogs and wildlife through owner interviews and conducted canine veterinary health assessments. We then applied broad-spectrum viral metagenomics to blood plasma samples, from which we identified 46 viruses, 44 of which were previously undescribed, in three viral families, Sedoreoviridae, Parvoviridae and Anelloviridae. All 46 viruses (100 %) occurred in the high-contact population of dogs compared to 63 % and 39 % in the medium- and low-contact populations, respectively. Viral prevalence ranged from 2.1 % to 92.0 % among viruses and was highest, on average, in the high-contact population (22.3 %), followed by the medium-contact (12.3 %) and low-contact (4.8 %) populations. Viral richness (number of viruses per dog) ranged from 0 to 27 and was markedly higher, on average, in the high-contact population (10.2) than in the medium-contact (5.7) or low-contact (2.3) populations. Viral richness was strongly positively correlated with the number of times per year that a dog was fed wildlife and negatively correlated with the body condition score, body temperature and packed cell volume. Viral abundance (cumulative normalized metagenomic read density) varied 124-fold among dogs and was, on average, 4.1-fold higher and 2.4-fold higher in the high-contact population of dogs than in the low-contact or medium-contact populations, respectively. Viral abundance was also strongly positively correlated with the number of times per year that a dog was fed wildlife, negatively correlated with packed cell volume and positively correlated with white blood cell count. These trends were driven by nine viruses in the family Anelloviridae, genus Thetatorquevirus, and by one novel virus in the family Sedoreoviridae, genus Orbivirus. The genus Orbivirus contains zoonotic viruses and viruses that dogs can acquire through ingestion of infected meat. Overall, our findings show that viral prevalence, richness and abundance increased across a gradient of contact between dogs and wildlife and that the health status of the dog modified viral infection. Other ecological, geographic and social factors may also have contributed to these trends. Our finding of a novel orbivirus in dogs with high wildlife contact supports the idea that free-roaming dogs may serve as intermediary hosts for viruses of medical importance to humans and other animals.
+## Viruses of free-roaming and hunting dogs in Uganda show elevated prevalence, richness and abundance across a gradient of contact with wildlife
 
 [Source](https://www.microbiologyresearch.org/content/journal/jgv/10.1099/jgv.0.002011)
-
-10.1099/jgv.0.002011
 
 ---
 
