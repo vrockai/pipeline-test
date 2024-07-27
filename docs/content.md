@@ -59,9 +59,16 @@ Human cytomegalovirus (CMV) is a highly prevalent herpesvirus that is often tran
 
 ---
 
-## Endogenous retroviruses mediate transcriptional rewiring in response to oncogenic signaling in colorectal cancer
+## Endogenous retroviruses mediate transcriptional rewiring in response to oncogenic signaling in colorectal cancer.
+ 19.07.2024, _A Ivancevic, DM Simpson, OM Joyner, SM Bagby, LL Nguyen, BG Bitler, TM Pitts, EB Chuong_
+
+
+_Humans, Colorectal Neoplasms, Endogenous Retroviruses, Gene Expression Regulation, Neoplastic, Signal Transduction, Enhancer Elements, Genetic, Cell Line, Tumor, Transcription, Genetic, Animals, Carcinogenesis, Gene Regulatory Networks_
+Cancer cells exhibit rewired transcriptional regulatory networks that promote tumor growth and survival. However, the mechanisms underlying the formation of these pathological networks remain poorly understood. Through a pan-cancer epigenomic analysis, we found that primate-specific endogenous retroviruses (ERVs) are a rich source of enhancers displaying cancer-specific activity. In colorectal cancer and other epithelial tumors, oncogenic MAPK/AP1 signaling drives the activation of enhancers derived from the primate-specific ERV family LTR10. Functional studies in colorectal cancer cells revealed that LTR10 elements regulate tumor-specific expression of multiple genes associated with tumorigenesis, such as ATG12 and XRCC4. Within the human population, individual LTR10 elements exhibit germline and somatic structural variation resulting from a highly mutable internal tandem repeat region, which affects AP1 binding activity. Our findings reveal that ERV-derived enhancers contribute to transcriptional dysregulation in response to oncogenic signaling and shape the evolution of cancer-specific regulatory networks.
 
 [Source](https://www.science.org/doi/10.1126/sciadv.ado1218)
+
+10.1126/sciadv.ado1218
 
 ---
 
