@@ -35,42 +35,21 @@ Human cytomegalovirus (CMV) is a highly prevalent herpesvirus that is often tran
 
 ---
 
-## Microbiota composition effect on immunotherapy outcomes in colorectal cancer patients: A systematic review.
- 25.07.2024, _SM Ajab, SH Zoughbor, LA Labania, LM Östlundh, HS Orsud, MA Olanda, O Alkaabi, SH Alkuwaiti, SM Alnuaimi, Z Al Rasbi_
-
-
-_Humans, Colorectal Neoplasms, Gastrointestinal Microbiome, Immunotherapy, Immune Checkpoint Inhibitors, Treatment Outcome, Feces_
-Immune checkpoint inhibitors (ICIs) have emerged as an effective treatment for colorectal cancer (CRC). Studies indicate that the composition of gut microbiota could potentially serve as a biomarker for predicting the clinical effectiveness of immune checkpoint inhibitors.
+## Microbiota composition effect on immunotherapy outcomes in colorectal cancer patients: A systematic review
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307639)
 
-10.1371/journal.pone.0307639
-
 ---
 
-## Altitude-dependent agro-ecologies impact the microbiome diversity of scavenging indigenous chicken in Ethiopia.
- 26.07.2024, _L Glendinning, X Jia, A Kebede, SO Oyola, JE Park, W Park, A Assiri, JB Holm, K Kristiansen, J Han, O Hanotte_
-
-
-_Animals, Chickens, Ethiopia, Altitude, Bacteria, Gastrointestinal Microbiome, Metagenome, Cecum, Microbiota, Biodiversity, Phylogeny_
-Scavenging indigenous village chickens play a vital role in sub-Saharan Africa, sustaining the livelihood of millions of farmers. These chickens are exposed to vastly different environments and feeds compared to commercial chickens. In this study, we analysed the caecal microbiota of 243 Ethiopian village chickens living in different altitude-dependent agro-ecologies.
+## Altitude-dependent agro-ecologies impact the microbiome diversity of scavenging indigenous chicken in Ethiopia
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01847-4)
 
-10.1186/s40168-024-01847-4
-
 ---
 
-## Effect of soybean and seaweed-based diets on growth performance, feed utilization, and gut microbiota of tilapia: A systematic review and meta-analysis.
- 25.07.2024, _LDA Viagem, JN Hakizimana, C Rumisha, BDS Cerozi, G Misinzo_
-
-
-_Animals, Seaweed, Gastrointestinal Microbiome, Animal Feed, Glycine max, Tilapia, Aquaculture, Diet_
-Tilapia, a significant aquaculture species globally, relies heavily on feed for its production. While numerous studies have investigated the impact of soybean and seaweed-based diets on tilapia, a comprehensive understanding remains elusive. This review aimed at evaluating and synthesizing the existing literature on these diets' effects, focusing on growth performance, feed utilization, and gut microbiota. A systematic search of databases was conducted using Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines and a total of 57 studies were included in the qualitative analysis and 24 in the meta-analysis. The results indicated that soybean-based diets, at a 59.4% inclusion level improved the Specific Growth Rate (SGR) of tilapia with an effect size of -2.14 (95% CI: -2.92, -1.37; p &lt; 0.00001; I2 = 99%) and did not improve the feed conversion rate (FCR), as the effect size was 1.80 (95% CI: 0.72, 2.89; p = 0.001; I2 = 100%). For seaweed-based diets, at a 15,9% inclusion level did not improve SGR, with an effect size of -0.74 (95% CI: -1.70, 0.22; p = 0.13; I2 = 99%), and the FCR with an effect size of -0.70 (95% CI: -1.94, 0.54; p = 0.27; I2 = 100%). Regarding the gut microbiota, was noted a lack of studies meeting the inclusion criteria for tilapia. However, findings from studies on other farmed fishes suggested that soybean and seaweed-based diets could have diverse effects on gut microbiota composition and promote the growth of beneficial microbiota. This study suggests that incorporating soybean-based diets at 59.4% inclusion can improve the SGR of tilapia. Seaweed-based diets, while not demonstrating improvement in the analyzed parameters with an inclusion level of 15.9%, have the potential to contribute to the sustainability of the aquaculture industry when incorporated at lower levels.
+## Effect of soybean and seaweed-based diets on growth performance, feed utilization, and gut microbiota of tilapia: A systematic review and meta-analysis
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293775)
-
-10.1371/journal.pone.0293775
 
 ---
 
@@ -80,16 +59,9 @@ Tilapia, a significant aquaculture species globally, relies heavily on feed for 
 
 ---
 
-## Endogenous retroviruses mediate transcriptional rewiring in response to oncogenic signaling in colorectal cancer.
- 19.07.2024, _A Ivancevic, DM Simpson, OM Joyner, SM Bagby, LL Nguyen, BG Bitler, TM Pitts, EB Chuong_
-
-
-_Humans, Colorectal Neoplasms, Endogenous Retroviruses, Gene Expression Regulation, Neoplastic, Signal Transduction, Enhancer Elements, Genetic, Cell Line, Tumor, Transcription, Genetic, Animals, Carcinogenesis, Gene Regulatory Networks_
-Cancer cells exhibit rewired transcriptional regulatory networks that promote tumor growth and survival. However, the mechanisms underlying the formation of these pathological networks remain poorly understood. Through a pan-cancer epigenomic analysis, we found that primate-specific endogenous retroviruses (ERVs) are a rich source of enhancers displaying cancer-specific activity. In colorectal cancer and other epithelial tumors, oncogenic MAPK/AP1 signaling drives the activation of enhancers derived from the primate-specific ERV family LTR10. Functional studies in colorectal cancer cells revealed that LTR10 elements regulate tumor-specific expression of multiple genes associated with tumorigenesis, such as ATG12 and XRCC4. Within the human population, individual LTR10 elements exhibit germline and somatic structural variation resulting from a highly mutable internal tandem repeat region, which affects AP1 binding activity. Our findings reveal that ERV-derived enhancers contribute to transcriptional dysregulation in response to oncogenic signaling and shape the evolution of cancer-specific regulatory networks.
+## Endogenous retroviruses mediate transcriptional rewiring in response to oncogenic signaling in colorectal cancer
 
 [Source](https://www.science.org/doi/10.1126/sciadv.ado1218)
-
-10.1126/sciadv.ado1218
 
 ---
 
