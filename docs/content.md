@@ -23,28 +23,15 @@ Human cytomegalovirus (CMV) is a highly prevalent herpesvirus that is often tran
 
 ---
 
-## Metagenomic sequencing of the skin microbiota of the scalp predicting the risk of surgical site infections following surgery of traumatic brain injury in sub-Saharan Africa.
- 24.07.2024, _HM Lekuya, DP Kateete, G Olweny, E Kigozi, LK Kamabu, SP Mudekereza, R Nantambi, R Mbiine, F Makumbi, S Cose, J Vandersteene, E Baert, JO Kalala, M Galukande_
-
-
-_Humans, Male, Surgical Wound Infection, Female, Scalp, Adult, Microbiota, Metagenomics, Brain Injuries, Traumatic, Prospective Studies, Africa South of the Sahara, Skin, Young Adult, Adolescent, RNA, Ribosomal, 16S, Uganda, Middle Aged, Risk Factors, Metagenome_
-Surgical site infections (SSI) are a significant concern following traumatic brain injury (TBI) surgery and often stem from the skin's microbiota near the surgical site, allowing bacteria to penetrate deeper layers and potentially causing severe infections in the cranial cavity. This study investigated the relationship between scalp skin microbiota composition and the risk of SSI after TBI surgery in sub-Saharan Africa (SSA).
+## Metagenomic sequencing of the skin microbiota of the scalp predicting the risk of surgical site infections following surgery of traumatic brain injury in sub-Saharan Africa
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303483)
 
-10.1371/journal.pone.0303483
-
 ---
 
-## The interplay between diet and the gut microbiome: implications for health and disease.
- 15.07.2024, _FC Ross, D Patangia, G Grimaud, A Lavelle, EM Dempsey, RP Ross, C Stanton_
-
-
-Diet has a pivotal role in shaping the composition, function and diversity of the gut microbiome, with various diets having a profound impact on the stability, functionality and diversity of the microbial community within our gut. Understanding the profound impact of varied diets on the microbiome is crucial, as it will enable us not only to make well-informed dietary decisions for better metabolic and intestinal health, but also to prevent and slow the onset of specific diet-related diseases that stem from suboptimal diets. In this Review, we explore how geographical location affects the gut microbiome and how different diets shape its composition and function. We examine the mechanisms by which whole dietary regimes, such as the Mediterranean diet, high-fibre diet, plant-based diet, high-protein diet, ketogenic diet and Western diet, influence the gut microbiome. Furthermore, we underscore the need for exhaustive studies to better understand the causal relationship between diet, host and microorganisms for the development of precision nutrition and microbiome-based therapies.
+## The interplay between diet and the gut microbiome: implications for health and disease
 
 [Source](https://www.nature.com/articles/s41579-024-01068-4)
-
-10.1038/s41579-024-01068-4
 
 ---
 
