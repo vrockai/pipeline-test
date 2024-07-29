@@ -25,7 +25,7 @@ The human gut flora comprises a dynamic network of bacterial species that coexis
 ---
 
 ## Target-Driven Tissue-Agnostic Drug Approvals-A New Path of Drug Development.
- 27.07.2024, _KZ Thein, YM Myat, BS Park, K Panigrahi, S Kummar_
+ 29.07.2024, _KZ Thein, YM Myat, BS Park, K Panigrahi, S Kummar_
 
 
 The regulatory approvals of tumor-agnostic therapies have led to the re-evaluation of the drug development process. The conventional models of drug development are histology-based. On the other hand, the tumor-agnostic drug development of a new drug (or combination) focuses on targeting a common genomic biomarker in multiple cancers, regardless of histology. The basket-like clinical trials with multiple cohorts allow clinicians to evaluate pan-cancer efficacy and toxicity. There are currently eight tumor agnostic approvals granted by the Food and Drug Administration (FDA). This includes two immune checkpoint inhibitors, and five targeted therapy agents. Pembrolizumab is an anti-programmed cell death protein-1 (PD-1) antibody that was the first FDA-approved tumor-agnostic treatment for unresectable or metastatic microsatellite instability-high (MSI-H) or deficient mismatch repair (dMMR) solid tumors in 2017. It was later approved for tumor mutational burden-high (TMB-H) solid tumors, although the TMB cut-off used is still debated. Subsequently, in 2021, another anti-PD-1 antibody, dostarlimab, was also approved for dMMR solid tumors in the refractory setting. Patients with fusion-positive cancers are typically difficult to treat due to their rare prevalence and distribution. Gene rearrangements or fusions are present in a variety of tumors. Neurotrophic tyrosine kinase (NTRK) fusions are present in a range of pediatric and adult solid tumors in varying frequency. Larotrectinib and entrectinib were approved for neurotrophic tyrosine kinase (NTRK) fusion-positive cancers. Similarly, selpercatinib was approved for rearranged during transfection (RET) fusion-positive solid tumors. The FDA approved the first combination therapy of dabrafenib, a B-Raf proto-oncogene serine/threonine kinase (BRAF) inhibitor, plus trametinib, a mitogen-activated protein kinase (MEK) inhibitor for patients 6 months or older with unresectable or metastatic tumors (except colorectal cancer) carrying a BRAFV600E mutation. The most recent FDA tumor-agnostic approval is of fam-trastuzumab deruxtecan-nxki (T-Dxd) for HER2-positive solid tumors. It is important to identify and expeditiously develop drugs that have the potential to provide clinical benefit across tumor types.
@@ -80,7 +80,7 @@ Shifts in the gut microbiota and metabolites are interrelated with liver cirrhos
 ---
 
 ## Detection of Microplastics in Human Breast Milk and Its Association with Changes in Human Milk Bacterial Microbiota.
- 28.07.2024, _A Saraluck, T Techarang, P Bunyapipat, K Boonchuwong, Y Pullaput, A Mordmuang_
+ 29.07.2024, _A Saraluck, T Techarang, P Bunyapipat, K Boonchuwong, Y Pullaput, A Mordmuang_
 
 
 Background: Presently, there is increasing public consciousness regarding the contamination and detection of microplastics (MPs) within the human body, and studies on the detection and characterization of MPs in human breast milk are limited. Objectives: This study aims to investigate the prevalence and characteristics of MPs found in human breast milk and examine the relationship between maternal hygiene practices, complications that may arise during breastfeeding, and the composition of the bacterial microbiota. Methods: Postpartum breast milk was analyzed for MPs using Raman micro-spectroscopy. The relationship between MP detection, maternal hygiene, breastfeeding complications, and bacterial microbiota was examined. In order to identify correlations and differences between groups that had detected and non-detected MPs, statistical analyses were performed, which involved demographic comparisons and correlation network analysis. Results: The mean age of the 59 postpartum women was 28.13 years. We found MPs in 38.98% of breast milk samples (23 of 59), exhibiting diverse morphological and chemical characteristics. Most MP polymers were polypropylene, polyethylene, polystyrene, and polyvinyl chloride. Maternal hygiene and breastfeeding complications differed between the MPs-detected and non-detected groups. Maternal behaviors may influence the presence of microplastics in breast milk, which were associated with these differences. Bacterial microbiota analysis revealed significant taxonomic differences between the MPs-detected and non-detected groups. Staphylococcus and Streptococcus dominated the MPs-detected group, while Enterobacter, Escherichia, Pseudomonas, and Acinetobacter dominated the non-detected group. The MPs-detected group had a more even bacterial distribution, especially Bacteroides. Conclusions: This study found MPs in 38.98% of breast milk samples using Raman micro-spectrometry, with PP, PE, and PVC being the most common. Significant differences in maternal hygiene and breastfeeding complications were found between the groups with and without MPs. Breast milk microbiota may be linked to MP detection. Further study should be conducted to identify the possible maternal-child health.
@@ -92,7 +92,7 @@ Background: Presently, there is increasing public consciousness regarding the co
 ---
 
 ## Regional Differences in Microbial Infiltration of Brain Tissue from Alzheimer's Disease Patients and Control Individuals.
- 27.07.2024, _TB Jones, P Chu, B Wilkey, L Lynch, G Jentarra_
+ 29.07.2024, _TB Jones, P Chu, B Wilkey, L Lynch, G Jentarra_
 
 
 Alzheimer's disease (AD) is characterized by cognitive decline and neuropathology including amyloid beta (Aβ) plaques and neurofibrillary tangles (tau). Factors initiating or driving these pathologies remain unclear, though microbes have been increasingly implicated. Our data and others' findings indicate that microbes may be common constituents of the brain. It is notable that Aβ and tau have antimicrobial properties, suggesting a response to microbes in the brain. We used 16S rRNA sequencing to compare major bacterial phyla in post-mortem tissues from individuals exhibiting a range of neuropathology and cognitive status in two brain regions variably affected in AD. Our data indicate that strong regional differences exist, driven in part by the varied presence of Proteobacteria and Firmicutes. We confirmed our data using ELISA of bacterial lipopolysaccharide (LPS) and lipoteichoic acid in the same brain tissue. We identified a potential association between the composition of phyla and the presence of neuropathology but not cognitive status. Declining cognition and increasing pathology correlated closely with serum LPS, but not brain levels of LPS, although brain LPS showed a strong negative correlation with cerebral amyloid angiopathy. Collectively, our data suggest a region-specific heterogeneity of microbial populations in brain tissue potentially associated with neurodegenerative pathology.
@@ -147,65 +147,33 @@ Synbiotics are complex preparations of prebiotics that can be selectively utiliz
 
 ---
 
-## Multiomics of parkinsonism cynomolgus monkeys highlights significance of metabolites in interaction between host and microbiota.
- 28.07.2024, _JM Gao, SY Xia, G Hide, BH Li, YY Liu, ZY Wei, XJ Zhuang, Q Yan, Y Wang, W Yang, JH Chen, JH Rao_
-
-
-_Animals, Macaca fascicularis, Gastrointestinal Microbiome, Feces, Disease Models, Animal, Dysbiosis, Male, Bacteria, Parkinsonian Disorders, Metabolomics, Metabolome, Host Microbial Interactions, Multiomics_
-The gut microbiota has been demonstrated to play a significant role in the pathogenesis of Parkinson's disease (PD). However, conflicting findings regarding specific microbial species have been reported, possibly due to confounding factors within human populations. Herein, our current study investigated the interaction between the gut microbiota and host in a non-human primate (NHP) PD model induced by 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) using a multi-omic approach and a self-controlled design. Our transcriptomic sequencing of peripheral blood leukocytes (PBL) identified key genes involved in pro-inflammatory cytokine dysregulation, mitochondrial function regulation, neuroprotection activation, and neurogenesis associated with PD, such as IL1B, ATP1A3, and SLC5A3. The metabolomic profiles in serum and feces consistently exhibited significant alterations, particularly those closely associated with inflammation, mitochondrial dysfunctions and neurodegeneration in PD, such as TUDCA, ethylmalonic acid, and L-homophenylalanine. Furthermore, fecal metagenome analysis revealed gut dysbiosis associated with PD, characterized by a significant decrease in alpha diversity and altered commensals, particularly species such as Streptococcus, Butyrivibrio, and Clostridium. Additionally, significant correlations were observed between PD-associated microbes and metabolites, such as sphingomyelin and phospholipids. Importantly, PDPC significantly reduced in both PD monkey feces and serum, exhibiting strong correlation with PD-associated genes and microbes, such as SLC5A3 and Butyrivibrio species. Moreover, such multi-omic differential biomarkers were linked to the clinical rating scales of PD monkeys. Our findings provided novel insights into understanding the potential role of key metabolites in the host-microbiota interaction involved in PD pathogenesis.
+## Multiomics of parkinsonism cynomolgus monkeys highlights significance of metabolites in interaction between host and microbiota
 
 [Source](https://doi.org/10.1038/s41522-024-00535-3)
 
-10.1038/s41522-024-00535-3
-
 ---
 
-## Vaginal and Uterine Microbiota of Healthy Maiden Mares during Estrus.
- 28.07.2024, _A Gil-Miranda, B Caddey, D Orellana-Guerrero, H Smith, JC Samper, DE Gomez_
-
-
-This descriptive cross-sectional study compared the microbiota of the uterus, vagina, clitoral fossa (CF), and perineal skin in healthy maiden mares during estrus. Twelve synchronized, healthy maiden mares (3-4 years old) from one single recipient mare herd were included. Microbial communities were characterized by amplifying the V3-V4 region of the 16S rRNA gene using the Illumina MiSeq platform. The uterine and vaginal microbiota had significantly lower richness (Chao-1) than the skin (p &lt; 0.05). The uterine and vagina bacterial composition was similar in presence and abundance and could be differentiated from that of the CF and perineal skin. The microbial composition (Jaccard and Bray-Curtis distances) significantly differed across body-site locations (p &lt; 0.05), which explained approximately 14% and 19% of the variation in microbial composition for Jaccard and Bray-Curtis distances, respectively. Firmicutes, Actinobacteria, Proteobacteria, and Bacteroidetes were the dominant taxa in the uterus and vagina, with higher proportions of Proteobacteria in the vaginal samples compared to the uterine samples. Streptococcaceae and Staphylococcaceae were present in high abundance in the uterine and vaginal samples, while Lactobacillaceae were not (&lt;10%). We demonstrate that the uterine and vaginal microbiota of healthy maiden mares during estrus is similar but both distinct from that of the CF and perineal skin.
+## Vaginal and Uterine Microbiota of Healthy Maiden Mares during Estrus
 
 [Source](https://doi.org/10.3390/vetsci11070323)
 
-10.3390/vetsci11070323
-
 ---
 
-## Reproductive Tract Microbiota of Mares.
- 28.07.2024, _A Gil-Miranda, J Macnicol, D Orellana-Guerrero, JC Samper, DE Gomez_
-
-
-The female reproductive tract microbiota is a complex community of microorganisms that might be crucial in maintaining a healthy reproductive environment. Imbalances in the bacterial community (dysbiosis) and the reduction of beneficial organisms and pathogen proliferation are associated with disease. Endometritis is a common cause of fertility problems in mares, and it is still challenging to diagnose and treat based on routine culture results of certain microorganisms. Although high-throughput sequencing studies provide helpful information regarding the composition of the reproductive tract microbiota in mares, there are still challenges in defining a "normal" microbiota. The primary objective of this literature review is to summarize the current knowledge regarding the microbiota present in the reproductive tract of mares, including the vagina, cervix, and uterus. The second objective is to describe the relevant factors that can impact the reproductive microbiota of mares, including the estrous cycle stage, the type of species (genera) investigated, season, and geographic location. The rationality of identifying the normal microbiota in the reproductive tract of a mare will likely aid in understanding the impact of the microbiota on the host's reproductive health and contribute to the treatment and prevention of equine sub and infertility issues.
+## Reproductive Tract Microbiota of Mares
 
 [Source](https://doi.org/10.3390/vetsci11070324)
 
-10.3390/vetsci11070324
-
 ---
 
-## Soils of two Antarctic Dry Valleys exhibit unique microbial community structures in response to similar environmental disturbances.
- 28.07.2024, _MS Baptista, CK Lee, MR Monteiro, L Torgo, SC Cary, C Magalhães_
-
-
-Isolating the effects of deterministic variables (e.g., physicochemical conditions) on soil microbial communities from those of neutral processes (e.g., dispersal) remains a major challenge in microbial ecology. In this study, we disturbed soil microbial communities of two McMurdo Dry Valleys of Antarctica exhibiting distinct microbial biogeographic patterns, both devoid of aboveground biota and different in macro- and micro-physicochemical conditions. We modified the availability of water, nitrogen, carbon, copper ions, and sodium chloride salts in a laboratory-based experiment and monitored the microbial communities for up to two months. Our aim was to mimic a likely scenario in the near future, in which similar selective pressures will be applied to both valleys. We hypothesized that, given their unique microbial communities, the two valleys would select for different microbial populations when subjected to the same disturbances.
+## Soils of two Antarctic Dry Valleys exhibit unique microbial community structures in response to similar environmental disturbances
 
 [Source](https://doi.org/10.1186/s40793-024-00587-0)
 
-10.1186/s40793-024-00587-0
-
 ---
 
-## Thermal sensitivity of soil microbial carbon use efficiency across forest biomes.
- 28.07.2024, _C Ren, Z Zhou, M Delgado-Baquerizo, F Bastida, F Zhao, Y Yang, S Zhang, J Wang, C Zhang, X Han, J Wang, G Yang, G Wei_
-
-
-_Soil Microbiology, Forests, Carbon, Soil, Temperature, Climate Change, Carbon Cycle_
-Understanding the large-scale pattern of soil microbial carbon use efficiency (CUE) and its temperature sensitivity (CUET) is critical for understanding soil carbon-climate feedback. We used the 18O-H2O tracer method to quantify CUE and CUET along a north-south forest transect. Climate was the primary factor that affected CUE and CUET, predominantly through direct pathways, then by altering soil properties, carbon fractions, microbial structure and functions. Negative CUET (CUE decreases with measuring temperature) in cold forests (mean annual temperature lower than 10 °C) and positive CUET (CUE increases with measuring temperature) in warm forests (mean annual temperature greater than 10 °C) suggest that microbial CUE optimally operates at their adapted temperature. Overall, the plasticity of microbial CUE and its temperature sensitivity alter the feedback of soil carbon to climate warming; that is, a climate-adaptive microbial community has the capacity to reduce carbon loss from soil matrices under corresponding favorable climate conditions.
+## Thermal sensitivity of soil microbial carbon use efficiency across forest biomes
 
 [Source](https://doi.org/10.1038/s41467-024-50593-6)
-
-10.1038/s41467-024-50593-6
 
 ---
 
@@ -215,16 +183,9 @@ Understanding the large-scale pattern of soil microbial carbon use efficiency (C
 
 ---
 
-## Soil conditions modify species diversity effects on tree functional trait expression.
- 28.07.2024, _A Davrinche, S Haider_
-
-
-_Soil, Biodiversity, Trees, Soil Microbiology, Plant Leaves, Ecosystem, Phosphorus_
-Examples of positive effects of biodiversity on ecosystem functions have kept accumulating in the last two decades, and functional traits are considered suitable tools to explain their underlying mechanisms. However, traits are rarely studied at the scale where these mechanisms (e.g., complementarity) are likely to originate, that is, between two interacting individuals. In an 18-month greenhouse experiment, we investigated how species diversity (i.e., monospecific or heterospecific tree pairs) affects within-individual leaf traits expression and variation and how this effect is modified by soil conditions. While resource addition through phosphorus fertilization partly strengthened the diversity effects, inoculation of soil microbiota (potentially leading to increased resource accessibility) resulted in counter effects. Hence, in contrast to our expectations, we did not find synergistic effects of the two soil treatments, but we found distinct effects on species following an acquisitive or conservative growth strategy. Overall, our study showed that the effect of species diversity on young trees' adaptability and resource-use strategy needs to be considered alongside soil biotic and abiotic aspects. The influence of soil conditions on species diversity effects is essential to understand mechanisms behind complementarity at the individual level, which ultimately translate to the community scale.
+## Soil conditions modify species diversity effects on tree functional trait expression
 
 [Source](https://doi.org/10.1038/s41598-024-67512-w)
-
-10.1038/s41598-024-67512-w
 
 ---
 
@@ -242,7 +203,7 @@ Mechanistic investigation of host-microbe interactions in the human gut are hind
 ---
 
 ## Compositional Data and Microbiota Analysis: Imagination and Reality.
- 27.07.2024, _T Itagaki, H Kobayashi, KI Sakata, I Miyamoto, A Hasebe, Y Kitagawa_
+ 29.07.2024, _T Itagaki, H Kobayashi, KI Sakata, I Miyamoto, A Hasebe, Y Kitagawa_
 
 
 The relationships among bacterial flora, diseases, and diet have been described by many authors. An operational taxonomic units (OTUs) are the result of clustering the 16S rRNA gene sequences at a certain cutoff value, and they are considered compositional data. As Pearson's correlation coefficient is difficult to interpret, Aitchison's ratio analysis was used to develop a method to handle compositional data. Multivariate analysis was developed because univariate analysis can be subject to large biases. Simulations regarding absolute abundance based on certain assumptions and some analyses, such as nonparametric multidimensional scaling (NMDS), principal component analysis (PCA), and ratio analysis, were conducted in this study. The same content as a 100% stacked bar graph could be expressed in low dimensions using PCA. However, the relative diversity was not reproducible with NMDS. Various assumptions were made regarding absolute abundance based on the relative abundance. However, which assumptions are true could not be determined. In summary, ratio analysis and PCA are useful for analyzing compositional data and the gut microbiota.
