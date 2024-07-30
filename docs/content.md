@@ -189,28 +189,15 @@ Synbiotics are complex preparations of prebiotics that can be selectively utiliz
 
 ---
 
-## A novel system to culture human intestinal organoids under physiological oxygen content to study microbial-host interaction.
- 28.07.2024, _TY Fofanova, UC Karandikar, JM Auchtung, RL Wilson, AJ Valentin, RA Britton, KJ Grande-Allen, MK Estes, K Hoffman, S Ramani, CJ Stewart, JF Petrosino_
-
-
-_Humans, Organoids, Oxygen, Coculture Techniques, Intestinal Mucosa, Gastrointestinal Microbiome, Host Microbial Interactions, Bacteria, Anaerobic, Intestines, Bacteroides thetaiotaomicron_
-Mechanistic investigation of host-microbe interactions in the human gut are hindered by difficulty of co-culturing microbes with intestinal epithelial cells. On one hand the gut bacteria are a mix of facultative, aerotolerant or obligate anaerobes, while the intestinal epithelium requires oxygen for growth and function. Thus, a coculture system that can recreate these contrasting oxygen requirements is critical step towards our understanding microbial-host interactions in the human gut. Here, we demonstrate Intestinal Organoid Physoxic Coculture (IOPC) system, a simple and cost-effective method for coculturing anaerobic intestinal bacteria with human intestinal organoids (HIOs). Using commensal anaerobes with varying degrees of oxygen tolerance, such as nano-aerobe Bacteroides thetaiotaomicron and strict anaerobe Blautia sp., we demonstrate that IOPC can successfully support 24-48 hours HIO-microbe coculture. The IOPC recapitulates the contrasting oxygen conditions across the intestinal epithelium seen in vivo. The IOPC cultured HIOs showed increased barrier integrity, and induced expression of immunomodulatory genes. A transcriptomic analysis suggests that HIOs from different donors show differences in the magnitude of their response to coculture with anaerobic bacteria. Thus, the IOPC system provides a robust coculture setup for investigating host-microbe interactions in complex, patient-derived intestinal tissues, that can facilitate the study of mechanisms underlying the role of the microbiome in health and disease.
+## A novel system to culture human intestinal organoids under physiological oxygen content to study microbial-host interaction
 
 [Source](https://doi.org/10.1371/journal.pone.0300666)
 
-10.1371/journal.pone.0300666
-
 ---
 
-## Compositional Data and Microbiota Analysis: Imagination and Reality.
- 29.07.2024, _T Itagaki, H Kobayashi, KI Sakata, I Miyamoto, A Hasebe, Y Kitagawa_
-
-
-The relationships among bacterial flora, diseases, and diet have been described by many authors. An operational taxonomic units (OTUs) are the result of clustering the 16S rRNA gene sequences at a certain cutoff value, and they are considered compositional data. As Pearson's correlation coefficient is difficult to interpret, Aitchison's ratio analysis was used to develop a method to handle compositional data. Multivariate analysis was developed because univariate analysis can be subject to large biases. Simulations regarding absolute abundance based on certain assumptions and some analyses, such as nonparametric multidimensional scaling (NMDS), principal component analysis (PCA), and ratio analysis, were conducted in this study. The same content as a 100% stacked bar graph could be expressed in low dimensions using PCA. However, the relative diversity was not reproducible with NMDS. Various assumptions were made regarding absolute abundance based on the relative abundance. However, which assumptions are true could not be determined. In summary, ratio analysis and PCA are useful for analyzing compositional data and the gut microbiota.
+## Compositional Data and Microbiota Analysis: Imagination and Reality
 
 [Source](https://doi.org/10.3390/microorganisms12071484)
-
-10.3390/microorganisms12071484
 
 ---
 
