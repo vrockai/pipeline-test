@@ -147,33 +147,65 @@ Synbiotics are complex preparations of prebiotics that can be selectively utiliz
 
 ---
 
-## Multiomics of parkinsonism cynomolgus monkeys highlights significance of metabolites in interaction between host and microbiota
+## Multiomics of parkinsonism cynomolgus monkeys highlights significance of metabolites in interaction between host and microbiota.
+ 29.07.2024, _JM Gao, SY Xia, G Hide, BH Li, YY Liu, ZY Wei, XJ Zhuang, Q Yan, Y Wang, W Yang, JH Chen, JH Rao_
+
+
+_Animals, Macaca fascicularis, Gastrointestinal Microbiome, Feces, Disease Models, Animal, Dysbiosis, Male, Bacteria, Parkinsonian Disorders, Metabolomics, Metabolome, Host Microbial Interactions, Multiomics_
+The gut microbiota has been demonstrated to play a significant role in the pathogenesis of Parkinson's disease (PD). However, conflicting findings regarding specific microbial species have been reported, possibly due to confounding factors within human populations. Herein, our current study investigated the interaction between the gut microbiota and host in a non-human primate (NHP) PD model induced by 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) using a multi-omic approach and a self-controlled design. Our transcriptomic sequencing of peripheral blood leukocytes (PBL) identified key genes involved in pro-inflammatory cytokine dysregulation, mitochondrial function regulation, neuroprotection activation, and neurogenesis associated with PD, such as IL1B, ATP1A3, and SLC5A3. The metabolomic profiles in serum and feces consistently exhibited significant alterations, particularly those closely associated with inflammation, mitochondrial dysfunctions and neurodegeneration in PD, such as TUDCA, ethylmalonic acid, and L-homophenylalanine. Furthermore, fecal metagenome analysis revealed gut dysbiosis associated with PD, characterized by a significant decrease in alpha diversity and altered commensals, particularly species such as Streptococcus, Butyrivibrio, and Clostridium. Additionally, significant correlations were observed between PD-associated microbes and metabolites, such as sphingomyelin and phospholipids. Importantly, PDPC significantly reduced in both PD monkey feces and serum, exhibiting strong correlation with PD-associated genes and microbes, such as SLC5A3 and Butyrivibrio species. Moreover, such multi-omic differential biomarkers were linked to the clinical rating scales of PD monkeys. Our findings provided novel insights into understanding the potential role of key metabolites in the host-microbiota interaction involved in PD pathogenesis.
 
 [Source](https://doi.org/10.1038/s41522-024-00535-3)
 
+10.1038/s41522-024-00535-3
+
 ---
 
-## Vaginal and Uterine Microbiota of Healthy Maiden Mares during Estrus
+## Vaginal and Uterine Microbiota of Healthy Maiden Mares during Estrus.
+ 28.07.2024, _A Gil-Miranda, B Caddey, D Orellana-Guerrero, H Smith, JC Samper, DE Gomez_
+
+
+This descriptive cross-sectional study compared the microbiota of the uterus, vagina, clitoral fossa (CF), and perineal skin in healthy maiden mares during estrus. Twelve synchronized, healthy maiden mares (3-4 years old) from one single recipient mare herd were included. Microbial communities were characterized by amplifying the V3-V4 region of the 16S rRNA gene using the Illumina MiSeq platform. The uterine and vaginal microbiota had significantly lower richness (Chao-1) than the skin (p &lt; 0.05). The uterine and vagina bacterial composition was similar in presence and abundance and could be differentiated from that of the CF and perineal skin. The microbial composition (Jaccard and Bray-Curtis distances) significantly differed across body-site locations (p &lt; 0.05), which explained approximately 14% and 19% of the variation in microbial composition for Jaccard and Bray-Curtis distances, respectively. Firmicutes, Actinobacteria, Proteobacteria, and Bacteroidetes were the dominant taxa in the uterus and vagina, with higher proportions of Proteobacteria in the vaginal samples compared to the uterine samples. Streptococcaceae and Staphylococcaceae were present in high abundance in the uterine and vaginal samples, while Lactobacillaceae were not (&lt;10%). We demonstrate that the uterine and vaginal microbiota of healthy maiden mares during estrus is similar but both distinct from that of the CF and perineal skin.
 
 [Source](https://doi.org/10.3390/vetsci11070323)
 
+10.3390/vetsci11070323
+
 ---
 
-## Reproductive Tract Microbiota of Mares
+## Reproductive Tract Microbiota of Mares.
+ 28.07.2024, _A Gil-Miranda, J Macnicol, D Orellana-Guerrero, JC Samper, DE Gomez_
+
+
+The female reproductive tract microbiota is a complex community of microorganisms that might be crucial in maintaining a healthy reproductive environment. Imbalances in the bacterial community (dysbiosis) and the reduction of beneficial organisms and pathogen proliferation are associated with disease. Endometritis is a common cause of fertility problems in mares, and it is still challenging to diagnose and treat based on routine culture results of certain microorganisms. Although high-throughput sequencing studies provide helpful information regarding the composition of the reproductive tract microbiota in mares, there are still challenges in defining a "normal" microbiota. The primary objective of this literature review is to summarize the current knowledge regarding the microbiota present in the reproductive tract of mares, including the vagina, cervix, and uterus. The second objective is to describe the relevant factors that can impact the reproductive microbiota of mares, including the estrous cycle stage, the type of species (genera) investigated, season, and geographic location. The rationality of identifying the normal microbiota in the reproductive tract of a mare will likely aid in understanding the impact of the microbiota on the host's reproductive health and contribute to the treatment and prevention of equine sub and infertility issues.
 
 [Source](https://doi.org/10.3390/vetsci11070324)
 
+10.3390/vetsci11070324
+
 ---
 
-## Soils of two Antarctic Dry Valleys exhibit unique microbial community structures in response to similar environmental disturbances
+## Soils of two Antarctic Dry Valleys exhibit unique microbial community structures in response to similar environmental disturbances.
+ 29.07.2024, _MS Baptista, CK Lee, MR Monteiro, L Torgo, SC Cary, C Magalhães_
+
+
+Isolating the effects of deterministic variables (e.g., physicochemical conditions) on soil microbial communities from those of neutral processes (e.g., dispersal) remains a major challenge in microbial ecology. In this study, we disturbed soil microbial communities of two McMurdo Dry Valleys of Antarctica exhibiting distinct microbial biogeographic patterns, both devoid of aboveground biota and different in macro- and micro-physicochemical conditions. We modified the availability of water, nitrogen, carbon, copper ions, and sodium chloride salts in a laboratory-based experiment and monitored the microbial communities for up to two months. Our aim was to mimic a likely scenario in the near future, in which similar selective pressures will be applied to both valleys. We hypothesized that, given their unique microbial communities, the two valleys would select for different microbial populations when subjected to the same disturbances.
 
 [Source](https://doi.org/10.1186/s40793-024-00587-0)
 
+10.1186/s40793-024-00587-0
+
 ---
 
-## Thermal sensitivity of soil microbial carbon use efficiency across forest biomes
+## Thermal sensitivity of soil microbial carbon use efficiency across forest biomes.
+ 28.07.2024, _C Ren, Z Zhou, M Delgado-Baquerizo, F Bastida, F Zhao, Y Yang, S Zhang, J Wang, C Zhang, X Han, J Wang, G Yang, G Wei_
+
+
+_Soil Microbiology, Forests, Carbon, Soil, Temperature, Climate Change, Carbon Cycle_
+Understanding the large-scale pattern of soil microbial carbon use efficiency (CUE) and its temperature sensitivity (CUET) is critical for understanding soil carbon-climate feedback. We used the 18O-H2O tracer method to quantify CUE and CUET along a north-south forest transect. Climate was the primary factor that affected CUE and CUET, predominantly through direct pathways, then by altering soil properties, carbon fractions, microbial structure and functions. Negative CUET (CUE decreases with measuring temperature) in cold forests (mean annual temperature lower than 10 °C) and positive CUET (CUE increases with measuring temperature) in warm forests (mean annual temperature greater than 10 °C) suggest that microbial CUE optimally operates at their adapted temperature. Overall, the plasticity of microbial CUE and its temperature sensitivity alter the feedback of soil carbon to climate warming; that is, a climate-adaptive microbial community has the capacity to reduce carbon loss from soil matrices under corresponding favorable climate conditions.
 
 [Source](https://doi.org/10.1038/s41467-024-50593-6)
+
+10.1038/s41467-024-50593-6
 
 ---
 
@@ -196,9 +228,16 @@ Examples of positive effects of biodiversity on ecosystem functions have kept ac
 
 ---
 
-## A novel system to culture human intestinal organoids under physiological oxygen content to study microbial-host interaction
+## A novel system to culture human intestinal organoids under physiological oxygen content to study microbial-host interaction.
+ 28.07.2024, _TY Fofanova, UC Karandikar, JM Auchtung, RL Wilson, AJ Valentin, RA Britton, KJ Grande-Allen, MK Estes, K Hoffman, S Ramani, CJ Stewart, JF Petrosino_
+
+
+_Humans, Organoids, Oxygen, Coculture Techniques, Intestinal Mucosa, Gastrointestinal Microbiome, Host Microbial Interactions, Bacteria, Anaerobic, Intestines, Bacteroides thetaiotaomicron_
+Mechanistic investigation of host-microbe interactions in the human gut are hindered by difficulty of co-culturing microbes with intestinal epithelial cells. On one hand the gut bacteria are a mix of facultative, aerotolerant or obligate anaerobes, while the intestinal epithelium requires oxygen for growth and function. Thus, a coculture system that can recreate these contrasting oxygen requirements is critical step towards our understanding microbial-host interactions in the human gut. Here, we demonstrate Intestinal Organoid Physoxic Coculture (IOPC) system, a simple and cost-effective method for coculturing anaerobic intestinal bacteria with human intestinal organoids (HIOs). Using commensal anaerobes with varying degrees of oxygen tolerance, such as nano-aerobe Bacteroides thetaiotaomicron and strict anaerobe Blautia sp., we demonstrate that IOPC can successfully support 24-48 hours HIO-microbe coculture. The IOPC recapitulates the contrasting oxygen conditions across the intestinal epithelium seen in vivo. The IOPC cultured HIOs showed increased barrier integrity, and induced expression of immunomodulatory genes. A transcriptomic analysis suggests that HIOs from different donors show differences in the magnitude of their response to coculture with anaerobic bacteria. Thus, the IOPC system provides a robust coculture setup for investigating host-microbe interactions in complex, patient-derived intestinal tissues, that can facilitate the study of mechanisms underlying the role of the microbiome in health and disease.
 
 [Source](https://doi.org/10.1371/journal.pone.0300666)
+
+10.1371/journal.pone.0300666
 
 ---
 
