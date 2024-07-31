@@ -42,7 +42,7 @@ Gut dysbiosis has been associated with colorectal cancer (CRC), the third most p
 ---
 
 ## Effect of different delivery modes on intestinal microbiota and immune function of neonates.
- 29.07.2024, _C Lai, L Huang, Y Wang, C Huang, Y Luo, X Qin, J Zeng_
+ 31.07.2024, _C Lai, L Huang, Y Wang, C Huang, Y Luo, X Qin, J Zeng_
 
 
 _Humans, Infant, Newborn, Gastrointestinal Microbiome, Female, Delivery, Obstetric, Cesarean Section, Feces, Th1 Cells, Male, Th2 Cells, Pregnancy, RNA, Ribosomal, 16S, Immunoglobulin G_
