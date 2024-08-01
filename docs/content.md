@@ -117,7 +117,7 @@ Microalgal microbiomes play vital roles in the growth and health of their host, 
 ---
 
 ## Metaproteomic analysis decodes trophic interactions of microorganisms in the dark ocean.
- 30.07.2024, _Z Zhao, C Amano, T Reinthaler, F Baltar, MV Orellana, GJ Herndl_
+ 01.08.2024, _Z Zhao, C Amano, T Reinthaler, F Baltar, MV Orellana, GJ Herndl_
 
 
 _Microbiota, Proteomics, Zooplankton, Seawater, Oceans and Seas, Bacterial Proteins, Gammaproteobacteria, Animals, Proteome, Food Chain, Carbon Cycle_
