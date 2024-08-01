@@ -128,9 +128,15 @@ Plant-sucking insects have intricate associations with a diverse array of microo
 
 ---
 
-## Alterations in captive Alexandrine parakeet (Palaeornis eupatria) gut microbiome and metabolome in response to dietary change
+## Alterations in captive Alexandrine parakeet (Palaeornis eupatria) gut microbiome and metabolome in response to dietary change.
+ 31.07.2024, _X Feng, R Zhu, C Luo, T Zhan, Y Feng, Y Zhu, H Zhang, J Liu, S Li, J Zhang, D Sun, J Li, N Ding, R Hua_
+
+
+The Alexandrine parakeet (Palaeornis eupatria), also known as the Alexandrine parrot, is a critically endangered species in the world and a national second class protected animal. Current knowledge on gut microbiome and metabolome of captive Alexandrine parrots is limited. In the current study, we characterized the effect of dietary change with pellet feeding on the gut microbiome and metaboliome in Alexandrine parrots using 16S gene sequencing and liquid chromatography with tandem mass spectrometry (LC-MS/MS). Total of 12 Alexandrine parrots were used in a cross-over study with each period for 10 days. The results showed that dietary change with pellet feeding did not affect alpha indices of gut microbiota. Cyanobacteria, Firmicutes and Proteobacteria were the predominant bacterial phyla in the gut of Alexandrine parrot with Cynobacteria being the highest. Change of diet significantly increased the relative abundance of Actinobacteria and decreased Spirochaetota. The relative abundance of Fusobacteriota tended to increase with pellet feeding. No treatment effects were observed between the control and pellet feeding groups at the genus level. Based on the annotation results from Clusters of Orthologous Genes (COG) database, dietary change with pellet feeding significantly increased the relative abundance of genes coding for extracellular structures and lipid transport and metabolism. Metabolomics analysis combined with enrichment analysis revealed that dietary change altered the concentrations of gut metabolites as well as the metabolic pattern, and significantly affected the concentrations of fecal metabolites involved in isoflavonoid biosynthesis, flavonoid biosynthesis, nucleotide metabolism etc. In summary, dietary changes with pellet feeding affected the gut microbial composition and metabolites to some extent. The relevance of current findings to Alexandrine parrots' health and potential zoonosis need further exploring.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S1744117X24001151)
+
+10.1016/j.cbd.2024.101302
 
 ---
 
