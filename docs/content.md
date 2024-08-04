@@ -79,33 +79,78 @@ Previous studies have identified a diverse group of microbial taxa that differ b
 
 ---
 
-## Effects of antibiotic cocktail on the fecal microbiota and their potential correlation of local immune response
+## Effects of antibiotic cocktail on the fecal microbiota and their potential correlation of local immune response.
+ 31.07.2024, _T Liu, Y Wang, Z Hou, Z Shi, R Wang, Y Shi, L Hua, L Wu, M Xu, X Ding, Q Sun_
+
+
+_Anti-Bacterial Agents, Animals, Feces, Gastrointestinal Microbiome, Interleukin-1beta, Mice, Bacteria, Tumor Necrosis Factor-alpha, Mice, Inbred C57BL, Bacteroidetes, Firmicutes_
+The guts of mammals are home to trillions of microbes, forming a complex and dynamic ecosystem. Gut microbiota is an important biological barrier for maintaining immune homeostasis. Recently, the use of antibiotics to clear gut microbiota has gained popularity as a low cost and easy-to-use alternative to germ-free animals. However, the effect of the duration of the antibiotic cocktail on the gut microbiome is unclear, and more importantly, the effect of dramatic changes in the gut microbiota on intestinal tissue morphology and local immune response is rarely reported.
 
 [Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-024-03424-z)
 
+10.1186/s12866-024-03424-z
+
 ---
 
-## Practical applications of soil microbiota to improve ecosystem restoration: current knowledge and future directions
+## Practical applications of soil microbiota to improve ecosystem restoration: current knowledge and future directions.
+ 30.07.2024, _SD Peddle, RJ Hodgson, RJ Borrett, S Brachmann, TC Davies, TE Erickson, C Liddicoat, M Muñoz-Rojas, JM Robinson, CD Watson, SL Krauss, MF Breed_
+
+
+Soil microbiota are important components of healthy ecosystems. Greater consideration of soil microbiota in the restoration of biodiverse, functional, and resilient ecosystems is required to address the twin global crises of biodiversity decline and climate change. In this review, we discuss available and emerging practical applications of soil microbiota into (i) restoration planning, (ii) direct interventions for shaping soil biodiversity, and (iii) strategies for monitoring and predicting restoration trajectories. We show how better planning of restoration activities to account for soil microbiota can help improve progress towards restoration targets. We show how planning to embed soil microbiota experiments into restoration projects will permit a more rigorous assessment of the effectiveness of different restoration methods, especially when complemented by statistical modelling approaches that capitalise on existing data sets to improve causal understandings and prioritise research strategies where appropriate. In addition to recovering belowground microbiota, restoration strategies that include soil microbiota can improve the resilience of whole ecosystems. Fundamentally, restoration planning should identify appropriate reference target ecosystem attributes and - from the perspective of soil microbiota - comprehensibly consider potential physical, chemical and biological influences on recovery. We identify that inoculating ecologically appropriate soil microbiota into degraded environments can support a range of restoration interventions (e.g. targeted, broad-spectrum and cultured inoculations) with promising results. Such inoculations however are currently underutilised and knowledge gaps persist surrounding successful establishment in light of community dynamics, including priority effects and community coalescence. We show how the ecological trajectories of restoration sites can be assessed by characterising microbial diversity, composition, and functions in the soil. Ultimately, we highlight practical ways to apply the soil microbiota toolbox across the planning, intervention, and monitoring stages of ecosystem restoration and address persistent open questions at each stage. With continued collaborations between researchers and practitioners to address knowledge gaps, these approaches can improve current restoration practices and ecological outcomes.
 
 [Source](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.13124)
 
+10.1111/brv.13124
+
 ---
 
-## Impact of host species on assembly, composition, and functional profiles of phycosphere microbiomes
+## Impact of host species on assembly, composition, and functional profiles of phycosphere microbiomes.
+ 31.07.2024, _L Roager, PJ Kempen, M Bentzon-Tilia, EC Sonnenschein, L Gram_
+
+
+Microalgal microbiomes play vital roles in the growth and health of their host, however, their composition and functions remain only partially characterized, especially across microalgal phyla. In this study, a natural seawater microbiome was introduced to three distinct, axenic species of microalgae, the haptophyte Isochrysis galbana, the chlorophyte Tetraselmis suecica, and the diatom Conticribra weissflogii (previously Thalassiosira), and its divergence and assembly under constant illumination was monitored over 49 days using 16S rRNA amplicon and metagenomic analyses. The microbiomes had a high degree of host specificity in terms of taxonomic composition and potential functions, including CAZymes profiles. Rhodobacteraceae and Flavobacteriaceae families were abundant across all microalgal hosts, but I. galbana microbiomes diverged further from T. suecica and C. weissflogii microbiomes. I. galbana microbiomes had a much higher relative abundance of Flavobacteriaceae, whereas the two other algal microbiomes had higher relative abundances of Rhodobacteraceae. This could be due to the bacterivorous mixotrophic nature of I. galbana affecting the carbohydrate composition available to the microbiomes, which was supported by the CAZymes profile of I. galbana microbiomes diverging further from those of T. suecica and C. weissflogii microbiomes. Finally, the presence of denitrification and other anaerobic pathways was found exclusively in the microbiomes of C. weissflogii, which we speculate could be a result of anoxic microenvironments forming in aggregates formed by this diatom during the experiment. These results underline the significant role of the microalgal host species on microbiome composition and functional profiles along with other factors, such as the trophic mode of the microalgal host.
 
 [Source](https://journals.asm.org/doi/10.1128/msystems.00583-24)
 
+10.1128/msystems.00583-24
+
 ---
 
-## Metaproteomic analysis decodes trophic interactions of microorganisms in the dark ocean
+## Metaproteomic analysis decodes trophic interactions of microorganisms in the dark ocean.
+ 02.08.2024, _Z Zhao, C Amano, T Reinthaler, F Baltar, MV Orellana, GJ Herndl_
+
+
+_Microbiota, Proteomics, Zooplankton, Seawater, Oceans and Seas, Bacterial Proteins, Gammaproteobacteria, Animals, Proteome, Food Chain, Carbon Cycle_
+Proteins in the open ocean represent a significant source of organic matter, and their profiles reflect the metabolic activities of marine microorganisms. Here, by analyzing metaproteomic samples collected from the Pacific, Atlantic and Southern Ocean, we reveal size-fractionated patterns of the structure and function of the marine microbiota protein pool in the water column, particularly in the dark ocean (&gt;200 m). Zooplankton proteins contributed three times more than algal proteins to the deep-sea community metaproteome. Gammaproteobacteria exhibited high metabolic activity in the deep-sea, contributing up to 30% of bacterial proteins. Close virus-host interactions of this taxon might explain the dominance of gammaproteobacterial proteins in the dissolved fraction. A high urease expression in nitrifiers suggested links between their dark carbon fixation and zooplankton urea production. In summary, our results uncover the taxonomic contribution of the microbiota to the oceanic protein pool, revealing protein fluxes from particles to the dissolved organic matter pool.
 
 [Source](https://www.nature.com/articles/s41467-024-50867-z)
 
+10.1038/s41467-024-50867-z
+
 ---
 
-## Microbial communities on microplastics from seawater and mussels: Insights from the northern Adriatic Sea
+## Microbial communities on microplastics from seawater and mussels: Insights from the northern Adriatic Sea.
+ 02.08.2024, _Ž Kolenc, M Kovač Viršek, A Klančnik, N Janecko_
+
+
+Microplastics, synthetic solid particles of different sizes (&lt; 5 mm), pose a major challenge to marine ecosystems. Introducing microplastics into the marine environment leads to the formation of complex microbial communities, a topic of growing interest in environmental research. For this study, we selected an area in the northern Adriatic Sea, less affected by human activities, to understand how pristine environmental conditions influence microbial colonization of microplastics. Samples of coastal seawater and Mediterranean mussels (Mytilus galloprovincialis) were collected in a mussel farm near Debeli rtič of the Slovenian coast. Microplastics were isolated, visually and chemically analyzed and DNA was extracted for metagenomics. In the marine water column, 12.7 microplastics per m3 water column and 0.58 microplastics per individual mussel were found. Sufficient DNA was available to analyze six particles, five originating from seawater, and one from a mussel. This was the first-ever sequenced microplastic particle from a mussel. Genera of Pseudomonas and Serratia were identified in all samples. In one of the samples, the most abundant was a marine genus Pseudoalteromonas, while in another sample Campylobacter was present with &gt;30 % abundance. The microbiomes of the mussel- and seawater-isolated particles were similar, suggesting a common microbial colonization pattern, which may have implications for the transfer of microplastic-associated microbes, including potential pathogens, through the food web to the consumers. Microplastic pollution is a complex issue requiring further research, especially regarding microbial biofilms, pathogen colonization and the potential of pathogen transmission via microplastic particles. Our findings enhance the understanding of microplastic pollution in the Adriatic Sea and stress the necessity for comprehensive strategies to mitigate the impact on marine ecosystems.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S004896972405280X)
+
+10.1016/j.scitotenv.2024.175130
+
+---
+
+## Organic fertilization co-selects genetically linked antibiotic and metal(loid) resistance genes in global soil microbiome.
+ 20.06.2024, _ZT Liu, RA Ma, D Zhu, KT Konstantinidis, YG Zhu, SY Zhang_
+
+
+_Soil Microbiology, Microbiota, Fertilizers, Metagenome, Drug Resistance, Microbial, Soil, Genes, Bacterial, Metals, Anti-Bacterial Agents, Agriculture_
+Antibiotic resistance genes (ARGs) and metal(loid) resistance genes (MRGs) coexist in organic fertilized agroecosystems based on their correlations in abundance, yet evidence for the genetic linkage of ARG-MRGs co-selected by organic fertilization remains elusive. Here, an analysis of 511 global agricultural soil metagenomes reveals that organic fertilization correlates with a threefold increase in the number of diverse types of ARG-MRG-carrying contigs (AMCCs) in the microbiome (63 types) compared to non-organic fertilized soils (22 types). Metatranscriptomic data indicates increased expression of AMCCs under higher arsenic stress, with co-regulation of the ARG-MRG pairs. Organic fertilization heightens the coexistence of ARG-MRG in genomic elements through impacting soil properties and ARG and MRG abundances. Accordingly, a comprehensive global map was constructed to delineate the distribution of coexistent ARG-MRGs with virulence factors and mobile genes in metagenome-assembled genomes from agricultural lands. The map unveils a heightened relative abundance and potential pathogenicity risks (range of 4-6) for the spread of coexistent ARG-MRGs in Central North America, Eastern Europe, Western Asia, and Northeast China compared to other regions, which acquire a risk range of 1-3. Our findings highlight that organic fertilization co-selects genetically linked ARGs and MRGs in the global soil microbiome, and underscore the need to mitigate the spread of these co-resistant genes to safeguard public health.
+
+[Source](https://www.cell.com/cell/fulltext/S0092-8674(21)00585-7)
+
+10.1038/s41467-024-49165-5
 
 ---
 
@@ -115,9 +160,16 @@ Previous studies have identified a diverse group of microbial taxa that differ b
 
 ---
 
-## Solving genomic puzzles: computational methods for metagenomic binning
+## Solving genomic puzzles: computational methods for metagenomic binning.
+ 02.08.2024, _V Mallawaarachchi, A Wickramarachchi, H Xue, B Papudeshi, SR Grigson, G Bouras, RE Prahl, A Kaphle, A Verich, B Talamantes-Becerra, EA Dinsdale, RA Edwards_
+
+
+_Metagenomics, Computational Biology, Metagenome, Algorithms, Genomics_
+Metagenomics involves the study of genetic material obtained directly from communities of microorganisms living in natural environments. The field of metagenomics has provided valuable insights into the structure, diversity and ecology of microbial communities. Once an environmental sample is sequenced and processed, metagenomic binning clusters the sequences into bins representing different taxonomic groups such as species, genera, or higher levels. Several computational tools have been developed to automate the process of metagenomic binning. These tools have enabled the recovery of novel draft genomes of microorganisms allowing us to study their behaviors and functions within microbial communities. This review classifies and analyzes different approaches of metagenomic binning and different refinement, visualization, and evaluation techniques used by these methods. Furthermore, the review highlights the current challenges and areas of improvement present within the field of research.
 
 [Source](https://academic.oup.com/bib/article/25/5/bbae372/7724458)
+
+10.1093/bib/bbae372
 
 ---
 
