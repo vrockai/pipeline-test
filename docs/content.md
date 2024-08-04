@@ -103,28 +103,9 @@ Previous studies have identified a diverse group of microbial taxa that differ b
 
 ---
 
-## Microbial communities on microplastics from seawater and mussels: Insights from the northern Adriatic Sea.
- 02.08.2024, _Ž Kolenc, M Kovač Viršek, A Klančnik, N Janecko_
-
-
-Microplastics, synthetic solid particles of different sizes (&lt; 5 mm), pose a major challenge to marine ecosystems. Introducing microplastics into the marine environment leads to the formation of complex microbial communities, a topic of growing interest in environmental research. For this study, we selected an area in the northern Adriatic Sea, less affected by human activities, to understand how pristine environmental conditions influence microbial colonization of microplastics. Samples of coastal seawater and Mediterranean mussels (Mytilus galloprovincialis) were collected in a mussel farm near Debeli rtič of the Slovenian coast. Microplastics were isolated, visually and chemically analyzed and DNA was extracted for metagenomics. In the marine water column, 12.7 microplastics per m3 water column and 0.58 microplastics per individual mussel were found. Sufficient DNA was available to analyze six particles, five originating from seawater, and one from a mussel. This was the first-ever sequenced microplastic particle from a mussel. Genera of Pseudomonas and Serratia were identified in all samples. In one of the samples, the most abundant was a marine genus Pseudoalteromonas, while in another sample Campylobacter was present with &gt;30 % abundance. The microbiomes of the mussel- and seawater-isolated particles were similar, suggesting a common microbial colonization pattern, which may have implications for the transfer of microplastic-associated microbes, including potential pathogens, through the food web to the consumers. Microplastic pollution is a complex issue requiring further research, especially regarding microbial biofilms, pathogen colonization and the potential of pathogen transmission via microplastic particles. Our findings enhance the understanding of microplastic pollution in the Adriatic Sea and stress the necessity for comprehensive strategies to mitigate the impact on marine ecosystems.
+## Microbial communities on microplastics from seawater and mussels: Insights from the northern Adriatic Sea
 
 [Source](https://www.sciencedirect.com/science/article/pii/S004896972405280X)
-
-10.1016/j.scitotenv.2024.175130
-
----
-
-## Organic fertilization co-selects genetically linked antibiotic and metal(loid) resistance genes in global soil microbiome.
- 20.06.2024, _ZT Liu, RA Ma, D Zhu, KT Konstantinidis, YG Zhu, SY Zhang_
-
-
-_Soil Microbiology, Microbiota, Fertilizers, Metagenome, Drug Resistance, Microbial, Soil, Genes, Bacterial, Metals, Anti-Bacterial Agents, Agriculture_
-Antibiotic resistance genes (ARGs) and metal(loid) resistance genes (MRGs) coexist in organic fertilized agroecosystems based on their correlations in abundance, yet evidence for the genetic linkage of ARG-MRGs co-selected by organic fertilization remains elusive. Here, an analysis of 511 global agricultural soil metagenomes reveals that organic fertilization correlates with a threefold increase in the number of diverse types of ARG-MRG-carrying contigs (AMCCs) in the microbiome (63 types) compared to non-organic fertilized soils (22 types). Metatranscriptomic data indicates increased expression of AMCCs under higher arsenic stress, with co-regulation of the ARG-MRG pairs. Organic fertilization heightens the coexistence of ARG-MRG in genomic elements through impacting soil properties and ARG and MRG abundances. Accordingly, a comprehensive global map was constructed to delineate the distribution of coexistent ARG-MRGs with virulence factors and mobile genes in metagenome-assembled genomes from agricultural lands. The map unveils a heightened relative abundance and potential pathogenicity risks (range of 4-6) for the spread of coexistent ARG-MRGs in Central North America, Eastern Europe, Western Asia, and Northeast China compared to other regions, which acquire a risk range of 1-3. Our findings highlight that organic fertilization co-selects genetically linked ARGs and MRGs in the global soil microbiome, and underscore the need to mitigate the spread of these co-resistant genes to safeguard public health.
-
-[Source](https://www.cell.com/cell/fulltext/S0092-8674(21)00585-7)
-
-10.1038/s41467-024-49165-5
 
 ---
 
@@ -134,16 +115,9 @@ Antibiotic resistance genes (ARGs) and metal(loid) resistance genes (MRGs) coexi
 
 ---
 
-## Solving genomic puzzles: computational methods for metagenomic binning.
- 02.08.2024, _V Mallawaarachchi, A Wickramarachchi, H Xue, B Papudeshi, SR Grigson, G Bouras, RE Prahl, A Kaphle, A Verich, B Talamantes-Becerra, EA Dinsdale, RA Edwards_
-
-
-_Metagenomics, Computational Biology, Metagenome, Algorithms, Genomics_
-Metagenomics involves the study of genetic material obtained directly from communities of microorganisms living in natural environments. The field of metagenomics has provided valuable insights into the structure, diversity and ecology of microbial communities. Once an environmental sample is sequenced and processed, metagenomic binning clusters the sequences into bins representing different taxonomic groups such as species, genera, or higher levels. Several computational tools have been developed to automate the process of metagenomic binning. These tools have enabled the recovery of novel draft genomes of microorganisms allowing us to study their behaviors and functions within microbial communities. This review classifies and analyzes different approaches of metagenomic binning and different refinement, visualization, and evaluation techniques used by these methods. Furthermore, the review highlights the current challenges and areas of improvement present within the field of research.
+## Solving genomic puzzles: computational methods for metagenomic binning
 
 [Source](https://academic.oup.com/bib/article/25/5/bbae372/7724458)
-
-10.1093/bib/bbae372
 
 ---
 
