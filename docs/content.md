@@ -1,175 +1,196 @@
-## Diet at birth is critical for healthy growth, independent of effects on the gut microbiota.
- 30.07.2024, _LJW van den Elsen, A Rekima, MA Lynn, C Isnard, S Machado, N Divakara, D Patalwala, A Middleton, N Stevens, F Servant, R Burcelin, DJ Lynn, V Verhasselt_
+## Exploring the interplay between antiretroviral therapy and the gut-oral microbiome axis in people living with HIV.
+ 04.08.2024, _A Narayanan, O Kieri, J Vesterbacka, L Manoharan, P Chen, M Ghorbani, HG Ljunggren, M Sällberg Chen, S Aleman, A Sönnerborg, S Ray, P Nowak_
 
 
-_Animals, Gastrointestinal Microbiome, Mice, Colostrum, Animals, Newborn, Female, Diet, Lactation, Pregnancy, Mice, Inbred C57BL, Male, Milk, Malnutrition, Bacteria_
-Colostrum is the first milk for a newborn. Its high content in microbiota shaping compounds and its intake at the time of gut microbiota seeding suggests colostrum may be critical in the establishment of a healthy microbiota. There is also accumulating evidence on the importance of the gut microbiota for healthy growth. Here, we aimed to investigate the contribution of colostrum, and colostrum-induced microbiota to growth promotion. Addressing this question is highly significant because (1) globally, less than half of the newborns are fully colostrum fed (2) the evidence for the importance of the microbiota for the prevention of undernutrition has only been demonstrated in juvenile or adult pre-clinical models while stunting already starts before weaning.
+_Humans, HIV Infections, Gastrointestinal Microbiome, Male, Female, Middle Aged, Adult, Mouth, Body Mass Index, Feces, Anti-Retroviral Agents, Saliva_
+The gut and oral microbiome is altered in people living with HIV (PLWH). While antiretroviral treatment (ART) is pivotal in restoring immune function in PLWH, several studies have identified an association between specific antiretrovirals, particularly integrase inhibitors (INSTI), and weight gain. In our study, we explored the differences in the oral and gut microbiota of PLWH under different ART regimens, and its correlation to Body Mass Index (BMI). Fecal and salivary samples were collected from PLWH (n = 69) and healthy controls (HC, n = 80). We performed taxonomy analysis to determine the microbial composition and relationship between microbial abundance and ART regimens, BMI, CD4+T-cell count, CD4/CD8 ratio, and ART duration. PLWH showed significantly lower richness compared to HC in both the oral and gut environment. The gut microbiome composition of INSTI-treated individuals was enriched with Faecalibacterium and Bifidobacterium, whereas non-nucleotide reverse transcriptase inhibitor (NNRTI)-treated individuals were enriched with Gordonibacter, Megasphaera, and Staphylococcus. In the oral microenvironment, Veillonella was significantly more abundant in INSTI-treated individuals and Fusobacterium and Alloprevotella in the NNRTI-treated individuals. Furthermore, Bifidobacterium and Dorea were enriched in gut milieu of PLWH with high BMI. Collectively, our findings identify distinct microbial profiles, which are associated with different ART regimens and BMI in PLWH on successful ART, thereby highlighting significant effects of specific antiretrovirals on the microbiome.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01852-7)
+[Source](https://doi.org/10.1038/s41598-024-68479-4)
 
-10.1186/s40168-024-01852-7
-
----
-
-## Comparative analysis of microbiome in coronal and root caries.
- 02.08.2024, _T Gondo, N Hiraishi, A Takeuchi, D Moyes, Y Shimada_
-
-
-_Humans, Microbiota, Root Caries, Dental Caries, RNA, Ribosomal, 16S, DNA, Bacterial, Middle Aged, Male, Female, Adult, Dentin, Aged_
-The global rise in the elderly population has increased the prevalence of root caries. Streptococcus mutans, Lactobacilli and Actinomyces are considered the primary pathogens of dental caries in culture-based studies. This study aimed to investigate bacterial profiles in coronal and root caries lesions and determine the association of specific bacterial genera at each site.
-
-[Source](https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-024-04670-3)
-
-10.1186/s12903-024-04670-3
+10.1038/s41598-024-68479-4
 
 ---
 
-## Gut microbiota carcinogen metabolism causes distal tissue tumours.
- 31.07.2024, _B Roje, B Zhang, E Mastrorilli, A Kovačić, L Sušak, I Ljubenkov, E Ćosić, K Vilović, A Meštrović, EL Vukovac, V Bučević-Popović, Ž Puljiz, I Karaman, J Terzić, M Zimmermann_
+## Human Gut Microbiota Composition Associated with International Travels.
+ 02.08.2024, _D Henares, V Monsalvez, P Brotons, ML Machado, S Capilla, A Gomila, P Bierge-Cabrera, M Cubero, O Quijada-Pich, A Requena, C Muñoz-Almagro, O Gasch_
 
 
-Exposure to environmental pollutants and human microbiome composition are important predisposition factors for tumour development1,2. Similar to drug molecules, pollutants are typically metabolized in the body, which can change their carcinogenic potential and affect tissue distribution through altered toxicokinetics3. Although recent studies demonstrated that human-associated microorganisms can chemically convert a wide range of xenobiotics and influence the profile and tissue exposure of resulting metabolites4,5, the effect of microbial biotransformation on chemical-induced tumour development remains unclear. Here we show that the depletion of the gut microbiota affects the toxicokinetics of nitrosamines, which markedly reduces the development and severity of nitrosamine-induced urinary bladder cancer in mice6,7. We causally linked this carcinogen biotransformation to specific gut bacterial isolates in vitro and in vivo using individualized bacterial culture collections and gnotobiotic mouse models, respectively. We tested gut communities from different human donors to demonstrate that microbial carcinogen metabolism varies between individuals and we showed that this metabolic activity applies to structurally related nitrosamine carcinogens. Altogether, these results indicate that gut microbiota carcinogen metabolism may be a contributing factor for chemical-induced carcinogenesis, which could open avenues to target the microbiome for improved predisposition risk assessment and prevention of cancer.
+The objective of this study was to evaluate whether long stays in non-European countries influence the composition, diversity, and dynamics of gut microbiota, considering the potential impact of travelling, close contact with new people, and consumption of water and food.
 
-[Source](https://www.nature.com/articles/s41586-024-07754-w)
+[Source](https://doi.org/10.1016/j.tmaid.2024.102747)
 
-10.1038/s41586-024-07754-w
-
----
-
-## Time-Dependent Shifts in Intestinal Bacteriome, Klebsiella Colonization and Incidence of Antibiotic-Resistance Genes after Allogeneic Hematopoietic Stem Cell Transplantation.
- 29.07.2024, _OV Goloshchapov, AB Chukhlovin, DE Polev, YA Eismont, DS Bug, AV Kusakin, OV Kosarev, RV Klementeva, VV Gostev, VA Ageevets, NP Volkov, AS Ipatova, IS Moiseev, AA Spiridonova, SV Sidorenko, AD Kulagin_
-
-
-Dose-intensive cytostatic therapy and antibiotic treatment in allogeneic hematopoietic stem cell transplantation (allo-HSCT) cause severe abnormalities in a composition of gut microbiota as well as the emergence of antibiotic resistance. The data on the longitudinal recovery of major bacterial phyla and the expansion of genes associated with antibiotic resistance are limited. We collected regular stool samples during the first year after allo-HSCT from 12 adult patients with oncohematological disorders after allo-HSCT and performed 16SrRNA sequencing, multiplex PCR, conventional bacteriology and CHROMagar testing. We observed a decline in Shannon microbiota diversity index as early as day 0 of allo-HSCT (p = 0.034) before any administration of antibiotics, which persisted up to 1 year after transplantation, when the Shannon index returned to pre-transplant levels (p = 0.91). The study confirmed the previously shown decline in Bacillota (Firmicutes) genera and the expansion of E. coli/Shigella, Klebsiella and Enterococci. The recovery of Firmicutes was slower than that of other phyla and occurred only a year post-transplant. A positive correlation was observed between the expansion of E. coli/Shigella genera and blaKPC, blaCTX-M-1 and blaTEM (p &lt; 0.001), Klebsiella spp. and blaOXA-48-like, blaNDM, blaCTX-M-1, blaTEM, and blaSHV (p &lt; 0.001), Pseudomonas spp. and blaNDM (p = 0.002), Enterococcus spp. and blaOXA-48-like, blaNDM, blaCTX-M-1, blaSHV (p &lt; 0.01). The correlation was observed between the expansion of Enterobacterales and and carbapenemase-positive CHROMagar samples (p &lt; 0.001). Samples positive for carbapenem-resitant bacteria were at their maximum levels on day +30, and were gradually diminishing one year after allo-HSCT. From day +30 to +60, all isolated K. pneumoniae strains in fecal samples proved to be resistant to the main antibiotic groups (carbapenems, aminoglycosides, fluoroquinolones, third-generation cephalosporins). One year after HSCT, we documented the spontaneous decolonization of K. pneumoniae. The sensitivity of molecular biology techniques in the search for total and antibiotic-resistant Klebsiella seems to be superior to common bacteriological cultures. Future studies should be focused on searching for novel approaches to the efficient reconstitution and/or maintenance of strictly anaerobic microbiota in oncological patients.
-
-[Source](https://www.mdpi.com/2227-9059/12/7/1566)
-
-10.3390/biomedicines12071566
+10.1016/j.tmaid.2024.102747
 
 ---
 
-## Comparative analysis of the treatment-naive microbiome across rheumatic diseases to predict MTX treatment response
+## Respiratory microbiome and clinical course of carbapenem-resistant <em>Acinetobacter baumannii </em>pneumonia in critically Ill patients
 
-[Source](https://www.biorxiv.org/content/10.1101/2024.07.31.605913v1.abstract)
-
----
-
-## Meta-analysis identifies common gut microbiota associated with multiple sclerosis.
- 02.08.2024, _Q Lin, Y Dorsett, A Mirza, H Tremlett, L Piccio, EE Longbrake, SN Choileain, DA Hafler, LM Cox, HL Weiner, T Yamamura, K Chen, Y Wu, Y Zhou_
-
-
-_Humans, Multiple Sclerosis, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Bacteria, Adult, Male, Female, Case-Control Studies_
-Previous studies have identified a diverse group of microbial taxa that differ between patients with multiple sclerosis (MS) and the healthy population. However, interpreting findings on MS-associated microbiota is challenging, as there is no true consensus. It is unclear whether there is gut microbiota commonly altered in MS across studies.
-
-[Source](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01364-x)
-
-10.1186/s13073-024-01364-x
+[Source](https://doi.org/10.1097/MD.0000000000038988)
 
 ---
 
-## Ganoderma lucidum alleviates kidney aging by modulating gut microbiota
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.07.30.605752v1)
-
----
-
-## Dietary fiber content in clinical ketogenic diets modifies the gut microbiome and seizure resistance in mice
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.07.31.606041v1)
-
----
-
-## Effects of antibiotic cocktail on the fecal microbiota and their potential correlation of local immune response.
- 31.07.2024, _T Liu, Y Wang, Z Hou, Z Shi, R Wang, Y Shi, L Hua, L Wu, M Xu, X Ding, Q Sun_
+## Gut Microbiota and Autism Spectrum Disorder: A Neuroinflammatory Mediated Mechanism of Pathogenesis?
+ 02.08.2024, _F Zarimeidani, R Rahmati, M Mostafavi, M Darvishi, S Khodadadi, M Mohammadi, F Shamlou, S Bakhtiyari, I Alipourfard_
 
 
-_Anti-Bacterial Agents, Animals, Feces, Gastrointestinal Microbiome, Interleukin-1beta, Mice, Bacteria, Tumor Necrosis Factor-alpha, Mice, Inbred C57BL, Bacteroidetes, Firmicutes_
-The guts of mammals are home to trillions of microbes, forming a complex and dynamic ecosystem. Gut microbiota is an important biological barrier for maintaining immune homeostasis. Recently, the use of antibiotics to clear gut microbiota has gained popularity as a low cost and easy-to-use alternative to germ-free animals. However, the effect of the duration of the antibiotic cocktail on the gut microbiome is unclear, and more importantly, the effect of dramatic changes in the gut microbiota on intestinal tissue morphology and local immune response is rarely reported.
+Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterized by impairments in social communication and behavior, frequently accompanied by restricted and repetitive patterns of interests or activities. The gut microbiota has been implicated in the etiology of ASD due to its impact on the bidirectional communication pathway known as the gut-brain axis. However, the precise involvement of the gut microbiota in the causation of ASD is unclear. This study critically examines recent evidence to rationalize a probable mechanism in which gut microbiota symbiosis can induce neuroinflammation through intermediator cytokines and metabolites. To develop ASD, loss of the integrity of the intestinal barrier, activation of microglia, and dysregulation of neurotransmitters are caused by neural inflammatory factors. It has emphasized the potential role of neuroinflammatory intermediates linked to gut microbiota alterations in individuals with ASD. Specifically, cytokines like brain-derived neurotrophic factor, calprotectin, eotaxin, and some metabolites and microRNAs have been considered etiological biomarkers. We have also overviewed how probiotic trials may be used as a therapeutic strategy in ASD to reestablish a healthy balance in the gut microbiota. Evidence indicates neuroinflammation induced by dysregulated gut microbiota in ASD, yet there is little clarity based on analysis of the circulating immune profile. It deems the repair of microbiota load would lower inflammatory chaos in the GI tract, correct neuroinflammatory mediators, and modulate the neurotransmitters to attenuate autism. The interaction between the gut and the brain, along with alterations in microbiota and neuroinflammatory biomarkers, serves as a foundational background for understanding the etiology, diagnosis, prognosis, and treatment of autism spectrum disorder.
 
-[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-024-03424-z)
+[Source](https://doi.org/10.1007/s10753-024-02061-y)
 
-10.1186/s12866-024-03424-z
+10.1007/s10753-024-02061-y
 
 ---
 
-## Practical applications of soil microbiota to improve ecosystem restoration: current knowledge and future directions.
- 30.07.2024, _SD Peddle, RJ Hodgson, RJ Borrett, S Brachmann, TC Davies, TE Erickson, C Liddicoat, M Muñoz-Rojas, JM Robinson, CD Watson, SL Krauss, MF Breed_
+## Gut microbiota and eating behaviour in circadian syndrome.
+ 02.08.2024, _JR Soliz-Rueda, C Cuesta-Marti, SM O'Mahony, G Clarke, H Schellekens, B Muguerza_
 
 
-Soil microbiota are important components of healthy ecosystems. Greater consideration of soil microbiota in the restoration of biodiverse, functional, and resilient ecosystems is required to address the twin global crises of biodiversity decline and climate change. In this review, we discuss available and emerging practical applications of soil microbiota into (i) restoration planning, (ii) direct interventions for shaping soil biodiversity, and (iii) strategies for monitoring and predicting restoration trajectories. We show how better planning of restoration activities to account for soil microbiota can help improve progress towards restoration targets. We show how planning to embed soil microbiota experiments into restoration projects will permit a more rigorous assessment of the effectiveness of different restoration methods, especially when complemented by statistical modelling approaches that capitalise on existing data sets to improve causal understandings and prioritise research strategies where appropriate. In addition to recovering belowground microbiota, restoration strategies that include soil microbiota can improve the resilience of whole ecosystems. Fundamentally, restoration planning should identify appropriate reference target ecosystem attributes and - from the perspective of soil microbiota - comprehensibly consider potential physical, chemical and biological influences on recovery. We identify that inoculating ecologically appropriate soil microbiota into degraded environments can support a range of restoration interventions (e.g. targeted, broad-spectrum and cultured inoculations) with promising results. Such inoculations however are currently underutilised and knowledge gaps persist surrounding successful establishment in light of community dynamics, including priority effects and community coalescence. We show how the ecological trajectories of restoration sites can be assessed by characterising microbial diversity, composition, and functions in the soil. Ultimately, we highlight practical ways to apply the soil microbiota toolbox across the planning, intervention, and monitoring stages of ecosystem restoration and address persistent open questions at each stage. With continued collaborations between researchers and practitioners to address knowledge gaps, these approaches can improve current restoration practices and ecological outcomes.
+Eating behaviour and circadian rhythms are closely related. The type, timing, and quantity of food consumed, and host circadian rhythms, directly influence the intestinal microbiota, which in turn impacts host circadian rhythms and regulates food intake beyond homeostatic eating. This Opinion discusses the impact of food intake and circadian disruptions induced by an obesogenic environment on gut-brain axis signalling. We also explore potential mechanisms underlying the effects of altered gut microbiota on food intake behaviour and circadian rhythmicity. Understanding the crosstalk between gut microbiota, circadian rhythms, and unhealthy eating behaviour is crucial to addressing the obesity epidemic, which remains one of the biggest societal challenges of our time.
 
-[Source](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.13124)
+[Source](https://www.cell.com/trends/endocrinology-metabolism/abstract/S1043-2760(24)00189-9)
 
-10.1111/brv.13124
-
----
-
-## Impact of host species on assembly, composition, and functional profiles of phycosphere microbiomes.
- 31.07.2024, _L Roager, PJ Kempen, M Bentzon-Tilia, EC Sonnenschein, L Gram_
-
-
-Microalgal microbiomes play vital roles in the growth and health of their host, however, their composition and functions remain only partially characterized, especially across microalgal phyla. In this study, a natural seawater microbiome was introduced to three distinct, axenic species of microalgae, the haptophyte Isochrysis galbana, the chlorophyte Tetraselmis suecica, and the diatom Conticribra weissflogii (previously Thalassiosira), and its divergence and assembly under constant illumination was monitored over 49 days using 16S rRNA amplicon and metagenomic analyses. The microbiomes had a high degree of host specificity in terms of taxonomic composition and potential functions, including CAZymes profiles. Rhodobacteraceae and Flavobacteriaceae families were abundant across all microalgal hosts, but I. galbana microbiomes diverged further from T. suecica and C. weissflogii microbiomes. I. galbana microbiomes had a much higher relative abundance of Flavobacteriaceae, whereas the two other algal microbiomes had higher relative abundances of Rhodobacteraceae. This could be due to the bacterivorous mixotrophic nature of I. galbana affecting the carbohydrate composition available to the microbiomes, which was supported by the CAZymes profile of I. galbana microbiomes diverging further from those of T. suecica and C. weissflogii microbiomes. Finally, the presence of denitrification and other anaerobic pathways was found exclusively in the microbiomes of C. weissflogii, which we speculate could be a result of anoxic microenvironments forming in aggregates formed by this diatom during the experiment. These results underline the significant role of the microalgal host species on microbiome composition and functional profiles along with other factors, such as the trophic mode of the microalgal host.
-
-[Source](https://journals.asm.org/doi/10.1128/msystems.00583-24)
-
-10.1128/msystems.00583-24
+10.1016/j.tem.2024.07.008
 
 ---
 
-## Metaproteomic analysis decodes trophic interactions of microorganisms in the dark ocean.
- 02.08.2024, _Z Zhao, C Amano, T Reinthaler, F Baltar, MV Orellana, GJ Herndl_
+## <em>Staphylococcus aureus/Staphylococcus epidermidis</em> from skin microbiota are balanced by Pomegranate peel extract: An eco-sustainable approach
 
-
-_Microbiota, Proteomics, Zooplankton, Seawater, Oceans and Seas, Bacterial Proteins, Gammaproteobacteria, Animals, Proteome, Food Chain, Carbon Cycle_
-Proteins in the open ocean represent a significant source of organic matter, and their profiles reflect the metabolic activities of marine microorganisms. Here, by analyzing metaproteomic samples collected from the Pacific, Atlantic and Southern Ocean, we reveal size-fractionated patterns of the structure and function of the marine microbiota protein pool in the water column, particularly in the dark ocean (&gt;200 m). Zooplankton proteins contributed three times more than algal proteins to the deep-sea community metaproteome. Gammaproteobacteria exhibited high metabolic activity in the deep-sea, contributing up to 30% of bacterial proteins. Close virus-host interactions of this taxon might explain the dominance of gammaproteobacterial proteins in the dissolved fraction. A high urease expression in nitrifiers suggested links between their dark carbon fixation and zooplankton urea production. In summary, our results uncover the taxonomic contribution of the microbiota to the oceanic protein pool, revealing protein fluxes from particles to the dissolved organic matter pool.
-
-[Source](https://www.nature.com/articles/s41467-024-50867-z)
-
-10.1038/s41467-024-50867-z
+[Source](https://doi.org/10.1371/journal.pone.0308211)
 
 ---
 
-## Microbial communities on microplastics from seawater and mussels: Insights from the northern Adriatic Sea.
- 02.08.2024, _Ž Kolenc, M Kovač Viršek, A Klančnik, N Janecko_
+## Microbiome mapping in dairy industry reveals new species and genes for probiotic and bioprotective activities.
+ 02.08.2024, _F De Filippis, V Valentino, M Yap, R Cabrera-Rubio, C Barcenilla, N Carlino, JF Cobo-Díaz, NM Quijada, I Calvete-Torre, P Ruas-Madiedo, C Sabater, G Sequino, E Pasolli, M Wagner, A Margolles, N Segata, A Álvarez-Ordóñez, PD Cotter, D Ercolini_
 
 
-Microplastics, synthetic solid particles of different sizes (&lt; 5 mm), pose a major challenge to marine ecosystems. Introducing microplastics into the marine environment leads to the formation of complex microbial communities, a topic of growing interest in environmental research. For this study, we selected an area in the northern Adriatic Sea, less affected by human activities, to understand how pristine environmental conditions influence microbial colonization of microplastics. Samples of coastal seawater and Mediterranean mussels (Mytilus galloprovincialis) were collected in a mussel farm near Debeli rtič of the Slovenian coast. Microplastics were isolated, visually and chemically analyzed and DNA was extracted for metagenomics. In the marine water column, 12.7 microplastics per m3 water column and 0.58 microplastics per individual mussel were found. Sufficient DNA was available to analyze six particles, five originating from seawater, and one from a mussel. This was the first-ever sequenced microplastic particle from a mussel. Genera of Pseudomonas and Serratia were identified in all samples. In one of the samples, the most abundant was a marine genus Pseudoalteromonas, while in another sample Campylobacter was present with &gt;30 % abundance. The microbiomes of the mussel- and seawater-isolated particles were similar, suggesting a common microbial colonization pattern, which may have implications for the transfer of microplastic-associated microbes, including potential pathogens, through the food web to the consumers. Microplastic pollution is a complex issue requiring further research, especially regarding microbial biofilms, pathogen colonization and the potential of pathogen transmission via microplastic particles. Our findings enhance the understanding of microplastic pollution in the Adriatic Sea and stress the necessity for comprehensive strategies to mitigate the impact on marine ecosystems.
+_Probiotics, Cheese, Metagenome, Food Microbiology, Microbiota, Humans, Dairying, Europe, Metagenomics, Bacteria_
+The resident microbiome in food industries may impact on food quality and safety. In particular, microbes residing on surfaces in dairy industries may actively participate in cheese fermentation and ripening and contribute to the typical flavor and texture. In this work, we carried out an extensive microbiome mapping in 73 cheese-making industries producing different types of cheeses (fresh, medium and long ripened) and located in 4 European countries. We sequenced and analyzed metagenomes from cheese samples, raw materials and environmental swabs collected from both food contact and non-food contact surfaces, as well as operators' hands and aprons. Dairy plants were shown to harbor a very complex microbiome, characterized by high prevalence of genes potentially involved in flavor development, probiotic activities, and resistance to gastro-intestinal transit, suggesting that these microbes may potentially be transferred to the human gut microbiome. More than 6100 high-quality Metagenome Assembled Genomes (MAGs) were reconstructed, including MAGs from several Lactic Acid Bacteria species and putative new species. Although microbial pathogens were not prevalent, we found several MAGs harboring genes related to antibiotic resistance, highlighting that dairy industry surfaces represent a potential hotspot for antimicrobial resistance (AR) spreading along the food chain. Finally, we identified facility-specific strains that can represent clear microbial signatures of different cheesemaking facilities, suggesting an interesting potential of microbiome tracking for the traceability of cheese origin.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S004896972405280X)
+[Source](https://doi.org/10.1038/s41522-024-00541-5)
 
-10.1016/j.scitotenv.2024.175130
-
----
-
-## Organic fertilization co-selects genetically linked antibiotic and metal(loid) resistance genes in global soil microbiome.
- 20.06.2024, _ZT Liu, RA Ma, D Zhu, KT Konstantinidis, YG Zhu, SY Zhang_
-
-
-_Soil Microbiology, Microbiota, Fertilizers, Metagenome, Drug Resistance, Microbial, Soil, Genes, Bacterial, Metals, Anti-Bacterial Agents, Agriculture_
-Antibiotic resistance genes (ARGs) and metal(loid) resistance genes (MRGs) coexist in organic fertilized agroecosystems based on their correlations in abundance, yet evidence for the genetic linkage of ARG-MRGs co-selected by organic fertilization remains elusive. Here, an analysis of 511 global agricultural soil metagenomes reveals that organic fertilization correlates with a threefold increase in the number of diverse types of ARG-MRG-carrying contigs (AMCCs) in the microbiome (63 types) compared to non-organic fertilized soils (22 types). Metatranscriptomic data indicates increased expression of AMCCs under higher arsenic stress, with co-regulation of the ARG-MRG pairs. Organic fertilization heightens the coexistence of ARG-MRG in genomic elements through impacting soil properties and ARG and MRG abundances. Accordingly, a comprehensive global map was constructed to delineate the distribution of coexistent ARG-MRGs with virulence factors and mobile genes in metagenome-assembled genomes from agricultural lands. The map unveils a heightened relative abundance and potential pathogenicity risks (range of 4-6) for the spread of coexistent ARG-MRGs in Central North America, Eastern Europe, Western Asia, and Northeast China compared to other regions, which acquire a risk range of 1-3. Our findings highlight that organic fertilization co-selects genetically linked ARGs and MRGs in the global soil microbiome, and underscore the need to mitigate the spread of these co-resistant genes to safeguard public health.
-
-[Source](https://www.cell.com/cell/fulltext/S0092-8674(21)00585-7)
-
-10.1038/s41467-024-49165-5
+10.1038/s41522-024-00541-5
 
 ---
 
-## A global metagenomic map of urban microbiomes and antimicrobial resistance
+## Bugs as drugs: Extended clinical applications and potential translational trends of <em>Akkermansia muciniphila</em> in oncology and comprehensive clinical investigation panorama of therapeutic microbiome modulators in gastric cancer treatment
 
-[Source](https://www.cell.com/cell/fulltext/S0092-8674(21)00585-7)
+[Source](https://doi.org/10.1016/j.phrs.2024.107331)
 
 ---
 
-## Solving genomic puzzles: computational methods for metagenomic binning.
- 02.08.2024, _V Mallawaarachchi, A Wickramarachchi, H Xue, B Papudeshi, SR Grigson, G Bouras, RE Prahl, A Kaphle, A Verich, B Talamantes-Becerra, EA Dinsdale, RA Edwards_
+## Polyphenols: potent protectors against chronic diseases.
+ 02.08.2024, _G Shanmugam_
 
 
-_Metagenomics, Computational Biology, Metagenome, Algorithms, Genomics_
-Metagenomics involves the study of genetic material obtained directly from communities of microorganisms living in natural environments. The field of metagenomics has provided valuable insights into the structure, diversity and ecology of microbial communities. Once an environmental sample is sequenced and processed, metagenomic binning clusters the sequences into bins representing different taxonomic groups such as species, genera, or higher levels. Several computational tools have been developed to automate the process of metagenomic binning. These tools have enabled the recovery of novel draft genomes of microorganisms allowing us to study their behaviors and functions within microbial communities. This review classifies and analyzes different approaches of metagenomic binning and different refinement, visualization, and evaluation techniques used by these methods. Furthermore, the review highlights the current challenges and areas of improvement present within the field of research.
+Polyphenols, abundant in plant-based foods like fruits, vegetables, tea, coffee, wine, and chocolate, offer significant health benefits. Known for their potent antioxidant properties, they combat oxidative stress by neutralising free radicals, crucial in preventing chronic noncommunicable diseases (NCDs) such as cancer, cardiovascular issues, obesity, and diabetes. Polyphenols also exhibit anti-inflammatory effects, modulating gene expression and reducing inflammation associated with NCDs. Their anticancer activities involve inhibiting cancer cell growth and promoting apoptosis through various pathways. They enhance cardiovascular health by improving endothelial function, lowering blood pressure, and inhibiting atherosclerosis. Additionally, polyphenols improve metabolic health by enhancing insulin sensitivity and regulating glucose metabolism, aiding in diabetes and obesity management. These bioactive compounds interact with cellular pathways and gut microbiota, highlighting their multifaceted mechanisms. Integrating polyphenol-rich foods into diets could significantly improve health outcomes and alleviate NCD burdens, advocating for their inclusion in public health strategies and further research to optimise their potential.
 
-[Source](https://academic.oup.com/bib/article/25/5/bbae372/7724458)
+[Source](https://doi.org/10.1080/14786419.2024.2386402)
 
-10.1093/bib/bbae372
+10.1080/14786419.2024.2386402
+
+---
+
+## Effects of berberine hydrochloride on antioxidant response and gut microflora in the <em>Charybdis japonica </em>infected with <em>Aeromonas hydrophila</em>
+
+[Source](https://doi.org/10.1186/s12866-024-03420-3)
+
+---
+
+## Design of an agro-industrial by-products-based media for the production of probiotic bacteria for fish nutrition.
+ 02.08.2024, _MF Valle Vargas, LM Villamil Diaz, RY Ruiz Pardo, MX Quintanilla Carvajal_
+
+
+_Probiotics, Animals, Culture Media, Lactococcus lactis, Whey, Cichlids, Gastrointestinal Microbiome, Molasses, Animal Feed, Saccharum_
+Probiotic production in commercial culture media is expensive, so, it is necessary to design culture media based on "low-cost" components like agro-industrial by-products. Therefore, this study aimed to design an agro-industrial by-product-based culture media using whey, sugarcane molasses, and palm kernel cake as components to produce Lactococcus lactis A12, Priestia megaterium M4, and Priestia sp. M10 isolated from Nile tilapia (Oreochromis niloticus) associated gut microbiota. Higher bacterial concentrations were achieved at high whey concentrations and low concentrations of sugarcane molasses and palm kernel cake (PKC) using agitation. The optimal conditions were whey, 3.84% w/v; sugarcane molasses, 7.39% w/v; PKC, 0.77% w/v; and agitation speed, 75 RPM. Bacterial growth under optimal conditions was compared to that in commercial Brain-Heart Infusion (BHI) broth. L. lactis A12 showed similar growth in the optimal media and BHI. The estimated cost of the culture media based on component prices was USD $ 3.01/L, which is 86.93% lower than BHI broth (USD $ 23.04/L). It was possible to design a "low-cost agro-industrial by-product-based culture media to produce L. lactis A12 and the two Priestia species under monoculture conditions.
+
+[Source](https://doi.org/10.1038/s41598-024-68783-z)
+
+10.1038/s41598-024-68783-z
+
+---
+
+## Association of microbial community structure with gill disease in marine-stage farmed <em>Atlantic salmon</em> (Salmo salar); a yearlong study
+
+[Source](https://doi.org/10.1186/s12917-024-04125-5)
+
+---
+
+## Selection for stress tolerance and longevity in <em>Drosophila melanogaster</em> have strong impacts on microbiome profiles
+
+[Source](https://doi.org/10.1038/s41598-024-68753-5)
+
+---
+
+## Novel insights on microbiome dynamics during a gill disease outbreak in farmed rainbow trout (<em>Oncorhynchus mykiss</em>)
+
+[Source](https://doi.org/10.1038/s41598-024-68287-w)
+
+---
+
+## Gut Microbiome-Driven metabolites influence skin pigmentation in TYRP1 mutant Oujiang Color Common Carp.
+ 03.08.2024, _R Nathan Mandal, J Ke, N Hasan Kanika, X Hou, Z Zhang, P Zhang, H Chen, C Zeng, X Chen, J Wang, C Wang_
+
+
+The gut microbiome plays a key role in regulating the gut-skin axis, and host genetics partially influence this regulation. The study investigated the role of gut microbiota and host genetics in the gut-skin axis, focusing on the unusual "coffee-like" color phenotype observed in TYRP1 mutant Oujiang Color Common Carp. We employed comparative high-throughput omics data from wild-type and mutant fish to quantify the influence of both genetics and gut microbes on skin transcriptomic expression and blood metabolites. We found 525 differential metabolites (DMs) and 45 distinct gut microbial genera in TYRP1 mutant fish compared to wild type. Interaction and causal mediation analyses revealed a complex interplay. The TYRP1 mutation likely triggers an inflammatory pathway involving Acinetobacter bacteria, Leukotrience-C4 and Spermine. This inflammatory response appears to be counterbalanced by an anti-inflammatory cardiovascular genetic network. The net effect is the upregulation of COMT, PLG, C2, C3, F10, TDO2, MHC1, and SERPINF2, leading to unusual coffee-like coloration. This study highlights the intricate interplay between gut microbiota, host genetics, and metabolic pathways in shaping complex phenotypes.
+
+[Source](https://doi.org/10.1016/j.gene.2024.148811)
+
+10.1016/j.gene.2024.148811
+
+---
+
+## From soil to sequence: filling the critical gap in genome-resolved metagenomics is essential to the future of soil microbial ecology
+
+[Source](https://doi.org/10.1186/s40793-024-00599-w)
+
+---
+
+## An acidophilic fungus promotes prey digestion in a carnivorous plant
+
+[Source](https://doi.org/10.1038/s41564-024-01766-y)
+
+---
+
+## A novel strategy of artificially regulating plant rhizosphere microbial community to promote plant tolerance to cold stress
+
+[Source](https://doi.org/10.1016/j.scitotenv.2024.175184)
+
+---
+
+## A bud’s life: Metabarcoding analysis to characterise hazelnut big buds microbiome biodiversity
+
+[Source](https://doi.org/10.1016/j.micres.2024.127851)
+
+---
+
+## Integrating viruses into soil food web biogeochemistry
+
+[Source](https://doi.org/10.1038/s41564-024-01767-x)
+
+---
+
+## Rhizosphere microbiome assembly, drivers and functions in perennial ligneous plant health.
+ 01.08.2024, _M Duret, A Wallner, M Buée, A Aziz_
+
+
+Plants shape and interact continuously with their rhizospheric microbiota, which play a key role in plant health and resilience. However, plant-associated microbial community can be shaped by several factors including plant phenotype and cropping system. Thus, understanding the interplay between microbiome assembly during the onset of plant-pathogen interactions and long-lasting resistance traits in ligneous plants remains a major challenge. To date, such attempts were mainly investigated in herbaceous plants, due to their phenotypic characteristics and their short life cycle. However, only few studies have focused on the microbial structure, dynamic and their drivers in perennial ligneous plants. Ligneous plants coevolved in interaction with specific fungal and bacterial communities that differ from those of annual plants. The specificities of such ligneous plants in shaping their own functional microbial communities could be dependent on their high heterozygosis, physiological and molecular status associated to seasonality and their aging processes, root system and above-ground architectures, long-lasting climatic variations, and specific cultural practices. This article provides an overview of the specific characteristics of perennial ligneous plants that are likely to modulate symbiotic interactions in the rhizosphere, thus affecting the plant's fitness and systemic immunity. Plant and microbial traits contributing to the establishment of plant-microbiome interactions and the adaptation of this holobiont are also discussed.
+
+[Source](https://doi.org/10.1016/j.micres.2024.127860)
+
+10.1016/j.micres.2024.127860
+
+---
+
+## Genomic and induction evidence for bacteriophage contributions to sargassum-bacteria symbioses.
+ 04.08.2024, _AK Stiffler, PJ Hesketh-Best, NS Varona, A Zagame, BA Wallace, BE Lapointe, CB Silveira_
+
+
+_Sargassum, Symbiosis, Bacteriophages, Seawater, Genome, Viral, Metagenome, Bacteria, Genomics, Microbiota, Phylogeny, Genome, Bacterial, Synechococcus_
+Symbioses between primary producers and bacteria are crucial for nutrient exchange that fosters host growth and niche adaptation. Yet, how viruses that infect bacteria (phages) influence these bacteria-eukaryote interactions is still largely unknown. Here, we investigate the role of viruses on the genomic diversity and functional adaptations of bacteria associated with pelagic sargassum. This brown alga has dramatically increased its distribution range in the Atlantic in the past decade and is predicted to continue expanding, imposing severe impacts on coastal ecosystems, economies, and human health.
+
+[Source](https://doi.org/10.1186/s40168-024-01860-7)
+
+10.1186/s40168-024-01860-7
 
 ---
 
