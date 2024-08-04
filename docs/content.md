@@ -97,16 +97,9 @@ Previous studies have identified a diverse group of microbial taxa that differ b
 
 ---
 
-## Metaproteomic analysis decodes trophic interactions of microorganisms in the dark ocean.
- 02.08.2024, _Z Zhao, C Amano, T Reinthaler, F Baltar, MV Orellana, GJ Herndl_
-
-
-_Microbiota, Proteomics, Zooplankton, Seawater, Oceans and Seas, Bacterial Proteins, Gammaproteobacteria, Animals, Proteome, Food Chain, Carbon Cycle_
-Proteins in the open ocean represent a significant source of organic matter, and their profiles reflect the metabolic activities of marine microorganisms. Here, by analyzing metaproteomic samples collected from the Pacific, Atlantic and Southern Ocean, we reveal size-fractionated patterns of the structure and function of the marine microbiota protein pool in the water column, particularly in the dark ocean (&gt;200 m). Zooplankton proteins contributed three times more than algal proteins to the deep-sea community metaproteome. Gammaproteobacteria exhibited high metabolic activity in the deep-sea, contributing up to 30% of bacterial proteins. Close virus-host interactions of this taxon might explain the dominance of gammaproteobacterial proteins in the dissolved fraction. A high urease expression in nitrifiers suggested links between their dark carbon fixation and zooplankton urea production. In summary, our results uncover the taxonomic contribution of the microbiota to the oceanic protein pool, revealing protein fluxes from particles to the dissolved organic matter pool.
+## Metaproteomic analysis decodes trophic interactions of microorganisms in the dark ocean
 
 [Source](https://www.nature.com/articles/s41467-024-50867-z)
-
-10.1038/s41467-024-50867-z
 
 ---
 
