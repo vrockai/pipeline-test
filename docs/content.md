@@ -127,15 +127,9 @@ Probiotic production in commercial culture media is expensive, so, it is necessa
 
 ---
 
-## Gut Microbiome-Driven metabolites influence skin pigmentation in TYRP1 mutant Oujiang Color Common Carp.
- 03.08.2024, _R Nathan Mandal, J Ke, N Hasan Kanika, X Hou, Z Zhang, P Zhang, H Chen, C Zeng, X Chen, J Wang, C Wang_
-
-
-The gut microbiome plays a key role in regulating the gut-skin axis, and host genetics partially influence this regulation. The study investigated the role of gut microbiota and host genetics in the gut-skin axis, focusing on the unusual "coffee-like" color phenotype observed in TYRP1 mutant Oujiang Color Common Carp. We employed comparative high-throughput omics data from wild-type and mutant fish to quantify the influence of both genetics and gut microbes on skin transcriptomic expression and blood metabolites. We found 525 differential metabolites (DMs) and 45 distinct gut microbial genera in TYRP1 mutant fish compared to wild type. Interaction and causal mediation analyses revealed a complex interplay. The TYRP1 mutation likely triggers an inflammatory pathway involving Acinetobacter bacteria, Leukotrience-C4 and Spermine. This inflammatory response appears to be counterbalanced by an anti-inflammatory cardiovascular genetic network. The net effect is the upregulation of COMT, PLG, C2, C3, F10, TDO2, MHC1, and SERPINF2, leading to unusual coffee-like coloration. This study highlights the intricate interplay between gut microbiota, host genetics, and metabolic pathways in shaping complex phenotypes.
+## Gut Microbiome-Driven metabolites influence skin pigmentation in TYRP1 mutant Oujiang color common carp
 
 [Source](https://doi.org/10.1016/j.gene.2024.148811)
-
-10.1016/j.gene.2024.148811
 
 ---
 
@@ -163,9 +157,15 @@ The gut microbiome plays a key role in regulating the gut-skin axis, and host ge
 
 ---
 
-## Integrating viruses into soil food web biogeochemistry
+## Integrating viruses into soil food web biogeochemistry.
+ 02.08.2024, _C Carreira, C Lønborg, B Acharya, L Aryal, Z Buivydaite, F Borim Corrêa, T Chen, C Lorenzen Elberg, JB Emerson, L Hillary, RB Khadka, V Langlois, K Mason-Jones, T Netherway, S Sutela, G Trubl, A Wa Kang'eri, R Wang, RA White, A Winding, T Zhao, R Sapkota_
+
+
+The soil microbiome is recognized as an essential component of healthy soils. Viruses are also diverse and abundant in soils, but their roles in soil systems remain unclear. Here we argue for the consideration of viruses in soil microbial food webs and describe the impact of viruses on soil biogeochemistry. The soil food web is an intricate series of trophic levels that span from autotrophic microorganisms to plants and animals. Each soil system encompasses contrasting and dynamic physicochemical conditions, with labyrinthine habitats composed of particles. Conditions are prone to shifts in space and time, and this variability can obstruct or facilitate interactions of microorganisms and viruses. Because viruses can infect all domains of life, they must be considered as key regulators of soil food web dynamics and biogeochemical cycling. We highlight future research avenues that will enable a more robust understanding of the roles of viruses in soil function and health.
 
 [Source](https://doi.org/10.1038/s41564-024-01767-x)
+
+10.1038/s41564-024-01767-x
 
 ---
 
