@@ -60,7 +60,7 @@ Eating behaviour and circadian rhythms are closely related. The type, timing, an
 ---
 
 ## Microbiome mapping in dairy industry reveals new species and genes for probiotic and bioprotective activities.
- 02.08.2024, _F De Filippis, V Valentino, M Yap, R Cabrera-Rubio, C Barcenilla, N Carlino, JF Cobo-Díaz, NM Quijada, I Calvete-Torre, P Ruas-Madiedo, C Sabater, G Sequino, E Pasolli, M Wagner, A Margolles, N Segata, A Álvarez-Ordóñez, PD Cotter, D Ercolini_
+ 05.08.2024, _F De Filippis, V Valentino, M Yap, R Cabrera-Rubio, C Barcenilla, N Carlino, JF Cobo-Díaz, NM Quijada, I Calvete-Torre, P Ruas-Madiedo, C Sabater, G Sequino, E Pasolli, M Wagner, A Margolles, N Segata, A Álvarez-Ordóñez, PD Cotter, D Ercolini_
 
 
 _Probiotics, Cheese, Metagenome, Food Microbiology, Microbiota, Humans, Dairying, Europe, Metagenomics, Bacteria_
@@ -97,7 +97,7 @@ Polyphenols, abundant in plant-based foods like fruits, vegetables, tea, coffee,
 ---
 
 ## Design of an agro-industrial by-products-based media for the production of probiotic bacteria for fish nutrition.
- 02.08.2024, _MF Valle Vargas, LM Villamil Diaz, RY Ruiz Pardo, MX Quintanilla Carvajal_
+ 05.08.2024, _MF Valle Vargas, LM Villamil Diaz, RY Ruiz Pardo, MX Quintanilla Carvajal_
 
 
 _Probiotics, Animals, Culture Media, Lactococcus lactis, Whey, Cichlids, Gastrointestinal Microbiome, Molasses, Animal Feed, Saccharum_
@@ -145,64 +145,33 @@ Probiotic production in commercial culture media is expensive, so, it is necessa
 
 ---
 
-## A novel strategy of artificially regulating plant rhizosphere microbial community to promote plant tolerance to cold stress.
- 02.08.2024, _J Zhang, K Song, F Jin, F Jia, J Liang, F Wang, J Zhang_
-
-
-Artificial regulation of plant rhizosphere microbial communities through the synthesis of microbial communities is one of the effective ways to improve plant stress resistance. However, the process of synthesizing stress resistant microbial communities with excellent performance is complex, time-consuming, and costly. To address this issue, we proposed a novel strategy for preparing functional microbial communities. We isolated a cultivable cold tolerant bacterial community (PRCBC) from the rhizosphere of peas, and studied its effectiveness in assisting rice to resist stress. The results indicate that PRCBC can not only improve the ability of rice to resist cold stress, but also promote the increase of rice yield after cold stress relieved. This is partly because PRCBC increases the nitrogen content in the rhizosphere soil, and promotes rice's absorption of nitrogen elements, thereby promoting rice growth and enhancing its ability to resist osmotic stress. More importantly, the application of PRCBC drives the succession of rice rhizosphere microbial communities, and promotes the succession of rice rhizosphere microbial communities towards stress resistance. Surprisingly, PRCBC drives the succession of rice rhizosphere microbial communities towards a composition similar to PRCBC. This provides a feasible novel method for artificially and directionally driving microbial succession. In summary, we not only proposed a novel and efficient strategy for preparing stress resistant microbial communities to promote plant stress resistance, but also unexpectedly discovered a possible directionally driving method for soil microbial community succession.
+## A novel strategy of artificially regulating plant rhizosphere microbial community to promote plant tolerance to cold stress
 
 [Source](https://doi.org/10.1016/j.scitotenv.2024.175184)
 
-10.1016/j.scitotenv.2024.175184
-
 ---
 
-## A bud's life: Metabarcoding analysis to characterise hazelnut big buds microbiome biodiversity.
- 02.08.2024, _S Turco, F Brugneti, I Giubilei, C Silvestri, M Petrović, MI Drais, V Cristofori, S Speranza, A Mazzaglia, M Contarini, L Rossini_
-
-
-Despite Corylus avellana L. being an economically important shrub species known for its resilience to adverse environmental conditions, it constantly faces attacks from a plethora of biotic entities. Among these, the mite pest Phytoptus avellanae is gaining importance, causing economic losses every year. This mite colonises the new generative and vegetative buds, leading them to become swollen and reddish, and drastically reducing hazelnut production. The biology behind gall formation is still poorly understood. This study provides a qualitative and quantitative description of the microbiome in both healthy and infested buds of two economically important hazelnut cultivars through metabarcoding of fungal ITS and bacterial 16 S. Potentially pathogenic genera such as Fusarium and Pseudomonas were predominant in the infested buds, along with the obligate intracellular bacterial genus Wolbachia. Akanthomyces muscarius was instead isolated from culture-based methods only from the infested buds. These findings could improve the understanding of gall ecology, supporting the management of mite populations, and they could also serve as a milestone for further studies on low-impact, monitoring-driven, and genetically targeted control strategies.
+## A bud’s life: Metabarcoding analysis to characterise hazelnut big buds microbiome biodiversity
 
 [Source](https://doi.org/10.1016/j.micres.2024.127851)
 
-10.1016/j.micres.2024.127851
-
 ---
 
-## Integrating viruses into soil food web biogeochemistry.
- 02.08.2024, _C Carreira, C Lønborg, B Acharya, L Aryal, Z Buivydaite, F Borim Corrêa, T Chen, C Lorenzen Elberg, JB Emerson, L Hillary, RB Khadka, V Langlois, K Mason-Jones, T Netherway, S Sutela, G Trubl, A Wa Kang'eri, R Wang, RA White, A Winding, T Zhao, R Sapkota_
-
-
-The soil microbiome is recognized as an essential component of healthy soils. Viruses are also diverse and abundant in soils, but their roles in soil systems remain unclear. Here we argue for the consideration of viruses in soil microbial food webs and describe the impact of viruses on soil biogeochemistry. The soil food web is an intricate series of trophic levels that span from autotrophic microorganisms to plants and animals. Each soil system encompasses contrasting and dynamic physicochemical conditions, with labyrinthine habitats composed of particles. Conditions are prone to shifts in space and time, and this variability can obstruct or facilitate interactions of microorganisms and viruses. Because viruses can infect all domains of life, they must be considered as key regulators of soil food web dynamics and biogeochemical cycling. We highlight future research avenues that will enable a more robust understanding of the roles of viruses in soil function and health.
+## Integrating viruses into soil food web biogeochemistry
 
 [Source](https://doi.org/10.1038/s41564-024-01767-x)
 
-10.1038/s41564-024-01767-x
-
 ---
 
-## Rhizosphere microbiome assembly, drivers and functions in perennial ligneous plant health.
- 01.08.2024, _M Duret, A Wallner, M Buée, A Aziz_
-
-
-Plants shape and interact continuously with their rhizospheric microbiota, which play a key role in plant health and resilience. However, plant-associated microbial community can be shaped by several factors including plant phenotype and cropping system. Thus, understanding the interplay between microbiome assembly during the onset of plant-pathogen interactions and long-lasting resistance traits in ligneous plants remains a major challenge. To date, such attempts were mainly investigated in herbaceous plants, due to their phenotypic characteristics and their short life cycle. However, only few studies have focused on the microbial structure, dynamic and their drivers in perennial ligneous plants. Ligneous plants coevolved in interaction with specific fungal and bacterial communities that differ from those of annual plants. The specificities of such ligneous plants in shaping their own functional microbial communities could be dependent on their high heterozygosis, physiological and molecular status associated to seasonality and their aging processes, root system and above-ground architectures, long-lasting climatic variations, and specific cultural practices. This article provides an overview of the specific characteristics of perennial ligneous plants that are likely to modulate symbiotic interactions in the rhizosphere, thus affecting the plant's fitness and systemic immunity. Plant and microbial traits contributing to the establishment of plant-microbiome interactions and the adaptation of this holobiont are also discussed.
+## Rhizosphere microbiome assembly, drivers and functions in perennial ligneous plant health
 
 [Source](https://doi.org/10.1016/j.micres.2024.127860)
 
-10.1016/j.micres.2024.127860
-
 ---
 
-## Genomic and induction evidence for bacteriophage contributions to sargassum-bacteria symbioses.
- 04.08.2024, _AK Stiffler, PJ Hesketh-Best, NS Varona, A Zagame, BA Wallace, BE Lapointe, CB Silveira_
-
-
-_Sargassum, Symbiosis, Bacteriophages, Seawater, Genome, Viral, Metagenome, Bacteria, Genomics, Microbiota, Phylogeny, Genome, Bacterial, Synechococcus_
-Symbioses between primary producers and bacteria are crucial for nutrient exchange that fosters host growth and niche adaptation. Yet, how viruses that infect bacteria (phages) influence these bacteria-eukaryote interactions is still largely unknown. Here, we investigate the role of viruses on the genomic diversity and functional adaptations of bacteria associated with pelagic sargassum. This brown alga has dramatically increased its distribution range in the Atlantic in the past decade and is predicted to continue expanding, imposing severe impacts on coastal ecosystems, economies, and human health.
+## Genomic and induction evidence for bacteriophage contributions to sargassum-bacteria symbioses
 
 [Source](https://doi.org/10.1186/s40168-024-01860-7)
-
-10.1186/s40168-024-01860-7
 
 ---
 
