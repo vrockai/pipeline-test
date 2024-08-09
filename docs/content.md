@@ -23,16 +23,15 @@ To evaluate the impact of diaper change frequency, clinical characteristics, and
 
 ---
 
-## Boosting of retinol activity using novel lecithin: Retinol acyltransferase inhibitors.
- 08.08.2024, _D Imfeld, A Fischer, L Budel, C Stoll, R Schütz, AV Rawlings_
+## Towards more sustainable cooking practices to increase the bioaccessibility of colourless and provitamin A carotenoids in cooked carrots.
+ 09.08.2024, _AM Benítez-González, CM Stinco, FJ Rodríguez-Pulido, IM Vicario, AJ Meléndez-Martínez_
 
 
-_Vitamin A, Acyltransferases, Humans, Enzyme Inhibitors, Structure-Activity Relationship, Skin_
-Lecithin:retinol acyltransferase (LRAT) is the main enzyme catalysing the esterification of retinol to retinyl esters and, hence, is of central importance for retinol homeostasis. As retinol, by its metabolite retinoic acid, stimulates fibroblasts to synthesize collagen fibres and inhibits collagen-degrading enzymes, the inhibition of LRAT presents an intriguing strategy for anti-ageing ingredients by increasing the available retinol in the skin. Here, we synthesized several derivatives mimicking natural lecithin substrates as potential LRAT inhibitors. By exploring various chemical modifications of the core scaffold consisting of a central amino acid and an N-terminal acylsulfone, we explored 10 different compounds in a biochemical assay, resulting in two compounds with IC50 values of 21.1 and 32.7 μM (compounds 1 and 2), along with a simpler arginine derivative with comparative inhibitory potency. Supported by computational methods, we investigated their structure-activity relationship, resulting in the identification of several structural features associated with high inhibition of LRAT. Ultimately, we conducted an ex vivo study with human skin, demonstrating an increase of collagen III associated with a reduction of the skin ageing process. In conclusion, the reported compounds offer a promising approach to boost retinol abundance in human skin and might present a new generation of anti-ageing ingredients for cosmetic application.
+The effect of different cooking methods (boiling, baking, steaming and microwaving) on the colour and texture of carrots, as well as on the bioaccessibility of carotenoids, was investigated in order to identify the more "sustainable cooking" methods. Cooking resulted in statistically significant increases in total carotenoid bioaccessibility, both with intensity and duration of treatments. In particular, significant increases in carotenoid bioaccessible content (CBC) were observed, ranging from 6.03-fold (microwave) to 8.90-fold (baking) for the most intense cooking conditions tested. Although the relative concentration of the colourless carotenoids (phytoene and phytofluene) in raw carrots is lower than that of provitamins A α- and β-carotene, the bioaccessible content of the colourless ones is much higher. From an energy consumption standpoint and considering samples with the same tenderness, the highest CBC values per kWh decreased in the order microwaving &gt; baking &gt; water cooking &gt; steaming. Our findings are important to help combat vitamin A deficiency since increases of up to ∼40-fold and ∼70-fold in the CBCs of the vitamin A precursors α- and β-carotene, respectively, were observed. These results provide a basis for defining "sustainable cooking" as "cooking practices that optimize intensity, duration and other parameters leading to a more efficient use of energy to maximize the bioavailability of nutrients and other beneficial food components (such as bioactives) while ensuring food appeal and safety".
 
 [Source](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-024-03543-4)
 
-10.1111/ics.12968
+10.1039/d4fo02752c
 
 ---
 
@@ -151,27 +150,15 @@ Antimicrobial resistance is a global health concern. As such, there have been in
 
 ---
 
-## Production of structurally diverse sphingolipids by anaerobic marine bacteria in the euxinic Black Sea water column.
- 08.08.2024, _S Ding, FAB von Meijenfeldt, NJ Bale, JS Sinninghe Damsté, L Villanueva_
-
-
-Microbial lipids, used as taxonomic markers and physiological indicators, have mainly been studied through cultivation. However, this approach is limited due to the scarcity of cultures of environmental microbes, thereby restricting insights into the diversity of lipids and their ecological roles. Addressing this limitation, here we apply metalipidomics combined with metagenomics in the Black Sea, classifying and tentatively identifying 1623 lipid-like species across 18 lipid classes. We discovered over 200 novel, abundant, and structurally diverse sphingolipids in euxinic waters, including unique 1-deoxysphingolipids with long-chain fatty acids and sulfur-containing groups. Sphingolipids were thought to be rare in bacteria and their molecular and ecological functions in bacterial membranes remain elusive. However, genomic analysis focused on sphingolipid biosynthesis genes revealed that members of 38 bacterial phyla in the Black Sea can synthesize sphingolipids, representing a fourfold increase from previously known capabilities and accounting for up to 25% of the microbial community. These sphingolipids appear to be involved in oxidative stress response, cell wall remodeling and are associated with the metabolism of nitrogen-containing molecules. Our findings underscore the effectiveness of multi-omics approaches in exploring microbial chemical ecology.
+## Production of structurally diverse sphingolipids by anaerobic marine bacteria in the euxinic Black Sea water column
 
 [Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae153/7729370)
 
-10.1093/ismejo/wrae153
-
 ---
 
-## Characterization of fungal microbiome structure in leaf litter compost through metagenomic profiling for harnessing the bio-organic fertilizer potential.
- 08.08.2024, _S Mahongnao, P Sharma, S Nanda_
-
-
-Sustainable waste management through composting has gain renewed attention since it could upcycle organic waste into valuable bio-organic fertiliser. This study explored the composition of fungal communities in leaf litter and organic waste composts ecosystems by employing advanced internal transcribed spacer (ITS) metagenomic profiling. This approach provides insights into the diversity, composition, and potential functions of these fungi, offering practical implications for optimising composting processes and enhancing sustainable waste management practices. Various organic composts were collected, including leaf litter composts, from different sources in Delhi-National Capital Region, India, and fungal microbiome composition were characterised through ITS profiling. Results revealed that leaf litter composts and cow dung manure had the highest fungal read counts, while kitchen waste compost had the lowest. Alpha diversity indices, including Chao1 and Shannon, exhibited differences in species richness and diversity among composts, though statistical significance was limited. The leaf composts had relatively higher alpha diversity than the other organic waste composts analysed. The study also identified dominant fungal genera specifically, Wallemia, Geotrichum, Pichia, Mycothermus, Mortierella, Aspergillus, Fusarium, and Basidiobolus, across the compost samples. The presence of beneficial fungal genera like Pichia, Geotrichum, Trichoderma, Mortierella, Basidiobolus, Aspergillus, and others were detected in leaf waste compost and the other organic waste composts. There was also presence of some pathogenic genera viz. Alternaria, Fusarium, and Acremonium, in these composts which underscored the need for proper composting practices and source selection to optimise soil fertility and minimise disease risks in agriculture. Remarkably, leaf compost has highest proportion of beneficial genera with least observed abundance of pathogens. On the other hand, the municipal organic waste compost has least proportion of beneficial genera with higher abundance of pathogens. Overall, these findings contributed to characterisation of composting processes, advancing waste management practices, and enhancing the use of leaf compost as a bio-organic fertiliser.
+## Characterization of fungal microbiome structure in leaf litter compost through metagenomic profiling for harnessing the bio-organic fertilizer potential
 
 [Source](https://link.springer.com/article/10.1007/s13205-024-04028-0)
-
-10.1007/s13205-024-04028-0
 
 ---
 
@@ -181,40 +168,21 @@ Sustainable waste management through composting has gain renewed attention since
 
 ---
 
-## DNA stable isotope probing reveals the impact of trophic interactions on bioaugmentation of soils with different pollution histories.
- 07.08.2024, _EE Nieto, SD Jurburg, N Steinbach, S Festa, IS Morelli, BM Coppotelli, A Chatzinotas_
-
-
-_Soil Microbiology, Soil, Soil Pollutants, Biodegradation, Environmental, RNA, Ribosomal, 16S, RNA, Ribosomal, 18S, Bacteria, Biomass, Carbon Isotopes, Food Chain, Polycyclic Aromatic Hydrocarbons, Isotope Labeling_
-Bioaugmentation is considered a sustainable and cost-effective methodology to recover contaminated environments, but its outcome is highly variable. Predation is a key top-down control mechanism affecting inoculum establishment, however, its effects on this process have received little attention. This study focused on the impact of trophic interactions on bioaugmentation success in two soils with different pollution exposure histories. We inoculated a 13C-labelled pollutant-degrading consortium in these soils and tracked the fate of the labelled biomass through stable isotope probing (SIP) of DNA. We identified active bacterial and eukaryotic inoculum-biomass consumers through amplicon sequencing of 16S rRNA and 18S rRNA genes coupled to a novel enrichment factor calculation.
+## DNA stable isotope probing reveals the impact of trophic interactions on bioaugmentation of soils with different pollution histories
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01865-2)
 
-10.1186/s40168-024-01865-2
-
 ---
 
-## Seed endophytes and rhizosphere microbiome of Imperata cylindrica, a pioneer plant of abandoned mine lands.
- 08.08.2024, _W Mao, Y Wu, Q Li, Y Xiang, W Tang, H Hu, X Ji, H Li_
-
-
-Some plant-associated microorganisms could improve host plants biotic and abiotic stress tolerance. Imperata cylindrica is a dominant pioneer plant in some abandoned mine lands with higher concentrations of heavy metal (HM). To discover the specific microbiome of I. cylindrica in this extreme environment and evaluate its role, the microbiome of I. cylindrica's seeds and rhizosphere soils from HM heavily contaminated (H) and lightly contaminated (L) sites were studied. It was found that HM-contamination significantly reduced the richness of endophytic bacteria in seeds, but increased the abundance of resistant species, such as Massilia sp. and Duganella sp. Spearman's rank correlation coefficient analysis showed that both Massilia sp. and Duganella sp. showed a significant positive correlation with Zn concentration, indicating that it may have a strong tolerance to Zn. A comparison of the microbiome of rhizosphere soils (RS) and adjacent bare soils (BS) of site H showed that I. cylindrica colonization significantly increased the diversity of fungi in rhizosphere soil and the abundance of Ascomycota associated with soil nutrient cycling. Spearman's rank correlation coefficient analysis showed that Ascomycota was positively correlated with the total nitrogen. Combined with the fact that the total nitrogen content of RS was significantly higher than that of BS, we suppose that Ascomycota may enhance the nitrogen fixation of I. cylindrica, thereby promoting its growth in such an extreme environment. In conclusion, the concentration of HM and nutrient contents in the soil significantly affected the microbial community of rhizosphere soils and seeds of I. cylindrica, in turn, the different microbiomes further affected soil HM concentration and nutrient contents. The survival of I. cylindrica in HM severely contaminated environment may mainly be through recruiting more microorganisms that can enhance its nutrition supply.
+## Seed endophytes and rhizosphere microbiome of Imperata cylindrica, a pioneer plant of abandoned mine lands
 
 [Source](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1415329/full)
 
-10.3389/fmicb.2024.1415329
-
 ---
 
-## Temperature-dependent trophic associations modulate soil bacterial communities along latitudinal gradients.
- 08.08.2024, _X Huang, J Wang, K Dumack, K Anantharaman, B Ma, Y He, W Liu, H Di, Y Li, J Xu_
-
-
-Understanding the environmental and biological mechanisms shaping latitudinal patterns in microbial diversity is challenging in the field of ecology. Although multiple hypotheses have been proposed to explain these patterns, a consensus has rarely been reached. Here, we conducted a large-scale field survey and microcosm experiments to investigate how environmental heterogeneity and putative trophic interactions (exerted by protist-bacteria associations and T4-like virus-bacteria associations) affect soil bacterial communities along a latitudinal gradient. We found that the microbial latitudinal diversity was kingdom dependent, showing decreasing, clumped, and increasing trends in bacteria, protists, and T4-like viruses, respectively. Climatic and edaphic drivers played predominant roles in structuring the bacterial communities, the intensity of the climatic effect increased sharply from 30°N to 32°N, whereas the intensity of the edaphic effect remained stable. Biotic associations were also essential in shaping the bacterial communities, with protist-bacteria associations showing a quadratic distribution, whereas virus-bacteria associations were significant only at high latitudes. The microcosm experiments further revealed that the temperature component, which is affiliated with climate conditions, is the primary regulator of trophic associations along the latitudinal gradient. Overall, our study highlights a previously underestimated mechanism of how the putative biotic interactions influence bacterial communities and their response to environmental gradients.
+## Temperature-dependent trophic associations modulate soil bacterial communities along latitudinal gradients 
 
 [Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae145/7729363)
-
-10.1093/ismejo/wrae145
 
 ---
 
@@ -224,16 +192,9 @@ Understanding the environmental and biological mechanisms shaping latitudinal pa
 
 ---
 
-## Combining Bifidobacterium longum subsp. infantis and human milk oligosaccharides synergistically increases short chain fatty acid production ex vivo.
- 07.08.2024, _F De Bruyn, K James, G Cottenet, M Dominick, J Katja_
-
-
-_Humans, Milk, Human, Oligosaccharides, Fatty Acids, Volatile, Infant, Bifidobacterium longum subspecies infantis, Bifidobacterium, Probiotics, Gastrointestinal Microbiome, Feces, Female, Synbiotics, Child, Preschool_
-To enhance health benefits, a probiotic can be co-administered with a metabolizable prebiotic forming a synergistic synbiotic. We assessed the synergies resulting from combining Bifidobacterium longum subsp. infantis LMG 11588 and an age-adapted blend of six human milk oligosaccharides (HMOs) in ex vivo colonic incubation bioreactors seeded with fecal background microbiota from infant and toddler donors. When HMOs were combined with B. infantis LMG 11588, they were rapidly and completely consumed. This resulted in increased short chain fatty acid (SCFA) production compared to the summed SCFA production from individual ingredients (synergy). Remarkably, HMOs were partially consumed for specific infant donors in the absence of B. infantis LMG 11588, yet all donors showed increased SCFA production upon B. infantis LMG 11588 supplementation. We found specific bacterial taxa associated with the differential response pattern to HMOs. Our study shows the importance of carefully selecting pre- and probiotic into a synergistic synbiotic that could benefit infants.
+## Combining Bifidobacterium longum subsp. infantis and human milk oligosaccharides synergistically increases short chain fatty acid production ex vivo
 
 [Source](https://www.nature.com/articles/s42003-024-06628-1)
-
-10.1038/s42003-024-06628-1
 
 ---
 
