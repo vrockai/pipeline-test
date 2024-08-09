@@ -23,15 +23,16 @@ To evaluate the impact of diaper change frequency, clinical characteristics, and
 
 ---
 
-## Towards more sustainable cooking practices to increase the bioaccessibility of colourless and provitamin A carotenoids in cooked carrots.
- 09.08.2024, _AM Benítez-González, CM Stinco, FJ Rodríguez-Pulido, IM Vicario, AJ Meléndez-Martínez_
+## Causal relationships between dietary antioxidant vitamin intake and atopic dermatitis: A two-sample Mendelian randomization study.
+ 09.08.2024, _S Wang, W Dan, Z Wang, Y Sun, G Zhang_
 
 
-The effect of different cooking methods (boiling, baking, steaming and microwaving) on the colour and texture of carrots, as well as on the bioaccessibility of carotenoids, was investigated in order to identify the more "sustainable cooking" methods. Cooking resulted in statistically significant increases in total carotenoid bioaccessibility, both with intensity and duration of treatments. In particular, significant increases in carotenoid bioaccessible content (CBC) were observed, ranging from 6.03-fold (microwave) to 8.90-fold (baking) for the most intense cooking conditions tested. Although the relative concentration of the colourless carotenoids (phytoene and phytofluene) in raw carrots is lower than that of provitamins A α- and β-carotene, the bioaccessible content of the colourless ones is much higher. From an energy consumption standpoint and considering samples with the same tenderness, the highest CBC values per kWh decreased in the order microwaving &gt; baking &gt; water cooking &gt; steaming. Our findings are important to help combat vitamin A deficiency since increases of up to ∼40-fold and ∼70-fold in the CBCs of the vitamin A precursors α- and β-carotene, respectively, were observed. These results provide a basis for defining "sustainable cooking" as "cooking practices that optimize intensity, duration and other parameters leading to a more efficient use of energy to maximize the bioavailability of nutrients and other beneficial food components (such as bioactives) while ensuring food appeal and safety".
+_Humans, Mendelian Randomization Analysis, Dermatitis, Atopic, Antioxidants, Genome-Wide Association Study, Vitamin E, Vitamins, Diet, Polymorphism, Single Nucleotide, Vitamin A, Dietary Supplements_
+Oxidative stress is strongly associated with atopic dermatitis (AD), and increased antioxidant intake could potentially reduce the risk of or alleviate its symptoms. However, the argument is disputed. Therefore, we conducted a Mendelian randomization (MR) analysis to explore the causal relationship between dietary antioxidant vitamin intake and AD.
 
 [Source](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-024-03543-4)
 
-10.1039/d4fo02752c
+10.1111/srt.13883
 
 ---
 
@@ -68,7 +69,7 @@ The lung is recognized as a site for initiating the formation of self-antigen an
 ---
 
 ## Effect of β-lactam antibiotics on the gut microbiota of term neonates.
- 08.08.2024, _H Gu, E Tao, Y Fan, G Long, X Jia, T Yuan, L Chen, X Shu, W Zheng, M Jiang_
+ 09.08.2024, _H Gu, E Tao, Y Fan, G Long, X Jia, T Yuan, L Chen, X Shu, W Zheng, M Jiang_
 
 
 _Female, Humans, Infant, Newborn, Male, Bacteria, beta Lactam Antibiotics, Feces, Gastrointestinal Microbiome, RNA, Ribosomal, 16S_
@@ -87,7 +88,7 @@ _Female, Humans, Infant, Newborn, Male, Bacteria, beta Lactam Antibiotics, Feces
 ---
 
 ## Mouse adaptation of human inflammatory bowel diseases microbiota enhances colonization efficiency and alters microbiome aggressiveness depending on the recipient colonic inflammatory environment.
- 07.08.2024, _SM Gray, AD Moss, JW Herzog, S Kashiwagi, B Liu, JB Young, S Sun, AP Bhatt, AA Fodor, R Balfour Sartor_
+ 09.08.2024, _SM Gray, AD Moss, JW Herzog, S Kashiwagi, B Liu, JB Young, S Sun, AP Bhatt, AA Fodor, R Balfour Sartor_
 
 
 _Animals, Humans, Mice, Fecal Microbiota Transplantation, Gastrointestinal Microbiome, Inflammatory Bowel Diseases, Disease Models, Animal, Dysbiosis, Interleukin-10, Colitis, Feces, Colon, Mice, Knockout, Mice, Inbred C57BL, Female, Bacteria, Inflammation, Male_
@@ -100,7 +101,7 @@ Understanding the cause vs consequence relationship of gut inflammation and micr
 ---
 
 ## Gut microbiota composition of the isopod Ligia in South Korea exposed to expanded polystyrene pollution.
- 07.08.2024, _YM Lee, KM Choi, SH Mun, JW Yoo, JH Jung_
+ 09.08.2024, _YM Lee, KM Choi, SH Mun, JW Yoo, JH Jung_
 
 
 _Gastrointestinal Microbiome, Republic of Korea, Animals, Isopoda, Water Pollutants, Chemical, Metagenomics_
@@ -113,7 +114,7 @@ Plastics pose a considerable challenge to aquatic ecosystems because of their in
 ---
 
 ## Effects of a supplemented diet containing 7 probiotic strains (Honeybeeotic) on honeybee physiology and immune response: analysis of hemolymph cytology, phenoloxidase activity, and gut microbiome.
- 08.08.2024, _P Robino, L Galosi, A Bellato, S Vincenzetti, E Gonella, I Ferrocino, E Serri, L Biagini, A Roncarati, P Nebbia, C Menzio, G Rossi_
+ 09.08.2024, _P Robino, L Galosi, A Bellato, S Vincenzetti, E Gonella, I Ferrocino, E Serri, L Biagini, A Roncarati, P Nebbia, C Menzio, G Rossi_
 
 
 _Animals, Bees, Dietary Supplements, Gastrointestinal Microbiome, Hemocytes, Hemolymph, Immunity, Innate, Italy, Monophenol Monooxygenase, Probiotics_
