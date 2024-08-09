@@ -151,27 +151,15 @@ Antimicrobial resistance is a global health concern. As such, there have been in
 
 ---
 
-## Production of structurally diverse sphingolipids by anaerobic marine bacteria in the euxinic Black Sea water column.
- 08.08.2024, _S Ding, FAB von Meijenfeldt, NJ Bale, JS Sinninghe Damsté, L Villanueva_
-
-
-Microbial lipids, used as taxonomic markers and physiological indicators, have mainly been studied through cultivation. However, this approach is limited due to the scarcity of cultures of environmental microbes, thereby restricting insights into the diversity of lipids and their ecological roles. Addressing this limitation, here we apply metalipidomics combined with metagenomics in the Black Sea, classifying and tentatively identifying 1623 lipid-like species across 18 lipid classes. We discovered over 200 novel, abundant, and structurally diverse sphingolipids in euxinic waters, including unique 1-deoxysphingolipids with long-chain fatty acids and sulfur-containing groups. Sphingolipids were thought to be rare in bacteria and their molecular and ecological functions in bacterial membranes remain elusive. However, genomic analysis focused on sphingolipid biosynthesis genes revealed that members of 38 bacterial phyla in the Black Sea can synthesize sphingolipids, representing a fourfold increase from previously known capabilities and accounting for up to 25% of the microbial community. These sphingolipids appear to be involved in oxidative stress response, cell wall remodeling and are associated with the metabolism of nitrogen-containing molecules. Our findings underscore the effectiveness of multi-omics approaches in exploring microbial chemical ecology.
+## Production of structurally diverse sphingolipids by anaerobic marine bacteria in the euxinic Black Sea water column
 
 [Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae153/7729370)
 
-10.1093/ismejo/wrae153
-
 ---
 
-## Characterization of fungal microbiome structure in leaf litter compost through metagenomic profiling for harnessing the bio-organic fertilizer potential.
- 08.08.2024, _S Mahongnao, P Sharma, S Nanda_
-
-
-Sustainable waste management through composting has gain renewed attention since it could upcycle organic waste into valuable bio-organic fertiliser. This study explored the composition of fungal communities in leaf litter and organic waste composts ecosystems by employing advanced internal transcribed spacer (ITS) metagenomic profiling. This approach provides insights into the diversity, composition, and potential functions of these fungi, offering practical implications for optimising composting processes and enhancing sustainable waste management practices. Various organic composts were collected, including leaf litter composts, from different sources in Delhi-National Capital Region, India, and fungal microbiome composition were characterised through ITS profiling. Results revealed that leaf litter composts and cow dung manure had the highest fungal read counts, while kitchen waste compost had the lowest. Alpha diversity indices, including Chao1 and Shannon, exhibited differences in species richness and diversity among composts, though statistical significance was limited. The leaf composts had relatively higher alpha diversity than the other organic waste composts analysed. The study also identified dominant fungal genera specifically, Wallemia, Geotrichum, Pichia, Mycothermus, Mortierella, Aspergillus, Fusarium, and Basidiobolus, across the compost samples. The presence of beneficial fungal genera like Pichia, Geotrichum, Trichoderma, Mortierella, Basidiobolus, Aspergillus, and others were detected in leaf waste compost and the other organic waste composts. There was also presence of some pathogenic genera viz. Alternaria, Fusarium, and Acremonium, in these composts which underscored the need for proper composting practices and source selection to optimise soil fertility and minimise disease risks in agriculture. Remarkably, leaf compost has highest proportion of beneficial genera with least observed abundance of pathogens. On the other hand, the municipal organic waste compost has least proportion of beneficial genera with higher abundance of pathogens. Overall, these findings contributed to characterisation of composting processes, advancing waste management practices, and enhancing the use of leaf compost as a bio-organic fertiliser.
+## Characterization of fungal microbiome structure in leaf litter compost through metagenomic profiling for harnessing the bio-organic fertilizer potential
 
 [Source](https://link.springer.com/article/10.1007/s13205-024-04028-0)
-
-10.1007/s13205-024-04028-0
 
 ---
 
@@ -181,16 +169,9 @@ Sustainable waste management through composting has gain renewed attention since
 
 ---
 
-## DNA stable isotope probing reveals the impact of trophic interactions on bioaugmentation of soils with different pollution histories.
- 07.08.2024, _EE Nieto, SD Jurburg, N Steinbach, S Festa, IS Morelli, BM Coppotelli, A Chatzinotas_
-
-
-_Soil Microbiology, Soil, Soil Pollutants, Biodegradation, Environmental, RNA, Ribosomal, 16S, RNA, Ribosomal, 18S, Bacteria, Biomass, Carbon Isotopes, Food Chain, Polycyclic Aromatic Hydrocarbons, Isotope Labeling_
-Bioaugmentation is considered a sustainable and cost-effective methodology to recover contaminated environments, but its outcome is highly variable. Predation is a key top-down control mechanism affecting inoculum establishment, however, its effects on this process have received little attention. This study focused on the impact of trophic interactions on bioaugmentation success in two soils with different pollution exposure histories. We inoculated a 13C-labelled pollutant-degrading consortium in these soils and tracked the fate of the labelled biomass through stable isotope probing (SIP) of DNA. We identified active bacterial and eukaryotic inoculum-biomass consumers through amplicon sequencing of 16S rRNA and 18S rRNA genes coupled to a novel enrichment factor calculation.
+## DNA stable isotope probing reveals the impact of trophic interactions on bioaugmentation of soils with different pollution histories
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01865-2)
-
-10.1186/s40168-024-01865-2
 
 ---
 
