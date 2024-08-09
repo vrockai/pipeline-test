@@ -69,10 +69,10 @@ The lung is recognized as a site for initiating the formation of self-antigen an
 ---
 
 ## Effect of β-lactam antibiotics on the gut microbiota of term neonates.
- 07.08.2024, _H Gu, E Tao, Y Fan, G Long, X Jia, T Yuan, L Chen, X Shu, W Zheng, M Jiang_
+ 08.08.2024, _H Gu, E Tao, Y Fan, G Long, X Jia, T Yuan, L Chen, X Shu, W Zheng, M Jiang_
 
 
-_Humans, Gastrointestinal Microbiome, Infant, Newborn, Anti-Bacterial Agents, beta-Lactams, Feces, Female, Bacteria, Male, RNA, Ribosomal, 16S, beta Lactam Antibiotics_
+_Female, Humans, Infant, Newborn, Male, Bacteria, beta Lactam Antibiotics, Feces, Gastrointestinal Microbiome, RNA, Ribosomal, 16S_
 β-Lactam antibiotics are a class of antibiotics commonly used to treat bacterial infections. However, the effects of β-lactam antibiotics on term neonatal intestinal flora have not been fully elucidated. Hospitalized full-term newborns receiving β-lactam antibiotics formed the antibiotic group (n = 67), while those without antibiotic treatment comprised the non-antibiotic group (n = 47). A healthy group included healthy full-term newborns (n = 16). Stool samples were collected for 16 S rDNA sequencing to analyze gut microbiota variations. Further investigation was carried out within the β-lactam antibiotic group, exploring the effects of antibiotic use on the newborns' gut microbiota in relation to the duration and type of antibiotic administration, delivery method, and feeding practices. The antibiotic group exhibited significant difference of microbial community composition compared to the other groups. Genera like Klebsiella, Enterococcus, Streptococcus, Alistipes, and Aeromonas were enriched, while Escherichia-Shigella, Clostridium sensu stricto 1, Bifidobacterium, and Parabacteroides were reduced. Klebsiella negatively correlated with Escherichia-Shigella, positively with Enterobacter, while Escherichia-Shigella negatively correlated with Enterococcus and Streptococcus. Regardless of neonatal age, β-lactam antibiotics induced an elevated abundance of Klebsiella and Enterococcus. The impact on gut microbiota varied with the duration and type of antibiotic (cefotaxime or ampicillin/sulbactam). Compared to vaginal delivery, cesarean delivery after β-lactam treatment heightened the abundance of Klebsiella, Enterobacteriaceae_Unclassified, Lactobacillales_Unclassified, and Pectobacterium. Feeding patterns minimally influenced β-lactam-induced alterations. In conclusion, β-lactam antibiotic treatment for neonatal pneumonia and sepsis markedly disrupted intestinal microbiota, favoring Klebsiella, Enterococcus, Streptococcus, Alistipes, and Aeromonas. The impact of β-lactam varied by duration, type, and delivery method, emphasizing heightened disruptions post-cesarean delivery.
 
 [Source](https://ann-clinmicrob.biomedcentral.com/articles/10.1186/s12941-024-00730-2)
@@ -114,10 +114,10 @@ Plastics pose a considerable challenge to aquatic ecosystems because of their in
 ---
 
 ## Effects of a supplemented diet containing 7 probiotic strains (Honeybeeotic) on honeybee physiology and immune response: analysis of hemolymph cytology, phenoloxidase activity, and gut microbiome.
- 07.08.2024, _P Robino, L Galosi, A Bellato, S Vincenzetti, E Gonella, I Ferrocino, E Serri, L Biagini, A Roncarati, P Nebbia, C Menzio, G Rossi_
+ 08.08.2024, _P Robino, L Galosi, A Bellato, S Vincenzetti, E Gonella, I Ferrocino, E Serri, L Biagini, A Roncarati, P Nebbia, C Menzio, G Rossi_
 
 
-_Animals, Bees, Probiotics, Gastrointestinal Microbiome, Hemolymph, Monophenol Monooxygenase, Immunity, Innate, Dietary Supplements, Italy, Hemocytes, Cytology_
+_Animals, Bees, Dietary Supplements, Gastrointestinal Microbiome, Hemocytes, Hemolymph, Immunity, Innate, Italy, Monophenol Monooxygenase, Probiotics_
 In this study, a probiotic mixture (Honeybeeotic) consisting of seven bacterial strains isolated from a unique population of honeybees (Apis mellifera ligustica) was used. That honeybee population was located in the Roti Abbey locality of the Marche Region in Italy, an area isolated from human activities, and genetic contamination from other honeybee populations. The aim was to investigate the effects of this probiotic mixture on the innate immunity and intestinal microbiome of healthy common honeybees in two hives of the same apiary. Hive A received a diet of 50% glucose syrup, while hive B received the same syrup supplemented with the probiotics, both administered daily for 1 month. To determine whether the probiotic altered the immune response, phenoloxidase activity and hemolymph cellular subtype count were investigated. Additionally, metagenomic approaches were used to analyze the effects on gut microbiota composition and function, considering the critical role the gut microbiota plays in modulating host physiology.
 
 [Source](https://biolres.biomedcentral.com/articles/10.1186/s40659-024-00533)
@@ -151,15 +151,27 @@ Antimicrobial resistance is a global health concern. As such, there have been in
 
 ---
 
-## Production of structurally diverse sphingolipids by anaerobic marine bacteria in the euxinic Black Sea water column
+## Production of structurally diverse sphingolipids by anaerobic marine bacteria in the euxinic Black Sea water column.
+ 08.08.2024, _S Ding, FAB von Meijenfeldt, NJ Bale, JS Sinninghe Damsté, L Villanueva_
+
+
+Microbial lipids, used as taxonomic markers and physiological indicators, have mainly been studied through cultivation. However, this approach is limited due to the scarcity of cultures of environmental microbes, thereby restricting insights into the diversity of lipids and their ecological roles. Addressing this limitation, here we apply metalipidomics combined with metagenomics in the Black Sea, classifying and tentatively identifying 1623 lipid-like species across 18 lipid classes. We discovered over 200 novel, abundant, and structurally diverse sphingolipids in euxinic waters, including unique 1-deoxysphingolipids with long-chain fatty acids and sulfur-containing groups. Sphingolipids were thought to be rare in bacteria and their molecular and ecological functions in bacterial membranes remain elusive. However, genomic analysis focused on sphingolipid biosynthesis genes revealed that members of 38 bacterial phyla in the Black Sea can synthesize sphingolipids, representing a fourfold increase from previously known capabilities and accounting for up to 25% of the microbial community. These sphingolipids appear to be involved in oxidative stress response, cell wall remodeling and are associated with the metabolism of nitrogen-containing molecules. Our findings underscore the effectiveness of multi-omics approaches in exploring microbial chemical ecology.
 
 [Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae153/7729370)
 
+10.1093/ismejo/wrae153
+
 ---
 
-## Characterization of fungal microbiome structure in leaf litter compost through metagenomic profiling for harnessing the bio-organic fertilizer potential
+## Characterization of fungal microbiome structure in leaf litter compost through metagenomic profiling for harnessing the bio-organic fertilizer potential.
+ 08.08.2024, _S Mahongnao, P Sharma, S Nanda_
+
+
+Sustainable waste management through composting has gain renewed attention since it could upcycle organic waste into valuable bio-organic fertiliser. This study explored the composition of fungal communities in leaf litter and organic waste composts ecosystems by employing advanced internal transcribed spacer (ITS) metagenomic profiling. This approach provides insights into the diversity, composition, and potential functions of these fungi, offering practical implications for optimising composting processes and enhancing sustainable waste management practices. Various organic composts were collected, including leaf litter composts, from different sources in Delhi-National Capital Region, India, and fungal microbiome composition were characterised through ITS profiling. Results revealed that leaf litter composts and cow dung manure had the highest fungal read counts, while kitchen waste compost had the lowest. Alpha diversity indices, including Chao1 and Shannon, exhibited differences in species richness and diversity among composts, though statistical significance was limited. The leaf composts had relatively higher alpha diversity than the other organic waste composts analysed. The study also identified dominant fungal genera specifically, Wallemia, Geotrichum, Pichia, Mycothermus, Mortierella, Aspergillus, Fusarium, and Basidiobolus, across the compost samples. The presence of beneficial fungal genera like Pichia, Geotrichum, Trichoderma, Mortierella, Basidiobolus, Aspergillus, and others were detected in leaf waste compost and the other organic waste composts. There was also presence of some pathogenic genera viz. Alternaria, Fusarium, and Acremonium, in these composts which underscored the need for proper composting practices and source selection to optimise soil fertility and minimise disease risks in agriculture. Remarkably, leaf compost has highest proportion of beneficial genera with least observed abundance of pathogens. On the other hand, the municipal organic waste compost has least proportion of beneficial genera with higher abundance of pathogens. Overall, these findings contributed to characterisation of composting processes, advancing waste management practices, and enhancing the use of leaf compost as a bio-organic fertiliser.
 
 [Source](https://link.springer.com/article/10.1007/s13205-024-04028-0)
+
+10.1007/s13205-024-04028-0
 
 ---
 
@@ -169,9 +181,16 @@ Antimicrobial resistance is a global health concern. As such, there have been in
 
 ---
 
-## DNA stable isotope probing reveals the impact of trophic interactions on bioaugmentation of soils with different pollution histories
+## DNA stable isotope probing reveals the impact of trophic interactions on bioaugmentation of soils with different pollution histories.
+ 07.08.2024, _EE Nieto, SD Jurburg, N Steinbach, S Festa, IS Morelli, BM Coppotelli, A Chatzinotas_
+
+
+_Soil Microbiology, Soil, Soil Pollutants, Biodegradation, Environmental, RNA, Ribosomal, 16S, RNA, Ribosomal, 18S, Bacteria, Biomass, Carbon Isotopes, Food Chain, Polycyclic Aromatic Hydrocarbons, Isotope Labeling_
+Bioaugmentation is considered a sustainable and cost-effective methodology to recover contaminated environments, but its outcome is highly variable. Predation is a key top-down control mechanism affecting inoculum establishment, however, its effects on this process have received little attention. This study focused on the impact of trophic interactions on bioaugmentation success in two soils with different pollution exposure histories. We inoculated a 13C-labelled pollutant-degrading consortium in these soils and tracked the fate of the labelled biomass through stable isotope probing (SIP) of DNA. We identified active bacterial and eukaryotic inoculum-biomass consumers through amplicon sequencing of 16S rRNA and 18S rRNA genes coupled to a novel enrichment factor calculation.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01865-2)
+
+10.1186/s40168-024-01865-2
 
 ---
 
