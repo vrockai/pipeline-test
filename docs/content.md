@@ -68,7 +68,7 @@ The lung is recognized as a site for initiating the formation of self-antigen an
 ---
 
 ## Effect of β-lactam antibiotics on the gut microbiota of term neonates.
- 09.08.2024, _H Gu, E Tao, Y Fan, G Long, X Jia, T Yuan, L Chen, X Shu, W Zheng, M Jiang_
+ 10.08.2024, _H Gu, E Tao, Y Fan, G Long, X Jia, T Yuan, L Chen, X Shu, W Zheng, M Jiang_
 
 
 _Female, Humans, Infant, Newborn, Male, Bacteria, beta Lactam Antibiotics, Feces, Gastrointestinal Microbiome, RNA, Ribosomal, 16S_
