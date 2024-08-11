@@ -23,15 +23,16 @@ To evaluate the impact of diaper change frequency, clinical characteristics, and
 
 ---
 
-## Boosting pro-vitamin A content and bioaccessibility in leaves by combining engineered biosynthesis and storage pathways with high-light treatments.
- 09.08.2024, _L Morelli, P Perez-Colao, D Reig-Lopez, X Di, B Llorente, M Rodriguez-Concepcion_
+## Quantitative analysis of cis-regulatory elements in transcription with KAS-ATAC-seq.
+ 10.08.2024, _R Lyu, Y Gao, T Wu, C Ye, P Wang, C He_
 
 
-Biofortification of green leafy vegetables with pro-vitamin A carotenoids, such as β-carotene, has remained challenging to date. Here, we combined two strategies to achieve this goal. One of them involves producing β-carotene in the cytosol of leaf cells to avoid the negative impacts on photosynthesis derived from changing the balance of carotenoids and chlorophylls in chloroplasts. The second approach involves the conversion of chloroplasts into non-photosynthetic, carotenoid-overaccumulating chromoplasts in leaves agroinfiltrated or infected with constructs encoding the bacterial phytoene synthase crtB, leaving other non-engineered leaves of the plant to sustain normal growth. A combination of these two strategies, referred to as strategy C (for cytosolic production) and strategy P (for plastid conversion mediated by crtB), resulted in a 5-fold increase in the amount of β-carotene in Nicotiana benthamiana leaves. Following several attempts to further improve β-carotene leaf contents by metabolic engineering, hormone treatments and genetic screenings, it was found that promoting the proliferation of plastoglobules with increased light-intensity treatments not only improved β-carotene accumulation but it also resulted in a much higher bioaccessibility. The combination of strategies C and P together with a more intense light treatment increased the levels of accessible β-carotene 30-fold compared to controls. We further demonstrated that stimulating plastoglobule proliferation with strategy P, but also with a higher-light treatment alone, also improved β-carotene contents and bioaccessibility in edible lettuce (Lactuca sativa) leaves.
+_Animals, Mice, Transcription Factors, Transcription, Genetic, Enhancer Elements, Genetic, Chromatin, Binding Sites, Humans, DNA, Single-Stranded, Chromatin Immunoprecipitation Sequencing, Transposases, Regulatory Elements, Transcriptional, Tretinoin, Gene Expression Regulation, Cell Differentiation, Sequence Analysis, DNA, Regulatory Sequences, Nucleic Acid_
+Cis-regulatory elements (CREs) are pivotal in orchestrating gene expression throughout diverse biological systems. Accurate identification and in-depth characterization of functional CREs are crucial for decoding gene regulation networks during cellular processes. In this study, we develop Kethoxal-Assisted Single-stranded DNA Assay for Transposase-Accessible Chromatin with Sequencing (KAS-ATAC-seq) to quantitatively analyze the transcriptional activity of CREs. A main advantage of KAS-ATAC-seq lies in its precise measurement of ssDNA levels within both proximal and distal ATAC-seq peaks, enabling the identification of transcriptional regulatory sequences. This feature is particularly adept at defining Single-Stranded Transcribing Enhancers (SSTEs). SSTEs are highly enriched with nascent RNAs and specific transcription factors (TFs) binding sites that define cellular identity. Moreover, KAS-ATAC-seq provides a detailed characterization and functional implications of various SSTE subtypes. Our analysis of CREs during mouse neural differentiation demonstrates that KAS-ATAC-seq can effectively identify immediate-early activated CREs in response to retinoic acid (RA) treatment. Our findings indicate that KAS-ATAC-seq provides more precise annotation of functional CREs in transcription. Future applications of KAS-ATAC-seq would help elucidate the intricate dynamics of gene regulation in diverse biological processes.
 
 [Source](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-024-03543-4)
 
-10.1111/tpj.16964
+10.1038/s41467-024-50680-8
 
 ---
 
@@ -150,15 +151,27 @@ Antimicrobial resistance is a global health concern. As such, there have been in
 
 ---
 
-## Production of structurally diverse sphingolipids by anaerobic marine bacteria in the euxinic Black Sea water column
+## Production of structurally diverse sphingolipids by anaerobic marine bacteria in the euxinic Black Sea water column.
+ 08.08.2024, _S Ding, FAB von Meijenfeldt, NJ Bale, JS Sinninghe Damsté, L Villanueva_
+
+
+Microbial lipids, used as taxonomic markers and physiological indicators, have mainly been studied through cultivation. However, this approach is limited due to the scarcity of cultures of environmental microbes, thereby restricting insights into the diversity of lipids and their ecological roles. Addressing this limitation, here we apply metalipidomics combined with metagenomics in the Black Sea, classifying and tentatively identifying 1623 lipid-like species across 18 lipid classes. We discovered over 200 novel, abundant, and structurally diverse sphingolipids in euxinic waters, including unique 1-deoxysphingolipids with long-chain fatty acids and sulfur-containing groups. Sphingolipids were thought to be rare in bacteria and their molecular and ecological functions in bacterial membranes remain elusive. However, genomic analysis focused on sphingolipid biosynthesis genes revealed that members of 38 bacterial phyla in the Black Sea can synthesize sphingolipids, representing a fourfold increase from previously known capabilities and accounting for up to 25% of the microbial community. These sphingolipids appear to be involved in oxidative stress response, cell wall remodeling and are associated with the metabolism of nitrogen-containing molecules. Our findings underscore the effectiveness of multi-omics approaches in exploring microbial chemical ecology.
 
 [Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae153/7729370)
 
+10.1093/ismejo/wrae153
+
 ---
 
-## Characterization of fungal microbiome structure in leaf litter compost through metagenomic profiling for harnessing the bio-organic fertilizer potential
+## Characterization of fungal microbiome structure in leaf litter compost through metagenomic profiling for harnessing the bio-organic fertilizer potential.
+ 09.08.2024, _S Mahongnao, P Sharma, S Nanda_
+
+
+Sustainable waste management through composting has gain renewed attention since it could upcycle organic waste into valuable bio-organic fertiliser. This study explored the composition of fungal communities in leaf litter and organic waste composts ecosystems by employing advanced internal transcribed spacer (ITS) metagenomic profiling. This approach provides insights into the diversity, composition, and potential functions of these fungi, offering practical implications for optimising composting processes and enhancing sustainable waste management practices. Various organic composts were collected, including leaf litter composts, from different sources in Delhi-National Capital Region, India, and fungal microbiome composition were characterised through ITS profiling. Results revealed that leaf litter composts and cow dung manure had the highest fungal read counts, while kitchen waste compost had the lowest. Alpha diversity indices, including Chao1 and Shannon, exhibited differences in species richness and diversity among composts, though statistical significance was limited. The leaf composts had relatively higher alpha diversity than the other organic waste composts analysed. The study also identified dominant fungal genera specifically, Wallemia, Geotrichum, Pichia, Mycothermus, Mortierella, Aspergillus, Fusarium, and Basidiobolus, across the compost samples. The presence of beneficial fungal genera like Pichia, Geotrichum, Trichoderma, Mortierella, Basidiobolus, Aspergillus, and others were detected in leaf waste compost and the other organic waste composts. There was also presence of some pathogenic genera viz. Alternaria, Fusarium, and Acremonium, in these composts which underscored the need for proper composting practices and source selection to optimise soil fertility and minimise disease risks in agriculture. Remarkably, leaf compost has highest proportion of beneficial genera with least observed abundance of pathogens. On the other hand, the municipal organic waste compost has least proportion of beneficial genera with higher abundance of pathogens. Overall, these findings contributed to characterisation of composting processes, advancing waste management practices, and enhancing the use of leaf compost as a bio-organic fertiliser.
 
 [Source](https://link.springer.com/article/10.1007/s13205-024-04028-0)
+
+10.1007/s13205-024-04028-0
 
 ---
 
