@@ -133,27 +133,15 @@ The gut-brain axis mediates the interaction pathway between microbiota and opioi
 
 ---
 
-## Peptide GLP-1 receptor agonists: From injection to oral delivery strategies.
- 10.08.2024, _Z Ke, Q Ma, X Ye, Y Wang, Y Jin, X Zhao, Z Su_
-
-
-Peptide glucagon-like peptide-1 receptor agonists (GLP-1RAs) are effective drugs for treating type 2 diabetes (T2DM) and have been proven to benefit the heart and kidney. Apart from oral semaglutide, which does not require injection, other peptide GLP-1RAs need to be subcutaneously administered. However, oral semaglutide also faces significant challenges, such as low bioavailability and frequent gastrointestinal discomfort. Thus, it is imperative that advanced oral strategies for peptide GLP-1RAs need to be explored. This review mainly compares the current advantages and disadvantages of various oral delivery strategies for peptide GLP-1RAs in the developmental stage and discusses the latest research progress of peptide GLP-1RAs, providing a useful guide for the development of new oral peptide GLP-1RA drugs.
+## Peptide GLP-1 receptor agonists: From injection to oral delivery strategies
 
 [Source](https://doi.org/10.1016/j.bcp.2024.116471)
 
-10.1016/j.bcp.2024.116471
-
 ---
 
-## Stress-sensitive neural circuits change the gut microbiome via duodenal glands.
- 09.08.2024, _H Chang, MH Perkins, LS Novaes, F Qian, T Zhang, PH Neckel, S Scherer, RE Ley, W Han, IE de Araujo_
-
-
-Negative psychological states impact immunity by altering the gut microbiome. However, the relationship between brain states and microbiome composition remains unclear. We show that Brunner's glands in the duodenum couple stress-sensitive brain circuits to bacterial homeostasis. Brunner's glands mediated the enrichment of gut Lactobacillus species in response to vagus nerve stimulation. Cell-specific ablation of the glands markedly suppressed Lactobacilli counts and heightened vulnerability to infection. In the forebrain, we mapped a vagally mediated, polysynaptic circuit connecting the central nucleus of the amygdala to Brunner's glands. Chronic stress suppressed central amygdala activity and phenocopied the effects of gland lesions. Conversely, excitation of either the central amygdala or parasympathetic vagal neurons activated Brunner's glands and reversed the effects of stress on the gut microbiome and immunity. The findings revealed a tractable brain-body mechanism linking psychological states to host defense.
+## Stress-sensitive neural circuits change the gut microbiome via duodenal glands
 
 [Source](https://www.cell.com/cell/fulltext/S0092-8674(24)00779-7)
-
-10.1016/j.cell.2024.07.019
 
 ---
 
