@@ -78,7 +78,7 @@ The critical role of the human gut microbiota in kidney stone formation remains 
 ---
 
 ## Game of microbes: the battle within - gut microbiota and multiple sclerosis.
- 11.08.2024, _TA Turner, P Lehman, S Ghimire, SK Shahi, A Mangalam_
+ 12.08.2024, _TA Turner, P Lehman, S Ghimire, SK Shahi, A Mangalam_
 
 
 _Multiple Sclerosis, Humans, Gastrointestinal Microbiome, Dysbiosis, Animals, Bacteria_
@@ -181,52 +181,27 @@ The gut-brain axis mediates the interaction pathway between microbiota and opioi
 
 ---
 
-## The first large scale rDNA amplicon database of soil microbiomes from Pamir Plateau, China.
- 09.08.2024, _J Zhu, X Sun, QY Tang, MY Gu, ZD Zhang, JW Chen_
-
-
-_Soil Microbiology, China, Microbiota, Archaea, Bacteria, Fungi, DNA, Ribosomal, Biodiversity, Soil_
-The Eastern Pamir, distinguished with high altitude, extremely arid and cold climate, limited nutrients and sparse vegetation, is a unique ecological reservoir. Microbial communities play a central role in maintaining Eastern Pamir's ecosystem functioning. Despite the ecological significance, due to the difficulty of sample collection and microbial isolation, the microbial diversity and its functionality at the Pamir Plateau have been rarely documented. To fill this gap, 80 soil samples from 17 sites across different elevations were collected, performed the rDNA amplicon sequencing to present the first large-scale overview of bacterial, archaeal, and fungal communities in the Eastern Pamir. Microbiome analysis revealed that the bacteria Actinobacteria, Alphaproteobacteria and Bacteroidia, alongside such as archaea Nitrososphaeria and Halobacteria, and fungi including Dothideomycetes, Sordariomycetes and Eurotiomycetes were dominant lineages at class level in soil microbial communities. The community structure and biodiversity of soil microorganisms provided by this dataset would be pivotal for future studies aimed at understanding the biogeographical distribution, ecological functions and environmental responses of microbial communities of the Pamir Plateau.
+## The first large scale rDNA amplicon database of soil microbiomes from Pamir Plateau, China
 
 [Source](https://doi.org/10.1038/s41597-024-03711-4)
 
-10.1038/s41597-024-03711-4
-
 ---
 
-## Changes in the solid-associated bacterial and fungal communities following ruminal in vitro fermentation of winery by-products: aspects of the bioactive compounds and feed safety.
- 09.08.2024, _R Khiaosa-Ard, C Pacífico, M Mahmood, E Mickdam, J Meixner, LS Traintinger, Q Zebeli_
-
-
-Feeding winery by-products (WBP) could affect the bovine microbiome because of their phenol compounds and a transfer of WBP-associated microbiota. This work examined changes in the underexplored solid-associated rumen microbiome following the inclusion of WBP.
+## Changes in the solid-associated bacterial and fungal communities following ruminal in vitro fermentation of winery by-products: aspects of the bioactive compounds and feed safety
 
 [Source](https://doi.org/10.1016/j.anaerobe.2024.102893)
 
-10.1016/j.anaerobe.2024.102893
-
 ---
 
-## 16S amplicon-based microbiome biomapping of a commercial broiler hatchery.
- 09.08.2024, _MJ Rothrock, B Zwirzitz, WG Al Hakeem, A Oladeinde, JY Guard, X Li_
-
-
-Hatcheries, where eggs from multiple breeder farms are incubated and hatched before being sent to different broiler farms, represent a nexus point in the commercial production of broilers in the United States. Considering all downstream microbial quality and safety aspects of broiler production (live production, processing, consumer use) can be potentially affected by the hatchery, a better understanding of microbial ecology within commercial hatcheries is essential. Therefore, a commercial broiler hatchery was biomapped using 16S rRNA amplicon-based microbiome analyses of four sample type categories (Air, Egg, Water, Facility) across five different places in the pre-hatch, hatch, and post-hatch areas. While distinct microbiota were found for each sample type category and hatchery area, microbial community analyses revealed that Egg microbiota trended towards clustering with the facility-related samples when moving from the prehatch to post-hatch areas, highlighting the potential effect of the hatchery environment in shaping the pre-harvest broiler-related microbiota. Prevalence analyses revealed 20 ASVs (Core20) present in the core microbiota of all sample types and areas, with each ASV possessing a unique distribution throughout the hatchery. Interestingly, three Enterobacteriaceae ASVs were in the Core20, including Salmonella. Subsequent analyses showed that Salmonella, while a minor prehatch and hatch Core20ASV, dominated the Enterobacteriaceae niche and total microbiota in the chick pad feces in the post-hatch area of the hatchery, and the presence of this Salmonella ASV in the post-hatch feces was associated with swabs of breakroom tables. These findings highlight the complexity of commercial hatchery microbiota, including identifying chick pad feces and breakroom tables as potentially important sampling or disinfection targets for hatchery managers to focus their Salmonella mitigation efforts to reduce loads entering live production farms.
+## 16S amplicon-based microbiome biomapping of a commercial broiler hatchery
 
 [Source](https://doi.org/10.1186/s42523-024-00334-3)
 
-10.1186/s42523-024-00334-3
-
 ---
 
-## Analyzing the gut microbiota and microbial-associated metabolites of tomato-based sauces.
- 08.08.2024, _AP Cárdenas-Castro, MM Sost, W Gutiérrez-Sarmiento, VM Ruíz-Valdiviezo, R Mateos-Briz, SG Sáyago-Ayerdi, K Venema_
-
-
-Red Cooked Sauce (RCS) and Red Raw Sauce (RRS) are a mixture of natural crops that have a promising content of bioactive compounds (BC). The aim was to determine the effect of the indigestible fraction (IF) during the colonic fermentation in RCS and RRS by studying the two-way relationship between gut microbiota composition and microbial metabolites produced from BC fermented in the TNO in vitro dynamic model of the human colon (TIM-2). Total BC in undigested and predigested RRS, 957 and 715 mg/100 g DW, respectively, was significantly higher (p &lt; 0.05) than in the RCS, 571 and 406 mg/100 g DW, respectively. Catenibacterium and Holdemanella increased during RCS fermentation, while 13 genera showed a clear positive correlation with most microbial phenolic metabolites. Our findings suggest that the mechanisms, pathways, and enzymes involved in producing microbial metabolites exhibited uniqueness among bacterial taxa, even within shared genus/family classifications.
+## Analyzing the gut microbiota and microbial-associated metabolites of tomato-based sauces
 
 [Source](https://doi.org/10.1016/j.foodchem.2024.140664)
-
-10.1016/j.foodchem.2024.140664
 
 ---
 
