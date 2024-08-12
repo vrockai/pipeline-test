@@ -133,15 +133,27 @@ The gut-brain axis mediates the interaction pathway between microbiota and opioi
 
 ---
 
-## Peptide GLP-1 receptor agonists: From injection to oral delivery strategies
+## Peptide GLP-1 receptor agonists: From injection to oral delivery strategies.
+ 10.08.2024, _Z Ke, Q Ma, X Ye, Y Wang, Y Jin, X Zhao, Z Su_
+
+
+Peptide glucagon-like peptide-1 receptor agonists (GLP-1RAs) are effective drugs for treating type 2 diabetes (T2DM) and have been proven to benefit the heart and kidney. Apart from oral semaglutide, which does not require injection, other peptide GLP-1RAs need to be subcutaneously administered. However, oral semaglutide also faces significant challenges, such as low bioavailability and frequent gastrointestinal discomfort. Thus, it is imperative that advanced oral strategies for peptide GLP-1RAs need to be explored. This review mainly compares the current advantages and disadvantages of various oral delivery strategies for peptide GLP-1RAs in the developmental stage and discusses the latest research progress of peptide GLP-1RAs, providing a useful guide for the development of new oral peptide GLP-1RA drugs.
 
 [Source](https://doi.org/10.1016/j.bcp.2024.116471)
 
+10.1016/j.bcp.2024.116471
+
 ---
 
-## Stress-sensitive neural circuits change the gut microbiome via duodenal glands
+## Stress-sensitive neural circuits change the gut microbiome via duodenal glands.
+ 09.08.2024, _H Chang, MH Perkins, LS Novaes, F Qian, T Zhang, PH Neckel, S Scherer, RE Ley, W Han, IE de Araujo_
+
+
+Negative psychological states impact immunity by altering the gut microbiome. However, the relationship between brain states and microbiome composition remains unclear. We show that Brunner's glands in the duodenum couple stress-sensitive brain circuits to bacterial homeostasis. Brunner's glands mediated the enrichment of gut Lactobacillus species in response to vagus nerve stimulation. Cell-specific ablation of the glands markedly suppressed Lactobacilli counts and heightened vulnerability to infection. In the forebrain, we mapped a vagally mediated, polysynaptic circuit connecting the central nucleus of the amygdala to Brunner's glands. Chronic stress suppressed central amygdala activity and phenocopied the effects of gland lesions. Conversely, excitation of either the central amygdala or parasympathetic vagal neurons activated Brunner's glands and reversed the effects of stress on the gut microbiome and immunity. The findings revealed a tractable brain-body mechanism linking psychological states to host defense.
 
 [Source](https://www.cell.com/cell/fulltext/S0092-8674(24)00779-7)
+
+10.1016/j.cell.2024.07.019
 
 ---
 
@@ -151,9 +163,15 @@ The gut-brain axis mediates the interaction pathway between microbiota and opioi
 
 ---
 
-## Spatial analysis of murine microbiota and bile acid metabolism during amoxicillin treatment
+## Spatial analysis of murine microbiota and bile acid metabolism during amoxicillin treatment.
+ 08.08.2024, _CN Beekman, S Penumutchu, R Peterson, G Han, M Belenky, MH Hasan, A Belenky, LK Beura, P Belenky_
+
+
+Antibiotics cause collateral damage to resident microbes that is associated with various health risks. To date, studies have largely focused on the impacts of antibiotics on large intestinal and fecal microbiota. Here, we employ a gastrointestinal (GI) tract-wide integrated multiomic approach to show that amoxicillin (AMX) treatment reduces bacterial abundance, bile salt hydrolase activity, and unconjugated bile acids in the small intestine (SI). Losses of fatty acids (FAs) and increases in acylcarnitines in the large intestine (LI) correspond with spatially distinct expansions of Proteobacteria. Parasutterella excrementihominis engage in FA biosynthesis in the SI, while multiple Klebsiella species employ FA oxidation during expansion in the LI. We subsequently demonstrate that restoration of unconjugated bile acids can mitigate losses of commensals in the LI while also inhibiting the expansion of Proteobacteria during AMX treatment. These results suggest that the depletion of bile acids and lipids may contribute to AMX-induced dysbiosis in the lower GI tract.
 
 [Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)00901-X)
+
+10.1016/j.celrep.2024.114572
 
 ---
 
@@ -163,9 +181,16 @@ The gut-brain axis mediates the interaction pathway between microbiota and opioi
 
 ---
 
-## Disease Resistance Correlates with Core Microbiome Diversity in Cotton
+## Disease Resistance Correlates with Core Microbiome Diversity in Cotton.
+ 11.08.2024, _R Aqueel, A Badar, N Roy, UZ Ijaz, KA Malik_
+
+
+_Gossypium, Plant Diseases, Microbiota, Disease Resistance, Plant Leaves, Endophytes, Bacteria, Plant Roots, Biodiversity, Rhizosphere, Soil Microbiology_
+Understanding the resident microbial communities and their above and below ground interactions with plants will provide necessary information for crop disease protection and stress management. In this study, we show how diversity of core microbiome varies with disease susceptibility of a crop. To test this hypothesis, we have focused on identifying the core microbial species of cotton leaf curl disease (CLCuD) susceptible Gossypium hirsutum and CLCuD resistant Gossypium arboreum under viral infestation. Derivation of core membership is challenging as it depends on an occupancy threshold of microbial species in a sampling pool, whilst accounting for different plant compartments. We have used an abundance-occupancy distribution approach where we dynamically assess the threshold for core membership, whilst marginalizing for occupancy in four compartments of the cotton plant, namely, leaf epiphyte, leaf endophyte, rhizosphere, and root endophyte. Additionally, we also fit a neutral model to the returned core species to split them into three groups, those that are neutral, those that are selected by the plant environment, and finally those that are dispersal limited. We have found strong inverse relationship between diversity of core microbiome and disease susceptibility with the resistant variety, G. arboreum, possessing higher diversity of microbiota. A deeper understanding of this association will aid in the development of biocontrol agents for improving plant immunity against biotrophic pathogens.
 
 [Source](https://doi.org/10.1007/s00284-024-03827-1)
+
+10.1007/s00284-024-03827-1
 
 ---
 
@@ -175,9 +200,15 @@ The gut-brain axis mediates the interaction pathway between microbiota and opioi
 
 ---
 
-## Relationships between radiation, wildfire and the soil microbial communities in the Chornobyl Exclusion Zone
+## Relationships between radiation, wildfire and the soil microbial communities in the Chornobyl Exclusion Zone.
+ 10.08.2024, _AB de Menezes, S Gashchak, MD Wood, NA Beresford_
+
+
+There is considerable uncertainty regarding radiation's effects on biodiversity in natural complex ecosystems typically subjected to multiple environmental disturbances and stresses. In this study we characterised the relationships between soil microbial communities and estimated total absorbed dose rates to bacteria, grassy vegetation and trees in the Red Forest region of the Chornobyl Exclusion Zone. Samples were taken from sites of contrasting ecological histories and along burn and no burn areas following a wildfire. Estimated total absorbed dose rates to bacteria reached levels one order of magnitude higher than those known to affect bacteria in laboratory studies. Sites with harsher ecological conditions, notably acidic pH and low soil moisture, tended to have higher radiation contamination levels. No relationship between the effects of fire and radiation were observed. Microbial groups that correlated with high radiation sites were mostly classified to taxa associated with high environmental stress habitats or stress resistance traits. Distance-based linear models and co-occurrence analysis revealed that the effects of radiation on the soil microbiome were minimal. Hence, the association between high radiation sites and specific microbial groups is more likely a result of the harsher ecological conditions in these sites, rather than due to radiation itself. In this study, we provide a starting point for understanding the relationship between soil microbial communities and estimated total absorbed radiation dose rates to different components of an ecosystem highly contaminated with radiation. Our results suggest that soil microbiomes adapted to natural soil conditions are more likely to be resistant to ionising radiation than expected from laboratory studies, which demonstrates the importance of assessing the impact of ionising radiation on soil microbial communities under field conditions.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2024.175381)
+
+10.1016/j.scitotenv.2024.175381
 
 ---
 
