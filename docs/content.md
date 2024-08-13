@@ -16,77 +16,39 @@ In recent years, there has been increasing attention towards understanding the r
 
 ---
 
-## Intratumoral microbiome promotes liver metastasis and dampens adjuvant imatinib treatment in gastrointestinal stromal tumor.
- 08.08.2024, _Y Li, R Zhang, C Fu, Q Jiang, P Zhang, Y Zhang, J Chen, K Tao, WH Chen, X Zeng_
-
-
-Understanding the determinants of long-term liver metastasis (LM) outcomes in gastrointestinal stromal tumor (GIST) patients is crucial. We established the feature selection model of intratumoral microbiome at the surgery, achieving robust predictive accuracies of 0.953 and 0.897 AUCs in discovery (n = 74) and validation (n = 34) cohorts, respectively. Notably, despite the significant reduction in LM occurrence with adjuvant imatinib (AI) treatment, intratumoral microbiome exerted independently stronger effects on post-operative LM. Employing both 16S and full-length rRNA sequencing, we pinpoint intracellular Shewanella algae as a foremost LM risk factor in both AI- and non-AI-treated patients. Experimental validation confirmed S. algae's intratumoral presence in GIST, along with migration/invasion-promoting effects on GIST cells. Furthermore, S. algae promoted LM and impeded AI treatment in metastatic mouse models. Our findings advocate for incorporating intratumoral microbiome evaluation at surgery, and propose S. algae as a therapeutic target for LM suppression in GIST.
+## Intratumoral microbiome promotes liver metastasis and dampens adjuvant imatinib treatment in gastrointestinal stromal tumor
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0304383524005445?via%3Dihub)
 
-10.1016/j.canlet.2024.217149
-
 ---
 
-## Comparison of Vaginal microbiota in HPV-negative and HPV-positive pregnant women using a culture-based approach.
- 08.08.2024, _P Irina, V Alena, MMJ Arsene, D Milana, P Alla, K Lyudmila, E Boris_
-
-
-The purpose of this study was to conduct a comparative analysis of the composition of the dominant groups of vaginal microorganisms in healthy pregnant women and pregnant women infected with HPV using a microbiological culture-based method. The MALDI TOF MS method and 16S rRNA gene fragment sequencing were used to identify microorganisms isolated from healthy pregnant women (n=32) and pregnant women infected with HPV (n=24). It was found that vaginal secretion samples from both groups contained bacteria of 4 phyla: Bacillota, Actinomycetota, Pseudomonadota, Bacteroidota, and Ascomycota fungi. The most common microbial community in healthy pregnant women being CST I (p=0.0007), and CST V in pregnant women infected with HPV (p=0.0001). At the genus level, a total of 25 taxa were found in all samples, with Lactobacillus being the dominant genus overall. Escherichia (p&lt;0.0001) and Prevotella (p=0.0001) concentrations were higher in HPV infected patients. When calculating the Pearson correlation coefficient for the phyla, it was found that Bacillota correlated negatively with HPV genotypes 16 and 51 (p≤0.05), but positively with HPV genotype 59 (p≤0.05), just like Actinomycetota (p≤0.05). Bacteroidota correlated positively with HPV genotype 56 (0.001&lt;p&lt;0.01), and Ascomycota correlated positively with HPV genotypes 39 and 51 (p≤0.05; 0.001&lt;p&lt;0.01). Pearson correlation coefficients between bacteria genera and HPV genotypes were statistically significant for the following genera: Lactobacillus, Streptococcus, Enterococcus, Gardnerella, Escherichia, Prevotella. The data obtained in our study indicates that the culture-based method is informative when assessing the qualitative and quantitative composition of the microbiota.
+## Comparison of Vaginal microbiota in HPV-negative and HPV-positive pregnant women using a culture-based approach
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0732889324002451?via%3Dihub)
 
-10.1016/j.diagmicrobio.2024.116419
-
 ---
 
-## The gut-microbiome in adult Attention-deficit/hyperactivity disorder - A Meta-analysis.
- 09.08.2024, _B Jakobi, P Vlaming, D Mulder, M Ribases, V Richarte, JA Ramos-Quiroga, I Tendolkar, P van Eijndhoven, JN Vrijsen, J Buitelaar, B Franke, M Hoogman, M Bloemendaal, A Arias-Vasquez_
-
-
-Attention-deficit/hyperactivity disorder (ADHD) is a common neurodevelopmental condition that persists into adulthood in the majority of individuals. While the gut-microbiome seems to be relevant for ADHD, the few publications on gut-microbial alterations in ADHD are inconsistent, in the investigated phenotypes, sequencing method/region, preprocessing, statistical approaches, and findings. To identify gut-microbiome alterations in adult ADHD, robust across studies and statistical approaches, we harmonized bioinformatic pipelines and analyses of raw 16S rRNA sequencing data from four adult ADHD case-control studies (NADHD=312, NNoADHD=305). We investigated diversity and differential abundance of selected genera (logistic regression and ANOVA-like Differential Expression tool), corrected for age and sex, and meta-analyzed the study results. Converging results were investigated for association with hyperactive/impulsive and inattentive symptoms across all participants. Beta diversity was associated with ADHD diagnosis but showed significant heterogeneity between cohorts, despite harmonized analyses. Several genera were robustly associated with adult ADHD; e.g., Ruminococcus_torques_group (LogOdds=0.17, pfdr=4.42 × 10-2), which was more abundant in adults with ADHD, and Eubacterium_xylanophilum_group (LogOdds= -0.12, pfdr=6.9 × 10-3), which was less abundant in ADHD. Ruminococcus_torques_group was further associated with hyperactivity/impulsivity symptoms and Eisenbergiella with inattention and hyperactivity/impulsivity (pfdr&lt;0.05). The literature points towards a role of these genera in inflammatory processes. Irreproducible results in the field of gut-microbiota research, due to between study heterogeneity and small sample sizes, stress the need for meta-analytic approaches and large sample sizes. While we robustly identified genera associated with adult ADHD, that might overall be considered beneficial or risk-conferring, functional studies are needed to shed light on these properties.
+## The gut-microbiome in adult Attention-deficit/hyperactivity disorder – A Meta-analysis
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0924977X24001585?via%3Dihub)
 
-10.1016/j.euroneuro.2024.07.004
-
 ---
 
-## An Empirical Dietary Pattern Associated with the Gut Microbial Features in Relation to Colorectal Cancer Risk.
- 08.08.2024, _K Wang, CH Lo, RS Mehta, LH Nguyen, Y Wang, W Ma, T Ugai, H Kawamura, S Ugai, Y Takashima, K Mima, K Arima, K Okadome, M Giannakis, CL Sears, JA Meyerhardt, K Ng, N Segata, J Izard, EB Rimm, WS Garrett, C Huttenhower, EL Giovannucci, AT Chan, S Ogino, M Song_
-
-
-Epidemiologic evidence for dietary influence on colorectal cancer (CRC) risk through the gut microbiome remains limited.
+## An Empirical Dietary Pattern Associated with the Gut Microbial Features in Relation to Colorectal Cancer Risk
 
 [Source](https://www.gastrojournal.org/article/S0016-5085(24)05300-9/abstract)
 
-10.1053/j.gastro.2024.07.040
-
 ---
 
-## Species-level characterization of gut microbiota and their metabolic role in kidney stone formation using full-length 16S rRNA sequencing.
- 10.08.2024, _B Hussain, CC Wu, HC Tsai, JS Chen, A Asif, MC Cheng, YC Jou, BM Hsu_
-
-
-_Humans, Kidney Calculi, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Male, Feces, Female, Middle Aged, Adult, Calcium Phosphates, High-Throughput Nucleotide Sequencing, Calcium Oxalate, Bacteria, Akkermansia_
-The critical role of the human gut microbiota in kidney stone formation remains largely unknown, due to the low taxonomic resolution of previous sequencing technologies. Therefore, this study aimed to explore the gut microbiota using high-throughput sequencing to provide valuable insights and identify potential bacterial species and metabolite roles involved in kidney stone formation. The overall gut bacterial community and its potential functions in healthy participants and patients were examined using PacBio sequencing targeting the full-length 16S rRNA gene, coupled with stone and statistical analyses. Most kidney stones comprised calcium oxalate and calcium phosphate (75%), pure calcium oxalate (20%), and calcium phosphate and magnesium phosphate (5%), with higher content of Ca (130,510.5 ± 108,362.7 ppm) followed by P (18,746.4 ± 23,341.2 ppm). The microbial community structure was found to be weaker in patients' kidney stone samples, followed by patients' stool samples, than in healthy participants' stool samples. The most abundant bacterial species in kidney stone samples was uncultured Morganella, whereas that in patient and healthy participant stool samples was Bacteroides vulgatus. Similarly, Akkermansia muciniphila was significantly enriched in patient stool samples at the species level, whereas Bacteroides plebeius was significantly enriched in kidney stone samples than that in healthy participant stool samples. Three microbial metabolic pathways, TCA cycle, fatty acid oxidation, and urea cycle, were significantly enriched in kidney stone patients compared to healthy participants. Inferring bacteria at the species level revealed key players in kidney stone formation, enhancing the clinical relevance of gut microbiota.
+## Species-level characterization of gut microbiota and their metabolic role in kidney stone formation using full-length 16S rRNA sequencing
 
 [Source](https://doi.org/10.1007/s00240-024-01610-2)
 
-10.1007/s00240-024-01610-2
-
 ---
 
-## Game of microbes: the battle within - gut microbiota and multiple sclerosis.
- 12.08.2024, _TA Turner, P Lehman, S Ghimire, SK Shahi, A Mangalam_
-
-
-_Multiple Sclerosis, Humans, Gastrointestinal Microbiome, Dysbiosis, Animals, Bacteria_
-Multiple sclerosis (MS) is a chronic and progressive autoimmune disease of the central nervous system (CNS), with both genetic and environmental factors contributing to the pathobiology of the disease. While human leukocyte antigen (HLA) genes have emerged as the strongest genetic factor, consensus on environmental risk factors are lacking. Recently, trillions of microbes residing in our gut (microbiome) have emerged as a potential environmental factor linked with the pathobiology of MS as PwMS show gut microbial dysbiosis (altered gut microbiome). Thus, there has been a strong emphasis on understanding the factors (host and environmental) regulating the composition of the gut microbiota and the mechanism(s) through which gut microbes contribute to MS disease, especially through immune system modulation. A better understanding of these interactions will help harness the enormous potential of the gut microbiota as a therapeutic approach to treating MS.
+## Game of microbes: the battle within – gut microbiota and multiple sclerosis
 
 [Source](https://doi.org/10.1080/19490976.2024.2387794)
-
-10.1080/19490976.2024.2387794
 
 ---
 
@@ -96,28 +58,15 @@ Multiple sclerosis (MS) is a chronic and progressive autoimmune disease of the c
 
 ---
 
-## Gut mycobiome alterations and implications for liver diseases.
- 10.08.2024, _S Zeng, B Schnabl_
-
-
-_Humans, Gastrointestinal Microbiome, Liver Diseases, Mycobiome, Dysbiosis, Animals, Fungi_
-Chronic liver disease and its complications are a significant global health burden. Changes in fungal communities (mycobiome), an integral component of the gut microbiome, are associated with and contribute to the development of liver disease. Fungal dysbiosis can induce intestinal barrier dysfunction and allow fungal products to translocate to the liver causing progression of disease. This review explores recent progress in understanding the compositional and functional diversity of gut mycobiome signatures across different liver diseases. It delves into causative connections between gut fungi and liver diseases. We emphasize the significance of fungal translocation, with a particular focus on fungal-derived metabolites and immune cells induced by fungi, as key contributors to liver disease. Furthermore, we review the potential impact of the intrahepatic mycobiome on the progression of liver diseases.
+## Gut mycobiome alterations and implications for liver diseases
 
 [Source](https://doi.org/10.1371/journal.ppat.1012377)
 
-10.1371/journal.ppat.1012377
-
 ---
 
-## A novel intervention of molecular hydrogen on the unbalance of the gut microbiome in opioid addiction: Experimental and human studies.
- 08.08.2024, _B Xie, Y Wang, Y Lu, M Wang, R Hui, H Yu, W Li, L Zhang, F Yu, Z Ni, B Cong, C Ma, D Wen_
-
-
-The gut-brain axis mediates the interaction pathway between microbiota and opioid addiction. In recent years, many studies have shown that molecular hydrogen has therapeutic and preventive effects on various diseases. This study aimed to investigate whether molecular hydrogen could serve as pharmacological intervention agent to reduce risks of reinstatement of opioid seeking and explore the mechanism of gut microbiota base on animal experiments and human studies. Morphine-induced conditioned place preference (CPP) was constructed to establish acquisition, extinction, and reinstatement stage, and the potential impact of H2 on the behaviors related to morphine-induced drug extinction was determined using both free accessible and confined CPP extinction paradigms. The effects of morphine on microbial diversity and composition of microbiota, as well as the subsequent changes after H2 intervention, were assessed using 16 S rRNA gene sequencing. Short-Chain Fatty Acids (SCFAs) in mice serum were detected by gas chromatography-mass spectrometry (GC-MS). Meanwhile, we also conducted molecular hydrogen intervention and gut microbiota testing in opioid-addicted individuals. Our results revealed that molecular hydrogen could enhance the extinction of morphine-related behavior, reducing morphine reinstatement. Gut microbes may be a potential mechanism behind the therapeutic effects of molecular hydrogen on morphine addiction. Additionally, molecular hydrogen improved symptoms of depression and anxiety, as well as gut microbial features, in individuals with opioid addiction. This study supports molecular hydrogen as a novel and effective intervention for morphine-induced addiction and reveals the mechanism of gut microbiota.
+## A novel intervention of molecular hydrogen on the unbalance of the gut microbiome in opioid addiction: Experimental and human studies
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0753332224011570?via%3Dihub)
-
-10.1016/j.biopha.2024.117273
 
 ---
 
@@ -181,27 +130,52 @@ The gut-brain axis mediates the interaction pathway between microbiota and opioi
 
 ---
 
-## The first large scale rDNA amplicon database of soil microbiomes from Pamir Plateau, China
+## The first large scale rDNA amplicon database of soil microbiomes from Pamir Plateau, China.
+ 12.08.2024, _J Zhu, X Sun, QY Tang, MY Gu, ZD Zhang, JW Chen_
+
+
+_Soil Microbiology, China, Microbiota, Archaea, Bacteria, Fungi, DNA, Ribosomal, Biodiversity, Soil_
+The Eastern Pamir, distinguished with high altitude, extremely arid and cold climate, limited nutrients and sparse vegetation, is a unique ecological reservoir. Microbial communities play a central role in maintaining Eastern Pamir's ecosystem functioning. Despite the ecological significance, due to the difficulty of sample collection and microbial isolation, the microbial diversity and its functionality at the Pamir Plateau have been rarely documented. To fill this gap, 80 soil samples from 17 sites across different elevations were collected, performed the rDNA amplicon sequencing to present the first large-scale overview of bacterial, archaeal, and fungal communities in the Eastern Pamir. Microbiome analysis revealed that the bacteria Actinobacteria, Alphaproteobacteria and Bacteroidia, alongside such as archaea Nitrososphaeria and Halobacteria, and fungi including Dothideomycetes, Sordariomycetes and Eurotiomycetes were dominant lineages at class level in soil microbial communities. The community structure and biodiversity of soil microorganisms provided by this dataset would be pivotal for future studies aimed at understanding the biogeographical distribution, ecological functions and environmental responses of microbial communities of the Pamir Plateau.
 
 [Source](https://doi.org/10.1038/s41597-024-03711-4)
 
+10.1038/s41597-024-03711-4
+
 ---
 
-## Changes in the solid-associated bacterial and fungal communities following ruminal in vitro fermentation of winery by-products: aspects of the bioactive compounds and feed safety
+## Changes in the solid-associated bacterial and fungal communities following ruminal in vitro fermentation of winery by-products: aspects of the bioactive compounds and feed safety.
+ 09.08.2024, _R Khiaosa-Ard, C Pacífico, M Mahmood, E Mickdam, J Meixner, LS Traintinger, Q Zebeli_
+
+
+Feeding winery by-products (WBP) could affect the bovine microbiome because of their phenol compounds and a transfer of WBP-associated microbiota. This work examined changes in the underexplored solid-associated rumen microbiome following the inclusion of WBP.
 
 [Source](https://doi.org/10.1016/j.anaerobe.2024.102893)
 
+10.1016/j.anaerobe.2024.102893
+
 ---
 
-## 16S amplicon-based microbiome biomapping of a commercial broiler hatchery
+## 16S amplicon-based microbiome biomapping of a commercial broiler hatchery.
+ 12.08.2024, _MJ Rothrock, B Zwirzitz, WG Al Hakeem, A Oladeinde, JY Guard, X Li_
+
+
+Hatcheries, where eggs from multiple breeder farms are incubated and hatched before being sent to different broiler farms, represent a nexus point in the commercial production of broilers in the United States. Considering all downstream microbial quality and safety aspects of broiler production (live production, processing, consumer use) can be potentially affected by the hatchery, a better understanding of microbial ecology within commercial hatcheries is essential. Therefore, a commercial broiler hatchery was biomapped using 16S rRNA amplicon-based microbiome analyses of four sample type categories (Air, Egg, Water, Facility) across five different places in the pre-hatch, hatch, and post-hatch areas. While distinct microbiota were found for each sample type category and hatchery area, microbial community analyses revealed that Egg microbiota trended towards clustering with the facility-related samples when moving from the prehatch to post-hatch areas, highlighting the potential effect of the hatchery environment in shaping the pre-harvest broiler-related microbiota. Prevalence analyses revealed 20 ASVs (Core20) present in the core microbiota of all sample types and areas, with each ASV possessing a unique distribution throughout the hatchery. Interestingly, three Enterobacteriaceae ASVs were in the Core20, including Salmonella. Subsequent analyses showed that Salmonella, while a minor prehatch and hatch Core20ASV, dominated the Enterobacteriaceae niche and total microbiota in the chick pad feces in the post-hatch area of the hatchery, and the presence of this Salmonella ASV in the post-hatch feces was associated with swabs of breakroom tables. These findings highlight the complexity of commercial hatchery microbiota, including identifying chick pad feces and breakroom tables as potentially important sampling or disinfection targets for hatchery managers to focus their Salmonella mitigation efforts to reduce loads entering live production farms.
 
 [Source](https://doi.org/10.1186/s42523-024-00334-3)
 
+10.1186/s42523-024-00334-3
+
 ---
 
-## Analyzing the gut microbiota and microbial-associated metabolites of tomato-based sauces
+## Analyzing the gut microbiota and microbial-associated metabolites of tomato-based sauces.
+ 08.08.2024, _AP Cárdenas-Castro, MM Sost, W Gutiérrez-Sarmiento, VM Ruíz-Valdiviezo, R Mateos-Briz, SG Sáyago-Ayerdi, K Venema_
+
+
+Red Cooked Sauce (RCS) and Red Raw Sauce (RRS) are a mixture of natural crops that have a promising content of bioactive compounds (BC). The aim was to determine the effect of the indigestible fraction (IF) during the colonic fermentation in RCS and RRS by studying the two-way relationship between gut microbiota composition and microbial metabolites produced from BC fermented in the TNO in vitro dynamic model of the human colon (TIM-2). Total BC in undigested and predigested RRS, 957 and 715 mg/100 g DW, respectively, was significantly higher (p &lt; 0.05) than in the RCS, 571 and 406 mg/100 g DW, respectively. Catenibacterium and Holdemanella increased during RCS fermentation, while 13 genera showed a clear positive correlation with most microbial phenolic metabolites. Our findings suggest that the mechanisms, pathways, and enzymes involved in producing microbial metabolites exhibited uniqueness among bacterial taxa, even within shared genus/family classifications.
 
 [Source](https://doi.org/10.1016/j.foodchem.2024.140664)
+
+10.1016/j.foodchem.2024.140664
 
 ---
 
