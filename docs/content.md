@@ -182,7 +182,7 @@ Antibiotics cause collateral damage to resident microbes that is associated with
 ---
 
 ## Disease Resistance Correlates with Core Microbiome Diversity in Cotton.
- 11.08.2024, _R Aqueel, A Badar, N Roy, UZ Ijaz, KA Malik_
+ 14.08.2024, _R Aqueel, A Badar, N Roy, UZ Ijaz, KA Malik_
 
 
 _Gossypium, Plant Diseases, Microbiota, Disease Resistance, Plant Leaves, Endophytes, Bacteria, Plant Roots, Biodiversity, Rhizosphere, Soil Microbiology_
