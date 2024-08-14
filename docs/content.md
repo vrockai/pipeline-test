@@ -134,7 +134,7 @@ The gut-brain axis mediates the interaction pathway between microbiota and opioi
 ---
 
 ## Peptide GLP-1 receptor agonists: From injection to oral delivery strategies.
- 10.08.2024, _Z Ke, Q Ma, X Ye, Y Wang, Y Jin, X Zhao, Z Su_
+ 13.08.2024, _Z Ke, Q Ma, X Ye, Y Wang, Y Jin, X Zhao, Z Su_
 
 
 Peptide glucagon-like peptide-1 receptor agonists (GLP-1RAs) are effective drugs for treating type 2 diabetes (T2DM) and have been proven to benefit the heart and kidney. Apart from oral semaglutide, which does not require injection, other peptide GLP-1RAs need to be subcutaneously administered. However, oral semaglutide also faces significant challenges, such as low bioavailability and frequent gastrointestinal discomfort. Thus, it is imperative that advanced oral strategies for peptide GLP-1RAs need to be explored. This review mainly compares the current advantages and disadvantages of various oral delivery strategies for peptide GLP-1RAs in the developmental stage and discusses the latest research progress of peptide GLP-1RAs, providing a useful guide for the development of new oral peptide GLP-1RA drugs.
