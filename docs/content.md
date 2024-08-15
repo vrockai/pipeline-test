@@ -54,7 +54,7 @@ The MASS cohort comprises 2000 ICU patients with severe pneumonia, covering comm
 ---
 
 ## Distinctive duodenal microbiomes and bile acid profiles in duodenal tumor patients revealed by prospective observational study.
- 14.08.2024, _Y Kubosawa, T Sujino, K Miyamoto, A Kayashima, D Minezaki, K Morioka, K Iwata, K Miyazaki, T Masunaga, M Mizutani, T Akimoto, Y Takatori, N Matsuura, A Nakayama, K Takabayashi, N Nakamoto, A Honda, M Kato, N Yahagi, T Kanai_
+ 15.08.2024, _Y Kubosawa, T Sujino, K Miyamoto, A Kayashima, D Minezaki, K Morioka, K Iwata, K Miyazaki, T Masunaga, M Mizutani, T Akimoto, Y Takatori, N Matsuura, A Nakayama, K Takabayashi, N Nakamoto, A Honda, M Kato, N Yahagi, T Kanai_
 
 
 _Humans, Male, Bile Acids and Salts, Female, Prospective Studies, Middle Aged, Duodenal Neoplasms, Duodenum, Gastrointestinal Microbiome, Aged, RNA, Ribosomal, 16S, Adult, Lithocholic Acid, Microbiota, Case-Control Studies_
@@ -104,7 +104,7 @@ Recent insights into Parkinson's disease (PD), a progressive neurodegenerative d
 ---
 
 ## Synergistic pectin deconstruction is a prerequisite for mutualistic interactions between honeybee gut bacteria.
- 13.08.2024, _J Tang, W Zuo, L Guo, Z Han, C Yang, B Han, L Dai, X Zhang, X Zhou_
+ 15.08.2024, _J Tang, W Zuo, L Guo, Z Han, C Yang, B Han, L Dai, X Zhang, X Zhou_
 
 
 _Bees, Animals, Pectins, Gastrointestinal Microbiome, Symbiosis, Bifidobacterium, Polysaccharides, Hexuronic Acids_
@@ -141,7 +141,7 @@ The duck gastrointestinal tract (GIT) harbors an abundance of microorganisms tha
 ---
 
 ## Meconium microbiota in naturally delivered canine puppies.
- 12.08.2024, _A Bertero, P Banchi, A Del Carro, M Corrò, B Colitti, A Van Soom, L Bertolotti, A Rota_
+ 15.08.2024, _A Bertero, P Banchi, A Del Carro, M Corrò, B Colitti, A Van Soom, L Bertolotti, A Rota_
 
 
 _Animals, Dogs, Female, Meconium, Vagina, Animals, Newborn, Gastrointestinal Microbiome, Bacteria, Rectum, Microbiota, Pregnancy_
@@ -154,7 +154,7 @@ Microbial colonization during early life has a pivotal impact on the host health
 ---
 
 ## Gut microbiome perturbation and its correlation with tylosin pharmacokinetics in healthy and infected pigs.
- 14.08.2024, _EB Lee, GY Lee, MA Hossain, EG Awji, SC Park_
+ 15.08.2024, _EB Lee, GY Lee, MA Hossain, EG Awji, SC Park_
 
 
 _Animals, Tylosin, Gastrointestinal Microbiome, Swine, Anti-Bacterial Agents, Swine Diseases, RNA, Ribosomal, 16S, Pasteurella multocida, Actinobacillus pleuropneumoniae_
@@ -179,7 +179,7 @@ The accelerated rise in antimicrobial resistance (AMR) poses a significant globa
 ---
 
 ## Polyphenols improve non-alcoholic fatty liver disease via gut microbiota: A comprehensive review.
- 14.08.2024, _K Mohammadhasani, M Vahedi Fard, A Mottaghi Moghaddam Shahri, Z Khorasanchi_
+ 15.08.2024, _K Mohammadhasani, M Vahedi Fard, A Mottaghi Moghaddam Shahri, Z Khorasanchi_
 
 
 Polyphenols, natural micronutrients derived from plants, are valued for their anti-inflammatory and antioxidant properties. The escalating global prevalence of non-alcoholic fatty liver disease (NAFLD) underscores its status as a chronic progressive liver condition. Furthermore, the dysregulation of gut microbiota (GM) is implicated in the onset and progression of NAFLD through the actions of metabolites such as bile acids (BAs), lipopolysaccharide (LPS), choline, and short-chain fatty acids (SCFAs). Additionally, GM may influence the integrity of the intestinal barrier. This review aims to evaluate the potential effects of polyphenols on GM and intestinal barrier function, and their subsequent impact on NAFLD. We searched through a wide range of databases, such as Web of Science, PubMed, EMBASE, and Scopus to gather information for our non-systematic review of English literature. GM functions and composition can be regulated by polyphenols such as chlorogenic acid, curcumin, green tea catechins, naringenin, quercetin, resveratrol, and sulforaphane. Regulating GM composition improves NAFLD by alleviating inflammation, liver fat accumulation, and liver enzymes. Furthermore, it improves serum lipid profile and gut barrier integrity. All of these components affect NAFLD through the metabolites of GM, including SCFAs, choline, LPS, and BAs. Current evidence indicates that chlorogenic acid, resveratrol, quercetin, and curcumin can modulate GM, improving intestinal barrier integrity and positively impacting NAFLD. More studies are necessary to evaluate the safety and efficacy of naringenin, sulforaphane, and catechin.
@@ -197,7 +197,7 @@ Polyphenols, natural micronutrients derived from plants, are valued for their an
 ---
 
 ## Exploring the Potential of Postbiotics for Food Safety and Human Health Improvement.
- 14.08.2024, _FJ Isaac-Bamgboye, CL Mgbechidinma, H Onyeaka, IT Isaac-Bamgboye, DC Chukwugozie_
+ 15.08.2024, _FJ Isaac-Bamgboye, CL Mgbechidinma, H Onyeaka, IT Isaac-Bamgboye, DC Chukwugozie_
 
 
 Food safety is a global concern, with millions suffering from foodborne diseases annually. The World Health Organization (WHO) reports significant morbidity and mortality associated with contaminated food consumption, and this emphasizes the critical need for comprehensive food safety measures. Recent attention has turned to postbiotics, metabolic byproducts of probiotics, as potential agents for enhancing food safety. Postbiotics, including organic acids, enzymes, and bacteriocins, exhibit antimicrobial and antioxidant properties that do not require live organisms, and this offers advantages over probiotics. This literature review critically examines the role of postbiotics in gut microbiome modulation and applications in the food industry. Through an extensive review of existing literature, this study evaluates the impact of postbiotics on gut microbiome composition and their potential as functional food ingredients. Research indicates that postbiotics are effective in inhibiting food pathogens such as Staphylococcus aureus, Salmonella enterica, and Escherichia coli, as well as their ability to prevent oxidative stress-related diseases, and they also show promise as alternatives to conventional food preservatives that can extend food shelf life by inhibiting harmful bacterial growth. Their application in functional foods contributes to improved gut health and reduced risk of foodborne illnesses. Findings suggest that postbiotics hold promise for improving health and preservation by inhibiting pathogenic bacteria growth and modulating immune responses.
@@ -215,7 +215,7 @@ Food safety is a global concern, with millions suffering from foodborne diseases
 ---
 
 ## Transcriptomics and gut microbiome analysis of the edible herb Bidens pilosa as a functional feed additive to promote growth and metabolism in tilapia (Oreochromis spp.).
- 13.08.2024, _CC Chen, CY Lin, HY Lu, CH Liou, YN Ho, CW Huang, ZF Zhang, CH Kao, WC Yang, HY Gong_
+ 15.08.2024, _CC Chen, CY Lin, HY Lu, CH Liou, YN Ho, CW Huang, ZF Zhang, CH Kao, WC Yang, HY Gong_
 
 
 _Animals, Gastrointestinal Microbiome, Tilapia, Animal Feed, Bidens, Gene Expression Profiling, Transcriptome, Liver_
@@ -247,7 +247,7 @@ The demand for functional food is rising in tandem with the prevalence of chroni
 ---
 
 ## Effects of kefir consumption on gut microbiota and health outcomes in women with polycystic ovary syndrome.
- 14.08.2024, _ME Çıtar Dazıroğlu, N Acar Tek, MF Cevher Akdulum, C Yılmaz, AM Yalınay_
+ 15.08.2024, _ME Çıtar Dazıroğlu, N Acar Tek, MF Cevher Akdulum, C Yılmaz, AM Yalınay_
 
 
 Polycystic Ovary Syndrome (PCOS), which is common among women of reproductive age, is characterized by low-grade chronic inflammation and is associated with several health problems and dysbiosis. Kefir has been shown to have many beneficial health effects; however, its effect on PCOS is unknown. This study aimed to examine the effect of kefir on the intestinal microbiota and health outcomes in PCOS. In this intervention study, 17 women with PCOS consumed 250 mL/day of kefir (containing Lactobacillus kefiranofaciens subsp. kefiranofaciens, Lactobacillus kefiranofaciens subsp. kefirgranum, Lactobacillus kefiri, Lactobacillus acidophilus, Lactobacillus parakefiri, Lactobacillus bulgaricus, Lactobacillus reuteri, Lactobacillus casei, Lactobacillus fermentum, Lactobacillus helveticus, Lactococcus lactis, Leuconostoc mesentereoides, Bifidobacterium bifidum, Streptococcus thermophilus, Kluyveromyces marxianus, Kluyveromyces lactis, Acetobacter pasteurianus, and Saccharomyces cerevisiae) for 8 weeks. Food consumption and physical activity records, anthropometrical measurements, quality of life, and fecal and blood samples were taken at the study's beginning and end. Quality of life in mental health (58.8 ± 15.08; 64.0 ± 15.23, respectively) and physical function (95.00 and 100.00, respectively) categories showed a significant increase after kefir intervention (p &lt; .05). Additionally, Interleukin-6 (IL-6), one of the inflammatory cytokines, significantly decreased (174.00 and 109.10 ng/L, respectively) (p &lt; .05). The intestinal barrier permeability was evaluated with zonulin, and no significant change was observed. Gut microbiota analysis showed that while the relative abundance of the class Bacilli and genus Lactococcus significantly increased, the genus Holdemania decreased with kefir consumption (p &lt; .05). In conclusion, kefir appears to be beneficial for improving the microbiota and some health outcomes, like reducing inflammation and improving quality of life in PCOS. Therefore, kefir may be useful in the treatment of PCOS.
@@ -259,7 +259,7 @@ Polycystic Ovary Syndrome (PCOS), which is common among women of reproductive ag
 ---
 
 ## Decrease due to pollution in the rhizosphere microbial diversity can be amended by supplementation from adapted plants of another species.
- 13.08.2024, _A Fetsiukh, T Pall, S Timmusk_
+ 15.08.2024, _A Fetsiukh, T Pall, S Timmusk_
 
 
 _Rhizosphere, Biodegradation, Environmental, Chenopodiaceae, Soil Microbiology, Microbiota, Biodiversity, Salix, Soil Pollutants, Plant Roots, Bacteria, Mining_
@@ -272,7 +272,7 @@ Manipulating the rhizosphere microbiome to enhance plant stress tolerance is an 
 ---
 
 ## Differences in the constituents of bacterial microbiota of soils collected from two fields of diverse potato blackleg and soft rot diseases incidences, a case study.
- 13.08.2024, _W Babinska-Wensierska, A Motyka-Pomagruk, M Fondi, AE Misztak, A Mengoni, E Lojkowska_
+ 15.08.2024, _W Babinska-Wensierska, A Motyka-Pomagruk, M Fondi, AE Misztak, A Mengoni, E Lojkowska_
 
 
 _Soil Microbiology, Solanum tuberosum, Plant Diseases, Microbiota, RNA, Ribosomal, 16S, Pectobacterium, Soil, Phylogeny, Dickeya, Bacteria_
@@ -285,7 +285,7 @@ The presence of bacteria from the Dickeya spp. and Pectobacterium spp. in farmla
 ---
 
 ## Variations of soil metal content, soil enzyme activity and soil bacterial community in Rhododendron delavayi natural shrub forest at different elevations.
- 12.08.2024, _L Wang, M Tang, J Gong, K Malik, J Liu, X Kong, X Chen, L Chen, R Tang, R Zheng, J Wang, Y Yi_
+ 15.08.2024, _L Wang, M Tang, J Gong, K Malik, J Liu, X Kong, X Chen, L Chen, R Tang, R Zheng, J Wang, Y Yi_
 
 
 _Soil Microbiology, Soil, Rhododendron, China, Bacteria, Forests, Metals, Actinobacteria, Microbiota, Urease, Acidobacteria, RNA, Ribosomal, 16S, Phylogeny, High-Throughput Nucleotide Sequencing_
@@ -298,7 +298,7 @@ Rhododendron delavayi is a natural shrub that is distributed at different elevat
 ---
 
 ## Effective microorganism combinations improve the quality of compost-bedded pack products in heifer barns: exploring pack bacteria-fungi interaction mechanisms.
- 14.08.2024, _Z Zhang, Y Gu, S Wang, Y Zhen, Y Chen, Y Wang, Y Mao, J Meng, Z Duan, J Xu, M Wang_
+ 15.08.2024, _Z Zhang, Y Gu, S Wang, Y Zhen, Y Chen, Y Wang, Y Mao, J Meng, Z Duan, J Xu, M Wang_
 
 
 _Animals, Cattle, Composting, Fungi, Bacteria, Housing, Animal, Microbial Interactions, Female, Soil Microbiology, Microbiota_
@@ -336,7 +336,7 @@ Microplastics, as emerging contaminants, pose a serious threat to terrestrial ec
 ---
 
 ## Microbial Succession on Microplastics in Wastewater Treatment Plants: Exploring the Complexities of Microplastic-Microbiome Interactions.
- 14.08.2024, _K Kwiatkowska, P Ormaniec_
+ 15.08.2024, _K Kwiatkowska, P Ormaniec_
 
 
 _Microplastics, Wastewater, Biofilms, Microbiota, Sewage, Waste Disposal, Fluid, Water Pollutants, Chemical, Bacteria, Plastics_
@@ -367,7 +367,7 @@ Humans have long relied on microbial communities to create products, produce ene
 ---
 
 ## Antibiotic resistance gene dynamics in the commensal infant gut microbiome over the first year of life.
- 14.08.2024, _P Trosvik, HT Noordzij, EJ de Muinck_
+ 15.08.2024, _P Trosvik, HT Noordzij, EJ de Muinck_
 
 
 _Gastrointestinal Microbiome, Humans, Infant, Feces, Drug Resistance, Bacterial, Anti-Bacterial Agents, Drug Resistance, Microbial, Metagenomics, Metagenome, Genes, Bacterial, Bacteria, Infant, Newborn, Female_
@@ -380,7 +380,7 @@ Colonization of the infant gut is an important developmental process characteriz
 ---
 
 ## MetaBakery: a Singularity implementation of bioBakery tools as a skeleton application for efficient HPC deconvolution of microbiome metagenomic sequencing data to machine learning ready information.
- 14.08.2024, _B Murovec, L Deutsch, D Osredkar, B Stres_
+ 15.08.2024, _B Murovec, L Deutsch, D Osredkar, B Stres_
 
 
 In this study, we present MetaBakery (http://metabakery.fe.uni-lj.si), an integrated application designed as a framework for synergistically executing the bioBakery workflow and associated utilities. MetaBakery streamlines the processing of any number of paired or unpaired fastq files, or a mixture of both, with optional compression (gzip, zip, bzip2, xz, or mixed) within a single run. MetaBakery uses programs such as KneadData (https://github.com/bioBakery/kneaddata), MetaPhlAn, HUMAnN and StrainPhlAn as well as integrated utilities and extends the original functionality of bioBakery. In particular, it includes MelonnPan for the prediction of metabolites and Mothur for calculation of microbial alpha diversity. Written in Python 3 and C++ the whole pipeline was encapsulated as Singularity container for efficient execution on various computing infrastructures, including large High-Performance Computing clusters. MetaBakery facilitates crash recovery, efficient re-execution upon parameter changes, and processing of large data sets through subset handling and is offered in three editions with bioBakery ingredients versions 4, 3 and 2 as versatile, transparent and well documented within the MetaBakery Users' Manual (http://metabakery.fe.uni-lj.si/metabakery_manual.pdf). It provides automatic handling of command line parameters, file formats and comprehensive hierarchical storage of output to simplify navigation and debugging. MetaBakery filters out potential human contamination and excludes samples with low read counts. It calculates estimates of alpha diversity and represents a comprehensive and augmented re-implementation of the bioBakery workflow. The robustness and flexibility of the system enables efficient exploration of changing parameters and input datasets, increasing its utility for microbiome analysis. Furthermore, we have shown that the MetaBakery tool can be used in modern biostatistical and machine learning approaches including large-scale microbiome studies.
