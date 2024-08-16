@@ -104,7 +104,7 @@ Recent insights into Parkinson's disease (PD), a progressive neurodegenerative d
 ---
 
 ## Synergistic pectin deconstruction is a prerequisite for mutualistic interactions between honeybee gut bacteria.
- 15.08.2024, _J Tang, W Zuo, L Guo, Z Han, C Yang, B Han, L Dai, X Zhang, X Zhou_
+ 16.08.2024, _J Tang, W Zuo, L Guo, Z Han, C Yang, B Han, L Dai, X Zhang, X Zhou_
 
 
 _Bees, Animals, Pectins, Gastrointestinal Microbiome, Symbiosis, Bifidobacterium, Polysaccharides, Hexuronic Acids_
@@ -215,7 +215,7 @@ Food safety is a global concern, with millions suffering from foodborne diseases
 ---
 
 ## Transcriptomics and gut microbiome analysis of the edible herb Bidens pilosa as a functional feed additive to promote growth and metabolism in tilapia (Oreochromis spp.).
- 15.08.2024, _CC Chen, CY Lin, HY Lu, CH Liou, YN Ho, CW Huang, ZF Zhang, CH Kao, WC Yang, HY Gong_
+ 16.08.2024, _CC Chen, CY Lin, HY Lu, CH Liou, YN Ho, CW Huang, ZF Zhang, CH Kao, WC Yang, HY Gong_
 
 
 _Animals, Gastrointestinal Microbiome, Tilapia, Animal Feed, Bidens, Gene Expression Profiling, Transcriptome, Liver_
@@ -259,7 +259,7 @@ Polycystic Ovary Syndrome (PCOS), which is common among women of reproductive ag
 ---
 
 ## Decrease due to pollution in the rhizosphere microbial diversity can be amended by supplementation from adapted plants of another species.
- 15.08.2024, _A Fetsiukh, T Pall, S Timmusk_
+ 16.08.2024, _A Fetsiukh, T Pall, S Timmusk_
 
 
 _Rhizosphere, Biodegradation, Environmental, Chenopodiaceae, Soil Microbiology, Microbiota, Biodiversity, Salix, Soil Pollutants, Plant Roots, Bacteria, Mining_
@@ -272,7 +272,7 @@ Manipulating the rhizosphere microbiome to enhance plant stress tolerance is an 
 ---
 
 ## Differences in the constituents of bacterial microbiota of soils collected from two fields of diverse potato blackleg and soft rot diseases incidences, a case study.
- 15.08.2024, _W Babinska-Wensierska, A Motyka-Pomagruk, M Fondi, AE Misztak, A Mengoni, E Lojkowska_
+ 16.08.2024, _W Babinska-Wensierska, A Motyka-Pomagruk, M Fondi, AE Misztak, A Mengoni, E Lojkowska_
 
 
 _Soil Microbiology, Solanum tuberosum, Plant Diseases, Microbiota, RNA, Ribosomal, 16S, Pectobacterium, Soil, Phylogeny, Dickeya, Bacteria_
