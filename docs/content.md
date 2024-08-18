@@ -1,5 +1,5 @@
 ## Major depletion of insulin sensitivity-associated taxa in the gut microbiome of persons living with HIV controlled by antiretroviral drugs.
- 13.08.2024, _E Belda, J Capeau, JD Zucker, EL Chatelier, N Pons, FP Oñate, B Quinquis, R Alili, S Fellahi, C Katlama, K Clément, B Fève, S Jaureguiberry, C Goujard, O Lambotte, J Doré, E Prifti, JP Bastard_
+ 17.08.2024, _E Belda, J Capeau, JD Zucker, EL Chatelier, N Pons, FP Oñate, B Quinquis, R Alili, S Fellahi, C Katlama, K Clément, B Fève, S Jaureguiberry, C Goujard, O Lambotte, J Doré, E Prifti, JP Bastard_
 
 
 _Humans, Gastrointestinal Microbiome, HIV Infections, Male, Female, Middle Aged, Insulin Resistance, Adult, Feces, Anti-Retroviral Agents, Metagenome_
