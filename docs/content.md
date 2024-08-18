@@ -113,16 +113,9 @@ Gut dysbiosis is closely related to dysregulated microRNAs (miRNAs) in the intes
 
 ---
 
-## Metagenome sequencing and 107 microbial genomes from seamount sediments along the Yap and Mariana trenches.
- 17.08.2024, _Y Zhang, H Jing_
-
-
-_Metagenome, Geologic Sediments, Phylogeny, Bacteria, Archaea, Genome, Microbial, Genome, Archaeal, Genome, Bacterial_
-Microbes in the sediments across a series of seamounts along the island arc of the Yap and Mariana trenches were investigated by metagenome. In this study, we reconstructed 107 metagenome-assembled genomes (MAGs), including 100 bacteria and 7 archaea. All the MAGs exhibited &gt;75% completeness and &lt;10% contamination, with 26 MAGs being classified as 'nearly complete' (completeness &gt;90%), while 50 falling within 80-90% range and 31 between 75-80% complete. Phylogenomic analysis revealed that 86% (n = 92) of these MAGs represented new taxa at different taxonomical levels. The species composition of these MAGs was most consistent with the previous reports, with the most abundant phyla being Proteobacteria (n = 39), Methylomirabilota (n = 27), and Nitrospirota (n = 7). These draft genomes provided novel data on species diversity and function in the seamount microbial community, which will provide reference data for extensive comparative genomic studies across crucial phylogenetic groups worldwide.
+## Metagenome sequencing and 107 microbial genomes from seamount sediments along the Yap and Mariana trenches
 
 [Source](https://doi.org/10.1038/s41597-024-03762-7)
-
-10.1038/s41597-024-03762-7
 
 ---
 
