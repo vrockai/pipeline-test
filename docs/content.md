@@ -5,7 +5,7 @@
 ---
 
 ## Microbial assimilatory sulfate reduction-mediated H2S: an overlooked role in Crohn's disease development.
- 16.08.2024, _W Luo, M Zhao, M Dwidar, Y Gao, L Xiang, X Wu, MH Medema, S Xu, X Li, H Schäfer, M Chen, R Feng, Y Zhu_
+ 19.08.2024, _W Luo, M Zhao, M Dwidar, Y Gao, L Xiang, X Wu, MH Medema, S Xu, X Li, H Schäfer, M Chen, R Feng, Y Zhu_
 
 
 _Crohn Disease, Humans, Gastrointestinal Microbiome, Hydrogen Sulfide, Animals, Mice, Sulfates, Escherichia coli, Feces, Dysbiosis, Colon, Metagenomics, Oxidation-Reduction, Disease Models, Animal, Female_
