@@ -113,54 +113,27 @@ Gut dysbiosis is closely related to dysregulated microRNAs (miRNAs) in the intes
 
 ---
 
-## Metagenome sequencing and 107 microbial genomes from seamount sediments along the Yap and Mariana trenches.
- 18.08.2024, _Y Zhang, H Jing_
-
-
-_Metagenome, Geologic Sediments, Phylogeny, Bacteria, Archaea, Genome, Microbial, Genome, Archaeal, Genome, Bacterial_
-Microbes in the sediments across a series of seamounts along the island arc of the Yap and Mariana trenches were investigated by metagenome. In this study, we reconstructed 107 metagenome-assembled genomes (MAGs), including 100 bacteria and 7 archaea. All the MAGs exhibited &gt;75% completeness and &lt;10% contamination, with 26 MAGs being classified as 'nearly complete' (completeness &gt;90%), while 50 falling within 80-90% range and 31 between 75-80% complete. Phylogenomic analysis revealed that 86% (n = 92) of these MAGs represented new taxa at different taxonomical levels. The species composition of these MAGs was most consistent with the previous reports, with the most abundant phyla being Proteobacteria (n = 39), Methylomirabilota (n = 27), and Nitrospirota (n = 7). These draft genomes provided novel data on species diversity and function in the seamount microbial community, which will provide reference data for extensive comparative genomic studies across crucial phylogenetic groups worldwide.
+## Metagenome sequencing and 107 microbial genomes from seamount sediments along the Yap and Mariana trenches
 
 [Source](https://doi.org/10.1038/s41597-024-03762-7)
 
-10.1038/s41597-024-03762-7
-
 ---
 
-## Metrological evaluation of DNA extraction method effects on the bacterial microbiome and resistome in sputum.
- 16.08.2024, _A Benčič, N Toplak, S Koren, A Bogožalec Košir, M Milavec, V Tomič, D Lužnik, T Dreo_
-
-
-Targeted high-throughput sequencing (HTS) has revolutionized the way we look at bacterial communities. It can be used for the species-specific detection of bacteria as well as for the determination of the microbiome and resistome and can be applied to samples from almost any environment. However, the results of targeted HTS can be influenced by many factors, which poses a major challenge for its use in clinical diagnostics. In this study, we investigated the impact of the DNA extraction method on the determination of the bacterial microbiome and resistome by targeted HTS using principles from metrology and diagnostics such as repeatability and analytical sensitivity. Sputum samples spiked with Acinetobacter baumannii, Klebsiella pneumoniae, and Pseudomonas aeruginosa at three different concentrations (103-106 cells/mL) were used. DNA was extracted from each sample on 2 separate days in three replicates each using three different extraction methods based on cetrimonium bromide, magnetic beads, and silica membranes. All three spiked bacteria were detected in sputum, and the DNA extraction method had no significant effect on detection. However, the DNA extraction method had significant effects on the composition of the microbiome and the resistome. The sequencing results were repeatable in the majority of cases. The silica membrane-based DNA extraction kit provided the most repeatable results and the highest diversity of the microbiome and resistome. Targeted HTS has been shown to be a reliable tool for determining the microbiome and resistome; however, the method of DNA extraction should be carefully selected to minimize its impact on the results.
+## Metrological evaluation of DNA extraction method effects on the bacterial microbiome and resistome in sputum
 
 [Source](https://doi.org/10.1128/msystems.00735-24)
-
-10.1128/msystems.00735-24
 
 ---
 
 ## AI in microbiome research: Where have we been, where are we going?
- 15.08.2024, _GK Gerber_
-
-
-_Artificial Intelligence, Humans, Microbiota, Software_
-Artificial intelligence (AI), a subdiscipline of computer science that develops machines or software that mimic characteristically human cognitive functions, is currently undergoing a revolution. In this commentary article, I will give my perspective on the evolution of the field and my thoughts on how AI may impact microbiome research in the next decade.
 
 [Source](https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00280-4)
 
-10.1016/j.chom.2024.07.021
-
 ---
 
-## Modeling Microbial Communities: Perspective and Challenges.
- 16.08.2024, _L Raajaraam, K Raman_
-
-
-_Microbiota, Models, Biological, Machine Learning_
-Microbial communities are immensely important due to their widespread presence and profound impact on various facets of life. Understanding these complex systems necessitates mathematical modeling, a powerful tool for simulating and predicting microbial community behavior. This review offers a critical analysis of metabolic modeling and highlights key areas that would greatly benefit from broader discussion and collaboration. Moreover, we explore the challenges and opportunities linked to the intricate nature of these communities, spanning data generation, modeling, and validation. We are confident that ongoing advancements in modeling techniques, such as machine learning, coupled with interdisciplinary collaborations, will unlock the full potential of microbial communities across diverse applications.
+## Modeling Microbial Communities: Perspective and Challenges
 
 [Source](https://doi.org/10.1021/acssynbio.4c00116)
-
-10.1021/acssynbio.4c00116
 
 ---
 
