@@ -92,15 +92,16 @@ Enteric pathogens navigate distinct regional microenvironments within the intest
 
 ---
 
-## Stabilization of interdomain closure by a G protein inhibitor.
- 28.08.2024, _TD Todd, N Vithani, S Singh, GR Bowman, KJ Blumer, A Soranno_
+## Accurate statistical methods to cover the aspects of the increase in the incidence of kidney failure: A survey study in Ha'il -Saudi Arabia.
+ 28.08.2024, _AT Abdulrahman, DK Alnagar_
 
 
-Inhibitors of heterotrimeric G proteins are being developed as therapeutic agents. Epitomizing this approach are YM-254890 (YM) and FR900359 (FR), which are efficacious in models of thrombosis, hypertension, obesity, asthma, uveal melanoma, and pain, and under investigation as an FR-antibody conjugate in uveal melanoma clinical trials. YM/FR inhibits the Gq/11/14 subfamily by interfering with GDP (guanosine diphosphate) release, but by an unknown biophysical mechanism. Here, we show that YM inhibits GDP release by stabilizing closure between the Ras-like and α-helical domains of a Gα subunit. Nucleotide-free Gα adopts an ensemble of open and closed configurations, as indicated by single-molecule Förster resonance energy transfer and molecular dynamics simulations, whereas GDP and GTPγS (guanosine 5'-O-[gamma-thio]triphosphate) stabilize distinct closed configurations. YM stabilizes closure in the presence or absence of GDP without requiring an intact interdomain interface. All three classes of mammalian Gα subunits that are insensitive to YM/FR possess homologous but degenerate YM/FR binding sites, yet can be inhibited upon transplantation of the YM/FR binding site of Gq. Novel YM/FR analogs tailored to each class of G protein will provide powerful new tools for therapeutic investigation.
+_Saudi Arabia, Humans, Cross-Sectional Studies, Incidence, Surveys and Questionnaires, Renal Insufficiency, Female, Male, Renal Insufficiency, Chronic_
+Chronic kidney disease (CKD) has become more common in recent decades, putting significant strain on healthcare systems worldwide. CKD is a global health issue that can lead to severe complications such as kidney failure and death.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2392875#abstract)
 
-10.1073/pnas.2311711121
+10.1371/journal.pone.0309226
 
 ---
 
