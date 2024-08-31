@@ -12,19 +12,20 @@ The prevalence of brain disorders, including stress-related neuropsychiatric dis
 ---
 
 ## Elucidating human gut microbiota interactions that robustly inhibit diverse Clostridioides difficile strains across different nutrient landscapes.
- 02.05.2024, _JE Sulaiman, J Thompson, Y Qian, EI Vivas, C Diener, SM Gibbons, N Safdar, OS Venturelli_
+ 28.08.2024, _JE Sulaiman, J Thompson, Y Qian, EI Vivas, C Diener, SM Gibbons, N Safdar, OS Venturelli_
 
 
-The human gut pathogen Clostridioides difficile displays extreme genetic variability and confronts a changeable nutrient landscape in the gut. We mapped gut microbiota inter-species interactions impacting the growth and toxin production of diverse C. difficile strains in different nutrient environments. Although negative interactions impacting C. difficile are prevalent in environments promoting resource competition, they are sparse in an environment containing C. difficile-preferred carbohydrates. C. difficile strains display differences in interactions with Clostridium scindens and the ability to compete for proline. C. difficile toxin production displays substantial community-context dependent variation and does not trend with growth-mediated inter-species interactions. C. difficile shows substantial differences in transcriptional profiles in the presence of the closely related species C. hiranonis or C. scindens. In co-culture with C. hiranonis, C. difficile exhibits massive alterations in metabolism and other cellular processes, consistent with their high metabolic overlap. Further, Clostridium hiranonis inhibits the growth and toxin production of diverse C. difficile strains across different nutrient environments and ameliorates the disease severity of a C. difficile challenge in a murine model. In sum, strain-level variability and nutrient environments are major variables shaping gut microbiota interactions with C. difficile.
+_Clostridioides difficile, Gastrointestinal Microbiome, Humans, Animals, Mice, Clostridium Infections, Coculture Techniques, Nutrients, Bacterial Toxins, Microbial Interactions, Clostridium, Female, Antibiosis, Mice, Inbred C57BL_
+The human gut pathogen Clostridioides difficile displays substantial inter-strain genetic variability and confronts a changeable nutrient landscape in the gut. We examined how human gut microbiota inter-species interactions influence the growth and toxin production of various C. difficile strains across different nutrient environments. Negative interactions influencing C. difficile growth are prevalent in an environment containing a single highly accessible resource and sparse in an environment containing C. difficile-preferred carbohydrates. C. difficile toxin production displays significant community-context dependent variation and does not trend with growth-mediated inter-species interactions. C. difficile strains exhibit differences in interactions with Clostridium scindens and the ability to compete for proline. Further, C. difficile shows substantial differences in transcriptional profiles in co-culture with C. scindens or Clostridium hiranonis. C. difficile exhibits massive alterations in metabolism and other cellular processes in co-culture with C. hiranonis, reflecting their similar metabolic niches. C. hiranonis uniquely inhibits the growth and toxin production of diverse C. difficile strains across different nutrient environments and robustly ameliorates disease severity in mice. In sum, understanding the impact of C. difficile strain variability and nutrient environments on inter-species interactions could help improve the effectiveness of anti-C. difficile strategies.
 
 [Source](https://www.nature.com/articles/s41467-024-51062-w)
 
-10.1101/2024.04.13.589383
+10.1038/s41467-024-51062-w
 
 ---
 
 ## Fecal microbiota transplantation influences microbiota without connection to symptom relief in irritable bowel syndrome patients.
- 27.08.2024, _AK Hartikainen, J Jalanka, P Lahtinen, AJ Ponsero, T Mertsalmi, L Finnegan, F Crispie, PD Cotter, P Arkkila, R Satokari_
+ 30.08.2024, _AK Hartikainen, J Jalanka, P Lahtinen, AJ Ponsero, T Mertsalmi, L Finnegan, F Crispie, PD Cotter, P Arkkila, R Satokari_
 
 
 _Irritable Bowel Syndrome, Humans, Fecal Microbiota Transplantation, RNA, Ribosomal, 16S, Female, Male, Adult, Treatment Outcome, Gastrointestinal Microbiome, Middle Aged, Feces, Metagenomics, Bacteria_
@@ -36,16 +37,15 @@ Imbalanced microbiota may contribute to the pathophysiology of irritable bowel s
 
 ---
 
-## Neonatal surgical mortality at a low resource setting, HEAL Africa tertiary hospital, Eastern Democratic Republic of the Congo.
- 27.08.2024, _JF Bake, MB Musubao, S Cairo_
+## Impact of the Choice of Diagnostic Criteria and Growth Reference on the Prevalence of Extrauterine Growth Restriction in Extremely-Low-Birthweight Infants.
+ 29.08.2024, _C González López, G Solís Sánchez, B Fernández Colomer, L Mantecón Fernández, S Lareu Vidal, S Fernández Castiñeira, A Rubio Granda, A Pérez Pérez, M Suárez Rodríguez_
 
 
-_Humans, Democratic Republic of the Congo, Infant, Newborn, Retrospective Studies, Female, Male, Infant Mortality, Tertiary Care Centers, Surgical Procedures, Operative, Infant, Resource-Limited Settings_
-This study describes the experience with common neonatal surgical conditions and their outcomes at a single center in the Eastern Democratic Republic of the Congo (DRC) over a period of 7 years (2016-2022).
+Variable diagnostic criteria and growth charts have been used for extrauterine growth restriction (EUGR). The objective was to assess the prevalence and concordance of EUGR in extremely-low-birthweight (ELBW) infants with the most frequent diagnostic criteria and growth charts.
 
 [Source](https://www.nature.com/articles/s41390-024-03520-w)
 
-10.1007/s00383-024-05829-3
+10.3390/children11080934
 
 ---
 
@@ -80,7 +80,7 @@ Drug-resistant bacteria are outpacing traditional antibiotic discovery efforts. 
 ---
 
 ## Both pathogen and host dynamically adapt pH responses along the intestinal tract during enteric bacterial infection.
- 28.08.2024, _SE Woodward, LMP Neufeld, J Peña-Díaz, W Feng, A Serapio-Palacios, I Tarrant, W Deng, BB Finlay_
+ 29.08.2024, _SE Woodward, LMP Neufeld, J Peña-Díaz, W Feng, A Serapio-Palacios, I Tarrant, W Deng, BB Finlay_
 
 
 _Animals, Hydrogen-Ion Concentration, Citrobacter rodentium, Mice, Enterobacteriaceae Infections, Host-Pathogen Interactions, Mice, Inbred C57BL, Adaptation, Physiological, Female, Reactive Oxygen Species, Intestines, Humans, Virulence, Escherichia coli_
@@ -92,16 +92,15 @@ Enteric pathogens navigate distinct regional microenvironments within the intest
 
 ---
 
-## Accurate statistical methods to cover the aspects of the increase in the incidence of kidney failure: A survey study in Ha'il -Saudi Arabia.
- 28.08.2024, _AT Abdulrahman, DK Alnagar_
+## Z-Spectral MRI Quantifies the Mass and Metabolic Activity of Adipose Tissues With Fat-Water-Fraction and Amide-Proton-Transfer Contrasts.
+ 31.08.2024, _Z Cai, Q Zhong, D Zhang, Y Feng, Q Wang, Y Yang, Y Xu, C Liang, Z Liu, K Cai_
 
 
-_Saudi Arabia, Humans, Cross-Sectional Studies, Incidence, Surveys and Questionnaires, Renal Insufficiency, Female, Male, Renal Insufficiency, Chronic_
-Chronic kidney disease (CKD) has become more common in recent decades, putting significant strain on healthcare systems worldwide. CKD is a global health issue that can lead to severe complications such as kidney failure and death.
+Brown adipose tissue (BAT) is metabolically activatable and plays an important role in obesity and metabolic diseases. With reduced fat-water-fraction (FWF) compared with white adipose tissue (WAT), BAT mass and its functional activation may be quantified with Z-spectra MRI, with built-in FWF and the metabolic amide proton transfer (APT) contrasts.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2392875#abstract)
 
-10.1371/journal.pone.0309226
+10.1002/jmri.29598
 
 ---
 
@@ -125,7 +124,7 @@ The maternal pregnancy microbiome (including genitourinary and gut) has been lin
 ---
 
 ## Sex-dependent effects of a high fat diet on metabolic disorders, intestinal barrier function and gut microbiota in mouse.
- 27.08.2024, _C Lefebvre, A Tiffay, CE Breemeersch, V Dreux, C Bôle-Feysot, C Guérin, J Breton, E Maximin, M Monnoye, P Déchelotte, V Douard, A Goichon, M Coëffier_
+ 30.08.2024, _C Lefebvre, A Tiffay, CE Breemeersch, V Dreux, C Bôle-Feysot, C Guérin, J Breton, E Maximin, M Monnoye, P Déchelotte, V Douard, A Goichon, M Coëffier_
 
 
 _Animals, Diet, High-Fat, Gastrointestinal Microbiome, Female, Male, Mice, Mice, Inbred C57BL, Insulin Resistance, Metabolic Diseases, Obesity, Sex Factors, Intestinal Mucosa, Permeability, Adipose Tissue, White, Body Weight, Intestinal Barrier Function_
@@ -138,7 +137,7 @@ Obesity is often associated with sex-dependent metabolic complications, in which
 ---
 
 ## 16S rRNA metabarcoding for the identification of tick-borne bacteria in ticks in the Republic of Korea.
- 26.08.2024, _B Alkathiri, S Lee, K Ahn, YS Cho, SY Youn, K Seo, R Umemiya-Shirafuji, X Xuan, D Kwak, S Shin, SH Lee_
+ 29.08.2024, _B Alkathiri, S Lee, K Ahn, YS Cho, SY Youn, K Seo, R Umemiya-Shirafuji, X Xuan, D Kwak, S Shin, SH Lee_
 
 
 _Animals, RNA, Ribosomal, 16S, Republic of Korea, DNA Barcoding, Taxonomic, Bacteria, Ticks, DNA, Bacterial, Wolbachia, Phylogeny, Rickettsia_
@@ -231,7 +230,7 @@ Soil health is expected to be of key importance for plant growth and ecosystem f
 ---
 
 ## Pathogen-driven Pseudomonas reshaped the phyllosphere microbiome in combination with Pseudostellaria heterophylla foliar disease resistance via the release of volatile organic compounds.
- 24.08.2024, _QS Yuan, Y Gao, L Wang, X Wang, L Wang, J Ran, X Ou, Y Wang, C Xiao, W Jiang, L Guo, T Zhou, L Huang_
+ 29.08.2024, _QS Yuan, Y Gao, L Wang, X Wang, L Wang, J Ran, X Ou, Y Wang, C Xiao, W Jiang, L Guo, T Zhou, L Huang_
 
 
 Continuous monocropping obstacles are common in plants, especially medicinal plants, resulting in disease outbreaks and productivity reductions. Foliar disease, mainly caused by Fusarium oxysporum, results in a severe decrease in the yield of Pseudostellaria heterophylla annually. Determining an effective biomethod to alleviate this disease is urgently needed to improve its productivity and quality.
@@ -316,7 +315,7 @@ In recent years, there has been a rapid increase in the number of microbial geno
 ---
 
 ## refMLST: reference-based multilocus sequence typing enables universal bacterial typing.
- 27.08.2024, _M Khdhiri, E Thomas, C de Smet, P Chandar, I Chandrakumar, JM Davidson, P Anderson, SD Chorlton_
+ 30.08.2024, _M Khdhiri, E Thomas, C de Smet, P Chandar, I Chandrakumar, JM Davidson, P Anderson, SD Chorlton_
 
 
 _Multilocus Sequence Typing, Bacterial Typing Techniques, Genome, Bacterial, Salmonella enterica, Campylobacter jejuni, Disease Outbreaks, Yersinia enterocolitica, Software_
