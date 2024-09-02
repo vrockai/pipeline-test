@@ -12,7 +12,7 @@ The prevalence of brain disorders, including stress-related neuropsychiatric dis
 ---
 
 ## Elucidating human gut microbiota interactions that robustly inhibit diverse Clostridioides difficile strains across different nutrient landscapes.
- 28.08.2024, _JE Sulaiman, J Thompson, Y Qian, EI Vivas, C Diener, SM Gibbons, N Safdar, OS Venturelli_
+ 01.09.2024, _JE Sulaiman, J Thompson, Y Qian, EI Vivas, C Diener, SM Gibbons, N Safdar, OS Venturelli_
 
 
 _Clostridioides difficile, Gastrointestinal Microbiome, Humans, Animals, Mice, Clostridium Infections, Coculture Techniques, Nutrients, Bacterial Toxins, Microbial Interactions, Clostridium, Female, Antibiosis, Mice, Inbred C57BL_
@@ -38,7 +38,7 @@ Imbalanced microbiota may contribute to the pathophysiology of irritable bowel s
 ---
 
 ## Impact of the Choice of Diagnostic Criteria and Growth Reference on the Prevalence of Extrauterine Growth Restriction in Extremely-Low-Birthweight Infants.
- 29.08.2024, _C González López, G Solís Sánchez, B Fernández Colomer, L Mantecón Fernández, S Lareu Vidal, S Fernández Castiñeira, A Rubio Granda, A Pérez Pérez, M Suárez Rodríguez_
+ 01.09.2024, _C González López, G Solís Sánchez, B Fernández Colomer, L Mantecón Fernández, S Lareu Vidal, S Fernández Castiñeira, A Rubio Granda, A Pérez Pérez, M Suárez Rodríguez_
 
 
 Variable diagnostic criteria and growth charts have been used for extrauterine growth restriction (EUGR). The objective was to assess the prevalence and concordance of EUGR in extremely-low-birthweight (ELBW) infants with the most frequent diagnostic criteria and growth charts.
@@ -92,15 +92,16 @@ Enteric pathogens navigate distinct regional microenvironments within the intest
 
 ---
 
-## Z-Spectral MRI Quantifies the Mass and Metabolic Activity of Adipose Tissues With Fat-Water-Fraction and Amide-Proton-Transfer Contrasts.
- 31.08.2024, _Z Cai, Q Zhong, D Zhang, Y Feng, Q Wang, Y Yang, Y Xu, C Liang, Z Liu, K Cai_
+## Exploring potential risk factors for lower limb amputation in people with diabetes-A national observational cohort study in Sweden.
+ 01.09.2024, _S Ramstrand, M Carlberg, G Jarl, A Johannesson, A Hiyoshi, S Jansson_
 
 
-Brown adipose tissue (BAT) is metabolically activatable and plays an important role in obesity and metabolic diseases. With reduced fat-water-fraction (FWF) compared with white adipose tissue (WAT), BAT mass and its functional activation may be quantified with Z-spectra MRI, with built-in FWF and the metabolic amide proton transfer (APT) contrasts.
+_Humans, Male, Female, Amputation, Surgical, Sweden, Middle Aged, Risk Factors, Aged, Adult, Lower Extremity, Diabetic Foot, Registries, Life Style, Cohort Studies, Proportional Hazards Models, Diabetes Mellitus_
+Risk factors for lower limb amputation (LLA) in individuals with diabetes have been under-studied. We examined how 1/demographic and socioeconomic, 2/medical, and 3/lifestyle risk factors may be associated with LLA in people with newly diagnosed diabetes.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2392875#abstract)
 
-10.1002/jmri.29598
+10.1002/jfa2.70005
 
 ---
 
