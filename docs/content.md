@@ -12,7 +12,7 @@ The prevalence of brain disorders, including stress-related neuropsychiatric dis
 ---
 
 ## Elucidating human gut microbiota interactions that robustly inhibit diverse Clostridioides difficile strains across different nutrient landscapes.
- 01.09.2024, _JE Sulaiman, J Thompson, Y Qian, EI Vivas, C Diener, SM Gibbons, N Safdar, OS Venturelli_
+ 02.09.2024, _JE Sulaiman, J Thompson, Y Qian, EI Vivas, C Diener, SM Gibbons, N Safdar, OS Venturelli_
 
 
 _Clostridioides difficile, Gastrointestinal Microbiome, Humans, Animals, Mice, Clostridium Infections, Coculture Techniques, Nutrients, Bacterial Toxins, Microbial Interactions, Clostridium, Female, Antibiosis, Mice, Inbred C57BL_
@@ -92,16 +92,15 @@ Enteric pathogens navigate distinct regional microenvironments within the intest
 
 ---
 
-## Exploring potential risk factors for lower limb amputation in people with diabetes-A national observational cohort study in Sweden.
- 01.09.2024, _S Ramstrand, M Carlberg, G Jarl, A Johannesson, A Hiyoshi, S Jansson_
+## Dietary inflammatory index and its relationship with obesity phenotypes: a cross- sectional analysis from RaNCD cohort study.
+ 02.09.2024, _Y Pasdar, M Sharifi, A Saber, D Soleimani, S Moradi, S Cheshmeh, S Rezaeian, F Najafi_
 
 
-_Humans, Male, Female, Amputation, Surgical, Sweden, Middle Aged, Risk Factors, Aged, Adult, Lower Extremity, Diabetic Foot, Registries, Life Style, Cohort Studies, Proportional Hazards Models, Diabetes Mellitus_
-Risk factors for lower limb amputation (LLA) in individuals with diabetes have been under-studied. We examined how 1/demographic and socioeconomic, 2/medical, and 3/lifestyle risk factors may be associated with LLA in people with newly diagnosed diabetes.
+The potential dietary inflammatory index (DII) and the phenomenon of obesity have been linked in recent studies, but it is unclear whether this connection is dependent on metabolic status. Therefore, it was thought that this research would be useful in establishing the relationship between obesity phenotypes and DII.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2392875#abstract)
 
-10.1002/jfa2.70005
+10.1007/s40519-024-01686-0
 
 ---
 
