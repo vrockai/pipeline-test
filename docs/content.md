@@ -92,15 +92,15 @@ Enteric pathogens navigate distinct regional microenvironments within the intest
 
 ---
 
-## Dietary inflammatory index and its relationship with obesity phenotypes: a cross- sectional analysis from RaNCD cohort study.
- 02.09.2024, _Y Pasdar, M Sharifi, A Saber, D Soleimani, S Moradi, S Cheshmeh, S Rezaeian, F Najafi_
+## Alterations in Thyroid Hormones in Obese Patients are Associated with Body Composition Changes after Bariatric Surgery.
+ 02.09.2024, _Y Yan, X Chu, J Wang, X Kang, X Shan, H Yu, X Zhang, X Sun_
 
 
-The potential dietary inflammatory index (DII) and the phenomenon of obesity have been linked in recent studies, but it is unclear whether this connection is dependent on metabolic status. Therefore, it was thought that this research would be useful in establishing the relationship between obesity phenotypes and DII.
+This study investigates how metabolic/bariatric surgery (MBS) affects thyroid hormone (TH) levels and TH resistance in obese euthyroid individuals, focusing on their correlation with changes in body composition.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2392875#abstract)
 
-10.1007/s40519-024-01686-0
+10.1210/clinem/dgae605
 
 ---
 
@@ -273,9 +273,10 @@ Nitrite is a central molecule in the nitrogen cycle because nitrite oxidation to
 ---
 
 ## Niche separation in bacterial communities and activities in porewater, loosely attached, and firmly attached fractions in permeable surface sediments.
- 08.08.2024, _C Moncada, C Arnosti, JD Brüwer, D de Beer, R Amann, K Knittel_
+ 02.09.2024, _C Moncada, C Arnosti, JD Brüwer, D de Beer, R Amann, K Knittel_
 
 
+_Geologic Sediments, Bacteria, Microbiota, Svalbard, Heterotrophic Processes, RNA, Ribosomal, 16S_
 Heterotrophic microbes are central to organic matter degradation and transformation in marine sediments. Currently, most investigations of benthic microbiomes do not differentiate between processes in the porewater and on the grains and, hence, only show a generalized picture of the community. This limits our understanding of the structure and functions of sediment microbiomes. To address this problem, we fractionated sandy surface sediment microbial communities from a coastal site in Isfjorden, Svalbard, into cells associated with the porewater, loosely attached to grains, and firmly attached to grains; we found dissimilar bacterial communities and metabolic activities in these fractions. Most (84%-89%) of the cells were firmly attached, and this fraction comprised more anaerobes, such as sulfate reducers, than the other fractions. The porewater and loosely attached fractions (3% and 8%-13% of cells, respectively) had more aerobic heterotrophs. These two fractions generally showed a higher frequency of dividing cells, polysaccharide (laminarin) hydrolysis rates, and per-cell O2 consumption than the firmly attached cells. Thus, the different fractions occupy distinct niches within surface sediments: the firmly attached fraction is potentially made of cells colonizing areas on the grain that are protected from abrasion, but might be more diffusion-limited for organic matter and electron acceptors. In contrast, the porewater and loosely attached fractions are less resource-limited and have faster growth. Their cell numbers are kept low possibly through abrasion and exposure to grazers. Differences in community composition and activity of these cell fractions point to their distinct roles and contributions to carbon cycling within surface sediments.
 
 [Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae159/7729996)
