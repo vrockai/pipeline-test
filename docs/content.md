@@ -92,15 +92,15 @@ Enteric pathogens navigate distinct regional microenvironments within the intest
 
 ---
 
-## Cardiac Troponin to Adjudicate Subclinical Heart Failure in Diabetic Patients and a Murine Model of Metabolic Syndrome.
- 03.09.2024, _HM Brown, NC Spies, W Jia, J Moley, S Lawless, B Roemmich, JR Brestoff, MA Zaydman, CW Farnsworth_
+## Psychiatric Safety of Semaglutide for Weight Management in People Without Known Major Psychopathology: Post Hoc Analysis of the STEP 1, 2, 3, and 5 Trials.
+ 03.09.2024, _TA Wadden, GK Brown, C Egebjerg, O Frenkel, B Goldman, RF Kushner, B McGowan, M Overvad, A Fink-Jensen_
 
 
-Cardiovascular disease, kidney health, and metabolic disease (CKM) syndrome is associated with significant morbidity and mortality, particularly from congestive heart failure (CHF). Guidelines recommend measurement of cardiac troponin (cTn) to identify subclinical heart failure (HF) in diabetics/CKM. However, appropriate thresholds and the impact from routine screening have not been elucidated.
+Obesity is associated with numerous psychosocial complications, making psychiatric safety a consideration for treating people with obesity. Few studies have investigated the psychiatric safety of newly available antiobesity medications.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2392875#abstract)
 
-10.1093/jalm/jfae091
+10.1001/jamainternmed.2024.4346
 
 ---
 
@@ -273,7 +273,7 @@ Nitrite is a central molecule in the nitrogen cycle because nitrite oxidation to
 ---
 
 ## Niche separation in bacterial communities and activities in porewater, loosely attached, and firmly attached fractions in permeable surface sediments.
- 02.09.2024, _C Moncada, C Arnosti, JD Brüwer, D de Beer, R Amann, K Knittel_
+ 03.09.2024, _C Moncada, C Arnosti, JD Brüwer, D de Beer, R Amann, K Knittel_
 
 
 _Geologic Sediments, Bacteria, Microbiota, Svalbard, Heterotrophic Processes, RNA, Ribosomal, 16S_
