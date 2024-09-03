@@ -92,15 +92,15 @@ Enteric pathogens navigate distinct regional microenvironments within the intest
 
 ---
 
-## Alterations in Thyroid Hormones in Obese Patients are Associated with Body Composition Changes after Bariatric Surgery.
- 02.09.2024, _Y Yan, X Chu, J Wang, X Kang, X Shan, H Yu, X Zhang, X Sun_
+## Weight stigma and binge eating related to poorer perceptions of healthcare provider interaction quality in a community-based sample.
+ 02.09.2024, _RD Barnes, JL Lawson_
 
 
-This study investigates how metabolic/bariatric surgery (MBS) affects thyroid hormone (TH) levels and TH resistance in obese euthyroid individuals, focusing on their correlation with changes in body composition.
+Weight stigma refers to the social rejection, discrimination, and ideological devaluation of individuals because of body size and is a direct result of weight bias and anti-fat attitudes. Individuals with higher weight may be less likely to seek healthcare due to weight stigma, and if or when they do present for care, medical providers with weight bias may fail to provide high quality care. Little, however, is known about the intersectionality of weight stigma and perceptions of healthcare interactions as experienced by individuals who also binge eat.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2392875#abstract)
 
-10.1210/clinem/dgae605
+10.1186/s40337-024-01093-x
 
 ---
 
