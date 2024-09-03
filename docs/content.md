@@ -12,7 +12,7 @@ The prevalence of brain disorders, including stress-related neuropsychiatric dis
 ---
 
 ## Elucidating human gut microbiota interactions that robustly inhibit diverse Clostridioides difficile strains across different nutrient landscapes.
- 02.09.2024, _JE Sulaiman, J Thompson, Y Qian, EI Vivas, C Diener, SM Gibbons, N Safdar, OS Venturelli_
+ 03.09.2024, _JE Sulaiman, J Thompson, Y Qian, EI Vivas, C Diener, SM Gibbons, N Safdar, OS Venturelli_
 
 
 _Clostridioides difficile, Gastrointestinal Microbiome, Humans, Animals, Mice, Clostridium Infections, Coculture Techniques, Nutrients, Bacterial Toxins, Microbial Interactions, Clostridium, Female, Antibiosis, Mice, Inbred C57BL_
@@ -92,15 +92,15 @@ Enteric pathogens navigate distinct regional microenvironments within the intest
 
 ---
 
-## Weight stigma and binge eating related to poorer perceptions of healthcare provider interaction quality in a community-based sample.
- 02.09.2024, _RD Barnes, JL Lawson_
+## Cardiac Troponin to Adjudicate Subclinical Heart Failure in Diabetic Patients and a Murine Model of Metabolic Syndrome.
+ 03.09.2024, _HM Brown, NC Spies, W Jia, J Moley, S Lawless, B Roemmich, JR Brestoff, MA Zaydman, CW Farnsworth_
 
 
-Weight stigma refers to the social rejection, discrimination, and ideological devaluation of individuals because of body size and is a direct result of weight bias and anti-fat attitudes. Individuals with higher weight may be less likely to seek healthcare due to weight stigma, and if or when they do present for care, medical providers with weight bias may fail to provide high quality care. Little, however, is known about the intersectionality of weight stigma and perceptions of healthcare interactions as experienced by individuals who also binge eat.
+Cardiovascular disease, kidney health, and metabolic disease (CKM) syndrome is associated with significant morbidity and mortality, particularly from congestive heart failure (CHF). Guidelines recommend measurement of cardiac troponin (cTn) to identify subclinical heart failure (HF) in diabetics/CKM. However, appropriate thresholds and the impact from routine screening have not been elucidated.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2392875#abstract)
 
-10.1186/s40337-024-01093-x
+10.1093/jalm/jfae091
 
 ---
 
