@@ -92,15 +92,15 @@ Enteric pathogens navigate distinct regional microenvironments within the intest
 
 ---
 
-## An Examination of Exercise Intensity and its Impact on the Acute Release of Irisin Across Obesity Status: A Randomized Controlled Crossover Trial.
- 03.09.2024, _BV Rioux, Y Paudel, AM Thomson, LE Peskett, M Sénéchal_
+## Increased serum carboxylesterase-1 levels are associated with metabolic dysfunction associated steatotic liver disease and metabolic syndrome in children with obesity.
+ 03.09.2024, _H Wang, S Wu, Y Weng, X Yang, L Hou, Y Liang, W Wu, Y Ying, F Ye, X Luo_
 
 
-Limited data exist regarding the impact of exercise intensity on irisin release and its association with insulin sensitivity in individuals of differing obesity status. The objective of this study was to investigate the impact of exercise intensity on the acute release of irisin in healthy weight individuals and individuals with obesity, and whether irisin release during acute exercise was associated with greater insulin sensitivity across obesity status. A randomized controlled crossover study was conducted on 26 non-obese (NOB) (BMI: 22.2±1.5 kg/m2) and 26 OB (BMI: 33.9±6.5 kg/m2) adults who performed an acute bout of moderate-intensity continuous training (MICT), high-intensity interval training (HIIT), and rest. Irisin was quantified via ELISA and western blotting, and insulin sensitivity (Si) was estimated using the Matsuda index. OB displayed a significantly lower level of circulating irisin and protein expression compared to NOB (p&lt;0.01). Insulin sensitivity was positively correlated with irisin release during MICT and HIIT in NOB (all p&lt;0.05), but not in OB. Regarding irisin expression, NOB with high-Si had a 2.03-fold (p&lt;0.05) increase during HIIT, while OB with high-Si had only a 1.54-fold increase (p&lt;0.05). These results suggest that irisin is released differently according to obesity status and varying exercise intensities. OB individuals have a blunted irisin response to acute exercise and lower baseline irisin concentrations compared to NOB individuals. Although exercise stimulates irisin release in NOB individuals, only a greater exercise intensity stimulates irisin release in OB individuals. These findings are clinically relevant, as irisin is associated with greater insulin sensitivity.
+Carboxylesterase 1(CES1) is expressed mainly in the liver and adipose tissue and is highly hypothesized to play an essential role in metabolism. Our study aimed to investigate the association between CES1 and metabolic syndrome (MetS) and metabolic dysfunction associated steatotic liver disease (MASLD) in children with obesity in China.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2392875#abstract)
 
-10.1139/apnm-2024-0091
+10.1186/s13052-024-01733-7
 
 ---
 
