@@ -92,15 +92,15 @@ Enteric pathogens navigate distinct regional microenvironments within the intest
 
 ---
 
-## Psychiatric Safety of Semaglutide for Weight Management in People Without Known Major Psychopathology: Post Hoc Analysis of the STEP 1, 2, 3, and 5 Trials.
- 03.09.2024, _TA Wadden, GK Brown, C Egebjerg, O Frenkel, B Goldman, RF Kushner, B McGowan, M Overvad, A Fink-Jensen_
+## An Examination of Exercise Intensity and its Impact on the Acute Release of Irisin Across Obesity Status: A Randomized Controlled Crossover Trial.
+ 03.09.2024, _BV Rioux, Y Paudel, AM Thomson, LE Peskett, M Sénéchal_
 
 
-Obesity is associated with numerous psychosocial complications, making psychiatric safety a consideration for treating people with obesity. Few studies have investigated the psychiatric safety of newly available antiobesity medications.
+Limited data exist regarding the impact of exercise intensity on irisin release and its association with insulin sensitivity in individuals of differing obesity status. The objective of this study was to investigate the impact of exercise intensity on the acute release of irisin in healthy weight individuals and individuals with obesity, and whether irisin release during acute exercise was associated with greater insulin sensitivity across obesity status. A randomized controlled crossover study was conducted on 26 non-obese (NOB) (BMI: 22.2±1.5 kg/m2) and 26 OB (BMI: 33.9±6.5 kg/m2) adults who performed an acute bout of moderate-intensity continuous training (MICT), high-intensity interval training (HIIT), and rest. Irisin was quantified via ELISA and western blotting, and insulin sensitivity (Si) was estimated using the Matsuda index. OB displayed a significantly lower level of circulating irisin and protein expression compared to NOB (p&lt;0.01). Insulin sensitivity was positively correlated with irisin release during MICT and HIIT in NOB (all p&lt;0.05), but not in OB. Regarding irisin expression, NOB with high-Si had a 2.03-fold (p&lt;0.05) increase during HIIT, while OB with high-Si had only a 1.54-fold increase (p&lt;0.05). These results suggest that irisin is released differently according to obesity status and varying exercise intensities. OB individuals have a blunted irisin response to acute exercise and lower baseline irisin concentrations compared to NOB individuals. Although exercise stimulates irisin release in NOB individuals, only a greater exercise intensity stimulates irisin release in OB individuals. These findings are clinically relevant, as irisin is associated with greater insulin sensitivity.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2392875#abstract)
 
-10.1001/jamainternmed.2024.4346
+10.1139/apnm-2024-0091
 
 ---
 
