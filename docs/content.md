@@ -92,15 +92,15 @@ Enteric pathogens navigate distinct regional microenvironments within the intest
 
 ---
 
-## Increased serum carboxylesterase-1 levels are associated with metabolic dysfunction associated steatotic liver disease and metabolic syndrome in children with obesity.
- 03.09.2024, _H Wang, S Wu, Y Weng, X Yang, L Hou, Y Liang, W Wu, Y Ying, F Ye, X Luo_
+## Are vegetarians' diets inherently healthy? Ultra-processed food consumption is associated with overweight among vegetarians: the brazilian survey on the health, food, and nutrition of vegetarians.
+ 04.09.2024, _TAR Dos Santos, AKP Pedrosa, JMM Melo, JAC Silveira_
 
 
-Carboxylesterase 1(CES1) is expressed mainly in the liver and adipose tissue and is highly hypothesized to play an essential role in metabolism. Our study aimed to investigate the association between CES1 and metabolic syndrome (MetS) and metabolic dysfunction associated steatotic liver disease (MASLD) in children with obesity in China.
+This cross-sectional study investigated ultra-processed food (UPF) consumption and its association with overweight among Brazilian vegetarian adults (n = 925). Data were collected using a self-administered structured online questionnaire. The prevalence of overweight was 26.2% (95% confidence interval [CI] 23.3-29.1). The median UPF consumption was 1.8 times/day (1.0-3.1 interquartile range [IQR]). The multivariable generalised linear model identified an increase in overweight probability as the UPF intake - categorised into quintiles - increases (prevalence ratio [PR] 1.08 [95%CI 1.01-1.17]). Additionally, age (PR 1.03 [95%CI 1.02-1.04]), eating more than three meals/day away from home (PR 1.56 [95%CI 1.08-2.23]), duration of vegetarianism (PR 0.98 [95%CI 0.97-0.99]) and living in the wealthiest regions in the country (PR 1.35 [95%CI 1.06-1.71]) were associated with overweight. Although vegetarians have a lower average UPF intake and overweight prevalence than the general population, UPF exposure can still lead to excessive weight gain or maintenance. This study endorses generalising the Brazilian Dietary Guidelines for the vegetarian population.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2392875#abstract)
 
-10.1186/s13052-024-01733-7
+10.1080/09637486.2024.2397714
 
 ---
 
