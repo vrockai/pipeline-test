@@ -288,9 +288,16 @@ Prokaryotic microbes have impacted marine biogeochemical cycles for billions of 
 
 ---
 
-## Global distribution, diversity, and ecological niche of Picozoa, a widespread and enigmatic marine protist lineage
+## Global distribution, diversity, and ecological niche of Picozoa, a widespread and enigmatic marine protist lineage.
+ 05.09.2024, _P Huber, D De Angelis, H Sarmento, S Metz, CR Giner, C Vargas, L Maiorano, R Massana, R Logares_
+
+
+_Phylogeny, Eukaryota, Biodiversity, Aquatic Organisms, Ecosystem, Seawater_
+The backbone of the eukaryotic tree of life contains taxa only found in molecular surveys, of which we still have a limited understanding. Such is the case of Picozoa, an enigmatic lineage of heterotrophic picoeukaryotes within the supergroup Archaeplastida, which has emerged as a significant component of marine microbial planktonic communities. To enhance our understanding of the diversity, distribution, and ecology of Picozoa, we conduct a comprehensive assessment at different levels, from assemblages to taxa, employing phylogenetic analysis, species distribution modeling, and ecological niche characterization.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01874-1)
+
+10.1186/s40168-024-01874-1
 
 ---
 
