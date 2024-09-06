@@ -51,9 +51,16 @@ Physical particles can serve as critical abiotic factors that structure the ecol
 
 ---
 
-## Targeted isolation of Methanobrevibacter strains from fecal samples expands the cultivated human archaeome
+## Targeted isolation of Methanobrevibacter strains from fecal samples expands the cultivated human archaeome.
+ 03.09.2024, _S Duller, S Vrbancic, Ł Szydłowski, A Mahnert, M Blohs, M Predl, C Kumpitsch, V Zrim, C Högenauer, T Kosciolek, RA Schmitz, A Eberhard, M Dragovan, L Schmidberger, T Zurabischvili, V Weinberger, AM Moser, D Kolb, D Pernitsch, R Mohammadzadeh, T Kühnast, T Rattei, C Moissl-Eichinger_
+
+
+_Methanobrevibacter, Humans, Feces, Gastrointestinal Microbiome, Genome, Archaeal, Methane, Phylogeny, Adult, Male, Female, Gastrointestinal Tract_
+Archaea are vital components of the human microbiome, yet their study within the gastrointestinal tract (GIT) is limited by the scarcity of cultured representatives. Our study presents a method for the targeted enrichment and isolation of methanogenic archaea from human fecal samples. The procedure combines methane breath testing, in silico metabolic modeling, media optimization, FACS, dilution series, and genomic sequencing through Nanopore technology. Additional analyzes include the co-cultured bacteriome, comparative genomics of archaeal genomes, functional comparisons, and structure-based protein function prediction of unknown differential traits. Successful establishment of stable archaeal cultures from 14 out of 16 fecal samples yielded nine previously uncultivated strains, eight of which are absent from a recent archaeome genome catalog. Comparative genomic and functional assessments of Methanobrevibacter smithii and Candidatus Methanobrevibacter intestini strains from individual donors revealed features potentially associated with gastrointestinal diseases. Our work broadens available archaeal representatives for GIT studies, and offers insights into Candidatus Methanobrevibacter intestini genomes' adaptability in critical microbiome contexts.
 
 [Source](https://www.nature.com/articles/s41467-024-52037-7)
+
+10.1038/s41467-024-52037-7
 
 ---
 
@@ -84,7 +91,7 @@ The ISS rodent habitat has provided crucial insights into the impact of spacefli
 ---
 
 ## Bacterial association with metals enables in vivo monitoring of urogenital microbiota using magnetic resonance imaging.
- 03.09.2024, _SC Donnelly, GE Varela-Mattatall, S Hassan, Q Sun, N Gelman, JD Thiessen, RT Thompson, FS Prato, JP Burton, DE Goldhawk_
+ 06.09.2024, _SC Donnelly, GE Varela-Mattatall, S Hassan, Q Sun, N Gelman, JD Thiessen, RT Thompson, FS Prato, JP Burton, DE Goldhawk_
 
 
 _Humans, Magnetic Resonance Imaging, Microbiota, Female, Bacteria, Metals, Urogenital System, Manganese_
@@ -97,7 +104,7 @@ Bacteria constitute a significant part of the biomass of the human microbiota, b
 ---
 
 ## Urine metabolomic profiles of autism and autistic traits-A twin study.
- 05.09.2024, _A Arora, F Mastropasqua, S Bölte, K Tammimies_
+ 06.09.2024, _A Arora, F Mastropasqua, S Bölte, K Tammimies_
 
 
 _Humans, Autistic Disorder, Male, Female, Metabolomics, Child, Biomarkers, Adolescent, Metabolome, Adult, Twins, Monozygotic, Child, Preschool_
@@ -162,7 +169,7 @@ Furthering our knowledge of the skin microbiome is essential to understand healt
 ---
 
 ## CHIKV infection drives shifts in the gastrointestinal microbiome and metabolites in rhesus monkeys.
- 05.09.2024, _H Chen, J Shi, C Tang, J Xu, B Li, J Wang, Y Zhou, Y Yang, H Yang, Q Huang, W Yu, H Wang, D Wu, Y Hu, H Zhou, Q Sun, S Lu_
+ 06.09.2024, _H Chen, J Shi, C Tang, J Xu, B Li, J Wang, Y Zhou, Y Yang, H Yang, Q Huang, W Yu, H Wang, D Wu, Y Hu, H Zhou, Q Sun, S Lu_
 
 
 _Animals, Gastrointestinal Microbiome, Macaca mulatta, Feces, Chikungunya Fever, Chikungunya virus, Bacteria, Dysbiosis, Inflammation, Inflammasomes, Disease Models, Animal, Interleukin-17, Gastrointestinal Tract, Cytokines_
@@ -287,7 +294,7 @@ The microbiota in wastewater treatment plants (WWTPs) and incoming wastewater is
 ---
 
 ## The eukaryome of modern microbialites reveals distinct colonization across aquatic ecosystems.
- 03.09.2024, _AM Bonacolta, PT Visscher, J Del Campo, RA White Iii_
+ 06.09.2024, _AM Bonacolta, PT Visscher, J Del Campo, RA White Iii_
 
 
 _Ecosystem, Salinity, British Columbia, Eukaryota, Biodiversity, Fresh Water, Biofilms, Seawater, Australia, Diatoms, Geologic Sediments_
