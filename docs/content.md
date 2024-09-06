@@ -69,39 +69,81 @@ Physical particles can serve as critical abiotic factors that structure the ecol
 
 ---
 
-## Bacterial association with metals enables in vivo monitoring of urogenital microbiota using magnetic resonance imaging
+## Bacterial association with metals enables in vivo monitoring of urogenital microbiota using magnetic resonance imaging.
+ 03.09.2024, _SC Donnelly, GE Varela-Mattatall, S Hassan, Q Sun, N Gelman, JD Thiessen, RT Thompson, FS Prato, JP Burton, DE Goldhawk_
+
+
+_Humans, Magnetic Resonance Imaging, Microbiota, Female, Bacteria, Metals, Urogenital System, Manganese_
+Bacteria constitute a significant part of the biomass of the human microbiota, but their interactions are complex and difficult to replicate outside the host. Exploiting the superior resolution of magnetic resonance imaging (MRI) to examine signal parameters of selected human isolates may allow tracking of their dispersion throughout the body. Here we investigate longitudinal and transverse MRI relaxation rates and found significant differences between several bacterial strains. Common commensal strains of lactobacilli display notably high MRI relaxation rates, partially explained by elevated cellular manganese content, while other species contain more iron than manganese. Lactobacillus crispatus show particularly high values, 4-fold greater than any other species; up to 60-fold greater signal than relevant tissue background; and a linear relationship between relaxation rate and fraction of live cells. Different bacterial strains have detectable, repeatable MRI relaxation rates that in the future may enable monitoring of their persistence in the human body for enhanced molecular imaging.
 
 [Source](https://www.nature.com/articles/s42003-024-06783-5)
 
+10.1038/s42003-024-06783-5
+
 ---
 
-## Urine metabolomic profiles of autism and autistic traits – A twin study
+## Urine metabolomic profiles of autism and autistic traits-A twin study.
+ 05.09.2024, _A Arora, F Mastropasqua, S Bölte, K Tammimies_
+
+
+_Humans, Autistic Disorder, Male, Female, Metabolomics, Child, Biomarkers, Adolescent, Metabolome, Adult, Twins, Monozygotic, Child, Preschool_
+Currently, there are no reliable biomarkers for autism diagnosis. The heterogeneity of autism and several co-occurring conditions are key challenges to establishing these. Here, we used untargeted mass spectrometry-based urine metabolomics to investigate metabolic differences for autism diagnosis and autistic traits in a well-characterized twin cohort (N = 105). We identified 208 metabolites in the urine samples of the twins. No clear, significant metabolic drivers for autism diagnosis were detected when controlling for other neurodevelopmental conditions. However, we identified nominally significant changes for several metabolites. For instance, phenylpyruvate (p = 0.019) and taurine (p = 0.032) were elevated in the autism group, while carnitine (p = 0.047) was reduced. We furthermore accounted for the shared factors, such as genetics within the twin pairs, and report additional metabolite differences. Based on the nominally significant metabolites for autism diagnosis, the arginine and proline metabolism pathway (p = 0.024) was enriched. We also investigated the association between quantitative autistic traits, as measured by the Social Responsiveness Scale 2nd Edition, and metabolite differences, identifying a greater number of nominally significant metabolites and pathways. A significant positive association between indole-3-acetate and autistic traits was observed within the twin pairs (adjusted p = 0.031). The utility of urine biomarkers in autism, therefore, remains unclear, with mixed findings from different study populations.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308224)
 
+10.1371/journal.pone.0308224
+
 ---
 
-## Massive expansion of the pig gut virome based on global metagenomic mining
+## Massive expansion of the pig gut virome based on global metagenomic mining.
+ 01.09.2024, _J Mi, X Jing, C Ma, Y Yang, Y Li, Y Zhang, R Long, H Zheng_
+
+
+_Animals, Swine, Virome, Metagenomics, Gastrointestinal Microbiome, Viruses, Genome, Viral, Data Mining, Metagenome, Phylogeny_
+The pig gut virome plays a vital role in the gut microbial ecosystem of pigs. However, a comprehensive understanding of their diversity and a reference database for the virome are currently lacking. To address this gap, we established a Pig Virome Database (PVD) that comprised of 5,566,804 viral contig sequences from 4650 publicly available gut metagenomic samples using a pipeline designated "metav". By clustering sequences, we identified 48,299 viral operational taxonomic units (vOTUs) genomes of at least medium quality, of which 92.83% of which were not found in existing major databases. The majority of vOTUs were identified as Caudoviricetes (72.21%). The PVD database contained a total of 2,362,631 protein-coding genes across the above medium-quality vOTUs genomes that can be used to explore the functional potential of the pig gut virome. These findings highlight the extensive diversity of viruses in the pig gut and provide a pivotal reference dataset for forthcoming research concerning the pig gut virome.
 
 [Source](https://www.nature.com/articles/s41522-024-00554-0)
 
+10.1038/s41522-024-00554-0
+
 ---
 
-## Marine sponge microbe provides insights into evolution and virulence of the tubercle bacillus
+## Marine sponge microbe provides insights into evolution and virulence of the tubercle bacillus.
+ 03.09.2024, _SJ Pidot, S Klatt, LS Ates, W Frigui, F Sayes, L Majlessi, H Izumi, IR Monk, JL Porter, V Bennett-Wood, T Seemann, A Otter, G Taiaroa, GM Cook, N West, NJ Tobias, JA Fuerst, MD Stutz, M Pellegrini, M McConville, R Brosch, TP Stinear_
+
+
+_Animals, Mice, Virulence, Porifera, Mycobacterium tuberculosis, Tuberculosis, Virulence Factors, Female, Biological Evolution, Humans, Phylogeny, Mycobacterium_
+Reconstructing the evolutionary origins of Mycobacterium tuberculosis, the causative agent of human tuberculosis, has helped identify bacterial factors that have led to the tubercle bacillus becoming such a formidable human pathogen. Here we report the discovery and detailed characterization of an exceedingly slow growing mycobacterium that is closely related to M. tuberculosis for which we have proposed the species name Mycobacterium spongiae sp. nov., (strain ID: FSD4b-SM). The bacterium was isolated from a marine sponge, taken from the waters of the Great Barrier Reef in Queensland, Australia. Comparative genomics revealed that, after the opportunistic human pathogen Mycobacterium decipiens, M. spongiae is the most closely related species to the M. tuberculosis complex reported to date, with 80% shared average nucleotide identity and extensive conservation of key M. tuberculosis virulence factors, including intact ESX secretion systems and associated effectors. Proteomic and lipidomic analyses showed that these conserved systems are functional in FSD4b-SM, but that it also produces cell wall lipids not previously reported in mycobacteria. We investigated the virulence potential of FSD4b-SM in mice and found that, while the bacteria persist in lungs for 56 days after intranasal infection, no overt pathology was detected. The similarities with M. tuberculosis, together with its lack of virulence, motivated us to investigate the potential of FSD4b-SM as a vaccine strain and as a genetic donor of the ESX-1 genetic locus to improve BCG immunogenicity. However, neither of these approaches resulted in superior protection against M. tuberculosis challenge compared to BCG vaccination alone. The discovery of M. spongiae adds to our understanding of the emergence of the M. tuberculosis complex and it will be another useful resource to refine our understanding of the factors that shaped the evolution and pathogenesis of M. tuberculosis.
 
 [Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012440)
 
+10.1371/journal.ppat.1012440
+
 ---
 
-## Exploring the interactions between Nosema ceranae infection and the honey bee gut microbiome
+## Exploring the interactions between Nosema ceranae infection and the honey bee gut microbiome.
+ 03.09.2024, _E Lau, J Maccaro, QS McFrederick, JC Nieh_
+
+
+_Bees, Animals, Nosema, Gastrointestinal Microbiome, Microsporidiosis, Spores, Fungal, Host-Pathogen Interactions_
+Managed colonies of the European honey bee, Apis mellifera, have faced considerable losses in recent years. A widespread contributing factor is a microsporidian pathogen, Nosema ceranae, which occurs worldwide, is increasingly resistant to antibiotic treatment, and can alter the host's immune response and nutritional uptake. These obligate gut pathogens share their environment with a natural honey bee microbiome whose composition can affect pathogen resistance. We tested the effect of N. ceranae infection on this microbiome by feeding 5 day-old adult bees that had natural, fully developed microbiomes with live N. ceranae spores (40,000 per bee) or a sham inoculation, sterile 2.0 M sucrose solution. We caged and reared these bees in a controlled lab environment and tracked their mortality over 12 d, after which we dissected them, measured their infection levels (gut spore counts), and analyzed their microbiomes. Bees fed live spores had two-fold higher mortality by 12 d and 36.5-fold more spores per bee than controls. There were also strong colony effects on infection levels, and 9% of spore-inoculated bees had no spore counts at all (defined as fed-spores-but-not-infected). Nosema ceranae infection had significant but subtle effects on the gut microbiomes of experimentally infected bees, bees with different infection levels, and fed-spores-but-not-infected vs. bees with gut spores. Specific bacteria, including Gilliamella ASVs, were positively associated with infection, indicating that multiple strains of core gut microbes either facilitate or resist N. ceranae infection. Future studies on the interactions between bacterial, pathogen, and host genotypes would be illuminating.
 
 [Source](https://www.nature.com/articles/s41598-024-67796-y)
 
+10.1038/s41598-024-67796-y
+
 ---
 
-## Metagenomic characterisation of canine skin reveals a core healthy skin microbiome 
+## Metagenomic characterisation of canine skin reveals a core healthy skin microbiome.
+ 03.09.2024, _MJ Whittle, J Castillo-Fernandez, GCA Amos, P Watson_
+
+
+_Dogs, Animals, Skin, Microbiota, Metagenomics, Metagenome, RNA, Ribosomal, 16S, Bacteria, High-Throughput Nucleotide Sequencing_
+Furthering our knowledge of the skin microbiome is essential to understand health and disease in canines. To date, studies into the canine skin microbiome have focused on 16S rRNA high throughput sequencing however, these lack the granularity of species and strain level taxonomic characterisation and their associated functions. The aim of this study was to provide a comprehensive assessment of the skin microbiome by analysing the skin microbiome of 72 healthy adult colony dogs, across four distinct skin sites and four breeds, using metagenomic sequencing. Our analysis revealed that breed and skin site are drivers of variation, and a core group of taxa and genes are present within the skin microbiome of healthy dogs, comprising 230 taxa and 1219 gene families. We identified 15 species within the core microbiome that are represented by more than one strain. The biosynthesis of secondary metabolites pathway was enriched in the core microbiome suggesting the skin microbiome may play a role in colonisation resistance and protection from invading pathogens. Additionally, we uncovered the novelty of the canine skin microbiome and show that further investigation is required to increase the suitability of current databases for metagenomic sequencing of canine skin samples.
 
 [Source](https://www.nature.com/articles/s41598-024-63999-5)
+
+10.1038/s41598-024-63999-5
 
 ---
 
