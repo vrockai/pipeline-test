@@ -27,21 +27,41 @@ Physical particles can serve as critical abiotic factors that structure the ecol
 
 ---
 
-## A streamlined culturomics case study for the human gut microbiota research
+## A streamlined culturomics case study for the human gut microbiota research.
+ 05.09.2024, _H Park, S Yeo, CB Ryu, CS Huh_
+
+
+_Humans, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Feces, Bacteria, DNA, Bacterial_
+Bacterial culturomics is a set of techniques to isolate and identify live bacteria from complex microbial ecosystems. Despite its potential to revolutionize microbiome research, bacterial culturomics has significant challenges when applied to human gut microbiome studies due to its labor-intensive nature. Therefore, we established a streamlined culturomics approach with minimal culture conditions for stool sample preincubation. We evaluated the suitability of non-selective medium candidates for maintaining microbial diversity during a 30-day incubation period based on 16S rRNA gene amplicon analysis. Subsequently, we applied four culture conditions (two preincubation media under an aerobic/anaerobic atmosphere) to isolate gut bacteria on a large scale from eight stool samples of healthy humans. We identified 8141 isolates, classified into 263 bacterial species, including 12 novel species candidates. Our analysis of cultivation efficiency revealed that seven days of aerobic and ten days of anaerobic incubation captured approximately 91% and 95% of the identified species within each condition, respectively, with a synergistic effect confirmed when selected preincubation media were combined. Moreover, our culturomics findings expanded the coverage of gut microbial diversity compared to 16S rRNA gene amplicon sequencing results. In conclusion, this study demonstrated the potential of a streamlined culturomics approach for the efficient isolation of gut bacteria from human stool samples. This approach might pave the way for the broader adoption of culturomics in human gut microbiome studies, ultimately leading to a more comprehensive understanding of this complex microbial ecosystem.
 
 [Source](https://www.nature.com/articles/s41598-024-71370-x)
 
+10.1038/s41598-024-71370-x
+
 ---
 
-## Gut microbiota patterns associated with duration of diarrhea in children under five years of age in Ethiopia
+## Gut microbiota patterns associated with duration of diarrhea in children under five years of age in Ethiopia.
+ 05.09.2024, _G Tesfaw, DS Siraj, A Abdissa, RR Jakobsen, ØH Johansen, M Zangenberg, K Hanevik, Z Mekonnen, N Langeland, O Bjørang, N Safdar, AC Mapes, A Kates, L Krych, JL Castro-Mejía, DS Nielsen_
+
+
+_Humans, Gastrointestinal Microbiome, Ethiopia, Diarrhea, Child, Preschool, Infant, Case-Control Studies, Male, Female, Feces, Bacteria_
+Diarrhea claims &gt;500,000 lives annually among children under five years of age in low- and middle-income countries. Mortality due to acute diarrhea (&lt;7 days' duration) is decreasing, but prolonged (7-13 days) and persistent (≥14 days of duration) diarrhea remains a massive challenge. Here, we use a case-control study to decipher if fecal gut microbiota compositional differences between Ethiopian children with acute (n=554) or prolonged/persistent (n=95) diarrhea and frequency-matched non-diarrheal controls (n=663) are linked to diarrheal etiology. We show that diarrhea cases are associated with lower bacterial diversity and enriched in Escherichia spp., Campylobacter spp., and Streptococcus spp. Further, diarrhea cases are depleted in gut commensals such as Prevotella copri, Faecalibacterium prausnitzii, and Dialister succinatiphilus, with depletion being most pronounced in prolonged/persistent cases, suggesting that prolonged duration of diarrhea is accompanied by depletion of gut commensals and that re-establishing these via e.g., microbiota-directed food supplements offer a potential treatment strategy.
 
 [Source](https://www.nature.com/articles/s41467-024-51464-w)
 
+10.1038/s41467-024-51464-w
+
 ---
 
-## Association of maternal gut microbial metabolites with gestational diabetes mellitus: evidence from an original case-control study, meta-analysis, and Mendelian randomization
+## Association of maternal gut microbial metabolites with gestational diabetes mellitus: evidence from an original case-control study, meta-analysis, and Mendelian randomization.
+ 02.09.2024, _M Yao, Y Xiao, Y Sun, B Zhang, Y Ding, Q Ma, F Liang, Z Yang, W Ge, S Liu, L Xin, J Yin, X Zhu_
+
+
+The associations of gut microbial metabolites, such as trimethylamine N-oxide (TMAO), its precursors, and phenylacetylglutamine (PAGln), with the risk of gestational diabetes mellitus (GDM) remain unclear.
 
 [Source](https://www.nature.com/articles/s41430-024-01502-z)
+
+10.1038/s41430-024-01502-z
 
 ---
 
@@ -318,9 +338,16 @@ Protists are less studied for their role and diversity in ecosystems. Notably, p
 
 ---
 
-## A catalog of small proteins from the global microbiome
+## A catalog of small proteins from the global microbiome.
+ 02.09.2024, _Y Duan, CD Santos-Júnior, TS Schmidt, A Fullam, BLS de Almeida, C Zhu, M Kuhn, XM Zhao, P Bork, LP Coelho_
+
+
+_Microbiota, Open Reading Frames, Bacteria, Metagenome, Archaea, Molecular Sequence Annotation, Bacterial Proteins_
+Small open reading frames (smORFs) shorter than 100 codons are widespread and perform essential roles in microorganisms, where they encode proteins active in several cell functions, including signal pathways, stress response, and antibacterial activities. However, the ecology, distribution and role of small proteins in the global microbiome remain unknown. Here, we construct a global microbial smORFs catalog (GMSC) derived from 63,410 publicly available metagenomes across 75 distinct habitats and 87,920 high-quality isolate genomes. GMSC contains 965 million non-redundant smORFs with comprehensive annotations. We find that archaea harbor more smORFs proportionally than bacteria. We moreover provide a tool called GMSC-mapper to identify and annotate small proteins from microbial (meta)genomes. Overall, this publicly-available resource demonstrates the immense and underexplored diversity of small proteins.
 
 [Source](https://www.nature.com/articles/s41467-024-51894-6#Sec10)
+
+10.1038/s41467-024-51894-6
 
 ---
 
