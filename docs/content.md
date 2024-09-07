@@ -111,21 +111,40 @@ Physical particles can serve as critical abiotic factors that structure the ecol
 
 ---
 
-## Effects of dietary restriction and one-carbon metabolite supplementation during the first 63 days of gestation on the maternal gut, vaginal, and blood microbiota in cattle 
+## Effects of dietary restriction and one-carbon metabolite supplementation during the first 63 days of gestation on the maternal gut, vaginal, and blood microbiota in cattle.
+ 02.09.2024, _SM Luecke, G Aryee, DB Holman, KN Schmidt, LE King, MS Crouse, AK Ward, CR Dahlen, JS Caton, S Amat_
+
+
+Maternal diet quality and quantity have significant impacts on both maternal and fetal health and development. The composition and function of the maternal gut microbiome is also significantly influenced by diet; however, little is known about the impact of gestational nutrient restriction on the bovine maternal microbiome during early gestation, which is a critical stage for maternal microbiome-mediated fetal programming to take place. The objective of the present study was to evaluate the impacts of diet restriction and one-carbon metabolite (OCM) supplementation during early gestation on maternal ruminal, vaginal, and blood microbiota in cattle. Thirty-three beef heifers (approx. 14 months old) were used in a 2 × 2 factorial experiment with main factors of target gain (control [CON]; targeted 0.45 kg/d gain vs restricted [RES]; targeted - 0.23 kg/d gain), and OCM supplementation (+ OCM vs - OCM; n = 8/treatment; except n = 9 for RES-OCM). Heifers were individually fed, starting treatment at breeding (d 0) and concluding at d 63 of gestation. Ruminal fluid and vaginal swabs were collected on d - 2, d 35, and d 63 (at necropsy) and whole blood was collected on d 63 (necropsy). Bacterial microbiota was assessed using 16S rRNA gene (V3-V4) sequencing.
 
 [Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00335-2)
 
+10.1186/s42523-024-00335-2
+
 ---
 
-## Aloe arborescens supplementation in drying-off dairy cows: influence on rumen, rectum and milk microbiomes
+## Aloe arborescens supplementation in drying-off dairy cows: influence on rumen, rectum and milk microbiomes.
+ 03.09.2024, _P Cremonesi, F Biscarini, G Conte, F Piccioli-Cappelli, S Morandi, T Silvetti, S Tringali, E Trevisi, B Castiglioni, M Brasca_
+
+
+In the context of the RABOLA project, which aimed to identify operational practices that lead to the reduction of antibiotic use in dairy cattle farming, lyophilised Aloe arborescens was administered orally to cows during the dry-off and peripartum periods. In this specific paper we wanted to examine whether oral administration of Aloe arborescens, in combination with the topical application of a teat sealant could exert an effect on the microbial populations of three cow microbiomes (rumen, milk, rectum), between dry-off and peripartum. Dry-off and peripartum are critical physiological phases of the cow's life, where both the mammary gland and the gastrointestinal tract undergo dramatic modifications, hence the relevance of evaluating the effects of dietary treatments.
 
 [Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00336-1)
 
+10.1186/s42523-024-00336-1
+
 ---
 
-## Comparative genomics identifies key adaptive traits of sponge-associated microbial symbionts 
+## Comparative genomics identifies key adaptive traits of sponge-associated microbial symbionts.
+ 04.09.2024, _PA O'Brien, SJ Robbins, S Tan, L Rix, DJ Miller, NS Webster, G Zhang, DG Bourne_
+
+
+_Symbiosis, Porifera, Animals, Genomics, Bacteria, Microbiota, Phylogeny, Genome, Bacterial_
+Sponge microbiomes are often highly diverse making it difficult to determine which lineages are important for maintaining host health and homeostasis. Characterising genomic traits associated with symbiosis can improve our knowledge of which lineages have adapted to their host and what functions they might provide. Here we examined five microbial families associated with sponges that have previously shown evidence of cophylogeny, including Endozoicomonadaceae, Nitrosopumilaceae, Spirochaetaceae, Microtrichaceae and Thermoanaerobaculaceae, to better understand the mechanisms behind their symbiosis. We compared sponge-associated genomes to genomes found in other environments and found that sponge-specific clades were enriched in genes encoding many known mechanisms for symbiont survival, such as avoiding phagocytosis and defence against foreign genetic elements. We expand on previous knowledge to show that glycosyl hydrolases with sulfatases and sulfotransferases likely form multienzyme degradation pathways to break and remodel sulfated polysaccharides and reveal an enrichment in superoxide dismutase that may prevent damage from free oxygen radicals produced by the host. Finally, we identified novel traits in sponge-associated symbionts, such as urea metabolism in Spirochaetaceae which was previously shown to be rare in the phylum Spirochaetota. These results identify putative mechanisms by which symbionts have adapted to living in association with sponges.
 
 [Source](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16690)
+
+10.1111/1462-2920.16690
 
 ---
 
@@ -229,16 +248,9 @@ Protists are less studied for their role and diversity in ecosystems. Notably, p
 
 ---
 
-## A catalog of small proteins from the global microbiome.
- 02.09.2024, _Y Duan, CD Santos-Júnior, TS Schmidt, A Fullam, BLS de Almeida, C Zhu, M Kuhn, XM Zhao, P Bork, LP Coelho_
-
-
-_Microbiota, Open Reading Frames, Bacteria, Metagenome, Archaea, Molecular Sequence Annotation, Bacterial Proteins_
-Small open reading frames (smORFs) shorter than 100 codons are widespread and perform essential roles in microorganisms, where they encode proteins active in several cell functions, including signal pathways, stress response, and antibacterial activities. However, the ecology, distribution and role of small proteins in the global microbiome remain unknown. Here, we construct a global microbial smORFs catalog (GMSC) derived from 63,410 publicly available metagenomes across 75 distinct habitats and 87,920 high-quality isolate genomes. GMSC contains 965 million non-redundant smORFs with comprehensive annotations. We find that archaea harbor more smORFs proportionally than bacteria. We moreover provide a tool called GMSC-mapper to identify and annotate small proteins from microbial (meta)genomes. Overall, this publicly-available resource demonstrates the immense and underexplored diversity of small proteins.
+## A catalog of small proteins from the global microbiome
 
 [Source](https://www.nature.com/articles/s41467-024-51894-6#Sec10)
-
-10.1038/s41467-024-51894-6
 
 ---
 
