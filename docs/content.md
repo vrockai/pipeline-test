@@ -93,42 +93,21 @@ Physical particles can serve as critical abiotic factors that structure the ecol
 
 ---
 
-## Exploring the interactions between Nosema ceranae infection and the honey bee gut microbiome.
- 03.09.2024, _E Lau, J Maccaro, QS McFrederick, JC Nieh_
-
-
-_Bees, Animals, Nosema, Gastrointestinal Microbiome, Microsporidiosis, Spores, Fungal, Host-Pathogen Interactions_
-Managed colonies of the European honey bee, Apis mellifera, have faced considerable losses in recent years. A widespread contributing factor is a microsporidian pathogen, Nosema ceranae, which occurs worldwide, is increasingly resistant to antibiotic treatment, and can alter the host's immune response and nutritional uptake. These obligate gut pathogens share their environment with a natural honey bee microbiome whose composition can affect pathogen resistance. We tested the effect of N. ceranae infection on this microbiome by feeding 5 day-old adult bees that had natural, fully developed microbiomes with live N. ceranae spores (40,000 per bee) or a sham inoculation, sterile 2.0 M sucrose solution. We caged and reared these bees in a controlled lab environment and tracked their mortality over 12 d, after which we dissected them, measured their infection levels (gut spore counts), and analyzed their microbiomes. Bees fed live spores had two-fold higher mortality by 12 d and 36.5-fold more spores per bee than controls. There were also strong colony effects on infection levels, and 9% of spore-inoculated bees had no spore counts at all (defined as fed-spores-but-not-infected). Nosema ceranae infection had significant but subtle effects on the gut microbiomes of experimentally infected bees, bees with different infection levels, and fed-spores-but-not-infected vs. bees with gut spores. Specific bacteria, including Gilliamella ASVs, were positively associated with infection, indicating that multiple strains of core gut microbes either facilitate or resist N. ceranae infection. Future studies on the interactions between bacterial, pathogen, and host genotypes would be illuminating.
+## Exploring the interactions between Nosema ceranae infection and the honey bee gut microbiome
 
 [Source](https://www.nature.com/articles/s41598-024-67796-y)
 
-10.1038/s41598-024-67796-y
-
 ---
 
-## Metagenomic characterisation of canine skin reveals a core healthy skin microbiome.
- 03.09.2024, _MJ Whittle, J Castillo-Fernandez, GCA Amos, P Watson_
-
-
-_Dogs, Animals, Skin, Microbiota, Metagenomics, Metagenome, RNA, Ribosomal, 16S, Bacteria, High-Throughput Nucleotide Sequencing_
-Furthering our knowledge of the skin microbiome is essential to understand health and disease in canines. To date, studies into the canine skin microbiome have focused on 16S rRNA high throughput sequencing however, these lack the granularity of species and strain level taxonomic characterisation and their associated functions. The aim of this study was to provide a comprehensive assessment of the skin microbiome by analysing the skin microbiome of 72 healthy adult colony dogs, across four distinct skin sites and four breeds, using metagenomic sequencing. Our analysis revealed that breed and skin site are drivers of variation, and a core group of taxa and genes are present within the skin microbiome of healthy dogs, comprising 230 taxa and 1219 gene families. We identified 15 species within the core microbiome that are represented by more than one strain. The biosynthesis of secondary metabolites pathway was enriched in the core microbiome suggesting the skin microbiome may play a role in colonisation resistance and protection from invading pathogens. Additionally, we uncovered the novelty of the canine skin microbiome and show that further investigation is required to increase the suitability of current databases for metagenomic sequencing of canine skin samples.
+## Metagenomic characterisation of canine skin reveals a core healthy skin microbiome 
 
 [Source](https://www.nature.com/articles/s41598-024-63999-5)
 
-10.1038/s41598-024-63999-5
-
 ---
 
-## CHIKV infection drives shifts in the gastrointestinal microbiome and metabolites in rhesus monkeys.
- 06.09.2024, _H Chen, J Shi, C Tang, J Xu, B Li, J Wang, Y Zhou, Y Yang, H Yang, Q Huang, W Yu, H Wang, D Wu, Y Hu, H Zhou, Q Sun, S Lu_
-
-
-_Animals, Gastrointestinal Microbiome, Macaca mulatta, Feces, Chikungunya Fever, Chikungunya virus, Bacteria, Dysbiosis, Inflammation, Inflammasomes, Disease Models, Animal, Interleukin-17, Gastrointestinal Tract, Cytokines_
-Many studies have demonstrated the association between intestinal microbiota and joint diseases. The "gut-joint axis" also has potential roles in chikungunya virus (CHIKV) infection. Pro-inflammatory arthritis after CHIKV infection might disrupt host homeostasis and lead to dysbacteriosis. This study investigated the characteristics of fecal and gut microbiota, intestinal metabolites, and the changes in gene regulation of intestinal tissues after CHIKV infection using multi-omics analysis to explore the involvement of gut microbiota in the pathogenesis of CHIKV infection.
+## CHIKV infection drives shifts in the gastrointestinal microbiome and metabolites in rhesus monkeys 
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01895-w)
-
-10.1186/s40168-024-01895-w
 
 ---
 
