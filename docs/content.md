@@ -1,5 +1,5 @@
 ## Gut metagenomes of Asian octogenarians reveal metabolic potential expansion and distinct microbial species associated with aging phenotypes.
- 05.09.2024, _A Ravikrishnan, I Wijaya, E Png, KR Chng, EXP Ho, AHQ Ng, AN Mohamed Naim, JS Gounot, SP Guan, JL Hanqing, L Guan, C Li, JY Koh, PF de Sessions, WP Koh, L Feng, TP Ng, A Larbi, AB Maier, BK Kennedy, N Nagarajan_
+ 08.09.2024, _A Ravikrishnan, I Wijaya, E Png, KR Chng, EXP Ho, AHQ Ng, AN Mohamed Naim, JS Gounot, SP Guan, JL Hanqing, L Guan, C Li, JY Koh, PF de Sessions, WP Koh, L Feng, TP Ng, A Larbi, AB Maier, BK Kennedy, N Nagarajan_
 
 
 _Humans, Gastrointestinal Microbiome, Singapore, Male, Aged, 80 and over, Female, Aging, Metagenome, Asian People, Phenotype, Metagenomics, Bacteria, Bacteroides, Cohort Studies, Feces_
@@ -31,7 +31,7 @@ Our facial skin hosts millions of microorganisms, primarily bacteria, crucial fo
 ---
 
 ## The role of KLF5 in gut microbiota and lung adenocarcinoma: unveiling programmed cell death pathways and prognostic biomarkers.
- 05.09.2024, _Q Fang, M Xu, W Yao, R Wu, R Han, S Kawakita, A Shen, S Guan, J Zhang, X Sun, M Zhou, N Li, Q Sun, CS Dong_
+ 08.09.2024, _Q Fang, M Xu, W Yao, R Wu, R Han, S Kawakita, A Shen, S Guan, J Zhang, X Sun, M Zhou, N Li, Q Sun, CS Dong_
 
 
 Lung adenocarcinoma (LUAD) is the most important subtype of lung cancer. It is well known that the gut microbiome plays an important role in the pathophysiology of various diseases, including cancer, but little research has been done on the intestinal microbiome associated with LUAD. Utilizing bioinformatics tools and data analysis, we identified novel potential prognostic biomarkers for LUAD. To integrate differentially expressed genes and clinical significance modules, we used a weighted correlation network analysis system. According to the Peryton database and the gutMGene database, the composition and structure of gut microbiota in LUAD patients differed from those in healthy individuals. LUAD was associated with 150 gut microbiota and 767 gut microbiota targets, with Krüppel-like factor 5 (KLF5) being the most closely related. KLF5 was associated with immune status and correlated well with the prognosis of LUAD patients. The identification of KLF5 as a potential prognostic biomarker suggests its utility in improving risk stratification and guiding personalized treatment strategies for LUAD patients. Altogether, KLF5 could be a potential prognostic biomarker in LUAD.
@@ -49,7 +49,7 @@ Lung adenocarcinoma (LUAD) is the most important subtype of lung cancer. It is w
 ---
 
 ## Reversions mask the contribution of adaptive evolution in microbiomes.
- 06.09.2024, _PA Torrillo, TD Lieberman_
+ 08.09.2024, _PA Torrillo, TD Lieberman_
 
 
 _Mutation, Evolution, Molecular, Selection, Genetic, Genome, Bacterial, Microbiota, Gastrointestinal Microbiome, Bacteroides, Adaptation, Physiological, Models, Genetic, Bacteria_
@@ -223,7 +223,7 @@ Although antibiotics induce sizable perturbations in the human microbiome, we la
 ---
 
 ## Two-stage mural image restoration using an edge-constrained attention mechanism.
- 06.09.2024, _J Cao, X Wang, F Wang, Z Cao, J Liu, Z Yang_
+ 08.09.2024, _J Cao, X Wang, F Wang, Z Cao, J Liu, Z Yang_
 
 
 _Image Processing, Computer-Assisted, Algorithms_
