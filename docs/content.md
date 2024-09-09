@@ -49,7 +49,7 @@ Lung adenocarcinoma (LUAD) is the most important subtype of lung cancer. It is w
 ---
 
 ## Reversions mask the contribution of adaptive evolution in microbiomes.
- 08.09.2024, _PA Torrillo, TD Lieberman_
+ 09.09.2024, _PA Torrillo, TD Lieberman_
 
 
 _Mutation, Evolution, Molecular, Selection, Genetic, Genome, Bacterial, Microbiota, Gastrointestinal Microbiome, Bacteroides, Adaptation, Physiological, Models, Genetic, Bacteria_
@@ -222,16 +222,16 @@ Although antibiotics induce sizable perturbations in the human microbiome, we la
 
 ---
 
-## Two-stage mural image restoration using an edge-constrained attention mechanism.
- 08.09.2024, _J Cao, X Wang, F Wang, Z Cao, J Liu, Z Yang_
+## Conceptual Parallels: Microbiome Research and Ancient Medicine.
+ 09.09.2024, _L Sumrall, MA O'Malley_
 
 
-_Image Processing, Computer-Assisted, Algorithms_
-The current mainstream image restoration methods have difficulty fully learning the structure and color information of murals in mural image restoration tasks due to the limited size of the available datasets, resulting in problems such as structural loss and texture errors. This study proposes a two-stage mural restoration network based on an edge-constrained attention mechanism. This paper introduces additional sketches as inputs during the coarse restoration phase and incorporates a local edge loss function to enable the network to generate corresponding structural information based on the sketches. In the fine restoration phase, the calculation for the similarity between missing areas and known areas is optimized to enhance the consistency of the restoration results with the texture of the known areas. Furthermore, a structure-guided attention propagation block is introduced after adopting the attention mechanism. This block selectively integrates surrounding contextual information to update the attention score map, thereby enhancing the coherence and plausibility of the generated textures. The experimental results show that the proposed method outperforms the current mainstream restoration methods according to various assessment indices. The proposed method generates high-quality structural information according to user guidance information, and the repaired texture is highly visually consistent with that of the original mural, with few noticeable deviations. This study provides a new approach for mural restoration, which may positively impact cultural heritage protection and artistic restoration applications.
+_Humans, Microbiota, Biomedical Research_
+The concepts currently operating in much medical microbiome research bear a curious resemblance to an ancient tradition of Western medicine. This tradition, humoral medicine, is concerned with the four humors: yellow and black bile, phlegm, blood. Both humoral medicine and medical microbiome research use notions of imbalance and balance for broad explanations of disease and health. Both traditions also hold that the composition of humors or microbiomes determines bodily as well as mental states. Causality in each system is often conceived teleologically, meaning that humors or microbiomes "function for" the maintenance of the whole. And ultimately, each framework situates the humors or microbiomes in a multilevel interactionist theory that conceptualizes individual health within a broader environmental context. As well as critically assessing the parallels between these systems, this article sketches some explanations of how they may have arisen. The authors also evaluate the implications of these similarities for the future of medical microbiome research and suggest ways in which the field might move forward.
 
 [Source](https://doi.org/10.1093/bioinformatics/btae397)
 
-10.1371/journal.pone.0307811
+10.1353/pbm.2024.a936218
 
 ---
 
@@ -268,6 +268,18 @@ Viruses of bacteria, "phages," are fundamental, poorly understood components of 
 ## Sampling Root-Associated Microbiome Communities of Maize (<em>Zea mays</em>)
 
 [Source](https://doi.org/10.1101/pdb.prot108580)
+
+---
+
+## Sampling Maize (Zea mays) Seed Endophytes.
+ 05.09.2024, _JG Wallace, D Laspisa_
+
+
+For most farmers, the production of maize grain is the ultimate goal of the entire field season. From the point of view of plant microbiome studies, seeds are particularly interesting in that they are the only avenue for vertical transmission of microbes from parent to offspring, though microbes can also enter maize seeds via wounds or silks. Although the presence of seed endophytes is well documented, their role, if any, in seed health and their effects on the next generation of plants are largely unknown. This protocol describes the isolation of seed endophytes. Its primary focus is properly sterilizing the seed surface, followed by grinding to release the endophytes. The end product is a cell suspension suitable for either culturing or DNA analysis.
+
+[Source](https://doi.org/10.1101/pdb.top108463)
+
+10.1101/pdb.prot108582
 
 ---
 
