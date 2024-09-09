@@ -172,27 +172,66 @@ This comprehensive two-year investigation in the coastal South China Sea has adv
 
 ---
 
-## Annotation-free prediction of microbial dioxygen utilization
+## Annotation-free prediction of microbial dioxygen utilization.
+ 04.09.2024, _AI Flamholz, JE Goldford, PA Richter, EM Larsson, A Jinich, WW Fischer, DK Newman_
+
+
+Aerobes require dioxygen (O2) to grow; anaerobes do not. However, nearly all microbes-aerobes, anaerobes, and facultative organisms alike-express enzymes whose substrates include O2, if only for detoxification. This presents a challenge when trying to assess which organisms are aerobic from genomic data alone. This challenge can be overcome by noting that O2 utilization has wide-ranging effects on microbes: aerobes typically have larger genomes encoding distinctive O2-utilizing enzymes, for example. These effects permit high-quality prediction of O2 utilization from annotated genome sequences, with several models displaying ≈80% accuracy on a ternary classification task for which blind guessing is only 33% accurate. Since genome annotation is compute-intensive and relies on many assumptions, we asked if annotation-free methods also perform well. We discovered that simple and efficient models based entirely on genomic sequence content-e.g., triplets of amino acids-perform as well as intensive annotation-based classifiers, enabling rapid processing of genomes. We further show that amino acid trimers are useful because they encode information about protein composition and phylogeny. To showcase the utility of rapid prediction, we estimated the prevalence of aerobes and anaerobes in diverse natural environments cataloged in the Earth Microbiome Project. Focusing on a well-studied O2 gradient in the Black Sea, we found quantitative correspondence between local chemistry (O2:sulfide concentration ratio) and the composition of microbial communities. We, therefore, suggest that statistical methods like ours might be used to estimate, or "sense," pivotal features of the chemical environment using DNA sequencing data.IMPORTANCEWe now have access to sequence data from a wide variety of natural environments. These data document a bewildering diversity of microbes, many known only from their genomes. Physiology-an organism's capacity to engage metabolically with its environment-may provide a more useful lens than taxonomy for understanding microbial communities. As an example of this broader principle, we developed algorithms that accurately predict microbial dioxygen utilization directly from genome sequences without annotating genes, e.g., by considering only the amino acids in protein sequences. Annotation-free algorithms enable rapid characterization of natural samples, highlighting quantitative correspondence between sequences and local O2 levels in a data set from the Black Sea. This example suggests that DNA sequencing might be repurposed as a multi-pronged chemical sensor, estimating concentrations of O2 and other key facets of complex natural settings.
 
 [Source](https://doi.org/10.1128/msystems.00763-24)
 
+10.1128/msystems.00763-24
+
 ---
 
-## MRGM: an enhanced catalog of mouse gut microbial genomes substantially broadening taxonomic and functional landscapes
+## MRGM: an enhanced catalog of mouse gut microbial genomes substantially broadening taxonomic and functional landscapes.
+ 07.09.2024, _N Kim, CY Kim, J Ma, S Yang, DJ Park, SJ Ha, P Belenky, I Lee_
+
+
+_Animals, Gastrointestinal Microbiome, Mice, Bacteria, Genome, Bacterial, Humans, Phylogeny, Diet_
+Mouse gut microbiome research is pivotal for understanding the human gut microbiome, providing insights into disease modeling, host-microbe interactions, and the dietary influence on the gut microbiome. To enhance the translational value of mouse gut microbiome studies, we need detailed and high-quality catalogs of mouse gut microbial genomes. We introduce the Mouse Reference Gut Microbiome (MRGM), a comprehensive catalog with 42,245 non-redundant mouse gut bacterial genomes across 1,524 species. MRGM marks a 40% increase in the known taxonomic diversity of mouse gut microbes, capturing previously underrepresented lineages through refined genome quality assessment techniques. MRGM not only broadens the taxonomic landscape but also enriches the functional landscape of the mouse gut microbiome. Using deep learning, we have elevated the Gene Ontology annotation rate for mouse gut microbial proteins from 3.2% with orthology to 60%, marking an over 18-fold increase. MRGM supports both DNA- and marker-based taxonomic profiling by providing custom databases, surpassing previous catalogs in performance. Finally, taxonomic and functional comparisons between human and mouse gut microbiota reveal diet-driven divergences in their taxonomic composition and functional enrichment. Overall, our study highlights the value of high-quality microbial genome catalogs in advancing our understanding of the co-evolution between gut microbes and their host.
 
 [Source](https://doi.org/10.1080/19490976.2024.2393791)
 
+10.1080/19490976.2024.2393791
+
 ---
 
-## A unified web cloud computing platform MiMedSurv for microbiome causal mediation analysis with survival responses
+## A unified web cloud computing platform MiMedSurv for microbiome causal mediation analysis with survival responses.
+ 07.09.2024, _H Jang, H Koh_
+
+
+_Humans, Microbiota, Cloud Computing, Internet, Software, Survival Analysis_
+In human microbiome studies, mediation analysis has recently been spotlighted as a practical and powerful analytic tool to survey the causal roles of the microbiome as a mediator to explain the observed relationships between a medical treatment/environmental exposure and a human disease. We also note that, in a clinical research, investigators often trace disease progression sequentially in time; as such, time-to-event (e.g., time-to-disease, time-to-cure) responses, known as survival responses, are prevalent as a surrogate variable for human health or disease. In this paper, we introduce a web cloud computing platform, named as microbiome mediation analysis with survival responses (MiMedSurv), for comprehensive microbiome mediation analysis with survival responses on user-friendly web environments. MiMedSurv is an extension of our prior web cloud computing platform, named as microbiome mediation analysis (MiMed), for survival responses. The two main features that are well-distinguished are as follows. First, MiMedSurv conducts some baseline exploratory non-mediational survival analysis, not involving microbiome, to survey the disparity in survival response between medical treatments/environmental exposures. Then, MiMedSurv identifies the mediating roles of the microbiome in various aspects: (i) as a microbial ecosystem using ecological indices (e.g., alpha and beta diversity indices) and (ii) as individual microbial taxa in various hierarchies (e.g., phyla, classes, orders, families, genera, species). To illustrate its use, we survey the mediating roles of the gut microbiome between antibiotic treatment and time-to-type 1 diabetes. MiMedSurv is freely available on our web server ( http://mimedsurv.micloud.kr ).
 
 [Source](https://doi.org/10.1038/s41598-024-71852-y)
 
+10.1038/s41598-024-71852-y
+
 ---
 
-## A quantitative approach to measure and predict microbiome response to antibiotics
+## A quantitative approach to measure and predict microbiome response to antibiotics.
+ 04.09.2024, _V Tu, Y Ren, C Tanes, S Mukhopadhyay, SG Daniel, H Li, K Bittinger_
+
+
+Although antibiotics induce sizable perturbations in the human microbiome, we lack a systematic and quantitative method to measure and predict the microbiome's response to specific antibiotics. Here, we introduce such a method, which takes the form of a microbiome response index (MiRIx) for each antibiotic. Antibiotic-specific MiRIx values quantify the overall susceptibility of the microbiota to an antibiotic, based on databases of bacterial phenotypes and published data on intrinsic antibiotic susceptibility. We applied our approach to five published microbiome studies that carried out antibiotic interventions with vancomycin, metronidazole, ciprofloxacin, amoxicillin, and doxycycline. We show how MiRIx can be used in conjunction with existing microbiome analytical approaches to gain a deeper understanding of the microbiome response to antibiotics. Finally, we generate antibiotic response predictions for the oral, skin, and gut microbiome in healthy humans. Our approach is implemented as open-source software and is readily applied to microbiome data sets generated by 16S rRNA marker gene sequencing or shotgun metagenomics.
 
 [Source](https://doi.org/10.1128/msphere.00488-24)
+
+10.1128/msphere.00488-24
+
+---
+
+## Two-stage mural image restoration using an edge-constrained attention mechanism.
+ 06.09.2024, _J Cao, X Wang, F Wang, Z Cao, J Liu, Z Yang_
+
+
+_Image Processing, Computer-Assisted, Algorithms_
+The current mainstream image restoration methods have difficulty fully learning the structure and color information of murals in mural image restoration tasks due to the limited size of the available datasets, resulting in problems such as structural loss and texture errors. This study proposes a two-stage mural restoration network based on an edge-constrained attention mechanism. This paper introduces additional sketches as inputs during the coarse restoration phase and incorporates a local edge loss function to enable the network to generate corresponding structural information based on the sketches. In the fine restoration phase, the calculation for the similarity between missing areas and known areas is optimized to enhance the consistency of the restoration results with the texture of the known areas. Furthermore, a structure-guided attention propagation block is introduced after adopting the attention mechanism. This block selectively integrates surrounding contextual information to update the attention score map, thereby enhancing the coherence and plausibility of the generated textures. The experimental results show that the proposed method outperforms the current mainstream restoration methods according to various assessment indices. The proposed method generates high-quality structural information according to user guidance information, and the repaired texture is highly visually consistent with that of the original mural, with few noticeable deviations. This study provides a new approach for mural restoration, which may positively impact cultural heritage protection and artistic restoration applications.
+
+[Source](https://doi.org/10.1093/bioinformatics/btae397)
+
+10.1371/journal.pone.0307811
 
 ---
 
@@ -208,9 +247,15 @@ This comprehensive two-year investigation in the coastal South China Sea has adv
 
 ---
 
-## Improving viral annotation with artificial intelligence
+## Improving viral annotation with artificial intelligence.
+ 04.09.2024, _ZN Flamholz, C Li, L Kelly_
+
+
+Viruses of bacteria, "phages," are fundamental, poorly understood components of microbial community structure and function. Additionally, their dependence on hosts for replication positions phages as unique sensors of ecosystem features and environmental pressures. High-throughput sequencing approaches have begun to give us access to the diversity and range of phage populations in complex microbial community samples, and metagenomics is currently the primary tool with which we study phage populations. The study of phages by metagenomic sequencing, however, is fundamentally limited by viral diversity, which results in the vast majority of viral genomes and metagenome-annotated genomes lacking annotation. To harness bacteriophages for applications in human and environmental health and disease, we need new methods to organize and annotate viral sequence diversity. We recently demonstrated that methods that leverage self-supervised representation learning can supplement statistical sequence representations for remote viral protein homology detection in the ocean virome and propose that consideration of the functional content of viral sequences allows for the identification of similarity in otherwise sequence-diverse viruses and viral-like elements for biological discovery. In this review, we describe the potential and pitfalls of large language models for viral annotation. We describe the need for new approaches to annotate viral sequences in metagenomes, the fundamentals of what protein language models are and how one can use them for sequence annotation, the strengths and weaknesses of these models, and future directions toward developing better models for viral annotation more broadly.
 
 [Source](https://doi.org/10.1128/mbio.03206-23)
+
+10.1128/mbio.03206-23
 
 ---
 
