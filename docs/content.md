@@ -2,6 +2,7 @@
  11.09.2024, _Z Shi, Z Li, M Zhang_
 
 
+_Humans, Neoplasms, Microbiota, Carcinogenesis, Animals_
 The intricate interplay between the host and its microbiota has garnered increasing attention in the past decade. Specifically, the emerging recognition of microorganisms within diverse cancer tissues, previously presumed sterile, has ignited a resurgence of enthusiasm and research endeavors. Four potential migratory routes have been identified as the sources of intratumoral microbial "dark matter," including direct invasion of mucosal barriers, spreading from normal adjacent tissue, hematogenous spread, and lymphatic drainage, which contribute to the highly heterogeneous features of intratumor microbiota. Importantly, multitudes of studies delineated the roles of intratumor microbiota in cancer initiation and progression, elucidating underlying mechanisms such as genetic alterations, epigenetic modifications, immune dysfunctions, activating oncogenic pathways, and inducing metastasis. With the deepening understanding of intratumoral microbial composition, novel microbiota-based strategies for early cancer diagnosis and prognostic stratification continue to emerge. Furthermore, intratumor microbiota exerts significant influence on the efficacy of cancer therapeutics, particularly immunotherapy, making it an enticing target for intervention in cancer treatment. In this review, we present a comprehensive discussion of the current understanding pertaining to the developmental history, heterogeneous profiles, underlying originations, and carcinogenic mechanisms of intratumor microbiota, and uncover its potential predictive and intervention values, as well as several inevitable challenges as a target for personalized cancer management strategies.
 
 [Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-05640-7)
@@ -77,9 +78,16 @@ Rheumatoid arthritis (RA) is a chronic autoimmune condition characterized by inf
 
 ---
 
-## Vitamin B12 ameliorates gut epithelial injury via modulating the HIF-1 pathway and gut microbiota
+## Vitamin B12 ameliorates gut epithelial injury via modulating the HIF-1 pathway and gut microbiota.
+ 11.09.2024, _C Feng, J Yan, T Luo, H Zhang, H Zhang, Y Yuan, Y Chen, H Chen_
+
+
+_Animals, Gastrointestinal Microbiome, Vitamin B 12, Mice, Intestinal Mucosa, Signal Transduction, Dextran Sulfate, Hypoxia-Inducible Factor 1, Disease Models, Animal, Colitis, Dysbiosis, Mice, Inbred C57BL, Inflammatory Bowel Diseases, Drosophila_
+Inflammatory bowel diseases (IBDs) are immune chronic diseases characterized by recurrent episodes, resulting in continuous intestinal barrier damage and intestinal microbiota dysbiosis. Safe strategies aimed at stabilizing and reducing IBDs recurrence have been vigorously pursued. Here, we constructed a recurrent intestinal injury Drosophila model and found that vitamin B12 (VB12), an essential co-factor for organism physiological functions, could effectively protect the intestine and reduce dextran sulfate sodium-induced intestinal barrier disruption. VB12 also alleviated microbial dysbiosis in the Drosophila model and inhibited the growth of gram-negative bacteria. We demonstrated that VB12 could mitigate intestinal damage by activating the hypoxia-inducible factor-1 signaling pathway in injured conditions, which was achieved by regulating the intestinal oxidation. In addition, we also validated the protective effect of VB12 in a murine acute colitis model. In summary, we offer new insights and implications for the potential supportive role of VB12 in the management of recurrent IBDs flare-ups.
 
 [Source](https://link.springer.com/article/10.1007/s00018-024-05435-5)
+
+10.1007/s00018-024-05435-5
 
 ---
 
@@ -119,9 +127,16 @@ Rheumatoid arthritis (RA) is a chronic autoimmune condition characterized by inf
 
 ---
 
-## Highly accurate and sensitive absolute quantification of bacterial strains in human fecal samples
+## Highly accurate and sensitive absolute quantification of bacterial strains in human fecal samples.
+ 10.09.2024, _F Li, J Liu, MX Maldonado-Gómez, SA Frese, MG Gänzle, J Walter_
+
+
+_Humans, Feces, Gastrointestinal Microbiome, Limosilactobacillus reuteri, Reproducibility of Results, DNA, Bacterial, Real-Time Polymerase Chain Reaction, High-Throughput Nucleotide Sequencing, Limit of Detection, Sensitivity and Specificity, Bacteria_
+Next-generation sequencing (NGS) approaches have revolutionized gut microbiome research and can provide strain-level resolution, but these techniques have limitations in that they are only semi-quantitative, suffer from high detection limits, and generate data that is compositional. The present study aimed to systematically compare quantitative PCR (qPCR) and droplet digital PCR (ddPCR) for the absolute quantification of Limosilactobacillus reuteri strains in human fecal samples and to develop an optimized protocol for the absolute quantification of bacterial strains in fecal samples.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01881-2)
+
+10.1186/s40168-024-01881-2
 
 ---
 
