@@ -25,14 +25,14 @@ Fungal effector proteins function at the interfaces of diverse interactions betw
 ---
 
 ## Human milk variation is shaped by maternal genetics and impacts the infant gut microbiome.
- 23.04.2024, _KE Johnson, T Heisel, M Allert, A Fürst, N Yerabandi, D Knights, KM Jacobs, EF Lock, L Bode, DA Fields, MC Rudolph, CA Gale, FW Albert, EW Demerath, R Blekhman_
+ 12.09.2024, _KE Johnson, T Heisel, M Allert, A Fürst, N Yerabandi, D Knights, KM Jacobs, EF Lock, L Bode, DA Fields, MC Rudolph, CA Gale, FW Albert, EW Demerath, R Blekhman_
 
 
-Human milk is a complex mix of nutritional and bioactive components that provide complete nutrition for the infant. However, we lack a systematic knowledge of the factors shaping milk composition and how milk variation influences infant health. Here, we used multi-omic profiling to characterize interactions between maternal genetics, milk gene expression, milk composition, and the infant fecal microbiome in 242 exclusively breastfeeding mother-infant pairs. We identified 487 genetic loci associated with milk gene expression unique to the lactating mammary gland, including loci that impacted breast cancer risk and human milk oligosaccharide concentration. Integrative analyses uncovered connections between milk gene expression and infant gut microbiome, including an association between the expression of inflammation-related genes with IL-6 concentration in milk and the abundance of Bifidobacteria in the infant gut. Our results show how an improved understanding of the genetics and genomics of human milk connects lactation biology with maternal and infant health.
+Human milk is a complex mix of nutritional and bioactive components that provide complete nourishment for the infant. However, we lack a systematic knowledge of the factors shaping milk composition and how milk variation influences infant health. Here, we characterize relationships between maternal genetics, milk gene expression, milk composition, and the infant fecal microbiome in up to 310 exclusively breastfeeding mother-infant pairs. We identified 482 genetic loci associated with milk gene expression unique to the lactating mammary gland and link these loci to breast cancer risk and human milk oligosaccharide concentration. Integrative analyses uncovered connections between milk gene expression and infant gut microbiome, including an association between the expression of inflammation-related genes with milk interleukin-6 (IL-6) concentration and the abundance of Bifidobacterium and Escherichia in the infant gut. Our results show how an improved understanding of the genetics and genomics of human milk connects lactation biology with maternal and infant health.
 
 [Source](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00242-8)
 
-10.1101/2023.01.24.525211
+10.1016/j.xgen.2024.100638
 
 ---
 
