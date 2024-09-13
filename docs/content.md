@@ -72,29 +72,15 @@ Rheumatoid arthritis (RA) is a chronic autoimmune condition characterized by inf
 
 ---
 
-## Microbial community profiling in intestinal tract of indigenous chickens from different villages.
- 11.09.2024, _ME Mootane, T Mafuna, TM Ramantswana, DP Malatji_
-
-
-_Animals, Chickens, Gastrointestinal Microbiome, Female, RNA, Ribosomal, 16S, Male, Bacteria, South Africa, High-Throughput Nucleotide Sequencing_
-Village chickens (Gallus gallus domesticus) are commonly reared in rural households of South Africa and other developing countries. They play a vital role as a primary source of protein through the provision of meat and eggs. The chicken gut microbiota plays an important role in chicken's immune system, its health, physiological development of the gut, digestion of food, nutrient absorption and productivity. Thus, it is imperative to critically investigate the chicken microbial composition in order to develop effective disease control measures and increase production. In this present study, microbial DNA was isolated from 34 non-descript mixed gender matured village chickens' intestinal contents followed by high throughput Illumina sequencing targeting 16S rRNA gene. Senwamokgope village had the largest microbiota composition as compared to Itieleni and Thakgalang villages. Overall, Firmicutes (74%) was the most abundant phylum observed, followed by Proteobacteria (8%), Actinobateria (5%), and Bacteroidota (3%). At the genus level, Lactobacillus was the dominant bacteria. Other genera found included Sphingomonas (7%), Cutibacterium (4%), and Clostridium_sensu_stricto_1 (2%). The richness of female intestinal microbiota was higher compared to the male microbiota. The findings of this study provide baseline information that can assist to better understand the chicken gut microbiota and its interaction with diseases and parasites.
+## Microbial community profiling in intestinal tract of indigenous chickens from different villages
 
 [Source](https://www.nature.com/articles/s41598-024-72389-w)
 
-10.1038/s41598-024-72389-w
-
 ---
 
-## Vitamin B12 ameliorates gut epithelial injury via modulating the HIF-1 pathway and gut microbiota.
- 11.09.2024, _C Feng, J Yan, T Luo, H Zhang, H Zhang, Y Yuan, Y Chen, H Chen_
-
-
-_Animals, Gastrointestinal Microbiome, Vitamin B 12, Mice, Intestinal Mucosa, Signal Transduction, Dextran Sulfate, Hypoxia-Inducible Factor 1, Disease Models, Animal, Colitis, Dysbiosis, Mice, Inbred C57BL, Inflammatory Bowel Diseases, Drosophila_
-Inflammatory bowel diseases (IBDs) are immune chronic diseases characterized by recurrent episodes, resulting in continuous intestinal barrier damage and intestinal microbiota dysbiosis. Safe strategies aimed at stabilizing and reducing IBDs recurrence have been vigorously pursued. Here, we constructed a recurrent intestinal injury Drosophila model and found that vitamin B12 (VB12), an essential co-factor for organism physiological functions, could effectively protect the intestine and reduce dextran sulfate sodium-induced intestinal barrier disruption. VB12 also alleviated microbial dysbiosis in the Drosophila model and inhibited the growth of gram-negative bacteria. We demonstrated that VB12 could mitigate intestinal damage by activating the hypoxia-inducible factor-1 signaling pathway in injured conditions, which was achieved by regulating the intestinal oxidation. In addition, we also validated the protective effect of VB12 in a murine acute colitis model. In summary, we offer new insights and implications for the potential supportive role of VB12 in the management of recurrent IBDs flare-ups.
+## Vitamin B12 ameliorates gut epithelial injury via modulating the HIF-1 pathway and gut microbiota
 
 [Source](https://link.springer.com/article/10.1007/s00018-024-05435-5)
-
-10.1007/s00018-024-05435-5
 
 ---
 
@@ -110,16 +96,9 @@ Inflammatory bowel diseases (IBDs) are immune chronic diseases characterized by 
 
 ---
 
-## Metabolome-driven microbiome assembly determining the health of ginger crop (Zingiber officinale L. Roscoe) against rhizome rot.
- 10.09.2024, _W Wang, N Portal-Gonzalez, X Wang, J Li, H Li, R Portieles, O Borras-Hidalgo, W He, R Santos-Bermudez_
-
-
-_Zingiber officinale, Rhizome, Microbiota, Plant Diseases, Bacteria, Metabolome, Fungi, Soil Microbiology, Biodiversity_
-Plant-associated microorganisms can be found in various plant niches and collectively comprise the plant microbiome. The plant microbiome assemblages have been extensively studied, primarily in model species. However, a deep understanding of the microbiome assembly associated with plant health is still needed. Ginger rhizome rot has been variously attributed to multiple individual causal agents. Due to its global relevance, we used ginger and rhizome rot as a model to elucidate the metabolome-driven microbiome assembly associated with plant health.
+## Metabolome-driven microbiome assembly determining the health of ginger crop (Zingiber officinale L. Roscoe) against rhizome rot
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01885-y)
-
-10.1186/s40168-024-01885-y
 
 ---
 
@@ -129,42 +108,21 @@ Plant-associated microorganisms can be found in various plant niches and collect
 
 ---
 
-## Global marine microbial diversity and its potential in bioprospecting.
- 11.09.2024, _J Chen, Y Jia, Y Sun, K Liu, C Zhou, C Liu, D Li, G Liu, C Zhang, T Yang, L Huang, Y Zhuang, D Wang, D Xu, Q Zhong, Y Guo, A Li, I Seim, L Jiang, L Wang, SMY Lee, Y Liu, D Wang, G Zhang, S Liu, X Wei, Z Yue, S Zheng, X Shen, S Wang, C Qi, J Chen, C Ye, F Zhao, J Wang, J Fan, B Li, J Sun, X Jia, Z Xia, H Zhang, J Liu, Y Zheng, X Liu, J Wang, H Yang, K Kristiansen, X Xu, T Mock, S Li, W Zhang, G Fan_
-
-
-_CRISPR-Cas Systems, Bioprospecting, Biodiversity, Aquatic Organisms, Bacteria, Archaea, Genome, Bacterial, Metagenome, Genome, Archaeal, Seawater, Phylogeny, Oceans and Seas_
-The past two decades has witnessed a remarkable increase in the number of microbial genomes retrieved from marine systems1,2. However, it has remained challenging to translate this marine genomic diversity into biotechnological and biomedical applications3,4. Here we recovered 43,191 bacterial and archaeal genomes from publicly available marine metagenomes, encompassing a wide range of diversity with 138 distinct phyla, redefining the upper limit of marine bacterial genome size and revealing complex trade-offs between the occurrence of CRISPR-Cas systems and antibiotic resistance genes. In silico bioprospecting of these marine genomes led to the discovery of a novel CRISPR-Cas9 system, ten antimicrobial peptides, and three enzymes that degrade polyethylene terephthalate. In vitro experiments confirmed their effectiveness and efficacy. This work provides evidence that global-scale sequencing initiatives advance our understanding of how microbial diversity has evolved in the oceans and is maintained, and demonstrates how such initiatives can be sustainably exploited to advance biotechnology and biomedicine.
+## Global marine microbial diversity and its potential in bioprospecting
 
 [Source](https://www.nature.com/articles/s41586-024-07891-2)
 
-10.1038/s41586-024-07891-2
-
 ---
 
-## Stable biomarker discovery in multi-omics data via canonical correlation analysis.
- 12.09.2024, _T Pusa, J Rousu_
-
-
-_Humans, Biomarkers, Inflammatory Bowel Diseases, Metabolomics, Metagenomics, Machine Learning, Gastrointestinal Microbiome, Multiomics_
-Multi-omics analysis offers a promising avenue to a better understanding of complex biological phenomena. In particular, untangling the pathophysiology of multifactorial health conditions such as the inflammatory bowel disease (IBD) could benefit from simultaneous consideration of several omics levels. However, taking full advantage of multi-omics data requires the adoption of suitable new tools. Multi-view learning, a machine learning technique that natively joins together heterogeneous data, is a natural source for such methods. Here we present a new approach to variable selection in unsupervised multi-view learning by applying stability selection to canonical correlation analysis (CCA). We apply our method, StabilityCCA, to simulated and real multi-omics data, and demonstrate its ability to find relevant variables and improve the stability of variable selection. In a case study on an IBD microbiome data set, we link together metagenomics and metabolomics, revealing a connection between their joint structure and the disease, and identifying potential biomarkers. Our results showcase the usefulness of multi-view learning in multi-omics analysis and demonstrate StabilityCCA as a powerful tool for biomarker discovery.
+## Stable biomarker discovery in multi-omics data via canonical correlation analysis
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309921)
 
-10.1371/journal.pone.0309921
-
 ---
 
-## Highly accurate and sensitive absolute quantification of bacterial strains in human fecal samples.
- 10.09.2024, _F Li, J Liu, MX Maldonado-Gómez, SA Frese, MG Gänzle, J Walter_
-
-
-_Humans, Feces, Gastrointestinal Microbiome, Limosilactobacillus reuteri, Reproducibility of Results, DNA, Bacterial, Real-Time Polymerase Chain Reaction, High-Throughput Nucleotide Sequencing, Limit of Detection, Sensitivity and Specificity, Bacteria_
-Next-generation sequencing (NGS) approaches have revolutionized gut microbiome research and can provide strain-level resolution, but these techniques have limitations in that they are only semi-quantitative, suffer from high detection limits, and generate data that is compositional. The present study aimed to systematically compare quantitative PCR (qPCR) and droplet digital PCR (ddPCR) for the absolute quantification of Limosilactobacillus reuteri strains in human fecal samples and to develop an optimized protocol for the absolute quantification of bacterial strains in fecal samples.
+## Highly accurate and sensitive absolute quantification of bacterial strains in human fecal samples
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01881-2)
-
-10.1186/s40168-024-01881-2
 
 ---
 
