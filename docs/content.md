@@ -182,15 +182,16 @@ Mycosis fungoides (MF) is the most common entity of Cutaneous T cell lymphomas (
 
 ---
 
-## Design, Synthesis, and Bioevaluation of Novel NLRP3 Inhibitor with IBD Immunotherapy from the Virtual Screen.
- 13.09.2024, _Z Zhang, H Wu, K Yin, X Zheng, Z Cao, W Guo, C Zhao, X Gu_
+## Anti-Inflammatory Effect of Dietary Pentadecanoic Fatty Acid Supplementation on Inflammatory Bowel Disease in SAMP1/YitFc Mice.
+ 14.09.2024, _D Singh, P Mehghini, A Rodriguez-Palacios, L Di Martino, F Cominelli, AR Basson_
 
 
-NLRP3, a crucial member of the NLRP family, plays a pivotal role in immune regulation and inflammatory modulation. Here, we report a potent and specific NLRP3 inhibitor Z48 obtained though docking-based virtual screening and structure-activity relationship studies with an IC50 of 0.26 μM in THP-1 cells and 0.21 μM in mouse bone marrow-derived macrophages. Mechanistic studies indicated that Z48 could bind directly to the NLRP3 protein (KD = 1.05 μM), effectively blocking the assembly and activation of the NLRP3 inflammasome, consequently manifesting anti-inflammatory properties. Crucially, with acceptable mouse pharmacokinetic profiles, Z48 demonstrated notable therapeutic efficacy in a mouse model of DSS-induced ulcerative colitis, while displaying no significant therapeutic impact on NLRP3KO mice. In conclusion, this study provided a promising NLRP3 inflammasome inhibitor with novel molecular scaffold, poised for further development as a therapeutic candidate in the treatment of inflammatory bowel disease.
+_Animals, Mice, Anti-Inflammatory Agents, Disease Models, Animal, Inflammatory Bowel Diseases, Dietary Supplements, Male, Permeability, Colitis, Ileitis_
+Dietary fats have been linked to the increasing incidence of chronic diseases, including inflammatory bowel diseases (IBD), namely, Crohn's disease (CD).
 
 [Source](https://twitter.com/hashtag/IBD?src=hash&ref_src=twsrc%5Etfw)
 
-10.1021/acs.jmedchem.4c01445
+10.3390/nu16173031
 
 ---
 
@@ -206,15 +207,15 @@ NLRP3, a crucial member of the NLRP family, plays a pivotal role in immune regul
 
 ---
 
-## Common Risk Factors for CD4 Cell Count and Hemoglobin Level among Female Adult HIV-Positive Patients: A Retrospective Longitudinal Study.
- 13.09.2024, _NS Muhie_
+## Polish infection control nurses' burnout in the context of cooperation of different hospital professionals during COVID-19 pandemic.
+ 13.09.2024, _D Jaślan, J Rosiński, A Micek, A Szczypta, A Nowacka, J Wójkowska-Mach, A Różańska_
 
 
-HIV is one of the most significant worldwide health concerns of the twenty-first century and a serious threat to human society. Hemoglobin level and CD4 cell count are two of the most important biomarkers of HIV progression and patient survival. The objective of this study was to identify common risk factors associated with CD4 cell count and hemoglobin level among adult female HIV-positive patients treated with ART at the University of Gondar Comprehensive Specialized Hospital, Ethiopia.
+Infection control nurses' job are crucial for patient and healthcare workers safety. However, effective infections prevention is based on the interdisciplinary team work, involving almost all hospital employees professionals. Difficulties in cooperation in such a team, especially prolonged ones, as well as crisis situations, may cause burnout. The aim of the study was to determine burnout among infection control nurses working during the COVID-19 pandemic in the context of difficulties in cooperation with different professionals working in hospitals.
 
 [Source](https://twitter.com/Mucus_Man/status/1833934139801653268?ref_src=twsrc%5Etfw)
 
-10.1155/2024/8461788
+10.1186/s12912-024-02304-1
 
 ---
 
@@ -297,15 +298,16 @@ Spinal cord injury (SCI) results in numerous systemic dysfunctions, including in
 
 ---
 
-## Cervical epidural blood patch treatment is a choice for spontaneous intracranial hypotension.
- 13.09.2024, _H Su, X Lan, Y Cao, M Zhang, X Chen, C Lan_
+## Barriers and Enablers for Equitable Healthy Food Access in Baltimore Carryout Restaurants: A Qualitative Study in Healthy Food Priority Areas.
+ 14.09.2024, _S Hua, V Vong, AE Thomas, Y Mui, L Poirier_
 
 
-Epidural blood patch (EBP) is a minimally invasive and effective treatment for spontaneous intracranial hypotension (SIH). But, cervical epidural blood patch for SIH has little attention.
+_Humans, Restaurants, Qualitative Research, Diet, Healthy, Baltimore, Food Supply, Residence Characteristics, Male, Female, Consumer Behavior, Black or African American, Adult, Food Preferences_
+Black neighborhoods in the U.S., historically subjected to redlining, face inequitable access to resources necessary for health, including healthy food options. This study aims to identify the enablers and barriers to promoting equitable healthy food access in small, independently owned carryout restaurants in under-resourced neighborhoods to address health disparities. Thirteen in-depth interviews were conducted with restaurant owners in purposively sampled neighborhoods within Healthy Food Priority Areas (HFPAs) from March to August 2023. The qualitative data were analyzed using inductive coding and thematic analysis with Taguette software (Version 1.4.1). Four key thematic domains emerged: interpersonal, sociocultural, business, and policy drivers. Owners expressed mixed perspectives on customers' preferences for healthy food, with some perceiving a community desire for healthier options, while others did not. Owners' care for the community and their multicultural backgrounds were identified as potential enablers for tailoring culturally diverse menus to meet the dietary needs and preferences of their clientele. Conversely, profit motives and cost-related considerations were identified as barriers to purchasing and promoting healthy food. Additionally, owners voiced concerns about taxation, policy and regulation, information access challenges, and investment disparities affecting small business operations in HFPAs. Small restaurant businesses in under-resourced neighborhoods face both opportunities and challenges in enhancing community health and well-being. Interventions and policies should be culturally sensitive, provide funding, and offer clearer guidance to help these businesses overcome barriers and access resources needed for an equitable, healthy food environment.
 
 [Source](https://twitter.com/EleonoraEgidi/status/1823586767481471050?ref_src=twsrc%5Etfw)
 
-10.3233/THC-241366
+10.3390/nu16173028
 
 ---
 
@@ -359,15 +361,15 @@ In wastewater treatment plants (WWTPs), complex microbial communities process di
 
 ---
 
-## Wastewater-based epidemiology to assess pharmaceutical consumption. Spanish perspective.
- 12.09.2024, _N Fontanals, RM Marcé, R Montes, R Rodil, I González-Mariño, Y Valcárcel, S Rodríguez-Mozaz, F Borrull, JB Quintana, E Pocurull_
+## Photodegradation potential of selected non-steroidal anti-inflammatory drugs in a middle-order Alpine river downstream of a wastewater treatment plant, during a year of enduring water scarcity.
+ 13.09.2024, _S Bertolotti, L Carena, S Fenoglio, M Minella, D Vione_
 
 
-Wastewater-based epidemiology (WBE) is a well-established approach that can provide objective and real-time data on the consumption of substances such as pharmaceuticals. However, most of the studies reported so far compares consumption data obtained using WBE with those derived from prescription data from public health systems, which is often incomplete and might represent a source of uncertainty. This study aims to compare the measured pharmaceutical consumption back calculated with the WBE approach with consumption derived from dispensed pharmaceuticals in two regions of Spain, managed by two different Health Systems. To do so, a group of 17 pharmaceuticals, including the most representative ones of every therapeutic family, were monitored in influent wastewater (IWW) samples collected over a week campaign in spring 2022 at four different wastewater treatment plants (WWTPs) in Spain: two WWTPs in Madrid city (center of Spain) and two WWTPs in Catalonia (Northeast of Spain). Population-normalized daily loads (PNDLs) revealed that the patterns of pharmaceutical occurrence in the different WWTPs are very similar, being acetaminophen, 4-acetamidoantipyrine and valsartan the pharmaceuticals with the highest PNDL values: 17162 ± 1457 mg day-1 1000 inh-1 for acetaminophen, 2365 ± 696 and 2429 ± 263 mg day-1 1000 inh-1 for 4-acetamidoantipyrine, 2006 ± 541 and 2041 ± 352 mg day-1 1000 inh-1 for valsartan. Pharmaceutical PNLDs were then transformed into measured pharmaceutical consumption (MC) and compared with dispensed consumption (DC) data obtained from the pharmacies in the catchment area where the WWTPs are located. A ratio MC/DC within 0.8 to 1.2 was obtained for 11 out of the 17 studied pharmaceuticals. Highlighting a match in all the cardiovascular system pharmaceuticals, with the exception of losartan (1.29-1.39 ratio) and valsartan (1.35-1.43) in all WWTPs. In summary, the degree of correlation between MC/DC is higher than those previously reported comparing with the prescribed pharmaceutical consumption.
+The year 2022 was characterised by significant water shortages and droughts in Italy, with the most pronounced impact observed in the North-Western regions, including Piemonte. In conditions of water scarcity, treated wastewater undergoes little dilution by natural flows and this can deeply affect the chemistry of water-poor rivers and streams. However, increased pollution by wastewater would be partially offset by fast photodegradation of pollutants in shallow water and by the longer time allowed to photochemical reactions if water flows more slowly. We assessed the latter phenomena in the Stura di Lanzo, a middle-order Alpine river tributary of the largest Italian river, the Po, and affected by a wastewater treatment plant (WWTP). In 2022, the concentration values of the photochemically significant parameters nitrate, nitrite, and DOC were usually higher downstream of the WWTP outlet, which could slightly favour indirect photodegradation reactions. Direct and indirect photodegradation was assessed for the non-steroidal anti-inflammatory drugs paracetamol, diclofenac, and naproxen, all undergoing rather fast photoreactions. Photochemistry model results show that the three compounds would undergo 10-40 % photodegradation in spring and summer along the stretch separating the wastewater outlet from the confluence of Stura into the Po. Photodegradation would continue in the latter, but other WWTPs might contribute additional pollution in the meanwhile. Albeit significant, photodegradation could only partially promote the elimination of the contaminants.
 
 [Source](https://twitter.com/hashtag/WWTPs?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.scitotenv.2024.176108
+10.1016/j.scitotenv.2024.176208
 
 ---
 
@@ -383,16 +385,15 @@ Wastewater-based epidemiology (WBE) is a well-established approach that can prov
 
 ---
 
-## Recovery of 1559 metagenome-assembled genomes from the East China Sea's low-oxygen region.
- 12.09.2024, _S Liu, Q Chen, C Hou, C Dong, X Qiu, K Tang_
+## Distribution and drivers of co-hosts of antibiotic and metal(loid) resistance genes in the fresh-brackish-saline groundwater.
+ 13.09.2024, _X Xu, H Chen, L Du, C Deng, R Ma, B Li, J Li, S Liu, R Karthikeyan, Q Chen, W Sun_
 
 
-_China, Metagenome, Archaea, Bacteria, Oxygen, Seawater, Phylogeny, Metagenomics, Oceans and Seas, Microbiota_
-The Changjiang Estuary and adjacent East China Sea are well-known hypoxic aquatic environments. Eutrophication-driven hypoxia frequently occurs in coastal areas, posing a major threat to the ecological environment, including altering community structure and metabolic processes of marine organisms, and enhancing diversion of energy shunt into microbial communities. However, the responses of microbial communities and their metabolic pathways to coastal hypoxia remain poorly understood. Here, we studied the microbial communities collected from spatiotemporal samplings using metagenomic sequencing in the Changjiang Estuary and adjacent East China Sea. This generated 1.31 Tbp of metagenomics data, distributed across 103 samples corresponding to 8 vertical profiles. We further reported 1,559 metagenome-assembled genomes (MAGs), of which 508 were high-quality MAGs (Completeness &gt; 90% and Contamination &lt; 10%). Phylogenomic analysis classified them into 181 archaeal and 1,378 bacterial MAGs. These results provided a valuable metagenomic dataset available for further investigation of the effects of hypoxia on marine microorganisms.
+Groundwater is an essential source of drinking water and agricultural irrigation water, and its protection has become a global goal for public health. However, knowledge about heavy metal(loid) resistance genes (MRGs) in groundwater and the potential co-selection of antibiotic resistance genes (ARGs) have seldom been developed. Here, during the wet and dry seasons, we collected 66 groundwater samples (total dissolved solids = 93.9-9530 mg/L) adjacent to Baiyangdian Lake in Northern China, which presented the few metal(loid) and antibiotic contamination. We identified 160 MRGs whose composition exhibited significant seasonal variation, and dissolved metal(loid)s (particularly Ba) played a determinative role in promoting the MRGs proliferation though with relatively low concentrations, suggesting the relatively vulnerable groundwater ecosystems. Moreover, 27.4% of MRG-carrying metagenome-assembled genomes (MAGs) simultaneously carried ARGs, with the most frequently detected MRG types of Cu, Hg, and As, and ARG types of multidrug and bacitracin. Physicochemical variables, variables related to total dissolved solids, metal(loid)s, and antibiotics synthetically shaped the variation of MRG-ARG hosts in groundwater. We found that the increase of MRG-ARG hosts was critically responsible for the spread of MRGs and ARGs in groundwater. Our findings revealed the widespread co-occurrence of MRGs and ARGs in few-contaminated groundwater and highlighted the crucial roles of salinity in their propagation and transmission.
 
 [Source](https://twitter.com/hashtag/MAGs?src=hash&ref_src=twsrc%5Etfw)
 
-10.1038/s41597-024-03850-8
+10.1016/j.chemosphere.2024.143332
 
 ---
 
@@ -405,19 +406,6 @@ The Changjiang Estuary and adjacent East China Sea are well-known hypoxic aquati
 ## https://t.co/gVdKMwJqyR
 
 [Source](https://t.co/gVdKMwJqyR)
-
----
-
-## Assessing and Enhancing Movement Quality Using Wearables and Consumer Technologies: Thematic Analysis of Expert Perspectives.
- 13.09.2024, _TA Swain, MA McNarry, KA Mackintosh_
-
-
-_Humans, Wearable Electronic Devices, Male, Female, Adult, Middle Aged, Movement, Qualitative Research, Interviews as Topic, Quality of Life, Exercise_
-Improvements in movement quality (ie, how well an individual moves) facilitate increases in movement quantity, subsequently improving general health and quality of life. Wearable technology offers a convenient, affordable means of measuring and assessing movement quality for the general population, while technology more broadly can provide constructive feedback through various modalities. Considering the perspectives of professionals involved in the development and implementation of technology helps translate user needs into effective strategies for the optimal application of consumer technologies to enhance movement quality.
-
-[Source](https://twitter.com/msdueholm/status/1834152103935115283?ref_src=twsrc%5Etfw)
-
-10.2196/56784
 
 ---
 
@@ -451,6 +439,18 @@ Improvements in movement quality (ie, how well an individual moves) facilitate i
 
 ---
 
+## Correction: Udosen et al. Meta-Analysis and Multivariate GWAS Analyses in 80,950 Individuals of African Ancestry Identify Novel Variants Associated with Blood Pressure Traits. Int. J. Mol. Sci. 2023, 24, 2164.
+ 03.05.2024, _B Udosen, O Soremekun, A Kamiza, T Machipisa, C Cheickna, O Omotuyi, M Soliman, M Wélé, O Nashiru, T Chikowore, S Fatumo_
+
+
+In the original publication [...].
+
+[Source](https://twitter.com/H3ABioNet?ref_src=twsrc%5Etfw)
+
+10.3390/ijms25074093
+
+---
+
 ## @H3ABioNet
 
 [Source](https://twitter.com/H3ABioNet?ref_src=twsrc%5Etfw)
@@ -463,15 +463,15 @@ Improvements in movement quality (ie, how well an individual moves) facilitate i
 
 ---
 
-## A comparative analysis of the Trauma and Injury Severity Score and the Injury Severity Score in predicting high-value care outcomes in children with traumatic brain injury.
- 13.09.2024, _F Kazemi, J Liu, IW Nasr, S Robinson, AR Cohen_
+## Effect of Timely Availability of TTR-Stabilizing Therapy on Diagnosis, Therapy, and Clinical Outcomes in ATTR-CM.
+ 14.09.2024, _S Dobner, S Zarro, F Wieser, M Kassar, B Alaour, S Wiedemann, A Bakula, F Caobelli, S Stortecky, C Gräni, L Hunziker, B Bernhard_
 
 
-Predicting high-value care outcomes is crucial in managing pediatric traumatic brain injuries (TBIs), where timely and accurate prognostication can significantly influence treatment decisions and resource allocation. This study aimed to enhance understanding of how well scoring systems such as the Trauma and Injury Severity Score (TRISS) can forecast high-value care outcomes. Furthermore, the authors compared the predictive power of TRISS with the routinely used Injury Severity Score (ISS).
+Background: Tafamidis reduces cardiovascular morbidity and mortality in transthyretin amyloid cardiomyopathy (ATTR-CM), yet availability and access to therapy vary. Objective: To determine how availability and access to tafamidis impact time-to-diagnosis, time-to-therapy, and cardiovascular outcomes in ATTR-CM. Methods: Ninety-one consecutive ATTR-CM (~97% wt-TTR) patients diagnosed between June 2019 and June 2021 were evaluated for tafamidis. Access to therapy was regulated by compassionate use [n(CU) = 42] prior to, and insurance [n(IA) = 49] after regulatory approval. Results: Tafamidis was started in 37/42 (88.1%), and 39/49 (79.6%) patients, respectively. At diagnosis, ATTR-CM disease stage (≤stage 2: 88.2% vs. 90.9%, p = 0.92) was similar between groups. Timely access (after tafamidis approval) reduced the median time from first presentation to diagnosis from 6.2 (IQR: 1.3-28.9) to 2.4 (0.7-21.7) months, and from first presentation to therapy from 24.4 (10.7-46.8) to 11.8 (6.4-32.4) months. While RV function significantly worsened between diagnosis and therapy initiation in CU patients diagnosed before tafamidis approval (S'-velocity 10.0 ± 2.2 to 9.2 ± 2.2 cm/s; p = 0.018; TAPSE 17.3 ± 4.7 to 15.7 ± 3.9 mm, p = 0.008), it remained unchanged in IA patients (S'-velocity 9.6 ± 2.6 to 9.4 ± 2.3 cm/s; p = 0.83; TAPSE 15.6 ± 4.2 to 16.3 ± 3.1 mm, p = 0.45). After a median follow-up of 42.3 and 24.9 months in CU and IA patients, respectively, timely availability was associated with a reduction in annual heart failure hospitalizations (0.40 vs. 0.16 per patient, p &lt; 0.001) and improved MACE-free survival (HR = 0.51; 95%CI: 0.26-1.00; p = 0.051). Timely diagnosis (&lt;12-months) prolonged MACE-free survival (HR = 0.424; 95%CI: 0.22-0.81; p = 0.004), and reduced HFH (HR = 0.40; 95%CI: 0.19-0.81); p = 0.011) and all-cause mortality (HR = 0.29; 95%CI: 0.11-0.74); p = 0.009). Conclusions: Availability of tafamidis improves diagnostic efficacy in ATTR-CM patients. Timely diagnosis and initiation of therapy reduces adverse cardiovascular events.
 
 [Source](https://twitter.com/MucosalGroup/status/1806814310225825964?ref_src=twsrc%5Etfw)
 
-10.3171/2024.8.PEDS24309
+10.3390/jcm13175291
 
 ---
 
