@@ -149,15 +149,33 @@ Children hospitalised with severe malnutrition have high mortality and readmissi
 
 ---
 
+## Common Risk Factors for CD4 Cell Count and Hemoglobin Level among Female Adult HIV-Positive Patients: A Retrospective Longitudinal Study.
+ 13.09.2024, _NS Muhie_
+
+
+HIV is one of the most significant worldwide health concerns of the twenty-first century and a serious threat to human society. Hemoglobin level and CD4 cell count are two of the most important biomarkers of HIV progression and patient survival. The objective of this study was to identify common risk factors associated with CD4 cell count and hemoglobin level among adult female HIV-positive patients treated with ART at the University of Gondar Comprehensive Specialized Hospital, Ethiopia.
+
+[Source](https://twitter.com/Mucus_Man/status/1833934139801653268?ref_src=twsrc%5Etfw)
+
+10.1155/2024/8461788
+
+---
+
 ## September 11, 2024
 
 [Source](https://twitter.com/Mucus_Man/status/1833934139801653268?ref_src=twsrc%5Etfw)
 
 ---
 
-## Host diet drives gut microbiome convergence between coral reef fishes and mammals
+## Host diet drives gut microbiome convergence between coral reef fishes and mammals.
+ 29.08.2024, _S Degregori, NMD Schiettekatte, JM Casey, SJ Brandl, A Mercière, KR Amato, F Mazel, V Parravicini, PH Barber_
+
+
+Animal gut microbiomes are critical to host physiology and fitness. The gut microbiomes of fishes-the most abundant and diverse vertebrate clade-have received little attention relative to other clades. Coral reef fishes, in particular, make up a wide range of evolutionary histories and feeding ecologies that are likely associated with gut microbiome diversity. The repeated evolution of herbivory in fishes and mammals also allows us to examine microbiome similarity in relationship to diet across the entire vertebrate tree of life. Here, we generate a large coral reef fish gut microbiome dataset (n = 499 samples, 19 species) and combine it with a diverse aggregation of public microbiome data (n = 447) to show that host diet drives significant convergence between coral reef fish and mammalian gut microbiomes. We demonstrate that this similarity is largely driven by carnivory and herbivory and that herbivorous and carnivorous hosts exhibit distinct microbial compositions across fish and mammals. We also show that fish and mammal gut microbiomes share prominent microbial taxa, including Ruminoccocus spp. and Akkermansia spp., and predicted metabolic pathways. Despite the major evolutionary and ecological differences between fishes and mammals, our results reveal that their gut microbiomes undergo similar dietary selective pressures. Thus, diet, in addition to phylosymbiosis must be considered even when comparing the gut microbiomes of distantly related hosts.
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/mec.17520)
+
+10.1111/mec.17520
 
 ---
 
