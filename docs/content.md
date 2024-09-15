@@ -95,9 +95,15 @@ Children hospitalised with severe malnutrition have high mortality and readmissi
 
 ---
 
-## Synthesis of current pediatric urinary microbiome research
+## Synthesis of current pediatric urinary microbiome research.
+ 04.07.2024, _LM Jeries, TA Sysoeva, L Karstens, MS Kelly_
+
+
+The human urinary bladder hosts a complex microbial community of low biomass referred to as the urobiome. While the composition of the urobiome has been investigated in adults for over a decade now, only a few studies have considered the presence and composition of the urobiome in children. It is critical to explore how the urobiome develops throughout the life span and how it changes in the presence of various health conditions. Therefore, we set to review the available data on pediatric urobiome composition and its development with age and disease. In addition, we focused on identifying and reporting specific gaps in our knowledge of the pediatric urobiome that we hope will be addressed by future studies in this swiftly developing field with fast-improving methods and consensus.
 
 [Source](https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2024.1396408/full)
+
+10.3389/fped.2024.1396408
 
 ---
 
@@ -155,15 +161,9 @@ Children hospitalised with severe malnutrition have high mortality and readmissi
 
 ---
 
-## Host diet drives gut microbiome convergence between coral reef fishes and mammals.
- 29.08.2024, _S Degregori, NMD Schiettekatte, JM Casey, SJ Brandl, A Mercière, KR Amato, F Mazel, V Parravicini, PH Barber_
-
-
-Animal gut microbiomes are critical to host physiology and fitness. The gut microbiomes of fishes-the most abundant and diverse vertebrate clade-have received little attention relative to other clades. Coral reef fishes, in particular, make up a wide range of evolutionary histories and feeding ecologies that are likely associated with gut microbiome diversity. The repeated evolution of herbivory in fishes and mammals also allows us to examine microbiome similarity in relationship to diet across the entire vertebrate tree of life. Here, we generate a large coral reef fish gut microbiome dataset (n = 499 samples, 19 species) and combine it with a diverse aggregation of public microbiome data (n = 447) to show that host diet drives significant convergence between coral reef fish and mammalian gut microbiomes. We demonstrate that this similarity is largely driven by carnivory and herbivory and that herbivorous and carnivorous hosts exhibit distinct microbial compositions across fish and mammals. We also show that fish and mammal gut microbiomes share prominent microbial taxa, including Ruminoccocus spp. and Akkermansia spp., and predicted metabolic pathways. Despite the major evolutionary and ecological differences between fishes and mammals, our results reveal that their gut microbiomes undergo similar dietary selective pressures. Thus, diet, in addition to phylosymbiosis must be considered even when comparing the gut microbiomes of distantly related hosts.
+## Host diet drives gut microbiome convergence between coral reef fishes and mammals
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/mec.17520)
-
-10.1111/mec.17520
 
 ---
 
@@ -185,15 +185,34 @@ Animal gut microbiomes are critical to host physiology and fitness. The gut micr
 
 ---
 
+## Efficacy and Safety of Iparomlimab, an Anti-PD-1 Antibody, in Patients with Advanced Solid Tumors: A Phase 1c Study.
+ 14.09.2024, _J Xiong, W Ouyang, M Yang, Z Gao, H Zhou, H Lou, Y Guo, Z Xu, L Zheng, Y Liu, Z Wang, P Sun, H Niyazi, J Wang, Y Chen, B Zhang, L Li, X Kang, W Guo_
+
+
+Iparomlimab (QL1604) is a humanized immunoglobulin G4 mAb against programmed cell death protein 1 (PD-1). Here, we report the preliminary efficacy, safety, pharmacokinetics, and immunogenicity of iparomlimab in patients with advanced solid tumors.
+
+[Source](https://twitter.com/anttonio/status/1833730573585568180?ref_src=twsrc%5Etfw)
+
+10.1007/s12325-024-02981-z
+
+---
+
 ## September 11, 2024
 
 [Source](https://twitter.com/anttonio/status/1833730573585568180?ref_src=twsrc%5Etfw)
 
 ---
 
-## Diet-microbiome interactions promote enteric nervous system resilience following spinal cord injury
+## Diet-microbiome interactions promote enteric nervous system resilience following spinal cord injury.
+ 03.09.2024, _AM Hamilton, L Blackmer-Raynolds, Y Li, SD Kelly, N Kebede, AE Williams, J Chang, SM Garraway, S Srinivasan, TR Sampson_
+
+
+_Animals, Spinal Cord Injuries, Gastrointestinal Microbiome, Mice, Enteric Nervous System, Fatty Acids, Volatile, Mice, Inbred C57BL, Inulin, Disease Models, Animal, Diet, Dietary Fiber, Interleukin-10, Female_
+Spinal cord injury (SCI) results in numerous systemic dysfunctions, including intestinal dysmotility and enteric nervous system (ENS) atrophy. The ENS has capacity to recover following perturbation, yet intestinal pathologies persist. With emerging evidence demonstrating SCI-induced alterations to gut microbiome composition, we hypothesized that microbiome modulation contributes to post-injury enteric recovery. Here, we show that intervention with the dietary fiber, inulin, prevents SCI-induced ENS atrophy and dysmotility in mice. While SCI-associated microbiomes and specific injury-sensitive gut microbes are not sufficient to modulate intestinal dysmotility after injury, intervention with microbially-derived short-chain fatty acid (SCFA) metabolites prevents ENS dysfunctions in injured mice. Notably, inulin-mediated resilience is dependent on IL-10 signaling, highlighting a critical diet-microbiome-immune axis that promotes ENS resilience post-injury. Overall, we demonstrate that diet and microbially-derived signals distinctly impact ENS survival after traumatic spinal injury and represent a foundation to uncover etiological mechanisms and future therapeutics for SCI-induced neurogenic bowel.
 
 [Source](https://www.nature.com/articles/s41522-024-00556-y)
+
+10.1038/s41522-024-00556-y
 
 ---
 
