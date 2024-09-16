@@ -41,15 +41,9 @@ Intestinal fibrosis is the primary cause of disability in patients with Crohn's 
 
 ---
 
-## Enteric-coated cerium dioxide nanoparticles for effective inflammatory bowel disease treatment by regulating the redox balance and gut microbiome.
- 13.09.2024, _Y Huang, J Xu, G Sun, X Cheng, Y An, X Yao, G Nie, Y Zhang_
-
-
-Reactive oxygen species (ROS) play crucial roles in the pathogenesis of inflammatory bowel disease (IBD) by disrupting the mucosal barrier and subsequently leading to the dysregulation of the gut microbiome. Therefore, ROS scavengers present a promising and comprehensive strategy for the effective IBD treatment. In the current work, we explored the therapeutic potential of cerium dioxide (CeO2) nano-enzyme, which is well-known for their potent antioxidant properties and capability to mimic natural antioxidant enzymes in the regulation of oxidative stress. We developed a novel enteric-coated nanomedicine (CeO2@S100) aiming at improving the oral delivery efficacy of CeO2 in the complex gastrointestinal environment. CeO2@S100 is composed of a CeO2 nanoparticle core and a protective polyacrylic acid resin shell (Eudragit S100), ensuring targeted delivery of the core specifically at inflamed intestinal sites due to the negative surface charge. In vivo experiments revealed CeO2@S100 significantly alleviates the IBD by balancing oxidative stress and regulating gut microbiota in a dextran sulfate sodium-induced mouse colitis model. The uncomplicated synthesis of CeO2@S100 highlights its promise for clinical use, presenting an effective and safe approach to managing IBD.
+## Enteric-coated cerium dioxide nanoparticles for effective inflammatory bowel disease treatment by regulating the redox balance and gut microbiome
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0142961224003569?via%3Dihub)
-
-10.1016/j.biomaterials.2024.122822
 
 ---
 
@@ -107,15 +101,9 @@ _Female, Vagina, Humans, Microbiota, Fatty Acids_
 
 ---
 
-## Bioinformatics challenges for profiling the microbiome in cancer: pitfalls and opportunities.
- 13.09.2024, _NA Bokulich, MS Robeson_
-
-
-Increasing evidence suggests that the human microbiome plays an important role in cancer risk and treatment. Untargeted 'omics' techniques have accelerated research into microbiome-cancer interactions, supporting the discovery of novel associations and mechanisms. However, these techniques require careful selection and use to avoid biases and other pitfalls. In this essay, we discuss selected challenges involved in the analysis of microbiome data in the context of cancer, including the application of machine learning (ML). We focus on DNA sequencing-based (e.g., metagenomics) methods, but many of the pitfalls and opportunities generalize to other omics technologies as well. We advocate for extended training opportunities, community standards, and best practices for sharing data and code to advance transparency and reproducibility in cancer microbiome research.
+## Bioinformatics challenges for profiling the microbiome in cancer: pitfalls and opportunities
 
 [Source](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(24)00226-9)
-
-10.1016/j.tim.2024.08.011
 
 ---
 
