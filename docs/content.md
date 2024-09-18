@@ -41,51 +41,27 @@ Intestinal fibrosis is the primary cause of disability in patients with Crohn's 
 
 ---
 
-## Enteric-coated cerium dioxide nanoparticles for effective inflammatory bowel disease treatment by regulating the redox balance and gut microbiome.
- 13.09.2024, _Y Huang, J Xu, G Sun, X Cheng, Y An, X Yao, G Nie, Y Zhang_
-
-
-Reactive oxygen species (ROS) play crucial roles in the pathogenesis of inflammatory bowel disease (IBD) by disrupting the mucosal barrier and subsequently leading to the dysregulation of the gut microbiome. Therefore, ROS scavengers present a promising and comprehensive strategy for the effective IBD treatment. In the current work, we explored the therapeutic potential of cerium dioxide (CeO2) nano-enzyme, which is well-known for their potent antioxidant properties and capability to mimic natural antioxidant enzymes in the regulation of oxidative stress. We developed a novel enteric-coated nanomedicine (CeO2@S100) aiming at improving the oral delivery efficacy of CeO2 in the complex gastrointestinal environment. CeO2@S100 is composed of a CeO2 nanoparticle core and a protective polyacrylic acid resin shell (Eudragit S100), ensuring targeted delivery of the core specifically at inflamed intestinal sites due to the negative surface charge. In vivo experiments revealed CeO2@S100 significantly alleviates the IBD by balancing oxidative stress and regulating gut microbiota in a dextran sulfate sodium-induced mouse colitis model. The uncomplicated synthesis of CeO2@S100 highlights its promise for clinical use, presenting an effective and safe approach to managing IBD.
+## Enteric-coated cerium dioxide nanoparticles for effective inflammatory bowel disease treatment by regulating the redox balance and gut microbiome
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0142961224003569?via%3Dihub)
 
-10.1016/j.biomaterials.2024.122822
-
 ---
 
-## Micro- and nano-plastics, intestinal inflammation, and inflammatory bowel disease: A review of the literature.
- 14.09.2024, _M Agrawal, A Vianello, M Picker, L Simon-Sánchez, R Chen, MM Estevinho, K Weinstein, J Lykkemark, T Jess, I Peter, JF Colombel, KH Allin, J Vollertsen_
-
-
-Plastics, encompassing a wide range of polymeric materials, and their downstream products (micro- and nanoplastics, MNPs) are accumulating in the environment at an alarming rate, and they are linked to adverse human health outcomes. Considering that ingestion is a main source of MNPs exposure, the impact of plastics is particularly relevant towards intestinal inflammation and inflammatory bowel disease (IBD). However, the study of MNPs has been limited by obstacles relating to sample collection, preparation, and microplastics analysis based on optical microscopy and chemical analysis, which we detail in this review alongside potential solutions. We summarize available data on human exposure to MNPs and overall health outcomes, with particular focus on data pertaining to intestinal inflammation, microbiome perturbations, and related outcomes. We include ecologic perspectives, and human, in vitro, and animal model studies. We discuss the way forward in MNPs and IBD research, including knowledge gaps and future research.
+## Micro- and nano-plastics, intestinal inflammation, and inflammatory bowel disease: A review of the literature
 
 [Source](https://doi.org/10.1016/j.scitotenv.2024.176228)
 
-10.1016/j.scitotenv.2024.176228
-
 ---
 
-## The 3 Ds: Depression, Dysbiosis, and Clostridiodes difficile.
- 14.09.2024, _A Boustany, P Feuerstadt, G Tillotson_
-
-
-This paper explores the intricate relationship between depression, gut dysbiosis, and Clostridioides difficile infections, collectively termed "The 3 Ds". Depression is a widespread mental disorder increasing in prevalence. It is recognized for its societal burden and complex pathophysiology, encompassing genetic, environmental, and microbiome-related factors. The consequent increased use of antidepressants has led to growing concerns about their effects on the gut microbiome. Various classes of antidepressants and antipsychotics show antimicrobial activity, potentially leading to shifts in the gut microbiome and contributing to the development of dysbiosis. Dysbiosis, in turn, can predispose individuals to opportunistic infections like C. difficile, a significant healthcare concern due to its high recurrence rates and severe impact on patients' quality of life. Further, the link between antidepressant use and an increased risk of C. difficile infection (CDI) is explored and, finally, the emergence of live biotherapeutic products as novel treatment options for recurrent CDI is discussed.
+## The 3 Ds: Depression, Dysbiosis, and Clostridiodes difficile
 
 [Source](https://doi.org/10.1007/s12325-024-02972-0)
 
-10.1007/s12325-024-02972-0
-
 ---
 
-## Targeting fatty acid metabolism promotes a healthy vaginal microbiome.
- 16.09.2024, _I Marchal_
-
-
-_Female, Vagina, Humans, Microbiota, Fatty Acids_
+## Targeting fatty acid metabolism promotes a healthy vaginal microbiome
 
 [Source](https://doi.org/10.1038/s41587-024-02390-1)
-
-10.1038/s41587-024-02390-1
 
 ---
 
