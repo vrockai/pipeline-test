@@ -1,5 +1,5 @@
 ## Correlation of gut microbial diversity to sight-threatening diabetic retinopathy.
- 13.09.2024, _R Khan, A Sharma, R Ravikumar, S Sivaprasad, R Raman_
+ 16.09.2024, _R Khan, A Sharma, R Ravikumar, S Sivaprasad, R Raman_
 
 
 _Humans, Diabetic Retinopathy, Gastrointestinal Microbiome, Male, Female, Cross-Sectional Studies, Middle Aged, Bacteria, Adult, Bacteroidetes, Aged, Case-Control Studies, Biodiversity, Firmicutes_
@@ -78,7 +78,7 @@ This paper explores the intricate relationship between depression, gut dysbiosis
 ---
 
 ## Targeting fatty acid metabolism promotes a healthy vaginal microbiome.
- 13.09.2024, _I Marchal_
+ 16.09.2024, _I Marchal_
 
 
 _Female, Vagina, Humans, Microbiota, Fatty Acids_
@@ -107,15 +107,9 @@ _Female, Vagina, Humans, Microbiota, Fatty Acids_
 
 ---
 
-## Bioinformatics challenges for profiling the microbiome in cancer: pitfalls and opportunities.
- 13.09.2024, _NA Bokulich, MS Robeson_
-
-
-Increasing evidence suggests that the human microbiome plays an important role in cancer risk and treatment. Untargeted 'omics' techniques have accelerated research into microbiome-cancer interactions, supporting the discovery of novel associations and mechanisms. However, these techniques require careful selection and use to avoid biases and other pitfalls. In this essay, we discuss selected challenges involved in the analysis of microbiome data in the context of cancer, including the application of machine learning (ML). We focus on DNA sequencing-based (e.g., metagenomics) methods, but many of the pitfalls and opportunities generalize to other omics technologies as well. We advocate for extended training opportunities, community standards, and best practices for sharing data and code to advance transparency and reproducibility in cancer microbiome research.
+## Bioinformatics challenges for profiling the microbiome in cancer: pitfalls and opportunities
 
 [Source](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(24)00226-9)
-
-10.1016/j.tim.2024.08.011
 
 ---
 
