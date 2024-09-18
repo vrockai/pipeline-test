@@ -107,9 +107,15 @@ _Female, Vagina, Humans, Microbiota, Fatty Acids_
 
 ---
 
-## Bioinformatics challenges for profiling the microbiome in cancer: pitfalls and opportunities
+## Bioinformatics challenges for profiling the microbiome in cancer: pitfalls and opportunities.
+ 13.09.2024, _NA Bokulich, MS Robeson_
+
+
+Increasing evidence suggests that the human microbiome plays an important role in cancer risk and treatment. Untargeted 'omics' techniques have accelerated research into microbiome-cancer interactions, supporting the discovery of novel associations and mechanisms. However, these techniques require careful selection and use to avoid biases and other pitfalls. In this essay, we discuss selected challenges involved in the analysis of microbiome data in the context of cancer, including the application of machine learning (ML). We focus on DNA sequencing-based (e.g., metagenomics) methods, but many of the pitfalls and opportunities generalize to other omics technologies as well. We advocate for extended training opportunities, community standards, and best practices for sharing data and code to advance transparency and reproducibility in cancer microbiome research.
 
 [Source](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(24)00226-9)
+
+10.1016/j.tim.2024.08.011
 
 ---
 
