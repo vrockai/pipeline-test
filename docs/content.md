@@ -128,7 +128,7 @@ Plants have evolved various defense mechanisms against insect herbivores, includ
 ---
 
 ## Birth of protein folds and functions in the virome.
- 18.09.2024, _J Nomburg, EE Doherty, N Price, D Bellieny-Rabelo, YK Zhu, JA Doudna_
+ 19.09.2024, _J Nomburg, EE Doherty, N Price, D Bellieny-Rabelo, YK Zhu, JA Doudna_
 
 
 _Viral Proteins, Protein Folding, Humans, Virome, Immune Evasion, Models, Molecular, Immunity, Innate, Bacteriophages, Animals, Nucleotides, Cyclic, Phosphoric Diester Hydrolases, Hydrolysis_
