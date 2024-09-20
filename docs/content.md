@@ -40,7 +40,7 @@ Composition of the vaginal microbiome in pregnancy is associated with adverse ma
 ---
 
 ## Akkermania muciniphila: a rising star in tumor immunology.
- 18.09.2024, _L Wang, D Tang_
+ 19.09.2024, _L Wang, D Tang_
 
 
 _Humans, Neoplasms, Tumor Microenvironment, Akkermansia, Immunotherapy, Gastrointestinal Microbiome, Verrucomicrobia, Cytokines_
