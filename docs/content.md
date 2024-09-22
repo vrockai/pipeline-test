@@ -1,5 +1,5 @@
 ## Multi-way modelling of oral microbial dynamics and host-microbiome interactions during induced gingivitis.
- 21.09.2024, _GR van der Ploeg, BW Brandt, BJF Keijser, MH van der Veen, CMC Volgenant, E Zaura, AK Smilde, JA Westerhuis, A Heintz-Buschart_
+ 22.09.2024, _GR van der Ploeg, BW Brandt, BJF Keijser, MH van der Veen, CMC Volgenant, E Zaura, AK Smilde, JA Westerhuis, A Heintz-Buschart_
 
 
 _Humans, Gingivitis, Microbiota, Saliva, Host Microbial Interactions, Metabolome, Biofilms, Female, Adult, Male, Bacteria, Principal Component Analysis, Mouth, Young Adult, Healthy Volunteers_
@@ -71,9 +71,16 @@ Studies of the human microbiome are progressing rapidly but have largely focused
 
 ---
 
-## Microbiota-gut-brain axis in health and neurological disease: Interactions between gut microbiota and the nervous system
+## Microbiota-gut-brain axis in health and neurological disease: Interactions between gut microbiota and the nervous system.
+ 22.09.2024, _Y He, K Wang, N Su, C Yuan, N Zhang, X Hu, Y Fu, F Zhao_
+
+
+_Humans, Gastrointestinal Microbiome, Animals, Nervous System Diseases, Brain-Gut Axis, Enteric Nervous System, Brain, Nervous System, Gastrointestinal Tract_
+Along with mounting evidence that gut microbiota and their metabolites migrate endogenously to distal organs, the 'gut-lung axis,' 'gut-brain axis,' 'gut-liver axis' and 'gut-renal axis' have been established. Multiple animal recent studies have demonstrated gut microbiota may also be a key susceptibility factor for neurological disorders such as Alzheimer's disease, Parkinson's disease and autism. The gastrointestinal tract is innervated by the extrinsic sympathetic and vagal nerves and the intrinsic enteric nervous system, and the gut microbiota interacts with the nervous system to maintain homeostatic balance in the host gut. A total of 1507 publications on the interactions between the gut microbiota, the gut-brain axis and neurological disorders are retrieved from the Web of Science to investigate the interactions between the gut microbiota and the nervous system and the underlying mechanisms involved in normal and disease states. We provide a comprehensive overview of the effects of the gut microbiota and its metabolites on nervous system function and neurotransmitter secretion, as well as alterations in the gut microbiota in neurological disorders, to provide a basis for the possibility of targeting the gut microbiota as a therapeutic agent for neurological disorders.
 
 [Source](https://doi.org/10.1111/jcmm.70099)
+
+10.1111/jcmm.70099
 
 ---
 
@@ -113,9 +120,15 @@ Studies of the human microbiome are progressing rapidly but have largely focused
 
 ---
 
-## Metformin reprograms tryptophan metabolism via gut Microbiome-Derived bile acid metabolites to ameliorate Depression-Like behaviors in mice
+## Metformin reprograms tryptophan metabolism via gut Microbiome-Derived bile acid metabolites to ameliorate Depression-Like behaviors in mice.
+ 20.09.2024, _X Xie, W Li, Z Xiong, J Xu, T Liao, L Sun, H Xu, M Zhang, J Zhou, W Xiong, Z Fu, Z Li, Q Han, D Cui, DC Anthony_
+
+
+As an adjunct therapy, metformin enhances the efficacy of conventional antidepressant medications. However, its mode of action remains unclear. Here, metformin was found to ameliorate depression-like behaviors in mice exposed to chronic restraint stress (CRS) by normalizing the dysbiotic gut microbiome. Fecal transplants from metformin-treated mice ameliorated depressive behaviors in stressed mice. Microbiome profiling revealed that Akkermansia muciniphila (A. muciniphila), in particular, was markedly increased in the gut by metformin and that oral administration of this species alone was sufficient to reverse CRS-induced depressive behaviors and normalize aberrant stress-induced 5-hydroxytryptamine (5-HT) metabolism in the brain and gut. Untargeted metabolomic profiling further identified the bile acid metabolites taurocholate and deoxycholic acid as direct A. muciniphila-derived molecules that are, individually, sufficient to rescue the CRS-induced impaired 5-HT metabolism and depression-like behaviors. Thus, we report metformin reprograms 5-HT metabolism via microbiome-brain interactions to mitigate depressive syndromes, providing novel insights into gut microbiota-derived bile acids as potential therapeutic candidates for depressive mood disorders from bench to bedside.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0889159124006159?via%3Dihub)
+
+10.1016/j.bbi.2024.09.014
 
 ---
 
@@ -162,7 +175,7 @@ The understanding of activated sludge microbial status and roles is imperative f
 ---
 
 ## Genomic profiling of Antarctic geothermal microbiomes using long-read, Hi-C, and single-cell techniques.
- 21.09.2024, _NR Myeong, YH Choe, SC Shin, J Kim, WJ Sul, M Kim_
+ 22.09.2024, _NR Myeong, YH Choe, SC Shin, J Kim, WJ Sul, M Kim_
 
 
 _Antarctic Regions, Microbiota, Single-Cell Analysis, Hot Springs, Metagenomics, Metagenome_
