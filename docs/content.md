@@ -53,7 +53,7 @@ Tumor is accompanied by complex and dynamic microenvironment development, and th
 ---
 
 ## Nutraceuticals and pharmacological to balance the transitional microbiome to extend immunity during COVID-19 and other viral infections.
- 18.09.2024, _A Kaushal_
+ 21.09.2024, _A Kaushal_
 
 
 _Humans, Dietary Supplements, COVID-19, Gastrointestinal Microbiome, SARS-CoV-2, COVID-19 Drug Treatment, Probiotics, Virus Diseases, Immunity_
@@ -128,7 +128,7 @@ Plants have evolved various defense mechanisms against insect herbivores, includ
 ---
 
 ## Birth of protein folds and functions in the virome.
- 20.09.2024, _J Nomburg, EE Doherty, N Price, D Bellieny-Rabelo, YK Zhu, JA Doudna_
+ 21.09.2024, _J Nomburg, EE Doherty, N Price, D Bellieny-Rabelo, YK Zhu, JA Doudna_
 
 
 _Viral Proteins, Protein Folding, Humans, Virome, Immune Evasion, Models, Molecular, Immunity, Innate, Bacteriophages, Animals, Nucleotides, Cyclic, Phosphoric Diester Hydrolases, Hydrolysis_
