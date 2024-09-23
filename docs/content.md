@@ -35,9 +35,15 @@ Studies of the human microbiome are progressing rapidly but have largely focused
 
 ---
 
-## Dental Caries: The Way Forward
+## Dental Caries: The Way Forward.
+ 21.09.2024, _DT Kopycka-Kedzierawski, M Fontana, ML Marazita, SW McLaren, E Morou-Bermúdez, TG O'Connor, E Van Wijngaarden, J Xiao, RJ Billings_
+
+
+It is evident that some progress in reducing ECC prevalence in children has been made, but these improvements are not equally distributed. Systemic inequities in oral health among the youngest, most vulnerable children must be reduced.
 
 [Source](https://doi.org/10.1177/23800844241271647)
+
+10.1177/23800844241271647
 
 ---
 
