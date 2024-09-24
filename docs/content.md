@@ -35,15 +35,9 @@ Studies of the human microbiome are progressing rapidly but have largely focused
 
 ---
 
-## Dental Caries: The Way Forward.
- 21.09.2024, _DT Kopycka-Kedzierawski, M Fontana, ML Marazita, SW McLaren, E Morou-Bermúdez, TG O'Connor, E Van Wijngaarden, J Xiao, RJ Billings_
-
-
-It is evident that some progress in reducing ECC prevalence in children has been made, but these improvements are not equally distributed. Systemic inequities in oral health among the youngest, most vulnerable children must be reduced.
+## Dental Caries: The Way Forward
 
 [Source](https://doi.org/10.1177/23800844241271647)
-
-10.1177/23800844241271647
 
 ---
 
@@ -71,27 +65,15 @@ It is evident that some progress in reducing ECC prevalence in children has been
 
 ---
 
-## Strengthening the foundation of African microbiome research: strategies for standardized data collection.
- 19.09.2024, _S Kouidhi, OH Oduaran_
-
-
+## Strengthening the foundation of African microbiome research: strategies for standardized data collection
 
 [Source](https://doi.org/10.1038/s41575-024-00986-1)
 
-10.1038/s41575-024-00986-1
-
 ---
 
-## Microbiota-gut-brain axis in health and neurological disease: Interactions between gut microbiota and the nervous system.
- 22.09.2024, _Y He, K Wang, N Su, C Yuan, N Zhang, X Hu, Y Fu, F Zhao_
-
-
-_Humans, Gastrointestinal Microbiome, Animals, Nervous System Diseases, Brain-Gut Axis, Enteric Nervous System, Brain, Nervous System, Gastrointestinal Tract_
-Along with mounting evidence that gut microbiota and their metabolites migrate endogenously to distal organs, the 'gut-lung axis,' 'gut-brain axis,' 'gut-liver axis' and 'gut-renal axis' have been established. Multiple animal recent studies have demonstrated gut microbiota may also be a key susceptibility factor for neurological disorders such as Alzheimer's disease, Parkinson's disease and autism. The gastrointestinal tract is innervated by the extrinsic sympathetic and vagal nerves and the intrinsic enteric nervous system, and the gut microbiota interacts with the nervous system to maintain homeostatic balance in the host gut. A total of 1507 publications on the interactions between the gut microbiota, the gut-brain axis and neurological disorders are retrieved from the Web of Science to investigate the interactions between the gut microbiota and the nervous system and the underlying mechanisms involved in normal and disease states. We provide a comprehensive overview of the effects of the gut microbiota and its metabolites on nervous system function and neurotransmitter secretion, as well as alterations in the gut microbiota in neurological disorders, to provide a basis for the possibility of targeting the gut microbiota as a therapeutic agent for neurological disorders.
+## Microbiota-gut-brain axis in health and neurological disease: Interactions between gut microbiota and the nervous system
 
 [Source](https://doi.org/10.1111/jcmm.70099)
-
-10.1111/jcmm.70099
 
 ---
 
@@ -131,27 +113,15 @@ Along with mounting evidence that gut microbiota and their metabolites migrate e
 
 ---
 
-## Metformin reprograms tryptophan metabolism via gut Microbiome-Derived bile acid metabolites to ameliorate Depression-Like behaviors in mice.
- 20.09.2024, _X Xie, W Li, Z Xiong, J Xu, T Liao, L Sun, H Xu, M Zhang, J Zhou, W Xiong, Z Fu, Z Li, Q Han, D Cui, DC Anthony_
-
-
-As an adjunct therapy, metformin enhances the efficacy of conventional antidepressant medications. However, its mode of action remains unclear. Here, metformin was found to ameliorate depression-like behaviors in mice exposed to chronic restraint stress (CRS) by normalizing the dysbiotic gut microbiome. Fecal transplants from metformin-treated mice ameliorated depressive behaviors in stressed mice. Microbiome profiling revealed that Akkermansia muciniphila (A. muciniphila), in particular, was markedly increased in the gut by metformin and that oral administration of this species alone was sufficient to reverse CRS-induced depressive behaviors and normalize aberrant stress-induced 5-hydroxytryptamine (5-HT) metabolism in the brain and gut. Untargeted metabolomic profiling further identified the bile acid metabolites taurocholate and deoxycholic acid as direct A. muciniphila-derived molecules that are, individually, sufficient to rescue the CRS-induced impaired 5-HT metabolism and depression-like behaviors. Thus, we report metformin reprograms 5-HT metabolism via microbiome-brain interactions to mitigate depressive syndromes, providing novel insights into gut microbiota-derived bile acids as potential therapeutic candidates for depressive mood disorders from bench to bedside.
+## Metformin reprograms tryptophan metabolism via gut Microbiome-Derived bile acid metabolites to ameliorate Depression-Like behaviors in mice
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0889159124006159?via%3Dihub)
 
-10.1016/j.bbi.2024.09.014
-
 ---
 
-## Dynamics of the microbiome and volatile organic compounds during fermentation and aging of soy sauce.
- 20.09.2024, _Y Mizuno, T Yoshimura, K Sawada, K Tsuge, Y Nagano, Y Yoshizaki, M Goto, G Kobayashi_
-
-
-A comprehensive analysis of the microbiome and volatile organic compounds (VOC) in the moromi of soy sauce during fermentation and aging was conducted under industrial production. Microbiome analysis using next-generation sequencing revealed the presence and dynamics of microorganisms other than Aspergillus, Tetragenococcus, Zygosaccharomyces, and Wickerhamiella, which were used as starters. The bacterial community of the moromi on the first day of this process was rich in diversity. Staphylococcus, Bacillus, Kurthia, Acinetobacter, Enterococcus, and Macrococcus that grew during koji making were relatively dominant. However, as the fermentation progressed, only Tetragenococcus became dominant in the bacterial communities. In contrast, the fungal community was simple at the beginning of fermentation and aging, with Aspergillus present almost exclusively. After adding Zygosaccharomyces rouxii on day 42, the fungal community changed significantly. At the end of fermentation and aging, the fungal community diversified, with Millerozyma, Wickerhamiella, Yamadazyma, and Saccharomycopsis becoming dominant. The analysis of VOC showed that the VOC profile changed during fermentation and aging, and that the VOC profile changed significantly after adding Z. rouxii. The correlation analysis between the microbiome and VOC showed that Wickerhamiella, Millerozyma, Debaryomyces, Yamadazyma, and Candida had a significant positive correlation with alcohols, esters, and phenols produced in the later stage of fermentation and aging, indicating that not only Z. rouxii but also various fungi may contribute to the formation of the complex aroma profile of soy sauce.
+## Dynamics of the microbiome and volatile organic compounds during fermentation and aging of soy sauce
 
 [Source](https://doi.org/10.1016/j.jbiosc.2024.08.009)
-
-10.1016/j.jbiosc.2024.08.009
 
 ---
 
@@ -161,40 +131,21 @@ A comprehensive analysis of the microbiome and volatile organic compounds (VOC) 
 
 ---
 
-## Pseudomonas fluorescens Inoculation Enhances Salix matsudana Growth by Modifying Phyllosphere Microbiomes, Surpassing Nitrogen Fertilization.
- 20.09.2024, _Q Li, Y He, J Feng, Y He, S Zhang_
-
-
-The enhancement of plant growth by soil fertilization and microbial inoculation involves different mechanisms, particularly by altering the phyllosphere microbiome. This study investigated how nitrogen (N) fertilization, Pseudomonas fluorescens strain R124 inoculation and their combined effects influence the growth of different-aged Salix matsudana cuttings by modulating N dynamics within the phyllosphere microbiome. Results showed that P. fluorescens inoculation was significantly more effective than N fertilization alone, enhancing biomass, plant nutrient uptake, soil nutrient content and root development by 90.51%, 18.18%, 72.74% and 126.20%, respectively. Crucially, the inoculation notably shifted the beta-diversity of the phyllosphere microbial community, with K-strategy fungi enhancing plant N fixation and subsequent plant growth. Cuttings from middle-aged forests displayed more robust growth than those from young-aged, associated with a varied impact on phyllosphere fungi, notably increasing the relative abundance of Myriangiales in young (76.37%) and Capnodiales in middle-aged cuttings (42.37%), which improve phyllosphere stability and plant health. These findings highlight the effectiveness of microbial inoculation over N fertilization in promoting plant growth and provide valuable insights for the sustainable management of willow plantations at different stages of development.
+## Pseudomonas fluorescens Inoculation Enhances Salix matsudana Growth by Modifying Phyllosphere Microbiomes, Surpassing Nitrogen Fertilization
 
 [Source](https://doi.org/10.1111/pce.15162)
 
-10.1111/pce.15162
-
 ---
 
-## Deep insights into the assembly mechanisms, co-occurrence patterns, and functional roles of microbial community in wastewater treatment plants.
- 20.09.2024, _ZY Wei, M Feng, DX Zhang, CY Jiang, Y Deng, ZJ Wang, K Feng, Y Song, N Zhou, YL Wang, SJ Liu_
-
-
-The understanding of activated sludge microbial status and roles is imperative for improving and enhancing the performance of wastewater treatment plants (WWTPs). In this study, we conducted a deep analysis of activated sludge microbial communities across five compartments (inflow, effluent, and aerobic, anoxic, anaerobic tanks) over temporal scales, employing high-throughput sequencing of 16S rRNA amplicons and metagenome data. Clearly discernible seasonal patterns, exhibiting cyclic variations, were observed in microbial diversity, assembly, co-occurrence network, and metabolic functions. Notably, summer samples exhibited higher α-diversity and were distinctly separated from winter samples. Our analysis revealed that microbial community assembly is influenced by both stochastic processes (66%) and deterministic processes (34%), with winter samples demonstrating more random assembly compared to summer. Co-occurrence patterns were predominantly mutualistic, with over 96% positive correlations, and summer networks were more organized than those in winter. These variations were significantly correlated with temperature, total phosphorus and sludge volume index. However, no significant differences were found among microbial community across five compartments in terms of β diversity. A core community of keystone taxa was identified, playing key roles in eight nitrogen and eleven phosphorus cycling pathways. Understanding the assembly mechanisms, co-occurrence patterns, and functional roles of microbial communities is essential for the design and optimization of biotechnological treatment processes in WWTPs.
+## Deep insights into the assembly mechanisms, co-occurrence patterns, and functional roles of microbial community in wastewater treatment plants
 
 [Source](https://doi.org/10.1016/j.envres.2024.120029)
 
-10.1016/j.envres.2024.120029
-
 ---
 
-## Genomic profiling of Antarctic geothermal microbiomes using long-read, Hi-C, and single-cell techniques.
- 22.09.2024, _NR Myeong, YH Choe, SC Shin, J Kim, WJ Sul, M Kim_
-
-
-_Antarctic Regions, Microbiota, Single-Cell Analysis, Hot Springs, Metagenomics, Metagenome_
-Geothermal features in Antarctica provide favorable conditions for diverse microorganisms, yet their genomic diversity remains poorly understood. Here, we present an integrated dataset comprising PacBio HiFi and Hi-C metagenomic sequencing, along with single-cell amplified genomes (SAGs) from two high-altitude geothermal sites, Mount Melbourne and Mount Rittmann, in Antarctica. The long-read HiFi sequencing, coupled with Hi-C, enhances the understanding of microbiome diversity and functionality in this unique ecosystem by providing more complete and accurate genomic information. SAGs complement this by recovering rare microbial taxa and offering a strain-resolved perspective. This dataset aims to deepen our understanding of microbial evolution and ecology in Antarctic geothermal environments, and facilitate cross-comparison with other geothermal environments globally.
+## Genomic profiling of Antarctic geothermal microbiomes using long-read, Hi-C, and single-cell techniques
 
 [Source](https://doi.org/10.1038/s41597-024-03875-z)
-
-10.1038/s41597-024-03875-z
 
 ---
 
