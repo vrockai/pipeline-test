@@ -119,9 +119,15 @@ Studies of the human microbiome are progressing rapidly but have largely focused
 
 ---
 
-## Dynamics of the microbiome and volatile organic compounds during fermentation and aging of soy sauce
+## Dynamics of the microbiome and volatile organic compounds during fermentation and aging of soy sauce.
+ 20.09.2024, _Y Mizuno, T Yoshimura, K Sawada, K Tsuge, Y Nagano, Y Yoshizaki, M Goto, G Kobayashi_
+
+
+A comprehensive analysis of the microbiome and volatile organic compounds (VOC) in the moromi of soy sauce during fermentation and aging was conducted under industrial production. Microbiome analysis using next-generation sequencing revealed the presence and dynamics of microorganisms other than Aspergillus, Tetragenococcus, Zygosaccharomyces, and Wickerhamiella, which were used as starters. The bacterial community of the moromi on the first day of this process was rich in diversity. Staphylococcus, Bacillus, Kurthia, Acinetobacter, Enterococcus, and Macrococcus that grew during koji making were relatively dominant. However, as the fermentation progressed, only Tetragenococcus became dominant in the bacterial communities. In contrast, the fungal community was simple at the beginning of fermentation and aging, with Aspergillus present almost exclusively. After adding Zygosaccharomyces rouxii on day 42, the fungal community changed significantly. At the end of fermentation and aging, the fungal community diversified, with Millerozyma, Wickerhamiella, Yamadazyma, and Saccharomycopsis becoming dominant. The analysis of VOC showed that the VOC profile changed during fermentation and aging, and that the VOC profile changed significantly after adding Z. rouxii. The correlation analysis between the microbiome and VOC showed that Wickerhamiella, Millerozyma, Debaryomyces, Yamadazyma, and Candida had a significant positive correlation with alcohols, esters, and phenols produced in the later stage of fermentation and aging, indicating that not only Z. rouxii but also various fungi may contribute to the formation of the complex aroma profile of soy sauce.
 
 [Source](https://doi.org/10.1016/j.jbiosc.2024.08.009)
+
+10.1016/j.jbiosc.2024.08.009
 
 ---
 
@@ -131,9 +137,15 @@ Studies of the human microbiome are progressing rapidly but have largely focused
 
 ---
 
-## Pseudomonas fluorescens Inoculation Enhances Salix matsudana Growth by Modifying Phyllosphere Microbiomes, Surpassing Nitrogen Fertilization
+## Pseudomonas fluorescens Inoculation Enhances Salix matsudana Growth by Modifying Phyllosphere Microbiomes, Surpassing Nitrogen Fertilization.
+ 20.09.2024, _Q Li, Y He, J Feng, Y He, S Zhang_
+
+
+The enhancement of plant growth by soil fertilization and microbial inoculation involves different mechanisms, particularly by altering the phyllosphere microbiome. This study investigated how nitrogen (N) fertilization, Pseudomonas fluorescens strain R124 inoculation and their combined effects influence the growth of different-aged Salix matsudana cuttings by modulating N dynamics within the phyllosphere microbiome. Results showed that P. fluorescens inoculation was significantly more effective than N fertilization alone, enhancing biomass, plant nutrient uptake, soil nutrient content and root development by 90.51%, 18.18%, 72.74% and 126.20%, respectively. Crucially, the inoculation notably shifted the beta-diversity of the phyllosphere microbial community, with K-strategy fungi enhancing plant N fixation and subsequent plant growth. Cuttings from middle-aged forests displayed more robust growth than those from young-aged, associated with a varied impact on phyllosphere fungi, notably increasing the relative abundance of Myriangiales in young (76.37%) and Capnodiales in middle-aged cuttings (42.37%), which improve phyllosphere stability and plant health. These findings highlight the effectiveness of microbial inoculation over N fertilization in promoting plant growth and provide valuable insights for the sustainable management of willow plantations at different stages of development.
 
 [Source](https://doi.org/10.1111/pce.15162)
+
+10.1111/pce.15162
 
 ---
 
