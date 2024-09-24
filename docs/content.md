@@ -59,39 +59,21 @@ Studies of the human microbiome are progressing rapidly but have largely focused
 
 ---
 
-## Gut microbiota metabolite trimethylamine N-oxide promoted NAFLD progression by exacerbating intestinal barrier disruption and intrahepatic cellular imbalance.
- 19.09.2024, _F Nian, Y Chen, Q Xia, C Zhu, L Wu, X Lu_
-
-
-Non-alcoholic fatty liver disease (NAFLD) has become the most common chronic liver disease worldwide, with the gut microbiota and its metabolites are important regulators of its progression. Trimethylamine N-oxide (TMAO), a metabolite of the gut microbiota, has been closely associated with various metabolic diseases, but its relationship with NAFLD remains to be elucidated. In this study, we found that fecal TMAO levels correlated with NAFLD severity. Moreover, TMAO promoted lipid deposition in HepG2 fatty liver cells and exacerbated hepatic steatosis in NAFLD rats. In the colon, TMAO undermined the structure and function of the intestinal barrier at various levels, further activated the TLR4/MyD88/NF-κB pathway, and inhibited the WNT/β-catenin pathway. In the liver, TMAO induced endothelial dysfunction with capillarization of liver sinusoidal endothelial cells, while modulating macrophage polarization. In conclusion, our study suggests that gut microbiota metabolite TMAO promotes NAFLD progression by impairing the gut and liver and that targeting TMAO could be an alternative therapeutic strategy for NAFLD.
+## Gut microbiota metabolite trimethylamine N-oxide promoted NAFLD progression by exacerbating intestinal barrier disruption and intrahepatic cellular imbalance
 
 [Source](https://doi.org/10.1016/j.intimp.2024.113173)
 
-10.1016/j.intimp.2024.113173
-
 ---
 
-## Strengthening the foundation of African microbiome research: strategies for standardized data collection.
- 19.09.2024, _S Kouidhi, OH Oduaran_
-
-
+## Strengthening the foundation of African microbiome research: strategies for standardized data collection
 
 [Source](https://doi.org/10.1038/s41575-024-00986-1)
 
-10.1038/s41575-024-00986-1
-
 ---
 
-## Microbiota-gut-brain axis in health and neurological disease: Interactions between gut microbiota and the nervous system.
- 22.09.2024, _Y He, K Wang, N Su, C Yuan, N Zhang, X Hu, Y Fu, F Zhao_
-
-
-_Humans, Gastrointestinal Microbiome, Animals, Nervous System Diseases, Brain-Gut Axis, Enteric Nervous System, Brain, Nervous System, Gastrointestinal Tract_
-Along with mounting evidence that gut microbiota and their metabolites migrate endogenously to distal organs, the 'gut-lung axis,' 'gut-brain axis,' 'gut-liver axis' and 'gut-renal axis' have been established. Multiple animal recent studies have demonstrated gut microbiota may also be a key susceptibility factor for neurological disorders such as Alzheimer's disease, Parkinson's disease and autism. The gastrointestinal tract is innervated by the extrinsic sympathetic and vagal nerves and the intrinsic enteric nervous system, and the gut microbiota interacts with the nervous system to maintain homeostatic balance in the host gut. A total of 1507 publications on the interactions between the gut microbiota, the gut-brain axis and neurological disorders are retrieved from the Web of Science to investigate the interactions between the gut microbiota and the nervous system and the underlying mechanisms involved in normal and disease states. We provide a comprehensive overview of the effects of the gut microbiota and its metabolites on nervous system function and neurotransmitter secretion, as well as alterations in the gut microbiota in neurological disorders, to provide a basis for the possibility of targeting the gut microbiota as a therapeutic agent for neurological disorders.
+## Microbiota-gut-brain axis in health and neurological disease: Interactions between gut microbiota and the nervous system
 
 [Source](https://doi.org/10.1111/jcmm.70099)
-
-10.1111/jcmm.70099
 
 ---
 
@@ -149,15 +131,9 @@ Along with mounting evidence that gut microbiota and their metabolites migrate e
 
 ---
 
-## Pseudomonas fluorescens Inoculation Enhances Salix matsudana Growth by Modifying Phyllosphere Microbiomes, Surpassing Nitrogen Fertilization.
- 20.09.2024, _Q Li, Y He, J Feng, Y He, S Zhang_
-
-
-The enhancement of plant growth by soil fertilization and microbial inoculation involves different mechanisms, particularly by altering the phyllosphere microbiome. This study investigated how nitrogen (N) fertilization, Pseudomonas fluorescens strain R124 inoculation and their combined effects influence the growth of different-aged Salix matsudana cuttings by modulating N dynamics within the phyllosphere microbiome. Results showed that P. fluorescens inoculation was significantly more effective than N fertilization alone, enhancing biomass, plant nutrient uptake, soil nutrient content and root development by 90.51%, 18.18%, 72.74% and 126.20%, respectively. Crucially, the inoculation notably shifted the beta-diversity of the phyllosphere microbial community, with K-strategy fungi enhancing plant N fixation and subsequent plant growth. Cuttings from middle-aged forests displayed more robust growth than those from young-aged, associated with a varied impact on phyllosphere fungi, notably increasing the relative abundance of Myriangiales in young (76.37%) and Capnodiales in middle-aged cuttings (42.37%), which improve phyllosphere stability and plant health. These findings highlight the effectiveness of microbial inoculation over N fertilization in promoting plant growth and provide valuable insights for the sustainable management of willow plantations at different stages of development.
+## Pseudomonas fluorescens Inoculation Enhances Salix matsudana Growth by Modifying Phyllosphere Microbiomes, Surpassing Nitrogen Fertilization
 
 [Source](https://doi.org/10.1111/pce.15162)
-
-10.1111/pce.15162
 
 ---
 
