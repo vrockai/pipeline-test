@@ -107,9 +107,16 @@ Studies of the human microbiome are progressing rapidly but have largely focused
 
 ---
 
-## Intestinal deguelin drives resistance to acetaminophen-induced hepatotoxicity in female mice
+## Intestinal deguelin drives resistance to acetaminophen-induced hepatotoxicity in female mice.
+ 25.09.2024, _S Gong, Y Zeng, Z Wang, Y Li, R Wu, L Li, H Hu, P Qin, Z Yu, X Huang, P Guo, H Yang, Y He, Z Zhao, W Xiao, X Zhao, L Gao, S Cai, Z Zeng_
+
+
+_Animals, Acetaminophen, Female, Gastrointestinal Microbiome, Mice, Chemical and Drug Induced Liver Injury, Male, Rotenone, Oxidative Stress, Mice, Inbred C57BL, Hepatocytes, Liver, Glutathione_
+Acetaminophen (APAP) overdose is a leading cause of drug-induced liver injury (DILI), with gender-specific differences in susceptibility. However, the mechanism underlying this phenomenon remains unclear. Our study reveals that the gender-specific differences in susceptibility to APAP-induced hepatotoxicity are due to differences in the gut microbiota. Through microbial multi-omics and cultivation, we observed increased gut microbiota-derived deguelin content in both women and female mice. Administration of deguelin was capable of alleviating hepatotoxicity in APAP-treated male mice, and this protective effect was associated with the inhibition of hepatocyte oxidative stress. Mechanistically, deguelin reduced the expression of thyrotropin receptor (TSHR) in hepatocytes with APAP treatment through direct interaction. Pharmacologic suppression of TSHR expression using ML224 significantly increased hepatic glutathione (GSH) in APAP-treated male mice. These findings suggest that gut microbiota-derived deguelin plays a crucial role in reducing APAP-induced hepatotoxicity in female mice, offering new insights into therapeutic strategies for DILI.
 
 [Source](https://doi.org/10.1080/19490976.2024.2404138)
+
+10.1080/19490976.2024.2404138
 
 ---
 
