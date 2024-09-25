@@ -137,15 +137,28 @@ Studies of the human microbiome are progressing rapidly but have largely focused
 
 ---
 
-## Deep insights into the assembly mechanisms, co-occurrence patterns, and functional roles of microbial community in wastewater treatment plants
+## Deep insights into the assembly mechanisms, co-occurrence patterns, and functional roles of microbial community in wastewater treatment plants.
+ 20.09.2024, _ZY Wei, M Feng, DX Zhang, CY Jiang, Y Deng, ZJ Wang, K Feng, Y Song, N Zhou, YL Wang, SJ Liu_
+
+
+The understanding of activated sludge microbial status and roles is imperative for improving and enhancing the performance of wastewater treatment plants (WWTPs). In this study, we conducted a deep analysis of activated sludge microbial communities across five compartments (inflow, effluent, and aerobic, anoxic, anaerobic tanks) over temporal scales, employing high-throughput sequencing of 16S rRNA amplicons and metagenome data. Clearly discernible seasonal patterns, exhibiting cyclic variations, were observed in microbial diversity, assembly, co-occurrence network, and metabolic functions. Notably, summer samples exhibited higher α-diversity and were distinctly separated from winter samples. Our analysis revealed that microbial community assembly is influenced by both stochastic processes (66%) and deterministic processes (34%), with winter samples demonstrating more random assembly compared to summer. Co-occurrence patterns were predominantly mutualistic, with over 96% positive correlations, and summer networks were more organized than those in winter. These variations were significantly correlated with temperature, total phosphorus and sludge volume index. However, no significant differences were found among microbial community across five compartments in terms of β diversity. A core community of keystone taxa was identified, playing key roles in eight nitrogen and eleven phosphorus cycling pathways. Understanding the assembly mechanisms, co-occurrence patterns, and functional roles of microbial communities is essential for the design and optimization of biotechnological treatment processes in WWTPs.
 
 [Source](https://doi.org/10.1016/j.envres.2024.120029)
 
+10.1016/j.envres.2024.120029
+
 ---
 
-## Genomic profiling of Antarctic geothermal microbiomes using long-read, Hi-C, and single-cell techniques
+## Genomic profiling of Antarctic geothermal microbiomes using long-read, Hi-C, and single-cell techniques.
+ 22.09.2024, _NR Myeong, YH Choe, SC Shin, J Kim, WJ Sul, M Kim_
+
+
+_Antarctic Regions, Microbiota, Single-Cell Analysis, Hot Springs, Metagenomics, Metagenome_
+Geothermal features in Antarctica provide favorable conditions for diverse microorganisms, yet their genomic diversity remains poorly understood. Here, we present an integrated dataset comprising PacBio HiFi and Hi-C metagenomic sequencing, along with single-cell amplified genomes (SAGs) from two high-altitude geothermal sites, Mount Melbourne and Mount Rittmann, in Antarctica. The long-read HiFi sequencing, coupled with Hi-C, enhances the understanding of microbiome diversity and functionality in this unique ecosystem by providing more complete and accurate genomic information. SAGs complement this by recovering rare microbial taxa and offering a strain-resolved perspective. This dataset aims to deepen our understanding of microbial evolution and ecology in Antarctic geothermal environments, and facilitate cross-comparison with other geothermal environments globally.
 
 [Source](https://doi.org/10.1038/s41597-024-03875-z)
+
+10.1038/s41597-024-03875-z
 
 ---
 
