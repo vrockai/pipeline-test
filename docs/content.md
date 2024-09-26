@@ -1,232 +1,210 @@
-## Multi-way modelling of oral microbial dynamics and host-microbiome interactions during induced gingivitis.
- 22.09.2024, _GR van der Ploeg, BW Brandt, BJF Keijser, MH van der Veen, CMC Volgenant, E Zaura, AK Smilde, JA Westerhuis, A Heintz-Buschart_
+## Harnessing non-standard nucleic acids for highly sensitive icosaplex (20-plex) detection of microbial threats.
+ 24.09.2024, _H Kawabe, L Manfio, SM Pena, NA Zhou, KM Bradley, C Chen, C McLendon, SA Benner, K Levy, Z Yang, JA Marchand, ER Fuhrmeister_
 
 
-_Humans, Gingivitis, Microbiota, Saliva, Host Microbial Interactions, Metabolome, Biofilms, Female, Adult, Male, Bacteria, Principal Component Analysis, Mouth, Young Adult, Healthy Volunteers_
-Gingivitis-the inflammation of the gums-is a reversible stage of periodontal disease. It is caused by dental plaque formation due to poor oral hygiene. However, gingivitis susceptibility involves a complex set of interactions between the oral microbiome, oral metabolome and the host. In this study, we investigated the dynamics of the oral microbiome and its interactions with the salivary metabolome during experimental gingivitis in a cohort of 41 systemically healthy participants. We use Parallel Factor Analysis (PARAFAC), which is a multi-way generalization of Principal Component Analysis (PCA) that can model the variability in the response due to subjects, variables and time. Using the modelled responses, we identified microbial subcommunities with similar dynamics that connect to the magnitude of the gingivitis response. By performing high level integration of the predicted metabolic functions of the microbiome and salivary metabolome, we identified pathways of interest that describe the changing proportions of Gram-positive and Gram-negative microbiota, variation in anaerobic bacteria, biofilm formation and virulence.
+Environmental surveillance and clinical diagnostics heavily rely on the polymerase chain reaction (PCR) for target detection. A growing list of microbial threats warrants new PCR-based detection methods that are highly sensitive, specific, and multiplexable. Here, we introduce a PCR-based icosaplex (20-plex) assay for detecting 18 enteropathogen and two antimicrobial resistance genes. This multiplexed PCR assay leverages the self-avoiding molecular recognition system (SAMRS) to avoid primer dimer formation, the artificially expanded genetic information system (AEGIS) for amplification specificity, and next-generation sequencing for amplicon identification. We benchmarked this assay using a low-cost, portable sequencing platform (Oxford Nanopore) on wastewater, soil, and human stool samples. Using parallelized multi-target TaqMan Array Cards (TAC) to benchmark performance of the 20-plex assay, there was 74% agreement on positive calls and 97% agreement on negative calls. Additionally, we show how sequencing information from the 20-plex can be used to further classify allelic variants of genes and distinguish sub-species. The strategy presented offers sensitive, affordable, and robust multiplex detection that can be used to support efforts in wastewater-based epidemiology, environmental monitoring, and human/animal diagnostics.
 
-[Source](https://doi.org/10.1038/s41522-024-00565-x)
+[Source](https://www.microbiologyresearch.org/content/microbial-primers)
 
-10.1038/s41522-024-00565-x
-
----
-
-## Establishing human microbial observatory programs in low- and middle-income countries.
- 19.09.2024, _JI Gordon, MJ Barratt, MC Hibberd, M Rahman, T Ahmed_
-
-
-Studies of the human microbiome are progressing rapidly but have largely focused on populations living in high-income countries. With increasing evidence that the microbiome contributes to the pathogenesis of diseases that affect infants, children, and adults in low- and middle-income countries (LMICs), and with profound and rapid ongoing changes occurring in our lifestyles and biosphere, understanding the origins of and developing microbiome-directed therapeutics for treating a number of global health challenges requires the development of programs for studying human microbial ecology in LMICs. Here, we discuss how the establishment of long-term human microbial observatory programs in selected LMICs could provide one timely approach.
-
-[Source](https://doi.org/10.1111/nyas.15224)
-
-10.1111/nyas.15224
+10.1101/2024.09.09.24313328
 
 ---
 
-## Vaginal microbiota stability over 18&nbsp;months in young student women in France
+## Microbial Primers
 
-[Source](https://doi.org/10.1007/s10096-024-04943-3)
-
----
-
-## Transfer and persistence of microbiota markers from the human hand to the knife: A preliminary study
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S1752928X24001197?via%3Dihub)
+[Source](https://www.microbiologyresearch.org/content/microbial-primers)
 
 ---
 
-## Dental Caries: The Way Forward.
- 21.09.2024, _DT Kopycka-Kedzierawski, M Fontana, ML Marazita, SW McLaren, E Morou-Bermúdez, TG O'Connor, E Van Wijngaarden, J Xiao, RJ Billings_
+## Phages reconstitute NAD+ to counter bacterial immunity.
+ 25.09.2024, _I Osterman, H Samra, F Rousset, E Loseva, M Itkin, S Malitsky, E Yirmiya, A Millman, R Sorek_
 
 
-It is evident that some progress in reducing ECC prevalence in children has been made, but these improvements are not equally distributed. Systemic inequities in oral health among the youngest, most vulnerable children must be reduced.
+Bacteria defend against phage infection through a variety of antiphage defence systems1. Many defence systems were recently shown to deplete cellular nicotinamide adenine dinucleotide (NAD+) in response to infection, by cleaving NAD+ into ADP-ribose (ADPR) and nicotinamide2-7. It was demonstrated that NAD+ depletion during infection deprives the phage of this essential molecule and impedes phage replication. Here we show that a substantial fraction of phages possess enzymatic pathways allowing reconstitution of NAD+ from its degradation products in infected cells. We describe NAD+ reconstitution pathway 1 (NARP1), a two-step pathway in which one enzyme phosphorylates ADPR to generate ADPR pyrophosphate (ADPR-PP), and the second enzyme conjugates ADPR-PP and nicotinamide to generate NAD+. Phages encoding NARP1 can overcome a diverse set of defence systems, including Thoeris, DSR1, DSR2, SIR2-HerA and SEFIR, all of which deplete NAD+ as part of their defensive mechanism. Phylogenetic analyses show that NARP1 is primarily encoded on phage genomes, suggesting a phage-specific function in countering bacterial defences. A second pathway, NARP2, allows phages to overcome bacterial defences by building NAD+ using metabolites different from ADPR-PP. Our findings reveal a unique immune evasion strategy in which viruses rebuild molecules depleted by defence systems, thus overcoming host immunity.
 
-[Source](https://doi.org/10.1177/23800844241271647)
+[Source](https://www.nature.com/articles/s41586-024-07986-w)
 
-10.1177/23800844241271647
-
----
-
-## Changes in the Firmicutes to Bacteriodetes ratio in the gut microbiome in individuals with anorexia nervosa following inpatient treatment: A systematic review and a case series
-
-[Source](https://doi.org/10.1002/brb3.70014)
+10.1038/s41586-024-07986-w
 
 ---
 
-## <em>Fusobacterium nucleatum </em>facilitates anti-PD-1 therapy in microsatellite stable colorectal cancer
-
-[Source](https://doi.org/10.1016/j.ccell.2024.08.019)
-
----
-
-## Bacterial Extracellular Vesicles as Potential Promoting Factors for Oral Lichen Planus Pathogenesis.
- 21.09.2024, _YG Kim, HJ Song, HJ Kim, BK Joo, JH Cho, W Jung, S Jang, SY Choi, HJ Lee, JS Byun, DY Kim_
+## The direct inhibitory effects of Lactobacillus acidophilus, a commensal urinary bacterium, on calcium oxalate stone development.
+ 21.09.2024, _C Noonin, A Putpim, V Thongboonkerd_
 
 
-Oral lichen planus (OLP) is a chronic inflammatory disease characterized by an intensive infiltration of cytotoxic T cells, which causes keratinocyte death. Abnormal changes within keratinocytes might be critical for OLP onset and progression, but the pathogenic mechanism of OLP is still uncertain. The human oral microbiota, consisting of approximately 50-100 billion bacterial entities, encompasses around 200 dominant bacterial species. These bacteria continuously produce and release extracellular vesicles (EVs), which play a significant role in host-microbe interactions. However, the impact of these bacterial EVs on the progression of OLP has not been fully elucidated. In this study, through comprehensive database analysis and experimental validation, we observed that OLP lesions exhibit elevated inflammatory signatures and significantly increased phosphorylation of STAT3 compared to non-OLP tissues. Notably, EVs derived from key periodontal pathogens, Porphyromonas gingivalis and Aggregatibacter actinomycetemcomitans, were shown to induce an inflammatory response and activate STAT3 signaling pathways, closely mirroring the pathophysiological features observed in OLP. These results underscore the potential role of bacterial EVs in the pathogenesis of OLP and highlight STAT3 as a critical mediator in this process.
+_Lactobacillus acidophilus, Calcium Oxalate, Escherichia coli, Humans, Bacterial Adhesion, Kidney Calculi, Crystallization, Membrane Glycoproteins, Flagella_
+Lactobacillus acidophilus is a commensal urinary bacterium found more abundantly in healthy individuals than in stone patients. Hence, it has been proposed to play an inhibitory role in kidney stone disease (KSD) but with unclear mechanisms. We therefore investigated the direct effects of L. acidophilus on calcium oxalate (CaOx) stone development compared with Escherichia coli, which is known to promote CaOx stone formation.
 
-[Source](https://doi.org/10.1007/s10753-024-02146-8)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01877-y)
 
-10.1007/s10753-024-02146-8
+10.1186/s40168-024-01877-y
 
 ---
 
-## Gut microbiota metabolite trimethylamine N-oxide promoted NAFLD progression by exacerbating intestinal barrier disruption and intrahepatic cellular imbalance.
- 19.09.2024, _F Nian, Y Chen, Q Xia, C Zhu, L Wu, X Lu_
+## Neonatal gut microbiota profile and the association with retinopathy of prematurity in preterm infants.
+ 25.09.2024, _YH Chang, YM Yeh, CC Lee, CH Chiu, HC Chen, YJ Hsueh, CW Lee, R Lien, SM Chu, MC Chiang, EY Kang, KJ Chen, NK Wang, L Liu, YS Hwang, CC Lai, WC Wu_
 
 
-Non-alcoholic fatty liver disease (NAFLD) has become the most common chronic liver disease worldwide, with the gut microbiota and its metabolites are important regulators of its progression. Trimethylamine N-oxide (TMAO), a metabolite of the gut microbiota, has been closely associated with various metabolic diseases, but its relationship with NAFLD remains to be elucidated. In this study, we found that fecal TMAO levels correlated with NAFLD severity. Moreover, TMAO promoted lipid deposition in HepG2 fatty liver cells and exacerbated hepatic steatosis in NAFLD rats. In the colon, TMAO undermined the structure and function of the intestinal barrier at various levels, further activated the TLR4/MyD88/NF-κB pathway, and inhibited the WNT/β-catenin pathway. In the liver, TMAO induced endothelial dysfunction with capillarization of liver sinusoidal endothelial cells, while modulating macrophage polarization. In conclusion, our study suggests that gut microbiota metabolite TMAO promotes NAFLD progression by impairing the gut and liver and that targeting TMAO could be an alternative therapeutic strategy for NAFLD.
+To explore the role of gut microbiota in preterm infants at high risk of developing retinopathy of prematurity (ROP).
 
-[Source](https://doi.org/10.1016/j.intimp.2024.113173)
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/ceo.14441)
 
-10.1016/j.intimp.2024.113173
-
----
-
-## Strengthening the foundation of African microbiome research: strategies for standardized data collection.
- 19.09.2024, _S Kouidhi, OH Oduaran_
-
-
-
-[Source](https://doi.org/10.1038/s41575-024-00986-1)
-
-10.1038/s41575-024-00986-1
+10.1111/ceo.14441
 
 ---
 
-## Microbiota-gut-brain axis in health and neurological disease: Interactions between gut microbiota and the nervous system.
- 24.09.2024, _Y He, K Wang, N Su, C Yuan, N Zhang, X Hu, Y Fu, F Zhao_
+## The wound microbiota: microbial mechanisms of impaired wound healing and infection.
+ 16.07.2024, _A Uberoi, A McCready-Vangi, EA Grice_
 
 
-_Humans, Gastrointestinal Microbiome, Animals, Nervous System Diseases, Brain-Gut Axis, Enteric Nervous System, Brain, Nervous System, Gastrointestinal Tract_
-Along with mounting evidence that gut microbiota and their metabolites migrate endogenously to distal organs, the 'gut-lung axis,' 'gut-brain axis,' 'gut-liver axis' and 'gut-renal axis' have been established. Multiple animal recent studies have demonstrated gut microbiota may also be a key susceptibility factor for neurological disorders such as Alzheimer's disease, Parkinson's disease and autism. The gastrointestinal tract is innervated by the extrinsic sympathetic and vagal nerves and the intrinsic enteric nervous system, and the gut microbiota interacts with the nervous system to maintain homeostatic balance in the host gut. A total of 1507 publications on the interactions between the gut microbiota, the gut-brain axis and neurological disorders are retrieved from the Web of Science to investigate the interactions between the gut microbiota and the nervous system and the underlying mechanisms involved in normal and disease states. We provide a comprehensive overview of the effects of the gut microbiota and its metabolites on nervous system function and neurotransmitter secretion, as well as alterations in the gut microbiota in neurological disorders, to provide a basis for the possibility of targeting the gut microbiota as a therapeutic agent for neurological disorders.
+_Humans, Wound Healing, Microbiota, Wound Infection, Skin, Biofilms, Animals_
+The skin barrier protects the human body from invasion by exogenous and pathogenic microorganisms. A breach in this barrier exposes the underlying tissue to microbial contamination, which can lead to infection, delayed healing, and further loss of tissue and organ integrity. Delayed wound healing and chronic wounds are associated with comorbidities, including diabetes, advanced age, immunosuppression and autoimmune disease. The wound microbiota can influence each stage of the multi-factorial repair process and influence the likelihood of an infection. Pathogens that commonly infect wounds, such as Staphylococcus aureus and Pseudomonas aeruginosa, express specialized virulence factors that facilitate adherence and invasion. Biofilm formation and other polymicrobial interactions contribute to host immunity evasion and resistance to antimicrobial therapies. Anaerobic organisms, fungal and viral pathogens, and emerging drug-resistant microorganisms present unique challenges for diagnosis and therapy. In this Review, we explore the current understanding of how microorganisms present in wounds impact the process of skin repair and lead to infection through their actions on the host and the other microbial wound inhabitants.
 
-[Source](https://doi.org/10.1111/jcmm.70099)
+[Source](https://www.nature.com/articles/s41579-024-01035-z)
 
-10.1111/jcmm.70099
-
----
-
-## Effect of <em>Staphylococcus aureus</em> colonization and immune defects on the pathogenesis of atopic dermatitis
-
-[Source](https://doi.org/10.1007/s00203-024-04134-w)
+10.1038/s41579-024-01035-z
 
 ---
 
-## Gastrointestinal Self-Adaptive and Nutrient Self-Sufficient <em>Akkermansia muciniphila</em>-Gelatin Porous Microgels for Synergistic Therapy of Ulcerative Colitis
+## Altered oral microbiota of drug-resistant organism carriers exhibit impaired gram-negative pathogen inhibition
 
-[Source](https://doi.org/10.1021/acsnano.4c07658)
-
----
-
-## 2'-Fucosyllactose attenuates aging-related metabolic disorders through modulating gut microbiome-T cell axis.
- 20.09.2024, _A Li, R Kou, R Wang, J Wang, B Zhang, J Liu, Y Hu, S Wang_
-
-
-Aging-related metabolic disorders seriously affect the lifespan of middle-aged and older people, potentially due to disruptions in the adaptive immune and gut microbial profiles. Dietary intervention offers a promising strategy for maintaining metabolic health. This study aimed to investigate the ameliorative effect of 2'-fucosyllactose (2'-FL) on aging-induced metabolic dysfunction and the underlying mechanisms. The results revealed that 2'-FL significantly relieved aging-related metabolic disorders, including weight gain, lipid deposition, dyslipidemia, glucose intolerance, systemic inflammation, and abnormal hepatic metabolism. Flow cytometry analysis revealed a significant reduction in T cytotoxic (Tc), T helper (Th), and regulatory T (Treg) cells and a significant increase in Th17 cells in aged mice, while 2'-FL relieved the aging-induced proportional changes in Th and Th17 subtypes. The aging intestinal microecology was characterized by higher Th17/Treg ratios, impaired gut barrier function, lower gut bacterial diversity, decreased abundance of beneficial genera including Ligilactobacillus, Colidextribacter, Mucispirillum, and Lachnoclostridium, and increased abundance of harmful bacteria including Turicibacter and Desulfovibrio, which was ameliorated by 2'-FL treatment. These findings highlight that 2'-FL is an ideal dietary prebiotic for improving aging-related metabolic disorders by modulating both the adaptive immune system and the gut microbial profile.
-
-[Source](https://doi.org/10.1111/acel.14343)
-
-10.1111/acel.14343
+[Source](https://www.biorxiv.org/content/10.1101/2024.09.24.614756v1.abstract)
 
 ---
 
-## <em>Akkermansia </em>in the gastrointestinal tract as a modifier of human health
-
-[Source](https://doi.org/10.1080/19490976.2024.2406379)
-
----
-
-## Dipeptide metabolite, glutamyl-glutamate mediates microbe-host interaction to boost spermatogenesis.
- 22.09.2024, _B Juhász, K Horváth, D Kuti, J Shen, A Feuchtinger, C Zhang, I Bata-Vidács, I Nagy, J Kukolya, M Witting, M Baranyi, S Ferenczi, A Walch, N Sun, KJ Kovács_
+## Emergence of community behaviors in the gut microbiota upon drug treatment.
+ 25.09.2024, _S Garcia-Santamarina, M Kuhn, S Devendran, L Maier, M Driessen, A Mateus, E Mastrorilli, AR Brochado, MM Savitski, KR Patil, M Zimmermann, P Bork, A Typas_
 
 
-_Animals, Male, Mice, Spermatogenesis, Dipeptides, Testis, Sperm Count, Fecal Microbiota Transplantation, Testosterone, Host Microbial Interactions, Metabolomics, Gastrointestinal Microbiome, Fertility_
-The decrease in sperm count and infertility is a global issue that remains unresolved. By screening environmental bacterial isolates, we have found that a novel lactic acid bacterium, Lactiplantibacillus plantarum SNI3, increased testis size, testosterone levels, sperm count, sexual activity and fertility in mice that have consumed the bacteria for four weeks. The abundance of L. plantarum in the colon microbiome was positively associated with sperm count. Fecal microbiota transplantation (FMT) from L. plantarum SNI3-dosed mice improved testicular functions in microbiome-attenuated recipient animals. To identify mediators that confer pro-reproductive effects on the host, untargeted in situ mass spectrometry metabolomics was performed on testis samples of L. plantarum SNI3-treated and control mice. Enrichment pathway analysis revealed several perturbed metabolic pathways in the testis of treated mice. Within the testis, a dipeptide, glutamyl-glutamate (GluGlu) was the most upregulated metabolite following L. plantarum SNI3 administration. To validate the pro-reproductive feature of GluGlu, systemic and local injections of the dipeptide have been performed. γ-GluGlu increased sperm count but had no effect on testosterone. These findings highlight the role of γ-GluGlu in mediating spermatogenetic effects of L. plantarum on the male mouse host and -following relevant human clinical trials- may provide future tools for treating certain forms of male infertility.
+Pharmaceuticals can directly inhibit the growth of gut bacteria, but the degree to which such interactions manifest in complex community settings is an open question. Here, we compared the effects of 30 drugs on a 32-species synthetic community with their effects on each community member in isolation. While most individual drug-species interactions remained the same in the community context, communal behaviors emerged in 26% of all tested cases. Cross-protection during which drug-sensitive species were protected in community was 6 times more frequent than cross-sensitization, the converse phenomenon. Cross-protection decreased and cross-sensitization increased at higher drug concentrations, suggesting that the resilience of microbial communities can collapse when perturbations get stronger. By metabolically profiling drug-treated communities, we showed that both drug biotransformation and bioaccumulation contribute mechanistically to communal protection. As a proof of principle, we molecularly dissected a prominent case: species expressing specific nitroreductases degraded niclosamide, thereby protecting both themselves and sensitive community members.
 
-[Source](https://doi.org/10.1038/s41598-024-73216-y)
+[Source](https://www.sciencedirect.com/science/article/pii/S0092867424009668)
 
-10.1038/s41598-024-73216-y
+10.1016/j.cell.2024.08.037
 
 ---
 
-## Intestinal deguelin drives resistance to acetaminophen-induced hepatotoxicity in female mice.
- 25.09.2024, _S Gong, Y Zeng, Z Wang, Y Li, R Wu, L Li, H Hu, P Qin, Z Yu, X Huang, P Guo, H Yang, Y He, Z Zhao, W Xiao, X Zhao, L Gao, S Cai, Z Zeng_
+## Microbial transformation of dietary xenobiotics shapes gut microbiome composition.
+ 25.09.2024, _EJ Culp, NT Nelson, AA Verdegaal, AL Goodman_
 
 
-_Animals, Acetaminophen, Female, Gastrointestinal Microbiome, Mice, Chemical and Drug Induced Liver Injury, Male, Rotenone, Oxidative Stress, Mice, Inbred C57BL, Hepatocytes, Liver, Glutathione_
-Acetaminophen (APAP) overdose is a leading cause of drug-induced liver injury (DILI), with gender-specific differences in susceptibility. However, the mechanism underlying this phenomenon remains unclear. Our study reveals that the gender-specific differences in susceptibility to APAP-induced hepatotoxicity are due to differences in the gut microbiota. Through microbial multi-omics and cultivation, we observed increased gut microbiota-derived deguelin content in both women and female mice. Administration of deguelin was capable of alleviating hepatotoxicity in APAP-treated male mice, and this protective effect was associated with the inhibition of hepatocyte oxidative stress. Mechanistically, deguelin reduced the expression of thyrotropin receptor (TSHR) in hepatocytes with APAP treatment through direct interaction. Pharmacologic suppression of TSHR expression using ML224 significantly increased hepatic glutathione (GSH) in APAP-treated male mice. These findings suggest that gut microbiota-derived deguelin plays a crucial role in reducing APAP-induced hepatotoxicity in female mice, offering new insights into therapeutic strategies for DILI.
+Diet is a major determinant of gut microbiome composition, and variation in diet-microbiome interactions may contribute to variation in their health consequences. To mechanistically understand these relationships, here we map interactions between ∼150 small-molecule dietary xenobiotics and the gut microbiome, including the impacts of these compounds on community composition, the metabolic activities of human gut microbes on dietary xenobiotics, and interindividual variation in these traits. Microbial metabolism can toxify and detoxify these compounds, producing emergent interactions that explain community-specific remodeling by dietary xenobiotics. We identify the gene and enzyme responsible for detoxification of one such dietary xenobiotic, resveratrol, and demonstrate that this enzyme contributes to interindividual variation in community remodeling by resveratrol. Together, these results systematically map interactions between dietary xenobiotics and the gut microbiome and connect toxification and detoxification to interpersonal differences in microbiome response to diet.
 
-[Source](https://doi.org/10.1080/19490976.2024.2404138)
+[Source](https://www.sciencedirect.com/science/article/pii/S009286742400967X)
 
-10.1080/19490976.2024.2404138
-
----
-
-## Metformin reprograms tryptophan metabolism via gut Microbiome-Derived bile acid metabolites to ameliorate Depression-Like behaviors in mice.
- 20.09.2024, _X Xie, W Li, Z Xiong, J Xu, T Liao, L Sun, H Xu, M Zhang, J Zhou, W Xiong, Z Fu, Z Li, Q Han, D Cui, DC Anthony_
-
-
-As an adjunct therapy, metformin enhances the efficacy of conventional antidepressant medications. However, its mode of action remains unclear. Here, metformin was found to ameliorate depression-like behaviors in mice exposed to chronic restraint stress (CRS) by normalizing the dysbiotic gut microbiome. Fecal transplants from metformin-treated mice ameliorated depressive behaviors in stressed mice. Microbiome profiling revealed that Akkermansia muciniphila (A. muciniphila), in particular, was markedly increased in the gut by metformin and that oral administration of this species alone was sufficient to reverse CRS-induced depressive behaviors and normalize aberrant stress-induced 5-hydroxytryptamine (5-HT) metabolism in the brain and gut. Untargeted metabolomic profiling further identified the bile acid metabolites taurocholate and deoxycholic acid as direct A. muciniphila-derived molecules that are, individually, sufficient to rescue the CRS-induced impaired 5-HT metabolism and depression-like behaviors. Thus, we report metformin reprograms 5-HT metabolism via microbiome-brain interactions to mitigate depressive syndromes, providing novel insights into gut microbiota-derived bile acids as potential therapeutic candidates for depressive mood disorders from bench to bedside.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0889159124006159?via%3Dihub)
-
-10.1016/j.bbi.2024.09.014
+10.1016/j.cell.2024.08.038
 
 ---
 
-## Dynamics of the microbiome and volatile organic compounds during fermentation and aging of soy sauce.
- 20.09.2024, _Y Mizuno, T Yoshimura, K Sawada, K Tsuge, Y Nagano, Y Yoshizaki, M Goto, G Kobayashi_
+## Microglia and Gut Microbiota: A Double-Edged Sword in Alzheimer's Disease.
+ 25.09.2024, _N Bano, S Khan, S Ahamad, JS Kanshana, NJ Dar, S Khan, A Nazir, SA Bhat_
 
 
-A comprehensive analysis of the microbiome and volatile organic compounds (VOC) in the moromi of soy sauce during fermentation and aging was conducted under industrial production. Microbiome analysis using next-generation sequencing revealed the presence and dynamics of microorganisms other than Aspergillus, Tetragenococcus, Zygosaccharomyces, and Wickerhamiella, which were used as starters. The bacterial community of the moromi on the first day of this process was rich in diversity. Staphylococcus, Bacillus, Kurthia, Acinetobacter, Enterococcus, and Macrococcus that grew during koji making were relatively dominant. However, as the fermentation progressed, only Tetragenococcus became dominant in the bacterial communities. In contrast, the fungal community was simple at the beginning of fermentation and aging, with Aspergillus present almost exclusively. After adding Zygosaccharomyces rouxii on day 42, the fungal community changed significantly. At the end of fermentation and aging, the fungal community diversified, with Millerozyma, Wickerhamiella, Yamadazyma, and Saccharomycopsis becoming dominant. The analysis of VOC showed that the VOC profile changed during fermentation and aging, and that the VOC profile changed significantly after adding Z. rouxii. The correlation analysis between the microbiome and VOC showed that Wickerhamiella, Millerozyma, Debaryomyces, Yamadazyma, and Candida had a significant positive correlation with alcohols, esters, and phenols produced in the later stage of fermentation and aging, indicating that not only Z. rouxii but also various fungi may contribute to the formation of the complex aroma profile of soy sauce.
+The strong association between gut microbiota (GM) and brain functions such as mood, behaviour, and cognition has been well documented. Gut-brain axis is a unique bidirectional communication system between the gut and brain, in which gut microbes play essential role in maintaining various molecular and cellular processes. GM interacts with the brain through various pathways and processes including, metabolites, vagus nerve, HPA axis, endocrine system, and immune system to maintain brain homeostasis. GM dysbiosis, or an imbalance in GM, is associated with several neurological disorders, including anxiety, depression, and Alzheimer's disease (AD). Conversely, AD is sustained by microglia-mediated neuroinflammation and neurodegeneration. Further, GM and their products also affect microglia-mediated neuroinflammation and neurodegeneration. Despite the evidence connecting GM dysbiosis and AD progression, the involvement of GM in modulating microglia-mediated neuroinflammation in AD remains elusive. Importantly, deciphering the mechanism/s by which GM regulates microglia-dependent neuroinflammation may be helpful in devising potential therapeutic strategies to mitigate AD. Herein, we review the current evidence regarding the involvement of GM dysbiosis in microglia activation and neuroinflammation in AD. We also discuss the possible mechanisms through which GM influences the functioning of microglia and its implications for therapeutic intervention. Further, we explore the potential of microbiota-targeted interventions, such as prebiotics, probiotics, faecal microbiota transplantation, etc., as a novel therapeutic strategy to mitigate neuroinflammation and AD progression. By understanding and exploring the gut-brain axis, we aspire to revolutionize the treatment of neurodegenerative disorders, many of which share a common theme of microglia-mediated neuroinflammation and neurodegeneration.
 
-[Source](https://doi.org/10.1016/j.jbiosc.2024.08.009)
+[Source](https://www.sciencedirect.com/science/article/pii/S1568163724003337)
 
-10.1016/j.jbiosc.2024.08.009
-
----
-
-## Unveiling the Brazilian kefir microbiome: discovery of a novel <em>Lactobacillus kefiranofaciens</em> (LkefirU) genome and in silico prospection of bioactive peptides with potential anti-Alzheimer properties
-
-[Source](https://doi.org/10.1186/s12864-024-10695-3)
+10.1016/j.arr.2024.102515
 
 ---
 
-## Pseudomonas fluorescens Inoculation Enhances Salix matsudana Growth by Modifying Phyllosphere Microbiomes, Surpassing Nitrogen Fertilization.
- 20.09.2024, _Q Li, Y He, J Feng, Y He, S Zhang_
+## What defines a healthy gut microbiome?
+ 25.09.2024, _M Van Hul, PD Cani, C Petifils, WM De Vos, H Tilg, EM El Omar_
 
 
-The enhancement of plant growth by soil fertilization and microbial inoculation involves different mechanisms, particularly by altering the phyllosphere microbiome. This study investigated how nitrogen (N) fertilization, Pseudomonas fluorescens strain R124 inoculation and their combined effects influence the growth of different-aged Salix matsudana cuttings by modulating N dynamics within the phyllosphere microbiome. Results showed that P. fluorescens inoculation was significantly more effective than N fertilization alone, enhancing biomass, plant nutrient uptake, soil nutrient content and root development by 90.51%, 18.18%, 72.74% and 126.20%, respectively. Crucially, the inoculation notably shifted the beta-diversity of the phyllosphere microbial community, with K-strategy fungi enhancing plant N fixation and subsequent plant growth. Cuttings from middle-aged forests displayed more robust growth than those from young-aged, associated with a varied impact on phyllosphere fungi, notably increasing the relative abundance of Myriangiales in young (76.37%) and Capnodiales in middle-aged cuttings (42.37%), which improve phyllosphere stability and plant health. These findings highlight the effectiveness of microbial inoculation over N fertilization in promoting plant growth and provide valuable insights for the sustainable management of willow plantations at different stages of development.
+The understanding that changes in microbiome composition can influence chronic human diseases and the efficiency of therapies has driven efforts to develop microbiota-centred therapies such as first and next generation probiotics, prebiotics and postbiotics, microbiota editing and faecal microbiota transplantation. Central to microbiome research is understanding how disease impacts microbiome composition and vice versa, yet there is a problematic issue with the term 'dysbiosis', which broadly links microbial imbalances to various chronic illnesses without precision or definition. Another significant issue in microbiome discussions is defining 'healthy individuals' to ascertain what characterises a healthy microbiome. This involves questioning who represents the healthiest segment of our population-whether it is those free from illnesses, athletes at peak performance, individuals living healthily through regular exercise and good nutrition or even elderly adults or centenarians who have been tested by time and achieved remarkable healthy longevity.This review advocates for delineating 'what defines a healthy microbiome?' by considering a broader range of factors related to human health and environmental influences on the microbiota. A healthy microbiome is undoubtedly linked to gut health. Nevertheless, it is very difficult to pinpoint a universally accepted definition of 'gut health' due to the complexities of measuring gut functionality besides the microbiota composition. We must take into account individual variabilities, the influence of diet, lifestyle, host and environmental factors. Moreover, the challenge in distinguishing causation from correlation between gut microbiome and overall health is presented.The review also highlights the resource-heavy nature of comprehensive gut health assessments, which hinders their practicality and broad application. Finally, we call for continued research and a nuanced approach to better understand the intricate and evolving concept of gut health, emphasising the need for more precise and inclusive definitions and methodologies in studying the microbiome.
 
-[Source](https://doi.org/10.1111/pce.15162)
+[Source](https://gut.bmj.com/content/early/2024/09/25/gutjnl-2024-333378)
 
-10.1111/pce.15162
-
----
-
-## Deep insights into the assembly mechanisms, co-occurrence patterns, and functional roles of microbial community in wastewater treatment plants.
- 20.09.2024, _ZY Wei, M Feng, DX Zhang, CY Jiang, Y Deng, ZJ Wang, K Feng, Y Song, N Zhou, YL Wang, SJ Liu_
-
-
-The understanding of activated sludge microbial status and roles is imperative for improving and enhancing the performance of wastewater treatment plants (WWTPs). In this study, we conducted a deep analysis of activated sludge microbial communities across five compartments (inflow, effluent, and aerobic, anoxic, anaerobic tanks) over temporal scales, employing high-throughput sequencing of 16S rRNA amplicons and metagenome data. Clearly discernible seasonal patterns, exhibiting cyclic variations, were observed in microbial diversity, assembly, co-occurrence network, and metabolic functions. Notably, summer samples exhibited higher α-diversity and were distinctly separated from winter samples. Our analysis revealed that microbial community assembly is influenced by both stochastic processes (66%) and deterministic processes (34%), with winter samples demonstrating more random assembly compared to summer. Co-occurrence patterns were predominantly mutualistic, with over 96% positive correlations, and summer networks were more organized than those in winter. These variations were significantly correlated with temperature, total phosphorus and sludge volume index. However, no significant differences were found among microbial community across five compartments in terms of β diversity. A core community of keystone taxa was identified, playing key roles in eight nitrogen and eleven phosphorus cycling pathways. Understanding the assembly mechanisms, co-occurrence patterns, and functional roles of microbial communities is essential for the design and optimization of biotechnological treatment processes in WWTPs.
-
-[Source](https://doi.org/10.1016/j.envres.2024.120029)
-
-10.1016/j.envres.2024.120029
+10.1136/gutjnl-2024-333378
 
 ---
 
-## Genomic profiling of Antarctic geothermal microbiomes using long-read, Hi-C, and single-cell techniques.
- 22.09.2024, _NR Myeong, YH Choe, SC Shin, J Kim, WJ Sul, M Kim_
+## The gut microbiome and chronic pain.
+ 25.09.2024, _C Watson_
 
 
-_Antarctic Regions, Microbiota, Single-Cell Analysis, Hot Springs, Metagenomics, Metagenome_
-Geothermal features in Antarctica provide favorable conditions for diverse microorganisms, yet their genomic diversity remains poorly understood. Here, we present an integrated dataset comprising PacBio HiFi and Hi-C metagenomic sequencing, along with single-cell amplified genomes (SAGs) from two high-altitude geothermal sites, Mount Melbourne and Mount Rittmann, in Antarctica. The long-read HiFi sequencing, coupled with Hi-C, enhances the understanding of microbiome diversity and functionality in this unique ecosystem by providing more complete and accurate genomic information. SAGs complement this by recovering rare microbial taxa and offering a strain-resolved perspective. This dataset aims to deepen our understanding of microbial evolution and ecology in Antarctic geothermal environments, and facilitate cross-comparison with other geothermal environments globally.
+_Gastrointestinal Microbiome, Chronic Pain, Humans, Animals, Mice_
 
-[Source](https://doi.org/10.1038/s41597-024-03875-z)
+[Source](https://www.nature.com/articles/d41586-024-03006-z)
 
-10.1038/s41597-024-03875-z
+10.1038/d41586-024-03006-z
+
+---
+
+## Acarbose enhances the efficacy of immunotherapy against solid tumours by modulating the gut microbiota.
+ 25.09.2024, _SL Zhang, X Wang, QQ Cai, C Chen, ZY Zhang, YY Xu, MX Yang, QA Jia, Y Wang, ZM Wang_
+
+
+The crucial role of gut microbiota in shaping immunotherapy outcomes has prompted investigations into potential modulators. Here we show that oral administration of acarbose significantly increases the anti-tumour response to anti-PD-1 therapy in female tumour-bearing mice. Acarbose modulates the gut microbiota composition and tryptophan metabolism, thereby contributing to changes in chemokine expression and increased T cell infiltration within tumours. We identify CD8+ T cells as pivotal components determining the efficacy of the combined therapy. Further experiments reveal that acarbose promotes CD8+ T cell recruitment through the CXCL10-CXCR3 pathway. Faecal microbiota transplantation and gut microbiota depletion assays indicate that the effects of acarbose are dependent on the gut microbiota. Specifically, acarbose enhances the efficacy of anti-PD-1 therapy via the tryptophan catabolite indoleacetate, which promotes CXCL10 expression and thus facilitates CD8+ T cell recruitment, sensitizing tumours to anti-PD-1 therapy. The bacterial species Bifidobacterium infantis, which is enriched by acarbose, also improves response to anti-PD-1 therapy. Together, our study endorses the potential combination of acarbose and anti-PD-1 for cancer immunotherapy.
+
+[Source](https://www.nature.com/articles/s42255-024-01137-1)
+
+10.1038/s42255-024-01137-1
+
+---
+
+## Trait-based study predicts glycerol/diol dehydratases as a key function of the gut microbiota of hindgut-fermenting carnivores.
+ 22.09.2024, _Q Li, HJ Ruscheweyh, LH Østergaard, M Libertella, KS Simonsen, S Sunagawa, A Scoma, C Schwab_
+
+
+_Animals, Gastrointestinal Microbiome, Feces, Fermentation, Glycerol, Metagenomics, Hydro-Lyases, Propylene Glycols, Vitamin B 12, Bacteria, Phylogeny, Animals, Wild_
+Microbial pdu and cob-cbi-hem gene clusters encode the key enzyme glycerol/diol dehydratase (PduCDE), which mediates the transformation of dietary nutrients glycerol and 1,2-propanediol (1,2-PD) to a variety of metabolites, and enzymes for cobalamin synthesis, a co-factor and shared good of microbial communities. It was the aim of this study to relate pdu as a multipurpose functional trait to environmental conditions and microbial community composition. We collected fecal samples from wild animal species living in captivity with different gut physiology and diet (n = 55, in total 104 samples), determined occurrence and diversity of pdu and cob-cbi-hem using a novel approach combining metagenomics with quantification of metabolic and genetic biomarkers, and conducted in vitro fermentations to test for trait-based activity.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01863-4)
+
+10.1186/s40168-024-01863-4
+
+---
+
+## Microbial community storm dynamics signal sources of "old" stream water.
+ 24.09.2024, _DR URycki, SP Good, BC Crump, NC Ceperley, JR Brooks_
+
+
+_Rivers, Microbiota, RNA, Ribosomal, 16S, Water Microbiology, Oregon, Water Movements, Hydrology, Bacteria, Oxygen Isotopes_
+Accurate characterization of the movement of water through catchments, particularly during precipitation event response, is critical for hydrological efforts such as contaminant transport modeling or prediction of extreme flows. Abiotic hydrogeochemical tracers are commonly used to track sources and ages of surface waters but provide limited details about transit pathways or the spatial dynamics of water storage and release. Alternatively, biotic material in streams is derived from thousands of taxa originating from a variety of environments within watersheds, including groundwater, sediment, and upslope terrestrial environments, and this material can be characterized with genetic sequencing and bioinformatics. We analyzed the stable water isotopes (δ18O and δ2H) and microbiome composition (16S rRNA gene amplicon sequencing) of the Marys River of western Oregon, USA during an early season storm to describe the processes, storage, and flowpaths that shape surface water hydrology. Stable water isotopes (δ18O and δ2H) typified an event response in which stream water is composed largely of 'old' water introduced to the catchment before the storm, a common though not well understood phenomenon. In contrast, microbial biodiversity spiked during the storm, consisting of early- and late-event communities clearly distinguishable from pre-event communities. We applied concentration-discharge (cQ) analysis to individual microbial taxa and found that most Alphaproteobacteria sequences were positively correlated (i.e., were mobilized) with discharge, whereas most sequences from phyla Gammaproteobacteria and Bacteroidota were negatively correlated with discharge (i.e., were diluted). Source predictions using the prokaryote habitat preference database ProkAtlas found that freshwater-associated microbes composed a smaller fraction of the microbial community during the stream rise and a larger fraction during the recession, while soil and biofilm-associated microbes increased during the storm and remained high during recession. This suggests that the "old" water discharged during the storm was likely stored and released from, or passed through, soil- and biofilm-rich environments, demonstrating that this approach adds new, biologically derived tracer information about the hydrologic pathways active during and after this event. Overall, this study demonstrates an approach for integrating information-rich DNA into water resource investigations, incorporating tools from both hydrology and microbiology to demonstrate that microbial DNA is useful not only as an indicator of biodiversity but also functions as an innovative hydrologic tracer.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306896)
+
+10.1371/journal.pone.0306896
+
+---
+
+## Hyperexpansion of genetic diversity and metabolic capacity of extremophilic bacteria and archaea in ancient Andean lake sediments.
+ 21.09.2024, _MÁ Lezcano, TLV Bornemann, L Sánchez-García, D Carrizo, PS Adam, SP Esser, NA Cabrol, AJ Probst, V Parro_
+
+
+_Lakes, Archaea, Geologic Sediments, Bacteria, Genetic Variation, Chile, Phylogeny, Microbiota, Extremophiles, RNA, Ribosomal, 16S_
+The Andean Altiplano hosts a repertoire of high-altitude lakes with harsh conditions for life. These lakes are undergoing a process of desiccation caused by the current climate, leaving terraces exposed to extreme atmospheric conditions and serving as analogs to Martian paleolake basins. Microbiomes in Altiplano lake terraces have been poorly studied, enclosing uncultured lineages and a great opportunity to understand environmental adaptation and the limits of life on Earth. Here we examine the microbial diversity and function in ancient sediments (10.3-11 kyr BP (before present)) from a terrace profile of Laguna Lejía, a sulfur- and metal/metalloid-rich saline lake in the Chilean Altiplano. We also evaluate the physical and chemical changes of the lake over time by studying the mineralogy and geochemistry of the terrace profile.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01878-x)
+
+10.1186/s40168-024-01878-x
+
+---
+
+## Bronze Age cheese reveals human-Lactobacillus interactions over evolutionary history
+
+[Source](https://www.cell.com/cell/fulltext/S0092-8674(24)00899-7)
+
+---
+
+## A realistic benchmark for differential abundance testing and confounder adjustment in human microbiome studies.
+ 25.09.2024, _J Wirbel, M Essex, SK Forslund, G Zeller_
+
+
+_Humans, Microbiota, Benchmarking, RNA, Ribosomal, 16S, Computer Simulation_
+In microbiome disease association studies, it is a fundamental task to test which microbes differ in their abundance between groups. Yet, consensus on suitable or optimal statistical methods for differential abundance testing is lacking, and it remains unexplored how these cope with confounding. Previous differential abundance benchmarks relying on simulated datasets did not quantitatively evaluate the similarity to real data, which undermines their recommendations.
+
+[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03390-9)
+
+10.1186/s13059-024-03390-9
+
+---
+
+## Quantifying Data Distortion in Bar Graphs in Biological Research
+
+[Source](https://www.biorxiv.org/content/10.1101/2024.09.20.609464v1.abstract)
 
 ---
 
