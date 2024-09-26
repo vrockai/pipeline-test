@@ -158,7 +158,7 @@ Microbial pdu and cob-cbi-hem gene clusters encode the key enzyme glycerol/diol 
 ---
 
 ## Microbial community storm dynamics signal sources of "old" stream water.
- 24.09.2024, _DR URycki, SP Good, BC Crump, NC Ceperley, JR Brooks_
+ 26.09.2024, _DR URycki, SP Good, BC Crump, NC Ceperley, JR Brooks_
 
 
 _Rivers, Microbiota, RNA, Ribosomal, 16S, Water Microbiology, Oregon, Water Movements, Hydrology, Bacteria, Oxygen Isotopes_
