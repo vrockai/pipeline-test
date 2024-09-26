@@ -35,9 +35,15 @@ Studies of the human microbiome are progressing rapidly but have largely focused
 
 ---
 
-## Dental Caries: The Way Forward
+## Dental Caries: The Way Forward.
+ 21.09.2024, _DT Kopycka-Kedzierawski, M Fontana, ML Marazita, SW McLaren, E Morou-Bermúdez, TG O'Connor, E Van Wijngaarden, J Xiao, RJ Billings_
+
+
+It is evident that some progress in reducing ECC prevalence in children has been made, but these improvements are not equally distributed. Systemic inequities in oral health among the youngest, most vulnerable children must be reduced.
 
 [Source](https://doi.org/10.1177/23800844241271647)
+
+10.1177/23800844241271647
 
 ---
 
@@ -53,27 +59,51 @@ Studies of the human microbiome are progressing rapidly but have largely focused
 
 ---
 
-## Bacterial Extracellular Vesicles as Potential Promoting Factors for Oral Lichen Planus Pathogenesis
+## Bacterial Extracellular Vesicles as Potential Promoting Factors for Oral Lichen Planus Pathogenesis.
+ 21.09.2024, _YG Kim, HJ Song, HJ Kim, BK Joo, JH Cho, W Jung, S Jang, SY Choi, HJ Lee, JS Byun, DY Kim_
+
+
+Oral lichen planus (OLP) is a chronic inflammatory disease characterized by an intensive infiltration of cytotoxic T cells, which causes keratinocyte death. Abnormal changes within keratinocytes might be critical for OLP onset and progression, but the pathogenic mechanism of OLP is still uncertain. The human oral microbiota, consisting of approximately 50-100 billion bacterial entities, encompasses around 200 dominant bacterial species. These bacteria continuously produce and release extracellular vesicles (EVs), which play a significant role in host-microbe interactions. However, the impact of these bacterial EVs on the progression of OLP has not been fully elucidated. In this study, through comprehensive database analysis and experimental validation, we observed that OLP lesions exhibit elevated inflammatory signatures and significantly increased phosphorylation of STAT3 compared to non-OLP tissues. Notably, EVs derived from key periodontal pathogens, Porphyromonas gingivalis and Aggregatibacter actinomycetemcomitans, were shown to induce an inflammatory response and activate STAT3 signaling pathways, closely mirroring the pathophysiological features observed in OLP. These results underscore the potential role of bacterial EVs in the pathogenesis of OLP and highlight STAT3 as a critical mediator in this process.
 
 [Source](https://doi.org/10.1007/s10753-024-02146-8)
 
+10.1007/s10753-024-02146-8
+
 ---
 
-## Gut microbiota metabolite trimethylamine N-oxide promoted NAFLD progression by exacerbating intestinal barrier disruption and intrahepatic cellular imbalance
+## Gut microbiota metabolite trimethylamine N-oxide promoted NAFLD progression by exacerbating intestinal barrier disruption and intrahepatic cellular imbalance.
+ 19.09.2024, _F Nian, Y Chen, Q Xia, C Zhu, L Wu, X Lu_
+
+
+Non-alcoholic fatty liver disease (NAFLD) has become the most common chronic liver disease worldwide, with the gut microbiota and its metabolites are important regulators of its progression. Trimethylamine N-oxide (TMAO), a metabolite of the gut microbiota, has been closely associated with various metabolic diseases, but its relationship with NAFLD remains to be elucidated. In this study, we found that fecal TMAO levels correlated with NAFLD severity. Moreover, TMAO promoted lipid deposition in HepG2 fatty liver cells and exacerbated hepatic steatosis in NAFLD rats. In the colon, TMAO undermined the structure and function of the intestinal barrier at various levels, further activated the TLR4/MyD88/NF-κB pathway, and inhibited the WNT/β-catenin pathway. In the liver, TMAO induced endothelial dysfunction with capillarization of liver sinusoidal endothelial cells, while modulating macrophage polarization. In conclusion, our study suggests that gut microbiota metabolite TMAO promotes NAFLD progression by impairing the gut and liver and that targeting TMAO could be an alternative therapeutic strategy for NAFLD.
 
 [Source](https://doi.org/10.1016/j.intimp.2024.113173)
 
+10.1016/j.intimp.2024.113173
+
 ---
 
-## Strengthening the foundation of African microbiome research: strategies for standardized data collection
+## Strengthening the foundation of African microbiome research: strategies for standardized data collection.
+ 19.09.2024, _S Kouidhi, OH Oduaran_
+
+
 
 [Source](https://doi.org/10.1038/s41575-024-00986-1)
 
+10.1038/s41575-024-00986-1
+
 ---
 
-## Microbiota-gut-brain axis in health and neurological disease: Interactions between gut microbiota and the nervous system
+## Microbiota-gut-brain axis in health and neurological disease: Interactions between gut microbiota and the nervous system.
+ 24.09.2024, _Y He, K Wang, N Su, C Yuan, N Zhang, X Hu, Y Fu, F Zhao_
+
+
+_Humans, Gastrointestinal Microbiome, Animals, Nervous System Diseases, Brain-Gut Axis, Enteric Nervous System, Brain, Nervous System, Gastrointestinal Tract_
+Along with mounting evidence that gut microbiota and their metabolites migrate endogenously to distal organs, the 'gut-lung axis,' 'gut-brain axis,' 'gut-liver axis' and 'gut-renal axis' have been established. Multiple animal recent studies have demonstrated gut microbiota may also be a key susceptibility factor for neurological disorders such as Alzheimer's disease, Parkinson's disease and autism. The gastrointestinal tract is innervated by the extrinsic sympathetic and vagal nerves and the intrinsic enteric nervous system, and the gut microbiota interacts with the nervous system to maintain homeostatic balance in the host gut. A total of 1507 publications on the interactions between the gut microbiota, the gut-brain axis and neurological disorders are retrieved from the Web of Science to investigate the interactions between the gut microbiota and the nervous system and the underlying mechanisms involved in normal and disease states. We provide a comprehensive overview of the effects of the gut microbiota and its metabolites on nervous system function and neurotransmitter secretion, as well as alterations in the gut microbiota in neurological disorders, to provide a basis for the possibility of targeting the gut microbiota as a therapeutic agent for neurological disorders.
 
 [Source](https://doi.org/10.1111/jcmm.70099)
+
+10.1111/jcmm.70099
 
 ---
 
@@ -89,9 +119,15 @@ Studies of the human microbiome are progressing rapidly but have largely focused
 
 ---
 
-## 2′-Fucosyllactose attenuates aging-related metabolic disorders through modulating gut microbiome-T cell axis
+## 2'-Fucosyllactose attenuates aging-related metabolic disorders through modulating gut microbiome-T cell axis.
+ 20.09.2024, _A Li, R Kou, R Wang, J Wang, B Zhang, J Liu, Y Hu, S Wang_
+
+
+Aging-related metabolic disorders seriously affect the lifespan of middle-aged and older people, potentially due to disruptions in the adaptive immune and gut microbial profiles. Dietary intervention offers a promising strategy for maintaining metabolic health. This study aimed to investigate the ameliorative effect of 2'-fucosyllactose (2'-FL) on aging-induced metabolic dysfunction and the underlying mechanisms. The results revealed that 2'-FL significantly relieved aging-related metabolic disorders, including weight gain, lipid deposition, dyslipidemia, glucose intolerance, systemic inflammation, and abnormal hepatic metabolism. Flow cytometry analysis revealed a significant reduction in T cytotoxic (Tc), T helper (Th), and regulatory T (Treg) cells and a significant increase in Th17 cells in aged mice, while 2'-FL relieved the aging-induced proportional changes in Th and Th17 subtypes. The aging intestinal microecology was characterized by higher Th17/Treg ratios, impaired gut barrier function, lower gut bacterial diversity, decreased abundance of beneficial genera including Ligilactobacillus, Colidextribacter, Mucispirillum, and Lachnoclostridium, and increased abundance of harmful bacteria including Turicibacter and Desulfovibrio, which was ameliorated by 2'-FL treatment. These findings highlight that 2'-FL is an ideal dietary prebiotic for improving aging-related metabolic disorders by modulating both the adaptive immune system and the gut microbial profile.
 
 [Source](https://doi.org/10.1111/acel.14343)
+
+10.1111/acel.14343
 
 ---
 
@@ -101,9 +137,16 @@ Studies of the human microbiome are progressing rapidly but have largely focused
 
 ---
 
-## Dipeptide metabolite, glutamyl-glutamate mediates microbe-host interaction to boost spermatogenesis
+## Dipeptide metabolite, glutamyl-glutamate mediates microbe-host interaction to boost spermatogenesis.
+ 22.09.2024, _B Juhász, K Horváth, D Kuti, J Shen, A Feuchtinger, C Zhang, I Bata-Vidács, I Nagy, J Kukolya, M Witting, M Baranyi, S Ferenczi, A Walch, N Sun, KJ Kovács_
+
+
+_Animals, Male, Mice, Spermatogenesis, Dipeptides, Testis, Sperm Count, Fecal Microbiota Transplantation, Testosterone, Host Microbial Interactions, Metabolomics, Gastrointestinal Microbiome, Fertility_
+The decrease in sperm count and infertility is a global issue that remains unresolved. By screening environmental bacterial isolates, we have found that a novel lactic acid bacterium, Lactiplantibacillus plantarum SNI3, increased testis size, testosterone levels, sperm count, sexual activity and fertility in mice that have consumed the bacteria for four weeks. The abundance of L. plantarum in the colon microbiome was positively associated with sperm count. Fecal microbiota transplantation (FMT) from L. plantarum SNI3-dosed mice improved testicular functions in microbiome-attenuated recipient animals. To identify mediators that confer pro-reproductive effects on the host, untargeted in situ mass spectrometry metabolomics was performed on testis samples of L. plantarum SNI3-treated and control mice. Enrichment pathway analysis revealed several perturbed metabolic pathways in the testis of treated mice. Within the testis, a dipeptide, glutamyl-glutamate (GluGlu) was the most upregulated metabolite following L. plantarum SNI3 administration. To validate the pro-reproductive feature of GluGlu, systemic and local injections of the dipeptide have been performed. γ-GluGlu increased sperm count but had no effect on testosterone. These findings highlight the role of γ-GluGlu in mediating spermatogenetic effects of L. plantarum on the male mouse host and -following relevant human clinical trials- may provide future tools for treating certain forms of male infertility.
 
 [Source](https://doi.org/10.1038/s41598-024-73216-y)
+
+10.1038/s41598-024-73216-y
 
 ---
 
