@@ -121,7 +121,7 @@ The understanding that changes in microbiome composition can influence chronic h
 ---
 
 ## The gut microbiome and chronic pain.
- 25.09.2024, _C Watson_
+ 26.09.2024, _C Watson_
 
 
 _Gastrointestinal Microbiome, Chronic Pain, Humans, Animals, Mice_
@@ -183,9 +183,15 @@ The Andean Altiplano hosts a repertoire of high-altitude lakes with harsh condit
 
 ---
 
-## Bronze Age cheese reveals human-Lactobacillus interactions over evolutionary history
+## Bronze Age cheese reveals human-Lactobacillus interactions over evolutionary history.
+ 26.09.2024, _Y Liu, B Miao, W Li, X Hu, F Bai, Y Abuduresule, Y Liu, Z Zheng, W Wang, Z Chen, S Zhu, X Feng, P Cao, W Ping, R Yang, Q Dai, F Liu, C Tian, Y Yang, Q Fu_
+
+
+Despite the long history of consumption of fermented dairy, little is known about how the fermented microbes were utilized and evolved over human history. Here, by retrieving ancient DNA of Bronze Age kefir cheese (∼3,500 years ago) from the Xiaohe cemetery, we explored past human-microbial interactions. Although it was previously suggested that kefir was spread from the Northern Caucasus to Europe and other regions, we found an additional spreading route of kefir from Xinjiang to inland East Asia. Over evolutionary history, the East Asian strains gained multiple gene clusters with defensive roles against environmental stressors, which can be a result of the adaptation of Lactobacillus strains to various environmental niches and human selection. Overall, our results highlight the role of past human activities in shaping the evolution of human-related microbes, and such insights can, in turn, provide a better understanding of past human behaviors.
 
 [Source](https://www.cell.com/cell/fulltext/S0092-8674(24)00899-7)
+
+10.1016/j.cell.2024.08.008
 
 ---
 
