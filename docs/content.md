@@ -121,10 +121,10 @@ The understanding that changes in microbiome composition can influence chronic h
 ---
 
 ## The gut microbiome and chronic pain.
- 26.09.2024, _C Watson_
+ 27.09.2024, _C Watson_
 
 
-_Gastrointestinal Microbiome, Chronic Pain, Humans, Animals, Mice_
+_Animals, Humans, Mice, Chronic Pain, Gastrointestinal Microbiome, Endometriosis, Female_
 
 [Source](https://www.nature.com/articles/d41586-024-03006-z)
 
