@@ -1,217 +1,300 @@
-## Analysis of antimicrobial resistance and genetic diversity of Acinetobacter baumannii in a tertiary care hospital in Haikou City.
- 27.09.2024, _HL Zhang, MM Nizamani, Y Wang, X Cui, H Xiu, M Qayyum, Q Sun_
+## Gut microbiota drives colon cancer risk associated with diet: a comparative analysis of meat-based and pesco-vegetarian diets
 
-
-_Acinetobacter baumannii, Humans, Tertiary Care Centers, Male, Aged, Genetic Variation, Middle Aged, Female, Acinetobacter Infections, Retrospective Studies, Anti-Bacterial Agents, Adult, Drug Resistance, Multiple, Bacterial, Microbial Sensitivity Tests, Aged, 80 and over, Random Amplified Polymorphic DNA Technique, Adolescent, Young Adult, Child, Child, Preschool, Infant, Drug Resistance, Bacterial_
-This study addresses the distribution and antimicrobial resistance of Acinetobacter baumannii (A. baumannii) in a medical facility in Haikou City, aiming to provide essential insights for enhancing in-hospital treatment and prevention strategies. We conducted a retrospective analysis of 513 A. baumannii isolates collected from a tertiary care hospital in Haikou between January 2018 and December 2020, focusing on their antimicrobial resistance patterns. Random Amplified Polymorphic DNA (RAPD) analysis was performed on 48 randomly selected A. baumannii strains. Using Gel-pro4.0 and NTSYSspc2.10 software, we constructed dendrograms to assess the genetic diversity of these strains. Our results indicate that males between 60 and 70 years old are particularly vulnerable to A. baumannii infections, which are most frequently detected in sputum samples, with a detection rate exceeding 70%. Alarmingly, over 50% of the isolates were identified as multi-drug resistant. The RAPD-PCR fingerprinting cluster analysis demonstrated substantial genetic diversity among the strains. Using primer OPA-02 at a 45% similarity coefficient, the strains were categorized into four groups (A-D), with group A being predominant (39 strains). high-prevalence areas like the Neurosurgery and Intensive Care Medicine Wards require enhanced surveillance and targeted interventions to manage Group C infections effectively. Additionally, the varied presence of other groups necessitates customized strategies to address the specific risks in each ward. Similarly, primer 270 at a 52% similarity coefficient classified the strains into five groups (E-I), with group E being most common (36 strains). The study highlights a concerning prevalence of antimicrobial resistance, particularly multi-drug resistance, among A. baumannii strains in the Haikou hospital. The significant genetic diversity, especially within groups A and E, underscores the need for tailored hospital treatment protocols and prevention measures. These findings contribute to the growing body of research on antimicrobial resistance, emphasizing the urgent need for effective management strategies in healthcare settings.
-
-[Source](https://www.microbiologyresearch.org/content/microbial-primers)
-
-10.1038/s41598-024-73258-2
+[Source](https://doi.org/10.1186/s40168-024-01900-2)
 
 ---
 
-## Microbial Primers
-
-[Source](https://www.microbiologyresearch.org/content/microbial-primers)
-
----
-
-## Phages reconstitute NAD+ to counter bacterial immunity.
- 25.09.2024, _I Osterman, H Samra, F Rousset, E Loseva, M Itkin, S Malitsky, E Yirmiya, A Millman, R Sorek_
+## Decoding the diagnostic and therapeutic potential of microbiota using pan-body pan-disease microbiomics.
+ 28.09.2024, _GP Schmartz, J Rehner, MP Gund, V Keller, LG Molano, S Rupf, M Hannig, T Berger, E Flockerzi, B Seitz, S Fleser, S Schmitt-Grohé, S Kalefack, M Zemlin, M Kunz, F Götzinger, C Gevaerd, T Vogt, J Reichrath, L Diehl, A Hecksteden, T Meyer, C Herr, A Gurevich, D Krug, J Hegemann, K Bozhueyuek, TAM Gulder, C Fu, C Beemelmanns, JM Schattenberg, OV Kalinina, A Becker, M Unger, N Ludwig, M Seibert, ML Stein, NL Hanna, MC Martin, F Mahfoud, M Krawczyk, SL Becker, R Müller, R Bals, A Keller_
 
 
-Bacteria defend against phage infection through a variety of antiphage defence systems1. Many defence systems were recently shown to deplete cellular nicotinamide adenine dinucleotide (NAD+) in response to infection, by cleaving NAD+ into ADP-ribose (ADPR) and nicotinamide2-7. It was demonstrated that NAD+ depletion during infection deprives the phage of this essential molecule and impedes phage replication. Here we show that a substantial fraction of phages possess enzymatic pathways allowing reconstitution of NAD+ from its degradation products in infected cells. We describe NAD+ reconstitution pathway 1 (NARP1), a two-step pathway in which one enzyme phosphorylates ADPR to generate ADPR pyrophosphate (ADPR-PP), and the second enzyme conjugates ADPR-PP and nicotinamide to generate NAD+. Phages encoding NARP1 can overcome a diverse set of defence systems, including Thoeris, DSR1, DSR2, SIR2-HerA and SEFIR, all of which deplete NAD+ as part of their defensive mechanism. Phylogenetic analyses show that NARP1 is primarily encoded on phage genomes, suggesting a phage-specific function in countering bacterial defences. A second pathway, NARP2, allows phages to overcome bacterial defences by building NAD+ using metabolites different from ADPR-PP. Our findings reveal a unique immune evasion strategy in which viruses rebuild molecules depleted by defence systems, thus overcoming host immunity.
+_Humans, Microbiota, Metagenome, Metagenomics, Bacteria, Feces, Male, Female, Multigene Family, Saliva, Adult_
+The human microbiome emerges as a promising reservoir for diagnostic markers and therapeutics. Since host-associated microbiomes at various body sites differ and diseases do not occur in isolation, a comprehensive analysis strategy highlighting the full potential of microbiomes should include diverse specimen types and various diseases. To ensure robust data quality and comparability across specimen types and diseases, we employ standardized protocols to generate sequencing data from 1931 prospectively collected specimens, including from saliva, plaque, skin, throat, eye, and stool, with an average sequencing depth of 5.3 gigabases. Collected from 515 patients, these samples yield an average of 3.7 metagenomes per patient. Our results suggest significant microbial variations across diseases and specimen types, including unexpected anatomical sites. We identify 583 unexplored species-level genome bins (SGBs) of which 189 are significantly disease-associated. Of note, the existence of microbial resistance genes in one specimen was indicative of the same resistance genes in other specimens of the same patient. Annotated and previously undescribed SGBs collectively harbor 28,315 potential biosynthetic gene clusters (BGCs), with 1050 significant correlations to diseases. Our combinatorial approach identifies distinct SGBs and BGCs, emphasizing the value of pan-body pan-disease microbiomics as a source for diagnostic and therapeutic strategies.
 
-[Source](https://www.nature.com/articles/s41586-024-07986-w)
+[Source](https://doi.org/10.1038/s41467-024-52598-7)
 
-10.1038/s41586-024-07986-w
+10.1038/s41467-024-52598-7
 
 ---
 
-## The direct inhibitory effects of Lactobacillus acidophilus, a commensal urinary bacterium, on calcium oxalate stone development.
- 21.09.2024, _C Noonin, A Putpim, V Thongboonkerd_
+## Deep longitudinal lower respiratory tract microbiome profiling reveals genome-resolved functional and evolutionary dynamics in critical illness.
+ 27.09.2024, _M Cheng, Y Xu, X Cui, X Wei, Y Chang, J Xu, C Lei, L Xue, Y Zheng, Z Wang, L Huang, M Zheng, H Luo, Y Leng, C Jiang_
 
 
-_Lactobacillus acidophilus, Calcium Oxalate, Escherichia coli, Humans, Bacterial Adhesion, Kidney Calculi, Crystallization, Membrane Glycoproteins, Flagella_
-Lactobacillus acidophilus is a commensal urinary bacterium found more abundantly in healthy individuals than in stone patients. Hence, it has been proposed to play an inhibitory role in kidney stone disease (KSD) but with unclear mechanisms. We therefore investigated the direct effects of L. acidophilus on calcium oxalate (CaOx) stone development compared with Escherichia coli, which is known to promote CaOx stone formation.
+_Humans, Critical Illness, Microbiota, Intensive Care Units, Metagenome, Metagenomics, Longitudinal Studies, Male, Female, Plasmids, Genome, Bacterial, Respiratory System, Aged, Middle Aged, Bacteria, Pneumonia, Evolution, Molecular_
+The lower respiratory tract (LRT) microbiome impacts human health, especially among critically ill patients. However, comprehensive characterizations of the LRT microbiome remain challenging due to low microbial mass and host contamination. We develop a chelex100-based low-biomass microbial-enrichment method (CMEM) that enables deep metagenomic profiling of LRT samples to recover near-complete microbial genomes. We apply the method to 453 longitudinal LRT samples from 157 intensive care unit (ICU) patients in three geographically distant hospitals. We recover 120 high-quality metagenome-assembled genomes (MAGs) and associated plasmids without culturing. We detect divergent longitudinal microbiome dynamics and hospital-specific dominant opportunistic pathogens and resistomes in pneumonia patients. Diagnosed pneumonia and the ICU stay duration were associated with the abundance of specific antibiotic-resistance genes (ARGs). Moreover, CMEM can serve as a robust tool for genome-resolved analyses. MAG-based analyses reveal strain-specific resistome and virulome among opportunistic pathogen strains. Evolutionary analyses discover increased mobilome in prevailing opportunistic pathogens, highly conserved plasmids, and new recombination hotspots associated with conjugative elements and prophages. Integrative analysis with epidemiological data reveals frequent putative inter-patient strain transmissions in ICUs. In summary, we present a genome-resolved functional, transmission, and evolutionary landscape of the LRT microbiota in critically ill patients.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01877-y)
+[Source](https://doi.org/10.1038/s41467-024-52713-8)
 
-10.1186/s40168-024-01877-y
-
----
-
-## Neonatal gut microbiota profile and the association with retinopathy of prematurity in preterm infants.
- 25.09.2024, _YH Chang, YM Yeh, CC Lee, CH Chiu, HC Chen, YJ Hsueh, CW Lee, R Lien, SM Chu, MC Chiang, EY Kang, KJ Chen, NK Wang, L Liu, YS Hwang, CC Lai, WC Wu_
-
-
-To explore the role of gut microbiota in preterm infants at high risk of developing retinopathy of prematurity (ROP).
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/ceo.14441)
-
-10.1111/ceo.14441
+10.1038/s41467-024-52713-8
 
 ---
 
-## The wound microbiota: microbial mechanisms of impaired wound healing and infection.
- 16.07.2024, _A Uberoi, A McCready-Vangi, EA Grice_
+## Small Bowel Microbiome Profiles in Overweight and Obese Humans.
+ 26.09.2024, _L Li_
 
 
-_Humans, Wound Healing, Microbiota, Wound Infection, Skin, Biofilms, Animals_
-The skin barrier protects the human body from invasion by exogenous and pathogenic microorganisms. A breach in this barrier exposes the underlying tissue to microbial contamination, which can lead to infection, delayed healing, and further loss of tissue and organ integrity. Delayed wound healing and chronic wounds are associated with comorbidities, including diabetes, advanced age, immunosuppression and autoimmune disease. The wound microbiota can influence each stage of the multi-factorial repair process and influence the likelihood of an infection. Pathogens that commonly infect wounds, such as Staphylococcus aureus and Pseudomonas aeruginosa, express specialized virulence factors that facilitate adherence and invasion. Biofilm formation and other polymicrobial interactions contribute to host immunity evasion and resistance to antimicrobial therapies. Anaerobic organisms, fungal and viral pathogens, and emerging drug-resistant microorganisms present unique challenges for diagnosis and therapy. In this Review, we explore the current understanding of how microorganisms present in wounds impact the process of skin repair and lead to infection through their actions on the host and the other microbial wound inhabitants.
 
-[Source](https://www.nature.com/articles/s41579-024-01035-z)
+[Source](https://doi.org/10.14309/ajg.0000000000003071)
 
-10.1038/s41579-024-01035-z
+10.14309/ajg.0000000000003071
 
 ---
 
-## Altered oral microbiota of drug-resistant organism carriers exhibit impaired gram-negative pathogen inhibition
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.09.24.614756v1.abstract)
-
----
-
-## Emergence of community behaviors in the gut microbiota upon drug treatment.
- 25.09.2024, _S Garcia-Santamarina, M Kuhn, S Devendran, L Maier, M Driessen, A Mateus, E Mastrorilli, AR Brochado, MM Savitski, KR Patil, M Zimmermann, P Bork, A Typas_
+## Intratumoral microbiota as a novel prognostic indicator in bladder cancer.
+ 27.09.2024, _Y Zhang, H Lin, L Liang, S Jin, J Lv, Y Zhou, F Xu, F Liu, N Feng_
 
 
-Pharmaceuticals can directly inhibit the growth of gut bacteria, but the degree to which such interactions manifest in complex community settings is an open question. Here, we compared the effects of 30 drugs on a 32-species synthetic community with their effects on each community member in isolation. While most individual drug-species interactions remained the same in the community context, communal behaviors emerged in 26% of all tested cases. Cross-protection during which drug-sensitive species were protected in community was 6 times more frequent than cross-sensitization, the converse phenomenon. Cross-protection decreased and cross-sensitization increased at higher drug concentrations, suggesting that the resilience of microbial communities can collapse when perturbations get stronger. By metabolically profiling drug-treated communities, we showed that both drug biotransformation and bioaccumulation contribute mechanistically to communal protection. As a proof of principle, we molecularly dissected a prominent case: species expressing specific nitroreductases degraded niclosamide, thereby protecting both themselves and sensitive community members.
+_Urinary Bladder Neoplasms, Humans, Prognosis, Microbiota, Tumor Microenvironment, In Situ Hybridization, Fluorescence, Biomarkers, Tumor, Female, Male, Middle Aged, Aged_
+Microbes are important components of the tumor microenvironment and have a close relationship with tumors. However, there is still a lack of research on the intratumoral microbiota in bladder cancer and its impact on the tumor immune microenvironment. In this study, we used fluorescence in situ hybridization (FISH) and observed a substantial presence of microbiota in bladder cancer tissues, with greater abundance compared to that in normal bladder tissues. Based on the BIC database, we found that the microbiome of bladder cancer is highly diverse and its structure is significantly different from that of other tumors. To investigate the relationships among the intratumoral microbiota, tumor immunity, and prognosis in bladder cancer patients, we analyzed bladder cancer-specific differentially expressed immune- and antimicrobial-related genes from the ImmPort, TISIDB, and TCGA databases. We identified 11 hub genes and constructed a prognostic risk model. Further analysis revealed differences at the family and genus levels between distinct groups. Using LEfSe analysis, we identified six hub biomarkers and developed a novel microbial-based scoring system. The scoring system allows subgrouping of bladder cancer patients, with significant differences in prognosis, immune cell infiltration, tumor mutation burden, and immune checkpoints among different groups. Further FISH and immunofluorescence co-staining experiments initially verified that the specific distribution of microorganisms and M2 macrophages in bladder cancer may be closely related to the poor prognosis of patients. In conclusion, this study revealed the characteristics of the intratumoral microbiota in bladder cancer and identified potential prognostic targets for clinical application.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0092867424009668)
+[Source](https://doi.org/10.1038/s41598-024-72918-7)
 
-10.1016/j.cell.2024.08.037
+10.1038/s41598-024-72918-7
 
 ---
 
-## Microbial transformation of dietary xenobiotics shapes gut microbiome composition.
- 25.09.2024, _EJ Culp, NT Nelson, AA Verdegaal, AL Goodman_
+## Virulence Factors and Susceptibility to Ciprofloxacin, Vancomycin, Triclosan, and Chlorhexidine among Enterococci from Clinical Specimens, Food, and Wastewater.
+ 28.09.2024, _DB Gorski, J Vlainić, I Škrlec, S Novak, Ž Novosel, Z Biloglav, V Plečko, I Kosalec_
 
 
-Diet is a major determinant of gut microbiome composition, and variation in diet-microbiome interactions may contribute to variation in their health consequences. To mechanistically understand these relationships, here we map interactions between ∼150 small-molecule dietary xenobiotics and the gut microbiome, including the impacts of these compounds on community composition, the metabolic activities of human gut microbes on dietary xenobiotics, and interindividual variation in these traits. Microbial metabolism can toxify and detoxify these compounds, producing emergent interactions that explain community-specific remodeling by dietary xenobiotics. We identify the gene and enzyme responsible for detoxification of one such dietary xenobiotic, resveratrol, and demonstrate that this enzyme contributes to interindividual variation in community remodeling by resveratrol. Together, these results systematically map interactions between dietary xenobiotics and the gut microbiome and connect toxification and detoxification to interpersonal differences in microbiome response to diet.
+Enterococcus faecalis and E. faecium are opportunistic pathogens commonly found in the microbiota of humans and other animals as well as in the environment. This article presents the results of antimicrobial susceptibility testing using phenotypic methods (broth microdilution and standardized disk diffusion) on selected clinical, food, and wastewater isolates of E. faecalis and E. faecium. The isolates were divided into subgroups based on their sensitivity to the following antibiotics: vancomycin (VAN) and ciprofloxacin (CIP), and biocides triclosan (TCL) and chlorhexidine (CHX). The study also investigated in vitro virulence factors, including biofilm formation ability, cell surface hydrophobicity (CSH) and β-hemolysis, to explore aspects of pathogenesis. In our study, regardless of the isolation source, VAN-resistant (VAN-R) and CIP-resistant (CIP-R) E. faecalis and E. faecium were detected. The highest proportion of CIP-R strains was found among clinical isolates of E. faecalis and E. faecium, with clinical E. faecium also showing the highest proportion of VAN-R strains. But the highest proportion of VAN-R E. faecalis strains was found in wastewater samples. The highest TCL MIC90 values for E. faecalis were found in wastewater isolates, while for E. faecium, the highest TCL MIC90 values were observed in food isolates. The highest CHX MIC90 values for both E. faecalis and E. faecium were identified in clinical specimens. The results obtained for E. faecalis did not indicate differences in TCL MIC and CHX MIC values with respect to sensitivity to VAN and CIP. Higher CHX MIC50 and CHX MIC90 values were obtained for CIP-R and VAN-R E. faecium. Among the tested isolates, 97.75% of the E. faecalis isolates produced biofilm, while 72.22% of the E. faecium isolates did so as well. In biofilm-forming strength categories III and IV, statistically significantly higher proportions of CIP-susceptible (CIP-S) and VAN-susceptible (VAN-S) E. faecalis were determined. In category III, there is no statistically significant difference in E. faecium CIP sensitivity. In category IV, we had a significantly higher proportion of CIP-R strains. On the other hand, the association between the moderate or strong category of biofilm formation and E. faecium VAN susceptibility was not significant. E. faecalis isolated from wastewater had a CSH index (HI) ≥ 50%, categorizing them as "moderate", while all the other strains were categorized as "low" based on the CSH index. Among the E. faecalis isolates, cell surface hydrophobicity indices differed significantly across isolation sources. In contrast, E. faecium isolates showed similar hydrophobicity indices across isolation sources, with no significant difference found. Moreover, no correlation was found between the enterococcal cell surface hydrophobicity and biofilm formation in vitro. After anaerobic incubation, β-hemolytic activity was confirmed in 19.10% of the E. faecalis and 3.33% of the E. faecium strains.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S009286742400967X)
+[Source](https://doi.org/10.1038/d41573-024-00157-6)
 
-10.1016/j.cell.2024.08.038
-
----
-
-## Microglia and Gut Microbiota: A Double-Edged Sword in Alzheimer's Disease.
- 25.09.2024, _N Bano, S Khan, S Ahamad, JS Kanshana, NJ Dar, S Khan, A Nazir, SA Bhat_
-
-
-The strong association between gut microbiota (GM) and brain functions such as mood, behaviour, and cognition has been well documented. Gut-brain axis is a unique bidirectional communication system between the gut and brain, in which gut microbes play essential role in maintaining various molecular and cellular processes. GM interacts with the brain through various pathways and processes including, metabolites, vagus nerve, HPA axis, endocrine system, and immune system to maintain brain homeostasis. GM dysbiosis, or an imbalance in GM, is associated with several neurological disorders, including anxiety, depression, and Alzheimer's disease (AD). Conversely, AD is sustained by microglia-mediated neuroinflammation and neurodegeneration. Further, GM and their products also affect microglia-mediated neuroinflammation and neurodegeneration. Despite the evidence connecting GM dysbiosis and AD progression, the involvement of GM in modulating microglia-mediated neuroinflammation in AD remains elusive. Importantly, deciphering the mechanism/s by which GM regulates microglia-dependent neuroinflammation may be helpful in devising potential therapeutic strategies to mitigate AD. Herein, we review the current evidence regarding the involvement of GM dysbiosis in microglia activation and neuroinflammation in AD. We also discuss the possible mechanisms through which GM influences the functioning of microglia and its implications for therapeutic intervention. Further, we explore the potential of microbiota-targeted interventions, such as prebiotics, probiotics, faecal microbiota transplantation, etc., as a novel therapeutic strategy to mitigate neuroinflammation and AD progression. By understanding and exploring the gut-brain axis, we aspire to revolutionize the treatment of neurodegenerative disorders, many of which share a common theme of microglia-mediated neuroinflammation and neurodegeneration.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S1568163724003337)
-
-10.1016/j.arr.2024.102515
+10.3390/microorganisms12091808
 
 ---
 
-## What defines a healthy gut microbiome?
- 25.09.2024, _M Van Hul, PD Cani, C Petifils, WM De Vos, H Tilg, EM El Omar_
+## Identifying antimicrobials in the human microbiome
 
-
-The understanding that changes in microbiome composition can influence chronic human diseases and the efficiency of therapies has driven efforts to develop microbiota-centred therapies such as first and next generation probiotics, prebiotics and postbiotics, microbiota editing and faecal microbiota transplantation. Central to microbiome research is understanding how disease impacts microbiome composition and vice versa, yet there is a problematic issue with the term 'dysbiosis', which broadly links microbial imbalances to various chronic illnesses without precision or definition. Another significant issue in microbiome discussions is defining 'healthy individuals' to ascertain what characterises a healthy microbiome. This involves questioning who represents the healthiest segment of our population-whether it is those free from illnesses, athletes at peak performance, individuals living healthily through regular exercise and good nutrition or even elderly adults or centenarians who have been tested by time and achieved remarkable healthy longevity.This review advocates for delineating 'what defines a healthy microbiome?' by considering a broader range of factors related to human health and environmental influences on the microbiota. A healthy microbiome is undoubtedly linked to gut health. Nevertheless, it is very difficult to pinpoint a universally accepted definition of 'gut health' due to the complexities of measuring gut functionality besides the microbiota composition. We must take into account individual variabilities, the influence of diet, lifestyle, host and environmental factors. Moreover, the challenge in distinguishing causation from correlation between gut microbiome and overall health is presented.The review also highlights the resource-heavy nature of comprehensive gut health assessments, which hinders their practicality and broad application. Finally, we call for continued research and a nuanced approach to better understand the intricate and evolving concept of gut health, emphasising the need for more precise and inclusive definitions and methodologies in studying the microbiome.
-
-[Source](https://gut.bmj.com/content/early/2024/09/25/gutjnl-2024-333378)
-
-10.1136/gutjnl-2024-333378
+[Source](https://doi.org/10.1038/d41573-024-00157-6)
 
 ---
 
-## The gut microbiome and chronic pain.
- 27.09.2024, _C Watson_
+## <em>Akkermansia muciniphila </em>as a Potential Guardian against Oral Health Diseases: A Narrative Review
 
-
-_Animals, Humans, Mice, Chronic Pain, Gastrointestinal Microbiome, Endometriosis, Female_
-
-[Source](https://www.nature.com/articles/d41586-024-03006-z)
-
-10.1038/d41586-024-03006-z
+[Source](https://doi.org/10.3390/nu16183075)
 
 ---
 
-## Acarbose enhances the efficacy of immunotherapy against solid tumours by modulating the gut microbiota.
- 25.09.2024, _SL Zhang, X Wang, QQ Cai, C Chen, ZY Zhang, YY Xu, MX Yang, QA Jia, Y Wang, ZM Wang_
+## Intratumoral microbiota in colorectal cancer: focus on specific distribution and potential mechanisms.
+ 28.09.2024, _J Long, J Wang, C Xiao, F You, Y Jiang, X Li_
 
 
-The crucial role of gut microbiota in shaping immunotherapy outcomes has prompted investigations into potential modulators. Here we show that oral administration of acarbose significantly increases the anti-tumour response to anti-PD-1 therapy in female tumour-bearing mice. Acarbose modulates the gut microbiota composition and tryptophan metabolism, thereby contributing to changes in chemokine expression and increased T cell infiltration within tumours. We identify CD8+ T cells as pivotal components determining the efficacy of the combined therapy. Further experiments reveal that acarbose promotes CD8+ T cell recruitment through the CXCL10-CXCR3 pathway. Faecal microbiota transplantation and gut microbiota depletion assays indicate that the effects of acarbose are dependent on the gut microbiota. Specifically, acarbose enhances the efficacy of anti-PD-1 therapy via the tryptophan catabolite indoleacetate, which promotes CXCL10 expression and thus facilitates CD8+ T cell recruitment, sensitizing tumours to anti-PD-1 therapy. The bacterial species Bifidobacterium infantis, which is enriched by acarbose, also improves response to anti-PD-1 therapy. Together, our study endorses the potential combination of acarbose and anti-PD-1 for cancer immunotherapy.
+_Colorectal Neoplasms, Humans, Microbiota, Animals, Tumor Microenvironment_
+Colorectal cancer (CRC) is one of the most prevalent and lethal malignant tumors globally, posing significant health risks and societal burdens. Recently, advancements in next-generation sequencing technology have identified CRC intratumoral microbiota, thereby opening up novel avenues for further research. This review synthesizes the current advancements in CRC intratumoral microbiota and their impact on CRC progression and discusses the disparities in the relative abundance and community composition of CRC intratumoral microbiota across various colorectal tumors based on their anatomical location and molecular subtypes, as well as the tumor stages, and spatial tumor distribution. Intratumoral microbiota predominantly influence CRC development by modulating colonic epithelial cells, tumor cells, and the tumor microenvironment. Mechanistically, they can cause DNA damage, apoptosis and epithelial-mesenchymal transition. The effects of different intratumoral microbiota on CRC have been shown to be two-fold. In the future, to address the limitations of existing studies, it is important to develop comprehensive experimental protocols and suitable in vitro models for elucidating more mechanisms of intratumoral microbiota on CRC, which will facilitate the clinical application of microbe-related therapeutic strategies in CRC and potentially other tumors.
 
-[Source](https://www.nature.com/articles/s42255-024-01137-1)
+[Source](https://doi.org/10.1186/s12964-024-01831-3)
 
-10.1038/s42255-024-01137-1
-
----
-
-## Trait-based study predicts glycerol/diol dehydratases as a key function of the gut microbiota of hindgut-fermenting carnivores.
- 22.09.2024, _Q Li, HJ Ruscheweyh, LH Østergaard, M Libertella, KS Simonsen, S Sunagawa, A Scoma, C Schwab_
-
-
-_Animals, Gastrointestinal Microbiome, Feces, Fermentation, Glycerol, Metagenomics, Hydro-Lyases, Propylene Glycols, Vitamin B 12, Bacteria, Phylogeny, Animals, Wild_
-Microbial pdu and cob-cbi-hem gene clusters encode the key enzyme glycerol/diol dehydratase (PduCDE), which mediates the transformation of dietary nutrients glycerol and 1,2-propanediol (1,2-PD) to a variety of metabolites, and enzymes for cobalamin synthesis, a co-factor and shared good of microbial communities. It was the aim of this study to relate pdu as a multipurpose functional trait to environmental conditions and microbial community composition. We collected fecal samples from wild animal species living in captivity with different gut physiology and diet (n = 55, in total 104 samples), determined occurrence and diversity of pdu and cob-cbi-hem using a novel approach combining metagenomics with quantification of metabolic and genetic biomarkers, and conducted in vitro fermentations to test for trait-based activity.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01863-4)
-
-10.1186/s40168-024-01863-4
+10.1186/s12964-024-01831-3
 
 ---
 
-## Microbial community storm dynamics signal sources of "old" stream water.
- 26.09.2024, _DR URycki, SP Good, BC Crump, NC Ceperley, JR Brooks_
+## Bacterial extracellular vesicles at the interface of gut microbiota and immunity.
+ 28.09.2024, _I Melo-Marques, SM Cardoso, N Empadinhas_
 
 
-_Rivers, Microbiota, RNA, Ribosomal, 16S, Water Microbiology, Oregon, Water Movements, Hydrology, Bacteria, Oxygen Isotopes_
-Accurate characterization of the movement of water through catchments, particularly during precipitation event response, is critical for hydrological efforts such as contaminant transport modeling or prediction of extreme flows. Abiotic hydrogeochemical tracers are commonly used to track sources and ages of surface waters but provide limited details about transit pathways or the spatial dynamics of water storage and release. Alternatively, biotic material in streams is derived from thousands of taxa originating from a variety of environments within watersheds, including groundwater, sediment, and upslope terrestrial environments, and this material can be characterized with genetic sequencing and bioinformatics. We analyzed the stable water isotopes (δ18O and δ2H) and microbiome composition (16S rRNA gene amplicon sequencing) of the Marys River of western Oregon, USA during an early season storm to describe the processes, storage, and flowpaths that shape surface water hydrology. Stable water isotopes (δ18O and δ2H) typified an event response in which stream water is composed largely of 'old' water introduced to the catchment before the storm, a common though not well understood phenomenon. In contrast, microbial biodiversity spiked during the storm, consisting of early- and late-event communities clearly distinguishable from pre-event communities. We applied concentration-discharge (cQ) analysis to individual microbial taxa and found that most Alphaproteobacteria sequences were positively correlated (i.e., were mobilized) with discharge, whereas most sequences from phyla Gammaproteobacteria and Bacteroidota were negatively correlated with discharge (i.e., were diluted). Source predictions using the prokaryote habitat preference database ProkAtlas found that freshwater-associated microbes composed a smaller fraction of the microbial community during the stream rise and a larger fraction during the recession, while soil and biofilm-associated microbes increased during the storm and remained high during recession. This suggests that the "old" water discharged during the storm was likely stored and released from, or passed through, soil- and biofilm-rich environments, demonstrating that this approach adds new, biologically derived tracer information about the hydrologic pathways active during and after this event. Overall, this study demonstrates an approach for integrating information-rich DNA into water resource investigations, incorporating tools from both hydrology and microbiology to demonstrate that microbial DNA is useful not only as an indicator of biodiversity but also functions as an innovative hydrologic tracer.
+_Extracellular Vesicles, Gastrointestinal Microbiome, Humans, Bacteria, Animals, Dysbiosis, Gastrointestinal Tract_
+Bacterial extracellular vesicles (BEVs) are nano-sized lipid-shielded structures released by bacteria and that play an important role in intercellular communication. Their broad taxonomic origins and varying cargo compositions suggest their active participation in significant biological mechanisms. Specifically, they are involved in directly modulating microbial ecosystems, competing with other organisms, contributing to pathogenicity, and influencing the immunity of their hosts. This review examines the mechanisms that underlie the modulatory effects of BEVs on gut dynamics and immunity. Understanding how BEVs modulate microbiota composition and functional imbalances is crucial, as gut dysbiosis is implicated not only in the pathogenesis of various gastrointestinal, metabolic, and neurological diseases, but also in reducing resistance to colonization by enteric pathogens, which is particularly concerning given the current antimicrobial resistance crisis. This review summarizes recent advancements in the field of BEVs to encourage further research into these enigmatic entities. This will facilitate a better understanding of intra- and interkingdom communication phenomena and reveal promising therapeutic approaches.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306896)
+[Source](https://doi.org/10.1080/19490976.2024.2396494)
 
-10.1371/journal.pone.0306896
-
----
-
-## Hyperexpansion of genetic diversity and metabolic capacity of extremophilic bacteria and archaea in ancient Andean lake sediments.
- 21.09.2024, _MÁ Lezcano, TLV Bornemann, L Sánchez-García, D Carrizo, PS Adam, SP Esser, NA Cabrol, AJ Probst, V Parro_
-
-
-_Lakes, Archaea, Geologic Sediments, Bacteria, Genetic Variation, Chile, Phylogeny, Microbiota, Extremophiles, RNA, Ribosomal, 16S_
-The Andean Altiplano hosts a repertoire of high-altitude lakes with harsh conditions for life. These lakes are undergoing a process of desiccation caused by the current climate, leaving terraces exposed to extreme atmospheric conditions and serving as analogs to Martian paleolake basins. Microbiomes in Altiplano lake terraces have been poorly studied, enclosing uncultured lineages and a great opportunity to understand environmental adaptation and the limits of life on Earth. Here we examine the microbial diversity and function in ancient sediments (10.3-11 kyr BP (before present)) from a terrace profile of Laguna Lejía, a sulfur- and metal/metalloid-rich saline lake in the Chilean Altiplano. We also evaluate the physical and chemical changes of the lake over time by studying the mineralogy and geochemistry of the terrace profile.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01878-x)
-
-10.1186/s40168-024-01878-x
+10.1080/19490976.2024.2396494
 
 ---
 
-## Bronze Age cheese reveals human-Lactobacillus interactions over evolutionary history.
- 26.09.2024, _Y Liu, B Miao, W Li, X Hu, F Bai, Y Abuduresule, Y Liu, Z Zheng, W Wang, Z Chen, S Zhu, X Feng, P Cao, W Ping, R Yang, Q Dai, F Liu, C Tian, Y Yang, Q Fu_
+## GV-971 prevents severe acute pancreatitis by remodeling the microbiota-metabolic-immune axis.
+ 27.09.2024, _X Chen, X Chen, D Yan, N Zhang, W Fu, M Wu, F Ge, J Wang, X Li, M Geng, J Wang, D Tang, J Liu_
 
 
-Despite the long history of consumption of fermented dairy, little is known about how the fermented microbes were utilized and evolved over human history. Here, by retrieving ancient DNA of Bronze Age kefir cheese (∼3,500 years ago) from the Xiaohe cemetery, we explored past human-microbial interactions. Although it was previously suggested that kefir was spread from the Northern Caucasus to Europe and other regions, we found an additional spreading route of kefir from Xinjiang to inland East Asia. Over evolutionary history, the East Asian strains gained multiple gene clusters with defensive roles against environmental stressors, which can be a result of the adaptation of Lactobacillus strains to various environmental niches and human selection. Overall, our results highlight the role of past human activities in shaping the evolution of human-related microbes, and such insights can, in turn, provide a better understanding of past human behaviors.
+_Animals, Gastrointestinal Microbiome, Male, Mice, Pancreatitis, Mice, Inbred C57BL, Disease Models, Animal, Macrophages, Fatty Acids, Volatile, Fecal Microbiota Transplantation, Humans, Metabolomics_
+Despite recent advances, severe acute pancreatitis (SAP) remains a lethal inflammation with limited treatment options. Here, we provide compelling evidence of GV-971 (sodium oligomannate), an anti-Alzheimer's medication, as being a protective agent in various male mouse SAP models. Microbiome sequencing, along with intestinal microbiota transplantation and mass cytometry technology, unveil that GV-971 reshapes the gut microbiota, increasing Faecalibacterium populations and modulating both peripheral and intestinal immune systems. A metabolomics analysis of cecal contents from GV-971-treated SAP mice further identifies short-chain fatty acids, including propionate and butyrate, as key metabolites in inhibiting macrophage M1 polarization and subsequent lethal inflammation by blocking the MAPK pathway. These findings suggest GV-971 as a promising therapeutic for SAP by targeting the microbiota metabolic immune axis.
 
-[Source](https://www.cell.com/cell/fulltext/S0092-8674(24)00899-7)
+[Source](https://doi.org/10.1038/s41467-024-52398-z)
 
-10.1016/j.cell.2024.08.008
-
----
-
-## A realistic benchmark for differential abundance testing and confounder adjustment in human microbiome studies.
- 25.09.2024, _J Wirbel, M Essex, SK Forslund, G Zeller_
-
-
-_Humans, Microbiota, Benchmarking, RNA, Ribosomal, 16S, Computer Simulation_
-In microbiome disease association studies, it is a fundamental task to test which microbes differ in their abundance between groups. Yet, consensus on suitable or optimal statistical methods for differential abundance testing is lacking, and it remains unexplored how these cope with confounding. Previous differential abundance benchmarks relying on simulated datasets did not quantitatively evaluate the similarity to real data, which undermines their recommendations.
-
-[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03390-9)
-
-10.1186/s13059-024-03390-9
+10.1038/s41467-024-52398-z
 
 ---
 
-## Quantifying Data Distortion in Bar Graphs in Biological Research
+## Fecal Microbiota Transplantation-Mediated Rebalancing of the Gut-Brain Axis Alleviates Cisplatin-Induced Neuropathic Pain
 
-[Source](https://www.biorxiv.org/content/10.1101/2024.09.20.609464v1.abstract)
+[Source](https://doi.org/10.1021/acschemneuro.4c00267)
+
+---
+
+## FMT rescues mice from DSS-induced colitis in a STING-dependent manner
+
+[Source](https://doi.org/10.1080/19490976.2024.2397879)
+
+---
+
+## Aged garlic oligosaccharides modulate host metabolism and gut microbiota to alleviate high-fat and high-cholesterol diet-induced atherosclerosis in ApoE(-/-) mice
+
+[Source](https://doi.org/10.1016/j.foodchem.2024.141409)
+
+---
+
+## Phytoactives for Obesity Management: Integrating Nanomedicine for Its Effective Delivery.
+ 27.09.2024, _AK Mandal, A Sahoo, WH Almalki, SS Almujri, A Alhamyani, A Aodah, NK Alruwaili, SZBS Abdul Kadir, RK Mandal, RA Almalki, JA Lal, M Rahman_
+
+
+Obesity is a global health concern that requires urgent investigation and management. While synthetic anti-obesity medications are available, they come with a high risk of side-effects and variability in their efficacy. Therefore, natural compounds are increasingly being used to treat obesity worldwide. The proposition that naturally occurring compounds, mainly polyphenols, can be effective and safer for obesity management through food and nutrient fortification is strongly supported by extensive experimental research. This review focuses on the pathogenesis of obesity while reviewing the efficacy of an array of phytoactives used for obesity treatment. It details mechanisms such as enzyme inhibition, energy expenditure, appetite suppression, adipocyte differentiation, lipid metabolism, and modulation of gut microbiota. Comprehensive in vitro, in vivo, and preclinical studies underscore the promise of phytoactives in combating obesity, which have been thoroughly reviewed. However, challenges, such as poor bioavailability and metabolism, limit their potential. Advances in nanomedicines may overcome these constraints, offering a new avenue for enhancing the efficacy of phytoactives. Nonetheless, rigorous and targeted clinical trials are essential before applying phytoactives as a primary treatment for obesity.
+
+[Source](https://doi.org/10.1093/nutrit/nuae136)
+
+10.1093/nutrit/nuae136
+
+---
+
+## Exploring microbial diversity and biosynthetic potential in zoo and wildlife animal microbiomes.
+ 28.09.2024, _GP Schmartz, J Rehner, MJ Schuff, LG Molano, SL Becker, M Krawczyk, A Tagirdzhanov, A Gurevich, R Francke, R Müller, V Keller, A Keller_
+
+
+_Animals, Animals, Wild, Animals, Zoo, Gastrointestinal Microbiome, Anti-Bacterial Agents, Microbiota, Bacteria, Multigene Family, Humans, Biodiversity, Drug Resistance, Bacterial, Vancomycin, Biosynthetic Pathways_
+Understanding human, animal, and environmental microbiota is essential for advancing global health and combating antimicrobial resistance (AMR). We investigate the oral and gut microbiota of 48 animal species in captivity, comparing them to those of wildlife animals. Specifically, we characterize the microbiota composition, metabolic pathways, AMR genes, and biosynthetic gene clusters (BGCs) encoding the production of specialized metabolites. Our results reveal a high diversity of microbiota, with 585 novel species-level genome bins (SGBs) and 484 complete BGCs identified. Functional gene analysis of microbiomes shows diet-dependent variations. Furthermore, by comparing our findings to wildlife-derived microbiomes, we observe the impact of captivity on the animal microbiome, including examples of converging microbiome compositions. Importantly, our study identifies AMR genes against commonly used veterinary antibiotics, as well as resistance to vancomycin, a critical antibiotic in human medicine. These findings underscore the importance of the 'One Health' approach and the potential for zoonotic transmission of pathogenic bacteria and AMR. Overall, our study contributes to a better understanding of the complexity of the animal microbiome and highlights its BGC diversity relevant to the discovery of novel antimicrobial compounds.
+
+[Source](https://doi.org/10.1038/s41467-024-52669-9)
+
+10.1038/s41467-024-52669-9
+
+---
+
+## Fur microbiome as a putative source of symbiotic bacteria in sucking lice.
+ 27.09.2024, _J Martin Říhová, S Gupta, E Nováková, V Hypša_
+
+
+_Animals, Symbiosis, Microbiota, Phylogeny, RNA, Ribosomal, 16S, Phthiraptera, Bacteria_
+Symbiosis between insects and bacteria has been established countless times. While it is well known that the symbionts originated from a variety of different bacterial taxa, it is usually difficult to determine their environmental source and a route of their acquisition by the host. In this study, we address this question using a model of Neisseriaceae symbionts in rodent lice. These bacteria established their symbiosis independently with different louse taxa (Polyplax, Hoplopleura, Neohaematopinus), most likely from the same environmental source. We first applied amplicon analysis to screen for candidate source bacterium in the louse environment. Since lice are permanent ectoparasites, often specific to the particular host, we screened various microbiomes associated with three rodent species (Microtus arvalis, Clethrionomys glareolus, and Apodemus flavicollis). The analyzed samples included fur, skin, spleen, and other ectoparasites sampled from these rodents. The fur microbiome data revealed a Neisseriaceae bacterium, closely related to the known louse symbionts. The draft genomes of the environmental Neisseriaceae, assembled from all three rodent hosts, converged to a remarkably small size of approximately 1.4 Mbp, being even smaller than the genomes of the related symbionts. Our results suggest that the rodent fur microbiome can serve as a source for independent establishment of bacterial symbiosis in associated louse species. We further propose a hypothetical scenario of the genome evolution during the transition of a free-living bacterium to the member of the rodent fur-associated microbiome and subsequently to the facultative and obligate louse symbionts.
+
+[Source](https://doi.org/10.1038/s41598-024-73026-2)
+
+10.1038/s41598-024-73026-2
+
+---
+
+## Fecal microbiota transplantation from patients with polycystic ovary syndrome induces metabolic disorders and ovarian dysfunction in germ-free mice.
+ 28.09.2024, _F Huang, Y Deng, M Zhou, R Tang, P Zhang, R Chen_
+
+
+_Polycystic Ovary Syndrome, Animals, Fecal Microbiota Transplantation, Female, Mice, Gastrointestinal Microbiome, Humans, Dysbiosis, Feces, Metabolic Diseases, Bacteria, Insulin Resistance, Ovary, Germ-Free Life, Disease Models, Animal, Adult_
+Dysbiosis of the microbiome is a key hallmark of polycystic ovary syndrome (PCOS). However, the interaction between the host and microbiome and its relevance to the pathogenesis of PCOS remain unclear.
+
+[Source](https://doi.org/10.1186/s12866-024-03513-z)
+
+10.1186/s12866-024-03513-z
+
+---
+
+## Dietary fiber intake impacts gut bacterial and viral populations in a hypertensive mouse model
+
+[Source](https://doi.org/10.1080/19490976.2024.2407047)
+
+---
+
+## Effect of shipping on the microbiome of donor mice used to reconstitute germ-free recipients.
+ 28.09.2024, _ZL McAdams, J Yates, G Turner, RA Dorfmeyer, M Wight-Carter, J Amos-Landgraf, CL Franklin, AC Ericsson_
+
+
+The gut microbiota (GM) influences multiple processes during host development and maintenance. To study these events, fecal microbiota transfer (FMT) to germ-free (GF) recipients is often performed. Mouse models of disease are also susceptible to GM-dependent effects, and cryo-repositories often store feces from donated mouse strains. Shipping live mice may affect the GM and result in an inaccurate representation of the baseline GM. We hypothesize that the use of such fecal samples for FMT would transfer shipping-induced changes in the donor GM to GF recipients. To test this, donor mice originating from two suppliers were shipped to the University of Missouri. Fecal samples collected pre- and post-shipping were used to inoculate GF mice. Pre- and post-shipping fecal samples from donors, and fecal and/or cecal contents were collected from recipients at one and two weeks post-FMT. 16S rRNA sequencing revealed supplier-dependent effects of shipping on the donor microbiome. FMT efficiency was independent of shipping timepoint or supplier, resulting in transmission of shipping-induced changes to recipient mice, however the effect of supplier-origin microbiome remained evident. While shipping may cause subtle changes in fecal samples collected for FMT, such effects are inconsistent among supplier-origin GMs and minor in comparison to other biological variables.
+
+[Source](https://doi.org/10.1080/29933935.2024.2363858)
+
+10.1080/29933935.2024.2363858
+
+---
+
+## Bacterial microbiome diversity along poultry slaughtering lines: insights from chicken carcasses and environmental sources.
+ 27.09.2024, _AE Telli, Y Biçer, N Telli, G Sönmez, G Turkal, İ Güzel_
+
+
+This study aimed to determine the bacterial diversity of chicken carcasses and their surrounding environment at various stages along a poultry slaughter line.
+
+[Source](https://doi.org/10.2478/jvetres-2024-0051)
+
+10.2478/jvetres-2024-0051
+
+---
+
+## The Gut Microbiome of Two Wild Bumble Bee Species Native of South America: <em>Bombus pauloensis</em> and <em>Bombus bellicosus</em>
+
+[Source](https://doi.org/10.1007/s00248-024-02430-y)
+
+---
+
+## Gill-associated ammonia oxidizers are widespread in teleost fish.
+ 26.09.2024, _W Mes, S Lücker, MS Jetten, H Siepel, M Gorissen, MA van Kessel_
+
+
+Recent advances in sequencing methods have greatly expanded the knowledge of teleost-associated microorganisms. While fish-gut microbiomes are comparatively well studied, less attention has gone toward other, external organ-microbiome associations. Gills are particularly interesting to investigate due to their functions in gas exchange, osmoregulation, and nitrogen excretion. We recently discovered a branchial symbiosis between nitrogen-cycling bacteria and teleosts (zebrafish and carp), in which ammonia-oxidizing Nitrosomonas and denitrifying bacteria together convert toxic ammonia excreted by the fish into harmless dinitrogen (N2) gas. This symbiosis can function as a "natural biofilter" in fish gills and can potentially occur in all ammonotelic fish species, but it remains unknown how widespread this symbiosis is. In this study, we analyzed all publicly available gill microbiome data sets and checked for the presence of Nitrosomonas. We discovered that more than half of the described fish gill microbiomes contain 16S rRNA gene sequences of ammonia-oxidizing bacteria (AOB). The presence of gill-specific AOB was shown in both wild and aquacultured fish, as well as in marine and freshwater fish species. Based on these findings, we propose that ammonia oxidizers are widespread in teleost fish gills. These gill-associated AOB can significantly affect fish nitrogen excretion, and the widespread nature of this association suggests that the gill-associated AOB can have similar impacts on more fish species. Future research should address the contribution of these microorganisms to fish nitrogen metabolism and the fundamental characteristics of this novel symbiosis.IMPORTANCERecent advances in sequencing have increased our knowledge of teleost-associated microbiota, but the gill microbiome has received comparatively little attention. We recently discovered a consortium of nitrogen-cycling bacteria in the gills of common carp and zebrafish, which are able to convert (toxic) ammonia into harmless dinitrogen gas. These microorganisms thus function as a natural nitrogen biofilter. We analyzed all available gill microbiome data sets to determine how widespread gill-associated ammonia-oxidizing bacteria (AOB) are. More than half of the data sets contained AOB, representing both aquacultured and wild fish from freshwater and marine habitats. In total, 182 amplicon sequencing variants were obtained, of which 115 were found specifically in the gills and not the environmental microbiomes. As gill-associated AOB are apparently widespread in teleost fish, it is important to study their impact on host nitrogen excretion and the potential to reduce ammonia accumulation in (recirculating) aquaculture of relevant fish species.
+
+[Source](https://doi.org/10.1128/spectrum.00295-24)
+
+10.1128/spectrum.00295-24
+
+---
+
+## Automated annotation of scientific texts for ML-based keyphrase extraction and validation.
+ 27.09.2024, _OO Amusat, H Hegde, CJ Mungall, A Giannakou, NP Byers, D Gunter, K Fagnan, L Ramakrishnan_
+
+
+_Machine Learning, Data Curation, Data Mining, Metadata_
+Advanced omics technologies and facilities generate a wealth of valuable data daily; however, the data often lack the essential metadata required for researchers to find, curate, and search them effectively. The lack of metadata poses a significant challenge in the utilization of these data sets. Machine learning (ML)-based metadata extraction techniques have emerged as a potentially viable approach to automatically annotating scientific data sets with the metadata necessary for enabling effective search. Text labeling, usually performed manually, plays a crucial role in validating machine-extracted metadata. However, manual labeling is time-consuming and not always feasible; thus, there is a need to develop automated text labeling techniques in order to accelerate the process of scientific innovation. This need is particularly urgent in fields such as environmental genomics and microbiome science, which have historically received less attention in terms of metadata curation and creation of gold-standard text mining data sets. In this paper, we present two novel automated text labeling approaches for the validation of ML-generated metadata for unlabeled texts, with specific applications in environmental genomics. Our techniques show the potential of two new ways to leverage existing information that is only available for select documents within a corpus to validate ML models, which can then be used to describe the remaining documents in the corpus. The first technique exploits relationships between different types of data sources related to the same research study, such as publications and proposals. The second technique takes advantage of domain-specific controlled vocabularies or ontologies. In this paper, we detail applying these approaches in the context of environmental genomics research for ML-generated metadata validation. Our results show that the proposed label assignment approaches can generate both generic and highly specific text labels for the unlabeled texts, with up to 44% of the labels matching with those suggested by a ML keyword extraction algorithm.
+
+[Source](https://doi.org/10.1093/database/baae093)
+
+10.1093/database/baae093
+
+---
+
+## SpeciateIT and vSpeciateDB: novel, fast, and accurate per sequence 16S rRNA gene taxonomic classification of vaginal microbiota.
+ 28.09.2024, _JB Holm, P Gajer, J Ravel_
+
+
+_RNA, Ribosomal, 16S, Microbiota, Vagina, Female, Algorithms, Humans, Software, Databases, Genetic_
+Clustering of sequences into operational taxonomic units (OTUs) and denoising methods are a mainstream stopgap to taxonomically classifying large numbers of 16S rRNA gene sequences. Environment-specific reference databases generally yield optimal taxonomic assignment.
+
+[Source](https://doi.org/10.1186/s12859-024-05930-3)
+
+10.1186/s12859-024-05930-3
+
+---
+
+## Implementing high-throughput insect barcoding in microbiome studies: impact of non-destructive DNA extraction on microbiome reconstruction.
+ 28.09.2024, _V Andriienko, M Buczek, R Meier, A Srivathsan, P Łukasik, MR Kolasa_
+
+
+_Animals, DNA Barcoding, Taxonomic, Microbiota, Insecta, RNA, Ribosomal, 16S, DNA, Bacterial, Bacteria, Polymerase Chain Reaction, Biodiversity, High-Throughput Nucleotide Sequencing_
+Symbiotic relationships with diverse microorganisms are crucial for many aspects of insect biology. However, while our understanding of insect taxonomic diversity and the distribution of insect species in natural communities is limited, we know much less about their microbiota. In the era of rapid biodiversity declines, as researchers increasingly turn towards DNA-based monitoring, developing and broadly implementing approaches for high-throughput and cost-effective characterization of both insect and insect-associated microbial diversity is essential. We need to verify whether approaches such as high-throughput barcoding, a powerful tool for identifying wild insects, would permit subsequent microbiota reconstruction in these specimens.
+
+[Source](https://doi.org/10.7717/peerj.18025)
+
+10.7717/peerj.18025
+
+---
+
+## A Metagenomics Pipeline to Characterize Self-Collected Vaginal Microbiome Samples.
+ 28.09.2024, _K Thomas-White, EE Hilt, G Olmschenk, M Gong, CD Phillips, C Jarvis, N Sanford, J White, P Navarro_
+
+
+Vaginitis is a widespread issue for women worldwide, yet current diagnostic tools are lacking. Bacterial vaginosis (BV) is the most prevalent type of vaginitis, found in 10-50% of reproductive-aged women. Current diagnostic methods for BV rely on clinical criteria, microscopy, or the detection of a few microbes by qPCR. However, many vaginal infections lack a single etiological agent and are characterized by changes in the vaginal microbiome community structure (e.g., BV is defined as a loss of protective lactobacilli resulting in an overgrowth of anaerobic bacteria). Shotgun metagenomic sequencing provides a comprehensive view of all the organisms present in the vaginal microbiome (VMB), allowing for a better understanding of all potential etiologies. Here, we describe a robust VMB metagenomics sequencing test with a sensitivity of 93.1%, a specificity of 90%, a negative predictive value of 93.4%, and a positive predictive value of 89.6% certified by Clinical Laboratory Improvement Amendments (CLIA), the College of American Pathologist (CAP), and the Clinical Laboratory Evaluation Program (CLEP). We sequenced over 7000 human vaginal samples with this pipeline and described general findings and comparisons to US census data.
+
+[Source](https://doi.org/10.3390/diagnostics14182039)
+
+10.3390/diagnostics14182039
+
+---
+
+## Microbe-drug association prediction model based on graph convolution and attention networks.
+ 27.09.2024, _B Wang, T Wang, X Du, J Li, J Wang, P Wu_
+
+
+_Humans, Deep Learning, Microbiota, Computational Biology, Neural Networks, Computer, Drug Discovery, Pharmaceutical Preparations_
+The human microbiome plays a key role in drug development and precision medicine, but understanding its complex interactions with drugs remains a challenge. Identifying microbe-drug associations not only enhances our understanding of their mechanisms but also aids in drug discovery and repurposing. Traditional experiments are expensive and time-consuming, making computational methods for predicting microbe-drug associations a new trend. Currently, computational methods specifically designed for this task are still scarce. Therefore, to address the shortcomings of traditional experimental methods in predicting potential microbe-drug associations, this paper proposes a new prediction model named GCNATMDA. The model combines two deep learning models, Graph Convolutional Network and Graph Attention Network, and aims to reveal potential relationships between microbes and drugs by learning related features. Thus improve the efficiency and accuracy of prediction. We first integrated the microbe-drug association matrix from the existing dataset, and then combined the calculated microbe-drug characteristic matrix as the model input. The GCN module is used to dig deeper into the potential characterization of microbes and drugs, while the GAT module further learns the more complex interactions between them and generates the corresponding score matrix. The experimental results show that the GCNATMDA model achieves 96.59% and 93.01% in AUC and AUPR evaluation indexes, respectively, which is significantly better than the existing prediction models. In addition, the reliability of the prediction results is verified by a series of experiments.
+
+[Source](https://doi.org/10.1038/s41598-024-71834-0)
+
+10.1038/s41598-024-71834-0
 
 ---
 
