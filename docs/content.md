@@ -135,28 +135,15 @@ Despite recent advances, severe acute pancreatitis (SAP) remains a lethal inflam
 
 ---
 
-## Phytoactives for Obesity Management: Integrating Nanomedicine for Its Effective Delivery.
- 27.09.2024, _AK Mandal, A Sahoo, WH Almalki, SS Almujri, A Alhamyani, A Aodah, NK Alruwaili, SZBS Abdul Kadir, RK Mandal, RA Almalki, JA Lal, M Rahman_
-
-
-Obesity is a global health concern that requires urgent investigation and management. While synthetic anti-obesity medications are available, they come with a high risk of side-effects and variability in their efficacy. Therefore, natural compounds are increasingly being used to treat obesity worldwide. The proposition that naturally occurring compounds, mainly polyphenols, can be effective and safer for obesity management through food and nutrient fortification is strongly supported by extensive experimental research. This review focuses on the pathogenesis of obesity while reviewing the efficacy of an array of phytoactives used for obesity treatment. It details mechanisms such as enzyme inhibition, energy expenditure, appetite suppression, adipocyte differentiation, lipid metabolism, and modulation of gut microbiota. Comprehensive in vitro, in vivo, and preclinical studies underscore the promise of phytoactives in combating obesity, which have been thoroughly reviewed. However, challenges, such as poor bioavailability and metabolism, limit their potential. Advances in nanomedicines may overcome these constraints, offering a new avenue for enhancing the efficacy of phytoactives. Nonetheless, rigorous and targeted clinical trials are essential before applying phytoactives as a primary treatment for obesity.
+## Phytoactives for Obesity Management: Integrating Nanomedicine for Its Effective Delivery
 
 [Source](https://doi.org/10.1093/nutrit/nuae136)
 
-10.1093/nutrit/nuae136
-
 ---
 
-## Exploring microbial diversity and biosynthetic potential in zoo and wildlife animal microbiomes.
- 28.09.2024, _GP Schmartz, J Rehner, MJ Schuff, LG Molano, SL Becker, M Krawczyk, A Tagirdzhanov, A Gurevich, R Francke, R Müller, V Keller, A Keller_
-
-
-_Animals, Animals, Wild, Animals, Zoo, Gastrointestinal Microbiome, Anti-Bacterial Agents, Microbiota, Bacteria, Multigene Family, Humans, Biodiversity, Drug Resistance, Bacterial, Vancomycin, Biosynthetic Pathways_
-Understanding human, animal, and environmental microbiota is essential for advancing global health and combating antimicrobial resistance (AMR). We investigate the oral and gut microbiota of 48 animal species in captivity, comparing them to those of wildlife animals. Specifically, we characterize the microbiota composition, metabolic pathways, AMR genes, and biosynthetic gene clusters (BGCs) encoding the production of specialized metabolites. Our results reveal a high diversity of microbiota, with 585 novel species-level genome bins (SGBs) and 484 complete BGCs identified. Functional gene analysis of microbiomes shows diet-dependent variations. Furthermore, by comparing our findings to wildlife-derived microbiomes, we observe the impact of captivity on the animal microbiome, including examples of converging microbiome compositions. Importantly, our study identifies AMR genes against commonly used veterinary antibiotics, as well as resistance to vancomycin, a critical antibiotic in human medicine. These findings underscore the importance of the 'One Health' approach and the potential for zoonotic transmission of pathogenic bacteria and AMR. Overall, our study contributes to a better understanding of the complexity of the animal microbiome and highlights its BGC diversity relevant to the discovery of novel antimicrobial compounds.
+## Exploring microbial diversity and biosynthetic potential in zoo and wildlife animal microbiomes
 
 [Source](https://doi.org/10.1038/s41467-024-52669-9)
-
-10.1038/s41467-024-52669-9
 
 ---
 
