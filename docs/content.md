@@ -17,16 +17,9 @@ The human microbiome emerges as a promising reservoir for diagnostic markers and
 
 ---
 
-## Deep longitudinal lower respiratory tract microbiome profiling reveals genome-resolved functional and evolutionary dynamics in critical illness.
- 27.09.2024, _M Cheng, Y Xu, X Cui, X Wei, Y Chang, J Xu, C Lei, L Xue, Y Zheng, Z Wang, L Huang, M Zheng, H Luo, Y Leng, C Jiang_
-
-
-_Humans, Critical Illness, Microbiota, Intensive Care Units, Metagenome, Metagenomics, Longitudinal Studies, Male, Female, Plasmids, Genome, Bacterial, Respiratory System, Aged, Middle Aged, Bacteria, Pneumonia, Evolution, Molecular_
-The lower respiratory tract (LRT) microbiome impacts human health, especially among critically ill patients. However, comprehensive characterizations of the LRT microbiome remain challenging due to low microbial mass and host contamination. We develop a chelex100-based low-biomass microbial-enrichment method (CMEM) that enables deep metagenomic profiling of LRT samples to recover near-complete microbial genomes. We apply the method to 453 longitudinal LRT samples from 157 intensive care unit (ICU) patients in three geographically distant hospitals. We recover 120 high-quality metagenome-assembled genomes (MAGs) and associated plasmids without culturing. We detect divergent longitudinal microbiome dynamics and hospital-specific dominant opportunistic pathogens and resistomes in pneumonia patients. Diagnosed pneumonia and the ICU stay duration were associated with the abundance of specific antibiotic-resistance genes (ARGs). Moreover, CMEM can serve as a robust tool for genome-resolved analyses. MAG-based analyses reveal strain-specific resistome and virulome among opportunistic pathogen strains. Evolutionary analyses discover increased mobilome in prevailing opportunistic pathogens, highly conserved plasmids, and new recombination hotspots associated with conjugative elements and prophages. Integrative analysis with epidemiological data reveals frequent putative inter-patient strain transmissions in ICUs. In summary, we present a genome-resolved functional, transmission, and evolutionary landscape of the LRT microbiota in critically ill patients.
+## Deep longitudinal lower respiratory tract microbiome profiling reveals genome-resolved functional and evolutionary dynamics in critical illness
 
 [Source](https://doi.org/10.1038/s41467-024-52713-8)
-
-10.1038/s41467-024-52713-8
 
 ---
 
@@ -54,15 +47,16 @@ Microbes are important components of the tumor microenvironment and have a close
 
 ---
 
-## Virulence Factors and Susceptibility to Ciprofloxacin, Vancomycin, Triclosan, and Chlorhexidine among Enterococci from Clinical Specimens, Food, and Wastewater.
- 28.09.2024, _DB Gorski, J Vlainić, I Škrlec, S Novak, Ž Novosel, Z Biloglav, V Plečko, I Kosalec_
+## Inhibition of the NF-κB/HIF-1α signaling pathway in colorectal cancer by tyrosol: a gut microbiota-derived metabolite.
+ 29.09.2024, _J Guo, F Meng, R Hu, L Chen, J Chang, K Zhao, H Ren, Z Liu, P Hu, G Wang, J Tai_
 
 
-Enterococcus faecalis and E. faecium are opportunistic pathogens commonly found in the microbiota of humans and other animals as well as in the environment. This article presents the results of antimicrobial susceptibility testing using phenotypic methods (broth microdilution and standardized disk diffusion) on selected clinical, food, and wastewater isolates of E. faecalis and E. faecium. The isolates were divided into subgroups based on their sensitivity to the following antibiotics: vancomycin (VAN) and ciprofloxacin (CIP), and biocides triclosan (TCL) and chlorhexidine (CHX). The study also investigated in vitro virulence factors, including biofilm formation ability, cell surface hydrophobicity (CSH) and β-hemolysis, to explore aspects of pathogenesis. In our study, regardless of the isolation source, VAN-resistant (VAN-R) and CIP-resistant (CIP-R) E. faecalis and E. faecium were detected. The highest proportion of CIP-R strains was found among clinical isolates of E. faecalis and E. faecium, with clinical E. faecium also showing the highest proportion of VAN-R strains. But the highest proportion of VAN-R E. faecalis strains was found in wastewater samples. The highest TCL MIC90 values for E. faecalis were found in wastewater isolates, while for E. faecium, the highest TCL MIC90 values were observed in food isolates. The highest CHX MIC90 values for both E. faecalis and E. faecium were identified in clinical specimens. The results obtained for E. faecalis did not indicate differences in TCL MIC and CHX MIC values with respect to sensitivity to VAN and CIP. Higher CHX MIC50 and CHX MIC90 values were obtained for CIP-R and VAN-R E. faecium. Among the tested isolates, 97.75% of the E. faecalis isolates produced biofilm, while 72.22% of the E. faecium isolates did so as well. In biofilm-forming strength categories III and IV, statistically significantly higher proportions of CIP-susceptible (CIP-S) and VAN-susceptible (VAN-S) E. faecalis were determined. In category III, there is no statistically significant difference in E. faecium CIP sensitivity. In category IV, we had a significantly higher proportion of CIP-R strains. On the other hand, the association between the moderate or strong category of biofilm formation and E. faecium VAN susceptibility was not significant. E. faecalis isolated from wastewater had a CSH index (HI) ≥ 50%, categorizing them as "moderate", while all the other strains were categorized as "low" based on the CSH index. Among the E. faecalis isolates, cell surface hydrophobicity indices differed significantly across isolation sources. In contrast, E. faecium isolates showed similar hydrophobicity indices across isolation sources, with no significant difference found. Moreover, no correlation was found between the enterococcal cell surface hydrophobicity and biofilm formation in vitro. After anaerobic incubation, β-hemolytic activity was confirmed in 19.10% of the E. faecalis and 3.33% of the E. faecium strains.
+_Phenylethyl Alcohol, Colorectal Neoplasms, Gastrointestinal Microbiome, Humans, Animals, Mice, Signal Transduction, NF-kappa B, Hypoxia-Inducible Factor 1, alpha Subunit, Male, Female, Cell Line, Tumor_
+The development and progression of colorectal cancer (CRC) are influenced by the gut environment, much of which is modulated by microbial-derived metabolites. Although some research has been conducted on the gut microbiota, there have been limited empirical investigations on the role of the microbial-derived metabolites in CRC.
 
 [Source](https://doi.org/10.1038/d41573-024-00157-6)
 
-10.3390/microorganisms12091808
+10.1136/jitc-2024-008831
 
 ---
 
@@ -129,21 +123,40 @@ Despite recent advances, severe acute pancreatitis (SAP) remains a lethal inflam
 
 ---
 
-## Aged garlic oligosaccharides modulate host metabolism and gut microbiota to alleviate high-fat and high-cholesterol diet-induced atherosclerosis in ApoE(-/-) mice
+## Aged garlic oligosaccharides modulate host metabolism and gut microbiota to alleviate high-fat and high-cholesterol diet-induced atherosclerosis in ApoE-/- mice.
+ 26.09.2024, _X Wang, J Cui, Z Gu, L Guo, R Liu, Y Guo, N Qin, Y Yang_
+
+
+Atherosclerosis (AS) is a cardiovascular disease caused by excessive accumulation of lipids in arterial walls. In this study, we developed an AS model in ApoE-/- mice using a high-fat, high-cholesterol diet and investigated the anti-AS mechanism of aged garlic oligosaccharides (AGOs) by focusing on the gut microbiota. Results revealed that AGOs exhibited significant anti-AS effects, reduced trimethylamine N-oxide levels from 349.9 to 189.2 ng/mL, and reduced aortic lipid deposition from 31.7 % to 9.5 %. AGOs significantly increased the levels of short-chain fatty acids in feces, in which acetic, propionic, and butyric acids were increased from 1.580, 0.364, and 0.469 mg/g to 2.233, 0.774, and 0.881 mg/g, respectively. An analysis of the gut microbiota indicated that AGOs restored alpha and beta diversity, decreased the Firmicutes/Bacteroidetes ratio, and promoted the dominance of the genus Akkermansia. A metagenomic analysis revealed that AGOs alleviated AS through the ABC transporter pathway and the lipopolysaccharide biosynthesis pathway.
 
 [Source](https://doi.org/10.1016/j.foodchem.2024.141409)
 
+10.1016/j.foodchem.2024.141409
+
 ---
 
-## Phytoactives for Obesity Management: Integrating Nanomedicine for Its Effective Delivery
+## Phytoactives for Obesity Management: Integrating Nanomedicine for Its Effective Delivery.
+ 27.09.2024, _AK Mandal, A Sahoo, WH Almalki, SS Almujri, A Alhamyani, A Aodah, NK Alruwaili, SZBS Abdul Kadir, RK Mandal, RA Almalki, JA Lal, M Rahman_
+
+
+Obesity is a global health concern that requires urgent investigation and management. While synthetic anti-obesity medications are available, they come with a high risk of side-effects and variability in their efficacy. Therefore, natural compounds are increasingly being used to treat obesity worldwide. The proposition that naturally occurring compounds, mainly polyphenols, can be effective and safer for obesity management through food and nutrient fortification is strongly supported by extensive experimental research. This review focuses on the pathogenesis of obesity while reviewing the efficacy of an array of phytoactives used for obesity treatment. It details mechanisms such as enzyme inhibition, energy expenditure, appetite suppression, adipocyte differentiation, lipid metabolism, and modulation of gut microbiota. Comprehensive in vitro, in vivo, and preclinical studies underscore the promise of phytoactives in combating obesity, which have been thoroughly reviewed. However, challenges, such as poor bioavailability and metabolism, limit their potential. Advances in nanomedicines may overcome these constraints, offering a new avenue for enhancing the efficacy of phytoactives. Nonetheless, rigorous and targeted clinical trials are essential before applying phytoactives as a primary treatment for obesity.
 
 [Source](https://doi.org/10.1093/nutrit/nuae136)
 
+10.1093/nutrit/nuae136
+
 ---
 
-## Exploring microbial diversity and biosynthetic potential in zoo and wildlife animal microbiomes
+## Exploring microbial diversity and biosynthetic potential in zoo and wildlife animal microbiomes.
+ 29.09.2024, _GP Schmartz, J Rehner, MJ Schuff, LG Molano, SL Becker, M Krawczyk, A Tagirdzhanov, A Gurevich, R Francke, R Müller, V Keller, A Keller_
+
+
+_Animals, Animals, Wild, Animals, Zoo, Gastrointestinal Microbiome, Anti-Bacterial Agents, Microbiota, Bacteria, Multigene Family, Humans, Biodiversity, Drug Resistance, Bacterial, Vancomycin, Biosynthetic Pathways_
+Understanding human, animal, and environmental microbiota is essential for advancing global health and combating antimicrobial resistance (AMR). We investigate the oral and gut microbiota of 48 animal species in captivity, comparing them to those of wildlife animals. Specifically, we characterize the microbiota composition, metabolic pathways, AMR genes, and biosynthetic gene clusters (BGCs) encoding the production of specialized metabolites. Our results reveal a high diversity of microbiota, with 585 novel species-level genome bins (SGBs) and 484 complete BGCs identified. Functional gene analysis of microbiomes shows diet-dependent variations. Furthermore, by comparing our findings to wildlife-derived microbiomes, we observe the impact of captivity on the animal microbiome, including examples of converging microbiome compositions. Importantly, our study identifies AMR genes against commonly used veterinary antibiotics, as well as resistance to vancomycin, a critical antibiotic in human medicine. These findings underscore the importance of the 'One Health' approach and the potential for zoonotic transmission of pathogenic bacteria and AMR. Overall, our study contributes to a better understanding of the complexity of the animal microbiome and highlights its BGC diversity relevant to the discovery of novel antimicrobial compounds.
 
 [Source](https://doi.org/10.1038/s41467-024-52669-9)
+
+10.1038/s41467-024-52669-9
 
 ---
 
@@ -191,15 +204,9 @@ The gut microbiota (GM) influences multiple processes during host development an
 
 ---
 
-## Bacterial microbiome diversity along poultry slaughtering lines: insights from chicken carcasses and environmental sources.
- 27.09.2024, _AE Telli, Y Biçer, N Telli, G Sönmez, G Turkal, İ Güzel_
-
-
-This study aimed to determine the bacterial diversity of chicken carcasses and their surrounding environment at various stages along a poultry slaughter line.
+## Bacterial microbiome diversity along poultry slaughtering lines: insights from chicken carcasses and environmental sources
 
 [Source](https://doi.org/10.2478/jvetres-2024-0051)
-
-10.2478/jvetres-2024-0051
 
 ---
 
