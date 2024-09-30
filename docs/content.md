@@ -17,9 +17,16 @@ The human microbiome emerges as a promising reservoir for diagnostic markers and
 
 ---
 
-## Deep longitudinal lower respiratory tract microbiome profiling reveals genome-resolved functional and evolutionary dynamics in critical illness
+## Deep longitudinal lower respiratory tract microbiome profiling reveals genome-resolved functional and evolutionary dynamics in critical illness.
+ 27.09.2024, _M Cheng, Y Xu, X Cui, X Wei, Y Chang, J Xu, C Lei, L Xue, Y Zheng, Z Wang, L Huang, M Zheng, H Luo, Y Leng, C Jiang_
+
+
+_Humans, Critical Illness, Microbiota, Intensive Care Units, Metagenome, Metagenomics, Longitudinal Studies, Male, Female, Plasmids, Genome, Bacterial, Respiratory System, Aged, Middle Aged, Bacteria, Pneumonia, Evolution, Molecular_
+The lower respiratory tract (LRT) microbiome impacts human health, especially among critically ill patients. However, comprehensive characterizations of the LRT microbiome remain challenging due to low microbial mass and host contamination. We develop a chelex100-based low-biomass microbial-enrichment method (CMEM) that enables deep metagenomic profiling of LRT samples to recover near-complete microbial genomes. We apply the method to 453 longitudinal LRT samples from 157 intensive care unit (ICU) patients in three geographically distant hospitals. We recover 120 high-quality metagenome-assembled genomes (MAGs) and associated plasmids without culturing. We detect divergent longitudinal microbiome dynamics and hospital-specific dominant opportunistic pathogens and resistomes in pneumonia patients. Diagnosed pneumonia and the ICU stay duration were associated with the abundance of specific antibiotic-resistance genes (ARGs). Moreover, CMEM can serve as a robust tool for genome-resolved analyses. MAG-based analyses reveal strain-specific resistome and virulome among opportunistic pathogen strains. Evolutionary analyses discover increased mobilome in prevailing opportunistic pathogens, highly conserved plasmids, and new recombination hotspots associated with conjugative elements and prophages. Integrative analysis with epidemiological data reveals frequent putative inter-patient strain transmissions in ICUs. In summary, we present a genome-resolved functional, transmission, and evolutionary landscape of the LRT microbiota in critically ill patients.
 
 [Source](https://doi.org/10.1038/s41467-024-52713-8)
+
+10.1038/s41467-024-52713-8
 
 ---
 
@@ -204,9 +211,15 @@ The gut microbiota (GM) influences multiple processes during host development an
 
 ---
 
-## Bacterial microbiome diversity along poultry slaughtering lines: insights from chicken carcasses and environmental sources
+## Bacterial microbiome diversity along poultry slaughtering lines: insights from chicken carcasses and environmental sources.
+ 27.09.2024, _AE Telli, Y Biçer, N Telli, G Sönmez, G Turkal, İ Güzel_
+
+
+This study aimed to determine the bacterial diversity of chicken carcasses and their surrounding environment at various stages along a poultry slaughter line.
 
 [Source](https://doi.org/10.2478/jvetres-2024-0051)
+
+10.2478/jvetres-2024-0051
 
 ---
 
