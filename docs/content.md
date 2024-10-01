@@ -147,29 +147,15 @@ Despite recent advances, severe acute pancreatitis (SAP) remains a lethal inflam
 
 ---
 
-## Fur microbiome as a putative source of symbiotic bacteria in sucking lice.
- 30.09.2024, _J Martin Říhová, S Gupta, E Nováková, V Hypša_
-
-
-_Animals, Symbiosis, Microbiota, Phylogeny, RNA, Ribosomal, 16S, Phthiraptera, Bacteria_
-Symbiosis between insects and bacteria has been established countless times. While it is well known that the symbionts originated from a variety of different bacterial taxa, it is usually difficult to determine their environmental source and a route of their acquisition by the host. In this study, we address this question using a model of Neisseriaceae symbionts in rodent lice. These bacteria established their symbiosis independently with different louse taxa (Polyplax, Hoplopleura, Neohaematopinus), most likely from the same environmental source. We first applied amplicon analysis to screen for candidate source bacterium in the louse environment. Since lice are permanent ectoparasites, often specific to the particular host, we screened various microbiomes associated with three rodent species (Microtus arvalis, Clethrionomys glareolus, and Apodemus flavicollis). The analyzed samples included fur, skin, spleen, and other ectoparasites sampled from these rodents. The fur microbiome data revealed a Neisseriaceae bacterium, closely related to the known louse symbionts. The draft genomes of the environmental Neisseriaceae, assembled from all three rodent hosts, converged to a remarkably small size of approximately 1.4 Mbp, being even smaller than the genomes of the related symbionts. Our results suggest that the rodent fur microbiome can serve as a source for independent establishment of bacterial symbiosis in associated louse species. We further propose a hypothetical scenario of the genome evolution during the transition of a free-living bacterium to the member of the rodent fur-associated microbiome and subsequently to the facultative and obligate louse symbionts.
+## Fur microbiome as a putative source of symbiotic bacteria in sucking lice
 
 [Source](https://doi.org/10.1038/s41598-024-73026-2)
 
-10.1038/s41598-024-73026-2
-
 ---
 
-## Fecal microbiota transplantation from patients with polycystic ovary syndrome induces metabolic disorders and ovarian dysfunction in germ-free mice.
- 28.09.2024, _F Huang, Y Deng, M Zhou, R Tang, P Zhang, R Chen_
-
-
-_Polycystic Ovary Syndrome, Animals, Fecal Microbiota Transplantation, Female, Mice, Gastrointestinal Microbiome, Humans, Dysbiosis, Feces, Metabolic Diseases, Bacteria, Insulin Resistance, Ovary, Germ-Free Life, Disease Models, Animal, Adult_
-Dysbiosis of the microbiome is a key hallmark of polycystic ovary syndrome (PCOS). However, the interaction between the host and microbiome and its relevance to the pathogenesis of PCOS remain unclear.
+## Fecal microbiota transplantation from patients with polycystic ovary syndrome induces metabolic disorders and ovarian dysfunction in germ-free mice
 
 [Source](https://doi.org/10.1186/s12866-024-03513-z)
-
-10.1186/s12866-024-03513-z
 
 ---
 
@@ -179,15 +165,9 @@ Dysbiosis of the microbiome is a key hallmark of polycystic ovary syndrome (PCOS
 
 ---
 
-## Effect of shipping on the microbiome of donor mice used to reconstitute germ-free recipients.
- 30.09.2024, _ZL McAdams, J Yates, G Turner, RA Dorfmeyer, M Wight-Carter, J Amos-Landgraf, CL Franklin, AC Ericsson_
-
-
-The gut microbiota (GM) influences multiple processes during host development and maintenance. To study these events, fecal microbiota transfer (FMT) to germ-free (GF) recipients is often performed. Mouse models of disease are also susceptible to GM-dependent effects, and cryo-repositories often store feces from donated mouse strains. Shipping live mice may affect the GM and result in an inaccurate representation of the baseline GM. We hypothesize that the use of such fecal samples for FMT would transfer shipping-induced changes in the donor GM to GF recipients. To test this, donor mice originating from two suppliers were shipped to the University of Missouri. Fecal samples collected pre- and post-shipping were used to inoculate GF mice. Pre- and post-shipping fecal samples from donors, and fecal and/or cecal contents were collected from recipients at one and two weeks post-FMT. 16S rRNA sequencing revealed supplier-dependent effects of shipping on the donor microbiome. FMT efficiency was independent of shipping timepoint or supplier, resulting in transmission of shipping-induced changes to recipient mice, however the effect of supplier-origin microbiome remained evident. While shipping may cause subtle changes in fecal samples collected for FMT, such effects are inconsistent among supplier-origin GMs and minor in comparison to other biological variables.
+## Effect of shipping on the microbiome of donor mice used to reconstitute germ-free recipients
 
 [Source](https://doi.org/10.1080/29933935.2024.2363858)
-
-10.1080/29933935.2024.2363858
 
 ---
 
