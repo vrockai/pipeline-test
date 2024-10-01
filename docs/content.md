@@ -54,16 +54,15 @@ Microbes are important components of the tumor microenvironment and have a close
 
 ---
 
-## Inhibition of the NF-κB/HIF-1α signaling pathway in colorectal cancer by tyrosol: a gut microbiota-derived metabolite.
- 29.09.2024, _J Guo, F Meng, R Hu, L Chen, J Chang, K Zhao, H Ren, Z Liu, P Hu, G Wang, J Tai_
+## Transcriptomic and Microbiome Analyses of copepod Apocyclops royi in Response to an AHPND-causing strain of Vibrio parahaemolyticus.
+ 30.09.2024, _N Prayoonmaneerat, W Charoensapsri, P Amparyup, C Imjongjirak_
 
 
-_Phenylethyl Alcohol, Colorectal Neoplasms, Gastrointestinal Microbiome, Humans, Animals, Mice, Signal Transduction, NF-kappa B, Hypoxia-Inducible Factor 1, alpha Subunit, Male, Female, Cell Line, Tumor_
-The development and progression of colorectal cancer (CRC) are influenced by the gut environment, much of which is modulated by microbial-derived metabolites. Although some research has been conducted on the gut microbiota, there have been limited empirical investigations on the role of the microbial-derived metabolites in CRC.
+Copepods are small crustaceans that live in microorganism-rich aquatic environments and provide a key supply of live food for fish and shellfish larviculture. To better understand the host-pathogen interaction between the copepod and Vibrio parahaemolyticus causing acute hepatopancreatic necrosis disease (VPAHPND), the comparative transcriptome and microbiome analyses were conducted in copepod Apocyclops royi-TH following VPAHPND infection. Transcriptome analysis identified a total of 836 differentially expressed genes, with 275 upregulated and 561 downregulated genes. Subsequent analysis showed that a total of 37 differentially expressed genes were associated with the innate immune system, including 16 upregulated genes related to Toll-like receptor signaling pathway, antimicrobial peptides, and stress response genes, and 21 downregulated genes associated with immunological modulators, signaling molecules, and apoptosis-related proteins. Analysis of the copepod microbiome following VPAHPND infection showed that the microbes changed significantly after bacterial infection, with a reduced alpha diversity accompanied by the increased level of Proteobacteria and decreased levels of Bdellovibrionota, Bacteroidota, and Verrucomicrobiota. The population of Vibrio genera were increased significantly, while several other genera, including Denitromonas, Nitrosomonas, Blastopirellula, Fusibacter, Alteromonas, KI89A_clade, and Ruegeria, were decreased significantly after infection. These findings suggest that VPAHPND infection has a significant impact on the immune defense and the composition of the copepod microbiota.
 
 [Source](https://doi.org/10.1038/d41573-024-00157-6)
 
-10.1136/jitc-2024-008831
+10.1016/j.dci.2024.105277
 
 ---
 
@@ -148,9 +147,16 @@ Despite recent advances, severe acute pancreatitis (SAP) remains a lethal inflam
 
 ---
 
-## Fur microbiome as a putative source of symbiotic bacteria in sucking lice
+## Fur microbiome as a putative source of symbiotic bacteria in sucking lice.
+ 30.09.2024, _J Martin Říhová, S Gupta, E Nováková, V Hypša_
+
+
+_Animals, Symbiosis, Microbiota, Phylogeny, RNA, Ribosomal, 16S, Phthiraptera, Bacteria_
+Symbiosis between insects and bacteria has been established countless times. While it is well known that the symbionts originated from a variety of different bacterial taxa, it is usually difficult to determine their environmental source and a route of their acquisition by the host. In this study, we address this question using a model of Neisseriaceae symbionts in rodent lice. These bacteria established their symbiosis independently with different louse taxa (Polyplax, Hoplopleura, Neohaematopinus), most likely from the same environmental source. We first applied amplicon analysis to screen for candidate source bacterium in the louse environment. Since lice are permanent ectoparasites, often specific to the particular host, we screened various microbiomes associated with three rodent species (Microtus arvalis, Clethrionomys glareolus, and Apodemus flavicollis). The analyzed samples included fur, skin, spleen, and other ectoparasites sampled from these rodents. The fur microbiome data revealed a Neisseriaceae bacterium, closely related to the known louse symbionts. The draft genomes of the environmental Neisseriaceae, assembled from all three rodent hosts, converged to a remarkably small size of approximately 1.4 Mbp, being even smaller than the genomes of the related symbionts. Our results suggest that the rodent fur microbiome can serve as a source for independent establishment of bacterial symbiosis in associated louse species. We further propose a hypothetical scenario of the genome evolution during the transition of a free-living bacterium to the member of the rodent fur-associated microbiome and subsequently to the facultative and obligate louse symbionts.
 
 [Source](https://doi.org/10.1038/s41598-024-73026-2)
+
+10.1038/s41598-024-73026-2
 
 ---
 
