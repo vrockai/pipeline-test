@@ -54,8 +54,8 @@ Microbes are important components of the tumor microenvironment and have a close
 
 ---
 
-## Transcriptomic and Microbiome Analyses of copepod Apocyclops royi in Response to an AHPND-causing strain of Vibrio parahaemolyticus.
- 30.09.2024, _N Prayoonmaneerat, W Charoensapsri, P Amparyup, C Imjongjirak_
+## Transcriptomic and microbiome analyses of copepod Apocyclops royi in response to an AHPND-causing strain of Vibrio parahaemolyticus.
+ 01.10.2024, _N Prayoonmaneerat, W Charoensapsri, P Amparyup, C Imjongjirak_
 
 
 Copepods are small crustaceans that live in microorganism-rich aquatic environments and provide a key supply of live food for fish and shellfish larviculture. To better understand the host-pathogen interaction between the copepod and Vibrio parahaemolyticus causing acute hepatopancreatic necrosis disease (VPAHPND), the comparative transcriptome and microbiome analyses were conducted in copepod Apocyclops royi-TH following VPAHPND infection. Transcriptome analysis identified a total of 836 differentially expressed genes, with 275 upregulated and 561 downregulated genes. Subsequent analysis showed that a total of 37 differentially expressed genes were associated with the innate immune system, including 16 upregulated genes related to Toll-like receptor signaling pathway, antimicrobial peptides, and stress response genes, and 21 downregulated genes associated with immunological modulators, signaling molecules, and apoptosis-related proteins. Analysis of the copepod microbiome following VPAHPND infection showed that the microbes changed significantly after bacterial infection, with a reduced alpha diversity accompanied by the increased level of Proteobacteria and decreased levels of Bdellovibrionota, Bacteroidota, and Verrucomicrobiota. The population of Vibrio genera were increased significantly, while several other genera, including Denitromonas, Nitrosomonas, Blastopirellula, Fusibacter, Alteromonas, KI89A_clade, and Ruegeria, were decreased significantly after infection. These findings suggest that VPAHPND infection has a significant impact on the immune defense and the composition of the copepod microbiota.
@@ -153,16 +153,9 @@ Despite recent advances, severe acute pancreatitis (SAP) remains a lethal inflam
 
 ---
 
-## Fecal microbiota transplantation from patients with polycystic ovary syndrome induces metabolic disorders and ovarian dysfunction in germ-free mice.
- 01.10.2024, _F Huang, Y Deng, M Zhou, R Tang, P Zhang, R Chen_
-
-
-_Polycystic Ovary Syndrome, Animals, Fecal Microbiota Transplantation, Female, Mice, Gastrointestinal Microbiome, Humans, Dysbiosis, Feces, Metabolic Diseases, Bacteria, Insulin Resistance, Ovary, Germ-Free Life, Disease Models, Animal, Adult_
-Dysbiosis of the microbiome is a key hallmark of polycystic ovary syndrome (PCOS). However, the interaction between the host and microbiome and its relevance to the pathogenesis of PCOS remain unclear.
+## Fecal microbiota transplantation from patients with polycystic ovary syndrome induces metabolic disorders and ovarian dysfunction in germ-free mice
 
 [Source](https://doi.org/10.1186/s12866-024-03513-z)
-
-10.1186/s12866-024-03513-z
 
 ---
 
@@ -172,15 +165,9 @@ Dysbiosis of the microbiome is a key hallmark of polycystic ovary syndrome (PCOS
 
 ---
 
-## Effect of shipping on the microbiome of donor mice used to reconstitute germ-free recipients.
- 30.09.2024, _ZL McAdams, J Yates, G Turner, RA Dorfmeyer, M Wight-Carter, J Amos-Landgraf, CL Franklin, AC Ericsson_
-
-
-The gut microbiota (GM) influences multiple processes during host development and maintenance. To study these events, fecal microbiota transfer (FMT) to germ-free (GF) recipients is often performed. Mouse models of disease are also susceptible to GM-dependent effects, and cryo-repositories often store feces from donated mouse strains. Shipping live mice may affect the GM and result in an inaccurate representation of the baseline GM. We hypothesize that the use of such fecal samples for FMT would transfer shipping-induced changes in the donor GM to GF recipients. To test this, donor mice originating from two suppliers were shipped to the University of Missouri. Fecal samples collected pre- and post-shipping were used to inoculate GF mice. Pre- and post-shipping fecal samples from donors, and fecal and/or cecal contents were collected from recipients at one and two weeks post-FMT. 16S rRNA sequencing revealed supplier-dependent effects of shipping on the donor microbiome. FMT efficiency was independent of shipping timepoint or supplier, resulting in transmission of shipping-induced changes to recipient mice, however the effect of supplier-origin microbiome remained evident. While shipping may cause subtle changes in fecal samples collected for FMT, such effects are inconsistent among supplier-origin GMs and minor in comparison to other biological variables.
+## Effect of shipping on the microbiome of donor mice used to reconstitute germ-free recipients
 
 [Source](https://doi.org/10.1080/29933935.2024.2363858)
-
-10.1080/29933935.2024.2363858
 
 ---
 
