@@ -4,9 +4,15 @@
 
 ---
 
-## Pangenomes of human gut microbiota uncover links between genetic diversity and stress response 
+## Pangenomes of human gut microbiota uncover links between genetic diversity and stress response.
+ 01.10.2024, _S Shoer, L Reicher, C Zhao, KS Pollard, Y Pilpel, E Segal_
+
+
+The genetic diversity of the gut microbiota has a central role in host health. Here, we created pangenomes for 728 human gut prokaryotic species, quadrupling the genes of strain-specific genomes. Each of these species has a core set of a thousand genes, differing even between closely related species, and an accessory set of genes unique to the different strains. Functional analysis shows high strain variability associates with sporulation, whereas low variability is linked with antibiotic resistance. We further map the antibiotic resistome across the human gut population and find 237 cases of extreme resistance even to last-resort antibiotics, with a predominance among Enterobacteriaceae. Lastly, the presence of specific genes in the microbiota relates to host age and sex. Our study underscores the genetic complexity of the human gut microbiota, emphasizing its significant implications for host health. The pangenomes and antibiotic resistance map constitute a valuable resource for further research.
 
 [Source](https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00324-X)
+
+10.1016/j.chom.2024.08.017
 
 ---
 
@@ -29,7 +35,7 @@ The gut microbiome, composed of the colonic microbiota and their host environmen
 ---
 
 ## A population-scale analysis of 36 gut microbiome studies reveals universal species signatures for common diseases.
- 30.09.2024, _W Sun, Y Zhang, R Guo, S Sha, C Chen, H Ullah, Y Zhang, J Ma, W You, J Meng, Q Lv, L Cheng, S Fan, R Li, X Mu, S Li, Q Yan_
+ 03.10.2024, _W Sun, Y Zhang, R Guo, S Sha, C Chen, H Ullah, Y Zhang, J Ma, W You, J Meng, Q Lv, L Cheng, S Fan, R Li, X Mu, S Li, Q Yan_
 
 
 _Humans, Gastrointestinal Microbiome, Feces, Case-Control Studies, Bacteria, Metagenome, Metagenomics, China, Biodiversity_
@@ -55,7 +61,7 @@ The increase in metagenome-assembled genomes (MAGs) has advanced our understandi
 ---
 
 ## Stratification of human gut microbiomes by succinotype is associated with inflammatory bowel disease status.
- 01.10.2024, _L Anthamatten, PR von Bieberstein, C Menzi, JN Zünd, C Lacroix, T de Wouters, GE Leventhal_
+ 03.10.2024, _L Anthamatten, PR von Bieberstein, C Menzi, JN Zünd, C Lacroix, T de Wouters, GE Leventhal_
 
 
 _Humans, Gastrointestinal Microbiome, Feces, Inflammatory Bowel Diseases, Succinic Acid, Bacteria, RNA, Ribosomal, 16S, Adult, Male, Female_
@@ -92,7 +98,7 @@ Biological aging is linked to altered body composition and reduced neuroactive s
 ---
 
 ## Preventive effect of probiotics on oral mucositis induced by anticancer therapy: a systematic review and meta-analysis of randomized controlled trials.
- 01.10.2024, _B Yang, W Li, J Shi_
+ 03.10.2024, _B Yang, W Li, J Shi_
 
 
 _Humans, Antineoplastic Agents, Neoplasms, Probiotics, Quality of Life, Randomized Controlled Trials as Topic, Stomatitis_
@@ -123,15 +129,9 @@ Uropygial gland secretions of birds consist of host and bacteria derived compoun
 
 ---
 
-## From carrion to soil: microbial recycling of animal carcasses.
- 02.10.2024, _JM DeBruyn, SW Keenan, LS Taylor_
-
-
-Decomposer microbial communities are gatekeepers in the redistribution of carbon and nutrients from dead animals (carrion) to terrestrial ecosystems. The flush of decomposition products from a carcass creates a hot spot of microbial activity in the soil below, and the animal's microbiome is released into the environment, mixing with soil communities. Changes in soil physicochemistry, especially reduced oxygen, temporarily constrain microbial nutrient cycling, and influence the timing of these processes and the fate of carrion resources. Carcass-related factors, such as mass, tissue composition, or even microbiome composition may also influence the functional assembly and succession of decomposer communities. Understanding these local scale microbially mediated processes is important for predicting consequences of carrion decomposition beyond the hot spot and hot moment.
+## From carrion to soil: microbial recycling of animal carcasses
 
 [Source](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(24)00229-4)
-
-10.1016/j.tim.2024.09.003
 
 ---
 
@@ -160,14 +160,21 @@ The microbiota of medicinal plants is known to be highly specific and can contri
 
 ---
 
-## Water‒soil-air‒plant mutual feedback mechanism under the application of red bed composite polymers 
+## Water‒soil-air‒plant mutual feedback mechanism under the application of red bed composite polymers.
+ 01.10.2024, _T Chen, G Cui, C Zhou, Z Liu_
+
+
+_Soil, Water, Polymers, Air, Temperature, Hydrogen-Ion Concentration, Germination, Environmental Restoration and Remediation, Carbon Dioxide_
+Red bed composite polymers composed of weathered red bed soil, adhesive materials, and water-retaining materials have been applied as a new type of material for environmental restoration. However, the promotion and application of this material has been limited by a lack of understanding of its action mechanism in environmental restoration. The objective of this study is to innovatively propose a water‒soil-air‒plant mutual feedback mechanism based on this material. Therefore, water‒soil-air‒plant mutual feedback tests were conducted in this study under 3 initial water contents and 10 red bed composite polymers ratios. Key parameters, namely, water content, soil conductivity, pH, temperature, O2 and CO2 contents, pigeon pea (Cajanus cajan) germination number and plant height were monitored and analyzed. As the results, a mutual feedback mechanism driving water retention, soil consolidation, air retention, and plant rooting was revealed under the application of red bed composite polymers. And, suitable environments and optimal compositions for this material are proposed. The study results provide a theoretical basis for the large-scale application of red bed composite polymers.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310172)
+
+10.1371/journal.pone.0310172
 
 ---
 
 ## Diversity and community distribution of soil bacterial in the Yellow River irrigation area of Ningxia, China.
- 30.09.2024, _X Wu, J Cai, Z Wang, W Li, G Chen, Y Bai_
+ 03.10.2024, _X Wu, J Cai, Z Wang, W Li, G Chen, Y Bai_
 
 
 _China, Soil Microbiology, Rivers, Bacteria, RNA, Ribosomal, 16S, Biodiversity, Soil, Agricultural Irrigation, Phylogeny_
