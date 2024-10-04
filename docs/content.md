@@ -147,55 +147,27 @@ Uropygial gland secretions of birds consist of host and bacteria derived compoun
 
 ---
 
-## The phyllosphere of Nigerian medicinal plants, Euphorbia lateriflora and Ficus thonningii is inhabited by a specific microbiota.
- 03.10.2024, _AO Oaikhena, ME Coker, D Cyril-Okoh, WA Wicaksono, E Olimi, G Berg, IN Okeke_
-
-
-_Euphorbia, Ficus, Microbiota, Plants, Medicinal, Bacteria, RNA, Ribosomal, 16S, Plant Leaves, Fungi, Nigeria, Phylogeny_
-The microbiota of medicinal plants is known to be highly specific and can contribute to medicinal activity. However, the majority of plant species have not yet been studied. Here, we investigated the phyllosphere composition of two common Nigerian medicinal plants, Euphorbia lateriflora and Ficus thonningii, by a polyphasic approach combining analyses of metagenomic DNA and isolates. Microbial abundance estimated via qPCR using specific marker gene primers showed that all leaf samples were densely colonized, with up to 108 per gram of leaf, with higher bacterial and fungal abundance than Archaea. While no statistically significant differences between both plant species were found for abundance, amplicon sequencing of 16S rRNA and ITS genes revealed distinct microbiota compositions. Only seven of the 27 genera isolated were represented on both plants, e.g. dominant Sphingomonas spp., and numerous members of Xanthomonadaceae and Enterobacteriaceae. The most dominant fungal families on both plants were Cladosporiaceae, Mycosphaerellaceae and Trichosphaeriaceae. In addition, 225 plant-specific isolates were identified, with Pseudomonadota and Enterobacteriaceae being dominant. Interestingly, 29 isolates are likely species previously unknown, and 14 of these belong to Burkholderiales. However, a high proportion, 56% and 40% of the isolates from E. lateriflora and F. thonningii, respectively, were characterized as various Escherichia coli. The growth of most of the bacterial isolates was not influenced by extractable secondary metabolites of plants. Our results suggest that a specific and diverse microbial community inhabits the leaves of both E. lateriflora and F. thonningii, including potentially new species and producers of antimicrobials.
+## The phyllosphere of Nigerian medicinal plants, Euphorbia lateriflora and Ficus thonningii is inhabited by a specific microbiota
 
 [Source](https://www.nature.com/articles/s41598-024-68001-w)
 
-10.1038/s41598-024-68001-w
-
 ---
 
-## Water‒soil-air‒plant mutual feedback mechanism under the application of red bed composite polymers.
- 01.10.2024, _T Chen, G Cui, C Zhou, Z Liu_
-
-
-_Soil, Water, Polymers, Air, Temperature, Hydrogen-Ion Concentration, Germination, Environmental Restoration and Remediation, Carbon Dioxide_
-Red bed composite polymers composed of weathered red bed soil, adhesive materials, and water-retaining materials have been applied as a new type of material for environmental restoration. However, the promotion and application of this material has been limited by a lack of understanding of its action mechanism in environmental restoration. The objective of this study is to innovatively propose a water‒soil-air‒plant mutual feedback mechanism based on this material. Therefore, water‒soil-air‒plant mutual feedback tests were conducted in this study under 3 initial water contents and 10 red bed composite polymers ratios. Key parameters, namely, water content, soil conductivity, pH, temperature, O2 and CO2 contents, pigeon pea (Cajanus cajan) germination number and plant height were monitored and analyzed. As the results, a mutual feedback mechanism driving water retention, soil consolidation, air retention, and plant rooting was revealed under the application of red bed composite polymers. And, suitable environments and optimal compositions for this material are proposed. The study results provide a theoretical basis for the large-scale application of red bed composite polymers.
+## Water‒soil-air‒plant mutual feedback mechanism under the application of red bed composite polymers 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310172)
 
-10.1371/journal.pone.0310172
-
 ---
 
-## Diversity and community distribution of soil bacterial in the Yellow River irrigation area of Ningxia, China.
- 03.10.2024, _X Wu, J Cai, Z Wang, W Li, G Chen, Y Bai_
-
-
-_China, Soil Microbiology, Rivers, Bacteria, RNA, Ribosomal, 16S, Biodiversity, Soil, Agricultural Irrigation, Phylogeny_
-The bacterial community performs an essential ecological role in maintaining agriculture systems. The roles of bacteria in the forest, marine, and agricultural systems have been studied extensively and intensively. However, similar studies in the areas irrigated by the Yellow River remain limited. In this study, we used Illumina sequencing analysis with the 16S rRNA method to analyze the bacterial diversity, community structure, and influencing factors in soil samples from eight regions of the Yellow River irrigation area in northwestern China. The bacterial community structure and diversity varied among samples from the eight regions. The samples differed significantly in terms of the bacterial community composition. Proteobacteria (approximately 12.4%-55.7%) accounted for the largest proportion and was the dominant bacteria, followed by Actinobacteria (approximately 9.2%-39.7%), Bacteroidetes (approximately 1.8%-21.5%), and Chloroflexi (approximately 2.7%-12.6%). Among the physicochemical variables, the soil pH in the eight regions was mildly alkaline, and the total nitrogen, total phosphorus, and total potassium contents in the soils differed significantly. However, the trend in the variations of the above variables was essentially similar. Soil bacteria in Yongning county had greater Chao1, Shannon-Wiener, and Simpson indices than those in the other regions. Notably, soil moisture, organic matter, and total nitrogen were recognized as the primary factors influencing the bacterial community in the Yellow River irrigation area. Our results revealed the laws of variation in soil bacterial diversity and community composition in the Yellow River irrigation area. Our findings could be beneficial for maintaining sustainable ecological practices in the Yellow River irrigation area.
+## Diversity and community distribution of soil bacterial in the Yellow River irrigation area of Ningxia, China
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311087)
 
-10.1371/journal.pone.0311087
-
 ---
 
-## Strain-resolved de-novo metagenomic assembly of viral genomes and microbial 16S rRNAs.
- 01.10.2024, _A Jochheim, FA Jochheim, A Kolodyazhnaya, É Morice, M Steinegger, J Söding_
-
-
-_RNA, Ribosomal, 16S, Genome, Viral, Metagenomics, Bacteria, Software, Humans, Bayes Theorem, Viruses, Metagenome_
-Metagenomics is a powerful approach to study environmental and human-associated microbial communities and, in particular, the role of viruses in shaping them. Viral genomes are challenging to assemble from metagenomic samples due to their genomic diversity caused by high mutation rates. In the standard de Bruijn graph assemblers, this genomic diversity leads to complex k-mer assembly graphs with a plethora of loops and bulges that are challenging to resolve into strains or haplotypes because variants more than the k-mer size apart cannot be phased. In contrast, overlap assemblers can phase variants as long as they are covered by a single read.
+## Strain-resolved de-novo metagenomic assembly of viral genomes and microbial 16S rRNAs 
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01904-y)
-
-10.1186/s40168-024-01904-y
 
 ---
 
