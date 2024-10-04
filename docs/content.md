@@ -148,7 +148,7 @@ Uropygial gland secretions of birds consist of host and bacteria derived compoun
 ---
 
 ## The phyllosphere of Nigerian medicinal plants, Euphorbia lateriflora and Ficus thonningii is inhabited by a specific microbiota.
- 01.10.2024, _AO Oaikhena, ME Coker, D Cyril-Okoh, WA Wicaksono, E Olimi, G Berg, IN Okeke_
+ 03.10.2024, _AO Oaikhena, ME Coker, D Cyril-Okoh, WA Wicaksono, E Olimi, G Berg, IN Okeke_
 
 
 _Euphorbia, Ficus, Microbiota, Plants, Medicinal, Bacteria, RNA, Ribosomal, 16S, Plant Leaves, Fungi, Nigeria, Phylogeny_
