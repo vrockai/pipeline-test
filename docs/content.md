@@ -65,28 +65,15 @@ Isometric training is used in sport, conventional physical activity and rehabili
 
 ---
 
-## What harmful microbes are lurking in the world's 7 billion tonnes of plastic waste?
- 02.10.2024, _C Li, J Liu, MC Rillig, MS Bank, P Fantke, D Zhu, YG Zhu, LN Jin_
-
-
-_Animals, Humans, Bacteria, Plastics, Hazardous Waste_
+## What harmful microbes are lurking in the world’s 7 billion tonnes of plastic waste? 
 
 [Source](https://www.nature.com/articles/d41586-024-03150-6)
 
-10.1038/d41586-024-03150-6
-
 ---
 
-## Integrating respiratory microbiome and host immune response through machine learning for respiratory tract infection diagnosis.
- 15.09.2024, _H Chen, T Qi, S Guo, X Zhang, M Zhan, S Liu, Y Yin, Y Guo, Y Zhang, C Zhao, X Wang, H Wang_
-
-
-_Humans, Machine Learning, Respiratory Tract Infections, Microbiota, Bronchoalveolar Lavage Fluid, Male, Female, Transcriptome, Middle Aged, Aged, Klebsiella pneumoniae, Adult_
-At present, the diagnosis of lower respiratory tract infections (LRTIs) is difficult, and there is an urgent need for better diagnostic methods. This study enrolled 136 patients from 2020 to 2021 and collected bronchoalveolar lavage fluid (BALF) specimens. We used metatranscriptome to analyze the lower respiratory tract microbiome (LRTM) and host immune response. The diversity of the LRTM in LRTIs significantly decreased, manifested by a decrease in the abundance of normal microbiota and an increase in the abundance of opportunistic pathogens. The upregulated differentially expressed genes (DEGs) in the LRTIs group were mainly enriched in infection immune response-related pathways. Klebsiella pneumoniae had the most significant increase in abundance in LRTIs, which was strongly correlated with host infection or inflammation genes TNFRSF1B, CSF3R, and IL6R. We combined LRTM and host transcriptome data to construct a machine-learning model with 12 screened features to discriminate LRTIs and non-LRTIs. The results showed that the model trained by Random Forest in the validate set had the best performance (ROC AUC: 0.937, 95% CI: 0.832-1). The independent external dataset showed an accuracy of 76.5% for this model. This study suggests that the model integrating LRTM and host transcriptome data can be an effective tool for LRTIs diagnosis.
+## Integrating respiratory microbiome and host immune response through machine learning for respiratory tract infection diagnosis
 
 [Source](https://www.nature.com/articles/s41522-024-00548-y)
-
-10.1038/s41522-024-00548-y
 
 ---
 
@@ -124,16 +111,9 @@ At present, the diagnosis of lower respiratory tract infections (LRTIs) is diffi
 
 ---
 
-## The association between mode of childbirth delivery and early childhood caries: A comprehensive systematic review and meta-analysis.
- 28.09.2024, _L Xiang, IA Kozlitina, M Mohammadian, R Choopani, A Mohammadian-Hafshejani_
-
-
-_Humans, Dental Caries, Female, Delivery, Obstetric, Cesarean Section, Pregnancy, Child, Preschool, Child, Parturition_
-Early childhood caries (ECC), also known as dental caries, poses a significant challenge to the oral health and overall well-being of young children. This study aims to investigate the potential relationship between the mode of delivery and the odds of ECC.
+## The association between mode of childbirth delivery and early childhood caries: A comprehensive systematic review and meta-analysis
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310405)
-
-10.1371/journal.pone.0310405
 
 ---
 
@@ -147,16 +127,9 @@ Early childhood caries (ECC), also known as dental caries, poses a significant c
 
 ---
 
-## Changes in intestinal permeability and gut microbiota following diet-induced weight loss in patients with metabolic dysfunction-associated steatohepatitis and liver fibrosis.
- 03.10.2024, _DA Koutoukidis, S Yen, P Gomez Castro, M Misheva, SA Jebb, P Aveyard, JW Tomlinson, FE Mozes, JF Cobbold, JS Johnson, JR Marchesi_
-
-
-_Humans, Gastrointestinal Microbiome, Male, Weight Loss, Middle Aged, Female, Permeability, Liver Cirrhosis, Adult, Haptoglobins, Feces, Protein Precursors, Fatty Acids, Volatile, Obesity, Fatty Liver, Diet, Reducing, Intestinal Mucosa, Cholera Toxin, Aged, Intestinal Barrier Function_
-Weight loss improves metabolic dysfunction-associated steatohepatitis (MASH). We investigated whether there were associated changes in intestinal permeability, short-chain fatty acids (SCFAs), and gut microbiota, which are implicated in the pathophysiology of MASH. Sixteen adults with MASH, moderate fibrosis, and obesity received a low-energy total diet replacement program for 12 weeks and stepped food re-introduction over the following 12 weeks (ISRCTN12900952). Intestinal permeability, fecal SCFAs, and fecal microbiota were assessed at 0, 12, and 24 weeks. Data were analyzed using mixed-effects linear regression and sparse partial least-squares regression. Fourteen participants completed the trial, lost 15% (95% CI: 11.2-18.6%) of their weight, and 93% had clinically relevant reductions in liver disease severity markers. Serum zonulin concentrations were reduced at both 12 and 24 weeks (152.0 ng/ml, 95% CI: 88.0-217.4, p &lt; 0.001). Each percentage point of weight loss was associated with a 13.2 ng/mL (95% CI: 3.8-22.5, p &lt; 0.001) reduction in zonulin. For every 10 ng/mL reduction in zonulin, there was a 6.8% (95% CI: 3.5%-10.2, p &lt; 0.001) reduction in liver fat. There were reductions in SCFA and alpha diversity evenness as well as increases in beta diversity of the gut microbiota at 12 weeks, but the changes did not persist at 24 weeks. In conclusion, substantial dietary energy restriction is associated with significant improvement in MASH markers alongside reduction in intestinal permeability. Changes in gut microbiota and SCFA were not maintained with sustained reductions in weight and liver fat, suggesting that microbiome modulation may not explain the relationship between weight loss and improvements in MASH.
+## Changes in intestinal permeability and gut microbiota following diet-induced weight loss in patients with metabolic dysfunction-associated steatohepatitis and liver fibrosis
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2392864)
-
-10.1080/19490976.2024.2392864
 
 ---
 
@@ -202,18 +175,6 @@ Dietary fibers can alter microbial metabolic output in support of healthy immune
 ## Maternal HIV infection and the milk microbiome
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01843-8)
-
----
-
-## Genomic surveillance as a scalable framework for precision phage therapy against antibiotic-resistant pathogens.
- 27.09.2024, _M Koncz, T Stirling, H Hadj Mehdi, O Méhi, B Eszenyi, A Asbóth, G Apjok, Á Tóth, L Orosz, BM Vásárhelyi, E Ari, L Daruka, TF Polgár, G Schneider, SA Zalokh, M Számel, G Fekete, B Bohár, K Nagy Varga, Á Visnyovszki, E Székely, MS Licker, O Izmendi, C Costache, I Gajic, B Lukovic, S Molnár, UO Szőcs-Gazdi, C Bozai, M Indreas, K Kristóf, C Van der Henst, A Breine, C Pál, B Papp, B Kintses_
-
-
-Phage therapy is gaining increasing interest in the fight against critically antibiotic-resistant nosocomial pathogens. However, the narrow host range of bacteriophages hampers the development of broadly effective phage therapeutics and demands precision approaches. Here, we combine large-scale phylogeographic analysis with high-throughput phage typing to guide the development of precision phage cocktails targeting carbapenem-resistant Acinetobacter baumannii, a top-priority pathogen. Our analysis reveals that a few strain types dominate infections in each world region, with their geographical distribution remaining stable within 6 years. As we demonstrate in Eastern Europe, this spatiotemporal distribution enables preemptive preparation of region-specific phage collections that target most local infections. Finally, we showcase the efficacy of phage cocktails against prevalent strain types using in vitro and animal infection models. Ultimately, genomic surveillance identifies patients benefiting from the same phages across geographical scales, thus providing a scalable framework for precision phage therapy.
-
-[Source](https://www.cell.com/cell/fulltext/S0092-8674(24)01027-4)
-
-10.1016/j.cell.2024.09.009
 
 ---
 
@@ -280,19 +241,6 @@ Bacteriophages (phages) are viruses of bacteria and have been used as antibacter
 ## @UCIMedSchool
 
 [Source](https://twitter.com/UCIMedSchool?ref_src=twsrc%5Etfw)
-
----
-
-## Alzheimer's disease biomarker burden in primary motor cortices is associated with poorer dexterity performance.
- 30.08.2024, _L Gupta, Y Ma, A Kohli, KL Yang, JM Oh, TJ Betthauser, NA Chin, OC Okonkwo, ME Pasquesi, V Nair, V Prabhakaran, SJ Li, B Bendlin_
-
-
-_Humans, Alzheimer Disease, Male, Female, Aged, Motor Cortex, Biomarkers, Cognitive Dysfunction, tau Proteins, Magnetic Resonance Imaging, Amyloid beta-Peptides, Aged, 80 and over, Positron-Emission Tomography, Neuropsychological Tests_
-Motor function has correlated with longevity and functionality; however, there is limited research on those with Alzheimer's disease (AD). We studied the association between motor functionality and AD pathology in primary motor and medial temporal cortices.
-
-[Source](https://twitter.com/UCIrvine?ref_src=twsrc%5Etfw)
-
-10.1002/alz.13899
 
 ---
 
@@ -364,19 +312,6 @@ Seasonal rhythms are gaining attention given their impact on metabolic disorders
 
 ---
 
-## Cost-Effectiveness of 9-Valent HPV Vaccination for Patients Treated for High-Grade Cervical Intraepithelial Neoplasia in the UK.
- 04.10.2024, _A Cherif, O Ovcinnikova, C Palmer, K Engelbrecht, M Reuschenbach, V Daniels_
-
-
-_Humans, Female, Cost-Benefit Analysis, Papillomavirus Vaccines, Uterine Cervical Dysplasia, United Kingdom, Papillomavirus Infections, Uterine Cervical Neoplasms, Adult, Middle Aged, Quality-Adjusted Life Years, Markov Chains_
-Patients who have been treated for high-grade cervical intraepithelial neoplasia (CIN grade ≥2) are at a high risk for subsequent CIN and other cancers and diseases related to human papillomavirus (HPV). HPV vaccination can reduce the risk of subsequent disease in patients surgically treated for grade 2 or greater CIN; however, there is no formal recommendation for prophylactic HPV vaccination in this high-risk population, and the cost-effectiveness is unknown.
-
-[Source](https://twitter.com/varreazagil/status/1840866310064119947?ref_src=twsrc%5Etfw)
-
-10.1001/jamanetworkopen.2024.37703
-
----
-
 ## September 30, 2024
 
 [Source](https://twitter.com/varreazagil/status/1840866310064119947?ref_src=twsrc%5Etfw)
@@ -401,16 +336,9 @@ Patients who have been treated for high-grade cervical intraepithelial neoplasia
 
 ---
 
-## Phosphorus availability influences disease-suppressive soil microbiome through plant-microbe interactions.
- 01.10.2024, _Y Cao, Z Shen, N Zhang, X Deng, LS Thomashow, I Lidbury, H Liu, R Li, Q Shen, GA Kowalchuk_
-
-
-_Phosphorus, Soil Microbiology, Solanum lycopersicum, Plant Diseases, Ralstonia solanacearum, Microbiota, Rhizosphere, Soil, Fertilizers, Plant Roots, Bacteria, Host Microbial Interactions_
-Soil nutrient status and soil-borne diseases are pivotal factors impacting modern intensive agricultural production. The interplay among plants, soil microbiome, and nutrient regimes in agroecosystems is essential for developing effective disease management. However, the influence of nutrient availability on soil-borne disease suppression and associated plant-microbe interactions remains to be fully explored. T his study aims to elucidate the mechanistic understanding of nutrient impacts on disease suppression, using phosphorous as a target nutrient.
+## Phosphorus availability influences disease-suppressive soil microbiome through plant-microbe interaction
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01906-w)
-
-10.1186/s40168-024-01906-w
 
 ---
 
@@ -469,15 +397,9 @@ For taxonomy based classification of metagenomics assembled contigs, current met
 
 ---
 
-## Emergent ecological patterns and modelling of gut microbiomes in health and in disease.
- 27.09.2024, _J Pasqualini, S Facchin, A Rinaldo, A Maritan, E Savarino, S Suweis_
-
-
-Recent advancements in next-generation sequencing have revolutionized our understanding of the human microbiome. Despite this progress, challenges persist in comprehending the microbiome's influence on disease, hindered by technical complexities in species classification, abundance estimation, and data compositionality. At the same time, the existence of macroecological laws describing the variation and diversity in microbial communities irrespective of their environment has been recently proposed using 16s data and explained by a simple phenomenological model of population dynamics. We here investigate the relationship between dysbiosis, i.e. in unhealthy individuals there are deviations from the "regular" composition of the gut microbial community, and the existence of macro-ecological emergent law in microbial communities. We first quantitatively reconstruct these patterns at the species level using shotgun data, and addressing the consequences of sampling effects and statistical errors on ecological patterns. We then ask if such patterns can discriminate between healthy and unhealthy cohorts. Concomitantly, we evaluate the efficacy of different statistical generative models, which incorporate sampling and population dynamics, to describe such patterns and distinguish which are expected by chance, versus those that are potentially informative about disease states or other biological drivers. A critical aspect of our analysis is understanding the relationship between model parameters, which have clear ecological interpretations, and the state of the gut microbiome, thereby enabling the generation of synthetic compositional data that distinctively represent healthy and unhealthy individuals. Our approach, grounded in theoretical ecology and statistical physics, allows for a robust comparison of these models with empirical data, enhancing our understanding of the strengths and limitations of simple microbial models of population dynamics.
+## Emergent ecological patterns and modelling of gut microbiomes in health and in disease
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012482)
-
-10.1371/journal.pcbi.1012482
 
 ---
 
