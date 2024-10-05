@@ -133,48 +133,39 @@ Isometric training is used in sport, conventional physical activity and rehabili
 
 ---
 
-## Integrating metagenomics with metabolomics for gut microbiota and metabolites profiling in acute pancreatitis.
- 17.09.2024, _Y Jia, Y Shi, J Wang, H Liu, Y Huang, H Wang, Y Liu, J Peng_
-
-
-_Gastrointestinal Microbiome, Pancreatitis, Animals, Metabolomics, Metagenomics, Mice, Metabolome, Disease Models, Animal, Dysbiosis, Mice, Inbred C57BL, Male, Acute Disease_
-Acute pancreatitis (AP) is an inflammatory disease of the pancreas. Despite of a steadily increasing in morbidity and mortality, there is still no effective therapy. Gut microbial dysbiosis and its derived-metabolites disorder have been shown to play an important role in the development of AP, however, little is known regarding the crosstalk between gut microbiota and metabolites. In this study, we assessed the alterations in gut microbiota and metabolites by constructing three AP mouse models by means of metagenomic and metabolomic sequencing, and further clarified their relationship by correlation analysis. The results revealed that each model exhibited unique flora and metabolite profiles. KEGG analysis showed that the differential flora and metabolite-enriched pathway functions were correlated with lipid metabolism and amino acid metabolism. Moreover, two core differential bacterial species on Burkholderiales bacterium YL45 and Bifidobacterium pseudolongum along with eleven differential metabolites appeared to exert certain effects during the course of AP. In conclusion, further exploration of the crosstalk between microbiota and derived metabolites may provide novel insights and strategies into the diagnosis and treatment of AP.
+## Integrating metagenomics with metabolomics for gut microbiota and metabolites profiling in acute pancreatitis
 
 [Source](https://www.nature.com/articles/s41598-024-72057-z)
 
-10.1038/s41598-024-72057-z
-
 ---
 
-## Detailed Analysis of Prebiotic Fructo- and Galacto-Oligosaccharides in the Human Small Intestine.
- 03.10.2024, _MPH van Trijp, M Rios-Morales, MJ Logtenberg, S Keshtkar, LA Afman, B Witteman, B Bakker, DJ Reijngoud, H Schols, GJEJ Hooiveld_
-
-
-_Humans, Oligosaccharides, Prebiotics, Adult, Male, Intestine, Small, Female, Young Adult, Kinetics, Middle Aged, Galactose_
-Galacto-oligosaccharides (GOS) and fructo-oligosaccharides (FOS) are food ingredients that improve human health, but their degradation throughout the human small intestine is not well understood. We studied the breakdown kinetics of FOS and GOS in the intestines of seven healthy Dutch adults. Subjects were equipped with a catheter in the distal ileum or proximal colon and consumed 5 g of chicory-derived FOS (degree of polymerization (DP) DP2-10), and 5 g of GOS (DP2-6). Postprandially, intestinal content was frequently collected until 350 min and analyzed for mono-, di-, and oligosaccharides. FOS and GOS had recoveries of 96 ± 25% and 76 ± 28%, respectively. FOS DP ≥ 2 and GOS DP ≥ 3 abundances in the distal small intestine or proximal colon matched the consumed doses, while GOS dimers (DP2) had lower recoveries, namely 22.8 ± 11.1% for β-D-gal-(1↔1)-α-D-glc+β-D-gal-(1↔1)-β-D-glc, 19.3 ± 19.1% for β-D-gal-(1 → 2)-D-glc+β-D-gal-(1 → 3)-D-glc, 43.7 ± 24.6% for β-D-gal-(1 → 6)-D-gal, and 68.0 ± 38.5% for β-D-gal-(1 → 4)-D-gal. Lactose was still present in the distal small intestine of all of the participants. To conclude, FOS DP ≥ 2 and GOS DP ≥ 3 were not degraded in the small intestine of healthy adults, while most prebiotic GOS DP2 was hydrolyzed in a structure-dependent manner. We provide evidence on the resistances of GOS with specific β-linkages in the human intestine, supporting the development of GOS prebiotics that resist small intestine digestion.
+## Detailed Analysis of Prebiotic Fructo- and Galacto-Oligosaccharides in the Human Small Intestine
 
 [Source](https://pubs.acs.org/doi/10.1021/acs.jafc.4c03881)
 
-10.1021/acs.jafc.4c03881
-
 ---
 
-## Dietary fibers boost gut microbiota-produced B vitamin pool and alter host immune landscape.
- 25.09.2024, _ET Grant, A Parrish, M Boudaud, O Hunewald, A Hirayama, M Ollert, S Fukuda, MS Desai_
-
-
-_Gastrointestinal Microbiome, Dietary Fiber, Animals, Mice, Vitamin B Complex, Mice, Inbred C57BL, Germ-Free Life, Male, Cecum, Humans, Bacteria, Metabolomics, Prebiotics_
-Dietary fibers can alter microbial metabolic output in support of healthy immune function; however, the impact of distinct fiber sources and immunomodulatory effects beyond short-chain fatty acid production are underexplored. In an effort to discern the effects of diverse fibers on host immunity, we employed five distinct rodent diets with varying fiber content and source in specific-pathogen-free, gnotobiotic (containing a 14-member synthetic human gut microbiota), and germ-free mice.
+## Dietary fibers boost gut microbiota-produced B vitamin pool and alter host immune landscape
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01898-7)
-
-10.1186/s40168-024-01898-7
 
 ---
 
 ## Maternal HIV infection and the milk microbiome
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01843-8)
+
+---
+
+## Genomic surveillance as a scalable framework for precision phage therapy against antibiotic-resistant pathogens.
+ 27.09.2024, _M Koncz, T Stirling, H Hadj Mehdi, O Méhi, B Eszenyi, A Asbóth, G Apjok, Á Tóth, L Orosz, BM Vásárhelyi, E Ari, L Daruka, TF Polgár, G Schneider, SA Zalokh, M Számel, G Fekete, B Bohár, K Nagy Varga, Á Visnyovszki, E Székely, MS Licker, O Izmendi, C Costache, I Gajic, B Lukovic, S Molnár, UO Szőcs-Gazdi, C Bozai, M Indreas, K Kristóf, C Van der Henst, A Breine, C Pál, B Papp, B Kintses_
+
+
+Phage therapy is gaining increasing interest in the fight against critically antibiotic-resistant nosocomial pathogens. However, the narrow host range of bacteriophages hampers the development of broadly effective phage therapeutics and demands precision approaches. Here, we combine large-scale phylogeographic analysis with high-throughput phage typing to guide the development of precision phage cocktails targeting carbapenem-resistant Acinetobacter baumannii, a top-priority pathogen. Our analysis reveals that a few strain types dominate infections in each world region, with their geographical distribution remaining stable within 6 years. As we demonstrate in Eastern Europe, this spatiotemporal distribution enables preemptive preparation of region-specific phage collections that target most local infections. Finally, we showcase the efficacy of phage cocktails against prevalent strain types using in vitro and animal infection models. Ultimately, genomic surveillance identifies patients benefiting from the same phages across geographical scales, thus providing a scalable framework for precision phage therapy.
+
+[Source](https://www.cell.com/cell/fulltext/S0092-8674(24)01027-4)
+
+10.1016/j.cell.2024.09.009
 
 ---
 
@@ -187,6 +178,18 @@ Dietary fibers can alter microbial metabolic output in support of healthy immune
 ## @CellCellPress
 
 [Source](https://twitter.com/CellCellPress?ref_src=twsrc%5Etfw)
+
+---
+
+## Schlesinger Nailed It! Assessing a Key Primary Pharmacodynamic Property of Phages for Phage Therapy: Virion Encounter Rates with Motionless Bacterial Targets.
+ 24.05.2024, _ST Abedon_
+
+
+Bacteriophages (phages) are viruses of bacteria and have been used as antibacterial agents now for over one-hundred years. The primary pharmacodynamics of therapeutic phages can be summed up as follows: phages at a certain concentration can reach bacteria at a certain rate, attach to bacteria that display appropriate receptors on their surfaces, infect, and (ideally) kill those now-adsorbed bacteria. Here, I consider the rate at which phages reach bacteria, during what can be dubbed as an 'extracellular search'. This search is driven by diffusion and can be described by what is known as the phage adsorption rate constant. That constant in turn is thought to be derivable from knowledge of bacterial size, virion diffusion rates, and the likelihood of phage adsorption given this diffusion-driven encounter with a bacterium. Here, I consider only the role of bacterial size in encounter rates. In 1932, Schlesinger hypothesized that bacterial size can be described as a function of cell radius (R, or R1), as based on the non-phage-based theorizing of Smoluchowski (1917). The surface area of a cell-what is actually encountered-varies however instead as a function R2. Here, I both provide and review evidence indicating that Schlesinger's assertion seems to have been correct.
+
+[Source](https://twitter.com/hashtag/phagetherapy?src=hash&ref_src=twsrc%5Etfw)
+
+10.3390/ddc2030034
 
 ---
 
@@ -346,45 +349,21 @@ Dietary fibers can alter microbial metabolic output in support of healthy immune
 
 ---
 
-## Establishing the Foundations of Emotional Intelligence in Care Companion Robots to Mitigate Agitation Among High-Risk Patients With Dementia: Protocol for an Empathetic Patient-Robot Interaction Study.
- 04.10.2024, _A Nyamathi, N Dutt, JA Lee, AM Rahmani, M Rasouli, D Krogh, E Krogh, D Sultzer, H Rashid, H Liaqat, R Jawad, F Azhar, A Ahmad, B Qamar, TY Bhatti, C Khay, J Ludlow, L Gibbs, J Rousseau, M Abbasian, Y Song, C Jeong, S Brunswicker_
-
-
-An estimated 6.7 million persons are living with dementia in the United States, a number expected to double by 2060. Persons experiencing moderate to severe dementia are 4 to 5 times more likely to fall than those without dementia, due to agitation and unsteady gait. Socially assistive robots fail to address the changing emotional states associated with agitation, and it is unclear how emotional states change, how they impact agitation and gait over time, and how social robots can best respond by showing empathy.
-
-[Source](https://twitter.com/RajithaYasas1/status/1841060193947271618?ref_src=twsrc%5Etfw)
-
-10.2196/55761
-
----
-
 ## October 1, 2024
 
 [Source](https://twitter.com/RajithaYasas1/status/1841060193947271618?ref_src=twsrc%5Etfw)
 
 ---
 
-## Emergent ecological patterns and modelling of gut microbiomes in health and in disease.
- 27.09.2024, _J Pasqualini, S Facchin, A Rinaldo, A Maritan, E Savarino, S Suweis_
-
-
-Recent advancements in next-generation sequencing have revolutionized our understanding of the human microbiome. Despite this progress, challenges persist in comprehending the microbiome's influence on disease, hindered by technical complexities in species classification, abundance estimation, and data compositionality. At the same time, the existence of macroecological laws describing the variation and diversity in microbial communities irrespective of their environment has been recently proposed using 16s data and explained by a simple phenomenological model of population dynamics. We here investigate the relationship between dysbiosis, i.e. in unhealthy individuals there are deviations from the "regular" composition of the gut microbial community, and the existence of macro-ecological emergent law in microbial communities. We first quantitatively reconstruct these patterns at the species level using shotgun data, and addressing the consequences of sampling effects and statistical errors on ecological patterns. We then ask if such patterns can discriminate between healthy and unhealthy cohorts. Concomitantly, we evaluate the efficacy of different statistical generative models, which incorporate sampling and population dynamics, to describe such patterns and distinguish which are expected by chance, versus those that are potentially informative about disease states or other biological drivers. A critical aspect of our analysis is understanding the relationship between model parameters, which have clear ecological interpretations, and the state of the gut microbiome, thereby enabling the generation of synthetic compositional data that distinctively represent healthy and unhealthy individuals. Our approach, grounded in theoretical ecology and statistical physics, allows for a robust comparison of these models with empirical data, enhancing our understanding of the strengths and limitations of simple microbial models of population dynamics.
+## Emergent ecological patterns and modelling of gut microbiomes in health and in disease
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012482)
 
-10.1371/journal.pcbi.1012482
-
 ---
 
-## Comparative evaluation of soil DNA extraction kits for long read metagenomic sequencing.
- 01.10.2024, _HT Child, L Wierzbicki, GR Joslin, RK Tennant_
-
-
-Metagenomics has been transformative in our understanding of the diversity and function of soil microbial communities. Applying long read sequencing to whole genome shotgun metagenomics has the potential to revolutionise soil microbial ecology through improved taxonomic classification, functional characterisation and metagenome assembly. However, optimisation of robust methods for long read metagenomics of environmental samples remains undeveloped. In this study, Oxford Nanopore sequencing using samples from five commercially available soil DNA extraction kits was compared across four soil types, in order to optimise read length and reproducibility for comparative long read soil metagenomics. Average extracted DNA lengths varied considerably between kits, but longer DNA fragments did not translate consistently into read lengths. Highly variable decreases in the length of resulting reads from some kits were associated with poor classification rate and low reproducibility in microbial communities identified between technical repeats. Replicate samples from other kits showed more consistent conversion of extracted DNA fragment size into read length and resulted in more congruous microbial community representation. Furthermore, extraction kits showed significant differences in the community representation and structure they identified across all soil types. Overall, the QIAGEN DNeasy PowerSoil Pro Kit displayed the best suitability for reproducible long-read WGS metagenomic sequencing, although further optimisation of DNA purification and library preparation may enable translation of higher molecular weight DNA from other kits into longer read lengths. These findings provide a novel insight into the importance of optimising DNA extraction for achieving replicable results from long read metagenomic sequencing of environmental samples.
+## Comparative evaluation of soil DNA extraction kits for long read metagenomic sequencing
 
 [Source](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.0.000868.v3)
-
-10.1099/acmi.0.000868.v3
 
 ---
 
