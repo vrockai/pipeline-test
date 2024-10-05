@@ -133,16 +133,9 @@ Isometric training is used in sport, conventional physical activity and rehabili
 
 ---
 
-## Integrating metagenomics with metabolomics for gut microbiota and metabolites profiling in acute pancreatitis.
- 17.09.2024, _Y Jia, Y Shi, J Wang, H Liu, Y Huang, H Wang, Y Liu, J Peng_
-
-
-_Gastrointestinal Microbiome, Pancreatitis, Animals, Metabolomics, Metagenomics, Mice, Metabolome, Disease Models, Animal, Dysbiosis, Mice, Inbred C57BL, Male, Acute Disease_
-Acute pancreatitis (AP) is an inflammatory disease of the pancreas. Despite of a steadily increasing in morbidity and mortality, there is still no effective therapy. Gut microbial dysbiosis and its derived-metabolites disorder have been shown to play an important role in the development of AP, however, little is known regarding the crosstalk between gut microbiota and metabolites. In this study, we assessed the alterations in gut microbiota and metabolites by constructing three AP mouse models by means of metagenomic and metabolomic sequencing, and further clarified their relationship by correlation analysis. The results revealed that each model exhibited unique flora and metabolite profiles. KEGG analysis showed that the differential flora and metabolite-enriched pathway functions were correlated with lipid metabolism and amino acid metabolism. Moreover, two core differential bacterial species on Burkholderiales bacterium YL45 and Bifidobacterium pseudolongum along with eleven differential metabolites appeared to exert certain effects during the course of AP. In conclusion, further exploration of the crosstalk between microbiota and derived metabolites may provide novel insights and strategies into the diagnosis and treatment of AP.
+## Integrating metagenomics with metabolomics for gut microbiota and metabolites profiling in acute pancreatitis
 
 [Source](https://www.nature.com/articles/s41598-024-72057-z)
-
-10.1038/s41598-024-72057-z
 
 ---
 
@@ -187,18 +180,6 @@ Dietary fibers can alter microbial metabolic output in support of healthy immune
 ## @CellCellPress
 
 [Source](https://twitter.com/CellCellPress?ref_src=twsrc%5Etfw)
-
----
-
-## Schlesinger Nailed It! Assessing a Key Primary Pharmacodynamic Property of Phages for Phage Therapy: Virion Encounter Rates with Motionless Bacterial Targets.
- 24.05.2024, _ST Abedon_
-
-
-Bacteriophages (phages) are viruses of bacteria and have been used as antibacterial agents now for over one-hundred years. The primary pharmacodynamics of therapeutic phages can be summed up as follows: phages at a certain concentration can reach bacteria at a certain rate, attach to bacteria that display appropriate receptors on their surfaces, infect, and (ideally) kill those now-adsorbed bacteria. Here, I consider the rate at which phages reach bacteria, during what can be dubbed as an 'extracellular search'. This search is driven by diffusion and can be described by what is known as the phage adsorption rate constant. That constant in turn is thought to be derivable from knowledge of bacterial size, virion diffusion rates, and the likelihood of phage adsorption given this diffusion-driven encounter with a bacterium. Here, I consider only the role of bacterial size in encounter rates. In 1932, Schlesinger hypothesized that bacterial size can be described as a function of cell radius (R, or R1), as based on the non-phage-based theorizing of Smoluchowski (1917). The surface area of a cell-what is actually encountered-varies however instead as a function R2. Here, I both provide and review evidence indicating that Schlesinger's assertion seems to have been correct.
-
-[Source](https://twitter.com/hashtag/phagetherapy?src=hash&ref_src=twsrc%5Etfw)
-
-10.3390/ddc2030034
 
 ---
 
@@ -256,35 +237,15 @@ Bacteriophages (phages) are viruses of bacteria and have been used as antibacter
 
 ---
 
-## Cost-Effectiveness of 9-Valent HPV Vaccination for Patients Treated for High-Grade Cervical Intraepithelial Neoplasia in the UK.
- 04.10.2024, _A Cherif, O Ovcinnikova, C Palmer, K Engelbrecht, M Reuschenbach, V Daniels_
-
-
-_Humans, Female, Cost-Benefit Analysis, Papillomavirus Vaccines, Uterine Cervical Dysplasia, United Kingdom, Papillomavirus Infections, Uterine Cervical Neoplasms, Adult, Middle Aged, Quality-Adjusted Life Years, Markov Chains_
-Patients who have been treated for high-grade cervical intraepithelial neoplasia (CIN grade ≥2) are at a high risk for subsequent CIN and other cancers and diseases related to human papillomavirus (HPV). HPV vaccination can reduce the risk of subsequent disease in patients surgically treated for grade 2 or greater CIN; however, there is no formal recommendation for prophylactic HPV vaccination in this high-risk population, and the cost-effectiveness is unknown.
-
-[Source](https://twitter.com/masrilab/status/1840792179956191675?ref_src=twsrc%5Etfw)
-
-10.1001/jamanetworkopen.2024.37703
-
----
-
 ## September 30, 2024
 
 [Source](https://twitter.com/masrilab/status/1840792179956191675?ref_src=twsrc%5Etfw)
 
 ---
 
-## Photoperiod effects on corticosterone and seasonal clocks in cafeteria-induced obese fischer 344 rats are influenced by gut microbiota.
- 03.10.2024, _V Arreaza-Gil, I Escobar-Martínez, JR Soliz-Rueda, M Suárez, B Muguerza, H Schellekens, C Torres-Fuentes, A Arola-Arnal_
-
-
-_Animals, Gastrointestinal Microbiome, Corticosterone, Photoperiod, Rats, Inbred F344, Obesity, Male, Rats, Seasons, Pituitary Gland, Colon_
-Seasonal rhythms are gaining attention given their impact on metabolic disorders development such as obesity gut microbiota is emerging as a key factor in mediating this link. However, the underlying mechanisms are still poorly understood. In this regard, corticosterone may play a role as it has been shown to be affected by gut bacteria and seasonal rhythms, and has been linked to obesity. Thus, this study aimed to investigate if seasonal rhythms effects on corticosterone are influenced by gut microbiota in obese rats and whether this may be related to seasonal and clock genes expression in the pituitary gland and colon. Fischer 344 male rats fed with cafeteria diet (CAF) were housed under different photoperiods for 9 weeks and treated with an antibiotic cocktail (ABX) in drinking water during the last 4 weeks. Rats fed with standard chow and CAF-fed rats without ABX were included as controls. ABX altered gut microbiota, corticosterone levels and seasonal clock expression in the pituitary depending on photoperiod conditions. These results suggest a link between gut bacteria, seasonal rhythms and corticosterone and a novel nutrigenomic target for obesity.
+## Photoperiod effects on corticosterone and seasonal clocks in cafeteria-induced obese fischer 344 rats are influenced by gut microbiota
 
 [Source](https://www.nature.com/articles/s41598-024-73289-9)
-
-10.1038/s41598-024-73289-9
 
 ---
 
@@ -366,16 +327,9 @@ Drinking water (DW) harbours diverse microbial species and chemical attributes. 
 
 ---
 
-## Taxometer: Improving taxonomic classification of metagenomics contigs.
- 30.09.2024, _S Kutuzova, M Nielsen, P Piera, JN Nissen, S Rasmussen_
-
-
-_Metagenomics, Software, Neural Networks, Computer, Classification, Metagenome, Algorithms, Contig Mapping, Rhizosphere_
-For taxonomy based classification of metagenomics assembled contigs, current methods use sequence similarity to identify their most likely taxonomy. However, in the related field of metagenomic binning, contigs are routinely clustered using information from both the contig sequences and their abundance. We introduce Taxometer, a neural network based method that improves the annotations and estimates the quality of any taxonomic classifier using contig abundance profiles and tetra-nucleotide frequencies. We apply Taxometer to five short-read CAMI2 datasets and find that it increases the average share of correct species-level contig annotations of the MMSeqs2 tool from 66.6% to 86.2%. Additionally, it reduce the share of wrong species-level annotations in the CAMI2 Rhizosphere dataset by an average of two-fold for Metabuli, Centrifuge, and Kraken2. Futhermore, we use Taxometer for benchmarking taxonomic classifiers on two complex long-read metagenomics data sets where ground truth is not known. Taxometer is available as open-source software and can enhance any taxonomic annotation of metagenomic contigs.
+## Taxometer: Improving taxonomic classification of metagenomics contigs
 
 [Source](https://www.nature.com/articles/s41467-024-52771-y)
-
-10.1038/s41467-024-52771-y
 
 ---
 
