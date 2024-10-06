@@ -139,29 +139,15 @@ Isometric training is used in sport, conventional physical activity and rehabili
 
 ---
 
-## Detailed Analysis of Prebiotic Fructo- and Galacto-Oligosaccharides in the Human Small Intestine.
- 03.10.2024, _MPH van Trijp, M Rios-Morales, MJ Logtenberg, S Keshtkar, LA Afman, B Witteman, B Bakker, DJ Reijngoud, H Schols, GJEJ Hooiveld_
-
-
-_Humans, Oligosaccharides, Prebiotics, Adult, Male, Intestine, Small, Female, Young Adult, Kinetics, Middle Aged, Galactose_
-Galacto-oligosaccharides (GOS) and fructo-oligosaccharides (FOS) are food ingredients that improve human health, but their degradation throughout the human small intestine is not well understood. We studied the breakdown kinetics of FOS and GOS in the intestines of seven healthy Dutch adults. Subjects were equipped with a catheter in the distal ileum or proximal colon and consumed 5 g of chicory-derived FOS (degree of polymerization (DP) DP2-10), and 5 g of GOS (DP2-6). Postprandially, intestinal content was frequently collected until 350 min and analyzed for mono-, di-, and oligosaccharides. FOS and GOS had recoveries of 96 ± 25% and 76 ± 28%, respectively. FOS DP ≥ 2 and GOS DP ≥ 3 abundances in the distal small intestine or proximal colon matched the consumed doses, while GOS dimers (DP2) had lower recoveries, namely 22.8 ± 11.1% for β-D-gal-(1↔1)-α-D-glc+β-D-gal-(1↔1)-β-D-glc, 19.3 ± 19.1% for β-D-gal-(1 → 2)-D-glc+β-D-gal-(1 → 3)-D-glc, 43.7 ± 24.6% for β-D-gal-(1 → 6)-D-gal, and 68.0 ± 38.5% for β-D-gal-(1 → 4)-D-gal. Lactose was still present in the distal small intestine of all of the participants. To conclude, FOS DP ≥ 2 and GOS DP ≥ 3 were not degraded in the small intestine of healthy adults, while most prebiotic GOS DP2 was hydrolyzed in a structure-dependent manner. We provide evidence on the resistances of GOS with specific β-linkages in the human intestine, supporting the development of GOS prebiotics that resist small intestine digestion.
+## Detailed Analysis of Prebiotic Fructo- and Galacto-Oligosaccharides in the Human Small Intestine
 
 [Source](https://pubs.acs.org/doi/10.1021/acs.jafc.4c03881)
 
-10.1021/acs.jafc.4c03881
-
 ---
 
-## Dietary fibers boost gut microbiota-produced B vitamin pool and alter host immune landscape.
- 25.09.2024, _ET Grant, A Parrish, M Boudaud, O Hunewald, A Hirayama, M Ollert, S Fukuda, MS Desai_
-
-
-_Gastrointestinal Microbiome, Dietary Fiber, Animals, Mice, Vitamin B Complex, Mice, Inbred C57BL, Germ-Free Life, Male, Cecum, Humans, Bacteria, Metabolomics, Prebiotics_
-Dietary fibers can alter microbial metabolic output in support of healthy immune function; however, the impact of distinct fiber sources and immunomodulatory effects beyond short-chain fatty acid production are underexplored. In an effort to discern the effects of diverse fibers on host immunity, we employed five distinct rodent diets with varying fiber content and source in specific-pathogen-free, gnotobiotic (containing a 14-member synthetic human gut microbiota), and germ-free mice.
+## Dietary fibers boost gut microbiota-produced B vitamin pool and alter host immune landscape
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01898-7)
-
-10.1186/s40168-024-01898-7
 
 ---
 
@@ -213,15 +199,35 @@ Dietary fibers can alter microbial metabolic output in support of healthy immune
 
 ---
 
-## Disruption of the intestinal clock drives dysbiosis and impaired barrier function in colorectal cancer 
+## Disruption of the intestinal clock drives dysbiosis and impaired barrier function in colorectal cancer.
+ 29.09.2024, _RC Fellows, SK Chun, N Larson, BM Fortin, AL Mahieu, WA Song, MM Seldin, NR Pannunzio, S Masri_
+
+
+_Animals, Colorectal Neoplasms, Gastrointestinal Microbiome, Dysbiosis, Mice, Circadian Clocks, Intestinal Mucosa, Disease Models, Animal, Humans, Permeability_
+Diet is a robust entrainment cue that regulates diurnal rhythms of the gut microbiome. We and others have shown that disruption of the circadian clock drives the progression of colorectal cancer (CRC). While certain bacterial species have been suggested to play driver roles in CRC, it is unknown whether the intestinal clock impinges on the microbiome to accelerate CRC pathogenesis. To address this, genetic disruption of the circadian clock, in an Apc-driven mouse model of CRC, was used to define the impact on the gut microbiome. When clock disruption is combined with CRC, metagenomic sequencing identified dysregulation of many bacterial genera including Bacteroides, Helicobacter, and Megasphaera. We identify functional changes to microbial pathways including dysregulated nucleic acid, amino acid, and carbohydrate metabolism, as well as disruption of intestinal barrier function. Our findings suggest that clock disruption impinges on microbiota composition and intestinal permeability that may contribute to CRC pathogenesis.
 
 [Source](https://www.science.org/doi/10.1126/sciadv.ado1458)
+
+10.1126/sciadv.ado1458
 
 ---
 
 ## @UCIMedSchool
 
 [Source](https://twitter.com/UCIMedSchool?ref_src=twsrc%5Etfw)
+
+---
+
+## Alzheimer's disease biomarker burden in primary motor cortices is associated with poorer dexterity performance.
+ 30.08.2024, _L Gupta, Y Ma, A Kohli, KL Yang, JM Oh, TJ Betthauser, NA Chin, OC Okonkwo, ME Pasquesi, V Nair, V Prabhakaran, SJ Li, B Bendlin_
+
+
+_Humans, Alzheimer Disease, Male, Female, Aged, Motor Cortex, Biomarkers, Cognitive Dysfunction, tau Proteins, Magnetic Resonance Imaging, Amyloid beta-Peptides, Aged, 80 and over, Positron-Emission Tomography, Neuropsychological Tests_
+Motor function has correlated with longevity and functionality; however, there is limited research on those with Alzheimer's disease (AD). We studied the association between motor functionality and AD pathology in primary motor and medial temporal cortices.
+
+[Source](https://twitter.com/UCIrvine?ref_src=twsrc%5Etfw)
+
+10.1002/alz.13899
 
 ---
 
@@ -327,9 +333,16 @@ Drinking water (DW) harbours diverse microbial species and chemical attributes. 
 
 ---
 
-## Taxometer: Improving taxonomic classification of metagenomics contigs
+## Taxometer: Improving taxonomic classification of metagenomics contigs.
+ 30.09.2024, _S Kutuzova, M Nielsen, P Piera, JN Nissen, S Rasmussen_
+
+
+_Metagenomics, Software, Neural Networks, Computer, Classification, Metagenome, Algorithms, Contig Mapping, Rhizosphere_
+For taxonomy based classification of metagenomics assembled contigs, current methods use sequence similarity to identify their most likely taxonomy. However, in the related field of metagenomic binning, contigs are routinely clustered using information from both the contig sequences and their abundance. We introduce Taxometer, a neural network based method that improves the annotations and estimates the quality of any taxonomic classifier using contig abundance profiles and tetra-nucleotide frequencies. We apply Taxometer to five short-read CAMI2 datasets and find that it increases the average share of correct species-level contig annotations of the MMSeqs2 tool from 66.6% to 86.2%. Additionally, it reduce the share of wrong species-level annotations in the CAMI2 Rhizosphere dataset by an average of two-fold for Metabuli, Centrifuge, and Kraken2. Futhermore, we use Taxometer for benchmarking taxonomic classifiers on two complex long-read metagenomics data sets where ground truth is not known. Taxometer is available as open-source software and can enhance any taxonomic annotation of metagenomic contigs.
 
 [Source](https://www.nature.com/articles/s41467-024-52771-y)
+
+10.1038/s41467-024-52771-y
 
 ---
 
@@ -378,6 +391,18 @@ Drinking water (DW) harbours diverse microbial species and chemical attributes. 
 ## pic.twitter.com/DwmofYP1cp
 
 [Source](https://t.co/DwmofYP1cp)
+
+---
+
+## Clustering Based on Laboratory Data in Patients With Heart Failure Admitted to the Intensive Care Unit.
+ 05.10.2024, _S Nemati, B Mohammadi, Z Hooshanginezhad_
+
+
+Heart failure (HF) is a common condition that imposes a significant burden on healthcare systems. We aimed to identify subgroups of patients with heart failure admitted to the ICU using routinely measured laboratory biomarkers.
+
+[Source](https://twitter.com/PenkovaElitsa/status/1841041421983158611?ref_src=twsrc%5Etfw)
+
+10.1002/jcla.25109
 
 ---
 
