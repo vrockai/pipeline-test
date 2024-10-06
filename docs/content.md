@@ -1,394 +1,141 @@
-## Acute effects of voluntary isometric contractions at maximal shortening vs. ballistic stretching on flexibility, strength and jump.
- 06.08.2024, _JA Hernández-Trujillo, MD González-Rivera, N Romero-Franco, JM González-Hernández_
+## Noninvasive, microbiome-based diagnosis of inflammatory bowel disease.
+ 04.10.2024, _J Zheng, Q Sun, M Zhang, C Liu, Q Su, L Zhang, Z Xu, W Lu, J Ching, W Tang, CP Cheung, AL Hamilton, AL Wilson O'Brien, SC Wei, CN Bernstein, DT Rubin, EB Chang, M Morrison, MA Kamm, FKL Chan, J Zhang, SC Ng_
 
 
-_Humans, Isometric Contraction, Muscle Stretching Exercises, Male, Adult, Muscle Strength, Range of Motion, Articular, Middle Aged, Muscle, Skeletal, Female_
-Isometric training is used in sport, conventional physical activity and rehabilitation. Understandably, there is a great deal of research related to its effect on performance. It is known that the length of the muscle at the moment of contraction is a determinant of strength levels. In the literature we find research on isometric training in short muscle lengths, although it has not been studied in maximally shortened positions or the acute effects that occur after its application. Ballistic stretching (BS) is also popular in sport. Their execution involves actively reaching maximally shortened muscle positions. So far, isometric training has not been compared with protocols involving ballistic stretching. Considering the above, the aim of the present study was to investigate the effects of BS and voluntary isometric contraction at maximal shortening (VICAMS) on range of motion, strength and vertical jump.
+Despite recent progress in our understanding of the association between the gut microbiome and inflammatory bowel disease (IBD), the role of microbiome biomarkers in IBD diagnosis remains underexplored. Here we developed a microbiome-based diagnostic test for IBD. By utilization of metagenomic data from 5,979 fecal samples with and without IBD from different geographies and ethnicities, we identified microbiota alterations in IBD and selected ten and nine bacterial species for construction of diagnostic models for ulcerative colitis and Crohn's disease, respectively. These diagnostic models achieved areas under the curve &gt;0.90 for distinguishing IBD from controls in the discovery cohort, and maintained satisfactory performance in transethnic validation cohorts from eight populations. We further developed a multiplex droplet digital polymerase chain reaction test targeting selected IBD-associated bacterial species, and models based on this test showed numerically higher performance than fecal calprotectin in discriminating ulcerative colitis and Crohn's disease from controls. Here we discovered universal IBD-associated bacteria and show the potential applicability of a multibacteria biomarker panel as a noninvasive tool for IBD diagnosis.
 
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1038/s41591-024-03280-4)
 
-10.7717/peerj.17819
-
----
-
-## #MVIF
-
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+10.1038/s41591-024-03280-4
 
 ---
 
-## @BelenkyLab
+## Advancing microbiome research in Māori populations: insights from recent literature exploring the gut microbiomes of underrepresented and Indigenous peoples
 
-[Source](https://twitter.com/BelenkyLab?ref_src=twsrc%5Etfw)
-
----
-
-## @takujida
-
-[Source](https://twitter.com/takujida?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1128/msystems.00909-24)
 
 ---
 
-## @BullmanLab
+## Salivary microbiota reflecting changes in subgingival microbiota
 
-[Source](https://twitter.com/BullmanLab?ref_src=twsrc%5Etfw)
-
----
-
-## @laurenmlui
-
-[Source](https://twitter.com/laurenmlui?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1128/spectrum.01030-24)
 
 ---
 
-## @jsung0906
+## Differences in the human gut microbiota with varying depressive symptom severity scores.
+ 05.10.2024, _Y Masamura, R Kubo, Y Midorikawa, NO Shinozaki, S Watanabe, S Maekawa, AK Takeda, T Ohta_
 
-[Source](https://twitter.com/jsung0906?ref_src=twsrc%5Etfw)
 
----
+Depression is a prevalent mental health disorder, and its incidence has increased further because of the coronavirus disease 2019 (COVID-19) pandemic. The gut microbiome has been suggested as a potential target for mental health treatment because of the bidirectional communication system between the brain and gastrointestinal tract, known as the gut-brain axis. We aimed to investigate the relationship between the human gut microbiome and depression screening by analyzing the abundance and types of microbiomes among individuals living in Japan, where mental health awareness and support may differ from those in other countries owing to cultural factors. We used a data-driven approach to evaluate the gut microbiome of participants who underwent commercial gut microbiota testing services and completed a questionnaire survey that included a test for scoring depressive tendencies. Our data analysis results indicated that no significant differences in gut microbiome composition were found among the groups based on their depression screening scores. However, the results also indicated the potential existence of a few differentially abundant bacterial taxa. Specifically, the detected bacterial changes in abundance suggest that the Bifidobacteriaceae, Streptococcaceae, and Veillonellaceae families are candidates for differentially abundant bacteria. Our findings should contribute to the growing body of research on the relationship between gut microbiome and mental health, highlighting the potential of microbiome-based interventions for depression treatment. The limitations of this study include the lack of clear medical information on the participants' diagnoses. Future research could benefit from a larger sample size and more detailed clinical information.
 
-## @aarthiravikrish
+[Source](https://doi.org/10.12938/bmfh.2023-049)
 
-[Source](https://twitter.com/aarthiravikrish?ref_src=twsrc%5Etfw)
-
----
-
-## pic.twitter.com/4MDF4xzk8E
-
-[Source](https://t.co/4MDF4xzk8E)
+10.12938/bmfh.2023-049
 
 ---
 
-## October 1, 2024
+## Sophorolipid: An Effective Biomolecule for Targeting Microbial Biofilms
 
-[Source](https://twitter.com/MicrobiomeVIF/status/1841069227941208277?ref_src=twsrc%5Etfw)
-
----
-
-## What harmful microbes are lurking in the world’s 7 billion tonnes of plastic waste? 
-
-[Source](https://www.nature.com/articles/d41586-024-03150-6)
+[Source](https://doi.org/10.1007/s00284-024-03892-6)
 
 ---
 
-## Integrating respiratory microbiome and host immune response through machine learning for respiratory tract infection diagnosis
+## Microbiome-based treatment helps ease severe malnutrition.
+ 04.10.2024, _E Pennisi_
 
-[Source](https://www.nature.com/articles/s41522-024-00548-y)
 
----
+_Child, Child, Preschool, Humans, Infant, Bangladesh, Gastrointestinal Microbiome, Malnutrition, Probiotics, Infant Nutritional Physiological Phenomena, Dietary Supplements_
+Study in Bangladeshi children builds on earlier trials of food that supports beneficial gut bacteria.
 
-## Characterization of vaginal microbiomes in clinician-collected bacterial vaginosis diagnosed sample
+[Source](https://doi.org/10.1126/science.adt5693)
 
-[Source](https://www.biorxiv.org/content/10.1101/2024.10.01.616135v1)
-
----
-
-## The intensive physical activity causes changes in the composition of gut and oral microbiot
-
-[Source](https://www.nature.com/articles/s41598-024-71684-w)
+10.1126/science.adt5693
 
 ---
 
-## Giant extrachromosomal element “Inocle” potentially expands the adaptive capacity of the human oral microbiome
+## A multivalent mRNA-LNP vaccine protects against <em>Clostridioides difficile </em>infection
 
-[Source](https://www.biorxiv.org/content/10.1101/2024.09.30.615745v1)
-
----
-
-## 
+[Source](https://doi.org/10.1126/science.adn4955)
 
 ---
 
-## https://t.co/6a4vHUy26r
+## Safety and Tolerability of CP101, a full spectrum, oral microbiome therapeutic for the prevention of recurrent <em>C. difficile </em>infection: A Phase 2 Randomized Controlled Trial
 
-[Source](https://t.co/6a4vHUy26r)
-
----
-
-## Clustering Based on Laboratory Data in Patients With Heart Failure Admitted to the Intensive Care Unit.
- 05.10.2024, _S Nemati, B Mohammadi, Z Hooshanginezhad_
-
-
-Heart failure (HF) is a common condition that imposes a significant burden on healthcare systems. We aimed to identify subgroups of patients with heart failure admitted to the ICU using routinely measured laboratory biomarkers.
-
-[Source](https://twitter.com/nu1chan/status/1841226739298799905?ref_src=twsrc%5Etfw)
-
-10.1002/jcla.25109
+[Source](https://doi.org/10.1053/j.gastro.2024.09.030)
 
 ---
 
-## October 1, 2024
+## Recruitment of complete crAss-like phage genomes reveals their presence in chicken viromes, few human-specific phages, and lack of universal detection.
+ 03.10.2024, _MD Ramos-Barbero, C Gómez-Gómez, G Vique, L Sala-Comorera, L Rodríguez-Rubio, M Muniesa_
 
-[Source](https://twitter.com/nu1chan/status/1841226739298799905?ref_src=twsrc%5Etfw)
 
----
+The order Crassvirales, which includes the prototypical crAssphage (p-crAssphage), is predominantly associated with humans, rendering it the most abundant and widely distributed group of DNA phages in the human gut. The reported human specificity and wide global distribution of p-crAssphage makes it a promising human fecal marker. However, the specificity for the human gut as well as the geographical distribution around the globe of other members of the order Crassvirales remains unknown. To determine this, a recruitment analysis using 91 complete, non-redundant genomes of crAss-like phages in human and animal viromes revealed that only 13 crAss-like phages among the 91 phages analyzed were highly specific to humans, and p-crAssphage was not in this group. Investigations to elucidate whether any characteristic of the phages was responsible for their prevalence in humans showed that the 13 human crAss-like phages do not share a core genome. Phylogenomic analysis placed them in three independent families, indicating that within the Crassvirales group, human specificity is likely not a feature of a common ancestor but rather was introduced on separate/independent occasions in their evolutionary history. The 13 human crAss-like phages showed variable geographical distribution across human metagenomes worldwide, with some being more prevalent in certain countries than in others, but none being universally identified. The varied geographical distribution and the absence of a phylogenetic relationship among the human crAss-like phages are attributed to the emergence and dissemination of their bacterial host, the symbiotic human strains of Bacteroides, across various human populations occupying diverse ecological niches worldwide.
 
-## The association between mode of childbirth delivery and early childhood caries: A comprehensive systematic review and meta-analysis
+[Source](https://doi.org/10.1093/ismejo/wrae192)
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310405)
-
----
-
-## 
+10.1093/ismejo/wrae192
 
 ---
 
-## What’s GABA got to do with it? A potential link between the microbiome, schizophrenia, and the endo-cannabinoid system
+## Structural and functional differences of gut microbiota in <em>Pomacea canaliculata</em> from different geographical locations and habitats
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0165178124004815)
-
----
-
-## Changes in intestinal permeability and gut microbiota following diet-induced weight loss in patients with metabolic dysfunction-associated steatohepatitis and liver fibrosis
-
-[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2392864)
+[Source](https://doi.org/10.1002/ece3.70283)
 
 ---
 
-## Integrating metagenomics with metabolomics for gut microbiota and metabolites profiling in acute pancreatitis
+## Rhizosphere microbial community structure in high-producing, low-input switchgrass families
 
-[Source](https://www.nature.com/articles/s41598-024-72057-z)
-
----
-
-## Detailed Analysis of Prebiotic Fructo- and Galacto-Oligosaccharides in the Human Small Intestine
-
-[Source](https://pubs.acs.org/doi/10.1021/acs.jafc.4c03881)
+[Source](https://doi.org/10.1371/journal.pone.0308753)
 
 ---
 
-## Dietary fibers boost gut microbiota-produced B vitamin pool and alter host immune landscape
+## Dynamic alterations and ecological implications of rice rhizosphere bacterial communities induced by an insect-transmitted reovirus across space and time.
+ 06.10.2024, _N Wu, W Shi, L Zhang, H Wang, W Liu, Y Ren, X Li, Z Gao, X Wang_
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01898-7)
 
----
+_Oryza, Rhizosphere, Reoviridae, Plant Diseases, Bacteria, Soil Microbiology, Microbiota, Animals, RNA, Ribosomal, 16S, Plant Roots, Insecta, Plant Viruses_
+Cereal diseases caused by insect-transmitted viruses are challenging to forecast and control because of their intermittent outbreak patterns, which are usually attributed to increased population densities of vector insects due to cereal crop rotations and indiscriminate use of pesticides, and lack of resistance in commercial varieties. Root microbiomes are known to significantly affect plant health, but there are significant knowledge gaps concerning epidemics of cereal virus diseases at the microbiome-wide scale under a variety of environmental and biological factors.
 
-## Maternal HIV infection and the milk microbiome
+[Source](https://doi.org/10.1186/s40168-024-01910-0)
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01843-8)
-
----
-
-## Genomic surveillance as a scalable framework for precision phage therapy against antibiotic
-
-[Source](https://www.cell.com/cell/fulltext/S0092-8674(24)01027-4)
+10.1186/s40168-024-01910-0
 
 ---
 
-## @CellCellPress
+## Microbiome-induced reprogramming in post-transcriptional landscape using nanopore direct RNA sequencing.
+ 04.10.2024, _Z Xu, X Zheng, J Fan, Y Jiao, S Huang, Y Xie, S Xu, Y Lu, A Liu, R Liu, Y Yang, GZ Luo, T Pan, X Wang_
 
-[Source](https://twitter.com/CellCellPress?ref_src=twsrc%5Etfw)
 
----
+It has been widely recognized that the microbiota has the capacity to shape host gene expression and physiological functions. However, there remains a paucity of comprehensive study revealing the host transcriptional landscape regulated by the microbiota. Here, we comprehensively examined mRNA landscapes in mouse tissues (brain and cecum) from specific-pathogen-free and germ-free mice using nanopore direct RNA sequencing. Our results show that the microbiome has global influence on a host's RNA modifications (m6A, m5C, Ψ), isoform generation, poly(A) tail length, and transcript abundance in both brain and cecum tissues. Moreover, the microbiome exerts tissue-specific effects on various post-transcriptional regulatory processes. In addition, the microbiome impacts the coordination of multiple RNA modifications in host brain and cecum tissues. In conclusion, we establish the relationship between microbial regulation and gene expression. Our results help the understanding of the mechanisms by which the microbiome reprograms host gene expression.
 
-## #phagetherapy
+[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01149-5)
 
-[Source](https://twitter.com/hashtag/phagetherapy?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/TVAzlSOxIx
-
-[Source](https://t.co/TVAzlSOxIx)
+10.1016/j.celrep.2024.114798
 
 ---
 
-## pic.twitter.com/ChvLlnVLs2
+## rRNA operon improves species-level classification of bacteria and microbial community analysis compared to 16S rRNA.
+ 04.10.2024, _S Won, S Cho, H Kim_
 
-[Source](https://t.co/ChvLlnVLs2)
 
----
+Precise identification of species is fundamental in microbial genomics and is crucial for understanding the microbial communities. While the 16S rRNA gene, particularly its V3-V4 regions, has been extensively employed for microbial identification, however has limitations in achieving species-level resolution. Advancements in long-read sequencing technologies have highlighted the rRNA operon as a more accurate marker for microbial classification and analysis than the 16S rRNA gene. This study aims to compare the accuracy of species classification and microbial community analysis using the rRNA operon versus the 16S rRNA gene. We evaluated the species classification accuracy of the rRNA operon,16S rRNA gene, and 16S rRNA V3-V4 regions using a BLAST-based method and a k-mer matching-based method with public data available from NCBI. We further performed simulations to model microbial community analysis. We accessed the performance using each marker in community composition estimation and differential abundance analysis. Our findings demonstrate that the rRNA operon offers an advantage over the 16S rRNA gene and its V3-V4 regions for species-level classification within the genus. When applied to microbial community analysis, the rRNA operon enables a more accurate determination of composition. Using the rRNA operon yielded more reliable results in differential abundance analysis as well.
 
-## September 27, 2024
+[Source](https://doi.org/10.1128/spectrum.00931-24)
 
-[Source](https://twitter.com/KintsesLab/status/1839568959172931705?ref_src=twsrc%5Etfw)
-
----
-
-## Differential interactions of<em> Rickettsia </em>species with tick microbiota in <em>Rh. sanguineus </em>and <em>Rh. turanicus </em>
-
-[Source](https://www.nature.com/articles/s41598-024-71539-4)
+10.1128/spectrum.00931-24
 
 ---
 
-## Disruption of the intestinal clock drives dysbiosis and impaired barrier function in colorectal cancer 
+## ASV vs OTUs clustering: Effects on alpha, beta, and gamma diversities in microbiome metabarcoding studies.
+ 05.10.2024, _A Fasolo, S Deb, P Stevanato, G Concheri, A Squartini_
 
-[Source](https://www.science.org/doi/10.1126/sciadv.ado1458)
 
----
+_Microbiota, RNA, Ribosomal, 16S, Cluster Analysis, DNA Barcoding, Taxonomic, Bacteria, Biodiversity, DNA, Bacterial, Phylogeny_
+In microbial community sequencing, involving bacterial ribosomal 16S rDNA or fungal ITS, the targeted genes are the basis for taxonomical assignment. The traditional bioinformatical procedure has for decades made use of a clustering protocol by which sequences are pooled into packages of shared percent identity, typically at 97%, to yield Operational Technical Units (OTUs). Progress in the data processing methods has however led to the possibility of minimizing technical sequencers errors, which were the main reason for the OTU choice, and to analyze instead the exact Amplicon Sequence Variants (ASV) which is a choice yielding much less agglomerated reads. We have tested the two procedures on the same 16S metabarcoded bacterial amplicons dataset encompassing a series of samples from 17 adjacent habitats, taken across a 700 meter-long transect of different ecological conditions unfolding in a gradient spanning from cropland, through meadows, forest and all successional transitions up to the seashore, within the same coastal area. This design allowed to scan a high biodiversity basin and to measure alpha, beta and gamma diversity of the area, to verify the effect of the bioinformatics on the same data as concerns the values of ten different ecological indexes and other parameters. Two levels of progressive OTUs clustering, (99% and 97%) were compared with the ASV data. The results showed that the OTUs clustering proportionally led to a marked underestimation of the ecological indicators values for species diversity and to a distorted behaviour of the dominance and evenness indexes with respect to the direct use of the ASV data. Multivariate ordination analyses resulted also sensitive in terms of tree topology and coherence. Overall, data support the view that reference-based OTU clustering carries several misleading disadvantageous biases, including the risk of missing novel taxa which are yet unreferenced in databases. Since its alternatives as de novo clustering have on the other hand drawbacks due to heavier computational demand and results comparability, especially for environmental studies which contain several yet uncharacterized species, the direct ASV based analysis, at least for prokaryotes, appears to warrant significand advantages in comparison to OTU clustering at every level of percent identity cutoff.
 
-## @UCIMedSchool
+[Source](https://doi.org/10.1371/journal.pone.0309065)
 
-[Source](https://twitter.com/UCIMedSchool?ref_src=twsrc%5Etfw)
-
----
-
-## Alzheimer's disease biomarker burden in primary motor cortices is associated with poorer dexterity performance.
- 30.08.2024, _L Gupta, Y Ma, A Kohli, KL Yang, JM Oh, TJ Betthauser, NA Chin, OC Okonkwo, ME Pasquesi, V Nair, V Prabhakaran, SJ Li, B Bendlin_
-
-
-_Humans, Alzheimer Disease, Male, Female, Aged, Motor Cortex, Biomarkers, Cognitive Dysfunction, tau Proteins, Magnetic Resonance Imaging, Amyloid beta-Peptides, Aged, 80 and over, Positron-Emission Tomography, Neuropsychological Tests_
-Motor function has correlated with longevity and functionality; however, there is limited research on those with Alzheimer's disease (AD). We studied the association between motor functionality and AD pathology in primary motor and medial temporal cortices.
-
-[Source](https://twitter.com/UCIrvine?ref_src=twsrc%5Etfw)
-
-10.1002/alz.13899
-
----
-
-## @UCIrvine
-
-[Source](https://twitter.com/UCIrvine?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/FlABnuApa1
-
-[Source](https://t.co/FlABnuApa1)
-
----
-
-## September 30, 2024
-
-[Source](https://twitter.com/masrilab/status/1840792179956191675?ref_src=twsrc%5Etfw)
-
----
-
-## Photoperiod effects on corticosterone and seasonal clocks in cafeteria-induced obese fischer 344 rats are influenced by gut microbiota
-
-[Source](https://www.nature.com/articles/s41598-024-73289-9)
-
----
-
-## @harschellekens
-
-[Source](https://twitter.com/harschellekens?ref_src=twsrc%5Etfw)
-
----
-
-## @cristinatorfue
-
-[Source](https://twitter.com/cristinatorfue?ref_src=twsrc%5Etfw)
-
----
-
-## @AnnaArolaArnal
-
-[Source](https://twitter.com/AnnaArolaArnal?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/ergZY2FE82
-
-[Source](https://t.co/ergZY2FE82)
-
----
-
-## September 30, 2024
-
-[Source](https://twitter.com/varreazagil/status/1840866310064119947?ref_src=twsrc%5Etfw)
-
----
-
-## Closing the gap: examining the impact of source habitat proximity on plant and soil microbial communities in post-mining spoil heap succession
-
-[Source](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1416515/full)
-
----
-
-## Bacterial Communities from the Antique Roman City of Carnuntum (Austria):16S r-RNA-Based Comparison of Soil Samples from Different Archaeological Horizons
-
-[Source](https://www.preprints.org/manuscript/202409.2333/v1)
-
----
-
-## Microbiome–metabolite linkages drive greenhouse gas dynamics over a permafrost thaw gradient 
-
-[Source](https://www.nature.com/articles/s41564-024-01800-z)
-
----
-
-## Phosphorus availability influences disease-suppressive soil microbiome through plant-microbe interaction
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01906-w)
-
----
-
-## Plant diversity drives positive microbial associations in the rhizosphere enhancing carbon use efficiency in agricultural soils
-
-[Source](https://www.nature.com/articles/s41467-024-52449-5)
-
----
-
-## Bacterial diversity of cantaloupes and soil from Arizona and California commercial fields at the point of harvest
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307477)
-
----
-
-## Making waves: From tap to gut- exploring the impact of drinking water on gut microbiota
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0043135424014027)
-
----
-
-## Taxometer: Improving taxonomic classification of metagenomics contigs
-
-[Source](https://www.nature.com/articles/s41467-024-52771-y)
-
----
-
-## Jaeger: an accurate and fast deep-learning tool to detect bacteriophage sequences
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.09.24.612722v1)
-
----
-
-## https://t.co/xdsCOHvJKV
-
-[Source](https://t.co/xdsCOHvJKV)
-
----
-
-## October 1, 2024
-
-[Source](https://twitter.com/RajithaYasas1/status/1841060193947271618?ref_src=twsrc%5Etfw)
-
----
-
-## Emergent ecological patterns and modelling of gut microbiomes in health and in disease
-
-[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012482)
-
----
-
-## Comparative evaluation of soil DNA extraction kits for long read metagenomic sequencing
-
-[Source](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.0.000868.v3)
-
----
-
-## Microbial community interactions on a chip
-
-[Source](https://www.pnas.org/doi/10.1073/pnas.2403510121)
-
----
-
-## #PooSticksStudy
-
-[Source](https://twitter.com/hashtag/PooSticksStudy?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## pic.twitter.com/DwmofYP1cp
-
-[Source](https://t.co/DwmofYP1cp)
-
----
-
-## October 1, 2024
-
-[Source](https://twitter.com/PenkovaElitsa/status/1841041421983158611?ref_src=twsrc%5Etfw)
+10.1371/journal.pone.0309065
 
 ---
 
