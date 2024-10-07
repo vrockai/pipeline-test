@@ -53,16 +53,9 @@ Biofilms are microbial aggregates encased in a matrix that is attached to biolog
 
 ---
 
-## Microbiome-based treatment helps ease severe malnutrition.
- 04.10.2024, _E Pennisi_
-
-
-_Child, Child, Preschool, Humans, Infant, Bangladesh, Gastrointestinal Microbiome, Malnutrition, Probiotics, Infant Nutritional Physiological Phenomena, Dietary Supplements_
-Study in Bangladeshi children builds on earlier trials of food that supports beneficial gut bacteria.
+## Microbiome-based treatment helps ease severe malnutrition
 
 [Source](https://doi.org/10.1126/science.adt5693)
-
-10.1126/science.adt5693
 
 ---
 
@@ -78,15 +71,9 @@ Study in Bangladeshi children builds on earlier trials of food that supports ben
 
 ---
 
-## Recruitment of complete crAss-like phage genomes reveals their presence in chicken viromes, few human-specific phages, and lack of universal detection.
- 03.10.2024, _MD Ramos-Barbero, C Gómez-Gómez, G Vique, L Sala-Comorera, L Rodríguez-Rubio, M Muniesa_
-
-
-The order Crassvirales, which includes the prototypical crAssphage (p-crAssphage), is predominantly associated with humans, rendering it the most abundant and widely distributed group of DNA phages in the human gut. The reported human specificity and wide global distribution of p-crAssphage makes it a promising human fecal marker. However, the specificity for the human gut as well as the geographical distribution around the globe of other members of the order Crassvirales remains unknown. To determine this, a recruitment analysis using 91 complete, non-redundant genomes of crAss-like phages in human and animal viromes revealed that only 13 crAss-like phages among the 91 phages analyzed were highly specific to humans, and p-crAssphage was not in this group. Investigations to elucidate whether any characteristic of the phages was responsible for their prevalence in humans showed that the 13 human crAss-like phages do not share a core genome. Phylogenomic analysis placed them in three independent families, indicating that within the Crassvirales group, human specificity is likely not a feature of a common ancestor but rather was introduced on separate/independent occasions in their evolutionary history. The 13 human crAss-like phages showed variable geographical distribution across human metagenomes worldwide, with some being more prevalent in certain countries than in others, but none being universally identified. The varied geographical distribution and the absence of a phylogenetic relationship among the human crAss-like phages are attributed to the emergence and dissemination of their bacterial host, the symbiotic human strains of Bacteroides, across various human populations occupying diverse ecological niches worldwide.
+## Recruitment of complete crAss-like phage genomes reveals their presence in chicken viromes, few human-specific phages, and lack of universal detection
 
 [Source](https://doi.org/10.1093/ismejo/wrae192)
-
-10.1093/ismejo/wrae192
 
 ---
 
@@ -102,16 +89,9 @@ The order Crassvirales, which includes the prototypical crAssphage (p-crAssphage
 
 ---
 
-## Dynamic alterations and ecological implications of rice rhizosphere bacterial communities induced by an insect-transmitted reovirus across space and time.
- 06.10.2024, _N Wu, W Shi, L Zhang, H Wang, W Liu, Y Ren, X Li, Z Gao, X Wang_
-
-
-_Oryza, Rhizosphere, Reoviridae, Plant Diseases, Bacteria, Soil Microbiology, Microbiota, Animals, RNA, Ribosomal, 16S, Plant Roots, Insecta, Plant Viruses_
-Cereal diseases caused by insect-transmitted viruses are challenging to forecast and control because of their intermittent outbreak patterns, which are usually attributed to increased population densities of vector insects due to cereal crop rotations and indiscriminate use of pesticides, and lack of resistance in commercial varieties. Root microbiomes are known to significantly affect plant health, but there are significant knowledge gaps concerning epidemics of cereal virus diseases at the microbiome-wide scale under a variety of environmental and biological factors.
+## Dynamic alterations and ecological implications of rice rhizosphere bacterial communities induced by an insect-transmitted reovirus across space and time
 
 [Source](https://doi.org/10.1186/s40168-024-01910-0)
-
-10.1186/s40168-024-01910-0
 
 ---
 
