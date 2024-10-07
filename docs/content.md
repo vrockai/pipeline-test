@@ -1,12 +1,6 @@
-## Noninvasive, microbiome-based diagnosis of inflammatory bowel disease.
- 04.10.2024, _J Zheng, Q Sun, M Zhang, C Liu, Q Su, L Zhang, Z Xu, W Lu, J Ching, W Tang, CP Cheung, AL Hamilton, AL Wilson O'Brien, SC Wei, CN Bernstein, DT Rubin, EB Chang, M Morrison, MA Kamm, FKL Chan, J Zhang, SC Ng_
-
-
-Despite recent progress in our understanding of the association between the gut microbiome and inflammatory bowel disease (IBD), the role of microbiome biomarkers in IBD diagnosis remains underexplored. Here we developed a microbiome-based diagnostic test for IBD. By utilization of metagenomic data from 5,979 fecal samples with and without IBD from different geographies and ethnicities, we identified microbiota alterations in IBD and selected ten and nine bacterial species for construction of diagnostic models for ulcerative colitis and Crohn's disease, respectively. These diagnostic models achieved areas under the curve &gt;0.90 for distinguishing IBD from controls in the discovery cohort, and maintained satisfactory performance in transethnic validation cohorts from eight populations. We further developed a multiplex droplet digital polymerase chain reaction test targeting selected IBD-associated bacterial species, and models based on this test showed numerically higher performance than fecal calprotectin in discriminating ulcerative colitis and Crohn's disease from controls. Here we discovered universal IBD-associated bacteria and show the potential applicability of a multibacteria biomarker panel as a noninvasive tool for IBD diagnosis.
+## Noninvasive, microbiome-based diagnosis of inflammatory bowel disease
 
 [Source](https://doi.org/10.1038/s41591-024-03280-4)
-
-10.1038/s41591-024-03280-4
 
 ---
 
@@ -22,15 +16,9 @@ The gut microbiome plays vital roles in human health, including mediating metabo
 
 ---
 
-## Salivary microbiota reflecting changes in subgingival microbiota.
- 04.10.2024, _J-S Jung, J-K Kook, S-N Park, YK Lim, GH Choi, S Kim, S Ji_
-
-
-The purpose of this study was to determine whether subgingival microbial changes according to the severity of periodontal disease and following the non-surgical periodontal treatment of periodontitis are reflected in the saliva microbiota. Subgingival and saliva samples were collected from 7 periodontally healthy controls, 14 patients with gingivitis, 12 with moderate periodontitis, and 18 with severe periodontitis. Among subjects who received treatment, seven moderate and seven severe periodontitis patients were selected for post-treatment microbial analysis, and their samples were analyzed at baseline and 6 months after treatment. The V3 and V4 regions of the 16S rRNA gene were sequenced, and correlations of the relative abundance of phyla and health- or periodontitis-dominant species between subgingival plaque and saliva samples were analyzed using Spearman signed-rank tests. Alpha diversity was higher in saliva than subgingival plaque samples, and beta diversity was significantly different between the two samples. However, levels of phyla and most health- or periodontitis-dominant species in salivary microbiota were significantly correlated with those in subgingival plaque. The improvement in clinical parameters following treatment was accompanied by a microbial shift not only in subgingival plaque but also in saliva. The abundance of 2 phyla including Bacteroidetes, 6 genera including Porphyromonas and Treponema, and 11 species including Porphyromonas gingivalis, Tannerella forsythia, and Filifactor alocis was significantly reduced in saliva following treatment. These results indicate that the salivary microbiota can reflect changes in the subgingival microbiota, suggesting that saliva can be used as a diagnostic tool to monitor the periodontal health status of individuals.
+## Salivary microbiota reflecting changes in subgingival microbiota
 
 [Source](https://doi.org/10.1128/spectrum.01030-24)
-
-10.1128/spectrum.01030-24
 
 ---
 
@@ -40,16 +28,9 @@ The purpose of this study was to determine whether subgingival microbial changes
 
 ---
 
-## Sophorolipid: An Effective Biomolecule for Targeting Microbial Biofilms.
- 04.10.2024, _S Dhadwal, S Handa, M Chatterjee, IM Banat_
-
-
-_Biofilms, Surface-Active Agents, Oleic Acids, Anti-Bacterial Agents, Bacteria_
-Biofilms are microbial aggregates encased in a matrix that is attached to biological or nonbiological surfaces and constitute serious problems in food, medical, and marine industries and can have major negative effects on both health and the economy. Biofilm's complex microbial community provides a resistant environment that is difficult to eradicate and is extremely resilient to antibiotics and sanitizers. There are various conventional techniques for combating biofilms, including, chemical removal, physical or mechanical removal, use of antibiotics and disinfectants to destroy biofilm producing organisms. In contrast to free living planktonic cells, biofilms are very resistant to these methods. Hence, new strategies that differ from traditional approaches are urgently required. Microbial world offers a wide range of effective "green" compounds such as biosurfactants. They outperform synthetic surfactants in terms of biodegradability, superior stabilization, and reduced toxicity concerns. They also have better antiadhesive and anti-biofilm capabilities which can be used to treat biofilm-related problems. Sophorolipids (SLs) are a major type of biosurfactants that have gained immense interest in the healthcare industries because of their antiadhesive and anti-biofilm properties. Sophorolipids may therefore prove to be attractive substances that can be used in biomedical applications as adjuvant to other antibiotics against some infections through growth inhibition and/or biofilm disruption.
+## Sophorolipid: An Effective Biomolecule for Targeting Microbial Biofilms
 
 [Source](https://doi.org/10.1007/s00284-024-03892-6)
-
-10.1007/s00284-024-03892-6
 
 ---
 
@@ -95,40 +76,21 @@ Biofilms are microbial aggregates encased in a matrix that is attached to biolog
 
 ---
 
-## Microbiome-induced reprogramming in post-transcriptional landscape using nanopore direct RNA sequencing.
- 04.10.2024, _Z Xu, X Zheng, J Fan, Y Jiao, S Huang, Y Xie, S Xu, Y Lu, A Liu, R Liu, Y Yang, GZ Luo, T Pan, X Wang_
-
-
-It has been widely recognized that the microbiota has the capacity to shape host gene expression and physiological functions. However, there remains a paucity of comprehensive study revealing the host transcriptional landscape regulated by the microbiota. Here, we comprehensively examined mRNA landscapes in mouse tissues (brain and cecum) from specific-pathogen-free and germ-free mice using nanopore direct RNA sequencing. Our results show that the microbiome has global influence on a host's RNA modifications (m6A, m5C, Ψ), isoform generation, poly(A) tail length, and transcript abundance in both brain and cecum tissues. Moreover, the microbiome exerts tissue-specific effects on various post-transcriptional regulatory processes. In addition, the microbiome impacts the coordination of multiple RNA modifications in host brain and cecum tissues. In conclusion, we establish the relationship between microbial regulation and gene expression. Our results help the understanding of the mechanisms by which the microbiome reprograms host gene expression.
+## Microbiome-induced reprogramming in post-transcriptional landscape using nanopore direct RNA sequencing
 
 [Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01149-5)
 
-10.1016/j.celrep.2024.114798
-
 ---
 
-## rRNA operon improves species-level classification of bacteria and microbial community analysis compared to 16S rRNA.
- 04.10.2024, _S Won, S Cho, H Kim_
-
-
-Precise identification of species is fundamental in microbial genomics and is crucial for understanding the microbial communities. While the 16S rRNA gene, particularly its V3-V4 regions, has been extensively employed for microbial identification, however has limitations in achieving species-level resolution. Advancements in long-read sequencing technologies have highlighted the rRNA operon as a more accurate marker for microbial classification and analysis than the 16S rRNA gene. This study aims to compare the accuracy of species classification and microbial community analysis using the rRNA operon versus the 16S rRNA gene. We evaluated the species classification accuracy of the rRNA operon,16S rRNA gene, and 16S rRNA V3-V4 regions using a BLAST-based method and a k-mer matching-based method with public data available from NCBI. We further performed simulations to model microbial community analysis. We accessed the performance using each marker in community composition estimation and differential abundance analysis. Our findings demonstrate that the rRNA operon offers an advantage over the 16S rRNA gene and its V3-V4 regions for species-level classification within the genus. When applied to microbial community analysis, the rRNA operon enables a more accurate determination of composition. Using the rRNA operon yielded more reliable results in differential abundance analysis as well.
+## rRNA operon improves species-level classification of bacteria and microbial community analysis compared to 16S rRNA
 
 [Source](https://doi.org/10.1128/spectrum.00931-24)
 
-10.1128/spectrum.00931-24
-
 ---
 
-## ASV vs OTUs clustering: Effects on alpha, beta, and gamma diversities in microbiome metabarcoding studies.
- 05.10.2024, _A Fasolo, S Deb, P Stevanato, G Concheri, A Squartini_
-
-
-_Microbiota, RNA, Ribosomal, 16S, Cluster Analysis, DNA Barcoding, Taxonomic, Bacteria, Biodiversity, DNA, Bacterial, Phylogeny_
-In microbial community sequencing, involving bacterial ribosomal 16S rDNA or fungal ITS, the targeted genes are the basis for taxonomical assignment. The traditional bioinformatical procedure has for decades made use of a clustering protocol by which sequences are pooled into packages of shared percent identity, typically at 97%, to yield Operational Technical Units (OTUs). Progress in the data processing methods has however led to the possibility of minimizing technical sequencers errors, which were the main reason for the OTU choice, and to analyze instead the exact Amplicon Sequence Variants (ASV) which is a choice yielding much less agglomerated reads. We have tested the two procedures on the same 16S metabarcoded bacterial amplicons dataset encompassing a series of samples from 17 adjacent habitats, taken across a 700 meter-long transect of different ecological conditions unfolding in a gradient spanning from cropland, through meadows, forest and all successional transitions up to the seashore, within the same coastal area. This design allowed to scan a high biodiversity basin and to measure alpha, beta and gamma diversity of the area, to verify the effect of the bioinformatics on the same data as concerns the values of ten different ecological indexes and other parameters. Two levels of progressive OTUs clustering, (99% and 97%) were compared with the ASV data. The results showed that the OTUs clustering proportionally led to a marked underestimation of the ecological indicators values for species diversity and to a distorted behaviour of the dominance and evenness indexes with respect to the direct use of the ASV data. Multivariate ordination analyses resulted also sensitive in terms of tree topology and coherence. Overall, data support the view that reference-based OTU clustering carries several misleading disadvantageous biases, including the risk of missing novel taxa which are yet unreferenced in databases. Since its alternatives as de novo clustering have on the other hand drawbacks due to heavier computational demand and results comparability, especially for environmental studies which contain several yet uncharacterized species, the direct ASV based analysis, at least for prokaryotes, appears to warrant significand advantages in comparison to OTU clustering at every level of percent identity cutoff.
+## ASV vs OTUs clustering: Effects on alpha, beta, and gamma diversities in microbiome metabarcoding studies
 
 [Source](https://doi.org/10.1371/journal.pone.0309065)
-
-10.1371/journal.pone.0309065
 
 ---
 
