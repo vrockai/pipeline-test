@@ -1,24 +1,30 @@
-## Noninvasive, microbiome-based diagnosis of inflammatory bowel disease.
- 04.10.2024, _J Zheng, Q Sun, M Zhang, C Liu, Q Su, L Zhang, Z Xu, W Lu, J Ching, W Tang, CP Cheung, AL Hamilton, AL Wilson O'Brien, SC Wei, CN Bernstein, DT Rubin, EB Chang, M Morrison, MA Kamm, FKL Chan, J Zhang, SC Ng_
-
-
-Despite recent progress in our understanding of the association between the gut microbiome and inflammatory bowel disease (IBD), the role of microbiome biomarkers in IBD diagnosis remains underexplored. Here we developed a microbiome-based diagnostic test for IBD. By utilization of metagenomic data from 5,979 fecal samples with and without IBD from different geographies and ethnicities, we identified microbiota alterations in IBD and selected ten and nine bacterial species for construction of diagnostic models for ulcerative colitis and Crohn's disease, respectively. These diagnostic models achieved areas under the curve &gt;0.90 for distinguishing IBD from controls in the discovery cohort, and maintained satisfactory performance in transethnic validation cohorts from eight populations. We further developed a multiplex droplet digital polymerase chain reaction test targeting selected IBD-associated bacterial species, and models based on this test showed numerically higher performance than fecal calprotectin in discriminating ulcerative colitis and Crohn's disease from controls. Here we discovered universal IBD-associated bacteria and show the potential applicability of a multibacteria biomarker panel as a noninvasive tool for IBD diagnosis.
+## Noninvasive, microbiome-based diagnosis of inflammatory bowel disease
 
 [Source](https://doi.org/10.1038/s41591-024-03280-4)
 
-10.1038/s41591-024-03280-4
-
 ---
 
-## Advancing microbiome research in Māori populations: insights from recent literature exploring the gut microbiomes of underrepresented and Indigenous peoples
+## Advancing microbiome research in Māori populations: insights from recent literature exploring the gut microbiomes of underrepresented and Indigenous peoples.
+ 04.10.2024, _ET Silk, SB Bayer, M Foster, NC Roy, MW Taylor, T Vatanen, RB Gearry_
+
+
+The gut microbiome plays vital roles in human health, including mediating metabolism, immunity, and the gut-brain axis. Many ethnicities remain underrepresented in gut microbiome research, with significant variation between Indigenous and non-Indigenous peoples due to dietary, socioeconomic, health, and urbanization differences. Although research regarding the microbiomes of Indigenous peoples is increasing, Māori microbiome literature is lacking despite widespread inequities that Māori populations face. These inequities likely contribute to gut microbiome differences that exacerbate negative health outcomes. Characterizing the gut microbiomes of underrepresented populations is necessary to inform efforts to address health inequities. However, for microbiome research to be culturally responsible and meaningful, study design must improve to better protect the rights and interests of Indigenous peoples. Here, we discuss barriers to Indigenous participation in research and the role disparities may play in shaping the gut microbiomes of Indigenous peoples, with a particular focus on implications for Māori and areas for improvement.
 
 [Source](https://doi.org/10.1128/msystems.00909-24)
 
+10.1128/msystems.00909-24
+
 ---
 
-## Salivary microbiota reflecting changes in subgingival microbiota
+## Salivary microbiota reflecting changes in subgingival microbiota.
+ 04.10.2024, _J-S Jung, J-K Kook, S-N Park, YK Lim, GH Choi, S Kim, S Ji_
+
+
+The purpose of this study was to determine whether subgingival microbial changes according to the severity of periodontal disease and following the non-surgical periodontal treatment of periodontitis are reflected in the saliva microbiota. Subgingival and saliva samples were collected from 7 periodontally healthy controls, 14 patients with gingivitis, 12 with moderate periodontitis, and 18 with severe periodontitis. Among subjects who received treatment, seven moderate and seven severe periodontitis patients were selected for post-treatment microbial analysis, and their samples were analyzed at baseline and 6 months after treatment. The V3 and V4 regions of the 16S rRNA gene were sequenced, and correlations of the relative abundance of phyla and health- or periodontitis-dominant species between subgingival plaque and saliva samples were analyzed using Spearman signed-rank tests. Alpha diversity was higher in saliva than subgingival plaque samples, and beta diversity was significantly different between the two samples. However, levels of phyla and most health- or periodontitis-dominant species in salivary microbiota were significantly correlated with those in subgingival plaque. The improvement in clinical parameters following treatment was accompanied by a microbial shift not only in subgingival plaque but also in saliva. The abundance of 2 phyla including Bacteroidetes, 6 genera including Porphyromonas and Treponema, and 11 species including Porphyromonas gingivalis, Tannerella forsythia, and Filifactor alocis was significantly reduced in saliva following treatment. These results indicate that the salivary microbiota can reflect changes in the subgingival microbiota, suggesting that saliva can be used as a diagnostic tool to monitor the periodontal health status of individuals.
 
 [Source](https://doi.org/10.1128/spectrum.01030-24)
+
+10.1128/spectrum.01030-24
 
 ---
 
@@ -34,9 +40,16 @@ Depression is a prevalent mental health disorder, and its incidence has increase
 
 ---
 
-## Sophorolipid: An Effective Biomolecule for Targeting Microbial Biofilms
+## Sophorolipid: An Effective Biomolecule for Targeting Microbial Biofilms.
+ 04.10.2024, _S Dhadwal, S Handa, M Chatterjee, IM Banat_
+
+
+_Biofilms, Surface-Active Agents, Oleic Acids, Anti-Bacterial Agents, Bacteria_
+Biofilms are microbial aggregates encased in a matrix that is attached to biological or nonbiological surfaces and constitute serious problems in food, medical, and marine industries and can have major negative effects on both health and the economy. Biofilm's complex microbial community provides a resistant environment that is difficult to eradicate and is extremely resilient to antibiotics and sanitizers. There are various conventional techniques for combating biofilms, including, chemical removal, physical or mechanical removal, use of antibiotics and disinfectants to destroy biofilm producing organisms. In contrast to free living planktonic cells, biofilms are very resistant to these methods. Hence, new strategies that differ from traditional approaches are urgently required. Microbial world offers a wide range of effective "green" compounds such as biosurfactants. They outperform synthetic surfactants in terms of biodegradability, superior stabilization, and reduced toxicity concerns. They also have better antiadhesive and anti-biofilm capabilities which can be used to treat biofilm-related problems. Sophorolipids (SLs) are a major type of biosurfactants that have gained immense interest in the healthcare industries because of their antiadhesive and anti-biofilm properties. Sophorolipids may therefore prove to be attractive substances that can be used in biomedical applications as adjuvant to other antibiotics against some infections through growth inhibition and/or biofilm disruption.
 
 [Source](https://doi.org/10.1007/s00284-024-03892-6)
+
+10.1007/s00284-024-03892-6
 
 ---
 
@@ -83,9 +96,16 @@ The order Crassvirales, which includes the prototypical crAssphage (p-crAssphage
 
 ---
 
-## Rhizosphere microbial community structure in high-producing, low-input switchgrass families
+## Rhizosphere microbial community structure in high-producing, low-input switchgrass families.
+ 05.10.2024, _C Stonoha-Arther, K Panke-Buisse, AJ Duff, A Molodchenko, MD Casler_
+
+
+_Panicum, Rhizosphere, Microbiota, Nitrogen, Soil Microbiology, Biomass, RNA, Ribosomal, 16S, Fertilizers_
+Switchgrass (Panicum virgatum L.) is a native, low-input North American perennial crop primarily grown for bioenergy, livestock forage, and industrial fiber. To achieve no-input switchgrass production that meets biomass needs, several switchgrass genotypes have been identified that have a low or negative response to nitrogen fertilizer, i.e., the biomass accumulation with added nitrogen is less than or equal to that when grown without nitrogen. In order to improve the viability of low-input switchgrass production, a more detailed understanding of the biogeochemical mechanisms active in these select genotypes is needed. 16S and ITS amplicon sequencing and qPCR of key functional genes were applied to switchgrass rhizospheres to elucidate microbial community structure in high-producing, no-input switchgrass families. Rhizosphere microbial community structure differed strongly between sites, and nitrogen responsiveness.
 
 [Source](https://doi.org/10.1371/journal.pone.0308753)
+
+10.1371/journal.pone.0308753
 
 ---
 
