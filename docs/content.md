@@ -1,6 +1,12 @@
-## Noninvasive, microbiome-based diagnosis of inflammatory bowel disease
+## Noninvasive, microbiome-based diagnosis of inflammatory bowel disease.
+ 04.10.2024, _J Zheng, Q Sun, M Zhang, C Liu, Q Su, L Zhang, Z Xu, W Lu, J Ching, W Tang, CP Cheung, AL Hamilton, AL Wilson O'Brien, SC Wei, CN Bernstein, DT Rubin, EB Chang, M Morrison, MA Kamm, FKL Chan, J Zhang, SC Ng_
+
+
+Despite recent progress in our understanding of the association between the gut microbiome and inflammatory bowel disease (IBD), the role of microbiome biomarkers in IBD diagnosis remains underexplored. Here we developed a microbiome-based diagnostic test for IBD. By utilization of metagenomic data from 5,979 fecal samples with and without IBD from different geographies and ethnicities, we identified microbiota alterations in IBD and selected ten and nine bacterial species for construction of diagnostic models for ulcerative colitis and Crohn's disease, respectively. These diagnostic models achieved areas under the curve &gt;0.90 for distinguishing IBD from controls in the discovery cohort, and maintained satisfactory performance in transethnic validation cohorts from eight populations. We further developed a multiplex droplet digital polymerase chain reaction test targeting selected IBD-associated bacterial species, and models based on this test showed numerically higher performance than fecal calprotectin in discriminating ulcerative colitis and Crohn's disease from controls. Here we discovered universal IBD-associated bacteria and show the potential applicability of a multibacteria biomarker panel as a noninvasive tool for IBD diagnosis.
 
 [Source](https://doi.org/10.1038/s41591-024-03280-4)
+
+10.1038/s41591-024-03280-4
 
 ---
 
@@ -28,15 +34,9 @@ The purpose of this study was to determine whether subgingival microbial changes
 
 ---
 
-## Differences in the human gut microbiota with varying depressive symptom severity scores.
- 05.10.2024, _Y Masamura, R Kubo, Y Midorikawa, NO Shinozaki, S Watanabe, S Maekawa, AK Takeda, T Ohta_
-
-
-Depression is a prevalent mental health disorder, and its incidence has increased further because of the coronavirus disease 2019 (COVID-19) pandemic. The gut microbiome has been suggested as a potential target for mental health treatment because of the bidirectional communication system between the brain and gastrointestinal tract, known as the gut-brain axis. We aimed to investigate the relationship between the human gut microbiome and depression screening by analyzing the abundance and types of microbiomes among individuals living in Japan, where mental health awareness and support may differ from those in other countries owing to cultural factors. We used a data-driven approach to evaluate the gut microbiome of participants who underwent commercial gut microbiota testing services and completed a questionnaire survey that included a test for scoring depressive tendencies. Our data analysis results indicated that no significant differences in gut microbiome composition were found among the groups based on their depression screening scores. However, the results also indicated the potential existence of a few differentially abundant bacterial taxa. Specifically, the detected bacterial changes in abundance suggest that the Bifidobacteriaceae, Streptococcaceae, and Veillonellaceae families are candidates for differentially abundant bacteria. Our findings should contribute to the growing body of research on the relationship between gut microbiome and mental health, highlighting the potential of microbiome-based interventions for depression treatment. The limitations of this study include the lack of clear medical information on the participants' diagnoses. Future research could benefit from a larger sample size and more detailed clinical information.
+## Differences in the human gut microbiota with varying depressive symptom severity scores
 
 [Source](https://doi.org/10.12938/bmfh.2023-049)
-
-10.12938/bmfh.2023-049
 
 ---
 
@@ -96,16 +96,9 @@ The order Crassvirales, which includes the prototypical crAssphage (p-crAssphage
 
 ---
 
-## Rhizosphere microbial community structure in high-producing, low-input switchgrass families.
- 05.10.2024, _C Stonoha-Arther, K Panke-Buisse, AJ Duff, A Molodchenko, MD Casler_
-
-
-_Panicum, Rhizosphere, Microbiota, Nitrogen, Soil Microbiology, Biomass, RNA, Ribosomal, 16S, Fertilizers_
-Switchgrass (Panicum virgatum L.) is a native, low-input North American perennial crop primarily grown for bioenergy, livestock forage, and industrial fiber. To achieve no-input switchgrass production that meets biomass needs, several switchgrass genotypes have been identified that have a low or negative response to nitrogen fertilizer, i.e., the biomass accumulation with added nitrogen is less than or equal to that when grown without nitrogen. In order to improve the viability of low-input switchgrass production, a more detailed understanding of the biogeochemical mechanisms active in these select genotypes is needed. 16S and ITS amplicon sequencing and qPCR of key functional genes were applied to switchgrass rhizospheres to elucidate microbial community structure in high-producing, no-input switchgrass families. Rhizosphere microbial community structure differed strongly between sites, and nitrogen responsiveness.
+## Rhizosphere microbial community structure in high-producing, low-input switchgrass families
 
 [Source](https://doi.org/10.1371/journal.pone.0308753)
-
-10.1371/journal.pone.0308753
 
 ---
 
