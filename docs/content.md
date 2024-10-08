@@ -10,9 +10,15 @@ Despite recent progress in our understanding of the association between the gut 
 
 ---
 
-## Advancing microbiome research in Māori populations: insights from recent literature exploring the gut microbiomes of underrepresented and Indigenous peoples
+## Advancing microbiome research in Māori populations: insights from recent literature exploring the gut microbiomes of underrepresented and Indigenous peoples.
+ 04.10.2024, _ET Silk, SB Bayer, M Foster, NC Roy, MW Taylor, T Vatanen, RB Gearry_
+
+
+The gut microbiome plays vital roles in human health, including mediating metabolism, immunity, and the gut-brain axis. Many ethnicities remain underrepresented in gut microbiome research, with significant variation between Indigenous and non-Indigenous peoples due to dietary, socioeconomic, health, and urbanization differences. Although research regarding the microbiomes of Indigenous peoples is increasing, Māori microbiome literature is lacking despite widespread inequities that Māori populations face. These inequities likely contribute to gut microbiome differences that exacerbate negative health outcomes. Characterizing the gut microbiomes of underrepresented populations is necessary to inform efforts to address health inequities. However, for microbiome research to be culturally responsible and meaningful, study design must improve to better protect the rights and interests of Indigenous peoples. Here, we discuss barriers to Indigenous participation in research and the role disparities may play in shaping the gut microbiomes of Indigenous peoples, with a particular focus on implications for Māori and areas for improvement.
 
 [Source](https://doi.org/10.1128/msystems.00909-24)
+
+10.1128/msystems.00909-24
 
 ---
 
@@ -28,15 +34,9 @@ The purpose of this study was to determine whether subgingival microbial changes
 
 ---
 
-## Differences in the human gut microbiota with varying depressive symptom severity scores.
- 05.10.2024, _Y Masamura, R Kubo, Y Midorikawa, NO Shinozaki, S Watanabe, S Maekawa, AK Takeda, T Ohta_
-
-
-Depression is a prevalent mental health disorder, and its incidence has increased further because of the coronavirus disease 2019 (COVID-19) pandemic. The gut microbiome has been suggested as a potential target for mental health treatment because of the bidirectional communication system between the brain and gastrointestinal tract, known as the gut-brain axis. We aimed to investigate the relationship between the human gut microbiome and depression screening by analyzing the abundance and types of microbiomes among individuals living in Japan, where mental health awareness and support may differ from those in other countries owing to cultural factors. We used a data-driven approach to evaluate the gut microbiome of participants who underwent commercial gut microbiota testing services and completed a questionnaire survey that included a test for scoring depressive tendencies. Our data analysis results indicated that no significant differences in gut microbiome composition were found among the groups based on their depression screening scores. However, the results also indicated the potential existence of a few differentially abundant bacterial taxa. Specifically, the detected bacterial changes in abundance suggest that the Bifidobacteriaceae, Streptococcaceae, and Veillonellaceae families are candidates for differentially abundant bacteria. Our findings should contribute to the growing body of research on the relationship between gut microbiome and mental health, highlighting the potential of microbiome-based interventions for depression treatment. The limitations of this study include the lack of clear medical information on the participants' diagnoses. Future research could benefit from a larger sample size and more detailed clinical information.
+## Differences in the human gut microbiota with varying depressive symptom severity scores
 
 [Source](https://doi.org/10.12938/bmfh.2023-049)
-
-10.12938/bmfh.2023-049
 
 ---
 
@@ -53,16 +53,9 @@ Biofilms are microbial aggregates encased in a matrix that is attached to biolog
 
 ---
 
-## Microbiome-based treatment helps ease severe malnutrition.
- 04.10.2024, _E Pennisi_
-
-
-_Child, Child, Preschool, Humans, Infant, Bangladesh, Gastrointestinal Microbiome, Malnutrition, Probiotics, Infant Nutritional Physiological Phenomena, Dietary Supplements_
-Study in Bangladeshi children builds on earlier trials of food that supports beneficial gut bacteria.
+## Microbiome-based treatment helps ease severe malnutrition
 
 [Source](https://doi.org/10.1126/science.adt5693)
-
-10.1126/science.adt5693
 
 ---
 
@@ -96,16 +89,9 @@ The order Crassvirales, which includes the prototypical crAssphage (p-crAssphage
 
 ---
 
-## Rhizosphere microbial community structure in high-producing, low-input switchgrass families.
- 05.10.2024, _C Stonoha-Arther, K Panke-Buisse, AJ Duff, A Molodchenko, MD Casler_
-
-
-_Panicum, Rhizosphere, Microbiota, Nitrogen, Soil Microbiology, Biomass, RNA, Ribosomal, 16S, Fertilizers_
-Switchgrass (Panicum virgatum L.) is a native, low-input North American perennial crop primarily grown for bioenergy, livestock forage, and industrial fiber. To achieve no-input switchgrass production that meets biomass needs, several switchgrass genotypes have been identified that have a low or negative response to nitrogen fertilizer, i.e., the biomass accumulation with added nitrogen is less than or equal to that when grown without nitrogen. In order to improve the viability of low-input switchgrass production, a more detailed understanding of the biogeochemical mechanisms active in these select genotypes is needed. 16S and ITS amplicon sequencing and qPCR of key functional genes were applied to switchgrass rhizospheres to elucidate microbial community structure in high-producing, no-input switchgrass families. Rhizosphere microbial community structure differed strongly between sites, and nitrogen responsiveness.
+## Rhizosphere microbial community structure in high-producing, low-input switchgrass families
 
 [Source](https://doi.org/10.1371/journal.pone.0308753)
-
-10.1371/journal.pone.0308753
 
 ---
 
@@ -146,16 +132,9 @@ Precise identification of species is fundamental in microbial genomics and is cr
 
 ---
 
-## ASV vs OTUs clustering: Effects on alpha, beta, and gamma diversities in microbiome metabarcoding studies.
- 05.10.2024, _A Fasolo, S Deb, P Stevanato, G Concheri, A Squartini_
-
-
-_Microbiota, RNA, Ribosomal, 16S, Cluster Analysis, DNA Barcoding, Taxonomic, Bacteria, Biodiversity, DNA, Bacterial, Phylogeny_
-In microbial community sequencing, involving bacterial ribosomal 16S rDNA or fungal ITS, the targeted genes are the basis for taxonomical assignment. The traditional bioinformatical procedure has for decades made use of a clustering protocol by which sequences are pooled into packages of shared percent identity, typically at 97%, to yield Operational Technical Units (OTUs). Progress in the data processing methods has however led to the possibility of minimizing technical sequencers errors, which were the main reason for the OTU choice, and to analyze instead the exact Amplicon Sequence Variants (ASV) which is a choice yielding much less agglomerated reads. We have tested the two procedures on the same 16S metabarcoded bacterial amplicons dataset encompassing a series of samples from 17 adjacent habitats, taken across a 700 meter-long transect of different ecological conditions unfolding in a gradient spanning from cropland, through meadows, forest and all successional transitions up to the seashore, within the same coastal area. This design allowed to scan a high biodiversity basin and to measure alpha, beta and gamma diversity of the area, to verify the effect of the bioinformatics on the same data as concerns the values of ten different ecological indexes and other parameters. Two levels of progressive OTUs clustering, (99% and 97%) were compared with the ASV data. The results showed that the OTUs clustering proportionally led to a marked underestimation of the ecological indicators values for species diversity and to a distorted behaviour of the dominance and evenness indexes with respect to the direct use of the ASV data. Multivariate ordination analyses resulted also sensitive in terms of tree topology and coherence. Overall, data support the view that reference-based OTU clustering carries several misleading disadvantageous biases, including the risk of missing novel taxa which are yet unreferenced in databases. Since its alternatives as de novo clustering have on the other hand drawbacks due to heavier computational demand and results comparability, especially for environmental studies which contain several yet uncharacterized species, the direct ASV based analysis, at least for prokaryotes, appears to warrant significand advantages in comparison to OTU clustering at every level of percent identity cutoff.
+## ASV vs OTUs clustering: Effects on alpha, beta, and gamma diversities in microbiome metabarcoding studies
 
 [Source](https://doi.org/10.1371/journal.pone.0309065)
-
-10.1371/journal.pone.0309065
 
 ---
 
