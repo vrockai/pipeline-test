@@ -1,12 +1,6 @@
-## Noninvasive, microbiome-based diagnosis of inflammatory bowel disease.
- 04.10.2024, _J Zheng, Q Sun, M Zhang, C Liu, Q Su, L Zhang, Z Xu, W Lu, J Ching, W Tang, CP Cheung, AL Hamilton, AL Wilson O'Brien, SC Wei, CN Bernstein, DT Rubin, EB Chang, M Morrison, MA Kamm, FKL Chan, J Zhang, SC Ng_
-
-
-Despite recent progress in our understanding of the association between the gut microbiome and inflammatory bowel disease (IBD), the role of microbiome biomarkers in IBD diagnosis remains underexplored. Here we developed a microbiome-based diagnostic test for IBD. By utilization of metagenomic data from 5,979 fecal samples with and without IBD from different geographies and ethnicities, we identified microbiota alterations in IBD and selected ten and nine bacterial species for construction of diagnostic models for ulcerative colitis and Crohn's disease, respectively. These diagnostic models achieved areas under the curve &gt;0.90 for distinguishing IBD from controls in the discovery cohort, and maintained satisfactory performance in transethnic validation cohorts from eight populations. We further developed a multiplex droplet digital polymerase chain reaction test targeting selected IBD-associated bacterial species, and models based on this test showed numerically higher performance than fecal calprotectin in discriminating ulcerative colitis and Crohn's disease from controls. Here we discovered universal IBD-associated bacteria and show the potential applicability of a multibacteria biomarker panel as a noninvasive tool for IBD diagnosis.
+## Noninvasive, microbiome-based diagnosis of inflammatory bowel disease
 
 [Source](https://doi.org/10.1038/s41591-024-03280-4)
-
-10.1038/s41591-024-03280-4
 
 ---
 
@@ -59,9 +53,16 @@ Biofilms are microbial aggregates encased in a matrix that is attached to biolog
 
 ---
 
-## Microbiome-based treatment helps ease severe malnutrition
+## Microbiome-based treatment helps ease severe malnutrition.
+ 04.10.2024, _E Pennisi_
+
+
+_Child, Child, Preschool, Humans, Infant, Bangladesh, Gastrointestinal Microbiome, Malnutrition, Probiotics, Infant Nutritional Physiological Phenomena, Dietary Supplements_
+Study in Bangladeshi children builds on earlier trials of food that supports beneficial gut bacteria.
 
 [Source](https://doi.org/10.1126/science.adt5693)
+
+10.1126/science.adt5693
 
 ---
 
@@ -77,9 +78,15 @@ Biofilms are microbial aggregates encased in a matrix that is attached to biolog
 
 ---
 
-## Recruitment of complete crAss-like phage genomes reveals their presence in chicken viromes, few human-specific phages, and lack of universal detection
+## Recruitment of complete crAss-like phage genomes reveals their presence in chicken viromes, few human-specific phages, and lack of universal detection.
+ 03.10.2024, _MD Ramos-Barbero, C Gómez-Gómez, G Vique, L Sala-Comorera, L Rodríguez-Rubio, M Muniesa_
+
+
+The order Crassvirales, which includes the prototypical crAssphage (p-crAssphage), is predominantly associated with humans, rendering it the most abundant and widely distributed group of DNA phages in the human gut. The reported human specificity and wide global distribution of p-crAssphage makes it a promising human fecal marker. However, the specificity for the human gut as well as the geographical distribution around the globe of other members of the order Crassvirales remains unknown. To determine this, a recruitment analysis using 91 complete, non-redundant genomes of crAss-like phages in human and animal viromes revealed that only 13 crAss-like phages among the 91 phages analyzed were highly specific to humans, and p-crAssphage was not in this group. Investigations to elucidate whether any characteristic of the phages was responsible for their prevalence in humans showed that the 13 human crAss-like phages do not share a core genome. Phylogenomic analysis placed them in three independent families, indicating that within the Crassvirales group, human specificity is likely not a feature of a common ancestor but rather was introduced on separate/independent occasions in their evolutionary history. The 13 human crAss-like phages showed variable geographical distribution across human metagenomes worldwide, with some being more prevalent in certain countries than in others, but none being universally identified. The varied geographical distribution and the absence of a phylogenetic relationship among the human crAss-like phages are attributed to the emergence and dissemination of their bacterial host, the symbiotic human strains of Bacteroides, across various human populations occupying diverse ecological niches worldwide.
 
 [Source](https://doi.org/10.1093/ismejo/wrae192)
+
+10.1093/ismejo/wrae192
 
 ---
 
