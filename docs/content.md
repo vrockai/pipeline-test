@@ -1,6 +1,12 @@
-## Noninvasive, microbiome-based diagnosis of inflammatory bowel disease
+## Noninvasive, microbiome-based diagnosis of inflammatory bowel disease.
+ 04.10.2024, _J Zheng, Q Sun, M Zhang, C Liu, Q Su, L Zhang, Z Xu, W Lu, J Ching, W Tang, CP Cheung, AL Hamilton, AL Wilson O'Brien, SC Wei, CN Bernstein, DT Rubin, EB Chang, M Morrison, MA Kamm, FKL Chan, J Zhang, SC Ng_
+
+
+Despite recent progress in our understanding of the association between the gut microbiome and inflammatory bowel disease (IBD), the role of microbiome biomarkers in IBD diagnosis remains underexplored. Here we developed a microbiome-based diagnostic test for IBD. By utilization of metagenomic data from 5,979 fecal samples with and without IBD from different geographies and ethnicities, we identified microbiota alterations in IBD and selected ten and nine bacterial species for construction of diagnostic models for ulcerative colitis and Crohn's disease, respectively. These diagnostic models achieved areas under the curve &gt;0.90 for distinguishing IBD from controls in the discovery cohort, and maintained satisfactory performance in transethnic validation cohorts from eight populations. We further developed a multiplex droplet digital polymerase chain reaction test targeting selected IBD-associated bacterial species, and models based on this test showed numerically higher performance than fecal calprotectin in discriminating ulcerative colitis and Crohn's disease from controls. Here we discovered universal IBD-associated bacteria and show the potential applicability of a multibacteria biomarker panel as a noninvasive tool for IBD diagnosis.
 
 [Source](https://doi.org/10.1038/s41591-024-03280-4)
+
+10.1038/s41591-024-03280-4
 
 ---
 
