@@ -1,36 +1,18 @@
-## Noninvasive, microbiome-based diagnosis of inflammatory bowel disease.
- 04.10.2024, _J Zheng, Q Sun, M Zhang, C Liu, Q Su, L Zhang, Z Xu, W Lu, J Ching, W Tang, CP Cheung, AL Hamilton, AL Wilson O'Brien, SC Wei, CN Bernstein, DT Rubin, EB Chang, M Morrison, MA Kamm, FKL Chan, J Zhang, SC Ng_
-
-
-Despite recent progress in our understanding of the association between the gut microbiome and inflammatory bowel disease (IBD), the role of microbiome biomarkers in IBD diagnosis remains underexplored. Here we developed a microbiome-based diagnostic test for IBD. By utilization of metagenomic data from 5,979 fecal samples with and without IBD from different geographies and ethnicities, we identified microbiota alterations in IBD and selected ten and nine bacterial species for construction of diagnostic models for ulcerative colitis and Crohn's disease, respectively. These diagnostic models achieved areas under the curve &gt;0.90 for distinguishing IBD from controls in the discovery cohort, and maintained satisfactory performance in transethnic validation cohorts from eight populations. We further developed a multiplex droplet digital polymerase chain reaction test targeting selected IBD-associated bacterial species, and models based on this test showed numerically higher performance than fecal calprotectin in discriminating ulcerative colitis and Crohn's disease from controls. Here we discovered universal IBD-associated bacteria and show the potential applicability of a multibacteria biomarker panel as a noninvasive tool for IBD diagnosis.
+## Noninvasive, microbiome-based diagnosis of inflammatory bowel disease
 
 [Source](https://doi.org/10.1038/s41591-024-03280-4)
 
-10.1038/s41591-024-03280-4
-
 ---
 
-## Advancing microbiome research in Māori populations: insights from recent literature exploring the gut microbiomes of underrepresented and Indigenous peoples.
- 04.10.2024, _ET Silk, SB Bayer, M Foster, NC Roy, MW Taylor, T Vatanen, RB Gearry_
-
-
-The gut microbiome plays vital roles in human health, including mediating metabolism, immunity, and the gut-brain axis. Many ethnicities remain underrepresented in gut microbiome research, with significant variation between Indigenous and non-Indigenous peoples due to dietary, socioeconomic, health, and urbanization differences. Although research regarding the microbiomes of Indigenous peoples is increasing, Māori microbiome literature is lacking despite widespread inequities that Māori populations face. These inequities likely contribute to gut microbiome differences that exacerbate negative health outcomes. Characterizing the gut microbiomes of underrepresented populations is necessary to inform efforts to address health inequities. However, for microbiome research to be culturally responsible and meaningful, study design must improve to better protect the rights and interests of Indigenous peoples. Here, we discuss barriers to Indigenous participation in research and the role disparities may play in shaping the gut microbiomes of Indigenous peoples, with a particular focus on implications for Māori and areas for improvement.
+## Advancing microbiome research in Māori populations: insights from recent literature exploring the gut microbiomes of underrepresented and Indigenous peoples
 
 [Source](https://doi.org/10.1128/msystems.00909-24)
 
-10.1128/msystems.00909-24
-
 ---
 
-## Salivary microbiota reflecting changes in subgingival microbiota.
- 04.10.2024, _J-S Jung, J-K Kook, S-N Park, YK Lim, GH Choi, S Kim, S Ji_
-
-
-The purpose of this study was to determine whether subgingival microbial changes according to the severity of periodontal disease and following the non-surgical periodontal treatment of periodontitis are reflected in the saliva microbiota. Subgingival and saliva samples were collected from 7 periodontally healthy controls, 14 patients with gingivitis, 12 with moderate periodontitis, and 18 with severe periodontitis. Among subjects who received treatment, seven moderate and seven severe periodontitis patients were selected for post-treatment microbial analysis, and their samples were analyzed at baseline and 6 months after treatment. The V3 and V4 regions of the 16S rRNA gene were sequenced, and correlations of the relative abundance of phyla and health- or periodontitis-dominant species between subgingival plaque and saliva samples were analyzed using Spearman signed-rank tests. Alpha diversity was higher in saliva than subgingival plaque samples, and beta diversity was significantly different between the two samples. However, levels of phyla and most health- or periodontitis-dominant species in salivary microbiota were significantly correlated with those in subgingival plaque. The improvement in clinical parameters following treatment was accompanied by a microbial shift not only in subgingival plaque but also in saliva. The abundance of 2 phyla including Bacteroidetes, 6 genera including Porphyromonas and Treponema, and 11 species including Porphyromonas gingivalis, Tannerella forsythia, and Filifactor alocis was significantly reduced in saliva following treatment. These results indicate that the salivary microbiota can reflect changes in the subgingival microbiota, suggesting that saliva can be used as a diagnostic tool to monitor the periodontal health status of individuals.
+## Salivary microbiota reflecting changes in subgingival microbiota
 
 [Source](https://doi.org/10.1128/spectrum.01030-24)
-
-10.1128/spectrum.01030-24
 
 ---
 
@@ -84,9 +66,15 @@ Study in Bangladeshi children builds on earlier trials of food that supports ben
 
 ---
 
-## Recruitment of complete crAss-like phage genomes reveals their presence in chicken viromes, few human-specific phages, and lack of universal detection
+## Recruitment of complete crAss-like phage genomes reveals their presence in chicken viromes, few human-specific phages, and lack of universal detection.
+ 03.10.2024, _MD Ramos-Barbero, C Gómez-Gómez, G Vique, L Sala-Comorera, L Rodríguez-Rubio, M Muniesa_
+
+
+The order Crassvirales, which includes the prototypical crAssphage (p-crAssphage), is predominantly associated with humans, rendering it the most abundant and widely distributed group of DNA phages in the human gut. The reported human specificity and wide global distribution of p-crAssphage makes it a promising human fecal marker. However, the specificity for the human gut as well as the geographical distribution around the globe of other members of the order Crassvirales remains unknown. To determine this, a recruitment analysis using 91 complete, non-redundant genomes of crAss-like phages in human and animal viromes revealed that only 13 crAss-like phages among the 91 phages analyzed were highly specific to humans, and p-crAssphage was not in this group. Investigations to elucidate whether any characteristic of the phages was responsible for their prevalence in humans showed that the 13 human crAss-like phages do not share a core genome. Phylogenomic analysis placed them in three independent families, indicating that within the Crassvirales group, human specificity is likely not a feature of a common ancestor but rather was introduced on separate/independent occasions in their evolutionary history. The 13 human crAss-like phages showed variable geographical distribution across human metagenomes worldwide, with some being more prevalent in certain countries than in others, but none being universally identified. The varied geographical distribution and the absence of a phylogenetic relationship among the human crAss-like phages are attributed to the emergence and dissemination of their bacterial host, the symbiotic human strains of Bacteroides, across various human populations occupying diverse ecological niches worldwide.
 
 [Source](https://doi.org/10.1093/ismejo/wrae192)
+
+10.1093/ismejo/wrae192
 
 ---
 
@@ -109,21 +97,22 @@ Switchgrass (Panicum virgatum L.) is a native, low-input North American perennia
 
 ---
 
-## Dynamic alterations and ecological implications of rice rhizosphere bacterial communities induced by an insect-transmitted reovirus across space and time
+## Dynamic alterations and ecological implications of rice rhizosphere bacterial communities induced by an insect-transmitted reovirus across space and time.
+ 06.10.2024, _N Wu, W Shi, L Zhang, H Wang, W Liu, Y Ren, X Li, Z Gao, X Wang_
+
+
+_Oryza, Rhizosphere, Reoviridae, Plant Diseases, Bacteria, Soil Microbiology, Microbiota, Animals, RNA, Ribosomal, 16S, Plant Roots, Insecta, Plant Viruses_
+Cereal diseases caused by insect-transmitted viruses are challenging to forecast and control because of their intermittent outbreak patterns, which are usually attributed to increased population densities of vector insects due to cereal crop rotations and indiscriminate use of pesticides, and lack of resistance in commercial varieties. Root microbiomes are known to significantly affect plant health, but there are significant knowledge gaps concerning epidemics of cereal virus diseases at the microbiome-wide scale under a variety of environmental and biological factors.
 
 [Source](https://doi.org/10.1186/s40168-024-01910-0)
 
+10.1186/s40168-024-01910-0
+
 ---
 
-## Microbiome-induced reprogramming in post-transcriptional landscape using nanopore direct RNA sequencing.
- 04.10.2024, _Z Xu, X Zheng, J Fan, Y Jiao, S Huang, Y Xie, S Xu, Y Lu, A Liu, R Liu, Y Yang, GZ Luo, T Pan, X Wang_
-
-
-It has been widely recognized that the microbiota has the capacity to shape host gene expression and physiological functions. However, there remains a paucity of comprehensive study revealing the host transcriptional landscape regulated by the microbiota. Here, we comprehensively examined mRNA landscapes in mouse tissues (brain and cecum) from specific-pathogen-free and germ-free mice using nanopore direct RNA sequencing. Our results show that the microbiome has global influence on a host's RNA modifications (m6A, m5C, Ψ), isoform generation, poly(A) tail length, and transcript abundance in both brain and cecum tissues. Moreover, the microbiome exerts tissue-specific effects on various post-transcriptional regulatory processes. In addition, the microbiome impacts the coordination of multiple RNA modifications in host brain and cecum tissues. In conclusion, we establish the relationship between microbial regulation and gene expression. Our results help the understanding of the mechanisms by which the microbiome reprograms host gene expression.
+## Microbiome-induced reprogramming in post-transcriptional landscape using nanopore direct RNA sequencing
 
 [Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01149-5)
-
-10.1016/j.celrep.2024.114798
 
 ---
 
@@ -139,9 +128,16 @@ Precise identification of species is fundamental in microbial genomics and is cr
 
 ---
 
-## ASV vs OTUs clustering: Effects on alpha, beta, and gamma diversities in microbiome metabarcoding studies
+## ASV vs OTUs clustering: Effects on alpha, beta, and gamma diversities in microbiome metabarcoding studies.
+ 05.10.2024, _A Fasolo, S Deb, P Stevanato, G Concheri, A Squartini_
+
+
+_Microbiota, RNA, Ribosomal, 16S, Cluster Analysis, DNA Barcoding, Taxonomic, Bacteria, Biodiversity, DNA, Bacterial, Phylogeny_
+In microbial community sequencing, involving bacterial ribosomal 16S rDNA or fungal ITS, the targeted genes are the basis for taxonomical assignment. The traditional bioinformatical procedure has for decades made use of a clustering protocol by which sequences are pooled into packages of shared percent identity, typically at 97%, to yield Operational Technical Units (OTUs). Progress in the data processing methods has however led to the possibility of minimizing technical sequencers errors, which were the main reason for the OTU choice, and to analyze instead the exact Amplicon Sequence Variants (ASV) which is a choice yielding much less agglomerated reads. We have tested the two procedures on the same 16S metabarcoded bacterial amplicons dataset encompassing a series of samples from 17 adjacent habitats, taken across a 700 meter-long transect of different ecological conditions unfolding in a gradient spanning from cropland, through meadows, forest and all successional transitions up to the seashore, within the same coastal area. This design allowed to scan a high biodiversity basin and to measure alpha, beta and gamma diversity of the area, to verify the effect of the bioinformatics on the same data as concerns the values of ten different ecological indexes and other parameters. Two levels of progressive OTUs clustering, (99% and 97%) were compared with the ASV data. The results showed that the OTUs clustering proportionally led to a marked underestimation of the ecological indicators values for species diversity and to a distorted behaviour of the dominance and evenness indexes with respect to the direct use of the ASV data. Multivariate ordination analyses resulted also sensitive in terms of tree topology and coherence. Overall, data support the view that reference-based OTU clustering carries several misleading disadvantageous biases, including the risk of missing novel taxa which are yet unreferenced in databases. Since its alternatives as de novo clustering have on the other hand drawbacks due to heavier computational demand and results comparability, especially for environmental studies which contain several yet uncharacterized species, the direct ASV based analysis, at least for prokaryotes, appears to warrant significand advantages in comparison to OTU clustering at every level of percent identity cutoff.
 
 [Source](https://doi.org/10.1371/journal.pone.0309065)
+
+10.1371/journal.pone.0309065
 
 ---
 
