@@ -59,16 +59,9 @@ Biofilms are microbial aggregates encased in a matrix that is attached to biolog
 
 ---
 
-## Microbiome-based treatment helps ease severe malnutrition.
- 04.10.2024, _E Pennisi_
-
-
-_Child, Child, Preschool, Humans, Infant, Bangladesh, Gastrointestinal Microbiome, Malnutrition, Probiotics, Infant Nutritional Physiological Phenomena, Dietary Supplements_
-Study in Bangladeshi children builds on earlier trials of food that supports beneficial gut bacteria.
+## Microbiome-based treatment helps ease severe malnutrition
 
 [Source](https://doi.org/10.1126/science.adt5693)
-
-10.1126/science.adt5693
 
 ---
 
