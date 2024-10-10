@@ -1,12 +1,6 @@
-## Noninvasive, microbiome-based diagnosis of inflammatory bowel disease.
- 04.10.2024, _J Zheng, Q Sun, M Zhang, C Liu, Q Su, L Zhang, Z Xu, W Lu, J Ching, W Tang, CP Cheung, AL Hamilton, AL Wilson O'Brien, SC Wei, CN Bernstein, DT Rubin, EB Chang, M Morrison, MA Kamm, FKL Chan, J Zhang, SC Ng_
-
-
-Despite recent progress in our understanding of the association between the gut microbiome and inflammatory bowel disease (IBD), the role of microbiome biomarkers in IBD diagnosis remains underexplored. Here we developed a microbiome-based diagnostic test for IBD. By utilization of metagenomic data from 5,979 fecal samples with and without IBD from different geographies and ethnicities, we identified microbiota alterations in IBD and selected ten and nine bacterial species for construction of diagnostic models for ulcerative colitis and Crohn's disease, respectively. These diagnostic models achieved areas under the curve &gt;0.90 for distinguishing IBD from controls in the discovery cohort, and maintained satisfactory performance in transethnic validation cohorts from eight populations. We further developed a multiplex droplet digital polymerase chain reaction test targeting selected IBD-associated bacterial species, and models based on this test showed numerically higher performance than fecal calprotectin in discriminating ulcerative colitis and Crohn's disease from controls. Here we discovered universal IBD-associated bacteria and show the potential applicability of a multibacteria biomarker panel as a noninvasive tool for IBD diagnosis.
+## Noninvasive, microbiome-based diagnosis of inflammatory bowel disease
 
 [Source](https://doi.org/10.1038/s41591-024-03280-4)
-
-10.1038/s41591-024-03280-4
 
 ---
 
@@ -78,15 +72,9 @@ Study in Bangladeshi children builds on earlier trials of food that supports ben
 
 ---
 
-## Recruitment of complete crAss-like phage genomes reveals their presence in chicken viromes, few human-specific phages, and lack of universal detection.
- 03.10.2024, _MD Ramos-Barbero, C Gómez-Gómez, G Vique, L Sala-Comorera, L Rodríguez-Rubio, M Muniesa_
-
-
-The order Crassvirales, which includes the prototypical crAssphage (p-crAssphage), is predominantly associated with humans, rendering it the most abundant and widely distributed group of DNA phages in the human gut. The reported human specificity and wide global distribution of p-crAssphage makes it a promising human fecal marker. However, the specificity for the human gut as well as the geographical distribution around the globe of other members of the order Crassvirales remains unknown. To determine this, a recruitment analysis using 91 complete, non-redundant genomes of crAss-like phages in human and animal viromes revealed that only 13 crAss-like phages among the 91 phages analyzed were highly specific to humans, and p-crAssphage was not in this group. Investigations to elucidate whether any characteristic of the phages was responsible for their prevalence in humans showed that the 13 human crAss-like phages do not share a core genome. Phylogenomic analysis placed them in three independent families, indicating that within the Crassvirales group, human specificity is likely not a feature of a common ancestor but rather was introduced on separate/independent occasions in their evolutionary history. The 13 human crAss-like phages showed variable geographical distribution across human metagenomes worldwide, with some being more prevalent in certain countries than in others, but none being universally identified. The varied geographical distribution and the absence of a phylogenetic relationship among the human crAss-like phages are attributed to the emergence and dissemination of their bacterial host, the symbiotic human strains of Bacteroides, across various human populations occupying diverse ecological niches worldwide.
+## Recruitment of complete crAss-like phage genomes reveals their presence in chicken viromes, few human-specific phages, and lack of universal detection
 
 [Source](https://doi.org/10.1093/ismejo/wrae192)
-
-10.1093/ismejo/wrae192
 
 ---
 
@@ -96,16 +84,9 @@ The order Crassvirales, which includes the prototypical crAssphage (p-crAssphage
 
 ---
 
-## Rhizosphere microbial community structure in high-producing, low-input switchgrass families.
- 05.10.2024, _C Stonoha-Arther, K Panke-Buisse, AJ Duff, A Molodchenko, MD Casler_
-
-
-_Panicum, Rhizosphere, Microbiota, Nitrogen, Soil Microbiology, Biomass, RNA, Ribosomal, 16S, Fertilizers_
-Switchgrass (Panicum virgatum L.) is a native, low-input North American perennial crop primarily grown for bioenergy, livestock forage, and industrial fiber. To achieve no-input switchgrass production that meets biomass needs, several switchgrass genotypes have been identified that have a low or negative response to nitrogen fertilizer, i.e., the biomass accumulation with added nitrogen is less than or equal to that when grown without nitrogen. In order to improve the viability of low-input switchgrass production, a more detailed understanding of the biogeochemical mechanisms active in these select genotypes is needed. 16S and ITS amplicon sequencing and qPCR of key functional genes were applied to switchgrass rhizospheres to elucidate microbial community structure in high-producing, no-input switchgrass families. Rhizosphere microbial community structure differed strongly between sites, and nitrogen responsiveness.
+## Rhizosphere microbial community structure in high-producing, low-input switchgrass families
 
 [Source](https://doi.org/10.1371/journal.pone.0308753)
-
-10.1371/journal.pone.0308753
 
 ---
 
@@ -122,15 +103,9 @@ Cereal diseases caused by insect-transmitted viruses are challenging to forecast
 
 ---
 
-## Microbiome-induced reprogramming in post-transcriptional landscape using nanopore direct RNA sequencing.
- 04.10.2024, _Z Xu, X Zheng, J Fan, Y Jiao, S Huang, Y Xie, S Xu, Y Lu, A Liu, R Liu, Y Yang, GZ Luo, T Pan, X Wang_
-
-
-It has been widely recognized that the microbiota has the capacity to shape host gene expression and physiological functions. However, there remains a paucity of comprehensive study revealing the host transcriptional landscape regulated by the microbiota. Here, we comprehensively examined mRNA landscapes in mouse tissues (brain and cecum) from specific-pathogen-free and germ-free mice using nanopore direct RNA sequencing. Our results show that the microbiome has global influence on a host's RNA modifications (m6A, m5C, Ψ), isoform generation, poly(A) tail length, and transcript abundance in both brain and cecum tissues. Moreover, the microbiome exerts tissue-specific effects on various post-transcriptional regulatory processes. In addition, the microbiome impacts the coordination of multiple RNA modifications in host brain and cecum tissues. In conclusion, we establish the relationship between microbial regulation and gene expression. Our results help the understanding of the mechanisms by which the microbiome reprograms host gene expression.
+## Microbiome-induced reprogramming in post-transcriptional landscape using nanopore direct RNA sequencing
 
 [Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01149-5)
-
-10.1016/j.celrep.2024.114798
 
 ---
 
