@@ -1,30 +1,42 @@
-## Noninvasive, microbiome-based diagnosis of inflammatory bowel disease
+## Noninvasive, microbiome-based diagnosis of inflammatory bowel disease.
+ 04.10.2024, _J Zheng, Q Sun, M Zhang, C Liu, Q Su, L Zhang, Z Xu, W Lu, J Ching, W Tang, CP Cheung, AL Hamilton, AL Wilson O'Brien, SC Wei, CN Bernstein, DT Rubin, EB Chang, M Morrison, MA Kamm, FKL Chan, J Zhang, SC Ng_
+
+
+Despite recent progress in our understanding of the association between the gut microbiome and inflammatory bowel disease (IBD), the role of microbiome biomarkers in IBD diagnosis remains underexplored. Here we developed a microbiome-based diagnostic test for IBD. By utilization of metagenomic data from 5,979 fecal samples with and without IBD from different geographies and ethnicities, we identified microbiota alterations in IBD and selected ten and nine bacterial species for construction of diagnostic models for ulcerative colitis and Crohn's disease, respectively. These diagnostic models achieved areas under the curve &gt;0.90 for distinguishing IBD from controls in the discovery cohort, and maintained satisfactory performance in transethnic validation cohorts from eight populations. We further developed a multiplex droplet digital polymerase chain reaction test targeting selected IBD-associated bacterial species, and models based on this test showed numerically higher performance than fecal calprotectin in discriminating ulcerative colitis and Crohn's disease from controls. Here we discovered universal IBD-associated bacteria and show the potential applicability of a multibacteria biomarker panel as a noninvasive tool for IBD diagnosis.
 
 [Source](https://doi.org/10.1038/s41591-024-03280-4)
 
+10.1038/s41591-024-03280-4
+
 ---
 
-## Advancing microbiome research in Māori populations: insights from recent literature exploring the gut microbiomes of underrepresented and Indigenous peoples
+## Advancing microbiome research in Māori populations: insights from recent literature exploring the gut microbiomes of underrepresented and Indigenous peoples.
+ 04.10.2024, _ET Silk, SB Bayer, M Foster, NC Roy, MW Taylor, T Vatanen, RB Gearry_
+
+
+The gut microbiome plays vital roles in human health, including mediating metabolism, immunity, and the gut-brain axis. Many ethnicities remain underrepresented in gut microbiome research, with significant variation between Indigenous and non-Indigenous peoples due to dietary, socioeconomic, health, and urbanization differences. Although research regarding the microbiomes of Indigenous peoples is increasing, Māori microbiome literature is lacking despite widespread inequities that Māori populations face. These inequities likely contribute to gut microbiome differences that exacerbate negative health outcomes. Characterizing the gut microbiomes of underrepresented populations is necessary to inform efforts to address health inequities. However, for microbiome research to be culturally responsible and meaningful, study design must improve to better protect the rights and interests of Indigenous peoples. Here, we discuss barriers to Indigenous participation in research and the role disparities may play in shaping the gut microbiomes of Indigenous peoples, with a particular focus on implications for Māori and areas for improvement.
 
 [Source](https://doi.org/10.1128/msystems.00909-24)
 
+10.1128/msystems.00909-24
+
 ---
 
-## Salivary microbiota reflecting changes in subgingival microbiota
+## Salivary microbiota reflecting changes in subgingival microbiota.
+ 04.10.2024, _J-S Jung, J-K Kook, S-N Park, YK Lim, GH Choi, S Kim, S Ji_
+
+
+The purpose of this study was to determine whether subgingival microbial changes according to the severity of periodontal disease and following the non-surgical periodontal treatment of periodontitis are reflected in the saliva microbiota. Subgingival and saliva samples were collected from 7 periodontally healthy controls, 14 patients with gingivitis, 12 with moderate periodontitis, and 18 with severe periodontitis. Among subjects who received treatment, seven moderate and seven severe periodontitis patients were selected for post-treatment microbial analysis, and their samples were analyzed at baseline and 6 months after treatment. The V3 and V4 regions of the 16S rRNA gene were sequenced, and correlations of the relative abundance of phyla and health- or periodontitis-dominant species between subgingival plaque and saliva samples were analyzed using Spearman signed-rank tests. Alpha diversity was higher in saliva than subgingival plaque samples, and beta diversity was significantly different between the two samples. However, levels of phyla and most health- or periodontitis-dominant species in salivary microbiota were significantly correlated with those in subgingival plaque. The improvement in clinical parameters following treatment was accompanied by a microbial shift not only in subgingival plaque but also in saliva. The abundance of 2 phyla including Bacteroidetes, 6 genera including Porphyromonas and Treponema, and 11 species including Porphyromonas gingivalis, Tannerella forsythia, and Filifactor alocis was significantly reduced in saliva following treatment. These results indicate that the salivary microbiota can reflect changes in the subgingival microbiota, suggesting that saliva can be used as a diagnostic tool to monitor the periodontal health status of individuals.
 
 [Source](https://doi.org/10.1128/spectrum.01030-24)
 
+10.1128/spectrum.01030-24
+
 ---
 
-## Differences in the human gut microbiota with varying depressive symptom severity scores.
- 05.10.2024, _Y Masamura, R Kubo, Y Midorikawa, NO Shinozaki, S Watanabe, S Maekawa, AK Takeda, T Ohta_
-
-
-Depression is a prevalent mental health disorder, and its incidence has increased further because of the coronavirus disease 2019 (COVID-19) pandemic. The gut microbiome has been suggested as a potential target for mental health treatment because of the bidirectional communication system between the brain and gastrointestinal tract, known as the gut-brain axis. We aimed to investigate the relationship between the human gut microbiome and depression screening by analyzing the abundance and types of microbiomes among individuals living in Japan, where mental health awareness and support may differ from those in other countries owing to cultural factors. We used a data-driven approach to evaluate the gut microbiome of participants who underwent commercial gut microbiota testing services and completed a questionnaire survey that included a test for scoring depressive tendencies. Our data analysis results indicated that no significant differences in gut microbiome composition were found among the groups based on their depression screening scores. However, the results also indicated the potential existence of a few differentially abundant bacterial taxa. Specifically, the detected bacterial changes in abundance suggest that the Bifidobacteriaceae, Streptococcaceae, and Veillonellaceae families are candidates for differentially abundant bacteria. Our findings should contribute to the growing body of research on the relationship between gut microbiome and mental health, highlighting the potential of microbiome-based interventions for depression treatment. The limitations of this study include the lack of clear medical information on the participants' diagnoses. Future research could benefit from a larger sample size and more detailed clinical information.
+## Differences in the human gut microbiota with varying depressive symptom severity scores
 
 [Source](https://doi.org/10.12938/bmfh.2023-049)
-
-10.12938/bmfh.2023-049
 
 ---
 
@@ -110,9 +122,15 @@ Cereal diseases caused by insect-transmitted viruses are challenging to forecast
 
 ---
 
-## Microbiome-induced reprogramming in post-transcriptional landscape using nanopore direct RNA sequencing
+## Microbiome-induced reprogramming in post-transcriptional landscape using nanopore direct RNA sequencing.
+ 04.10.2024, _Z Xu, X Zheng, J Fan, Y Jiao, S Huang, Y Xie, S Xu, Y Lu, A Liu, R Liu, Y Yang, GZ Luo, T Pan, X Wang_
+
+
+It has been widely recognized that the microbiota has the capacity to shape host gene expression and physiological functions. However, there remains a paucity of comprehensive study revealing the host transcriptional landscape regulated by the microbiota. Here, we comprehensively examined mRNA landscapes in mouse tissues (brain and cecum) from specific-pathogen-free and germ-free mice using nanopore direct RNA sequencing. Our results show that the microbiome has global influence on a host's RNA modifications (m6A, m5C, Ψ), isoform generation, poly(A) tail length, and transcript abundance in both brain and cecum tissues. Moreover, the microbiome exerts tissue-specific effects on various post-transcriptional regulatory processes. In addition, the microbiome impacts the coordination of multiple RNA modifications in host brain and cecum tissues. In conclusion, we establish the relationship between microbial regulation and gene expression. Our results help the understanding of the mechanisms by which the microbiome reprograms host gene expression.
 
 [Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01149-5)
+
+10.1016/j.celrep.2024.114798
 
 ---
 
