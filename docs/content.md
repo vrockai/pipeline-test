@@ -86,9 +86,15 @@ The gut microbiota thrives in a complex ecological environment and its dynamic b
 
 ---
 
-## Failure of colonization following gut microbiota transfer exacerbates DSS-induced colitis
+## Failure of colonization following gut microbiota transfer exacerbates DSS-induced colitis.
+ 10.10.2024, _KL Gustafson, TR Rodriguez, ZL McAdams, LM Coghill, AC Ericsson, CL Franklin_
+
+
+To study the impact of differing specific pathogen-free gut microbiomes (GMs) on a murine model of inflammatory bowel disease, selected GMs were transferred using embryo transfer (ET), cross-fostering (CF), and co-housing (CH). Prior work showed that the GM transfer method and the microbial composition of donor and recipient GMs can influence microbial colonization and disease phenotypes in dextran sodium sulfate-induced colitis. When a low richness GM was transferred to a recipient with a high richness GM via CH, the donor GM failed to successfully colonize, and a more severe disease phenotype resulted when compared to ET or CF, where colonization was successful. By comparing CH and gastric gavage for fecal material transfer, we isolated the microbial component of this effect and determined that differences in disease severity and survival were associated with microbial factors rather than the transfer method itself. Mice receiving a low richness GM via CH and gastric gavage exhibited greater disease severity and higher expression of pro-inflammatory immune mediators compared to those receiving a high richness GM. This study provides valuable insights into the role of GM composition and colonization in disease modulation.
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.09.25.614792v1)
+
+10.1101/2024.09.25.614792
 
 ---
 
@@ -173,27 +179,15 @@ Escherichia coli sequence type 131 (ST131) is a pandemic clone associated with m
 
 ---
 
-## Dataset of 16S rRNA gene sequences of 111 healthy and Newcastle disease infected caecal samples from multiple chicken breeds of Pakistan.
- 11.10.2024, _A Ameer, F Saleem, C Keating, O Gundogdu, UZ Ijaz, S Javed_
-
-
-The article presents a processed dataset from amplicon sequencing of the V4 region of the 16S rRNA gene to recover bacterial and archaeal taxa from the caeca of multiple chicken breeds of Pakistan. These include chicken breeds commonly raised at commercial level, Naked Neck, Black Australorp, Rhode Island Red, White Layer, and Broiler. All the breeds were challenged with Newcastle Disease Virus (NDV), with vaccination against the disease also explored. This resulted in samples belonging to four treatment groups as: Control; Vaccinated; Vaccinated and Challenged; and Non-vaccinated and Challenged. These were raised on an antibiotic free diet in a semi-controlled farming setup. 16S rRNA gene amplicon sequencing of caecal DNA from day old and mature chicken samples (22 weeks for Naked Neck, Black Australorp, Rhode Island Red and White Layer; 8 weeks for Broiler) of the four groups was performed. The paired-end reads from all the samples were quality trimmed, error corrected, and overlapped, on which unique Operational Taxonomic Units (OTUs) were obtained at 99 % similarity. Using predictive modelling, the MetaCyc functional pathways, as well as KEGG orthologs were also recovered. The generated data may be used to explore microbial interactions in gastrointestinal tract with respect to NDV vaccination and infection, together with increased understanding of chicken health and productivity.
+## Dataset of 16S rRNA gene sequences of 111 healthy and Newcastle disease infected caecal samples from multiple chicken breeds of Pakistan
 
 [Source](https://www.sciencedirect.com/science/article/pii/S2352340924009193)
 
-10.1016/j.dib.2024.110957
-
 ---
 
-## High accuracy meets high throughput for near full-length 16S ribosomal RNA amplicon sequencing on the Nanopore platform.
- 11.10.2024, _X Lin, K Waring, H Ghezzi, C Tropini, J Tyson, RM Ziels_
-
-
-Small subunit (SSU) ribosomal RNA (rRNA) gene amplicon sequencing is a foundational method in microbial ecology. Currently, short-read platforms are commonly employed for high-throughput applications of SSU rRNA amplicon sequencing, but at the cost of poor taxonomic classification due to limited fragment lengths. The Oxford Nanopore Technologies (ONT) platform can sequence full-length SSU rRNA genes, but its lower raw-read accuracy has so-far limited accurate taxonomic classification and de novo feature generation. Here, we present a sequencing workflow, termed ssUMI, that combines unique molecular identifier (UMI)-based error correction with newer (R10.4+) ONT chemistry and sample barcoding to enable high throughput near full-length SSU rRNA (e.g. 16S rRNA) amplicon sequencing. The ssUMI workflow generated near full-length 16S rRNA consensus sequences with 99.99% mean accuracy using a minimum subread coverage of 3×, surpassing the accuracy of Illumina short reads. The consensus sequences generated with ssUMI were used to produce error-free de novo sequence features with no false positives with two microbial community standards. In contrast, Nanopore raw reads produced erroneous de novo sequence features, indicating that UMI-based error correction is currently necessary for high-accuracy microbial profiling with R10.4+ ONT sequencing chemistries. We showcase the cost-competitive scalability of the ssUMI workflow by sequencing 87 time-series wastewater samples and 27 human gut samples, obtaining quantitative ecological insights that were missed by short-read amplicon sequencing. ssUMI, therefore, enables accurate and low-cost full-length 16S rRNA amplicon sequencing on Nanopore, improving accessibility to high-resolution microbiome science.
+## High accuracy meets high throughput for near full-length 16S ribosomal RNA amplicon sequencing on the Nanopore platform
 
 [Source](https://academic.oup.com/pnasnexus/article/3/10/pgae411/7816023)
-
-10.1093/pnasnexus/pgae411
 
 ---
 
