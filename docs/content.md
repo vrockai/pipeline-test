@@ -54,15 +54,9 @@ The human gut contains diverse communities of bacteriophage, whose interactions 
 
 ---
 
-## The role of gut microbiota in prostate inflammation and benign prostatic hyperplasia and its therapeutic implications.
- 11.10.2024, _J Chen, B Chen, B Lin, Y Huang, J Li, J Li, Z Chen, P Wang, B Ran, J Yang, H Huang, L Liu, Q Wei, J Ai, D Cao_
-
-
-The gut microbiota thrives in a complex ecological environment and its dynamic balance is closely related to host health. Recent studies have shown that the occurrence of various diseases including prostate inflammation is related to the dysregulation of the gut microbiome.
+## The role of gut microbiota in prostate inflammation and benign prostatic hyperplasia and its therapeutic implications
 
 [Source](https://www.sciencedirect.com/science/article/pii/S2405844024143332)
-
-10.1016/j.heliyon.2024.e38302
 
 ---
 
@@ -128,19 +122,6 @@ The extreme environment of the International Space Station (ISS) puts selective 
 
 ---
 
-## Genomic and Functional Portrait of a Highly Virulent, CTX-M-15-Producing H30-Rx Subclone of Escherichia coli Sequence Type 131.
- 18.03.2022, _A Ranjan, S Shaik, A Hussain, N Nandanwar, T Semmler, S Jadhav, LH Wieler, N Ahmed_
-
-
-_Cell Line, Drug Resistance, Multiple, Bacterial, Escherichia coli, Humans, Virulence, beta-Lactamases_
-Escherichia coli sequence type 131 (ST131) is a pandemic clone associated with multidrug-resistant, extraintestinal infections, attributable to the presence of the CTX-M-15 extended-spectrum β-lactamase gene and mutations entailing fluoroquinolone resistance. Studies on subclones within E. coli ST131 are critically required for targeting and implementation of successful control efforts. Our study comprehensively analyzed the genomic and functional attributes of the H30-Rx subclonal strains NA097 and NA114, belonging to the ST131 lineage. We carried out whole-genome sequencing, comparative analysis, phenotypic virulence assays, and profiling of the antibacterial responses of THP1 cells infected with these subclones. Phylogenomic analysis suggested that the strains were clonal in nature and confined entirely to a single clade. Comparative genomic analysis revealed that the virulence and resistance repertoires were comparable among the H30-Rx ST131 strains except for the commensal ST131 strain SE15. Similarly, seven phage-specific regions were found to be strongly associated with the H30-Rx strains but were largely absent in the genome of SE15. Phenotypic analysis confirmed the virulence and resistance similarities between the two strains. However, NA097 was found to be more robust than NA114 in terms of virulence gene carriage (dra operon), invasion ability (P &lt; 0.05), and antimicrobial resistance (streptomycin resistance). RT(2) gene expression profiling revealed generic upregulation of key proinflammatory responses in THP1 cells, irrespective of ST131 lineage status. In conclusion, our study provides comprehensive, genome-inferred insights into the biology and immunological properties of ST131 strains and suggests clonal diversification of genomic and phenotypic features within the H30-Rx subclone of E. coli ST131.
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.10.07.617009v1.abstract)
-
-10.1128/AAC.01447-15
-
----
-
 ## FungAMR: A comprehensive portrait of antimicrobial resistance mutations in fungi
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.10.07.617009v1.abstract)
@@ -159,15 +140,27 @@ Escherichia coli sequence type 131 (ST131) is a pandemic clone associated with m
 
 ---
 
-## Dataset of 16S rRNA gene sequences of 111 healthy and Newcastle disease infected caecal samples from multiple chicken breeds of Pakistan
+## Dataset of 16S rRNA gene sequences of 111 healthy and Newcastle disease infected caecal samples from multiple chicken breeds of Pakistan.
+ 11.10.2024, _A Ameer, F Saleem, C Keating, O Gundogdu, UZ Ijaz, S Javed_
+
+
+The article presents a processed dataset from amplicon sequencing of the V4 region of the 16S rRNA gene to recover bacterial and archaeal taxa from the caeca of multiple chicken breeds of Pakistan. These include chicken breeds commonly raised at commercial level, Naked Neck, Black Australorp, Rhode Island Red, White Layer, and Broiler. All the breeds were challenged with Newcastle Disease Virus (NDV), with vaccination against the disease also explored. This resulted in samples belonging to four treatment groups as: Control; Vaccinated; Vaccinated and Challenged; and Non-vaccinated and Challenged. These were raised on an antibiotic free diet in a semi-controlled farming setup. 16S rRNA gene amplicon sequencing of caecal DNA from day old and mature chicken samples (22 weeks for Naked Neck, Black Australorp, Rhode Island Red and White Layer; 8 weeks for Broiler) of the four groups was performed. The paired-end reads from all the samples were quality trimmed, error corrected, and overlapped, on which unique Operational Taxonomic Units (OTUs) were obtained at 99 % similarity. Using predictive modelling, the MetaCyc functional pathways, as well as KEGG orthologs were also recovered. The generated data may be used to explore microbial interactions in gastrointestinal tract with respect to NDV vaccination and infection, together with increased understanding of chicken health and productivity.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S2352340924009193)
 
+10.1016/j.dib.2024.110957
+
 ---
 
-## High accuracy meets high throughput for near full-length 16S ribosomal RNA amplicon sequencing on the Nanopore platform
+## High accuracy meets high throughput for near full-length 16S ribosomal RNA amplicon sequencing on the Nanopore platform.
+ 11.10.2024, _X Lin, K Waring, H Ghezzi, C Tropini, J Tyson, RM Ziels_
+
+
+Small subunit (SSU) ribosomal RNA (rRNA) gene amplicon sequencing is a foundational method in microbial ecology. Currently, short-read platforms are commonly employed for high-throughput applications of SSU rRNA amplicon sequencing, but at the cost of poor taxonomic classification due to limited fragment lengths. The Oxford Nanopore Technologies (ONT) platform can sequence full-length SSU rRNA genes, but its lower raw-read accuracy has so-far limited accurate taxonomic classification and de novo feature generation. Here, we present a sequencing workflow, termed ssUMI, that combines unique molecular identifier (UMI)-based error correction with newer (R10.4+) ONT chemistry and sample barcoding to enable high throughput near full-length SSU rRNA (e.g. 16S rRNA) amplicon sequencing. The ssUMI workflow generated near full-length 16S rRNA consensus sequences with 99.99% mean accuracy using a minimum subread coverage of 3×, surpassing the accuracy of Illumina short reads. The consensus sequences generated with ssUMI were used to produce error-free de novo sequence features with no false positives with two microbial community standards. In contrast, Nanopore raw reads produced erroneous de novo sequence features, indicating that UMI-based error correction is currently necessary for high-accuracy microbial profiling with R10.4+ ONT sequencing chemistries. We showcase the cost-competitive scalability of the ssUMI workflow by sequencing 87 time-series wastewater samples and 27 human gut samples, obtaining quantitative ecological insights that were missed by short-read amplicon sequencing. ssUMI, therefore, enables accurate and low-cost full-length 16S rRNA amplicon sequencing on Nanopore, improving accessibility to high-resolution microbiome science.
 
 [Source](https://academic.oup.com/pnasnexus/article/3/10/pgae411/7816023)
+
+10.1093/pnasnexus/pgae411
 
 ---
 
