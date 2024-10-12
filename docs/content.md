@@ -1,25 +1,12 @@
-## Maternal and infant microbiome and birth anthropometry.
- 11.10.2024, _S Padiyar, V Nandakumar, S Kollikonda, S Karnati, N Sangwan, H Aly_
-
-
-Preterm birth is the leading cause of neonatal mortality and morbidity. Microbiome dysbiosis in the mother and infant may contribute to their adverse outcomes. 16S rRNA amplicon sequencing was performed on all samples. Phyloseq, microbiomeSeq, and NetCoMi were utilized for bioinformatics analysis. Statistical tests included the Wilcoxon test, ANOVA, permutational multivariate analysis of variance (PERMANOVA), and linear regression. Statistical significance was set at p value &lt;0.05. The establishment of an infant's microbiome most likely begins in utero and is influenced by the maternal microbiome. Infants' samples were enriched with Salmonella. There is a complex interplay among the microbial taxa noticeable at birth, exhibiting variability in interaction within the same host and across different hosts. Both maternal and infant microbiomes influence the anthropometric measures determined at birth, and a sex-based difference in correlation exists. This study highlights the potential role of maternal and infant microbiomes in improving pregnancy and neonatal outcomes.
+## Maternal and infant microbiome and birth anthropometry
 
 [Source](https://www.sciencedirect.com/science/article/pii/S2589004224015372)
 
-10.1016/j.isci.2024.110312
-
 ---
 
-## Tumor-colonized Streptococcus mutans metabolically reprograms tumor microenvironment and promotes oral squamous cell carcinoma.
- 08.10.2024, _J Zhou, Z Hu, L Wang, Q Hu, Z Chen, T Lin, R Zhou, Y Cai, Z Wu, Z Zhang, Y Yang, C Zhang, G Li, L Zeng, K Su, H Li, Q Su, G Zeng, B Cheng, T Wu_
-
-
-_Tumor Microenvironment, Streptococcus mutans, Humans, Mouth Neoplasms, Animals, Rats, Saliva, Carcinoma, Squamous Cell, Male, Squamous Cell Carcinoma of Head and Neck, Female_
-Oral squamous cell carcinoma (OSCC) remains a major death cause in head and neck cancers, but the exact pathogenesis mechanisms of OSCC are largely unclear.
+## Tumor-colonized Streptococcus mutans metabolically reprograms tumor microenvironment and promotes oral squamous cell carcinoma
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01907-9)
-
-10.1186/s40168-024-01907-9
 
 ---
 
@@ -36,16 +23,9 @@ Despite relevant research, the relationship between skin microbiomes and prostat
 
 ---
 
-## Microbiome and metabolome patterns after lung transplantation reflect underlying disease and chronic lung allograft dysfunction.
- 10.10.2024, _C Martin, KS Mahan, TD Wiggen, AJ Gilbertsen, MI Hertz, RC Hunter, RA Quinn_
-
-
-_Humans, Lung Transplantation, Metabolome, Microbiota, Bronchoalveolar Lavage Fluid, Male, Female, Middle Aged, Adult, RNA, Ribosomal, 16S, Allografts, Aged, Bacteria, Lung, Metabolomics, Lung Diseases, Cystic Fibrosis, Pulmonary Disease, Chronic Obstructive_
-Progression of chronic lung disease may lead to the requirement for lung transplant (LTx). Despite improvements in short-term survival after LTx, chronic lung allograft dysfunction (CLAD) remains a critical challenge for long-term survival. This study investigates the molecular and microbial relationships between underlying lung disease and the development of CLAD in bronchoalveolar lavage fluid (BALF) from subjects post-LTx, which is crucial for tailoring treatment strategies specific to allograft dysfunctions.
+## Microbiome and metabolome patterns after lung transplantation reflect underlying disease and chronic lung allograft dysfunction
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01893-y)
-
-10.1186/s40168-024-01893-y
 
 ---
 
