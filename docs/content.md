@@ -1,6 +1,12 @@
-## Maternal and infant microbiome and birth anthropometry
+## Maternal and infant microbiome and birth anthropometry.
+ 11.10.2024, _S Padiyar, V Nandakumar, S Kollikonda, S Karnati, N Sangwan, H Aly_
+
+
+Preterm birth is the leading cause of neonatal mortality and morbidity. Microbiome dysbiosis in the mother and infant may contribute to their adverse outcomes. 16S rRNA amplicon sequencing was performed on all samples. Phyloseq, microbiomeSeq, and NetCoMi were utilized for bioinformatics analysis. Statistical tests included the Wilcoxon test, ANOVA, permutational multivariate analysis of variance (PERMANOVA), and linear regression. Statistical significance was set at p value &lt;0.05. The establishment of an infant's microbiome most likely begins in utero and is influenced by the maternal microbiome. Infants' samples were enriched with Salmonella. There is a complex interplay among the microbial taxa noticeable at birth, exhibiting variability in interaction within the same host and across different hosts. Both maternal and infant microbiomes influence the anthropometric measures determined at birth, and a sex-based difference in correlation exists. This study highlights the potential role of maternal and infant microbiomes in improving pregnancy and neonatal outcomes.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S2589004224015372)
+
+10.1016/j.isci.2024.110312
 
 ---
 
@@ -17,16 +23,9 @@ Oral squamous cell carcinoma (OSCC) remains a major death cause in head and neck
 
 ---
 
-## Causal relationship between 150 skin microbiomes and prostate cancer: insights from bidirectional mendelian randomization and meta-analysis.
- 11.10.2024, _D Chen, S Hu, X Wang, Z Chen, W Xu_
-
-
-_Humans, Prostatic Neoplasms, Mendelian Randomization Analysis, Microbiota, Male, Skin, Risk Factors_
-Despite relevant research, the relationship between skin microbiomes and prostate cancer remains controversial. This study utilizes bidirectional Mendelian randomization (MR) analysis combined with meta-analysis to explore the potential link between the two.
+## Causal relationship between 150 skin microbiomes and prostate cancer: insights from bidirectional mendelian randomization and meta-analysis
 
 [Source](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1463309/full)
-
-10.3389/fimmu.2024.1463309
 
 ---
 
@@ -36,9 +35,16 @@ Despite relevant research, the relationship between skin microbiomes and prostat
 
 ---
 
-## Visceral adiposity in postmenopausal women is associated with a pro-inflammatory gut microbiome and immunogenic metabolic endotoxemia
+## Visceral adiposity in postmenopausal women is associated with a pro-inflammatory gut microbiome and immunogenic metabolic endotoxemia.
+ 07.10.2024, _M Gaber, AS Wilson, AE Millen, KM Hovey, MJ LaMonte, J Wactawski-Wende, HM Ochs-Balcom, KL Cook_
+
+
+_Female, Gastrointestinal Microbiome, Endotoxemia, Humans, Postmenopause, Animals, Aged, Mice, Lipopolysaccharides, Intra-Abdominal Fat, Inflammation, Aged, 80 and over, Mice, Inbred C57BL, Adiposity, Bacteria, Acute-Phase Proteins, Feces, Obesity, Abdominal, Absorptiometry, Photon, Carrier Proteins, Membrane Glycoproteins_
+Obesity, and in particular abdominal obesity, is associated with an increased risk of developing a variety of chronic diseases. Obesity, aging, and menopause are each associated with differential shifts in the gut microbiome. Obesity causes chronic low-grade inflammation due to increased lipopolysaccharide (LPS) levels which is termed "metabolic endotoxemia." We examined the association of visceral adiposity tissue (VAT) area, circulating endotoxemia markers, and the gut bacterial microbiome in a cohort of aged postmenopausal women.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01901-1)
+
+10.1186/s40168-024-01901-1
 
 ---
 
@@ -54,15 +60,9 @@ The human gut contains diverse communities of bacteriophage, whose interactions 
 
 ---
 
-## The role of gut microbiota in prostate inflammation and benign prostatic hyperplasia and its therapeutic implications.
- 11.10.2024, _J Chen, B Chen, B Lin, Y Huang, J Li, J Li, Z Chen, P Wang, B Ran, J Yang, H Huang, L Liu, Q Wei, J Ai, D Cao_
-
-
-The gut microbiota thrives in a complex ecological environment and its dynamic balance is closely related to host health. Recent studies have shown that the occurrence of various diseases including prostate inflammation is related to the dysregulation of the gut microbiome.
+## The role of gut microbiota in prostate inflammation and benign prostatic hyperplasia and its therapeutic implications
 
 [Source](https://www.sciencedirect.com/science/article/pii/S2405844024143332)
-
-10.1016/j.heliyon.2024.e38302
 
 ---
 
