@@ -4,9 +4,16 @@
 
 ---
 
-## Tumor-colonized Streptococcus mutans metabolically reprograms tumor microenvironment and promotes oral squamous cell carcinoma
+## Tumor-colonized Streptococcus mutans metabolically reprograms tumor microenvironment and promotes oral squamous cell carcinoma.
+ 08.10.2024, _J Zhou, Z Hu, L Wang, Q Hu, Z Chen, T Lin, R Zhou, Y Cai, Z Wu, Z Zhang, Y Yang, C Zhang, G Li, L Zeng, K Su, H Li, Q Su, G Zeng, B Cheng, T Wu_
+
+
+_Tumor Microenvironment, Streptococcus mutans, Humans, Mouth Neoplasms, Animals, Rats, Saliva, Carcinoma, Squamous Cell, Male, Squamous Cell Carcinoma of Head and Neck, Female_
+Oral squamous cell carcinoma (OSCC) remains a major death cause in head and neck cancers, but the exact pathogenesis mechanisms of OSCC are largely unclear.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01907-9)
+
+10.1186/s40168-024-01907-9
 
 ---
 
@@ -23,35 +30,27 @@ Despite relevant research, the relationship between skin microbiomes and prostat
 
 ---
 
-## Microbiome and metabolome patterns after lung transplantation reflect underlying disease and chronic lung allograft dysfunction.
- 10.10.2024, _C Martin, KS Mahan, TD Wiggen, AJ Gilbertsen, MI Hertz, RC Hunter, RA Quinn_
-
-
-_Humans, Lung Transplantation, Metabolome, Microbiota, Bronchoalveolar Lavage Fluid, Male, Female, Middle Aged, Adult, RNA, Ribosomal, 16S, Allografts, Aged, Bacteria, Lung, Metabolomics, Lung Diseases, Cystic Fibrosis, Pulmonary Disease, Chronic Obstructive_
-Progression of chronic lung disease may lead to the requirement for lung transplant (LTx). Despite improvements in short-term survival after LTx, chronic lung allograft dysfunction (CLAD) remains a critical challenge for long-term survival. This study investigates the molecular and microbial relationships between underlying lung disease and the development of CLAD in bronchoalveolar lavage fluid (BALF) from subjects post-LTx, which is crucial for tailoring treatment strategies specific to allograft dysfunctions.
+## Microbiome and metabolome patterns after lung transplantation reflect underlying disease and chronic lung allograft dysfunction
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01893-y)
 
-10.1186/s40168-024-01893-y
-
 ---
 
-## Visceral adiposity in postmenopausal women is associated with a pro-inflammatory gut microbiome and immunogenic metabolic endotoxemia.
- 07.10.2024, _M Gaber, AS Wilson, AE Millen, KM Hovey, MJ LaMonte, J Wactawski-Wende, HM Ochs-Balcom, KL Cook_
-
-
-_Female, Gastrointestinal Microbiome, Endotoxemia, Humans, Postmenopause, Animals, Aged, Mice, Lipopolysaccharides, Intra-Abdominal Fat, Inflammation, Aged, 80 and over, Mice, Inbred C57BL, Adiposity, Bacteria, Acute-Phase Proteins, Feces, Obesity, Abdominal, Absorptiometry, Photon, Carrier Proteins, Membrane Glycoproteins_
-Obesity, and in particular abdominal obesity, is associated with an increased risk of developing a variety of chronic diseases. Obesity, aging, and menopause are each associated with differential shifts in the gut microbiome. Obesity causes chronic low-grade inflammation due to increased lipopolysaccharide (LPS) levels which is termed "metabolic endotoxemia." We examined the association of visceral adiposity tissue (VAT) area, circulating endotoxemia markers, and the gut bacterial microbiome in a cohort of aged postmenopausal women.
+## Visceral adiposity in postmenopausal women is associated with a pro-inflammatory gut microbiome and immunogenic metabolic endotoxemia
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01901-1)
 
-10.1186/s40168-024-01901-1
-
 ---
 
-## Abundance measurements reveal the balance between lysis and lysogeny in the human gut microbiome
+## Abundance measurements reveal the balance between lysis and lysogeny in the human gut microbiome.
+ 10.10.2024, _J Lopez, S McKeithen-Mead, H Shi, TH Nguyen, KC Huang, BH Good_
+
+
+The human gut contains diverse communities of bacteriophage, whose interactions with the broader microbiome and potential roles in human health are only beginning to be uncovered. Here, we combine multiple types of data to quantitatively estimate gut phage population dynamics and lifestyle characteristics in human subjects. Unifying results from previous studies, we show that an average human gut contains a low ratio of phage particles to bacterial cells (~1:100), but a much larger ratio of phage genomes to bacterial genomes (~4:1), implying that most gut phage are effectively temperate (e.g., integrated prophage, phage-plasmids, etc.). By integrating imaging and sequencing data with a generalized model of temperate phage dynamics, we estimate that phage induction and lysis occurs at a low average rate (~0.001-0.01 per bacterium per day), imposing only a modest fitness burden on their bacterial hosts. Consistent with these estimates, we find that the phage composition of a diverse synthetic community in gnotobiotic mice can be quantitatively predicted from bacterial abundances alone, while still exhibiting phage diversity comparable to native human microbiomes. These results provide a foundation for interpreting existing and future studies on links between the gut virome and human health.
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.09.27.614587v1)
+
+10.1101/2024.09.27.614587
 
 ---
 
@@ -126,19 +125,6 @@ The extreme environment of the International Space Station (ISS) puts selective 
 ## Metabolomics survey of uropathogenic bacteria in human urine
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.10.07.617107v1.abstract)
-
----
-
-## Genomic and Functional Portrait of a Highly Virulent, CTX-M-15-Producing H30-Rx Subclone of Escherichia coli Sequence Type 131.
- 18.03.2022, _A Ranjan, S Shaik, A Hussain, N Nandanwar, T Semmler, S Jadhav, LH Wieler, N Ahmed_
-
-
-_Cell Line, Drug Resistance, Multiple, Bacterial, Escherichia coli, Humans, Virulence, beta-Lactamases_
-Escherichia coli sequence type 131 (ST131) is a pandemic clone associated with multidrug-resistant, extraintestinal infections, attributable to the presence of the CTX-M-15 extended-spectrum β-lactamase gene and mutations entailing fluoroquinolone resistance. Studies on subclones within E. coli ST131 are critically required for targeting and implementation of successful control efforts. Our study comprehensively analyzed the genomic and functional attributes of the H30-Rx subclonal strains NA097 and NA114, belonging to the ST131 lineage. We carried out whole-genome sequencing, comparative analysis, phenotypic virulence assays, and profiling of the antibacterial responses of THP1 cells infected with these subclones. Phylogenomic analysis suggested that the strains were clonal in nature and confined entirely to a single clade. Comparative genomic analysis revealed that the virulence and resistance repertoires were comparable among the H30-Rx ST131 strains except for the commensal ST131 strain SE15. Similarly, seven phage-specific regions were found to be strongly associated with the H30-Rx strains but were largely absent in the genome of SE15. Phenotypic analysis confirmed the virulence and resistance similarities between the two strains. However, NA097 was found to be more robust than NA114 in terms of virulence gene carriage (dra operon), invasion ability (P &lt; 0.05), and antimicrobial resistance (streptomycin resistance). RT(2) gene expression profiling revealed generic upregulation of key proinflammatory responses in THP1 cells, irrespective of ST131 lineage status. In conclusion, our study provides comprehensive, genome-inferred insights into the biology and immunological properties of ST131 strains and suggests clonal diversification of genomic and phenotypic features within the H30-Rx subclone of E. coli ST131.
-
-[Source](https://www.biorxiv.org/content/10.1101/2024.10.07.617009v1.abstract)
-
-10.1128/AAC.01447-15
 
 ---
 
