@@ -29,9 +29,15 @@ Pre-diagnostic disturbances in the microbiome-derived metabolome have been assoc
 
 ---
 
-## Unique Gut Microbiome and Metabolic Profiles in Chinese Workers Exposed to Dust: Insights from a Case-Control Study
+## Unique Gut Microbiome and Metabolic Profiles in Chinese Workers Exposed to Dust: Insights from a Case-Control Study.
+ 11.10.2024, _X Qian, Y Liu, X Wei, X Chen, G Rong, X Hu_
+
+
+This study aimed to identify distinct gut microbiome and serum metabolic features in workers exposed to dust compared to healthy controls.
 
 [Source](https://doi.org/10.1097/JOM.0000000000003243)
+
+10.1097/JOM.0000000000003243
 
 ---
 
@@ -47,9 +53,16 @@ Pre-diagnostic disturbances in the microbiome-derived metabolome have been assoc
 
 ---
 
-## Microbiome and metabolome patterns after lung transplantation reflect underlying disease and chronic lung allograft dysfunction
+## Microbiome and metabolome patterns after lung transplantation reflect underlying disease and chronic lung allograft dysfunction.
+ 12.10.2024, _C Martin, KS Mahan, TD Wiggen, AJ Gilbertsen, MI Hertz, RC Hunter, RA Quinn_
+
+
+_Humans, Lung Transplantation, Metabolome, Microbiota, Bronchoalveolar Lavage Fluid, Male, Female, Middle Aged, Adult, RNA, Ribosomal, 16S, Allografts, Aged, Bacteria, Lung, Metabolomics, Lung Diseases, Cystic Fibrosis, Pulmonary Disease, Chronic Obstructive_
+Progression of chronic lung disease may lead to the requirement for lung transplant (LTx). Despite improvements in short-term survival after LTx, chronic lung allograft dysfunction (CLAD) remains a critical challenge for long-term survival. This study investigates the molecular and microbial relationships between underlying lung disease and the development of CLAD in bronchoalveolar lavage fluid (BALF) from subjects post-LTx, which is crucial for tailoring treatment strategies specific to allograft dysfunctions.
 
 [Source](https://doi.org/10.1186/s40168-024-01893-y)
+
+10.1186/s40168-024-01893-y
 
 ---
 
@@ -59,33 +72,67 @@ Pre-diagnostic disturbances in the microbiome-derived metabolome have been assoc
 
 ---
 
-## Host-microbe interaction paradigms in acute and recurrent vulvovaginal candidiasis
+## Host-microbe interaction paradigms in acute and recurrent vulvovaginal candidiasis.
+ 13.10.2024, _J MacAlpine, MS Lionakis_
+
+
+_Candidiasis, Vulvovaginal, Humans, Female, Vagina, Candida, Recurrence, Host Microbial Interactions, Neutrophils, Host-Pathogen Interactions, Animals, Microbiota_
+Candida spp. are members of the human mucosal microbiota that can cause opportunistic diseases ranging from superficial infections to life-threatening invasive candidiasis. In humans, the most common infection caused by Candida spp. is vulvovaginal candidiasis (VVC), which affects &gt;70% of women at least once in their lifetime. Of those women, ∼5%-10% develop recurrent VVC (RVVC). In this review, we summarize our current understanding of the host and fungal factors that contribute to susceptibility to VVC and RVVC. We synthesize key findings that support the notion that disease symptoms are driven by neutrophil-associated dysfunction and immunopathology and describe how antifungal immune mechanisms in the vagina are distinct from other mucosal barrier sites. Finally, we highlight key, unanswered research areas within the field that can help us better understand the immunopathogenesis of this infection and facilitate the development of novel preventive, therapeutic, and/or vaccination strategies to combat these common, poorly understood diseases.
 
 [Source](https://doi.org/10.1016/j.chom.2024.08.018)
 
+10.1016/j.chom.2024.08.018
+
 ---
 
-## Balancing act: counteracting adverse drug effects on the microbiome
+## Balancing act: counteracting adverse drug effects on the microbiome.
+ 12.10.2024, _J de la Cuesta-Zuluaga, P Müller, L Maier_
+
+
+The human gut microbiome, a community of microbes that plays a crucial role in our wellbeing, is highly adaptable but also vulnerable to drug treatments. This vulnerability can have serious consequences for the host, for example, increasing susceptibility to infections, immune, metabolic, and cognitive disorders. However, the microbiome's adaptability also provides opportunities to prevent, protect, or even reverse drug-induced damage. Recently, several innovative approaches have emerged aimed at minimizing the collateral damage of drugs on the microbiome. Here, we outline these approaches, discuss their applicability in different treatment scenarios, highlight current challenges, and suggest avenues that may lead to an effective protection of the microbiome.
 
 [Source](https://doi.org/10.1016/j.tim.2024.09.011)
 
+10.1016/j.tim.2024.09.011
+
 ---
 
-## Gut microbiome and bladder cancer: A new link through nitrosamine metabolism
+## Gut microbiome and bladder cancer: A new link through nitrosamine metabolism.
+ 10.10.2024, _S Mani_
+
+
+_Urinary Bladder Neoplasms, Gastrointestinal Microbiome, Humans, Nitrosamines, Animals, Carcinogens, Butylhydroxybutylnitrosamine, Mice_
+A recent Nature paper1 reveals that gut microbes metabolize N-butyl-N-(4-hydroxybutyl)-nitrosamine (BBN) into the bladder carcinogen N-n-butyl-N-(3-carboxypropyl)-nitrosamine (BCPN) in the intestines, establishing a direct link between gut microbial activity and the development of bladder cancer.
 
 [Source](https://doi.org/10.1016/j.chom.2024.09.003)
 
+10.1016/j.chom.2024.09.003
+
 ---
 
-## Prostate cancer microenvironment: multidimensional regulation of immune cells, vascular system, stromal cells, and microbiota
+## Prostate cancer microenvironment: multidimensional regulation of immune cells, vascular system, stromal cells, and microbiota.
+ 12.10.2024, _L Chen, YX Xu, YS Wang, YY Ren, XM Dong, P Wu, T Xie, Q Zhang, JL Zhou_
+
+
+_Humans, Tumor Microenvironment, Prostatic Neoplasms, Stromal Cells, Microbiota, Male, Animals, Neovascularization, Pathologic, Disease Susceptibility_
+Prostate cancer (PCa) is one of the most prevalent malignancies in males worldwide. Increasing research attention has focused on the PCa microenvironment, which plays a crucial role in tumor progression and therapy resistance. This review aims to provide a comprehensive overview of the key components of the PCa microenvironment, including immune cells, vascular systems, stromal cells, and microbiota, and explore their implications for diagnosis and treatment.
 
 [Source](https://doi.org/10.1186/s12943-024-02137-1)
 
+10.1186/s12943-024-02137-1
+
 ---
 
-## Gut and oral microbiota in gynecological cancers: interaction, mechanism, and therapeutic value
+## Gut and oral microbiota in gynecological cancers: interaction, mechanism, and therapeutic value.
+ 13.10.2024, _J Wu, J Li, M Yan, Z Xiang_
+
+
+_Humans, Female, Genital Neoplasms, Female, Gastrointestinal Microbiome, Dysbiosis, Mouth, Microbiota_
+Gynecologic cancers develop from the female reproductive organs. Microbial dysbiosis in the gut and oral cavity can communicate with each other through various ways, leading to mucosal destruction, inflammatory response, genomic instability, and ultimately inducing cancer and worsening. Here, we introduce the mechanisms of interactions between gut and oral microbiota and their changes in the development of gynecologic tumors. In addition, new therapeutic approaches based on microbiota modulation are discussed.
 
 [Source](https://doi.org/10.1038/s41522-024-00577-7)
+
+10.1038/s41522-024-00577-7
 
 ---
 
@@ -101,9 +148,16 @@ Pre-diagnostic disturbances in the microbiome-derived metabolome have been assoc
 
 ---
 
-## Unlocking the genetic influence on milk variation and its potential implication for infant health
+## Unlocking the genetic influence on milk variation and its potential implication for infant health.
+ 10.10.2024, _C Nussbaum, S Kim-Hellmuth_
+
+
+_Humans, Milk, Human, Infant Health, Infant, Female, Gastrointestinal Microbiome_
+Human milk has long been recognized for its critical role in infant and maternal health. In this issue of Cell Genomics, Johnson et al.1 apply a human genetics and genomics approach to shed light on the complex relationship between maternal genetics, milk variation, and the infant gut microbiome.
 
 [Source](https://doi.org/10.1016/j.xgen.2024.100676)
+
+10.1016/j.xgen.2024.100676
 
 ---
 
@@ -113,15 +167,28 @@ Pre-diagnostic disturbances in the microbiome-derived metabolome have been assoc
 
 ---
 
-## Microbiome-based therapeutics for Parkinson’s disease
+## Microbiome-based therapeutics for Parkinson's disease.
+ 11.10.2024, _AM Hamilton, IN Krout, AC White, TR Sampson_
+
+
+Recent experimental and clinical data demonstrate a significant dysregulation of the gut microbiome in individuals with Parkinson's disease (PD). With an immense influence on all aspects of physiology, this dysregulation has potential to directly or indirectly contribute to disease pathology. Experimental models have bridged these associations toward defined contributions, identifying various microbiome-dependent impacts to PD pathology. These studies have laid the foundation for human translation, examining whether certain members of the microbiome and/or whole restoration of the gut microbiome community can provide therapeutic benefit for people living with PD. Here, we review recent and ongoing clinically-focused studies that use microbiome-targeted therapies to limit the severity and progression of PD. Fecal microbiome transplants, prebiotic interventions, and probiotic supplementation are each emerging as viable methodologies to augment the gut microbiome and potentially limit PD symptoms. While still early, the data in the field to date support continued cross-talk between experimental systems and human studies to identify key microbial factors that contribute to PD pathologies.
 
 [Source](https://doi.org/10.1016/j.neurot.2024.e00462)
 
+10.1016/j.neurot.2024.e00462
+
 ---
 
-## Gut bacteria of lepidopteran herbivores facilitate digestion of plant toxins
+## Gut bacteria of lepidopteran herbivores facilitate digestion of plant toxins.
+ 11.10.2024, _N Zhang, Z Qian, J He, X Shen, X Lei, C Sun, J Fan, GW Felton, Y Shao_
+
+
+_Animals, Herbivory, Gastrointestinal Microbiome, Bombyx, Morus, Symbiosis, Lepidoptera, Spodoptera, Bacteria, Digestion_
+Lepidopterans commonly feed on plant material, being the most significant insect herbivores in nature. Despite plant resistance to herbivory, such as producing toxic secondary metabolites, herbivores have developed mechanisms encoded in their genomes to tolerate or detoxify plant defensive compounds. Recent studies also highlight the role of gut microbiota in mediating detoxification in herbivores; however, convincing evidence supporting the significant contribution of gut symbionts is rare in Lepidoptera. Here, we show that the growth of various lepidopteran species was inhibited by a mulberry-derived secondary metabolite, 1-deoxynojirimycin (DNJ); as expected, the specialist silkworm Bombyx mori grew well, but interestingly, gut microbiota of early-instar silkworms was affected by the DNJ level, and several bacterial species responded positively to enriched DNJ. Among these, a bacterial strain isolated from the silkworm gut (Pseudomonas fulva ZJU1) can degrade and utilize DNJ as the sole energy source, and after inoculation into nonspecialists (e.g., beet armyworm Spodoptera exigua), P. fulva ZJU1 increased host resistance to DNJ and significantly promoted growth. We used genomic and transcriptomic analyses to identify genes potentially involved in DNJ degradation, and CRISPR-Cas9-mediated mutagenesis verified the function of ilvB, a key binding protein, in metabolizing DNJ. Furthermore, the ilvB deletion mutant, exhibiting normal bacterial growth, could no longer enhance nonspecialist performance, supporting a role in DNJ degradation in vivo. Therefore, our study demonstrated causality between the gut microbiome and detoxification of plant chemical defense in Lepidoptera, facilitating a mechanistic understanding of host-microbe relationships across this complex, abundant insect group.
 
 [Source](https://doi.org/10.1073/pnas.2412165121)
+
+10.1073/pnas.2412165121
 
 ---
 
@@ -138,9 +205,15 @@ Sea cucumbers are predominant deposit feeders in benthic ecosystems, providing p
 
 ---
 
-## Comprehensive profile of the companion animal gut microbiome integrating reference-based and reference-free methods
+## Comprehensive profile of the companion animal gut microbiome integrating reference-based and reference-free methods.
+ 12.10.2024, _T Branck, Z Hu, WA Nickols, AM Walsh, A Bhosle, MI Short, JT Nearing, F Asnicar, LJ McIver, S Maharjan, A Rahnavard, A Louyakis, DV Badri, C Brockel, KN Thompson, C Huttenhower_
+
+
+The gut microbiome of companion animals is relatively underexplored, despite its relevance to animal health, pet owner health, and basic microbial community biology. Here, we provide the most comprehensive analysis of the canine and feline gut microbiomes to date, incorporating 2639 stool shotgun metagenomes (2272 dog and 367 cat) spanning 14 publicly available datasets (n = 730) and 8 new study populations (n = 1909). These are compared with 238 and 112 baseline human gut metagenomes from the Human Microbiome Project 1-II and a traditionally living Malagasy cohort, respectively, processed in a manner identical to the animal metagenomes. All microbiomes were characterized using reference-based taxonomic and functional profiling, as well as de novo assembly yielding metagenomic assembled genomes clustered into species-level genome bins. Companion animals shared 184 species-level genome bins not found in humans, whereas 198 were found in all three hosts. We applied novel methodology to distinguish strains of these shared organisms either transferred or unique to host species, with phylogenetic patterns suggesting host-specific adaptation of microbial lineages. This corresponded with functional divergence of these lineages by host (e.g., differences in metabolic and antibiotic resistance genes) likely important to companion animal health. This study provides the largest resource to date of companion animal gut metagenomes and greatly contributes to our understanding of the "One Health" concept of a shared microbial environment among humans and companion animals, affecting infectious diseases, immune response, and specific genetic elements.
 
 [Source](https://doi.org/10.1093/ismejo/wrae201)
+
+10.1093/ismejo/wrae201
 
 ---
 
@@ -181,33 +254,27 @@ Microbial biostalactites and streamers commonly grow at iron seepages in abandon
 
 ---
 
-## SmT/SHM-seq: simultaneously capturing spatial transcriptome and microbiome information in plants.
- 12.10.2024, _P Mu, W Li, LP Tran, X Li_
-
-
+## SmT/SHM-seq: simultaneously capturing spatial transcriptome and microbiome information in plants
 
 [Source](https://doi.org/10.1016/j.tplants.2024.09.010)
 
-10.1016/j.tplants.2024.09.010
-
 ---
 
-## High accuracy meets high throughput for near full-length 16S ribosomal RNA amplicon sequencing on the Nanopore platform
+## High accuracy meets high throughput for near full-length 16S ribosomal RNA amplicon sequencing on the Nanopore platform.
+ 11.10.2024, _X Lin, K Waring, H Ghezzi, C Tropini, J Tyson, RM Ziels_
+
+
+Small subunit (SSU) ribosomal RNA (rRNA) gene amplicon sequencing is a foundational method in microbial ecology. Currently, short-read platforms are commonly employed for high-throughput applications of SSU rRNA amplicon sequencing, but at the cost of poor taxonomic classification due to limited fragment lengths. The Oxford Nanopore Technologies (ONT) platform can sequence full-length SSU rRNA genes, but its lower raw-read accuracy has so-far limited accurate taxonomic classification and de novo feature generation. Here, we present a sequencing workflow, termed ssUMI, that combines unique molecular identifier (UMI)-based error correction with newer (R10.4+) ONT chemistry and sample barcoding to enable high throughput near full-length SSU rRNA (e.g. 16S rRNA) amplicon sequencing. The ssUMI workflow generated near full-length 16S rRNA consensus sequences with 99.99% mean accuracy using a minimum subread coverage of 3×, surpassing the accuracy of Illumina short reads. The consensus sequences generated with ssUMI were used to produce error-free de novo sequence features with no false positives with two microbial community standards. In contrast, Nanopore raw reads produced erroneous de novo sequence features, indicating that UMI-based error correction is currently necessary for high-accuracy microbial profiling with R10.4+ ONT sequencing chemistries. We showcase the cost-competitive scalability of the ssUMI workflow by sequencing 87 time-series wastewater samples and 27 human gut samples, obtaining quantitative ecological insights that were missed by short-read amplicon sequencing. ssUMI, therefore, enables accurate and low-cost full-length 16S rRNA amplicon sequencing on Nanopore, improving accessibility to high-resolution microbiome science.
 
 [Source](https://doi.org/10.1093/pnasnexus/pgae411)
 
+10.1093/pnasnexus/pgae411
+
 ---
 
-## A deployable film method to enable replicable sampling of low-abundance environmental microbiomes.
- 11.10.2024, _P Mankiewicz Ledins, EZ Lin, C Bhattacharya, KJG Pollitt, AH Dyson, EM Hénaff_
-
-
-_Microbiota, Humans, Specimen Handling, Dimethylpolysiloxanes, DNA, Bacterial, Environmental Monitoring, Environmental Microbiology_
-Urbanizing global populations spend over 90% of their time indoors where microbiome abundance and diversity are low. Chronic exposure to microbiomes with low abundance and diversity have demonstrated negative long-term impacts on human health. Sequencing-based analyses of environmental nucleic acids are critical to understanding the impact of the indoor microbiome on human health, however low DNA yields indoors, alongside sample collection and processing inconsistencies, currently challenge study replicability. This study presents a comparative assessment of a novel, passive, easily replicable sampling strategy using polydimethylsiloxane (PDMS) sheets alongside a representative swab-based collection protocol. Deployable, customizable PDMS films designed for whole-sample insertion into standardized extraction kits demonstrated 43% higher DNA yields per sample, and 76% higher yields per cm2 of sampler over swab-based protocols. These results indicate that this accessible, scalable method enables sufficient DNA collection to comprehensively evaluate indoor microbiome exposures and potential human health impacts using smaller, more space efficient samplers, representing an attractive alternative to swab-based collection. In addition, this process reduces the manual steps required for microbiome sampling which could address inter-study variability, transform the current microbiome sampling paradigm, and ultimately benefit the replicability and accessibility of microbiome exposure studies.
+## A deployable film method to enable replicable sampling of low-abundance environmental microbiomes
 
 [Source](https://doi.org/10.1038/s41598-024-72341-y)
-
-10.1038/s41598-024-72341-y
 
 ---
 
