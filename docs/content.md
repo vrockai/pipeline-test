@@ -16,16 +16,9 @@ Childhood is considered crucial in the establishment of future oral microbiota. 
 
 ---
 
-## Microbiome-derived metabolites in early to mid-pregnancy and risk of gestational diabetes: a metabolome-wide association study.
- 13.10.2024, _SM Susarla, O Fiehn, I Thiele, AL Ngo, DK Barupal, RF Chehab, A Ferrara, Y Zhu_
-
-
-_Humans, Female, Diabetes, Gestational, Pregnancy, Adult, Prospective Studies, Metabolome, Case-Control Studies, Microbiota, Metabolomics_
-Pre-diagnostic disturbances in the microbiome-derived metabolome have been associated with an increased risk of diabetes in non-pregnant populations. However, the roles of microbiome-derived metabolites, the end-products of microbial metabolism, in gestational diabetes (GDM) remain understudied. We examined the prospective association of microbiome-derived metabolites in early to mid-pregnancy with GDM risk in a diverse population.
+## Microbiome-derived metabolites in early to mid-pregnancy and risk of gestational diabetes: a metabolome-wide association study
 
 [Source](https://doi.org/10.1186/s12916-024-03606-6)
-
-10.1186/s12916-024-03606-6
 
 ---
 
@@ -41,9 +34,16 @@ This study aimed to identify distinct gut microbiome and serum metabolic feature
 
 ---
 
-## Dysbiotic signatures and diagnostic potential of gut microbial markers for inflammatory bowel disease in Korean population
+## Dysbiotic signatures and diagnostic potential of gut microbial markers for inflammatory bowel disease in Korean population.
+ 13.10.2024, _HS Kim, SJ Oh, BK Kim, JE Kim, BH Kim, YK Park, BG Yang, JY Lee, JW Bae, CK Lee_
+
+
+_Humans, Gastrointestinal Microbiome, Dysbiosis, Female, Male, Republic of Korea, Adult, Middle Aged, Biomarkers, RNA, Ribosomal, 16S, Feces, Inflammatory Bowel Diseases, Colitis, Ulcerative, Metagenomics, Crohn Disease, Case-Control Studies, Cross-Sectional Studies, Young Adult, Aged_
+Fecal samples were collected from 640 individuals in Korea, including 523 patients with IBD (223 with Crohn's disease [CD] and 300 with ulcerative colitis [UC]) and 117 healthy controls. The samples were subjected to cross-sectional gut metagenomic analysis using 16 S rRNA sequencing and bioinformatics analysis. Patients with IBD, particularly those with CD, exhibited significantly lower alpha diversities than the healthy subjects. Differential abundance analysis revealed dysbiotic signatures, characterized by an expansion of the genus Escherichia-Shigella in patients with CD. Functional annotations showed that functional pathways related to bacterial pathogenesis and production of hydrogen sulfide (H2S) were strongly upregulated in patients with CD. A dysbiosis score, calculated based on functional characteristics, highly correlated with disease severity. Markers distinguishing between healthy subjects and patients with IBD showed accurate classification based on a small number of microbial taxa, which may be used to diagnose ambiguous cases. These findings confirm the taxonomic and functional dysbiosis of the gut microbiota in patients with IBD, especially those with CD. Taxa indicative of dysbiosis may have significant implications for future clinical research on the management and diagnosis of IBD.
 
 [Source](https://doi.org/10.1038/s41598-024-74002-6)
+
+10.1038/s41598-024-74002-6
 
 ---
 
@@ -78,9 +78,15 @@ Candida spp. are members of the human mucosal microbiota that can cause opportun
 
 ---
 
-## Balancing act: counteracting adverse drug effects on the microbiome
+## Balancing act: counteracting adverse drug effects on the microbiome.
+ 12.10.2024, _J de la Cuesta-Zuluaga, P Müller, L Maier_
+
+
+The human gut microbiome, a community of microbes that plays a crucial role in our wellbeing, is highly adaptable but also vulnerable to drug treatments. This vulnerability can have serious consequences for the host, for example, increasing susceptibility to infections, immune, metabolic, and cognitive disorders. However, the microbiome's adaptability also provides opportunities to prevent, protect, or even reverse drug-induced damage. Recently, several innovative approaches have emerged aimed at minimizing the collateral damage of drugs on the microbiome. Here, we outline these approaches, discuss their applicability in different treatment scenarios, highlight current challenges, and suggest avenues that may lead to an effective protection of the microbiome.
 
 [Source](https://doi.org/10.1016/j.tim.2024.09.011)
+
+10.1016/j.tim.2024.09.011
 
 ---
 
@@ -214,16 +220,9 @@ Microorganisms associated with animals harbour a unique set of functional traits
 
 ---
 
-## Distinct microbial communities supported by iron oxidation.
- 10.10.2024, _K Burkartová, A Hlaváček, S Skoblia, L Falteisek_
-
-
-_Iron, Oxidation-Reduction, Bacteria, Hydrogen-Ion Concentration, Biodiversity, Microbiota, Ecosystem, Mining, Phylogeny, Archaea_
-Microbial biostalactites and streamers commonly grow at iron seepages in abandoned mines worldwide. This study addresses the diversity and composition of these simple prokaryotic communities, which thrive in pH ranges from 2.4 to 6.6 across six different mines. Our analysis of 85 communities reveals that a pH of approximately 3.2 is a critical threshold where alpha and beta diversity change discretely. Below this pH, the average number of ASVs per sample is 2.91 times lower than above this boundary. Autotrophs, heterotrophs, and symbionts of eukaryotes originate from nearly non-overlapping species pools in the two habitat types that differ only in pH. Communities below pH 3.2 further divide into two distinct groups, differing in diversity, taxonomic, and functional composition. Both types of communities coexist within the same stalactites, likely corresponding to zones where the capillary structure of the stalactite is either perfused or clogged. These findings indicate that microbial community structure can be significantly influenced by the intricate spatial organization of the ecosystem, rather than solely by measurable environmental parameters.
+## Distinct microbial communities supported by iron oxidation
 
 [Source](https://doi.org/10.1111/1462-2920.16706)
-
-10.1111/1462-2920.16706
 
 ---
 
@@ -233,27 +232,33 @@ Microbial biostalactites and streamers commonly grow at iron seepages in abandon
 
 ---
 
-## SmT/SHM-seq: simultaneously capturing spatial transcriptome and microbiome information in plants
+## SmT/SHM-seq: simultaneously capturing spatial transcriptome and microbiome information in plants.
+ 12.10.2024, _P Mu, W Li, LP Tran, X Li_
+
+
 
 [Source](https://doi.org/10.1016/j.tplants.2024.09.010)
 
+10.1016/j.tplants.2024.09.010
+
 ---
 
-## High accuracy meets high throughput for near full-length 16S ribosomal RNA amplicon sequencing on the Nanopore platform.
- 11.10.2024, _X Lin, K Waring, H Ghezzi, C Tropini, J Tyson, RM Ziels_
-
-
-Small subunit (SSU) ribosomal RNA (rRNA) gene amplicon sequencing is a foundational method in microbial ecology. Currently, short-read platforms are commonly employed for high-throughput applications of SSU rRNA amplicon sequencing, but at the cost of poor taxonomic classification due to limited fragment lengths. The Oxford Nanopore Technologies (ONT) platform can sequence full-length SSU rRNA genes, but its lower raw-read accuracy has so-far limited accurate taxonomic classification and de novo feature generation. Here, we present a sequencing workflow, termed ssUMI, that combines unique molecular identifier (UMI)-based error correction with newer (R10.4+) ONT chemistry and sample barcoding to enable high throughput near full-length SSU rRNA (e.g. 16S rRNA) amplicon sequencing. The ssUMI workflow generated near full-length 16S rRNA consensus sequences with 99.99% mean accuracy using a minimum subread coverage of 3×, surpassing the accuracy of Illumina short reads. The consensus sequences generated with ssUMI were used to produce error-free de novo sequence features with no false positives with two microbial community standards. In contrast, Nanopore raw reads produced erroneous de novo sequence features, indicating that UMI-based error correction is currently necessary for high-accuracy microbial profiling with R10.4+ ONT sequencing chemistries. We showcase the cost-competitive scalability of the ssUMI workflow by sequencing 87 time-series wastewater samples and 27 human gut samples, obtaining quantitative ecological insights that were missed by short-read amplicon sequencing. ssUMI, therefore, enables accurate and low-cost full-length 16S rRNA amplicon sequencing on Nanopore, improving accessibility to high-resolution microbiome science.
+## High accuracy meets high throughput for near full-length 16S ribosomal RNA amplicon sequencing on the Nanopore platform
 
 [Source](https://doi.org/10.1093/pnasnexus/pgae411)
 
-10.1093/pnasnexus/pgae411
-
 ---
 
-## A deployable film method to enable replicable sampling of low-abundance environmental microbiomes
+## A deployable film method to enable replicable sampling of low-abundance environmental microbiomes.
+ 14.10.2024, _P Mankiewicz Ledins, EZ Lin, C Bhattacharya, KJG Pollitt, AH Dyson, EM Hénaff_
+
+
+_Microbiota, Humans, Specimen Handling, Dimethylpolysiloxanes, DNA, Bacterial, Environmental Monitoring, Environmental Microbiology_
+Urbanizing global populations spend over 90% of their time indoors where microbiome abundance and diversity are low. Chronic exposure to microbiomes with low abundance and diversity have demonstrated negative long-term impacts on human health. Sequencing-based analyses of environmental nucleic acids are critical to understanding the impact of the indoor microbiome on human health, however low DNA yields indoors, alongside sample collection and processing inconsistencies, currently challenge study replicability. This study presents a comparative assessment of a novel, passive, easily replicable sampling strategy using polydimethylsiloxane (PDMS) sheets alongside a representative swab-based collection protocol. Deployable, customizable PDMS films designed for whole-sample insertion into standardized extraction kits demonstrated 43% higher DNA yields per sample, and 76% higher yields per cm2 of sampler over swab-based protocols. These results indicate that this accessible, scalable method enables sufficient DNA collection to comprehensively evaluate indoor microbiome exposures and potential human health impacts using smaller, more space efficient samplers, representing an attractive alternative to swab-based collection. In addition, this process reduces the manual steps required for microbiome sampling which could address inter-study variability, transform the current microbiome sampling paradigm, and ultimately benefit the replicability and accessibility of microbiome exposure studies.
 
 [Source](https://doi.org/10.1038/s41598-024-72341-y)
+
+10.1038/s41598-024-72341-y
 
 ---
 
