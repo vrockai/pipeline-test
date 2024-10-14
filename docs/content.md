@@ -41,16 +41,9 @@ This study aimed to identify distinct gut microbiome and serum metabolic feature
 
 ---
 
-## Dysbiotic signatures and diagnostic potential of gut microbial markers for inflammatory bowel disease in Korean population.
- 13.10.2024, _HS Kim, SJ Oh, BK Kim, JE Kim, BH Kim, YK Park, BG Yang, JY Lee, JW Bae, CK Lee_
-
-
-_Humans, Gastrointestinal Microbiome, Dysbiosis, Female, Male, Republic of Korea, Adult, Middle Aged, Biomarkers, RNA, Ribosomal, 16S, Feces, Inflammatory Bowel Diseases, Colitis, Ulcerative, Metagenomics, Crohn Disease, Case-Control Studies, Cross-Sectional Studies, Young Adult, Aged_
-Fecal samples were collected from 640 individuals in Korea, including 523 patients with IBD (223 with Crohn's disease [CD] and 300 with ulcerative colitis [UC]) and 117 healthy controls. The samples were subjected to cross-sectional gut metagenomic analysis using 16 S rRNA sequencing and bioinformatics analysis. Patients with IBD, particularly those with CD, exhibited significantly lower alpha diversities than the healthy subjects. Differential abundance analysis revealed dysbiotic signatures, characterized by an expansion of the genus Escherichia-Shigella in patients with CD. Functional annotations showed that functional pathways related to bacterial pathogenesis and production of hydrogen sulfide (H2S) were strongly upregulated in patients with CD. A dysbiosis score, calculated based on functional characteristics, highly correlated with disease severity. Markers distinguishing between healthy subjects and patients with IBD showed accurate classification based on a small number of microbial taxa, which may be used to diagnose ambiguous cases. These findings confirm the taxonomic and functional dysbiosis of the gut microbiota in patients with IBD, especially those with CD. Taxa indicative of dysbiosis may have significant implications for future clinical research on the management and diagnosis of IBD.
+## Dysbiotic signatures and diagnostic potential of gut microbial markers for inflammatory bowel disease in Korean population
 
 [Source](https://doi.org/10.1038/s41598-024-74002-6)
-
-10.1038/s41598-024-74002-6
 
 ---
 
@@ -91,28 +84,35 @@ Candida spp. are members of the human mucosal microbiota that can cause opportun
 
 ---
 
-## Gut microbiome and bladder cancer: A new link through nitrosamine metabolism
+## Gut microbiome and bladder cancer: A new link through nitrosamine metabolism.
+ 10.10.2024, _S Mani_
+
+
+_Urinary Bladder Neoplasms, Gastrointestinal Microbiome, Humans, Nitrosamines, Animals, Carcinogens, Butylhydroxybutylnitrosamine, Mice_
+A recent Nature paper1 reveals that gut microbes metabolize N-butyl-N-(4-hydroxybutyl)-nitrosamine (BBN) into the bladder carcinogen N-n-butyl-N-(3-carboxypropyl)-nitrosamine (BCPN) in the intestines, establishing a direct link between gut microbial activity and the development of bladder cancer.
 
 [Source](https://doi.org/10.1016/j.chom.2024.09.003)
 
+10.1016/j.chom.2024.09.003
+
 ---
 
-## Prostate cancer microenvironment: multidimensional regulation of immune cells, vascular system, stromal cells, and microbiota.
- 12.10.2024, _L Chen, YX Xu, YS Wang, YY Ren, XM Dong, P Wu, T Xie, Q Zhang, JL Zhou_
-
-
-_Humans, Tumor Microenvironment, Prostatic Neoplasms, Stromal Cells, Microbiota, Male, Animals, Neovascularization, Pathologic, Disease Susceptibility_
-Prostate cancer (PCa) is one of the most prevalent malignancies in males worldwide. Increasing research attention has focused on the PCa microenvironment, which plays a crucial role in tumor progression and therapy resistance. This review aims to provide a comprehensive overview of the key components of the PCa microenvironment, including immune cells, vascular systems, stromal cells, and microbiota, and explore their implications for diagnosis and treatment.
+## Prostate cancer microenvironment: multidimensional regulation of immune cells, vascular system, stromal cells, and microbiota
 
 [Source](https://doi.org/10.1186/s12943-024-02137-1)
 
-10.1186/s12943-024-02137-1
-
 ---
 
-## Gut and oral microbiota in gynecological cancers: interaction, mechanism, and therapeutic value
+## Gut and oral microbiota in gynecological cancers: interaction, mechanism, and therapeutic value.
+ 13.10.2024, _J Wu, J Li, M Yan, Z Xiang_
+
+
+_Humans, Female, Genital Neoplasms, Female, Gastrointestinal Microbiome, Dysbiosis, Mouth, Microbiota_
+Gynecologic cancers develop from the female reproductive organs. Microbial dysbiosis in the gut and oral cavity can communicate with each other through various ways, leading to mucosal destruction, inflammatory response, genomic instability, and ultimately inducing cancer and worsening. Here, we introduce the mechanisms of interactions between gut and oral microbiota and their changes in the development of gynecologic tumors. In addition, new therapeutic approaches based on microbiota modulation are discussed.
 
 [Source](https://doi.org/10.1038/s41522-024-00577-7)
+
+10.1038/s41522-024-00577-7
 
 ---
 
@@ -184,28 +184,15 @@ Lepidopterans commonly feed on plant material, being the most significant insect
 
 ---
 
-## Sea cucumbers and their symbiotic microbiome have evolved to feed on seabed sediments.
- 11.10.2024, _W Pan, X Wang, C Ren, X Jiang, S Gong, Z Xie, NK Wong, X Li, J Huang, D Fan, P Luo, Y Yang, X Ren, S Yu, Z Qin, X Wu, D Huo, B Ma, Y Liu, X Zhang, Z E, J Liang, H Sun, L Yuan, X Liu, C Cheng, H Long, J Li, Y Wang, C Hu, T Chen_
-
-
-_Animals, Symbiosis, Geologic Sediments, Sea Cucumbers, Glycoside Hydrolases, Gastrointestinal Microbiome, Holothuria, Phylogeny, Biological Evolution, Ecosystem, Feeding Behavior, Microbiota, Bacteria_
-Sea cucumbers are predominant deposit feeders in benthic ecosystems, providing protective benefits to coral reefs by reducing disease prevalence. However, how they receive sufficient nutrition from seabed sediments remains poorly understood. Here, we investigate Holothuria leucospilota, an ecologically significant tropical sea cucumber, to elucidate digestive mechanisms underlying marine deposit-feeding. Genomic analysis reveals intriguing evolutionary adaptation characterized by an expansion of digestive carbohydrase genes and a contraction of digestive protease genes, suggesting specialization in digesting microalgae. Developmentally, two pivotal dietary shifts, namely, from endogenous nutrition to planktonic feeding, and from planktonic feeding to deposit feeding, induce changes in digestive tract enzyme profiles, with adults mainly expressing carbohydrases and lipases. A nuanced symbiotic relationship exists between gut microbiota and the host, namely, specific resident bacteria supply crucial enzymes for food digestion, while other bacteria are digested and provide assimilable nutrients. Our study further identifies Holothuroidea lineage-specific lysozymes that are restrictedly expressed in the intestines to support bacterial digestion. Overall, this work advances our knowledge of the evolutionary innovations in the sea cucumber digestive system which enable them to efficiently utilize nutrients from seabed sediments and promote food recycling within marine ecosystems.
+## Sea cucumbers and their symbiotic microbiome have evolved to feed on seabed sediments
 
 [Source](https://doi.org/10.1038/s41467-024-53205-5)
 
-10.1038/s41467-024-53205-5
-
 ---
 
-## Comprehensive profile of the companion animal gut microbiome integrating reference-based and reference-free methods.
- 12.10.2024, _T Branck, Z Hu, WA Nickols, AM Walsh, A Bhosle, MI Short, JT Nearing, F Asnicar, LJ McIver, S Maharjan, A Rahnavard, A Louyakis, DV Badri, C Brockel, KN Thompson, C Huttenhower_
-
-
-The gut microbiome of companion animals is relatively underexplored, despite its relevance to animal health, pet owner health, and basic microbial community biology. Here, we provide the most comprehensive analysis of the canine and feline gut microbiomes to date, incorporating 2639 stool shotgun metagenomes (2272 dog and 367 cat) spanning 14 publicly available datasets (n = 730) and 8 new study populations (n = 1909). These are compared with 238 and 112 baseline human gut metagenomes from the Human Microbiome Project 1-II and a traditionally living Malagasy cohort, respectively, processed in a manner identical to the animal metagenomes. All microbiomes were characterized using reference-based taxonomic and functional profiling, as well as de novo assembly yielding metagenomic assembled genomes clustered into species-level genome bins. Companion animals shared 184 species-level genome bins not found in humans, whereas 198 were found in all three hosts. We applied novel methodology to distinguish strains of these shared organisms either transferred or unique to host species, with phylogenetic patterns suggesting host-specific adaptation of microbial lineages. This corresponded with functional divergence of these lineages by host (e.g., differences in metabolic and antibiotic resistance genes) likely important to companion animal health. This study provides the largest resource to date of companion animal gut metagenomes and greatly contributes to our understanding of the "One Health" concept of a shared microbial environment among humans and companion animals, affecting infectious diseases, immune response, and specific genetic elements.
+## Comprehensive profile of the companion animal gut microbiome integrating reference-based and reference-free methods
 
 [Source](https://doi.org/10.1093/ismejo/wrae201)
-
-10.1093/ismejo/wrae201
 
 ---
 
@@ -227,9 +214,16 @@ Microorganisms associated with animals harbour a unique set of functional traits
 
 ---
 
-## Distinct microbial communities supported by iron oxidation
+## Distinct microbial communities supported by iron oxidation.
+ 10.10.2024, _K Burkartová, A Hlaváček, S Skoblia, L Falteisek_
+
+
+_Iron, Oxidation-Reduction, Bacteria, Hydrogen-Ion Concentration, Biodiversity, Microbiota, Ecosystem, Mining, Phylogeny, Archaea_
+Microbial biostalactites and streamers commonly grow at iron seepages in abandoned mines worldwide. This study addresses the diversity and composition of these simple prokaryotic communities, which thrive in pH ranges from 2.4 to 6.6 across six different mines. Our analysis of 85 communities reveals that a pH of approximately 3.2 is a critical threshold where alpha and beta diversity change discretely. Below this pH, the average number of ASVs per sample is 2.91 times lower than above this boundary. Autotrophs, heterotrophs, and symbionts of eukaryotes originate from nearly non-overlapping species pools in the two habitat types that differ only in pH. Communities below pH 3.2 further divide into two distinct groups, differing in diversity, taxonomic, and functional composition. Both types of communities coexist within the same stalactites, likely corresponding to zones where the capillary structure of the stalactite is either perfused or clogged. These findings indicate that microbial community structure can be significantly influenced by the intricate spatial organization of the ecosystem, rather than solely by measurable environmental parameters.
 
 [Source](https://doi.org/10.1111/1462-2920.16706)
+
+10.1111/1462-2920.16706
 
 ---
 
@@ -257,16 +251,9 @@ Small subunit (SSU) ribosomal RNA (rRNA) gene amplicon sequencing is a foundatio
 
 ---
 
-## A deployable film method to enable replicable sampling of low-abundance environmental microbiomes.
- 11.10.2024, _P Mankiewicz Ledins, EZ Lin, C Bhattacharya, KJG Pollitt, AH Dyson, EM Hénaff_
-
-
-_Microbiota, Humans, Specimen Handling, Dimethylpolysiloxanes, DNA, Bacterial, Environmental Monitoring, Environmental Microbiology_
-Urbanizing global populations spend over 90% of their time indoors where microbiome abundance and diversity are low. Chronic exposure to microbiomes with low abundance and diversity have demonstrated negative long-term impacts on human health. Sequencing-based analyses of environmental nucleic acids are critical to understanding the impact of the indoor microbiome on human health, however low DNA yields indoors, alongside sample collection and processing inconsistencies, currently challenge study replicability. This study presents a comparative assessment of a novel, passive, easily replicable sampling strategy using polydimethylsiloxane (PDMS) sheets alongside a representative swab-based collection protocol. Deployable, customizable PDMS films designed for whole-sample insertion into standardized extraction kits demonstrated 43% higher DNA yields per sample, and 76% higher yields per cm2 of sampler over swab-based protocols. These results indicate that this accessible, scalable method enables sufficient DNA collection to comprehensively evaluate indoor microbiome exposures and potential human health impacts using smaller, more space efficient samplers, representing an attractive alternative to swab-based collection. In addition, this process reduces the manual steps required for microbiome sampling which could address inter-study variability, transform the current microbiome sampling paradigm, and ultimately benefit the replicability and accessibility of microbiome exposure studies.
+## A deployable film method to enable replicable sampling of low-abundance environmental microbiomes
 
 [Source](https://doi.org/10.1038/s41598-024-72341-y)
-
-10.1038/s41598-024-72341-y
 
 ---
 
