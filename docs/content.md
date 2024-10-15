@@ -16,9 +16,16 @@ Childhood is considered crucial in the establishment of future oral microbiota. 
 
 ---
 
-## Microbiome-derived metabolites in early to mid-pregnancy and risk of gestational diabetes: a metabolome-wide association study
+## Microbiome-derived metabolites in early to mid-pregnancy and risk of gestational diabetes: a metabolome-wide association study.
+ 14.10.2024, _SM Susarla, O Fiehn, I Thiele, AL Ngo, DK Barupal, RF Chehab, A Ferrara, Y Zhu_
+
+
+_Humans, Female, Diabetes, Gestational, Pregnancy, Adult, Prospective Studies, Metabolome, Case-Control Studies, Microbiota, Metabolomics_
+Pre-diagnostic disturbances in the microbiome-derived metabolome have been associated with an increased risk of diabetes in non-pregnant populations. However, the roles of microbiome-derived metabolites, the end-products of microbial metabolism, in gestational diabetes (GDM) remain understudied. We examined the prospective association of microbiome-derived metabolites in early to mid-pregnancy with GDM risk in a diverse population.
 
 [Source](https://doi.org/10.1186/s12916-024-03606-6)
+
+10.1186/s12916-024-03606-6
 
 ---
 
@@ -103,9 +110,16 @@ A recent Nature paper1 reveals that gut microbes metabolize N-butyl-N-(4-hydroxy
 
 ---
 
-## Prostate cancer microenvironment: multidimensional regulation of immune cells, vascular system, stromal cells, and microbiota
+## Prostate cancer microenvironment: multidimensional regulation of immune cells, vascular system, stromal cells, and microbiota.
+ 12.10.2024, _L Chen, YX Xu, YS Wang, YY Ren, XM Dong, P Wu, T Xie, Q Zhang, JL Zhou_
+
+
+_Humans, Tumor Microenvironment, Prostatic Neoplasms, Stromal Cells, Microbiota, Male, Animals, Neovascularization, Pathologic, Disease Susceptibility_
+Prostate cancer (PCa) is one of the most prevalent malignancies in males worldwide. Increasing research attention has focused on the PCa microenvironment, which plays a crucial role in tumor progression and therapy resistance. This review aims to provide a comprehensive overview of the key components of the PCa microenvironment, including immune cells, vascular systems, stromal cells, and microbiota, and explore their implications for diagnosis and treatment.
 
 [Source](https://doi.org/10.1186/s12943-024-02137-1)
+
+10.1186/s12943-024-02137-1
 
 ---
 
@@ -165,15 +179,9 @@ Dietary fibres constitute a heterogeneous class of nutrients that are key in the
 
 ---
 
-## Microbiome-based therapeutics for Parkinson's disease.
- 11.10.2024, _AM Hamilton, IN Krout, AC White, TR Sampson_
-
-
-Recent experimental and clinical data demonstrate a significant dysregulation of the gut microbiome in individuals with Parkinson's disease (PD). With an immense influence on all aspects of physiology, this dysregulation has potential to directly or indirectly contribute to disease pathology. Experimental models have bridged these associations toward defined contributions, identifying various microbiome-dependent impacts to PD pathology. These studies have laid the foundation for human translation, examining whether certain members of the microbiome and/or whole restoration of the gut microbiome community can provide therapeutic benefit for people living with PD. Here, we review recent and ongoing clinically-focused studies that use microbiome-targeted therapies to limit the severity and progression of PD. Fecal microbiome transplants, prebiotic interventions, and probiotic supplementation are each emerging as viable methodologies to augment the gut microbiome and potentially limit PD symptoms. While still early, the data in the field to date support continued cross-talk between experimental systems and human studies to identify key microbial factors that contribute to PD pathologies.
+## Microbiome-based therapeutics for Parkinson’s disease
 
 [Source](https://doi.org/10.1016/j.neurot.2024.e00462)
-
-10.1016/j.neurot.2024.e00462
 
 ---
 
@@ -190,9 +198,16 @@ Lepidopterans commonly feed on plant material, being the most significant insect
 
 ---
 
-## Sea cucumbers and their symbiotic microbiome have evolved to feed on seabed sediments
+## Sea cucumbers and their symbiotic microbiome have evolved to feed on seabed sediments.
+ 14.10.2024, _W Pan, X Wang, C Ren, X Jiang, S Gong, Z Xie, NK Wong, X Li, J Huang, D Fan, P Luo, Y Yang, X Ren, S Yu, Z Qin, X Wu, D Huo, B Ma, Y Liu, X Zhang, Z E, J Liang, H Sun, L Yuan, X Liu, C Cheng, H Long, J Li, Y Wang, C Hu, T Chen_
+
+
+_Animals, Symbiosis, Geologic Sediments, Sea Cucumbers, Glycoside Hydrolases, Gastrointestinal Microbiome, Holothuria, Phylogeny, Biological Evolution, Ecosystem, Feeding Behavior, Microbiota, Bacteria_
+Sea cucumbers are predominant deposit feeders in benthic ecosystems, providing protective benefits to coral reefs by reducing disease prevalence. However, how they receive sufficient nutrition from seabed sediments remains poorly understood. Here, we investigate Holothuria leucospilota, an ecologically significant tropical sea cucumber, to elucidate digestive mechanisms underlying marine deposit-feeding. Genomic analysis reveals intriguing evolutionary adaptation characterized by an expansion of digestive carbohydrase genes and a contraction of digestive protease genes, suggesting specialization in digesting microalgae. Developmentally, two pivotal dietary shifts, namely, from endogenous nutrition to planktonic feeding, and from planktonic feeding to deposit feeding, induce changes in digestive tract enzyme profiles, with adults mainly expressing carbohydrases and lipases. A nuanced symbiotic relationship exists between gut microbiota and the host, namely, specific resident bacteria supply crucial enzymes for food digestion, while other bacteria are digested and provide assimilable nutrients. Our study further identifies Holothuroidea lineage-specific lysozymes that are restrictedly expressed in the intestines to support bacterial digestion. Overall, this work advances our knowledge of the evolutionary innovations in the sea cucumber digestive system which enable them to efficiently utilize nutrients from seabed sediments and promote food recycling within marine ecosystems.
 
 [Source](https://doi.org/10.1038/s41467-024-53205-5)
+
+10.1038/s41467-024-53205-5
 
 ---
 
@@ -220,9 +235,16 @@ Microorganisms associated with animals harbour a unique set of functional traits
 
 ---
 
-## Distinct microbial communities supported by iron oxidation
+## Distinct microbial communities supported by iron oxidation.
+ 10.10.2024, _K Burkartová, A Hlaváček, S Skoblia, L Falteisek_
+
+
+_Iron, Oxidation-Reduction, Bacteria, Hydrogen-Ion Concentration, Biodiversity, Microbiota, Ecosystem, Mining, Phylogeny, Archaea_
+Microbial biostalactites and streamers commonly grow at iron seepages in abandoned mines worldwide. This study addresses the diversity and composition of these simple prokaryotic communities, which thrive in pH ranges from 2.4 to 6.6 across six different mines. Our analysis of 85 communities reveals that a pH of approximately 3.2 is a critical threshold where alpha and beta diversity change discretely. Below this pH, the average number of ASVs per sample is 2.91 times lower than above this boundary. Autotrophs, heterotrophs, and symbionts of eukaryotes originate from nearly non-overlapping species pools in the two habitat types that differ only in pH. Communities below pH 3.2 further divide into two distinct groups, differing in diversity, taxonomic, and functional composition. Both types of communities coexist within the same stalactites, likely corresponding to zones where the capillary structure of the stalactite is either perfused or clogged. These findings indicate that microbial community structure can be significantly influenced by the intricate spatial organization of the ecosystem, rather than solely by measurable environmental parameters.
 
 [Source](https://doi.org/10.1111/1462-2920.16706)
+
+10.1111/1462-2920.16706
 
 ---
 
@@ -243,9 +265,15 @@ Microorganisms associated with animals harbour a unique set of functional traits
 
 ---
 
-## High accuracy meets high throughput for near full-length 16S ribosomal RNA amplicon sequencing on the Nanopore platform
+## High accuracy meets high throughput for near full-length 16S ribosomal RNA amplicon sequencing on the Nanopore platform.
+ 11.10.2024, _X Lin, K Waring, H Ghezzi, C Tropini, J Tyson, RM Ziels_
+
+
+Small subunit (SSU) ribosomal RNA (rRNA) gene amplicon sequencing is a foundational method in microbial ecology. Currently, short-read platforms are commonly employed for high-throughput applications of SSU rRNA amplicon sequencing, but at the cost of poor taxonomic classification due to limited fragment lengths. The Oxford Nanopore Technologies (ONT) platform can sequence full-length SSU rRNA genes, but its lower raw-read accuracy has so-far limited accurate taxonomic classification and de novo feature generation. Here, we present a sequencing workflow, termed ssUMI, that combines unique molecular identifier (UMI)-based error correction with newer (R10.4+) ONT chemistry and sample barcoding to enable high throughput near full-length SSU rRNA (e.g. 16S rRNA) amplicon sequencing. The ssUMI workflow generated near full-length 16S rRNA consensus sequences with 99.99% mean accuracy using a minimum subread coverage of 3×, surpassing the accuracy of Illumina short reads. The consensus sequences generated with ssUMI were used to produce error-free de novo sequence features with no false positives with two microbial community standards. In contrast, Nanopore raw reads produced erroneous de novo sequence features, indicating that UMI-based error correction is currently necessary for high-accuracy microbial profiling with R10.4+ ONT sequencing chemistries. We showcase the cost-competitive scalability of the ssUMI workflow by sequencing 87 time-series wastewater samples and 27 human gut samples, obtaining quantitative ecological insights that were missed by short-read amplicon sequencing. ssUMI, therefore, enables accurate and low-cost full-length 16S rRNA amplicon sequencing on Nanopore, improving accessibility to high-resolution microbiome science.
 
 [Source](https://doi.org/10.1093/pnasnexus/pgae411)
+
+10.1093/pnasnexus/pgae411
 
 ---
 
