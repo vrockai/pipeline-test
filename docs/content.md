@@ -4,22 +4,21 @@
 
 ---
 
-## Oral Microbiota Development in the First 60 Months: A Longitudinal Study
+## Oral Microbiota Development in the First 60 Months: A Longitudinal Study.
+ 12.10.2024, _K Yama, S Morishima, K Tsutsumi, R Jo, Y Aita, T Inokuchi, T Okuda, D Watai, K Ohara, M Maruyama, T Chikazawa, T Iwamoto, Y Kakizawa, T Oniki_
+
+
+Childhood is considered crucial in the establishment of future oral microbiota. However, the precise period of oral microbiota development remains unclear. This study aimed to identify the progression of oral microbiota formation in children. We longitudinally investigated the salivary microbiota of 54 children across 13 time points from 1 wk to 60 mo (5 y) old and their parents at 2 time points as a representative sample of the adult microbiota. Using next-generation sequencing, we obtained 10,000 gene sequences of the 16s rRNA V1-V2 region for each sample. The detection rate in children of 110 operational taxonomic units commonly detected in more than 85% of mothers and fathers, defined as the main constituent bacteria, was 25% at 1 wk old, increased to 80% between 6 and 18 mo old, and reached approximately 90% by 36 mo old. Early main constituent bacteria detected at 1 wk old were limited to Streptococcus, Rothia, and Gemella. At 6 to 18 mo old, the detection rates of various main constituent bacteria, including Neisseria, Haemophilus, and Fusobacterium, increased. UniFrac distance analysis showed that the oral microbiota of children approached that of adults at 6 to 18 mo old. In the weighted UniFrac distance index, unlike the unweighted index, there were no significant changes in children between 36 and 60 mo old from adults, and microbiota formation at 60 mo old was sufficiently advanced to be included within the range of adult individual differences. Our findings suggest that the initial 36 mo, particularly the period from 6 to 18 mo old, consists of a time window for oral microbiota maturation. In addition, the development of microbiota during this period may be critical for future oral disease prevention.
 
 [Source](https://doi.org/10.1177/00220345241272011)
 
+10.1177/00220345241272011
+
 ---
 
-## Microbiome-derived metabolites in early to mid-pregnancy and risk of gestational diabetes: a metabolome-wide association study.
- 14.10.2024, _SM Susarla, O Fiehn, I Thiele, AL Ngo, DK Barupal, RF Chehab, A Ferrara, Y Zhu_
-
-
-_Humans, Female, Diabetes, Gestational, Pregnancy, Adult, Prospective Studies, Metabolome, Case-Control Studies, Microbiota, Metabolomics_
-Pre-diagnostic disturbances in the microbiome-derived metabolome have been associated with an increased risk of diabetes in non-pregnant populations. However, the roles of microbiome-derived metabolites, the end-products of microbial metabolism, in gestational diabetes (GDM) remain understudied. We examined the prospective association of microbiome-derived metabolites in early to mid-pregnancy with GDM risk in a diverse population.
+## Microbiome-derived metabolites in early to mid-pregnancy and risk of gestational diabetes: a metabolome-wide association study
 
 [Source](https://doi.org/10.1186/s12916-024-03606-6)
-
-10.1186/s12916-024-03606-6
 
 ---
 
@@ -35,16 +34,9 @@ This study aimed to identify distinct gut microbiome and serum metabolic feature
 
 ---
 
-## Dysbiotic signatures and diagnostic potential of gut microbial markers for inflammatory bowel disease in Korean population.
- 13.10.2024, _HS Kim, SJ Oh, BK Kim, JE Kim, BH Kim, YK Park, BG Yang, JY Lee, JW Bae, CK Lee_
-
-
-_Humans, Gastrointestinal Microbiome, Dysbiosis, Female, Male, Republic of Korea, Adult, Middle Aged, Biomarkers, RNA, Ribosomal, 16S, Feces, Inflammatory Bowel Diseases, Colitis, Ulcerative, Metagenomics, Crohn Disease, Case-Control Studies, Cross-Sectional Studies, Young Adult, Aged_
-Fecal samples were collected from 640 individuals in Korea, including 523 patients with IBD (223 with Crohn's disease [CD] and 300 with ulcerative colitis [UC]) and 117 healthy controls. The samples were subjected to cross-sectional gut metagenomic analysis using 16 S rRNA sequencing and bioinformatics analysis. Patients with IBD, particularly those with CD, exhibited significantly lower alpha diversities than the healthy subjects. Differential abundance analysis revealed dysbiotic signatures, characterized by an expansion of the genus Escherichia-Shigella in patients with CD. Functional annotations showed that functional pathways related to bacterial pathogenesis and production of hydrogen sulfide (H2S) were strongly upregulated in patients with CD. A dysbiosis score, calculated based on functional characteristics, highly correlated with disease severity. Markers distinguishing between healthy subjects and patients with IBD showed accurate classification based on a small number of microbial taxa, which may be used to diagnose ambiguous cases. These findings confirm the taxonomic and functional dysbiosis of the gut microbiota in patients with IBD, especially those with CD. Taxa indicative of dysbiosis may have significant implications for future clinical research on the management and diagnosis of IBD.
+## Dysbiotic signatures and diagnostic potential of gut microbial markers for inflammatory bowel disease in Korean population
 
 [Source](https://doi.org/10.1038/s41598-024-74002-6)
-
-10.1038/s41598-024-74002-6
 
 ---
 
@@ -145,9 +137,15 @@ Sea cucumbers are predominant deposit feeders in benthic ecosystems, providing p
 
 ---
 
-## Comprehensive profile of the companion animal gut microbiome integrating reference-based and reference-free methods
+## Comprehensive profile of the companion animal gut microbiome integrating reference-based and reference-free methods.
+ 12.10.2024, _T Branck, Z Hu, WA Nickols, AM Walsh, A Bhosle, MI Short, JT Nearing, F Asnicar, LJ McIver, S Maharjan, A Rahnavard, A Louyakis, DV Badri, C Brockel, KN Thompson, C Huttenhower_
+
+
+The gut microbiome of companion animals is relatively underexplored, despite its relevance to animal health, pet owner health, and basic microbial community biology. Here, we provide the most comprehensive analysis of the canine and feline gut microbiomes to date, incorporating 2639 stool shotgun metagenomes (2272 dog and 367 cat) spanning 14 publicly available datasets (n = 730) and 8 new study populations (n = 1909). These are compared with 238 and 112 baseline human gut metagenomes from the Human Microbiome Project 1-II and a traditionally living Malagasy cohort, respectively, processed in a manner identical to the animal metagenomes. All microbiomes were characterized using reference-based taxonomic and functional profiling, as well as de novo assembly yielding metagenomic assembled genomes clustered into species-level genome bins. Companion animals shared 184 species-level genome bins not found in humans, whereas 198 were found in all three hosts. We applied novel methodology to distinguish strains of these shared organisms either transferred or unique to host species, with phylogenetic patterns suggesting host-specific adaptation of microbial lineages. This corresponded with functional divergence of these lineages by host (e.g., differences in metabolic and antibiotic resistance genes) likely important to companion animal health. This study provides the largest resource to date of companion animal gut metagenomes and greatly contributes to our understanding of the "One Health" concept of a shared microbial environment among humans and companion animals, affecting infectious diseases, immune response, and specific genetic elements.
 
 [Source](https://doi.org/10.1093/ismejo/wrae201)
+
+10.1093/ismejo/wrae201
 
 ---
 
@@ -175,14 +173,9 @@ Sea cucumbers are predominant deposit feeders in benthic ecosystems, providing p
 
 ---
 
-## SmT/SHM-seq: simultaneously capturing spatial transcriptome and microbiome information in plants.
- 12.10.2024, _P Mu, W Li, LP Tran, X Li_
-
-
+## SmT/SHM-seq: simultaneously capturing spatial transcriptome and microbiome information in plants
 
 [Source](https://doi.org/10.1016/j.tplants.2024.09.010)
-
-10.1016/j.tplants.2024.09.010
 
 ---
 
