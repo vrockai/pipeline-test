@@ -16,22 +16,21 @@ Childhood is considered crucial in the establishment of future oral microbiota. 
 
 ---
 
-## Microbiome-derived metabolites in early to mid-pregnancy and risk of gestational diabetes: a metabolome-wide association study.
- 14.10.2024, _SM Susarla, O Fiehn, I Thiele, AL Ngo, DK Barupal, RF Chehab, A Ferrara, Y Zhu_
-
-
-_Humans, Female, Diabetes, Gestational, Pregnancy, Adult, Prospective Studies, Metabolome, Case-Control Studies, Microbiota, Metabolomics_
-Pre-diagnostic disturbances in the microbiome-derived metabolome have been associated with an increased risk of diabetes in non-pregnant populations. However, the roles of microbiome-derived metabolites, the end-products of microbial metabolism, in gestational diabetes (GDM) remain understudied. We examined the prospective association of microbiome-derived metabolites in early to mid-pregnancy with GDM risk in a diverse population.
+## Microbiome-derived metabolites in early to mid-pregnancy and risk of gestational diabetes: a metabolome-wide association study
 
 [Source](https://doi.org/10.1186/s12916-024-03606-6)
 
-10.1186/s12916-024-03606-6
-
 ---
 
-## Unique Gut Microbiome and Metabolic Profiles in Chinese Workers Exposed to Dust: Insights from a Case-Control Study
+## Unique Gut Microbiome and Metabolic Profiles in Chinese Workers Exposed to Dust: Insights from a Case-Control Study.
+ 11.10.2024, _X Qian, Y Liu, X Wei, X Chen, G Rong, X Hu_
+
+
+This study aimed to identify distinct gut microbiome and serum metabolic features in workers exposed to dust compared to healthy controls.
 
 [Source](https://doi.org/10.1097/JOM.0000000000003243)
+
+10.1097/JOM.0000000000003243
 
 ---
 
@@ -54,9 +53,16 @@ Fecal samples were collected from 640 individuals in Korea, including 523 patien
 
 ---
 
-## Microbiome and metabolome patterns after lung transplantation reflect underlying disease and chronic lung allograft dysfunction
+## Microbiome and metabolome patterns after lung transplantation reflect underlying disease and chronic lung allograft dysfunction.
+ 12.10.2024, _C Martin, KS Mahan, TD Wiggen, AJ Gilbertsen, MI Hertz, RC Hunter, RA Quinn_
+
+
+_Humans, Lung Transplantation, Metabolome, Microbiota, Bronchoalveolar Lavage Fluid, Male, Female, Middle Aged, Adult, RNA, Ribosomal, 16S, Allografts, Aged, Bacteria, Lung, Metabolomics, Lung Diseases, Cystic Fibrosis, Pulmonary Disease, Chronic Obstructive_
+Progression of chronic lung disease may lead to the requirement for lung transplant (LTx). Despite improvements in short-term survival after LTx, chronic lung allograft dysfunction (CLAD) remains a critical challenge for long-term survival. This study investigates the molecular and microbial relationships between underlying lung disease and the development of CLAD in bronchoalveolar lavage fluid (BALF) from subjects post-LTx, which is crucial for tailoring treatment strategies specific to allograft dysfunctions.
 
 [Source](https://doi.org/10.1186/s40168-024-01893-y)
+
+10.1186/s40168-024-01893-y
 
 ---
 
@@ -66,9 +72,16 @@ Fecal samples were collected from 640 individuals in Korea, including 523 patien
 
 ---
 
-## Host-microbe interaction paradigms in acute and recurrent vulvovaginal candidiasis
+## Host-microbe interaction paradigms in acute and recurrent vulvovaginal candidiasis.
+ 13.10.2024, _J MacAlpine, MS Lionakis_
+
+
+_Candidiasis, Vulvovaginal, Humans, Female, Vagina, Candida, Recurrence, Host Microbial Interactions, Neutrophils, Host-Pathogen Interactions, Animals, Microbiota_
+Candida spp. are members of the human mucosal microbiota that can cause opportunistic diseases ranging from superficial infections to life-threatening invasive candidiasis. In humans, the most common infection caused by Candida spp. is vulvovaginal candidiasis (VVC), which affects &gt;70% of women at least once in their lifetime. Of those women, ∼5%-10% develop recurrent VVC (RVVC). In this review, we summarize our current understanding of the host and fungal factors that contribute to susceptibility to VVC and RVVC. We synthesize key findings that support the notion that disease symptoms are driven by neutrophil-associated dysfunction and immunopathology and describe how antifungal immune mechanisms in the vagina are distinct from other mucosal barrier sites. Finally, we highlight key, unanswered research areas within the field that can help us better understand the immunopathogenesis of this infection and facilitate the development of novel preventive, therapeutic, and/or vaccination strategies to combat these common, poorly understood diseases.
 
 [Source](https://doi.org/10.1016/j.chom.2024.08.018)
+
+10.1016/j.chom.2024.08.018
 
 ---
 
@@ -97,16 +110,9 @@ A recent Nature paper1 reveals that gut microbes metabolize N-butyl-N-(4-hydroxy
 
 ---
 
-## Prostate cancer microenvironment: multidimensional regulation of immune cells, vascular system, stromal cells, and microbiota.
- 15.10.2024, _L Chen, YX Xu, YS Wang, YY Ren, XM Dong, P Wu, T Xie, Q Zhang, JL Zhou_
-
-
-_Humans, Tumor Microenvironment, Prostatic Neoplasms, Stromal Cells, Microbiota, Male, Animals, Neovascularization, Pathologic, Disease Susceptibility_
-Prostate cancer (PCa) is one of the most prevalent malignancies in males worldwide. Increasing research attention has focused on the PCa microenvironment, which plays a crucial role in tumor progression and therapy resistance. This review aims to provide a comprehensive overview of the key components of the PCa microenvironment, including immune cells, vascular systems, stromal cells, and microbiota, and explore their implications for diagnosis and treatment.
+## Prostate cancer microenvironment: multidimensional regulation of immune cells, vascular system, stromal cells, and microbiota
 
 [Source](https://doi.org/10.1186/s12943-024-02137-1)
-
-10.1186/s12943-024-02137-1
 
 ---
 
@@ -123,15 +129,9 @@ Gynecologic cancers develop from the female reproductive organs. Microbial dysbi
 
 ---
 
-## Effects of complex probiotics on intestinal function and its regulatory mechanism in patients with constipation.
- 10.10.2024, _X Zhang, Y Jia, X Li, X Wang, L Li, P Zhang, X Dong, X Ze, Y An, J Li_
-
-
-Chronic constipation is a multi-symptomatic, multifactorial, and heterogeneous gastrointestinal disorder. Current pharmacological treatments for chronic constipation are limited and might negatively impact the patients' quality of life. Although probiotics have been shown to improve constipation symptoms, their specific regulatory mechanisms remain unclear. This study sought to explore how probiotic complexes may affect chronic constipation by improving patients' defecation habits. Furthermore, microbial profiles and non-targeted metabolites were assessed to explore the metabolic pathways involved in the improvement of constipation by probiotics. Patients with chronic constipation were treated using a single-blind, randomised, placebo-controlled trial design. The experimental group was administered Lactobacillus powder prepared from 15 probiotic products, and maltodextrin was used as a placebo. Samples were collected twice daily for 4 weeks, and faecal samples were analysed using 16S rRNA sequencing and untargeted metabolic histology. Probiotic treatment changed the makeup of the gut microbiota, enhanced the quantity of Bifidobacterium and Lactobacillus, and markedly reduced clinical symptoms. The 16S rRNA analysis revealed that the abundance of Bifidobacterium and Prevotella increased while that of Thickettsia declined. Moreover, there was a decrease in the abundance of Faecalibacterium and Roseburia. Non-targeted metabolomics analysis identified several differential metabolites, including succinic acid, fumaric acid, cholesterol, xanthurenic acid, 3-alpha,7-alpha-trihydroxy-5beta-cholestan-26-oic, and N-methyltryptamine. KEGG analysis showed that these metabolites were mainly associated with metabolic pathways such as primary bile acid biosynthesis, tryptophan metabolism, alanine, aspartate and glutamate metabolism, phenylalanine metabolism, cholesterol metabolism, and propanoate metabolism. In this study, gut microbiome and non-targeted metabolome analyses were performed on collected faecal samples to compare characteristic microorganisms and differential metabolites to provide new insights and references for probiotic intervention in constipation. Trial registered at chictr.org.cn under number: ChiCTR2200056274.
+## Effects of complex probiotics on intestinal function and its regulatory mechanism in patients with constipation
 
 [Source](https://doi.org/10.1163/18762891-bja00039)
-
-10.1163/18762891-bja00039
 
 ---
 
@@ -154,21 +154,21 @@ Human milk has long been recognized for its critical role in infant and maternal
 
 ---
 
-## The gut microbiome and dietary fibres: implications in obesity, cardiometabolic diseases and cancer
+## The gut microbiome and dietary fibres: implications in obesity, cardiometabolic diseases and cancer.
+ 10.10.2024, _NM Delzenne, LB Bindels, AM Neyrinck, J Walter_
+
+
+Dietary fibres constitute a heterogeneous class of nutrients that are key in the prevention of various chronic diseases. Most dietary fibres are fermented by the gut microbiome and may, thereby, modulate the gut microbial ecology and metabolism, impacting human health. Dietary fibres may influence the occurrence of specific bacterial taxa, with this effect varying between individuals. The effect of dietary fibres on microbial diversity is a matter of debate. Most intervention studies with dietary fibres in the context of obesity and related metabolic disorders reveal the need for an accurate assessment of the microbiome to better understand the variable response to dietary fibres. Epidemiological studies confirm that a high dietary fibre intake is strongly associated with a reduced occurrence of many types of cancer. However, there is a need to determine the impact of intervention with specific dietary fibres on cancer risk, therapy efficacy and toxicity, as well as in cancer cachexia. In this Review, we summarize the mechanisms by which the gut microbiome can mediate the physiological benefits of dietary fibres in the contexts of obesity, cardiometabolic diseases and cancer, their incidence being clearly linked to low dietary fibre intake.
 
 [Source](https://doi.org/10.1038/s41579-024-01108-z)
 
+10.1038/s41579-024-01108-z
+
 ---
 
-## Microbiome-based therapeutics for Parkinson's disease.
- 11.10.2024, _AM Hamilton, IN Krout, AC White, TR Sampson_
-
-
-Recent experimental and clinical data demonstrate a significant dysregulation of the gut microbiome in individuals with Parkinson's disease (PD). With an immense influence on all aspects of physiology, this dysregulation has potential to directly or indirectly contribute to disease pathology. Experimental models have bridged these associations toward defined contributions, identifying various microbiome-dependent impacts to PD pathology. These studies have laid the foundation for human translation, examining whether certain members of the microbiome and/or whole restoration of the gut microbiome community can provide therapeutic benefit for people living with PD. Here, we review recent and ongoing clinically-focused studies that use microbiome-targeted therapies to limit the severity and progression of PD. Fecal microbiome transplants, prebiotic interventions, and probiotic supplementation are each emerging as viable methodologies to augment the gut microbiome and potentially limit PD symptoms. While still early, the data in the field to date support continued cross-talk between experimental systems and human studies to identify key microbial factors that contribute to PD pathologies.
+## Microbiome-based therapeutics for Parkinson’s disease
 
 [Source](https://doi.org/10.1016/j.neurot.2024.e00462)
-
-10.1016/j.neurot.2024.e00462
 
 ---
 
@@ -185,21 +185,22 @@ Lepidopterans commonly feed on plant material, being the most significant insect
 
 ---
 
-## Sea cucumbers and their symbiotic microbiome have evolved to feed on seabed sediments
+## Sea cucumbers and their symbiotic microbiome have evolved to feed on seabed sediments.
+ 14.10.2024, _W Pan, X Wang, C Ren, X Jiang, S Gong, Z Xie, NK Wong, X Li, J Huang, D Fan, P Luo, Y Yang, X Ren, S Yu, Z Qin, X Wu, D Huo, B Ma, Y Liu, X Zhang, Z E, J Liang, H Sun, L Yuan, X Liu, C Cheng, H Long, J Li, Y Wang, C Hu, T Chen_
+
+
+_Animals, Symbiosis, Geologic Sediments, Sea Cucumbers, Glycoside Hydrolases, Gastrointestinal Microbiome, Holothuria, Phylogeny, Biological Evolution, Ecosystem, Feeding Behavior, Microbiota, Bacteria_
+Sea cucumbers are predominant deposit feeders in benthic ecosystems, providing protective benefits to coral reefs by reducing disease prevalence. However, how they receive sufficient nutrition from seabed sediments remains poorly understood. Here, we investigate Holothuria leucospilota, an ecologically significant tropical sea cucumber, to elucidate digestive mechanisms underlying marine deposit-feeding. Genomic analysis reveals intriguing evolutionary adaptation characterized by an expansion of digestive carbohydrase genes and a contraction of digestive protease genes, suggesting specialization in digesting microalgae. Developmentally, two pivotal dietary shifts, namely, from endogenous nutrition to planktonic feeding, and from planktonic feeding to deposit feeding, induce changes in digestive tract enzyme profiles, with adults mainly expressing carbohydrases and lipases. A nuanced symbiotic relationship exists between gut microbiota and the host, namely, specific resident bacteria supply crucial enzymes for food digestion, while other bacteria are digested and provide assimilable nutrients. Our study further identifies Holothuroidea lineage-specific lysozymes that are restrictedly expressed in the intestines to support bacterial digestion. Overall, this work advances our knowledge of the evolutionary innovations in the sea cucumber digestive system which enable them to efficiently utilize nutrients from seabed sediments and promote food recycling within marine ecosystems.
 
 [Source](https://doi.org/10.1038/s41467-024-53205-5)
 
+10.1038/s41467-024-53205-5
+
 ---
 
-## Comprehensive profile of the companion animal gut microbiome integrating reference-based and reference-free methods.
- 12.10.2024, _T Branck, Z Hu, WA Nickols, AM Walsh, A Bhosle, MI Short, JT Nearing, F Asnicar, LJ McIver, S Maharjan, A Rahnavard, A Louyakis, DV Badri, C Brockel, KN Thompson, C Huttenhower_
-
-
-The gut microbiome of companion animals is relatively underexplored, despite its relevance to animal health, pet owner health, and basic microbial community biology. Here, we provide the most comprehensive analysis of the canine and feline gut microbiomes to date, incorporating 2639 stool shotgun metagenomes (2272 dog and 367 cat) spanning 14 publicly available datasets (n = 730) and 8 new study populations (n = 1909). These are compared with 238 and 112 baseline human gut metagenomes from the Human Microbiome Project 1-II and a traditionally living Malagasy cohort, respectively, processed in a manner identical to the animal metagenomes. All microbiomes were characterized using reference-based taxonomic and functional profiling, as well as de novo assembly yielding metagenomic assembled genomes clustered into species-level genome bins. Companion animals shared 184 species-level genome bins not found in humans, whereas 198 were found in all three hosts. We applied novel methodology to distinguish strains of these shared organisms either transferred or unique to host species, with phylogenetic patterns suggesting host-specific adaptation of microbial lineages. This corresponded with functional divergence of these lineages by host (e.g., differences in metabolic and antibiotic resistance genes) likely important to companion animal health. This study provides the largest resource to date of companion animal gut metagenomes and greatly contributes to our understanding of the "One Health" concept of a shared microbial environment among humans and companion animals, affecting infectious diseases, immune response, and specific genetic elements.
+## Comprehensive profile of the companion animal gut microbiome integrating reference-based and reference-free methods
 
 [Source](https://doi.org/10.1093/ismejo/wrae201)
-
-10.1093/ismejo/wrae201
 
 ---
 
@@ -221,9 +222,16 @@ Microorganisms associated with animals harbour a unique set of functional traits
 
 ---
 
-## Distinct microbial communities supported by iron oxidation
+## Distinct microbial communities supported by iron oxidation.
+ 10.10.2024, _K Burkartová, A Hlaváček, S Skoblia, L Falteisek_
+
+
+_Iron, Oxidation-Reduction, Bacteria, Hydrogen-Ion Concentration, Biodiversity, Microbiota, Ecosystem, Mining, Phylogeny, Archaea_
+Microbial biostalactites and streamers commonly grow at iron seepages in abandoned mines worldwide. This study addresses the diversity and composition of these simple prokaryotic communities, which thrive in pH ranges from 2.4 to 6.6 across six different mines. Our analysis of 85 communities reveals that a pH of approximately 3.2 is a critical threshold where alpha and beta diversity change discretely. Below this pH, the average number of ASVs per sample is 2.91 times lower than above this boundary. Autotrophs, heterotrophs, and symbionts of eukaryotes originate from nearly non-overlapping species pools in the two habitat types that differ only in pH. Communities below pH 3.2 further divide into two distinct groups, differing in diversity, taxonomic, and functional composition. Both types of communities coexist within the same stalactites, likely corresponding to zones where the capillary structure of the stalactite is either perfused or clogged. These findings indicate that microbial community structure can be significantly influenced by the intricate spatial organization of the ecosystem, rather than solely by measurable environmental parameters.
 
 [Source](https://doi.org/10.1111/1462-2920.16706)
+
+10.1111/1462-2920.16706
 
 ---
 
@@ -244,9 +252,15 @@ Microorganisms associated with animals harbour a unique set of functional traits
 
 ---
 
-## High accuracy meets high throughput for near full-length 16S ribosomal RNA amplicon sequencing on the Nanopore platform
+## High accuracy meets high throughput for near full-length 16S ribosomal RNA amplicon sequencing on the Nanopore platform.
+ 11.10.2024, _X Lin, K Waring, H Ghezzi, C Tropini, J Tyson, RM Ziels_
+
+
+Small subunit (SSU) ribosomal RNA (rRNA) gene amplicon sequencing is a foundational method in microbial ecology. Currently, short-read platforms are commonly employed for high-throughput applications of SSU rRNA amplicon sequencing, but at the cost of poor taxonomic classification due to limited fragment lengths. The Oxford Nanopore Technologies (ONT) platform can sequence full-length SSU rRNA genes, but its lower raw-read accuracy has so-far limited accurate taxonomic classification and de novo feature generation. Here, we present a sequencing workflow, termed ssUMI, that combines unique molecular identifier (UMI)-based error correction with newer (R10.4+) ONT chemistry and sample barcoding to enable high throughput near full-length SSU rRNA (e.g. 16S rRNA) amplicon sequencing. The ssUMI workflow generated near full-length 16S rRNA consensus sequences with 99.99% mean accuracy using a minimum subread coverage of 3×, surpassing the accuracy of Illumina short reads. The consensus sequences generated with ssUMI were used to produce error-free de novo sequence features with no false positives with two microbial community standards. In contrast, Nanopore raw reads produced erroneous de novo sequence features, indicating that UMI-based error correction is currently necessary for high-accuracy microbial profiling with R10.4+ ONT sequencing chemistries. We showcase the cost-competitive scalability of the ssUMI workflow by sequencing 87 time-series wastewater samples and 27 human gut samples, obtaining quantitative ecological insights that were missed by short-read amplicon sequencing. ssUMI, therefore, enables accurate and low-cost full-length 16S rRNA amplicon sequencing on Nanopore, improving accessibility to high-resolution microbiome science.
 
 [Source](https://doi.org/10.1093/pnasnexus/pgae411)
+
+10.1093/pnasnexus/pgae411
 
 ---
 
