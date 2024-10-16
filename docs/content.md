@@ -16,9 +16,16 @@ Childhood is considered crucial in the establishment of future oral microbiota. 
 
 ---
 
-## Microbiome-derived metabolites in early to mid-pregnancy and risk of gestational diabetes: a metabolome-wide association study
+## Microbiome-derived metabolites in early to mid-pregnancy and risk of gestational diabetes: a metabolome-wide association study.
+ 14.10.2024, _SM Susarla, O Fiehn, I Thiele, AL Ngo, DK Barupal, RF Chehab, A Ferrara, Y Zhu_
+
+
+_Humans, Female, Diabetes, Gestational, Pregnancy, Adult, Prospective Studies, Metabolome, Case-Control Studies, Microbiota, Metabolomics_
+Pre-diagnostic disturbances in the microbiome-derived metabolome have been associated with an increased risk of diabetes in non-pregnant populations. However, the roles of microbiome-derived metabolites, the end-products of microbial metabolism, in gestational diabetes (GDM) remain understudied. We examined the prospective association of microbiome-derived metabolites in early to mid-pregnancy with GDM risk in a diverse population.
 
 [Source](https://doi.org/10.1186/s12916-024-03606-6)
+
+10.1186/s12916-024-03606-6
 
 ---
 
@@ -53,16 +60,9 @@ Fecal samples were collected from 640 individuals in Korea, including 523 patien
 
 ---
 
-## Microbiome and metabolome patterns after lung transplantation reflect underlying disease and chronic lung allograft dysfunction.
- 12.10.2024, _C Martin, KS Mahan, TD Wiggen, AJ Gilbertsen, MI Hertz, RC Hunter, RA Quinn_
-
-
-_Humans, Lung Transplantation, Metabolome, Microbiota, Bronchoalveolar Lavage Fluid, Male, Female, Middle Aged, Adult, RNA, Ribosomal, 16S, Allografts, Aged, Bacteria, Lung, Metabolomics, Lung Diseases, Cystic Fibrosis, Pulmonary Disease, Chronic Obstructive_
-Progression of chronic lung disease may lead to the requirement for lung transplant (LTx). Despite improvements in short-term survival after LTx, chronic lung allograft dysfunction (CLAD) remains a critical challenge for long-term survival. This study investigates the molecular and microbial relationships between underlying lung disease and the development of CLAD in bronchoalveolar lavage fluid (BALF) from subjects post-LTx, which is crucial for tailoring treatment strategies specific to allograft dysfunctions.
+## Microbiome and metabolome patterns after lung transplantation reflect underlying disease and chronic lung allograft dysfunction
 
 [Source](https://doi.org/10.1186/s40168-024-01893-y)
-
-10.1186/s40168-024-01893-y
 
 ---
 
@@ -72,41 +72,21 @@ Progression of chronic lung disease may lead to the requirement for lung transpl
 
 ---
 
-## Host-microbe interaction paradigms in acute and recurrent vulvovaginal candidiasis.
- 13.10.2024, _J MacAlpine, MS Lionakis_
-
-
-_Candidiasis, Vulvovaginal, Humans, Female, Vagina, Candida, Recurrence, Host Microbial Interactions, Neutrophils, Host-Pathogen Interactions, Animals, Microbiota_
-Candida spp. are members of the human mucosal microbiota that can cause opportunistic diseases ranging from superficial infections to life-threatening invasive candidiasis. In humans, the most common infection caused by Candida spp. is vulvovaginal candidiasis (VVC), which affects &gt;70% of women at least once in their lifetime. Of those women, ∼5%-10% develop recurrent VVC (RVVC). In this review, we summarize our current understanding of the host and fungal factors that contribute to susceptibility to VVC and RVVC. We synthesize key findings that support the notion that disease symptoms are driven by neutrophil-associated dysfunction and immunopathology and describe how antifungal immune mechanisms in the vagina are distinct from other mucosal barrier sites. Finally, we highlight key, unanswered research areas within the field that can help us better understand the immunopathogenesis of this infection and facilitate the development of novel preventive, therapeutic, and/or vaccination strategies to combat these common, poorly understood diseases.
+## Host-microbe interaction paradigms in acute and recurrent vulvovaginal candidiasis
 
 [Source](https://doi.org/10.1016/j.chom.2024.08.018)
 
-10.1016/j.chom.2024.08.018
-
 ---
 
-## Balancing act: counteracting adverse drug effects on the microbiome.
- 12.10.2024, _J de la Cuesta-Zuluaga, P Müller, L Maier_
-
-
-The human gut microbiome, a community of microbes that plays a crucial role in our wellbeing, is highly adaptable but also vulnerable to drug treatments. This vulnerability can have serious consequences for the host, for example, increasing susceptibility to infections, immune, metabolic, and cognitive disorders. However, the microbiome's adaptability also provides opportunities to prevent, protect, or even reverse drug-induced damage. Recently, several innovative approaches have emerged aimed at minimizing the collateral damage of drugs on the microbiome. Here, we outline these approaches, discuss their applicability in different treatment scenarios, highlight current challenges, and suggest avenues that may lead to an effective protection of the microbiome.
+## Balancing act: counteracting adverse drug effects on the microbiome
 
 [Source](https://doi.org/10.1016/j.tim.2024.09.011)
 
-10.1016/j.tim.2024.09.011
-
 ---
 
-## Gut microbiome and bladder cancer: A new link through nitrosamine metabolism.
- 10.10.2024, _S Mani_
-
-
-_Urinary Bladder Neoplasms, Gastrointestinal Microbiome, Humans, Nitrosamines, Animals, Carcinogens, Butylhydroxybutylnitrosamine, Mice_
-A recent Nature paper1 reveals that gut microbes metabolize N-butyl-N-(4-hydroxybutyl)-nitrosamine (BBN) into the bladder carcinogen N-n-butyl-N-(3-carboxypropyl)-nitrosamine (BCPN) in the intestines, establishing a direct link between gut microbial activity and the development of bladder cancer.
+## Gut microbiome and bladder cancer: A new link through nitrosamine metabolism
 
 [Source](https://doi.org/10.1016/j.chom.2024.09.003)
-
-10.1016/j.chom.2024.09.003
 
 ---
 
@@ -116,16 +96,9 @@ A recent Nature paper1 reveals that gut microbes metabolize N-butyl-N-(4-hydroxy
 
 ---
 
-## Gut and oral microbiota in gynecological cancers: interaction, mechanism, and therapeutic value.
- 13.10.2024, _J Wu, J Li, M Yan, Z Xiang_
-
-
-_Humans, Female, Genital Neoplasms, Female, Gastrointestinal Microbiome, Dysbiosis, Mouth, Microbiota_
-Gynecologic cancers develop from the female reproductive organs. Microbial dysbiosis in the gut and oral cavity can communicate with each other through various ways, leading to mucosal destruction, inflammatory response, genomic instability, and ultimately inducing cancer and worsening. Here, we introduce the mechanisms of interactions between gut and oral microbiota and their changes in the development of gynecologic tumors. In addition, new therapeutic approaches based on microbiota modulation are discussed.
+## Gut and oral microbiota in gynecological cancers: interaction, mechanism, and therapeutic value
 
 [Source](https://doi.org/10.1038/s41522-024-00577-7)
-
-10.1038/s41522-024-00577-7
 
 ---
 
@@ -141,28 +114,15 @@ Gynecologic cancers develop from the female reproductive organs. Microbial dysbi
 
 ---
 
-## Unlocking the genetic influence on milk variation and its potential implication for infant health.
- 10.10.2024, _C Nussbaum, S Kim-Hellmuth_
-
-
-_Humans, Milk, Human, Infant Health, Infant, Female, Gastrointestinal Microbiome_
-Human milk has long been recognized for its critical role in infant and maternal health. In this issue of Cell Genomics, Johnson et al.1 apply a human genetics and genomics approach to shed light on the complex relationship between maternal genetics, milk variation, and the infant gut microbiome.
+## Unlocking the genetic influence on milk variation and its potential implication for infant health
 
 [Source](https://doi.org/10.1016/j.xgen.2024.100676)
 
-10.1016/j.xgen.2024.100676
-
 ---
 
-## The gut microbiome and dietary fibres: implications in obesity, cardiometabolic diseases and cancer.
- 10.10.2024, _NM Delzenne, LB Bindels, AM Neyrinck, J Walter_
-
-
-Dietary fibres constitute a heterogeneous class of nutrients that are key in the prevention of various chronic diseases. Most dietary fibres are fermented by the gut microbiome and may, thereby, modulate the gut microbial ecology and metabolism, impacting human health. Dietary fibres may influence the occurrence of specific bacterial taxa, with this effect varying between individuals. The effect of dietary fibres on microbial diversity is a matter of debate. Most intervention studies with dietary fibres in the context of obesity and related metabolic disorders reveal the need for an accurate assessment of the microbiome to better understand the variable response to dietary fibres. Epidemiological studies confirm that a high dietary fibre intake is strongly associated with a reduced occurrence of many types of cancer. However, there is a need to determine the impact of intervention with specific dietary fibres on cancer risk, therapy efficacy and toxicity, as well as in cancer cachexia. In this Review, we summarize the mechanisms by which the gut microbiome can mediate the physiological benefits of dietary fibres in the contexts of obesity, cardiometabolic diseases and cancer, their incidence being clearly linked to low dietary fibre intake.
+## The gut microbiome and dietary fibres: implications in obesity, cardiometabolic diseases and cancer
 
 [Source](https://doi.org/10.1038/s41579-024-01108-z)
-
-10.1038/s41579-024-01108-z
 
 ---
 
@@ -172,16 +132,9 @@ Dietary fibres constitute a heterogeneous class of nutrients that are key in the
 
 ---
 
-## Gut bacteria of lepidopteran herbivores facilitate digestion of plant toxins.
- 11.10.2024, _N Zhang, Z Qian, J He, X Shen, X Lei, C Sun, J Fan, GW Felton, Y Shao_
-
-
-_Animals, Herbivory, Gastrointestinal Microbiome, Bombyx, Morus, Symbiosis, Lepidoptera, Spodoptera, Bacteria, Digestion_
-Lepidopterans commonly feed on plant material, being the most significant insect herbivores in nature. Despite plant resistance to herbivory, such as producing toxic secondary metabolites, herbivores have developed mechanisms encoded in their genomes to tolerate or detoxify plant defensive compounds. Recent studies also highlight the role of gut microbiota in mediating detoxification in herbivores; however, convincing evidence supporting the significant contribution of gut symbionts is rare in Lepidoptera. Here, we show that the growth of various lepidopteran species was inhibited by a mulberry-derived secondary metabolite, 1-deoxynojirimycin (DNJ); as expected, the specialist silkworm Bombyx mori grew well, but interestingly, gut microbiota of early-instar silkworms was affected by the DNJ level, and several bacterial species responded positively to enriched DNJ. Among these, a bacterial strain isolated from the silkworm gut (Pseudomonas fulva ZJU1) can degrade and utilize DNJ as the sole energy source, and after inoculation into nonspecialists (e.g., beet armyworm Spodoptera exigua), P. fulva ZJU1 increased host resistance to DNJ and significantly promoted growth. We used genomic and transcriptomic analyses to identify genes potentially involved in DNJ degradation, and CRISPR-Cas9-mediated mutagenesis verified the function of ilvB, a key binding protein, in metabolizing DNJ. Furthermore, the ilvB deletion mutant, exhibiting normal bacterial growth, could no longer enhance nonspecialist performance, supporting a role in DNJ degradation in vivo. Therefore, our study demonstrated causality between the gut microbiome and detoxification of plant chemical defense in Lepidoptera, facilitating a mechanistic understanding of host-microbe relationships across this complex, abundant insect group.
+## Gut bacteria of lepidopteran herbivores facilitate digestion of plant toxins
 
 [Source](https://doi.org/10.1073/pnas.2412165121)
-
-10.1073/pnas.2412165121
 
 ---
 
@@ -198,9 +151,15 @@ Sea cucumbers are predominant deposit feeders in benthic ecosystems, providing p
 
 ---
 
-## Comprehensive profile of the companion animal gut microbiome integrating reference-based and reference-free methods
+## Comprehensive profile of the companion animal gut microbiome integrating reference-based and reference-free methods.
+ 12.10.2024, _T Branck, Z Hu, WA Nickols, AM Walsh, A Bhosle, MI Short, JT Nearing, F Asnicar, LJ McIver, S Maharjan, A Rahnavard, A Louyakis, DV Badri, C Brockel, KN Thompson, C Huttenhower_
+
+
+The gut microbiome of companion animals is relatively underexplored, despite its relevance to animal health, pet owner health, and basic microbial community biology. Here, we provide the most comprehensive analysis of the canine and feline gut microbiomes to date, incorporating 2639 stool shotgun metagenomes (2272 dog and 367 cat) spanning 14 publicly available datasets (n = 730) and 8 new study populations (n = 1909). These are compared with 238 and 112 baseline human gut metagenomes from the Human Microbiome Project 1-II and a traditionally living Malagasy cohort, respectively, processed in a manner identical to the animal metagenomes. All microbiomes were characterized using reference-based taxonomic and functional profiling, as well as de novo assembly yielding metagenomic assembled genomes clustered into species-level genome bins. Companion animals shared 184 species-level genome bins not found in humans, whereas 198 were found in all three hosts. We applied novel methodology to distinguish strains of these shared organisms either transferred or unique to host species, with phylogenetic patterns suggesting host-specific adaptation of microbial lineages. This corresponded with functional divergence of these lineages by host (e.g., differences in metabolic and antibiotic resistance genes) likely important to companion animal health. This study provides the largest resource to date of companion animal gut metagenomes and greatly contributes to our understanding of the "One Health" concept of a shared microbial environment among humans and companion animals, affecting infectious diseases, immune response, and specific genetic elements.
 
 [Source](https://doi.org/10.1093/ismejo/wrae201)
+
+10.1093/ismejo/wrae201
 
 ---
 
