@@ -4,53 +4,27 @@
 
 ---
 
-## Oral Microbiota Development in the First 60 Months: A Longitudinal Study.
- 12.10.2024, _K Yama, S Morishima, K Tsutsumi, R Jo, Y Aita, T Inokuchi, T Okuda, D Watai, K Ohara, M Maruyama, T Chikazawa, T Iwamoto, Y Kakizawa, T Oniki_
-
-
-Childhood is considered crucial in the establishment of future oral microbiota. However, the precise period of oral microbiota development remains unclear. This study aimed to identify the progression of oral microbiota formation in children. We longitudinally investigated the salivary microbiota of 54 children across 13 time points from 1 wk to 60 mo (5 y) old and their parents at 2 time points as a representative sample of the adult microbiota. Using next-generation sequencing, we obtained 10,000 gene sequences of the 16s rRNA V1-V2 region for each sample. The detection rate in children of 110 operational taxonomic units commonly detected in more than 85% of mothers and fathers, defined as the main constituent bacteria, was 25% at 1 wk old, increased to 80% between 6 and 18 mo old, and reached approximately 90% by 36 mo old. Early main constituent bacteria detected at 1 wk old were limited to Streptococcus, Rothia, and Gemella. At 6 to 18 mo old, the detection rates of various main constituent bacteria, including Neisseria, Haemophilus, and Fusobacterium, increased. UniFrac distance analysis showed that the oral microbiota of children approached that of adults at 6 to 18 mo old. In the weighted UniFrac distance index, unlike the unweighted index, there were no significant changes in children between 36 and 60 mo old from adults, and microbiota formation at 60 mo old was sufficiently advanced to be included within the range of adult individual differences. Our findings suggest that the initial 36 mo, particularly the period from 6 to 18 mo old, consists of a time window for oral microbiota maturation. In addition, the development of microbiota during this period may be critical for future oral disease prevention.
+## Oral Microbiota Development in the First 60 Months: A Longitudinal Study
 
 [Source](https://doi.org/10.1177/00220345241272011)
 
-10.1177/00220345241272011
-
 ---
 
-## Microbiome-derived metabolites in early to mid-pregnancy and risk of gestational diabetes: a metabolome-wide association study.
- 14.10.2024, _SM Susarla, O Fiehn, I Thiele, AL Ngo, DK Barupal, RF Chehab, A Ferrara, Y Zhu_
-
-
-_Humans, Female, Diabetes, Gestational, Pregnancy, Adult, Prospective Studies, Metabolome, Case-Control Studies, Microbiota, Metabolomics_
-Pre-diagnostic disturbances in the microbiome-derived metabolome have been associated with an increased risk of diabetes in non-pregnant populations. However, the roles of microbiome-derived metabolites, the end-products of microbial metabolism, in gestational diabetes (GDM) remain understudied. We examined the prospective association of microbiome-derived metabolites in early to mid-pregnancy with GDM risk in a diverse population.
+## Microbiome-derived metabolites in early to mid-pregnancy and risk of gestational diabetes: a metabolome-wide association study
 
 [Source](https://doi.org/10.1186/s12916-024-03606-6)
 
-10.1186/s12916-024-03606-6
-
 ---
 
-## Unique Gut Microbiome and Metabolic Profiles in Chinese Workers Exposed to Dust: Insights from a Case-Control Study.
- 11.10.2024, _X Qian, Y Liu, X Wei, X Chen, G Rong, X Hu_
-
-
-This study aimed to identify distinct gut microbiome and serum metabolic features in workers exposed to dust compared to healthy controls.
+## Unique Gut Microbiome and Metabolic Profiles in Chinese Workers Exposed to Dust: Insights from a Case-Control Study
 
 [Source](https://doi.org/10.1097/JOM.0000000000003243)
 
-10.1097/JOM.0000000000003243
-
 ---
 
-## Dysbiotic signatures and diagnostic potential of gut microbial markers for inflammatory bowel disease in Korean population.
- 13.10.2024, _HS Kim, SJ Oh, BK Kim, JE Kim, BH Kim, YK Park, BG Yang, JY Lee, JW Bae, CK Lee_
-
-
-_Humans, Gastrointestinal Microbiome, Dysbiosis, Female, Male, Republic of Korea, Adult, Middle Aged, Biomarkers, RNA, Ribosomal, 16S, Feces, Inflammatory Bowel Diseases, Colitis, Ulcerative, Metagenomics, Crohn Disease, Case-Control Studies, Cross-Sectional Studies, Young Adult, Aged_
-Fecal samples were collected from 640 individuals in Korea, including 523 patients with IBD (223 with Crohn's disease [CD] and 300 with ulcerative colitis [UC]) and 117 healthy controls. The samples were subjected to cross-sectional gut metagenomic analysis using 16 S rRNA sequencing and bioinformatics analysis. Patients with IBD, particularly those with CD, exhibited significantly lower alpha diversities than the healthy subjects. Differential abundance analysis revealed dysbiotic signatures, characterized by an expansion of the genus Escherichia-Shigella in patients with CD. Functional annotations showed that functional pathways related to bacterial pathogenesis and production of hydrogen sulfide (H2S) were strongly upregulated in patients with CD. A dysbiosis score, calculated based on functional characteristics, highly correlated with disease severity. Markers distinguishing between healthy subjects and patients with IBD showed accurate classification based on a small number of microbial taxa, which may be used to diagnose ambiguous cases. These findings confirm the taxonomic and functional dysbiosis of the gut microbiota in patients with IBD, especially those with CD. Taxa indicative of dysbiosis may have significant implications for future clinical research on the management and diagnosis of IBD.
+## Dysbiotic signatures and diagnostic potential of gut microbial markers for inflammatory bowel disease in Korean population
 
 [Source](https://doi.org/10.1038/s41598-024-74002-6)
-
-10.1038/s41598-024-74002-6
 
 ---
 
@@ -138,40 +112,21 @@ Fecal samples were collected from 640 individuals in Korea, including 523 patien
 
 ---
 
-## Sea cucumbers and their symbiotic microbiome have evolved to feed on seabed sediments.
- 14.10.2024, _W Pan, X Wang, C Ren, X Jiang, S Gong, Z Xie, NK Wong, X Li, J Huang, D Fan, P Luo, Y Yang, X Ren, S Yu, Z Qin, X Wu, D Huo, B Ma, Y Liu, X Zhang, Z E, J Liang, H Sun, L Yuan, X Liu, C Cheng, H Long, J Li, Y Wang, C Hu, T Chen_
-
-
-_Animals, Symbiosis, Geologic Sediments, Sea Cucumbers, Glycoside Hydrolases, Gastrointestinal Microbiome, Holothuria, Phylogeny, Biological Evolution, Ecosystem, Feeding Behavior, Microbiota, Bacteria_
-Sea cucumbers are predominant deposit feeders in benthic ecosystems, providing protective benefits to coral reefs by reducing disease prevalence. However, how they receive sufficient nutrition from seabed sediments remains poorly understood. Here, we investigate Holothuria leucospilota, an ecologically significant tropical sea cucumber, to elucidate digestive mechanisms underlying marine deposit-feeding. Genomic analysis reveals intriguing evolutionary adaptation characterized by an expansion of digestive carbohydrase genes and a contraction of digestive protease genes, suggesting specialization in digesting microalgae. Developmentally, two pivotal dietary shifts, namely, from endogenous nutrition to planktonic feeding, and from planktonic feeding to deposit feeding, induce changes in digestive tract enzyme profiles, with adults mainly expressing carbohydrases and lipases. A nuanced symbiotic relationship exists between gut microbiota and the host, namely, specific resident bacteria supply crucial enzymes for food digestion, while other bacteria are digested and provide assimilable nutrients. Our study further identifies Holothuroidea lineage-specific lysozymes that are restrictedly expressed in the intestines to support bacterial digestion. Overall, this work advances our knowledge of the evolutionary innovations in the sea cucumber digestive system which enable them to efficiently utilize nutrients from seabed sediments and promote food recycling within marine ecosystems.
+## Sea cucumbers and their symbiotic microbiome have evolved to feed on seabed sediments
 
 [Source](https://doi.org/10.1038/s41467-024-53205-5)
 
-10.1038/s41467-024-53205-5
-
 ---
 
-## Comprehensive profile of the companion animal gut microbiome integrating reference-based and reference-free methods.
- 12.10.2024, _T Branck, Z Hu, WA Nickols, AM Walsh, A Bhosle, MI Short, JT Nearing, F Asnicar, LJ McIver, S Maharjan, A Rahnavard, A Louyakis, DV Badri, C Brockel, KN Thompson, C Huttenhower_
-
-
-The gut microbiome of companion animals is relatively underexplored, despite its relevance to animal health, pet owner health, and basic microbial community biology. Here, we provide the most comprehensive analysis of the canine and feline gut microbiomes to date, incorporating 2639 stool shotgun metagenomes (2272 dog and 367 cat) spanning 14 publicly available datasets (n = 730) and 8 new study populations (n = 1909). These are compared with 238 and 112 baseline human gut metagenomes from the Human Microbiome Project 1-II and a traditionally living Malagasy cohort, respectively, processed in a manner identical to the animal metagenomes. All microbiomes were characterized using reference-based taxonomic and functional profiling, as well as de novo assembly yielding metagenomic assembled genomes clustered into species-level genome bins. Companion animals shared 184 species-level genome bins not found in humans, whereas 198 were found in all three hosts. We applied novel methodology to distinguish strains of these shared organisms either transferred or unique to host species, with phylogenetic patterns suggesting host-specific adaptation of microbial lineages. This corresponded with functional divergence of these lineages by host (e.g., differences in metabolic and antibiotic resistance genes) likely important to companion animal health. This study provides the largest resource to date of companion animal gut metagenomes and greatly contributes to our understanding of the "One Health" concept of a shared microbial environment among humans and companion animals, affecting infectious diseases, immune response, and specific genetic elements.
+## Comprehensive profile of the companion animal gut microbiome integrating reference-based and reference-free methods
 
 [Source](https://doi.org/10.1093/ismejo/wrae201)
 
-10.1093/ismejo/wrae201
-
 ---
 
-## Quantitative Synthesis of Microbe-Driven Acclimation and Adaptation in Wild Vertebrates.
- 12.10.2024, _G Martin Bideguren, O Razgour, A Alberdi_
-
-
-Microorganisms associated with animals harbour a unique set of functional traits pivotal for the normal functioning of their hosts. This realisation has led researchers to hypothesise that animal-associated microbial communities may boost the capacity of their hosts to acclimatise and adapt to environmental changes, two eco-evolutionary processes with significant applied relevance. Aiming to assess the importance of microorganisms for wild vertebrate conservation, we conducted a quantitative systematic review to evaluate the scientific evidence for the contribution of gut microorganisms to the acclimation and adaptation capacity of wild vertebrate hosts. After screening 1974 publications, we scrutinised the 109 studies that met the inclusion criteria based on 10 metrics encompassing study design, methodology and reproducibility. We found that the studies published so far were not able to resolve the contribution of gut microorganisms due to insufficient study design and research methods for addressing the hypothesis. Our findings underscore the limited application to date of microbiome knowledge in vertebrate conservation and management, highlighting the need for a paradigm shift in research approaches. Considering these results, we advocate for a shift from observational studies to experimental manipulations, where fitness or related indicators are measured, coupled with an update in molecular techniques used to analyse microbial functions. In addition, closer collaboration with conservation managers and practitioners from the inception of the project is needed to encourage meaningful application of microbiome knowledge in adaptive wildlife conservation management.
+## Quantitative Synthesis of Microbe-Driven Acclimation and Adaptation in Wild Vertebrates
 
 [Source](https://doi.org/10.1111/eva.70025)
-
-10.1111/eva.70025
 
 ---
 
@@ -181,16 +136,9 @@ Microorganisms associated with animals harbour a unique set of functional traits
 
 ---
 
-## Distinct microbial communities supported by iron oxidation.
- 10.10.2024, _K Burkartová, A Hlaváček, S Skoblia, L Falteisek_
-
-
-_Iron, Oxidation-Reduction, Bacteria, Hydrogen-Ion Concentration, Biodiversity, Microbiota, Ecosystem, Mining, Phylogeny, Archaea_
-Microbial biostalactites and streamers commonly grow at iron seepages in abandoned mines worldwide. This study addresses the diversity and composition of these simple prokaryotic communities, which thrive in pH ranges from 2.4 to 6.6 across six different mines. Our analysis of 85 communities reveals that a pH of approximately 3.2 is a critical threshold where alpha and beta diversity change discretely. Below this pH, the average number of ASVs per sample is 2.91 times lower than above this boundary. Autotrophs, heterotrophs, and symbionts of eukaryotes originate from nearly non-overlapping species pools in the two habitat types that differ only in pH. Communities below pH 3.2 further divide into two distinct groups, differing in diversity, taxonomic, and functional composition. Both types of communities coexist within the same stalactites, likely corresponding to zones where the capillary structure of the stalactite is either perfused or clogged. These findings indicate that microbial community structure can be significantly influenced by the intricate spatial organization of the ecosystem, rather than solely by measurable environmental parameters.
+## Distinct microbial communities supported by iron oxidation
 
 [Source](https://doi.org/10.1111/1462-2920.16706)
-
-10.1111/1462-2920.16706
 
 ---
 
@@ -200,39 +148,21 @@ Microbial biostalactites and streamers commonly grow at iron seepages in abandon
 
 ---
 
-## SmT/SHM-seq: simultaneously capturing spatial transcriptome and microbiome information in plants.
- 12.10.2024, _P Mu, W Li, LP Tran, X Li_
-
-
+## SmT/SHM-seq: simultaneously capturing spatial transcriptome and microbiome information in plants
 
 [Source](https://doi.org/10.1016/j.tplants.2024.09.010)
 
-10.1016/j.tplants.2024.09.010
-
 ---
 
-## High accuracy meets high throughput for near full-length 16S ribosomal RNA amplicon sequencing on the Nanopore platform.
- 11.10.2024, _X Lin, K Waring, H Ghezzi, C Tropini, J Tyson, RM Ziels_
-
-
-Small subunit (SSU) ribosomal RNA (rRNA) gene amplicon sequencing is a foundational method in microbial ecology. Currently, short-read platforms are commonly employed for high-throughput applications of SSU rRNA amplicon sequencing, but at the cost of poor taxonomic classification due to limited fragment lengths. The Oxford Nanopore Technologies (ONT) platform can sequence full-length SSU rRNA genes, but its lower raw-read accuracy has so-far limited accurate taxonomic classification and de novo feature generation. Here, we present a sequencing workflow, termed ssUMI, that combines unique molecular identifier (UMI)-based error correction with newer (R10.4+) ONT chemistry and sample barcoding to enable high throughput near full-length SSU rRNA (e.g. 16S rRNA) amplicon sequencing. The ssUMI workflow generated near full-length 16S rRNA consensus sequences with 99.99% mean accuracy using a minimum subread coverage of 3×, surpassing the accuracy of Illumina short reads. The consensus sequences generated with ssUMI were used to produce error-free de novo sequence features with no false positives with two microbial community standards. In contrast, Nanopore raw reads produced erroneous de novo sequence features, indicating that UMI-based error correction is currently necessary for high-accuracy microbial profiling with R10.4+ ONT sequencing chemistries. We showcase the cost-competitive scalability of the ssUMI workflow by sequencing 87 time-series wastewater samples and 27 human gut samples, obtaining quantitative ecological insights that were missed by short-read amplicon sequencing. ssUMI, therefore, enables accurate and low-cost full-length 16S rRNA amplicon sequencing on Nanopore, improving accessibility to high-resolution microbiome science.
+## High accuracy meets high throughput for near full-length 16S ribosomal RNA amplicon sequencing on the Nanopore platform
 
 [Source](https://doi.org/10.1093/pnasnexus/pgae411)
 
-10.1093/pnasnexus/pgae411
-
 ---
 
-## A deployable film method to enable replicable sampling of low-abundance environmental microbiomes.
- 15.10.2024, _P Mankiewicz Ledins, EZ Lin, C Bhattacharya, KJG Pollitt, AH Dyson, EM Hénaff_
-
-
-_Microbiota, Humans, Specimen Handling, Dimethylpolysiloxanes, DNA, Bacterial, Environmental Monitoring, Environmental Microbiology_
-Urbanizing global populations spend over 90% of their time indoors where microbiome abundance and diversity are low. Chronic exposure to microbiomes with low abundance and diversity have demonstrated negative long-term impacts on human health. Sequencing-based analyses of environmental nucleic acids are critical to understanding the impact of the indoor microbiome on human health, however low DNA yields indoors, alongside sample collection and processing inconsistencies, currently challenge study replicability. This study presents a comparative assessment of a novel, passive, easily replicable sampling strategy using polydimethylsiloxane (PDMS) sheets alongside a representative swab-based collection protocol. Deployable, customizable PDMS films designed for whole-sample insertion into standardized extraction kits demonstrated 43% higher DNA yields per sample, and 76% higher yields per cm2 of sampler over swab-based protocols. These results indicate that this accessible, scalable method enables sufficient DNA collection to comprehensively evaluate indoor microbiome exposures and potential human health impacts using smaller, more space efficient samplers, representing an attractive alternative to swab-based collection. In addition, this process reduces the manual steps required for microbiome sampling which could address inter-study variability, transform the current microbiome sampling paradigm, and ultimately benefit the replicability and accessibility of microbiome exposure studies.
+## A deployable film method to enable replicable sampling of low-abundance environmental microbiomes
 
 [Source](https://doi.org/10.1038/s41598-024-72341-y)
-
-10.1038/s41598-024-72341-y
 
 ---
 
