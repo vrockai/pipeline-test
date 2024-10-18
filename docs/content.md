@@ -60,9 +60,16 @@ Fecal samples were collected from 640 individuals in Korea, including 523 patien
 
 ---
 
-## Microbiome and metabolome patterns after lung transplantation reflect underlying disease and chronic lung allograft dysfunction
+## Microbiome and metabolome patterns after lung transplantation reflect underlying disease and chronic lung allograft dysfunction.
+ 12.10.2024, _C Martin, KS Mahan, TD Wiggen, AJ Gilbertsen, MI Hertz, RC Hunter, RA Quinn_
+
+
+_Humans, Lung Transplantation, Metabolome, Microbiota, Bronchoalveolar Lavage Fluid, Male, Female, Middle Aged, Adult, RNA, Ribosomal, 16S, Allografts, Aged, Bacteria, Lung, Metabolomics, Lung Diseases, Cystic Fibrosis, Pulmonary Disease, Chronic Obstructive_
+Progression of chronic lung disease may lead to the requirement for lung transplant (LTx). Despite improvements in short-term survival after LTx, chronic lung allograft dysfunction (CLAD) remains a critical challenge for long-term survival. This study investigates the molecular and microbial relationships between underlying lung disease and the development of CLAD in bronchoalveolar lavage fluid (BALF) from subjects post-LTx, which is crucial for tailoring treatment strategies specific to allograft dysfunctions.
 
 [Source](https://doi.org/10.1186/s40168-024-01893-y)
+
+10.1186/s40168-024-01893-y
 
 ---
 
@@ -72,15 +79,28 @@ Fecal samples were collected from 640 individuals in Korea, including 523 patien
 
 ---
 
-## Host-microbe interaction paradigms in acute and recurrent vulvovaginal candidiasis
+## Host-microbe interaction paradigms in acute and recurrent vulvovaginal candidiasis.
+ 13.10.2024, _J MacAlpine, MS Lionakis_
+
+
+_Candidiasis, Vulvovaginal, Humans, Female, Vagina, Candida, Recurrence, Host Microbial Interactions, Neutrophils, Host-Pathogen Interactions, Animals, Microbiota_
+Candida spp. are members of the human mucosal microbiota that can cause opportunistic diseases ranging from superficial infections to life-threatening invasive candidiasis. In humans, the most common infection caused by Candida spp. is vulvovaginal candidiasis (VVC), which affects &gt;70% of women at least once in their lifetime. Of those women, ∼5%-10% develop recurrent VVC (RVVC). In this review, we summarize our current understanding of the host and fungal factors that contribute to susceptibility to VVC and RVVC. We synthesize key findings that support the notion that disease symptoms are driven by neutrophil-associated dysfunction and immunopathology and describe how antifungal immune mechanisms in the vagina are distinct from other mucosal barrier sites. Finally, we highlight key, unanswered research areas within the field that can help us better understand the immunopathogenesis of this infection and facilitate the development of novel preventive, therapeutic, and/or vaccination strategies to combat these common, poorly understood diseases.
 
 [Source](https://doi.org/10.1016/j.chom.2024.08.018)
 
+10.1016/j.chom.2024.08.018
+
 ---
 
-## Balancing act: counteracting adverse drug effects on the microbiome
+## Balancing act: counteracting adverse drug effects on the microbiome.
+ 12.10.2024, _J de la Cuesta-Zuluaga, P Müller, L Maier_
+
+
+The human gut microbiome, a community of microbes that plays a crucial role in our wellbeing, is highly adaptable but also vulnerable to drug treatments. This vulnerability can have serious consequences for the host, for example, increasing susceptibility to infections, immune, metabolic, and cognitive disorders. However, the microbiome's adaptability also provides opportunities to prevent, protect, or even reverse drug-induced damage. Recently, several innovative approaches have emerged aimed at minimizing the collateral damage of drugs on the microbiome. Here, we outline these approaches, discuss their applicability in different treatment scenarios, highlight current challenges, and suggest avenues that may lead to an effective protection of the microbiome.
 
 [Source](https://doi.org/10.1016/j.tim.2024.09.011)
+
+10.1016/j.tim.2024.09.011
 
 ---
 
