@@ -84,27 +84,54 @@ Fecal samples were collected from 640 individuals in Korea, including 523 patien
 
 ---
 
-## Gut microbiome and bladder cancer: A new link through nitrosamine metabolism
+## Gut microbiome and bladder cancer: A new link through nitrosamine metabolism.
+ 10.10.2024, _S Mani_
+
+
+_Urinary Bladder Neoplasms, Gastrointestinal Microbiome, Humans, Nitrosamines, Animals, Carcinogens, Butylhydroxybutylnitrosamine, Mice_
+A recent Nature paper1 reveals that gut microbes metabolize N-butyl-N-(4-hydroxybutyl)-nitrosamine (BBN) into the bladder carcinogen N-n-butyl-N-(3-carboxypropyl)-nitrosamine (BCPN) in the intestines, establishing a direct link between gut microbial activity and the development of bladder cancer.
 
 [Source](https://doi.org/10.1016/j.chom.2024.09.003)
 
+10.1016/j.chom.2024.09.003
+
 ---
 
-## Prostate cancer microenvironment: multidimensional regulation of immune cells, vascular system, stromal cells, and microbiota
+## Prostate cancer microenvironment: multidimensional regulation of immune cells, vascular system, stromal cells, and microbiota.
+ 15.10.2024, _L Chen, YX Xu, YS Wang, YY Ren, XM Dong, P Wu, T Xie, Q Zhang, JL Zhou_
+
+
+_Humans, Tumor Microenvironment, Prostatic Neoplasms, Stromal Cells, Microbiota, Male, Animals, Neovascularization, Pathologic, Disease Susceptibility_
+Prostate cancer (PCa) is one of the most prevalent malignancies in males worldwide. Increasing research attention has focused on the PCa microenvironment, which plays a crucial role in tumor progression and therapy resistance. This review aims to provide a comprehensive overview of the key components of the PCa microenvironment, including immune cells, vascular systems, stromal cells, and microbiota, and explore their implications for diagnosis and treatment.
 
 [Source](https://doi.org/10.1186/s12943-024-02137-1)
 
+10.1186/s12943-024-02137-1
+
 ---
 
-## Gut and oral microbiota in gynecological cancers: interaction, mechanism, and therapeutic value
+## Gut and oral microbiota in gynecological cancers: interaction, mechanism, and therapeutic value.
+ 13.10.2024, _J Wu, J Li, M Yan, Z Xiang_
+
+
+_Humans, Female, Genital Neoplasms, Female, Gastrointestinal Microbiome, Dysbiosis, Mouth, Microbiota_
+Gynecologic cancers develop from the female reproductive organs. Microbial dysbiosis in the gut and oral cavity can communicate with each other through various ways, leading to mucosal destruction, inflammatory response, genomic instability, and ultimately inducing cancer and worsening. Here, we introduce the mechanisms of interactions between gut and oral microbiota and their changes in the development of gynecologic tumors. In addition, new therapeutic approaches based on microbiota modulation are discussed.
 
 [Source](https://doi.org/10.1038/s41522-024-00577-7)
 
+10.1038/s41522-024-00577-7
+
 ---
 
-## Effects of complex probiotics on intestinal function and its regulatory mechanism in patients with constipation
+## Effects of complex probiotics on intestinal function and its regulatory mechanism in patients with constipation.
+ 10.10.2024, _X Zhang, Y Jia, X Li, X Wang, L Li, P Zhang, X Dong, X Ze, Y An, J Li_
+
+
+Chronic constipation is a multi-symptomatic, multifactorial, and heterogeneous gastrointestinal disorder. Current pharmacological treatments for chronic constipation are limited and might negatively impact the patients' quality of life. Although probiotics have been shown to improve constipation symptoms, their specific regulatory mechanisms remain unclear. This study sought to explore how probiotic complexes may affect chronic constipation by improving patients' defecation habits. Furthermore, microbial profiles and non-targeted metabolites were assessed to explore the metabolic pathways involved in the improvement of constipation by probiotics. Patients with chronic constipation were treated using a single-blind, randomised, placebo-controlled trial design. The experimental group was administered Lactobacillus powder prepared from 15 probiotic products, and maltodextrin was used as a placebo. Samples were collected twice daily for 4 weeks, and faecal samples were analysed using 16S rRNA sequencing and untargeted metabolic histology. Probiotic treatment changed the makeup of the gut microbiota, enhanced the quantity of Bifidobacterium and Lactobacillus, and markedly reduced clinical symptoms. The 16S rRNA analysis revealed that the abundance of Bifidobacterium and Prevotella increased while that of Thickettsia declined. Moreover, there was a decrease in the abundance of Faecalibacterium and Roseburia. Non-targeted metabolomics analysis identified several differential metabolites, including succinic acid, fumaric acid, cholesterol, xanthurenic acid, 3-alpha,7-alpha-trihydroxy-5beta-cholestan-26-oic, and N-methyltryptamine. KEGG analysis showed that these metabolites were mainly associated with metabolic pathways such as primary bile acid biosynthesis, tryptophan metabolism, alanine, aspartate and glutamate metabolism, phenylalanine metabolism, cholesterol metabolism, and propanoate metabolism. In this study, gut microbiome and non-targeted metabolome analyses were performed on collected faecal samples to compare characteristic microorganisms and differential metabolites to provide new insights and references for probiotic intervention in constipation. Trial registered at chictr.org.cn under number: ChiCTR2200056274.
 
 [Source](https://doi.org/10.1163/18762891-bja00039)
+
+10.1163/18762891-bja00039
 
 ---
 
