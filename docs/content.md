@@ -55,7 +55,7 @@ Quickly after birth, the gut microbiota is shaped via species acquisition and re
 ---
 
 ## Aging-induced dysbiosis worsens sepsis severity but is attenuated by probiotics in D-galactose-administered mice with cecal ligation and puncture model.
- 18.10.2024, _C Pinitchun, W Panpetch, T Bhunyakarnjanarat, K Udompornpitak, HT Do, P Visitchanakun, DL Wannigama, S Udomkarnjananun, M Sukprasansap, T Tencomnao, P Tangtanatakul, A Leelahavanichkul_
+ 20.10.2024, _C Pinitchun, W Panpetch, T Bhunyakarnjanarat, K Udompornpitak, HT Do, P Visitchanakun, DL Wannigama, S Udomkarnjananun, M Sukprasansap, T Tencomnao, P Tangtanatakul, A Leelahavanichkul_
 
 
 _Animals, Galactose, Dysbiosis, Mice, Probiotics, Sepsis, Aging, Mice, Inbred C57BL, Disease Models, Animal, Male, Cecum, Gastrointestinal Microbiome, RAW 264.7 Cells, Lacticaseibacillus rhamnosus, Ligation, Feces, Punctures, Cytokines, Sepsis-Associated Encephalopathy_
@@ -86,7 +86,7 @@ The mechanisms behind the high inflammatory state and immunocompromise in severe
 ---
 
 ## Alterations of the gut microbiome in HIV infection highlight human anelloviruses as potential predictors of immune recovery.
- 18.10.2024, _C Boukadida, A Peralta-Prado, M Chávez-Torres, K Romero-Mora, A Rincon-Rubio, S Ávila-Ríos, D Garrido-Rodríguez, G Reyes-Terán, S Pinto-Cardoso_
+ 20.10.2024, _C Boukadida, A Peralta-Prado, M Chávez-Torres, K Romero-Mora, A Rincon-Rubio, S Ávila-Ríos, D Garrido-Rodríguez, G Reyes-Terán, S Pinto-Cardoso_
 
 
 _Humans, Gastrointestinal Microbiome, HIV Infections, Feces, Cross-Sectional Studies, Male, Longitudinal Studies, Adult, HIV-1, Female, Anelloviridae, Dysbiosis, Middle Aged, CD4 Lymphocyte Count, Bacteriophages, Bacteria, CD4-Positive T-Lymphocytes, Virome_
@@ -99,7 +99,7 @@ HIV-1 infection is characterized by a massive depletion of mucosal CD4 T cells t
 ---
 
 ## Gut microbiota determines the fate of dietary fiber-targeted interventions in host health.
- 19.10.2024, _W Wang, Z Fan, Q Yan, T Pan, J Luo, Y Wei, B Li, Z Fang, W Lu_
+ 20.10.2024, _W Wang, Z Fan, Q Yan, T Pan, J Luo, Y Wei, B Li, Z Fang, W Lu_
 
 
 _Dietary Fiber, Gastrointestinal Microbiome, Humans, Prebiotics, Animals, Bacteria, Fatty Acids, Volatile, Bile Acids and Salts_
