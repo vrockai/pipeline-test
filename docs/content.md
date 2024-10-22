@@ -17,7 +17,7 @@ Antimicrobial autoantigenic glycoprotein 2 (GP2) is an important component of th
 ---
 
 ## Upper respiratory microbial communities of healthy populations are shaped by niche and age.
- 18.10.2024, _S Zelasko, MH Swaney, S Sandstrom, TC Davenport, CM Seroogy, JE Gern, LR Kalan, CR Currie_
+ 21.10.2024, _S Zelasko, MH Swaney, S Sandstrom, TC Davenport, CM Seroogy, JE Gern, LR Kalan, CR Currie_
 
 
 _Humans, Microbiota, Mouth, Adult, Infant, Female, Bacteria, Male, Age Factors, Child, Preschool, Healthy Volunteers, Metagenomics, Respiratory System, Metagenome_
@@ -30,7 +30,7 @@ Alterations in upper respiratory microbiomes have been implicated in shaping hos
 ---
 
 ## Dysbiosis of the initial stool microbiota increases the risk of developing necrotizing enterocolitis or feeding intolerance in newborns.
- 18.10.2024, _H Chae, SY Kim, HM Kang, SA Im, YA Youn_
+ 21.10.2024, _H Chae, SY Kim, HM Kang, SA Im, YA Youn_
 
 
 _Humans, Enterocolitis, Necrotizing, Infant, Newborn, Dysbiosis, Female, Gastrointestinal Microbiome, Feces, Male, Risk Factors, Gestational Age, Infant, Premature, Meconium_
@@ -124,7 +124,7 @@ The optimal vaginal microbiome is a Lactobacillus-dominant community. Apart from
 ---
 
 ## EphA2 blockage ALW-II-41-27 alleviates atherosclerosis by remodeling gut microbiota to regulate bile acid metabolism.
- 19.10.2024, _C Lu, D Liu, Q Wu, J Zeng, Y Xiong, T Luo_
+ 21.10.2024, _C Lu, D Liu, Q Wu, J Zeng, Y Xiong, T Luo_
 
 
 _Animals, Atherosclerosis, Gastrointestinal Microbiome, Bile Acids and Salts, Mice, Receptor, EphA2, Diet, High-Fat, Male, Humans, Disease Models, Animal, Plaque, Atherosclerotic, Mice, Inbred C57BL, Bacteria, Dysbiosis_
@@ -199,7 +199,7 @@ The exchange of metabolites (i.e., metabolic interactions) between bacteria in t
 ---
 
 ## Unravelling the microbiome of wild flowering plants: a comparative study of leaves and flowers in alpine ecosystems.
- 18.10.2024, _DK Ramakrishnan, F Jauernegger, D Hoefle, C Berg, G Berg, A Abdelfattah_
+ 21.10.2024, _DK Ramakrishnan, F Jauernegger, D Hoefle, C Berg, G Berg, A Abdelfattah_
 
 
 _Plant Leaves, Microbiota, Bacteria, Fungi, Flowers, Soil Microbiology, Ecosystem, Austria, Altitude, Magnoliopsida, Biodiversity, Soil_
@@ -224,7 +224,7 @@ With over 3 trillion trees, forest ecosystems comprise nearly one-third of the t
 ---
 
 ## Agricultural practices influence soil microbiome assembly and interactions at different depths identified by machine learning.
- 18.10.2024, _Y Mo, R Bier, X Li, M Daniels, A Smith, L Yu, J Kan_
+ 21.10.2024, _Y Mo, R Bier, X Li, M Daniels, A Smith, L Yu, J Kan_
 
 
 _Soil Microbiology, Machine Learning, Agriculture, Microbiota, Fungi, Soil, Bacteria_
@@ -237,7 +237,7 @@ Agricultural practices affect soil microbes which are critical to soil health an
 ---
 
 ## Community successional patterns and inter-kingdom interactions during granular biofilm development.
- 19.10.2024, _M de Celis, O Modin, L Arregui, F Persson, A Santos, I Belda, BM Wilén, R Liébana_
+ 21.10.2024, _M de Celis, O Modin, L Arregui, F Persson, A Santos, I Belda, BM Wilén, R Liébana_
 
 
 _Biofilms, Sewage, Bioreactors, Bacteria, Microbial Interactions, Eukaryota, Microbiota_
@@ -250,7 +250,7 @@ Aerobic granular sludge is a compact and efficient biofilm process used for wast
 ---
 
 ## Metagenome-based microbial community analysis of urine-derived fertilizer.
- 18.10.2024, _NN Woldeyohannis, AF Desta_
+ 21.10.2024, _NN Woldeyohannis, AF Desta_
 
 
 _Humans, Fertilizers, Urine, Bacteria, Struvite, Metagenome, Microbiota, Metagenomics, DNA, Bacterial, Phylogeny_
@@ -275,7 +275,7 @@ The efficiency of microbial fuel cells (MFCs) in industrial wastewater treatment
 ---
 
 ## Evaluation of inter- and intra-variability in gut health markers in healthy adults using an optimised faecal sampling and processing method.
- 19.10.2024, _K Kruger, Y Myeonghyun, N van der Wielen, DE Kok, GJ Hooiveld, S Keshtkar, M Diepeveen-de Bruin, MGJ Balvers, M Grootte-Bromhaar, K Mudde, NTHN Ly, Y Vermeiren, LCPGM de Groot, RCH de Vos, GB Gonzales, WT Steegenga, MPH van Trijp_
+ 21.10.2024, _K Kruger, Y Myeonghyun, N van der Wielen, DE Kok, GJ Hooiveld, S Keshtkar, M Diepeveen-de Bruin, MGJ Balvers, M Grootte-Bromhaar, K Mudde, NTHN Ly, Y Vermeiren, LCPGM de Groot, RCH de Vos, GB Gonzales, WT Steegenga, MPH van Trijp_
 
 
 _Humans, Feces, Adult, Biomarkers, Male, Female, Gastrointestinal Microbiome, Healthy Volunteers, Specimen Handling, Middle Aged, Young Adult_
