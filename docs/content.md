@@ -17,7 +17,7 @@ Antimicrobial autoantigenic glycoprotein 2 (GP2) is an important component of th
 ---
 
 ## Upper respiratory microbial communities of healthy populations are shaped by niche and age.
- 21.10.2024, _S Zelasko, MH Swaney, S Sandstrom, TC Davenport, CM Seroogy, JE Gern, LR Kalan, CR Currie_
+ 22.10.2024, _S Zelasko, MH Swaney, S Sandstrom, TC Davenport, CM Seroogy, JE Gern, LR Kalan, CR Currie_
 
 
 _Humans, Microbiota, Mouth, Adult, Infant, Female, Bacteria, Male, Age Factors, Child, Preschool, Healthy Volunteers, Metagenomics, Respiratory System, Metagenome_
@@ -29,16 +29,21 @@ Alterations in upper respiratory microbiomes have been implicated in shaping hos
 
 ---
 
-## Dysbiosis of the initial stool microbiota increases the risk of developing necrotizing enterocolitis or feeding intolerance in newborns.
- 21.10.2024, _H Chae, SY Kim, HM Kang, SA Im, YA Youn_
+## A Modification of the Newborn Operation for Cloacal Exstrophy: Leaving the Cecal Plate Untouched.
+ 22.10.2024, _E Bokova, SE Jacobs, L Tiusaba, CP Ho, BK Varda, HG Pohl, C Feng, VA Lane, CA Smith, AT Badillo, RJ Wood, MA Levitt_
 
 
-_Humans, Enterocolitis, Necrotizing, Infant, Newborn, Dysbiosis, Female, Gastrointestinal Microbiome, Feces, Male, Risk Factors, Gestational Age, Infant, Premature, Meconium_
-Several perinatal factors influence the intestinal microbiome of newborns during the first days of life, whether during delivery or even in utero. These factors may increase the risk of developing necrotizing enterocolitis (NEC) by causing dysbiosis linked to a NEC-associated microbiota, which may also be associated with other gastrointestinal problems. The objective of our study was to evaluate the potential risks associated with microbial shifts in newborns with gastrointestinal symptoms and identify the intestinal microbiota of neonates at risk for NEC.During the study period, 310 preterm and term newborns' first passed meconium occurring within 72 h of birth were collected, and the microbiome was analyzed. We identified the risk factors in the NEC/FI group. Regarding microbiota, we compared the bacterial abundance between the NEC/FI group at the phylum and genus levels and explored the differences in the microbial composition of the 1st stool samples. A total of 14.8% (n = 46) of the infants were diagnosed with NEC or FI. In univariate analysis, the mean gestational age and birth weight were significantly lower in the NEC/FI group (p &lt; 0.001). Prolonged rupture of membranes (PROM) &gt; 18 h, chorioamnionitis, and histology were significantly higher in the NEC/FI group (p &lt; 0.001). Multivariate analysis showed that gestational age (GA), prolonged membrane rupture (&gt; 18 h), and early onset sepsis were consistently associated with an increased risk of NEC/FI. Infants diagnosed with NEC/FI exhibited a significantly lower abundance of Actinobacteria at the phylum level than the control group (p &lt; 0.001). At the genus level, a significantly lower abundance of Streptococcus and Bifidobacterium which belong to the Actinobacteria phylum, was observed in the NEC/FI group (p &lt; 0.001). Furthermore, the NEC/FI had significantly lower alpha diversities (Shannon Index,3.39 vs. 3.12; P = 0.044, respectively). Our study revealed that newborns with lower diversity and dysbiosis in their initial gut microbiota had an increased risk of developing NEC, with microbiota differences appearing to be associated with NEC/FI. Dysbiosis could potentially serve as a predictive marker for NEC- or GI-related symptoms.
+The conventional approach to managing a newborn with cloacal exstrophy typically includes separating the cecal plate from between the two hemibladders, tubularizing it to be included in the fecal stream, creating an end colostomy, and bringing the two bladder halves together. This study introduces an alternative approach wherein the cecal plate is retained in its original position and designated for future use as an autoaugment of the bladder. Four cases of cloacal exstrophy cases managed between November 2019 and February 2024 are described, with surgical approach and postoperative outcomes reported. Two patients who underwent traditional reconstruction experienced bacterial overgrowth attributed to stasis in the cecal plate, which manifested in increased ostomy output and feeding intolerance. Treatment in these two cases was to remove the cecum from the fecal stream and use it instead for a bladder augment. Learning from these cases, the third and fourth newborn's approach involved retaining the cecum in situ for autoaugmentation of the bladder and performing an ileal to hindgut anastomosis. No postoperative acidosis occurred in these patients. The alternative approach to the newborn management of cloacal exstrophy whereby the cecal plate is left in situ can decrease stasis and postoperative bacterial overgrowth. It allows for an autoaugmentation of the bladder and is technically easier than the traditional rescue of the cecal plate from within the two hemibladders.
 
 [Source](https://doi.org/10.1038/s41598-024-75157-y)
 
-10.1038/s41598-024-75157-y
+10.1055/s-0044-1791814
+
+---
+
+## Dysbiosis of the initial stool microbiota increases the risk of developing necrotizing enterocolitis or feeding intolerance in newborns
+
+[Source](https://doi.org/10.1038/s41598-024-75157-y)
 
 ---
 
