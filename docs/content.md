@@ -29,15 +29,15 @@ Alterations in upper respiratory microbiomes have been implicated in shaping hos
 
 ---
 
-## A Modification of the Newborn Operation for Cloacal Exstrophy: Leaving the Cecal Plate Untouched.
- 22.10.2024, _E Bokova, SE Jacobs, L Tiusaba, CP Ho, BK Varda, HG Pohl, C Feng, VA Lane, CA Smith, AT Badillo, RJ Wood, MA Levitt_
+## Intestinal Fatty Acid-Binding Protein as a Marker of Necrotizing Enterocolitis Incidence and Severity: A Scoping Review.
+ 22.10.2024, _L Sbragia, IJN Gualberto, J Xia, R Gadde, A Saulsbery, S Hameedi, ALF Mársico Dalto, OO Olutoye_
 
 
-The conventional approach to managing a newborn with cloacal exstrophy typically includes separating the cecal plate from between the two hemibladders, tubularizing it to be included in the fecal stream, creating an end colostomy, and bringing the two bladder halves together. This study introduces an alternative approach wherein the cecal plate is retained in its original position and designated for future use as an autoaugment of the bladder. Four cases of cloacal exstrophy cases managed between November 2019 and February 2024 are described, with surgical approach and postoperative outcomes reported. Two patients who underwent traditional reconstruction experienced bacterial overgrowth attributed to stasis in the cecal plate, which manifested in increased ostomy output and feeding intolerance. Treatment in these two cases was to remove the cecum from the fecal stream and use it instead for a bladder augment. Learning from these cases, the third and fourth newborn's approach involved retaining the cecum in situ for autoaugmentation of the bladder and performing an ileal to hindgut anastomosis. No postoperative acidosis occurred in these patients. The alternative approach to the newborn management of cloacal exstrophy whereby the cecal plate is left in situ can decrease stasis and postoperative bacterial overgrowth. It allows for an autoaugmentation of the bladder and is technically easier than the traditional rescue of the cecal plate from within the two hemibladders.
+Necrotizing enterocolitis (NEC) is a severe inflammatory disease of the gastrointestinal tract and one of the most common life-threatening emergencies affecting newborns. Intestinal fatty acid-binding protein (I-FABP) has been used as a possible marker of intestinal damage in NEC. We aimed to carry out a scoping review of all publications that explore the role of I-FABP in NEC to inspire new research into the potential utility of I-FABP as a marker of NEC.
 
 [Source](https://doi.org/10.1038/s41598-024-75157-y)
 
-10.1055/s-0044-1791814
+10.1016/j.jss.2024.09.059
 
 ---
 
@@ -153,9 +153,16 @@ Coronary artery disease (CAD), a critical condition resulting from systemic infl
 
 ---
 
-## Bacterial and Symbiodiniaceae communities’ variation in corals with distinct traits and geographical distribution
+## Bacterial and Symbiodiniaceae communities' variation in corals with distinct traits and geographical distribution.
+ 19.10.2024, _LB Villela, AW da Silva-Lima, APB Moreira, YRA Aiube, FV Ribeiro, HDM Villela, ME Majzoub, M Amario, RL de Moura, T Thomas, RS Peixoto, PS Salomon_
+
+
+_Animals, Anthozoa, Microbiota, Coral Reefs, RNA, Ribosomal, 16S, Bacteria, Brazil, Symbiosis, Phylogeny, Dinoflagellida, High-Throughput Nucleotide Sequencing, Ecosystem_
+Coral microbiomes play crucial roles in holobiont homeostasis and adaptation. The host's ability to populate broad ecological niches and to cope with environmental changes seems to be related to the flexibility of the coral microbiome. By means of high-throughput DNA sequencing we characterized simultaneously both bacterial (16S rRNA) and Symbiodiniaceae (ITS2) communities of four reef-building coral species (Mussismilia braziliensis, Mussismilia harttii, Montastraea cavernosa, and Favia gravida) that differ in geographic distribution and niche specificity. Samples were collected in a marginal reef system (Abrolhos, Brazil) in four sites of contrasting irradiance and turbidity. Biological filters governed by the host are important in shaping corals' microbiome structure. More structured associated microbial communities by reef site tend to occur in coral species with broader geographic and depth ranges, especially for Symbiodiniaceae, whereas the endemic and habitat-specialist host, M. braziliensis, has relatively more homogenous bacterial communities with more exclusive members. Our findings lend credence to the hypothesis that higher microbiome flexibility renders corals more adaptable to diverse environments, a trend that should be investigated in more hosts and reef areas.
 
 [Source](https://doi.org/10.1038/s41598-024-70121-2)
+
+10.1038/s41598-024-70121-2
 
 ---
 
