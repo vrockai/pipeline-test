@@ -1,5 +1,5 @@
 ## Fecal glycoprotein 2 is a marker of gut microbiota dysbiosis and systemic inflammation.
- 19.10.2024, _F Frost, S Weiss, J Hertel, M Rühlemann, C Bang, A Franke, M Nauck, M Dörr, H Völzke, D Roggenbuck, P Schierack, U Völker, G Homuth, AA Aghdassi, M Sendler, MM Lerch, FU Weiss_
+ 23.10.2024, _F Frost, S Weiss, J Hertel, M Rühlemann, C Bang, A Franke, M Nauck, M Dörr, H Völzke, D Roggenbuck, P Schierack, U Völker, G Homuth, AA Aghdassi, M Sendler, MM Lerch, FU Weiss_
 
 
 Antimicrobial autoantigenic glycoprotein 2 (GP2) is an important component of the innate immune system which originates from the exocrine pancreas as well as from the small intestines. The relationship of GP2 with the intestinal microbiome as well as the systemic implications of increased fecal GP2 levels are, however, still unclear. Therefore, fecal samples from 2,812 individuals of the Study of Health in Pomerania (SHIP) were collected to determine GP2 levels (enzyme-linked immunosorbent assay) and gut microbiota profiles (16 S rRNA gene sequencing). These data were correlated and associated with highly standardised and comprehensive phenotypic data of the study participants.
@@ -17,7 +17,7 @@ Antimicrobial autoantigenic glycoprotein 2 (GP2) is an important component of th
 ---
 
 ## Upper respiratory microbial communities of healthy populations are shaped by niche and age.
- 22.10.2024, _S Zelasko, MH Swaney, S Sandstrom, TC Davenport, CM Seroogy, JE Gern, LR Kalan, CR Currie_
+ 23.10.2024, _S Zelasko, MH Swaney, S Sandstrom, TC Davenport, CM Seroogy, JE Gern, LR Kalan, CR Currie_
 
 
 _Humans, Microbiota, Mouth, Adult, Infant, Female, Bacteria, Male, Age Factors, Child, Preschool, Healthy Volunteers, Metagenomics, Respiratory System, Metagenome_
@@ -129,7 +129,7 @@ The optimal vaginal microbiome is a Lactobacillus-dominant community. Apart from
 ---
 
 ## EphA2 blockage ALW-II-41-27 alleviates atherosclerosis by remodeling gut microbiota to regulate bile acid metabolism.
- 21.10.2024, _C Lu, D Liu, Q Wu, J Zeng, Y Xiong, T Luo_
+ 23.10.2024, _C Lu, D Liu, Q Wu, J Zeng, Y Xiong, T Luo_
 
 
 _Animals, Atherosclerosis, Gastrointestinal Microbiome, Bile Acids and Salts, Mice, Receptor, EphA2, Diet, High-Fat, Male, Humans, Disease Models, Animal, Plaque, Atherosclerotic, Mice, Inbred C57BL, Bacteria, Dysbiosis_
@@ -191,7 +191,7 @@ As one of the important components of ruminant gastrointestinal tract (GIT) micr
 ---
 
 ## A metabolic modeling-based framework for predicting trophic dependencies in native rhizobiomes of crop plants.
- 19.10.2024, _AA Ginatt, M Berihu, E Castel, S Medina, G Carmi, A Faigenboim-Doron, I Sharon, O Tal, S Droby, T Somera, M Mazzola, H Eizenberg, S Freilich_
+ 23.10.2024, _AA Ginatt, M Berihu, E Castel, S Medina, G Carmi, A Faigenboim-Doron, I Sharon, O Tal, S Droby, T Somera, M Mazzola, H Eizenberg, S Freilich_
 
 
 _Rhizosphere, Malus, Microbiota, Plant Roots, Soil Microbiology, Bacteria, Crops, Agricultural, Metabolomics, Models, Biological_
@@ -229,7 +229,7 @@ With over 3 trillion trees, forest ecosystems comprise nearly one-third of the t
 ---
 
 ## Agricultural practices influence soil microbiome assembly and interactions at different depths identified by machine learning.
- 21.10.2024, _Y Mo, R Bier, X Li, M Daniels, A Smith, L Yu, J Kan_
+ 23.10.2024, _Y Mo, R Bier, X Li, M Daniels, A Smith, L Yu, J Kan_
 
 
 _Soil Microbiology, Machine Learning, Agriculture, Microbiota, Fungi, Soil, Bacteria_
@@ -242,7 +242,7 @@ Agricultural practices affect soil microbes which are critical to soil health an
 ---
 
 ## Community successional patterns and inter-kingdom interactions during granular biofilm development.
- 21.10.2024, _M de Celis, O Modin, L Arregui, F Persson, A Santos, I Belda, BM Wilén, R Liébana_
+ 23.10.2024, _M de Celis, O Modin, L Arregui, F Persson, A Santos, I Belda, BM Wilén, R Liébana_
 
 
 _Biofilms, Sewage, Bioreactors, Bacteria, Microbial Interactions, Eukaryota, Microbiota_
@@ -280,7 +280,7 @@ The efficiency of microbial fuel cells (MFCs) in industrial wastewater treatment
 ---
 
 ## Evaluation of inter- and intra-variability in gut health markers in healthy adults using an optimised faecal sampling and processing method.
- 22.10.2024, _K Kruger, Y Myeonghyun, N van der Wielen, DE Kok, GJ Hooiveld, S Keshtkar, M Diepeveen-de Bruin, MGJ Balvers, M Grootte-Bromhaar, K Mudde, NTHN Ly, Y Vermeiren, LCPGM de Groot, RCH de Vos, GB Gonzales, WT Steegenga, MPH van Trijp_
+ 23.10.2024, _K Kruger, Y Myeonghyun, N van der Wielen, DE Kok, GJ Hooiveld, S Keshtkar, M Diepeveen-de Bruin, MGJ Balvers, M Grootte-Bromhaar, K Mudde, NTHN Ly, Y Vermeiren, LCPGM de Groot, RCH de Vos, GB Gonzales, WT Steegenga, MPH van Trijp_
 
 
 _Humans, Feces, Adult, Biomarkers, Male, Female, Gastrointestinal Microbiome, Healthy Volunteers, Specimen Handling, Middle Aged, Young Adult_
