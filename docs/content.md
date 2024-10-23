@@ -153,16 +153,9 @@ Coronary artery disease (CAD), a critical condition resulting from systemic infl
 
 ---
 
-## Bacterial and Symbiodiniaceae communities' variation in corals with distinct traits and geographical distribution.
- 19.10.2024, _LB Villela, AW da Silva-Lima, APB Moreira, YRA Aiube, FV Ribeiro, HDM Villela, ME Majzoub, M Amario, RL de Moura, T Thomas, RS Peixoto, PS Salomon_
-
-
-_Animals, Anthozoa, Microbiota, Coral Reefs, RNA, Ribosomal, 16S, Bacteria, Brazil, Symbiosis, Phylogeny, Dinoflagellida, High-Throughput Nucleotide Sequencing, Ecosystem_
-Coral microbiomes play crucial roles in holobiont homeostasis and adaptation. The host's ability to populate broad ecological niches and to cope with environmental changes seems to be related to the flexibility of the coral microbiome. By means of high-throughput DNA sequencing we characterized simultaneously both bacterial (16S rRNA) and Symbiodiniaceae (ITS2) communities of four reef-building coral species (Mussismilia braziliensis, Mussismilia harttii, Montastraea cavernosa, and Favia gravida) that differ in geographic distribution and niche specificity. Samples were collected in a marginal reef system (Abrolhos, Brazil) in four sites of contrasting irradiance and turbidity. Biological filters governed by the host are important in shaping corals' microbiome structure. More structured associated microbial communities by reef site tend to occur in coral species with broader geographic and depth ranges, especially for Symbiodiniaceae, whereas the endemic and habitat-specialist host, M. braziliensis, has relatively more homogenous bacterial communities with more exclusive members. Our findings lend credence to the hypothesis that higher microbiome flexibility renders corals more adaptable to diverse environments, a trend that should be investigated in more hosts and reef areas.
+## Bacterial and Symbiodiniaceae communities’ variation in corals with distinct traits and geographical distribution
 
 [Source](https://doi.org/10.1038/s41598-024-70121-2)
-
-10.1038/s41598-024-70121-2
 
 ---
 
@@ -280,7 +273,7 @@ The efficiency of microbial fuel cells (MFCs) in industrial wastewater treatment
 ---
 
 ## Evaluation of inter- and intra-variability in gut health markers in healthy adults using an optimised faecal sampling and processing method.
- 21.10.2024, _K Kruger, Y Myeonghyun, N van der Wielen, DE Kok, GJ Hooiveld, S Keshtkar, M Diepeveen-de Bruin, MGJ Balvers, M Grootte-Bromhaar, K Mudde, NTHN Ly, Y Vermeiren, LCPGM de Groot, RCH de Vos, GB Gonzales, WT Steegenga, MPH van Trijp_
+ 22.10.2024, _K Kruger, Y Myeonghyun, N van der Wielen, DE Kok, GJ Hooiveld, S Keshtkar, M Diepeveen-de Bruin, MGJ Balvers, M Grootte-Bromhaar, K Mudde, NTHN Ly, Y Vermeiren, LCPGM de Groot, RCH de Vos, GB Gonzales, WT Steegenga, MPH van Trijp_
 
 
 _Humans, Feces, Adult, Biomarkers, Male, Female, Gastrointestinal Microbiome, Healthy Volunteers, Specimen Handling, Middle Aged, Young Adult_
