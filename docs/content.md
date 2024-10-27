@@ -153,39 +153,78 @@ Coronary artery disease (CAD), a critical condition resulting from systemic infl
 
 ---
 
-## Bacterial and Symbiodiniaceae communities’ variation in corals with distinct traits and geographical distribution
+## Bacterial and Symbiodiniaceae communities' variation in corals with distinct traits and geographical distribution.
+ 19.10.2024, _LB Villela, AW da Silva-Lima, APB Moreira, YRA Aiube, FV Ribeiro, HDM Villela, ME Majzoub, M Amario, RL de Moura, T Thomas, RS Peixoto, PS Salomon_
+
+
+_Animals, Anthozoa, Microbiota, Coral Reefs, RNA, Ribosomal, 16S, Bacteria, Brazil, Symbiosis, Phylogeny, Dinoflagellida, High-Throughput Nucleotide Sequencing, Ecosystem_
+Coral microbiomes play crucial roles in holobiont homeostasis and adaptation. The host's ability to populate broad ecological niches and to cope with environmental changes seems to be related to the flexibility of the coral microbiome. By means of high-throughput DNA sequencing we characterized simultaneously both bacterial (16S rRNA) and Symbiodiniaceae (ITS2) communities of four reef-building coral species (Mussismilia braziliensis, Mussismilia harttii, Montastraea cavernosa, and Favia gravida) that differ in geographic distribution and niche specificity. Samples were collected in a marginal reef system (Abrolhos, Brazil) in four sites of contrasting irradiance and turbidity. Biological filters governed by the host are important in shaping corals' microbiome structure. More structured associated microbial communities by reef site tend to occur in coral species with broader geographic and depth ranges, especially for Symbiodiniaceae, whereas the endemic and habitat-specialist host, M. braziliensis, has relatively more homogenous bacterial communities with more exclusive members. Our findings lend credence to the hypothesis that higher microbiome flexibility renders corals more adaptable to diverse environments, a trend that should be investigated in more hosts and reef areas.
 
 [Source](https://doi.org/10.1038/s41598-024-70121-2)
 
+10.1038/s41598-024-70121-2
+
 ---
 
-## The Role of Geography, Diet, and Host Phylogeny on the Gut Microbiome in the Hawaiian Honeycreeper Radiation
+## The Role of Geography, Diet, and Host Phylogeny on the Gut Microbiome in the Hawaiian Honeycreeper Radiation.
+ 18.10.2024, _MS Costantini, E Videvall, JT Foster, MCI Medeiros, JD Gillece, EH Paxton, LH Crampton, HL Mounce, AX Wang, RC Fleischer, MG Campana, FA Reed_
+
+
+The animal gut microbiome can have a strong influence on the health, fitness, and behavior of its hosts. The composition of the gut microbial community can be influenced by factors such as diet, environment, and evolutionary history (phylosymbiosis). However, the relative influence of these factors is unknown in most bird species. Furthermore, phylosymbiosis studies have largely focused on clades that diverged tens of millions of years ago, and little is known about the degree of gut microbiome divergence in more recent species radiations. This study explores the drivers of microbiome variation across the unique and recent Hawaiian honeycreeper radiation (Fringillidae: Drepanidinae). Fecal samples were collected from 14 extant species spanning the main islands of the Hawaiian archipelago and were sequenced using three metabarcoding markers to characterize the gut microbiome, invertebrate diet, and plant diet of Hawaiian honeycreepers. We then used these metabarcoding data and the honeycreeper host phylogeny to evaluate their relative roles in shaping the gut microbiome. Microbiome variation across birds was highly individualized; however, source island had a small but significant effect on microbiome structure. The microbiomes did not recapitulate the host phylogenetic tree, indicating that evolutionary history does not strongly influence microbiome structure in the honeycreeper clade. These results expand our understanding of the roles of diet, geography, and phylogeny on avian microbiome structure, while also providing important ecological information about the diet and gut microbiota of wild Hawaiian honeycreepers.
 
 [Source](https://doi.org/10.1002/ece3.70372)
 
+10.1002/ece3.70372
+
 ---
 
-## New insights into the enteric methane production based on the archaeal genome map of ruminant gastrointestinal tract
+## New insights into the enteric methane production based on the archaeal genome map of ruminant gastrointestinal tract.
+ 19.10.2024, _Y Tang, X Liu, S Zhu, M Jia, JX Liu, HZ Sun_
+
+
+As one of the important components of ruminant gastrointestinal tract (GIT) microbiome, archaea are involved in many biological processes, especially methanogenesis. However, the diversity and individual metabolic characteristics of archaea in this habitat remain largely understudied, partly due to the lack of a unified reference genome catalog.
 
 [Source](https://doi.org/10.1016/j.jare.2024.09.016)
 
+10.1016/j.jare.2024.09.016
+
 ---
 
-## A metabolic modeling-based framework for predicting trophic dependencies in native rhizobiomes of crop plants
+## A metabolic modeling-based framework for predicting trophic dependencies in native rhizobiomes of crop plants.
+ 23.10.2024, _AA Ginatt, M Berihu, E Castel, S Medina, G Carmi, A Faigenboim-Doron, I Sharon, O Tal, S Droby, T Somera, M Mazzola, H Eizenberg, S Freilich_
+
+
+_Rhizosphere, Malus, Microbiota, Plant Roots, Soil Microbiology, Bacteria, Crops, Agricultural, Metabolomics, Models, Biological_
+The exchange of metabolites (i.e., metabolic interactions) between bacteria in the rhizosphere determines various plant-associated functions. Systematically understanding the metabolic interactions in the rhizosphere, as well as in other types of microbial communities, would open the door to the optimization of specific predefined functions of interest, and therefore to the harnessing of the functionality of various types of microbiomes. However, mechanistic knowledge regarding the gathering and interpretation of these interactions is limited. Here, we present a framework utilizing genomics and constraint-based modeling approaches, aiming to interpret the hierarchical trophic interactions in the soil environment. 243 genome scale metabolic models of bacteria associated with a specific disease-suppressive vs disease-conducive apple rhizospheres were drafted based on genome-resolved metagenomes, comprising an in silico native microbial community. Iteratively simulating microbial community members' growth in a metabolomics-based apple root-like environment produced novel data on potential trophic successions, used to form a network of communal trophic dependencies. Network-based analyses have characterized interactions associated with beneficial vs non-beneficial microbiome functioning, pinpointing specific compounds and microbial species as potential disease supporting and suppressing agents. This framework provides a means for capturing trophic interactions and formulating a range of testable hypotheses regarding the metabolic capabilities of microbial communities within their natural environment. Essentially, it can be applied to different environments and biological landscapes, elucidating the conditions for the targeted manipulation of various microbiomes, and the execution of countless predefined functions.
 
 [Source](https://doi.org/10.7554/eLife.94558)
 
+10.7554/eLife.94558
+
 ---
 
-## Unravelling the microbiome of wild flowering plants: a comparative study of leaves and flowers in alpine ecosystems
+## Unravelling the microbiome of wild flowering plants: a comparative study of leaves and flowers in alpine ecosystems.
+ 21.10.2024, _DK Ramakrishnan, F Jauernegger, D Hoefle, C Berg, G Berg, A Abdelfattah_
+
+
+_Plant Leaves, Microbiota, Bacteria, Fungi, Flowers, Soil Microbiology, Ecosystem, Austria, Altitude, Magnoliopsida, Biodiversity, Soil_
+While substantial research has explored rhizosphere and phyllosphere microbiomes, knowledge on flower microbiome, particularly in wild plants remains limited. This study explores into the diversity, abundance, and composition of bacterial and fungal communities on leaves and flowers of wild flowering plants in their natural alpine habitat, considering the influence of environmental factors.
 
 [Source](https://doi.org/10.1186/s12866-024-03574-0)
 
+10.1186/s12866-024-03574-0
+
 ---
 
-## Algae-fungi symbioses and bacteria-fungi co-exclusion drive tree species-specific differences in canopy bark microbiomes
+## Algae-fungi symbioses and bacteria-fungi co-exclusion drive tree species-specific differences in canopy bark microbiomes.
+ 17.10.2024, _J Freudenthal, K Dumack, S Schaffer, M Schlegel, M Bonkowski_
+
+
+With over 3 trillion trees, forest ecosystems comprise nearly one-third of the terrestrial surface of the Earth. Very little attention has been given to the exploration of the above-ground plant microbiome of trees, its complex trophic interactions, and variations among tree species. To address this knowledge gap, we applied a primer-independent shotgun metatranscriptomic approach to assess the entire living canopy bark microbiome comprising prokaryotic and eukaryotic primary producers, decomposers, and various groups of consumers. With almost 1500 genera, we found a high microbial diversity on three tree species with distinct bark textures: oak (Quercus robur), linden (Tilia cordata), both with rough bark, and maple (Acer pseudoplatanus) with smooth bark. Core co-occurrence network analysis revealed a rich food web dominated by algal primary producers, and bacterial and fungal decomposers, sustaining a diverse community of consumers, including protists, microscopic metazoans and predatory bacteria. Whereas maple accommodated a depauperate microbiome, oak and linden accommodated a richer microbiome mainly differing in their relative community composition: Bacteria exhibited an increased dominance on linden, whereas co-occurring algae and fungi dominated on oak, highlighting the importance of algal-fungal lichen symbioses even at the microscopic scale. Further, due to bacteria-fungi co-exclusion, bacteria on bark are not the main beneficiaries of algae-derived carbon compounds as it is known from aquatic systems.
 
 [Source](https://doi.org/10.1093/ismejo/wrae206)
+
+10.1093/ismejo/wrae206
 
 ---
 
