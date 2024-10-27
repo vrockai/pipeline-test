@@ -29,15 +29,15 @@ Alterations in upper respiratory microbiomes have been implicated in shaping hos
 
 ---
 
-## Intestinal Fatty Acid-Binding Protein as a Marker of Necrotizing Enterocolitis Incidence and Severity: A Scoping Review.
- 22.10.2024, _L Sbragia, IJN Gualberto, J Xia, R Gadde, A Saulsbery, S Hameedi, ALF Mársico Dalto, OO Olutoye_
+## Bacteriological Profile and Antibiotic Susceptibility of Neonatal Sepsis Cases in the Neonatal Intensive Care Unit of a Tertiary Hospital in Türkiye.
+ 26.10.2024, _BA Dorum, Ş Elmas Bozdemir, BZ Kral, A Erdoğan, SÇ Çakır_
 
 
-Necrotizing enterocolitis (NEC) is a severe inflammatory disease of the gastrointestinal tract and one of the most common life-threatening emergencies affecting newborns. Intestinal fatty acid-binding protein (I-FABP) has been used as a possible marker of intestinal damage in NEC. We aimed to carry out a scoping review of all publications that explore the role of I-FABP in NEC to inspire new research into the potential utility of I-FABP as a marker of NEC.
+We aimed to determine the demographic data, mortality, and morbidity of early- and late-neonatal sepsis cases, the etiologic agents in these cases, and the antibiotic susceptibility of these agents.
 
 [Source](https://doi.org/10.1038/s41598-024-75157-y)
 
-10.1016/j.jss.2024.09.059
+10.3390/children11101208
 
 ---
 
@@ -153,75 +153,154 @@ Coronary artery disease (CAD), a critical condition resulting from systemic infl
 
 ---
 
-## Bacterial and Symbiodiniaceae communities’ variation in corals with distinct traits and geographical distribution
+## Bacterial and Symbiodiniaceae communities' variation in corals with distinct traits and geographical distribution.
+ 19.10.2024, _LB Villela, AW da Silva-Lima, APB Moreira, YRA Aiube, FV Ribeiro, HDM Villela, ME Majzoub, M Amario, RL de Moura, T Thomas, RS Peixoto, PS Salomon_
+
+
+_Animals, Anthozoa, Microbiota, Coral Reefs, RNA, Ribosomal, 16S, Bacteria, Brazil, Symbiosis, Phylogeny, Dinoflagellida, High-Throughput Nucleotide Sequencing, Ecosystem_
+Coral microbiomes play crucial roles in holobiont homeostasis and adaptation. The host's ability to populate broad ecological niches and to cope with environmental changes seems to be related to the flexibility of the coral microbiome. By means of high-throughput DNA sequencing we characterized simultaneously both bacterial (16S rRNA) and Symbiodiniaceae (ITS2) communities of four reef-building coral species (Mussismilia braziliensis, Mussismilia harttii, Montastraea cavernosa, and Favia gravida) that differ in geographic distribution and niche specificity. Samples were collected in a marginal reef system (Abrolhos, Brazil) in four sites of contrasting irradiance and turbidity. Biological filters governed by the host are important in shaping corals' microbiome structure. More structured associated microbial communities by reef site tend to occur in coral species with broader geographic and depth ranges, especially for Symbiodiniaceae, whereas the endemic and habitat-specialist host, M. braziliensis, has relatively more homogenous bacterial communities with more exclusive members. Our findings lend credence to the hypothesis that higher microbiome flexibility renders corals more adaptable to diverse environments, a trend that should be investigated in more hosts and reef areas.
 
 [Source](https://doi.org/10.1038/s41598-024-70121-2)
 
+10.1038/s41598-024-70121-2
+
 ---
 
-## The Role of Geography, Diet, and Host Phylogeny on the Gut Microbiome in the Hawaiian Honeycreeper Radiation
+## The Role of Geography, Diet, and Host Phylogeny on the Gut Microbiome in the Hawaiian Honeycreeper Radiation.
+ 18.10.2024, _MS Costantini, E Videvall, JT Foster, MCI Medeiros, JD Gillece, EH Paxton, LH Crampton, HL Mounce, AX Wang, RC Fleischer, MG Campana, FA Reed_
+
+
+The animal gut microbiome can have a strong influence on the health, fitness, and behavior of its hosts. The composition of the gut microbial community can be influenced by factors such as diet, environment, and evolutionary history (phylosymbiosis). However, the relative influence of these factors is unknown in most bird species. Furthermore, phylosymbiosis studies have largely focused on clades that diverged tens of millions of years ago, and little is known about the degree of gut microbiome divergence in more recent species radiations. This study explores the drivers of microbiome variation across the unique and recent Hawaiian honeycreeper radiation (Fringillidae: Drepanidinae). Fecal samples were collected from 14 extant species spanning the main islands of the Hawaiian archipelago and were sequenced using three metabarcoding markers to characterize the gut microbiome, invertebrate diet, and plant diet of Hawaiian honeycreepers. We then used these metabarcoding data and the honeycreeper host phylogeny to evaluate their relative roles in shaping the gut microbiome. Microbiome variation across birds was highly individualized; however, source island had a small but significant effect on microbiome structure. The microbiomes did not recapitulate the host phylogenetic tree, indicating that evolutionary history does not strongly influence microbiome structure in the honeycreeper clade. These results expand our understanding of the roles of diet, geography, and phylogeny on avian microbiome structure, while also providing important ecological information about the diet and gut microbiota of wild Hawaiian honeycreepers.
 
 [Source](https://doi.org/10.1002/ece3.70372)
 
+10.1002/ece3.70372
+
 ---
 
-## New insights into the enteric methane production based on the archaeal genome map of ruminant gastrointestinal tract
+## New insights into the enteric methane production based on the archaeal genome map of ruminant gastrointestinal tract.
+ 19.10.2024, _Y Tang, X Liu, S Zhu, M Jia, JX Liu, HZ Sun_
+
+
+As one of the important components of ruminant gastrointestinal tract (GIT) microbiome, archaea are involved in many biological processes, especially methanogenesis. However, the diversity and individual metabolic characteristics of archaea in this habitat remain largely understudied, partly due to the lack of a unified reference genome catalog.
 
 [Source](https://doi.org/10.1016/j.jare.2024.09.016)
 
+10.1016/j.jare.2024.09.016
+
 ---
 
-## A metabolic modeling-based framework for predicting trophic dependencies in native rhizobiomes of crop plants
+## A metabolic modeling-based framework for predicting trophic dependencies in native rhizobiomes of crop plants.
+ 23.10.2024, _AA Ginatt, M Berihu, E Castel, S Medina, G Carmi, A Faigenboim-Doron, I Sharon, O Tal, S Droby, T Somera, M Mazzola, H Eizenberg, S Freilich_
+
+
+_Rhizosphere, Malus, Microbiota, Plant Roots, Soil Microbiology, Bacteria, Crops, Agricultural, Metabolomics, Models, Biological_
+The exchange of metabolites (i.e., metabolic interactions) between bacteria in the rhizosphere determines various plant-associated functions. Systematically understanding the metabolic interactions in the rhizosphere, as well as in other types of microbial communities, would open the door to the optimization of specific predefined functions of interest, and therefore to the harnessing of the functionality of various types of microbiomes. However, mechanistic knowledge regarding the gathering and interpretation of these interactions is limited. Here, we present a framework utilizing genomics and constraint-based modeling approaches, aiming to interpret the hierarchical trophic interactions in the soil environment. 243 genome scale metabolic models of bacteria associated with a specific disease-suppressive vs disease-conducive apple rhizospheres were drafted based on genome-resolved metagenomes, comprising an in silico native microbial community. Iteratively simulating microbial community members' growth in a metabolomics-based apple root-like environment produced novel data on potential trophic successions, used to form a network of communal trophic dependencies. Network-based analyses have characterized interactions associated with beneficial vs non-beneficial microbiome functioning, pinpointing specific compounds and microbial species as potential disease supporting and suppressing agents. This framework provides a means for capturing trophic interactions and formulating a range of testable hypotheses regarding the metabolic capabilities of microbial communities within their natural environment. Essentially, it can be applied to different environments and biological landscapes, elucidating the conditions for the targeted manipulation of various microbiomes, and the execution of countless predefined functions.
 
 [Source](https://doi.org/10.7554/eLife.94558)
 
+10.7554/eLife.94558
+
 ---
 
-## Unravelling the microbiome of wild flowering plants: a comparative study of leaves and flowers in alpine ecosystems
+## Unravelling the microbiome of wild flowering plants: a comparative study of leaves and flowers in alpine ecosystems.
+ 21.10.2024, _DK Ramakrishnan, F Jauernegger, D Hoefle, C Berg, G Berg, A Abdelfattah_
+
+
+_Plant Leaves, Microbiota, Bacteria, Fungi, Flowers, Soil Microbiology, Ecosystem, Austria, Altitude, Magnoliopsida, Biodiversity, Soil_
+While substantial research has explored rhizosphere and phyllosphere microbiomes, knowledge on flower microbiome, particularly in wild plants remains limited. This study explores into the diversity, abundance, and composition of bacterial and fungal communities on leaves and flowers of wild flowering plants in their natural alpine habitat, considering the influence of environmental factors.
 
 [Source](https://doi.org/10.1186/s12866-024-03574-0)
 
+10.1186/s12866-024-03574-0
+
 ---
 
-## Algae-fungi symbioses and bacteria-fungi co-exclusion drive tree species-specific differences in canopy bark microbiomes
+## Algae-fungi symbioses and bacteria-fungi co-exclusion drive tree species-specific differences in canopy bark microbiomes.
+ 17.10.2024, _J Freudenthal, K Dumack, S Schaffer, M Schlegel, M Bonkowski_
+
+
+With over 3 trillion trees, forest ecosystems comprise nearly one-third of the terrestrial surface of the Earth. Very little attention has been given to the exploration of the above-ground plant microbiome of trees, its complex trophic interactions, and variations among tree species. To address this knowledge gap, we applied a primer-independent shotgun metatranscriptomic approach to assess the entire living canopy bark microbiome comprising prokaryotic and eukaryotic primary producers, decomposers, and various groups of consumers. With almost 1500 genera, we found a high microbial diversity on three tree species with distinct bark textures: oak (Quercus robur), linden (Tilia cordata), both with rough bark, and maple (Acer pseudoplatanus) with smooth bark. Core co-occurrence network analysis revealed a rich food web dominated by algal primary producers, and bacterial and fungal decomposers, sustaining a diverse community of consumers, including protists, microscopic metazoans and predatory bacteria. Whereas maple accommodated a depauperate microbiome, oak and linden accommodated a richer microbiome mainly differing in their relative community composition: Bacteria exhibited an increased dominance on linden, whereas co-occurring algae and fungi dominated on oak, highlighting the importance of algal-fungal lichen symbioses even at the microscopic scale. Further, due to bacteria-fungi co-exclusion, bacteria on bark are not the main beneficiaries of algae-derived carbon compounds as it is known from aquatic systems.
 
 [Source](https://doi.org/10.1093/ismejo/wrae206)
 
+10.1093/ismejo/wrae206
+
 ---
 
-## Agricultural practices influence soil microbiome assembly and interactions at different depths identified by machine learning
+## Agricultural practices influence soil microbiome assembly and interactions at different depths identified by machine learning.
+ 23.10.2024, _Y Mo, R Bier, X Li, M Daniels, A Smith, L Yu, J Kan_
+
+
+_Soil Microbiology, Machine Learning, Agriculture, Microbiota, Fungi, Soil, Bacteria_
+Agricultural practices affect soil microbes which are critical to soil health and sustainable agriculture. To understand prokaryotic and fungal assembly under agricultural practices, we use machine learning-based methods. We show that fertility source is the most pronounced factor for microbial assembly especially for fungi, and its effect decreases with soil depths. Fertility source also shapes microbial co-occurrence patterns revealed by machine learning, leading to fungi-dominated modules sensitive to fertility down to 30 cm depth. Tillage affects soil microbiomes at 0-20 cm depth, enhancing dispersal and stochastic processes but potentially jeopardizing microbial interactions. Cover crop effects are less pronounced and lack depth-dependent patterns. Machine learning reveals that the impact of agricultural practices on microbial communities is multifaceted and highlights the role of fertility source over the soil depth. Machine learning overcomes the linear limitations of traditional methods and offers enhanced insights into the mechanisms underlying microbial assembly and distributions in agriculture soils.
 
 [Source](https://doi.org/10.1038/s42003-024-07059-8)
 
+10.1038/s42003-024-07059-8
+
 ---
 
-## Community successional patterns and inter-kingdom interactions during granular biofilm development
+## Community successional patterns and inter-kingdom interactions during granular biofilm development.
+ 23.10.2024, _M de Celis, O Modin, L Arregui, F Persson, A Santos, I Belda, BM Wilén, R Liébana_
+
+
+_Biofilms, Sewage, Bioreactors, Bacteria, Microbial Interactions, Eukaryota, Microbiota_
+Aerobic granular sludge is a compact and efficient biofilm process used for wastewater treatment which has received much attention and is currently being implemented worldwide. The microbial associations and their ecological implications occurring during granule development, especially those involving inter-kingdom interactions, are poorly understood. In this work, we monitored the prokaryote and eukaryote community composition and structure during the granulation of activated sludge for 343 days in a sequencing batch reactor (SBR) and investigated the influence of abiotic and biotic factors on the granule development. Sludge granulation was accomplished with low-wash-out dynamics at long settling times, allowing for the microbial communities to adapt to the SBR environmental conditions. The sludge granulation and associated changes in microbial community structure could be divided into three stages: floccular, intermediate, and granular. The eukaryotic and prokaryotic communities showed parallel successional dynamics, with three main sub-communities identified for each kingdom, dominating in each stage of sludge granulation. Although inter-kingdom interactions were shown to affect community succession during the whole experiment, during granule development random factors like the availability of settlement sites or drift acquired increasing importance. The prokaryotic community was more affected by deterministic factors, including reactor conditions, while the eukaryotic community was to a larger extent shaped by biotic interactions (including inter-kingdom interactions) and stochasticity.
 
 [Source](https://doi.org/10.1038/s41522-024-00581-x)
 
+10.1038/s41522-024-00581-x
+
 ---
 
-## Metagenome-based microbial community analysis of urine-derived fertilizer
+## Metagenome-based microbial community analysis of urine-derived fertilizer.
+ 21.10.2024, _NN Woldeyohannis, AF Desta_
+
+
+_Humans, Fertilizers, Urine, Bacteria, Struvite, Metagenome, Microbiota, Metagenomics, DNA, Bacterial, Phylogeny_
+Phosphorus is essential for food production and its supply is limited. Urine is an excellent source of phosphorus and one way to produce fertilizer is through conversion of urine to struvite (MgNH3PO4.6H2O). The present study aimed to understand the bacterial portion of the microbial community composition and dynamics of plasmid-mediated antimicrobial resistant genes during the optimized process of struvite production from composite human urine. Samples for DNA extraction was collected from fresh urine, stored urine and struvite during the process of struvite production. Shotgun metagenomic analysis was employed to understand the bacterial community. The most dominant phyla in the fresh and stored urine samples were Pseudomonadata, which comprised of 60% and 43% respectively, followed by Bacillota, comprised of 25% and 39% respectively. The struvite sample was dominated by the phylum Bacilliota (61%), Pseudomonadota (18%) and bacteroidota (12%). Members of the above phyla persisted in dominating each sample accordingly. Member of the family Morganellaceae was dominant in the fresh sample while the stored urine and struvite samples were dominated by the family Clostridiaceae. A decrease of members of the class Gammaproteobacteria was observed from the fresh to the struvite sample though not statistically significant. The genus Pseudomonas remained to be the most dominant member of Gammaproteobacteria in the fresh and stored urine sample with OTU count of 12,116 and 6,155 with a marked decrease by half in the stored sample. On the other hand, members of the genera Clostridium, Enterococcus, Bacteroides in the stored samples and Clostridium, Alkaliphilus and Pseudomonas in the struvite samples were dominant. 96% of the identified genera were shared in all the samples and the antimicrobial resistance genes (ARGs) identified in the fresh urine were shared by the struvite but not by the stored urine (e.g. sul, cat, aph and aac members). The presence of high abundance of ARGs in struvite needs attention in the persistence and transmissibility of the ARGs before application for agriculture.
 
 [Source](https://doi.org/10.1186/s12866-024-03578-w)
 
+10.1186/s12866-024-03578-w
+
 ---
 
-## Metabolic cross-feeding interactions modulate the dynamic community structure in microbial fuel cell under variable organic loading wastewaters
+## Metabolic cross-feeding interactions modulate the dynamic community structure in microbial fuel cell under variable organic loading wastewaters.
+ 17.10.2024, _N Srinak, P Chiewchankaset, S Kalapanulak, P Panichnumsin, T Saithong_
+
+
+The efficiency of microbial fuel cells (MFCs) in industrial wastewater treatment is profoundly influenced by the microbial community, which can be disrupted by variable industrial operations. Although microbial guilds linked to MFC performance under specific conditions have been identified, comprehensive knowledge of the convergent community structure and pathways of adaptation is lacking. Here, we developed a microbe-microbe interaction genome-scale metabolic model (mmGEM) based on metabolic cross-feeding to study the adaptation of microbial communities in MFCs treating sulfide-containing wastewater from a canned-pineapple factory. The metabolic model encompassed three major microbial guilds: sulfate-reducing bacteria (SRB), methanogens (MET), and sulfide-oxidizing bacteria (SOB). Our findings revealed a shift from an SOB-dominant to MET-dominant community as organic loading rates (OLRs) increased, along with a decline in MFC performance. The mmGEM accurately predicted microbial relative abundance at low OLRs (L-OLRs) and adaptation to high OLRs (H-OLRs). The simulations revealed constraints on SOB growth under H-OLRs due to reduced sulfate-sulfide (S) cycling and acetate cross-feeding with SRB. More cross-fed metabolites from SRB were diverted to MET, facilitating their competitive dominance. Assessing cross-feeding dynamics under varying OLRs enabled the execution of practical scenario-based simulations to explore the potential impact of elevated acidity levels on SOB growth and MFC performance. This work highlights the role of metabolic cross-feeding in shaping microbial community structure in response to high OLRs. The insights gained will inform the development of effective strategies for implementing MFC technology in real-world industrial environments.
 
 [Source](https://doi.org/10.1371/journal.pcbi.1012533)
 
+10.1371/journal.pcbi.1012533
+
 ---
 
-## Evaluation of inter- and intra-variability in gut health markers in healthy adults using an optimised faecal sampling and processing method
+## Evaluation of inter- and intra-variability in gut health markers in healthy adults using an optimised faecal sampling and processing method.
+ 23.10.2024, _K Kruger, Y Myeonghyun, N van der Wielen, DE Kok, GJ Hooiveld, S Keshtkar, M Diepeveen-de Bruin, MGJ Balvers, M Grootte-Bromhaar, K Mudde, NTHN Ly, Y Vermeiren, LCPGM de Groot, RCH de Vos, GB Gonzales, WT Steegenga, MPH van Trijp_
+
+
+_Humans, Feces, Adult, Biomarkers, Male, Female, Gastrointestinal Microbiome, Healthy Volunteers, Specimen Handling, Middle Aged, Young Adult_
+Despite advances in gut health research, the variability of important gut markers within individuals over time remains underexplored. We investigated the intra-individual variation of various faecal gut health markers using an optimised processing protocol aimed at reducing variability. Faecal samples from ten healthy adults over three consecutive days demonstrated marker-specific intra-individual coefficients of variation (CV%), namely: stool consistency (16.5%), water content (5.7%), pH (3.9%), total SCFAs (17.2%), total BCFAs (27.4%), total bacteria and fungi copies (40.6% and 66.7%), calprotectin and myeloperoxidase (63.8% and 106.5%), and untargeted metabolites (on average 40%). For thirteen microbiota genera, including Bifidobacterium and Akkermansia, variability exceeded 30%, whereas microbiota diversity was less variable (Phylogenetic Diversity 3.3%, Inverse Simpson 17.2%). Mill-homogenisation of frozen faeces significantly reduced the replicates CV% for total SCFAs (20.4-7.5%) and total BCFAs (15.9-7.8%), and untargeted metabolites compared to faecal hammering only, without altering mean concentrations. Our results show the potential need for repeated sampling to accurately represent specific gut health markers. We also demonstrated the effectiveness of optimised preprocessing of human stool samples in reducing overall analytical variability.
 
 [Source](https://doi.org/10.1038/s41598-024-75477-z)
 
+10.1038/s41598-024-75477-z
+
 ---
 
-## LineageFilter: Improved Proteotyping of Complex Samples Using Metaproteomics and Machine Learning
+## LineageFilter: Improved Proteotyping of Complex Samples Using Metaproteomics and Machine Learning.
+ 19.10.2024, _H Hachemi, J Armengaud, L Grenga, O Pible_
+
+
+Metaproteomics is a powerful tool to characterize how microbiota function by analyzing their proteic content by tandem mass spectrometry. Given the complexity of these samples, accurately assessing their taxonomical composition without prior information based solely on peptide sequences remains a challenge. Here, we present LineageFilter, a new python-based AI software for refined proteotyping of complex samples using metaproteomics interpreted data and machine learning. Given a tentative list of taxa, their abundances, and the scores associated with their identified peptides, LineageFilter computes a comprehensive set of features for each identified taxon at all taxonomical ranks. Its machine-learning model then assesses the likelihood of each taxon's presence based on these features, enabling improved proteotyping and sample-specific database construction.
 
 [Source](https://doi.org/10.1021/acs.jproteome.4c00184)
+
+10.1021/acs.jproteome.4c00184
 
 ---
 
