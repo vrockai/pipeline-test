@@ -4,29 +4,15 @@
 
 ---
 
-## A ubiquitous mobile genetic element changes the antagonistic weaponry of a human gut symbiont.
- 29.10.2024, _ML Sheahan, K Flores, MJ Coyne, L García-Bayona, M Chatzidaki-Livanis, AQ Holst, RC Smith, A Sundararajan, B Barquera, LE Comstock_
-
-
-_Humans, Bacteroides fragilis, Conjugation, Genetic, Gastrointestinal Microbiome, Gene Transfer, Horizontal, Genetic Fitness, Genome, Bacterial, Interspersed Repetitive Sequences, Symbiosis, Type VI Secretion Systems, DNA, Bacterial_
-DNA transfer is ubiquitous in the human gut microbiota, especially among species of the order Bacteroidales. In silico analyses have revealed hundreds of mobile genetic elements shared between these species, yet little is known about the phenotypes they encode, their effects on fitness, or pleiotropic consequences for the recipient's genome. In this work, we show that acquisition of a ubiquitous integrative conjugative element (ICE) encoding a type VI secretion system (T6SS) shuts down the native T6SS of Bacteroides fragilis. Despite inactivating this T6SS, ICE acquisition increases the fitness of the B. fragilis transconjugant over its progenitor by arming it with the new T6SS. DNA transfer causes the strain to change allegiances so that it no longer targets ecosystem members with the same element yet is armed for communal defense.
+## A ubiquitous mobile genetic element changes the antagonistic weaponry of a human gut symbiont
 
 [Source](https://doi.org/10.1126/science.adj9504)
 
-10.1126/science.adj9504
-
 ---
 
-## Exploring alterations of gut/blood microbes in addressing iron overload-induced gut dysbiosis and cognitive impairment in thalassemia patients.
- 25.10.2024, _K Suparan, K Trirattanapa, P Piriyakhuntorn, S Sriwichaiin, C Thonusin, W Nawara, S Kerdpoo, N Chattipakorn, A Tantiworawit, SC Chattipakorn_
-
-
-_Humans, Dysbiosis, Gastrointestinal Microbiome, Male, Female, Thalassemia, Adult, Iron Overload, Cognitive Dysfunction, Young Adult, Middle Aged, Brain-Gut Axis, Case-Control Studies_
-Iron overload causes cognitive impairment in thalassemia patients. The gut-brain axis plays an important role in cognitive function. However, the association between gut/blood microbiome, cognition, and iron burden in thalassemia patients has not been thoroughly investigated. We aimed to determine those associations in thalassemia patients with different blood-transfusion regimens. Sixty participants: healthy controls, transfusion-dependent thalassemia (TDT) patients, and non-transfusion-dependent (NTDT) patients, were recruited to evaluate iron overload, cognition, and gut/blood microbiome. TDT patients exhibited greater iron overload than NTDT patients. Most thalassemia patients developed gut dysbiosis, and approximately 25% of the patients developed minor cognitive impairment. Increased Fusobacteriota and Verrucomicrobiota with decreased Fibrobacterota were observed in both TDT and NTDT groups. TDT patients showed more abundant beneficial bacteria: Verrucomicrobia. Iron overload was correlated with cognitive impairment. Increased Butyricimonas and decreased Paraclostridium were associated with higher cognitive function. No trace of blood microbiota was observed. Differences in blood bacterial profiles of thalassemia patients and controls were insignificant. These findings suggest iron overload plays a role in the imbalance of gut microbiota and impaired cognitive function in thalassemia patients. Harnessing probiotic potential from those microbes could prevent the gut-brain disturbance in thalassemia patients.
+## Exploring alterations of gut/blood microbes in addressing iron overload-induced gut dysbiosis and cognitive impairment in thalassemia patients
 
 [Source](https://doi.org/10.1038/s41598-024-76684-4)
-
-10.1038/s41598-024-76684-4
 
 ---
 
@@ -44,7 +30,7 @@ Bile acids (BAs) exert a profound influence on the body's pathophysiology by int
 ---
 
 ## Gut-first Parkinson's disease is encoded by gut dysbiome.
- 25.10.2024, _MF Munoz-Pinto, E Candeias, I Melo-Marques, AR Esteves, A Maranha, JD Magalhães, DR Carneiro, M Sant'Anna, AR Pereira-Santos, AE Abreu, D Nunes-Costa, S Alarico, I Tiago, A Morgadinho, J Lemos, PN Figueiredo, C Januário, N Empadinhas, SM Cardoso_
+ 29.10.2024, _MF Munoz-Pinto, E Candeias, I Melo-Marques, AR Esteves, A Maranha, JD Magalhães, DR Carneiro, M Sant'Anna, AR Pereira-Santos, AE Abreu, D Nunes-Costa, S Alarico, I Tiago, A Morgadinho, J Lemos, PN Figueiredo, C Januário, N Empadinhas, SM Cardoso_
 
 
 _Animals, Gastrointestinal Microbiome, Parkinson Disease, Mice, Dysbiosis, Male, Mice, Inbred C57BL, Humans, Fecal Microbiota Transplantation_
@@ -57,7 +43,7 @@ In Parkinson's patients, intestinal dysbiosis can occur years before clinical di
 ---
 
 ## Metaproteomics reveals diet-induced changes in gut microbiome function according to Crohn's disease location.
- 24.10.2024, _S Levi Mortera, V Marzano, F Rapisarda, C Marangelo, I Pirona, P Vernocchi, M Di Michele, F Del Chierico, MA Quintero, I Fernandez, H Hazime, RM Killian, N Solis, M Ortega, OM Damas, S Proksell, DH Kerman, AR Deshpande, L Garces, F Scaldaferri, A Gasbarrini, MT Abreu, L Putignani_
+ 29.10.2024, _S Levi Mortera, V Marzano, F Rapisarda, C Marangelo, I Pirona, P Vernocchi, M Di Michele, F Del Chierico, MA Quintero, I Fernandez, H Hazime, RM Killian, N Solis, M Ortega, OM Damas, S Proksell, DH Kerman, AR Deshpande, L Garces, F Scaldaferri, A Gasbarrini, MT Abreu, L Putignani_
 
 
 _Humans, Crohn Disease, Gastrointestinal Microbiome, Male, Female, Feces, Adult, Proteomics, Middle Aged, Diet, Dietary Fiber, Bacteria, Colon, Young Adult, Faecalibacterium_
@@ -93,15 +79,28 @@ Crohn's disease (CD) is characterized by chronic intestinal inflammation. Diet i
 
 ---
 
-## Oral reovirus reshapes the gut microbiome and enhances antitumor immunity in colon cancer
+## Oral reovirus reshapes the gut microbiome and enhances antitumor immunity in colon cancer.
+ 25.10.2024, _WS Lee, SJ Lee, HJ Lee, H Yang, EJ Go, E Gansukh, KH Song, X Xiang, DG Park, T Alain, HJ Chon, C Kim_
+
+
+_Animals, Colonic Neoplasms, Oncolytic Virotherapy, Gastrointestinal Microbiome, Mice, Oncolytic Viruses, Reoviridae, CTLA-4 Antigen, Administration, Oral, Humans, CD8-Positive T-Lymphocytes, Cell Line, Tumor, Dendritic Cells, Female, Mice, Inbred C57BL, Immune Checkpoint Inhibitors, Peyer's Patches_
+The route of oncolytic virotherapy is pivotal for immunotherapeutic efficacy in advanced cancers. In this preclinical study, an oncolytic reovirus (RC402) is orally administered to induce antitumor immunity. Oral reovirus treatment shows no gross toxicities and effectively suppresses multifocal tumor lesions. Orally administered reovirus interacts with the host immune system in the Peyer's patch of the terminal ileum, increases IgA+ antibody-secreting cells in the lamina propria through MAdCAM-1+ blood vessels, and reshapes the gut microbiome. Oral reovirus promotes antigen presentation, type I/II interferons, and T cell activation within distant tumors, but does not reach or directly infect tumor cells beyond the gastrointestinal tract. In contrast to intratumoral reovirus injection, the presence of the gut microbiome, Batf3+ dendritic cells, type I interferons, and CD8+ T cells are indispensable for orally administered reovirus-induced antitumor immunity. Oral reovirus treatment is most effective when combined with αPD-1(L1) and/or αCTLA-4, leading to complete colon tumor regression and protective immune memory. Collectively, oral reovirus virotherapy is a feasible and effective immunotherapeutic strategy in preclinical studies.
 
 [Source](https://doi.org/10.1038/s41467-024-53347-6)
 
+10.1038/s41467-024-53347-6
+
 ---
 
-## Pooled analysis of oral microbiome profiles defines robust signatures associated with periodontitis
+## Pooled analysis of oral microbiome profiles defines robust signatures associated with periodontitis.
+ 24.10.2024, _A Soueidan, K Idiri, C Becchina, P Esparbès, A Legrand, Q Le Bastard, E Montassier_
+
+
+Oral microbial dysbiosis has been associated with periodontitis in studies using 16S rRNA gene sequencing analysis. However, this technology is not sufficient to consistently separate the bacterial species to species level, and reproducible oral microbiome signatures are scarce. Obtaining these signatures would significantly enhance our understanding of the underlying pathophysiological processes of this condition and foster the development of improved therapeutic strategies, potentially personalized to individual patients. Here, we sequenced newly collected samples from 24 patients with periodontitis, and we collected available oral microbiome data from 24 samples in patients with periodontitis and from 214 samples in healthy individuals (n = 262). Data were harmonized, and we performed a pooled analysis of individual patient data. By metagenomic sequencing of the plaque microbiome, we found microbial signatures for periodontitis and defined a periodontitis-related complex, composed by the most discriminative bacteria. A simple two-factor decision tree, based on Tannerella forsythia and Fretibacterium fastidiosum, was associated with periodontitis with high accuracy (area under the curve: 0.94). Altogether, we defined robust oral microbiome signatures relevant to the pathophysiology of periodontitis that can help define promising targets for microbiome therapeutic modulation when caring for patients with periodontitis.
 
 [Source](https://doi.org/10.1128/msystems.00930-24)
+
+10.1128/msystems.00930-24
 
 ---
 
@@ -111,9 +110,16 @@ Crohn's disease (CD) is characterized by chronic intestinal inflammation. Diet i
 
 ---
 
-## Gut bacteria facilitate leaf beetles in adapting to dietary specialization by enhancing larval fitness
+## Gut bacteria facilitate leaf beetles in adapting to dietary specialization by enhancing larval fitness.
+ 25.10.2024, _M Ma, J Luo, X Chen, C Li, S Li, J Sun, L Xu_
+
+
+_Animals, Larva, Gastrointestinal Microbiome, Plant Leaves, Coleoptera, Bacteria, Pantoea, Diet_
+Dietary specialization between insect stages can reduce intraspecific food competition. The involvement of gut bacteria and the mechanisms underlying this phenomenon received limited attention. Plagiodera versicolora is a pest harming Salicaceae trees. Here, we confirmed dietary specialization in P. versicolora, wherein adults prefer new leaves, while larvae predominantly consume mature leaves when both types are available. We demonstrated the larval preference for mature leaves confers ecological advantages by promoting growth, development and immunity and this advantage is contingent upon the presence of gut bacteria. Gut microbiota in larvae revealed a significant enrichment of Pantoea when feeding new leaves, with P. anthophila exhibiting the most pronounced inhibitory effect on larval development. Further exploration identified specific metabolites, such as Tyrosyl-valine, with higher content in new leaves, which serve as substrates for the entomopathogenic gut bacterium to facilitate its proliferation. This study provides a fresh perspective on the ecological role of gut bacteria.
 
 [Source](https://doi.org/10.1038/s41522-024-00587-5)
+
+10.1038/s41522-024-00587-5
 
 ---
 
@@ -210,7 +216,7 @@ Accurate knowledge of the microbiota collected from surfaces in food processing 
 ---
 
 ## A single-stranded based library preparation method for virome characterization.
- 25.10.2024, _X Zhai, A Gobbi, W Kot, L Krych, DS Nielsen, L Deng_
+ 29.10.2024, _X Zhai, A Gobbi, W Kot, L Krych, DS Nielsen, L Deng_
 
 
 _Virome, Genome, Viral, Gastrointestinal Microbiome, Gene Library, Humans, DNA, Viral, DNA, Single-Stranded, High-Throughput Nucleotide Sequencing, Reproducibility of Results, Sequence Analysis, DNA_
@@ -249,7 +255,7 @@ The appropriateness of the fecal microbiota to adequately reflect the gut microb
 ---
 
 ## Optimal 16S rRNA gene amplicon sequencing analysis for oral microbiota to avoid the potential bias introduced by trimming length, primer, and database.
- 22.10.2024, _T Nagai, T Shiba, K Komatsu, T Watanabe, T Nemoto, S Maekawa, R Kobayashi, S Matsumura, Y Ohsugi, S Katagiri, Y Takeuchi, T Iwata_
+ 29.10.2024, _T Nagai, T Shiba, K Komatsu, T Watanabe, T Nemoto, S Maekawa, R Kobayashi, S Matsumura, Y Ohsugi, S Katagiri, Y Takeuchi, T Iwata_
 
 
 16S rRNA gene amplicon sequencing analysis is used to investigate bacterial communities; however, the estimated bacterial composition can differ from the original due to experimental and analytical biases. Therefore, this study determines the optimal conditions to minimize the potential biases in 16S rRNA gene amplicon sequencing analysis using different DNA samples, trimming lengths, primers, and databases. The results of the mock1 community with 250 and 300 bp paired-end (PE), comprising 15 bacteria from various environments, showed the highest similarity between the theoretical value and the data using the Greengenes2 and the V3 region at the genus level and V5-V6 at the species level. In the 300 bp PE sequencing analysis of the mock2 community, comprising six major oral bacteria, the data using the V3-V4, V4, and V5-V6 regions with the SILVA, Greengenes2, and the Human Oral Microbiome Database (HOMD) showed the highest similarity to the theoretical values at the genus level. At the species level, the data using the V3-V4 and V4 regions with Greengenes2 and the data using the V1-V2 with HOMD exhibited the highest alignment with the theoretical values. In the species analysis of the dental calculus samples with 300 bp PE, the Shannon index value was higher with the V1-V2 region and HOMD than with others. Our results suggest that the optimal conditions for oral microbiome analysis are the combinations of 300 bp PE and the V3-V4 or V4 region with the Greengenes2 and the V1-V2 with HOMD.IMPORTANCEThe 16S rRNA gene amplicon sequencing analysis is frequently used in oral microbiome research. However, this method can have biases that distort the experimental data, which depend on the methodological steps, including sequencing length, trimming length, selected amplification regions, and referenced databases. In this study, a combination of 300 bp PE and the primer targeting the V3-V4 or V4 regions with the Greengenes2 and the V1-V2 region with the HOMD was the most bias-minimizing condition for oral microbiota analysis. In addition, this is the first report of such analyses in modern Japanese dental calculus. The methods used in this study will aid in setting appropriate conditions for sequence analysis of microbiota obtained not only from the oral cavity but also from any environment.
