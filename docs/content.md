@@ -4,15 +4,29 @@
 
 ---
 
-## A ubiquitous mobile genetic element changes the antagonistic weaponry of a human gut symbiont
+## A ubiquitous mobile genetic element changes the antagonistic weaponry of a human gut symbiont.
+ 29.10.2024, _ML Sheahan, K Flores, MJ Coyne, L García-Bayona, M Chatzidaki-Livanis, AQ Holst, RC Smith, A Sundararajan, B Barquera, LE Comstock_
+
+
+_Humans, Bacteroides fragilis, Conjugation, Genetic, Gastrointestinal Microbiome, Gene Transfer, Horizontal, Genetic Fitness, Genome, Bacterial, Interspersed Repetitive Sequences, Symbiosis, Type VI Secretion Systems, DNA, Bacterial_
+DNA transfer is ubiquitous in the human gut microbiota, especially among species of the order Bacteroidales. In silico analyses have revealed hundreds of mobile genetic elements shared between these species, yet little is known about the phenotypes they encode, their effects on fitness, or pleiotropic consequences for the recipient's genome. In this work, we show that acquisition of a ubiquitous integrative conjugative element (ICE) encoding a type VI secretion system (T6SS) shuts down the native T6SS of Bacteroides fragilis. Despite inactivating this T6SS, ICE acquisition increases the fitness of the B. fragilis transconjugant over its progenitor by arming it with the new T6SS. DNA transfer causes the strain to change allegiances so that it no longer targets ecosystem members with the same element yet is armed for communal defense.
 
 [Source](https://doi.org/10.1126/science.adj9504)
 
+10.1126/science.adj9504
+
 ---
 
-## Exploring alterations of gut/blood microbes in addressing iron overload-induced gut dysbiosis and cognitive impairment in thalassemia patients
+## Exploring alterations of gut/blood microbes in addressing iron overload-induced gut dysbiosis and cognitive impairment in thalassemia patients.
+ 25.10.2024, _K Suparan, K Trirattanapa, P Piriyakhuntorn, S Sriwichaiin, C Thonusin, W Nawara, S Kerdpoo, N Chattipakorn, A Tantiworawit, SC Chattipakorn_
+
+
+_Humans, Dysbiosis, Gastrointestinal Microbiome, Male, Female, Thalassemia, Adult, Iron Overload, Cognitive Dysfunction, Young Adult, Middle Aged, Brain-Gut Axis, Case-Control Studies_
+Iron overload causes cognitive impairment in thalassemia patients. The gut-brain axis plays an important role in cognitive function. However, the association between gut/blood microbiome, cognition, and iron burden in thalassemia patients has not been thoroughly investigated. We aimed to determine those associations in thalassemia patients with different blood-transfusion regimens. Sixty participants: healthy controls, transfusion-dependent thalassemia (TDT) patients, and non-transfusion-dependent (NTDT) patients, were recruited to evaluate iron overload, cognition, and gut/blood microbiome. TDT patients exhibited greater iron overload than NTDT patients. Most thalassemia patients developed gut dysbiosis, and approximately 25% of the patients developed minor cognitive impairment. Increased Fusobacteriota and Verrucomicrobiota with decreased Fibrobacterota were observed in both TDT and NTDT groups. TDT patients showed more abundant beneficial bacteria: Verrucomicrobia. Iron overload was correlated with cognitive impairment. Increased Butyricimonas and decreased Paraclostridium were associated with higher cognitive function. No trace of blood microbiota was observed. Differences in blood bacterial profiles of thalassemia patients and controls were insignificant. These findings suggest iron overload plays a role in the imbalance of gut microbiota and impaired cognitive function in thalassemia patients. Harnessing probiotic potential from those microbes could prevent the gut-brain disturbance in thalassemia patients.
 
 [Source](https://doi.org/10.1038/s41598-024-76684-4)
+
+10.1038/s41598-024-76684-4
 
 ---
 
@@ -79,28 +93,15 @@ Crohn's disease (CD) is characterized by chronic intestinal inflammation. Diet i
 
 ---
 
-## Oral reovirus reshapes the gut microbiome and enhances antitumor immunity in colon cancer.
- 25.10.2024, _WS Lee, SJ Lee, HJ Lee, H Yang, EJ Go, E Gansukh, KH Song, X Xiang, DG Park, T Alain, HJ Chon, C Kim_
-
-
-_Animals, Colonic Neoplasms, Oncolytic Virotherapy, Gastrointestinal Microbiome, Mice, Oncolytic Viruses, Reoviridae, CTLA-4 Antigen, Administration, Oral, Humans, CD8-Positive T-Lymphocytes, Cell Line, Tumor, Dendritic Cells, Female, Mice, Inbred C57BL, Immune Checkpoint Inhibitors, Peyer's Patches_
-The route of oncolytic virotherapy is pivotal for immunotherapeutic efficacy in advanced cancers. In this preclinical study, an oncolytic reovirus (RC402) is orally administered to induce antitumor immunity. Oral reovirus treatment shows no gross toxicities and effectively suppresses multifocal tumor lesions. Orally administered reovirus interacts with the host immune system in the Peyer's patch of the terminal ileum, increases IgA+ antibody-secreting cells in the lamina propria through MAdCAM-1+ blood vessels, and reshapes the gut microbiome. Oral reovirus promotes antigen presentation, type I/II interferons, and T cell activation within distant tumors, but does not reach or directly infect tumor cells beyond the gastrointestinal tract. In contrast to intratumoral reovirus injection, the presence of the gut microbiome, Batf3+ dendritic cells, type I interferons, and CD8+ T cells are indispensable for orally administered reovirus-induced antitumor immunity. Oral reovirus treatment is most effective when combined with αPD-1(L1) and/or αCTLA-4, leading to complete colon tumor regression and protective immune memory. Collectively, oral reovirus virotherapy is a feasible and effective immunotherapeutic strategy in preclinical studies.
+## Oral reovirus reshapes the gut microbiome and enhances antitumor immunity in colon cancer
 
 [Source](https://doi.org/10.1038/s41467-024-53347-6)
 
-10.1038/s41467-024-53347-6
-
 ---
 
-## Pooled analysis of oral microbiome profiles defines robust signatures associated with periodontitis.
- 24.10.2024, _A Soueidan, K Idiri, C Becchina, P Esparbès, A Legrand, Q Le Bastard, E Montassier_
-
-
-Oral microbial dysbiosis has been associated with periodontitis in studies using 16S rRNA gene sequencing analysis. However, this technology is not sufficient to consistently separate the bacterial species to species level, and reproducible oral microbiome signatures are scarce. Obtaining these signatures would significantly enhance our understanding of the underlying pathophysiological processes of this condition and foster the development of improved therapeutic strategies, potentially personalized to individual patients. Here, we sequenced newly collected samples from 24 patients with periodontitis, and we collected available oral microbiome data from 24 samples in patients with periodontitis and from 214 samples in healthy individuals (n = 262). Data were harmonized, and we performed a pooled analysis of individual patient data. By metagenomic sequencing of the plaque microbiome, we found microbial signatures for periodontitis and defined a periodontitis-related complex, composed by the most discriminative bacteria. A simple two-factor decision tree, based on Tannerella forsythia and Fretibacterium fastidiosum, was associated with periodontitis with high accuracy (area under the curve: 0.94). Altogether, we defined robust oral microbiome signatures relevant to the pathophysiology of periodontitis that can help define promising targets for microbiome therapeutic modulation when caring for patients with periodontitis.
+## Pooled analysis of oral microbiome profiles defines robust signatures associated with periodontitis
 
 [Source](https://doi.org/10.1128/msystems.00930-24)
-
-10.1128/msystems.00930-24
 
 ---
 
@@ -110,16 +111,9 @@ Oral microbial dysbiosis has been associated with periodontitis in studies using
 
 ---
 
-## Gut bacteria facilitate leaf beetles in adapting to dietary specialization by enhancing larval fitness.
- 25.10.2024, _M Ma, J Luo, X Chen, C Li, S Li, J Sun, L Xu_
-
-
-_Animals, Larva, Gastrointestinal Microbiome, Plant Leaves, Coleoptera, Bacteria, Pantoea, Diet_
-Dietary specialization between insect stages can reduce intraspecific food competition. The involvement of gut bacteria and the mechanisms underlying this phenomenon received limited attention. Plagiodera versicolora is a pest harming Salicaceae trees. Here, we confirmed dietary specialization in P. versicolora, wherein adults prefer new leaves, while larvae predominantly consume mature leaves when both types are available. We demonstrated the larval preference for mature leaves confers ecological advantages by promoting growth, development and immunity and this advantage is contingent upon the presence of gut bacteria. Gut microbiota in larvae revealed a significant enrichment of Pantoea when feeding new leaves, with P. anthophila exhibiting the most pronounced inhibitory effect on larval development. Further exploration identified specific metabolites, such as Tyrosyl-valine, with higher content in new leaves, which serve as substrates for the entomopathogenic gut bacterium to facilitate its proliferation. This study provides a fresh perspective on the ecological role of gut bacteria.
+## Gut bacteria facilitate leaf beetles in adapting to dietary specialization by enhancing larval fitness
 
 [Source](https://doi.org/10.1038/s41522-024-00587-5)
-
-10.1038/s41522-024-00587-5
 
 ---
 
@@ -177,105 +171,51 @@ Dietary specialization between insect stages can reduce intraspecific food compe
 
 ---
 
-## Volatile-mediated interspecific plant interaction promotes root colonization by beneficial bacteria via induced shifts in root exudation.
- 23.10.2024, _X Zhou, J Zhang, J Shi, M Khashi U Rahman, H Liu, Z Wei, F Wu, F Dini-Andreote_
-
-
-_Volatile Organic Compounds, Plant Roots, Rhizosphere, Solanum lycopersicum, Bacteria, Soil Microbiology, Plant Exudates, Microbiota, Solanum tuberosum, Pseudomonas_
-Volatile organic compounds (VOCs) released by plants can act as signaling molecules mediating ecological interactions. Therefore, the study of VOCs mediated intra- and interspecific interactions with downstream plant physiological responses is critical to advance our understanding of mechanisms underlying information exchange in plants. Here, we investigated how plant-emitted VOCs affect the performance of an interspecific neighboring plant via induced shifts in root exudate chemistry with implications for root-associated microbiota recruitment.
+## Volatile-mediated interspecific plant interaction promotes root colonization by beneficial bacteria via induced shifts in root exudation
 
 [Source](https://doi.org/10.1186/s40168-024-01914-w)
 
-10.1186/s40168-024-01914-w
-
 ---
 
-## Microbial community acclimation during anaerobic digestion of high-oil food waste.
- 28.10.2024, _Y Hu, Z Zhou, C Shen_
-
-
-_Anaerobiosis, Methane, Sewage, Microbiota, RNA, Ribosomal, 16S, Bacteria, Fatty Acids, Volatile, High-Throughput Nucleotide Sequencing, Acclimatization, Food, Archaea, Oils, Biodegradation, Environmental, Food Loss and Waste_
-Anaerobic digestion is one of the most promising options for the disposal of biodegradable food waste. However, the relatively high content of oil in food waste inhibits the conversion efficiency of anaerobic digestion because of the accumulation of long-chain fatty acids (LCFAs). In this study, activated anaerobic sludge was acclimated to accommodate high-oil conditions. The methane yield of high-oil food waste digested by the acclimated sludge increased by 24.9% compared to that digested by the raw sludge. To determine the internal changes in the acclimated sludge, the shifts in the microbial communities during the acclimation period were investigated via high-throughput sequencing (HTS) based on the 16 S rRNA gene. The results indicated that Bacteroidetes, Firmicutes, Chloroflexi and Proteobacteria were the dominant bacteria at the phylum level. The acclimation time allows some functional bacterial taxa to proliferate, such as Clostridium and Longilinea, which are able to degrade LCFAs and turn them into small organic molecules that also have nutrient value for other bacteria. Among the archaeal communities, the hydrogenotrophic methanogen Methanobacterium nearly supplanted the acetotrophic methanogen Methanosaeta. The time profiles of volatile fatty acids (VFAs) and pH during this period provided additional evidence for the success of the acclimation. This study demonstrated the effectiveness of acclimation and the dynamic of microbial communities, which further contributed to the management and resource utilization of high-oil food waste.
+## Microbial community acclimation during anaerobic digestion of high-oil food waste
 
 [Source](https://doi.org/10.1038/s41598-024-77136-9)
 
-10.1038/s41598-024-77136-9
-
 ---
 
-## The choice of 16S rRNA gene sequence analysis impacted characterization of highly variable surface microbiota in dairy processing environments.
- 21.10.2024, _SE Daly, J Feng, D Daeschel, J Kovac, AB Snyder_
-
-
-Accurate knowledge of the microbiota collected from surfaces in food processing environments is important for food quality and safety. This study assessed discrepancies in taxonomic composition and alpha and beta diversity values generated from eight different bioinformatic workflows for the analysis of 16S rRNA gene sequences extracted from the microbiota collected from surfaces in dairy processing environments. We found that the microbiota collected from environmental surfaces varied widely in density (0-9.09 log10 CFU/cm2) and Shannon alpha diversity (0.01-3.40). Consequently, depending on the sequence analysis method used, characterization of low-abundance genera (i.e., below 1% relative abundance) and the number of genera identified (114-173 genera) varied considerably. Some low-abundance genera, including Listeria, varied between the amplicon sequence variant (ASV) and operational taxonomic unit (OTU) methods. Centered log-ratio transformation inflated alpha and beta diversity values compared to rarefaction. Furthermore, the ASV method also inflated alpha and beta diversity values compared to the OTU method (P &lt; 0.05). Therefore, for sparse, uneven, low-density data sets, the OTU method and rarefaction are better for taxonomic and ecological characterization of surface microbiota.IMPORTANCECulture-dependent environmental monitoring programs are used by the food industry to identify foodborne pathogens and spoilage biota on surfaces in food processing environments. The use of culture-independent 16S rRNA amplicon sequencing to characterize this surface microbiota has been proposed as a tool to enhance environmental monitoring. However, there is no consensus on the most suitable bioinformatic analyses to accurately capture the diverse levels and types of bacteria on surfaces in food processing environments. Here, we quantify the impact of different bioinformatic analyses on the results and interpretation of 16S rRNA amplicon sequences collected from three cultured dairy facilities in New York State. This study provides guidance for the selection of appropriate 16S rRNA analysis procedures for studying environmental microbiota in dairy processing environments.
+## The choice of 16S rRNA gene sequence analysis impacted characterization of highly variable surface microbiota in dairy processing environments
 
 [Source](https://doi.org/10.1128/msystems.00620-24)
 
-10.1128/msystems.00620-24
-
 ---
 
-## A single-stranded based library preparation method for virome characterization.
- 29.10.2024, _X Zhai, A Gobbi, W Kot, L Krych, DS Nielsen, L Deng_
-
-
-_Virome, Genome, Viral, Gastrointestinal Microbiome, Gene Library, Humans, DNA, Viral, DNA, Single-Stranded, High-Throughput Nucleotide Sequencing, Reproducibility of Results, Sequence Analysis, DNA_
-The gut virome is an integral component of the gut microbiome, playing a crucial role in maintaining gut health. However, accurately depicting the entire gut virome is challenging due to the inherent diversity of genome types (dsDNA, ssDNA, dsRNA, and ssRNA) and topologies (linear, circular, or fragments), with subsequently biases associated with current sequencing library preparation methods. To overcome these problems and improve reproducibility and comparability across studies, universal or standardized virome sequencing library construction methods are highly needed in the gut virome study.
+## A single-stranded based library preparation method for virome characterization
 
 [Source](https://doi.org/10.1186/s40168-024-01935-5)
 
-10.1186/s40168-024-01935-5
-
 ---
 
-## Microbiome-based correction for random errors in nutrient profiles derived from self-reported dietary assessments.
- 29.10.2024, _T Wang, Y Fu, M Shuai, JS Zheng, L Zhu, AT Chan, Q Sun, FB Hu, ST Weiss, YY Liu_
-
-
-_Humans, Self Report, Gastrointestinal Microbiome, Nutrients, Diet Records, Diet, Deep Learning, Nutrition Assessment, Female, Male_
-Since dietary intake is challenging to directly measure in large-scale cohort studies, we often rely on self-reported instruments (e.g., food frequency questionnaires, 24-hour recalls, and diet records) developed in nutritional epidemiology. Those self-reported instruments are prone to measurement errors, which can lead to inaccuracies in the calculation of nutrient profiles. Currently, few computational methods exist to address this problem. In the present study, we introduce a deep-learning approach-Microbiome-based nutrient profile corrector (METRIC), which leverages gut microbial compositions to correct random errors in self-reported dietary assessments using 24-hour recalls or diet records. We demonstrate the excellent performance of METRIC in minimizing the simulated random errors, particularly for nutrients metabolized by gut bacteria in both synthetic and three real-world datasets. Additionally, we find that METRIC can still correct the random errors well even without including gut microbial compositions. Further research is warranted to examine the utility of METRIC to correct actual measurement errors in self-reported dietary assessment instruments.
+## Microbiome-based correction for random errors in nutrient profiles derived from self-reported dietary assessments
 
 [Source](https://doi.org/10.1038/s41467-024-53567-w)
 
-10.1038/s41467-024-53567-w
-
 ---
 
-## Fecal samples and rectal swabs adequately reflect the human colonic luminal microbiota.
- 27.10.2024, _J Rode, L Brengesjö Johnson, J König, I Rangel, L Engstrand, D Repsilber, RJ Brummer_
-
-
-_Humans, Feces, Rectum, Gastrointestinal Microbiome, Male, Colon, Adult, Female, Specimen Handling, Middle Aged, Bacteria, Colonoscopy, Young Adult_
-The appropriateness of the fecal microbiota to adequately reflect the gut microbiota composition from more difficult to access luminal content at different colonic locations has been debated. Here, in a healthy population, luminal samples were collected from terminal ileum to rectum using an unique sampling technique without the need of prior bowel cleansing/preparation. Rectal swabs were collected immediately prior colonoscopy by an experienced physician, and fecal samples were collected at home by the participants themselves. Microbiota composition was evaluated as relative abundance, α-diversity and Bray-Curtis dissimilarities. Our data suggest that fecal samples and rectal swabs present noninvasive, easily accessible, low-cost sampling tools that are accurate proxies to characterize luminal large intestinal microbiota composition.
+## Fecal samples and rectal swabs adequately reflect the human colonic luminal microbiota
 
 [Source](https://doi.org/10.1080/19490976.2024.2416912)
 
-10.1080/19490976.2024.2416912
-
 ---
 
-## Optimal 16S rRNA gene amplicon sequencing analysis for oral microbiota to avoid the potential bias introduced by trimming length, primer, and database.
- 29.10.2024, _T Nagai, T Shiba, K Komatsu, T Watanabe, T Nemoto, S Maekawa, R Kobayashi, S Matsumura, Y Ohsugi, S Katagiri, Y Takeuchi, T Iwata_
-
-
-16S rRNA gene amplicon sequencing analysis is used to investigate bacterial communities; however, the estimated bacterial composition can differ from the original due to experimental and analytical biases. Therefore, this study determines the optimal conditions to minimize the potential biases in 16S rRNA gene amplicon sequencing analysis using different DNA samples, trimming lengths, primers, and databases. The results of the mock1 community with 250 and 300 bp paired-end (PE), comprising 15 bacteria from various environments, showed the highest similarity between the theoretical value and the data using the Greengenes2 and the V3 region at the genus level and V5-V6 at the species level. In the 300 bp PE sequencing analysis of the mock2 community, comprising six major oral bacteria, the data using the V3-V4, V4, and V5-V6 regions with the SILVA, Greengenes2, and the Human Oral Microbiome Database (HOMD) showed the highest similarity to the theoretical values at the genus level. At the species level, the data using the V3-V4 and V4 regions with Greengenes2 and the data using the V1-V2 with HOMD exhibited the highest alignment with the theoretical values. In the species analysis of the dental calculus samples with 300 bp PE, the Shannon index value was higher with the V1-V2 region and HOMD than with others. Our results suggest that the optimal conditions for oral microbiome analysis are the combinations of 300 bp PE and the V3-V4 or V4 region with the Greengenes2 and the V1-V2 with HOMD.IMPORTANCEThe 16S rRNA gene amplicon sequencing analysis is frequently used in oral microbiome research. However, this method can have biases that distort the experimental data, which depend on the methodological steps, including sequencing length, trimming length, selected amplification regions, and referenced databases. In this study, a combination of 300 bp PE and the primer targeting the V3-V4 or V4 regions with the Greengenes2 and the V1-V2 region with the HOMD was the most bias-minimizing condition for oral microbiota analysis. In addition, this is the first report of such analyses in modern Japanese dental calculus. The methods used in this study will aid in setting appropriate conditions for sequence analysis of microbiota obtained not only from the oral cavity but also from any environment.
+## Optimal 16S rRNA gene amplicon sequencing analysis for oral microbiota to avoid the potential bias introduced by trimming length, primer, and database
 
 [Source](https://doi.org/10.1128/spectrum.03512-23)
 
-10.1128/spectrum.03512-23
-
 ---
 
-## Moving Toward Metaproteogenomics: A Computational Perspective on Analyzing Microbial Samples via Proteogenomics.
- 22.10.2024, _F Singer, M Kuhring, BY Renard, T Muth_
-
-
-_Proteogenomics, Microbiota, Computational Biology, Proteomics, Software, Databases, Protein, Metagenomics, Algorithms, Metagenome, Humans, High-Throughput Nucleotide Sequencing, Mass Spectrometry, Proteome_
-Microbial sample analysis has received growing attention within the last decade, driven by important findings in microbiome research and promising applications in the biotechnological field. Modern mass spectrometry-based methodology has been established in this context, providing sufficient sensitivity, resolution, dynamic range, and throughput to analyze the so-called metaproteome of complex microbial mixtures from clinical or environmental samples. While proteomic analyses were previously restricted to common model organisms, next-generation sequencing technologies nowadays allow for the rapid and cost-efficient characterization of whole metagenomes of microbial consortia and specific genomes from non-model organisms to which microbes contribute by significant amounts. This proteogenomic approach, meaning the combined application of genomic and proteomic methods, enables researchers to create a protein database that presents a tailored blueprint of the microbial sample under investigation. This contribution provides an overview of the computational challenges and opportunities in proteogenomics and metaproteomics as of January 2018. For practical application, we first showcase an integrative proteogenomic method that circumvents existing reference databases by creating sample-specific transcripts. The underlying algorithm uses a graph network approach that combines RNA-Seq and peptide information. As a second example, we provide a tutorial for a simulation tool that estimates the computational limits of detecting microbial non-model organisms. This method evaluates the potential influence of error-tolerant searches and proteogenomic approaches on databases of interest. Finally, we discuss recommendations for developing future strategies that may help overcome present limitations by combining the strengths of genome- and proteome-based methods and moving toward an integrated metaproteogenomics approach.
+## Moving Toward Metaproteogenomics: A Computational Perspective on Analyzing Microbial Samples via Proteogenomics
 
 [Source](https://doi.org/10.1007/978-1-0716-4152-1_17)
-
-10.1007/978-1-0716-4152-1_17
 
 ---
 
