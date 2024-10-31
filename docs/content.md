@@ -75,33 +75,65 @@ Crohn's disease (CD) is characterized by chronic intestinal inflammation. Diet i
 
 ---
 
-## Host-pathobiont interactions in Crohn’s disease
+## Host-pathobiont interactions in Crohn's disease.
+ 25.10.2024, _R Caruso, BC Lo, GY Chen, G Núñez_
+
+
+The mammalian intestine is colonized by trillions of microorganisms that are collectively referred to as the gut microbiota. The majority of symbionts have co-evolved with their host in a mutualistic relationship that benefits both. Under certain conditions, such as in Crohn's disease, a subtype of inflammatory bowel disease, some symbionts bloom to cause disease in genetically susceptible hosts. Although the identity and function of disease-causing microorganisms or pathobionts in Crohn's disease remain largely unknown, mounting evidence from animal models suggests that pathobionts triggering Crohn's disease-like colitis inhabit certain niches and penetrate the intestinal tissue to trigger inflammation. In this Review, we discuss the distinct niches occupied by intestinal symbionts and the evidence that pathobionts triggering Crohn's disease live in the mucus layer or near the intestinal epithelium. We also discuss how Crohn's disease-associated mutations in the host disrupt intestinal homeostasis by promoting the penetration and accumulation of pathobionts in the intestinal tissue. Finally, we discuss the potential role of microbiome-based interventions in precision therapeutic strategies for the treatment of Crohn's disease.
 
 [Source](https://doi.org/10.1038/s41575-024-00997-y)
 
+10.1038/s41575-024-00997-y
+
 ---
 
-## Species- and subspecies-level characterization of health-associated bacterial consortia that colonize the human gut during infancy
+## Species- and subspecies-level characterization of health-associated bacterial consortia that colonize the human gut during infancy.
+ 29.10.2024, _SS Minot, K Mayer-Blackwell, A Fiore-Gartland, A Johnson, S Self, P Bhatti, L Yao, L Liu, X Sun, Y Jinfa, J Kublin_
+
+
+_Humans, Gastrointestinal Microbiome, Infant, Feces, Bacteria, Male, Female, Metagenomics, Microbial Consortia, Metagenome, Infant, Newborn, Cohort Studies, Cystic Fibrosis_
+The human gut microbiome develops rapidly during infancy, a key window of development coinciding with the maturation of the adaptive immune system. However, little is known about the microbiome growth dynamics over the first few months of life and whether there are any generalizable patterns across human populations. We performed metagenomic sequencing on stool samples (n = 94) from a cohort of infants (n = 15) at monthly intervals in the first 6 months of life, augmenting our dataset with seven published studies for a total of 4,441 metagenomes from 1,162 infants.
 
 [Source](https://doi.org/10.1080/19490976.2024.2414975)
 
+10.1080/19490976.2024.2414975
+
 ---
 
-## Metal availability shapes early life microbial ecology and community succession
+## Metal availability shapes early life microbial ecology and community succession.
+ 28.10.2024, _J Soto Ocaña, ES Friedman, O Keenan, NU Bayard, E Ford, C Tanes, MJ Munneke, WN Beavers, EP Skaar, K Bittinger, BS Zemel, GD Wu, JP Zackular_
+
+
+The gut microbiota plays a critical role in human health and disease. Microbial community assembly and succession early in life are influenced by numerous factors. In turn, assembly of this microbial community is known to influence the host, including immune system development, and has been linked to outcomes later in life. To date, the role of host-mediated nutritional immunity and metal availability in shaping microbial community assembly and succession early in life has not been explored in depth. Using a human infant cohort, we show that the metal-chelating protein calprotectin is highly abundant in infants. Taxa previously shown to be successful early colonizers of the infant gut, such as Enterococcus, Enterobacteriaceae, and Bacteroides, are highly resistant to experimental metal starvation in culture. Lactobacillus, meanwhile, is highly susceptible to metal restriction, pointing to a possible mechanism by which host-mediated metal limitation shapes the fitness of early colonizing taxa in the infant gut. We further demonstrate that formula-fed infants harbor markedly higher levels of metals in their gastrointestinal tract compared to breastfed infants. Formula-fed infants with high levels of metals harbor distinct microbial communities compared to breastfed infants, with higher levels of Enterococcus, Enterobacter, and Klebsiella, taxa which show increased resistance to the toxic effects of high metal concentrations. These data highlight a new paradigm in microbial community assembly and suggest an unappreciated role for nutritional immunity and dietary metals in shaping the earliest colonization events of the microbiota.IMPORTANCEEarly life represents a critical window for microbial colonization of the human gastrointestinal tract. Surprisingly, we still know little about the rules that govern the successful colonization of infants and the factors that shape the success of early life microbial colonizers. In this study, we report that metal availability is an important factor in the assembly and succession of the early life microbiota. We show that the host-derived metal-chelating protein, calprotectin, is highly abundant in infants and successful early life colonizers can overcome metal restriction. We further demonstrate that feeding modality (breastmilk vs formula) markedly impacts metal levels in the gut, potentially influencing microbial community succession. Our work suggests that metals, a previously unexplored aspect of early life ecology, may play a critical role in shaping the early events of microbiota assembly in infants.
 
 [Source](https://doi.org/10.1128/mbio.01534-24)
 
+10.1128/mbio.01534-24
+
 ---
 
-## Oral reovirus reshapes the gut microbiome and enhances antitumor immunity in colon cancer
+## Oral reovirus reshapes the gut microbiome and enhances antitumor immunity in colon cancer.
+ 25.10.2024, _WS Lee, SJ Lee, HJ Lee, H Yang, EJ Go, E Gansukh, KH Song, X Xiang, DG Park, T Alain, HJ Chon, C Kim_
+
+
+_Animals, Colonic Neoplasms, Oncolytic Virotherapy, Gastrointestinal Microbiome, Mice, Oncolytic Viruses, Reoviridae, CTLA-4 Antigen, Administration, Oral, Humans, CD8-Positive T-Lymphocytes, Cell Line, Tumor, Dendritic Cells, Female, Mice, Inbred C57BL, Immune Checkpoint Inhibitors, Peyer's Patches_
+The route of oncolytic virotherapy is pivotal for immunotherapeutic efficacy in advanced cancers. In this preclinical study, an oncolytic reovirus (RC402) is orally administered to induce antitumor immunity. Oral reovirus treatment shows no gross toxicities and effectively suppresses multifocal tumor lesions. Orally administered reovirus interacts with the host immune system in the Peyer's patch of the terminal ileum, increases IgA+ antibody-secreting cells in the lamina propria through MAdCAM-1+ blood vessels, and reshapes the gut microbiome. Oral reovirus promotes antigen presentation, type I/II interferons, and T cell activation within distant tumors, but does not reach or directly infect tumor cells beyond the gastrointestinal tract. In contrast to intratumoral reovirus injection, the presence of the gut microbiome, Batf3+ dendritic cells, type I interferons, and CD8+ T cells are indispensable for orally administered reovirus-induced antitumor immunity. Oral reovirus treatment is most effective when combined with αPD-1(L1) and/or αCTLA-4, leading to complete colon tumor regression and protective immune memory. Collectively, oral reovirus virotherapy is a feasible and effective immunotherapeutic strategy in preclinical studies.
 
 [Source](https://doi.org/10.1038/s41467-024-53347-6)
 
+10.1038/s41467-024-53347-6
+
 ---
 
-## Pooled analysis of oral microbiome profiles defines robust signatures associated with periodontitis
+## Pooled analysis of oral microbiome profiles defines robust signatures associated with periodontitis.
+ 24.10.2024, _A Soueidan, K Idiri, C Becchina, P Esparbès, A Legrand, Q Le Bastard, E Montassier_
+
+
+Oral microbial dysbiosis has been associated with periodontitis in studies using 16S rRNA gene sequencing analysis. However, this technology is not sufficient to consistently separate the bacterial species to species level, and reproducible oral microbiome signatures are scarce. Obtaining these signatures would significantly enhance our understanding of the underlying pathophysiological processes of this condition and foster the development of improved therapeutic strategies, potentially personalized to individual patients. Here, we sequenced newly collected samples from 24 patients with periodontitis, and we collected available oral microbiome data from 24 samples in patients with periodontitis and from 214 samples in healthy individuals (n = 262). Data were harmonized, and we performed a pooled analysis of individual patient data. By metagenomic sequencing of the plaque microbiome, we found microbial signatures for periodontitis and defined a periodontitis-related complex, composed by the most discriminative bacteria. A simple two-factor decision tree, based on Tannerella forsythia and Fretibacterium fastidiosum, was associated with periodontitis with high accuracy (area under the curve: 0.94). Altogether, we defined robust oral microbiome signatures relevant to the pathophysiology of periodontitis that can help define promising targets for microbiome therapeutic modulation when caring for patients with periodontitis.
 
 [Source](https://doi.org/10.1128/msystems.00930-24)
+
+10.1128/msystems.00930-24
 
 ---
 
@@ -111,9 +143,16 @@ Crohn's disease (CD) is characterized by chronic intestinal inflammation. Diet i
 
 ---
 
-## Gut bacteria facilitate leaf beetles in adapting to dietary specialization by enhancing larval fitness
+## Gut bacteria facilitate leaf beetles in adapting to dietary specialization by enhancing larval fitness.
+ 25.10.2024, _M Ma, J Luo, X Chen, C Li, S Li, J Sun, L Xu_
+
+
+_Animals, Larva, Gastrointestinal Microbiome, Plant Leaves, Coleoptera, Bacteria, Pantoea, Diet_
+Dietary specialization between insect stages can reduce intraspecific food competition. The involvement of gut bacteria and the mechanisms underlying this phenomenon received limited attention. Plagiodera versicolora is a pest harming Salicaceae trees. Here, we confirmed dietary specialization in P. versicolora, wherein adults prefer new leaves, while larvae predominantly consume mature leaves when both types are available. We demonstrated the larval preference for mature leaves confers ecological advantages by promoting growth, development and immunity and this advantage is contingent upon the presence of gut bacteria. Gut microbiota in larvae revealed a significant enrichment of Pantoea when feeding new leaves, with P. anthophila exhibiting the most pronounced inhibitory effect on larval development. Further exploration identified specific metabolites, such as Tyrosyl-valine, with higher content in new leaves, which serve as substrates for the entomopathogenic gut bacterium to facilitate its proliferation. This study provides a fresh perspective on the ecological role of gut bacteria.
 
 [Source](https://doi.org/10.1038/s41522-024-00587-5)
+
+10.1038/s41522-024-00587-5
 
 ---
 
@@ -141,33 +180,64 @@ Crohn's disease (CD) is characterized by chronic intestinal inflammation. Diet i
 
 ---
 
-## Maternal dysbiosis produces long-lasting behavioral changes in offspring
+## Maternal dysbiosis produces long-lasting behavioral changes in offspring.
+ 24.10.2024, _J Hudobenko, CM Di Gesù, PR Mooz, J Petrosino, N Putluri, BP Ganesh, K Rebeles, FW Blixt, VR Venna, LD McCullough_
+
+
+Advanced maternal age (AMA) is defined as a pregnancy in a woman older than 35 years of age. AMA increases the risk for both maternal and neonatal complications, including miscarriage and stillbirth. AMA has also been linked to neurodevelopmental and neuropsychiatric disorders in the offspring. Recent studies have found that age-associated compositional shifts in the gut microbiota contribute to altered microbial metabolism and enhanced inflammation in the host. We investigated the specific contribution of the maternal microbiome on pregnancy outcomes and offspring behavior by recolonizing young female mice with aged female microbiome prior to pregnancy. We discovered that pre-pregnancy colonization of young dams with microbiome from aged female donors significantly increased fetal loss. There were significant differences in the composition of the gut microbiome in pups born from dams recolonized with aged female biome that persisted through middle age. Offspring born from dams colonized with aged microbiome also had significant changes in levels of neurotransmitters and metabolites in the blood and the brain. Adult offspring from dams colonized with an aged microbiome displayed persistent depressive- and anxiety-like phenotypes. Collectively, these results demonstrate that age-related changes in the composition of the maternal gut microbiome contribute to chronic alterations in the behavior and physiology of offspring. This work highlights the potential of microbiome-targeted approaches, even prior to birth, may reduce the risk of neuropsychiatric disorders.
 
 [Source](https://doi.org/10.1038/s41380-024-02794-0)
 
+10.1038/s41380-024-02794-0
+
 ---
 
-## DNA metabarcoding analyses reveal fine-scale microbiome structures on Western Canadian bat wings
+## DNA metabarcoding analyses reveal fine-scale microbiome structures on Western Canadian bat wings.
+ 22.10.2024, _C Insuk, N Cheeptham, C Lausen, J Xu_
+
+
+Healthy wings are vital for the survival and reproduction of bats, and wing microbiome is a key component of bat wing health. However, relatively little is known about the wing microbiome of bats in western Canada where the white nose syndrome has become an increasing threat. Here, we used DNA metabarcoding to investigate the bacterial and fungal communities on the wings of three bat species: the big brown bat (Eptesicus fuscus), the Yuma myotis (Myotis yumanensis), and the little brown myotis (M. lucifugus) from four field sites in Lillooet, British Columbia, Canada. The bacterial 16S rRNA metabarcoding revealed a total of 4,167 amplicon sequence variants (ASVs) belonging to 27 phyla, 639 genera, and 533 known and 2,423 unknown species. The wing bacteria were dominated by phyla Proteobacteria, Firmicutes, Bacteroides, and Actinobacteria, and the most common genera were Delftia, Bordetella, Sphingomonas, Phyllobacterium, Bradyrhizobium, Pseudomonas, and Corynebacterium. The fungal internal transcribed spacer (ITS) metabarcoding revealed a total of 11,722 ASVs belonging to 16 phyla, 806 genera, and 1,420 known and 10,302 unknown species. The wing fungi were dominated by phyla Ascomycota, Basidiomycota, and Motierellomycota, and the most common genera were Cladosporium, Aspergillus, and Mycosphaerella. Principal coordinates analysis showed that both bat species and field sites contributed variably to the diversity and distribution of bacterial and fungal communities on bat wings. Interestingly, both positive and negative correlations were found in their relative abundances among several groups of microbial taxa. We discuss the implications of our results for bat health, including the management of P. destructans infection and white-nose syndrome spread.
 
 [Source](https://doi.org/10.1128/spectrum.00376-24)
 
+10.1128/spectrum.00376-24
+
 ---
 
-## Aquificae overcomes competition by archaeal thermophiles, and crowding by bacterial mesophiles, to dominate the boiling vent-water of a Trans-Himalayan sulfur-borax spring
+## Aquificae overcomes competition by archaeal thermophiles, and crowding by bacterial mesophiles, to dominate the boiling vent-water of a Trans-Himalayan sulfur-borax spring.
+ 27.10.2024, _N Mondal, S Dutta, S Chatterjee, J Sarkar, M Mondal, C Roy, R Chakraborty, W Ghosh_
+
+
+_Hot Springs, RNA, Ribosomal, 16S, Bacteria, Sulfur, Archaea, Phylogeny, Microbiota, Boron, Water Microbiology_
+Trans-Himalayan hot spring waters rich in boron, chlorine, sodium and sulfur (but poor in calcium and silicon) are known based on PCR-amplified 16S rRNA gene sequence data to harbor high diversities of infiltrating bacterial mesophiles. Yet, little is known about the community structure and functions, primary productivity, mutual interactions, and thermal adaptations of the microorganisms present in the steaming waters discharged by these geochemically peculiar spring systems. We revealed these aspects of a bacteria-dominated microbiome (microbial cell density ~8.5 × 104 mL-1; live:dead cell ratio 1.7) thriving in the boiling (85°C) fluid vented by a sulfur-borax spring called Lotus Pond, situated at 4436 m above the mean sea-level, in the Puga valley of eastern Ladakh, on the Changthang plateau. Assembly, annotation, and population-binning of &gt;15-GB metagenomic sequence illuminated the numeral predominance of Aquificae. While members of this phylum accounted for 80% of all 16S rRNA-encoding reads within the metagenomic dataset, 14% of such reads were attributed to Proteobacteria. Post assembly, only 25% of all protein-coding genes identified were attributable to Aquificae, whereas 41% was ascribed to Proteobacteria. Annotation of metagenomic reads encoding 16S rRNAs, and/or PCR-amplified 16S rRNA genes, identified 163 bacterial genera, out of which 66 had been detected in past investigations of Lotus Pond's vent-water via 16S amplicon sequencing. Among these 66, Fervidobacterium, Halomonas, Hydrogenobacter, Paracoccus, Sulfurihydrogenibium, Tepidimonas, Thermus and Thiofaba (or their close phylogenomic relatives) were presently detected as metagenome-assembled genomes (MAGs). Remarkably, the Hydrogenobacter related MAG alone accounted for ~56% of the entire metagenome, even though only 15 out of the 66 genera consistently present in Lotus Pond's vent-water have strains growing in the laboratory at &gt;45°C, reflecting the continued existence of the mesophiles in the ecosystem. Furthermore, the metagenome was replete with genes crucial for thermal adaptation in the context of Lotus Pond's geochemistry and topography. In terms of sequence similarity, a majority of those genes were attributable to phylogenetic relatives of mesophilic bacteria, while functionally they rendered functions such as encoding heat shock proteins, molecular chaperones, and chaperonin complexes; proteins controlling/modulating/inhibiting DNA gyrase; universal stress proteins; methionine sulfoxide reductases; fatty acid desaturases; different toxin-antitoxin systems; enzymes protecting against oxidative damage; proteins conferring flagellar structure/function, chemotaxis, cell adhesion/aggregation, biofilm formation, and quorum sensing. The Lotus Pond Aquificae not only dominated the microbiome numerically but also acted potentially as the main primary producers of the ecosystem, with chemolithotrophic sulfur oxidation (Sox) being the fundamental bioenergetic mechanism, and reductive tricarboxylic acid (rTCA) cycle the predominant carbon fixation pathway. The Lotus Pond metagenome contained several genes directly or indirectly related to virulence functions, biosynthesis of secondary metabolites including antibiotics, antibiotic resistance, and multi-drug efflux pumping. A large proportion of these genes being attributable to Aquificae, and Proteobacteria (very few were ascribed to Archaea), it could be worth exploring in the future whether antibiosis helped the Aquificae overcome niche overlap with other thermophiles (especially those belonging to Archaea), besides exacerbating the bioenergetic costs of thermal endurance for the mesophilic intruders of the ecosystem.
 
 [Source](https://doi.org/10.1371/journal.pone.0310595)
 
+10.1371/journal.pone.0310595
+
 ---
 
-## Metagenome-assembled genomes of Macrocystis-associated bacteria
+## Metagenome-assembled genomes of Macrocystis-associated bacteria.
+ 22.10.2024, _EG Aguirre, JA Schwartzman_
+
+
+Microbes are important for the development of kelp, but little is understood about the functions encoded by these microbes. Here, we assembled 1,794 metagenome-associated genomes (MAGs) from bacteria that colonize gametophytes of the giant kelp Macrocystis pyrifera. MAGs were grouped into 149 dereplicated strains. Functional annotation is also presented.
 
 [Source](https://doi.org/10.1128/mra.00715-24)
 
+10.1128/mra.00715-24
+
 ---
 
-## Metagenomic time-series reveals a western English Channel viral community dominated by members with strong seasonal signals
+## Metagenomic time-series reveals a western English Channel viral community dominated by members with strong seasonal signals.
+ 23.10.2024, _LM Bolaños, M Michelsen, B Temperton_
+
+
+Marine viruses are key players of ocean biogeochemistry, profoundly influencing microbial community ecology and evolution. Despite their importance, few studies have explored continuous inter-seasonal viral metagenomic time-series in marine environments. Viral dynamics are complex, influenced by multiple factors such as host population dynamics and environmental conditions. To disentangle the complexity of viral communities, we developed an unsupervised machine learning framework to classify viral contigs into "chronotypes" based on temporal abundance patterns. Analysing an inter-seasonal monthly time-series of surface viral metagenomes from the Western English Channel, we identified chronotypes and compared their functional and evolutionary profiles. Results revealed a consistent annual cycle with steep compositional changes from winter to summer and steadier transitions from summer to winter. Seasonal chronotypes were enriched in potential auxiliary metabolic genes of the ferrochelatases and 2OG-Fe(II) oxygenase orthologous groups compared to non-seasonal types. Chronotypes clustered into four groups based on their correlation profiles with environmental parameters, primarily driven by temperature and nutrients. Viral contigs exhibited a rapid turnover of polymorphisms, akin to Red Queen dynamics. However, within seasonal chronotypes, some sequences exhibited annual polymorphism recurrence, suggesting that a fraction of the seasonal viral populations evolve more slowly. Classification into chronotypes revealed viral genomic signatures linked to temporal patterns, likely reflecting metabolic adaptations to environmental fluctuations and host dynamics. This novel framework enables the identification of long-term trends in viral composition, environmental influences on genomic structure, and potential viral interactions.
 
 [Source](https://doi.org/10.1093/ismejo/wrae216)
+
+10.1093/ismejo/wrae216
 
 ---
 
