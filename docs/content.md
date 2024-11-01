@@ -147,71 +147,46 @@ Crohn's disease (CD) is characterized by chronic intestinal inflammation. Diet i
 
 ---
 
-## DNA metabarcoding analyses reveal fine-scale microbiome structures on Western Canadian bat wings.
- 22.10.2024, _C Insuk, N Cheeptham, C Lausen, J Xu_
-
-
-Healthy wings are vital for the survival and reproduction of bats, and wing microbiome is a key component of bat wing health. However, relatively little is known about the wing microbiome of bats in western Canada where the white nose syndrome has become an increasing threat. Here, we used DNA metabarcoding to investigate the bacterial and fungal communities on the wings of three bat species: the big brown bat (Eptesicus fuscus), the Yuma myotis (Myotis yumanensis), and the little brown myotis (M. lucifugus) from four field sites in Lillooet, British Columbia, Canada. The bacterial 16S rRNA metabarcoding revealed a total of 4,167 amplicon sequence variants (ASVs) belonging to 27 phyla, 639 genera, and 533 known and 2,423 unknown species. The wing bacteria were dominated by phyla Proteobacteria, Firmicutes, Bacteroides, and Actinobacteria, and the most common genera were Delftia, Bordetella, Sphingomonas, Phyllobacterium, Bradyrhizobium, Pseudomonas, and Corynebacterium. The fungal internal transcribed spacer (ITS) metabarcoding revealed a total of 11,722 ASVs belonging to 16 phyla, 806 genera, and 1,420 known and 10,302 unknown species. The wing fungi were dominated by phyla Ascomycota, Basidiomycota, and Motierellomycota, and the most common genera were Cladosporium, Aspergillus, and Mycosphaerella. Principal coordinates analysis showed that both bat species and field sites contributed variably to the diversity and distribution of bacterial and fungal communities on bat wings. Interestingly, both positive and negative correlations were found in their relative abundances among several groups of microbial taxa. We discuss the implications of our results for bat health, including the management of P. destructans infection and white-nose syndrome spread.
+## DNA metabarcoding analyses reveal fine-scale microbiome structures on Western Canadian bat wings
 
 [Source](https://doi.org/10.1128/spectrum.00376-24)
 
-10.1128/spectrum.00376-24
-
 ---
 
-## Aquificae overcomes competition by archaeal thermophiles, and crowding by bacterial mesophiles, to dominate the boiling vent-water of a Trans-Himalayan sulfur-borax spring.
- 27.10.2024, _N Mondal, S Dutta, S Chatterjee, J Sarkar, M Mondal, C Roy, R Chakraborty, W Ghosh_
-
-
-_Hot Springs, RNA, Ribosomal, 16S, Bacteria, Sulfur, Archaea, Phylogeny, Microbiota, Boron, Water Microbiology_
-Trans-Himalayan hot spring waters rich in boron, chlorine, sodium and sulfur (but poor in calcium and silicon) are known based on PCR-amplified 16S rRNA gene sequence data to harbor high diversities of infiltrating bacterial mesophiles. Yet, little is known about the community structure and functions, primary productivity, mutual interactions, and thermal adaptations of the microorganisms present in the steaming waters discharged by these geochemically peculiar spring systems. We revealed these aspects of a bacteria-dominated microbiome (microbial cell density ~8.5 × 104 mL-1; live:dead cell ratio 1.7) thriving in the boiling (85°C) fluid vented by a sulfur-borax spring called Lotus Pond, situated at 4436 m above the mean sea-level, in the Puga valley of eastern Ladakh, on the Changthang plateau. Assembly, annotation, and population-binning of &gt;15-GB metagenomic sequence illuminated the numeral predominance of Aquificae. While members of this phylum accounted for 80% of all 16S rRNA-encoding reads within the metagenomic dataset, 14% of such reads were attributed to Proteobacteria. Post assembly, only 25% of all protein-coding genes identified were attributable to Aquificae, whereas 41% was ascribed to Proteobacteria. Annotation of metagenomic reads encoding 16S rRNAs, and/or PCR-amplified 16S rRNA genes, identified 163 bacterial genera, out of which 66 had been detected in past investigations of Lotus Pond's vent-water via 16S amplicon sequencing. Among these 66, Fervidobacterium, Halomonas, Hydrogenobacter, Paracoccus, Sulfurihydrogenibium, Tepidimonas, Thermus and Thiofaba (or their close phylogenomic relatives) were presently detected as metagenome-assembled genomes (MAGs). Remarkably, the Hydrogenobacter related MAG alone accounted for ~56% of the entire metagenome, even though only 15 out of the 66 genera consistently present in Lotus Pond's vent-water have strains growing in the laboratory at &gt;45°C, reflecting the continued existence of the mesophiles in the ecosystem. Furthermore, the metagenome was replete with genes crucial for thermal adaptation in the context of Lotus Pond's geochemistry and topography. In terms of sequence similarity, a majority of those genes were attributable to phylogenetic relatives of mesophilic bacteria, while functionally they rendered functions such as encoding heat shock proteins, molecular chaperones, and chaperonin complexes; proteins controlling/modulating/inhibiting DNA gyrase; universal stress proteins; methionine sulfoxide reductases; fatty acid desaturases; different toxin-antitoxin systems; enzymes protecting against oxidative damage; proteins conferring flagellar structure/function, chemotaxis, cell adhesion/aggregation, biofilm formation, and quorum sensing. The Lotus Pond Aquificae not only dominated the microbiome numerically but also acted potentially as the main primary producers of the ecosystem, with chemolithotrophic sulfur oxidation (Sox) being the fundamental bioenergetic mechanism, and reductive tricarboxylic acid (rTCA) cycle the predominant carbon fixation pathway. The Lotus Pond metagenome contained several genes directly or indirectly related to virulence functions, biosynthesis of secondary metabolites including antibiotics, antibiotic resistance, and multi-drug efflux pumping. A large proportion of these genes being attributable to Aquificae, and Proteobacteria (very few were ascribed to Archaea), it could be worth exploring in the future whether antibiosis helped the Aquificae overcome niche overlap with other thermophiles (especially those belonging to Archaea), besides exacerbating the bioenergetic costs of thermal endurance for the mesophilic intruders of the ecosystem.
+## Aquificae overcomes competition by archaeal thermophiles, and crowding by bacterial mesophiles, to dominate the boiling vent-water of a Trans-Himalayan sulfur-borax spring
 
 [Source](https://doi.org/10.1371/journal.pone.0310595)
 
-10.1371/journal.pone.0310595
-
 ---
 
-## Metagenome-assembled genomes of Macrocystis-associated bacteria.
- 22.10.2024, _EG Aguirre, JA Schwartzman_
-
-
-Microbes are important for the development of kelp, but little is understood about the functions encoded by these microbes. Here, we assembled 1,794 metagenome-associated genomes (MAGs) from bacteria that colonize gametophytes of the giant kelp Macrocystis pyrifera. MAGs were grouped into 149 dereplicated strains. Functional annotation is also presented.
+## Metagenome-assembled genomes of Macrocystis-associated bacteria
 
 [Source](https://doi.org/10.1128/mra.00715-24)
 
-10.1128/mra.00715-24
-
 ---
 
-## Metagenomic time-series reveals a western English Channel viral community dominated by members with strong seasonal signals.
- 23.10.2024, _LM Bolaños, M Michelsen, B Temperton_
-
-
-Marine viruses are key players of ocean biogeochemistry, profoundly influencing microbial community ecology and evolution. Despite their importance, few studies have explored continuous inter-seasonal viral metagenomic time-series in marine environments. Viral dynamics are complex, influenced by multiple factors such as host population dynamics and environmental conditions. To disentangle the complexity of viral communities, we developed an unsupervised machine learning framework to classify viral contigs into "chronotypes" based on temporal abundance patterns. Analysing an inter-seasonal monthly time-series of surface viral metagenomes from the Western English Channel, we identified chronotypes and compared their functional and evolutionary profiles. Results revealed a consistent annual cycle with steep compositional changes from winter to summer and steadier transitions from summer to winter. Seasonal chronotypes were enriched in potential auxiliary metabolic genes of the ferrochelatases and 2OG-Fe(II) oxygenase orthologous groups compared to non-seasonal types. Chronotypes clustered into four groups based on their correlation profiles with environmental parameters, primarily driven by temperature and nutrients. Viral contigs exhibited a rapid turnover of polymorphisms, akin to Red Queen dynamics. However, within seasonal chronotypes, some sequences exhibited annual polymorphism recurrence, suggesting that a fraction of the seasonal viral populations evolve more slowly. Classification into chronotypes revealed viral genomic signatures linked to temporal patterns, likely reflecting metabolic adaptations to environmental fluctuations and host dynamics. This novel framework enables the identification of long-term trends in viral composition, environmental influences on genomic structure, and potential viral interactions.
+## Metagenomic time-series reveals a western English Channel viral community dominated by members with strong seasonal signals
 
 [Source](https://doi.org/10.1093/ismejo/wrae216)
 
-10.1093/ismejo/wrae216
-
 ---
 
-## Volatile-mediated interspecific plant interaction promotes root colonization by beneficial bacteria via induced shifts in root exudation.
- 23.10.2024, _X Zhou, J Zhang, J Shi, M Khashi U Rahman, H Liu, Z Wei, F Wu, F Dini-Andreote_
-
-
-_Volatile Organic Compounds, Plant Roots, Rhizosphere, Solanum lycopersicum, Bacteria, Soil Microbiology, Plant Exudates, Microbiota, Solanum tuberosum, Pseudomonas_
-Volatile organic compounds (VOCs) released by plants can act as signaling molecules mediating ecological interactions. Therefore, the study of VOCs mediated intra- and interspecific interactions with downstream plant physiological responses is critical to advance our understanding of mechanisms underlying information exchange in plants. Here, we investigated how plant-emitted VOCs affect the performance of an interspecific neighboring plant via induced shifts in root exudate chemistry with implications for root-associated microbiota recruitment.
+## Volatile-mediated interspecific plant interaction promotes root colonization by beneficial bacteria via induced shifts in root exudation
 
 [Source](https://doi.org/10.1186/s40168-024-01914-w)
 
-10.1186/s40168-024-01914-w
-
 ---
 
-## Microbial community acclimation during anaerobic digestion of high-oil food waste
+## Microbial community acclimation during anaerobic digestion of high-oil food waste.
+ 28.10.2024, _Y Hu, Z Zhou, C Shen_
+
+
+_Anaerobiosis, Methane, Sewage, Microbiota, RNA, Ribosomal, 16S, Bacteria, Fatty Acids, Volatile, High-Throughput Nucleotide Sequencing, Acclimatization, Food, Archaea, Oils, Biodegradation, Environmental, Food Loss and Waste_
+Anaerobic digestion is one of the most promising options for the disposal of biodegradable food waste. However, the relatively high content of oil in food waste inhibits the conversion efficiency of anaerobic digestion because of the accumulation of long-chain fatty acids (LCFAs). In this study, activated anaerobic sludge was acclimated to accommodate high-oil conditions. The methane yield of high-oil food waste digested by the acclimated sludge increased by 24.9% compared to that digested by the raw sludge. To determine the internal changes in the acclimated sludge, the shifts in the microbial communities during the acclimation period were investigated via high-throughput sequencing (HTS) based on the 16 S rRNA gene. The results indicated that Bacteroidetes, Firmicutes, Chloroflexi and Proteobacteria were the dominant bacteria at the phylum level. The acclimation time allows some functional bacterial taxa to proliferate, such as Clostridium and Longilinea, which are able to degrade LCFAs and turn them into small organic molecules that also have nutrient value for other bacteria. Among the archaeal communities, the hydrogenotrophic methanogen Methanobacterium nearly supplanted the acetotrophic methanogen Methanosaeta. The time profiles of volatile fatty acids (VFAs) and pH during this period provided additional evidence for the success of the acclimation. This study demonstrated the effectiveness of acclimation and the dynamic of microbial communities, which further contributed to the management and resource utilization of high-oil food waste.
 
 [Source](https://doi.org/10.1038/s41598-024-77136-9)
+
+10.1038/s41598-024-77136-9
 
 ---
 
