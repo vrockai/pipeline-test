@@ -4,21 +4,39 @@
 
 ---
 
-## Bifidobacteria with indole-3-lactic acid-producing capacity exhibit psychobiotic potential via reducing neuroinflammation
+## Bifidobacteria with indole-3-lactic acid-producing capacity exhibit psychobiotic potential via reducing neuroinflammation.
+ 29.10.2024, _X Qian, Q Li, H Zhu, Y Chen, G Lin, H Zhang, W Chen, G Wang, P Tian_
+
+
+The escalating global prevalence of depression demands effective therapeutic strategies, with psychobiotics emerging as a promising solution. However, the molecular mechanisms governing the neurobehavioral impact of psychobiotics remain elusive. This study reveals a significant reduction in hippocampal indole-3-lactic acid (ILA) levels in depressed mice, which is ameliorated by the psychobiotic Bifidobacterium breve. In both human subjects and mice, the ILA increase in the circulatory system results from bifidobacteria supplementation. Further investigation identifies the key aromatic lactate dehydrogenase (Aldh) gene and pathway in bifidobacteria responsible for ILA production. Importantly, the antidepressant effects are nullified in the Aldh mutants compared to the wild-type strain. At the bifidobacteria species level, those with Aldh exhibit heightened antidepressant effects. Finally, this study emphasizes the antidepressant efficacy of psychobiotic-derived ILA, potentially mediated by aryl hydrocarbon receptor (AhR) signaling activation to alleviate neuroinflammation. This study unveils the molecular and genetic foundations of psychobiotics' antidepressant effects, offering insights for microbial therapies targeting mood disorders.
 
 [Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00545-7)
 
+10.1016/j.xcrm.2024.101798
+
 ---
 
-## Longitudinal analysis of the gut microbiota during anti-PD-1 therapy reveals stable microbial features of response in melanoma patients
+## Longitudinal analysis of the gut microbiota during anti-PD-1 therapy reveals stable microbial features of response in melanoma patients.
+ 31.10.2024, _ADG Macandog, C Catozzi, M Capone, A Nabinejad, PP Nanaware, S Liu, S Vinjamuri, JA Stunnenberg, S Galiè, MG Jodice, F Montani, F Armanini, E Cassano, G Madonna, D Mallardo, B Mazzi, S Pece, M Tagliamonte, V Vanella, M Barberis, PF Ferrucci, CU Blank, M Bouvier, MC Andrews, X Xu, L Santambrogio, N Segata, L Buonaguro, E Cocorocchio, PA Ascierto, T Manzo, L Nezi_
+
+
+Immune checkpoint inhibitors (ICIs) improve outcomes in advanced melanoma, but many patients are refractory or experience relapse. The gut microbiota modulates antitumor responses. However, inconsistent baseline predictors point to heterogeneity in responses and inadequacy of cross-sectional data. We followed patients with unresectable melanoma from baseline and during anti-PD-1 therapy, collecting fecal and blood samples that were surveyed for changes in the gut microbiota and immune markers. Varying patient responses were linked to different gut microbiota dynamics during ICI treatment. We select complete responders by their stable microbiota functions and validate them using multiple external cohorts and experimentally. We identify major histocompatibility complex class I (MHC class I)-restricted peptides derived from flagellin-related genes of Lachnospiraceae (FLach) as structural homologs of tumor-associated antigens, detect FLach-reactive CD8+ T cells in complete responders before ICI therapy, and demonstrate that FLach peptides improve antitumor immunity. These findings highlight the prognostic value of microbial functions and therapeutic potential of tumor-mimicking microbial peptides.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(24)00392-5)
 
+10.1016/j.chom.2024.10.006
+
 ---
 
-## Exclusive enteral nutrition initiates individual protective microbiome changes to induce remission in pediatric Crohn’s disease 
+## Exclusive enteral nutrition initiates individual protective microbiome changes to induce remission in pediatric Crohn's disease.
+ 26.10.2024, _D Häcker, K Siebert, BJ Smith, N Köhler, A Riva, A Mahapatra, H Heimes, J Nie, A Metwaly, H Hölz, Q Manz, F De Zen, J Heetmeyer, K Socas, G Le Thi, C Meng, K Kleigrewe, JK Pauling, K Neuhaus, M List, KS Pollard, T Schwerd, D Haller_
+
+
+Exclusive enteral nutrition (EEN) is a first-line therapy for pediatric Crohn's disease (CD), but protective mechanisms remain unknown. We established a prospective pediatric cohort to characterize the function of fecal microbiota and metabolite changes of treatment-naive CD patients in response to EEN (German Clinical Trials DRKS00013306). Integrated multi-omics analysis identified network clusters from individually variable microbiome profiles, with Lachnospiraceae and medium-chain fatty acids as protective features. Bioorthogonal non-canonical amino acid tagging selectively identified bacterial species in response to medium-chain fatty acids. Metagenomic analysis identified high strain-level dynamics in response to EEN. Functional changes in diet-exposed fecal microbiota were further validated using gut chemostat cultures and microbiota transfer into germ-free Il10-deficient mice. Dietary model conditions induced individual patient-specific strain signatures to prevent or cause inflammatory bowel disease (IBD)-like inflammation in gnotobiotic mice. Hence, we provide evidence that EEN therapy operates through explicit functional changes of temporally and individually variable microbiome profiles.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(24)00359-7)
+
+10.1016/j.chom.2024.10.001
 
 ---
 
@@ -28,9 +46,16 @@
 
 ---
 
-## Design and reporting of prebiotic and probiotic clinical trials in the context of diet and the gut microbiome
+## Design and reporting of prebiotic and probiotic clinical trials in the context of diet and the gut microbiome.
+ 01.11.2024, _K Whelan, M Alexander, C Gaiani, G Lunken, A Holmes, HM Staudacher, S Theis, ML Marco_
+
+
+_Probiotics, Prebiotics, Humans, Gastrointestinal Microbiome, Diet, Clinical Trials as Topic, Research Design_
+Diet is a major determinant of the gastrointestinal microbiome composition and function, yet our understanding of how it impacts the efficacy of prebiotics and probiotics is limited. Here we examine current evidence of dietary influence on prebiotic and probiotic efficacy in human studies, including potential mechanisms. We propose that habitual diet be included as a variable in prebiotic and probiotic intervention studies. This recommendation is based on the potential mechanisms via which diet can affect study outcomes, either directly or through the gut microbiome. We consider the challenges and opportunities of dietary assessment in this context. Lastly, we provide recommendations for the design, conduct and reporting of human clinical trials of prebiotics and probiotics (and other biotic interventions) to account for any effect of diet and nutrition.
 
 [Source](https://www.nature.com/articles/s41564-024-01831-6)
+
+10.1038/s41564-024-01831-6
 
 ---
 
