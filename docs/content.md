@@ -18,7 +18,7 @@ The global aging population has led to a rise in age-related health issues, such
 ---
 
 ## Stage dependent microbial dynamics in hepatocellular carcinoma and adjacent normal liver tissues.
- 02.11.2024, _HE Jo, S Khom, S Lee, SH Cho, SY Park, GR You, H Kim, NI Kim, JH Jeong, JH Yoon, M Yun_
+ 03.11.2024, _HE Jo, S Khom, S Lee, SH Cho, SY Park, GR You, H Kim, NI Kim, JH Jeong, JH Yoon, M Yun_
 
 
 _Humans, Carcinoma, Hepatocellular, Liver Neoplasms, Male, Female, Middle Aged, Liver, Phylogeny, Neoplasm Staging, Microbiota, Aged, Gastrointestinal Microbiome, Adult, Bacteria_
