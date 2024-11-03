@@ -139,7 +139,7 @@ The discoveries of the oncomicrobiome (intratumoral microbiome) and oncomicrobio
 ---
 
 ## The gut microbiome in patients with Cushing's disease affects depression- and anxiety-like behavior in mice.
- 02.11.2024, _D Nie, D Wang, Z Wang, Q Fang, H Wang, W Xie, C Li, Y Zhang_
+ 03.11.2024, _D Nie, D Wang, Z Wang, Q Fang, H Wang, W Xie, C Li, Y Zhang_
 
 
 _Animals, Gastrointestinal Microbiome, Mice, Pituitary ACTH Hypersecretion, Depression, Anxiety, Humans, Disease Models, Animal, Male, Behavior, Animal, Feces, Female, Corticosterone, Bacteria, Adult, Middle Aged, Fecal Microbiota Transplantation, Mice, Inbred C57BL_
@@ -195,7 +195,7 @@ The rise of the Isthmus of Panama separated the populations of many marine organ
 ---
 
 ## Planting density effect on poplar growth traits and soil nutrient availability, and response of microbial community, assembly and function.
- 02.11.2024, _R Qiao, Z Song, Y Chen, M Xu, Q Yang, X Shen, D Yu, P Zhang, C Ding, H Guo_
+ 03.11.2024, _R Qiao, Z Song, Y Chen, M Xu, Q Yang, X Shen, D Yu, P Zhang, C Ding, H Guo_
 
 
 _Populus, Soil Microbiology, Soil, Microbiota, Fungi, Nutrients, Bacteria, Phosphorus, Genotype_
@@ -245,7 +245,7 @@ Harnessing beneficial microorganisms is seen as a promising approach to enhance 
 ---
 
 ## SALINITY-Induced Changes in Diversity, Stability, and Functional Profiles of Microbial Communities in Different Saline Lakes in Arid Areas.
- 01.11.2024, _L Gao, MPN Rao, YH Liu, PD Wang, ZH Lian, R Abdugheni, HC Jiang, JY Jiao, V Shurigin, BZ Fang, WJ Li_
+ 03.11.2024, _L Gao, MPN Rao, YH Liu, PD Wang, ZH Lian, R Abdugheni, HC Jiang, JY Jiao, V Shurigin, BZ Fang, WJ Li_
 
 
 _Lakes, Salinity, Archaea, Bacteria, Microbiota, RNA, Ribosomal, 16S, Biodiversity, Geologic Sediments, Phylogeny, Desert Climate, Ecosystem_
