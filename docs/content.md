@@ -152,7 +152,7 @@ Depression and anxiety significantly impact the quality of life in individuals w
 ---
 
 ## α-synuclein overexpression and the microbiome shape the gut and brain metabolome in mice.
- 02.11.2024, _LH Morais, JC Boktor, S MahmoudianDehkordi, R Kaddurah-Daouk, SK Mazmanian_
+ 05.11.2024, _LH Morais, JC Boktor, S MahmoudianDehkordi, R Kaddurah-Daouk, SK Mazmanian_
 
 
 Pathological forms of α-synuclein contribute to synucleinopathies, including Parkinson's disease (PD). Most cases of PD arise from gene-environment interactions. Microbiome composition is altered in PD, and gut bacteria are causal to symptoms in animal models. We quantitatively profiled nearly 630 metabolites in the gut, plasma, and brain of α-synuclein-overexpressing (ASO) mice, compared to wild-type (WT) animals, and comparing germ-free (GF) to specific pathogen-free (SPF) animals (n = 5 WT-SPF; n = 6 ASO-SPF; n = 6 WT-GF; n = 6 ASO-GF). Many differentially expressed metabolites in ASO mice are also dysregulated in human PD patients, including amine oxides, bile acids and indoles. The microbial metabolite trimethylamine N-oxide (TMAO) strongly correlates from the gut to the plasma to the brain in mice, notable since TMAO is elevated in the blood and cerebrospinal fluid of PD patients. These findings uncover broad metabolomic changes that are influenced by the intersection of host genetics and microbiome in a mouse model of PD.
@@ -170,7 +170,7 @@ Pathological forms of α-synuclein contribute to synucleinopathies, including Pa
 ---
 
 ## Transfer of microbiota from lean donors in combination with prebiotics prevents excessive weight gain and improves gut-brain vagal signaling in obese rats.
- 01.11.2024, _DM Minaya, JS Kim, R Kirkland, J Allen, S Cullinan, N Maclang, G de Lartigue, C de La Serre_
+ 05.11.2024, _DM Minaya, JS Kim, R Kirkland, J Allen, S Cullinan, N Maclang, G de Lartigue, C de La Serre_
 
 
 _Animals, Obesity, Male, Gastrointestinal Microbiome, Rats, Prebiotics, Brain-Gut Axis, Diet, High-Fat, Vagus Nerve, Weight Gain, Dysbiosis, Rats, Sprague-Dawley, Bacteria, Fecal Microbiota Transplantation, Brain, Signal Transduction_
