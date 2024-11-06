@@ -68,7 +68,7 @@ The International Rome Committee defines Disorders of Gut-Brain Interactions (DG
 ---
 
 ## AI in microbiome-related healthcare.
- 04.11.2024, _N Probul, Z Huang, CC Saak, J Baumbach, M List_
+ 05.11.2024, _N Probul, Z Huang, CC Saak, J Baumbach, M List_
 
 
 _Artificial Intelligence, Humans, Microbiota, Delivery of Health Care_
@@ -80,8 +80,8 @@ Artificial intelligence (AI) has the potential to transform clinical practice an
 
 ---
 
-## The oncomicrobiome: new insights into microorganisms in cancer.
- 31.10.2024, _Y Ma, T Chen, T Sun, D Dilimulati, Y Xiao_
+## The oncomicrobiome: New insights into microorganisms in cancer.
+ 05.11.2024, _Y Ma, T Chen, T Sun, D Dilimulati, Y Xiao_
 
 
 The discoveries of the oncomicrobiome (intratumoral microbiome) and oncomicrobiota (intratumoral microbiota) represent significant advances in tumor research and have rapidly become of key interest to the field. Within tumors, microorganisms such as bacteria, fungi, viruses, and archaea form the oncomicrobiota and are primarily found within tumor cells, immunocytes, and the intercellular matrix. The oncomicrobiome exhibits marked heterogeneity and is associated with tumor initiation, progression, metastasis, and treatment response. Interactions between the oncomicrobiome and the immune system can modulate host antitumor immunity, influencing the efficacy of immunotherapies. Oncomicrobiome research also faces numerous challenges, including overcoming methodological issues such as low target abundance, susceptibility to contamination, and biases in sample handling and analysis methods across different studies. Furthermore, studies of the oncomicrobiome may be confounded by baseline differences in microbiomes among populations driven by both environmental and genetic factors. Most studies to date have revealed associations between the oncomicrobiome and tumors, but very few have established mechanistic links between the two. This review introduces the relevant concepts, detection methods, sources, and characteristics of the oncomicrobiome. We then describe the composition of the oncomicrobiome in common tumors and its role in shaping the tumor microenvironment. We also discuss the current problems and challenges to be overcome in this rapidly progressing field.
@@ -220,7 +220,7 @@ Tobacco production faces ongoing challenges due to soil degradation, leading to 
 ---
 
 ## Community standards and future opportunities for synthetic communities in plant-microbiota research.
- 01.11.2024, _TR Northen, M Kleiner, M Torres, ÁT Kovács, MH Nicolaisen, DM Krzyżanowska, S Sharma, G Lund, L Jelsbak, O Baars, NL Kindtler, K Wippel, C Dinesen, JA Ferrarezi, M Marian, A Pioppi, X Xu, T Andersen, N Geldner, P Schulze-Lefert, JA Vorholt, R Garrido-Oter_
+ 05.11.2024, _TR Northen, M Kleiner, M Torres, ÁT Kovács, MH Nicolaisen, DM Krzyżanowska, S Sharma, G Lund, L Jelsbak, O Baars, NL Kindtler, K Wippel, C Dinesen, JA Ferrarezi, M Marian, A Pioppi, X Xu, T Andersen, N Geldner, P Schulze-Lefert, JA Vorholt, R Garrido-Oter_
 
 
 _Plants, Microbiota, Agriculture, Bacteria, Synthetic Biology_
