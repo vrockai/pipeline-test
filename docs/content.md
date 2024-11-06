@@ -194,9 +194,16 @@ The rise of the Isthmus of Panama separated the populations of many marine organ
 
 ---
 
-## Planting density effect on poplar growth traits and soil nutrient availability, and response of microbial community, assembly and function
+## Planting density effect on poplar growth traits and soil nutrient availability, and response of microbial community, assembly and function.
+ 03.11.2024, _R Qiao, Z Song, Y Chen, M Xu, Q Yang, X Shen, D Yu, P Zhang, C Ding, H Guo_
+
+
+_Populus, Soil Microbiology, Soil, Microbiota, Fungi, Nutrients, Bacteria, Phosphorus, Genotype_
+The interaction between soil characteristics and microbial communities is crucial for poplar growth under different planting densities. Yet, little is understood about their relationships and how they respond to primary environmental drivers across varying planting densities.
 
 [Source](https://doi.org/10.1186/s12870-024-05648-7)
+
+10.1186/s12870-024-05648-7
 
 ---
 
