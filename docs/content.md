@@ -174,9 +174,16 @@ The discoveries of the oncomicrobiome (intratumoral microbiome) and oncomicrobio
 
 ---
 
-## Community standards and future opportunities for synthetic communities in plant-microbiota research
+## Community standards and future opportunities for synthetic communities in plant-microbiota research.
+ 05.11.2024, _TR Northen, M Kleiner, M Torres, ÁT Kovács, MH Nicolaisen, DM Krzyżanowska, S Sharma, G Lund, L Jelsbak, O Baars, NL Kindtler, K Wippel, C Dinesen, JA Ferrarezi, M Marian, A Pioppi, X Xu, T Andersen, N Geldner, P Schulze-Lefert, JA Vorholt, R Garrido-Oter_
+
+
+_Plants, Microbiota, Agriculture, Bacteria, Synthetic Biology_
+Harnessing beneficial microorganisms is seen as a promising approach to enhance sustainable agriculture production. Synthetic communities (SynComs) are increasingly being used to study relevant microbial activities and interactions with the plant host. Yet, the lack of community standards limits the efficiency and progress in this important area of research. To address this gap, we recommend three actions: (1) defining reference SynComs; (2) establishing community standards, protocols and benchmark data for constructing and using SynComs; and (3) creating an infrastructure for sharing strains and data. We also outline opportunities to develop SynCom research through technical advances, linking to field studies, and filling taxonomic blind spots to move towards fully representative SynComs.
 
 [Source](https://doi.org/10.1038/s41564-024-01833-4)
+
+10.1038/s41564-024-01833-4
 
 ---
 
@@ -192,21 +199,42 @@ The discoveries of the oncomicrobiome (intratumoral microbiome) and oncomicrobio
 
 ---
 
-## SALINITY-Induced Changes in Diversity, Stability, and Functional Profiles of Microbial Communities in Different Saline Lakes in Arid Areas
+## SALINITY-Induced Changes in Diversity, Stability, and Functional Profiles of Microbial Communities in Different Saline Lakes in Arid Areas.
+ 03.11.2024, _L Gao, MPN Rao, YH Liu, PD Wang, ZH Lian, R Abdugheni, HC Jiang, JY Jiao, V Shurigin, BZ Fang, WJ Li_
+
+
+_Lakes, Salinity, Archaea, Bacteria, Microbiota, RNA, Ribosomal, 16S, Biodiversity, Geologic Sediments, Phylogeny, Desert Climate, Ecosystem_
+Saline lakes, characterized by high salinity and limited nutrient availability, provide an ideal environment for studying extreme halophiles and their biogeochemical processes. The present study examined prokaryotic microbial communities and their ecological functions in lentic sediments (with the salinity gradient and time series) using 16S rRNA amplicon sequencing and a metagenomic approach. Our findings revealed a negative correlation between microbial diversity and salinity. The notable predominance of Archaea in high-salinity lakes signified a considerable alteration in the composition of the microbial community. The results indicate that elevated salinity promotes homogeneous selection pressures, causing substantial alterations in microbial diversity and community structure, and simultaneously hindering interactions among microorganisms. This results in a notable decrease in the complexity of microbial ecological networks, ultimately influencing the overall ecological functional responses of microbial communities such as carbon fixation, sulfur, and nitrogen metabolism. Overall, our findings reveal salinity drives a notable predominance of Archaea, selects for species adapted to extreme conditions, and decreases microbial community complexity within saline lake ecosystems.
 
 [Source](https://doi.org/10.1007/s00248-024-02442-8)
 
+10.1007/s00248-024-02442-8
+
 ---
 
-## Resistome analysis of wastewater treatment plants in Agadir city, Morocco, using a metagenomics approach
+## Resistome analysis of wastewater treatment plants in Agadir city, Morocco, using a metagenomics approach.
+ 04.11.2024, _M Wardi, Z Lemkhente, AA Alla, N Slimani, M Abali, Y Idaghdour, A Belmouden_
+
+
+_Wastewater, Morocco, Metagenomics, Anti-Bacterial Agents, Water Purification, Bacteria, Genes, Bacterial, Drug Resistance, Bacterial_
+Water scarcity has evolved into a pressing global issue, significantly impacting numerous regions worldwide. The use of treated wastewater stands out as a promising solution to this problem. However, the proliferation of various contaminants, primarily Antimicrobial Resistance Genes (ARGs), poses a significant challenge to its safe and sustainable use. In this study, we assessed the composition and abundance of 373 ARGs, corresponding to 31 different classes of antibiotics, in six wastewater treatment plants (WWTP) in Agadir city of Morocco. Influent and effluent samples were collected during the months of February and July in 2020, in addition to samples from the Atlantic Ocean. In total, 223 ARGs were uncovered, highlighting in particular resistance to aminoglycoside, macrolide lincosamide, beta-lactamase, chloramphenicol, sulfonamide, tetracycline, and other antibiotics. The mechanisms of action of these ARGs were mainly antibiotic inactivation, antibiotic target alteration, efflux pump and cellular protection. Mobile genetic elements (MGEs) were detected at high levels their co-occurrence with ARGs highlights their involvement in the acquisition and transmission of ARGs in microbial communities through horizontal gene transfer. While many wastewater treatment methods effectively reduce a large proportion of gene material and pathogens, a substantial fraction of ARGs and other contaminants persist in treated wastewater. This persistence poses potential risks to both human health and the environment, warranting the need of more effective treatment strategies.
 
 [Source](https://doi.org/10.1038/s41598-024-76773-4)
 
+10.1038/s41598-024-76773-4
+
 ---
 
-## Comparative genomic analysis and characterization of novel high-quality draft genomes from the coal metagenome
+## Comparative genomic analysis and characterization of novel high-quality draft genomes from the coal metagenome.
+ 01.11.2024, _AB Achudhan, LM Saleena_
+
+
+_Coal, Metagenome, Phylogeny, Bacteria, Genome, Bacterial, High-Throughput Nucleotide Sequencing, Sequence Analysis, DNA, Genomics, Metagenomics, Microbiota, DNA, Bacterial, RNA, Ribosomal, 16S_
+Coal, a sedimentary rock harbours a complex microbial community that plays a significant role in its formation and characteristics. However, coal metagenome sequencing and studies were less, limiting our understanding of this complex ecosystem. This study aimed to reconstruct high-quality metagenome-assembled genomes (MAGs) from the coal sample collected in the Neyveli mine to explore the unrevealed diversity of the coal microbiome. Using Illumina sequencing, we obtained high-quality raw reads in FASTQ format. Subsequently, de novo assembly and binning with metaWRAP software facilitated the reconstruction of coal MAGs. Quality assessment using CheckM identified 10 High-Quality MAGs (HQ MAGs), 7 medium-quality MAGs (MQ MAGs), and 6 low-quality MAGs (LQ MAGs). Further analysis using GTDB-Tk revealed four HQ MAGs as known species like Dermacoccus abyssi, Sphingomonas aquatilis, Acinetobacter baumannii, and Burkholderia cenocepacia. The remaining six HQ MAGs were classified as Comamonas, Arthrobacter, Noviherbaspirillum, Acidovorax, Oxalicibacterium, and Bordetella and designated as novel genomes by the validation of digital DNA-DNA hybridization (dDDH). Phylogenetic analysis and further pangenome analysis across the phylogenetic groups revealed a similar pattern with a high proportion of cloud genes. We further analysed the functional potential of these MAGs and closely related genomes using COG. The comparative functional genomics revealed that novel genomes are highly versatile, potentially reflecting adaptations to the coal environment. BlastKOALA was used to conduct a detailed analysis of the metabolic pathways associated with the MAGs. This study highlights the comparative genomic analysis of novel coal genomes with their closely related genomes to understand the evolutionary relationships and functional properties.
 
 [Source](https://doi.org/10.1007/s11274-024-04174-w)
+
+10.1007/s11274-024-04174-w
 
 ---
 
