@@ -15,15 +15,15 @@
 
 ---
 
-## The pangenome analysis of the environmental source Salmonella enterica highlights a diverse accessory genome and a distinct serotype clustering.
- 12.11.2024, _JR Aguirre-Sánchez, C Chaidez, N Castro-Del Campo_
+## Key roles of two-component systems in intestinal signal sensing and virulence regulation in enterohemorrhagic Escherichia coli.
+ 13.11.2024, _H Sun, D Huang, Y Pang, J Chen, C Kang, M Zhao, B Yang_
 
 
-Salmonella remains the leading cause of foodborne infections globally. Environmental reservoirs, particularly aquatic bodies, serve as conduits for the fecal-oral transmission of this pathogen. While the gastrointestinal tract is traditionally considered the primary habitat of Salmonella, mounting evidence suggests the bacterium's capacity for survival in external environments. The application of advanced technological platforms, such as next-generation sequencing (NGS), facilitates a comprehensive analysis of Salmonella's genomic features. This study aims to characterize the genomic composition of Salmonella isolates from river water, contributing to a potential paradigm shift and advancing public health protection. A total of 25 river water samples were collected and processed, followed by microbiological isolation of Salmonella strains, which were then sequenced. Genomic characterization revealed adaptive mechanisms, including gene duplication. Furthermore, an open pangenome, predisposed to incorporating foreign genetic material, was identified. Notably, antibiotic resistance genes were found to be part of the core genome, challenging previous reports that placed them in the accessory genome.
+Enterohemorrhagic Escherichia coli (EHEC) is a foodborne pathogen that infects humans by colonizing the large intestine. Upon reaching the large intestine, EHEC mediates local signal recognition and the transcriptional regulation of virulence genes to promote adherence and colonization in a highly site-specific manner. Two-component systems (TCSs) represent an important strategy used by EHEC to couple external stimuli with the regulation of gene expression, thereby allowing EHEC to rapidly adapt to changing environmental conditions. An increasing number of studies published in recent years have shown that EHEC senses a variety of host- and microbiota-derived signals present in the human intestinal tract and coordinates the expression of virulence genes via multiple TCS-mediated signal transduction pathways to initiate the disease-causing process. Here, we summarize how EHEC detects a wide range of intestinal signals and precisely regulates virulence gene expression through multiple signal transduction pathways during the initial stages of infection, with a particular emphasis on the key roles of TCSs. This review provides valuable insights into the importance of TCSs in EHEC pathogenesis, which have relevant implications for the development of antibacterial therapies against EHEC infection.
 
 [Source](https://academic.oup.com/femsec/article/100/11/fiae144/7888746?login=false)
 
-10.1093/femsle/fnae090
+10.1093/femsre/fuae028
 
 ---
 
@@ -33,15 +33,15 @@ Salmonella remains the leading cause of foodborne infections globally. Environme
 
 ---
 
-## Urea assimilation and oxidation support activity of phylogenetically diverse microbial communities of the dark ocean.
- 12.11.2024, _N Arandia-Gorostidi, AL Jaffe, AE Parada, BJ Kapili, KL Casciotti, RSR Salcedo, CMJ Baumas, AE Dekas_
+## Coastal bacteria and protists assimilate viral carbon and nitrogen.
+ 13.11.2024, _JM Martínez, D Talmy, JA Kimbrel, PK Weber, X Mayali_
 
 
-Urea is hypothesized to be an important source of nitrogen and chemical energy to microorganisms in the deep sea; however, direct evidence for urea use below the epipelagic ocean is lacking. Here, we explore urea utilization from 50 to 4000 meters depth in the northeastern Pacific Ocean using metagenomics, nitrification rates, and single-cell stable-isotope-uptake measurements with nanoscale secondary ion mass spectrometry. We find that on average 25% of deep-sea cells assimilated urea-derived N (60% of detectably active cells), and that cell-specific nitrogen-incorporation rates from urea were higher than that from ammonium. Both urea concentrations and assimilation rates relative to ammonium generally increased below the euphotic zone. We detected ammonia- and urea-based nitrification at all depths at one of two sites analyzed, demonstrating their potential to support chemoautotrophy in the mesopelagic and bathypelagic regions. Using newly generated metagenomes we find that the ureC gene, encoding the catalytic subunit of urease, is found within 39% of deep-sea cells in this region, including the Nitrososphaeria (syn., Thaumarchaeota; likely for nitrification) as well as members of thirteen other phyla such as Proteobacteria, Verrucomicrobia, Plantomycetota, Nitrospinota, and Chloroflexota (likely for assimilation). Analysis of public metagenomes estimated ureC within 10-46% of deep-sea cells around the world, with higher prevalence below the photic zone, suggesting urea is widely available to the deep-sea microbiome globally. Our results demonstrate that urea is a nitrogen source to abundant and diverse microorganisms in the dark ocean, as well as a significant contributor to deep-sea nitrification and therefore fuel for chemoautotrophy.
+Free viruses are the most abundant type of biological particles in the biosphere, but the lack of quantitative knowledge about their consumption by heterotrophic protists and bacterial degradation has hindered the inclusion of virovory in biogeochemical models. Using isotope-labeled viruses added to three independent microcosm experiments with natural microbial communities followed by isotope measurements with single-cell resolution and flow cytometry, we quantified the flux of viral C and N into virovorous protists and bacteria and compared the loss of viruses due to abiotic vs biotic factors. We found that some protists can obtain most of their C and N requirements from viral particles and that viral C and N get incorporated into bacterial biomass. We found that bacteria and protists were responsible for increasing the daily removal rate of viruses by 33% to 85%, respectively, compared to abiotic processes alone. Our laboratory incubation experiments showed that abiotic processes removed roughly 50% of the viruses within a week, and adding biotic processes led to a removal of 83% to 91%. Our data provide direct evidence for the transfer of viral C and N back into the microbial loop through protist grazing and bacterial breakdown, representing a globally significant flux that needs to be investigated further to better understand and predictably model the C and N cycles of the hydrosphere.
 
 [Source](https://academic.oup.com/ismej/article/18/1/wrae219/7887692?login=false)
 
-10.1093/ismejo/wrae230
+10.1093/ismejo/wrae231
 
 ---
 
@@ -51,14 +51,15 @@ Urea is hypothesized to be an important source of nitrogen and chemical energy t
 
 ---
 
-## ASM Annual Scholarship Meeting 2024: Maximising potential in health professions education.
- 12.11.2024, __
+## Interictal gamma oscillation regularity analysis and susceptibility-weighted imaging on focal epilepsy cases with alcohol use disorders.
+ 11.11.2024, _Y Tsuji, Y Sato_
 
 
+There has been no clear consensus on the clinical markers to distinguish alcohol-related seizures (ARSs) from epileptic seizures. We have reported the usefulness of gamma oscillation (30-70 Hz) regularity (GOR) analysis using interictal electroencephalography (EEG) data to evaluate epileptogenic focus. We conducted interictal GOR analysis using scalp EEG and susceptibility-weighted imaging (SWI) to visualize the epileptogenic focus in two cases initially suspected to have ARS.
 
 [Source](https://journals.asm.org/doi/10.1128/msystems.01416-24)
 
-10.1111/tct.13812
+10.25259/SNI_991_2023
 
 ---
 
@@ -68,15 +69,15 @@ Urea is hypothesized to be an important source of nitrogen and chemical energy t
 
 ---
 
-## Expression of the polyphenol oxidase gene MdPPO7 is modulated by MdWRKY3 to regulate browning in sliced apple fruit.
- 13.11.2024, _H Zou, C Li, X Wei, Q Xiao, X Tian, L Zhu, B Ma, F Ma, M Li_
+## Nanozymes: a bibliometrics review.
+ 14.11.2024, _Z Feng, Y Guo, Y Zhang, A Zhang, M Jia, J Yin, G Shen_
 
 
-Browning is a pervasive problem in horticultural products, substantially diminishing the appearance, flavor and nutritional value of fruit, including important fruits like apple (Malus × domestica Borkh.). In this study, we compared the physiological characteristics of the browning-resistant line 'Rb-18' with the susceptible variety 'Fuji' and found that the polyphenol oxidase (PPO) enzyme activity and phenolic content of Rb-18 were significantly lower than those in Fuji. In addition, the PPO enzyme in Fuji showed a stronger affinity for its substrate, catechol, compared to Rb-18. Through transcriptome and RT-qPCR analyses, MdPPO7 expression was identified as contributing to flesh browning after cutting. Subsequent fruit injection and stable genetic transformation of the MdPPO7 gene into apple fruit and calli determined that syringic acid, procyanidin, phloridzin, chlorogenic acid, gallic acid, catechin, and caffeic act as its catalytic substrates in the process involved in browning. Furthermore, luciferase reporter, yeast one-hybrid, β-glucuronidase reporter assays and chip-qPCR analysis demonstrated that a WRKY transcription factor(MdWRKY3) binds to the promoter region of polyphenol oxidase gene (MdPPO7) and positively regulates its expression to promote apple flesh browning. This study provides insights into the molecular regulatory mechanisms of fruit browning in fresh-cut apples and provides a theoretical basis for the generation of high-quality apple germplasm resources.
+As novel multifunctional materials that merge enzyme-like capabilities with the distinctive traits of nanomaterials, nanozymes have made significant strides in interdisciplinary research areas spanning materials science, bioscience, and beyond. This article, for the first time, employed bibliometric methods to conduct an in-depth statistical analysis of the global nanozymes research and demonstrate research progress, hotspots and trends. Drawing on data from the Web of Science Core Collection database, we comprehensively retrieved the publications from 2004 to 2024. The burgeoning interest in nanozymes research across various nations indicated a growing and widespread trend. This article further systematically elaborated the enzyme-like activities, matrix, multifunctional properties, catalytic mechanisms and various applications of nanozymes, and the field encounters challenges. Despite notable progress, and requires deeper exploration guide the future research directions. This field harbors broad potential for future developments, promising to impact various aspects of technology and society.
 
 [Source](https://www.nature.com/articles/s41564-024-01861-0)
 
-10.1093/plphys/kiae614
+10.1186/s12951-024-02907-5
 
 ---
 
