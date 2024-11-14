@@ -1,291 +1,131 @@
-## Scientists issue call to action underlining importance of microbial solutions to tackle climate crisis
-
-[Source](https://www.the-microbiologist.com/news/scientists-issue-call-to-action-underlining-importance-of-microbial-solutions-to-tackle-climate-crisis/4489.article)
-
----
-
-## Microbial solutions must be deployed against climate catastrophe.
- 11.11.2024, _R Peixoto, CR Voolstra, LY Stein, P Hugenholtz, JF Salles, SA Amin, M Häggblom, A Gregory, TP Makhalanyane, F Wang, NA Agbodjato, Y Wang, N Jiao, JT Lennon, A Ventosa, PM Bavoil, V Miller, JA Gilbert_
+## Mapping the gut microbial structural variations in healthy aging within the Chinese population.
+ 09.11.2024, _L Shen, H Zhao, Y Xi, Z Wang, K Deng, W Gou, K Zhang, W Hu, J Tang, F Xu, Z Jiang, Y Fu, Y Zhu, D Zhou, YM Chen, JS Zheng_
 
 
+Mapping gut microbial structural variants (SVs) during human aging may provide fundamental knowledge and mechanistic understanding of the gut microbiome's relationship with healthy aging. We characterize gut microbial SVs from 3,230 Chinese participants, identifying key SVs associated with aging, healthy aging, and age-related chronic diseases. Our findings reveal a pattern of copy number loss in aging-related SVs, with 35 core SVs consistently detected. Additionally, eight SVs distinguish healthy from unhealthy aging, regardless of age. Notably, a 3-kbp deletion SV of Bifidobacterium pseudocatenulatum, encoding plant polysaccharide degradation, is regulated by plant-based diet and contributes to healthy aging through bile acid metabolism. Our analysis also connects SVs to age-related diseases, such as chronic kidney disease, via genes in the methionine-homocysteine pathway. This study deepens our understanding of the gut microbiome's role in aging and could inform future efforts to enhance lifespan and healthspan.
 
-[Source](https://academic.oup.com/sumbio/article/1/1/qvae029/7887643)
+[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01319-6)
 
-10.1038/s41579-024-01123-0
+10.1016/j.celrep.2024.114968
 
 ---
 
-## Key roles of two-component systems in intestinal signal sensing and virulence regulation in enterohemorrhagic Escherichia coli.
- 13.11.2024, _H Sun, D Huang, Y Pang, J Chen, C Kang, M Zhao, B Yang_
+## Association between butyrate-producing gut bacteria and the risk of infectious disease hospitalisation: results from two observational, population-based microbiome studies.
+ 06.09.2024, _RFJ Kullberg, I Wikki, BW Haak, A Kauko, H Galenkamp, H Peters-Sengers, JM Butler, AS Havulinna, J Palmu, D McDonald, C Benchraka, MI Abdel-Aziz, M Prins, AH Maitland van der Zee, BJ van den Born, P Jousilahti, WM de Vos, V Salomaa, R Knight, L Lahti, M Nieuwdorp, T Niiranen, WJ Wiersinga_
 
 
-Enterohemorrhagic Escherichia coli (EHEC) is a foodborne pathogen that infects humans by colonizing the large intestine. Upon reaching the large intestine, EHEC mediates local signal recognition and the transcriptional regulation of virulence genes to promote adherence and colonization in a highly site-specific manner. Two-component systems (TCSs) represent an important strategy used by EHEC to couple external stimuli with the regulation of gene expression, thereby allowing EHEC to rapidly adapt to changing environmental conditions. An increasing number of studies published in recent years have shown that EHEC senses a variety of host- and microbiota-derived signals present in the human intestinal tract and coordinates the expression of virulence genes via multiple TCS-mediated signal transduction pathways to initiate the disease-causing process. Here, we summarize how EHEC detects a wide range of intestinal signals and precisely regulates virulence gene expression through multiple signal transduction pathways during the initial stages of infection, with a particular emphasis on the key roles of TCSs. This review provides valuable insights into the importance of TCSs in EHEC pathogenesis, which have relevant implications for the development of antibacterial therapies against EHEC infection.
+_Humans, Middle Aged, Adult, Hospitalization, Male, Female, Gastrointestinal Microbiome, Aged, Finland, Butyrates, RNA, Ribosomal, 16S, Netherlands, Young Adult, Bacteria, Feces, Adolescent, Communicable Diseases, Cohort Studies, Risk Factors_
+Microbiota alterations are common in patients hospitalised for severe infections, and preclinical models have shown that anaerobic butyrate-producing gut bacteria protect against systemic infections. However, the relationship between microbiota disruptions and increased susceptibility to severe infections in humans remains unclear. We investigated the relationship between gut microbiota and the risk of future infection-related hospitalisation in two large population-based cohorts.
 
-[Source](https://academic.oup.com/femsec/article/100/11/fiae144/7888746?login=false)
+[Source](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00304-5/fulltext)
 
-10.1093/femsre/fuae028
-
----
-
-## FEMS
-
-[Source](https://academic.oup.com/femsec/article/100/11/fiae144/7888746?login=false)
+10.1016/S2666-5247(24)00079-X
 
 ---
 
-## Coastal bacteria and protists assimilate viral carbon and nitrogen.
- 13.11.2024, _JM Martínez, D Talmy, JA Kimbrel, PK Weber, X Mayali_
+## Reassessing the role of butyrate-producing bacteria in infection risk
 
-
-Free viruses are the most abundant type of biological particles in the biosphere, but the lack of quantitative knowledge about their consumption by heterotrophic protists and bacterial degradation has hindered the inclusion of virovory in biogeochemical models. Using isotope-labeled viruses added to three independent microcosm experiments with natural microbial communities followed by isotope measurements with single-cell resolution and flow cytometry, we quantified the flux of viral C and N into virovorous protists and bacteria and compared the loss of viruses due to abiotic vs biotic factors. We found that some protists can obtain most of their C and N requirements from viral particles and that viral C and N get incorporated into bacterial biomass. We found that bacteria and protists were responsible for increasing the daily removal rate of viruses by 33% to 85%, respectively, compared to abiotic processes alone. Our laboratory incubation experiments showed that abiotic processes removed roughly 50% of the viruses within a week, and adding biotic processes led to a removal of 83% to 91%. Our data provide direct evidence for the transfer of viral C and N back into the microbial loop through protist grazing and bacterial breakdown, representing a globally significant flux that needs to be investigated further to better understand and predictably model the C and N cycles of the hydrosphere.
-
-[Source](https://academic.oup.com/ismej/article/18/1/wrae219/7887692?login=false)
-
-10.1093/ismejo/wrae231
+[Source](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00304-5/fulltext)
 
 ---
 
-## ISME
-
-[Source](https://academic.oup.com/ismej/article/18/1/wrae219/7887692?login=false)
-
----
-
-## Interictal gamma oscillation regularity analysis and susceptibility-weighted imaging on focal epilepsy cases with alcohol use disorders.
- 11.11.2024, _Y Tsuji, Y Sato_
+## Microbiome science of human excrement composting.
+ 09.11.2024, _J Meilander, JG Caporaso_
 
 
-There has been no clear consensus on the clinical markers to distinguish alcohol-related seizures (ARSs) from epileptic seizures. We have reported the usefulness of gamma oscillation (30-70 Hz) regularity (GOR) analysis using interictal electroencephalography (EEG) data to evaluate epileptogenic focus. We conducted interictal GOR analysis using scalp EEG and susceptibility-weighted imaging (SWI) to visualize the epileptogenic focus in two cases initially suspected to have ARS.
+Linear waste management systems are unsustainable and contribute to environmental degradation, economic inequity, and health disparities. Among the array of environmental challenges stemming from anthropogenic impacts, the management of human excrement (human feces and urine) stands as a significant concern. Over two billion people do not have access to adequate sanitation, signifying a global public health crisis. Composting is the microbial biotechnology aimed at cycling organic waste, including human excrement, for improved public health, agricultural productivity and safety, and environmental sustainability. Applications of modern microbiome -omics and related technologies have the capacity to support continued advances in composting science and praxis. In this article, we review literature focused on applications of microbiome technologies to study composting systems and reactions. The studies we survey generally fall into the categories of animal manure composting, biosolids composting, and human excrement composting. We review experiments utilizing microbiome technologies to investigate strategies for enhancing pathogen suppression and accelerating the biodegradation of organic matter. Additionally, we explore studies focused on the bioengineering potential of microbes as inoculants to facilitate degradation of toxins such as pharmaceuticals or per- and polyfluoroalkyl substances. The findings from these studies underscore the importance of advancing our understanding of composting processes through the integration of emerging microbiome -omics technologies. We conclude that work to-date has demonstrated exciting basic and applied science potential from studying compost microbiomes, with promising implications for enhancing global environmental sustainability and public health.
 
-[Source](https://journals.asm.org/doi/10.1128/msystems.01416-24)
+[Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae228/7888797)
 
-10.25259/SNI_991_2023
+10.1093/ismejo/wrae228
 
 ---
 
-## ASM
-
-[Source](https://journals.asm.org/doi/10.1128/msystems.01416-24)
-
----
-
-## Nanozymes: a bibliometrics review.
- 14.11.2024, _Z Feng, Y Guo, Y Zhang, A Zhang, M Jia, J Yin, G Shen_
+## Microbiota-derived lysophosphatidylcholine alleviates Alzheimer's disease pathology via suppressing ferroptosis.
+ 07.11.2024, _X Zha, X Liu, M Wei, H Huang, J Cao, S Liu, X Bian, Y Zhang, F Xiao, Y Xie, W Wang, C Zhang_
 
 
-As novel multifunctional materials that merge enzyme-like capabilities with the distinctive traits of nanomaterials, nanozymes have made significant strides in interdisciplinary research areas spanning materials science, bioscience, and beyond. This article, for the first time, employed bibliometric methods to conduct an in-depth statistical analysis of the global nanozymes research and demonstrate research progress, hotspots and trends. Drawing on data from the Web of Science Core Collection database, we comprehensively retrieved the publications from 2004 to 2024. The burgeoning interest in nanozymes research across various nations indicated a growing and widespread trend. This article further systematically elaborated the enzyme-like activities, matrix, multifunctional properties, catalytic mechanisms and various applications of nanozymes, and the field encounters challenges. Despite notable progress, and requires deeper exploration guide the future research directions. This field harbors broad potential for future developments, promising to impact various aspects of technology and society.
+Alzheimer's disease (AD) is a pervasive neurodegenerative disorder, and new approaches for its prevention and therapy are critically needed. Here, we elucidate a gut-microbiome-brain axis that offers actionable perspectives for achieving this objective. Using the 5xFAD mouse model, we identify increased Clostridium abundance and decreased Bacteroides abundance as key features associated with β-amyloid (Aβ) burden. Treatment with Bacteroides ovatus, or its associated metabolite lysophosphatidylcholine (LPC), significantly reduces Aβ load and ameliorates cognitive impairment. Mechanistically, LPC acts through the orphan receptor GPR119, inhibiting ACSL4 expression, thereby suppressing ferroptosis and ameliorating AD pathologies. Analysis of fecal and serum samples from individuals with AD also reveals diminished levels of Bacteroides and LPC. This study thus identifies a B.ovatus-triggered pathway regulating AD pathologies and indicates that the use of single gut microbiota, metabolite, or small molecule compound may complement current prevention and treatment approaches for AD.
 
-[Source](https://www.nature.com/articles/s41564-024-01861-0)
+[Source](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(24)00402-9)
 
-10.1186/s12951-024-02907-5
+10.1016/j.cmet.2024.10.006
 
 ---
 
-## Nature
-
-[Source](https://www.nature.com/articles/s41564-024-01861-0)
-
----
-
-## Predictable regulation of gut microbiome in immunotherapeutic efficacy of gastric cancer.
- 12.11.2024, _W Gao, X Wang, Y Shi, G Wu, M Zhou, X Lin_
+## Probiotics and their metabolite spermidine enhance IFN-γ+CD4+ T cell immunity to inhibit hepatitis B virus.
+ 13.11.2024, _T Wang, Y Fan, S Tan, Z Wang, M Li, X Guo, X Yu, Q Lin, X Song, L Xu, L Li, S Li, L Gao, X Liang, C Li, C Ma_
 
 
-Immunotherapy has showcased remarkable progress in the management of gastric cancer (GC), prompting the need to proactively identify and classify patients suitable for immunotherapy. Here, 30 patients were enrolled and stratified into three groups (PR, partial response; SD, stable disease; PD, progressive disease) based on efficacy assessment. 16S rRNA sequencing were performed to analyze the gut microbiome signature of patients at three timepoints. We found that immunotherapy interventions perturbed the gut microbiota of patients. Additionally, although differences at the enterotype level did not distinguish patients' immunotherapy response, we identified 6, 7, and 19 species that were significantly enriched in PR, SD, and PD, respectively. Functional analysis showed that betalain biosynthesis and indole alkaloid biosynthesis were significantly different between the responders and non-responders. Furthermore, machine learning model utilizing only bacterial biomarkers accurately predicted immunotherapy efficacy with an Area Under the Curve (AUC) of 0.941. Notably, Akkermansia muciniphila and Dorea formicigenerans played a significant role in the classification of immunotherapy efficacy. In conclusion, our study reveals that gut microbiome signatures can be utilized as effective biomarkers for predicting the immunotherapy efficacy for GC.
+The therapeutic potential of commensal microbes and their metabolites is promising in the functional cure of chronic hepatitis B virus (HBV) infection, which is defined as hepatitis B surface antigen (HBsAg) loss. Here, using both specific-pathogen-free and germ-free mice, we report that probiotics significantly promote the decline of HBsAg and inhibit HBV replication by enhancing intestinal homeostasis and provoking intrahepatic interferon (IFN)-γ+CD4+ T cell immune response. Depletion of CD4+ T cells or blockage of IFN-γ abolishes probiotics-mediated HBV inhibition. Specifically, probiotics-derived spermidine accumulates in the gut and transports to the liver, where it exhibits a similar anti-HBV effect. Mechanistically, spermidine enhances IFN-γ+CD4+ T cell immunity by autophagy. Strikingly, administration of probiotics in HBV patients reveals a preliminary trend to accelerate the decline of serum HBsAg. In conclusion, probiotics and their derived spermidine promote HBV clearance via autophagy-enhanced IFN-γ+CD4+ T cell immunity, highlighting the therapeutic potential of probiotics and spermidine for the functional cure of HBV patients.
 
-[Source](https://www.nature.com/articles/s41435-024-00306-2)
+[Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00593-7)
 
-10.1038/s41435-024-00306-2
+10.1016/j.xcrm.2024.101822
 
 ---
 
-## Multimodal analysis identifies microbiome changes linked to stem cell transplantation-associated diseases.
- 08.11.2024, _A Artacho, C González-Torres, N Gómez-Cebrián, P Moles-Poveda, J Pons, N Jiménez, MJ Casanova, J Montoro, A Balaguer, M Villalba, P Chorão, L Puchades-Carrasco, J Sanz, C Ubeda_
+## The phageome of patients with ulcerative colitis treated with donor fecal microbiota reveals markers associated with disease remission.
+ 20.10.2024, _ME Majzoub, S Paramsothy, C Haifer, R Parthasarathy, TJ Borody, RW Leong, MA Kamm, NO Kaakoush_
 
 
-_Humans, Graft vs Host Disease, Hematopoietic Stem Cell Transplantation, RNA, Ribosomal, 16S, Bacteria, Metabolomics, Machine Learning, Microbiota, Transplantation, Homologous, Fatty Acids, Volatile, Adult, Female, Middle Aged, Gastrointestinal Microbiome, Male_
-Allogeneic hematopoietic stem cell transplantation (allo-HSCT) is one of the most efficient therapeutic options available to cure many hematological malignancies. However, severe complications derived from this procedure, including graft-versus-host disease (GVHD) and infections, can limit its success and negatively impact survival. Previous studies have shown that alterations in the microbiome are associated with the development of allo-HSCT-derived complications. However, most studies relied on single techniques that can only analyze a unique aspect of the microbiome, which hinders our ability to understand how microbiome alterations drive allo-HSCT-associated diseases.
+_Humans, Colitis, Ulcerative, Fecal Microbiota Transplantation, Bacteriophages, Gastrointestinal Microbiome, Feces, Double-Blind Method, Male, Female, Metagenomics, Adult, Dysbiosis, Middle Aged, Virome, Remission Induction, Anti-Bacterial Agents, Biomarkers_
+Bacteriophages are influential within the human gut microbiota, yet they remain understudied relative to bacteria. This is a limitation of studies on fecal microbiota transplantation (FMT) where bacteriophages likely influence outcome. Here, using metagenomics, we profile phage populations - the phageome - in individuals recruited into two double-blind randomized trials of FMT in ulcerative colitis. We leverage the trial designs to observe that phage populations behave similarly to bacterial populations, showing temporal stability in health, dysbiosis in active disease, modulation by antibiotic treatment and by FMT. We identify a donor bacteriophage putatively associated with disease remission, which on genomic analysis was found integrated in a bacterium classified to Oscillospiraceae, previously isolated from a centenarian and predicted to produce vitamin B complex except B12. Our study provides an in-depth assessment of phage populations during different states and suggests that bacteriophage tracking has utility in identifying determinants of disease activity and resolution.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01948-0)
+[Source](https://www.nature.com/articles/s41467-024-53454-4)
 
-10.1186/s40168-024-01948-0
-
----
-
-## Large-scale metagenomic analysis of oral microbiomes reveals markers for autismspectrum disorders
-
-[Source](https://www.nature.com/articles/s41467-024-53934-7.epdf)
+10.1038/s41467-024-53454-4
 
 ---
 
-## Viral infection and antiviral immunity in the oral cavity.
- 12.11.2024, _HD Hickman, NM Moutsopoulos_
+## Chronic exposure to polycyclic aromatic hydrocarbons alters skin virome composition and virus-host interactions.
+ 11.11.2024, _S Du, X Tong, MHY Leung, RJ Betts, AC Woo, P Bastien, N Misra, L Aguilar, C Clavaud, PKH Lee_
 
 
-Individual tissues have distinct antiviral properties garnered through various mechanisms, including physical characteristics, tissue-resident immune cells and commensal organisms. Although the oral mucosa has long been appreciated as a critical barrier tissue that is exposed to a continuous barrage of pathogens, many fundamental aspects of the antiviral immune response in this tissue remain unknown. Several viral pathogens, such as herpesviruses and human papillomaviruses, have been acknowledged both historically and at present for infections in the oral cavity that result in substantial clinical burden. However, recent viral outbreaks, including those with SARS-CoV-2 and mpox, featured oral symptoms even though these viruses are not generally considered oral pathogens. Ensuing studies have shown that the oral cavity is an important locale for viral infection and potential transmission of newly emergent or re-emergent pathogens, highlighting the need for an increased understanding of the mechanisms of antiviral immunity at this site. In this Review, we provide a broad overview of antiviral immune responses in the oral cavity and discuss common viral infections and their manifestations in the oral mucosa. In addition, we present current mouse models for the study of oral viral infections.
+_Skin, Female, Humans, Virome, Polycyclic Aromatic Hydrocarbons, Microbiota, Bacteria, Viruses, China, Adult, Metagenome, Host Microbial Interactions, Air Pollutants_
+Exposure to polycyclic aromatic hydrocarbons (PAHs) in polluted air influences the composition of the skin microbiome, which in turn is associated with altered skin phenotypes. However, the interactions between PAH exposure and viromes are unclear. This study aims to elucidate how PAH exposure affects the composition and function of skin viruses, their role in shaping the metabolism of bacterial hosts, and the subsequent effects on skin phenotype. We analyzed metagenomes from cheek skin swabs collected from 124 Chinese women in our previous study and found that the viruses associated with the two microbiome cutotypes had distinct diversities, compositions, functions, and lifestyles following PAH exposure. Moreover, exposure to high concentrations of PAHs substantially increased interactions between viruses and certain biodegrading bacteria. Under high-PAH exposure, the viruses were enriched in xenobiotic degradation functions, and there was evidence suggesting that the insertion of bacteriophage-encoded auxiliary metabolic genes into hosts aids biodegradation. Under low-PAH exposure conditions, the interactions followed the "Piggyback-the-Winner" model, with Cutibacterium acnes being "winners," whereas under high-PAH exposure, they followed the "Piggyback-the-Persistent" model, with biodegradation bacteria being "persistent." These findings highlight the impact of air pollutants on skin bacteria and viruses, their interactions, and their modulation of skin health. Understanding these intricate relationships could provide insights for developing targeted strategies to maintain skin health in polluted environments, emphasizing the importance of mitigating pollutant exposure and harnessing the potential of viruses to help counteract the adverse effects.
 
-[Source](https://www.nature.com/articles/s41577-024-01100-x)
+[Source](https://academic.oup.com/ismej/article/18/1/wrae218/7841796)
 
-10.1038/s41577-024-01100-x
-
----
-
-## Nepali oral microbiomes reflect a gradient of lifestyles from traditional to industrialized.
- 12.11.2024, _EP Ryu, Y Gautam, DM Proctor, D Bhandari, S Tandukar, M Gupta, GP Gautam, DA Relman, AA Shibl, JB Sherchand, AR Jha, ER Davenport_
-
-
-_Humans, Life Style, Nepal, Male, Adult, Mouth, Female, Microbiota, Bacteria, Middle Aged, Saliva, Agriculture, RNA, Ribosomal, 16S, Young Adult, Industrial Development_
-Lifestyle plays an important role in shaping the gut microbiome. However, its contributions to the oral microbiome remain less clear, due to the confounding effects of geography and methodology in investigations of populations studied to date. Furthermore, while the oral microbiome seems to differ between foraging and industrialized populations, we lack insight into whether transitions to and away from agrarian lifestyles shape the oral microbiota. Given the growing interest in so-called "vanishing microbiomes" potentially being a risk factor for increased disease prevalence in industrialized populations, it is important that we distinguish lifestyle from geography in the study of microbiomes across populations.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01941-7)
-
-10.1186/s40168-024-01941-7
+10.1093/ismejo/wrae218
 
 ---
 
-## Major alteration of lung microbiome and the host responses in critically ill COVID-19 patients with high viral load.
- 12.11.2024, _IG Bustos, R Wiscovitch-Russo, H Singh, BL Sievers, M Matsuoka, M Freire, GS Tan, MP Cala, JL Guerrero, I Martin-Loeches, N Gonzalez-Juarbe, LF Reyes_
+## mbDriver: identifying driver microbes in microbial communities based on time-series microbiome data.
+ 11.11.2024, _X Tan, F Xue, C Zhang, T Wang_
 
 
-_Humans, COVID-19, Male, Microbiota, Female, Middle Aged, Critical Illness, Lung, Viral Load, SARS-CoV-2, Prospective Studies, Cytokines, Aged, Respiration, Artificial, Pneumonia, Ventilator-Associated_
-Patients with COVID-19 under invasive mechanical ventilation are at higher risk of developing ventilator-associated pneumonia (VAP), associated with increased healthcare costs, and unfavorable prognosis. The underlying mechanisms of this phenomenon have not been thoroughly dissected. Therefore, this study attempted to bridge this gap by performing a lung microbiota analysis and evaluating the host immune responses that could drive the development of VAP. In this prospective cohort study, mechanically ventilated patients with confirmed SARS-CoV-2 infection were enrolled. Nasal swabs (NS), endotracheal aspirates (ETA), and blood samples were collected initially within 12 h of intubation and again at 72 h post-intubation. Plasma samples underwent cytokine and metabolomic analyses, while NS and ETA samples were sequenced for lung microbiome examination. The cohort was categorized based on the development of VAP. Data analysis was conducted using RStudio version 4.3.1. In a study of 36 COVID-19 patients on mechanical ventilation, significant differences were found in the nasal and pulmonary microbiome, notably in Staphylococcus and Enterobacteriaceae, linked to VAP. Patients with VAP showed a higher SARS-CoV-2 viral load in respiratory samples, elevated neutralizing antibodies, and reduced inflammatory cytokines, including IFN-δ, IL-1β, IL-12p70, IL-18, IL-6, TNF-α, and CCL4. Metabolomic analysis revealed changes in 22 metabolites in non-VAP patients and 27 in VAP patients, highlighting D-Maltose-Lactose, Histidinyl-Glycine, and various phosphatidylcholines, indicating a metabolic predisposition to VAP. This study reveals a critical link between respiratory microbiome alterations and ventilator-associated pneumonia in COVID-19 patients with higher SARS-CoV-2 viral loads in respiratory samples, elevated neutralizing antibodies, and reduced inflammatory cytokines, including IFN-δ, IL-1β, IL-12p70, IL-18, IL-6, TNF-α, and CCL4. These findings provide novel insights into the underlying mechanisms of VAP, with potential implications for management and prevention.
+_Humans, Microbiota, Computational Biology, Algorithms, Gastrointestinal Microbiome_
+Alterations in human microbial communities are intricately linked to the onset and progression of diseases. Identifying the key microbes driving these community changes is crucial, as they may serve as valuable biomarkers for disease prevention, diagnosis, and treatment. However, there remains a need for further research to develop effective methods for addressing this critical task. This is primarily because defining the driver microbe requires consideration not only of each microbe's individual contributions but also their interactions. This paper introduces a novel framework, called mbDriver, for identifying driver microbes based on microbiome abundance data collected at discrete time points. mbDriver comprises three main components: (i) data preprocessing of time-series abundance data using smoothing splines based on the negative binomial distribution, (ii) parameter estimation for the generalized Lotka-Volterra (gLV) model using regularized least squares, and (iii) quantification of each microbe's contribution to the community's steady state by manipulating the causal graph implied by gLV equations. The performance of nonparametric spline-based denoising and regularized least squares estimation is comprehensively evaluated on simulated datasets, demonstrating superiority over existing methods. Furthermore, the practical applicability and effectiveness of mbDriver are showcased using a dietary fiber intervention dataset and an ulcerative colitis dataset. Notably, driver microbes identified in the dietary fiber intervention dataset exhibit significant effects on the abundances of short-chain fatty acids, while those identified in the ulcerative colitis dataset show a significant correlation with metabolism-related pathways.
 
-[Source](https://www.nature.com/articles/s41598-024-78992-1)
+[Source](https://academic.oup.com/bib/article/25/6/bbae580/7889309)
 
-10.1038/s41598-024-78992-1
-
----
-
-## The healing process of diabetic ulcers correlates with changes in the cutaneous microbiota.
- 13.11.2024, _E Bruni, GL Scaglione, D Tampone, A Primerano, B Bartolini, CA Tenoglio, C Di Campli, MC Collina, T Odorisio, CM Failla_
-
-
-_Humans, Wound Healing, Microbiota, Skin, Male, Female, Middle Aged, Aged, RNA, Ribosomal, 16S, Diabetic Foot_
-Skin microbiota plays an essential role in the development and function of the cutaneous immune system, in the maintenance of the skin barrier through the release of antimicrobial peptides, and in the metabolism of some natural products. With the aim of characterizing changes in the cutaneous microbiota specifically associated with wound healing in the diabetic condition, we performed a 16 S rRNA gene Next Generation Sequencing of skin swabs taken within the ulcer bed of ten diabetic patients before (t0) and after 20 days of therapy (t20) with a fluorescein-based galenic treatment. Considering the twenty most representative genera, we found at t20 an increase of Corynebacterium, Peptostreptococcus, and Streptococcus, and a decrease of Enterococcus, Finegoldia, and Peptoniphilus genera. However, differences were not significant due to the high variability among samples and the small patient cohort. S. aureus was the most abundant species at t0 and was reduced by therapy in four patients. Comparing the microbiome in the ulcer bed and in the perilesional tissue of the same patient at t0, no major differences were observed. Taken together, our data indicate that in the absence of antibiotic-based therapy the healing process of diabetic ulcers is accompanied by changes in the microbiome composition.
-
-[Source](https://www.nature.com/articles/s41598-024-77987-2)
-
-10.1038/s41598-024-77987-2
+10.1093/bib/bbae580
 
 ---
 
-## Microplastic diversity increases the abundance of antibiotic resistance genes in soil.
- 12.11.2024, _YF Wang, YJ Liu, YM Fu, JY Xu, TL Zhang, HL Cui, M Qiao, MC Rillig, YG Zhu, D Zhu_
+## AMRColab - a user-friendly antimicrobial resistance detection and visualization tool.
+ 23.10.2024, _SD Lam, S Di Gregorio, MY Ang, E Griffiths, TZMT Jamaluddin, S Nathan, HM Neoh_
 
 
-_Soil Microbiology, Microplastics, Drug Resistance, Microbial, Soil, Soil Pollutants, Metagenomics, Genes, Bacterial, Virulence Factors, Bacteria, Interspersed Repetitive Sequences, Genetic Variation, Metagenome, Anti-Bacterial Agents_
-The impact of microplastics on antibiotic resistance has attracted widespread attention. However, previous studies primarily focused on the effects of individual microplastics. In reality, diverse microplastic types accumulate in soil, and it remains less well studied whether microplastic diversity (i.e., variations in color, shape or polymer type) can be an important driver of increased antibiotic resistance gene (ARG) abundance. Here, we employed microcosm studies to investigate the effects of microplastic diversity on soil ARG dynamics through metagenomic analysis. Additionally, we evaluated the associated potential health risks by profiling virulence factor genes (VFGs) and mobile genetic elements (MGEs). Our findings reveal that as microplastic diversity increases, there is a corresponding rise in the abundance of soil ARGs, VFGs and MGEs. We further identified microbial adaptive strategies involving genes (changed genetic diversity), community (increased specific microbes), and functions (enriched metabolic pathways) that correlate with increased ARG abundance and may thus contribute to ARG dissemination. Additional global change factors, including fungicide application and plant diversity reduction, also contributed to elevated ARG abundance. Our findings suggest that, in addition to considering contamination levels, it is crucial to monitor microplastic diversity in ecosystems due to their potential role in driving the dissemination of antibiotic resistance through multiple pathways.
+_Computational Biology, Humans, Methicillin-Resistant Staphylococcus aureus, Drug Resistance, Bacterial, Software, Anti-Bacterial Agents, Genome, Bacterial_
+Antimicrobial resistance (AMR) poses a significant threat to global public health, with the potential to cause millions of deaths annually by 2050. Effective surveillance of AMR pathogens is crucial for monitoring and predicting their behaviour in response to antibiotics. However, many public health professionals lack the necessary bioinformatics skills and resources to analyse pathogen genomes effectively. To address this challenge, we developed AMRColab, an open-access bioinformatics analysis suite hosted on Google Colaboratory. AMRColab enables users with limited or no bioinformatics training to detect and visualize AMR determinants in pathogen genomes using a 'plug-and-play' approach. The platform integrates established bioinformatics tools such as AMRFinderPlus and hAMRonization, allowing users to analyse, compare and visualize trends in AMR pathogens easily. A trial run using methicillin-resistant Staphylococcus aureus (MRSA) strains demonstrated AMRColab's effectiveness in identifying AMR determinants and facilitating comparative analysis across strains. A workshop was conducted and feedback from participants indicated high confidence in using AMRColab and a willingness to incorporate it into their research. AMRColab's user-friendly interface and modular design make it accessible to a diverse audience, including medical laboratory technologists, medical doctors and public health scientists, regardless of their bioinformatics expertise. Future improvements to AMRColab will include enhanced visualization tools, multilingual support and the establishment of an online community platform. AMRColab represents a significant step towards democratizing AMR surveillance and empowering public health professionals to combat AMR effectively.
 
-[Source](https://www.nature.com/articles/s41467-024-54237-7)
+[Source](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001308#)
 
-10.1038/s41467-024-54237-7
-
----
-
-## Moving beyond species: fungal function in house dust provides novel targets for potential indicators of mold growth in homes.
- 09.11.2024, _N Balasubrahmaniam, JC King, B Hegarty, KC Dannemiller_
-
-
-_Dust, Fungi, Air Pollution, Indoor, Humidity, Housing, Humans, Air Microbiology, Mycobiome, Gene Expression Regulation, Fungal_
-Increased risk of asthma and other respiratory diseases is associated with exposures to microbial communities growing in damp and moldy indoor environments. The exact causal mechanisms remain unknown, and occupant health effects have not been consistently associated with any species-based mold measurement methods. We need new quantitative methods to identify homes with potentially harmful fungal growth that are not dependent upon species. The goal of this study was to identify genes consistently associated with fungal growth and associated function under damp conditions for use as potential indicators of mold in homes regardless of fungal species present. A de novo metatranscriptomic analysis was performed using house dust from across the US, incubated at 50%, 85%, or 100% equilibrium relative humidity (ERH) for 1 week.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01915-9)
-
-10.1186/s40168-024-01915-9
+10.1099/mgen.0.001308
 
 ---
 
-## Reef site and habitat influence effectiveness of Acropora palmata restoration and its microbiome in the Florida Keys
-
-[Source](https://www.nature.com/articles/s43247-024-01816-7)
-
----
-
-## Melatonin alleviates heat stress-induced spermatogenesis dysfunction in male dairy goats by regulating arachidonic acid metabolism mediated by remodeling the gut microbiota.
- 13.11.2024, _X Guo, J Xu, Y Zhao, J Wang, T Fu, ML Richard, H Sokol, M Wang, Y Li, Y Liu, H Wang, C Wang, X Wang, H He, Y Wang, B Ma, S Peng_
+## Seven-year performance of a clinical metagenomic next-generation sequencing test for diagnosis of central nervous system infections.
+ 12.11.2024, _P Benoit, N Brazer, M de Lorenzi-Tognon, E Kelly, V Servellita, M Oseguera, J Nguyen, J Tang, C Omura, J Streithorst, M Hillberg, D Ingebrigtsen, K Zorn, MR Wilson, T Blicharz, AP Wong, B O'Donovan, B Murray, S Miller, CY Chiu_
 
 
-_Animals, Melatonin, Male, Spermatogenesis, Goats, Gastrointestinal Microbiome, Testis, Mice, Heat-Shock Response, Arachidonic Acid, Spermatozoa, Oxidative Stress_
-Heat stress (HS) commonly occurring in summer has gradually become a factor threatening the reproductive performance of male dairy goats by reducing their fecundity. Despite the melatonin is applied to relieve HS, it is still unclear whether melatonin protects against reproductive damage induced by HS in dairy goats and how it works. The purpose of the present study is to evaluate the role of melatonin in alleviating HS-induced spermatogenesis dysfunction in male dairy goats and further explore its mechanism.
+Metagenomic next-generation sequencing (mNGS) of cerebrospinal fluid (CSF) is an agnostic method for broad-based diagnosis of central nervous system (CNS) infections. Here we analyzed the 7-year performance of clinical CSF mNGS testing of 4,828 samples from June 2016 to April 2023 performed by the University of California, San Francisco (UCSF) clinical microbiology laboratory. Overall, mNGS testing detected 797 organisms from 697 (14.4%) of 4,828 samples, consisting of 363 (45.5%) DNA viruses, 211 (26.4%) RNA viruses, 132 (16.6%) bacteria, 68 (8.5%) fungi and 23 (2.9%) parasites. We also extracted clinical and laboratory metadata from a subset of the samples (n = 1,164) from 1,053 UCSF patients. Among the 220 infectious diagnoses in this subset, 48 (21.8%) were identified by mNGS alone. The sensitivity, specificity and accuracy of mNGS testing for CNS infections were 63.1%, 99.6% and 92.9%, respectively. mNGS testing exhibited higher sensitivity (63.1%) than indirect serologic testing (28.8%) and direct detection testing from both CSF (45.9%) and non-CSF (15.0%) samples (P &lt; 0.001 for all three comparisons). When only considering diagnoses made by CSF direct detection testing, the sensitivity of mNGS testing increased to 86%. These results justify the routine use of diagnostic mNGS testing for hospitalized patients with suspected CNS infection.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01942-6)
+[Source](https://www.nature.com/articles/s41591-024-03275-1)
 
-10.1186/s40168-024-01942-6
-
----
-
-## Pathobiont and symbiont contribute to microbiota homeostasis through Malpighian tubules-gut countercurrent flow in Bactrocera dorsalis.
- 12.11.2024, _Y Liu, R Luo, S Bai, B Lemaitre, H Zhang, X Li_
-
-
-Host-gut microbiota interactions are more complex than good or bad. Both gut symbiotic bacteria and pathobionts can provide essential functions to their host in one scenario and yet be detrimental to host health in another. So, these gut-dwelling bacteria must be tightly controlled to avoid harmful effects on the host. However, how pathobionts and other symbiotic bacteria coordinate to establish a host immune defense system remains unclear. Here, using a Tephritidae fruit fly Bactrocera dorsalis, we report that both pathobionts and other gut symbiotic bacteria release tyramine, which is recognized by the host insects. These tyramines induce the formation of insect-conserved Malpighian tubules-gut countercurrent flow upon bacterial infection, which requires tyramine receptors and aquaporins. At the same time, pathobionts but not gut symbiotic bacteria induce the generation of reactive oxygen species, which are preserved by the countercurrent flow, promoting bacteria elimination through increasing gut peristalsis. More importantly, our results show that the Malpighian tubules-gut countercurrent flow maintains proper microbiota composition. Our work suggests a model where pathobiont-induced reactive oxygen species are preserved by Malpighian tubules-gut countercurrent flow involving both pathobionts and symbiotic bacteria. Furthermore, our work provides a Malpighian tubules-gut interaction that ensures efficient maintenance of the gut microbiota.
-
-[Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae221/7895682)
-
-10.1093/ismejo/wrae221
-
----
-
-## Medium-chain fatty acid triglycerides improve feed intake and oxidative stress of finishing bulls by regulating ghrelin concentration and gastrointestinal tract microorganisms and rumen metabolites.
- 08.11.2024, _J Luan, X Feng, Y Du, D Yang, C Geng_
-
-
-_Animals, Cattle, Ghrelin, Oxidative Stress, Rumen, Male, Triglycerides, Gastrointestinal Microbiome, Dietary Supplements, Animal Feed, Eating, Gastrointestinal Tract, Fatty Acids, Diet, Laurates, Monoglycerides_
-As a feed additive, medium-chain fatty acids (MCFAs)/medium-chain fatty acid triglycerides (MCTs) have been used in ruminant production, but mostly added in the form of mixed esters. Studies have shown that MCTs may have a positive effect on feed intake or oxidative stress in animals, but it is unclear which MCT could play a role, and the mechanism has not been elucidated. In this study, the effects of individual MCT on growth performance, serum intake-related hormones, and oxidative stress indices in finishing bulls were investigated and further studied the effects of MCT supplementation on gastrointestinal tract bacteria and rumen fluid metabolomics.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01946-2)
-
-10.1186/s40168-024-01946-2
-
----
-
-## Intestinal commensal bacteria promote Bactrocera dorsalis larval development through the vitamin B6 synthesis pathway.
- 06.11.2024, _J Gu, Z Yao, B Lemaitre, Z Cai, H Zhang, X Li_
-
-
-_Animals, Larva, Vitamin B 6, Gastrointestinal Microbiome, Tephritidae, Symbiosis, Genome-Wide Association Study, Bacteria, Enterobacteriaceae_
-The gut microbiota can facilitate host growth under nutrient-constrained conditions. However, whether this effect is limited to certain bacterial species remains largely unclear, and the relevant underlying mechanisms remain to be thoroughly investigated.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01931-9)
-
-10.1186/s40168-024-01931-9
-
----
-
-## Latitudinal gradients and ocean fronts strongly influence protist communities in the southern Pacific Ocean.
- 11.11.2024, _D Sturm, P Morton, G Langer, WM Balch, G Wheeler_
-
-
-Protist communities in the southern Pacific Ocean make a major contribution to global biogeochemical cycling, but remain understudied due to their remote location. We therefore have limited understanding of how large-scale physical gradients (e.g. temperature) and mesoscale oceanographic features (e.g. fronts) influence microeukaryote diversity in this region. We performed a high-resolution examination of protist communities along a latitudinal transect (&gt;3000 km) at 150°W in the central southern Pacific Ocean that encompassed major frontal regions, including the sub-tropical front (STF), the sub-Antarctic front (SAF), and the polar front (PF). We identified distinct microbial communities along the transect that were primarily delineated by the positions of the STF and PF. Some taxa were not constricted by these environmental boundaries and were able to span frontal regions, such as the colonial haptophyte Phaeocystis. Our findings also support the presence of a Latitudinal Diversity Gradient (LDG) of decreasing diversity of the protist community with increasing latitude, although some individual taxa, notably the diatoms, do not adhere to this rule. Our findings show that oceanographic features and large-scale physical gradients have important impacts on marine protist communities in the southern Pacific Ocean that are likely to strongly influence their response to future environmental change.
-
-[Source](https://academic.oup.com/femsec/advance-article/doi/10.1093/femsec/fiae137/7890812)
-
-10.1093/femsec/fiae137
-
----
-
-## Urea assimilation and oxidation support activity of phylogenetically diverse microbial communities of the dark ocean.
- 12.11.2024, _N Arandia-Gorostidi, AL Jaffe, AE Parada, BJ Kapili, KL Casciotti, RSR Salcedo, CMJ Baumas, AE Dekas_
-
-
-Urea is hypothesized to be an important source of nitrogen and chemical energy to microorganisms in the deep sea; however, direct evidence for urea use below the epipelagic ocean is lacking. Here, we explore urea utilization from 50 to 4000 meters depth in the northeastern Pacific Ocean using metagenomics, nitrification rates, and single-cell stable-isotope-uptake measurements with nanoscale secondary ion mass spectrometry. We find that on average 25% of deep-sea cells assimilated urea-derived N (60% of detectably active cells), and that cell-specific nitrogen-incorporation rates from urea were higher than that from ammonium. Both urea concentrations and assimilation rates relative to ammonium generally increased below the euphotic zone. We detected ammonia- and urea-based nitrification at all depths at one of two sites analyzed, demonstrating their potential to support chemoautotrophy in the mesopelagic and bathypelagic regions. Using newly generated metagenomes we find that the ureC gene, encoding the catalytic subunit of urease, is found within 39% of deep-sea cells in this region, including the Nitrososphaeria (syn., Thaumarchaeota; likely for nitrification) as well as members of thirteen other phyla such as Proteobacteria, Verrucomicrobia, Plantomycetota, Nitrospinota, and Chloroflexota (likely for assimilation). Analysis of public metagenomes estimated ureC within 10-46% of deep-sea cells around the world, with higher prevalence below the photic zone, suggesting urea is widely available to the deep-sea microbiome globally. Our results demonstrate that urea is a nitrogen source to abundant and diverse microorganisms in the dark ocean, as well as a significant contributor to deep-sea nitrification and therefore fuel for chemoautotrophy.
-
-[Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae230/7895683)
-
-10.1093/ismejo/wrae230
-
----
-
-## MAGqual: a stand-alone pipeline to assess the quality of metagenome-assembled genomes.
- 06.11.2024, _A Cansdale, JPJ Chong_
-
-
-_Metagenomics, Metagenome, Software, Microbiota, High-Throughput Nucleotide Sequencing, Bacteria, Humans_
-Metagenomics, the whole genome sequencing of microbial communities, has provided insight into complex ecosystems. It has facilitated the discovery of novel microorganisms, explained community interactions and found applications in various fields. Advances in high-throughput and third-generation sequencing technologies have further fuelled its popularity. Nevertheless, managing the vast data produced and addressing variable dataset quality remain ongoing challenges. Another challenge arises from the number of assembly and binning strategies used across studies. Comparing datasets and analysis tools is complex as it requires the quantitative assessment of metagenome quality. The inherent limitations of metagenomic sequencing, which often involves sequencing complex communities, mean community members are challenging to interrogate with traditional culturing methods leading to many lacking reference sequences. MIMAG standards aim to provide a method to assess metagenome quality for comparison but have not been widely adopted.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01949-z)
-
-10.1186/s40168-024-01949-z
+10.1038/s41591-024-03275-1
 
 ---
 
