@@ -23,9 +23,14 @@ Microbiota alterations are common in patients hospitalised for severe infections
 
 ---
 
-## Reassessing the role of butyrate-producing bacteria in infection risk
+## Reassessing the role of butyrate-producing bacteria in infection risk.
+ 15.11.2024, _R Parsanathan_
+
+
 
 [Source](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00304-5/fulltext)
+
+10.1016/j.lanmic.2024.101036
 
 ---
 
