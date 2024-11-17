@@ -1,136 +1,252 @@
-## Mapping the gut microbial structural variations in healthy aging within the Chinese population.
- 09.11.2024, _L Shen, H Zhao, Y Xi, Z Wang, K Deng, W Gou, K Zhang, W Hu, J Tang, F Xu, Z Jiang, Y Fu, Y Zhu, D Zhou, YM Chen, JS Zheng_
+## <em>F. prausnitzii</em> potentially modulates the association between citrus intake and depression
 
-
-Mapping gut microbial structural variants (SVs) during human aging may provide fundamental knowledge and mechanistic understanding of the gut microbiome's relationship with healthy aging. We characterize gut microbial SVs from 3,230 Chinese participants, identifying key SVs associated with aging, healthy aging, and age-related chronic diseases. Our findings reveal a pattern of copy number loss in aging-related SVs, with 35 core SVs consistently detected. Additionally, eight SVs distinguish healthy from unhealthy aging, regardless of age. Notably, a 3-kbp deletion SV of Bifidobacterium pseudocatenulatum, encoding plant polysaccharide degradation, is regulated by plant-based diet and contributes to healthy aging through bile acid metabolism. Our analysis also connects SVs to age-related diseases, such as chronic kidney disease, via genes in the methionine-homocysteine pathway. This study deepens our understanding of the gut microbiome's role in aging and could inform future efforts to enhance lifespan and healthspan.
-
-[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01319-6)
-
-10.1016/j.celrep.2024.114968
+[Source](https://doi.org/10.1186/s40168-024-01961-3)
 
 ---
 
-## Association between butyrate-producing gut bacteria and the risk of infectious disease hospitalisation: results from two observational, population-based microbiome studies.
- 06.09.2024, _RFJ Kullberg, I Wikki, BW Haak, A Kauko, H Galenkamp, H Peters-Sengers, JM Butler, AS Havulinna, J Palmu, D McDonald, C Benchraka, MI Abdel-Aziz, M Prins, AH Maitland van der Zee, BJ van den Born, P Jousilahti, WM de Vos, V Salomaa, R Knight, L Lahti, M Nieuwdorp, T Niiranen, WJ Wiersinga_
+## Perturbations in the airway microbiome are associated with type 2 asthma phenotype and severity.
+ 16.11.2024, _W Zhang, L Li, Y Zhang, J Dai, C Qiu, R Chen, F Shi_
 
 
-_Humans, Middle Aged, Adult, Hospitalization, Male, Female, Gastrointestinal Microbiome, Aged, Finland, Butyrates, RNA, Ribosomal, 16S, Netherlands, Young Adult, Bacteria, Feces, Adolescent, Communicable Diseases, Cohort Studies, Risk Factors_
-Microbiota alterations are common in patients hospitalised for severe infections, and preclinical models have shown that anaerobic butyrate-producing gut bacteria protect against systemic infections. However, the relationship between microbiota disruptions and increased susceptibility to severe infections in humans remains unclear. We investigated the relationship between gut microbiota and the risk of future infection-related hospitalisation in two large population-based cohorts.
+Airway microbiome has been linked to asthma heterogeneity, yet little is known about the associations between airway microbiota and type 2 (T2) asthma phenotype and severity.
 
-[Source](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00304-5/fulltext)
+[Source](https://doi.org/10.1016/j.anai.2024.11.005)
 
-10.1016/S2666-5247(24)00079-X
-
----
-
-## Reassessing the role of butyrate-producing bacteria in infection risk.
- 15.11.2024, _R Parsanathan_
-
-
-
-[Source](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00304-5/fulltext)
-
-10.1016/j.lanmic.2024.101036
+10.1016/j.anai.2024.11.005
 
 ---
 
-## Microbiome science of human excrement composting.
- 09.11.2024, _J Meilander, JG Caporaso_
+## Altered intestinal microbiota and fecal metabolites in patients with latent and active pulmonary tuberculosis.
+ 16.11.2024, _H Zhang, M Xue, X He, L Sun, Q He, Y Wang, J Jin_
 
 
-Linear waste management systems are unsustainable and contribute to environmental degradation, economic inequity, and health disparities. Among the array of environmental challenges stemming from anthropogenic impacts, the management of human excrement (human feces and urine) stands as a significant concern. Over two billion people do not have access to adequate sanitation, signifying a global public health crisis. Composting is the microbial biotechnology aimed at cycling organic waste, including human excrement, for improved public health, agricultural productivity and safety, and environmental sustainability. Applications of modern microbiome -omics and related technologies have the capacity to support continued advances in composting science and praxis. In this article, we review literature focused on applications of microbiome technologies to study composting systems and reactions. The studies we survey generally fall into the categories of animal manure composting, biosolids composting, and human excrement composting. We review experiments utilizing microbiome technologies to investigate strategies for enhancing pathogen suppression and accelerating the biodegradation of organic matter. Additionally, we explore studies focused on the bioengineering potential of microbes as inoculants to facilitate degradation of toxins such as pharmaceuticals or per- and polyfluoroalkyl substances. The findings from these studies underscore the importance of advancing our understanding of composting processes through the integration of emerging microbiome -omics technologies. We conclude that work to-date has demonstrated exciting basic and applied science potential from studying compost microbiomes, with promising implications for enhancing global environmental sustainability and public health.
+Pulmonary tuberculosis (PTB) is the main cause of infection-related mortality and the most common infectious disease that develops resistance to antibiotics. Gut microbiota and their associated metabolites are assumed to induce and influence the development of PTB. However, the alterations of gut microbiota and metabolites in TB patients is currently unclear.
 
-[Source](https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrae228/7888797)
+[Source](https://doi.org/10.1016/j.tube.2024.102577)
 
-10.1093/ismejo/wrae228
-
----
-
-## Microbiota-derived lysophosphatidylcholine alleviates Alzheimer's disease pathology via suppressing ferroptosis.
- 07.11.2024, _X Zha, X Liu, M Wei, H Huang, J Cao, S Liu, X Bian, Y Zhang, F Xiao, Y Xie, W Wang, C Zhang_
-
-
-Alzheimer's disease (AD) is a pervasive neurodegenerative disorder, and new approaches for its prevention and therapy are critically needed. Here, we elucidate a gut-microbiome-brain axis that offers actionable perspectives for achieving this objective. Using the 5xFAD mouse model, we identify increased Clostridium abundance and decreased Bacteroides abundance as key features associated with β-amyloid (Aβ) burden. Treatment with Bacteroides ovatus, or its associated metabolite lysophosphatidylcholine (LPC), significantly reduces Aβ load and ameliorates cognitive impairment. Mechanistically, LPC acts through the orphan receptor GPR119, inhibiting ACSL4 expression, thereby suppressing ferroptosis and ameliorating AD pathologies. Analysis of fecal and serum samples from individuals with AD also reveals diminished levels of Bacteroides and LPC. This study thus identifies a B.ovatus-triggered pathway regulating AD pathologies and indicates that the use of single gut microbiota, metabolite, or small molecule compound may complement current prevention and treatment approaches for AD.
-
-[Source](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(24)00402-9)
-
-10.1016/j.cmet.2024.10.006
+10.1016/j.tube.2024.102577
 
 ---
 
-## Probiotics and their metabolite spermidine enhance IFN-γ+CD4+ T cell immunity to inhibit hepatitis B virus.
- 13.11.2024, _T Wang, Y Fan, S Tan, Z Wang, M Li, X Guo, X Yu, Q Lin, X Song, L Xu, L Li, S Li, L Gao, X Liang, C Li, C Ma_
+## Mendelian randomization analyses support causal relationships between gut microbiome and longevity.
+ 16.11.2024, _S Chen, W Chen, X Wang, S Liu_
 
 
-The therapeutic potential of commensal microbes and their metabolites is promising in the functional cure of chronic hepatitis B virus (HBV) infection, which is defined as hepatitis B surface antigen (HBsAg) loss. Here, using both specific-pathogen-free and germ-free mice, we report that probiotics significantly promote the decline of HBsAg and inhibit HBV replication by enhancing intestinal homeostasis and provoking intrahepatic interferon (IFN)-γ+CD4+ T cell immune response. Depletion of CD4+ T cells or blockage of IFN-γ abolishes probiotics-mediated HBV inhibition. Specifically, probiotics-derived spermidine accumulates in the gut and transports to the liver, where it exhibits a similar anti-HBV effect. Mechanistically, spermidine enhances IFN-γ+CD4+ T cell immunity by autophagy. Strikingly, administration of probiotics in HBV patients reveals a preliminary trend to accelerate the decline of serum HBsAg. In conclusion, probiotics and their derived spermidine promote HBV clearance via autophagy-enhanced IFN-γ+CD4+ T cell immunity, highlighting the therapeutic potential of probiotics and spermidine for the functional cure of HBV patients.
+_Longevity, Humans, Mendelian Randomization Analysis, Gastrointestinal Microbiome, Genome-Wide Association Study, Causality_
+Gut microbiome plays a significant role in longevity, and dysbiosis is indeed one of the hallmarks of aging. However, the causal relationship between gut microbiota and human longevity or aging remains elusive.
 
-[Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00593-7)
+[Source](https://doi.org/10.1186/s12967-024-05823-2)
 
-10.1016/j.xcrm.2024.101822
-
----
-
-## The phageome of patients with ulcerative colitis treated with donor fecal microbiota reveals markers associated with disease remission.
- 20.10.2024, _ME Majzoub, S Paramsothy, C Haifer, R Parthasarathy, TJ Borody, RW Leong, MA Kamm, NO Kaakoush_
-
-
-_Humans, Colitis, Ulcerative, Fecal Microbiota Transplantation, Bacteriophages, Gastrointestinal Microbiome, Feces, Double-Blind Method, Male, Female, Metagenomics, Adult, Dysbiosis, Middle Aged, Virome, Remission Induction, Anti-Bacterial Agents, Biomarkers_
-Bacteriophages are influential within the human gut microbiota, yet they remain understudied relative to bacteria. This is a limitation of studies on fecal microbiota transplantation (FMT) where bacteriophages likely influence outcome. Here, using metagenomics, we profile phage populations - the phageome - in individuals recruited into two double-blind randomized trials of FMT in ulcerative colitis. We leverage the trial designs to observe that phage populations behave similarly to bacterial populations, showing temporal stability in health, dysbiosis in active disease, modulation by antibiotic treatment and by FMT. We identify a donor bacteriophage putatively associated with disease remission, which on genomic analysis was found integrated in a bacterium classified to Oscillospiraceae, previously isolated from a centenarian and predicted to produce vitamin B complex except B12. Our study provides an in-depth assessment of phage populations during different states and suggests that bacteriophage tracking has utility in identifying determinants of disease activity and resolution.
-
-[Source](https://www.nature.com/articles/s41467-024-53454-4)
-
-10.1038/s41467-024-53454-4
+10.1186/s12967-024-05823-2
 
 ---
 
-## Chronic exposure to polycyclic aromatic hydrocarbons alters skin virome composition and virus-host interactions.
- 11.11.2024, _S Du, X Tong, MHY Leung, RJ Betts, AC Woo, P Bastien, N Misra, L Aguilar, C Clavaud, PKH Lee_
+## Natal factors influencing newborn's oral microbiome diversity.
+ 15.11.2024, _YH Kim, TY Lee, HY Kim, SJ Jeong, JH Han, JE Shin, JH Lee, CM Kang_
 
 
-_Skin, Female, Humans, Virome, Polycyclic Aromatic Hydrocarbons, Microbiota, Bacteria, Viruses, China, Adult, Metagenome, Host Microbial Interactions, Air Pollutants_
-Exposure to polycyclic aromatic hydrocarbons (PAHs) in polluted air influences the composition of the skin microbiome, which in turn is associated with altered skin phenotypes. However, the interactions between PAH exposure and viromes are unclear. This study aims to elucidate how PAH exposure affects the composition and function of skin viruses, their role in shaping the metabolism of bacterial hosts, and the subsequent effects on skin phenotype. We analyzed metagenomes from cheek skin swabs collected from 124 Chinese women in our previous study and found that the viruses associated with the two microbiome cutotypes had distinct diversities, compositions, functions, and lifestyles following PAH exposure. Moreover, exposure to high concentrations of PAHs substantially increased interactions between viruses and certain biodegrading bacteria. Under high-PAH exposure, the viruses were enriched in xenobiotic degradation functions, and there was evidence suggesting that the insertion of bacteriophage-encoded auxiliary metabolic genes into hosts aids biodegradation. Under low-PAH exposure conditions, the interactions followed the "Piggyback-the-Winner" model, with Cutibacterium acnes being "winners," whereas under high-PAH exposure, they followed the "Piggyback-the-Persistent" model, with biodegradation bacteria being "persistent." These findings highlight the impact of air pollutants on skin bacteria and viruses, their interactions, and their modulation of skin health. Understanding these intricate relationships could provide insights for developing targeted strategies to maintain skin health in polluted environments, emphasizing the importance of mitigating pollutant exposure and harnessing the potential of viruses to help counteract the adverse effects.
+_Humans, Infant, Newborn, Female, Microbiota, Mouth, RNA, Ribosomal, 16S, Pregnancy, Male, Retrospective Studies, Prospective Studies, Adult, Bacteria, Infant, Premature_
+The early microbiota of neonates is crucial for developing the postnatal immune system and establishing normal physiological, metabolic, and neurological functions. This study aimed to investigate the factors influencing the diversity of the neonatal oral microbiome, including mother-to-newborn microbial transmission. The study includes a prospective cohort comprising 73 mothers and 87 neonates and a retrospective cohort comprising 991 mothers and 1,121 neonates. Samples from the maternal cervix and neonatal gastric, bronchial, and oral cavities were analyzed using culture-based methods. Neonatal oral swab samples were also analyzed using 16S rRNA gene sequencing to characterize microbial diversity and composition. Similar genera were detected in the neonatal gastric, bronchial, and oral samples, and the neonatal gastric culture was the most similar to the maternal cervical culture. In addition to mother-to-newborn microbial transmission, various natal factors including birth type, birth weight, delivery mode, maternal chorioamnionitis, maternal diabetes and the presence of microbes in other sites influenced neonatal oral microbiome diversity. Among these factors, the birth type was the most significant, and preterm neonates exhibited decreased oral microbiome diversity, with fewer beneficial bacteria and more pathogens. These findings could serve as a baseline for research on the establishment of the oral microbiota in preterm neonates and its health implications.
 
-[Source](https://academic.oup.com/ismej/article/18/1/wrae218/7841796)
+[Source](https://doi.org/10.1038/s41598-024-78609-7)
 
-10.1093/ismejo/wrae218
-
----
-
-## mbDriver: identifying driver microbes in microbial communities based on time-series microbiome data.
- 16.11.2024, _X Tan, F Xue, C Zhang, T Wang_
-
-
-_Humans, Microbiota, Computational Biology, Algorithms, Gastrointestinal Microbiome_
-Alterations in human microbial communities are intricately linked to the onset and progression of diseases. Identifying the key microbes driving these community changes is crucial, as they may serve as valuable biomarkers for disease prevention, diagnosis, and treatment. However, there remains a need for further research to develop effective methods for addressing this critical task. This is primarily because defining the driver microbe requires consideration not only of each microbe's individual contributions but also their interactions. This paper introduces a novel framework, called mbDriver, for identifying driver microbes based on microbiome abundance data collected at discrete time points. mbDriver comprises three main components: (i) data preprocessing of time-series abundance data using smoothing splines based on the negative binomial distribution, (ii) parameter estimation for the generalized Lotka-Volterra (gLV) model using regularized least squares, and (iii) quantification of each microbe's contribution to the community's steady state by manipulating the causal graph implied by gLV equations. The performance of nonparametric spline-based denoising and regularized least squares estimation is comprehensively evaluated on simulated datasets, demonstrating superiority over existing methods. Furthermore, the practical applicability and effectiveness of mbDriver are showcased using a dietary fiber intervention dataset and an ulcerative colitis dataset. Notably, driver microbes identified in the dietary fiber intervention dataset exhibit significant effects on the abundances of short-chain fatty acids, while those identified in the ulcerative colitis dataset show a significant correlation with metabolism-related pathways.
-
-[Source](https://academic.oup.com/bib/article/25/6/bbae580/7889309)
-
-10.1093/bib/bbae580
+10.1038/s41598-024-78609-7
 
 ---
 
-## AMRColab - a user-friendly antimicrobial resistance detection and visualization tool.
- 23.10.2024, _SD Lam, S Di Gregorio, MY Ang, E Griffiths, TZMT Jamaluddin, S Nathan, HM Neoh_
+## Age-related loss of intestinal barrier integrity plays an integral role in thymic involution and T cell ageing
 
-
-_Computational Biology, Humans, Methicillin-Resistant Staphylococcus aureus, Drug Resistance, Bacterial, Software, Anti-Bacterial Agents, Genome, Bacterial_
-Antimicrobial resistance (AMR) poses a significant threat to global public health, with the potential to cause millions of deaths annually by 2050. Effective surveillance of AMR pathogens is crucial for monitoring and predicting their behaviour in response to antibiotics. However, many public health professionals lack the necessary bioinformatics skills and resources to analyse pathogen genomes effectively. To address this challenge, we developed AMRColab, an open-access bioinformatics analysis suite hosted on Google Colaboratory. AMRColab enables users with limited or no bioinformatics training to detect and visualize AMR determinants in pathogen genomes using a 'plug-and-play' approach. The platform integrates established bioinformatics tools such as AMRFinderPlus and hAMRonization, allowing users to analyse, compare and visualize trends in AMR pathogens easily. A trial run using methicillin-resistant Staphylococcus aureus (MRSA) strains demonstrated AMRColab's effectiveness in identifying AMR determinants and facilitating comparative analysis across strains. A workshop was conducted and feedback from participants indicated high confidence in using AMRColab and a willingness to incorporate it into their research. AMRColab's user-friendly interface and modular design make it accessible to a diverse audience, including medical laboratory technologists, medical doctors and public health scientists, regardless of their bioinformatics expertise. Future improvements to AMRColab will include enhanced visualization tools, multilingual support and the establishment of an online community platform. AMRColab represents a significant step towards democratizing AMR surveillance and empowering public health professionals to combat AMR effectively.
-
-[Source](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001308#)
-
-10.1099/mgen.0.001308
+[Source](https://doi.org/10.1111/acel.14401)
 
 ---
 
-## Seven-year performance of a clinical metagenomic next-generation sequencing test for diagnosis of central nervous system infections.
- 12.11.2024, _P Benoit, N Brazer, M de Lorenzi-Tognon, E Kelly, V Servellita, M Oseguera, J Nguyen, J Tang, C Omura, J Streithorst, M Hillberg, D Ingebrigtsen, K Zorn, MR Wilson, T Blicharz, AP Wong, B O'Donovan, B Murray, S Miller, CY Chiu_
+## Early-life Upper Airway Microbiota are Associated with Decreased Lower Respiratory Tract Infections.
+ 15.11.2024, _S Zelasko, MH Swaney, S Sandstrom, KE Lee, J Dixon, C Riley, L Watson, JJ Godfrey, N Ledrowski, F Rey, N Safdar, CM Seroogy, JE Gern, L Kalan, C Currie_
 
 
-Metagenomic next-generation sequencing (mNGS) of cerebrospinal fluid (CSF) is an agnostic method for broad-based diagnosis of central nervous system (CNS) infections. Here we analyzed the 7-year performance of clinical CSF mNGS testing of 4,828 samples from June 2016 to April 2023 performed by the University of California, San Francisco (UCSF) clinical microbiology laboratory. Overall, mNGS testing detected 797 organisms from 697 (14.4%) of 4,828 samples, consisting of 363 (45.5%) DNA viruses, 211 (26.4%) RNA viruses, 132 (16.6%) bacteria, 68 (8.5%) fungi and 23 (2.9%) parasites. We also extracted clinical and laboratory metadata from a subset of the samples (n = 1,164) from 1,053 UCSF patients. Among the 220 infectious diagnoses in this subset, 48 (21.8%) were identified by mNGS alone. The sensitivity, specificity and accuracy of mNGS testing for CNS infections were 63.1%, 99.6% and 92.9%, respectively. mNGS testing exhibited higher sensitivity (63.1%) than indirect serologic testing (28.8%) and direct detection testing from both CSF (45.9%) and non-CSF (15.0%) samples (P &lt; 0.001 for all three comparisons). When only considering diagnoses made by CSF direct detection testing, the sensitivity of mNGS testing increased to 86%. These results justify the routine use of diagnostic mNGS testing for hospitalized patients with suspected CNS infection.
+Microbial interactions mediating colonization resistance play key roles within the human microbiome, shaping susceptibility to infection from birth. To gain insight into microbiome-mediated defenses and respiratory pathogen colonization dynamics, we sequenced and analyzed nasal (n=229) and oral (n=210) microbiomes with associated health/environmental data from our Wisconsin Infant Study Cohort at age 24-months. Participants with early-life lower respiratory tract infection (LRTI) were more likely to be formula-fed, attend daycare, and experience wheezing. Shotgun metagenomic sequencing with detection of viral and bacterial respiratory pathogens revealed nasal microbiome composition to associate with prior LRTI - namely lower alpha diversity, depletion of Prevotella, and enrichment of Moraxella catarrhalis including drug-resistant strains. Prevotella originating from healthy microbiomes had higher biosynthetic gene cluster abundance and exhibited contact-independent inhibition of M. catarrhalis, suggesting interbacterial competition impacts nasal pathogen colonization. This work advances understanding of protective host-microbial interactions occurring in airway microbiomes that alter infection susceptibility in early-life.
 
-[Source](https://www.nature.com/articles/s41591-024-03275-1)
+[Source](https://doi.org/10.1016/j.jaci.2024.11.008)
 
-10.1038/s41591-024-03275-1
+10.1016/j.jaci.2024.11.008
+
+---
+
+## Human Milk Microbiome Is Associated With Allergic Diseases in Early Childhood.
+ 15.11.2024, _J Ma, DJ Palmer, D Geddes, CT Lai, SL Prescott, N D'Vaz, P Vlaskovsky, LF Stinson_
+
+
+
+[Source](https://doi.org/10.1111/all.16399)
+
+10.1111/all.16399
+
+---
+
+## Faecal microbiota composition and impulsivity in a cohort of older adults with metabolic syndrome
+
+[Source](https://doi.org/10.1038/s41598-024-78527-8)
+
+---
+
+## Microbiota-induced alteration of kynurenine metabolism in macrophages drives formation of creeping fat in Crohn's disease.
+ 16.11.2024, _J Wu, W Zeng, H Xie, M Cao, J Yang, Y Xie, Z Luo, Z Zhang, H Xu, W Huang, T Zhou, J Tan, X Wu, Z Yang, S Zhu, R Mao, Z He, P Lan_
+
+
+_Animals, Mice, Macrophages, Kynurenine, Crohn Disease, Indoleamine-Pyrrole 2,3,-Dioxygenase, Adipogenesis, Mice, Knockout, Disease Models, Animal, Mice, Inbred C57BL, Gastrointestinal Microbiome, Receptors, Aryl Hydrocarbon, Humans, Adipocytes, Male, Mesentery, Microbiota_
+Hyperplasia of mesenteric tissues in Crohn's disease, called creeping fat (CrF), is associated with surgical recurrence. Although microbiota translocation and colonization have been found in CrF, convincing mouse phenotypes and the underlying mechanisms of CrF formation remain unclear. Utilizing single-nucleus RNA (snRNA) sequencing of CrF and different mouse models, we demonstrate that the commensal Achromobacter pulmonis induces mesenteric adipogenesis through macrophage alteration. Targeted metabolome analysis reveals that L-kynurenine is the most enriched metabolite in CrF. Upregulation of indoleamine 2,3-dioxygenase 1 (IDO1) enhances kynurenine metabolism and drives mesenteric adipogenesis. Leveraging single-cell RNA (scRNA) sequencing of mouse mesenteric tissues and macrophage-specific IDO1 knockout mice, we verify the role of macrophage-sourced L-kynurenine in mesenteric adipogenesis. Mechanistically, L-kynurenine-induced adipogenesis is mediated by the aryl hydrocarbon receptors in adipocytes. Administration of an IDO1 inhibitor or bacteria engineered to degrade L-kynurenine alleviates mesenteric adipogenesis in mice. Collectively, our study demonstrates that microbiota-induced modulation of macrophage metabolism potentiates CrF formation.
+
+[Source](https://doi.org/10.1016/j.chom.2024.10.008)
+
+10.1016/j.chom.2024.10.008
+
+---
+
+## Estimates of microbiome heritability across hosts.
+ 15.11.2024, _AH Morris, BJM Bohannan_
+
+
+Microbiomes contribute to variation in many plant and animal traits, suggesting that microbiome-mediated traits could evolve through selection on the host. However, for such evolution to occur, microbiomes must exhibit sufficient heritability to contribute to host adaptation. Previous work has attempted to estimate the heritability of a variety of microbiome attributes. Here we show that most published estimates are limited to vertebrate and plant hosts, but significant heritability of microbiome attributes has been frequently reported. This indicates that microbiomes could evolve in response to host-level selection, but studies across a wider range of hosts are necessary before general conclusions can be made. We suggest future studies focus on standardizing heritability measurements for the purpose of meta-analyses and investigate the role of the environment in contributing to heritable microbiome variation. This could have important implications for the use of microbiomes in conservation, agriculture and medicine.
+
+[Source](https://doi.org/10.1038/s41564-024-01865-w)
+
+10.1038/s41564-024-01865-w
+
+---
+
+## High barley intake in non-obese individuals is associated with high natto consumption and abundance of butyrate-producing bacteria in the gut: a cross-sectional study
+
+[Source](https://doi.org/10.3389/fnut.2024.1434150)
+
+---
+
+## Prebiotics in food and dietary supplements: a roadmap to EU health claims.
+ 16.11.2024, _K Tuohy, EE Vaughan, LF Harthoorn, EE Blaak, PWJ Burnet, A Busetti, A Chakrabarti, N Delzenne, P de Vos, L Dye, D Guillemet, LA Houghton, AFM Kardinaal, C Mersh, K Musa-Veloso, A Nielsen, J Palasinska, S Salminen, G Walton, N Venlet, C Hubermont, PC Calder_
+
+
+_Prebiotics, Humans, Dietary Supplements, European Union, Gastrointestinal Microbiome_
+Numerous studies have established that prebiotic ingredients in foods and dietary supplements may play a role in supporting human health. Over the three decades that have passed since prebiotics were first defined as a concept, research has revealed a complex universe of prebiotic-induced changes to the human microbiota. There are strong indications of a direct link between these prebiotic-induced changes and specific health benefits. However, at the present time, the EU has not permitted use of the term 'prebiotic' in connection with an approved health claim. This paper is the outcome of a workshop organized on the 25th October 2023 by the European branch of the International Life Science Institute (ILSI). It provides an overview of the regulatory requirements for authorized health claims in the EU, key areas of prebiotic research, and findings to date in relation to prebiotics and digestive, immune, metabolic and cognitive health. Research gaps and documentation challenges are then explored and a roadmap proposed for achieving authorization of 'prebiotic' in the wording of future EU health claims.
+
+[Source](https://doi.org/10.1080/19490976.2024.2428848)
+
+10.1080/19490976.2024.2428848
+
+---
+
+## The Microbiome Modifies Manifestations of Hemophagocytic Lymphohistiocytosis in Perforin-Deficient Mice.
+ 16.11.2024, _J Mann, S Runge, C Schell, K Gräwe, G Thoulass, J Lao, S Ammann, S Grün, C König, SA Berger, B Hild, P Aichele, SP Rosshart, S Ehl_
+
+
+Primary hemophagocytic lymphohistiocytosis (HLH) is a life-threatening hyperinflammatory syndrome caused by inborn errors of cytotoxicity. Patients with biallelic PRF1 null mutations (encoding perforin) usually develop excessive immune cell activation, hypercytokinemia, and life-threatening immunopathology in the first 6 months of life, often without an apparent infectious trigger. In contrast, perforin-deficient (PKO) mice only develop HLH after systemic infection with lymphocytic choriomeningitis virus (LCMV). We hypothesized that restricted microbe-immune cell interactions due to specific pathogen-free (SPF) housing might explain the need for this specific viral trigger in PKO mice. To investigate the influence of a "wild" microbiome in PKO mice, we fostered PKO newborns with Wildling microbiota ('PKO-Wildlings') and monitored them for signs of HLH. PKO-Wildlings survived long-term without spontaneous disease. Also, systemic infection with vaccinia virus did not reach the threshold of immune activation required to trigger HLH in PKO-Wildlings. Interestingly, after infection with LCMV, PKO-Wildlings developed an altered HLH pattern. This included lower IFN-γ serum levels along with improved IFN-γ-driven anemia, but more elevated levels of IL-17 and increased liver inflammation compared with PKO-SPF mice. Thus, wild microbiota alone is not sufficient to trigger HLH in PKO mice, but host-microbe interactions shape inflammatory cytokine patterns, thereby influencing manifestations of HLH immunopathology.
+
+[Source](https://doi.org/10.1002/eji.202451061)
+
+10.1002/eji.202451061
+
+---
+
+## Spatiotemporal dynamics during niche remodeling by super-colonizing microbiota in the mammalian gut.
+ 14.11.2024, _G Urtecho, T Moody, Y Huang, RU Sheth, M Richardson, HC Descamps, A Kaufman, O Lekan, Z Zhang, F Velez-Cortes, Y Qu, L Cohen, D Ricaurte, TE Gibson, GK Gerber, CA Thaiss, HH Wang_
+
+
+While fecal microbiota transplantation (FMT) has been shown to be effective in reversing gut dysbiosis, we lack an understanding of the fundamental processes underlying microbial engraftment in the mammalian gut. Here, we explored a murine gut colonization model leveraging natural inter-individual variations in gut microbiomes to elucidate the spatiotemporal dynamics of FMT. We identified a natural "super-donor" consortium that robustly engrafts into diverse recipients and resists reciprocal colonization. Temporal profiling of the gut microbiome showed an ordered succession of rapid engraftment by early colonizers within 72 h, followed by a slower emergence of late colonizers over 15-30 days. Moreover, engraftment was localized to distinct compartments of the gastrointestinal tract in a species-specific manner. Spatial metagenomic characterization suggested engraftment was mediated by simultaneous transfer of spatially co-localizing species from the super-donor consortia. These results offer a mechanism of super-donor colonization by which nutritional niches are expanded in a spatiotemporally dependent manner. A record of this paper's transparent peer review process is included in the supplemental information.
+
+[Source](https://doi.org/10.1016/j.cels.2024.10.007)
+
+10.1016/j.cels.2024.10.007
+
+---
+
+## Multi-omics investigation into long-distance road transportation effects on respiratory health and immunometabolic responses in calves.
+ 16.11.2024, _J Qi, F Huang, L Gan, X Zhou, L Gou, Y Xie, H Guo, J Fang, Z Zuo_
+
+
+_Animals, Cattle, Transportation, RNA, Ribosomal, 16S, Microbiota, Nasopharynx, Bacteria, Metabolomics, Bovine Respiratory Disease Complex, Male, Multiomics_
+Long-distance road transportation is a common practice in the beef industry, frequently resulting in bovine respiratory disease (BRD) and compromised growth performance. However, a comprehensive investigation integrating clinical performance, physiological conditions, and nasopharyngeal microflora remains lacking.
+
+[Source](https://doi.org/10.1186/s40168-024-01962-2)
+
+10.1186/s40168-024-01962-2
+
+---
+
+## Wild again: recovery of a beneficial Cannabis seed endophyte from low domestication genotypes.
+ 16.11.2024, _C Lobato, JM de Freitas, D Habich, I Kögl, G Berg, T Cernava_
+
+
+_Cannabis, Seeds, Endophytes, Genotype, Bacteria, Domestication, Microbiota, Symbiosis_
+Beyond carrying the plant embryo, seeds harbour intricate microbial communities whose transmission across successive plant generations can significantly influence the ecological and evolutionary dynamics of plant-microbe symbioses. The process of plant domestication has potential repercussions in genes involved in plant-microbiome interactions. However, the extent to which breeding can impact the seed microbiome is sparsely explored. Cannabis is a high-value crop but sparsely subjected to agricultural innovations established in other crop species during the last century. Here, we conduct a large-scale analysis of the bacterial seed microbiome of Cannabis across different domestication grades and investigate the potential of seed-associated endophytes as plant growth-promoting agents under both controlled and field conditions.
+
+[Source](https://doi.org/10.1186/s40168-024-01951-5)
+
+10.1186/s40168-024-01951-5
+
+---
+
+## Trade-offs and adaptation to metalliferous soils: The role of soil microbiome in metal tolerance and uptake in <em>Arabidopsis halleri</em> ecotypes from a reciprocal transplant experiment
+
+[Source](https://doi.org/10.1016/j.scitotenv.2024.177470)
+
+---
+
+## Effect of plant-derived microbial soil legacy in a grafting system-a turn for the better
+
+[Source](https://doi.org/10.1186/s40168-024-01938-2)
+
+---
+
+## Microbiome shifts elicited by ornamental lighting of granite facades identified by MinION sequencing.
+ 16.11.2024, _A Méndez, F Maisto, J Pavlović, M Rusková, D Pangallo, P Sanmartín_
+
+
+Night-time outdoor illumination in combination with natural sunlight can influence the visible phototrophic colonizers (mainly algae) growing on stone facades; however, the effects on the microbiome (invisible to the naked eye) are not clear. The presence of stone-dwelling microbes, such as bacteria, diatoms, fungi, viruses and archaea, drives further biological colonization, which may exacerbate the biodeterioration of substrates. Considering the microbiome is therefore important for conservation of the built heritage. The impact of the following types of lighting on the relative abundance and diversity of the microbiome on granite ashlars was evaluated in a year-long outdoor pilot study: no lighting; lighting with a metal halide lamp (a traditional lighting system currently used to illuminate monuments); and lighting with a novel LED lamp (an environmentally sound prototype lamp with a biostatic effect, halting biological colonization by phototrophs, currently under trial). Culturable fractions of microbiome and whole-genome sequencing by metabarcoding with Oxford Nanopore Sequencing (MinION) was conducted for bacteria and fungi in order to complement both community characterization strategies. In addition, the possible biodeteriorative profiles of the isolated strains, relative to calcium carbonate precipitation/solubilisation and iron oxidation/reduction, were investigated by plate assays. Alpha and beta diversity indexes were also determined, along with the abundance of biocide and antibiotic resistance genes. Culture-dependent microbiological analysis failed to properly show changes in community composition, for which metagenomic approaches like MinION are better suited. Thus, MinION analysis identified shifts in the granite microbiome elicited by ornamental lighting. The novel LED lamp with the biostatic effect on phototrophs caused an increase in the diversity of bacteria and fungi. In this case, the microbiome was more similar to that in the unlit samples. In the samples illuminated by the metal halide lamp, dominance of bacteria was favoured and the presence of fungi was negligible.
+
+[Source](https://doi.org/10.1016/j.jphotobiol.2024.113065)
+
+10.1016/j.jphotobiol.2024.113065
+
+---
+
+## Synthetic communities derived from the core endophytic microbiome of hyperaccumulators and their role in cadmium phytoremediation.
+ 17.11.2024, _L Huang, Z Fan, Z Hu, Z Li, Y Fu, Q Wang, X Lin, Y Feng_
+
+
+_Cadmium, Biodegradation, Environmental, Microbiota, Endophytes, Soil Pollutants, Bacteria, RNA, Ribosomal, 16S, Sedum, Soil Microbiology, Phylogeny, Plant Roots_
+Although numerous endophytic bacteria have been isolated and characterized from cadmium (Cd) hyperaccumulators, the contribution and potential application of the core endophytic microbiomes on facilitating phytoremediation were still lack of intensive recognition. Therefore, a 2-year field sampling in different location were firstly conducted to identify the unique core microbiome in Cd hyperaccumulators, among which the representative cultivable bacteria of different genera were then selected to construct synthetic communities (SynComs). Finally, the effects and mechanisms of the optimized SynCom in regulating Cd accumulation in different ecotypes of Sedum alfredii were studied to declare the potential application of the bacterial agents based on core microbiome.
+
+[Source](https://doi.org/10.1186/s40168-024-01959-x)
+
+10.1186/s40168-024-01959-x
+
+---
+
+## Microbial community evolution in a lab-scale reactor operated to obtain biomass for biochemical methane potential assays
+
+[Source](https://doi.org/10.1007/s00253-024-13305-0)
+
+---
+
+## Faecal sample storage without ethanol for up to 24&nbsp;h followed by freezing performs better than storage with ethanol for shotgun metagenomic microbiome analysis in patients with inflammatory and non-inflammatory intestinal diseases and healthy controls
+
+[Source](https://doi.org/10.1186/s13104-024-06999-y)
+
+---
+
+## HMicroDB: A Comprehensive Database of Herpetofaunal Microbiota With&nbsp;a Focus on Host Phylogeny, Physiological Traits, and Environment Factors
+
+[Source](https://doi.org/10.1111/1755-0998.14046)
+
+---
+
+## Comparison of commonly used software pipelines for analyzing fungal metabarcoding data
+
+[Source](https://doi.org/10.1186/s12864-024-11001-x)
+
+---
+
+## MosAIC: An annotated collection of mosquito-associated bacteria with high-quality genome assemblies
+
+[Source](https://doi.org/10.1371/journal.pbio.3002897)
 
 ---
 
