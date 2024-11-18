@@ -29,7 +29,7 @@ Pulmonary tuberculosis (PTB) is the main cause of infection-related mortality an
 ---
 
 ## Mendelian randomization analyses support causal relationships between gut microbiome and longevity.
- 16.11.2024, _S Chen, W Chen, X Wang, S Liu_
+ 18.11.2024, _S Chen, W Chen, X Wang, S Liu_
 
 
 _Longevity, Humans, Mendelian Randomization Analysis, Gastrointestinal Microbiome, Genome-Wide Association Study, Causality_
@@ -42,7 +42,7 @@ Gut microbiome plays a significant role in longevity, and dysbiosis is indeed on
 ---
 
 ## Natal factors influencing newborn's oral microbiome diversity.
- 15.11.2024, _YH Kim, TY Lee, HY Kim, SJ Jeong, JH Han, JE Shin, JH Lee, CM Kang_
+ 18.11.2024, _YH Kim, TY Lee, HY Kim, SJ Jeong, JH Han, JE Shin, JH Lee, CM Kang_
 
 
 _Humans, Infant, Newborn, Female, Microbiota, Mouth, RNA, Ribosomal, 16S, Pregnancy, Male, Retrospective Studies, Prospective Studies, Adult, Bacteria, Infant, Premature_
@@ -158,7 +158,7 @@ While fecal microbiota transplantation (FMT) has been shown to be effective in r
 ---
 
 ## Multi-omics investigation into long-distance road transportation effects on respiratory health and immunometabolic responses in calves.
- 16.11.2024, _J Qi, F Huang, L Gan, X Zhou, L Gou, Y Xie, H Guo, J Fang, Z Zuo_
+ 18.11.2024, _J Qi, F Huang, L Gan, X Zhou, L Gou, Y Xie, H Guo, J Fang, Z Zuo_
 
 
 _Animals, Cattle, Transportation, RNA, Ribosomal, 16S, Microbiota, Nasopharynx, Bacteria, Metabolomics, Bovine Respiratory Disease Complex, Male, Multiomics_
@@ -171,7 +171,7 @@ Long-distance road transportation is a common practice in the beef industry, fre
 ---
 
 ## Wild again: recovery of a beneficial Cannabis seed endophyte from low domestication genotypes.
- 16.11.2024, _C Lobato, JM de Freitas, D Habich, I Kögl, G Berg, T Cernava_
+ 18.11.2024, _C Lobato, JM de Freitas, D Habich, I Kögl, G Berg, T Cernava_
 
 
 _Cannabis, Seeds, Endophytes, Genotype, Bacteria, Domestication, Microbiota, Symbiosis_
