@@ -121,10 +121,10 @@ Microbiomes contribute to variation in many plant and animal traits, suggesting 
 ---
 
 ## Prebiotics in food and dietary supplements: a roadmap to EU health claims.
- 16.11.2024, _K Tuohy, EE Vaughan, LF Harthoorn, EE Blaak, PWJ Burnet, A Busetti, A Chakrabarti, N Delzenne, P de Vos, L Dye, D Guillemet, LA Houghton, AFM Kardinaal, C Mersh, K Musa-Veloso, A Nielsen, J Palasinska, S Salminen, G Walton, N Venlet, C Hubermont, PC Calder_
+ 18.11.2024, _K Tuohy, EE Vaughan, LF Harthoorn, EE Blaak, PWJ Burnet, A Busetti, A Chakrabarti, N Delzenne, P de Vos, L Dye, D Guillemet, LA Houghton, AFM Kardinaal, C Mersh, K Musa-Veloso, A Nielsen, J Palasinska, S Salminen, G Walton, N Venlet, C Hubermont, PC Calder_
 
 
-_Prebiotics, Humans, Dietary Supplements, European Union, Gastrointestinal Microbiome_
+_Humans, Dietary Supplements, European Union, Gastrointestinal Microbiome, Prebiotics_
 Numerous studies have established that prebiotic ingredients in foods and dietary supplements may play a role in supporting human health. Over the three decades that have passed since prebiotics were first defined as a concept, research has revealed a complex universe of prebiotic-induced changes to the human microbiota. There are strong indications of a direct link between these prebiotic-induced changes and specific health benefits. However, at the present time, the EU has not permitted use of the term 'prebiotic' in connection with an approved health claim. This paper is the outcome of a workshop organized on the 25th October 2023 by the European branch of the International Life Science Institute (ILSI). It provides an overview of the regulatory requirements for authorized health claims in the EU, key areas of prebiotic research, and findings to date in relation to prebiotics and digestive, immune, metabolic and cognitive health. Research gaps and documentation challenges are then explored and a roadmap proposed for achieving authorization of 'prebiotic' in the wording of future EU health claims.
 
 [Source](https://doi.org/10.1080/19490976.2024.2428848)
@@ -195,28 +195,15 @@ Beyond carrying the plant embryo, seeds harbour intricate microbial communities 
 
 ---
 
-## Microbiome shifts elicited by ornamental lighting of granite facades identified by MinION sequencing.
- 16.11.2024, _A Méndez, F Maisto, J Pavlović, M Rusková, D Pangallo, P Sanmartín_
-
-
-Night-time outdoor illumination in combination with natural sunlight can influence the visible phototrophic colonizers (mainly algae) growing on stone facades; however, the effects on the microbiome (invisible to the naked eye) are not clear. The presence of stone-dwelling microbes, such as bacteria, diatoms, fungi, viruses and archaea, drives further biological colonization, which may exacerbate the biodeterioration of substrates. Considering the microbiome is therefore important for conservation of the built heritage. The impact of the following types of lighting on the relative abundance and diversity of the microbiome on granite ashlars was evaluated in a year-long outdoor pilot study: no lighting; lighting with a metal halide lamp (a traditional lighting system currently used to illuminate monuments); and lighting with a novel LED lamp (an environmentally sound prototype lamp with a biostatic effect, halting biological colonization by phototrophs, currently under trial). Culturable fractions of microbiome and whole-genome sequencing by metabarcoding with Oxford Nanopore Sequencing (MinION) was conducted for bacteria and fungi in order to complement both community characterization strategies. In addition, the possible biodeteriorative profiles of the isolated strains, relative to calcium carbonate precipitation/solubilisation and iron oxidation/reduction, were investigated by plate assays. Alpha and beta diversity indexes were also determined, along with the abundance of biocide and antibiotic resistance genes. Culture-dependent microbiological analysis failed to properly show changes in community composition, for which metagenomic approaches like MinION are better suited. Thus, MinION analysis identified shifts in the granite microbiome elicited by ornamental lighting. The novel LED lamp with the biostatic effect on phototrophs caused an increase in the diversity of bacteria and fungi. In this case, the microbiome was more similar to that in the unlit samples. In the samples illuminated by the metal halide lamp, dominance of bacteria was favoured and the presence of fungi was negligible.
+## Microbiome shifts elicited by ornamental lighting of granite facades identified by MinION sequencing
 
 [Source](https://doi.org/10.1016/j.jphotobiol.2024.113065)
 
-10.1016/j.jphotobiol.2024.113065
-
 ---
 
-## Synthetic communities derived from the core endophytic microbiome of hyperaccumulators and their role in cadmium phytoremediation.
- 17.11.2024, _L Huang, Z Fan, Z Hu, Z Li, Y Fu, Q Wang, X Lin, Y Feng_
-
-
-_Cadmium, Biodegradation, Environmental, Microbiota, Endophytes, Soil Pollutants, Bacteria, RNA, Ribosomal, 16S, Sedum, Soil Microbiology, Phylogeny, Plant Roots_
-Although numerous endophytic bacteria have been isolated and characterized from cadmium (Cd) hyperaccumulators, the contribution and potential application of the core endophytic microbiomes on facilitating phytoremediation were still lack of intensive recognition. Therefore, a 2-year field sampling in different location were firstly conducted to identify the unique core microbiome in Cd hyperaccumulators, among which the representative cultivable bacteria of different genera were then selected to construct synthetic communities (SynComs). Finally, the effects and mechanisms of the optimized SynCom in regulating Cd accumulation in different ecotypes of Sedum alfredii were studied to declare the potential application of the bacterial agents based on core microbiome.
+## Synthetic communities derived from the core endophytic microbiome of hyperaccumulators and their role in cadmium phytoremediation
 
 [Source](https://doi.org/10.1186/s40168-024-01959-x)
-
-10.1186/s40168-024-01959-x
 
 ---
 
@@ -238,16 +225,9 @@ Although numerous endophytic bacteria have been isolated and characterized from 
 
 ---
 
-## Comparison of commonly used software pipelines for analyzing fungal metabarcoding data.
- 17.11.2024, _T Rzehak, N Praeg, G Galla, J Seeber, HC Hauffe, P Illmer_
-
-
-_DNA Barcoding, Taxonomic, Fungi, Software, Animals, Cattle, Computational Biology, Feces, Soil Microbiology_
-Metabarcoding targeting the internal transcribed spacer (ITS) region is commonly used to characterize fungal communities of various environments. Given their size and complexity, raw ITS sequences are necessarily processed and quality-filtered with bioinformatic pipelines. However, such pipelines are not yet standardized, especially for fungal communities, and those available may produce contrasting results. While some pipelines cluster sequences based on a specified percentage of base pair similarity into operational taxonomic units (OTUs), others utilize denoising techniques to infer amplicon sequencing variants (ASVs). While ASVs are now considered a more accurate representation of taxonomic diversity for prokaryote communities based on 16S rRNA amplicon sequencing, the applicability of this method for fungal ITS sequences is still debated.
+## Comparison of commonly used software pipelines for analyzing fungal metabarcoding data
 
 [Source](https://doi.org/10.1186/s12864-024-11001-x)
-
-10.1186/s12864-024-11001-x
 
 ---
 
