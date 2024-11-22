@@ -42,7 +42,7 @@ Gut microbiome plays a significant role in longevity, and dysbiosis is indeed on
 ---
 
 ## Natal factors influencing newborn's oral microbiome diversity.
- 18.11.2024, _YH Kim, TY Lee, HY Kim, SJ Jeong, JH Han, JE Shin, JH Lee, CM Kang_
+ 21.11.2024, _YH Kim, TY Lee, HY Kim, SJ Jeong, JH Han, JE Shin, JH Lee, CM Kang_
 
 
 _Humans, Infant, Newborn, Female, Microbiota, Mouth, RNA, Ribosomal, 16S, Pregnancy, Male, Retrospective Studies, Prospective Studies, Adult, Bacteria, Infant, Premature_
@@ -238,16 +238,9 @@ Although numerous endophytic bacteria have been isolated and characterized from 
 
 ---
 
-## Comparison of commonly used software pipelines for analyzing fungal metabarcoding data.
- 17.11.2024, _T Rzehak, N Praeg, G Galla, J Seeber, HC Hauffe, P Illmer_
-
-
-_DNA Barcoding, Taxonomic, Fungi, Software, Animals, Cattle, Computational Biology, Feces, Soil Microbiology_
-Metabarcoding targeting the internal transcribed spacer (ITS) region is commonly used to characterize fungal communities of various environments. Given their size and complexity, raw ITS sequences are necessarily processed and quality-filtered with bioinformatic pipelines. However, such pipelines are not yet standardized, especially for fungal communities, and those available may produce contrasting results. While some pipelines cluster sequences based on a specified percentage of base pair similarity into operational taxonomic units (OTUs), others utilize denoising techniques to infer amplicon sequencing variants (ASVs). While ASVs are now considered a more accurate representation of taxonomic diversity for prokaryote communities based on 16S rRNA amplicon sequencing, the applicability of this method for fungal ITS sequences is still debated.
+## Comparison of commonly used software pipelines for analyzing fungal metabarcoding data
 
 [Source](https://doi.org/10.1186/s12864-024-11001-x)
-
-10.1186/s12864-024-11001-x
 
 ---
 
