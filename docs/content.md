@@ -146,9 +146,10 @@ Primary hemophagocytic lymphohistiocytosis (HLH) is a life-threatening hyperinfl
 ---
 
 ## Spatiotemporal dynamics during niche remodeling by super-colonizing microbiota in the mammalian gut.
- 14.11.2024, _G Urtecho, T Moody, Y Huang, RU Sheth, M Richardson, HC Descamps, A Kaufman, O Lekan, Z Zhang, F Velez-Cortes, Y Qu, L Cohen, D Ricaurte, TE Gibson, GK Gerber, CA Thaiss, HH Wang_
+ 21.11.2024, _G Urtecho, T Moody, Y Huang, RU Sheth, M Richardson, HC Descamps, A Kaufman, O Lekan, Z Zhang, F Velez-Cortes, Y Qu, L Cohen, D Ricaurte, TE Gibson, GK Gerber, CA Thaiss, HH Wang_
 
 
+_Animals, Gastrointestinal Microbiome, Mice, Fecal Microbiota Transplantation, Mice, Inbred C57BL, Gastrointestinal Tract, Dysbiosis, Mammals, Feces_
 While fecal microbiota transplantation (FMT) has been shown to be effective in reversing gut dysbiosis, we lack an understanding of the fundamental processes underlying microbial engraftment in the mammalian gut. Here, we explored a murine gut colonization model leveraging natural inter-individual variations in gut microbiomes to elucidate the spatiotemporal dynamics of FMT. We identified a natural "super-donor" consortium that robustly engrafts into diverse recipients and resists reciprocal colonization. Temporal profiling of the gut microbiome showed an ordered succession of rapid engraftment by early colonizers within 72 h, followed by a slower emergence of late colonizers over 15-30 days. Moreover, engraftment was localized to distinct compartments of the gastrointestinal tract in a species-specific manner. Spatial metagenomic characterization suggested engraftment was mediated by simultaneous transfer of spatially co-localizing species from the super-donor consortia. These results offer a mechanism of super-donor colonization by which nutritional niches are expanded in a spatiotemporally dependent manner. A record of this paper's transparent peer review process is included in the supplemental information.
 
 [Source](https://doi.org/10.1016/j.cels.2024.10.007)
@@ -238,9 +239,16 @@ Although numerous endophytic bacteria have been isolated and characterized from 
 
 ---
 
-## Comparison of commonly used software pipelines for analyzing fungal metabarcoding data
+## Comparison of commonly used software pipelines for analyzing fungal metabarcoding data.
+ 17.11.2024, _T Rzehak, N Praeg, G Galla, J Seeber, HC Hauffe, P Illmer_
+
+
+_DNA Barcoding, Taxonomic, Fungi, Software, Animals, Cattle, Computational Biology, Feces, Soil Microbiology_
+Metabarcoding targeting the internal transcribed spacer (ITS) region is commonly used to characterize fungal communities of various environments. Given their size and complexity, raw ITS sequences are necessarily processed and quality-filtered with bioinformatic pipelines. However, such pipelines are not yet standardized, especially for fungal communities, and those available may produce contrasting results. While some pipelines cluster sequences based on a specified percentage of base pair similarity into operational taxonomic units (OTUs), others utilize denoising techniques to infer amplicon sequencing variants (ASVs). While ASVs are now considered a more accurate representation of taxonomic diversity for prokaryote communities based on 16S rRNA amplicon sequencing, the applicability of this method for fungal ITS sequences is still debated.
 
 [Source](https://doi.org/10.1186/s12864-024-11001-x)
+
+10.1186/s12864-024-11001-x
 
 ---
 
