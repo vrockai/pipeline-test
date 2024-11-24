@@ -1,260 +1,338 @@
-## <em>F. prausnitzii</em> potentially modulates the association between citrus intake and depression
-
-[Source](https://doi.org/10.1186/s40168-024-01961-3)
-
----
-
-## Perturbations in the airway microbiome are associated with type 2 asthma phenotype and severity.
- 16.11.2024, _W Zhang, L Li, Y Zhang, J Dai, C Qiu, R Chen, F Shi_
+## Spatially restricted immune and microbiota-driven adaptation of the gut.
+ 20.11.2024, _T Mayassi, C Li, Å Segerstolpe, EM Brown, R Weisberg, T Nakata, H Yano, P Herbst, D Artis, DB Graham, RJ Xavier_
 
 
-Airway microbiome has been linked to asthma heterogeneity, yet little is known about the associations between airway microbiota and type 2 (T2) asthma phenotype and severity.
+The intestine is characterized by an environment in which host requirements for nutrient and water absorption are consequently paired with the requirements to establish tolerance to the outside environment. To better understand how the intestine functions in health and disease, large efforts have been made to characterize the identity and composition of cells from different intestinal regions1-8. However, the robustness, nature of adaptability and extent of resilience of the transcriptional landscape and cellular underpinning of the intestine in space are still poorly understood. Here we generated an integrated resource of the spatial and cellular landscape of the murine intestine in the steady and perturbed states. Leveraging these data, we demonstrated that the spatial landscape of the intestine was robust to the influence of the microbiota and was adaptable in a spatially restricted manner. Deploying a model of spatiotemporal acute inflammation, we demonstrated that both robust and adaptable features of the landscape were resilient. Moreover, highlighting the physiological relevance and value of our dataset, we identified a region of the middle colon characterized by an immune-driven multicellular spatial adaptation of structural cells to the microbiota. Our results demonstrate that intestinal regionalization is characterized by robust and resilient structural cell states and that the intestine can adapt to environmental stress in a spatially controlled manner through the crosstalk between immunity and structural cell homeostasis.
 
-[Source](https://doi.org/10.1016/j.anai.2024.11.005)
+[Source](https://doi.org/10.1038/s41586-024-08216-z)
 
-10.1016/j.anai.2024.11.005
+10.1038/s41586-024-08216-z
 
 ---
 
-## Altered intestinal microbiota and fecal metabolites in patients with latent and active pulmonary tuberculosis.
- 16.11.2024, _H Zhang, M Xue, X He, L Sun, Q He, Y Wang, J Jin_
+## Bacterial interactions underpin worsening lung function in cystic fibrosis-associated infections.
+ 22.11.2024, _DW Rivett, LR Hatfield, H Gavillet, M Hardman, C van der Gast_
 
 
-Pulmonary tuberculosis (PTB) is the main cause of infection-related mortality and the most common infectious disease that develops resistance to antibiotics. Gut microbiota and their associated metabolites are assumed to induce and influence the development of PTB. However, the alterations of gut microbiota and metabolites in TB patients is currently unclear.
+Chronic lung infections are the primary cause of morbidity and early mortality in cystic fibrosis (CF) and, as such, have been the subject of a great deal of research. Subsequently, they have become one of the key paradigms for polymicrobial infections. The literature, however, has traditionally focused on the presence of pathogens in isolation or univariate measures like number of species to predict decline of lung function and ignores large swathes of data. Here, we suggest that looking at the interactions between species identified by 16S rRNA gene sequencing, rather than at species singularly, could elucidate hitherto unknown properties of these complicated infections. To confirm this, pooled samples from studies conducted by our laboratory, sequenced using the same pipeline, were used to assess microbiome-wide associations to lung function. We found pathogenic interactions between species were limited to the most abundant species, which were composed of canonical CF pathogens (including Pseudomonas, Staphylococcus, Stenotrophomonas, and Achromobacter) and commensals. This observation is crucial for better understanding of polymicrobial infections and treatment of these conditions while providing a simple framework for expanding this research into other disease states. The adoption of ecological principles into infection science can provide better understanding and options to those suffering from chronic conditions. The statistical ecology approach presented here enables clear hypotheses from observational data that can be ratified through subsequent manipulative experimental studies. Moreover, it can also be used to support the design and construction of clinically relevant in vitro models of polymicrobial infections.
 
-[Source](https://doi.org/10.1016/j.tube.2024.102577)
+[Source](https://doi.org/10.1128/mbio.01456-24)
 
-10.1016/j.tube.2024.102577
-
----
-
-## Mendelian randomization analyses support causal relationships between gut microbiome and longevity.
- 18.11.2024, _S Chen, W Chen, X Wang, S Liu_
-
-
-_Longevity, Humans, Mendelian Randomization Analysis, Gastrointestinal Microbiome, Genome-Wide Association Study, Causality_
-Gut microbiome plays a significant role in longevity, and dysbiosis is indeed one of the hallmarks of aging. However, the causal relationship between gut microbiota and human longevity or aging remains elusive.
-
-[Source](https://doi.org/10.1186/s12967-024-05823-2)
-
-10.1186/s12967-024-05823-2
+10.1128/mbio.01456-24
 
 ---
 
-## Natal factors influencing newborn's oral microbiome diversity.
- 21.11.2024, _YH Kim, TY Lee, HY Kim, SJ Jeong, JH Han, JE Shin, JH Lee, CM Kang_
+## Aerobic bacterial group as an early-stage biomarker from faecal samples of patients with colorectal cancer without distant metastasis
 
-
-_Humans, Infant, Newborn, Female, Microbiota, Mouth, RNA, Ribosomal, 16S, Pregnancy, Male, Retrospective Studies, Prospective Studies, Adult, Bacteria, Infant, Premature_
-The early microbiota of neonates is crucial for developing the postnatal immune system and establishing normal physiological, metabolic, and neurological functions. This study aimed to investigate the factors influencing the diversity of the neonatal oral microbiome, including mother-to-newborn microbial transmission. The study includes a prospective cohort comprising 73 mothers and 87 neonates and a retrospective cohort comprising 991 mothers and 1,121 neonates. Samples from the maternal cervix and neonatal gastric, bronchial, and oral cavities were analyzed using culture-based methods. Neonatal oral swab samples were also analyzed using 16S rRNA gene sequencing to characterize microbial diversity and composition. Similar genera were detected in the neonatal gastric, bronchial, and oral samples, and the neonatal gastric culture was the most similar to the maternal cervical culture. In addition to mother-to-newborn microbial transmission, various natal factors including birth type, birth weight, delivery mode, maternal chorioamnionitis, maternal diabetes and the presence of microbes in other sites influenced neonatal oral microbiome diversity. Among these factors, the birth type was the most significant, and preterm neonates exhibited decreased oral microbiome diversity, with fewer beneficial bacteria and more pathogens. These findings could serve as a baseline for research on the establishment of the oral microbiota in preterm neonates and its health implications.
-
-[Source](https://doi.org/10.1038/s41598-024-78609-7)
-
-10.1038/s41598-024-78609-7
+[Source](https://doi.org/10.1163/18762891-bja00051)
 
 ---
 
-## Age-related loss of intestinal barrier integrity plays an integral role in thymic involution and T cell ageing
-
-[Source](https://doi.org/10.1111/acel.14401)
-
----
-
-## Early-life Upper Airway Microbiota are Associated with Decreased Lower Respiratory Tract Infections.
- 15.11.2024, _S Zelasko, MH Swaney, S Sandstrom, KE Lee, J Dixon, C Riley, L Watson, JJ Godfrey, N Ledrowski, F Rey, N Safdar, CM Seroogy, JE Gern, L Kalan, C Currie_
+## The Parkinson's disease drug entacapone disrupts gut microbiome homoeostasis via iron sequestration.
+ 21.11.2024, _FC Pereira, X Ge, JM Kristensen, RH Kirkegaard, K Maritsch, D Szamosvári, S Imminger, D Seki, JB Shazzad, Y Zhu, M Decorte, B Hausmann, D Berry, K Wasmund, A Schintlmeister, T Böttcher, JX Cheng, M Wagner_
 
 
-Microbial interactions mediating colonization resistance play key roles within the human microbiome, shaping susceptibility to infection from birth. To gain insight into microbiome-mediated defenses and respiratory pathogen colonization dynamics, we sequenced and analyzed nasal (n=229) and oral (n=210) microbiomes with associated health/environmental data from our Wisconsin Infant Study Cohort at age 24-months. Participants with early-life lower respiratory tract infection (LRTI) were more likely to be formula-fed, attend daycare, and experience wheezing. Shotgun metagenomic sequencing with detection of viral and bacterial respiratory pathogens revealed nasal microbiome composition to associate with prior LRTI - namely lower alpha diversity, depletion of Prevotella, and enrichment of Moraxella catarrhalis including drug-resistant strains. Prevotella originating from healthy microbiomes had higher biosynthetic gene cluster abundance and exhibited contact-independent inhibition of M. catarrhalis, suggesting interbacterial competition impacts nasal pathogen colonization. This work advances understanding of protective host-microbial interactions occurring in airway microbiomes that alter infection susceptibility in early-life.
+Many human-targeted drugs alter the gut microbiome, leading to implications for host health. However, the mechanisms underlying these effects are not well known. Here we combined quantitative microbiome profiling, long-read metagenomics, stable isotope probing and single-cell chemical imaging to investigate the impact of two widely prescribed drugs on the gut microbiome. Physiologically relevant concentrations of entacapone, a treatment for Parkinson's disease, or loxapine succinate, used to treat schizophrenia, were incubated ex vivo with human faecal samples. Both drugs significantly impact microbial activity, more so than microbial abundance. Mechanistically, entacapone can complex and deplete available iron resulting in gut microbiome composition and function changes. Microbial growth can be rescued by replenishing levels of microbiota-accessible iron. Further, entacapone-induced iron starvation selected for iron-scavenging gut microbiome members encoding antimicrobial resistance and virulence genes. These findings reveal the impact of two under-investigated drugs on whole microbiomes and identify metal sequestration as a mechanism of drug-induced microbiome disturbance.
 
-[Source](https://doi.org/10.1016/j.jaci.2024.11.008)
+[Source](https://doi.org/10.1038/s41564-024-01853-0)
 
-10.1016/j.jaci.2024.11.008
+10.1038/s41564-024-01853-0
 
 ---
 
-## Human Milk Microbiome Is Associated With Allergic Diseases in Early Childhood.
- 15.11.2024, _J Ma, DJ Palmer, D Geddes, CT Lai, SL Prescott, N D'Vaz, P Vlaskovsky, LF Stinson_
+## Coffee consumption is associated with intestinal <em>Lawsonibacter asaccharolyticus</em> abundance and prevalence across multiple cohorts
 
-
-
-[Source](https://doi.org/10.1111/all.16399)
-
-10.1111/all.16399
+[Source](https://doi.org/10.1038/s41564-024-01858-9)
 
 ---
 
-## Faecal microbiota composition and impulsivity in a cohort of older adults with metabolic syndrome
-
-[Source](https://doi.org/10.1038/s41598-024-78527-8)
-
----
-
-## Microbiota-induced alteration of kynurenine metabolism in macrophages drives formation of creeping fat in Crohn's disease.
- 16.11.2024, _J Wu, W Zeng, H Xie, M Cao, J Yang, Y Xie, Z Luo, Z Zhang, H Xu, W Huang, T Zhou, J Tan, X Wu, Z Yang, S Zhu, R Mao, Z He, P Lan_
+## Enteric bacterial infection stimulates remodelling of bile metabolites to promote intestinal homeostasis.
+ 20.11.2024, _T Zhang, Y Hasegawa, MK Waldor_
 
 
-_Animals, Mice, Macrophages, Kynurenine, Crohn Disease, Indoleamine-Pyrrole 2,3,-Dioxygenase, Adipogenesis, Mice, Knockout, Disease Models, Animal, Mice, Inbred C57BL, Gastrointestinal Microbiome, Receptors, Aryl Hydrocarbon, Humans, Adipocytes, Male, Mesentery, Microbiota_
-Hyperplasia of mesenteric tissues in Crohn's disease, called creeping fat (CrF), is associated with surgical recurrence. Although microbiota translocation and colonization have been found in CrF, convincing mouse phenotypes and the underlying mechanisms of CrF formation remain unclear. Utilizing single-nucleus RNA (snRNA) sequencing of CrF and different mouse models, we demonstrate that the commensal Achromobacter pulmonis induces mesenteric adipogenesis through macrophage alteration. Targeted metabolome analysis reveals that L-kynurenine is the most enriched metabolite in CrF. Upregulation of indoleamine 2,3-dioxygenase 1 (IDO1) enhances kynurenine metabolism and drives mesenteric adipogenesis. Leveraging single-cell RNA (scRNA) sequencing of mouse mesenteric tissues and macrophage-specific IDO1 knockout mice, we verify the role of macrophage-sourced L-kynurenine in mesenteric adipogenesis. Mechanistically, L-kynurenine-induced adipogenesis is mediated by the aryl hydrocarbon receptors in adipocytes. Administration of an IDO1 inhibitor or bacteria engineered to degrade L-kynurenine alleviates mesenteric adipogenesis in mice. Collectively, our study demonstrates that microbiota-induced modulation of macrophage metabolism potentiates CrF formation.
+The liver makes bile, an aqueous solution critical for fat absorption, which is secreted into the duodenum. Despite extensive studies on bile salts, other components of bile are less well characterized. Here we used global metabolomic analysis on bile from specific-pathogen-free, germ-free, Citrobacter rodentium-infected or Listeria monocytogenes-infected mice and identified a metabolome of 812 metabolites that were altered by both microbiota and enteric infection. Hepatic transcriptomics identified enteric-infection-triggered pathways that probably underlie bile remodelling. Enteric infection increased levels of four dicarboxylates in bile, including itaconate. Analysis of Acod1-/- mice indicated that increased itaconate also increased tuft cell abundance, altered microbiota composition and function as detected by metagenomic analysis, and modulated host defence, leading to reduced Vibrio cholerae colonization. Our data suggest that enteric-infection-associated signals are relayed between the intestine and liver and induce transcriptional programmes that shape the bile metabolome, modifying the immunomodulatory and host defence functions of bile.
 
-[Source](https://doi.org/10.1016/j.chom.2024.10.008)
+[Source](https://doi.org/10.1038/s41564-024-01862-z)
 
-10.1016/j.chom.2024.10.008
+10.1038/s41564-024-01862-z
 
 ---
 
-## Estimates of microbiome heritability across hosts.
- 15.11.2024, _AH Morris, BJM Bohannan_
+## Microbiome-Based Colon Cancer Patient Stratification and Survival Analysis.
+ 23.11.2024, _J Smyth, J Godet, A Choudhary, A Das, GV Gkoutos, A Acharjee_
 
 
-Microbiomes contribute to variation in many plant and animal traits, suggesting that microbiome-mediated traits could evolve through selection on the host. However, for such evolution to occur, microbiomes must exhibit sufficient heritability to contribute to host adaptation. Previous work has attempted to estimate the heritability of a variety of microbiome attributes. Here we show that most published estimates are limited to vertebrate and plant hosts, but significant heritability of microbiome attributes has been frequently reported. This indicates that microbiomes could evolve in response to host-level selection, but studies across a wider range of hosts are necessary before general conclusions can be made. We suggest future studies focus on standardizing heritability measurements for the purpose of meta-analyses and investigate the role of the environment in contributing to heritable microbiome variation. This could have important implications for the use of microbiomes in conservation, agriculture and medicine.
+_Humans, Gastrointestinal Microbiome, Colonic Neoplasms, Male, Female, Middle Aged, Survival Analysis, Aged, Kaplan-Meier Estimate, Prognosis, Cluster Analysis_
+Colorectal cancer (CRC) is any cancer that starts in the colon or the rectum and presents a significant health concern. It is the third most diagnosed and the second deadliest cancer, with an estimated 153,020 new cases and 52,550 deaths in 2023. The severity of colon cancer may be attributed to its ability to avoid the host immune system and growth suppressors, its asymptomatic nature in the early stages, its association with a continually ageing population and unfavourable diet and obesity. The composition of the gut microbiome plays an important role in the development of CRC and presents as an important target in early detection and in predicting treatment outcomes in CRC. This study aims to identify microbiome-specific derived clusters in CRC patients and conduct subsequent survival analysis using the specific microbiome features within clusters.
 
-[Source](https://doi.org/10.1038/s41564-024-01865-w)
+[Source](https://doi.org/10.1002/cam4.70434)
 
-10.1038/s41564-024-01865-w
-
----
-
-## High barley intake in non-obese individuals is associated with high natto consumption and abundance of butyrate-producing bacteria in the gut: a cross-sectional study
-
-[Source](https://doi.org/10.3389/fnut.2024.1434150)
+10.1002/cam4.70434
 
 ---
 
-## Prebiotics in food and dietary supplements: a roadmap to EU health claims.
- 20.11.2024, _K Tuohy, EE Vaughan, LF Harthoorn, EE Blaak, PWJ Burnet, A Busetti, A Chakrabarti, N Delzenne, P de Vos, L Dye, D Guillemet, LA Houghton, AFM Kardinaal, C Mersh, K Musa-Veloso, A Nielsen, J Palasinska, S Salminen, G Walton, N Venlet, C Hubermont, PC Calder_
+## Why HPV16? Why, now, HPV42? How the discovery of HPV42 in rare cancers provides an opportunity to challenge our understanding about the transition between health and disease for common members of the healthy microbiota.
+ 19.11.2024, _IG Bravo, S Belkhir, P Paget-Bailly_
 
 
-_Humans, Dietary Supplements, European Union, Gastrointestinal Microbiome, Prebiotics_
-Numerous studies have established that prebiotic ingredients in foods and dietary supplements may play a role in supporting human health. Over the three decades that have passed since prebiotics were first defined as a concept, research has revealed a complex universe of prebiotic-induced changes to the human microbiota. There are strong indications of a direct link between these prebiotic-induced changes and specific health benefits. However, at the present time, the EU has not permitted use of the term 'prebiotic' in connection with an approved health claim. This paper is the outcome of a workshop organized on the 25th October 2023 by the European branch of the International Life Science Institute (ILSI). It provides an overview of the regulatory requirements for authorized health claims in the EU, key areas of prebiotic research, and findings to date in relation to prebiotics and digestive, immune, metabolic and cognitive health. Research gaps and documentation challenges are then explored and a roadmap proposed for achieving authorization of 'prebiotic' in the wording of future EU health claims.
+In 2022, a bioinformatic, agnostic approach identified HPV42 as causative agent of a rare cancer, later confirmed experimentally. This unexpected association offers an opportunity to reconsider our understanding about papillomavirus infections and cancers. We have expanded our knowledge about the diversity of papillomaviruses and the diseases they cause.Yet we still lack answers to fundamental questions, such as what makes HPV16 different from the closely related HPV31 or HPV33; or why the very divergent HPV13 and HPV32 cause focal epithelial hyperplasia, while HPV6 or HPV42 do not, despite their evolutionary relatedness. Certain members of the healthy skin microbiota are associated to rare clinical conditions. We propose that a focus on cellular phenotypes, most often transient and influenced by intrinsic and extrinsic factors, may help understand the continuum between health and disease. A conceptual switch is required towards an interpretation of biology as a diversity of states connected by transition probabilities, rather than quasi-deterministic programs. Under this perspective, papillomaviruses may only trigger malignant transformation when specific viral genotypes interact with precise cellular states. Drawing on Canguilhem's concepts of normal and pathological, we suggest that understanding the transition between fluid cellular states can illuminate how commensal-like infections transition from benign to malignant.
 
-[Source](https://doi.org/10.1080/19490976.2024.2428848)
+[Source](https://doi.org/10.1093/femsre/fuae029)
 
-10.1080/19490976.2024.2428848
-
----
-
-## The Microbiome Modifies Manifestations of Hemophagocytic Lymphohistiocytosis in Perforin-Deficient Mice.
- 16.11.2024, _J Mann, S Runge, C Schell, K Gräwe, G Thoulass, J Lao, S Ammann, S Grün, C König, SA Berger, B Hild, P Aichele, SP Rosshart, S Ehl_
-
-
-Primary hemophagocytic lymphohistiocytosis (HLH) is a life-threatening hyperinflammatory syndrome caused by inborn errors of cytotoxicity. Patients with biallelic PRF1 null mutations (encoding perforin) usually develop excessive immune cell activation, hypercytokinemia, and life-threatening immunopathology in the first 6 months of life, often without an apparent infectious trigger. In contrast, perforin-deficient (PKO) mice only develop HLH after systemic infection with lymphocytic choriomeningitis virus (LCMV). We hypothesized that restricted microbe-immune cell interactions due to specific pathogen-free (SPF) housing might explain the need for this specific viral trigger in PKO mice. To investigate the influence of a "wild" microbiome in PKO mice, we fostered PKO newborns with Wildling microbiota ('PKO-Wildlings') and monitored them for signs of HLH. PKO-Wildlings survived long-term without spontaneous disease. Also, systemic infection with vaccinia virus did not reach the threshold of immune activation required to trigger HLH in PKO-Wildlings. Interestingly, after infection with LCMV, PKO-Wildlings developed an altered HLH pattern. This included lower IFN-γ serum levels along with improved IFN-γ-driven anemia, but more elevated levels of IL-17 and increased liver inflammation compared with PKO-SPF mice. Thus, wild microbiota alone is not sufficient to trigger HLH in PKO mice, but host-microbe interactions shape inflammatory cytokine patterns, thereby influencing manifestations of HLH immunopathology.
-
-[Source](https://doi.org/10.1002/eji.202451061)
-
-10.1002/eji.202451061
+10.1093/femsre/fuae029
 
 ---
 
-## Spatiotemporal dynamics during niche remodeling by super-colonizing microbiota in the mammalian gut.
- 22.11.2024, _G Urtecho, T Moody, Y Huang, RU Sheth, M Richardson, HC Descamps, A Kaufman, O Lekan, Z Zhang, F Velez-Cortes, Y Qu, L Cohen, D Ricaurte, TE Gibson, GK Gerber, CA Thaiss, HH Wang_
+## Acarbose impairs gut <em>Bacteroides</em> growth by targeting intracellular glucosidases
 
-
-_Animals, Gastrointestinal Microbiome, Mice, Fecal Microbiota Transplantation, Mice, Inbred C57BL, Gastrointestinal Tract, Dysbiosis, Mammals, Feces_
-While fecal microbiota transplantation (FMT) has been shown to be effective in reversing gut dysbiosis, we lack an understanding of the fundamental processes underlying microbial engraftment in the mammalian gut. Here, we explored a murine gut colonization model leveraging natural inter-individual variations in gut microbiomes to elucidate the spatiotemporal dynamics of FMT. We identified a natural "super-donor" consortium that robustly engrafts into diverse recipients and resists reciprocal colonization. Temporal profiling of the gut microbiome showed an ordered succession of rapid engraftment by early colonizers within 72 h, followed by a slower emergence of late colonizers over 15-30 days. Moreover, engraftment was localized to distinct compartments of the gastrointestinal tract in a species-specific manner. Spatial metagenomic characterization suggested engraftment was mediated by simultaneous transfer of spatially co-localizing species from the super-donor consortia. These results offer a mechanism of super-donor colonization by which nutritional niches are expanded in a spatiotemporally dependent manner. A record of this paper's transparent peer review process is included in the supplemental information.
-
-[Source](https://doi.org/10.1016/j.cels.2024.10.007)
-
-10.1016/j.cels.2024.10.007
+[Source](https://doi.org/10.1128/mbio.01506-24)
 
 ---
 
-## Multi-omics investigation into long-distance road transportation effects on respiratory health and immunometabolic responses in calves.
- 18.11.2024, _J Qi, F Huang, L Gan, X Zhou, L Gou, Y Xie, H Guo, J Fang, Z Zuo_
+## More than just a number: the gut microbiota and brain function across the extremes of life.
+ 23.11.2024, _ND Nuzum, C Deady, S Kittel-Schneider, JF Cryan, SM O'Mahony, G Clarke_
 
 
-_Animals, Cattle, Transportation, RNA, Ribosomal, 16S, Microbiota, Nasopharynx, Bacteria, Metabolomics, Bovine Respiratory Disease Complex, Male, Multiomics_
-Long-distance road transportation is a common practice in the beef industry, frequently resulting in bovine respiratory disease (BRD) and compromised growth performance. However, a comprehensive investigation integrating clinical performance, physiological conditions, and nasopharyngeal microflora remains lacking.
+_Gastrointestinal Microbiome, Humans, Brain, Animals, Brain-Gut Axis, Alzheimer Disease, Neurodegenerative Diseases_
+Understanding the interrelationship between the gut microbiota and host physiology, although still in its relative infancy, has taken important steps forward over the past decade. In the context of brain disorders including those characterized by neurodevelopmental and neurodegenerative changes there have been important advances. However, initially research involved correlational analyses, had limited translational scope, and lacked functional assessments. Thus, largescale longitudinal clinical investigations that assess causation and underlying mechanisms via in depth analysis methods are needed. In neurodegeneration research, strong causal evidence now links the gut microbiome to Alzheimer's (AD), and Parkinson's Disease (PD), as supported by human-to-animal transplantation studies. Longitudinal interventions are being conducted in AD, PD, amyotrophic lateral sclerosis, Huntington's disease, and multiple sclerosis. Neurodevelopmental research has also seen a boon in microbiome-related clinical research including in autism, Attention-deficit/hyperactivity disorder, and schizophrenia, which is confirming prior animal model work regarding the key time-windows in the gut microbiome important for infant cognition. While recent research advances represent important progress, fundamental knowledge gaps and obstacles remain. Knowing how and why the gut microbiome changes at the extremes of life will develop our mechanistic understanding and help build the evidence base as we strive toward counteracting microbial missteps with precision therapeutic interventions.
 
-[Source](https://doi.org/10.1186/s40168-024-01962-2)
+[Source](https://doi.org/10.1080/19490976.2024.2418988)
 
-10.1186/s40168-024-01962-2
-
----
-
-## Wild again: recovery of a beneficial Cannabis seed endophyte from low domestication genotypes.
- 18.11.2024, _C Lobato, JM de Freitas, D Habich, I Kögl, G Berg, T Cernava_
-
-
-_Cannabis, Seeds, Endophytes, Genotype, Bacteria, Domestication, Microbiota, Symbiosis_
-Beyond carrying the plant embryo, seeds harbour intricate microbial communities whose transmission across successive plant generations can significantly influence the ecological and evolutionary dynamics of plant-microbe symbioses. The process of plant domestication has potential repercussions in genes involved in plant-microbiome interactions. However, the extent to which breeding can impact the seed microbiome is sparsely explored. Cannabis is a high-value crop but sparsely subjected to agricultural innovations established in other crop species during the last century. Here, we conduct a large-scale analysis of the bacterial seed microbiome of Cannabis across different domestication grades and investigate the potential of seed-associated endophytes as plant growth-promoting agents under both controlled and field conditions.
-
-[Source](https://doi.org/10.1186/s40168-024-01951-5)
-
-10.1186/s40168-024-01951-5
+10.1080/19490976.2024.2418988
 
 ---
 
-## Trade-offs and adaptation to metalliferous soils: The role of soil microbiome in metal tolerance and uptake in <em>Arabidopsis halleri</em> ecotypes from a reciprocal transplant experiment
-
-[Source](https://doi.org/10.1016/j.scitotenv.2024.177470)
-
----
-
-## Effect of plant-derived microbial soil legacy in a grafting system-a turn for the better
-
-[Source](https://doi.org/10.1186/s40168-024-01938-2)
-
----
-
-## Microbiome shifts elicited by ornamental lighting of granite facades identified by MinION sequencing.
- 16.11.2024, _A Méndez, F Maisto, J Pavlović, M Rusková, D Pangallo, P Sanmartín_
+## Microbiota-derived small molecule genotoxins: host interactions and ecological impact in the gut ecosystem.
+ 23.11.2024, _EL Zechner, S Kienesberger_
 
 
-Night-time outdoor illumination in combination with natural sunlight can influence the visible phototrophic colonizers (mainly algae) growing on stone facades; however, the effects on the microbiome (invisible to the naked eye) are not clear. The presence of stone-dwelling microbes, such as bacteria, diatoms, fungi, viruses and archaea, drives further biological colonization, which may exacerbate the biodeterioration of substrates. Considering the microbiome is therefore important for conservation of the built heritage. The impact of the following types of lighting on the relative abundance and diversity of the microbiome on granite ashlars was evaluated in a year-long outdoor pilot study: no lighting; lighting with a metal halide lamp (a traditional lighting system currently used to illuminate monuments); and lighting with a novel LED lamp (an environmentally sound prototype lamp with a biostatic effect, halting biological colonization by phototrophs, currently under trial). Culturable fractions of microbiome and whole-genome sequencing by metabarcoding with Oxford Nanopore Sequencing (MinION) was conducted for bacteria and fungi in order to complement both community characterization strategies. In addition, the possible biodeteriorative profiles of the isolated strains, relative to calcium carbonate precipitation/solubilisation and iron oxidation/reduction, were investigated by plate assays. Alpha and beta diversity indexes were also determined, along with the abundance of biocide and antibiotic resistance genes. Culture-dependent microbiological analysis failed to properly show changes in community composition, for which metagenomic approaches like MinION are better suited. Thus, MinION analysis identified shifts in the granite microbiome elicited by ornamental lighting. The novel LED lamp with the biostatic effect on phototrophs caused an increase in the diversity of bacteria and fungi. In this case, the microbiome was more similar to that in the unlit samples. In the samples illuminated by the metal halide lamp, dominance of bacteria was favoured and the presence of fungi was negligible.
+_Humans, Gastrointestinal Microbiome, Bacteria, Animals, Host Microbial Interactions, Mutagens, Polyketides, Enterotoxins, Peptides_
+The human intestinal tract is densely colonized by a microbial community that is subject to intense competition. Bacteria in this complex habitat seek to outcompete their neighbors for nutrients and eliminate competitors with antibacterial toxins. Antagonism can be mediated by diverse effectors including toxic proteins and small molecule inhibitors that are released extracellularly or delivered by specialized secretion systems to targeted cells. Two prototypical microbiota-derived enterotoxins, colibactin and tilimycin, and the newly discovered family of indolimines represent an expanding group of non-proteinaceous small molecules which specifically target DNA. In addition to cell killing, they generate mutations and genome instability in intoxicated microbes and host cells alike. They have been studied in detail because of their direct toxicity to human cells and important etiological roles in intestinal pathologies. Increasing evidence, however, reveals that these commensal genotoxins are also mediators of interbacterial antagonism, which impacts gut microbial ecology. In this review, we illustrate the functional versatility of commensal genotoxins in the gut ecosystem.
 
-[Source](https://doi.org/10.1016/j.jphotobiol.2024.113065)
+[Source](https://doi.org/10.1080/19490976.2024.2430423)
 
-10.1016/j.jphotobiol.2024.113065
+10.1080/19490976.2024.2430423
 
 ---
 
-## Synthetic communities derived from the core endophytic microbiome of hyperaccumulators and their role in cadmium phytoremediation.
- 17.11.2024, _L Huang, Z Fan, Z Hu, Z Li, Y Fu, Q Wang, X Lin, Y Feng_
+## Citizen science as an instrument for women’s health research
 
-
-_Cadmium, Biodegradation, Environmental, Microbiota, Endophytes, Soil Pollutants, Bacteria, RNA, Ribosomal, 16S, Sedum, Soil Microbiology, Phylogeny, Plant Roots_
-Although numerous endophytic bacteria have been isolated and characterized from cadmium (Cd) hyperaccumulators, the contribution and potential application of the core endophytic microbiomes on facilitating phytoremediation were still lack of intensive recognition. Therefore, a 2-year field sampling in different location were firstly conducted to identify the unique core microbiome in Cd hyperaccumulators, among which the representative cultivable bacteria of different genera were then selected to construct synthetic communities (SynComs). Finally, the effects and mechanisms of the optimized SynCom in regulating Cd accumulation in different ecotypes of Sedum alfredii were studied to declare the potential application of the bacterial agents based on core microbiome.
-
-[Source](https://doi.org/10.1186/s40168-024-01959-x)
-
-10.1186/s40168-024-01959-x
+[Source](https://doi.org/10.1038/s41591-024-03371-2)
 
 ---
 
-## Microbial community evolution in a lab-scale reactor operated to obtain biomass for biochemical methane potential assays
+## Normal Gut Microbiomes in Diverse Populations: Clinical Implications.
+ 18.11.2024, _O Shete, TS Ghosh_
 
-[Source](https://doi.org/10.1007/s00253-024-13305-0)
 
----
+The human microbiome is a sensor and modulator of physiology and homeostasis. Remarkable tractability underpins the promise of therapeutic manipulation of the microbiome. However, the definition of a normal or healthy microbiome has been elusive. This is in part due to the underrepresentation of minority groups and major global regions in microbiome studies to date. We review studies of the microbiome in different populations and highlight a commonality among health-associated microbiome signatures along with major drivers of variation. We also provide an overview of microbiome-associated therapeutic interventions for some widespread, widely studied diseases. We discuss sources of bias and the challenges associated with defining population-specific microbiome reference bases. We propose a roadmap for defining normal microbiome references that can be used for population-customized microbiome therapeutics and diagnostics.
 
-## Faecal sample storage without ethanol for up to 24&nbsp;h followed by freezing performs better than storage with ethanol for shotgun metagenomic microbiome analysis in patients with inflammatory and non-inflammatory intestinal diseases and healthy controls
+[Source](https://doi.org/10.1146/annurev-med-051223-031809)
 
-[Source](https://doi.org/10.1186/s13104-024-06999-y)
-
----
-
-## HMicroDB: A Comprehensive Database of Herpetofaunal Microbiota With&nbsp;a Focus on Host Phylogeny, Physiological Traits, and Environment Factors
-
-[Source](https://doi.org/10.1111/1755-0998.14046)
+10.1146/annurev-med-051223-031809
 
 ---
 
-## Comparison of commonly used software pipelines for analyzing fungal metabarcoding data.
- 17.11.2024, _T Rzehak, N Praeg, G Galla, J Seeber, HC Hauffe, P Illmer_
+## Synthetic Ecosystems: From the Test Tube to the Biosphere
 
-
-_DNA Barcoding, Taxonomic, Fungi, Software, Animals, Cattle, Computational Biology, Feces, Soil Microbiology_
-Metabarcoding targeting the internal transcribed spacer (ITS) region is commonly used to characterize fungal communities of various environments. Given their size and complexity, raw ITS sequences are necessarily processed and quality-filtered with bioinformatic pipelines. However, such pipelines are not yet standardized, especially for fungal communities, and those available may produce contrasting results. While some pipelines cluster sequences based on a specified percentage of base pair similarity into operational taxonomic units (OTUs), others utilize denoising techniques to infer amplicon sequencing variants (ASVs). While ASVs are now considered a more accurate representation of taxonomic diversity for prokaryote communities based on 16S rRNA amplicon sequencing, the applicability of this method for fungal ITS sequences is still debated.
-
-[Source](https://doi.org/10.1186/s12864-024-11001-x)
-
-10.1186/s12864-024-11001-x
+[Source](https://doi.org/10.1021/acssynbio.4c00384)
 
 ---
 
-## MosAIC: An annotated collection of mosquito-associated bacteria with high-quality genome assemblies
+## <em>Limosilactobacillus reuteri</em> ameliorates maternal separation stress in newborn mice and alters subsequent adult behaviour
 
-[Source](https://doi.org/10.1371/journal.pbio.3002897)
+[Source](https://doi.org/10.1163/18762891-bja00054)
+
+---
+
+## Sodium oligomannate disrupts the adherence of Rib(high) bacteria to gut epithelia to block SAA-triggered Th1 inflammation in 5XFAD transgenic mice
+
+[Source](https://doi.org/10.1038/s41421-024-00725-5)
+
+---
+
+## <em>B. vulgatus</em> ameliorates high-fat diet-induced obesity through modulating intestinal serotonin synthesis and lipid absorption in mice
+
+[Source](https://doi.org/10.1080/19490976.2024.2423040)
+
+---
+
+## Multiomics of yaks reveals significant contribution of microbiome into host metabolism
+
+[Source](https://doi.org/10.1038/s41522-024-00609-2)
+
+---
+
+## Single-strain probiotics enhance growth, anti-pathogen immunity, and resistance to <em>Nocardia seriolae </em>in grey mullet (<em>Mugil cephalus</em>) via gut microbiota modulation
+
+[Source](https://doi.org/10.1186/s42523-024-00353-0)
+
+---
+
+## The gut microbiota of three avian species living in sympatry.
+ 23.11.2024, _H Pereira, N Chakarov, BA Caspers, M Gilles, W Jones, T Mijoro, S Zefania, T Székely, O Krüger, JI Hoffman_
+
+
+_Animals, Gastrointestinal Microbiome, Sympatry, Species Specificity, Madagascar_
+Evolutionary divergence and genetic variation are often linked to differences in microbial community structure and diversity. While environmental factors and diet heavily influence gut microbial communities, host species contributions are harder to quantify. Closely related species living in sympatry provide a unique opportunity to investigate species differences without the confounding effects of habitat and dietary variation. We therefore compared and contrasted the gut microbiota of three sympatric plover species: the widespread Kittlitz's and white-fronted plovers (Anarhynchus pecuarius and A. marginatus) and the endemic and vulnerable Madagascar plover (A. thoracicus).
+
+[Source](https://doi.org/10.1186/s12862-024-02329-9)
+
+10.1186/s12862-024-02329-9
+
+---
+
+## Butyrate reduces epithelial barrier dysfunction induced by the foodborne mycotoxin deoxynivalenol in cell monolayers derived from pig jejunum organoids.
+ 21.11.2024, _J Alberge, E Mussard, C Al-Ayoubi, C Lencina, C Marrauld, L Cauquil, CS Achard, I Mateos, I Alassane-Kpembi, IP Oswald, L Soler, S Combes, M Beaumont_
+
+
+_Animals, Trichothecenes, Swine, Jejunum, Organoids, Intestinal Mucosa, Butyrates, Gastrointestinal Microbiome, Tight Junctions, Epithelial Cells, Fusarium, Immunity, Innate, Mycotoxins, Goblet Cells_
+The foodborne mycotoxin deoxynivalenol (DON) produced by Fusarium species threats animal and human health through disruption of the intestinal barrier. Targeting the gut microbiota and its products appears as a promising strategy to mitigate DON intestinal toxicity. In this study, we investigated whether the bacterial metabolite butyrate could alleviate epithelial barrier disruption induced by DON. We used a model of cell monolayers derived from porcine jejunum organoids allowing to reproduce the cellular complexity of the intestinal epithelium. Our results show that DON dose-dependently disrupted the epithelial barrier integrity, reduced epithelial differentiation, and altered innate immune defenses. Butyrate attenuated the DON-induced increase in paracellular permeability. Butyrate also prevented epithelial barrier dysfunction triggered by anisomycin, a ribosome inhibitor like DON. Moreover, butyrate partially counteracted the effects of DON on tight junctions (TJP1, OCLN), innate epithelial defenses (PTGS2, CD14, TLR4, TLR5), and absorptive cell functions (CA2, VIL1, NHE3, CFTR). In contrast, butyrate did not prevent the toxic effects of DON on mitochondrial metabolism, proliferation and goblet cell functions. Taken together, our results demonstrate that the bacterial metabolite butyrate is able to reduce DON-induced epithelial barrier disruption.
+
+[Source](https://doi.org/10.1080/19490976.2024.2430424)
+
+10.1080/19490976.2024.2430424
+
+---
+
+## Trophic modulation of endophytes by rhizosphere protists.
+ 20.11.2024, _R Asiloglu, SO Bodur, SO Samuel, M Aycan, J Murase, N Harada_
+
+
+The plant-microbe interactions, which is crucial for plant health and productivity, mainly occur in rhizosphere: a narrow zone of soil surrounding roots of living plants. The rhizosphere hosts one of the most intense habitats for microbial prey-predator interactions, especially between predatory protists and bacteria. Here, based on two key facts, microbial predators modulate rhizobacterial community composition, and the rhizobacterial community is the primary source of root microbiome, endophytes; we hypothesized that predation upon rhizobacteria would modulate the community composition of endophytic bacteria. The effects of three taxonomically distinct axenic protist species (Acanthamoeba castellanii, Vermamoeba vermiformis, and Heteromita globosa) were tested in this study. To examine the robustness of the hypotheses, the experiments were conducted in three soil types characterized by distinct bacterial communities and physicochemical properties. The bacterial community compositions were analyzed with high throughput sequencing. Bacterial gene abundances were estimated with a real-time-PCR method. The results showed that protists modulated endophytic communities, which originated in the rhizosphere soil. The modulation of endophytic communities by protists showed chaotic patterns rather than a deterministic effect under different soil types. The observed chaotic dynamics were further confirmed with an additional experiment, in which chaos was triggered by changes in the dilution rates of soil nutrients. Furthermore, the presence of predators enhanced the root colonization of endophytes. Our findings identify a key mechanism for the modulation of root endophytes and enhance understanding of underground plant-microbe interactions, which can lead to open new avenues for modulating the root microbiome to enhance crop production.
+
+[Source](https://doi.org/10.1093/ismejo/wrae235)
+
+10.1093/ismejo/wrae235
+
+---
+
+## Metagenome-based diversity and functional analysis of culturable microbes in sugarcane.
+ 19.11.2024, _H Lin, L Wu, L Zhang, QK Ta, P Liu, J Song, X Yang_
+
+
+Sugarcane is a key crop for sugar and energy production, and understanding the diversity of its associated microbes is crucial for optimizing its growth and health. However, there is a lack of thorough investigation and use of microbial resources in sugarcane. This study conducted a comprehensive analysis of culturable microbes and their functional features in different tissues and rhizosphere soil of four diverse sugarcane species using metagenomics techniques. The results revealed significant microbial diversity in sugarcane's tissues and rhizosphere soil, including several important biomarker bacterial taxa identified, which are reported to engage in several processes that support plant growth, such as nitrogen fixation, phosphate solubilization, and the production of plant hormones. The Linear discriminant analysis Effect Size (LEfSe) studies identified unique microbial communities in different parts of the same sugarcane species, particularly Burkholderia, which exhibited significant variations across the sugarcane species. Microbial analysis of carbohydrate-active enzymes (CAZymes) indicated that genes related to sucrose metabolism were mostly present in specific bacterial taxa, including Burkholderia, Pseudomonas, Paraburkholderia, and Chryseobacterium. This study improves understanding of the diversities and functions of endophytes and rhizosphere soil microbes in sugarcane. Moreover, the approaches and findings of this study provide valuable insights for microbiome research and the use of comparable technologies in other agricultural fields.
+
+[Source](https://doi.org/10.1128/spectrum.01982-24)
+
+10.1128/spectrum.01982-24
+
+---
+
+## Root hair developmental regulators orchestrate drought triggered microbiome changes and the interaction with beneficial Rhizobiaceae.
+ 23.11.2024, _Z Wang, Z Li, Y Zhang, J Liao, K Guan, J Zhai, P Meng, X Tang, T Dong, Y Song_
+
+
+_Plant Roots, Droughts, Microbiota, Stress, Physiological, Rhizobium, Arabidopsis, Metagenome, Transcriptome, Symbiosis_
+Drought is one of the most serious abiotic stresses, and emerging evidence suggest plant microbiome affects plant drought tolerance. However, there is a lack of genetic evidence regarding whether and how plants orchestrate the dynamic assembly of the microbiome upon drought. By utilizing mutants with enhanced or decreased root hair densities, we find that root hair regulators also affect drought induced root microbiome changes. Rhizobiaceae is a key biomarker taxa affected by root hair related mutants. We isolated and sequenced 1479 root associated microbes, and confirmed that several Rhizobium strains presented stress-alleviating activities. Metagenome, root transcriptome and root metabolome studies further reveal the multi-omic changes upon drought stress. We knocked out an ornithine cyclodeaminase (ocd) gene in Rhizobium sp. 4F10, which significantly dampens its stress alleviating ability. Our genetic and integrated multi-omics studies confirm the involvement of host genetic effects in reshaping a stress-alleviating root microbiome during drought, and provide mechanistic insights into Rhizobiaceae mediated abiotic stress protection.
+
+[Source](https://doi.org/10.1038/s41467-024-54417-5)
+
+10.1038/s41467-024-54417-5
+
+---
+
+## Functional diversity of the above-ground fungal community under long-term integrated, organic and biodynamic Vineyard Management.
+ 21.11.2024, _K Steng, F Roy, H Kellner, J Moll, S Tittmann, J Frotscher, J Döring_
+
+
+Sustainable agriculture increasingly emphasizes the importance of microbial communities in influencing plant health and productivity. In viticulture, understanding the impact of management practices on fungal communities is critical, given their role in disease dynamics, grape and wine quality. This study investigates the effects of integrated, organic, and biodynamic management practices on the diversity and function of fungal communities in a vineyard located in Geisenheim, Germany, focusing on above-ground parts such as bark, leaves, and grapes.
+
+[Source](https://doi.org/10.1186/s40793-024-00625-x)
+
+10.1186/s40793-024-00625-x
+
+---
+
+## A functional microbiome catalogue crowdsourced from North American rivers.
+ 20.11.2024, _MA Borton, BB McGivern, KR Willi, BJ Woodcroft, AC Mosier, DM Singleton, T Bambakidis, A Pelly, RA Daly, F Liu, A Freiburger, JN Edirisinghe, JP Faria, R Danczak, I Leleiwi, AE Goldman, MJ Wilkins, EK Hall, C Pennacchio, S Roux, EA Eloe-Fadrosh, SP Good, MB Sullivan, EM Wood-Charlson, CS Miller, MRV Ross, CS Henry, BC Crump, JC Stegen, KC Wrighton_
+
+
+Predicting elemental cycles and maintaining water quality under increasing anthropogenic influence requires knowledge of the spatial drivers of river microbiomes. However, understanding of the core microbial processes governing river biogeochemistry is hindered by a lack of genome-resolved functional insights and sampling across multiple rivers. Here we used a community science effort to accelerate the sampling, sequencing and genome-resolved analyses of river microbiomes to create the Genome Resolved Open Watersheds database (GROWdb). GROWdb profiles the identity, distribution, function and expression of microbial genomes across river surface waters covering 90% of United States watersheds. Specifically, GROWdb encompasses microbial lineages from 27 phyla, including novel members from 10 families and 128 genera, and defines the core river microbiome at the genome level. GROWdb analyses coupled to extensive geospatial information reveals local and regional drivers of microbial community structuring, while also presenting foundational hypotheses about ecosystem function. Building on the previously conceived River Continuum Concept1, we layer on microbial functional trait expression, which suggests that the structure and function of river microbiomes is predictable. We make GROWdb available through various collaborative cyberinfrastructures2,3, so that it can be widely accessed across disciplines for watershed predictive modelling and microbiome-based management practices.
+
+[Source](https://doi.org/10.1038/s41586-024-08240-z)
+
+10.1038/s41586-024-08240-z
+
+---
+
+## Experimental evolution at ecological scales allows linking of viral genotypes to specific host strains.
+ 23.11.2024, _MD Ramos-Barbero, B Aldeguer-Riquelme, T Viver, J Villamor, M Carrillo-Bautista, C López-Pascual, KT Konstantinidis, M Martínez-García, F Santos, R Rossello-Mora, J Antón_
+
+
+Viruses shape microbial community structure and activity through the control of population diversity and cell abundances. Identifying and monitoring the dynamics of specific virus-host pairs in nature is hampered by the limitations of culture-independent approaches such as metagenomics, which do not always provide strain-level resolution, and culture-based analyses, which eliminate the ecological background and in-situ interactions. Here, we have explored the interaction of a specific "autochthonous" host strain and its viruses within a natural community. Bacterium Salinibacter ruber strain M8 was spiked into its environment of isolation, a crystallizer pond from a coastal saltern, and the viral and cellular communities were monitored for one month using culture, metagenomics, and microscopy. Metagenome sequencing indicated that the M8 abundance decreased sharply after being added to the pond, likely due to forces other than viral predation. However, the presence of M8 selected for two species of a new viral genus, Phoenicisalinivirus, for which 120 strains were isolated. During this experiment, an assemblage of closely related viral genomic variants was replaced by a single population with the ability to infect M8, a scenario which was compatible with the selection of a genomic variant from the rare biosphere. Further analysis implicated a viral genomic region putatively coding for a tail fiber protein to be responsible for M8 specificity. Our results indicate that low abundance viral genotypes provide a viral seed bank that allows for a highly specialized virus-host response within a complex ecological background.
+
+[Source](https://doi.org/10.1093/ismejo/wrae208)
+
+10.1093/ismejo/wrae208
+
+---
+
+## Selenium mitigated cadmium-induced ovarian retardation in female Procambarus clarkii by regulating vitellogenin synthesis and transfer in the hepatopancreas.
+ 15.11.2024, _H Yang, Y Yang, A Mo, Y Yuan_
+
+
+Cadmium (Cd) is prevalent in aquatic ecosystems and accumulates in various tissues of aquatic organisms, leading to severe biological toxicity. Selenium (Se) is recognized for mitigating heavy metal toxicity, though its protective effects against Cd in aquatic crustaceans remain underexplored. This study, therefore, assessed the effects of dietary Cd (15 mg/kg) exposure and Se (6 mg/kg) supplementation on the hepatopancreas and ovaries of female crayfish to uncover the mechanisms of Cd toxicity and the protective role of Se. The results showed that Cd accumulation in the hepatopancreas caused a reduced hepatopancreas index (HPI), decreased protein content, histopathological damage, and oxidative stress, while Se supplementation reduced Cd levels, mitigated damage, and restored tissue integrity and antioxidant defenses. Transcriptomic analysis further revealed significant alterations in gene expression related to detoxification, lipid metabolism, and energy production in response to Cd exposure, which were partially or fully restored by Se supplementation. Additionally, Se alleviated Cd-induced inhibition of ovarian development, as evidenced by improved ovary index, enhanced oocyte development, and normalization of essential trace element levels. Mechanistically, Se restored the Cd-disrupted vitellogenin (Vtg) synthesis in the hepatopancreas via regulating the mRNA expression of hsp70 and genes related to the molt-inhibiting hormone (MIH) (mih, rxr, and ecr). Overall, these findings indicate that Se supplementation mitigated Cd-induced hepatopancreatic dysfunction, restored Vtg synthesis, and consequently counteracted the inhibition of ovarian development in adult female crayfish.
+
+[Source](https://doi.org/10.1186/s40793-024-00641-x)
+
+10.1016/j.ecoenv.2024.117339
+
+---
+
+## Selenium alters the gene content but not the taxonomic composition of the soil microbiome
+
+[Source](https://doi.org/10.1186/s40793-024-00641-x)
+
+---
+
+## Evaluation of microbial community dynamics and chlorinated solvent biodegradation in methane-amended microcosms from an acidic aquifer.
+ 20.11.2024, _M Hwangbo, R Rezes, KH Chu, PB Hatzinger_
+
+
+_Biodegradation, Environmental, Groundwater, Methane, Water Pollutants, Chemical, Trichloroethylene, Bacteria, Microbiota, Volatile Organic Compounds, Solvents_
+Anaerobic bioremediation is rarely an effective strategy to treat chlorinated ethenes such as trichloroethene (TCE) in acidic aquifers because partial dechlorination typically results in accumulation of daughter products. Methanotrophs have the capability of oxidizing TCE and other chlorinated volatile organic compounds (CVOCs) to non-toxic products, but their occurrence, diversity, and biodegradation capabilities in acidic environments are largely unknown. This study investigated the impacts of different methane (CH4) concentrations and the presence of CVOCs on the community of acidophilic methanotrophs in microcosms prepared from acidic aquifer samples collected upgradient and downgradient of a mulch barrier installed to promote in-situ anaerobic CVOC biodegradation in Maryland, USA. The ability of indigenous methanotrophs to biodegrade CVOCs was also evaluated. Results of stable isotope probing (SIP) and Next Generation Sequencing (NGS) showed that the microbial communities in the microcosms varied by location and were affected by both CH4 concentration and the presence of different CVOCs, many of which were biodegraded by the indigenous methanotrophs. Data indicate the likelihood of aerobic cometabolic degradation of CVOCs downgradient of the mulch barrier designed for anaerobic treatment. The study extends the overall knowledge of acidophilic methanotrophs in groundwater and shows that these bacteria have significant potential for degrading CVOCs even at low CH4 concentrations.
+
+[Source](https://doi.org/10.1007/s10532-024-10103-3)
+
+10.1007/s10532-024-10103-3
+
+---
+
+## Rotavirus rewires host cell metabolic pathways toward glutamine catabolism for effective virus infection.
+ 23.11.2024, _S Mitra, R Datta Chaudhuri, R Sarkar, S Banerjee, A Mukherjee, R Sharma, A Gope, K Kitahara, SI Miyoshi, M Chawla-Sarkar_
+
+
+_Glutamine, Humans, Rotavirus, Rotavirus Infections, Metabolic Networks and Pathways, Animals, Virus Replication, Mice, HT29 Cells, Host-Pathogen Interactions, Gastrointestinal Microbiome, Epithelial Cells_
+Rotavirus (RV) accounts for 19.11% of global diarrheal deaths. Though GAVI assisted vaccine introduction has curtailed RV induced mortality, factors like RV strain diversity, differential infantile gut microbiome, malnutrition, interference from maternal antibodies and other administered vaccines, etc. often compromise vaccine efficacy. Herein emerges the need of antivirals which can be administered adjunct to vaccination to curb the socio-economic burden stemming from frequent RV infection. Cognisance of pathogen-perturbed host cellular physiology has revolutionized translational research and aided precision-based therapy, particularly for viruses, with no metabolic machinery of their own. To date there has been limited exploration of the host cellular metabolome in context of RV infection. In this study, we explored the endometabolomic landscape of human intestinal epithelial cells (HT-29) on RV-SA11 infection. Significant alteration of host cellular metabolic pathways like the nucleotide biosynthesis pathway, alanine, aspartate and glutamate metabolism pathway, the host citric acid cycle was observed in RV-SA11 infection scenario. Detailed study further revealed that RV replication is exclusively dependent on glutamine metabolism for their propagation in host cells. Glutamine metabolism generates glutamate, aspartate, and asparagine which facilitates virus infection. Abrogation of aspartate biogenesis from glutamine by use of Aminooxyacetic acid (AOAA), significantly curbed RV-SA11 infection in-vitro and in-vivo. Overall, the study improves our understanding of host-rotavirus interactome and recognizes host glutamine metabolism pathway as a suitable target for effective therapeutic intervention against RV infection.
+
+[Source](https://doi.org/10.1080/19490976.2024.2428425)
+
+10.1080/19490976.2024.2428425
+
+---
+
+## SPARTA: Interpretable functional classification of microbiomes and detection of hidden cumulative effects.
+ 18.11.2024, _B Ruiz, A Belcour, S Blanquart, S Buffet-Bataillon, I Le Huërou-Luron, A Siegel, Y Le Cunff_
+
+
+The composition of the gut microbiota is a known factor in various diseases and has proven to be a strong basis for automatic classification of disease state. A need for a better understanding of microbiota data on the functional scale has since been voiced, as it would enhance these approaches' biological interpretability. In this paper, we have developed a computational pipeline for integrating the functional annotation of the gut microbiota into an automatic classification process and facilitating downstream interpretation of its results. The process takes as input taxonomic composition data, which can be built from 16S or whole genome sequencing, and links each component to its functional annotations through interrogation of the UniProt database. A functional profile of the gut microbiota is built from this basis. Both profiles, microbial and functional, are used to train Random Forest classifiers to discern unhealthy from control samples. SPARTA ensures full reproducibility and exploration of inherent variability by extending state-of-the-art methods in three dimensions: increased number of trained random forests, selection of important variables with an iterative process, repetition of full selection process from different seeds. This process shows that the translation of the microbiota into functional profiles gives non-significantly different performances when compared to microbial profiles on 5 of 6 datasets. This approach's main contribution however stems from its interpretability rather than its performance: through repetition, it also outputs a robust subset of discriminant variables. These selections were shown to be more consistent than those obtained by a state-of-the-art method, and their contents were validated through a manual bibliographic research. The interconnections between selected taxa and functional annotations were also analyzed and revealed that important annotations emerge from the cumulated influence of non-selected taxa.
+
+[Source](https://doi.org/10.1371/journal.pcbi.1012577)
+
+10.1371/journal.pcbi.1012577
+
+---
+
+## Micro-DeMix: a mixture beta-multinomial model for investigating the heterogeneity of the stool microbiome compositions.
+ 20.11.2024, _R Liu, Y Wang, D Cheng_
+
+
+Extensive research has uncovered the critical role of the human gut microbiome in various aspects of health, including metabolism, nutrition, physiology, and immune function. Fecal microbiota is often used as a proxy for understanding the gut microbiome, but it represents an aggregate view, overlooking spatial variations across different gastrointestinal (GI) locations. Emerging studies with spatial microbiome data collected from specific GI regions offer a unique opportunity to better understand the spatial composition of the stool microbiome.
+
+[Source](https://doi.org/10.1093/bioinformatics/btae667)
+
+10.1093/bioinformatics/btae667
 
 ---
 
