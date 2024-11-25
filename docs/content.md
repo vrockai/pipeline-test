@@ -90,7 +90,7 @@ In 2022, a bioinformatic, agnostic approach identified HPV42 as causative agent 
 ---
 
 ## More than just a number: the gut microbiota and brain function across the extremes of life.
- 23.11.2024, _ND Nuzum, C Deady, S Kittel-Schneider, JF Cryan, SM O'Mahony, G Clarke_
+ 24.11.2024, _ND Nuzum, C Deady, S Kittel-Schneider, JF Cryan, SM O'Mahony, G Clarke_
 
 
 _Gastrointestinal Microbiome, Humans, Brain, Animals, Brain-Gut Axis, Alzheimer Disease, Neurodegenerative Diseases_
@@ -164,7 +164,7 @@ Sodium oligomannate (GV-971), an oligosaccharide drug approved in China for trea
 ---
 
 ## Multiomics of yaks reveals significant contribution of microbiome into host metabolism.
- 23.11.2024, _S Yang, J Zheng, H Mao, P Vinitchaikul, D Wu, J Chai_
+ 24.11.2024, _S Yang, J Zheng, H Mao, P Vinitchaikul, D Wu, J Chai_
 
 
 _Animals, Cattle, Rumen, Metagenomics, Bacteria, Gastrointestinal Microbiome, Metabolomics, Methane, Animal Feed, Metabolome, Microbiota, Multiomics_
@@ -313,7 +313,7 @@ Anaerobic bioremediation is rarely an effective strategy to treat chlorinated et
 ---
 
 ## Rotavirus rewires host cell metabolic pathways toward glutamine catabolism for effective virus infection.
- 23.11.2024, _S Mitra, R Datta Chaudhuri, R Sarkar, S Banerjee, A Mukherjee, R Sharma, A Gope, K Kitahara, SI Miyoshi, M Chawla-Sarkar_
+ 24.11.2024, _S Mitra, R Datta Chaudhuri, R Sarkar, S Banerjee, A Mukherjee, R Sharma, A Gope, K Kitahara, SI Miyoshi, M Chawla-Sarkar_
 
 
 _Glutamine, Humans, Rotavirus, Rotavirus Infections, Metabolic Networks and Pathways, Animals, Virus Replication, Mice, HT29 Cells, Host-Pathogen Interactions, Gastrointestinal Microbiome, Epithelial Cells_
