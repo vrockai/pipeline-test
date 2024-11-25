@@ -145,15 +145,9 @@ The human microbiome is a sensor and modulator of physiology and homeostasis. Re
 
 ---
 
-## Sodium oligomannate disrupts the adherence of Ribhigh bacteria to gut epithelia to block SAA-triggered Th1 inflammation in 5XFAD transgenic mice.
- 21.11.2024, _X Wang, Z Xie, J Yuan, E Jin, W Lian, S Chang, G Sun, Z Feng, H Xu, C Du, X Yang, A Xia, J Qiu, Q Zhang, F Lin, J Liu, L Li, X Du, Z Xiao, Z Yi, Z Luo, C Ge, R Li, M Zheng, Y Jiang, T Wang, J Zhang, Q Guo, M Geng_
-
-
-Sodium oligomannate (GV-971), an oligosaccharide drug approved in China for treating mild-to-moderate Alzheimer's disease (AD), was previously found to recondition the gut microbiota and limit altered peripheral Th1 immunity in AD transgenic mice. As a follow-up study, we here made advances by pinpointing a Lactobacillus murinus (L.m.) strain that highly expressed a gene encoding a putative adhesin containing Rib repeats (Ribhigh-L.m.) particularly enriched in 5XFAD transgenic mice. Mechanistically, Ribhigh-L.m. adherence to the gut epithelia upregulated fecal metabolites, among which lactate ranked as the top candidate. Excess lactate stimulated the epithelial production of serum amyloid A (SAA) in the gut via the GPR81-NFκB axis, contributing to peripheral Th1 activation. Moreover, GV-971 disrupted the adherence of Ribhigh-L.m. to gut epithelia via direct binding to Rib, which corrected the excess lactate, reduced SAA, and alleviated Th1-skewed inflammation. Together, we gained further insights into the molecular link between gut bacteria and AD progression and the mechanism of GV-971 in treating AD.
+## Sodium oligomannate disrupts the adherence of Rib(high) bacteria to gut epithelia to block SAA-triggered Th1 inflammation in 5XFAD transgenic mice
 
 [Source](https://doi.org/10.1038/s41421-024-00725-5)
-
-10.1038/s41421-024-00725-5
 
 ---
 
@@ -163,16 +157,9 @@ Sodium oligomannate (GV-971), an oligosaccharide drug approved in China for trea
 
 ---
 
-## Multiomics of yaks reveals significant contribution of microbiome into host metabolism.
- 24.11.2024, _S Yang, J Zheng, H Mao, P Vinitchaikul, D Wu, J Chai_
-
-
-_Animals, Cattle, Rumen, Metagenomics, Bacteria, Gastrointestinal Microbiome, Metabolomics, Methane, Animal Feed, Metabolome, Microbiota, Multiomics_
-An intensive feeding system might improve the production cycle of yaks. However, how intensive feeding system contributes to yak growth is unclear. Here, multi-omics, including rumen metagenomics, rumen and plasma metabolomics, were performed to classify the regulatory mechanisms of intensive feeding system on yaks. Increased growth performance were observed. Rumen metagenomics revealed that Clostridium, Methanobrevibacter, Piromyces and Anaeromyces increased in the intensively fed yaks, contributing to amino acid and carbohydrate metabolism. The grazing yaks had more cellulolytic microbes. These microbiomes were correlated with the pathways of "Alanine aspartate and glutamate metabolism" and "Pyruvate metabolism". Intensive feeding increased methane degradation functions, while grazing yaks had higher methyl metabolites associated with methane production. These rumen microbiomes and their metabolites resulted in changes in plasma metabolome, finally influencing yaks' growth. Thus, an intensive feeding system altered the rumen microbiome and metabolism as well as host metabolism, resulting in improvements of yak growth.
+## Multiomics of yaks reveals significant contribution of microbiome into host metabolism
 
 [Source](https://doi.org/10.1038/s41522-024-00609-2)
-
-10.1038/s41522-024-00609-2
 
 ---
 
