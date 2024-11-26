@@ -29,7 +29,7 @@ Chronic lung infections are the primary cause of morbidity and early mortality i
 ---
 
 ## The Parkinson's disease drug entacapone disrupts gut microbiome homoeostasis via iron sequestration.
- 21.11.2024, _FC Pereira, X Ge, JM Kristensen, RH Kirkegaard, K Maritsch, D Szamosvári, S Imminger, D Seki, JB Shazzad, Y Zhu, M Decorte, B Hausmann, D Berry, K Wasmund, A Schintlmeister, T Böttcher, JX Cheng, M Wagner_
+ 26.11.2024, _FC Pereira, X Ge, JM Kristensen, RH Kirkegaard, K Maritsch, D Szamosvári, S Imminger, D Seki, JB Shazzad, Y Zhu, M Decorte, B Hausmann, D Berry, K Wasmund, A Schintlmeister, T Böttcher, JX Cheng, M Wagner_
 
 
 Many human-targeted drugs alter the gut microbiome, leading to implications for host health. However, the mechanisms underlying these effects are not well known. Here we combined quantitative microbiome profiling, long-read metagenomics, stable isotope probing and single-cell chemical imaging to investigate the impact of two widely prescribed drugs on the gut microbiome. Physiologically relevant concentrations of entacapone, a treatment for Parkinson's disease, or loxapine succinate, used to treat schizophrenia, were incubated ex vivo with human faecal samples. Both drugs significantly impact microbial activity, more so than microbial abundance. Mechanistically, entacapone can complex and deplete available iron resulting in gut microbiome composition and function changes. Microbial growth can be rescued by replenishing levels of microbiota-accessible iron. Further, entacapone-induced iron starvation selected for iron-scavenging gut microbiome members encoding antimicrobial resistance and virulence genes. These findings reveal the impact of two under-investigated drugs on whole microbiomes and identify metal sequestration as a mechanism of drug-induced microbiome disturbance.
@@ -145,9 +145,15 @@ The human microbiome is a sensor and modulator of physiology and homeostasis. Re
 
 ---
 
-## Sodium oligomannate disrupts the adherence of Rib(high) bacteria to gut epithelia to block SAA-triggered Th1 inflammation in 5XFAD transgenic mice
+## Sodium oligomannate disrupts the adherence of Ribhigh bacteria to gut epithelia to block SAA-triggered Th1 inflammation in 5XFAD transgenic mice.
+ 21.11.2024, _X Wang, Z Xie, J Yuan, E Jin, W Lian, S Chang, G Sun, Z Feng, H Xu, C Du, X Yang, A Xia, J Qiu, Q Zhang, F Lin, J Liu, L Li, X Du, Z Xiao, Z Yi, Z Luo, C Ge, R Li, M Zheng, Y Jiang, T Wang, J Zhang, Q Guo, M Geng_
+
+
+Sodium oligomannate (GV-971), an oligosaccharide drug approved in China for treating mild-to-moderate Alzheimer's disease (AD), was previously found to recondition the gut microbiota and limit altered peripheral Th1 immunity in AD transgenic mice. As a follow-up study, we here made advances by pinpointing a Lactobacillus murinus (L.m.) strain that highly expressed a gene encoding a putative adhesin containing Rib repeats (Ribhigh-L.m.) particularly enriched in 5XFAD transgenic mice. Mechanistically, Ribhigh-L.m. adherence to the gut epithelia upregulated fecal metabolites, among which lactate ranked as the top candidate. Excess lactate stimulated the epithelial production of serum amyloid A (SAA) in the gut via the GPR81-NFκB axis, contributing to peripheral Th1 activation. Moreover, GV-971 disrupted the adherence of Ribhigh-L.m. to gut epithelia via direct binding to Rib, which corrected the excess lactate, reduced SAA, and alleviated Th1-skewed inflammation. Together, we gained further insights into the molecular link between gut bacteria and AD progression and the mechanism of GV-971 in treating AD.
 
 [Source](https://doi.org/10.1038/s41421-024-00725-5)
+
+10.1038/s41421-024-00725-5
 
 ---
 
@@ -157,9 +163,16 @@ The human microbiome is a sensor and modulator of physiology and homeostasis. Re
 
 ---
 
-## Multiomics of yaks reveals significant contribution of microbiome into host metabolism
+## Multiomics of yaks reveals significant contribution of microbiome into host metabolism.
+ 24.11.2024, _S Yang, J Zheng, H Mao, P Vinitchaikul, D Wu, J Chai_
+
+
+_Animals, Cattle, Rumen, Metagenomics, Bacteria, Gastrointestinal Microbiome, Metabolomics, Methane, Animal Feed, Metabolome, Microbiota, Multiomics_
+An intensive feeding system might improve the production cycle of yaks. However, how intensive feeding system contributes to yak growth is unclear. Here, multi-omics, including rumen metagenomics, rumen and plasma metabolomics, were performed to classify the regulatory mechanisms of intensive feeding system on yaks. Increased growth performance were observed. Rumen metagenomics revealed that Clostridium, Methanobrevibacter, Piromyces and Anaeromyces increased in the intensively fed yaks, contributing to amino acid and carbohydrate metabolism. The grazing yaks had more cellulolytic microbes. These microbiomes were correlated with the pathways of "Alanine aspartate and glutamate metabolism" and "Pyruvate metabolism". Intensive feeding increased methane degradation functions, while grazing yaks had higher methyl metabolites associated with methane production. These rumen microbiomes and their metabolites resulted in changes in plasma metabolome, finally influencing yaks' growth. Thus, an intensive feeding system altered the rumen microbiome and metabolism as well as host metabolism, resulting in improvements of yak growth.
 
 [Source](https://doi.org/10.1038/s41522-024-00609-2)
+
+10.1038/s41522-024-00609-2
 
 ---
 
@@ -245,7 +258,7 @@ Sustainable agriculture increasingly emphasizes the importance of microbial comm
 ---
 
 ## A functional microbiome catalogue crowdsourced from North American rivers.
- 20.11.2024, _MA Borton, BB McGivern, KR Willi, BJ Woodcroft, AC Mosier, DM Singleton, T Bambakidis, A Pelly, RA Daly, F Liu, A Freiburger, JN Edirisinghe, JP Faria, R Danczak, I Leleiwi, AE Goldman, MJ Wilkins, EK Hall, C Pennacchio, S Roux, EA Eloe-Fadrosh, SP Good, MB Sullivan, EM Wood-Charlson, CS Miller, MRV Ross, CS Henry, BC Crump, JC Stegen, KC Wrighton_
+ 26.11.2024, _MA Borton, BB McGivern, KR Willi, BJ Woodcroft, AC Mosier, DM Singleton, T Bambakidis, A Pelly, RA Daly, F Liu, A Freiburger, JN Edirisinghe, JP Faria, R Danczak, I Leleiwi, AE Goldman, MJ Wilkins, EK Hall, C Pennacchio, S Roux, EA Eloe-Fadrosh, SP Good, MB Sullivan, EM Wood-Charlson, CS Miller, MRV Ross, CS Henry, BC Crump, JC Stegen, KC Wrighton_
 
 
 Predicting elemental cycles and maintaining water quality under increasing anthropogenic influence requires knowledge of the spatial drivers of river microbiomes. However, understanding of the core microbial processes governing river biogeochemistry is hindered by a lack of genome-resolved functional insights and sampling across multiple rivers. Here we used a community science effort to accelerate the sampling, sequencing and genome-resolved analyses of river microbiomes to create the Genome Resolved Open Watersheds database (GROWdb). GROWdb profiles the identity, distribution, function and expression of microbial genomes across river surface waters covering 90% of United States watersheds. Specifically, GROWdb encompasses microbial lineages from 27 phyla, including novel members from 10 families and 128 genera, and defines the core river microbiome at the genome level. GROWdb analyses coupled to extensive geospatial information reveals local and regional drivers of microbial community structuring, while also presenting foundational hypotheses about ecosystem function. Building on the previously conceived River Continuum Concept1, we layer on microbial functional trait expression, which suggests that the structure and function of river microbiomes is predictable. We make GROWdb available through various collaborative cyberinfrastructures2,3, so that it can be widely accessed across disciplines for watershed predictive modelling and microbiome-based management practices.
@@ -325,7 +338,7 @@ The composition of the gut microbiota is a known factor in various diseases and 
 ---
 
 ## Micro-DeMix: a mixture beta-multinomial model for investigating the heterogeneity of the stool microbiome compositions.
- 20.11.2024, _R Liu, Y Wang, D Cheng_
+ 26.11.2024, _R Liu, Y Wang, D Cheng_
 
 
 Extensive research has uncovered the critical role of the human gut microbiome in various aspects of health, including metabolism, nutrition, physiology, and immune function. Fecal microbiota is often used as a proxy for understanding the gut microbiome, but it represents an aggregate view, overlooking spatial variations across different gastrointestinal (GI) locations. Emerging studies with spatial microbiome data collected from specific GI regions offer a unique opportunity to better understand the spatial composition of the stool microbiome.
