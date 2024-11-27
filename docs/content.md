@@ -223,9 +223,16 @@ The human microbiome is a sensor and modulator of physiology and homeostasis. Re
 
 ---
 
-## Evaluation of microbial community dynamics and chlorinated solvent biodegradation in methane-amended microcosms from an acidic aquifer
+## Evaluation of microbial community dynamics and chlorinated solvent biodegradation in methane-amended microcosms from an acidic aquifer.
+ 20.11.2024, _M Hwangbo, R Rezes, KH Chu, PB Hatzinger_
+
+
+_Biodegradation, Environmental, Groundwater, Methane, Water Pollutants, Chemical, Trichloroethylene, Bacteria, Microbiota, Volatile Organic Compounds, Solvents_
+Anaerobic bioremediation is rarely an effective strategy to treat chlorinated ethenes such as trichloroethene (TCE) in acidic aquifers because partial dechlorination typically results in accumulation of daughter products. Methanotrophs have the capability of oxidizing TCE and other chlorinated volatile organic compounds (CVOCs) to non-toxic products, but their occurrence, diversity, and biodegradation capabilities in acidic environments are largely unknown. This study investigated the impacts of different methane (CH4) concentrations and the presence of CVOCs on the community of acidophilic methanotrophs in microcosms prepared from acidic aquifer samples collected upgradient and downgradient of a mulch barrier installed to promote in-situ anaerobic CVOC biodegradation in Maryland, USA. The ability of indigenous methanotrophs to biodegrade CVOCs was also evaluated. Results of stable isotope probing (SIP) and Next Generation Sequencing (NGS) showed that the microbial communities in the microcosms varied by location and were affected by both CH4 concentration and the presence of different CVOCs, many of which were biodegraded by the indigenous methanotrophs. Data indicate the likelihood of aerobic cometabolic degradation of CVOCs downgradient of the mulch barrier designed for anaerobic treatment. The study extends the overall knowledge of acidophilic methanotrophs in groundwater and shows that these bacteria have significant potential for degrading CVOCs even at low CH4 concentrations.
 
 [Source](https://doi.org/10.1007/s10532-024-10103-3)
+
+10.1007/s10532-024-10103-3
 
 ---
 
