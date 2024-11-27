@@ -145,9 +145,15 @@ The human microbiome is a sensor and modulator of physiology and homeostasis. Re
 
 ---
 
-## Sodium oligomannate disrupts the adherence of Rib(high) bacteria to gut epithelia to block SAA-triggered Th1 inflammation in 5XFAD transgenic mice
+## Sodium oligomannate disrupts the adherence of Ribhigh bacteria to gut epithelia to block SAA-triggered Th1 inflammation in 5XFAD transgenic mice.
+ 21.11.2024, _X Wang, Z Xie, J Yuan, E Jin, W Lian, S Chang, G Sun, Z Feng, H Xu, C Du, X Yang, A Xia, J Qiu, Q Zhang, F Lin, J Liu, L Li, X Du, Z Xiao, Z Yi, Z Luo, C Ge, R Li, M Zheng, Y Jiang, T Wang, J Zhang, Q Guo, M Geng_
+
+
+Sodium oligomannate (GV-971), an oligosaccharide drug approved in China for treating mild-to-moderate Alzheimer's disease (AD), was previously found to recondition the gut microbiota and limit altered peripheral Th1 immunity in AD transgenic mice. As a follow-up study, we here made advances by pinpointing a Lactobacillus murinus (L.m.) strain that highly expressed a gene encoding a putative adhesin containing Rib repeats (Ribhigh-L.m.) particularly enriched in 5XFAD transgenic mice. Mechanistically, Ribhigh-L.m. adherence to the gut epithelia upregulated fecal metabolites, among which lactate ranked as the top candidate. Excess lactate stimulated the epithelial production of serum amyloid A (SAA) in the gut via the GPR81-NFκB axis, contributing to peripheral Th1 activation. Moreover, GV-971 disrupted the adherence of Ribhigh-L.m. to gut epithelia via direct binding to Rib, which corrected the excess lactate, reduced SAA, and alleviated Th1-skewed inflammation. Together, we gained further insights into the molecular link between gut bacteria and AD progression and the mechanism of GV-971 in treating AD.
 
 [Source](https://doi.org/10.1038/s41421-024-00725-5)
+
+10.1038/s41421-024-00725-5
 
 ---
 
@@ -157,9 +163,16 @@ The human microbiome is a sensor and modulator of physiology and homeostasis. Re
 
 ---
 
-## Multiomics of yaks reveals significant contribution of microbiome into host metabolism
+## Multiomics of yaks reveals significant contribution of microbiome into host metabolism.
+ 24.11.2024, _S Yang, J Zheng, H Mao, P Vinitchaikul, D Wu, J Chai_
+
+
+_Animals, Cattle, Rumen, Metagenomics, Bacteria, Gastrointestinal Microbiome, Metabolomics, Methane, Animal Feed, Metabolome, Microbiota, Multiomics_
+An intensive feeding system might improve the production cycle of yaks. However, how intensive feeding system contributes to yak growth is unclear. Here, multi-omics, including rumen metagenomics, rumen and plasma metabolomics, were performed to classify the regulatory mechanisms of intensive feeding system on yaks. Increased growth performance were observed. Rumen metagenomics revealed that Clostridium, Methanobrevibacter, Piromyces and Anaeromyces increased in the intensively fed yaks, contributing to amino acid and carbohydrate metabolism. The grazing yaks had more cellulolytic microbes. These microbiomes were correlated with the pathways of "Alanine aspartate and glutamate metabolism" and "Pyruvate metabolism". Intensive feeding increased methane degradation functions, while grazing yaks had higher methyl metabolites associated with methane production. These rumen microbiomes and their metabolites resulted in changes in plasma metabolome, finally influencing yaks' growth. Thus, an intensive feeding system altered the rumen microbiome and metabolism as well as host metabolism, resulting in improvements of yak growth.
 
 [Source](https://doi.org/10.1038/s41522-024-00609-2)
+
+10.1038/s41522-024-00609-2
 
 ---
 
@@ -169,51 +182,114 @@ The human microbiome is a sensor and modulator of physiology and homeostasis. Re
 
 ---
 
-## The gut microbiota of three avian species living in sympatry
+## The gut microbiota of three avian species living in sympatry.
+ 23.11.2024, _H Pereira, N Chakarov, BA Caspers, M Gilles, W Jones, T Mijoro, S Zefania, T Székely, O Krüger, JI Hoffman_
+
+
+_Animals, Gastrointestinal Microbiome, Sympatry, Species Specificity, Madagascar_
+Evolutionary divergence and genetic variation are often linked to differences in microbial community structure and diversity. While environmental factors and diet heavily influence gut microbial communities, host species contributions are harder to quantify. Closely related species living in sympatry provide a unique opportunity to investigate species differences without the confounding effects of habitat and dietary variation. We therefore compared and contrasted the gut microbiota of three sympatric plover species: the widespread Kittlitz's and white-fronted plovers (Anarhynchus pecuarius and A. marginatus) and the endemic and vulnerable Madagascar plover (A. thoracicus).
 
 [Source](https://doi.org/10.1186/s12862-024-02329-9)
 
+10.1186/s12862-024-02329-9
+
 ---
 
-## Butyrate reduces epithelial barrier dysfunction induced by the foodborne mycotoxin deoxynivalenol in cell monolayers derived from pig jejunum organoids
+## Butyrate reduces epithelial barrier dysfunction induced by the foodborne mycotoxin deoxynivalenol in cell monolayers derived from pig jejunum organoids.
+ 26.11.2024, _J Alberge, E Mussard, C Al-Ayoubi, C Lencina, C Marrauld, L Cauquil, CS Achard, I Mateos, I Alassane-Kpembi, IP Oswald, L Soler, S Combes, M Beaumont_
+
+
+_Animals, Trichothecenes, Swine, Jejunum, Organoids, Intestinal Mucosa, Butyrates, Gastrointestinal Microbiome, Tight Junctions, Epithelial Cells, Fusarium, Immunity, Innate, Mycotoxins, Goblet Cells_
+The foodborne mycotoxin deoxynivalenol (DON) produced by Fusarium species threats animal and human health through disruption of the intestinal barrier. Targeting the gut microbiota and its products appears as a promising strategy to mitigate DON intestinal toxicity. In this study, we investigated whether the bacterial metabolite butyrate could alleviate epithelial barrier disruption induced by DON. We used a model of cell monolayers derived from porcine jejunum organoids allowing to reproduce the cellular complexity of the intestinal epithelium. Our results show that DON dose-dependently disrupted the epithelial barrier integrity, reduced epithelial differentiation, and altered innate immune defenses. Butyrate attenuated the DON-induced increase in paracellular permeability. Butyrate also prevented epithelial barrier dysfunction triggered by anisomycin, a ribosome inhibitor like DON. Moreover, butyrate partially counteracted the effects of DON on tight junctions (TJP1, OCLN), innate epithelial defenses (PTGS2, CD14, TLR4, TLR5), and absorptive cell functions (CA2, VIL1, NHE3, CFTR). In contrast, butyrate did not prevent the toxic effects of DON on mitochondrial metabolism, proliferation and goblet cell functions. Taken together, our results demonstrate that the bacterial metabolite butyrate is able to reduce DON-induced epithelial barrier disruption.
 
 [Source](https://doi.org/10.1080/19490976.2024.2430424)
 
+10.1080/19490976.2024.2430424
+
 ---
 
-## Trophic modulation of endophytes by rhizosphere protists
+## Trophic modulation of endophytes by rhizosphere protists.
+ 20.11.2024, _R Asiloglu, SO Bodur, SO Samuel, M Aycan, J Murase, N Harada_
+
+
+The plant-microbe interactions, which is crucial for plant health and productivity, mainly occur in rhizosphere: a narrow zone of soil surrounding roots of living plants. The rhizosphere hosts one of the most intense habitats for microbial prey-predator interactions, especially between predatory protists and bacteria. Here, based on two key facts, microbial predators modulate rhizobacterial community composition, and the rhizobacterial community is the primary source of root microbiome, endophytes; we hypothesized that predation upon rhizobacteria would modulate the community composition of endophytic bacteria. The effects of three taxonomically distinct axenic protist species (Acanthamoeba castellanii, Vermamoeba vermiformis, and Heteromita globosa) were tested in this study. To examine the robustness of the hypotheses, the experiments were conducted in three soil types characterized by distinct bacterial communities and physicochemical properties. The bacterial community compositions were analyzed with high throughput sequencing. Bacterial gene abundances were estimated with a real-time-PCR method. The results showed that protists modulated endophytic communities, which originated in the rhizosphere soil. The modulation of endophytic communities by protists showed chaotic patterns rather than a deterministic effect under different soil types. The observed chaotic dynamics were further confirmed with an additional experiment, in which chaos was triggered by changes in the dilution rates of soil nutrients. Furthermore, the presence of predators enhanced the root colonization of endophytes. Our findings identify a key mechanism for the modulation of root endophytes and enhance understanding of underground plant-microbe interactions, which can lead to open new avenues for modulating the root microbiome to enhance crop production.
 
 [Source](https://doi.org/10.1093/ismejo/wrae235)
 
+10.1093/ismejo/wrae235
+
 ---
 
-## Metagenome-based diversity and functional analysis of culturable microbes in sugarcane
+## Metagenome-based diversity and functional analysis of culturable microbes in sugarcane.
+ 19.11.2024, _H Lin, L Wu, L Zhang, QK Ta, P Liu, J Song, X Yang_
+
+
+Sugarcane is a key crop for sugar and energy production, and understanding the diversity of its associated microbes is crucial for optimizing its growth and health. However, there is a lack of thorough investigation and use of microbial resources in sugarcane. This study conducted a comprehensive analysis of culturable microbes and their functional features in different tissues and rhizosphere soil of four diverse sugarcane species using metagenomics techniques. The results revealed significant microbial diversity in sugarcane's tissues and rhizosphere soil, including several important biomarker bacterial taxa identified, which are reported to engage in several processes that support plant growth, such as nitrogen fixation, phosphate solubilization, and the production of plant hormones. The Linear discriminant analysis Effect Size (LEfSe) studies identified unique microbial communities in different parts of the same sugarcane species, particularly Burkholderia, which exhibited significant variations across the sugarcane species. Microbial analysis of carbohydrate-active enzymes (CAZymes) indicated that genes related to sucrose metabolism were mostly present in specific bacterial taxa, including Burkholderia, Pseudomonas, Paraburkholderia, and Chryseobacterium. This study improves understanding of the diversities and functions of endophytes and rhizosphere soil microbes in sugarcane. Moreover, the approaches and findings of this study provide valuable insights for microbiome research and the use of comparable technologies in other agricultural fields.
 
 [Source](https://doi.org/10.1128/spectrum.01982-24)
 
+10.1128/spectrum.01982-24
+
 ---
 
-## Root hair developmental regulators orchestrate drought triggered microbiome changes and the interaction with beneficial Rhizobiaceae
+## Root hair developmental regulators orchestrate drought triggered microbiome changes and the interaction with beneficial Rhizobiaceae.
+ 23.11.2024, _Z Wang, Z Li, Y Zhang, J Liao, K Guan, J Zhai, P Meng, X Tang, T Dong, Y Song_
+
+
+_Plant Roots, Droughts, Microbiota, Stress, Physiological, Rhizobium, Arabidopsis, Metagenome, Transcriptome, Symbiosis_
+Drought is one of the most serious abiotic stresses, and emerging evidence suggest plant microbiome affects plant drought tolerance. However, there is a lack of genetic evidence regarding whether and how plants orchestrate the dynamic assembly of the microbiome upon drought. By utilizing mutants with enhanced or decreased root hair densities, we find that root hair regulators also affect drought induced root microbiome changes. Rhizobiaceae is a key biomarker taxa affected by root hair related mutants. We isolated and sequenced 1479 root associated microbes, and confirmed that several Rhizobium strains presented stress-alleviating activities. Metagenome, root transcriptome and root metabolome studies further reveal the multi-omic changes upon drought stress. We knocked out an ornithine cyclodeaminase (ocd) gene in Rhizobium sp. 4F10, which significantly dampens its stress alleviating ability. Our genetic and integrated multi-omics studies confirm the involvement of host genetic effects in reshaping a stress-alleviating root microbiome during drought, and provide mechanistic insights into Rhizobiaceae mediated abiotic stress protection.
 
 [Source](https://doi.org/10.1038/s41467-024-54417-5)
 
+10.1038/s41467-024-54417-5
+
 ---
 
-## Functional diversity of the above-ground fungal community under long-term integrated, organic and biodynamic Vineyard Management
+## Functional diversity of the above-ground fungal community under long-term integrated, organic and biodynamic Vineyard Management.
+ 21.11.2024, _K Steng, F Roy, H Kellner, J Moll, S Tittmann, J Frotscher, J Döring_
+
+
+Sustainable agriculture increasingly emphasizes the importance of microbial communities in influencing plant health and productivity. In viticulture, understanding the impact of management practices on fungal communities is critical, given their role in disease dynamics, grape and wine quality. This study investigates the effects of integrated, organic, and biodynamic management practices on the diversity and function of fungal communities in a vineyard located in Geisenheim, Germany, focusing on above-ground parts such as bark, leaves, and grapes.
 
 [Source](https://doi.org/10.1186/s40793-024-00625-x)
 
+10.1186/s40793-024-00625-x
+
 ---
 
-## A functional microbiome catalogue crowdsourced from North American rivers
+## A functional microbiome catalogue crowdsourced from North American rivers.
+ 26.11.2024, _MA Borton, BB McGivern, KR Willi, BJ Woodcroft, AC Mosier, DM Singleton, T Bambakidis, A Pelly, RA Daly, F Liu, A Freiburger, JN Edirisinghe, JP Faria, R Danczak, I Leleiwi, AE Goldman, MJ Wilkins, EK Hall, C Pennacchio, S Roux, EA Eloe-Fadrosh, SP Good, MB Sullivan, EM Wood-Charlson, CS Miller, MRV Ross, CS Henry, BC Crump, JC Stegen, KC Wrighton_
+
+
+Predicting elemental cycles and maintaining water quality under increasing anthropogenic influence requires knowledge of the spatial drivers of river microbiomes. However, understanding of the core microbial processes governing river biogeochemistry is hindered by a lack of genome-resolved functional insights and sampling across multiple rivers. Here we used a community science effort to accelerate the sampling, sequencing and genome-resolved analyses of river microbiomes to create the Genome Resolved Open Watersheds database (GROWdb). GROWdb profiles the identity, distribution, function and expression of microbial genomes across river surface waters covering 90% of United States watersheds. Specifically, GROWdb encompasses microbial lineages from 27 phyla, including novel members from 10 families and 128 genera, and defines the core river microbiome at the genome level. GROWdb analyses coupled to extensive geospatial information reveals local and regional drivers of microbial community structuring, while also presenting foundational hypotheses about ecosystem function. Building on the previously conceived River Continuum Concept1, we layer on microbial functional trait expression, which suggests that the structure and function of river microbiomes is predictable. We make GROWdb available through various collaborative cyberinfrastructures2,3, so that it can be widely accessed across disciplines for watershed predictive modelling and microbiome-based management practices.
 
 [Source](https://doi.org/10.1038/s41586-024-08240-z)
 
+10.1038/s41586-024-08240-z
+
 ---
 
-## Experimental evolution at ecological scales allows linking of viral genotypes to specific host strains
+## Experimental evolution at ecological scales allows linking of viral genotypes to specific host strains.
+ 23.11.2024, _MD Ramos-Barbero, B Aldeguer-Riquelme, T Viver, J Villamor, M Carrillo-Bautista, C López-Pascual, KT Konstantinidis, M Martínez-García, F Santos, R Rossello-Mora, J Antón_
+
+
+Viruses shape microbial community structure and activity through the control of population diversity and cell abundances. Identifying and monitoring the dynamics of specific virus-host pairs in nature is hampered by the limitations of culture-independent approaches such as metagenomics, which do not always provide strain-level resolution, and culture-based analyses, which eliminate the ecological background and in-situ interactions. Here, we have explored the interaction of a specific "autochthonous" host strain and its viruses within a natural community. Bacterium Salinibacter ruber strain M8 was spiked into its environment of isolation, a crystallizer pond from a coastal saltern, and the viral and cellular communities were monitored for one month using culture, metagenomics, and microscopy. Metagenome sequencing indicated that the M8 abundance decreased sharply after being added to the pond, likely due to forces other than viral predation. However, the presence of M8 selected for two species of a new viral genus, Phoenicisalinivirus, for which 120 strains were isolated. During this experiment, an assemblage of closely related viral genomic variants was replaced by a single population with the ability to infect M8, a scenario which was compatible with the selection of a genomic variant from the rare biosphere. Further analysis implicated a viral genomic region putatively coding for a tail fiber protein to be responsible for M8 specificity. Our results indicate that low abundance viral genotypes provide a viral seed bank that allows for a highly specialized virus-host response within a complex ecological background.
 
 [Source](https://doi.org/10.1093/ismejo/wrae208)
+
+10.1093/ismejo/wrae208
+
+---
+
+## Selenium mitigated cadmium-induced ovarian retardation in female Procambarus clarkii by regulating vitellogenin synthesis and transfer in the hepatopancreas.
+ 15.11.2024, _H Yang, Y Yang, A Mo, Y Yuan_
+
+
+Cadmium (Cd) is prevalent in aquatic ecosystems and accumulates in various tissues of aquatic organisms, leading to severe biological toxicity. Selenium (Se) is recognized for mitigating heavy metal toxicity, though its protective effects against Cd in aquatic crustaceans remain underexplored. This study, therefore, assessed the effects of dietary Cd (15 mg/kg) exposure and Se (6 mg/kg) supplementation on the hepatopancreas and ovaries of female crayfish to uncover the mechanisms of Cd toxicity and the protective role of Se. The results showed that Cd accumulation in the hepatopancreas caused a reduced hepatopancreas index (HPI), decreased protein content, histopathological damage, and oxidative stress, while Se supplementation reduced Cd levels, mitigated damage, and restored tissue integrity and antioxidant defenses. Transcriptomic analysis further revealed significant alterations in gene expression related to detoxification, lipid metabolism, and energy production in response to Cd exposure, which were partially or fully restored by Se supplementation. Additionally, Se alleviated Cd-induced inhibition of ovarian development, as evidenced by improved ovary index, enhanced oocyte development, and normalization of essential trace element levels. Mechanistically, Se restored the Cd-disrupted vitellogenin (Vtg) synthesis in the hepatopancreas via regulating the mRNA expression of hsp70 and genes related to the molt-inhibiting hormone (MIH) (mih, rxr, and ecr). Overall, these findings indicate that Se supplementation mitigated Cd-induced hepatopancreatic dysfunction, restored Vtg synthesis, and consequently counteracted the inhibition of ovarian development in adult female crayfish.
+
+[Source](https://doi.org/10.1186/s40793-024-00641-x)
+
+10.1016/j.ecoenv.2024.117339
 
 ---
 
