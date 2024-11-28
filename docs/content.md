@@ -29,9 +29,10 @@ Chronic lung infections are the primary cause of morbidity and early mortality i
 ---
 
 ## The Parkinson's disease drug entacapone disrupts gut microbiome homoeostasis via iron sequestration.
- 26.11.2024, _FC Pereira, X Ge, JM Kristensen, RH Kirkegaard, K Maritsch, D Szamosvári, S Imminger, D Seki, JB Shazzad, Y Zhu, M Decorte, B Hausmann, D Berry, K Wasmund, A Schintlmeister, T Böttcher, JX Cheng, M Wagner_
+ 28.11.2024, _FC Pereira, X Ge, JM Kristensen, RH Kirkegaard, K Maritsch, D Szamosvári, S Imminger, D Seki, JB Shazzad, Y Zhu, M Decorte, B Hausmann, D Berry, K Wasmund, A Schintlmeister, T Böttcher, JX Cheng, M Wagner_
 
 
+_Gastrointestinal Microbiome, Humans, Iron, Parkinson Disease, Feces, Catechols, Nitriles, Homeostasis, Bacteria, Metagenomics, Antiparkinson Agents_
 Many human-targeted drugs alter the gut microbiome, leading to implications for host health. However, the mechanisms underlying these effects are not well known. Here we combined quantitative microbiome profiling, long-read metagenomics, stable isotope probing and single-cell chemical imaging to investigate the impact of two widely prescribed drugs on the gut microbiome. Physiologically relevant concentrations of entacapone, a treatment for Parkinson's disease, or loxapine succinate, used to treat schizophrenia, were incubated ex vivo with human faecal samples. Both drugs significantly impact microbial activity, more so than microbial abundance. Mechanistically, entacapone can complex and deplete available iron resulting in gut microbiome composition and function changes. Microbial growth can be rescued by replenishing levels of microbiota-accessible iron. Further, entacapone-induced iron starvation selected for iron-scavenging gut microbiome members encoding antimicrobial resistance and virulence genes. These findings reveal the impact of two under-investigated drugs on whole microbiomes and identify metal sequestration as a mechanism of drug-induced microbiome disturbance.
 
 [Source](https://doi.org/10.1038/s41564-024-01853-0)
@@ -47,9 +48,10 @@ Many human-targeted drugs alter the gut microbiome, leading to implications for 
 ---
 
 ## Enteric bacterial infection stimulates remodelling of bile metabolites to promote intestinal homeostasis.
- 20.11.2024, _T Zhang, Y Hasegawa, MK Waldor_
+ 28.11.2024, _T Zhang, Y Hasegawa, MK Waldor_
 
 
+_Animals, Mice, Homeostasis, Citrobacter rodentium, Enterobacteriaceae Infections, Metabolome, Gastrointestinal Microbiome, Bile, Liver, Listeria monocytogenes, Mice, Inbred C57BL, Intestines, Metabolomics, Listeriosis, Bile Acids and Salts, Specific Pathogen-Free Organisms_
 The liver makes bile, an aqueous solution critical for fat absorption, which is secreted into the duodenum. Despite extensive studies on bile salts, other components of bile are less well characterized. Here we used global metabolomic analysis on bile from specific-pathogen-free, germ-free, Citrobacter rodentium-infected or Listeria monocytogenes-infected mice and identified a metabolome of 812 metabolites that were altered by both microbiota and enteric infection. Hepatic transcriptomics identified enteric-infection-triggered pathways that probably underlie bile remodelling. Enteric infection increased levels of four dicarboxylates in bile, including itaconate. Analysis of Acod1-/- mice indicated that increased itaconate also increased tuft cell abundance, altered microbiota composition and function as detected by metagenomic analysis, and modulated host defence, leading to reduced Vibrio cholerae colonization. Our data suggest that enteric-infection-associated signals are relayed between the intestine and liver and induce transcriptional programmes that shape the bile metabolome, modifying the immunomodulatory and host defence functions of bile.
 
 [Source](https://doi.org/10.1038/s41564-024-01862-z)
@@ -145,9 +147,15 @@ The human microbiome is a sensor and modulator of physiology and homeostasis. Re
 
 ---
 
-## Sodium oligomannate disrupts the adherence of Rib(high) bacteria to gut epithelia to block SAA-triggered Th1 inflammation in 5XFAD transgenic mice
+## Sodium oligomannate disrupts the adherence of Ribhigh bacteria to gut epithelia to block SAA-triggered Th1 inflammation in 5XFAD transgenic mice.
+ 21.11.2024, _X Wang, Z Xie, J Yuan, E Jin, W Lian, S Chang, G Sun, Z Feng, H Xu, C Du, X Yang, A Xia, J Qiu, Q Zhang, F Lin, J Liu, L Li, X Du, Z Xiao, Z Yi, Z Luo, C Ge, R Li, M Zheng, Y Jiang, T Wang, J Zhang, Q Guo, M Geng_
+
+
+Sodium oligomannate (GV-971), an oligosaccharide drug approved in China for treating mild-to-moderate Alzheimer's disease (AD), was previously found to recondition the gut microbiota and limit altered peripheral Th1 immunity in AD transgenic mice. As a follow-up study, we here made advances by pinpointing a Lactobacillus murinus (L.m.) strain that highly expressed a gene encoding a putative adhesin containing Rib repeats (Ribhigh-L.m.) particularly enriched in 5XFAD transgenic mice. Mechanistically, Ribhigh-L.m. adherence to the gut epithelia upregulated fecal metabolites, among which lactate ranked as the top candidate. Excess lactate stimulated the epithelial production of serum amyloid A (SAA) in the gut via the GPR81-NFκB axis, contributing to peripheral Th1 activation. Moreover, GV-971 disrupted the adherence of Ribhigh-L.m. to gut epithelia via direct binding to Rib, which corrected the excess lactate, reduced SAA, and alleviated Th1-skewed inflammation. Together, we gained further insights into the molecular link between gut bacteria and AD progression and the mechanism of GV-971 in treating AD.
 
 [Source](https://doi.org/10.1038/s41421-024-00725-5)
+
+10.1038/s41421-024-00725-5
 
 ---
 
@@ -157,9 +165,16 @@ The human microbiome is a sensor and modulator of physiology and homeostasis. Re
 
 ---
 
-## Multiomics of yaks reveals significant contribution of microbiome into host metabolism
+## Multiomics of yaks reveals significant contribution of microbiome into host metabolism.
+ 24.11.2024, _S Yang, J Zheng, H Mao, P Vinitchaikul, D Wu, J Chai_
+
+
+_Animals, Cattle, Rumen, Metagenomics, Bacteria, Gastrointestinal Microbiome, Metabolomics, Methane, Animal Feed, Metabolome, Microbiota, Multiomics_
+An intensive feeding system might improve the production cycle of yaks. However, how intensive feeding system contributes to yak growth is unclear. Here, multi-omics, including rumen metagenomics, rumen and plasma metabolomics, were performed to classify the regulatory mechanisms of intensive feeding system on yaks. Increased growth performance were observed. Rumen metagenomics revealed that Clostridium, Methanobrevibacter, Piromyces and Anaeromyces increased in the intensively fed yaks, contributing to amino acid and carbohydrate metabolism. The grazing yaks had more cellulolytic microbes. These microbiomes were correlated with the pathways of "Alanine aspartate and glutamate metabolism" and "Pyruvate metabolism". Intensive feeding increased methane degradation functions, while grazing yaks had higher methyl metabolites associated with methane production. These rumen microbiomes and their metabolites resulted in changes in plasma metabolome, finally influencing yaks' growth. Thus, an intensive feeding system altered the rumen microbiome and metabolism as well as host metabolism, resulting in improvements of yak growth.
 
 [Source](https://doi.org/10.1038/s41522-024-00609-2)
+
+10.1038/s41522-024-00609-2
 
 ---
 
