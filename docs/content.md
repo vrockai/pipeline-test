@@ -175,101 +175,45 @@ The human microbiome is a sensor and modulator of physiology and homeostasis. Re
 
 ---
 
-## Butyrate reduces epithelial barrier dysfunction induced by the foodborne mycotoxin deoxynivalenol in cell monolayers derived from pig jejunum organoids.
- 27.11.2024, _J Alberge, E Mussard, C Al-Ayoubi, C Lencina, C Marrauld, L Cauquil, CS Achard, I Mateos, I Alassane-Kpembi, IP Oswald, L Soler, S Combes, M Beaumont_
-
-
-_Animals, Trichothecenes, Swine, Jejunum, Organoids, Intestinal Mucosa, Butyrates, Gastrointestinal Microbiome, Tight Junctions, Epithelial Cells, Fusarium, Immunity, Innate, Mycotoxins, Goblet Cells_
-The foodborne mycotoxin deoxynivalenol (DON) produced by Fusarium species threats animal and human health through disruption of the intestinal barrier. Targeting the gut microbiota and its products appears as a promising strategy to mitigate DON intestinal toxicity. In this study, we investigated whether the bacterial metabolite butyrate could alleviate epithelial barrier disruption induced by DON. We used a model of cell monolayers derived from porcine jejunum organoids allowing to reproduce the cellular complexity of the intestinal epithelium. Our results show that DON dose-dependently disrupted the epithelial barrier integrity, reduced epithelial differentiation, and altered innate immune defenses. Butyrate attenuated the DON-induced increase in paracellular permeability. Butyrate also prevented epithelial barrier dysfunction triggered by anisomycin, a ribosome inhibitor like DON. Moreover, butyrate partially counteracted the effects of DON on tight junctions (TJP1, OCLN), innate epithelial defenses (PTGS2, CD14, TLR4, TLR5), and absorptive cell functions (CA2, VIL1, NHE3, CFTR). In contrast, butyrate did not prevent the toxic effects of DON on mitochondrial metabolism, proliferation and goblet cell functions. Taken together, our results demonstrate that the bacterial metabolite butyrate is able to reduce DON-induced epithelial barrier disruption.
+## Butyrate reduces epithelial barrier dysfunction induced by the foodborne mycotoxin deoxynivalenol in cell monolayers derived from pig jejunum organoids
 
 [Source](https://doi.org/10.1080/19490976.2024.2430424)
 
-10.1080/19490976.2024.2430424
-
 ---
 
-## Trophic modulation of endophytes by rhizosphere protists.
- 20.11.2024, _R Asiloglu, SO Bodur, SO Samuel, M Aycan, J Murase, N Harada_
-
-
-The plant-microbe interactions, which is crucial for plant health and productivity, mainly occur in rhizosphere: a narrow zone of soil surrounding roots of living plants. The rhizosphere hosts one of the most intense habitats for microbial prey-predator interactions, especially between predatory protists and bacteria. Here, based on two key facts, microbial predators modulate rhizobacterial community composition, and the rhizobacterial community is the primary source of root microbiome, endophytes; we hypothesized that predation upon rhizobacteria would modulate the community composition of endophytic bacteria. The effects of three taxonomically distinct axenic protist species (Acanthamoeba castellanii, Vermamoeba vermiformis, and Heteromita globosa) were tested in this study. To examine the robustness of the hypotheses, the experiments were conducted in three soil types characterized by distinct bacterial communities and physicochemical properties. The bacterial community compositions were analyzed with high throughput sequencing. Bacterial gene abundances were estimated with a real-time-PCR method. The results showed that protists modulated endophytic communities, which originated in the rhizosphere soil. The modulation of endophytic communities by protists showed chaotic patterns rather than a deterministic effect under different soil types. The observed chaotic dynamics were further confirmed with an additional experiment, in which chaos was triggered by changes in the dilution rates of soil nutrients. Furthermore, the presence of predators enhanced the root colonization of endophytes. Our findings identify a key mechanism for the modulation of root endophytes and enhance understanding of underground plant-microbe interactions, which can lead to open new avenues for modulating the root microbiome to enhance crop production.
+## Trophic modulation of endophytes by rhizosphere protists
 
 [Source](https://doi.org/10.1093/ismejo/wrae235)
 
-10.1093/ismejo/wrae235
-
 ---
 
-## Metagenome-based diversity and functional analysis of culturable microbes in sugarcane.
- 19.11.2024, _H Lin, L Wu, L Zhang, QK Ta, P Liu, J Song, X Yang_
-
-
-Sugarcane is a key crop for sugar and energy production, and understanding the diversity of its associated microbes is crucial for optimizing its growth and health. However, there is a lack of thorough investigation and use of microbial resources in sugarcane. This study conducted a comprehensive analysis of culturable microbes and their functional features in different tissues and rhizosphere soil of four diverse sugarcane species using metagenomics techniques. The results revealed significant microbial diversity in sugarcane's tissues and rhizosphere soil, including several important biomarker bacterial taxa identified, which are reported to engage in several processes that support plant growth, such as nitrogen fixation, phosphate solubilization, and the production of plant hormones. The Linear discriminant analysis Effect Size (LEfSe) studies identified unique microbial communities in different parts of the same sugarcane species, particularly Burkholderia, which exhibited significant variations across the sugarcane species. Microbial analysis of carbohydrate-active enzymes (CAZymes) indicated that genes related to sucrose metabolism were mostly present in specific bacterial taxa, including Burkholderia, Pseudomonas, Paraburkholderia, and Chryseobacterium. This study improves understanding of the diversities and functions of endophytes and rhizosphere soil microbes in sugarcane. Moreover, the approaches and findings of this study provide valuable insights for microbiome research and the use of comparable technologies in other agricultural fields.
+## Metagenome-based diversity and functional analysis of culturable microbes in sugarcane
 
 [Source](https://doi.org/10.1128/spectrum.01982-24)
 
-10.1128/spectrum.01982-24
-
 ---
 
-## Root hair developmental regulators orchestrate drought triggered microbiome changes and the interaction with beneficial Rhizobiaceae.
- 23.11.2024, _Z Wang, Z Li, Y Zhang, J Liao, K Guan, J Zhai, P Meng, X Tang, T Dong, Y Song_
-
-
-_Plant Roots, Droughts, Microbiota, Stress, Physiological, Rhizobium, Arabidopsis, Metagenome, Transcriptome, Symbiosis_
-Drought is one of the most serious abiotic stresses, and emerging evidence suggest plant microbiome affects plant drought tolerance. However, there is a lack of genetic evidence regarding whether and how plants orchestrate the dynamic assembly of the microbiome upon drought. By utilizing mutants with enhanced or decreased root hair densities, we find that root hair regulators also affect drought induced root microbiome changes. Rhizobiaceae is a key biomarker taxa affected by root hair related mutants. We isolated and sequenced 1479 root associated microbes, and confirmed that several Rhizobium strains presented stress-alleviating activities. Metagenome, root transcriptome and root metabolome studies further reveal the multi-omic changes upon drought stress. We knocked out an ornithine cyclodeaminase (ocd) gene in Rhizobium sp. 4F10, which significantly dampens its stress alleviating ability. Our genetic and integrated multi-omics studies confirm the involvement of host genetic effects in reshaping a stress-alleviating root microbiome during drought, and provide mechanistic insights into Rhizobiaceae mediated abiotic stress protection.
+## Root hair developmental regulators orchestrate drought triggered microbiome changes and the interaction with beneficial Rhizobiaceae
 
 [Source](https://doi.org/10.1038/s41467-024-54417-5)
 
-10.1038/s41467-024-54417-5
-
 ---
 
-## Functional diversity of the above-ground fungal community under long-term integrated, organic and biodynamic Vineyard Management.
- 21.11.2024, _K Steng, F Roy, H Kellner, J Moll, S Tittmann, J Frotscher, J Döring_
-
-
-Sustainable agriculture increasingly emphasizes the importance of microbial communities in influencing plant health and productivity. In viticulture, understanding the impact of management practices on fungal communities is critical, given their role in disease dynamics, grape and wine quality. This study investigates the effects of integrated, organic, and biodynamic management practices on the diversity and function of fungal communities in a vineyard located in Geisenheim, Germany, focusing on above-ground parts such as bark, leaves, and grapes.
+## Functional diversity of the above-ground fungal community under long-term integrated, organic and biodynamic Vineyard Management
 
 [Source](https://doi.org/10.1186/s40793-024-00625-x)
 
-10.1186/s40793-024-00625-x
-
 ---
 
-## A functional microbiome catalogue crowdsourced from North American rivers.
- 26.11.2024, _MA Borton, BB McGivern, KR Willi, BJ Woodcroft, AC Mosier, DM Singleton, T Bambakidis, A Pelly, RA Daly, F Liu, A Freiburger, JN Edirisinghe, JP Faria, R Danczak, I Leleiwi, AE Goldman, MJ Wilkins, EK Hall, C Pennacchio, S Roux, EA Eloe-Fadrosh, SP Good, MB Sullivan, EM Wood-Charlson, CS Miller, MRV Ross, CS Henry, BC Crump, JC Stegen, KC Wrighton_
-
-
-Predicting elemental cycles and maintaining water quality under increasing anthropogenic influence requires knowledge of the spatial drivers of river microbiomes. However, understanding of the core microbial processes governing river biogeochemistry is hindered by a lack of genome-resolved functional insights and sampling across multiple rivers. Here we used a community science effort to accelerate the sampling, sequencing and genome-resolved analyses of river microbiomes to create the Genome Resolved Open Watersheds database (GROWdb). GROWdb profiles the identity, distribution, function and expression of microbial genomes across river surface waters covering 90% of United States watersheds. Specifically, GROWdb encompasses microbial lineages from 27 phyla, including novel members from 10 families and 128 genera, and defines the core river microbiome at the genome level. GROWdb analyses coupled to extensive geospatial information reveals local and regional drivers of microbial community structuring, while also presenting foundational hypotheses about ecosystem function. Building on the previously conceived River Continuum Concept1, we layer on microbial functional trait expression, which suggests that the structure and function of river microbiomes is predictable. We make GROWdb available through various collaborative cyberinfrastructures2,3, so that it can be widely accessed across disciplines for watershed predictive modelling and microbiome-based management practices.
+## A functional microbiome catalogue crowdsourced from North American rivers
 
 [Source](https://doi.org/10.1038/s41586-024-08240-z)
 
-10.1038/s41586-024-08240-z
-
 ---
 
-## Experimental evolution at ecological scales allows linking of viral genotypes to specific host strains.
- 23.11.2024, _MD Ramos-Barbero, B Aldeguer-Riquelme, T Viver, J Villamor, M Carrillo-Bautista, C López-Pascual, KT Konstantinidis, M Martínez-García, F Santos, R Rossello-Mora, J Antón_
-
-
-Viruses shape microbial community structure and activity through the control of population diversity and cell abundances. Identifying and monitoring the dynamics of specific virus-host pairs in nature is hampered by the limitations of culture-independent approaches such as metagenomics, which do not always provide strain-level resolution, and culture-based analyses, which eliminate the ecological background and in-situ interactions. Here, we have explored the interaction of a specific "autochthonous" host strain and its viruses within a natural community. Bacterium Salinibacter ruber strain M8 was spiked into its environment of isolation, a crystallizer pond from a coastal saltern, and the viral and cellular communities were monitored for one month using culture, metagenomics, and microscopy. Metagenome sequencing indicated that the M8 abundance decreased sharply after being added to the pond, likely due to forces other than viral predation. However, the presence of M8 selected for two species of a new viral genus, Phoenicisalinivirus, for which 120 strains were isolated. During this experiment, an assemblage of closely related viral genomic variants was replaced by a single population with the ability to infect M8, a scenario which was compatible with the selection of a genomic variant from the rare biosphere. Further analysis implicated a viral genomic region putatively coding for a tail fiber protein to be responsible for M8 specificity. Our results indicate that low abundance viral genotypes provide a viral seed bank that allows for a highly specialized virus-host response within a complex ecological background.
+## Experimental evolution at ecological scales allows linking of viral genotypes to specific host strains
 
 [Source](https://doi.org/10.1093/ismejo/wrae208)
-
-10.1093/ismejo/wrae208
-
----
-
-## Selenium mitigated cadmium-induced ovarian retardation in female Procambarus clarkii by regulating vitellogenin synthesis and transfer in the hepatopancreas.
- 15.11.2024, _H Yang, Y Yang, A Mo, Y Yuan_
-
-
-Cadmium (Cd) is prevalent in aquatic ecosystems and accumulates in various tissues of aquatic organisms, leading to severe biological toxicity. Selenium (Se) is recognized for mitigating heavy metal toxicity, though its protective effects against Cd in aquatic crustaceans remain underexplored. This study, therefore, assessed the effects of dietary Cd (15 mg/kg) exposure and Se (6 mg/kg) supplementation on the hepatopancreas and ovaries of female crayfish to uncover the mechanisms of Cd toxicity and the protective role of Se. The results showed that Cd accumulation in the hepatopancreas caused a reduced hepatopancreas index (HPI), decreased protein content, histopathological damage, and oxidative stress, while Se supplementation reduced Cd levels, mitigated damage, and restored tissue integrity and antioxidant defenses. Transcriptomic analysis further revealed significant alterations in gene expression related to detoxification, lipid metabolism, and energy production in response to Cd exposure, which were partially or fully restored by Se supplementation. Additionally, Se alleviated Cd-induced inhibition of ovarian development, as evidenced by improved ovary index, enhanced oocyte development, and normalization of essential trace element levels. Mechanistically, Se restored the Cd-disrupted vitellogenin (Vtg) synthesis in the hepatopancreas via regulating the mRNA expression of hsp70 and genes related to the molt-inhibiting hormone (MIH) (mih, rxr, and ecr). Overall, these findings indicate that Se supplementation mitigated Cd-induced hepatopancreatic dysfunction, restored Vtg synthesis, and consequently counteracted the inhibition of ovarian development in adult female crayfish.
-
-[Source](https://doi.org/10.1186/s40793-024-00641-x)
-
-10.1016/j.ecoenv.2024.117339
 
 ---
 
@@ -279,53 +223,27 @@ Cadmium (Cd) is prevalent in aquatic ecosystems and accumulates in various tissu
 
 ---
 
-## Evaluation of microbial community dynamics and chlorinated solvent biodegradation in methane-amended microcosms from an acidic aquifer.
- 20.11.2024, _M Hwangbo, R Rezes, KH Chu, PB Hatzinger_
-
-
-_Biodegradation, Environmental, Groundwater, Methane, Water Pollutants, Chemical, Trichloroethylene, Bacteria, Microbiota, Volatile Organic Compounds, Solvents_
-Anaerobic bioremediation is rarely an effective strategy to treat chlorinated ethenes such as trichloroethene (TCE) in acidic aquifers because partial dechlorination typically results in accumulation of daughter products. Methanotrophs have the capability of oxidizing TCE and other chlorinated volatile organic compounds (CVOCs) to non-toxic products, but their occurrence, diversity, and biodegradation capabilities in acidic environments are largely unknown. This study investigated the impacts of different methane (CH4) concentrations and the presence of CVOCs on the community of acidophilic methanotrophs in microcosms prepared from acidic aquifer samples collected upgradient and downgradient of a mulch barrier installed to promote in-situ anaerobic CVOC biodegradation in Maryland, USA. The ability of indigenous methanotrophs to biodegrade CVOCs was also evaluated. Results of stable isotope probing (SIP) and Next Generation Sequencing (NGS) showed that the microbial communities in the microcosms varied by location and were affected by both CH4 concentration and the presence of different CVOCs, many of which were biodegraded by the indigenous methanotrophs. Data indicate the likelihood of aerobic cometabolic degradation of CVOCs downgradient of the mulch barrier designed for anaerobic treatment. The study extends the overall knowledge of acidophilic methanotrophs in groundwater and shows that these bacteria have significant potential for degrading CVOCs even at low CH4 concentrations.
+## Evaluation of microbial community dynamics and chlorinated solvent biodegradation in methane-amended microcosms from an acidic aquifer
 
 [Source](https://doi.org/10.1007/s10532-024-10103-3)
 
-10.1007/s10532-024-10103-3
-
 ---
 
-## Rotavirus rewires host cell metabolic pathways toward glutamine catabolism for effective virus infection.
- 24.11.2024, _S Mitra, R Datta Chaudhuri, R Sarkar, S Banerjee, A Mukherjee, R Sharma, A Gope, K Kitahara, SI Miyoshi, M Chawla-Sarkar_
-
-
-_Glutamine, Humans, Rotavirus, Rotavirus Infections, Metabolic Networks and Pathways, Animals, Virus Replication, Mice, HT29 Cells, Host-Pathogen Interactions, Gastrointestinal Microbiome, Epithelial Cells_
-Rotavirus (RV) accounts for 19.11% of global diarrheal deaths. Though GAVI assisted vaccine introduction has curtailed RV induced mortality, factors like RV strain diversity, differential infantile gut microbiome, malnutrition, interference from maternal antibodies and other administered vaccines, etc. often compromise vaccine efficacy. Herein emerges the need of antivirals which can be administered adjunct to vaccination to curb the socio-economic burden stemming from frequent RV infection. Cognisance of pathogen-perturbed host cellular physiology has revolutionized translational research and aided precision-based therapy, particularly for viruses, with no metabolic machinery of their own. To date there has been limited exploration of the host cellular metabolome in context of RV infection. In this study, we explored the endometabolomic landscape of human intestinal epithelial cells (HT-29) on RV-SA11 infection. Significant alteration of host cellular metabolic pathways like the nucleotide biosynthesis pathway, alanine, aspartate and glutamate metabolism pathway, the host citric acid cycle was observed in RV-SA11 infection scenario. Detailed study further revealed that RV replication is exclusively dependent on glutamine metabolism for their propagation in host cells. Glutamine metabolism generates glutamate, aspartate, and asparagine which facilitates virus infection. Abrogation of aspartate biogenesis from glutamine by use of Aminooxyacetic acid (AOAA), significantly curbed RV-SA11 infection in-vitro and in-vivo. Overall, the study improves our understanding of host-rotavirus interactome and recognizes host glutamine metabolism pathway as a suitable target for effective therapeutic intervention against RV infection.
+## Rotavirus rewires host cell metabolic pathways toward glutamine catabolism for effective virus infection
 
 [Source](https://doi.org/10.1080/19490976.2024.2428425)
 
-10.1080/19490976.2024.2428425
-
 ---
 
-## SPARTA: Interpretable functional classification of microbiomes and detection of hidden cumulative effects.
- 18.11.2024, _B Ruiz, A Belcour, S Blanquart, S Buffet-Bataillon, I Le Huërou-Luron, A Siegel, Y Le Cunff_
-
-
-The composition of the gut microbiota is a known factor in various diseases and has proven to be a strong basis for automatic classification of disease state. A need for a better understanding of microbiota data on the functional scale has since been voiced, as it would enhance these approaches' biological interpretability. In this paper, we have developed a computational pipeline for integrating the functional annotation of the gut microbiota into an automatic classification process and facilitating downstream interpretation of its results. The process takes as input taxonomic composition data, which can be built from 16S or whole genome sequencing, and links each component to its functional annotations through interrogation of the UniProt database. A functional profile of the gut microbiota is built from this basis. Both profiles, microbial and functional, are used to train Random Forest classifiers to discern unhealthy from control samples. SPARTA ensures full reproducibility and exploration of inherent variability by extending state-of-the-art methods in three dimensions: increased number of trained random forests, selection of important variables with an iterative process, repetition of full selection process from different seeds. This process shows that the translation of the microbiota into functional profiles gives non-significantly different performances when compared to microbial profiles on 5 of 6 datasets. This approach's main contribution however stems from its interpretability rather than its performance: through repetition, it also outputs a robust subset of discriminant variables. These selections were shown to be more consistent than those obtained by a state-of-the-art method, and their contents were validated through a manual bibliographic research. The interconnections between selected taxa and functional annotations were also analyzed and revealed that important annotations emerge from the cumulated influence of non-selected taxa.
+## SPARTA: Interpretable functional classification of microbiomes and detection of hidden cumulative effects
 
 [Source](https://doi.org/10.1371/journal.pcbi.1012577)
 
-10.1371/journal.pcbi.1012577
-
 ---
 
-## Micro-DeMix: a mixture beta-multinomial model for investigating the heterogeneity of the stool microbiome compositions.
- 26.11.2024, _R Liu, Y Wang, D Cheng_
-
-
-Extensive research has uncovered the critical role of the human gut microbiome in various aspects of health, including metabolism, nutrition, physiology, and immune function. Fecal microbiota is often used as a proxy for understanding the gut microbiome, but it represents an aggregate view, overlooking spatial variations across different gastrointestinal (GI) locations. Emerging studies with spatial microbiome data collected from specific GI regions offer a unique opportunity to better understand the spatial composition of the stool microbiome.
+## Micro-DeMix: a mixture beta-multinomial model for investigating the heterogeneity of the stool microbiome compositions
 
 [Source](https://doi.org/10.1093/bioinformatics/btae667)
-
-10.1093/bioinformatics/btae667
 
 ---
 
