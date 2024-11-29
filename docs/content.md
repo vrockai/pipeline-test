@@ -17,15 +17,15 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
-## RETRACTION: Regulation of Prostaglandin Production in Carrageenan-Induced Pleurisy Melatonin.
- 29.11.2024, __
+## Perceptions of Illness Control, Coherence, and Self-Efficacy Following a Web-Based Lifestyle Program for Multiple Sclerosis: A Qualitative Analysis of Semistructured Interviews.
+ 29.11.2024, _R Davenport, W Bevens, S Neate, P Jelinek, M Yu, G Jelinek, J Reece_
 
 
-S. Cuzzocrea, G. Costantino, E. Mazzon, and A. P. Caputi, "Regulation of Prostaglandin Production in Carrageenan-Induced Pleurisy Melatonin," Journal of Pineal Research 27, no. 1 (1999): 9-14, https://doi.org/10.1111/j.1600-079X.1999.tb00591.x. The above article, published online on 30 January 2007 in Wiley Online Library (wileyonlinelibrary.com), has been retracted by agreement between the journal Editor-in-Chief, Gianluca Tosini; and John Wiley &amp; Sons Ltd. The retraction has been agreed due to concerns raised by third parties on the data presented in the article. Specifically, the sample shown in Figure 3A has been identified as being used in a different scientific context in another article from the same author group, which was submitted concurrently. The data provided by the corresponding author upon request was insufficient to address the concerns. The article is retracted as the editors have lost trust in the accuracy and integrity of the overall body of data presented in the article and consider its conclusions invalid.
+Evidence suggests that illness perceptions held by people living with multiple sclerosis (MS) impact affective distress and physical health outcomes. In a randomized controlled trial, we developed 2 MS Online Courses-the standard care course and the intervention course (IC). The IC was adapted from an evidence-based lifestyle program. Modifying lifestyle risk factors offers an opportunity to impact illness perceptions. Research on illness perceptions in people living with MS has focused predominately on quantitative methods.
 
 [Source](https://cassyni.com/s/mvif-34)
 
-10.1111/jpi.70011
+10.2196/60240
 
 ---
 
@@ -41,15 +41,16 @@ S. Cuzzocrea, G. Costantino, E. Mazzon, and A. P. Caputi, "Regulation of Prostag
 
 ---
 
-## Understanding the exodus: a 15-year retrospective cohort study on the pattern and determinants of migration among Nigerian doctors and dentists.
- 29.11.2024, _O Wariri, P Toyin-Thomas, ICG Akhirevbulu, O Oladeinde, O Omogbai, P Odika, J Osakue, A Ukueku, E Orikpete, C Iwegim, EE Omoyibo, J Okpere, U Otakhoigbogie, ET Agho, SC Madubueze, NC Ugoji, CW Ozegbe, ON Aria, P Ikhurionan_
+## Developing a universal equation to estimate the mass of dewatered wastewater sludge during biological digestion at mesophilic and thermophilic temperatures.
+ 29.11.2024, _E Poorasgari, B Örmeci_
 
 
-Nigeria faces a critical shortage of healthcare professionals yet experiences a significant annual exodus of doctors and dentists. This alarming trend threatens the country's ability to provide equitable healthcare.
+_Sewage, Temperature, Waste Disposal, Fluid, Bioreactors, Anaerobiosis, Wastewater, Water_
+A series of dewaterability tests were conducted on various types of sludges to establish a wholistic relationship between sludge water fractions. Sludge samples were obtained from batch and continuous sludge digesters, which were operated anaerobically and aerobically under mesophilic and thermophilic conditions. Dewaterability of the sludge samples and the distribution of water fractions were studied using centrifugation and thermal drying. Thickened waste activated sludge (T-WAS) contained 10-11 g bound water (BW)/g of total solids (TS), and it was more hydrophilic than primary and digested sludges. During anaerobic digestion, BW content fluctuated between 3.2 and 4.2 g BW/g TS. However, aerobic digestion at 55°C reduced the BW content of the mixed T-WAS + primary sludges from 3.7 to 2.1 g BW/g TS. A linear function was developed to correlate supernatant and BW mass fractions (R2 = 0.995). An equation was derived from the linear function to estimate the mass of dewatered sludge based on the TS concentration of the initial wet sludge. The developed expression is applicable to different kinds of wastewater sludges. Such an expression would be helpful for the designers and operators of sludge thickening and dewatering systems that use centrifugal separation.
 
 [Source](https://bsky.app/profile/did:plc:dyrbb3iiuynmhsho3hywdakx/post/3lbelftyhn22t?ref_src=embed)
 
-10.1080/16549716.2024.2432754
+10.2166/wst.2024.366
 
 ---
 
@@ -90,16 +91,16 @@ Much research has been invested into engineering microorganisms to perform desir
 
 ---
 
-## Spatiotemporal dynamics during niche remodeling by super-colonizing microbiota in the mammalian gut.
- 22.11.2024, _G Urtecho, T Moody, Y Huang, RU Sheth, M Richardson, HC Descamps, A Kaufman, O Lekan, Z Zhang, F Velez-Cortes, Y Qu, L Cohen, D Ricaurte, TE Gibson, GK Gerber, CA Thaiss, HH Wang_
+## Influence of rubber particle inputs on nitrogen removal efficiency of bioretention systems.
+ 29.11.2024, _T Hu, W Li, J Xiong, J Zhou, Q Xia_
 
 
-_Animals, Gastrointestinal Microbiome, Mice, Fecal Microbiota Transplantation, Mice, Inbred C57BL, Gastrointestinal Tract, Dysbiosis, Mammals, Feces_
-While fecal microbiota transplantation (FMT) has been shown to be effective in reversing gut dysbiosis, we lack an understanding of the fundamental processes underlying microbial engraftment in the mammalian gut. Here, we explored a murine gut colonization model leveraging natural inter-individual variations in gut microbiomes to elucidate the spatiotemporal dynamics of FMT. We identified a natural "super-donor" consortium that robustly engrafts into diverse recipients and resists reciprocal colonization. Temporal profiling of the gut microbiome showed an ordered succession of rapid engraftment by early colonizers within 72 h, followed by a slower emergence of late colonizers over 15-30 days. Moreover, engraftment was localized to distinct compartments of the gastrointestinal tract in a species-specific manner. Spatial metagenomic characterization suggested engraftment was mediated by simultaneous transfer of spatially co-localizing species from the super-donor consortia. These results offer a mechanism of super-donor colonization by which nutritional niches are expanded in a spatiotemporally dependent manner. A record of this paper's transparent peer review process is included in the supplemental information.
+_Nitrogen, Rubber, Water Pollutants, Chemical, Waste Disposal, Fluid, Denitrification, Bacteria, Ethylenes, Elastomers_
+Bioretention systems effectively capture rubber particles and other microplastics in stormwater runoff. However, it is uncertain whether long-term particle accumulation affects pollutant removal efficacy. This study investigated the impact of various concentrations of ethylene-propylene-diene-monomer (EPDM) particles (0, 50, 100, and 400 mg/L) on bioretention system nitrogen removal performance. The input of EPDM during short-duration (2 h) rainfall favored the removal of nitrogen, and the total nitrogen effluent concentration of the bioretention system with EPDM was reduced by 0.59-1.52 mg/L compared with that of the system without EPDM. In addition, the input of EPDM reduced the negative effects of drought. During long-duration (24 h) rainfall, higher concentrations of EPDM led to lower nitrate-nitrogen concentrations in the effluent. The bioretention system with EPDM required less time for nitrate-nitrogen removal to reach 50% than that without EPDM input. Microbial community analysis showed that EPDM increased the relative total abundance of denitrifying bacteria (such as Dechloromonas, Zoogloea, Ramlibacter, and Aeromonas) by 7.25-10.26%, which improved the denitrification capacity of the system.
 
 [Source](https://bsky.app/profile/did:plc:5r53rhz7nxiurzw4mfcmfewf?ref_src=embed)
 
-10.1016/j.cels.2024.10.007
+10.2166/wst.2024.363
 
 ---
 
@@ -109,15 +110,15 @@ While fecal microbiota transplantation (FMT) has been shown to be effective in r
 
 ---
 
-## Prevalence of postpartum depression and its association with diabetes mellitus among mothers in public health facilities in Mbarara, Southwestern Uganda.
- 29.11.2024, _C Atuhaire, K Taseera, EC Atukunda, D Atwine, LT Matthews, GZ Rukundo_
+## High-Frequency Cognitive Control Training for Depression: Case Report.
+ 29.11.2024, _Y Vander Zwalmen, K Hoorelbeke, D Demeester, EHW Koster_
 
 
-Postpartum Depression (PPD) is a major health challenge with potentially devastating maternal and physical health outcomes. Development of diabetes mellitus has been hypothesized as one of the potential adverse effects of PPD among mothers in the postpartum period, but this association has not been adequately studied especially in low resource settings. This study aimed at determining prevalence of postpartum depression and its association with diabetes mellitus among mothers in Mbarara District, southwestern Uganda. We conducted a facility based cross-sectional study of 309 mothers between 6th week to 6th month after childbirth. Using proportionate stratified consecutive sampling, mothers were enrolled from postnatal clinics of two health facilities, Mbarara Regional Referral Hospital and Bwizibwera Health center IV. PPD was diagnosed using the Mini-International Neuropsychiatric Interview (MINI 7.0.2) for the Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (DSM-5). Diabetes mellitus was diagnosed by measuring Hemoglobin A1c (HbA1c). Logistic regression was used to determine the association of PPD and diabetes mellitus among mothers. The study established that PPD prevalence of PPD among mothers of 6th weeks to 6th months postpartum period in Mbarara was 40.5% (95% CI: 35.1-45.1%) and it was statistically significantly associated with diabetes mellitus in mothers between 6 weeks and 6 months postpartum. The prevalence of diabetes mellitus among mothers with PPD was 28% compared to 13.6% among mothers without PPD. Mothers with PPD had 3 times higher odds of being newly diagnosed with diabetes as compared to those without PPD (aOR = 3.0, 95% CI: 1.62-5.74, p = 0.001). Mothers with PPD between 6 weeks and 6 months postpartum are more likely to have diabetes mellitus as compared to those without PPD. Well-designed prospective analytical studies are needed to conclude on the risk of diabetes mellitus in relation to PPD. Early screening of PPD may be considered in postpartum mothers.
+Cognitive control training (CCT) has gained attention in recent years as a preventative intervention in the context of major depressive disorder. To date, uncertainty exists around the working mechanisms of CCT and how its effects unfold overtime.
 
 [Source](https://bsky.app/profile/did:plc:5r53rhz7nxiurzw4mfcmfewf/post/3lbu2xf2wps2o?ref_src=embed)
 
-10.1080/13548506.2024.2433545
+10.2196/56598
 
 ---
 
@@ -171,15 +172,15 @@ The human gut microbiome is highly personal. However, the contribution of gut ph
 
 ---
 
-## Stabilisation of a Strontium Hydride with a Monodentate Carbazolyl Ligand and its Reactivity.
- 29.11.2024, _L Winkler, A Hinz_
+## A Trifecta-Based Evaluation of Patients Treated with Percutaneous Thermal Ablation of Small Renal Masses.
+ 29.11.2024, _G Lucignani, M Rizzo, AM Ierardi, A Piasentin, E De Lorenzis, C Trombetta, G Liguori, M Bertolotto, G Carrafiello, E Montanari, L Boeri_
 
 
-The molecular strontium hydride 2[(dtbpCbz)SrH(L)]2 (L = benzene, toluene) was isolated and stabilized by employing a sterically demanding carbazole ligand (dtbpCbz = 1,8-bis(3,5-ditert-butyl-phenyl)-3,6-ditertbutylcarbazolyl). Compound 2 was synthesized via phenylsilane metathesis with the corresponding amide (dtbpCbz)SrN(SiMe3)2 and characterized by 1H NMR, XRD and vibrational spectroscopy methods. We further investigated the stoichiometric reactivity of 2 towards carbon monoxide, azobenzene and trimethylsilylacetylene, showing three distinct reactivity pathways: addition, reduction and deprotonation. The reaction of 2 with carbon monoxide yields the ethenediolate complex 4 via addition, while with azobenzene reduction of the N-N double bond and release of hydrogen were observed, affording a heteroleptic strontium complex with a radical azobenzenyl ligand (5). The terminal alkyne is deprotonated by the hydride moiety to give the acetylide complex 6.
+Background: Scoring metrics are important to compare outcomes of different percutaneous treatments for small renal masses (RMs). The concept of trifecta (no complications, kidney function preservation, and absence of local recurrence) has been recently introduced in percutaneous thermal ablation of RM. In this context, previous studies have shown that cryoablation (CA) and microwave ablation (MWA) have similar outcomes. We aimed to validate the trifecta in CA and MWA and factors associated with treatment success. Materials and Methods: A retrospective comparative analysis of two cohorts was carried out on 190 consecutive patients with RMs treated using percutaneous CA or MWA. Nephrometry scores described RM complexity. Postoperative complications were categorized according to the Clavien-Dindo system. Glomerular filtration rate (GFR) at the last follow-up was calculated through the chronic kidney disease-epidemiology collaboration (EPI) formula, whereas detection of contrast enhancement during follow-up defined local recurrence. Last, trifecta was defined by the combination of no major (Clavien &gt;2) complications, estimation of GFR (eGFR) decline &lt;10%, and absence of local recurrence. Descriptive statistics and logistic regression models tested the association between predictors and trifecta achievement. Factors associated with recurrence were compared by the log-rank test. Results: Of 175 patients, 121 (69.1%) and 54 (30.8%) patients underwent CA and MWA, respectively. Median (interquartile range [IQR]) age and RM diameter were 75 years (66-80) and 2.4 cm (1.8-3.0). The CA group had a lower preoperative GFR but also had a lower rate of comorbidities (both p = 0.01). Other demographics and tumor characteristics were comparable between groups. In the CA and MWA groups, major complications occurred after 1.6% and 4.8% of procedures (p = 0.33), whereas an eGFR decline &gt;10% was found in 31.5% and 38.8% of cases (p = 0.40), respectively. Similarly, in the CA and MWA groups, at a median follow-up of 21 (8-39) and 24 (9.5-36) months, local recurrence was observed after 10 (8.3%) and 5 (9.3%) cases (p = 0.78), trifecta was accomplished after 72 (59.5%) and 32 (59.3%; p = 1.00) procedures, respectively. Of note, recurrence-free survival (RFS) was comparable among groups (p = 0.57). Moreover, trifecta achievement was comparable when stratifying for demographics and tumor characteristics in the whole cohort and in the CA group (p &gt; 0.05). Conversely, logistic regression showed a lower odds ratio (OR) of trifecta for lesions close to renal collecting system treated by MWA, even when accounting for maximum diameter and preoperative GFR (OR 0.21, confidence interval 0.60-0.72, p = 0.010). Of note, this factor was also associated with a significantly lower RFS (log-rank p = 0.002). Conclusions: Both percutaneous CA and MWA of RM can safely accomplish good oncological outcomes while preserving renal function. Approximately 6 out of 10 patients achieved trifecta after each procedure. Patient selection should account for tumor proximity to the collecting system, as this factor seems to impact the outcomes of MWA.
 
 [Source](https://bsky.app/profile/did:plc:jyh2n3qwawf2uk6pyg4ulujg/post/3lbwe7op4gk26?ref_src=embed)
 
-10.1002/anie.202418558
+10.1089/end.2024.0091.fts24
 
 ---
 
@@ -231,15 +232,15 @@ A study was conducted in fish processing facilities to investigate the microbial
 
 ---
 
-## RETRACTION: Protective Effect of Melatonin in a Non-Septic Shock Model Induced by Zymosan in the Rat.
- 29.11.2024, __
+## High-Frequency Cognitive Control Training for Depression: Case Report.
+ 29.11.2024, _Y Vander Zwalmen, K Hoorelbeke, D Demeester, EHW Koster_
 
 
-S. Cuzzocrea, B. Zingarelli, G. Costantino, and A. R. Caputi, "Protective Effect of Melatonin in a Non-Septic Shock Model Induced by Zymosan in the Rat," Journal of Pineal Research 25, no. 1 (1998): 24-33, https://doi.org/10.1111/j.1600-079X.1998.tb00382.x. The above article, published online on 30 January 2007 in Wiley Online Library (wileyonlinelibrary.com), has been retracted by agreement between the journal Editor-in-Chief, Gianluca Tosini; and John Wiley &amp; Sons Ltd. The retraction has been agreed due to concerns raised by third parties on the data presented in the article. Specifically, there is evidence of image duplication between Figures 6A and 6C, indicating that the same biological sample has been utilized to represent two distinct experimental conditions. The article is retracted as the editors have lost trust in the accuracy and integrity of the overall body of data presented in the article and consider its conclusions invalid.
+Cognitive control training (CCT) has gained attention in recent years as a preventative intervention in the context of major depressive disorder. To date, uncertainty exists around the working mechanisms of CCT and how its effects unfold overtime.
 
 [Source](https://bsky.app/profile/did:plc:pcld5no3yjxnsues74juglri/post/3lb7soxsvrs2k?ref_src=embed)
 
-10.1111/jpi.70013
+10.2196/56598
 
 ---
 
@@ -310,21 +311,47 @@ Vulnerable patients in an intensive care unit (ICU) setting are at high risk of 
 
 ---
 
+## Genome-based reclassification of Spiroplasma atrichopogonis Koerber et al. 2005 as a later heterotypic synonym of Spiroplasma mirum Tully et al. 1982.
+ 29.11.2024, _V Bhargava, D Lahon, S Gupta, J Kaur, P Lata_
+
+
+The present study was carried out to clarify the taxonomic assignment of two closely related Spiroplasma species. Genomic information for 26 type strains was available at the time of conducting this analysis. Our analysis showed that two species, viz. Spiroplasma atrichopogonis (Koerber et al. 2005) and Spiroplasma mirum (Tully et al. 1982), are conspecific. The 16S rRNA gene sequences of the two species possess 99.78% sequence similarity. Furthermore, whole-genome sequence comparisons showed that S. atrichopogonis GNAT3597T (CP011855.1) GCA 001029245.1 and S. mirum ATCC 29335T (CP002082.1) GCA 000517365.1 shared 99.99% average nucleotide identity, 99.99% average amino acid identity and 100% digital DNA-DNA hybridization values. These values exceed the threshold values for bacterial species delineation, indicating that they belong to the same species. Furthermore, the phylogenomic analysis based on the core proteome of the strains under study confirmed that S. atrichopogonis GNAT3597T (CP011855.1) GCA 001029245.1 and S. mirum ATCC 29335T (CP002082.1) GCA 000517365.1 formed a monophyletic clade. Based on this evidence, we propose the reclassification of S. atrichopogonis Koerber et al. 2005 as a later heterotypic synonym of S. mirum Tully et al. 1982.
+
+[Source](https://bsky.app/profile/did:plc:vf4j77c7bvnyn7lmeeu3byyo/post/3lbw44njddk2q?ref_src=embed)
+
+10.1099/ijsem.0.006589
+
+---
+
 ## 2024-11-27T08:11:55.853Z
 
 [Source](https://bsky.app/profile/did:plc:vf4j77c7bvnyn7lmeeu3byyo/post/3lbw44njddk2q?ref_src=embed)
 
 ---
 
-## Ileal microbial microbiome and its secondary bile acids modulate susceptibility to nonalcoholic steatohepatitis in dairy goats
+## Ileal microbial microbiome and its secondary bile acids modulate susceptibility to nonalcoholic steatohepatitis in dairy goats.
+ 25.11.2024, _Y Wang, X Chen, SA Huws, G Xu, J Li, J Ren, J Xu, LL Guan, J Yao, S Wu_
+
+
+_Animals, Non-alcoholic Fatty Liver Disease, Goats, Bile Acids and Salts, Gastrointestinal Microbiome, Ileum, Liver, Mice, Bacteria, Disease Susceptibility, Goat Diseases, Disease Models, Animal, Female_
+Liver damage from nonalcoholic steatohepatitis (NASH) presents a significant challenge to the health and productivity of ruminants. However, the regulatory mechanisms behind variations in NASH susceptibility remain unclear. The gut‒liver axis, particularly the enterohepatic circulation of bile acids (BAs), plays a crucial role in regulating the liver diseases. Since the ileum is the primary site for BAs reabsorption and return to the liver, we analysed the ileal metagenome and metabolome, liver and serum metabolome, and liver single-nuclei transcriptome of NASH-resistant and susceptible goats together with a mice validation model to explore how ileal microbial BAs metabolism affects liver metabolism and immunity, uncovering the key mechanisms behind varied NASH pathogenesis in dairy goats.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01964-0)
 
+10.1186/s40168-024-01964-0
+
 ---
 
-## Effects of prebiotic and multispecies probiotic supplementation on the gut microbiota, immune function, and growth performance of weaned piglets
+## Effects of prebiotic and multispecies probiotic supplementation on the gut microbiota, immune function, and growth performance of weaned piglets.
+ 23.11.2024, _SOB Huaman, FA de Souza, MA Bonato, CP Dias, MA Callegari, A Oba, RH de Carvalho, CA da Silva_
+
+
+_Animals, Probiotics, Swine, Prebiotics, Gastrointestinal Microbiome, Weaning, Dietary Supplements, Animal Feed, Saccharomyces cerevisiae, Cytokines_
+In this study, we evaluated the impact of yeast cell wall prebiotics and multispecies probiotics on the gut microbiota, immune response, and growth performance of weaned piglets, as alternatives to antibiotics as growth promoters (AGPs). A randomized complete block design was employed, involving 160 piglets divided into four treatment groups during the nursery phase. The treatments applied throughout the experimental period were as follows: CONT+ = basal diet with halquinol (AGP); YCW = basal diet with yeast cell wall (cell wall of Saccharomyces cerevisiae yeast); SIM+ = basal diet with yeast cell wall + multispecies probiotic (Bacillus subtilis (2.0 x 109 CFU/g), Bacillus coagulans (5.0 x 108 CFU/g), Clostridium butyricum (5.0 x 107 CFU/g), and Bacillus licheniformis (2.0 x 109 CFU/g)); SIM- = basal diet with yeast cell wall + multispecies probiotic (half dose). The parameters assessed included daily feed intake, weight gain, feed conversion ratio (FCR), diarrhea score, serum cytokine levels, and chemokine concentrations, as well as microbiota analysis. During the 21 to 63-day study period, only FCR differed significantly (p = 0.0076). CONT+ and PREB had superior FCRs of 1.543 and 1.585, while SIM- had the least favorable FCR at 1.654. At 35 days, IL-10 levels were greater in the SIM- group, showing a 271.25% increase over those in the other groups. By 49 days, the IL-8 concentration was lower in the PREB group than in the CONT+ group, with a reduction of 247%, while the IL-8 concentrations in the SIM+ and SIM- groups were not significantly different from those in the other groups. The Firmicutes/Bacteroidetes (F/B) ratio in the CONT+ group was lower than that in the PREB, SIM+, and SIM- treatment groups. The Lactobacillaceae family was more abundant in the SIM+ treatment, followed by the SIM- and PREB treatments. The CONT+ treatment had the lowest abundance. The abundance of the genus Lactobacillus differed between the CONT+ group and the PREB, SIM+, and SIM- treatment groups. Prebiotics, used either alone or combined with probiotics, serve as effective substitutes for AGPs, boosting piglets' health and performance throughout the nursery phase.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313475)
+
+10.1371/journal.pone.0313475
 
 ---
 
@@ -340,9 +367,16 @@ Vulnerable patients in an intensive care unit (ICU) setting are at high risk of 
 
 ---
 
-## Development of a novel complex inflammatory bowel disease mouse model: Reproducing human inflammatory bowel disease etiologies in mice
+## Development of a novel complex inflammatory bowel disease mouse model: Reproducing human inflammatory bowel disease etiologies in mice.
+ 23.11.2024, _SM Seo, NW Kim, ES Yoo, JH Lee, AR Kang, HB Jeong, WY Shim, DH Kim, YJ Park, K Bae, KA Yoon, YK Choi_
+
+
+_Animals, Disease Models, Animal, Mice, Inflammatory Bowel Diseases, Humans, Dextran Sulfate, Diet, High-Fat, Cytokines, Mice, Inbred C57BL, Citrobacter rodentium, Dysbiosis, Gastrointestinal Microbiome, Colon, Mice, Knockout, Male_
+Inflammatory bowel disease (IBD), caused by environmental factors associated with the host's genetic traits, is represented by Crohn's disease and ulcerative colitis. Despite the increasing number of patients with IBD, the current treatment is limited to symptomatic therapy. A complex IBD model mimicking the human IBD etiology is required to overcome this limitation. Herein, we developed novel complex IBD models using interleukin 2 receptor subunit gamma (Il2rg)-deficient mice, high-fat diet, dextran sodium sulfate, and Citrobacter rodentium. The more IBD factors applied complexly, colon length shortened and inflammation worsened. The levels of pro-inflammatory cytokines increased with increased IBD factors. Anti-inflammatory cytokine decreased in all factors application but increased in Il2rg deficiency and Westernized diet combination. Additionally, the pro-inflammatory transcription factors and leaky intestinal epithelial marker were upregulated by a combination of IBD factors. Species diversity decreased with IBD factors. Phylogenetic diversity decreased as IBD factors were applied but increased with combined Il2rg deficiency and Westernized diet. The more IBD factors applied complexly, the more severe the dysbiosis. Finally, we developed a novel complex IBD model using various IBD factors. This model more closely mimic human IBD based on colonic inflammation and dysbiosis than the previous models. Based on these results, our novel complex IBD model could be a valuable tool for further IBD research.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311310)
+
+10.1371/journal.pone.0311310
 
 ---
 
@@ -352,15 +386,27 @@ Vulnerable patients in an intensive care unit (ICU) setting are at high risk of 
 
 ---
 
-## Soil microbiomes show consistent and predictable responses to extreme events
+## Soil microbiomes show consistent and predictable responses to extreme events.
+ 28.11.2024, _CG Knight, O Nicolitch, RI Griffiths, T Goodall, B Jones, C Weser, H Langridge, J Davison, A Dellavalle, N Eisenhauer, KB Gongalsky, A Hector, E Jardine, P Kardol, FT Maestre, M Schädler, M Semchenko, C Stevens, MΑ Tsiafouli, O Vilhelmsson, W Wanek, FT de Vries_
+
+
+Increasing extreme climatic events threaten the functioning of terrestrial ecosystems1,2. Because soil microbes govern key biogeochemical processes, understanding their response to climate extremes is crucial in predicting the consequences for ecosystem functioning3,4. Here we subjected soils from 30 grasslands across Europe to four contrasting extreme climatic events under common controlled conditions (drought, flood, freezing and heat), and compared the response of soil microbial communities and their functioning with those of undisturbed soils. Soil microbiomes exhibited a small, but highly consistent and phylogenetically conserved, response under the imposed extreme events. Heat treatment most strongly impacted soil microbiomes, enhancing dormancy and sporulation genes and decreasing metabolic versatility. Microbiome response to heat in particular could be predicted by local climatic conditions and soil properties, with soils that do not normally experience the extreme conditions being imposed being most vulnerable. Our results suggest that soil microbiomes from different climates share unified responses to extreme climatic events, but that predicting the extent of community change may require knowledge of the local microbiome. These findings advance our understanding of soil microbial responses to extreme events, and provide a first step for making general predictions about the impact of extreme climatic events on soil functioning.
 
 [Source](https://www.nature.com/articles/s41586-024-08185-3)
 
+10.1038/s41586-024-08185-3
+
 ---
 
-## A metagenome-assembled genome inventory for children reveals early-life gut bacteriome and virome dynamics
+## A metagenome-assembled genome inventory for children reveals early-life gut bacteriome and virome dynamics.
+ 26.11.2024, _Y Peng, J Zhu, S Wang, Y Liu, X Liu, O DeLeon, W Zhu, Z Xu, X Zhang, S Zhao, S Liang, H Li, B Ho, JY Ching, CP Cheung, TF Leung, WH Tam, TY Leung, EB Chang, FKL Chan, L Zhang, SC Ng, HM Tun_
+
+
+Existing microbiota databases are biased toward adult samples, hampering accurate profiling of the infant gut microbiome. Here, we generated a metagenome-assembled genome inventory for children (MAGIC) from a large collection of bulk and viral-like particle-enriched metagenomes from 0 to 7 years of age, encompassing 3,299 prokaryotic and 139,624 viral species-level genomes, 8.5% and 63.9% of which are unique to MAGIC. MAGIC improves early-life microbiome profiling, with the greatest improvement in read mapping observed in Africans. We then identified 54 candidate keystone species, including several Bifidobacterium spp. and four phages, forming guilds that fluctuated in abundance with time. Their abundances were reduced in preterm infants and were associated with childhood allergies. By analyzing the B. longum pangenome, we found evidence of phage-mediated evolution and quorum sensing-related ecological adaptation. Together, the MAGIC database recovers genomes that enable characterization of the dynamics of early-life microbiomes, identification of candidate keystone species, and strain-level study of target species.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S1931312824004025?via%3Dihub)
+
+10.1016/j.chom.2024.10.017
 
 ---
 
@@ -370,15 +416,47 @@ Vulnerable patients in an intensive care unit (ICU) setting are at high risk of 
 
 ---
 
-## Evaluation of DNA extraction kits for long-read shotgun metagenomics using Oxford Nanopore sequencing for rapid taxonomic and antimicrobial resistance detection
+## Evaluation of DNA extraction kits for long-read shotgun metagenomics using Oxford Nanopore sequencing for rapid taxonomic and antimicrobial resistance detection.
+ 28.11.2024, _S Purushothaman, M Meola, T Roloff, AM Rooney, A Egli_
+
+
+_Metagenomics, Nanopore Sequencing, Drug Resistance, Bacterial, DNA, Bacterial, Humans, Bacteria_
+During a bacterial infection or colonization, the detection of antimicrobial resistance (AMR) is critical, but slow due to culture-based approaches for clinical and screening samples. Culture-based phenotypic AMR detection and confirmation require up to 72 hours (h) or even weeks for slow-growing bacteria. Direct shotgun metagenomics by long-read sequencing using Oxford Nanopore Technologies (ONT) may reduce the time for bacterial species and AMR gene identification. However, screening swabs for metagenomics is complex due to the range of Gram-negative and -positive bacteria, diverse AMR genes, and host DNA present in the samples. Therefore, DNA extraction is a critical initial step. We aimed to compare the performance of different DNA extraction protocols for ONT applications to reliably identify species and AMR genes using a shotgun long-read metagenomic approach. We included three different sample types: ZymoBIOMICS Microbial Community Standard, an in-house mock community of ESKAPE pathogens including Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Escherichia coli (ESKAPE Mock), and anonymized clinical swab samples. We processed all sample types with four different DNA extraction kits utilizing different lysis (enzymatic vs. mechanical) and purification (spin-column vs. magnetic beads) methods. We used kits from Qiagen (QIAamp DNA Mini and QIAamp PowerFecal Pro DNA) and Promega (Maxwell RSC Cultured Cells and Maxwell RSC Buccal Swab DNA). After extraction, samples were subject to the Rapid Barcoding Kit (RBK004) for library preparation followed by sequencing on the GridION with R9.4.1 flow cells. The fast5 files were base called to fastq files using Guppy in High Accuracy (HAC) mode with the inbuilt MinKNOW software. Raw read quality was assessed using NanoPlot and human reads were removed using Minimap2 alignment against the Hg38 genome. Taxonomy identification was performed on the raw reads using Kraken2 and on assembled contigs using Minimap2. The AMR genes were identified using Minimap2 with alignment against the CARD database on both the raw reads and assembled contigs. We identified all bacterial species present in the Zymo Mock Community (8/8) and ESKAPE Mock (6/6) with Qiagen PowerFecal Pro DNA kit (chemical and mechanical lysis) at read and assembly levels. Enzymatic lysis retrieved fewer aligned bases for the Gram-positive species (Staphylococcus aureus and Enterococcus faecium) from the ESKAPE Mock on the assembly level compared to the mechanical lysis. We detected the AMR genes from Gram-negative and -positive species in the ESKAPE Mock with the QIAamp PowerFecal Pro DNA kit on reads level with a maximum median time of 1.9 h of sequencing. Long-read metagenomics with ONT may reduce the turnaround time in screening for AMR genes. Currently, the QIAamp PowerFecal Pro DNA kit (chemical and mechanical lysis) for DNA extraction along with the Rapid Barcoding Kit for the ONT sequencing captured the best taxonomy and AMR identification for our specific use case.
 
 [Source](https://www.nature.com/articles/s41598-024-80660-3)
+
+10.1038/s41598-024-80660-3
+
+---
+
+## Gardnerella pickettii sp. nov. (formerly Gardnerella genomic species 3) and Gardnerella greenwoodii sp. nov. (formerly Gardnerella genomic species 8) isolated from female urinary microbiome.
+ 06.11.2023, _M Sousa, M Ksiezarek, SU Perovic, T Antunes-Lopes, F Grosso, TG Ribeiro, L Peixe_
+
+
+_Female, Humans, Gardnerella, Fatty Acids, Sequence Analysis, DNA, Phylogeny, RNA, Ribosomal, 16S, Base Composition, DNA, Bacterial, Bacterial Typing Techniques, Genomics, Nucleic Acid Hybridization, Microbiota_
+During an ongoing female urinary microbiome research study, strains c17Ua_112T and c31Ua_26T isolated from urine samples of a patient diagnosed with overactive bladder and a healthy postmenopausal woman, respectively, could not be allocated to any Gardnerella species with valid names. In this work, we aimed to characterize these strains. The 16S rRNA gene sequences confirmed that these strains are members of the genus Gardnerella. Phylogenetic analysis based on cpn60 strongly supported two clades, one encompassing c17Ua_112T and nine other strains from the public database, and the other including c31Ua_26T and three other strains, which were distinct from currently recognized species of the genus Gardnerella. Likewise, the phylogenomic tree also showed that strains c17Ua_112T and c31Ua_26T formed independent and robust clusters. Average nucleotide identity (ANI) and digital DNA-DNA hybridization (dDDH) values between c17Ua_112T and c31Ua_26T were 79.27 and 27.4 %, respectively. Strain c17Ua_112T showed the highest ANI (94.8 %) and dDDH values (59.8 %) with Gardnerella piotii UGent 18.01T, and strain c31Ua_26T revealed highest ANI (84.2 %) and dDDH (29.1 %) values with Gardnerella swidsinskii GS 9838-1T. Based on the data presented here, the two strains c17Ua_112T and c31Ua_26T represent two novel species of the genus Gardnerella, for which the names Gardnerella pickettii (c17Ua_112T=DSM 113414T=CCP 71T) and Gardnerella greenwoodii (c31Ua_26T=DSM 113415T=CCP 72T) are proposed.
+
+[Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs?ref_src=embed)
+
+10.1099/ijsem.0.006140
 
 ---
 
 ## Svetlana Ugarcina Perovic (@svetlanaup.bsky.social)
 
 [Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs?ref_src=embed)
+
+---
+
+## Digital Solutions for Health Services and Systems Management: Narrative Review of Certified Software Features in the Brazilian Market.
+ 29.11.2024, _EA Bellei, PR Domenighi, CMDS Freitas, ACB De Marchi_
+
+
+The paper reviews digital solutions for health services management in Brazil, focusing on certified software features. It reveals the integration of various functionalities in operational, financial, and clinical needs simultaneously, which are critical for enhancing operational efficiency and patient care. This study highlights the integration of critical features like interoperability, compliance management, and data-driven decision support, although advancing innovation and integration remains essential for broader impact.
+
+[Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs/post/3lbihe4otjs2l?ref_src=embed)
+
+10.2196/65281
 
 ---
 
