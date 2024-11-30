@@ -17,15 +17,15 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
-## Perceptions of Illness Control, Coherence, and Self-Efficacy Following a Web-Based Lifestyle Program for Multiple Sclerosis: A Qualitative Analysis of Semistructured Interviews.
- 29.11.2024, _R Davenport, W Bevens, S Neate, P Jelinek, M Yu, G Jelinek, J Reece_
+## NeurosurGen, Inc.: an academic ancestry database for neurosurgery.
+ 29.11.2024, _AA Gajjar, CH Alleyne_
 
 
-Evidence suggests that illness perceptions held by people living with multiple sclerosis (MS) impact affective distress and physical health outcomes. In a randomized controlled trial, we developed 2 MS Online Courses-the standard care course and the intervention course (IC). The IC was adapted from an evidence-based lifestyle program. Modifying lifestyle risk factors offers an opportunity to impact illness perceptions. Research on illness perceptions in people living with MS has focused predominately on quantitative methods.
+The mission of NeurosurGen, Inc., is to compile and maintain genealogical data on every neurosurgeon in the US and, eventually, the world.
 
 [Source](https://cassyni.com/s/mvif-34)
 
-10.2196/60240
+10.3171/2024.7.JNS232995
 
 ---
 
@@ -41,16 +41,15 @@ Evidence suggests that illness perceptions held by people living with multiple s
 
 ---
 
-## Developing a universal equation to estimate the mass of dewatered wastewater sludge during biological digestion at mesophilic and thermophilic temperatures.
- 29.11.2024, _E Poorasgari, B Örmeci_
+## Presence of dengue virus RNA in urine and oral fluid of laboratory-confirmed dengue patients: Implications for wastewater surveillance.
+ 29.11.2024, _C Stauber, LC Jacob-Nascimento, C Grosch, MDS Sousa, MM Portilho, RO Anjos, MA Brinton, U Kitron, MG Reis, GS Ribeiro_
 
 
-_Sewage, Temperature, Waste Disposal, Fluid, Bioreactors, Anaerobiosis, Wastewater, Water_
-A series of dewaterability tests were conducted on various types of sludges to establish a wholistic relationship between sludge water fractions. Sludge samples were obtained from batch and continuous sludge digesters, which were operated anaerobically and aerobically under mesophilic and thermophilic conditions. Dewaterability of the sludge samples and the distribution of water fractions were studied using centrifugation and thermal drying. Thickened waste activated sludge (T-WAS) contained 10-11 g bound water (BW)/g of total solids (TS), and it was more hydrophilic than primary and digested sludges. During anaerobic digestion, BW content fluctuated between 3.2 and 4.2 g BW/g TS. However, aerobic digestion at 55°C reduced the BW content of the mixed T-WAS + primary sludges from 3.7 to 2.1 g BW/g TS. A linear function was developed to correlate supernatant and BW mass fractions (R2 = 0.995). An equation was derived from the linear function to estimate the mass of dewatered sludge based on the TS concentration of the initial wet sludge. The developed expression is applicable to different kinds of wastewater sludges. Such an expression would be helpful for the designers and operators of sludge thickening and dewatering systems that use centrifugal separation.
+Dengue cases in the Americas in 2024 have reached record highs, especially in Brazil. However, surveillance remains suboptimal and new methods are needed to monitor Dengue Virus (DENV) spread. To assess whether wastewater-based epidemiology would be a useful tool, we investigated the presence of DENV RNA in dengue patients' urine and oral fluid from an endemic area to inform how shedding in these fluids occurs and provide insight for wastewater surveillance.
 
 [Source](https://bsky.app/profile/did:plc:dyrbb3iiuynmhsho3hywdakx/post/3lbelftyhn22t?ref_src=embed)
 
-10.2166/wst.2024.366
+10.1016/j.bjid.2024.104484
 
 ---
 
@@ -110,15 +109,15 @@ Bioretention systems effectively capture rubber particles and other microplastic
 
 ---
 
-## High-Frequency Cognitive Control Training for Depression: Case Report.
- 29.11.2024, _Y Vander Zwalmen, K Hoorelbeke, D Demeester, EHW Koster_
+## Catalase-like activity of perylene diimide based radical anion: Chromogenic substrate for achieving glucose sensing.
+ 29.11.2024, _R Kaur, P Singh_
 
 
-Cognitive control training (CCT) has gained attention in recent years as a preventative intervention in the context of major depressive disorder. To date, uncertainty exists around the working mechanisms of CCT and how its effects unfold overtime.
+In this work, perylene diimide based radical anion (PH2-) is synthesized and characterized using optical, NOBF4 methods; cyclic voltammetry (CV) and differential pulse voltammetry (DPV) techniques. The PH2- is stable for 120 min (2 h) in oxygenated environment and 273 min (4.5 h) in hypoxic conditions. The PH2- showed catalase-like activity to reduce H2O2 to H2O with turn-over number (TON) = 20 and turn-over frequency (TOF) = 40 h-1. The catalase-like activity can be measured using optical and electrochemical methods by monitoring the changes at 726 nm (absorbance); 585 nm (emission) and at 0.27 V. We were able to quantitatively monitor the ultra low-level concentrations of the H2O2 as low as 320 fM (absorbance) and 200 fM (emission). Moreover, PH2- could be used as a chromogenic and fluorogenic substrate for monitoring the low-level concentrations of the glucose using GOx based biochemical assay. We have demonstrated the development and validation of the glucose assay kit for the detection of glucose as low as 3.6/2.8 nM in aqueous medium and 6.2/5.6 nM in blood serum.
 
 [Source](https://bsky.app/profile/did:plc:5r53rhz7nxiurzw4mfcmfewf/post/3lbu2xf2wps2o?ref_src=embed)
 
-10.2196/56598
+10.1016/j.saa.2024.125438
 
 ---
 
@@ -172,15 +171,15 @@ The human gut microbiome is highly personal. However, the contribution of gut ph
 
 ---
 
-## A Trifecta-Based Evaluation of Patients Treated with Percutaneous Thermal Ablation of Small Renal Masses.
- 29.11.2024, _G Lucignani, M Rizzo, AM Ierardi, A Piasentin, E De Lorenzis, C Trombetta, G Liguori, M Bertolotto, G Carrafiello, E Montanari, L Boeri_
+## Catalase-like activity of perylene diimide based radical anion: Chromogenic substrate for achieving glucose sensing.
+ 29.11.2024, _R Kaur, P Singh_
 
 
-Background: Scoring metrics are important to compare outcomes of different percutaneous treatments for small renal masses (RMs). The concept of trifecta (no complications, kidney function preservation, and absence of local recurrence) has been recently introduced in percutaneous thermal ablation of RM. In this context, previous studies have shown that cryoablation (CA) and microwave ablation (MWA) have similar outcomes. We aimed to validate the trifecta in CA and MWA and factors associated with treatment success. Materials and Methods: A retrospective comparative analysis of two cohorts was carried out on 190 consecutive patients with RMs treated using percutaneous CA or MWA. Nephrometry scores described RM complexity. Postoperative complications were categorized according to the Clavien-Dindo system. Glomerular filtration rate (GFR) at the last follow-up was calculated through the chronic kidney disease-epidemiology collaboration (EPI) formula, whereas detection of contrast enhancement during follow-up defined local recurrence. Last, trifecta was defined by the combination of no major (Clavien &gt;2) complications, estimation of GFR (eGFR) decline &lt;10%, and absence of local recurrence. Descriptive statistics and logistic regression models tested the association between predictors and trifecta achievement. Factors associated with recurrence were compared by the log-rank test. Results: Of 175 patients, 121 (69.1%) and 54 (30.8%) patients underwent CA and MWA, respectively. Median (interquartile range [IQR]) age and RM diameter were 75 years (66-80) and 2.4 cm (1.8-3.0). The CA group had a lower preoperative GFR but also had a lower rate of comorbidities (both p = 0.01). Other demographics and tumor characteristics were comparable between groups. In the CA and MWA groups, major complications occurred after 1.6% and 4.8% of procedures (p = 0.33), whereas an eGFR decline &gt;10% was found in 31.5% and 38.8% of cases (p = 0.40), respectively. Similarly, in the CA and MWA groups, at a median follow-up of 21 (8-39) and 24 (9.5-36) months, local recurrence was observed after 10 (8.3%) and 5 (9.3%) cases (p = 0.78), trifecta was accomplished after 72 (59.5%) and 32 (59.3%; p = 1.00) procedures, respectively. Of note, recurrence-free survival (RFS) was comparable among groups (p = 0.57). Moreover, trifecta achievement was comparable when stratifying for demographics and tumor characteristics in the whole cohort and in the CA group (p &gt; 0.05). Conversely, logistic regression showed a lower odds ratio (OR) of trifecta for lesions close to renal collecting system treated by MWA, even when accounting for maximum diameter and preoperative GFR (OR 0.21, confidence interval 0.60-0.72, p = 0.010). Of note, this factor was also associated with a significantly lower RFS (log-rank p = 0.002). Conclusions: Both percutaneous CA and MWA of RM can safely accomplish good oncological outcomes while preserving renal function. Approximately 6 out of 10 patients achieved trifecta after each procedure. Patient selection should account for tumor proximity to the collecting system, as this factor seems to impact the outcomes of MWA.
+In this work, perylene diimide based radical anion (PH2-) is synthesized and characterized using optical, NOBF4 methods; cyclic voltammetry (CV) and differential pulse voltammetry (DPV) techniques. The PH2- is stable for 120 min (2 h) in oxygenated environment and 273 min (4.5 h) in hypoxic conditions. The PH2- showed catalase-like activity to reduce H2O2 to H2O with turn-over number (TON) = 20 and turn-over frequency (TOF) = 40 h-1. The catalase-like activity can be measured using optical and electrochemical methods by monitoring the changes at 726 nm (absorbance); 585 nm (emission) and at 0.27 V. We were able to quantitatively monitor the ultra low-level concentrations of the H2O2 as low as 320 fM (absorbance) and 200 fM (emission). Moreover, PH2- could be used as a chromogenic and fluorogenic substrate for monitoring the low-level concentrations of the glucose using GOx based biochemical assay. We have demonstrated the development and validation of the glucose assay kit for the detection of glucose as low as 3.6/2.8 nM in aqueous medium and 6.2/5.6 nM in blood serum.
 
 [Source](https://bsky.app/profile/did:plc:jyh2n3qwawf2uk6pyg4ulujg/post/3lbwe7op4gk26?ref_src=embed)
 
-10.1089/end.2024.0091.fts24
+10.1016/j.saa.2024.125438
 
 ---
 
@@ -232,15 +231,15 @@ A study was conducted in fish processing facilities to investigate the microbial
 
 ---
 
-## High-Frequency Cognitive Control Training for Depression: Case Report.
- 29.11.2024, _Y Vander Zwalmen, K Hoorelbeke, D Demeester, EHW Koster_
+## Assessing the evolution of pre-hospital combat casualty care: A comparative study of two conflicts a decade apart.
+ 29.11.2024, _D Epstein, I Radimislensky, AM Lipsky, S Minha, S Kiso, Y Sagie, M Zer, Y Yosef, A Givon, E Katorza, G Twig, B Gordon, S Shapira_
 
 
-Cognitive control training (CCT) has gained attention in recent years as a preventative intervention in the context of major depressive disorder. To date, uncertainty exists around the working mechanisms of CCT and how its effects unfold overtime.
+Combat casualty care has advanced significantly with the implementation of evidence-based protocols designed to lower combat-related mortality. Over the last decade, two major urban conflicts in southern Israel have challenged the evolving military trauma system. This study aimed to assess differences in prehospital care and compare the outcomes of aeromedically evacuated casualties from the 2014 and 2023 conflicts.
 
 [Source](https://bsky.app/profile/did:plc:pcld5no3yjxnsues74juglri/post/3lb7soxsvrs2k?ref_src=embed)
 
-10.2196/56598
+10.1016/j.ajem.2024.11.077
 
 ---
 
@@ -311,15 +310,15 @@ Vulnerable patients in an intensive care unit (ICU) setting are at high risk of 
 
 ---
 
-## Genome-based reclassification of Spiroplasma atrichopogonis Koerber et al. 2005 as a later heterotypic synonym of Spiroplasma mirum Tully et al. 1982.
- 29.11.2024, _V Bhargava, D Lahon, S Gupta, J Kaur, P Lata_
+## Au nanoflower/Au island hybrid substrate as high-performance SERS platforms.
+ 29.11.2024, _X Mi, X Zhao, Y Luo, Y Li, Y Wu, S Xue, X Yang, Z Zhang, H Qiao_
 
 
-The present study was carried out to clarify the taxonomic assignment of two closely related Spiroplasma species. Genomic information for 26 type strains was available at the time of conducting this analysis. Our analysis showed that two species, viz. Spiroplasma atrichopogonis (Koerber et al. 2005) and Spiroplasma mirum (Tully et al. 1982), are conspecific. The 16S rRNA gene sequences of the two species possess 99.78% sequence similarity. Furthermore, whole-genome sequence comparisons showed that S. atrichopogonis GNAT3597T (CP011855.1) GCA 001029245.1 and S. mirum ATCC 29335T (CP002082.1) GCA 000517365.1 shared 99.99% average nucleotide identity, 99.99% average amino acid identity and 100% digital DNA-DNA hybridization values. These values exceed the threshold values for bacterial species delineation, indicating that they belong to the same species. Furthermore, the phylogenomic analysis based on the core proteome of the strains under study confirmed that S. atrichopogonis GNAT3597T (CP011855.1) GCA 001029245.1 and S. mirum ATCC 29335T (CP002082.1) GCA 000517365.1 formed a monophyletic clade. Based on this evidence, we propose the reclassification of S. atrichopogonis Koerber et al. 2005 as a later heterotypic synonym of S. mirum Tully et al. 1982.
+Surface-enhanced Raman scattering (SERS) offers significant enhancements to weak Raman signals, which has been widely used for the detection of ultra-low concentrations of molecules. Obtaining repeatable SERS substrates with high density "hot spots" is one of the main challenges for quantitative analysis using SERS. Herein, a SERS substrate based on Au nanoflower/nanoisland (NF/NI) hybrid substrate is constructed. The Au NF/NI substrate can generate "hot spots" by the nanogap between nanotip of Au NF and Au NI, which has been proved to have high stability and sensitivity by experiments, the limit of detection is determined to be down to 10-11 M for Rhodamine 6G (R6G) molecules. In addition, the Au NF/NI hybrid substrate as template can be further extended to prepare bimetallic SERS substrates. This synthetic pathway will not only contribute to the design of new type of SERS substrate, but also promote understanding of the growth mechanisms of multicomponent nanostructure.
 
 [Source](https://bsky.app/profile/did:plc:vf4j77c7bvnyn7lmeeu3byyo/post/3lbw44njddk2q?ref_src=embed)
 
-10.1099/ijsem.0.006589
+10.1016/j.saa.2024.125483
 
 ---
 
@@ -367,16 +366,9 @@ In this study, we evaluated the impact of yeast cell wall prebiotics and multisp
 
 ---
 
-## Development of a novel complex inflammatory bowel disease mouse model: Reproducing human inflammatory bowel disease etiologies in mice.
- 23.11.2024, _SM Seo, NW Kim, ES Yoo, JH Lee, AR Kang, HB Jeong, WY Shim, DH Kim, YJ Park, K Bae, KA Yoon, YK Choi_
-
-
-_Animals, Disease Models, Animal, Mice, Inflammatory Bowel Diseases, Humans, Dextran Sulfate, Diet, High-Fat, Cytokines, Mice, Inbred C57BL, Citrobacter rodentium, Dysbiosis, Gastrointestinal Microbiome, Colon, Mice, Knockout, Male_
-Inflammatory bowel disease (IBD), caused by environmental factors associated with the host's genetic traits, is represented by Crohn's disease and ulcerative colitis. Despite the increasing number of patients with IBD, the current treatment is limited to symptomatic therapy. A complex IBD model mimicking the human IBD etiology is required to overcome this limitation. Herein, we developed novel complex IBD models using interleukin 2 receptor subunit gamma (Il2rg)-deficient mice, high-fat diet, dextran sodium sulfate, and Citrobacter rodentium. The more IBD factors applied complexly, colon length shortened and inflammation worsened. The levels of pro-inflammatory cytokines increased with increased IBD factors. Anti-inflammatory cytokine decreased in all factors application but increased in Il2rg deficiency and Westernized diet combination. Additionally, the pro-inflammatory transcription factors and leaky intestinal epithelial marker were upregulated by a combination of IBD factors. Species diversity decreased with IBD factors. Phylogenetic diversity decreased as IBD factors were applied but increased with combined Il2rg deficiency and Westernized diet. The more IBD factors applied complexly, the more severe the dysbiosis. Finally, we developed a novel complex IBD model using various IBD factors. This model more closely mimic human IBD based on colonic inflammation and dysbiosis than the previous models. Based on these results, our novel complex IBD model could be a valuable tool for further IBD research.
+## Development of a novel complex inflammatory bowel disease mouse model: Reproducing human inflammatory bowel disease etiologies in mice
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311310)
-
-10.1371/journal.pone.0311310
 
 ---
 
@@ -386,27 +378,15 @@ Inflammatory bowel disease (IBD), caused by environmental factors associated wit
 
 ---
 
-## Soil microbiomes show consistent and predictable responses to extreme events.
- 28.11.2024, _CG Knight, O Nicolitch, RI Griffiths, T Goodall, B Jones, C Weser, H Langridge, J Davison, A Dellavalle, N Eisenhauer, KB Gongalsky, A Hector, E Jardine, P Kardol, FT Maestre, M Schädler, M Semchenko, C Stevens, MΑ Tsiafouli, O Vilhelmsson, W Wanek, FT de Vries_
-
-
-Increasing extreme climatic events threaten the functioning of terrestrial ecosystems1,2. Because soil microbes govern key biogeochemical processes, understanding their response to climate extremes is crucial in predicting the consequences for ecosystem functioning3,4. Here we subjected soils from 30 grasslands across Europe to four contrasting extreme climatic events under common controlled conditions (drought, flood, freezing and heat), and compared the response of soil microbial communities and their functioning with those of undisturbed soils. Soil microbiomes exhibited a small, but highly consistent and phylogenetically conserved, response under the imposed extreme events. Heat treatment most strongly impacted soil microbiomes, enhancing dormancy and sporulation genes and decreasing metabolic versatility. Microbiome response to heat in particular could be predicted by local climatic conditions and soil properties, with soils that do not normally experience the extreme conditions being imposed being most vulnerable. Our results suggest that soil microbiomes from different climates share unified responses to extreme climatic events, but that predicting the extent of community change may require knowledge of the local microbiome. These findings advance our understanding of soil microbial responses to extreme events, and provide a first step for making general predictions about the impact of extreme climatic events on soil functioning.
+## Soil microbiomes show consistent and predictable responses to extreme events
 
 [Source](https://www.nature.com/articles/s41586-024-08185-3)
 
-10.1038/s41586-024-08185-3
-
 ---
 
-## A metagenome-assembled genome inventory for children reveals early-life gut bacteriome and virome dynamics.
- 26.11.2024, _Y Peng, J Zhu, S Wang, Y Liu, X Liu, O DeLeon, W Zhu, Z Xu, X Zhang, S Zhao, S Liang, H Li, B Ho, JY Ching, CP Cheung, TF Leung, WH Tam, TY Leung, EB Chang, FKL Chan, L Zhang, SC Ng, HM Tun_
-
-
-Existing microbiota databases are biased toward adult samples, hampering accurate profiling of the infant gut microbiome. Here, we generated a metagenome-assembled genome inventory for children (MAGIC) from a large collection of bulk and viral-like particle-enriched metagenomes from 0 to 7 years of age, encompassing 3,299 prokaryotic and 139,624 viral species-level genomes, 8.5% and 63.9% of which are unique to MAGIC. MAGIC improves early-life microbiome profiling, with the greatest improvement in read mapping observed in Africans. We then identified 54 candidate keystone species, including several Bifidobacterium spp. and four phages, forming guilds that fluctuated in abundance with time. Their abundances were reduced in preterm infants and were associated with childhood allergies. By analyzing the B. longum pangenome, we found evidence of phage-mediated evolution and quorum sensing-related ecological adaptation. Together, the MAGIC database recovers genomes that enable characterization of the dynamics of early-life microbiomes, identification of candidate keystone species, and strain-level study of target species.
+## A metagenome-assembled genome inventory for children reveals early-life gut bacteriome and virome dynamics
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S1931312824004025?via%3Dihub)
-
-10.1016/j.chom.2024.10.017
 
 ---
 
@@ -416,47 +396,15 @@ Existing microbiota databases are biased toward adult samples, hampering accurat
 
 ---
 
-## Evaluation of DNA extraction kits for long-read shotgun metagenomics using Oxford Nanopore sequencing for rapid taxonomic and antimicrobial resistance detection.
- 28.11.2024, _S Purushothaman, M Meola, T Roloff, AM Rooney, A Egli_
-
-
-_Metagenomics, Nanopore Sequencing, Drug Resistance, Bacterial, DNA, Bacterial, Humans, Bacteria_
-During a bacterial infection or colonization, the detection of antimicrobial resistance (AMR) is critical, but slow due to culture-based approaches for clinical and screening samples. Culture-based phenotypic AMR detection and confirmation require up to 72 hours (h) or even weeks for slow-growing bacteria. Direct shotgun metagenomics by long-read sequencing using Oxford Nanopore Technologies (ONT) may reduce the time for bacterial species and AMR gene identification. However, screening swabs for metagenomics is complex due to the range of Gram-negative and -positive bacteria, diverse AMR genes, and host DNA present in the samples. Therefore, DNA extraction is a critical initial step. We aimed to compare the performance of different DNA extraction protocols for ONT applications to reliably identify species and AMR genes using a shotgun long-read metagenomic approach. We included three different sample types: ZymoBIOMICS Microbial Community Standard, an in-house mock community of ESKAPE pathogens including Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Escherichia coli (ESKAPE Mock), and anonymized clinical swab samples. We processed all sample types with four different DNA extraction kits utilizing different lysis (enzymatic vs. mechanical) and purification (spin-column vs. magnetic beads) methods. We used kits from Qiagen (QIAamp DNA Mini and QIAamp PowerFecal Pro DNA) and Promega (Maxwell RSC Cultured Cells and Maxwell RSC Buccal Swab DNA). After extraction, samples were subject to the Rapid Barcoding Kit (RBK004) for library preparation followed by sequencing on the GridION with R9.4.1 flow cells. The fast5 files were base called to fastq files using Guppy in High Accuracy (HAC) mode with the inbuilt MinKNOW software. Raw read quality was assessed using NanoPlot and human reads were removed using Minimap2 alignment against the Hg38 genome. Taxonomy identification was performed on the raw reads using Kraken2 and on assembled contigs using Minimap2. The AMR genes were identified using Minimap2 with alignment against the CARD database on both the raw reads and assembled contigs. We identified all bacterial species present in the Zymo Mock Community (8/8) and ESKAPE Mock (6/6) with Qiagen PowerFecal Pro DNA kit (chemical and mechanical lysis) at read and assembly levels. Enzymatic lysis retrieved fewer aligned bases for the Gram-positive species (Staphylococcus aureus and Enterococcus faecium) from the ESKAPE Mock on the assembly level compared to the mechanical lysis. We detected the AMR genes from Gram-negative and -positive species in the ESKAPE Mock with the QIAamp PowerFecal Pro DNA kit on reads level with a maximum median time of 1.9 h of sequencing. Long-read metagenomics with ONT may reduce the turnaround time in screening for AMR genes. Currently, the QIAamp PowerFecal Pro DNA kit (chemical and mechanical lysis) for DNA extraction along with the Rapid Barcoding Kit for the ONT sequencing captured the best taxonomy and AMR identification for our specific use case.
+## Evaluation of DNA extraction kits for long-read shotgun metagenomics using Oxford Nanopore sequencing for rapid taxonomic and antimicrobial resistance detection
 
 [Source](https://www.nature.com/articles/s41598-024-80660-3)
-
-10.1038/s41598-024-80660-3
-
----
-
-## Gardnerella pickettii sp. nov. (formerly Gardnerella genomic species 3) and Gardnerella greenwoodii sp. nov. (formerly Gardnerella genomic species 8) isolated from female urinary microbiome.
- 06.11.2023, _M Sousa, M Ksiezarek, SU Perovic, T Antunes-Lopes, F Grosso, TG Ribeiro, L Peixe_
-
-
-_Female, Humans, Gardnerella, Fatty Acids, Sequence Analysis, DNA, Phylogeny, RNA, Ribosomal, 16S, Base Composition, DNA, Bacterial, Bacterial Typing Techniques, Genomics, Nucleic Acid Hybridization, Microbiota_
-During an ongoing female urinary microbiome research study, strains c17Ua_112T and c31Ua_26T isolated from urine samples of a patient diagnosed with overactive bladder and a healthy postmenopausal woman, respectively, could not be allocated to any Gardnerella species with valid names. In this work, we aimed to characterize these strains. The 16S rRNA gene sequences confirmed that these strains are members of the genus Gardnerella. Phylogenetic analysis based on cpn60 strongly supported two clades, one encompassing c17Ua_112T and nine other strains from the public database, and the other including c31Ua_26T and three other strains, which were distinct from currently recognized species of the genus Gardnerella. Likewise, the phylogenomic tree also showed that strains c17Ua_112T and c31Ua_26T formed independent and robust clusters. Average nucleotide identity (ANI) and digital DNA-DNA hybridization (dDDH) values between c17Ua_112T and c31Ua_26T were 79.27 and 27.4 %, respectively. Strain c17Ua_112T showed the highest ANI (94.8 %) and dDDH values (59.8 %) with Gardnerella piotii UGent 18.01T, and strain c31Ua_26T revealed highest ANI (84.2 %) and dDDH (29.1 %) values with Gardnerella swidsinskii GS 9838-1T. Based on the data presented here, the two strains c17Ua_112T and c31Ua_26T represent two novel species of the genus Gardnerella, for which the names Gardnerella pickettii (c17Ua_112T=DSM 113414T=CCP 71T) and Gardnerella greenwoodii (c31Ua_26T=DSM 113415T=CCP 72T) are proposed.
-
-[Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs?ref_src=embed)
-
-10.1099/ijsem.0.006140
 
 ---
 
 ## Svetlana Ugarcina Perovic (@svetlanaup.bsky.social)
 
 [Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs?ref_src=embed)
-
----
-
-## Digital Solutions for Health Services and Systems Management: Narrative Review of Certified Software Features in the Brazilian Market.
- 29.11.2024, _EA Bellei, PR Domenighi, CMDS Freitas, ACB De Marchi_
-
-
-The paper reviews digital solutions for health services management in Brazil, focusing on certified software features. It reveals the integration of various functionalities in operational, financial, and clinical needs simultaneously, which are critical for enhancing operational efficiency and patient care. This study highlights the integration of critical features like interoperability, compliance management, and data-driven decision support, although advancing innovation and integration remains essential for broader impact.
-
-[Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs/post/3lbihe4otjs2l?ref_src=embed)
-
-10.2196/65281
 
 ---
 
