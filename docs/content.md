@@ -17,15 +17,15 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
-## Establishing a Comprehensive Hierarchical construct of Eustress (CHE).
- 02.12.2024, _J Kloidt, LW Barsalou_
+## KPNA3 regulates histone locus body formation by modulating condensation and nuclear import of NPAT.
+ 02.12.2024, _SB Xu, XK Gao, HD Liang, XX Cong, XQ Chen, WK Zou, JL Tao, ZY Pan, J Zhao, M Huang, Z Bao, YT Zhou, LL Zheng_
 
 
-Eustress as a positive response to challenging situations has received increasing attention across diverse literatures, reflecting its potential to improve wellbeing, work performance, and personal growth. In the process, eustress has been defined, measured, and manipulated in myriad ways, leading to fragmentation and vagueness. Because a unified and well-specified construct would significantly support eustress research, we developed one here. Rather than basing it on our subjective views, we developed it empirically, extracting 57 unique features of eustress from 80 theoretical, interventional, empirical, and psychometric articles. Organizing and interpreting these 57 features produced a Comprehensive Hierarchical construct of Eustress (CHE). According to CHE, eustress emerges from three sources: (1) successful goal-directed action, (2) experiencing the moment in an enjoyable, fulfilling, or meaningful manner, and (3) positive stable qualities of the individual. Within each source, CHE establishes specific facets of eustress hierarchically, which in turn organize the 57 eustress features extracted initially. Bibliometric analyses identified CHE's hierarchical elements addressed most often in the eustress literatures. Overall, these results suggest that eustress cannot be specified with a simple definition but should instead be viewed as a family resemblance structure having statistical properties. Rather than taking a single form, eustress manifests itself as diverse states during successful goal-directed action and fulfilling momentary experience. Regularly producing eustress in these manners likely establishes CHE's trait-like qualities for generating eustress effectively on future occasions. Interestingly, these qualities overlap highly with well-established elements of wellbeing, suggesting that wellbeing contributes to eustress in challenging situations.
+The histone locus body (HLB) is a membraneless organelle that determines the transcription of replication-dependent histones. However, the mechanisms underlying the appropriate formation of the HLB in the nucleus but not in the cytoplasm remain unknown. HLB formation is dependent on the scaffold protein NPAT. We identify KPNA3 as a specific importin that drives the nuclear import of NPAT by binding to the nuclear localization signal (NLS) sequence. NPAT undergoes phase separation, which is inhibited by KPNA3-mediated impairment of self-association. In this, a C-terminal self-interaction facilitator (C-SIF) motif, proximal to the NLS, binds the middle 431-1,030 sequence to mediate the self-association of NPAT. Mechanistically, the anchoring of KPNA3 to the NPAT-NLS sterically blocks C-SIF motif-dependent NPAT self-association. This leads to the suppression of aberrant NPAT condensation in the cytoplasm. Collectively, our study reveals a previously unappreciated role of KPNA3 in modulating HLB formation and delineates a steric hindrance mechanism that prevents inappropriate cytoplasmic NPAT condensation.
 
 [Source](https://cassyni.com/s/mvif-34)
 
-10.1007/s12144-024-06750-7
+10.1083/jcb.202401036
 
 ---
 
@@ -41,15 +41,15 @@ Eustress as a positive response to challenging situations has received increasin
 
 ---
 
-## The clinical and pathological significance of tertiary lymphoid structure in extramammary Paget's disease.
- 02.12.2024, _N Xi, X Xu, M Xu, N Wu, Y Wu, J Chen, S Liu, L Jiang, G Yan, G Zhang, Y Liu_
+## Long-term functional recovery after rib fractures: The impact of frailty.
+ 02.12.2024, _W Rafaqat, VS Panossian, A Yi, P Heindel, M Abiad, S Ilkhani, A Heyman, S Garvey, GA Anderson, SE Sanchez, JP Herrera-Escobar, JO Hwabejire_
 
 
-Tumor-associated tertiary lymphoid structures (TLSs) are functional immune-responsive aggregates, which have been reported to be associated with better prognosis in various tumors. However, their exact characteristics and prognostic value in extramammary Paget's disease (EMPD) remain unknown.
+Previous studies have shown that patients with rib fractures experience long-term functional limitations. However, the specific predictors of these worse long-term functional limitations remain under-characterized.
 
 [Source](https://bsky.app/profile/did:plc:dyrbb3iiuynmhsho3hywdakx/post/3lbelftyhn22t?ref_src=embed)
 
-10.3389/fimmu.2024.1435629
+10.1097/TA.0000000000004489
 
 ---
 
@@ -109,15 +109,15 @@ Bioretention systems effectively capture rubber particles and other microplastic
 
 ---
 
-## UPLC Estimate of Sofosbuvir and Ledipasvir Utilizing Greenness Tool in Conjunction With an Analytical Quality by Design.
- 02.12.2024, _R Bairam, K Mahesh, HK Tatapudi, S Thoom_
+## Development and Evaluation of 4 Short, Animated Videos for Women in Midlife Promoting Positive Health Behaviors: Survey Study.
+ 02.12.2024, _K Hammarberg, M Bandyopadhyay, H Nguyen, F Cicuttini, KA Stanzel, H Brown, M Hickey, J Fisher_
 
 
-Ledipasvir in combination with sofosbuvir approved by regulatory bodies used to treat chronic hepatitis C. The present work investigates the design and development of a new, quick, green, and selective UPLC (ultra-performance liquid chromatography) approach to concurrently quantify sofosbuvir and ledipasvir. Optimization with Box-Behnken design paired the green analytical method and quality by design-based risk assessment. A mobile phase of 65%:35% ethanol by volume and phosphate buffer (15 mM; pH 3.0) was used, with a flow rate of 0.28 mL per minute, to achieve the best chromatographic separation. With linearities ranging from 20 to 100, 4.5-22.5 μg/mL, and R2 values of 0.9999 and 0.9997, respectively, the established UPLC-PDA technique proved sensitive and specific for sofosbuvir and ledipasvir. The stability-indicating test findings demonstrate the degradation under the relevant stress conditions. The most environmentally friendly results were found when the level of environmental sustainability was evaluated using four advanced metrics: GAPI, AES, AMGS, and AGREE. Based on the findings, we came to the conclusion that the UPLC technique that was developed would be effective for the concurrent analysis of sofosbuvir and ledipasvir in tablet medication.
+Health and health behaviors in midlife are important determinants of healthy aging. There is evidence of unmet needs for health-promoting information for women from culturally and linguistically diverse backgrounds and women with low literacy.
 
 [Source](https://bsky.app/profile/did:plc:5r53rhz7nxiurzw4mfcmfewf/post/3lbu2xf2wps2o?ref_src=embed)
 
-10.1002/bmc.6047
+10.2196/60949
 
 ---
 
@@ -171,15 +171,15 @@ The human gut microbiome is highly personal. However, the contribution of gut ph
 
 ---
 
-## Morphological Characteristics of Interatrial Septum and Its Clinical Relevance.
- 02.12.2024, _Y P, J Chopra, P Manik, A Rai, S Kumari, K Dande_
+## Development and Evaluation of 4 Short, Animated Videos for Women in Midlife Promoting Positive Health Behaviors: Survey Study.
+ 02.12.2024, _K Hammarberg, M Bandyopadhyay, H Nguyen, F Cicuttini, KA Stanzel, H Brown, M Hickey, J Fisher_
 
 
-The development of new trans-septal transcatheter interventions for patients with structural heart disease necessitates a precise and comprehensive understanding of the anatomy of the interatrial septum (IAS). The scarcity of gross anatomical studies has triggered our interest in exploring the morphometry and morphology of IAS.
+Health and health behaviors in midlife are important determinants of healthy aging. There is evidence of unmet needs for health-promoting information for women from culturally and linguistically diverse backgrounds and women with low literacy.
 
 [Source](https://bsky.app/profile/did:plc:jyh2n3qwawf2uk6pyg4ulujg/post/3lbwe7op4gk26?ref_src=embed)
 
-10.1002/ccd.31304
+10.2196/60949
 
 ---
 
@@ -231,15 +231,15 @@ A study was conducted in fish processing facilities to investigate the microbial
 
 ---
 
-## Line-field confocal optical coherence tomography of basal cell carcinoma: A retrospective study on diagnostic performance.
- 02.12.2024, _L Mtimet, L Boussingault, D Aktas, M Fontaine, C Orte Cano, G Diet, C Lenoir, M Miyamoto, E Cinotti, L Tognetti, A Cartocci, P Rubegni, S Puig, J Malvehy, J Perez-Anker, JL Perrot, V Del Marmol, M Suppa_
+## A little goes a long way: A comparison of enterolithotomy versus single-stage cholecystectomy in the management of gallstone ileus.
+ 02.12.2024, _MH Khurshid, O Hejazi, AL Spencer, A Nelson, C Stewart, C Colosimo, M Ditillo, MR Matthews, LJ Magnotti, B Joseph_
 
 
-Line-field confocal optical coherence tomography (LC-OCT) represents one of the newest non-invasive in vivo skin imaging techniques. Previous studies described morphologic criteria of basal cell carcinoma (BCC) under LC-OCT examination. Preliminary data on LC-OCT diagnostic performance for BCC have recently been published but showed only a modest improvement compared to dermoscopy, possibly due to study limitations.
+Gallstone ileus is an infrequent complication of cholelithiasis with no specific guidelines for its management. This study aims to compare the outcomes of patients with gallstone ileus managed with both enterolithotomy with cholecystectomy (EL-CCY) versus those managed with enterolithotomy (EL) only.
 
 [Source](https://bsky.app/profile/did:plc:pcld5no3yjxnsues74juglri/post/3lb7soxsvrs2k?ref_src=embed)
 
-10.1111/jdv.20459
+10.1097/TA.0000000000004497
 
 ---
 
@@ -310,15 +310,15 @@ Vulnerable patients in an intensive care unit (ICU) setting are at high risk of 
 
 ---
 
-## Prolonged venous transit is associated with lower odds of excellent recovery after reperfusion in anterior large-vessel occlusion stroke.
- 02.12.2024, _HA Salim, DA Lakhani, J Mei, L Luna, M Shahriari, NZ Hyson, F Deng, AA Dmytriw, A Guenego, VC Urrutia, EB Marsh, H Lu, R Xu, R Leigh, D Wolman, G Shah, B Pulli, GW Albers, AE Hillis, R Llinas, K Nael, M Wintermark, JJ Heit, TD Faizy, V Yedavalli_
+## Prophylactic Vancomycin Leads to Fewer Device Removals in Sacral Neuromodulation.
+ 02.12.2024, _JA Ohene-Agyei, X Wang, S Sahil, AL Cheng, JP Shepherd, G Sutkin_
 
 
-Acute ischemic stroke due to anterior circulation large-vessel occlusion (AIS-LVO) remains a leading cause of disability despite successful reperfusion therapies. Prolonged venous transit (PVT) has emerged as a potential prognostic imaging biomarker in AIS-LVO. We aimed to investigate whether PVT is associated with a decreased likelihood of excellent functional outcome (modified Rankin Scale [mRS] score of 0-1 at 90 days) after successful reperfusion.
+Sacral neuromodulation (SNM) requires removal for infectious complications in 3-11%.
 
 [Source](https://bsky.app/profile/did:plc:vf4j77c7bvnyn7lmeeu3byyo/post/3lbw44njddk2q?ref_src=embed)
 
-10.1111/ene.16563
+10.1097/SPV.0000000000001606
 
 ---
 
@@ -366,16 +366,9 @@ In this study, we evaluated the impact of yeast cell wall prebiotics and multisp
 
 ---
 
-## Development of a novel complex inflammatory bowel disease mouse model: Reproducing human inflammatory bowel disease etiologies in mice.
- 23.11.2024, _SM Seo, NW Kim, ES Yoo, JH Lee, AR Kang, HB Jeong, WY Shim, DH Kim, YJ Park, K Bae, KA Yoon, YK Choi_
-
-
-_Animals, Disease Models, Animal, Mice, Inflammatory Bowel Diseases, Humans, Dextran Sulfate, Diet, High-Fat, Cytokines, Mice, Inbred C57BL, Citrobacter rodentium, Dysbiosis, Gastrointestinal Microbiome, Colon, Mice, Knockout, Male_
-Inflammatory bowel disease (IBD), caused by environmental factors associated with the host's genetic traits, is represented by Crohn's disease and ulcerative colitis. Despite the increasing number of patients with IBD, the current treatment is limited to symptomatic therapy. A complex IBD model mimicking the human IBD etiology is required to overcome this limitation. Herein, we developed novel complex IBD models using interleukin 2 receptor subunit gamma (Il2rg)-deficient mice, high-fat diet, dextran sodium sulfate, and Citrobacter rodentium. The more IBD factors applied complexly, colon length shortened and inflammation worsened. The levels of pro-inflammatory cytokines increased with increased IBD factors. Anti-inflammatory cytokine decreased in all factors application but increased in Il2rg deficiency and Westernized diet combination. Additionally, the pro-inflammatory transcription factors and leaky intestinal epithelial marker were upregulated by a combination of IBD factors. Species diversity decreased with IBD factors. Phylogenetic diversity decreased as IBD factors were applied but increased with combined Il2rg deficiency and Westernized diet. The more IBD factors applied complexly, the more severe the dysbiosis. Finally, we developed a novel complex IBD model using various IBD factors. This model more closely mimic human IBD based on colonic inflammation and dysbiosis than the previous models. Based on these results, our novel complex IBD model could be a valuable tool for further IBD research.
+## Development of a novel complex inflammatory bowel disease mouse model: Reproducing human inflammatory bowel disease etiologies in mice
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311310)
-
-10.1371/journal.pone.0311310
 
 ---
 
@@ -385,27 +378,15 @@ Inflammatory bowel disease (IBD), caused by environmental factors associated wit
 
 ---
 
-## Soil microbiomes show consistent and predictable responses to extreme events.
- 28.11.2024, _CG Knight, O Nicolitch, RI Griffiths, T Goodall, B Jones, C Weser, H Langridge, J Davison, A Dellavalle, N Eisenhauer, KB Gongalsky, A Hector, E Jardine, P Kardol, FT Maestre, M Schädler, M Semchenko, C Stevens, MΑ Tsiafouli, O Vilhelmsson, W Wanek, FT de Vries_
-
-
-Increasing extreme climatic events threaten the functioning of terrestrial ecosystems1,2. Because soil microbes govern key biogeochemical processes, understanding their response to climate extremes is crucial in predicting the consequences for ecosystem functioning3,4. Here we subjected soils from 30 grasslands across Europe to four contrasting extreme climatic events under common controlled conditions (drought, flood, freezing and heat), and compared the response of soil microbial communities and their functioning with those of undisturbed soils. Soil microbiomes exhibited a small, but highly consistent and phylogenetically conserved, response under the imposed extreme events. Heat treatment most strongly impacted soil microbiomes, enhancing dormancy and sporulation genes and decreasing metabolic versatility. Microbiome response to heat in particular could be predicted by local climatic conditions and soil properties, with soils that do not normally experience the extreme conditions being imposed being most vulnerable. Our results suggest that soil microbiomes from different climates share unified responses to extreme climatic events, but that predicting the extent of community change may require knowledge of the local microbiome. These findings advance our understanding of soil microbial responses to extreme events, and provide a first step for making general predictions about the impact of extreme climatic events on soil functioning.
+## Soil microbiomes show consistent and predictable responses to extreme events
 
 [Source](https://www.nature.com/articles/s41586-024-08185-3)
 
-10.1038/s41586-024-08185-3
-
 ---
 
-## A metagenome-assembled genome inventory for children reveals early-life gut bacteriome and virome dynamics.
- 26.11.2024, _Y Peng, J Zhu, S Wang, Y Liu, X Liu, O DeLeon, W Zhu, Z Xu, X Zhang, S Zhao, S Liang, H Li, B Ho, JY Ching, CP Cheung, TF Leung, WH Tam, TY Leung, EB Chang, FKL Chan, L Zhang, SC Ng, HM Tun_
-
-
-Existing microbiota databases are biased toward adult samples, hampering accurate profiling of the infant gut microbiome. Here, we generated a metagenome-assembled genome inventory for children (MAGIC) from a large collection of bulk and viral-like particle-enriched metagenomes from 0 to 7 years of age, encompassing 3,299 prokaryotic and 139,624 viral species-level genomes, 8.5% and 63.9% of which are unique to MAGIC. MAGIC improves early-life microbiome profiling, with the greatest improvement in read mapping observed in Africans. We then identified 54 candidate keystone species, including several Bifidobacterium spp. and four phages, forming guilds that fluctuated in abundance with time. Their abundances were reduced in preterm infants and were associated with childhood allergies. By analyzing the B. longum pangenome, we found evidence of phage-mediated evolution and quorum sensing-related ecological adaptation. Together, the MAGIC database recovers genomes that enable characterization of the dynamics of early-life microbiomes, identification of candidate keystone species, and strain-level study of target species.
+## A metagenome-assembled genome inventory for children reveals early-life gut bacteriome and virome dynamics
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S1931312824004025?via%3Dihub)
-
-10.1016/j.chom.2024.10.017
 
 ---
 
@@ -415,16 +396,9 @@ Existing microbiota databases are biased toward adult samples, hampering accurat
 
 ---
 
-## Evaluation of DNA extraction kits for long-read shotgun metagenomics using Oxford Nanopore sequencing for rapid taxonomic and antimicrobial resistance detection.
- 30.11.2024, _S Purushothaman, M Meola, T Roloff, AM Rooney, A Egli_
-
-
-_Metagenomics, Nanopore Sequencing, Drug Resistance, Bacterial, DNA, Bacterial, Humans, Bacteria_
-During a bacterial infection or colonization, the detection of antimicrobial resistance (AMR) is critical, but slow due to culture-based approaches for clinical and screening samples. Culture-based phenotypic AMR detection and confirmation require up to 72 hours (h) or even weeks for slow-growing bacteria. Direct shotgun metagenomics by long-read sequencing using Oxford Nanopore Technologies (ONT) may reduce the time for bacterial species and AMR gene identification. However, screening swabs for metagenomics is complex due to the range of Gram-negative and -positive bacteria, diverse AMR genes, and host DNA present in the samples. Therefore, DNA extraction is a critical initial step. We aimed to compare the performance of different DNA extraction protocols for ONT applications to reliably identify species and AMR genes using a shotgun long-read metagenomic approach. We included three different sample types: ZymoBIOMICS Microbial Community Standard, an in-house mock community of ESKAPE pathogens including Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Escherichia coli (ESKAPE Mock), and anonymized clinical swab samples. We processed all sample types with four different DNA extraction kits utilizing different lysis (enzymatic vs. mechanical) and purification (spin-column vs. magnetic beads) methods. We used kits from Qiagen (QIAamp DNA Mini and QIAamp PowerFecal Pro DNA) and Promega (Maxwell RSC Cultured Cells and Maxwell RSC Buccal Swab DNA). After extraction, samples were subject to the Rapid Barcoding Kit (RBK004) for library preparation followed by sequencing on the GridION with R9.4.1 flow cells. The fast5 files were base called to fastq files using Guppy in High Accuracy (HAC) mode with the inbuilt MinKNOW software. Raw read quality was assessed using NanoPlot and human reads were removed using Minimap2 alignment against the Hg38 genome. Taxonomy identification was performed on the raw reads using Kraken2 and on assembled contigs using Minimap2. The AMR genes were identified using Minimap2 with alignment against the CARD database on both the raw reads and assembled contigs. We identified all bacterial species present in the Zymo Mock Community (8/8) and ESKAPE Mock (6/6) with Qiagen PowerFecal Pro DNA kit (chemical and mechanical lysis) at read and assembly levels. Enzymatic lysis retrieved fewer aligned bases for the Gram-positive species (Staphylococcus aureus and Enterococcus faecium) from the ESKAPE Mock on the assembly level compared to the mechanical lysis. We detected the AMR genes from Gram-negative and -positive species in the ESKAPE Mock with the QIAamp PowerFecal Pro DNA kit on reads level with a maximum median time of 1.9 h of sequencing. Long-read metagenomics with ONT may reduce the turnaround time in screening for AMR genes. Currently, the QIAamp PowerFecal Pro DNA kit (chemical and mechanical lysis) for DNA extraction along with the Rapid Barcoding Kit for the ONT sequencing captured the best taxonomy and AMR identification for our specific use case.
+## Evaluation of DNA extraction kits for long-read shotgun metagenomics using Oxford Nanopore sequencing for rapid taxonomic and antimicrobial resistance detection
 
 [Source](https://www.nature.com/articles/s41598-024-80660-3)
-
-10.1038/s41598-024-80660-3
 
 ---
 
@@ -447,15 +421,15 @@ During an ongoing female urinary microbiome research study, strains c17Ua_112T a
 
 ---
 
-## Weakly Solvating Cyclic Ether-Based Deep Eutectic Electrolytes for Stable High-Temperature Lithium Metal Batteries.
- 02.12.2024, _Y Yang, Q Li, H Li, J Ruan, F Wang, Z Li, J Yang, J Zhang, U Çağlayan, D Sun, F Fang, M Kunduraci, F Wang_
+## Alcohol-related stimuli disrupt inhibitory control in heavy but not light drinkers in a crowdsourced sample.
+ 02.12.2024, _ME Radevski, J Weafer, JC Strickland, J Marty, CK Akins_
 
 
-Deep eutectic electrolytes (DEE) have emerged as an innovative approach to address the instability and safety issues of lithium metal batteries at elevated temperatures. However, in practice, there is often an undesirable incompatibility between the eutectic mixture and electrodes, and also an insufficient reduction stability of DEE due to the increased Li+ concentration. Herein, we designed a new DEE by utilizing weakly solvating tetrahydropyran (THP) solvent. Due to the high reduction resistance of THP and concentrated lithium bis(trifluoromethanesulfonyl)imide (LiTFSI), this DEE demonstrates enhanced compatibility with Li metal anode and high temperature tolerance with LiMn2O4 cathode. The Li||LiMn2O4 cell (1.6 mAh cm-2) shows a high capacity retention of 96.02% after 600 cycles at room temperature. More importantly, this Li||LiMn2O4 cell achieves a remarkable high-temperature performance with a high capacity retention of 91.72% after 120 cycles and low self-discharge after storage for 240 hours at a high temperature of 55 °C, which is critical for LiMn2O4 cathode. Overall, this electrolyte design provides an alternative pathway for the development of DEEs for high-temperature and high-voltage lithium metal batteries, which can also be expanded to other batteries.
+The association between inhibitory control and alcohol use has been well established. However, studies comparing the effects of alcohol cues on disinhibition in heavy and light drinkers have reported mixed results. The present study used a crowdsourcing platform, Prolific, to assess the effects of alcohol-related cues on inhibitory control in light drinkers versus heavy drinkers. Eligible participants were categorized as light or heavy drinkers based on National Institute on Alcohol Abuse and Alcoholism classifications. Participants (43 women and 65 men) then completed the Attentional Bias-Behavioral Activation task to assess inhibitory control. Subjects were randomized to either an alcohol or neutral-go condition. Inhibitory failures (IF) were measured as pressing a key when the assigned go cue was presented before the no-go cue. Analyses revealed a significant Drinking Status × Condition interaction, F(1, 99) = 5.656, p = .019, ηp² = 0.054. IF were greater in the alcohol-go compared to the neutral-go condition for heavy drinkers, t(46) = -1.848, p = .036, d = 0.538, but not light drinkers (p = .226, d = 0.197). Additionally, heavy drinkers had more IF than light drinkers in the alcohol-go condition, t(55) = -2.152, p = .018, d = 0.571, but not in the neutral-go condition (p = .266, d = 0.180). Results demonstrated that alcohol images disrupt inhibitory control in heavy drinkers but not light drinkers. The results from the present study extend research by using a crowdsourcing platform to replicate findings of disinhibition in heavy drinkers but not in light drinkers. (PsycInfo Database Record (c) 2024 APA, all rights reserved).
 
 [Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs/post/3lbihe4otjs2l?ref_src=embed)
 
-10.1002/anie.202419653
+10.1037/pha0000750
 
 ---
 
