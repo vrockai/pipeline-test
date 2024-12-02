@@ -17,16 +17,15 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
-## A Centrifuge Polarizing Microscope (CPM) That Enables the Visualization of Intracellular Structures Under High Centrifugal Forces.
- 01.12.2024, _M Goda, A Kimura_
+## Establishing a Comprehensive Hierarchical construct of Eustress (CHE).
+ 02.12.2024, _J Kloidt, LW Barsalou_
 
 
-_Animals, Caenorhabditis elegans, Centrifugation, Microscopy, Polarization, Spindle Apparatus, Microtubules, Embryo, Nonmammalian_
-The mitotic spindle consists of aligned filaments of dynamic microtubules that faithfully segregate mitotic chromosomes. This view of the mitotic spindle was initially established by detecting weak birefringence of the aligned filaments, which was realized by developing polarized light microscopy (Inoué S, Chromosoma 5:487-500. https://doi.org/10.1007/bf01271498 , 1953). Inoué et al. developed a centrifuge polarizing microscope (CPM) (Inoué S et al., J Microsc 201:341-356. https://doi.org/10.1046/j.1365-2818.2001.00850.x , 2001; Inoué S et al., Centrifuge microscope capable of realizing polarized light observation (US Patent: US1907803A), 1999) to further understand the structural and physical basis of the functional positioning of centrosome-based structures (including the mitotic spindle) inside living cells. This chapter describes the procedure for observing biological specimens using CPM by focusing on Caenorhabditis elegans embryos.
+Eustress as a positive response to challenging situations has received increasing attention across diverse literatures, reflecting its potential to improve wellbeing, work performance, and personal growth. In the process, eustress has been defined, measured, and manipulated in myriad ways, leading to fragmentation and vagueness. Because a unified and well-specified construct would significantly support eustress research, we developed one here. Rather than basing it on our subjective views, we developed it empirically, extracting 57 unique features of eustress from 80 theoretical, interventional, empirical, and psychometric articles. Organizing and interpreting these 57 features produced a Comprehensive Hierarchical construct of Eustress (CHE). According to CHE, eustress emerges from three sources: (1) successful goal-directed action, (2) experiencing the moment in an enjoyable, fulfilling, or meaningful manner, and (3) positive stable qualities of the individual. Within each source, CHE establishes specific facets of eustress hierarchically, which in turn organize the 57 eustress features extracted initially. Bibliometric analyses identified CHE's hierarchical elements addressed most often in the eustress literatures. Overall, these results suggest that eustress cannot be specified with a simple definition but should instead be viewed as a family resemblance structure having statistical properties. Rather than taking a single form, eustress manifests itself as diverse states during successful goal-directed action and fulfilling momentary experience. Regularly producing eustress in these manners likely establishes CHE's trait-like qualities for generating eustress effectively on future occasions. Interestingly, these qualities overlap highly with well-established elements of wellbeing, suggesting that wellbeing contributes to eustress in challenging situations.
 
 [Source](https://cassyni.com/s/mvif-34)
 
-10.1007/978-1-0716-4224-5_5
+10.1007/s12144-024-06750-7
 
 ---
 
@@ -42,15 +41,15 @@ The mitotic spindle consists of aligned filaments of dynamic microtubules that f
 
 ---
 
-## A meta-analysis on plant growth and heavy metals uptake with the application of 2,4-epibrassinolide in contaminated soils.
- 01.12.2024, _K Niu, H Xiao, Y Wang, T Cui, C Zhao_
+## The clinical and pathological significance of tertiary lymphoid structure in extramammary Paget's disease.
+ 02.12.2024, _N Xi, X Xu, M Xu, N Wu, Y Wu, J Chen, S Liu, L Jiang, G Yan, G Zhang, Y Liu_
 
 
-The application of 2,4-epibrassinolide (EBR) is considered an effective and environment friendly method to improve plant growth under heavy metal (HM) stress, which is crucial for crop productivity and environmental phytoremediation. This meta-analysis evaluated plant responses to exogenous EBR under HM stress by compiling data from 73 studies, including 2480 observations. Results showed that the most significant effects of exogenous EBR on plant growth and HM uptake parameters were observed on shoot/root length (47.9 %) and HM concentration in plant tissues (-32.9 %). EBR application enhanced photosynthesis and the mitigation of oxidative damage by significantly boosting antioxidant enzyme activity, non-enzymatic antioxidants, and metabolites. Exogenous EBR induced the largest percentage changes in plant growth and HM uptake under nickel stress, with an average increase of 57.5 % and a decline of 38.5 %, respectively. The greatest effects of exogenous EBR on plant growth and HM uptake parameters were observed in plants of the Cruciferae family, while the lowest effects were in the Gramineae family. In terms of EBR application characteristics, seed soaking with lower EBR concentrations (≤ 1 nM) is recommended for crop production in HM-contaminated soils. These findings underscore the potential of exogenous EBR in achieving sustainable agriculture and environmental phytoremediation in HM-contaminated soils.
+Tumor-associated tertiary lymphoid structures (TLSs) are functional immune-responsive aggregates, which have been reported to be associated with better prognosis in various tumors. However, their exact characteristics and prognostic value in extramammary Paget's disease (EMPD) remain unknown.
 
 [Source](https://bsky.app/profile/did:plc:dyrbb3iiuynmhsho3hywdakx/post/3lbelftyhn22t?ref_src=embed)
 
-10.1016/j.ecoenv.2024.117439
+10.3389/fimmu.2024.1435629
 
 ---
 
@@ -110,15 +109,15 @@ Bioretention systems effectively capture rubber particles and other microplastic
 
 ---
 
-## Tuberculous meningitis as an underlying cause of rapid neurological deterioration in a patient with a history of psychiatric disorder: Clinical case report.
- 01.12.2024, _FP Ávila Hernández, S Sevilla Fuentes, CJ Serrano_
+## UPLC Estimate of Sofosbuvir and Ledipasvir Utilizing Greenness Tool in Conjunction With an Analytical Quality by Design.
+ 02.12.2024, _R Bairam, K Mahesh, HK Tatapudi, S Thoom_
 
 
-Tuberculous meningitis (TBM), the least common of extrapulmonary tuberculosis presentations, one of the most severe. Highly prevalent in immunosuppressed individuals it is associated with high mortality and significant neurological sequelae. TBM main complications are hydrocephalus, increased intracranial pressure, and compromised blood flow with poor prognosis. The diagnostic approach is complex, as the manifestations of TBM are nonspecific. In the case reported here, the first symptoms of TBM were masked by clinical manifestations of depressive syndrome (previously diagnosed) and its management with antidepressants. The confirmatory diagnosis was based on GenXpert on cerebrospinal fluid and neuroimaging, as in our case, tools frequently delayed. The patient presented sudden neurological deterioration, probably due to dysregulation of the immune system associated with depression and smoking habits. In areas with a high incidence of TB, neurological manifestations, even in patients with psychiatric disorders, should be considered as a differential diagnosis or infectious comorbidity such as TBM.
+Ledipasvir in combination with sofosbuvir approved by regulatory bodies used to treat chronic hepatitis C. The present work investigates the design and development of a new, quick, green, and selective UPLC (ultra-performance liquid chromatography) approach to concurrently quantify sofosbuvir and ledipasvir. Optimization with Box-Behnken design paired the green analytical method and quality by design-based risk assessment. A mobile phase of 65%:35% ethanol by volume and phosphate buffer (15 mM; pH 3.0) was used, with a flow rate of 0.28 mL per minute, to achieve the best chromatographic separation. With linearities ranging from 20 to 100, 4.5-22.5 μg/mL, and R2 values of 0.9999 and 0.9997, respectively, the established UPLC-PDA technique proved sensitive and specific for sofosbuvir and ledipasvir. The stability-indicating test findings demonstrate the degradation under the relevant stress conditions. The most environmentally friendly results were found when the level of environmental sustainability was evaluated using four advanced metrics: GAPI, AES, AMGS, and AGREE. Based on the findings, we came to the conclusion that the UPLC technique that was developed would be effective for the concurrent analysis of sofosbuvir and ledipasvir in tablet medication.
 
 [Source](https://bsky.app/profile/did:plc:5r53rhz7nxiurzw4mfcmfewf/post/3lbu2xf2wps2o?ref_src=embed)
 
-10.1016/j.diagmicrobio.2024.116625
+10.1002/bmc.6047
 
 ---
 
@@ -172,16 +171,15 @@ The human gut microbiome is highly personal. However, the contribution of gut ph
 
 ---
 
-## Comparison of Salivary Opiorphin in Burning Mouth Syndrome and Healthy Subjects and Its Correlation With Psychiatric Disorders.
- 01.12.2024, _Z Dalirsani, M Amirchaghmaghi, MM Semnani, M Talebi, SI Hashemy, MT Shakeri, A Taghizadeh_
+## Morphological Characteristics of Interatrial Septum and Its Clinical Relevance.
+ 02.12.2024, _Y P, J Chopra, P Manik, A Rai, S Kumari, K Dande_
 
 
-_Humans, Burning Mouth Syndrome, Female, Male, Middle Aged, Cross-Sectional Studies, Saliva, Aged, Oligopeptides, Adult, Case-Control Studies, Mental Disorders, Healthy Volunteers, Salivary Proteins and Peptides_
-Burning mouth syndrome (BMS) is a chronic disease in which the patient experiences a burning sensation in the oral mucosa without any pathological cause. Opiorphin is a pentapeptide that prevents pain and can have an antidepressant effect. The aim of this study was to evaluate salivary opiorphin concentration in BMS and healthy subjects. In addition, opiorphin concentration in BMS patients before and after psychiatric treatment was compared and the association between burning severity and psychiatric scores with salivary opiorphin concentration was examined.
+The development of new trans-septal transcatheter interventions for patients with structural heart disease necessitates a precise and comprehensive understanding of the anatomy of the interatrial septum (IAS). The scarcity of gross anatomical studies has triggered our interest in exploring the morphometry and morphology of IAS.
 
 [Source](https://bsky.app/profile/did:plc:jyh2n3qwawf2uk6pyg4ulujg/post/3lbwe7op4gk26?ref_src=embed)
 
-10.1002/cre2.934
+10.1002/ccd.31304
 
 ---
 
@@ -233,15 +231,15 @@ A study was conducted in fish processing facilities to investigate the microbial
 
 ---
 
-## Apoptosis, MAPK signaling pathway affected in tilapia liver following nano-microplastics and sulfamethoxazole acute co-exposure.
- 01.12.2024, _Y Zheng, J Li, J Gao, W Jin, J Hu, Y Sun, H Zhu, G Xu_
+## Line-field confocal optical coherence tomography of basal cell carcinoma: A retrospective study on diagnostic performance.
+ 02.12.2024, _L Mtimet, L Boussingault, D Aktas, M Fontaine, C Orte Cano, G Diet, C Lenoir, M Miyamoto, E Cinotti, L Tognetti, A Cartocci, P Rubegni, S Puig, J Malvehy, J Perez-Anker, JL Perrot, V Del Marmol, M Suppa_
 
 
-Studies showed that toxicants that adhered to the surface of nano-microplastics (NPs) have toxicological effects. Juvenile tilapia were divided into four groups namely the control group (A), 100 ng·L-1 sulfamethoxazole (SMZ) group (B), 75 nm NPs group (C) and SMZ + 75 nm NPs group (D), and were exposed to an acute test for 2, 4 and 8 days. The hepatic histopathological changes, enzymatic activities, transcriptomics and proteomics analysis have been performed. The results showed that; the enzymatic activities of anti-oxidative enzymes (ROS, SOD, EROD), energy (ATP), lipid metabolism (TC, TG, FAS, LPL, ACC), pro-inflammatory factors (TNFα, IL-1β) and apoptosis (Caspase 3) have decreased significantly at 8 d. Hepatic histopathological results revealed the narrowed hepatic sinuses, displaced nucleus, and vacuoles under SMZ exposure. Transcriptome results demonstrated that endocytosis, MAPK signaling pathway, apoptosis, lysosome and herpes simplex infection were enriched in group C at 8 d. apaf1, casp3a, nfkbiaa (apoptosis, except for 8 d) were significantly increased, il1b and tgfb3, fgfr2 showed significant increase and decrease in group C/D. ctsd and ctsk associated with apoptosis have been especially significantly increased at 8 d, while MAPK signaling pathway, gadd45ga, gadd45gb/gadd45gg have been significantly decreased and increased, as well as map3k3/map3k2 significantly decreased at 8 d. Apoptosis and MAPK signaling pathway were affected and the synergistic effect was verified in tilapia liver following NPs and SMZ acute co-exposure.
+Line-field confocal optical coherence tomography (LC-OCT) represents one of the newest non-invasive in vivo skin imaging techniques. Previous studies described morphologic criteria of basal cell carcinoma (BCC) under LC-OCT examination. Preliminary data on LC-OCT diagnostic performance for BCC have recently been published but showed only a modest improvement compared to dermoscopy, possibly due to study limitations.
 
 [Source](https://bsky.app/profile/did:plc:pcld5no3yjxnsues74juglri/post/3lb7soxsvrs2k?ref_src=embed)
 
-10.1016/j.cbd.2024.101370
+10.1111/jdv.20459
 
 ---
 
@@ -312,15 +310,15 @@ Vulnerable patients in an intensive care unit (ICU) setting are at high risk of 
 
 ---
 
-## Breeding practices of indigenous chickens in the Liban Jawi District of the West Shewa Zone, Ethiopia: A qualitative and quantitative analysis.
- 01.12.2024, _D Begna, T Bacha, S Boki, K Bekana_
+## Prolonged venous transit is associated with lower odds of excellent recovery after reperfusion in anterior large-vessel occlusion stroke.
+ 02.12.2024, _HA Salim, DA Lakhani, J Mei, L Luna, M Shahriari, NZ Hyson, F Deng, AA Dmytriw, A Guenego, VC Urrutia, EB Marsh, H Lu, R Xu, R Leigh, D Wolman, G Shah, B Pulli, GW Albers, AE Hillis, R Llinas, K Nael, M Wintermark, JJ Heit, TD Faizy, V Yedavalli_
 
 
-A study was conducted in 2022 in the Liban Jawi district to characterize the breeding practices of indigenous chickens. A total of 192 farmers were surveyed, revealing diverse breeding objectives, including income generation, egg consumption, savings, and meat consumption. Limited selective breeding was observed, with plumage color, egg number, broodiness, hatchability, and male body weight as common selection traits. Most farmers practiced uncontrolled natural mating and were unaware of the risks of inbreeding. Culling underproductive chickens, undesirable colored cockerels, or pullets at an early age, along with selling or slaughtering, were employed to prevent unwanted mating. Correspondence Analysis (CA) revealed significant relationships among phenotypic traits, with Dimension 1 accounting for 39.43 % of total inertia, indicating that environmental conditions heavily influence trait selection. The Chi-Squared Distance analysis highlighted strong preferences for Egg Number (D= 15.23) and Hatchability (D = 12.45), both showing highly significant P-values (p = 0.001 and p = 0.002 respectively). Additionally, farmers expressed significant preferences for Disease Resistance (D = 11.56, p = 0.003) and Body Size (D = 10.12, p = 0.012). This research provides valuable insights into the breeding practices of indigenous chickens in the unique context of the Liban Jawi District, Ethiopia. By combining qualitative and quantitative analyses, the study emphasizes the significance of indigenous knowledge, identifies challenges, and underscores the implications for sustainable rural livelihoods. The findings advocate for effective trait selection and the implementation of controlled mating systems to mitigate inbreeding risks and enhance productivity in indigenous chicken populations.
+Acute ischemic stroke due to anterior circulation large-vessel occlusion (AIS-LVO) remains a leading cause of disability despite successful reperfusion therapies. Prolonged venous transit (PVT) has emerged as a potential prognostic imaging biomarker in AIS-LVO. We aimed to investigate whether PVT is associated with a decreased likelihood of excellent functional outcome (modified Rankin Scale [mRS] score of 0-1 at 90 days) after successful reperfusion.
 
 [Source](https://bsky.app/profile/did:plc:vf4j77c7bvnyn7lmeeu3byyo/post/3lbw44njddk2q?ref_src=embed)
 
-10.1016/j.psj.2024.104536
+10.1111/ene.16563
 
 ---
 
@@ -449,15 +447,15 @@ During an ongoing female urinary microbiome research study, strains c17Ua_112T a
 
 ---
 
-## Optimization of anthracene biodegradation by indigenous Trichoderma lixii and Talaromyces pinophilus using response surface methodology.
- 01.12.2024, _SO Egbewale, A Kumar, MP Mokoena, AO Olaniran_
+## Weakly Solvating Cyclic Ether-Based Deep Eutectic Electrolytes for Stable High-Temperature Lithium Metal Batteries.
+ 02.12.2024, _Y Yang, Q Li, H Li, J Ruan, F Wang, Z Li, J Yang, J Zhang, U Çağlayan, D Sun, F Fang, M Kunduraci, F Wang_
 
 
-Two indigenous fungal strains, Trichoderma lixii FLU1 (TlFLU1) and Talaromyces pinophilus FLU12 (TpFLU12) showed potential to biodegrade anthracene. Response Surface Methodology (RSM) employing Box-Behnken Design (BBD) and Central Composite Design (CCD) methods optimized crucial physicochemical parameters like pH, temperature, biomass, substrate concentration and media composition. BBD maximized anthracene biodegradation efficiency by predicting 98.7-103.2 %. Analysis of Variance confirmed the model's accuracy with a significant F-value of 51.0 at p&lt;0.0001 while the quadratic regression model showed a high R² value 0.9808. CCD predicted 100 % degradation efficiency which were validated for TlFLU1 and TpFLU12 respectively on day 8 and 12 at pH 4 and 5, temperatures 30°C and 25°C, with 20 mm biomass size and 200 mg/L anthracene. 9,10-anthraquinone and phthalic acid were detected as metabolites formed during the anthracene degradation by TlFLU1 and TpFLU12 after validation of the optimization process. Acute toxicity tests showed that the degradation media toxicity reduced as evidenced by increased in survival rate (log CFU/mL) of Vibrio parahaemolyticus after 6 h exposure. Despite reduced toxicity, both strains were classified as harmful based on effective concentration (EC50) and toxicity unit (TU) (20.92±1.32 mg/L and 4.78 % for TlFLU1 and 35.29±1.55 mg/L and 2.83 % for TpFLU12). This systematic optimization approach supported by robust statistical analyses and a deep exploration of biodegradation mechanisms holds the promise of more efficient and sustainable methods for remediating PAH-contaminated environments.
+Deep eutectic electrolytes (DEE) have emerged as an innovative approach to address the instability and safety issues of lithium metal batteries at elevated temperatures. However, in practice, there is often an undesirable incompatibility between the eutectic mixture and electrodes, and also an insufficient reduction stability of DEE due to the increased Li+ concentration. Herein, we designed a new DEE by utilizing weakly solvating tetrahydropyran (THP) solvent. Due to the high reduction resistance of THP and concentrated lithium bis(trifluoromethanesulfonyl)imide (LiTFSI), this DEE demonstrates enhanced compatibility with Li metal anode and high temperature tolerance with LiMn2O4 cathode. The Li||LiMn2O4 cell (1.6 mAh cm-2) shows a high capacity retention of 96.02% after 600 cycles at room temperature. More importantly, this Li||LiMn2O4 cell achieves a remarkable high-temperature performance with a high capacity retention of 91.72% after 120 cycles and low self-discharge after storage for 240 hours at a high temperature of 55 °C, which is critical for LiMn2O4 cathode. Overall, this electrolyte design provides an alternative pathway for the development of DEEs for high-temperature and high-voltage lithium metal batteries, which can also be expanded to other batteries.
 
 [Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs/post/3lbihe4otjs2l?ref_src=embed)
 
-10.1016/j.ecoenv.2024.117431
+10.1002/anie.202419653
 
 ---
 
