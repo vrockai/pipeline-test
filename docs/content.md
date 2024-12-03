@@ -17,15 +17,15 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
-## "Dangling choroid" with contralateral glomus displacement and ischemic torsion in congenital hydrocephalus: illustrative case.
- 02.12.2024, _JK Jones, QJ Moyer, LS Sudhof, K Soufi, LA Mashouf, BC Warf, C Sadegh_
+## Linear Growth During Treatment With a Simplified, Combined Protocol: Secondary Analyses of Severely Wasted Children 6-59 Months in the ComPAS Cluster Randomized Controlled Trial.
+ 02.12.2024, _G Heymsfield, K Stephenson, Z Tausanovitch, A Briend, M Kerac, H Stobaugh, J Bailey, ST Kangas_
 
 
-"Dangling choroid" is a prenatal sonographic marker of ventriculomegaly that measures the angle of choroid plexus (ChP) displacement in the lateral ventricle. To the authors' knowledge, postnatal sequelae related to this pathology, besides hydrocephalus, have never been reported.
+A simplified, combined protocol treats children with moderate acute malnutrition (MAM), defined by mid-upper arm circumference (MUAC) of &lt; 125 and ≥ 115 mm and no oedema, with 1 daily sachet of ready-to-use therapeutic food (RUTF) and those with severe acute malnutrition (SAM), defined by MUAC &lt; 115 mm and/or oedema, with two daily sachets of RUTF. This protocol was previously shown to result in non-inferior recovery compared to standard treatment that used higher, weight-based RUTF dosing among children with SAM and ready-to-use supplementary food (RUSF) for MAM in a cluster-based randomised controlled trial in Kenya and South Sudan. We conducted a secondary analysis of this trial to compare linear growth among children admitted with MUAC &lt; 115 mm. Linear and ponderal growth were calculated from admission to discharge and visualised using aggregate growth curves. HAZ change adjusted for admission characteristics was negative across the course of treatment but similar across arms [-0.21 ± 0.18 SE in the standard arm, -0.24 ± 0.18 SE in simplified; difference (95% confidence interval) 0.03 (-0.12, 0.18)]. The unadjusted mean ± SE linear growth velocity from admission to discharge was 1.8 ± 0.7 mm/week in the standard arm compared to 1.7 ± 0.7 mm/week in the simplified arm [difference = 0.09 (-0.36, 0.53)] and similar in adjusted analysis. MUAC and weight gain velocities were not significantly different by treatment arm. Reducing the RUTF dose prescribed to children during SAM treatment does not appear to affect linear growth or other growth velocities during treatment.
 
 [Source](https://cassyni.com/s/mvif-34)
 
-10.3171/CASE24505
+10.1111/mcn.13771
 
 ---
 
@@ -41,15 +41,15 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
-## An endpoint adjudication committee for the assessment of computed tomography scans in fracture healing.
- 02.12.2024, _C Elliott, ED Patterson, A Tarcea, B Mattiello, B Frizzell, REA Walker, KA Hildebrand, NJ White_
+## Effect of emodin on acute lung injury: a meta-analysis of preclinical trials.
+ 02.12.2024, _L Liu, Y Zhang, XR Tang, GB Jia, S Zhou, GL Yue, CS He_
 
 
-Endpoint Adjudication Committees (EACs) benefit the quality of randomized control trials (RCTs) where outcomes depend on subjective interpretations. However, assembling a committee to adjudicate large datasets is cumbersome. In a recent RCT, the primary outcome was time to union following operative fixation of scaphoid non-union, with real or placebo adjunctive ultrasound treatment. Union status was determined with computed tomography (CT) scans interpreted by treating surgeons and radiologists. An EAC was established to deliberate discrepancies between radiologists' and surgeons' interpretations of union status.
+Emodin has protective effects on acute lung injury (ALI) or acute respiratory distress syndrome (ARDS). This meta-analysis intended to illustrate the efficacy of emodin on ALI/ARDS animal models.
 
 [Source](https://bsky.app/profile/did:plc:dyrbb3iiuynmhsho3hywdakx/post/3lbelftyhn22t?ref_src=embed)
 
-10.1016/j.injury.2024.112067
+10.1186/s12890-024-03406-x
 
 ---
 
@@ -109,15 +109,15 @@ Bioretention systems effectively capture rubber particles and other microplastic
 
 ---
 
-## Functional connectivity profiles in remitted depression and their relation to ruminative thinking.
- 02.12.2024, _Z Fang, E Lynn, VJ Knott, N Jaworska_
+## Combining immunoscore and tumor budding in colon cancer: an insightful prognostication based on the tumor-host interface.
+ 02.12.2024, _TS Haddad, JM Bokhorst, MD Berger, LVD Dobbelsteen, F Simmer, F Ciompi, J Galon, JVD Laak, F Pagès, I Zlobec, A Lugli, ID Nagtegaal_
 
 
-The triple network model suggests that dysfunction in three major brain networks - the default mode network (DMN), central executive network (CEN), and salience network (SN) - might contribute to cognitive impairments in various psychiatric disorders, including major depressive disorder (MDD). While hyperconnectivity in the DMN, hypoconnectivity in the CEN, and abnormal SN connectivity have been observed in acutely depressed patients, evidence for network alterations during remission is limited. Further, there are few studies examining connectivity in people in remission from MDD (rMDD) during emotional processing tasks, including during affective cognition (i.e., tasks that encompass affective processing in the context of cognitive processes, such as inhibition). To address these literature gaps, this study compared functional connectivity (FC) between resting and task conditions, specifically during the emotional Stroop (eStroop) task, as well as between rMDD and healthy volunteers (HVs), within and between nodes of the three networks. We also explored how FC relates to rumination in the rMDD group, given that rumination tends to persist in rMDD and involves affective and cognitive networks. We unexpectedly found greater FC during the task vs. rest condition within the DMN, and decreased FC during the task vs. rest conditions within the CEN and SN across the groups. Greater FC during the task vs. rest condition between DMN and SN nodes, as well as between CEN and SN nodes were also observed. These effects were more pronounced in the rMDD group as per our exploratory analyses. Additionally, the rMDD vs. HV group showed higher FC between DMN-CEN nodes, regardless of condition. Higher hopeless rumination scores were associated with decreased resting FC within the DMN, while higher active problem-solving scores were associated with increased task FC within the DMN in the rMDD group. These findings suggest that tasks engaging affective cognition processes influence FC within and among the three networks, with this effect more pronounced in the rMDD group. This might indicate potential protective and compensatory mechanisms in rMDD and expands our understanding of large-scale intrinsic network connectivity alterations during remission from depression. However, given the limited sample and the exploratory nature of some of our analyses, replication is necessary.
+Tumor Budding (TB) and Immunoscore are independent prognostic markers in colon cancer (CC). Given their respective representation of tumor aggressiveness and immune response, we examined their combination in association with patient disease-free survival (DFS) in pTNM stage I-III CC.
 
 [Source](https://bsky.app/profile/did:plc:5r53rhz7nxiurzw4mfcmfewf/post/3lbu2xf2wps2o?ref_src=embed)
 
-10.1016/j.nicl.2024.103716
+10.1186/s12967-024-05818-z
 
 ---
 
@@ -171,15 +171,15 @@ The human gut microbiome is highly personal. However, the contribution of gut ph
 
 ---
 
-## Evaluating the effectiveness of patient-tailored treatment for patients with non-specific (sub)acute neck pain.
- 02.12.2024, _M Chys, K De Meulemeester, M De Sloovere, I De Greef, V Dewitte, B Cagnie_
+## Linear Growth During Treatment With a Simplified, Combined Protocol: Secondary Analyses of Severely Wasted Children 6-59 Months in the ComPAS Cluster Randomized Controlled Trial.
+ 02.12.2024, _G Heymsfield, K Stephenson, Z Tausanovitch, A Briend, M Kerac, H Stobaugh, J Bailey, ST Kangas_
 
 
-An important issue in the debate about best practice management of non-specific neck pain (NSNP) is the effectiveness of tailored versus generalized interventions.
+A simplified, combined protocol treats children with moderate acute malnutrition (MAM), defined by mid-upper arm circumference (MUAC) of &lt; 125 and ≥ 115 mm and no oedema, with 1 daily sachet of ready-to-use therapeutic food (RUTF) and those with severe acute malnutrition (SAM), defined by MUAC &lt; 115 mm and/or oedema, with two daily sachets of RUTF. This protocol was previously shown to result in non-inferior recovery compared to standard treatment that used higher, weight-based RUTF dosing among children with SAM and ready-to-use supplementary food (RUSF) for MAM in a cluster-based randomised controlled trial in Kenya and South Sudan. We conducted a secondary analysis of this trial to compare linear growth among children admitted with MUAC &lt; 115 mm. Linear and ponderal growth were calculated from admission to discharge and visualised using aggregate growth curves. HAZ change adjusted for admission characteristics was negative across the course of treatment but similar across arms [-0.21 ± 0.18 SE in the standard arm, -0.24 ± 0.18 SE in simplified; difference (95% confidence interval) 0.03 (-0.12, 0.18)]. The unadjusted mean ± SE linear growth velocity from admission to discharge was 1.8 ± 0.7 mm/week in the standard arm compared to 1.7 ± 0.7 mm/week in the simplified arm [difference = 0.09 (-0.36, 0.53)] and similar in adjusted analysis. MUAC and weight gain velocities were not significantly different by treatment arm. Reducing the RUTF dose prescribed to children during SAM treatment does not appear to affect linear growth or other growth velocities during treatment.
 
 [Source](https://bsky.app/profile/did:plc:jyh2n3qwawf2uk6pyg4ulujg/post/3lbwe7op4gk26?ref_src=embed)
 
-10.1016/j.msksp.2024.103235
+10.1111/mcn.13771
 
 ---
 
@@ -231,15 +231,15 @@ A study was conducted in fish processing facilities to investigate the microbial
 
 ---
 
-## The impact of interventions for depression on self-perceptions in young people: A systematic review &amp; meta-analysis.
- 02.12.2024, _RL Dean, KJ Lester, E Grant, AP Field, F Orchard, V Pile_
+## Linear Growth During Treatment With a Simplified, Combined Protocol: Secondary Analyses of Severely Wasted Children 6-59 Months in the ComPAS Cluster Randomized Controlled Trial.
+ 02.12.2024, _G Heymsfield, K Stephenson, Z Tausanovitch, A Briend, M Kerac, H Stobaugh, J Bailey, ST Kangas_
 
 
-Negative self-perceptions are implicated in the development and maintenance of depression in young people, but little is known about their receptiveness to change in response to treatment. This paper reports on a pre-registered meta-analysis examining the extent to which treatments for depression in young people aged 11-24 result in changes to self-perceptions. Controlled treatment trials examining outcomes related to self-perceptions were synthesised (k = 20, N = 2041), finding small reductions in both symptoms of depression (g = -0.30; 95 % CI: -0.52, -0.08) and self-perception outcomes (g = 0.33; 95 % CI: 0.16, 0.49) for interventions compared with control groups. Meta-regression analyses found no significant association between reductions in depressive symptoms and improvements in self-perception following treatment, suggesting that despite interventions generally improving both outcomes these changes may be unrelated to each other. Our results indicate that young people's self-perceptions are sensitive to change following treatment for depression, however effect sizes are small and treatments could be more effective in targeting and changing negative self-perceptions. Given the importance that young people place on integrating work on their sense of self into treatments for depression, future interventions could aim to support young people with depression to develop a positive sense of self.
+A simplified, combined protocol treats children with moderate acute malnutrition (MAM), defined by mid-upper arm circumference (MUAC) of &lt; 125 and ≥ 115 mm and no oedema, with 1 daily sachet of ready-to-use therapeutic food (RUTF) and those with severe acute malnutrition (SAM), defined by MUAC &lt; 115 mm and/or oedema, with two daily sachets of RUTF. This protocol was previously shown to result in non-inferior recovery compared to standard treatment that used higher, weight-based RUTF dosing among children with SAM and ready-to-use supplementary food (RUSF) for MAM in a cluster-based randomised controlled trial in Kenya and South Sudan. We conducted a secondary analysis of this trial to compare linear growth among children admitted with MUAC &lt; 115 mm. Linear and ponderal growth were calculated from admission to discharge and visualised using aggregate growth curves. HAZ change adjusted for admission characteristics was negative across the course of treatment but similar across arms [-0.21 ± 0.18 SE in the standard arm, -0.24 ± 0.18 SE in simplified; difference (95% confidence interval) 0.03 (-0.12, 0.18)]. The unadjusted mean ± SE linear growth velocity from admission to discharge was 1.8 ± 0.7 mm/week in the standard arm compared to 1.7 ± 0.7 mm/week in the simplified arm [difference = 0.09 (-0.36, 0.53)] and similar in adjusted analysis. MUAC and weight gain velocities were not significantly different by treatment arm. Reducing the RUTF dose prescribed to children during SAM treatment does not appear to affect linear growth or other growth velocities during treatment.
 
 [Source](https://bsky.app/profile/did:plc:pcld5no3yjxnsues74juglri/post/3lb7soxsvrs2k?ref_src=embed)
 
-10.1016/j.cpr.2024.102521
+10.1111/mcn.13771
 
 ---
 
@@ -310,15 +310,15 @@ Vulnerable patients in an intensive care unit (ICU) setting are at high risk of 
 
 ---
 
-## The impact of interventions for depression on self-perceptions in young people: A systematic review &amp; meta-analysis.
- 02.12.2024, _RL Dean, KJ Lester, E Grant, AP Field, F Orchard, V Pile_
+## Ethnobotanical study on factors influencing plant composition and traditional knowledge in homegardens of Laifeng Tujia ethnic communities, the hinterland of the Wuling mountain area, central China.
+ 02.12.2024, _S Hou, M Yu, Z Yao_
 
 
-Negative self-perceptions are implicated in the development and maintenance of depression in young people, but little is known about their receptiveness to change in response to treatment. This paper reports on a pre-registered meta-analysis examining the extent to which treatments for depression in young people aged 11-24 result in changes to self-perceptions. Controlled treatment trials examining outcomes related to self-perceptions were synthesised (k = 20, N = 2041), finding small reductions in both symptoms of depression (g = -0.30; 95 % CI: -0.52, -0.08) and self-perception outcomes (g = 0.33; 95 % CI: 0.16, 0.49) for interventions compared with control groups. Meta-regression analyses found no significant association between reductions in depressive symptoms and improvements in self-perception following treatment, suggesting that despite interventions generally improving both outcomes these changes may be unrelated to each other. Our results indicate that young people's self-perceptions are sensitive to change following treatment for depression, however effect sizes are small and treatments could be more effective in targeting and changing negative self-perceptions. Given the importance that young people place on integrating work on their sense of self into treatments for depression, future interventions could aim to support young people with depression to develop a positive sense of self.
+A homegarden is a conventional small-scale agricultural ecosystem dominated predominantly by humans. Homegarden plants, which are plants with specific functionalities that are either cultivated or consciously preserved within the homegarden, are the most critical elements of the homegarden and are capable of providing a multitude of products and services. Recognized as one of China's biodiversity hotspots, the Wuling mountain area has long been inhabited by multiple ethnic groups, each of which has accumulated a wealth of traditional knowledge. This study focuses on the Tujia ethnic communities in Laifeng County, situated in the hinterland of the Wuling mountain area, with the primary objective of collecting, documenting, and organizing local homegarden plants, their functions, and the associated traditional knowledge, and exploring the factors influencing their composition and diversity.
 
 [Source](https://bsky.app/profile/did:plc:vf4j77c7bvnyn7lmeeu3byyo/post/3lbw44njddk2q?ref_src=embed)
 
-10.1016/j.cpr.2024.102521
+10.1186/s13002-024-00742-4
 
 ---
 
@@ -366,9 +366,16 @@ In this study, we evaluated the impact of yeast cell wall prebiotics and multisp
 
 ---
 
-## Development of a novel complex inflammatory bowel disease mouse model: Reproducing human inflammatory bowel disease etiologies in mice
+## Development of a novel complex inflammatory bowel disease mouse model: Reproducing human inflammatory bowel disease etiologies in mice.
+ 23.11.2024, _SM Seo, NW Kim, ES Yoo, JH Lee, AR Kang, HB Jeong, WY Shim, DH Kim, YJ Park, K Bae, KA Yoon, YK Choi_
+
+
+_Animals, Disease Models, Animal, Mice, Inflammatory Bowel Diseases, Humans, Dextran Sulfate, Diet, High-Fat, Cytokines, Mice, Inbred C57BL, Citrobacter rodentium, Dysbiosis, Gastrointestinal Microbiome, Colon, Mice, Knockout, Male_
+Inflammatory bowel disease (IBD), caused by environmental factors associated with the host's genetic traits, is represented by Crohn's disease and ulcerative colitis. Despite the increasing number of patients with IBD, the current treatment is limited to symptomatic therapy. A complex IBD model mimicking the human IBD etiology is required to overcome this limitation. Herein, we developed novel complex IBD models using interleukin 2 receptor subunit gamma (Il2rg)-deficient mice, high-fat diet, dextran sodium sulfate, and Citrobacter rodentium. The more IBD factors applied complexly, colon length shortened and inflammation worsened. The levels of pro-inflammatory cytokines increased with increased IBD factors. Anti-inflammatory cytokine decreased in all factors application but increased in Il2rg deficiency and Westernized diet combination. Additionally, the pro-inflammatory transcription factors and leaky intestinal epithelial marker were upregulated by a combination of IBD factors. Species diversity decreased with IBD factors. Phylogenetic diversity decreased as IBD factors were applied but increased with combined Il2rg deficiency and Westernized diet. The more IBD factors applied complexly, the more severe the dysbiosis. Finally, we developed a novel complex IBD model using various IBD factors. This model more closely mimic human IBD based on colonic inflammation and dysbiosis than the previous models. Based on these results, our novel complex IBD model could be a valuable tool for further IBD research.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311310)
+
+10.1371/journal.pone.0311310
 
 ---
 
@@ -440,15 +447,15 @@ During an ongoing female urinary microbiome research study, strains c17Ua_112T a
 
 ---
 
-## Unveiling the mechanisms of mixed surfactant synergy in passivating lignin-cellulase interactions during lignocellulosic saccharification.
- 02.12.2024, _Q Liu, M Madadi, S Al Azad, X Lu, H Yan, Q Zhou, C Sun, F Sun_
+## Exploring the 'EarSwitch' concept: a novel ear based control method for assistive technology.
+ 02.12.2024, _AC Hoyle, R Stevenson, M Leonhardt, T Gillett, U Martinez-Hernandez, N Gompertz, C Clarke, D Cazzola, BW Metcalfe_
 
 
-Surfactants can synergistically enhance the enzymatic hydrolysis of lignocellulosic biomass, achieving higher sugar yields at lower enzyme loading. However, the exact mechanism by which mixed surfactants passivate lignin-cellulase interactions is not fully understood. This study found that the combination of ternary non-ionic and cationic surfactants (Tween 60, Triton X-114, and CTAB) significantly reduced the non-productive adsorption of lignin, with decreases of 35.4 %-55.4 % in equilibrium adsorption (We, 23.2 mg/g) compared to the single surfactant and the control. Meanwhile, mixed surfactants disrupted the entropy-enthalpy co-driven process for non-productive cellulase adsorption while promoting the desorption process. Non-ionic surfactants mainly contributed to reducing the hydrophobic interactions between lignin and cellulases. Positively charged CTAB enabled nonionic surfactants to form stronger H-bonds with lignin by electrophilic modification, and Triton X-114 increased van der Waals forces. Although surfactant-modified lignin exhibited lower hydrophobicity, zeta potential, and a more stable hydrogen bond network, the inhibitory effects of lignin-cellulase interactions by mixed surfactants were susceptible to lignin properties. According to the structure-activity relationship analysis (R2 &gt; 0.80), the main influencing factors included particle size, aliphatic/phenolic OH group contents, contact angle, and zeta potential of lignin. The study on the synergistic passivation of lignin-cellulase interactions by multi-component surfactant systems provides some theoretical insights for selecting and customarily designing effective additives for efficient enzymatic hydrolysis in lignocellulosic biorefineries.
+Loss of communication with loved ones and carers is one of the most isolating and debilitating effects of many neurological disorders. Assistive technology (AT) supports individuals with communication, but the acceptability of AT solutions is highly variable. In this paper a novel ear based control method of AT, the concept of 'EarSwitch', is presented. This new approach is based on detecting ear rumbling, which is the voluntary contraction of the tensor tympani muscle (TTM), resulting in observable movement of the eardrum and a dull rumbling sound. 'EarSwitch' has the potential to be a discreet method that can complement existing AT control methods. However, only a subset of the population can ear rumble and little is known about the ability of rumbling in populations with neurological disorders.
 
 [Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs/post/3lbihe4otjs2l?ref_src=embed)
 
-10.1016/j.jcis.2024.11.188
+10.1186/s12984-024-01500-z
 
 ---
 
