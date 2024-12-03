@@ -17,6 +17,18 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
+## Challenges and Approaches to Recruitment for and Retention in a Dyad-Focused eHealth Intervention During COVID-19: Randomized Controlled Trial.
+ 03.12.2024, _C Ma, RH Adler, DB Neidre, RC Chen, LL Northouse, C Rini, X Tan, L Song_
+
+
+Family-based randomized controlled trials (RCTs) encounter recruitment and retention challenges. Cancer-focused RCTs typically recruit convenience samples from local cancer centers and hospitals.
+
+[Source](https://cassyni.com/s/mvif-34)
+
+10.2196/51877
+
+---
+
 ## https://cassyni.com/s/mvif-34
 
 [Source](https://cassyni.com/s/mvif-34)
@@ -26,6 +38,18 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 ## Microbiome Virtual International Forum (@microbiomevif.bsky.social)
 
 [Source](https://bsky.app/profile/did:plc:dyrbb3iiuynmhsho3hywdakx?ref_src=embed)
+
+---
+
+## Emergency Department Patient Satisfaction Scores Are Lower for Patients Who Arrive During the Night Shift.
+ 03.12.2024, _T Zitek, L Weber, T Nuñez, L Puron, A Roitman, C Corbea, D Sherman, M Shalaby, F Kresch, DA Farcy_
+
+
+Increasingly, patient satisfaction scores are being used to assess emergency physicians. We sought to determine whether the patient satisfaction scores collected by our hospital system are lower for patients who are treated in the emergency department (ED) on night shifts as compared to those treated on day shifts.
+
+[Source](https://bsky.app/profile/did:plc:dyrbb3iiuynmhsho3hywdakx/post/3lbelftyhn22t?ref_src=embed)
+
+10.5811/westjem.20326
 
 ---
 
@@ -41,6 +65,19 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
+## Engineering microbial consortia for controllable outputs.
+ 02.12.2018, _SR Lindemann, HC Bernstein, HS Song, JK Fredrickson, MW Fields, W Shou, DR Johnson, AS Beliaev_
+
+
+_Bioengineering, Genomics, Microbial Consortia_
+Much research has been invested into engineering microorganisms to perform desired biotransformations; nonetheless, these efforts frequently fall short of expected results due to the unforeseen effects of biofeedback regulation and functional incompatibility. In nature, metabolic function is compartmentalized into diverse organisms assembled into robust consortia, in which the division of labor is thought to lead to increased community efficiency and productivity. Here we consider whether and how consortia can be designed to perform bioprocesses of interest beyond the metabolic flexibility limitations of a single organism. Advances in post-genomic analysis of microbial consortia and application of high-resolution global measurements now offer the promise of systems-level understanding of how microbial consortia adapt to changes in environmental variables and inputs of carbon and energy. We argue that, when combined with appropriate modeling frameworks, systems-level knowledge can markedly improve our ability to predict the fate and functioning of consortia. Here we articulate our collective perspective on the current and future state of microbial community engineering and control while placing specific emphasis on ecological principles that promote control over community function and emergent properties.
+
+[Source](https://www.nature.com/articles/s41564-024-01850-3)
+
+10.1038/ismej.2016.26
+
+---
+
 ## Perspective: A framework for understanding collective microbiome metabolism
 
 [Source](https://www.nature.com/articles/s41564-024-01850-3)
@@ -53,9 +90,34 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
+## Influence of rubber particle inputs on nitrogen removal efficiency of bioretention systems.
+ 29.11.2024, _T Hu, W Li, J Xiong, J Zhou, Q Xia_
+
+
+_Nitrogen, Rubber, Water Pollutants, Chemical, Waste Disposal, Fluid, Denitrification, Bacteria, Ethylenes, Elastomers_
+Bioretention systems effectively capture rubber particles and other microplastics in stormwater runoff. However, it is uncertain whether long-term particle accumulation affects pollutant removal efficacy. This study investigated the impact of various concentrations of ethylene-propylene-diene-monomer (EPDM) particles (0, 50, 100, and 400 mg/L) on bioretention system nitrogen removal performance. The input of EPDM during short-duration (2 h) rainfall favored the removal of nitrogen, and the total nitrogen effluent concentration of the bioretention system with EPDM was reduced by 0.59-1.52 mg/L compared with that of the system without EPDM. In addition, the input of EPDM reduced the negative effects of drought. During long-duration (24 h) rainfall, higher concentrations of EPDM led to lower nitrate-nitrogen concentrations in the effluent. The bioretention system with EPDM required less time for nitrate-nitrogen removal to reach 50% than that without EPDM input. Microbial community analysis showed that EPDM increased the relative total abundance of denitrifying bacteria (such as Dechloromonas, Zoogloea, Ramlibacter, and Aeromonas) by 7.25-10.26%, which improved the denitrification capacity of the system.
+
+[Source](https://bsky.app/profile/did:plc:5r53rhz7nxiurzw4mfcmfewf?ref_src=embed)
+
+10.2166/wst.2024.363
+
+---
+
 ## Microbial Systems Ecology Lab (@micsysecolab.bsky.social)
 
 [Source](https://bsky.app/profile/did:plc:5r53rhz7nxiurzw4mfcmfewf?ref_src=embed)
+
+---
+
+## Formal Physical Therapy Improves PROMIS PF for High Anxiety Patients Following Ankle ORIF.
+ 03.12.2024, _W Dong, M Mau, S Soule, E Sato, T Thorne, T Higgins, D Rothberg, L Marchand, J Haller_
+
+
+To compare outcomes after ankle fracture fixation between those receiving formal physical therapy (PT) vs. no formal PT and those with high vs. low PROMIS anxiety score (AS), and to evaluate the effect of PT in the setting of PROMIS AS scores.
+
+[Source](https://bsky.app/profile/did:plc:5r53rhz7nxiurzw4mfcmfewf/post/3lbu2xf2wps2o?ref_src=embed)
+
+10.1097/BOT.0000000000002940
 
 ---
 
@@ -71,9 +133,16 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
-## Gut microbiota markers in early childhood are linked to farm living, pets in household and allergy
+## Gut microbiota markers in early childhood are linked to farm living, pets in household and allergy.
+ 30.11.2024, _A Ljung, M Gio-Batta, B Hesselmar, H Imberg, H Rabe, FL Nowrouzian, S Johansen, CJ Törnhage, G Lindhagen, M Ceder, AC Lundell, A Rudin, AE Wold, I Adlerberth_
+
+
+_Humans, Pets, Infant, Hypersensitivity, Farms, Animals, Female, Male, Child, Preschool, Gastrointestinal Microbiome, Feces, Child, Infant, Newborn, Family Characteristics, Biomarkers_
+Children growing up on farms or with pets have a lower risk of developing allergy, which may be linked to their gut microbiota development during infancy.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313078)
+
+10.1371/journal.pone.0313078
 
 ---
 
@@ -83,9 +152,34 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
+## Gut physiology and environment explain variations in human gut microbiome composition and metabolism.
+ 30.11.2024, _N Procházková, MF Laursen, G La Barbera, E Tsekitsidi, MS Jørgensen, MA Rasmussen, J Raes, TR Licht, LO Dragsted, HM Roager_
+
+
+_Humans, Gastrointestinal Microbiome, Feces, Adult, Hydrogen-Ion Concentration, Male, Female, Bacteria, Gastrointestinal Transit, Young Adult, Middle Aged, Diet, Fermentation, Gastrointestinal Tract, Methane, Healthy Volunteers_
+The human gut microbiome is highly personal. However, the contribution of gut physiology and environment to variations in the gut microbiome remains understudied. Here we performed an observational trial using multi-omics to profile microbiome composition and metabolism in 61 healthy adults for 9 consecutive days. We assessed day-to-day changes in gut environmental factors and measured whole-gut and segmental intestinal transit time and pH using a wireless motility capsule in a subset of 50 individuals. We observed substantial daily fluctuations, with intra-individual variations in gut microbiome and metabolism associated with changes in stool moisture and faecal pH, and inter-individual variations accounted for by whole-gut and segmental transit times and pH. Metabolites derived from microbial carbohydrate fermentation correlated negatively with the gut passage time and pH, while proteolytic metabolites and breath methane showed a positive correlation. Finally, we identified associations between segmental transit time/pH and coffee-, diet-, host- and microbial-derived metabolites. Our work suggests that gut physiology and environment are key to understanding the individuality of the human gut microbial composition and metabolism.
+
+[Source](https://bsky.app/profile/did:plc:jyh2n3qwawf2uk6pyg4ulujg?ref_src=embed)
+
+10.1038/s41564-024-01856-x
+
+---
+
 ## Henrik M. Roager (@hroager.bsky.social)
 
 [Source](https://bsky.app/profile/did:plc:jyh2n3qwawf2uk6pyg4ulujg?ref_src=embed)
+
+---
+
+## Barriers to Adoption of a Child-Abuse Clinical Decision Support System in Emergency Departments.
+ 03.12.2024, _AC Peterson, DM Yealy, E Heineman, RP Berger_
+
+
+Child abuse is a leading cause of morbidity and mortality in children. The rate of missed child abuse in general emergency departments (ED), where 85% of children are evaluated, is higher than in pediatric EDs. We sought to evaluate the impact of an electronic health record (EHR)-embedded child-abuse clinical decision support system (CA-CDSS) in the identification and evaluation of child maltreatment in a network of EDs three years after implementation.
+
+[Source](https://bsky.app/profile/did:plc:jyh2n3qwawf2uk6pyg4ulujg/post/3lbwe7op4gk26?ref_src=embed)
+
+10.5811/westjem.18501
 
 ---
 
@@ -101,9 +195,15 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
-## Gut microbiome strain-sharing within isolated village social networks
+## Gut microbiome strain-sharing within isolated village social networks.
+ 20.11.2024, _F Beghini, J Pullman, M Alexander, SV Shridhar, D Prinster, A Singh, R Matute Juárez, EM Airoldi, IL Brito, NA Christakis_
+
+
+When humans assemble into face-to-face social networks, they create an extended social environment that permits exposure to the microbiome of others, thereby shaping the composition and diversity of the microbiome at individual and population levels1-6. Here we use comprehensive social network mapping and detailed microbiome sequencing data in 1,787 adults within 18 isolated villages in Honduras7 to investigate the relationship between network structure and gut microbiome composition. Using both species-level and strain-level data, we show that microbial sharing occurs between many relationship types, notably including non-familial and non-household connections. Furthermore, strain-sharing extends to second-degree social connections, suggesting the relevance of a person's broader network. We also observe that socially central people are more microbially similar to the overall village than socially peripheral people. Among 301 people whose microbiome was re-measured 2 years later, we observe greater convergence in strain-sharing in connected versus otherwise similar unconnected co-villagers. Clusters of species and strains occur within clusters of people in village social networks, meaning that social networks provide the social niches within which microbiome biology and phenotypic impact are manifested.
 
 [Source](https://www.nature.com/articles/s41586-024-08222-1)
+
+10.1038/s41586-024-08222-1
 
 ---
 
@@ -113,9 +213,33 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
+## Inter-facility characterization of bacteria in seafood processing plants: Exploring potential reservoirs of spoilage organisms and the resistome.
+ 30.07.2024, _KF Corral-Jara, S Skírnisdóttir, S Knobloch, H Briem, JF Cobo-Díaz, N Carlino, P Bergsten, F Armanini, F Asnicar, F Pinto, A Alvarez-Ordóñez, N Segata, VÞ Marteinsson_
+
+
+A study was conducted in fish processing facilities to investigate the microbial composition, microbial metabolic potential, and distribution of antibiotic resistance genes. Whole metagenomic sequencing was used to analyze microbial communities from different processing rooms, operators and fish products. Taxonomic analyses identified the genera Pseudomonas and Psychrobacter as the most prevalent bacteria. A Principal Component Analysis revealed a distinct separation between fish product and environmental samples, as well as differences between fish product samples from companies processing either Gadidae or Salmonidae fish. Some particular bacterial genera and species were associated with specific processing rooms and operators. Metabolic analysis of metagenome assembled genomes demonstrated variations in microbiota metabolic profiles of microbiota across rooms and fish products. The study also examined the presence of antibiotic-resistance genes in fish processing environments, contributing to the understanding of microbial dynamics, metabolic potential, and implications for fish spoilage.
+
+[Source](https://bsky.app/profile/did:plc:pcld5no3yjxnsues74juglri?ref_src=embed)
+
+10.1016/j.heliyon.2024.e33866
+
+---
+
 ## Segata Lab (@cibiocm.bsky.social)
 
 [Source](https://bsky.app/profile/did:plc:pcld5no3yjxnsues74juglri?ref_src=embed)
+
+---
+
+## Diagnostic and Prognostic Value of SCUBE-1 in COVID-19 Patients.
+ 03.12.2024, _V Ozer, O Gonenc Cekic, O Bulbul, D Aydın, E Bulut, F Aksoy, M Pehlivanlar Kucuk, S Caner Karahan, E Emel Sozen, E Ozkaya, P Kosucu, Y Karaca, S Turedi_
+
+
+The workload of physicians increased due to the number of patients presenting with suspicion of coronavirus 2019 (COVID-19) and the prolonged wait times in the emergency department during the COVID-19 pandemic. Signal peptide-CUB-EGF domain-containing protein 1 (SCUBE-1) is a protein present in platelets and endothelial cells; it is activated by inflammation from COVID-19 and may be associated with COVID-19's known thrombotic risk. We aimed to determine whether SCUBE-1 levels are diagnostically correlated in suspected COVID-19 patients, and whether SCUBE-1 correlated with severity of disease and, therefore, might be useful to guide hospitalization/discharge decisions.
+
+[Source](https://bsky.app/profile/did:plc:pcld5no3yjxnsues74juglri/post/3lb7soxsvrs2k?ref_src=embed)
+
+10.5811/westjem.18586
 
 ---
 
@@ -186,16 +310,15 @@ Vulnerable patients in an intensive care unit (ICU) setting are at high risk of 
 
 ---
 
-## Fragility in cardiovascular randomized controlled trials with primary continuous outcomes (2018-2022) from multi-perspectives assessment: a cross-sectional survey.
- 03.12.2024, _X Zhou, W Ruan, G Zhang, H Liu, T Wang, J Li, L Du, J Huang_
+## Emergency Department Patient Satisfaction Scores Are Lower for Patients Who Arrive During the Night Shift.
+ 03.12.2024, _T Zitek, L Weber, T Nuñez, L Puron, A Roitman, C Corbea, D Sherman, M Shalaby, F Kresch, DA Farcy_
 
 
-_Humans, Cross-Sectional Studies, Randomized Controlled Trials as Topic, Cardiovascular Diseases, Sample Size, Research Design_
-This study aims to assess the robustness of cardiovascular disease randomized controlled trials (RCTs) with primary continuous outcomes from a clinical perspective, utilizing the concepts of continuous fragility index (CFI), reverse continuous fragility index (RCFI) and their corresponding quotients (CFQ, RCFQ).
+Increasingly, patient satisfaction scores are being used to assess emergency physicians. We sought to determine whether the patient satisfaction scores collected by our hospital system are lower for patients who are treated in the emergency department (ED) on night shifts as compared to those treated on day shifts.
 
 [Source](https://bsky.app/profile/did:plc:vf4j77c7bvnyn7lmeeu3byyo/post/3lbw44njddk2q?ref_src=embed)
 
-10.1080/07853890.2024.2427909
+10.5811/westjem.20326
 
 ---
 
@@ -324,15 +447,15 @@ During an ongoing female urinary microbiome research study, strains c17Ua_112T a
 
 ---
 
-## Prognostic value of advanced lung cancer inflammation index in heart failure patients: A comprehensive analysis.
- 03.12.2024, _W Chen, G Zhang, Q Lei, H Lu_
+## Genotype-First Analysis in an Unselected Health System-Based Population and Phenotypic Severity of COL4A5 Variants.
+ 03.12.2024, _M Zellers, K Solanki, MA Kelly, KM Murphy, K Retterer, HL Kirchner, ID Bucaloiu, B Moore, T Mirshahi, AR Chang_
 
 
-The prognosis of heart failure (HF) is closely linked to inflammation and nutritional status. The advanced lung cancer inflammation index (ALI) is a composite indicator consisting of several parameters used to assess inflammation and nutritional status. Our study aimed to investigate the prognostic value of ALI in HF patients.
+Our knowledge of X-linked Alport Syndrome comes mostly from selected cohorts with more severe disease.
 
 [Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs/post/3lbihe4otjs2l?ref_src=embed)
 
-10.1002/ehf2.15178
+10.1681/ASN.0000000580
 
 ---
 
