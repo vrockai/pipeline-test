@@ -17,15 +17,15 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
-## KPNA3 regulates histone locus body formation by modulating condensation and nuclear import of NPAT.
- 02.12.2024, _SB Xu, XK Gao, HD Liang, XX Cong, XQ Chen, WK Zou, JL Tao, ZY Pan, J Zhao, M Huang, Z Bao, YT Zhou, LL Zheng_
+## "Dangling choroid" with contralateral glomus displacement and ischemic torsion in congenital hydrocephalus: illustrative case.
+ 02.12.2024, _JK Jones, QJ Moyer, LS Sudhof, K Soufi, LA Mashouf, BC Warf, C Sadegh_
 
 
-The histone locus body (HLB) is a membraneless organelle that determines the transcription of replication-dependent histones. However, the mechanisms underlying the appropriate formation of the HLB in the nucleus but not in the cytoplasm remain unknown. HLB formation is dependent on the scaffold protein NPAT. We identify KPNA3 as a specific importin that drives the nuclear import of NPAT by binding to the nuclear localization signal (NLS) sequence. NPAT undergoes phase separation, which is inhibited by KPNA3-mediated impairment of self-association. In this, a C-terminal self-interaction facilitator (C-SIF) motif, proximal to the NLS, binds the middle 431-1,030 sequence to mediate the self-association of NPAT. Mechanistically, the anchoring of KPNA3 to the NPAT-NLS sterically blocks C-SIF motif-dependent NPAT self-association. This leads to the suppression of aberrant NPAT condensation in the cytoplasm. Collectively, our study reveals a previously unappreciated role of KPNA3 in modulating HLB formation and delineates a steric hindrance mechanism that prevents inappropriate cytoplasmic NPAT condensation.
+"Dangling choroid" is a prenatal sonographic marker of ventriculomegaly that measures the angle of choroid plexus (ChP) displacement in the lateral ventricle. To the authors' knowledge, postnatal sequelae related to this pathology, besides hydrocephalus, have never been reported.
 
 [Source](https://cassyni.com/s/mvif-34)
 
-10.1083/jcb.202401036
+10.3171/CASE24505
 
 ---
 
@@ -41,15 +41,15 @@ The histone locus body (HLB) is a membraneless organelle that determines the tra
 
 ---
 
-## Long-term functional recovery after rib fractures: The impact of frailty.
- 02.12.2024, _W Rafaqat, VS Panossian, A Yi, P Heindel, M Abiad, S Ilkhani, A Heyman, S Garvey, GA Anderson, SE Sanchez, JP Herrera-Escobar, JO Hwabejire_
+## An endpoint adjudication committee for the assessment of computed tomography scans in fracture healing.
+ 02.12.2024, _C Elliott, ED Patterson, A Tarcea, B Mattiello, B Frizzell, REA Walker, KA Hildebrand, NJ White_
 
 
-Previous studies have shown that patients with rib fractures experience long-term functional limitations. However, the specific predictors of these worse long-term functional limitations remain under-characterized.
+Endpoint Adjudication Committees (EACs) benefit the quality of randomized control trials (RCTs) where outcomes depend on subjective interpretations. However, assembling a committee to adjudicate large datasets is cumbersome. In a recent RCT, the primary outcome was time to union following operative fixation of scaphoid non-union, with real or placebo adjunctive ultrasound treatment. Union status was determined with computed tomography (CT) scans interpreted by treating surgeons and radiologists. An EAC was established to deliberate discrepancies between radiologists' and surgeons' interpretations of union status.
 
 [Source](https://bsky.app/profile/did:plc:dyrbb3iiuynmhsho3hywdakx/post/3lbelftyhn22t?ref_src=embed)
 
-10.1097/TA.0000000000004489
+10.1016/j.injury.2024.112067
 
 ---
 
@@ -109,15 +109,15 @@ Bioretention systems effectively capture rubber particles and other microplastic
 
 ---
 
-## Development and Evaluation of 4 Short, Animated Videos for Women in Midlife Promoting Positive Health Behaviors: Survey Study.
- 02.12.2024, _K Hammarberg, M Bandyopadhyay, H Nguyen, F Cicuttini, KA Stanzel, H Brown, M Hickey, J Fisher_
+## Functional connectivity profiles in remitted depression and their relation to ruminative thinking.
+ 02.12.2024, _Z Fang, E Lynn, VJ Knott, N Jaworska_
 
 
-Health and health behaviors in midlife are important determinants of healthy aging. There is evidence of unmet needs for health-promoting information for women from culturally and linguistically diverse backgrounds and women with low literacy.
+The triple network model suggests that dysfunction in three major brain networks - the default mode network (DMN), central executive network (CEN), and salience network (SN) - might contribute to cognitive impairments in various psychiatric disorders, including major depressive disorder (MDD). While hyperconnectivity in the DMN, hypoconnectivity in the CEN, and abnormal SN connectivity have been observed in acutely depressed patients, evidence for network alterations during remission is limited. Further, there are few studies examining connectivity in people in remission from MDD (rMDD) during emotional processing tasks, including during affective cognition (i.e., tasks that encompass affective processing in the context of cognitive processes, such as inhibition). To address these literature gaps, this study compared functional connectivity (FC) between resting and task conditions, specifically during the emotional Stroop (eStroop) task, as well as between rMDD and healthy volunteers (HVs), within and between nodes of the three networks. We also explored how FC relates to rumination in the rMDD group, given that rumination tends to persist in rMDD and involves affective and cognitive networks. We unexpectedly found greater FC during the task vs. rest condition within the DMN, and decreased FC during the task vs. rest conditions within the CEN and SN across the groups. Greater FC during the task vs. rest condition between DMN and SN nodes, as well as between CEN and SN nodes were also observed. These effects were more pronounced in the rMDD group as per our exploratory analyses. Additionally, the rMDD vs. HV group showed higher FC between DMN-CEN nodes, regardless of condition. Higher hopeless rumination scores were associated with decreased resting FC within the DMN, while higher active problem-solving scores were associated with increased task FC within the DMN in the rMDD group. These findings suggest that tasks engaging affective cognition processes influence FC within and among the three networks, with this effect more pronounced in the rMDD group. This might indicate potential protective and compensatory mechanisms in rMDD and expands our understanding of large-scale intrinsic network connectivity alterations during remission from depression. However, given the limited sample and the exploratory nature of some of our analyses, replication is necessary.
 
 [Source](https://bsky.app/profile/did:plc:5r53rhz7nxiurzw4mfcmfewf/post/3lbu2xf2wps2o?ref_src=embed)
 
-10.2196/60949
+10.1016/j.nicl.2024.103716
 
 ---
 
@@ -171,15 +171,15 @@ The human gut microbiome is highly personal. However, the contribution of gut ph
 
 ---
 
-## Development and Evaluation of 4 Short, Animated Videos for Women in Midlife Promoting Positive Health Behaviors: Survey Study.
- 02.12.2024, _K Hammarberg, M Bandyopadhyay, H Nguyen, F Cicuttini, KA Stanzel, H Brown, M Hickey, J Fisher_
+## Evaluating the effectiveness of patient-tailored treatment for patients with non-specific (sub)acute neck pain.
+ 02.12.2024, _M Chys, K De Meulemeester, M De Sloovere, I De Greef, V Dewitte, B Cagnie_
 
 
-Health and health behaviors in midlife are important determinants of healthy aging. There is evidence of unmet needs for health-promoting information for women from culturally and linguistically diverse backgrounds and women with low literacy.
+An important issue in the debate about best practice management of non-specific neck pain (NSNP) is the effectiveness of tailored versus generalized interventions.
 
 [Source](https://bsky.app/profile/did:plc:jyh2n3qwawf2uk6pyg4ulujg/post/3lbwe7op4gk26?ref_src=embed)
 
-10.2196/60949
+10.1016/j.msksp.2024.103235
 
 ---
 
@@ -231,15 +231,15 @@ A study was conducted in fish processing facilities to investigate the microbial
 
 ---
 
-## A little goes a long way: A comparison of enterolithotomy versus single-stage cholecystectomy in the management of gallstone ileus.
- 02.12.2024, _MH Khurshid, O Hejazi, AL Spencer, A Nelson, C Stewart, C Colosimo, M Ditillo, MR Matthews, LJ Magnotti, B Joseph_
+## The impact of interventions for depression on self-perceptions in young people: A systematic review &amp; meta-analysis.
+ 02.12.2024, _RL Dean, KJ Lester, E Grant, AP Field, F Orchard, V Pile_
 
 
-Gallstone ileus is an infrequent complication of cholelithiasis with no specific guidelines for its management. This study aims to compare the outcomes of patients with gallstone ileus managed with both enterolithotomy with cholecystectomy (EL-CCY) versus those managed with enterolithotomy (EL) only.
+Negative self-perceptions are implicated in the development and maintenance of depression in young people, but little is known about their receptiveness to change in response to treatment. This paper reports on a pre-registered meta-analysis examining the extent to which treatments for depression in young people aged 11-24 result in changes to self-perceptions. Controlled treatment trials examining outcomes related to self-perceptions were synthesised (k = 20, N = 2041), finding small reductions in both symptoms of depression (g = -0.30; 95 % CI: -0.52, -0.08) and self-perception outcomes (g = 0.33; 95 % CI: 0.16, 0.49) for interventions compared with control groups. Meta-regression analyses found no significant association between reductions in depressive symptoms and improvements in self-perception following treatment, suggesting that despite interventions generally improving both outcomes these changes may be unrelated to each other. Our results indicate that young people's self-perceptions are sensitive to change following treatment for depression, however effect sizes are small and treatments could be more effective in targeting and changing negative self-perceptions. Given the importance that young people place on integrating work on their sense of self into treatments for depression, future interventions could aim to support young people with depression to develop a positive sense of self.
 
 [Source](https://bsky.app/profile/did:plc:pcld5no3yjxnsues74juglri/post/3lb7soxsvrs2k?ref_src=embed)
 
-10.1097/TA.0000000000004497
+10.1016/j.cpr.2024.102521
 
 ---
 
@@ -310,15 +310,15 @@ Vulnerable patients in an intensive care unit (ICU) setting are at high risk of 
 
 ---
 
-## Prophylactic Vancomycin Leads to Fewer Device Removals in Sacral Neuromodulation.
- 02.12.2024, _JA Ohene-Agyei, X Wang, S Sahil, AL Cheng, JP Shepherd, G Sutkin_
+## The impact of interventions for depression on self-perceptions in young people: A systematic review &amp; meta-analysis.
+ 02.12.2024, _RL Dean, KJ Lester, E Grant, AP Field, F Orchard, V Pile_
 
 
-Sacral neuromodulation (SNM) requires removal for infectious complications in 3-11%.
+Negative self-perceptions are implicated in the development and maintenance of depression in young people, but little is known about their receptiveness to change in response to treatment. This paper reports on a pre-registered meta-analysis examining the extent to which treatments for depression in young people aged 11-24 result in changes to self-perceptions. Controlled treatment trials examining outcomes related to self-perceptions were synthesised (k = 20, N = 2041), finding small reductions in both symptoms of depression (g = -0.30; 95 % CI: -0.52, -0.08) and self-perception outcomes (g = 0.33; 95 % CI: 0.16, 0.49) for interventions compared with control groups. Meta-regression analyses found no significant association between reductions in depressive symptoms and improvements in self-perception following treatment, suggesting that despite interventions generally improving both outcomes these changes may be unrelated to each other. Our results indicate that young people's self-perceptions are sensitive to change following treatment for depression, however effect sizes are small and treatments could be more effective in targeting and changing negative self-perceptions. Given the importance that young people place on integrating work on their sense of self into treatments for depression, future interventions could aim to support young people with depression to develop a positive sense of self.
 
 [Source](https://bsky.app/profile/did:plc:vf4j77c7bvnyn7lmeeu3byyo/post/3lbw44njddk2q?ref_src=embed)
 
-10.1097/SPV.0000000000001606
+10.1016/j.cpr.2024.102521
 
 ---
 
@@ -378,15 +378,27 @@ In this study, we evaluated the impact of yeast cell wall prebiotics and multisp
 
 ---
 
-## Soil microbiomes show consistent and predictable responses to extreme events
+## Soil microbiomes show consistent and predictable responses to extreme events.
+ 28.11.2024, _CG Knight, O Nicolitch, RI Griffiths, T Goodall, B Jones, C Weser, H Langridge, J Davison, A Dellavalle, N Eisenhauer, KB Gongalsky, A Hector, E Jardine, P Kardol, FT Maestre, M Schädler, M Semchenko, C Stevens, MΑ Tsiafouli, O Vilhelmsson, W Wanek, FT de Vries_
+
+
+Increasing extreme climatic events threaten the functioning of terrestrial ecosystems1,2. Because soil microbes govern key biogeochemical processes, understanding their response to climate extremes is crucial in predicting the consequences for ecosystem functioning3,4. Here we subjected soils from 30 grasslands across Europe to four contrasting extreme climatic events under common controlled conditions (drought, flood, freezing and heat), and compared the response of soil microbial communities and their functioning with those of undisturbed soils. Soil microbiomes exhibited a small, but highly consistent and phylogenetically conserved, response under the imposed extreme events. Heat treatment most strongly impacted soil microbiomes, enhancing dormancy and sporulation genes and decreasing metabolic versatility. Microbiome response to heat in particular could be predicted by local climatic conditions and soil properties, with soils that do not normally experience the extreme conditions being imposed being most vulnerable. Our results suggest that soil microbiomes from different climates share unified responses to extreme climatic events, but that predicting the extent of community change may require knowledge of the local microbiome. These findings advance our understanding of soil microbial responses to extreme events, and provide a first step for making general predictions about the impact of extreme climatic events on soil functioning.
 
 [Source](https://www.nature.com/articles/s41586-024-08185-3)
 
+10.1038/s41586-024-08185-3
+
 ---
 
-## A metagenome-assembled genome inventory for children reveals early-life gut bacteriome and virome dynamics
+## A metagenome-assembled genome inventory for children reveals early-life gut bacteriome and virome dynamics.
+ 26.11.2024, _Y Peng, J Zhu, S Wang, Y Liu, X Liu, O DeLeon, W Zhu, Z Xu, X Zhang, S Zhao, S Liang, H Li, B Ho, JY Ching, CP Cheung, TF Leung, WH Tam, TY Leung, EB Chang, FKL Chan, L Zhang, SC Ng, HM Tun_
+
+
+Existing microbiota databases are biased toward adult samples, hampering accurate profiling of the infant gut microbiome. Here, we generated a metagenome-assembled genome inventory for children (MAGIC) from a large collection of bulk and viral-like particle-enriched metagenomes from 0 to 7 years of age, encompassing 3,299 prokaryotic and 139,624 viral species-level genomes, 8.5% and 63.9% of which are unique to MAGIC. MAGIC improves early-life microbiome profiling, with the greatest improvement in read mapping observed in Africans. We then identified 54 candidate keystone species, including several Bifidobacterium spp. and four phages, forming guilds that fluctuated in abundance with time. Their abundances were reduced in preterm infants and were associated with childhood allergies. By analyzing the B. longum pangenome, we found evidence of phage-mediated evolution and quorum sensing-related ecological adaptation. Together, the MAGIC database recovers genomes that enable characterization of the dynamics of early-life microbiomes, identification of candidate keystone species, and strain-level study of target species.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S1931312824004025?via%3Dihub)
+
+10.1016/j.chom.2024.10.017
 
 ---
 
@@ -396,9 +408,16 @@ In this study, we evaluated the impact of yeast cell wall prebiotics and multisp
 
 ---
 
-## Evaluation of DNA extraction kits for long-read shotgun metagenomics using Oxford Nanopore sequencing for rapid taxonomic and antimicrobial resistance detection
+## Evaluation of DNA extraction kits for long-read shotgun metagenomics using Oxford Nanopore sequencing for rapid taxonomic and antimicrobial resistance detection.
+ 02.12.2024, _S Purushothaman, M Meola, T Roloff, AM Rooney, A Egli_
+
+
+_Metagenomics, Nanopore Sequencing, Drug Resistance, Bacterial, DNA, Bacterial, Humans, Bacteria_
+During a bacterial infection or colonization, the detection of antimicrobial resistance (AMR) is critical, but slow due to culture-based approaches for clinical and screening samples. Culture-based phenotypic AMR detection and confirmation require up to 72 hours (h) or even weeks for slow-growing bacteria. Direct shotgun metagenomics by long-read sequencing using Oxford Nanopore Technologies (ONT) may reduce the time for bacterial species and AMR gene identification. However, screening swabs for metagenomics is complex due to the range of Gram-negative and -positive bacteria, diverse AMR genes, and host DNA present in the samples. Therefore, DNA extraction is a critical initial step. We aimed to compare the performance of different DNA extraction protocols for ONT applications to reliably identify species and AMR genes using a shotgun long-read metagenomic approach. We included three different sample types: ZymoBIOMICS Microbial Community Standard, an in-house mock community of ESKAPE pathogens including Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Escherichia coli (ESKAPE Mock), and anonymized clinical swab samples. We processed all sample types with four different DNA extraction kits utilizing different lysis (enzymatic vs. mechanical) and purification (spin-column vs. magnetic beads) methods. We used kits from Qiagen (QIAamp DNA Mini and QIAamp PowerFecal Pro DNA) and Promega (Maxwell RSC Cultured Cells and Maxwell RSC Buccal Swab DNA). After extraction, samples were subject to the Rapid Barcoding Kit (RBK004) for library preparation followed by sequencing on the GridION with R9.4.1 flow cells. The fast5 files were base called to fastq files using Guppy in High Accuracy (HAC) mode with the inbuilt MinKNOW software. Raw read quality was assessed using NanoPlot and human reads were removed using Minimap2 alignment against the Hg38 genome. Taxonomy identification was performed on the raw reads using Kraken2 and on assembled contigs using Minimap2. The AMR genes were identified using Minimap2 with alignment against the CARD database on both the raw reads and assembled contigs. We identified all bacterial species present in the Zymo Mock Community (8/8) and ESKAPE Mock (6/6) with Qiagen PowerFecal Pro DNA kit (chemical and mechanical lysis) at read and assembly levels. Enzymatic lysis retrieved fewer aligned bases for the Gram-positive species (Staphylococcus aureus and Enterococcus faecium) from the ESKAPE Mock on the assembly level compared to the mechanical lysis. We detected the AMR genes from Gram-negative and -positive species in the ESKAPE Mock with the QIAamp PowerFecal Pro DNA kit on reads level with a maximum median time of 1.9 h of sequencing. Long-read metagenomics with ONT may reduce the turnaround time in screening for AMR genes. Currently, the QIAamp PowerFecal Pro DNA kit (chemical and mechanical lysis) for DNA extraction along with the Rapid Barcoding Kit for the ONT sequencing captured the best taxonomy and AMR identification for our specific use case.
 
 [Source](https://www.nature.com/articles/s41598-024-80660-3)
+
+10.1038/s41598-024-80660-3
 
 ---
 
@@ -421,15 +440,15 @@ During an ongoing female urinary microbiome research study, strains c17Ua_112T a
 
 ---
 
-## Alcohol-related stimuli disrupt inhibitory control in heavy but not light drinkers in a crowdsourced sample.
- 02.12.2024, _ME Radevski, J Weafer, JC Strickland, J Marty, CK Akins_
+## Unveiling the mechanisms of mixed surfactant synergy in passivating lignin-cellulase interactions during lignocellulosic saccharification.
+ 02.12.2024, _Q Liu, M Madadi, S Al Azad, X Lu, H Yan, Q Zhou, C Sun, F Sun_
 
 
-The association between inhibitory control and alcohol use has been well established. However, studies comparing the effects of alcohol cues on disinhibition in heavy and light drinkers have reported mixed results. The present study used a crowdsourcing platform, Prolific, to assess the effects of alcohol-related cues on inhibitory control in light drinkers versus heavy drinkers. Eligible participants were categorized as light or heavy drinkers based on National Institute on Alcohol Abuse and Alcoholism classifications. Participants (43 women and 65 men) then completed the Attentional Bias-Behavioral Activation task to assess inhibitory control. Subjects were randomized to either an alcohol or neutral-go condition. Inhibitory failures (IF) were measured as pressing a key when the assigned go cue was presented before the no-go cue. Analyses revealed a significant Drinking Status × Condition interaction, F(1, 99) = 5.656, p = .019, ηp² = 0.054. IF were greater in the alcohol-go compared to the neutral-go condition for heavy drinkers, t(46) = -1.848, p = .036, d = 0.538, but not light drinkers (p = .226, d = 0.197). Additionally, heavy drinkers had more IF than light drinkers in the alcohol-go condition, t(55) = -2.152, p = .018, d = 0.571, but not in the neutral-go condition (p = .266, d = 0.180). Results demonstrated that alcohol images disrupt inhibitory control in heavy drinkers but not light drinkers. The results from the present study extend research by using a crowdsourcing platform to replicate findings of disinhibition in heavy drinkers but not in light drinkers. (PsycInfo Database Record (c) 2024 APA, all rights reserved).
+Surfactants can synergistically enhance the enzymatic hydrolysis of lignocellulosic biomass, achieving higher sugar yields at lower enzyme loading. However, the exact mechanism by which mixed surfactants passivate lignin-cellulase interactions is not fully understood. This study found that the combination of ternary non-ionic and cationic surfactants (Tween 60, Triton X-114, and CTAB) significantly reduced the non-productive adsorption of lignin, with decreases of 35.4 %-55.4 % in equilibrium adsorption (We, 23.2 mg/g) compared to the single surfactant and the control. Meanwhile, mixed surfactants disrupted the entropy-enthalpy co-driven process for non-productive cellulase adsorption while promoting the desorption process. Non-ionic surfactants mainly contributed to reducing the hydrophobic interactions between lignin and cellulases. Positively charged CTAB enabled nonionic surfactants to form stronger H-bonds with lignin by electrophilic modification, and Triton X-114 increased van der Waals forces. Although surfactant-modified lignin exhibited lower hydrophobicity, zeta potential, and a more stable hydrogen bond network, the inhibitory effects of lignin-cellulase interactions by mixed surfactants were susceptible to lignin properties. According to the structure-activity relationship analysis (R2 &gt; 0.80), the main influencing factors included particle size, aliphatic/phenolic OH group contents, contact angle, and zeta potential of lignin. The study on the synergistic passivation of lignin-cellulase interactions by multi-component surfactant systems provides some theoretical insights for selecting and customarily designing effective additives for efficient enzymatic hydrolysis in lignocellulosic biorefineries.
 
 [Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs/post/3lbihe4otjs2l?ref_src=embed)
 
-10.1037/pha0000750
+10.1016/j.jcis.2024.11.188
 
 ---
 
