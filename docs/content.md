@@ -17,6 +17,19 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
+## Establishing construct validity for dynamic measures of behavior using naturalistic study designs.
+ 04.12.2024, _RC French, DP Kennedy, AC Krendl_
+
+
+_Humans, Female, Male, Adult, Young Adult, Theory of Mind, Middle Aged, Judgment, Aged, Reproducibility of Results, Research Design, Adolescent, Emotions_
+There has been a recent surge of naturalistic methodology to assess complex topics in psychology and neuroscience. Such methods are lauded for their increased ecological validity, aiming to bridge a gap between highly controlled experimental design and purely observational studies. However, these measures present challenges in establishing construct validity. One domain in which this has emerged is research on theory of mind: the ability to infer others' thoughts and emotions. Traditional measures utilize rigid methodology which suffer from ceiling effects and may fail to fully capture how individuals engage theory of mind in everyday interactions. In the present study, we validate and test a novel approach utilizing a naturalistic task to assess theory of mind. Participants watched a mockumentary-style show while using a joystick to provide continuous, real-time theory of mind judgments. A baseline sample's ratings were used to establish a "ground truth" for the judgments. Ratings from separate young and older adult samples were compared against the ground truth to create similarity scores. This similarity score was compared against two independent tasks to assess construct validity: an explicit judgment performance-based paradigm, and a neuroimaging paradigm assessing response to a static measure of theory of mind. The similarity metric did not have ceiling effects and was significantly positively related to both the performance-based and neural measures. It also replicated age effects that other theory of mind measures demonstrate. Together, our multimodal approach provided convergent evidence that dynamic measures of behavior can yield robust and rigorous assessments of complex psychological processes.
+
+[Source](https://cassyni.com/s/mvif-34)
+
+10.3758/s13428-024-02519-9
+
+---
+
 ## https://cassyni.com/s/mvif-34
 
 [Source](https://cassyni.com/s/mvif-34)
@@ -26,6 +39,18 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 ## Microbiome Virtual International Forum (@microbiomevif.bsky.social)
 
 [Source](https://bsky.app/profile/did:plc:dyrbb3iiuynmhsho3hywdakx?ref_src=embed)
+
+---
+
+## Acceptability, User Satisfaction, and Feasibility of an App-Based Support Service During the COVID-19 Pandemic in a Psychiatric Outpatient Setting: Prospective Longitudinal Observational Study.
+ 04.12.2024, _K Golsong, L Kaufmann, S Baldofski, E Kohls, C Rummel-Kluge_
+
+
+Patients with mental disorders often have difficulties maintaining a daily routine, which can lead to exacerbated symptoms. It is known that apps can help manage mental health in a low-threshold way and can be used in therapeutic settings to complement existing therapies.
+
+[Source](https://bsky.app/profile/did:plc:dyrbb3iiuynmhsho3hywdakx/post/3lbelftyhn22t?ref_src=embed)
+
+10.2196/60461
 
 ---
 
@@ -41,6 +66,19 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
+## Engineering microbial consortia for controllable outputs.
+ 02.12.2018, _SR Lindemann, HC Bernstein, HS Song, JK Fredrickson, MW Fields, W Shou, DR Johnson, AS Beliaev_
+
+
+_Bioengineering, Genomics, Microbial Consortia_
+Much research has been invested into engineering microorganisms to perform desired biotransformations; nonetheless, these efforts frequently fall short of expected results due to the unforeseen effects of biofeedback regulation and functional incompatibility. In nature, metabolic function is compartmentalized into diverse organisms assembled into robust consortia, in which the division of labor is thought to lead to increased community efficiency and productivity. Here we consider whether and how consortia can be designed to perform bioprocesses of interest beyond the metabolic flexibility limitations of a single organism. Advances in post-genomic analysis of microbial consortia and application of high-resolution global measurements now offer the promise of systems-level understanding of how microbial consortia adapt to changes in environmental variables and inputs of carbon and energy. We argue that, when combined with appropriate modeling frameworks, systems-level knowledge can markedly improve our ability to predict the fate and functioning of consortia. Here we articulate our collective perspective on the current and future state of microbial community engineering and control while placing specific emphasis on ecological principles that promote control over community function and emergent properties.
+
+[Source](https://www.nature.com/articles/s41564-024-01850-3)
+
+10.1038/ismej.2016.26
+
+---
+
 ## Perspective: A framework for understanding collective microbiome metabolism
 
 [Source](https://www.nature.com/articles/s41564-024-01850-3)
@@ -53,9 +91,34 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
+## Influence of rubber particle inputs on nitrogen removal efficiency of bioretention systems.
+ 29.11.2024, _T Hu, W Li, J Xiong, J Zhou, Q Xia_
+
+
+_Nitrogen, Rubber, Water Pollutants, Chemical, Waste Disposal, Fluid, Denitrification, Bacteria, Ethylenes, Elastomers_
+Bioretention systems effectively capture rubber particles and other microplastics in stormwater runoff. However, it is uncertain whether long-term particle accumulation affects pollutant removal efficacy. This study investigated the impact of various concentrations of ethylene-propylene-diene-monomer (EPDM) particles (0, 50, 100, and 400 mg/L) on bioretention system nitrogen removal performance. The input of EPDM during short-duration (2 h) rainfall favored the removal of nitrogen, and the total nitrogen effluent concentration of the bioretention system with EPDM was reduced by 0.59-1.52 mg/L compared with that of the system without EPDM. In addition, the input of EPDM reduced the negative effects of drought. During long-duration (24 h) rainfall, higher concentrations of EPDM led to lower nitrate-nitrogen concentrations in the effluent. The bioretention system with EPDM required less time for nitrate-nitrogen removal to reach 50% than that without EPDM input. Microbial community analysis showed that EPDM increased the relative total abundance of denitrifying bacteria (such as Dechloromonas, Zoogloea, Ramlibacter, and Aeromonas) by 7.25-10.26%, which improved the denitrification capacity of the system.
+
+[Source](https://bsky.app/profile/did:plc:5r53rhz7nxiurzw4mfcmfewf?ref_src=embed)
+
+10.2166/wst.2024.363
+
+---
+
 ## Microbial Systems Ecology Lab (@micsysecolab.bsky.social)
 
 [Source](https://bsky.app/profile/did:plc:5r53rhz7nxiurzw4mfcmfewf?ref_src=embed)
+
+---
+
+## NIR-II Imaging for Tracking the Spatiotemporal Immune Microenvironment in Atherosclerotic Plaques.
+ 04.12.2024, _L Shen, M Chen, Y Su, Y Bi, G Shu, W Chen, C Lu, Z Zhao, L Lv, J Zou, X Chen, J Ji_
+
+
+The inflammatory immune microenvironment is responsible for atherosclerotic plaque erosion and rupture. Near-infrared-II (NIR-II) fluorescence imaging has the potential to continuously monitor the spatiotemporal changes in the plaque immune microenvironment. Herein, we constructed three different NIR-II probes based on benzo[1,2-c;4,5-c']bis[1,2,5]thiadiazole-4,7-bis(9,9-dioctyl-9H-fluoren-2-yl)thiophene (denoted as BBT-2FT): VHPK/BBT-2FT NPs, where VHPK is a specific peptide targeting vascular cell adhesion molecule-1; iNOS/BBT-2FT NPs for modulating the polarization of M1 macrophages by inducible NO synthase (iNOS) antibodies; and Arg-1/BBT-2FT for counterbalancing the inflammatory responses of M1 macrophages. These tracers enable precise tracking of atherosclerotic plaques and M1 and M2 macrophages through NIR-II imaging. VHPK/BBT-2FT NPs can accurately trace atherosclerotic plaques at various stages. Arg-1/BBT-2FT NPs precisely located M2 macrophages in the early plaque microenvironment with upregulation of peroxisome proliferator-activated receptor γ (PPAR-γ), signal transducer and activator of transcription (STAT) 6, and ATP-binding cassette transporter A1 (ABCA1), indicating that M2 macrophage polarization is crucial for early plaque lipid clearance. Meanwhile, iNOS/BBT-2FT NPs accurately tracked M1 macrophages in the advanced plaque microenvironment. The results showed that M1 macrophage polarization induces the formation of an inflammatory microenvironment through anaerobic glycolytic metabolism and pyroptosis in the advanced hypoxic plaque microenvironment, as indicated by the upregulation of hypoxia-inducible factor 1 alpha (HIF-1α), STAT1, NOD-, LRR-, and pyrin domain-containing protein 3 (NLRP3), pyruvate dehydrogenase kinase 1 (PDK1), and glucose transporter 1 (GLUT-1). Combining immunological approaches with NIR-II imaging has revealed that hypoxia-induced metabolic reprogramming of macrophages is a key factor in dynamic changes in the immune microenvironment of atherosclerotic plaques. Furthermore, our strategy shows the potential for real-time diagnosis and clinical prevention of unstable plaque rupture in atherosclerosis.
+
+[Source](https://bsky.app/profile/did:plc:5r53rhz7nxiurzw4mfcmfewf/post/3lbu2xf2wps2o?ref_src=embed)
+
+10.1021/acsnano.4c10739
 
 ---
 
@@ -109,15 +172,15 @@ The human gut microbiome is highly personal. However, the contribution of gut ph
 
 ---
 
-## The effect of lengthening of the percutaneous implant in the surgical treatment of Th-L ankylosed spine fractures: 4 segment fixation versus 5 to 8 segment fixation.
- 04.12.2024, _J Svac, P Stranak, T Hrin, L Hrabalek, R Alberty, R Zamborsky, M Kilian_
+## Effects of personalized and normative feedback via the Positive Play Quiz on responsible gambling intention, self-efficacy and behavior: A randomized controlled trial.
+ 04.12.2024, _N Tabri, RTA Wood, MJA Wohl_
 
 
-Fractures of thoracolumbar spine in the field of ankylosing diseases such as ankylosing spondylitis (AS) and diffuse idiopathic skeletal hyperostosis (DISH) can by surgically treated with miniinvasive posterior transpedicular fixation. The exact length of implant is the subject of several studies. In our study, we retrospectively evaluated the treatment of B3 fractures of the ankylosed thoracolumbar spine with use a shorter versus longer implant, always with 8 screws.
+To evaluate whether a personalized and normative feedback (PNF) intervention for responsible gambling increases gambling insight as well as intention and self-efficacy to engage in responsible gambling and behavioral engagement.
 
 [Source](https://bsky.app/profile/did:plc:jyh2n3qwawf2uk6pyg4ulujg/post/3lbwe7op4gk26?ref_src=embed)
 
-10.4149/BLL_2024_129
+10.1111/add.16722
 
 ---
 
@@ -169,15 +232,15 @@ A study was conducted in fish processing facilities to investigate the microbial
 
 ---
 
-## Imunological aspects of kidney retransplantation.
- 04.12.2024, _I Gala, T Baltesova, S Hulik, R Kalanin, D Adandedjan, J Katuchova, L Bena, JB Jr_
+## Effects of personalized and normative feedback via the Positive Play Quiz on responsible gambling intention, self-efficacy and behavior: A randomized controlled trial.
+ 04.12.2024, _N Tabri, RTA Wood, MJA Wohl_
 
 
-The number of patients on the waiting list for a kidney retransplant has increased. Patients who are candidates for a second kidney transplant often have higher levels of PRA (Panel of Reactive Antibodies). The previous failed kidney transplant is one of the main factors that leads to the production of antibodies against human leukocyte antigens ‒ HLA. The consequences of sensitisation are a long waiting time for repeated kidney transplantation and a negative effect on graft survival after retransplantation.The aim of our analysis was to evaluate the immunological parameters of patients undergoing renal retransplantation at the Kosice Transplant Centre, their influence on graft function, the occurrence of rejection episodes and to analyse the sensitisation status of recipients on the waiting list for renal retransplantation at the Kosice Transplant Centre.We retrospectively analysed 46 adult patients who underwent secondary renal transplantation. In the group of retransplanted patients, we found a higher immunological risk and PRA values (p&lt;0.001) and a higher need for induction therapy to reduce the lymphocyte count (p&lt;0.001). Retransplant patients with DGF were 48% more likely to experience acute rejection.In the context of the published literature, we have observed increased sensitisation in retransplanted patients, which is a major challenge to overcome the immunological barrier in transplantation medicine (Tab. 4, Fig. 1, Ref. 24). Keywords: retransplantation, sensitisation, panel of reactive antibodies.
+To evaluate whether a personalized and normative feedback (PNF) intervention for responsible gambling increases gambling insight as well as intention and self-efficacy to engage in responsible gambling and behavioral engagement.
 
 [Source](https://bsky.app/profile/did:plc:pcld5no3yjxnsues74juglri/post/3lb7soxsvrs2k?ref_src=embed)
 
-10.4149/BLL_2024_130
+10.1111/add.16722
 
 ---
 
@@ -248,15 +311,15 @@ Vulnerable patients in an intensive care unit (ICU) setting are at high risk of 
 
 ---
 
-## Worse lung function, more allergic sensitization but less blood eosinophilia in elderly patients with long-standing versus late-onset asthma.
- 04.12.2024, _LR Yamamoto, EDSO Vianna, ACVA Cetlin, MPL Ferriani, O Trevisan Neto, JML Melo, MET Zanetti, LK Arruda, MB de Menezes_
+## Immediate postinjury extracorporeal carbon dioxide removal reduces ventilator requirements and mitigates acute respiratory distress syndrome in swine.
+ 04.12.2024, _AI Batchinsky, TR Roberts, BS Jordan, BM Beely, DS Wendorff, C Necsoiu, JW Cannon, KK Chung, LC Cancio_
 
 
-Asthma in the elderly is usually considered homogeneous and non-atopic.
+Awareness of ventilator-induced lung injury contributed to increased use of extracorporeal interventions, but not immediately after injury, before acute respiratory distress syndrome (ARDS) ensues. Our objective was to evaluate the role of venovenous extracorporeal carbon dioxide removal (ECCO2R) in management of mechanically ventilated swine with smoke inhalation injury and 40% body surface area burns.
 
 [Source](https://bsky.app/profile/did:plc:vf4j77c7bvnyn7lmeeu3byyo/post/3lbw44njddk2q?ref_src=embed)
 
-10.1080/02770903.2024.2438099
+10.1097/TA.0000000000004486
 
 ---
 
@@ -304,16 +367,9 @@ In this study, we evaluated the impact of yeast cell wall prebiotics and multisp
 
 ---
 
-## Development of a novel complex inflammatory bowel disease mouse model: Reproducing human inflammatory bowel disease etiologies in mice.
- 23.11.2024, _SM Seo, NW Kim, ES Yoo, JH Lee, AR Kang, HB Jeong, WY Shim, DH Kim, YJ Park, K Bae, KA Yoon, YK Choi_
-
-
-_Animals, Disease Models, Animal, Mice, Inflammatory Bowel Diseases, Humans, Dextran Sulfate, Diet, High-Fat, Cytokines, Mice, Inbred C57BL, Citrobacter rodentium, Dysbiosis, Gastrointestinal Microbiome, Colon, Mice, Knockout, Male_
-Inflammatory bowel disease (IBD), caused by environmental factors associated with the host's genetic traits, is represented by Crohn's disease and ulcerative colitis. Despite the increasing number of patients with IBD, the current treatment is limited to symptomatic therapy. A complex IBD model mimicking the human IBD etiology is required to overcome this limitation. Herein, we developed novel complex IBD models using interleukin 2 receptor subunit gamma (Il2rg)-deficient mice, high-fat diet, dextran sodium sulfate, and Citrobacter rodentium. The more IBD factors applied complexly, colon length shortened and inflammation worsened. The levels of pro-inflammatory cytokines increased with increased IBD factors. Anti-inflammatory cytokine decreased in all factors application but increased in Il2rg deficiency and Westernized diet combination. Additionally, the pro-inflammatory transcription factors and leaky intestinal epithelial marker were upregulated by a combination of IBD factors. Species diversity decreased with IBD factors. Phylogenetic diversity decreased as IBD factors were applied but increased with combined Il2rg deficiency and Westernized diet. The more IBD factors applied complexly, the more severe the dysbiosis. Finally, we developed a novel complex IBD model using various IBD factors. This model more closely mimic human IBD based on colonic inflammation and dysbiosis than the previous models. Based on these results, our novel complex IBD model could be a valuable tool for further IBD research.
+## Development of a novel complex inflammatory bowel disease mouse model: Reproducing human inflammatory bowel disease etiologies in mice
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311310)
-
-10.1371/journal.pone.0311310
 
 ---
 
@@ -323,27 +379,15 @@ Inflammatory bowel disease (IBD), caused by environmental factors associated wit
 
 ---
 
-## Soil microbiomes show consistent and predictable responses to extreme events.
- 28.11.2024, _CG Knight, O Nicolitch, RI Griffiths, T Goodall, B Jones, C Weser, H Langridge, J Davison, A Dellavalle, N Eisenhauer, KB Gongalsky, A Hector, E Jardine, P Kardol, FT Maestre, M Schädler, M Semchenko, C Stevens, MΑ Tsiafouli, O Vilhelmsson, W Wanek, FT de Vries_
-
-
-Increasing extreme climatic events threaten the functioning of terrestrial ecosystems1,2. Because soil microbes govern key biogeochemical processes, understanding their response to climate extremes is crucial in predicting the consequences for ecosystem functioning3,4. Here we subjected soils from 30 grasslands across Europe to four contrasting extreme climatic events under common controlled conditions (drought, flood, freezing and heat), and compared the response of soil microbial communities and their functioning with those of undisturbed soils. Soil microbiomes exhibited a small, but highly consistent and phylogenetically conserved, response under the imposed extreme events. Heat treatment most strongly impacted soil microbiomes, enhancing dormancy and sporulation genes and decreasing metabolic versatility. Microbiome response to heat in particular could be predicted by local climatic conditions and soil properties, with soils that do not normally experience the extreme conditions being imposed being most vulnerable. Our results suggest that soil microbiomes from different climates share unified responses to extreme climatic events, but that predicting the extent of community change may require knowledge of the local microbiome. These findings advance our understanding of soil microbial responses to extreme events, and provide a first step for making general predictions about the impact of extreme climatic events on soil functioning.
+## Soil microbiomes show consistent and predictable responses to extreme events
 
 [Source](https://www.nature.com/articles/s41586-024-08185-3)
 
-10.1038/s41586-024-08185-3
-
 ---
 
-## A metagenome-assembled genome inventory for children reveals early-life gut bacteriome and virome dynamics.
- 26.11.2024, _Y Peng, J Zhu, S Wang, Y Liu, X Liu, O DeLeon, W Zhu, Z Xu, X Zhang, S Zhao, S Liang, H Li, B Ho, JY Ching, CP Cheung, TF Leung, WH Tam, TY Leung, EB Chang, FKL Chan, L Zhang, SC Ng, HM Tun_
-
-
-Existing microbiota databases are biased toward adult samples, hampering accurate profiling of the infant gut microbiome. Here, we generated a metagenome-assembled genome inventory for children (MAGIC) from a large collection of bulk and viral-like particle-enriched metagenomes from 0 to 7 years of age, encompassing 3,299 prokaryotic and 139,624 viral species-level genomes, 8.5% and 63.9% of which are unique to MAGIC. MAGIC improves early-life microbiome profiling, with the greatest improvement in read mapping observed in Africans. We then identified 54 candidate keystone species, including several Bifidobacterium spp. and four phages, forming guilds that fluctuated in abundance with time. Their abundances were reduced in preterm infants and were associated with childhood allergies. By analyzing the B. longum pangenome, we found evidence of phage-mediated evolution and quorum sensing-related ecological adaptation. Together, the MAGIC database recovers genomes that enable characterization of the dynamics of early-life microbiomes, identification of candidate keystone species, and strain-level study of target species.
+## A metagenome-assembled genome inventory for children reveals early-life gut bacteriome and virome dynamics
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S1931312824004025?via%3Dihub)
-
-10.1016/j.chom.2024.10.017
 
 ---
 
@@ -385,16 +429,15 @@ During an ongoing female urinary microbiome research study, strains c17Ua_112T a
 
 ---
 
-## Gonadal sex reversal at single-cell resolution in Znrf3-deficient mice.
- 04.12.2024, _RGG Kay, R Reeves, P Siggers, S Greenaway, AM Mallon, S Wells, BK Koo, C Mayère, S Nef, A Greenfield, MM Simon_
+## Optimizing Ligand Valency to Maximize Tendon Accumulation of Peptide-Targeted Nanoparticles.
+ 04.12.2024, _E Adjei-Sowah, V Rangasami, AE Loiselle, DSW Benoit_
 
 
-_Animals, Male, Female, Mice, Sertoli Cells, Granulosa Cells, Single-Cell Analysis, Gonads, Sex Determination Processes, Testis, Cell Differentiation, Transcriptome, Cell Lineage, Mice, Knockout, Disorders of Sex Development, Ovary, Gene Expression Regulation, Developmental, Sex Differentiation_
-The role of anti-WNT ZNRF3 is central to determining gonadal fate: XY mice lacking functional ZNRF3 exhibit a highly variable gonadal sex reversal phenotype in the fetal period, characterised by appearance of ovarian tissue. To investigate this sex reversal further, we used single-cell RNA-seq to examine the transcriptomes of XY Znrf3-deficient gonads during the mouse sex-determining period. Analyses of cell trajectories in mutant gonads reveal the failure of pre-supporting cells to commit to the Sertoli cell fate, XY granulosa cell development, unstable commitment in those cells that reach the Sertoli path and enhanced contribution to a supporting-like cell fate. By developing a machine learning-based score for transcriptomic similarity to Sertoli and granulosa, we show pervasive disruption to acquisition of testicular cell fate in the mutant supporting cell lineage, with large numbers of cells co-expressing pro-Sertoli and pro-granulosa markers. These data reveal that loss of Znrf3 results in transcriptomic and cellular heterogeneity, with shifts in cellular sex identity that undermine a simple binary model in which mutant supporting cell precursors achieve either Sertoli or granulosa cell differentiation.
+In many tissues, including musculoskeletal tissues such as tendon, systemic delivery typically results in poor targeting of free drugs. Hence, we previously developed a targeted drug delivery nanoparticle (NP) system for tendon healing, leveraging a tartrate resistant acid phosphatase (TRAP) binding peptide (TBP) ligand. The greatest tendon targeting was observed with NPs functionalized with 30 000 TBP ligands per NP at day 7 during the proliferative healing phase, relative to the inflammatory (day 3) and early remodeling (day 14) phases of healing. Nevertheless, TRAP activity varies throughout healing and, therefore, may offer an opportunity for optimizing temporal therapeutic targeting through multivalent interactions. Hence, in this study, we hypothesized that the ligand density (9000-55,000 TBPs per NP) can optimize tendon accumulation on the basis of variable TRAP levels. The multivalent nanoparticles were loaded with three different fluorophores. In vitro, the ligand density and fluorophore had no effect on the physicochemical properties of the NPs, including size, charge, polydispersity index, or dye loading efficiency; however, the TRAP binding affinity correlated positively with the ligand density. In vivo, the ligand density correlated positively with NP homing and retention in the tendon, establishing opportunities to leverage ligand density for tendon targeting across the tendon healing cascade, during aging, and in other tendon pathologies, including tendinopathies.
 
 [Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs/post/3lbihe4otjs2l?ref_src=embed)
 
-10.1242/dev.202707
+10.1021/acsami.4c13388
 
 ---
 
