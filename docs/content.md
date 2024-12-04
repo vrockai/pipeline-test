@@ -17,15 +17,16 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
-## Challenges and Approaches to Recruitment for and Retention in a Dyad-Focused eHealth Intervention During COVID-19: Randomized Controlled Trial.
- 03.12.2024, _C Ma, RH Adler, DB Neidre, RC Chen, LL Northouse, C Rini, X Tan, L Song_
+## Liver tumor segmentation method combining multi-axis attention and conditional generative adversarial networks.
+ 03.12.2024, _J Liao, H Wang, H Gu, Y Cai_
 
 
-Family-based randomized controlled trials (RCTs) encounter recruitment and retention challenges. Cancer-focused RCTs typically recruit convenience samples from local cancer centers and hospitals.
+_Liver Neoplasms, Humans, Neural Networks, Computer, Tomography, X-Ray Computed, Algorithms, Deep Learning, Image Processing, Computer-Assisted, Liver, Imaging, Three-Dimensional_
+In modern medical imaging-assisted therapies, manual annotation is commonly employed for liver and tumor segmentation in abdominal CT images. However, this approach suffers from low efficiency and poor accuracy. With the development of deep learning, automatic liver tumor segmentation algorithms based on neural networks have emerged, for the improvement of the work efficiency. However, existing liver tumor segmentation algorithms still have several limitations: (1) they often encounter the common issue of class imbalance in liver tumor segmentation tasks, where the tumor region is significantly smaller than the normal tissue region, causing models to predict more negative samples and neglect the tumor region; (2) they fail to adequately consider feature fusion between global contexts, leading to the loss of crucial information; (3) they exhibit weak perception of local details such as fuzzy boundaries, irregular shapes, and small lesions, thereby failing to capture important features. To address these issues, we propose a Multi-Axis Attention Conditional Generative Adversarial Network, referred to as MA-cGAN. Firstly, we propose the Multi-Axis attention mechanism (MA) that projects three-dimensional CT images along different axes to extract two-dimensional features. The features from different axes are then fused by using learnable factors to capture key information from different directions. Secondly, the MA is incorporated into a U-shaped segmentation network as the generator to enhance its ability to extract detailed features. Thirdly, a conditional generative adversarial network is built by combining a discriminator and a generator to enhance the stability and accuracy of the generator's segmentation results. The MA-cGAN was trained and tested on the LiTS public dataset for the liver and tumor segmentation challenge. Experimental results show that MA-cGAN improves the Dice coefficient, Hausdorff distance, average surface distance, and other metrics compared to the state-of-the-art segmentation models. The segmented liver and tumor models have clear edges, fewer false positive regions, and are closer to the true labels, which plays an active role in medical adjuvant therapy. The source code with our proposed model are available at https://github.com/jhliao0525/MA-cGAN.git.
 
 [Source](https://cassyni.com/s/mvif-34)
 
-10.2196/51877
+10.1371/journal.pone.0312105
 
 ---
 
@@ -41,15 +42,15 @@ Family-based randomized controlled trials (RCTs) encounter recruitment and reten
 
 ---
 
-## Emergency Department Patient Satisfaction Scores Are Lower for Patients Who Arrive During the Night Shift.
- 03.12.2024, _T Zitek, L Weber, T Nuñez, L Puron, A Roitman, C Corbea, D Sherman, M Shalaby, F Kresch, DA Farcy_
+## ACT with CF: A randomized trial of acceptance and commitment therapy vs supportive psychotherapy for adults with cystic fibrosis.
+ 03.12.2024, _CV O'Hayer, PJ Smith, CF Drescher, H Bruschwein, CN Nurse, HM Kushner, K Ingle, MJ Stephen, JB Hoag_
 
 
-Increasingly, patient satisfaction scores are being used to assess emergency physicians. We sought to determine whether the patient satisfaction scores collected by our hospital system are lower for patients who are treated in the emergency department (ED) on night shifts as compared to those treated on day shifts.
+Psychological distress, including anxiety and depression, is common among adults with CF, associating with poor quality of life, lung function, and healthcare utilization. This 3-year, multi-site, telehealth-delivered randomized trial sought to determine whether Acceptance and Commitment Therapy (ACT with CF) is superior to supportive psychotherapy (SP), in improving psychological functioning for adults with CF.
 
 [Source](https://bsky.app/profile/did:plc:dyrbb3iiuynmhsho3hywdakx/post/3lbelftyhn22t?ref_src=embed)
 
-10.5811/westjem.20326
+10.1016/j.genhosppsych.2024.11.011
 
 ---
 
@@ -109,15 +110,15 @@ Bioretention systems effectively capture rubber particles and other microplastic
 
 ---
 
-## Formal Physical Therapy Improves PROMIS PF for High Anxiety Patients Following Ankle ORIF.
- 03.12.2024, _W Dong, M Mau, S Soule, E Sato, T Thorne, T Higgins, D Rothberg, L Marchand, J Haller_
+## Vacuum-assisted headspace solid phase microextraction for monitoring ripening-induced changes in tomato volatile profile.
+ 03.12.2024, _A Pateraki, E Psillakis_
 
 
-To compare outcomes after ankle fracture fixation between those receiving formal physical therapy (PT) vs. no formal PT and those with high vs. low PROMIS anxiety score (AS), and to evaluate the effect of PT in the setting of PROMIS AS scores.
+This work proposes, for the first time, the use of vacuum-assisted headspace solid phase microextraction (Vac-HS-SPME) for studying the free volatiles in tomato fruits. Initially, a comparative optimization between Vac-HS-SPME and regular HS-SPME was conducted, examining the effects of sampling time (15-60 min) and temperature (40 and 60°C) on the extraction of 29 target compounds from tomato puree samples. Compared to regular HS-SPME, sampling under vacuum resulted in the detection of nine additional analytes at 40°C, and an extra three at 60°C. The optimized methods (45 minutes sampling with Vac-HS-SPME at 40°C and regular HS-SPME at 60°C) were then successfully applied for the semi-quantitative comparison of free volatiles during on-plant ripening. These studies revealed an increase in volatiles across the six ripening stages considered (mature green, breaker, turning, pink, light red and red ripe) that was dominated by aldehydes. Compared to HS-SPME, the optimized Vac-HS-SPME showed substantial improvement in extraction efficiencies, and enabled the detection of key volatiles at earlier ripening stages, such as the breaker and turning stages. Overall, compared to the regular method, this study demonstrated that Vac-HS-SPME is a powerful approach that provides additional insights on free volatiles in fruits, even when sampling at lower temperatures.
 
 [Source](https://bsky.app/profile/did:plc:5r53rhz7nxiurzw4mfcmfewf/post/3lbu2xf2wps2o?ref_src=embed)
 
-10.1097/BOT.0000000000002940
+10.1016/j.chroma.2024.465556
 
 ---
 
@@ -171,15 +172,15 @@ The human gut microbiome is highly personal. However, the contribution of gut ph
 
 ---
 
-## Barriers to Adoption of a Child-Abuse Clinical Decision Support System in Emergency Departments.
- 03.12.2024, _AC Peterson, DM Yealy, E Heineman, RP Berger_
+## Density tunable dispersive solid phase extraction of four organochlorine pesticides from edible oil sample using rhodamine B as a sorbent prior to GC-MS analysis.
+ 03.12.2024, _MNAM Alkhafaji, MR Afshar Mogaddam, MA Farajzadeh, SM Sorouraddin_
 
 
-Child abuse is a leading cause of morbidity and mortality in children. The rate of missed child abuse in general emergency departments (ED), where 85% of children are evaluated, is higher than in pediatric EDs. We sought to evaluate the impact of an electronic health record (EHR)-embedded child-abuse clinical decision support system (CA-CDSS) in the identification and evaluation of child maltreatment in a network of EDs three years after implementation.
+In this study, a new method was used to evaluate the levels of four organochlorine pesticides in edible samples. In this method, a density tunable dispersive solid phase extraction procedure was coupled with gas chromatography-mass spectrometry. Rhodamine B was used as a sorbent, which was distributed throughout the oil matrix with the aid of evaporation of methanol. This process enabled the possibility of effective extraction and preconcentration of the target analytes. To achieve this goal, several factors affecting the extraction efficiency, including the type and volume of diluent, the amount of rhodamine B, the volume of methanol, and the temperature of the ultrasonic bath were carefully evaluated. This method provided low detection limits (from 0.21 to 0.36 ng g-1), wide linear range (1.1-100 ng g-1) and acceptable extraction recoveries (64-72%) and enrichment factors (102-115). The precision of the method was evaluated by calculating the relative standard deviation, which ranged from 3.6 to 6.8% for intra- and 3.1 to 8.8% for inter-day precisions. The investigated method reduced the interference of the matrix and provided the possibility of quantitative determination of the studied organochlorine pesticides in various oil samples (canola, corn, sunflower, and olive). This method introduced a reliable analytical tool for the monitoring of the pesticide residues in different oil samples by providing capabilities such as simplicity, sensitivity, and compatibility with the environment.
 
 [Source](https://bsky.app/profile/did:plc:jyh2n3qwawf2uk6pyg4ulujg/post/3lbwe7op4gk26?ref_src=embed)
 
-10.5811/westjem.18501
+10.1016/j.chroma.2024.465536
 
 ---
 
@@ -231,15 +232,15 @@ A study was conducted in fish processing facilities to investigate the microbial
 
 ---
 
-## Diagnostic and Prognostic Value of SCUBE-1 in COVID-19 Patients.
- 03.12.2024, _V Ozer, O Gonenc Cekic, O Bulbul, D Aydın, E Bulut, F Aksoy, M Pehlivanlar Kucuk, S Caner Karahan, E Emel Sozen, E Ozkaya, P Kosucu, Y Karaca, S Turedi_
+## Predicting and managing intra-abdominal collections by image guided percutaneous drainage after cytoreductive surgery and hyperthermic intra peritoneal chemotherapy: A five-year experience with 1313 patients.
+ 03.12.2024, _A Saeed, C Nesari, V Evans, K Chandrakumaran, TD Cecil, BJ Moran, F Mohamed_
 
 
-The workload of physicians increased due to the number of patients presenting with suspicion of coronavirus 2019 (COVID-19) and the prolonged wait times in the emergency department during the COVID-19 pandemic. Signal peptide-CUB-EGF domain-containing protein 1 (SCUBE-1) is a protein present in platelets and endothelial cells; it is activated by inflammation from COVID-19 and may be associated with COVID-19's known thrombotic risk. We aimed to determine whether SCUBE-1 levels are diagnostically correlated in suspected COVID-19 patients, and whether SCUBE-1 correlated with severity of disease and, therefore, might be useful to guide hospitalization/discharge decisions.
+Intraabdominal collections (IACs) are common following cytoreductive surgery (CRS) with hyperthermic intraperitoneal chemotherapy (HIPEC). Inflammatory biomarkers and nutritional index (NI) may predict IACs. Management of IACs with image guided percutaneous drainage (IGPD) is an alternative to laparotomy.
 
 [Source](https://bsky.app/profile/did:plc:pcld5no3yjxnsues74juglri/post/3lb7soxsvrs2k?ref_src=embed)
 
-10.5811/westjem.18586
+10.1016/j.ejso.2024.109495
 
 ---
 
@@ -310,15 +311,15 @@ Vulnerable patients in an intensive care unit (ICU) setting are at high risk of 
 
 ---
 
-## Emergency Department Patient Satisfaction Scores Are Lower for Patients Who Arrive During the Night Shift.
- 03.12.2024, _T Zitek, L Weber, T Nuñez, L Puron, A Roitman, C Corbea, D Sherman, M Shalaby, F Kresch, DA Farcy_
+## Density tunable dispersive solid phase extraction of four organochlorine pesticides from edible oil sample using rhodamine B as a sorbent prior to GC-MS analysis.
+ 03.12.2024, _MNAM Alkhafaji, MR Afshar Mogaddam, MA Farajzadeh, SM Sorouraddin_
 
 
-Increasingly, patient satisfaction scores are being used to assess emergency physicians. We sought to determine whether the patient satisfaction scores collected by our hospital system are lower for patients who are treated in the emergency department (ED) on night shifts as compared to those treated on day shifts.
+In this study, a new method was used to evaluate the levels of four organochlorine pesticides in edible samples. In this method, a density tunable dispersive solid phase extraction procedure was coupled with gas chromatography-mass spectrometry. Rhodamine B was used as a sorbent, which was distributed throughout the oil matrix with the aid of evaporation of methanol. This process enabled the possibility of effective extraction and preconcentration of the target analytes. To achieve this goal, several factors affecting the extraction efficiency, including the type and volume of diluent, the amount of rhodamine B, the volume of methanol, and the temperature of the ultrasonic bath were carefully evaluated. This method provided low detection limits (from 0.21 to 0.36 ng g-1), wide linear range (1.1-100 ng g-1) and acceptable extraction recoveries (64-72%) and enrichment factors (102-115). The precision of the method was evaluated by calculating the relative standard deviation, which ranged from 3.6 to 6.8% for intra- and 3.1 to 8.8% for inter-day precisions. The investigated method reduced the interference of the matrix and provided the possibility of quantitative determination of the studied organochlorine pesticides in various oil samples (canola, corn, sunflower, and olive). This method introduced a reliable analytical tool for the monitoring of the pesticide residues in different oil samples by providing capabilities such as simplicity, sensitivity, and compatibility with the environment.
 
 [Source](https://bsky.app/profile/did:plc:vf4j77c7bvnyn7lmeeu3byyo/post/3lbw44njddk2q?ref_src=embed)
 
-10.5811/westjem.20326
+10.1016/j.chroma.2024.465536
 
 ---
 
@@ -366,16 +367,9 @@ In this study, we evaluated the impact of yeast cell wall prebiotics and multisp
 
 ---
 
-## Development of a novel complex inflammatory bowel disease mouse model: Reproducing human inflammatory bowel disease etiologies in mice.
- 23.11.2024, _SM Seo, NW Kim, ES Yoo, JH Lee, AR Kang, HB Jeong, WY Shim, DH Kim, YJ Park, K Bae, KA Yoon, YK Choi_
-
-
-_Animals, Disease Models, Animal, Mice, Inflammatory Bowel Diseases, Humans, Dextran Sulfate, Diet, High-Fat, Cytokines, Mice, Inbred C57BL, Citrobacter rodentium, Dysbiosis, Gastrointestinal Microbiome, Colon, Mice, Knockout, Male_
-Inflammatory bowel disease (IBD), caused by environmental factors associated with the host's genetic traits, is represented by Crohn's disease and ulcerative colitis. Despite the increasing number of patients with IBD, the current treatment is limited to symptomatic therapy. A complex IBD model mimicking the human IBD etiology is required to overcome this limitation. Herein, we developed novel complex IBD models using interleukin 2 receptor subunit gamma (Il2rg)-deficient mice, high-fat diet, dextran sodium sulfate, and Citrobacter rodentium. The more IBD factors applied complexly, colon length shortened and inflammation worsened. The levels of pro-inflammatory cytokines increased with increased IBD factors. Anti-inflammatory cytokine decreased in all factors application but increased in Il2rg deficiency and Westernized diet combination. Additionally, the pro-inflammatory transcription factors and leaky intestinal epithelial marker were upregulated by a combination of IBD factors. Species diversity decreased with IBD factors. Phylogenetic diversity decreased as IBD factors were applied but increased with combined Il2rg deficiency and Westernized diet. The more IBD factors applied complexly, the more severe the dysbiosis. Finally, we developed a novel complex IBD model using various IBD factors. This model more closely mimic human IBD based on colonic inflammation and dysbiosis than the previous models. Based on these results, our novel complex IBD model could be a valuable tool for further IBD research.
+## Development of a novel complex inflammatory bowel disease mouse model: Reproducing human inflammatory bowel disease etiologies in mice
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311310)
-
-10.1371/journal.pone.0311310
 
 ---
 
@@ -385,27 +379,15 @@ Inflammatory bowel disease (IBD), caused by environmental factors associated wit
 
 ---
 
-## Soil microbiomes show consistent and predictable responses to extreme events.
- 28.11.2024, _CG Knight, O Nicolitch, RI Griffiths, T Goodall, B Jones, C Weser, H Langridge, J Davison, A Dellavalle, N Eisenhauer, KB Gongalsky, A Hector, E Jardine, P Kardol, FT Maestre, M Schädler, M Semchenko, C Stevens, MΑ Tsiafouli, O Vilhelmsson, W Wanek, FT de Vries_
-
-
-Increasing extreme climatic events threaten the functioning of terrestrial ecosystems1,2. Because soil microbes govern key biogeochemical processes, understanding their response to climate extremes is crucial in predicting the consequences for ecosystem functioning3,4. Here we subjected soils from 30 grasslands across Europe to four contrasting extreme climatic events under common controlled conditions (drought, flood, freezing and heat), and compared the response of soil microbial communities and their functioning with those of undisturbed soils. Soil microbiomes exhibited a small, but highly consistent and phylogenetically conserved, response under the imposed extreme events. Heat treatment most strongly impacted soil microbiomes, enhancing dormancy and sporulation genes and decreasing metabolic versatility. Microbiome response to heat in particular could be predicted by local climatic conditions and soil properties, with soils that do not normally experience the extreme conditions being imposed being most vulnerable. Our results suggest that soil microbiomes from different climates share unified responses to extreme climatic events, but that predicting the extent of community change may require knowledge of the local microbiome. These findings advance our understanding of soil microbial responses to extreme events, and provide a first step for making general predictions about the impact of extreme climatic events on soil functioning.
+## Soil microbiomes show consistent and predictable responses to extreme events
 
 [Source](https://www.nature.com/articles/s41586-024-08185-3)
 
-10.1038/s41586-024-08185-3
-
 ---
 
-## A metagenome-assembled genome inventory for children reveals early-life gut bacteriome and virome dynamics.
- 26.11.2024, _Y Peng, J Zhu, S Wang, Y Liu, X Liu, O DeLeon, W Zhu, Z Xu, X Zhang, S Zhao, S Liang, H Li, B Ho, JY Ching, CP Cheung, TF Leung, WH Tam, TY Leung, EB Chang, FKL Chan, L Zhang, SC Ng, HM Tun_
-
-
-Existing microbiota databases are biased toward adult samples, hampering accurate profiling of the infant gut microbiome. Here, we generated a metagenome-assembled genome inventory for children (MAGIC) from a large collection of bulk and viral-like particle-enriched metagenomes from 0 to 7 years of age, encompassing 3,299 prokaryotic and 139,624 viral species-level genomes, 8.5% and 63.9% of which are unique to MAGIC. MAGIC improves early-life microbiome profiling, with the greatest improvement in read mapping observed in Africans. We then identified 54 candidate keystone species, including several Bifidobacterium spp. and four phages, forming guilds that fluctuated in abundance with time. Their abundances were reduced in preterm infants and were associated with childhood allergies. By analyzing the B. longum pangenome, we found evidence of phage-mediated evolution and quorum sensing-related ecological adaptation. Together, the MAGIC database recovers genomes that enable characterization of the dynamics of early-life microbiomes, identification of candidate keystone species, and strain-level study of target species.
+## A metagenome-assembled genome inventory for children reveals early-life gut bacteriome and virome dynamics
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S1931312824004025?via%3Dihub)
-
-10.1016/j.chom.2024.10.017
 
 ---
 
@@ -415,47 +397,15 @@ Existing microbiota databases are biased toward adult samples, hampering accurat
 
 ---
 
-## Evaluation of DNA extraction kits for long-read shotgun metagenomics using Oxford Nanopore sequencing for rapid taxonomic and antimicrobial resistance detection.
- 02.12.2024, _S Purushothaman, M Meola, T Roloff, AM Rooney, A Egli_
-
-
-_Metagenomics, Nanopore Sequencing, Drug Resistance, Bacterial, DNA, Bacterial, Humans, Bacteria_
-During a bacterial infection or colonization, the detection of antimicrobial resistance (AMR) is critical, but slow due to culture-based approaches for clinical and screening samples. Culture-based phenotypic AMR detection and confirmation require up to 72 hours (h) or even weeks for slow-growing bacteria. Direct shotgun metagenomics by long-read sequencing using Oxford Nanopore Technologies (ONT) may reduce the time for bacterial species and AMR gene identification. However, screening swabs for metagenomics is complex due to the range of Gram-negative and -positive bacteria, diverse AMR genes, and host DNA present in the samples. Therefore, DNA extraction is a critical initial step. We aimed to compare the performance of different DNA extraction protocols for ONT applications to reliably identify species and AMR genes using a shotgun long-read metagenomic approach. We included three different sample types: ZymoBIOMICS Microbial Community Standard, an in-house mock community of ESKAPE pathogens including Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Escherichia coli (ESKAPE Mock), and anonymized clinical swab samples. We processed all sample types with four different DNA extraction kits utilizing different lysis (enzymatic vs. mechanical) and purification (spin-column vs. magnetic beads) methods. We used kits from Qiagen (QIAamp DNA Mini and QIAamp PowerFecal Pro DNA) and Promega (Maxwell RSC Cultured Cells and Maxwell RSC Buccal Swab DNA). After extraction, samples were subject to the Rapid Barcoding Kit (RBK004) for library preparation followed by sequencing on the GridION with R9.4.1 flow cells. The fast5 files were base called to fastq files using Guppy in High Accuracy (HAC) mode with the inbuilt MinKNOW software. Raw read quality was assessed using NanoPlot and human reads were removed using Minimap2 alignment against the Hg38 genome. Taxonomy identification was performed on the raw reads using Kraken2 and on assembled contigs using Minimap2. The AMR genes were identified using Minimap2 with alignment against the CARD database on both the raw reads and assembled contigs. We identified all bacterial species present in the Zymo Mock Community (8/8) and ESKAPE Mock (6/6) with Qiagen PowerFecal Pro DNA kit (chemical and mechanical lysis) at read and assembly levels. Enzymatic lysis retrieved fewer aligned bases for the Gram-positive species (Staphylococcus aureus and Enterococcus faecium) from the ESKAPE Mock on the assembly level compared to the mechanical lysis. We detected the AMR genes from Gram-negative and -positive species in the ESKAPE Mock with the QIAamp PowerFecal Pro DNA kit on reads level with a maximum median time of 1.9 h of sequencing. Long-read metagenomics with ONT may reduce the turnaround time in screening for AMR genes. Currently, the QIAamp PowerFecal Pro DNA kit (chemical and mechanical lysis) for DNA extraction along with the Rapid Barcoding Kit for the ONT sequencing captured the best taxonomy and AMR identification for our specific use case.
+## Evaluation of DNA extraction kits for long-read shotgun metagenomics using Oxford Nanopore sequencing for rapid taxonomic and antimicrobial resistance detection
 
 [Source](https://www.nature.com/articles/s41598-024-80660-3)
-
-10.1038/s41598-024-80660-3
-
----
-
-## Gardnerella pickettii sp. nov. (formerly Gardnerella genomic species 3) and Gardnerella greenwoodii sp. nov. (formerly Gardnerella genomic species 8) isolated from female urinary microbiome.
- 06.11.2023, _M Sousa, M Ksiezarek, SU Perovic, T Antunes-Lopes, F Grosso, TG Ribeiro, L Peixe_
-
-
-_Female, Humans, Gardnerella, Fatty Acids, Sequence Analysis, DNA, Phylogeny, RNA, Ribosomal, 16S, Base Composition, DNA, Bacterial, Bacterial Typing Techniques, Genomics, Nucleic Acid Hybridization, Microbiota_
-During an ongoing female urinary microbiome research study, strains c17Ua_112T and c31Ua_26T isolated from urine samples of a patient diagnosed with overactive bladder and a healthy postmenopausal woman, respectively, could not be allocated to any Gardnerella species with valid names. In this work, we aimed to characterize these strains. The 16S rRNA gene sequences confirmed that these strains are members of the genus Gardnerella. Phylogenetic analysis based on cpn60 strongly supported two clades, one encompassing c17Ua_112T and nine other strains from the public database, and the other including c31Ua_26T and three other strains, which were distinct from currently recognized species of the genus Gardnerella. Likewise, the phylogenomic tree also showed that strains c17Ua_112T and c31Ua_26T formed independent and robust clusters. Average nucleotide identity (ANI) and digital DNA-DNA hybridization (dDDH) values between c17Ua_112T and c31Ua_26T were 79.27 and 27.4 %, respectively. Strain c17Ua_112T showed the highest ANI (94.8 %) and dDDH values (59.8 %) with Gardnerella piotii UGent 18.01T, and strain c31Ua_26T revealed highest ANI (84.2 %) and dDDH (29.1 %) values with Gardnerella swidsinskii GS 9838-1T. Based on the data presented here, the two strains c17Ua_112T and c31Ua_26T represent two novel species of the genus Gardnerella, for which the names Gardnerella pickettii (c17Ua_112T=DSM 113414T=CCP 71T) and Gardnerella greenwoodii (c31Ua_26T=DSM 113415T=CCP 72T) are proposed.
-
-[Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs?ref_src=embed)
-
-10.1099/ijsem.0.006140
 
 ---
 
 ## Svetlana Ugarcina Perovic (@svetlanaup.bsky.social)
 
 [Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs?ref_src=embed)
-
----
-
-## Genotype-First Analysis in an Unselected Health System-Based Population and Phenotypic Severity of COL4A5 Variants.
- 03.12.2024, _M Zellers, K Solanki, MA Kelly, KM Murphy, K Retterer, HL Kirchner, ID Bucaloiu, B Moore, T Mirshahi, AR Chang_
-
-
-Our knowledge of X-linked Alport Syndrome comes mostly from selected cohorts with more severe disease.
-
-[Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs/post/3lbihe4otjs2l?ref_src=embed)
-
-10.1681/ASN.0000000580
 
 ---
 
