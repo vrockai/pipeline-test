@@ -17,18 +17,6 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
-## RETRACTION: Targeting MYCN IRES in MYCN-amplified neuroblastoma with Mir-375 inhibits tumor growth and sensitizes tumor cells to radiation.
- 04.12.2024, __
-
-
-H. Zhang, T. Liu, S. Yi, L. Gu, and M. Zhou, "Targeting MYCN IRES in MYCN-amplified Neuroblastoma With Mir-375 Inhibits Tumor Growth and Sensitizes Tumor Cells to Radiation," Molecular Oncology 9, no. 7 (2015): 1301-1311, https://doi.org/10.1016/j.molonc.2015.03.005 The above article, published online on 24 March 2015 in Wiley Online Library (wileyonlinelibrary.com), has been retracted by agreement between the journal Editor-in-Chief, Kevin Ryan; FEBS Press; and John Wiley &amp; Sons Ltd. The retraction has been agreed upon following an investigation into concerns raised by a third party, which revealed inappropriate image section duplications within the article (Figure 5B) and between this (Figures 3B and 4B) and another article published by the same group of authors in a different scientific context. The authors were unable to provide a satisfactory explanation and the original raw data, which has led the editors to lose confidence in the data presented. Therefore, the editors consider the conclusions substantially compromised and are retracting the paper.
-
-[Source](https://cassyni.com/s/mvif-34)
-
-10.1002/1878-0261.13775
-
----
-
 ## https://cassyni.com/s/mvif-34
 
 [Source](https://cassyni.com/s/mvif-34)
@@ -38,18 +26,6 @@ H. Zhang, T. Liu, S. Yi, L. Gu, and M. Zhou, "Targeting MYCN IRES in MYCN-amplif
 ## Microbiome Virtual International Forum (@microbiomevif.bsky.social)
 
 [Source](https://bsky.app/profile/did:plc:dyrbb3iiuynmhsho3hywdakx?ref_src=embed)
-
----
-
-## The chemoprotective effect of anti-platelet agents on cancer incidence in people with non-alcoholic fatty liver disease (NAFLD): a retrospective cohort study.
- 04.12.2024, _M Anson, JS Poon, AE Henney, D Riley, GH Ibarbaru, C Sieberhagen, DJ Cuthbertson, U Alam, T Hydes_
-
-
-Non-alcoholic fatty liver disease (NAFLD) is associated with an increased incidence of hepatic and extrahepatic cancers, in particular those linked to obesity. In people with chronic liver disease, aspirin may confer protection against hepatocellular carcinoma (HCC). We explore the potential chemoprotective effect of aspirin/other anti-platelet agents on obesity-related cancers, including HCC in people with NAFLD.
-
-[Source](https://bsky.app/profile/did:plc:dyrbb3iiuynmhsho3hywdakx/post/3lbelftyhn22t?ref_src=embed)
-
-10.1186/s12916-024-03802-4
 
 ---
 
@@ -65,19 +41,6 @@ Non-alcoholic fatty liver disease (NAFLD) is associated with an increased incide
 
 ---
 
-## Engineering microbial consortia for controllable outputs.
- 02.12.2018, _SR Lindemann, HC Bernstein, HS Song, JK Fredrickson, MW Fields, W Shou, DR Johnson, AS Beliaev_
-
-
-_Bioengineering, Genomics, Microbial Consortia_
-Much research has been invested into engineering microorganisms to perform desired biotransformations; nonetheless, these efforts frequently fall short of expected results due to the unforeseen effects of biofeedback regulation and functional incompatibility. In nature, metabolic function is compartmentalized into diverse organisms assembled into robust consortia, in which the division of labor is thought to lead to increased community efficiency and productivity. Here we consider whether and how consortia can be designed to perform bioprocesses of interest beyond the metabolic flexibility limitations of a single organism. Advances in post-genomic analysis of microbial consortia and application of high-resolution global measurements now offer the promise of systems-level understanding of how microbial consortia adapt to changes in environmental variables and inputs of carbon and energy. We argue that, when combined with appropriate modeling frameworks, systems-level knowledge can markedly improve our ability to predict the fate and functioning of consortia. Here we articulate our collective perspective on the current and future state of microbial community engineering and control while placing specific emphasis on ecological principles that promote control over community function and emergent properties.
-
-[Source](https://www.nature.com/articles/s41564-024-01850-3)
-
-10.1038/ismej.2016.26
-
----
-
 ## Perspective: A framework for understanding collective microbiome metabolism
 
 [Source](https://www.nature.com/articles/s41564-024-01850-3)
@@ -90,34 +53,9 @@ Much research has been invested into engineering microorganisms to perform desir
 
 ---
 
-## Influence of rubber particle inputs on nitrogen removal efficiency of bioretention systems.
- 29.11.2024, _T Hu, W Li, J Xiong, J Zhou, Q Xia_
-
-
-_Nitrogen, Rubber, Water Pollutants, Chemical, Waste Disposal, Fluid, Denitrification, Bacteria, Ethylenes, Elastomers_
-Bioretention systems effectively capture rubber particles and other microplastics in stormwater runoff. However, it is uncertain whether long-term particle accumulation affects pollutant removal efficacy. This study investigated the impact of various concentrations of ethylene-propylene-diene-monomer (EPDM) particles (0, 50, 100, and 400 mg/L) on bioretention system nitrogen removal performance. The input of EPDM during short-duration (2 h) rainfall favored the removal of nitrogen, and the total nitrogen effluent concentration of the bioretention system with EPDM was reduced by 0.59-1.52 mg/L compared with that of the system without EPDM. In addition, the input of EPDM reduced the negative effects of drought. During long-duration (24 h) rainfall, higher concentrations of EPDM led to lower nitrate-nitrogen concentrations in the effluent. The bioretention system with EPDM required less time for nitrate-nitrogen removal to reach 50% than that without EPDM input. Microbial community analysis showed that EPDM increased the relative total abundance of denitrifying bacteria (such as Dechloromonas, Zoogloea, Ramlibacter, and Aeromonas) by 7.25-10.26%, which improved the denitrification capacity of the system.
-
-[Source](https://bsky.app/profile/did:plc:5r53rhz7nxiurzw4mfcmfewf?ref_src=embed)
-
-10.2166/wst.2024.363
-
----
-
 ## Microbial Systems Ecology Lab (@micsysecolab.bsky.social)
 
 [Source](https://bsky.app/profile/did:plc:5r53rhz7nxiurzw4mfcmfewf?ref_src=embed)
-
----
-
-## The distribution of Coronal Plane Alignment of the Knee (CPAK) phenotypes in the Malaysian population and their correlation with demographic variables.
- 04.12.2024, _WK Wong, A Abu Bakar Sajak, HS Chua_
-
-
-Only 80% of patients are satisfied with their outcomes post-TKA. Mounting attention has been paid to constitutional limb alignment and individualized alignment strategies in recent years. MacDessi et al. proposed the CPAK classification, which takes into account the patients' arithmetic hip-knee-ankle axis (aHKA) and joint line obliquity (JLO). In this study, we aimed to establish local demographic data, compare them with published data, and assess their correlations with modifiable variables.
-
-[Source](https://bsky.app/profile/did:plc:5r53rhz7nxiurzw4mfcmfewf/post/3lbu2xf2wps2o?ref_src=embed)
-
-10.1186/s42836-024-00281-z
 
 ---
 
@@ -171,15 +109,15 @@ The human gut microbiome is highly personal. However, the contribution of gut ph
 
 ---
 
-## The Cost Evaluation of Day-Case Compared With Inpatient Stapes Surgery for Otosclerosis: Subanalysis of a Randomized Controlled Trial.
- 04.12.2024, _LSM Derks, DMA Kamalski, HGXM Thomeer, W Grolman, RJ Stokroos, I Wegner_
+## The effect of lengthening of the percutaneous implant in the surgical treatment of Th-L ankylosed spine fractures: 4 segment fixation versus 5 to 8 segment fixation.
+ 04.12.2024, _J Svac, P Stranak, T Hrin, L Hrabalek, R Alberty, R Zamborsky, M Kilian_
 
 
-To evaluate the difference in overall, hospital, and out-of-hospital cost difference of day-case stapes surgery, compared with inpatient stapes surgery, while maintaining equal hearing outcomes and quality of life (QoL).
+Fractures of thoracolumbar spine in the field of ankylosing diseases such as ankylosing spondylitis (AS) and diffuse idiopathic skeletal hyperostosis (DISH) can by surgically treated with miniinvasive posterior transpedicular fixation. The exact length of implant is the subject of several studies. In our study, we retrospectively evaluated the treatment of B3 fractures of the ankylosed thoracolumbar spine with use a shorter versus longer implant, always with 8 screws.
 
 [Source](https://bsky.app/profile/did:plc:jyh2n3qwawf2uk6pyg4ulujg/post/3lbwe7op4gk26?ref_src=embed)
 
-10.1097/MAO.0000000000004378
+10.4149/BLL_2024_129
 
 ---
 
@@ -231,15 +169,15 @@ A study was conducted in fish processing facilities to investigate the microbial
 
 ---
 
-## The distribution of Coronal Plane Alignment of the Knee (CPAK) phenotypes in the Malaysian population and their correlation with demographic variables.
- 04.12.2024, _WK Wong, A Abu Bakar Sajak, HS Chua_
+## Imunological aspects of kidney retransplantation.
+ 04.12.2024, _I Gala, T Baltesova, S Hulik, R Kalanin, D Adandedjan, J Katuchova, L Bena, JB Jr_
 
 
-Only 80% of patients are satisfied with their outcomes post-TKA. Mounting attention has been paid to constitutional limb alignment and individualized alignment strategies in recent years. MacDessi et al. proposed the CPAK classification, which takes into account the patients' arithmetic hip-knee-ankle axis (aHKA) and joint line obliquity (JLO). In this study, we aimed to establish local demographic data, compare them with published data, and assess their correlations with modifiable variables.
+The number of patients on the waiting list for a kidney retransplant has increased. Patients who are candidates for a second kidney transplant often have higher levels of PRA (Panel of Reactive Antibodies). The previous failed kidney transplant is one of the main factors that leads to the production of antibodies against human leukocyte antigens ‒ HLA. The consequences of sensitisation are a long waiting time for repeated kidney transplantation and a negative effect on graft survival after retransplantation.The aim of our analysis was to evaluate the immunological parameters of patients undergoing renal retransplantation at the Kosice Transplant Centre, their influence on graft function, the occurrence of rejection episodes and to analyse the sensitisation status of recipients on the waiting list for renal retransplantation at the Kosice Transplant Centre.We retrospectively analysed 46 adult patients who underwent secondary renal transplantation. In the group of retransplanted patients, we found a higher immunological risk and PRA values (p&lt;0.001) and a higher need for induction therapy to reduce the lymphocyte count (p&lt;0.001). Retransplant patients with DGF were 48% more likely to experience acute rejection.In the context of the published literature, we have observed increased sensitisation in retransplanted patients, which is a major challenge to overcome the immunological barrier in transplantation medicine (Tab. 4, Fig. 1, Ref. 24). Keywords: retransplantation, sensitisation, panel of reactive antibodies.
 
 [Source](https://bsky.app/profile/did:plc:pcld5no3yjxnsues74juglri/post/3lb7soxsvrs2k?ref_src=embed)
 
-10.1186/s42836-024-00281-z
+10.4149/BLL_2024_130
 
 ---
 
@@ -310,15 +248,15 @@ Vulnerable patients in an intensive care unit (ICU) setting are at high risk of 
 
 ---
 
-## The Cost Evaluation of Day-Case Compared With Inpatient Stapes Surgery for Otosclerosis: Subanalysis of a Randomized Controlled Trial.
- 04.12.2024, _LSM Derks, DMA Kamalski, HGXM Thomeer, W Grolman, RJ Stokroos, I Wegner_
+## Worse lung function, more allergic sensitization but less blood eosinophilia in elderly patients with long-standing versus late-onset asthma.
+ 04.12.2024, _LR Yamamoto, EDSO Vianna, ACVA Cetlin, MPL Ferriani, O Trevisan Neto, JML Melo, MET Zanetti, LK Arruda, MB de Menezes_
 
 
-To evaluate the difference in overall, hospital, and out-of-hospital cost difference of day-case stapes surgery, compared with inpatient stapes surgery, while maintaining equal hearing outcomes and quality of life (QoL).
+Asthma in the elderly is usually considered homogeneous and non-atopic.
 
 [Source](https://bsky.app/profile/did:plc:vf4j77c7bvnyn7lmeeu3byyo/post/3lbw44njddk2q?ref_src=embed)
 
-10.1097/MAO.0000000000004378
+10.1080/02770903.2024.2438099
 
 ---
 
@@ -447,15 +385,16 @@ During an ongoing female urinary microbiome research study, strains c17Ua_112T a
 
 ---
 
-## The Cost Evaluation of Day-Case Compared With Inpatient Stapes Surgery for Otosclerosis: Subanalysis of a Randomized Controlled Trial.
- 04.12.2024, _LSM Derks, DMA Kamalski, HGXM Thomeer, W Grolman, RJ Stokroos, I Wegner_
+## Gonadal sex reversal at single-cell resolution in Znrf3-deficient mice.
+ 04.12.2024, _RGG Kay, R Reeves, P Siggers, S Greenaway, AM Mallon, S Wells, BK Koo, C Mayère, S Nef, A Greenfield, MM Simon_
 
 
-To evaluate the difference in overall, hospital, and out-of-hospital cost difference of day-case stapes surgery, compared with inpatient stapes surgery, while maintaining equal hearing outcomes and quality of life (QoL).
+_Animals, Male, Female, Mice, Sertoli Cells, Granulosa Cells, Single-Cell Analysis, Gonads, Sex Determination Processes, Testis, Cell Differentiation, Transcriptome, Cell Lineage, Mice, Knockout, Disorders of Sex Development, Ovary, Gene Expression Regulation, Developmental, Sex Differentiation_
+The role of anti-WNT ZNRF3 is central to determining gonadal fate: XY mice lacking functional ZNRF3 exhibit a highly variable gonadal sex reversal phenotype in the fetal period, characterised by appearance of ovarian tissue. To investigate this sex reversal further, we used single-cell RNA-seq to examine the transcriptomes of XY Znrf3-deficient gonads during the mouse sex-determining period. Analyses of cell trajectories in mutant gonads reveal the failure of pre-supporting cells to commit to the Sertoli cell fate, XY granulosa cell development, unstable commitment in those cells that reach the Sertoli path and enhanced contribution to a supporting-like cell fate. By developing a machine learning-based score for transcriptomic similarity to Sertoli and granulosa, we show pervasive disruption to acquisition of testicular cell fate in the mutant supporting cell lineage, with large numbers of cells co-expressing pro-Sertoli and pro-granulosa markers. These data reveal that loss of Znrf3 results in transcriptomic and cellular heterogeneity, with shifts in cellular sex identity that undermine a simple binary model in which mutant supporting cell precursors achieve either Sertoli or granulosa cell differentiation.
 
 [Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs/post/3lbihe4otjs2l?ref_src=embed)
 
-10.1097/MAO.0000000000004378
+10.1242/dev.202707
 
 ---
 
