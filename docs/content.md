@@ -17,16 +17,16 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
-## Establishing construct validity for dynamic measures of behavior using naturalistic study designs.
- 04.12.2024, _RC French, DP Kennedy, AC Krendl_
+## eLemur: A cellular-resolution 3D atlas of the mouse lemur brain.
+ 04.12.2024, _H Jeon, J Kim, J Kim, YK Choi, CLA Ho, F Pifferi, D Huber, L Feng, J Kim_
 
 
-_Humans, Female, Male, Adult, Young Adult, Theory of Mind, Middle Aged, Judgment, Aged, Reproducibility of Results, Research Design, Adolescent, Emotions_
-There has been a recent surge of naturalistic methodology to assess complex topics in psychology and neuroscience. Such methods are lauded for their increased ecological validity, aiming to bridge a gap between highly controlled experimental design and purely observational studies. However, these measures present challenges in establishing construct validity. One domain in which this has emerged is research on theory of mind: the ability to infer others' thoughts and emotions. Traditional measures utilize rigid methodology which suffer from ceiling effects and may fail to fully capture how individuals engage theory of mind in everyday interactions. In the present study, we validate and test a novel approach utilizing a naturalistic task to assess theory of mind. Participants watched a mockumentary-style show while using a joystick to provide continuous, real-time theory of mind judgments. A baseline sample's ratings were used to establish a "ground truth" for the judgments. Ratings from separate young and older adult samples were compared against the ground truth to create similarity scores. This similarity score was compared against two independent tasks to assess construct validity: an explicit judgment performance-based paradigm, and a neuroimaging paradigm assessing response to a static measure of theory of mind. The similarity metric did not have ceiling effects and was significantly positively related to both the performance-based and neural measures. It also replicated age effects that other theory of mind measures demonstrate. Together, our multimodal approach provided convergent evidence that dynamic measures of behavior can yield robust and rigorous assessments of complex psychological processes.
+_Animals, Cheirogaleidae, Brain, Imaging, Three-Dimensional, Neurons, Atlases as Topic_
+The gray mouse lemur (Microcebus murinus), one of the smallest living primates, emerges as a promising model organism for neuroscience research. This is due to its genetic similarity to humans, its evolutionary position between rodents and humans, and its primate-like features encapsulated within a rodent-sized brain. Despite its potential, the absence of a comprehensive reference brain atlas impedes the progress of research endeavors in this species, particularly at the microscopic level. Existing references have largely been confined to the macroscopic scale, lacking detailed anatomical information. Here, we present eLemur, a unique resource, comprising a repository of high-resolution brain-wide images immunostained with multiple cell type and structural markers, elucidating the cyto- and chemoarchitecture of the mouse lemur brain. Additionally, it encompasses a segmented two-dimensional reference and 3D anatomical brain atlas delineated into cortical, subcortical, and other vital regions. Furthermore, eLemur includes a comprehensive 3D cell atlas, providing densities and spatial distributions of non-neuronal and neuronal cells across the mouse lemur brain. Accessible via a web-based viewer (https://eeum-brain.com/#/lemurdatasets), the eLemur resource streamlines data sharing and integration, fostering the exploration of different hypotheses and experimental designs using the mouse lemur as a model organism. Moreover, in conjunction with the growing 3D datasets for rodents, nonhuman primates, and humans, our eLemur 3D digital framework enhances the potential for comparative analysis and translation research, facilitating the integration of extensive rodent study data into human studies.
 
 [Source](https://cassyni.com/s/mvif-34)
 
-10.3758/s13428-024-02519-9
+10.1073/pnas.2413687121
 
 ---
 
@@ -42,15 +42,14 @@ There has been a recent surge of naturalistic methodology to assess complex topi
 
 ---
 
-## Acceptability, User Satisfaction, and Feasibility of an App-Based Support Service During the COVID-19 Pandemic in a Psychiatric Outpatient Setting: Prospective Longitudinal Observational Study.
- 04.12.2024, _K Golsong, L Kaufmann, S Baldofski, E Kohls, C Rummel-Kluge_
+## Building a synthetic theory of linguistic evolution? Comment on "Language follows a distinct mode of extra-genomic evolution".
+ 04.12.2024, _P Verdu_
 
 
-Patients with mental disorders often have difficulties maintaining a daily routine, which can lead to exacerbated symptoms. It is known that apps can help manage mental health in a low-threshold way and can be used in therapeutic settings to complement existing therapies.
 
 [Source](https://bsky.app/profile/did:plc:dyrbb3iiuynmhsho3hywdakx/post/3lbelftyhn22t?ref_src=embed)
 
-10.2196/60461
+10.1016/j.plrev.2024.11.020
 
 ---
 
@@ -110,15 +109,14 @@ Bioretention systems effectively capture rubber particles and other microplastic
 
 ---
 
-## NIR-II Imaging for Tracking the Spatiotemporal Immune Microenvironment in Atherosclerotic Plaques.
- 04.12.2024, _L Shen, M Chen, Y Su, Y Bi, G Shu, W Chen, C Lu, Z Zhao, L Lv, J Zou, X Chen, J Ji_
+## The Path Forward Is Health.
+ 04.12.2024, _B Selzer_
 
 
-The inflammatory immune microenvironment is responsible for atherosclerotic plaque erosion and rupture. Near-infrared-II (NIR-II) fluorescence imaging has the potential to continuously monitor the spatiotemporal changes in the plaque immune microenvironment. Herein, we constructed three different NIR-II probes based on benzo[1,2-c;4,5-c']bis[1,2,5]thiadiazole-4,7-bis(9,9-dioctyl-9H-fluoren-2-yl)thiophene (denoted as BBT-2FT): VHPK/BBT-2FT NPs, where VHPK is a specific peptide targeting vascular cell adhesion molecule-1; iNOS/BBT-2FT NPs for modulating the polarization of M1 macrophages by inducible NO synthase (iNOS) antibodies; and Arg-1/BBT-2FT for counterbalancing the inflammatory responses of M1 macrophages. These tracers enable precise tracking of atherosclerotic plaques and M1 and M2 macrophages through NIR-II imaging. VHPK/BBT-2FT NPs can accurately trace atherosclerotic plaques at various stages. Arg-1/BBT-2FT NPs precisely located M2 macrophages in the early plaque microenvironment with upregulation of peroxisome proliferator-activated receptor γ (PPAR-γ), signal transducer and activator of transcription (STAT) 6, and ATP-binding cassette transporter A1 (ABCA1), indicating that M2 macrophage polarization is crucial for early plaque lipid clearance. Meanwhile, iNOS/BBT-2FT NPs accurately tracked M1 macrophages in the advanced plaque microenvironment. The results showed that M1 macrophage polarization induces the formation of an inflammatory microenvironment through anaerobic glycolytic metabolism and pyroptosis in the advanced hypoxic plaque microenvironment, as indicated by the upregulation of hypoxia-inducible factor 1 alpha (HIF-1α), STAT1, NOD-, LRR-, and pyrin domain-containing protein 3 (NLRP3), pyruvate dehydrogenase kinase 1 (PDK1), and glucose transporter 1 (GLUT-1). Combining immunological approaches with NIR-II imaging has revealed that hypoxia-induced metabolic reprogramming of macrophages is a key factor in dynamic changes in the immune microenvironment of atherosclerotic plaques. Furthermore, our strategy shows the potential for real-time diagnosis and clinical prevention of unstable plaque rupture in atherosclerosis.
 
 [Source](https://bsky.app/profile/did:plc:5r53rhz7nxiurzw4mfcmfewf/post/3lbu2xf2wps2o?ref_src=embed)
 
-10.1021/acsnano.4c10739
+10.2105/AJPH.2024.307915
 
 ---
 
@@ -172,15 +170,16 @@ The human gut microbiome is highly personal. However, the contribution of gut ph
 
 ---
 
-## Effects of personalized and normative feedback via the Positive Play Quiz on responsible gambling intention, self-efficacy and behavior: A randomized controlled trial.
- 04.12.2024, _N Tabri, RTA Wood, MJA Wohl_
+## Evaluating the Prognostic and Clinical Validity of the Fall Risk Score Derived From an AI-Based mHealth App for Fall Prevention: Retrospective Real-World Data Analysis.
+ 04.12.2024, _SA Alves, S Temme, S Motamedi, M Kura, S Weber, J Zeichen, W Pommer, A Baumgart_
 
 
-To evaluate whether a personalized and normative feedback (PNF) intervention for responsible gambling increases gambling insight as well as intention and self-efficacy to engage in responsible gambling and behavioral engagement.
+_Humans, Accidental Falls, Male, Female, Retrospective Studies, Risk Assessment, Aged, Aged, 80 and over, Mobile Applications, Prognosis, Telemedicine, Germany, Geriatric Assessment, Reproducibility of Results, Data Analysis_
+Falls pose a significant public health concern, with increasing occurrence due to the aging population, and they are associated with high mortality rates and risks such as multimorbidity and frailty. Falls not only lead to physical injuries but also have detrimental psychological and social consequences, negatively impacting quality of life. Identifying individuals at high risk for falls is crucial, particularly for those aged ≥60 years and living in residential care settings; current professional guidelines favor personalized, multifactorial fall risk assessment approaches for effective fall prevention.
 
 [Source](https://bsky.app/profile/did:plc:jyh2n3qwawf2uk6pyg4ulujg/post/3lbwe7op4gk26?ref_src=embed)
 
-10.1111/add.16722
+10.2196/55681
 
 ---
 
@@ -232,15 +231,15 @@ A study was conducted in fish processing facilities to investigate the microbial
 
 ---
 
-## Effects of personalized and normative feedback via the Positive Play Quiz on responsible gambling intention, self-efficacy and behavior: A randomized controlled trial.
- 04.12.2024, _N Tabri, RTA Wood, MJA Wohl_
+## Identification of bioactive compounds with popular single-atom modifications: Comprehensive analysis and implications for compound design.
+ 04.12.2024, _B Feng, H Yu, X Dong, A Díaz-Holguín, H Hu_
 
 
-To evaluate whether a personalized and normative feedback (PNF) intervention for responsible gambling increases gambling insight as well as intention and self-efficacy to engage in responsible gambling and behavioral engagement.
+The extensive bioactivity data available in public databases, such as ChEMBL, has facilitated in-depth structure-activity relationship (SAR) analysis, which are essential for understanding the impact of molecular modifications on biological activity in a comprehensive manner. A central strategy in SAR analysis is the assessment of molecular similarity. Several approaches preferred by medicinal chemists have been developed to efficiently capture structurally related compounds on a large scale. Represented as a popular molecular editing strategy in hit-to-lead and lead optimization processes, we previously introduced four types of single-atom modifications (SAMs) as chemical similarity criterion and conducted a systematic analysis of their application in compound design. In this study, we expanded the analysis to cover 10 common SAMs, including carbon-nitrogen (N↔C), O↔C, N↔O, S↔O, as well as simpler modifications such as OH↔H, CH3↔H, and halogen-hydrogen (F, Cl, Br, I↔H) exchanges. Leveraging high-confidence bioactivity data from ChEMBL (version 34), we assembled a comprehensive dataset comprising 374,979 SAM pairs. Following an evaluation of the frequency of these SAM types in medicinal chemistry efforts, we focused on SAM-induced activity cliffs (ACs), yielding over 7400 ACs, substantially expanding the current knowledgebase of ACs associated with single-atom changes. Furthermore, structural analysis of these ACs, supported by experimental data, provides critical insights into the role of single-atom modifications in modulating compound activity, offering practical guidance for the structure-based optimization of molecular properties in drug development. As a result, we are providing open access to all identified ACs along with their associated structural information.
 
 [Source](https://bsky.app/profile/did:plc:pcld5no3yjxnsues74juglri/post/3lb7soxsvrs2k?ref_src=embed)
 
-10.1111/add.16722
+10.1016/j.ejmech.2024.117051
 
 ---
 
@@ -311,15 +310,16 @@ Vulnerable patients in an intensive care unit (ICU) setting are at high risk of 
 
 ---
 
-## Immediate postinjury extracorporeal carbon dioxide removal reduces ventilator requirements and mitigates acute respiratory distress syndrome in swine.
- 04.12.2024, _AI Batchinsky, TR Roberts, BS Jordan, BM Beely, DS Wendorff, C Necsoiu, JW Cannon, KK Chung, LC Cancio_
+## Factors Impacting the Adoption and Potential Reimbursement of a Virtual Reality Tool for Pain Management in Switzerland: Qualitative Case Study.
+ 04.12.2024, _J Lurtz, T C Sauter, C Jacob_
 
 
-Awareness of ventilator-induced lung injury contributed to increased use of extracorporeal interventions, but not immediately after injury, before acute respiratory distress syndrome (ARDS) ensues. Our objective was to evaluate the role of venovenous extracorporeal carbon dioxide removal (ECCO2R) in management of mechanically ventilated swine with smoke inhalation injury and 40% body surface area burns.
+_Humans, Switzerland, Pain Management, Qualitative Research, Virtual Reality, Female, Male, Reimbursement Mechanisms, Adult, Emergency Service, Hospital, Insurance, Health, Reimbursement, Middle Aged, Interviews as Topic_
+Pain and its adequate treatment are an issue in hospitals and emergency departments (EDs). A virtual reality (VR) tool to manage pain could act as a valuable complement to common pharmaceutical analgesics. While efficacy could be shown in previous studies, this does not assure clinical adoption in EDs.
 
 [Source](https://bsky.app/profile/did:plc:vf4j77c7bvnyn7lmeeu3byyo/post/3lbw44njddk2q?ref_src=embed)
 
-10.1097/TA.0000000000004486
+10.2196/59073
 
 ---
 
@@ -397,47 +397,15 @@ In this study, we evaluated the impact of yeast cell wall prebiotics and multisp
 
 ---
 
-## Evaluation of DNA extraction kits for long-read shotgun metagenomics using Oxford Nanopore sequencing for rapid taxonomic and antimicrobial resistance detection.
- 02.12.2024, _S Purushothaman, M Meola, T Roloff, AM Rooney, A Egli_
-
-
-_Metagenomics, Nanopore Sequencing, Drug Resistance, Bacterial, DNA, Bacterial, Humans, Bacteria_
-During a bacterial infection or colonization, the detection of antimicrobial resistance (AMR) is critical, but slow due to culture-based approaches for clinical and screening samples. Culture-based phenotypic AMR detection and confirmation require up to 72 hours (h) or even weeks for slow-growing bacteria. Direct shotgun metagenomics by long-read sequencing using Oxford Nanopore Technologies (ONT) may reduce the time for bacterial species and AMR gene identification. However, screening swabs for metagenomics is complex due to the range of Gram-negative and -positive bacteria, diverse AMR genes, and host DNA present in the samples. Therefore, DNA extraction is a critical initial step. We aimed to compare the performance of different DNA extraction protocols for ONT applications to reliably identify species and AMR genes using a shotgun long-read metagenomic approach. We included three different sample types: ZymoBIOMICS Microbial Community Standard, an in-house mock community of ESKAPE pathogens including Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Escherichia coli (ESKAPE Mock), and anonymized clinical swab samples. We processed all sample types with four different DNA extraction kits utilizing different lysis (enzymatic vs. mechanical) and purification (spin-column vs. magnetic beads) methods. We used kits from Qiagen (QIAamp DNA Mini and QIAamp PowerFecal Pro DNA) and Promega (Maxwell RSC Cultured Cells and Maxwell RSC Buccal Swab DNA). After extraction, samples were subject to the Rapid Barcoding Kit (RBK004) for library preparation followed by sequencing on the GridION with R9.4.1 flow cells. The fast5 files were base called to fastq files using Guppy in High Accuracy (HAC) mode with the inbuilt MinKNOW software. Raw read quality was assessed using NanoPlot and human reads were removed using Minimap2 alignment against the Hg38 genome. Taxonomy identification was performed on the raw reads using Kraken2 and on assembled contigs using Minimap2. The AMR genes were identified using Minimap2 with alignment against the CARD database on both the raw reads and assembled contigs. We identified all bacterial species present in the Zymo Mock Community (8/8) and ESKAPE Mock (6/6) with Qiagen PowerFecal Pro DNA kit (chemical and mechanical lysis) at read and assembly levels. Enzymatic lysis retrieved fewer aligned bases for the Gram-positive species (Staphylococcus aureus and Enterococcus faecium) from the ESKAPE Mock on the assembly level compared to the mechanical lysis. We detected the AMR genes from Gram-negative and -positive species in the ESKAPE Mock with the QIAamp PowerFecal Pro DNA kit on reads level with a maximum median time of 1.9 h of sequencing. Long-read metagenomics with ONT may reduce the turnaround time in screening for AMR genes. Currently, the QIAamp PowerFecal Pro DNA kit (chemical and mechanical lysis) for DNA extraction along with the Rapid Barcoding Kit for the ONT sequencing captured the best taxonomy and AMR identification for our specific use case.
+## Evaluation of DNA extraction kits for long-read shotgun metagenomics using Oxford Nanopore sequencing for rapid taxonomic and antimicrobial resistance detection
 
 [Source](https://www.nature.com/articles/s41598-024-80660-3)
-
-10.1038/s41598-024-80660-3
-
----
-
-## Gardnerella pickettii sp. nov. (formerly Gardnerella genomic species 3) and Gardnerella greenwoodii sp. nov. (formerly Gardnerella genomic species 8) isolated from female urinary microbiome.
- 06.11.2023, _M Sousa, M Ksiezarek, SU Perovic, T Antunes-Lopes, F Grosso, TG Ribeiro, L Peixe_
-
-
-_Female, Humans, Gardnerella, Fatty Acids, Sequence Analysis, DNA, Phylogeny, RNA, Ribosomal, 16S, Base Composition, DNA, Bacterial, Bacterial Typing Techniques, Genomics, Nucleic Acid Hybridization, Microbiota_
-During an ongoing female urinary microbiome research study, strains c17Ua_112T and c31Ua_26T isolated from urine samples of a patient diagnosed with overactive bladder and a healthy postmenopausal woman, respectively, could not be allocated to any Gardnerella species with valid names. In this work, we aimed to characterize these strains. The 16S rRNA gene sequences confirmed that these strains are members of the genus Gardnerella. Phylogenetic analysis based on cpn60 strongly supported two clades, one encompassing c17Ua_112T and nine other strains from the public database, and the other including c31Ua_26T and three other strains, which were distinct from currently recognized species of the genus Gardnerella. Likewise, the phylogenomic tree also showed that strains c17Ua_112T and c31Ua_26T formed independent and robust clusters. Average nucleotide identity (ANI) and digital DNA-DNA hybridization (dDDH) values between c17Ua_112T and c31Ua_26T were 79.27 and 27.4 %, respectively. Strain c17Ua_112T showed the highest ANI (94.8 %) and dDDH values (59.8 %) with Gardnerella piotii UGent 18.01T, and strain c31Ua_26T revealed highest ANI (84.2 %) and dDDH (29.1 %) values with Gardnerella swidsinskii GS 9838-1T. Based on the data presented here, the two strains c17Ua_112T and c31Ua_26T represent two novel species of the genus Gardnerella, for which the names Gardnerella pickettii (c17Ua_112T=DSM 113414T=CCP 71T) and Gardnerella greenwoodii (c31Ua_26T=DSM 113415T=CCP 72T) are proposed.
-
-[Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs?ref_src=embed)
-
-10.1099/ijsem.0.006140
 
 ---
 
 ## Svetlana Ugarcina Perovic (@svetlanaup.bsky.social)
 
 [Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs?ref_src=embed)
-
----
-
-## Optimizing Ligand Valency to Maximize Tendon Accumulation of Peptide-Targeted Nanoparticles.
- 04.12.2024, _E Adjei-Sowah, V Rangasami, AE Loiselle, DSW Benoit_
-
-
-In many tissues, including musculoskeletal tissues such as tendon, systemic delivery typically results in poor targeting of free drugs. Hence, we previously developed a targeted drug delivery nanoparticle (NP) system for tendon healing, leveraging a tartrate resistant acid phosphatase (TRAP) binding peptide (TBP) ligand. The greatest tendon targeting was observed with NPs functionalized with 30 000 TBP ligands per NP at day 7 during the proliferative healing phase, relative to the inflammatory (day 3) and early remodeling (day 14) phases of healing. Nevertheless, TRAP activity varies throughout healing and, therefore, may offer an opportunity for optimizing temporal therapeutic targeting through multivalent interactions. Hence, in this study, we hypothesized that the ligand density (9000-55,000 TBPs per NP) can optimize tendon accumulation on the basis of variable TRAP levels. The multivalent nanoparticles were loaded with three different fluorophores. In vitro, the ligand density and fluorophore had no effect on the physicochemical properties of the NPs, including size, charge, polydispersity index, or dye loading efficiency; however, the TRAP binding affinity correlated positively with the ligand density. In vivo, the ligand density correlated positively with NP homing and retention in the tendon, establishing opportunities to leverage ligand density for tendon targeting across the tendon healing cascade, during aging, and in other tendon pathologies, including tendinopathies.
-
-[Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs/post/3lbihe4otjs2l?ref_src=embed)
-
-10.1021/acsami.4c13388
 
 ---
 
