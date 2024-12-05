@@ -17,16 +17,15 @@ The interplay between exosomes and the tumor microenvironment (TME) remains uncl
 
 ---
 
-## eLemur: A cellular-resolution 3D atlas of the mouse lemur brain.
- 04.12.2024, _H Jeon, J Kim, J Kim, YK Choi, CLA Ho, F Pifferi, D Huber, L Feng, J Kim_
+## Gender disparity in health-related quality of life among people living with HIV/AIDS in Ethiopia: a systematic review and meta-analysis.
+ 05.12.2024, _DG Tufa, HH Tola, HD Dissassa, LA Geleta, ES Malka, AW Tadesse, FB Wariso, G Fetensa_
 
 
-_Animals, Cheirogaleidae, Brain, Imaging, Three-Dimensional, Neurons, Atlases as Topic_
-The gray mouse lemur (Microcebus murinus), one of the smallest living primates, emerges as a promising model organism for neuroscience research. This is due to its genetic similarity to humans, its evolutionary position between rodents and humans, and its primate-like features encapsulated within a rodent-sized brain. Despite its potential, the absence of a comprehensive reference brain atlas impedes the progress of research endeavors in this species, particularly at the microscopic level. Existing references have largely been confined to the macroscopic scale, lacking detailed anatomical information. Here, we present eLemur, a unique resource, comprising a repository of high-resolution brain-wide images immunostained with multiple cell type and structural markers, elucidating the cyto- and chemoarchitecture of the mouse lemur brain. Additionally, it encompasses a segmented two-dimensional reference and 3D anatomical brain atlas delineated into cortical, subcortical, and other vital regions. Furthermore, eLemur includes a comprehensive 3D cell atlas, providing densities and spatial distributions of non-neuronal and neuronal cells across the mouse lemur brain. Accessible via a web-based viewer (https://eeum-brain.com/#/lemurdatasets), the eLemur resource streamlines data sharing and integration, fostering the exploration of different hypotheses and experimental designs using the mouse lemur as a model organism. Moreover, in conjunction with the growing 3D datasets for rodents, nonhuman primates, and humans, our eLemur 3D digital framework enhances the potential for comparative analysis and translation research, facilitating the integration of extensive rodent study data into human studies.
+Health-related quality of life (HRQoL) is a key outcome indicator in antiretroviral therapy program. In Ethiopia, primary studies on gender disparity in HRQoL among people living with HIV/AIDS (PLHA) are conflicting, with no pooled estimation. Therefore, this study aimed to investigate gender disparity in HRQoL among PLHA in Ethiopia.
 
 [Source](https://cassyni.com/s/mvif-34)
 
-10.1073/pnas.2413687121
+10.3389/fgwh.2024.1471316
 
 ---
 
@@ -42,14 +41,15 @@ The gray mouse lemur (Microcebus murinus), one of the smallest living primates, 
 
 ---
 
-## Building a synthetic theory of linguistic evolution? Comment on "Language follows a distinct mode of extra-genomic evolution".
- 04.12.2024, _P Verdu_
+## Nationwide seroprevalence of SARS-CoV-2 Delta variant and five Omicron sublineages in companion cats and dogs in the USA: Insights into their role in COVID-19 epidemiology.
+ 05.12.2024, _S Barua, NV Iduu, DF Barrantes Murillo, A Tarannum, H Dimino, S Barua, Y Shu, C Johnson, MR Miller, K Chenoweth, P Christopherson, L Huber, T Wood, K Turner, C Wang_
 
 
+Understanding SARS-CoV-2 epidemiology in companion animals is critical for evaluating their role in viral transmission and their potential as sentinels for human infections. This large-scale serosurvey analyzed serum samples from 706 cats and 2,396 dogs collected across the USA in 2023 using a surrogate virus neutralization test (sVNT) to detect SARS-CoV-2 antibodies. Overall, 5.7% of cats and 4.7% of dogs tested positive for antibodies, with younger animals (under 12 months) showing significantly lower seropositivity rates (p = 0.0048). Additionally, we analyzed 153 positive samples for variant-specific antibody responses using six sVNT kits targeting the Delta variant and five Omicron sublineages. Among cats, 67.5% showed antibodies to Delta, with positivity rates for Omicron sublineages as follows: BA.1 (62.5%), BA.2 (42.5%), BA.4/BA.5 (77.5%), XBB (52.5%), and XBB.1.5 (45.0%). In dogs, 55.8% were positive for Delta, and Omicron sublineage rates were BA.1 (46.0%), BA.4/BA.5 (37.2%), XBB (58.4%), BA.2 (13.3%), and XBB.1.5 (9.7%). Given the close contact between companion animals and humans, and the persistence of antibodies against various SARS-CoV-2 variants and sublineages, our findings suggest that seroprevalence in cats and dogs may serve as valuable tool for tracking COVID-19 epidemiology.
 
 [Source](https://bsky.app/profile/did:plc:dyrbb3iiuynmhsho3hywdakx/post/3lbelftyhn22t?ref_src=embed)
 
-10.1016/j.plrev.2024.11.020
+10.1080/22221751.2024.2437246
 
 ---
 
@@ -109,14 +109,15 @@ Bioretention systems effectively capture rubber particles and other microplastic
 
 ---
 
-## The Path Forward Is Health.
- 04.12.2024, _B Selzer_
+## Visible-light-induced cascade radical cyclization to access sulfamoylated benzo[4,5]imidazo[2,1-a]isoquinolin-6(5H)-ones.
+ 05.12.2024, _R Huang, W Wang, K Lu, X Zhao_
 
 
+We report, for the first time, a visible-light-induced cascade radical sulfamoylation and cyclization of 2-arylbenzoimidazoles using sulfamoyl chlorides as sulfamoylation reagents to access sulfamoylated benzo[4,5]imidazo[2,1-a]isoquinolin-6(5H)-ones. The readily available nature of sulfamoyl chlorides and the metal-free conditions make this method a promising strategy for the synthesis of these compounds.
 
 [Source](https://bsky.app/profile/did:plc:5r53rhz7nxiurzw4mfcmfewf/post/3lbu2xf2wps2o?ref_src=embed)
 
-10.2105/AJPH.2024.307915
+10.1039/d4ob01809e
 
 ---
 
@@ -170,16 +171,15 @@ The human gut microbiome is highly personal. However, the contribution of gut ph
 
 ---
 
-## Evaluating the Prognostic and Clinical Validity of the Fall Risk Score Derived From an AI-Based mHealth App for Fall Prevention: Retrospective Real-World Data Analysis.
- 04.12.2024, _SA Alves, S Temme, S Motamedi, M Kura, S Weber, J Zeichen, W Pommer, A Baumgart_
+## Better blood pressure control with the nanoformulation of antihypertensive drugs.
+ 05.12.2024, _SG Chrysant_
 
 
-_Humans, Accidental Falls, Male, Female, Retrospective Studies, Risk Assessment, Aged, Aged, 80 and over, Mobile Applications, Prognosis, Telemedicine, Germany, Geriatric Assessment, Reproducibility of Results, Data Analysis_
-Falls pose a significant public health concern, with increasing occurrence due to the aging population, and they are associated with high mortality rates and risks such as multimorbidity and frailty. Falls not only lead to physical injuries but also have detrimental psychological and social consequences, negatively impacting quality of life. Identifying individuals at high risk for falls is crucial, particularly for those aged ≥60 years and living in residential care settings; current professional guidelines favor personalized, multifactorial fall risk assessment approaches for effective fall prevention.
+Hypertension is very common and a major risk factor for cardiovascular disease, heart failure, chronic kidney disease, strokes, and death. However, at present only 14% of patients of developing countries have their blood pressure (BP) well controlled. The causes for the failure to control the BP are multiple and one of them could be the formulation of antihypertensive drugs.
 
 [Source](https://bsky.app/profile/did:plc:jyh2n3qwawf2uk6pyg4ulujg/post/3lbwe7op4gk26?ref_src=embed)
 
-10.2196/55681
+10.1080/14779072.2024.2438813
 
 ---
 
@@ -231,15 +231,15 @@ A study was conducted in fish processing facilities to investigate the microbial
 
 ---
 
-## Identification of bioactive compounds with popular single-atom modifications: Comprehensive analysis and implications for compound design.
- 04.12.2024, _B Feng, H Yu, X Dong, A Díaz-Holguín, H Hu_
+## Simulation of reciprocal-space mapping using a new analytical solution of kinematical X-ray diffraction in a crystal.
+ 05.12.2024, _V Punegov_
 
 
-The extensive bioactivity data available in public databases, such as ChEMBL, has facilitated in-depth structure-activity relationship (SAR) analysis, which are essential for understanding the impact of molecular modifications on biological activity in a comprehensive manner. A central strategy in SAR analysis is the assessment of molecular similarity. Several approaches preferred by medicinal chemists have been developed to efficiently capture structurally related compounds on a large scale. Represented as a popular molecular editing strategy in hit-to-lead and lead optimization processes, we previously introduced four types of single-atom modifications (SAMs) as chemical similarity criterion and conducted a systematic analysis of their application in compound design. In this study, we expanded the analysis to cover 10 common SAMs, including carbon-nitrogen (N↔C), O↔C, N↔O, S↔O, as well as simpler modifications such as OH↔H, CH3↔H, and halogen-hydrogen (F, Cl, Br, I↔H) exchanges. Leveraging high-confidence bioactivity data from ChEMBL (version 34), we assembled a comprehensive dataset comprising 374,979 SAM pairs. Following an evaluation of the frequency of these SAM types in medicinal chemistry efforts, we focused on SAM-induced activity cliffs (ACs), yielding over 7400 ACs, substantially expanding the current knowledgebase of ACs associated with single-atom changes. Furthermore, structural analysis of these ACs, supported by experimental data, provides critical insights into the role of single-atom modifications in modulating compound activity, offering practical guidance for the structure-based optimization of molecular properties in drug development. As a result, we are providing open access to all identified ACs along with their associated structural information.
+In the kinematical approximation, new analytical solutions are obtained that describe the diffraction of a restricted X-ray beam from a thin crystal. Calculation of the angular distribution of reflected X-ray beams within the framework of the developed approach significantly reduces the computational cost compared with numerical methods. For a thin silicon crystal, X-ray reciprocal-space mapping was simulated using analytical solutions, as well as calculated using numerical methods based on 2D recurrence relations and the Takagi-Taupin equations.
 
 [Source](https://bsky.app/profile/did:plc:pcld5no3yjxnsues74juglri/post/3lb7soxsvrs2k?ref_src=embed)
 
-10.1016/j.ejmech.2024.117051
+10.1107/S2053273324011422
 
 ---
 
@@ -307,6 +307,18 @@ Vulnerable patients in an intensive care unit (ICU) setting are at high risk of 
 ## Rebecca J Hall (@drrebeccajhall.bsky.social)
 
 [Source](https://bsky.app/profile/did:plc:vf4j77c7bvnyn7lmeeu3byyo?ref_src=embed)
+
+---
+
+## Inorganic-Dominated Interphase Enabled by Tuning Solvation Configuration for 4.8 V Lithium-Ion Batteries.
+ 05.12.2024, _H Wang, Y Zhao, L Wang, H Zhang, S Chen, W Zhao, X Yao, Y Huang, A Cao, Y Song, L Yang, F Pan_
+
+
+Constructing a dense inorganic component-dominated cathode electrolyte interphase (CEI) to meet the long-term cycling requirements of ultrahigh voltage cathodes has been a crucial challenge. Nevertheless, this goal is difficult to achieve in traditional electrolyte compositions due to the inevitable decomposition of organic solvents. Herein, by utilizing the localized mismatch between the strongly coordinating hexafluorophosphate anion (PF6-) and the weakly coordinating solvent 1,1,1-trifluoro-N,N-dimethylmethanesulfonamide (TFDMSA), abundant aggregates (AGGs) emerged under a regular Li salt concentration of 1 m lithium bis(fluorosulfonyl)imide (LiFSI) + 0.1 m LiPF6 in TFDMSA. This anion-rich Li+ solvation structure results in an inorganic-dominated LiF-rich CEI to suppress phase transitions of lithium-rich manganese-based cathode materials (LLMO). Consequently, the prepared LLMO||Li half-cells demonstrate a capacity retention of 80.7% after 350 cycles at 4.8 V. This work advances the practical application of new electrolyte systems by proposing a new approach to construct anion-dominated Li+ solvation structures in local environments.
+
+[Source](https://bsky.app/profile/did:plc:vf4j77c7bvnyn7lmeeu3byyo/post/3lbw44njddk2q?ref_src=embed)
+
+10.1021/acs.jpclett.4c03094
 
 ---
 
@@ -435,15 +447,15 @@ During an ongoing female urinary microbiome research study, strains c17Ua_112T a
 
 ---
 
-## A novel non-pneumatic compression device results in reduced foot and ankle swelling in patients with venous and lymphatic edema.
- 04.12.2024, _A Rao, T Berland, A Mullick, TS Maldonado, SN Blumberg_
+## Perioperative Venous Thromboembolism Chemoprophylaxis Does Not Increase Risk of Complications in Free Flap Breast Reconstruction.
+ 05.12.2024, _FD Graziano, UO Amakiri, J Levy, RL Shammas, J Rubin, L Boe, E Matros, BJ Mehrara, RJ Allen, JA Nelson_
 
 
-Non-pneumatic compression devices (NPCDs) rely on shape-memory alloy technology that allows patients to ambulate and remain active during lymphedema treatment. This study examines the effect of the NPCD on foot and ankle swelling.
+Patients undergoing abdominal-based free flap breast reconstruction are at risk for perioperative venous thromboembolism (VTE), but the optimal anticoagulation protocol remains unknown. We hypothesized that a standardized chemoprophylaxis protocol would minimize VTE events without increasing hematoma, flap loss, or reoperation.
 
 [Source](https://bsky.app/profile/did:plc:hffa64ymkjg2wqddo4q3jjrs/post/3lbihe4otjs2l?ref_src=embed)
 
-10.1177/17085381241305898
+10.1002/jso.28030
 
 ---
 
