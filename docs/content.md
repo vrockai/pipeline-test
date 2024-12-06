@@ -10,9 +10,16 @@ Clostridioides difficile is a leading cause of healthcare infections. Gut dysbio
 
 ---
 
-## The host genotype actively shapes its microbiome across generations in laboratory mice
+## The host genotype actively shapes its microbiome across generations in laboratory mice.
+ 05.12.2024, _L Benga, A Rehm, C Gougoula, P Westhoff, T Wachtmeister, WPM Benten, E Engelhardt, APM Weber, K Köhrer, M Sager, S Janssen_
+
+
+_Animals, Mice, Female, Genotype, Mice, Inbred BALB C, Mice, Inbred C57BL, Microbiota, Male, Maternal Inheritance, Embryo, Mammalian, Host Microbial Interactions, Pregnancy_
+The microbiome greatly affects health and wellbeing. Evolutionarily, it is doubtful that a host would rely on chance alone to pass on microbial colonization to its offspring. However, the literature currently offers only limited evidence regarding two alternative hypotheses: active microbial shaping by host genetic factors or transmission of a microbial maternal legacy.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01954-2)
+
+10.1186/s40168-024-01954-2
 
 ---
 
