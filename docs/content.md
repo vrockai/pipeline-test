@@ -11,7 +11,7 @@ Clostridioides difficile is a leading cause of healthcare infections. Gut dysbio
 ---
 
 ## The host genotype actively shapes its microbiome across generations in laboratory mice.
- 05.12.2024, _L Benga, A Rehm, C Gougoula, P Westhoff, T Wachtmeister, WPM Benten, E Engelhardt, APM Weber, K Köhrer, M Sager, S Janssen_
+ 08.12.2024, _L Benga, A Rehm, C Gougoula, P Westhoff, T Wachtmeister, WPM Benten, E Engelhardt, APM Weber, K Köhrer, M Sager, S Janssen_
 
 
 _Animals, Mice, Female, Genotype, Mice, Inbred BALB C, Mice, Inbred C57BL, Microbiota, Male, Maternal Inheritance, Embryo, Mammalian, Host Microbial Interactions, Pregnancy_
