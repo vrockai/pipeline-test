@@ -86,7 +86,7 @@ Rice cultivation relies on planting grains harboring beneficial microbiota. Howe
 ---
 
 ## Managing false positives during detection of pathogen sequences in shotgun metagenomics datasets.
- 03.12.2024, _LM Bradford, C Carrillo, A Wong_
+ 07.12.2024, _LM Bradford, C Carrillo, A Wong_
 
 
 _Metagenomics, Salmonella, Software, False Positive Reactions, Sensitivity and Specificity, Computational Biology, Sequence Analysis, DNA, Food Microbiology_
