@@ -41,16 +41,9 @@ Antibiotics (Abx) are administered to 20%-30% of pregnant women, but their effec
 
 ---
 
-## Host DNA depletion on frozen human respiratory samples enables successful metagenomic sequencing for microbiome studies.
- 03.12.2024, _M Kim, RC Parrish, MJ Tisza, VS Shah, T Tran, M Ross, J Cormier, A Baig, CY Huang, L Brenner, I Neuringer, K Whiteson, JK Harris, AD Willis, PS Lai_
-
-
-_Humans, Metagenomics, Microbiota, Sputum, Cystic Fibrosis, Bronchoalveolar Lavage Fluid, Freezing, Adult, Cryopreservation, Female, High-Throughput Nucleotide Sequencing, Bacteria, Sequence Analysis, DNA, Male, Respiratory System_
-Most respiratory microbiome studies use amplicon sequencing due to high host DNA. Metagenomics sequencing offers finer taxonomic resolution, phage assessment, and functional characterization. We evaluated five host DNA depletion methods on frozen nasal swabs from healthy adults, sputum from people with cystic fibrosis (pwCF), and bronchoalveolar lavage (BAL) from critically ill patients. Median sequencing depth was 76.4 million reads per sample. Untreated nasal, sputum, and BAL had 94.1%, 99.2%, and 99.7% host reads, respectively. Host depletion effects varied by sample type, generally increasing microbial reads, species and functional richness; this was mediated by higher effective sequencing depth. Rarefaction curves showed species richness saturation at 0.5-2 million microbial reads. Most methods did not change Morisita-Horn dissimilarity for BAL and nasal samples although the proportion of gram-negative bacteria decreased for sputum from pwCF. Freezing did not affect the viability of Staphylococcus aureus but reduced the viability of Pseudomonas aeruginosa and Enterobacter spp.; this was mitigated by adding a cryoprotectant. QIAamp-based host depletion minimally impacted gram-negative viability even in non-cryoprotected frozen isolates. While some host depletion methods may shift microbial composition, metagenomics sequencing without host depletion severely underestimates microbial diversity of respiratory samples due to shallow effective sequencing depth and is not recommended.
+## Host DNA depletion on frozen human respiratory samples enables successful metagenomic sequencing for microbiome studies
 
 [Source](https://www.nature.com/articles/s42003-024-07290-3)
-
-10.1038/s42003-024-07290-3
 
 ---
 
