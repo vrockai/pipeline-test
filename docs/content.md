@@ -1,106 +1,115 @@
-## Protection against Clostridioides difficile disease by a naturally avirulent strain.
- 03.12.2024, _Q Dong, S Harper, E McSpadden, SS Son, MM Allen, H Lin, RC Smith, C Metcalfe, V Burgo, C Woodson, A Sundararajan, A Rose, M McMillin, D Moran, J Little, MW Mullowney, AM Sidebottom, LC Fortier, A Shen, EG Pamer_
+## The role of pharmacomicrobiomics in HIV prevention, treatment, and women's health.
+ 05.12.2024, _EC Swanson, CM Basting, NR Klatt_
 
 
-Clostridioides difficile is a leading cause of healthcare infections. Gut dysbiosis promotes C. difficile infection (CDI) and CDIs promote gut dysbiosis, leading to frequent CDI recurrence. Although therapies preventing recurrent CDI have been developed, including live biotherapeutic products, existing therapies are costly and do not prevent primary infections. Here, we show that an avirulent C. difficile isolate, ST1-75, protects mice from developing colitis induced by a virulent R20291 strain when coinfected at a 1:1 ratio. In metabolic analyses, avirulent ST1-75 depletes amino acids more rapidly than virulent R20291 and supplementation with amino acids ablates this competitive advantage, indicating that ST1-75 limits the growth of virulent R20291 through amino acid depletion. Overall, our study identifies inter-strain nutrient depletion as a potentially exploitable mechanism to reduce the incidence of CDI and reveals that the ST1-75 strain may be a biotherapeutic agent that can prevent CDI in high-risk patients.
+_Humans, HIV Infections, Female, Pre-Exposure Prophylaxis, Anti-HIV Agents, Women's Health, Microbiota_
+In the absence of an effective vaccine or curative treatment for HIV, the global HIV/AIDS epidemic continues despite significant advances in treatment and prevention. Antiretroviral therapy (ART) drugs have transformed HIV from a terminal illness to a manageable chronic condition. Likewise, pre-exposure prophylaxis treatment (PrEP) has dramatically reduced transmission in some of the highest risk populations. However, quality of life and life expectancy in people living with HIV (PWH) still lag significantly behind the general population. The mechanisms that reduce the efficacy of PrEP and ART are multifaceted, but one factor that warrants additional attention is the impact of the microbiome on ART and PrEP efficacy, as well as pharmacokinetics more broadly. In this review, we assess the current state of research on the HIV-associated microbiome, how this impacts treatment efficacy, and how microbiome states can alter HIV susceptibility. We also explore how the mechanisms we propose could extend to the efficacy of other drugs and identify promising areas of research that remain understudied. Video Abstract.
 
-[Source](https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00409-8)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01953-3)
 
-10.1016/j.chom.2024.11.003
-
----
-
-## The host genotype actively shapes its microbiome across generations in laboratory mice.
- 08.12.2024, _L Benga, A Rehm, C Gougoula, P Westhoff, T Wachtmeister, WPM Benten, E Engelhardt, APM Weber, K Köhrer, M Sager, S Janssen_
-
-
-_Animals, Mice, Female, Genotype, Mice, Inbred BALB C, Mice, Inbred C57BL, Microbiota, Male, Maternal Inheritance, Embryo, Mammalian, Host Microbial Interactions, Pregnancy_
-The microbiome greatly affects health and wellbeing. Evolutionarily, it is doubtful that a host would rely on chance alone to pass on microbial colonization to its offspring. However, the literature currently offers only limited evidence regarding two alternative hypotheses: active microbial shaping by host genetic factors or transmission of a microbial maternal legacy.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01954-2)
-
-10.1186/s40168-024-01954-2
+10.1186/s40168-024-01953-3
 
 ---
 
-## Prenatal antibiotics reduce breast milk IgA and induce dysbiosis in mouse offspring, increasing neonatal susceptibility to bacterial sepsis.
- 27.11.2024, _C Pietrasanta, C Carlosama, M Lizier, G Fornasa, TR Jost, S Carloni, S Giugliano, A Silvestri, P Brescia, B De Ponte Conti, D Braga, M Mihula, L Morosi, A Bernardinello, A Ronchi, G Martano, F Mosca, G Penna, F Grassi, L Pugni, M Rescigno_
+## Characterization of the Gut and Skin Microbiome over Time in Young Children with IgE-Mediated Food Allergy
 
-
-Antibiotics (Abx) are administered to 20%-30% of pregnant women, but their effects on neonatal immune development are poorly understood. We show that newborn mice born to Abx-treated dams are more susceptible to late-onset sepsis. This susceptibility is linked to lower maternal breast milk immunoglobulin A (IgA), neonatal fecal IgA, and IgA coating of intestinal bacteria, thus causing the translocation of intestinal pathobionts. Weaned young adults born to Abx-treated mothers had reduced IgA+ plasma cells in the ileum and colon, fecal secretory IgA (SIgA), colonic CD4+ T regulatory lymphocytes and T helper 17-like lymphocytes, and a less diverse fecal microbiome. However, treatment with apyrase, which restores SIgA secretion, prompted IgA production in breast milk and protected pups from sepsis. Additionally, breast milk from untreated mothers rescued the phenotypes of pups born to Abx-treated mothers. Our data highlight the impact of prenatal Abx on breast milk IgA and their long-term influence on intestinal mucosal immune function mediated by breastfeeding.
-
-[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(24)00407-4)
-
-10.1016/j.chom.2024.11.001
+[Source](https://www.mdpi.com/2072-6643/16/22/3942)
 
 ---
 
-## Gingival spatial analysis reveals geographic immunological variation in a microbiota-dependent and -independent manner 
-
-[Source](https://www.nature.com/articles/s41522-024-00625-2)
-
----
-
-## Host DNA depletion on frozen human respiratory samples enables successful metagenomic sequencing for microbiome studies.
- 03.12.2024, _M Kim, RC Parrish, MJ Tisza, VS Shah, T Tran, M Ross, J Cormier, A Baig, CY Huang, L Brenner, I Neuringer, K Whiteson, JK Harris, AD Willis, PS Lai_
+## A systematic review of the relationship between gut microbiota and prevalence of pancreatic diseases.
+ 09.12.2024, _WM Jankowski, J Fichna, A Tarasiuk-Zawadzka_
 
 
-_Humans, Metagenomics, Microbiota, Sputum, Cystic Fibrosis, Bronchoalveolar Lavage Fluid, Freezing, Adult, Cryopreservation, Female, High-Throughput Nucleotide Sequencing, Bacteria, Sequence Analysis, DNA, Male, Respiratory System_
-Most respiratory microbiome studies use amplicon sequencing due to high host DNA. Metagenomics sequencing offers finer taxonomic resolution, phage assessment, and functional characterization. We evaluated five host DNA depletion methods on frozen nasal swabs from healthy adults, sputum from people with cystic fibrosis (pwCF), and bronchoalveolar lavage (BAL) from critically ill patients. Median sequencing depth was 76.4 million reads per sample. Untreated nasal, sputum, and BAL had 94.1%, 99.2%, and 99.7% host reads, respectively. Host depletion effects varied by sample type, generally increasing microbial reads, species and functional richness; this was mediated by higher effective sequencing depth. Rarefaction curves showed species richness saturation at 0.5-2 million microbial reads. Most methods did not change Morisita-Horn dissimilarity for BAL and nasal samples although the proportion of gram-negative bacteria decreased for sputum from pwCF. Freezing did not affect the viability of Staphylococcus aureus but reduced the viability of Pseudomonas aeruginosa and Enterobacter spp.; this was mitigated by adding a cryoprotectant. QIAamp-based host depletion minimally impacted gram-negative viability even in non-cryoprotected frozen isolates. While some host depletion methods may shift microbial composition, metagenomics sequencing without host depletion severely underestimates microbial diversity of respiratory samples due to shallow effective sequencing depth and is not recommended.
+Acute pancreatitis (AP) represents one of the most common gastrointestinal (GI) diseases; it can manifest in varying degrees of severity, sometimes leading to a life-threatening condition for the patient. Pancreatic ductal adenocarcinoma (PDAC), due to its high malignancy and uncertain prognosis, is widely regarded as one of the most fatal diseases. The increasing prevalence of AP and PDAC represents a major burden on public health and the healthcare system worldwide. The aim of this systematic review was to discuss the current state of knowledge regarding the relationship between the gut microbiota and the incidence, prognosis, diagnosis and treatment of AP and PDAC. To identify studies that analyzed the relationship between the gut microbiota and the occurrence/development of pancreatic diseases or PDAC, the online databases PubMed, Scopus and Google Scholar were searched between November 2023 and January 2024. Finally, 14 publications met the inclusion criteria (1. were conducted exclusively in humans and/or animals; 2. original, published in English in peer-reviewed journals after 2019; 3. described the relationship between gut microbiota and the occurrence of AP or PDAC). The collected studies indicated significant changes in the gut microbiota of patients with AP and PDAC. Moreover, they highlighted the presence of a relationship between the gut microbiota and the occurrence, course, treatment efficiency and prognosis of the disease in question. Further research is needed to understand precisely the relationship between the gut microbiota and the occurrence of pancreatic diseases and whether it may be a starting point for the development of modern forms of therapy based on the use of prebiotics and/or diet to restore the normal composition of the intestinal bacteria.
 
-[Source](https://www.nature.com/articles/s42003-024-07290-3)
+[Source](https://www.sciencedirect.com/science/article/pii/S0882401024006818)
 
-10.1038/s42003-024-07290-3
+10.1016/j.micpath.2024.107214
 
 ---
 
-## The respiratory microbiome is linked to the severity of RSV infections and the persistence of symptoms in children
-
-[Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00607-4)
-
----
-
-## Plant microbiota feedbacks through dose-responsive expression of general non-self response genes.
- 03.12.2024, _A Keppler, M Roulier, S Pfeilmeier, GC Petti, A Sintsova, BA Maier, M Bortfeld-Miller, S Sunagawa, C Zipfel, JA Vorholt_
+## Beneficial microbiome and diet interplay in early-onset colorectal cancer.
+ 09.12.2024, _Z Zhou, L Kleis, A Depetris-Chauvin, S Jaskulski, V Damerell, KB Michels, B Gigic, U Nöthlings, G Panagiotou_
 
 
-The ability of plants to perceive and react to biotic and abiotic stresses is critical for their health. We recently identified a core set of genes consistently induced by members of the leaf microbiota, termed general non-self response (GNSR) genes. Here we show that GNSR components conversely impact leaf microbiota composition. Specific strains that benefited from this altered assembly triggered strong plant responses, suggesting that the GNSR is a dynamic system that modulates colonization by certain strains. Examination of the GNSR to live and inactivated bacteria revealed that bacterial abundance, cellular composition and exposure time collectively determine the extent of the host response. We link the GNSR to pattern-triggered immunity, as diverse microbe- or danger-associated molecular patterns cause dynamic GNSR gene expression. Our findings suggest that the GNSR is the result of a dose-responsive perception and signalling system that feeds back to the leaf microbiota and contributes to the intricate balance of plant-microbiome interactions.
+Colorectal cancer (CRC) is the third most commonly diagnosed cancer and the second leading cause of cancer-related deaths worldwide. Although the risk of developing CRC increases with age, approximately 10% of newly diagnosed cases occur in individuals under the age of 50. Significant changes in dietary habits in young adults since industrialization create a favorable microenvironment for colorectal carcinogenesis. We aim here to shed light on the complex interplay between diet and gut microbiome in the pathogenesis and prevention of early-onset CRC (EO-CRC). We provide an overview of dietary risk factors associated with EO-CRC and contrast them with the general trends for CRC. We delve into gut bacteria, fungi, and phages with potential benefits against CRC and discuss the underlying molecular mechanisms. Furthermore, based on recent findings from human studies, we offer insights into how dietary modifications could potentially enhance gut microbiome composition to mitigate CRC risk. All together, we outline the current research landscape in this area and propose directions for future investigations that could pave the way for novel preventive and therapeutic strategies.
 
-[Source](https://www.nature.com/articles/s41477-024-01856-z)
+[Source](https://www.embopress.org/doi/full/10.1038/s44321-024-00177-0)
 
-10.1038/s41477-024-01856-z
+10.1038/s44321-024-00177-0
 
 ---
 
-## Dynamics of rice seed-borne bacteria from acquisition to seedling colonization.
- 05.12.2024, _L Chen, H Bao, J Yang, Y Huo, J Zhang, R Fang, L Zhang_
+## Age-stratification reveals age-specific intestinal microbiota signatures in juvenile idiopathic arthritis.
+ 09.12.2024, _L Budzinski, T Sempert, L Lietz, R Maier, GU Kang, ASL von Stuckrad, CC Goetzke, M Roth, A Shah, A Abbas, K Lehman, K Necke, S Bartsch, U Hoffmann, MF Mashreghi, R Biesen, T Kallinich, HD Chang_
 
 
-_Oryza, Seeds, Seedlings, Bacteria, RNA, Ribosomal, 16S, Microbiota, Plant Roots, Germination, Soil Microbiology_
-Rice cultivation relies on planting grains harboring beneficial microbiota. However, the origination, distribution, and transmission dynamics of grain-borne bacteria remain unclear.
+Juvenile Idiopathic Arthritis (JIA) comprises diverse chronic inflammatory conditions driven by malfunction of the immune system. The intestinal microbiota is considered a crucial environmental factor correlating with chronic inflammatory diseases, and for JIA certain alterations in the microbiota have already been described.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01978-8)
+[Source](https://molcellped.springeropen.com/articles/10.1186/s40348-024-00186-6)
 
-10.1186/s40168-024-01978-8
-
----
-
-## Managing false positives during detection of pathogen sequences in shotgun metagenomics datasets.
- 07.12.2024, _LM Bradford, C Carrillo, A Wong_
-
-
-_Metagenomics, Salmonella, Software, False Positive Reactions, Sensitivity and Specificity, Computational Biology, Sequence Analysis, DNA, Food Microbiology_
-Culture-independent diagnostic tests are gaining popularity as tools for detecting pathogens in food. Shotgun sequencing holds substantial promise for food testing as it provides abundant information on microbial communities, but the challenge is in analyzing large and complex sequencing datasets with a high degree of both sensitivity and specificity. Falsely classifying sequencing reads as originating from pathogens can lead to unnecessary food recalls or production shutdowns, while low sensitivity resulting in false negatives could lead to preventable illness.
-
-[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05952-x)
-
-10.1186/s12859-024-05952-x
+10.1186/s40348-024-00186-6
 
 ---
 
-## TaxSEA: an R package for rapid interpretation of differential abundance analysis output
+## Human gut archaea collection from Estonian population
 
-[Source](https://www.biorxiv.org/content/10.1101/2024.11.20.624438v1.abstract)
+[Source](https://www.biorxiv.org/content/10.1101/2024.12.09.627479v1)
+
+---
+
+## Analysis of early childhood intestinal microbial dynamics in a continuous-flow bioreactor 
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01976-w)
+
+---
+
+## Increase in body weight is lowered when mice received fecal microbiota transfer from donor mice treated with the AT1 receptor antagonist telmisarta
+
+[Source](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1453989/full)
+
+---
+
+## Interaction between root exudates and PFOS mobility: Effects on rhizosphere microbial health in wetland ecosystems
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0269749124020414)
+
+---
+
+## The activity of soil microbial taxa in the rhizosphere predicts the success of root colonization
+
+[Source](https://www.biorxiv.org/content/10.1101/2024.12.07.627353v1.abstract)
+
+---
+
+## Fertilization impacts microbiomes along the grassland trophic chain
+
+[Source](https://www.biorxiv.org/content/10.1101/2024.12.06.627205v1.abstract)
+
+---
+
+## Shallow shotgun sequencing of healthcare waste reveals plastic-eating bacteria with broad-spectrum antibiotic resistance genes
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0269749124020475)
+
+---
+
+## EURYALE: A versatile Nextflow pipeline for taxonomic classification and functional annotation of metagenomics data
+
+[Source](https://ieeexplore.ieee.org/document/10702116)
+
+---
+
+## EURYALE
+
+[Source](https://dalmolingroup.github.io/euryale/)
+
+---
+
+## MCSPACE: inferring microbiome spatiotemporal dynamics from high-throughput co-localization data
+
+[Source](https://www.biorxiv.org/content/10.1101/2024.12.06.627244v1.abstract)
 
 ---
 
