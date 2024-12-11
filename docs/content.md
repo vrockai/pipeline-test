@@ -42,7 +42,7 @@ Colorectal cancer (CRC) is the third most commonly diagnosed cancer and the seco
 ---
 
 ## Age-stratification reveals age-specific intestinal microbiota signatures in juvenile idiopathic arthritis.
- 09.12.2024, _L Budzinski, T Sempert, L Lietz, R Maier, GU Kang, ASL von Stuckrad, CC Goetzke, M Roth, A Shah, A Abbas, K Lehman, K Necke, S Bartsch, U Hoffmann, MF Mashreghi, R Biesen, T Kallinich, HD Chang_
+ 11.12.2024, _L Budzinski, T Sempert, L Lietz, R Maier, GU Kang, ASL von Stuckrad, CC Goetzke, M Roth, A Shah, A Abbas, K Lehman, K Necke, S Bartsch, U Hoffmann, MF Mashreghi, R Biesen, T Kallinich, HD Chang_
 
 
 Juvenile Idiopathic Arthritis (JIA) comprises diverse chronic inflammatory conditions driven by malfunction of the immune system. The intestinal microbiota is considered a crucial environmental factor correlating with chronic inflammatory diseases, and for JIA certain alterations in the microbiota have already been described.
@@ -71,9 +71,16 @@ Juvenile Idiopathic Arthritis (JIA) comprises diverse chronic inflammatory condi
 
 ---
 
-## Interaction between root exudates and PFOS mobility: Effects on rhizosphere microbial health in wetland ecosystems
+## Interaction between root exudates and PFOS mobility: Effects on rhizosphere microbial health in wetland ecosystems.
+ 09.12.2024, _B Lu, P Wang, Y Zhu, J Hu, J Qian, Y Huang, J Shen, S Tang, Y Liu_
+
+
+_Wetlands, Rhizosphere, Plant Roots, Fluorocarbons, Soil Microbiology, Alkanesulfonic Acids, Soil Pollutants, Poaceae, Microbiota_
+Perfluorooctanesulfonate (PFOS), a persistent organic pollutant, poses significant ecological risks. This study investigates the effects of PFOS on rhizosphere microbial communities of two wetland plants, Lythrum salicaria (LS) and Phragmites communis (PC). We conducted microcosm experiments to analyze the physiological status of soil microbes under varying PFOS concentrations and examined the role of root exudates in modulating PFOS mobility. Flow cytometry and soil respiration measurements revealed that PFOS exposure increased microbial mortality, with differential impacts observed between LS and PC rhizospheres. LS root exudates intensified microbial stress, whereas PC exudates mitigated PFOS toxicity. Thin-layer chromatography indicated that LS exudates decreased PFOS mobility, leading to higher local concentrations and increased microbial toxicity, while PC exudates enhanced PFOS mobility, reducing its local impact. Fourier-transform infrared spectroscopy and excitation-emission matrix fluorescence spectroscopy of root exudates identified compositional shifts under PFOS stress, highlighting distinct defense strategies in LS and PC. These findings underscore the importance of plant-microbe interactions and root exudate composition in determining microbial resilience to PFOS contamination.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0269749124020414)
+
+10.1016/j.envpol.2024.125324
 
 ---
 
