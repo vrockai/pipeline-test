@@ -18,7 +18,7 @@ In the absence of an effective vaccine or curative treatment for HIV, the global
 ---
 
 ## A systematic review of the relationship between gut microbiota and prevalence of pancreatic diseases.
- 09.12.2024, _WM Jankowski, J Fichna, A Tarasiuk-Zawadzka_
+ 10.12.2024, _WM Jankowski, J Fichna, A Tarasiuk-Zawadzka_
 
 
 Acute pancreatitis (AP) represents one of the most common gastrointestinal (GI) diseases; it can manifest in varying degrees of severity, sometimes leading to a life-threatening condition for the patient. Pancreatic ductal adenocarcinoma (PDAC), due to its high malignancy and uncertain prognosis, is widely regarded as one of the most fatal diseases. The increasing prevalence of AP and PDAC represents a major burden on public health and the healthcare system worldwide. The aim of this systematic review was to discuss the current state of knowledge regarding the relationship between the gut microbiota and the incidence, prognosis, diagnosis and treatment of AP and PDAC. To identify studies that analyzed the relationship between the gut microbiota and the occurrence/development of pancreatic diseases or PDAC, the online databases PubMed, Scopus and Google Scholar were searched between November 2023 and January 2024. Finally, 14 publications met the inclusion criteria (1. were conducted exclusively in humans and/or animals; 2. original, published in English in peer-reviewed journals after 2019; 3. described the relationship between gut microbiota and the occurrence of AP or PDAC). The collected studies indicated significant changes in the gut microbiota of patients with AP and PDAC. Moreover, they highlighted the presence of a relationship between the gut microbiota and the occurrence, course, treatment efficiency and prognosis of the disease in question. Further research is needed to understand precisely the relationship between the gut microbiota and the occurrence of pancreatic diseases and whether it may be a starting point for the development of modern forms of therapy based on the use of prebiotics and/or diet to restore the normal composition of the intestinal bacteria.
@@ -71,9 +71,16 @@ Juvenile Idiopathic Arthritis (JIA) comprises diverse chronic inflammatory condi
 
 ---
 
-## Interaction between root exudates and PFOS mobility: Effects on rhizosphere microbial health in wetland ecosystems
+## Interaction between root exudates and PFOS mobility: Effects on rhizosphere microbial health in wetland ecosystems.
+ 09.12.2024, _B Lu, P Wang, Y Zhu, J Hu, J Qian, Y Huang, J Shen, S Tang, Y Liu_
+
+
+_Wetlands, Rhizosphere, Plant Roots, Fluorocarbons, Soil Microbiology, Alkanesulfonic Acids, Soil Pollutants, Poaceae, Microbiota_
+Perfluorooctanesulfonate (PFOS), a persistent organic pollutant, poses significant ecological risks. This study investigates the effects of PFOS on rhizosphere microbial communities of two wetland plants, Lythrum salicaria (LS) and Phragmites communis (PC). We conducted microcosm experiments to analyze the physiological status of soil microbes under varying PFOS concentrations and examined the role of root exudates in modulating PFOS mobility. Flow cytometry and soil respiration measurements revealed that PFOS exposure increased microbial mortality, with differential impacts observed between LS and PC rhizospheres. LS root exudates intensified microbial stress, whereas PC exudates mitigated PFOS toxicity. Thin-layer chromatography indicated that LS exudates decreased PFOS mobility, leading to higher local concentrations and increased microbial toxicity, while PC exudates enhanced PFOS mobility, reducing its local impact. Fourier-transform infrared spectroscopy and excitation-emission matrix fluorescence spectroscopy of root exudates identified compositional shifts under PFOS stress, highlighting distinct defense strategies in LS and PC. These findings underscore the importance of plant-microbe interactions and root exudate composition in determining microbial resilience to PFOS contamination.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0269749124020414)
+
+10.1016/j.envpol.2024.125324
 
 ---
 
@@ -89,15 +96,34 @@ Juvenile Idiopathic Arthritis (JIA) comprises diverse chronic inflammatory condi
 
 ---
 
-## Shallow shotgun sequencing of healthcare waste reveals plastic-eating bacteria with broad-spectrum antibiotic resistance genes
+## Shallow shotgun sequencing of healthcare waste reveals plastic-eating bacteria with broad-spectrum antibiotic resistance genes.
+ 09.12.2024, _SW Siew, MHF Khairi, NA Hamid, MFF Asras, HF Ahmad_
+
+
+_Plastics, Bacteria, Medical Waste, RNA, Ribosomal, 16S, Anti-Bacterial Agents, Drug Resistance, Microbial, Drug Resistance, Bacterial_
+The burgeoning crises of antimicrobial resistance and plastic pollution are converging in healthcare settings, presenting a complex challenge to global health. This study investigates the microbial populations in healthcare waste to understand the extent of antimicrobial resistance and the potential for plastic degradation by bacteria. Our metagenomic analysis, using both amplicon and shallow shotgun sequencing, provided a comprehensive view of the taxonomic diversity and functional capacity of the microbial consortia. The viable bacteria in healthcare waste samples were analyzed employing full-length 16S rRNA sequencing, revealing a diverse bacterial community dominated by Firmicutes and Proteobacteria phyla. Notably, Proteus mirabilis VFC3/3 and Pseudomonas sp. VFA2/3 were detected, while Stenotrophomonas maltophilia VFV3/2 surfaced as the predominant species, holding implications for the spread of hospital-acquired infections and antimicrobial resistance. Antibiotic susceptibility testing identified multidrug-resistant strains conferring antimicrobial genes, including the broad-spectrum antibiotic carbapenem, underscoring the critical need for improved waste management and infection control measures. Remarkably, we found genes linked to the breakdown of plastic that encoded for enzymes of the esterase, depolymerase, and oxidoreductase classes. This suggests that specific bacteria found in medical waste may be able to reduce the amount of plastic pollution that comes from biological and medical waste. The information is helpful in formulating strategies to counter the combined problems of environmental pollution and antibiotic resistance. This study emphasises the importance of monitoring microbial communities in hospital waste in order to influence waste management procedures and public health policy. The findings highlight the need for a multidisciplinary approach to mitigate the risks associated with antimicrobial resistance and plastic waste, especially in hospital settings where they intersect most acutely.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0269749124020475)
+
+10.1016/j.envpol.2024.125330
 
 ---
 
 ## EURYALE: A versatile Nextflow pipeline for taxonomic classification and functional annotation of metagenomics data
 
 [Source](https://ieeexplore.ieee.org/document/10702116)
+
+---
+
+## Learning to Hunt on the Go: Dietary Changes During Development of Rhinolophid Bats.
+ 30.11.2024, _M Aldasoro, N Vallejo, L Olasagasti, O Diaz de Cerio, J Aihartza_
+
+
+Mammals may experience physical changes from birth, and their diet varies at different stages of life. This study investigates the impact of development on the diet composition of three horseshoe bats: Rhinolophus euryale, R. hipposideros, and R. ferrumequinum in the Basque Country, north of the Iberian Peninsula. The diets of juvenile and adult individuals of each species were obtained by analysing their droppings using metabarcoding and then compared at (1) the taxonomic and (2) prey trait levels (size, flying speed, hardness). The diets of juvenile and adult individuals of R. euryale and R. hipposideros showed significant differences at the taxonomic level and regarding prey traits. In contrast, in the case of R. ferrumequinum, we could only observe discernible diet patterns through the trait analysis. Additionally, we discovered a shared pattern: younger individuals tend to feed on easier-to-hunt and/or handle smaller and smoother prey. The varying degrees of dissimilarity between juvenile and adult diets observed in this study suggest that the relative importance of psychomotor development, foraging strategies, prey discrimination, and/or spatial learning may differ among species. These findings contribute to conservation efforts, especially by recognising the dietary needs of juveniles for their survival and successful development.
+
+[Source](https://dalmolingroup.github.io/euryale/)
+
+10.3390/ani14223303
 
 ---
 
