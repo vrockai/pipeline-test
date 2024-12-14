@@ -96,34 +96,15 @@ Perfluorooctanesulfonate (PFOS), a persistent organic pollutant, poses significa
 
 ---
 
-## Shallow shotgun sequencing of healthcare waste reveals plastic-eating bacteria with broad-spectrum antibiotic resistance genes.
- 09.12.2024, _SW Siew, MHF Khairi, NA Hamid, MFF Asras, HF Ahmad_
-
-
-_Plastics, Bacteria, Medical Waste, RNA, Ribosomal, 16S, Anti-Bacterial Agents, Drug Resistance, Microbial, Drug Resistance, Bacterial_
-The burgeoning crises of antimicrobial resistance and plastic pollution are converging in healthcare settings, presenting a complex challenge to global health. This study investigates the microbial populations in healthcare waste to understand the extent of antimicrobial resistance and the potential for plastic degradation by bacteria. Our metagenomic analysis, using both amplicon and shallow shotgun sequencing, provided a comprehensive view of the taxonomic diversity and functional capacity of the microbial consortia. The viable bacteria in healthcare waste samples were analyzed employing full-length 16S rRNA sequencing, revealing a diverse bacterial community dominated by Firmicutes and Proteobacteria phyla. Notably, Proteus mirabilis VFC3/3 and Pseudomonas sp. VFA2/3 were detected, while Stenotrophomonas maltophilia VFV3/2 surfaced as the predominant species, holding implications for the spread of hospital-acquired infections and antimicrobial resistance. Antibiotic susceptibility testing identified multidrug-resistant strains conferring antimicrobial genes, including the broad-spectrum antibiotic carbapenem, underscoring the critical need for improved waste management and infection control measures. Remarkably, we found genes linked to the breakdown of plastic that encoded for enzymes of the esterase, depolymerase, and oxidoreductase classes. This suggests that specific bacteria found in medical waste may be able to reduce the amount of plastic pollution that comes from biological and medical waste. The information is helpful in formulating strategies to counter the combined problems of environmental pollution and antibiotic resistance. This study emphasises the importance of monitoring microbial communities in hospital waste in order to influence waste management procedures and public health policy. The findings highlight the need for a multidisciplinary approach to mitigate the risks associated with antimicrobial resistance and plastic waste, especially in hospital settings where they intersect most acutely.
+## Shallow shotgun sequencing of healthcare waste reveals plastic-eating bacteria with broad-spectrum antibiotic resistance genes
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0269749124020475)
-
-10.1016/j.envpol.2024.125330
 
 ---
 
 ## EURYALE: A versatile Nextflow pipeline for taxonomic classification and functional annotation of metagenomics data
 
 [Source](https://ieeexplore.ieee.org/document/10702116)
-
----
-
-## Learning to Hunt on the Go: Dietary Changes During Development of Rhinolophid Bats.
- 30.11.2024, _M Aldasoro, N Vallejo, L Olasagasti, O Diaz de Cerio, J Aihartza_
-
-
-Mammals may experience physical changes from birth, and their diet varies at different stages of life. This study investigates the impact of development on the diet composition of three horseshoe bats: Rhinolophus euryale, R. hipposideros, and R. ferrumequinum in the Basque Country, north of the Iberian Peninsula. The diets of juvenile and adult individuals of each species were obtained by analysing their droppings using metabarcoding and then compared at (1) the taxonomic and (2) prey trait levels (size, flying speed, hardness). The diets of juvenile and adult individuals of R. euryale and R. hipposideros showed significant differences at the taxonomic level and regarding prey traits. In contrast, in the case of R. ferrumequinum, we could only observe discernible diet patterns through the trait analysis. Additionally, we discovered a shared pattern: younger individuals tend to feed on easier-to-hunt and/or handle smaller and smoother prey. The varying degrees of dissimilarity between juvenile and adult diets observed in this study suggest that the relative importance of psychomotor development, foraging strategies, prey discrimination, and/or spatial learning may differ among species. These findings contribute to conservation efforts, especially by recognising the dietary needs of juveniles for their survival and successful development.
-
-[Source](https://dalmolingroup.github.io/euryale/)
-
-10.3390/ani14223303
 
 ---
 
