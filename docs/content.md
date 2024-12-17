@@ -101,15 +101,33 @@ Juvenile Idiopathic Arthritis (JIA) comprises diverse chronic inflammatory condi
 
 ---
 
+## Learning to Hunt on the Go: Dietary Changes During Development of Rhinolophid Bats.
+ 30.11.2024, _M Aldasoro, N Vallejo, L Olasagasti, O Diaz de Cerio, J Aihartza_
+
+
+Mammals may experience physical changes from birth, and their diet varies at different stages of life. This study investigates the impact of development on the diet composition of three horseshoe bats: Rhinolophus euryale, R. hipposideros, and R. ferrumequinum in the Basque Country, north of the Iberian Peninsula. The diets of juvenile and adult individuals of each species were obtained by analysing their droppings using metabarcoding and then compared at (1) the taxonomic and (2) prey trait levels (size, flying speed, hardness). The diets of juvenile and adult individuals of R. euryale and R. hipposideros showed significant differences at the taxonomic level and regarding prey traits. In contrast, in the case of R. ferrumequinum, we could only observe discernible diet patterns through the trait analysis. Additionally, we discovered a shared pattern: younger individuals tend to feed on easier-to-hunt and/or handle smaller and smoother prey. The varying degrees of dissimilarity between juvenile and adult diets observed in this study suggest that the relative importance of psychomotor development, foraging strategies, prey discrimination, and/or spatial learning may differ among species. These findings contribute to conservation efforts, especially by recognising the dietary needs of juveniles for their survival and successful development.
+
+[Source](https://dalmolingroup.github.io/euryale/)
+
+10.3390/ani14223303
+
+---
+
 ## EURYALE
 
 [Source](https://dalmolingroup.github.io/euryale/)
 
 ---
 
-## MCSPACE: inferring microbiome spatiotemporal dynamics from high-throughput co-localization data
+## MCSPACE: inferring microbiome spatiotemporal dynamics from high-throughput co-localization data.
+ 16.12.2024, _G Uppal, GK Urtecho, M Richardson, IY Comba, J Lee, T Moody, HH Wang, GK Gerber_
+
+
+Recent advances in high-throughput approaches for estimating co-localization of microbes, such as SAMPL-seq, allow characterization of the biogeography of the gut microbiome longitudinally and at unprecedented scale. However, these high-dimensional data are complex and have unique noise properties. To address these challenges, we developed MCSPACE, a probabilistic AI method that infers from microbiome co-localization data spatially coherent assemblages of taxa, their dynamics over time, and their responses to perturbations. To evaluate MCSPACE's capabilities, we generated the largest longitudinal microbiome co-localization dataset to date, profiling spatial relationships of microbes in the guts of mice subjected to serial dietary perturbations over 76 days. Analyses of these data and an existing human longitudinal dataset demonstrated superior benchmarking performance of MCSPACE over existing methods, and moreover yielded insights into spatiotemporal structuring of the gut microbiome, including identifying temporally persistent and dynamic microbial assemblages in the human gut, and shifts in assemblages in the murine gut induced by specific dietary components. Our results highlight the utility of our method, which we make available to the community as an open-source software tool, for elucidating dynamics of microbiome biogeography and gaining insights into the role of spatial relationships in host-microbial ecosystem function.
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.12.06.627244v1.abstract)
+
+10.1101/2024.12.06.627244
 
 ---
 
