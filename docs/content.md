@@ -96,9 +96,16 @@ Perfluorooctanesulfonate (PFOS), a persistent organic pollutant, poses significa
 
 ---
 
-## Shallow shotgun sequencing of healthcare waste reveals plastic-eating bacteria with broad-spectrum antibiotic resistance genes
+## Shallow shotgun sequencing of healthcare waste reveals plastic-eating bacteria with broad-spectrum antibiotic resistance genes.
+ 09.12.2024, _SW Siew, MHF Khairi, NA Hamid, MFF Asras, HF Ahmad_
+
+
+_Plastics, Bacteria, Medical Waste, RNA, Ribosomal, 16S, Anti-Bacterial Agents, Drug Resistance, Microbial, Drug Resistance, Bacterial_
+The burgeoning crises of antimicrobial resistance and plastic pollution are converging in healthcare settings, presenting a complex challenge to global health. This study investigates the microbial populations in healthcare waste to understand the extent of antimicrobial resistance and the potential for plastic degradation by bacteria. Our metagenomic analysis, using both amplicon and shallow shotgun sequencing, provided a comprehensive view of the taxonomic diversity and functional capacity of the microbial consortia. The viable bacteria in healthcare waste samples were analyzed employing full-length 16S rRNA sequencing, revealing a diverse bacterial community dominated by Firmicutes and Proteobacteria phyla. Notably, Proteus mirabilis VFC3/3 and Pseudomonas sp. VFA2/3 were detected, while Stenotrophomonas maltophilia VFV3/2 surfaced as the predominant species, holding implications for the spread of hospital-acquired infections and antimicrobial resistance. Antibiotic susceptibility testing identified multidrug-resistant strains conferring antimicrobial genes, including the broad-spectrum antibiotic carbapenem, underscoring the critical need for improved waste management and infection control measures. Remarkably, we found genes linked to the breakdown of plastic that encoded for enzymes of the esterase, depolymerase, and oxidoreductase classes. This suggests that specific bacteria found in medical waste may be able to reduce the amount of plastic pollution that comes from biological and medical waste. The information is helpful in formulating strategies to counter the combined problems of environmental pollution and antibiotic resistance. This study emphasises the importance of monitoring microbial communities in hospital waste in order to influence waste management procedures and public health policy. The findings highlight the need for a multidisciplinary approach to mitigate the risks associated with antimicrobial resistance and plastic waste, especially in hospital settings where they intersect most acutely.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0269749124020475)
+
+10.1016/j.envpol.2024.125330
 
 ---
 
