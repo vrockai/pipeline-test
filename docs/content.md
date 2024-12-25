@@ -71,9 +71,16 @@ Juvenile Idiopathic Arthritis (JIA) comprises diverse chronic inflammatory condi
 
 ---
 
-## Interaction between root exudates and PFOS mobility: Effects on rhizosphere microbial health in wetland ecosystems
+## Interaction between root exudates and PFOS mobility: Effects on rhizosphere microbial health in wetland ecosystems.
+ 09.12.2024, _B Lu, P Wang, Y Zhu, J Hu, J Qian, Y Huang, J Shen, S Tang, Y Liu_
+
+
+_Wetlands, Rhizosphere, Plant Roots, Fluorocarbons, Soil Microbiology, Alkanesulfonic Acids, Soil Pollutants, Poaceae, Microbiota_
+Perfluorooctanesulfonate (PFOS), a persistent organic pollutant, poses significant ecological risks. This study investigates the effects of PFOS on rhizosphere microbial communities of two wetland plants, Lythrum salicaria (LS) and Phragmites communis (PC). We conducted microcosm experiments to analyze the physiological status of soil microbes under varying PFOS concentrations and examined the role of root exudates in modulating PFOS mobility. Flow cytometry and soil respiration measurements revealed that PFOS exposure increased microbial mortality, with differential impacts observed between LS and PC rhizospheres. LS root exudates intensified microbial stress, whereas PC exudates mitigated PFOS toxicity. Thin-layer chromatography indicated that LS exudates decreased PFOS mobility, leading to higher local concentrations and increased microbial toxicity, while PC exudates enhanced PFOS mobility, reducing its local impact. Fourier-transform infrared spectroscopy and excitation-emission matrix fluorescence spectroscopy of root exudates identified compositional shifts under PFOS stress, highlighting distinct defense strategies in LS and PC. These findings underscore the importance of plant-microbe interactions and root exudate composition in determining microbial resilience to PFOS contamination.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0269749124020414)
+
+10.1016/j.envpol.2024.125324
 
 ---
 
@@ -98,6 +105,18 @@ Juvenile Idiopathic Arthritis (JIA) comprises diverse chronic inflammatory condi
 ## EURYALE: A versatile Nextflow pipeline for taxonomic classification and functional annotation of metagenomics data
 
 [Source](https://ieeexplore.ieee.org/document/10702116)
+
+---
+
+## Development and evaluation of pH-sensitive Euryale ferox starch-based films containing nano-SiO2 and Chinese rose (Rosa chinensis) extract for freshness monitoring of chicken breast meat.
+ 20.12.2024, _Y Zou, S Wang, T Liu, Q Zhang, Y Zhang, C Jiang_
+
+
+In this study, smart films of EFS, EFS-SiO2 and EFS-SiO2-CRE were successfully developed by using Euryale ferox starch (EFS), nano-SiO2 and Chinese rose extract (CRE). The Chinese rose flower had a high content of anthocyanins (1.73 mg/g) and CRE exhibited different colors in varying pH buffers (2-13). The addition of nano-SiO2 decreased tensile strength (TS) (41.08 to 16.75 MPa) and elongation at break (EAB) (6.71 to 2.69 %) of the EFS film. Incorporation with CRE could significantly increase water vapor permeability (4.47 to 5.35 10-11 g m-1 s-1 Pa-1), TS (16.75 to 26.19 MPa) and EAB (2.69 to 4.62 %) of the EFS-SiO2 film. Incorporation of Nano-SiO2 and CRE significantly enhanced the thermal stability and light barrier performance of the EFS film. The EFS-SiO2-CRE films showed excellent pH and ammonia sensitivities with different colors varying from red to blue. The EFS-SiO2-CRE-III film displayed strong antioxidant activity with a maximum DPPH scavenging rate of 96.54 ± 0.44 %. When employed for monitoring freshness of chicken breast meat, the EFS-SiO2-CRE-III film showed the most significant visible color changes at 24 h when the TVB-N content was 21.7 mg/100 g. Findings supported the application of this strategy in fabrication of the EFS-SiO2-CRE-III film for smart packaging.
+
+[Source](https://dalmolingroup.github.io/euryale/)
+
+10.1016/j.ijbiomac.2024.138959
 
 ---
 
