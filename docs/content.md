@@ -101,6 +101,18 @@ Juvenile Idiopathic Arthritis (JIA) comprises diverse chronic inflammatory condi
 
 ---
 
+## Development and evaluation of pH-sensitive Euryale ferox starch-based films containing nano-SiO2 and Chinese rose (Rosa chinensis) extract for freshness monitoring of chicken breast meat.
+ 20.12.2024, _Y Zou, S Wang, T Liu, Q Zhang, Y Zhang, C Jiang_
+
+
+In this study, smart films of EFS, EFS-SiO2 and EFS-SiO2-CRE were successfully developed by using Euryale ferox starch (EFS), nano-SiO2 and Chinese rose extract (CRE). The Chinese rose flower had a high content of anthocyanins (1.73 mg/g) and CRE exhibited different colors in varying pH buffers (2-13). The addition of nano-SiO2 decreased tensile strength (TS) (41.08 to 16.75 MPa) and elongation at break (EAB) (6.71 to 2.69 %) of the EFS film. Incorporation with CRE could significantly increase water vapor permeability (4.47 to 5.35 10-11 g m-1 s-1 Pa-1), TS (16.75 to 26.19 MPa) and EAB (2.69 to 4.62 %) of the EFS-SiO2 film. Incorporation of Nano-SiO2 and CRE significantly enhanced the thermal stability and light barrier performance of the EFS film. The EFS-SiO2-CRE films showed excellent pH and ammonia sensitivities with different colors varying from red to blue. The EFS-SiO2-CRE-III film displayed strong antioxidant activity with a maximum DPPH scavenging rate of 96.54 ± 0.44 %. When employed for monitoring freshness of chicken breast meat, the EFS-SiO2-CRE-III film showed the most significant visible color changes at 24 h when the TVB-N content was 21.7 mg/100 g. Findings supported the application of this strategy in fabrication of the EFS-SiO2-CRE-III film for smart packaging.
+
+[Source](https://dalmolingroup.github.io/euryale/)
+
+10.1016/j.ijbiomac.2024.138959
+
+---
+
 ## EURYALE
 
 [Source](https://dalmolingroup.github.io/euryale/)
