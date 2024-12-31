@@ -17,15 +17,9 @@ In the absence of an effective vaccine or curative treatment for HIV, the global
 
 ---
 
-## A systematic review of the relationship between gut microbiota and prevalence of pancreatic diseases.
- 10.12.2024, _WM Jankowski, J Fichna, A Tarasiuk-Zawadzka_
-
-
-Acute pancreatitis (AP) represents one of the most common gastrointestinal (GI) diseases; it can manifest in varying degrees of severity, sometimes leading to a life-threatening condition for the patient. Pancreatic ductal adenocarcinoma (PDAC), due to its high malignancy and uncertain prognosis, is widely regarded as one of the most fatal diseases. The increasing prevalence of AP and PDAC represents a major burden on public health and the healthcare system worldwide. The aim of this systematic review was to discuss the current state of knowledge regarding the relationship between the gut microbiota and the incidence, prognosis, diagnosis and treatment of AP and PDAC. To identify studies that analyzed the relationship between the gut microbiota and the occurrence/development of pancreatic diseases or PDAC, the online databases PubMed, Scopus and Google Scholar were searched between November 2023 and January 2024. Finally, 14 publications met the inclusion criteria (1. were conducted exclusively in humans and/or animals; 2. original, published in English in peer-reviewed journals after 2019; 3. described the relationship between gut microbiota and the occurrence of AP or PDAC). The collected studies indicated significant changes in the gut microbiota of patients with AP and PDAC. Moreover, they highlighted the presence of a relationship between the gut microbiota and the occurrence, course, treatment efficiency and prognosis of the disease in question. Further research is needed to understand precisely the relationship between the gut microbiota and the occurrence of pancreatic diseases and whether it may be a starting point for the development of modern forms of therapy based on the use of prebiotics and/or diet to restore the normal composition of the intestinal bacteria.
+## A systematic review of the relationship between gut microbiota and prevalence of pancreatic diseases
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0882401024006818)
-
-10.1016/j.micpath.2024.107214
 
 ---
 
