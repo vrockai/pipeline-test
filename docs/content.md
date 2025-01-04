@@ -107,9 +107,15 @@ Juvenile Idiopathic Arthritis (JIA) comprises diverse chronic inflammatory condi
 
 ---
 
-## MCSPACE: inferring microbiome spatiotemporal dynamics from high-throughput co-localization data
+## MCSPACE: inferring microbiome spatiotemporal dynamics from high-throughput co-localization data.
+ 16.12.2024, _G Uppal, GK Urtecho, M Richardson, IY Comba, J Lee, T Moody, HH Wang, GK Gerber_
+
+
+Recent advances in high-throughput approaches for estimating co-localization of microbes, such as SAMPL-seq, allow characterization of the biogeography of the gut microbiome longitudinally and at unprecedented scale. However, these high-dimensional data are complex and have unique noise properties. To address these challenges, we developed MCSPACE, a probabilistic AI method that infers from microbiome co-localization data spatially coherent assemblages of taxa, their dynamics over time, and their responses to perturbations. To evaluate MCSPACE's capabilities, we generated the largest longitudinal microbiome co-localization dataset to date, profiling spatial relationships of microbes in the guts of mice subjected to serial dietary perturbations over 76 days. Analyses of these data and an existing human longitudinal dataset demonstrated superior benchmarking performance of MCSPACE over existing methods, and moreover yielded insights into spatiotemporal structuring of the gut microbiome, including identifying temporally persistent and dynamic microbial assemblages in the human gut, and shifts in assemblages in the murine gut induced by specific dietary components. Our results highlight the utility of our method, which we make available to the community as an open-source software tool, for elucidating dynamics of microbiome biogeography and gaining insights into the role of spatial relationships in host-microbial ecosystem function.
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.12.06.627244v1.abstract)
+
+10.1101/2024.12.06.627244
 
 ---
 
