@@ -101,33 +101,15 @@ Juvenile Idiopathic Arthritis (JIA) comprises diverse chronic inflammatory condi
 
 ---
 
-## Development and evaluation of pH-sensitive Euryale ferox starch-based films containing nano-SiO2 and Chinese rose (Rosa chinensis) extract for freshness monitoring of chicken breast meat.
- 28.12.2024, _Y Zou, S Wang, T Liu, Q Zhang, Y Zhang, C Jiang_
-
-
-In this study, smart films of EFS, EFS-SiO2 and EFS-SiO2-CRE were successfully developed by using Euryale ferox starch (EFS), nano-SiO2 and Chinese rose extract (CRE). The Chinese rose flower had a high content of anthocyanins (1.73 mg/g) and CRE exhibited different colors in varying pH buffers (2-13). The addition of nano-SiO2 decreased tensile strength (TS) (41.08 to 16.75 MPa) and elongation at break (EAB) (6.71 to 2.69 %) of the EFS film. Incorporation with CRE could significantly increase water vapor permeability (4.47 to 5.35 10-11 g m-1 s-1 Pa-1), TS (16.75 to 26.19 MPa) and EAB (2.69 to 4.62 %) of the EFS-SiO2 film. Incorporation of nano-SiO2 and CRE significantly enhanced the thermal stability and light barrier performance of the EFS film. The EFS-SiO2-CRE films showed excellent pH and ammonia sensitivities with different colors varying from red to blue. The EFS-SiO2-CRE-III film displayed strong antioxidant activity with a maximum DPPH scavenging rate of 96.54 ± 0.44 %. When employed for monitoring freshness of chicken breast meat, the EFS-SiO2-CRE-III film showed the most significant visible color changes at 24 h when the TVB-N content was 21.7 mg/100 g. Findings supported the application of this strategy in fabrication of the EFS-SiO2-CRE-III film for smart packaging.
-
-[Source](https://dalmolingroup.github.io/euryale/)
-
-10.1016/j.ijbiomac.2024.138959
-
----
-
 ## EURYALE
 
 [Source](https://dalmolingroup.github.io/euryale/)
 
 ---
 
-## MCSPACE: inferring microbiome spatiotemporal dynamics from high-throughput co-localization data.
- 04.01.2025, _G Uppal, GK Urtecho, M Richardson, IY Comba, J Lee, T Moody, HH Wang, GK Gerber_
-
-
-Recent advances in high-throughput approaches for estimating co-localization of microbes, such as SAMPL-seq, allow characterization of the biogeography of the gut microbiome longitudinally and at unprecedented scale. However, these high-dimensional data are complex and have unique noise properties. To address these challenges, we developed MCSPACE, a probabilistic AI method that infers from microbiome co-localization data spatially coherent assemblages of taxa, their dynamics over time, and their responses to perturbations. To evaluate MCSPACE's capabilities, we generated the largest longitudinal microbiome co-localization dataset to date, profiling spatial relationships of microbes in the guts of mice subjected to serial dietary perturbations over 76 days. Analyses of these data and an existing human longitudinal dataset demonstrated superior benchmarking performance of MCSPACE over existing methods, and moreover yielded insights into spatiotemporal structuring of the gut microbiome, including identifying temporally persistent and dynamic microbial assemblages in the human gut, and shifts in assemblages in the murine gut induced by specific dietary components. Our results highlight the utility of our method, which we make available to the community as an open-source software tool, for elucidating dynamics of microbiome biogeography and gaining insights into the role of spatial relationships in host-microbial ecosystem function.
+## MCSPACE: inferring microbiome spatiotemporal dynamics from high-throughput co-localization data
 
 [Source](https://www.biorxiv.org/content/10.1101/2024.12.06.627244v1.abstract)
-
-10.1101/2024.12.06.627244
 
 ---
 
